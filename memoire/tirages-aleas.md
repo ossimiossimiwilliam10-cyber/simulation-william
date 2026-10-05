@@ -26,3 +26,9 @@ Effets à jouer : A06 (jeudi 26/07 (matin)) : Délai supplémentaire ; l'excuse 
 - Jet « Grace remet sa démission ou demande une rupture dans la semaine » : probabilité 15 %, jet  91.7 → **NON** (enregistré le 05/10/2026 15:03 heure machine)
 
 - Jet « Aïcha interroge Grace sur son état (23-24/07) » : probabilité 40 %, jet  77.5 → **NON** (enregistré le 05/10/2026 15:03 heure machine)
+
+- Jet « Clinique : deuxième passage à l'arrivée (accès au tableau électrique retardé, clés ou autorisation) » : probabilité 30 %, jet  29.4 → **OUI** (enregistré le 05/10/2026 15:09 heure machine)
+
+- Jet « Dr Yapi négocie dès la visite (remise ou délai de paiement) en s'adressant à William » : probabilité 70 %, jet  76.7 → **NON** (enregistré le 05/10/2026 15:09 heure machine)
+
+- Jet « Relevé de puissance de la clinique : charge supérieure aux estimations (devis en haut de fourchette ou au-delà) » : probabilité 50 %, jet  94.6 → **NON** (enregistré le 05/10/2026 15:09 heure machine)

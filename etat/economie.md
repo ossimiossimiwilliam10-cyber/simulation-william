@@ -28,3 +28,6 @@ réalisme l'exige (ex. dossier incomplet connu d'avance : 100 %).
 ## Pré-devis (trames) de Grace du 23/07 (fourchettes du moteur, à confirmer par le relevé d'Abdoul et les prix d'achat du fournisseur libanais)
 - **Clinique de Marcory** : 18 à 24 M FCFA (≈ 27 400 à 36 600 €), marge brute plancher 25 %. Argument commercial : réfrigérateurs à vaccins et blocs opératoires protégés des délestages.
 - **Villa Riviera** : 15 à 20 M FCFA (≈ 22 900 à 30 500 €), marge brute plancher 20 % ; deux devis concurrents.
+
+## Clinique de Marcory — état au 23/07 17h
+- Relevé de puissance fait le 23/07 (Abdoul) : charge dans les estimations ; devis attendu **vendredi 27/07** (trois lignes : matériel, pose, garantie ; plan de maintenance) ; conseil d'administration du client mardi 31/07 ; **négociation à prévoir** au devis (remise, délai de paiement 60 jours ou plus) ; plancher de marge 25 %, remise maximale 5 % sans William.

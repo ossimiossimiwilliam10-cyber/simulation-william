@@ -40,3 +40,6 @@ C'est parfait pour lundi entre 19h et 20h30, chez toi. À plus tard, je te souha
 
 **[23/07/2040 - 05:10 (Abidjan) / 07:10 (Esch)] Sandra :**
 Parfait. À ce soir.
+
+**[23/07/2040 - 17:01 (Abidjan) / 19:01 (Esch)] Sandra :**
+Je suis prête. Les petits dînent chez ma mère, j'ai mis mon téléphone sur la table. Appelle quand tu veux, je suis là jusqu'à 20h30.

@@ -29,3 +29,5 @@
 - **Chef d'équipe SécuTech CI** : promet l'installation des caméras lun. 23/07, 9h (a reporté le 20/07).
 - **Orange CI** : raccordement fibre annoncé pour fin juillet (incertain).
 - **Sékou** : chef d'équipe de SécuTech CI (casque jaune, ~40 ans). Arrivé avec 1 h 40 de retard le 23/07 ; repris par William ; a présenté des excuses ; travaux jusqu'à jeudi 26/07.
+- **Dr Yapi** (mise à jour 23/07) : ~55 ans, blouse blanche, regard qui chronomètre ; conseil d'administration le mardi 31/07 ; veut un devis en trois lignes et un plan de maintenance pour vendredi 27/07.
+- **M. Bakayoko** : électricien de la clinique, avait la clé du tableau principal (arrivé à 15h10).

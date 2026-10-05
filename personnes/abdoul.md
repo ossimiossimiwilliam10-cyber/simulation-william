@@ -21,3 +21,4 @@ rigide sur ses positions (a refusé les batteries chinoises de Didier Kacou).
 Fiable techniquement, peu bavard, loyal envers les siens (Bertin). Peut rentrer en friction avec la
 rapidité commerciale de Grace ou avec les exigences de coût de William. Il tient à la qualité du matériel.
 - 23/07, 08h : relancé par Mariette sur son plan technique : « Jeudi. » (un seul mot). Rigide sur ses positions.
+- 23/07, 13h30-16h05 : demande deux fois à Grace si elle va bien ; réalise le relevé de puissance de la clinique malgré 45 minutes d'attente pour le tableau électrique ; glisse à William : « Dix-huit à vingt-quatre, je dirais vingt-et-un. »

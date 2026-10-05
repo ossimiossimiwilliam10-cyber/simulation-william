@@ -90,3 +90,17 @@ Bien reçu. Ça nous permettra d'avancer sur le matériel.
 👍
 
 *(Mariette : message lu, aucune réponse.)*
+
+**[23/07/2040 - 13:20] Mariette :**
+Rappel à toute l'équipe : les documents s'accumulent sur le serveur et le patron veut que tout soit rangé. En attendant mes règles de ce soir : un dossier par pôle, un nom de fichier sous la forme sujet_JJMM.pdf, pas de doublons, rien à la racine. Merci.
+
+**[23/07/2040 - 13:24] Aïcha :**
+Ok.
+
+**[23/07/2040 - 13:25] Abdoul :**
+Compris.
+
+**[23/07/2040 - 13:27] Yves :**
+Compris 🫡
+
+*(Grace : message lu à 13h26, aucune réaction.)*

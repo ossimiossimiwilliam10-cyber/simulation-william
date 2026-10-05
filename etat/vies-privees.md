@@ -27,3 +27,7 @@
 - **Grace (suite, 23/07 12h14-12h20)** : choquée, effrayée, sous contrainte hiérarchique ; est passée au **vouvoiement** avec William ; garde la place et note tout dans son carnet ; **se confiera à Mariette au plus tard mercredi 25/07 midi** (jet) ; pas de démarche externe ni de démission cette semaine (jets) ; la clause « marchés publics / commissions » et le déjeuner de vendredi sont désormais pris dans ce contexte.
 - **Mariette (suite)** : va recevoir la confiance de Grace ; elle-même a été draguée par William le 16/05 et se sait fragile (son contrat est irrégulier, elle est « terrifiée ») ; elle est DRH et destinataire des signalements (art. 5).
 - **Aïcha (suite)** : a vu le visage de Grace à la sortie ; ne l'interroge pas d'ici le 24/07 (jet) ; fierté et jalousie.
+- **Abdoul (23/07 après-midi)** : a remarqué le visage fermé de Grace à 13h30 et lui a demandé deux fois si elle allait bien ; elle a répondu « Ça va » ; il observe en silence et regarde William.
+- **Sandra (23/07 17h01)** : prête, disponible jusqu'à 20h30 (Esch), téléphone sur la table ; elle veut dire ce qui la préoccupe.
+- **Mariette (23/07 13h20)** : relaie l'exigence de classement ; elle a vu Grace (non réactive) ; elle attend toujours le retour de William sur sa note.
+- **Aïcha (23/07)** : « Ok. » au classement ; observe.

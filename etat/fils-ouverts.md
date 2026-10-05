@@ -1,4 +1,4 @@
-# Fils ouverts et décisions en attente (au 23/07/2040, 12h22)
+# Fils ouverts et décisions en attente (au 23/07/2040, 17h02)
 
 > **Fichier de relais.** Tout ce qui est « en suspens » dans le monde doit être ici, pour qu'aucun moteur
 > (Claude ou Gemini) ne l'oublie. Mettre à jour à chaque tour : ajouter, avancer, clore (garder la ligne
@@ -9,8 +9,8 @@
 | # | Sujet | Contexte | Échéance |
 |---|---|---|---|
 | 1 | **Suite de la scène du bureau avec Grace** ; **réponse à Grace sur le déjeuner d'équipe de vendredi 27/07** ; **demi-page écrite de Grace sur sa clause d'ici mercredi 25/07** | À 12h14 William s'est collé à son dos et lui a dit « ne pas avoir peur de moi » en lui promettant de la faire arriver très haut ; **Grace est restée figée cinq secondes, est passée au vouvoiement (« Je comprends, patron. Je vais faire mon travail. »), ne l'a pas regardé et est sortie en laissant la porte ouverte** ; Aïcha l'a vue sortir ; ce n'est plus un simple « déjeuner d'équipe » : le monde y verra du harcèlement sexuel hiérarchique (art. 5 du Code du travail) | avant ven. 27/07 |
-| 2 | **Appel à Sandra : William appellera lundi entre 17h et 18h (Abidjan) = 19h-20h à Esch** | Maintenu ; Sandra : « Parfait. À ce soir. » ; elle a été sèche après le report ; fil privé : elle veut dire ce qui la préoccupe | lun. 23/07, 17h-18h |
-| 3 | **Clinique de Marcory 14h** (visite technique avec Abdoul ; Grace présente) | William a dit qu'il irait | lun. 23/07, 14h |
+| 2 | **Appel à Sandra : MAINTENANT** (William a dit qu'il appellerait entre 17h et 18h Abidjan = 19h-20h Esch) | **Sandra l'attend** (message de 17h01 : « Je suis prête… jusqu'à 20h30 ») ; elle veut dire ce qui la préoccupe ; William est au QG, 17h02, porte de son bureau ouverte ; **les paroles de l'appel sont à lui** | lun. 23/07, 17h-18h |
+| 3 | ~~Clinique de Marcory 14h~~ **FAIT** : relevé dans la fourchette ; **devis en trois lignes (matériel, pose, garantie) + plan de maintenance à remettre au plus tard vendredi 27/07** ; conseil d'administration du Dr Yapi mardi 31/07 ; aucune négociation de prix pour l'instant ; William doit valider le devis de Grace (plancher 25 %) | Grace et Abdoul préparent ; Grace garde ses distances avec William | ven. 27/07 |
 | 4 | **Rendez-vous avec Me Kouamé mercredi 25/07 à 15h (confirmé, cabinet du Plateau)** : signer la décision de l'associé unique ; honoraires et frais chiffrés mardi | Me Kouamé apporte le projet de décision d'augmentation de capital ; **William signe comme associé unique** | mer. 25/07, 15h |
 | 5 | **Dotation 176 725 € (augmentation de capital)** : ordre **suspendu** par la Spuerkeess | William a transmis le 23/07 à 11h20 statuts, 12 mois de relevés, bulletins de salaire ; **manque le projet de décision** (Me Kouamé, mer. 25/07) ; déblocage au plus tôt jeudi 26/07 ; SWIFT 2 à 4 jours ouvrés : **arrivée à la SGBCI entre lun. 30/07 et mar. 31/07** ; frais SHA : montant crédité un peu inférieur | jeu. 26/07 |
 | 6 | **Capitol : attestation d'hébergement** (signature du directeur) à retirer **mardi 24/07 à 9h**, puis téléverser pour le niveau 3 de son compte ivoirien ; communiquer ensuite le RIB à Aïcha et Mariette | Validation non datée (moteur : 1 à 3 jours ouvrés) ; jet de friction à jouer à la remise | mar. 24/07 |
@@ -29,7 +29,7 @@
 |---|---|---|
 | **Aléa tiré de la semaine du 23/07** (A06, retard fournisseur/douane) | **Un aléa déclenché, détail dans `memoire/tirages-aleas.md`** ; à jouer au jour tiré (jeudi 26/07 au matin), avec jet sur la véracité de l'excuse du fournisseur | jeu. 26/07 matin |
 | SécuTech : vidéosurveillance | Équipe arrivée à 10h40 (1 h 40 de retard) ; William a repris le chef d'équipe **Sékou** ; extérieur en cours ; manque de câble pour les 2 caméras d'accueil ; fin jeudi 26/07 ; solde 525 000 FCFA payé à l'achèvement | jeu. 26/07 |
-| Clinique de Marcory (Dr Yapi) | Prospect chaud ; visite technique confirmée | lun. 23/07, 14h avec Abdoul ; devis sous 5 jours ouvrés |
+| Clinique de Marcory (Dr Yapi) | **Visite faite le 23/07** ; dimensionnement dans la fourchette (18-24 M FCFA, ~21 M) ; devis en 3 lignes + plan de maintenance **pour vendredi 27/07** ; conseil d'administration du client le **mar. 31/07** ; le Dr Yapi négociera au devis (remise, délai de paiement) | ven. 27/07 |
 | Villa Riviera | Prospect tiède, 2 devis concurrents | Devis comparatif jeudi 26/07 (Grace) ; plancher 20 % |
 | Matrice d'évaluation à « légaliser » (Aïcha + Mariette) | En cours depuis le 23/07 08h ; la note de Mariette recommande de retirer le « naming and shaming » et d'encadrer le bonus/malus | selon William |
 | **Note juridique de Mariette : points à traiter** | CDD de direction (requalification en CDI possible ; rupture seulement pour faute lourde ; indemnité 3 % non provisionnée), naming and shaming (diffamation), bonus/malus, charte ≠ règlement intérieur, signatures « Gérant » vs statuts (Aïcha gérante), CNPS/ITS de juin | validation Me Kouamé (Aïcha), décisions de William avant le 31/07 |
@@ -43,6 +43,7 @@
 | Fibre Orange | Annoncée fin juillet | incertain |
 | Rapports complets des équipes | Échéance mar. 31/07 | — |
 | **Suites de la scène du 23/07 12h14 (jets du 23/07, non révélés à William)** | **Grace se confiera à Mariette (DRH) au plus tard mercredi 25/07 à midi** ; **aucune démarche externe (avocat, Inspection du travail, syndicat) ni démission cette semaine** ; **Aïcha n'interroge pas Grace d'ici le 24/07** ; Grace note tout dans son carnet | à jouer à partir du 23/07 soir ; détails dans `memoire/tirages-aleas.md` |
+| **Grace, Abdoul, William** | Abdoul a demandé deux fois à Grace si elle allait bien (13h30, camionnette) : « Ça va » ; il observe ; Grace évite William | à jouer |
 | Mariette (burn-out) | Terrifiée ; note rendue à l'heure ; doit relayer le classement ; **croisée à 12h35 devant un sandwich intact** | à surveiller |
 | Contrat d'apprentissage de Kevin | **Signature chez M. Da Silva mardi 24/07 à 17h** (Chambre des métiers) | mar. 24/07 |
 | Déclaration de William à l'administration luxembourgeoise | **Au plus tard le 30/12/2040 (dimanche ; dernier jour ouvré ven. 28/12)**, en minimisant, en disant ne pas avoir été au courant | à jouer |
