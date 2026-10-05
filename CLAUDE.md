@@ -113,7 +113,8 @@ et parfois peu morale exprès : ne l'en empêche pas, joue les conséquences.
 - **Checklist de fin de tour** (à cocher mentalement avant d'envoyer) :
   1. En-tête juste (jour de la semaine, heure, lieu) ; 2. William n'a pas été joué à sa place ;
   3. Fichiers à jour (journal, état, calendrier, finances, fils ouverts, whatsapp) ;
-  4. PDF demandés générés et vérifiés (`outils/verifier_pdf.py`) ;
+  4. PDF demandés générés et vérifiés, puis `python outils/controle_coherence.py` sans erreur (jours de la semaine,
+  fichiers maîtres, expressions interdites, PDF) ;
   5. Personnages imparfaits, ton ivoirien respecté ; 6. « 🔍 Contrôle de réalisme » présent.
 - **À la fin de chaque journée simulée** :
   - Clôturer le journal du jour.
@@ -131,18 +132,19 @@ Direct, structuré, sobre. Pas de flatterie ni d'encouragements.
 Langue : **français**.
 
 ## 9. POINT DE REPRISE
-**Lundi 23 juillet 2040, 17h38 — l'appel à Sandra est terminé ; William doit écrire à Grace.**
-William s'est engagé auprès de Sandra à **un appel tous les deux jours au minimum** ; elle l'a noté dans son téléphone (« pour ne
-pas m'inventer des silences »), a fixé le prochain appel **mercredi 25/07 à 17h Abidjan = 19h Esch (avant sa garde)**, avec **une seule
-condition : prévenir AVANT en cas d'empêchement, pas après** ; « Je te crois. Bisous, patron. » Il n'a toujours rien dit de la photo
-d'OSIA avec Aïcha ni de Kevin (Sandra l'a noté). Promesses tracées : passion et pas argent, arrêt possible de l'entreprise si elle le
-demande (« fortes chances »), appel tous les deux jours (voir `etat/traces.md`). **À faire par William** : **message à Grace** (passée au
-vouvoiement, évite William) ; **valider le devis de la clinique** (détaillé dû vendredi 27/07 ; conseil d'administration du Dr Yapi mardi
-31/07) ; répondre au **déjeuner d'équipe de vendredi 27/07** (Abdoul, Yves). Mercredi 25/07 est serré : **Me Kouamé 15h** (Plateau)
-puis **appel à Sandra 17h**. Mardi 9h : attestation du Capitol ; jeudi soir : note de Mariette ; jeudi matin : aléa de la semaine (non
-révélé). **Suites tirées au sort, non révélées** : Grace se confiera à Mariette au plus tard mercredi 25/07 midi ; pas de démarche
-externe ni de démission cette semaine ; Aïcha n'interroge pas Grace d'ici le 24/07. Voir `journal/2040-07-23.md`,
-`etat/fils-ouverts.md`, `etat/traces.md`, `etat/vies-privees.md`.
+**Lundi 23 juillet 2040, 18h10 — William a écrit à Grace ; elle a lu sans répondre.**
+À 17h41, William a envoyé à Grace un **message d'excuses** : il est « sincèrement désolé », ce qu'il a fait est « grave », il a
+« **toujours** eu un problème avec [ses] pulsions sexuelles », il la regardera désormais « uniquement comme une femme compétente… pas
+comme un objet sexuel », **si elle se sent vraiment mal elle peut partir et il ne la retiendra pas**, il voudrait qu'« on redevienne
+comme avant » et demande **comment se racheter**. **Lu par Grace à 18h07, pas de réponse ce soir.** **Non connu de William (jets du
+23/07)** : Grace garde une capture du message hors de son téléphone de travail ; elle le **montrera à Mariette dès mardi 24/07** ;
+aucune condition écrite à William dans les 48 h ; aucune démarche externe ni démission cette semaine ; Aïcha n'interroge pas Grace
+d'ici le 24/07. **Reste à faire par William** : **valider le devis de la clinique** (détaillé dû vendredi 27/07 ; conseil
+d'administration du Dr Yapi mardi 31/07) et **répondre au déjeuner d'équipe de vendredi 27/07**. **Sandra** : engagement d'un appel
+tous les deux jours au minimum ; **prochain appel mercredi 25/07 à 17h Abidjan = 19h Esch** (prévenir avant en cas d'empêchement) ;
+mercredi : **Me Kouamé à 15h** (Plateau) juste avant. Mardi 9h : attestation du Capitol ; jeudi matin : aléa de la semaine (non révélé) ;
+jeudi soir : note de Mariette. L'utilisateur teste l'**effort Max** sur ce tour. Voir `journal/2040-07-23.md`, `etat/fils-ouverts.md`,
+`etat/traces.md`, `etat/vies-privees.md`.
 
 ## 10. PROTOCOLE DE RELAIS (Claude ⇄ Gemini)
 L'utilisateur alterne entre Claude et Gemini (Antigravity) selon ses crédits. Le moteur le plus puissant

@@ -32,3 +32,11 @@ Effets à jouer : A06 (jeudi 26/07 (matin)) : Délai supplémentaire ; l'excuse 
 - Jet « Dr Yapi négocie dès la visite (remise ou délai de paiement) en s'adressant à William » : probabilité 70 %, jet  76.7 → **NON** (enregistré le 05/10/2026 15:09 heure machine)
 
 - Jet « Relevé de puissance de la clinique : charge supérieure aux estimations (devis en haut de fourchette ou au-delà) » : probabilité 50 %, jet  94.6 → **NON** (enregistré le 05/10/2026 15:09 heure machine)
+
+- Jet « Grace répond ce soir au message d'excuses de William (court, au vouvoiement) » : probabilité 50 %, jet  74.1 → **NON** (enregistré le 05/10/2026 15:34 heure machine)
+
+- Jet « Grace montre le message d'excuses à Mariette dès mardi (au lieu de mercredi midi) » : probabilité 60 %, jet  11.2 → **OUI** (enregistré le 05/10/2026 15:34 heure machine)
+
+- Jet « Grace sauvegarde une capture du message hors de son téléphone » : probabilité 85 %, jet   5.1 → **OUI** (enregistré le 05/10/2026 15:34 heure machine)
+
+- Jet « Grace formule des conditions écrites à William dans les 48 h » : probabilité 55 %, jet  83.2 → **NON** (enregistré le 05/10/2026 15:34 heure machine)

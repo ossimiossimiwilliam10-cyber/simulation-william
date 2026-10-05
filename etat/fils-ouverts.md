@@ -1,4 +1,4 @@
-# Fils ouverts et décisions en attente (au 23/07/2040, 17h38)
+# Fils ouverts et décisions en attente (au 23/07/2040, 18h10)
 
 > **Fichier de relais.** Tout ce qui est « en suspens » dans le monde doit être ici, pour qu'aucun moteur
 > (Claude ou Gemini) ne l'oublie. Mettre à jour à chaque tour : ajouter, avancer, clore (garder la ligne
@@ -21,7 +21,7 @@
 | 11 | Lecture de la matrice et du dossier de la semaine (promis « ce week-end » le 20/07) | Aïcha et Mariette travaillent sur la légalisation de la matrice ; la note de Mariette recommande de retirer le « naming and shaming » | libre |
 | 12 | **Aïcha** : relation professionnelle et froide | « La gérante, c'est moi. » ; « Bonjour. » ; a vu William reprendre Sékou depuis le perron ; **période froide : demander à chaque message d'Aïcha si William répond** | en continu |
 | 13 | Aïcha a vu Grace sortir du bureau de William (12h20), le visage fermé | Observation silencieuse ; fil privé d'Aïcha (jalousie, fierté) ; rien n'est dit | en continu |
-| 14 | **Message à Grace après l'appel** (intention de William) + **validation du devis de la clinique** (décidée par William ; devis détaillé attendu vendredi 27/07) | Grace est passée au vouvoiement et évite William ; le message est à rédiger | après l'appel |
+| 14 | ~~Message à Grace~~ **FAIT 23/07 17h41** (excuses écrites, offre de départ, « comment me racheter ? ») ; **lu à 18h07, sans réponse** | Reste : **validation du devis de la clinique** (détaillé dû vendredi 27/07) et **réponse au déjeuner d'équipe de vendredi** (Grace n'a pas relancé) ; **Grace n'a pas dit ce qu'elle attend** | à venir |
 | 15 | **Promesses à Sandra (23/07)** : **un appel tous les deux jours au minimum (chiffré à 17h33)** ; « récompenser sa confiance » ; « je ne cherche pas l'argent, c'est de la passion » (contredit « le filon va me rapporter pas mal d'argent », 21/07) ; **promesse conditionnelle : si elle lui demande d'arrêter l'entreprise, il y réfléchira très sérieusement, « fortes chances » d'aller dans son sens** | Sandra a tout noté ; elle peut un jour invoquer cette promesse | en continu |
 
 **Clos :** réponse à Kevin (21/07) ; réponse à Aïcha sur SécuTech (21/07) ; consigne à Grace (21/07) ; appel à Sandra du 21/07 ; message à Aïcha « fâchée ? » (21/07) ; week-end avec Aïcha (n'a pas eu lieu) ; décision de remboursement (21/07) ; statut de fonctionnaire : décision de se déclarer **au plus tard le 30/12/2040** (22/07) ; **validation des cinq idées de la revue du lundi (23/07)** ; **récap de Grace validé (23/07, planchers 25 % / 20 %)**.
@@ -44,7 +44,7 @@
 | Honoraires de Me Kouamé (solde 1 250 000 FCFA + avenants + 150 000/contrat) | « À vérifier » ; chiffrage de l'augmentation de capital mardi 24/07 | mar. 24/07 |
 | Fibre Orange | Annoncée fin juillet | incertain |
 | Rapports complets des équipes | Échéance mar. 31/07 | — |
-| **Suites de la scène du 23/07 12h14 (jets du 23/07, non révélés à William)** | **Grace se confiera à Mariette (DRH) au plus tard mercredi 25/07 à midi** ; **aucune démarche externe (avocat, Inspection du travail, syndicat) ni démission cette semaine** ; **Aïcha n'interroge pas Grace d'ici le 24/07** ; Grace note tout dans son carnet | à jouer à partir du 23/07 soir ; détails dans `memoire/tirages-aleas.md` |
+| **Suites de la scène du 23/07 12h14 et du message d'excuses de 17h41 (jets du 23/07, non révélés à William)** | **Grace montrera le message d'excuses à Mariette (DRH) dès mardi 24/07** (avant, au plus tard mercredi 12h, la confidence était prévue) ; **elle en a une capture sauvegardée hors de son téléphone de travail** ; **aucune condition écrite adressée à William dans les 48 h** ; aucune démarche externe ni démission cette semaine ; Aïcha n'interroge pas Grace d'ici le 24/07 ; Grace note tout dans son carnet | à jouer dès mardi ; détails dans `memoire/tirages-aleas.md` |
 | **Grace, Abdoul, William** | Abdoul a demandé deux fois à Grace si elle allait bien (13h30, camionnette) : « Ça va » ; il observe ; Grace évite William | à jouer |
 | Mariette (burn-out) | Terrifiée ; note rendue à l'heure ; doit relayer le classement ; **croisée à 12h35 devant un sandwich intact** | à surveiller |
 | Contrat d'apprentissage de Kevin | **Signature chez M. Da Silva mardi 24/07 à 17h** (Chambre des métiers) | mar. 24/07 |
