@@ -1,4 +1,4 @@
-# Fils ouverts et décisions en attente (au 23/07/2040, 17h02)
+# Fils ouverts et décisions en attente (au 23/07/2040, 17h20)
 
 > **Fichier de relais.** Tout ce qui est « en suspens » dans le monde doit être ici, pour qu'aucun moteur
 > (Claude ou Gemini) ne l'oublie. Mettre à jour à chaque tour : ajouter, avancer, clore (garder la ligne
@@ -9,7 +9,7 @@
 | # | Sujet | Contexte | Échéance |
 |---|---|---|---|
 | 1 | **Suite de la scène du bureau avec Grace** ; **réponse à Grace sur le déjeuner d'équipe de vendredi 27/07** ; **demi-page écrite de Grace sur sa clause d'ici mercredi 25/07** | À 12h14 William s'est collé à son dos et lui a dit « ne pas avoir peur de moi » en lui promettant de la faire arriver très haut ; **Grace est restée figée cinq secondes, est passée au vouvoiement (« Je comprends, patron. Je vais faire mon travail. »), ne l'a pas regardé et est sortie en laissant la porte ouverte** ; Aïcha l'a vue sortir ; ce n'est plus un simple « déjeuner d'équipe » : le monde y verra du harcèlement sexuel hiérarchique (art. 5 du Code du travail) | avant ven. 27/07 |
-| 2 | **Appel à Sandra : MAINTENANT** (William a dit qu'il appellerait entre 17h et 18h Abidjan = 19h-20h Esch) | **Sandra l'attend** (message de 17h01 : « Je suis prête… jusqu'à 20h30 ») ; elle veut dire ce qui la préoccupe ; William est au QG, 17h02, porte de son bureau ouverte ; **les paroles de l'appel sont à lui** | lun. 23/07, 17h-18h |
+| 2 | **Réponse de William à Sandra (appel en cours, 17h20)** : Sandra a tout dit sans être interrompue (silence, « filon » = Ricardo, argent, photo de la page Facebook d'OSIA avec Aïcha à côté de William, Kevin et septembre) et **attend sa réponse** ; elle dispose jusqu'à 20h30 (Esch) | William s'est engagé à l'écouter d'abord ; **ses paroles sont à lui** | lun. 23/07, avant 18h Abidjan |
 | 3 | ~~Clinique de Marcory 14h~~ **FAIT** : relevé dans la fourchette ; **devis en trois lignes (matériel, pose, garantie) + plan de maintenance à remettre au plus tard vendredi 27/07** ; conseil d'administration du Dr Yapi mardi 31/07 ; aucune négociation de prix pour l'instant ; William doit valider le devis de Grace (plancher 25 %) | Grace et Abdoul préparent ; Grace garde ses distances avec William | ven. 27/07 |
 | 4 | **Rendez-vous avec Me Kouamé mercredi 25/07 à 15h (confirmé, cabinet du Plateau)** : signer la décision de l'associé unique ; honoraires et frais chiffrés mardi | Me Kouamé apporte le projet de décision d'augmentation de capital ; **William signe comme associé unique** | mer. 25/07, 15h |
 | 5 | **Dotation 176 725 € (augmentation de capital)** : ordre **suspendu** par la Spuerkeess | William a transmis le 23/07 à 11h20 statuts, 12 mois de relevés, bulletins de salaire ; **manque le projet de décision** (Me Kouamé, mer. 25/07) ; déblocage au plus tôt jeudi 26/07 ; SWIFT 2 à 4 jours ouvrés : **arrivée à la SGBCI entre lun. 30/07 et mar. 31/07** ; frais SHA : montant crédité un peu inférieur | jeu. 26/07 |
@@ -21,6 +21,7 @@
 | 11 | Lecture de la matrice et du dossier de la semaine (promis « ce week-end » le 20/07) | Aïcha et Mariette travaillent sur la légalisation de la matrice ; la note de Mariette recommande de retirer le « naming and shaming » | libre |
 | 12 | **Aïcha** : relation professionnelle et froide | « La gérante, c'est moi. » ; « Bonjour. » ; a vu William reprendre Sékou depuis le perron ; **période froide : demander à chaque message d'Aïcha si William répond** | en continu |
 | 13 | Aïcha a vu Grace sortir du bureau de William (12h20), le visage fermé | Observation silencieuse ; fil privé d'Aïcha (jalousie, fierté) ; rien n'est dit | en continu |
+| 14 | **Message à Grace après l'appel** (intention de William) + **validation du devis de la clinique** (décidée par William ; devis détaillé attendu vendredi 27/07) | Grace est passée au vouvoiement et évite William ; le message est à rédiger | après l'appel |
 
 **Clos :** réponse à Kevin (21/07) ; réponse à Aïcha sur SécuTech (21/07) ; consigne à Grace (21/07) ; appel à Sandra du 21/07 ; message à Aïcha « fâchée ? » (21/07) ; week-end avec Aïcha (n'a pas eu lieu) ; décision de remboursement (21/07) ; statut de fonctionnaire : décision de se déclarer **au plus tard le 30/12/2040** (22/07) ; **validation des cinq idées de la revue du lundi (23/07)** ; **récap de Grace validé (23/07, planchers 25 % / 20 %)**.
 

@@ -131,19 +131,21 @@ Direct, structuré, sobre. Pas de flatterie ni d'encouragements.
 Langue : **français**.
 
 ## 9. POINT DE REPRISE
-**Lundi 23 juillet 2040, 17h02 — William est au QG (porte de son bureau ouverte) ; Sandra l'attend.**
-« Go » joué de 12h22 à 17h02 sans décision de William. Pause déjeuner (non consignée). 13h20 : Mariette relaie l'exigence de
-classement ; **Grace ne réagit pas**. 13h30 : **Abdoul** demande deux fois à Grace si elle va bien (« Ça va. La clinique d'abord. »).
-**Clinique de Marcory 14h** : Dr Yapi (~55 ans) ; **jet de friction OUI** (tableau électrique fermé, 45 min d'attente, électricien
-M. Bakayoko à 15h10) ; relevé de puissance **dans la fourchette** (jet NON : ~21 M FCFA) ; **le Dr Yapi ne négocie pas encore** (jet NON) ;
-il veut un **devis en trois lignes + plan de maintenance au plus tard vendredi 27/07** (conseil d'administration mardi 31/07) ; Grace,
-« monsieur Ossimi » devant le client, **n'est jamais seule avec William**. Retour au QG à 16h58 (4 caméras extérieures posées ; les 2
-d'accueil jeudi). **17h01 : Sandra** : « Je suis prête… jusqu'à 20h30 (Esch). » **L'appel à Sandra est maintenant ; les paroles
-sont à William.** Toujours en attente : réponse au déjeuner d'équipe de vendredi 27/07 (Abdoul, Yves) proposé par Grace ; lecture de
-la note de Mariette jeudi 26/07 soir ; demi-page de Grace sur sa clause d'ici mercredi. **Suites tirées au sort, non révélées** :
-Grace se confiera à Mariette au plus tard mercredi 25/07 midi ; pas de démarche externe ni de démission cette semaine ; Aïcha n'interroge
-pas Grace d'ici le 24/07. Mardi 9h : attestation du Capitol ; mercredi 15h : Me Kouamé ; jeudi matin : aléa de la semaine (non
-révélé). Voir `journal/2040-07-23.md`, `etat/fils-ouverts.md`, `etat/vies-privees.md`, `etat/traces.md`.
+**Lundi 23 juillet 2040, 17h20 — appel en cours : Sandra a tout dit, William doit répondre.**
+William a appelé Sandra à 17h04 et a décidé de **l'écouter entièrement avant de répondre**. Sandra (sur le palier de sa mère à
+Differdange, voix grave, rires brefs) a exposé cinq préoccupations sans être interrompue : **le silence** (réflexe depuis Ricardo) ;
+**« le filon »** (Ricardo avait aussi un filon au Portugal : crédit voiture et « je t'appelle » ; *invention du moteur*) ; **l'argent
+comme façon de dire pardon** ; **la photo de la page Facebook d'OSIA** (Yves) avec Aïcha à côté de William (onze minutes de regard
+à 4h du matin ; « je te fais confiance… dis-moi si je dois arrêter de le dire ») ; **Kevin** et la promesse de septembre (« ce qui est
+dit est dit »). Elle attend une réponse « comme si j'étais là, pas comme si j'étais un dossier » ; elle est disponible jusqu'à
+20h30 (Esch) = 18h30 (Abidjan). **Les paroles de William sont à lui.** À la fin de l'appel William veut **écrire à Grace** (passée au
+vouvoiement) et a **décidé de valider le devis de la clinique** (détaillé dû vendredi 27/07 ; Dr Yapi ; conseil d'administration
+mardi 31/07). **Rappel réalisme** demandé par William sur le comportement de Grace : le moteur a argumenté et **n'a pas modifié la
+scène** ; calibrage écrit (§11, pièges n° 38). Toujours en attente : réponse au déjeuner d'équipe de vendredi 27/07 ; note de
+Mariette jeudi 26/07 soir ; demi-page de Grace d'ici mercredi. **Suites tirées au sort, non révélées** : Grace se confiera à Mariette
+au plus tard mercredi 25/07 midi ; pas de démarche externe ni de démission cette semaine ; Aïcha n'interroge pas Grace d'ici le 24/07.
+Mardi 9h : attestation du Capitol ; mercredi 15h : Me Kouamé ; jeudi matin : aléa de la semaine (non révélé). Voir
+`journal/2040-07-23.md`, `etat/fils-ouverts.md`, `etat/vies-privees.md`, `etat/traces.md`.
 
 ## 10. PROTOCOLE DE RELAIS (Claude ⇄ Gemini)
 L'utilisateur alterne entre Claude et Gemini (Antigravity) selon ses crédits. Le moteur le plus puissant
@@ -187,6 +189,10 @@ conséquences réalistes**, sans sermon et sans complaisance :
 - **Curseur de dureté (demande de l'utilisateur, 22/07/2040)** : l'utilisateur est « totalement partant » pour que le moteur
   appuie davantage sur la dureté **dans les limites ci-dessus** : conflits plus rudes, personnages plus cyniques, rancunes
   et mauvaise foi, conséquences plus amères, humour noir, pertes réelles (argent, personnes, réputation). Toujours sans sermon.
+- **Calibrage des réactions (rappel réalisme du 23/07/2040)** : l'attirance, l'argent ou le physique de William ne rendent pas
+  un personnage mécaniquement consentant ; la hiérarchie rend le consentement ambigu ; tirer chaque réaction (jet) selon le
+  caractère et l'intérêt du personnage, avec une vraie probabilité pour les réactions positives comme pour la peur, le silence,
+  la prudence ; ne pas invoquer « le milieu africain » comme règle (voir `memoire/pieges-connus.md` n° 38).
 - Si une demande franchit une limite : sortir de la fiction en une phrase (« 📌 Vraie vie »), dire ce qui est refusé et
   proposer la version jouable (conséquences, réactions). Ne pas moraliser le reste du tour.
 

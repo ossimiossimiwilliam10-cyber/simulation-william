@@ -31,3 +31,4 @@
 - **Sandra (23/07 17h01)** : prête, disponible jusqu'à 20h30 (Esch), téléphone sur la table ; elle veut dire ce qui la préoccupe.
 - **Mariette (23/07 13h20)** : relaie l'exigence de classement ; elle a vu Grace (non réactive) ; elle attend toujours le retour de William sur sa note.
 - **Aïcha (23/07)** : « Ok. » au classement ; observe.
+- **Sandra (23/07 17h06-17h19)** : a parlé de son « vieux truc » (le silence, depuis Ricardo), du « filon » de Ricardo au Portugal (crédit voiture, « je t'appelle »), de l'argent comme excuse, de la photo d'OSIA sur Facebook (Aïcha à côté de William, onze minutes de regard à 4h du matin), de Kevin et de la promesse de septembre (« ce qui est dit est dit », sa mère). *(Ricardo et son « filon » : invention du moteur.)* Elle veut une réponse « comme si j'étais là ».
