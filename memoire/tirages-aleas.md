@@ -92,3 +92,8 @@ Effets à jouer : A06 (jeudi 26/07 (matin)) : Délai supplémentaire ; l'excuse 
 Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À partir d'ici, toute réaction d'un personnage à un acte de William se tire avec
 `python outils/jet.py --table Tn` (pourcentages de `etat/modele-pouvoir.md`) ; un jet libre sur une réaction exige `--derogation "raison"`.
 - **Fait caché hérité, non révélé, à repasser par la table avant toute révélation (décision de l'utilisateur)** : Grace garde une capture du message d'excuses hors de son téléphone de travail (jet 85 % : OUI, hérité) → T1b.
+
+- Tirage [T1b] « Grace : trace conservee du message d'excuses dans les 7 jours (fait hérité 85 % repassé par la table, accord de l'utilisateur 25/07) » : aucune 68 / notes_privees 17 / capture_ou_sauvegarde 12 / copie_tiers 3 ; modificateurs : aucun ; jet   8.8 → **aucune** (enregistré le 05/10/2026 18:19 heure machine)
+
+- Tirage [T1b] « Grace : note de l'incident physique du 23/07 dans son carnet (fait non tiré, inventé par le moteur précédent ; trace distincte du message, 7 jours) » : aucune 68 / notes_privees 17 / capture_ou_sauvegarde 12 / copie_tiers 3 ; modificateurs : aucun ; jet  14.8 → **aucune** (enregistré le 05/10/2026 18:20 heure machine)
+- **Repassé par la table le 25/07/2040 (accord de l'utilisateur)** : les deux tirages T1b ci-dessus (capture du message : aucune ; note de l'incident dans le carnet : aucune) **remplacent** le jet hérité « Grace sauvegarde une capture… 85 % : OUI » et le fait « Grace note l'échange dans son carnet » (non tiré, inventé par le moteur précédent). Faits joués inchangés.

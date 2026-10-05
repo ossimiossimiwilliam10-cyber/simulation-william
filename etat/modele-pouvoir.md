@@ -191,4 +191,4 @@ Règles de rôle, sans tirage ; l'argent et le statut de William ne les achèten
 ## 7. Faits cachés hérités (tirés avant ce modèle)
 Les jets d'avant le 25/07/2040 (probabilités choisies à la main) restent valables pour ce qui a été **joué**. Un fait caché **non encore
 révélé** et tiré hors table doit repasser par la table avant toute révélation : aujourd'hui, « Grace garde une capture du message d'excuses
-hors de son téléphone de travail » (85 %, OUI) → T1b, décision de l'utilisateur (`etat/fils-ouverts.md`, C.6).
+hors de son téléphone de travail » (85 %, OUI) → T1b. **Résolu le 25/07/2040** (accord de l'utilisateur) : capture **aucune** (jet 8.8) ; note de l'incident dans le carnet **aucune** (jet 14.8).
