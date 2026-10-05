@@ -51,7 +51,7 @@
 | Ven. 27/07 et dim. 29/07 | Appels suivants à Sandra (rythme d'un appel tous les deux jours au minimum). |
 | **Mer. 25/07, 09h12** | **Mariette est venue dans le bureau de William (vouvoiement, porte ouverte) et a exposé ce qu'elle sait ; William n'a pas répondu (silence).** |
 | **Mer. 25/07, 09h37** | **Mariette informe Aïcha** (elle a tout raconté). |
-| **Mer. 25/07, 09h42-10h07** | **William raconte tout à Aïcha** ; elle attend maintenant « ce que tu changes, concrètement, aujourd'hui ». |
+| **Mer. 25/07, 09h42-10h07** | **William raconte tout à Aïcha** ; elle demande « comment on fait pour que ça n'arrive plus ». |
 | **Mer. 25/07, avant 15h** | **Aïcha parle à Grace, seule** (annoncé ; William n'y assiste pas). |
 | **Mer. 25/07, 11h45** | Mariette repasse chez William s'il veut en reparler (facultatif). |
 | **Mer. 25/07, 15h** | **Rendez-vous avec Maître Kouamé (cabinet, Plateau)** : décision de l'associé unique, projet de décision d'augmentation de capital, chiffrage. Confirmé le 23/07. |

@@ -65,12 +65,20 @@ et parfois peu morale exprès : ne l'en empêche pas, joue les conséquences.
     livraison, promesse d'un personnage) doit, le jour dit, avoir lieu, être
     reporté (avec une raison) ou annulé, et être consigné au journal.
     Les fils en suspens vivent dans `etat/fils-ouverts.md`.
-15. **Registre hiérarchique.** Dans une société à forte distance hiérarchique (Côte d'Ivoire), les subordonnés de
-    William lui parlent avec déférence : vouvoiement dans les moments graves, « patron » ou « Monsieur », formules de
-    précaution (« je me permets », « excusez-moi »), détours, demandes présentées comme des suggestions, pas de
-    confrontation directe ni d'accusation personnelle ; ils passent par un intermédiaire (Aïcha, Me Kouamé) ou par
-    l'écrit. Exceptions : un personnage qui a une autorité propre (Me Kouamé, Dr Yapi, Aïcha comme gérante) ou qui a
-    décidé de partir. Voir `memoire/pieges-connus.md` n° 47.
+15. **Registre hiérarchique (renforcé le 25/07/2040).** Dans une société à forte distance hiérarchique (Côte d'Ivoire :
+    respect des titres, vouvoiement des supérieurs, évitement de la confrontation directe), les subordonnés de William,
+    **Aïcha comprise**, **ne le confrontent pas** : pas d'ultimatum, pas de menace de partir ni de dénoncer, pas d'ordre
+    (« je veux », « je te demande », « ferme la porte »), pas d'étiquette morale ou juridique prononcée en face
+    (« harcèlement », « elle n'a pas pu dire non »), pas de long discours de principe. Ils s'expriment par : la précaution
+    (« je me permets », « excusez-moi »), l'indirection (« les gens vont parler », « ça peut faire du tort »), la peur pour la
+    société, leur nom, leur famille, des questions (« comment on fait pour que ça n'arrive plus ? »), le silence, l'écrit,
+    la lenteur, l'intermédiaire, des gestes (porte, regard, vouvoiement). Ce qu'ils décident (parler à la victime, consigner,
+    informer la gérante) se montre dans les actes, pas dans des annonces. Probabilité d'une vraie confrontation d'un subordonné :
+    ≤ 5 % (jet). Seuls Me Kouamé et le Dr Yapi (autorité propre) parlent franchement. Voir `memoire/pieges-connus.md` n° 47-48.
+16. **Pas de morale dans la bouche des personnages.** Le moteur ne fait pas la leçon, y compris à travers un personnage :
+    les conséquences s'expriment par des faits (réactions, traces, procédures, argent, perte de confiance), pas par des
+    jugements moraux ou des explications pédagogiques. Un personnage peut avoir peur, être dégoûté ou rancunier ; il ne
+    délivre pas le message du moteur.
 
 ## 4. DÉCLENCHEURS
 - **« Attention au réalisme »** : refais des recherches sur ton dernier tour,
@@ -123,7 +131,8 @@ et parfois peu morale exprès : ne l'en empêche pas, joue les conséquences.
   3. Fichiers à jour (journal, état, calendrier, finances, fils ouverts, whatsapp) ;
   4. PDF demandés générés et vérifiés, puis `python outils/controle_coherence.py` sans erreur (jours de la semaine,
   fichiers maîtres, expressions interdites, PDF) ;
-  5. Personnages imparfaits, ton ivoirien respecté ; 6. « 🔍 Contrôle de réalisme » présent.
+  5. Personnages imparfaits, ton ivoirien respecté ; 6. **registre hiérarchique respecté : aucun subordonné ne confronte, ne
+  menace ni ne moralise William (règles 15-16)** ; 7. « 🔍 Contrôle de réalisme » présent.
 - **À la fin de chaque journée simulée** :
   - Clôturer le journal du jour.
   - Mettre à jour TOUS les fichiers d'état.
@@ -140,20 +149,19 @@ Direct, structuré, sobre. Pas de flatterie ni d'encouragements.
 Langue : **français**.
 
 ## 9. POINT DE REPRISE
-**Mercredi 25 juillet 2040, 10h10 — William a tout raconté à Aïcha ; elle attend des mesures concrètes.**
-À 09h50 William a décidé de **tout raconter à Aïcha** (le moteur limite « tout » aux faits demandés : **lundi 11h58** mains sur les épaules puis la taille de Grace ;
-**12h12** l'invitation ; **12h14** il s'est collé à son dos, a promis de la faire arriver très haut et lui a dit de ne pas avoir peur de lui ; **17h41** le message d'excuses
-(« toujours ») ; **mardi 22h20** la suppression ; **le 16 mai** avec Mariette). **Aïcha** l'a écouté sans l'interrompre, sans larmes (jet), puis : « Merci de me l'avoir dit
-en entier. » ; « le mot, c'est **harcèlement sexuel** » ; « **elle ne t'a pas dit non parce que tu es son patron** » ; elle s'assoit ; « **je vais parler à Grace. Seule.
-Aujourd'hui.** » ; **ultimatum** : « si ça recommence, avec elle ou avec qui que ce soit dans cette société, **je pars, et je dis pourquoi** : à Maître Kouamé, à l'Inspection du
-travail » ; « **je veux savoir ce que tu changes. Concrètement. Aujourd'hui.** » Elle n'a pas dit si elle informerait Me Kouamé (jet), ni demandé à William de ne pas croiser
-Grace ni de quitter le QG, ni interdit de toucher à Mariette (jets). **Ni Sandra, ni le statut luxembourgeois, ni la « ligne de défense » n'ont été évoqués.** **À décider par
-William** : ses mesures concrètes pour Aïcha ; Mariette à 11h45 (facultatif) ; **Me Kouamé à 15h** (Plateau) : honoraires, passeport, justificatif d'origine des fonds,
-signature comme associé unique ; **appel à Sandra à 17h (Abidjan) = 19h (Esch), prévenir AVANT en cas d'empêchement** ; niveau 3 ; déjeuner de vendredi 27/07 ; devis de la
-clinique (dû vendredi 27/07). Jeudi matin : aléa de la semaine (non révélé) ; jeudi soir : note de Mariette ; **mercredi soir : fiche complète**. **Non connu de William** : Grace
-garde sa capture et note tout ; aucune condition écrite de sa part dans les 48 h ; pas de démarche externe ni de démission cette semaine ; Abdoul n'a pas encore parlé à
-Bertin. **Résolution intime de William (non exprimée, contredite par sa confession)** : être « extrêmement sévère » avec l'équipe. **Effort** : conseillé Max pour le prochain tour.
-Voir `journal/2040-07-25.md`, `etat/fils-ouverts.md`, `etat/traces.md`, `etat/vies-privees.md`.
+**Mercredi 25 juillet 2040, 10h10 — Aïcha demande « comment on fait pour que ça n'arrive plus » ; scène corrigée (registre hiérarchique).**
+**Deuxième « Attention au réalisme » de William** (la façon dont les subordonnés lui parlent) : la scène d'Aïcha a été **corrigée** (journal du 25/07, `etat/corrections.md` n° 23-24) ;
+**nouvelles règles 15 (renforcée) et 16** : aucun subordonné, Aïcha comprise, ne confronte, ne menace ni ne moralise William ; le jet « ultimatum » à 50 % est invalidé (recalibré à
+5 % : non). **Faits** : Mariette est allée droit chez Aïcha à 09h37 ; William a dit à Aïcha « c'est vrai, j'ai merdé, je manque de professionnalisme, je serai beaucoup plus
+professionnel » puis lui a **tout raconté** (11h58, 12h12, 12h14 le 23/07 ; message d'excuses ; suppression ; 16 mai). **Aïcha corrigée** : elle l'appelle « patron », referme elle-même la
+porte, veut savoir « pour pouvoir répondre si on me pose la question » ; après la confession (sans larmes) : « Merci de me l'avoir dit, patron. C'est très grave. » ; « à Abidjan, ces
+choses-là finissent toujours par sortir » ; « Grace ne dira rien, elle veut sa place » ; « **laisse-moi lui parler, doucement, aujourd'hui, seule** » ; « j'ai ma mère, ma famille au village, mon nom
+est sur tous les papiers » ; « **dis-moi seulement comment on fait pour que ça n'arrive plus** ». Pas d'ultimatum ; elle n'a pas dit si elle informait Me Kouamé ; ni Sandra, ni le statut
+luxembourgeois, ni la « ligne de défense » n'ont été évoqués. **À décider par William** : sa réponse à Aïcha (mesures concrètes) ; Mariette à 11h45 (facultatif) ; **Me Kouamé à 15h** (Plateau) :
+honoraires, passeport, justificatif d'origine des fonds, signature comme associé unique ; **appel à Sandra à 17h (Abidjan) = 19h (Esch), prévenir AVANT en cas d'empêchement** ; niveau 3 ; déjeuner de
+vendredi 27/07 ; devis de la clinique (dû vendredi 27/07). Jeudi matin : aléa de la semaine (non révélé) ; jeudi soir : note de Mariette ; **mercredi soir : fiche complète**. **Non connu de
+William** : Grace garde sa capture et note tout ; aucune condition écrite de sa part dans les 48 h ; pas de démarche externe ni de démission cette semaine ; Abdoul n'a pas encore parlé à
+Bertin. **Effort** : conseillé Max pour le prochain tour. Voir `journal/2040-07-25.md`, `etat/fils-ouverts.md`, `etat/traces.md`, `memoire/pieges-connus.md` n° 47-48.
 
 ## 10. PROTOCOLE DE RELAIS (Claude ⇄ Gemini)
 L'utilisateur alterne entre Claude et Gemini (Antigravity) selon ses crédits. Le moteur le plus puissant
@@ -196,7 +204,8 @@ conséquences réalistes**, sans sermon et sans complaisance :
   (e) pas de violence sexuelle détaillée ; (f) pas de contenu réel diffamatoire visant une vraie personne.
 - **Curseur de dureté (demande de l'utilisateur, 22/07/2040)** : l'utilisateur est « totalement partant » pour que le moteur
   appuie davantage sur la dureté **dans les limites ci-dessus** : conflits plus rudes, personnages plus cyniques, rancunes
-  et mauvaise foi, conséquences plus amères, humour noir, pertes réelles (argent, personnes, réputation). Toujours sans sermon.
+  et mauvaise foi, conséquences plus amères, humour noir, pertes réelles (argent, personnes, réputation). Toujours sans sermon. **La dureté passe par les actes et les conséquences (froideur,
+  distance, trahisons discrètes, procédures), pas par des subordonnés qui parlent au patron comme à un égal (règle 15).**
 - **Calibrage des réactions (rappel réalisme du 23/07/2040)** : l'attirance, l'argent ou le physique de William ne rendent pas
   un personnage mécaniquement consentant ; la hiérarchie rend le consentement ambigu ; tirer chaque réaction (jet) selon le
   caractère et l'intérêt du personnage, avec une vraie probabilité pour les réactions positives comme pour la peur, le silence,

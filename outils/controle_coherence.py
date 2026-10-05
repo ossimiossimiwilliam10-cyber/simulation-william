@@ -92,6 +92,28 @@ def controle_interdits():
     return erreurs
 
 
+REGISTRE = re.compile(
+    r"ultimatum|je pars,? et je dis pourquoi|je veux les faits|je veux savoir ce que tu|"
+    r"je (te|vous) demande (deux choses|de |d')|ferme la porte|le mot[^.]{0,40}c'est harcèlement|"
+    r"ne t'a pas dit non parce que|ne vous a pas dit non parce que", re.I)
+SUBORDONNES = re.compile(r"Aïcha|Mariette|Grace|Abdoul|Yves|Sékou")
+EXCLUS_REGISTRE = re.compile(r"avant\s*:|version corrigée|corrig|recalibr|tirage|jet\s|\bjets\b", re.I)
+
+
+def controle_registre():
+    """Avertissement NON bloquant : dialogues de subordonnés qui confrontent, menacent ou moralisent William
+    (règles 15-16 de CLAUDE.md : registre hiérarchique). À relire à la main avant d'envoyer un tour."""
+    avertissements = []
+    for dossier in ("journal", "whatsapp"):
+        for p in sorted((RACINE / dossier).glob("*.md")):
+            for n, ligne in enumerate(p.read_text(encoding="utf-8").splitlines(), 1):
+                citations = re.findall(r"«([^»]*)»", ligne)  # on ne teste que ce qui est entre guillemets (paroles)
+                if citations and SUBORDONNES.search(ligne) and any(REGISTRE.search(c) for c in citations) \
+                        and not EXCLUS_REGISTRE.search(ligne):
+                    avertissements.append(f"{p.relative_to(RACINE)}:{n} {ligne.strip()[:120]}")
+    return avertissements
+
+
 def main():
     code = 0
     err, total = controle_jours()
@@ -109,6 +131,10 @@ def main():
     for e in err:
         print("  ERREUR", e)
     code |= bool(err)
+    aver = controle_registre()
+    print(f"[Registre hiérarchique] {len(aver)} ligne(s) à relire (avertissement, non bloquant)")
+    for a in aver:
+        print("  RELIRE", a)
     r = subprocess.run([sys.executable, str(RACINE / "outils" / "verifier_pdf.py")], capture_output=True, text=True, encoding="utf-8")
     sortie = [l for l in r.stdout.splitlines() if l.strip()]
     mauvais = [l for l in sortie if not l.startswith("[ OK  ]")]
