@@ -1,4 +1,4 @@
-# Fils ouverts et décisions en attente (au 23/07/2040, 12h40)
+# Fils ouverts et décisions en attente (au 23/07/2040, 12h22)
 
 > **Fichier de relais.** Tout ce qui est « en suspens » dans le monde doit être ici, pour qu'aucun moteur
 > (Claude ou Gemini) ne l'oublie. Mettre à jour à chaque tour : ajouter, avancer, clore (garder la ligne
@@ -8,7 +8,7 @@
 ## A. Décisions en attente de William
 | # | Sujet | Contexte | Échéance |
 |---|---|---|---|
-| 1 | **Réponse à Grace sur le déjeuner d'équipe de vendredi 27/07 à midi** (Abdoul, Yves) qu'elle propose à la place d'une sortie en tête-à-tête ; **demi-page écrite de Grace sur la clause « marchés publics / commissions » d'ici mercredi 25/07** | William a invité Grace à une sortie (« je tiens vraiment à te féliciter ») ; jet 20 % : **NON** ; elle a quitté le bureau en **laissant la porte ouverte** ; Aïcha l'a vue sortir ; trames de devis vues (clinique 18-24 M FCFA, plancher 25 % ; Riviera 15-20 M FCFA, plancher 20 %) | avant ven. 27/07 |
+| 1 | **Suite de la scène du bureau avec Grace** ; **réponse à Grace sur le déjeuner d'équipe de vendredi 27/07** ; **demi-page écrite de Grace sur sa clause d'ici mercredi 25/07** | À 12h14 William s'est collé à son dos et lui a dit « ne pas avoir peur de moi » en lui promettant de la faire arriver très haut ; **Grace est restée figée cinq secondes, est passée au vouvoiement (« Je comprends, patron. Je vais faire mon travail. »), ne l'a pas regardé et est sortie en laissant la porte ouverte** ; Aïcha l'a vue sortir ; ce n'est plus un simple « déjeuner d'équipe » : le monde y verra du harcèlement sexuel hiérarchique (art. 5 du Code du travail) | avant ven. 27/07 |
 | 2 | **Appel à Sandra : William appellera lundi entre 17h et 18h (Abidjan) = 19h-20h à Esch** | Maintenu ; Sandra : « Parfait. À ce soir. » ; elle a été sèche après le report ; fil privé : elle veut dire ce qui la préoccupe | lun. 23/07, 17h-18h |
 | 3 | **Clinique de Marcory 14h** (visite technique avec Abdoul ; Grace présente) | William a dit qu'il irait | lun. 23/07, 14h |
 | 4 | **Rendez-vous avec Me Kouamé mercredi 25/07 à 15h (confirmé, cabinet du Plateau)** : signer la décision de l'associé unique ; honoraires et frais chiffrés mardi | Me Kouamé apporte le projet de décision d'augmentation de capital ; **William signe comme associé unique** | mer. 25/07, 15h |
@@ -20,7 +20,7 @@
 | 10 | Statut comptable de ce que William a payé avant l'ouverture du compte (loyer/caution 17,6 M FCFA, Phase 1, acompte Me Kouamé) | Non tracé ; à voir avec Aïcha/Mariette | libre |
 | 11 | Lecture de la matrice et du dossier de la semaine (promis « ce week-end » le 20/07) | Aïcha et Mariette travaillent sur la légalisation de la matrice ; la note de Mariette recommande de retirer le « naming and shaming » | libre |
 | 12 | **Aïcha** : relation professionnelle et froide | « La gérante, c'est moi. » ; « Bonjour. » ; a vu William reprendre Sékou depuis le perron ; **période froide : demander à chaque message d'Aïcha si William répond** | en continu |
-| 13 | Aïcha a vu Grace sortir du bureau de William (12h17) | Observation silencieuse ; fil privé d'Aïcha (jalousie, fierté) ; rien n'est dit | en continu |
+| 13 | Aïcha a vu Grace sortir du bureau de William (12h20), le visage fermé | Observation silencieuse ; fil privé d'Aïcha (jalousie, fierté) ; rien n'est dit | en continu |
 
 **Clos :** réponse à Kevin (21/07) ; réponse à Aïcha sur SécuTech (21/07) ; consigne à Grace (21/07) ; appel à Sandra du 21/07 ; message à Aïcha « fâchée ? » (21/07) ; week-end avec Aïcha (n'a pas eu lieu) ; décision de remboursement (21/07) ; statut de fonctionnaire : décision de se déclarer **au plus tard le 30/12/2040** (22/07) ; **validation des cinq idées de la revue du lundi (23/07)** ; **récap de Grace validé (23/07, planchers 25 % / 20 %)**.
 
@@ -42,6 +42,7 @@
 | Honoraires de Me Kouamé (solde 1 250 000 FCFA + avenants + 150 000/contrat) | « À vérifier » ; chiffrage de l'augmentation de capital mardi 24/07 | mar. 24/07 |
 | Fibre Orange | Annoncée fin juillet | incertain |
 | Rapports complets des équipes | Échéance mar. 31/07 | — |
+| **Suites de la scène du 23/07 12h14 (jets du 23/07, non révélés à William)** | **Grace se confiera à Mariette (DRH) au plus tard mercredi 25/07 à midi** ; **aucune démarche externe (avocat, Inspection du travail, syndicat) ni démission cette semaine** ; **Aïcha n'interroge pas Grace d'ici le 24/07** ; Grace note tout dans son carnet | à jouer à partir du 23/07 soir ; détails dans `memoire/tirages-aleas.md` |
 | Mariette (burn-out) | Terrifiée ; note rendue à l'heure ; doit relayer le classement ; **croisée à 12h35 devant un sandwich intact** | à surveiller |
 | Contrat d'apprentissage de Kevin | **Signature chez M. Da Silva mardi 24/07 à 17h** (Chambre des métiers) | mar. 24/07 |
 | Déclaration de William à l'administration luxembourgeoise | **Au plus tard le 30/12/2040 (dimanche ; dernier jour ouvré ven. 28/12)**, en minimisant, en disant ne pas avoir été au courant | à jouer |

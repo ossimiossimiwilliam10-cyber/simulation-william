@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 23/07/2040, 12h40)
+# William Ossimi — profil (état au 23/07/2040, 12h22)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -62,6 +62,7 @@
 - **Note du 23/07 (« Go ! »)** : durant toute la semaine du 23/07, William sera « particulièrement amical » et « vraiment tactile » **avec Grace uniquement**, de préférence **en privé** (quand ils sont seuls). Le 23/07 à 11h58 Grace entre dans son bureau, porte fermée (récap des marges).
 - **23/07, matinée** : valide les cinq idées de la revue du lundi ; signe comme associé unique (à venir) ; reprend le chef d'équipe de SécuTech ; fournit les documents demandés par la Spuerkeess ; accepte de voir Me Kouamé mercredi 15h ; survole la note de Mariette et décide de la lire samedi matin ; exige que tout soit classé ; valide le récap de Grace ; **vers 12h, dans son bureau, porte fermée, il pose ses mains sur les épaules de Grace puis sur sa taille ; elle l'écarte sans brusquerie** (voir `etat/traces.md`).
 - **23/07, 12h03-12h35** : décide de lire la note de Mariette **jeudi soir** et de répondre le soir même ; demande à Grace de lui montrer les deux devis et « ne fait rien de bizarre » ; l'invite subtilement à une sortie pour la féliciter ; elle propose un déjeuner d'équipe vendredi midi.
+- **23/07, 12h14** : se colle au dos de Grace (porte fermée), lui promet de la faire arriver très haut et lui dit de ne pas avoir peur de lui ; Grace est restée figée, est passée au vouvoiement et est sortie sans le regarder (voir `etat/traces.md`).
 - Contacts avec Sandra : appel le 17/07 au soir ; silence de quatre jours ; elle écrit la première le 21/07 ; appel de William le 21/07 à 14h26.
 
 ## Personnalité (analyse de départ)

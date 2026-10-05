@@ -24,3 +24,6 @@
 - **Grace** : a refusé le tête-à-tête sans froisser (déjeuner d'équipe) ; **a noté l'échange dans son carnet vers 12h20** (William ne le sait pas) ; prépare une demi-page écrite sur sa clause « marchés publics / commissions » d'ici mercredi ; elle garde la place et observe.
 - **Aïcha** : a vu Grace sortir du bureau de William à 12h17, porte laissée ouverte ; silence ; fierté et jalousie.
 - **Mariette** : croisée à 12h35, sandwich intact devant son écran, sourire trop rapide ; fatigue visible.
+- **Grace (suite, 23/07 12h14-12h20)** : choquée, effrayée, sous contrainte hiérarchique ; est passée au **vouvoiement** avec William ; garde la place et note tout dans son carnet ; **se confiera à Mariette au plus tard mercredi 25/07 midi** (jet) ; pas de démarche externe ni de démission cette semaine (jets) ; la clause « marchés publics / commissions » et le déjeuner de vendredi sont désormais pris dans ce contexte.
+- **Mariette (suite)** : va recevoir la confiance de Grace ; elle-même a été draguée par William le 16/05 et se sait fragile (son contrat est irrégulier, elle est « terrifiée ») ; elle est DRH et destinataire des signalements (art. 5).
+- **Aïcha (suite)** : a vu le visage de Grace à la sortie ; ne l'interroge pas d'ici le 24/07 (jet) ; fierté et jalousie.

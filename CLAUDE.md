@@ -131,16 +131,18 @@ Direct, structuré, sobre. Pas de flatterie ni d'encouragements.
 Langue : **français**.
 
 ## 9. POINT DE REPRISE
-**Lundi 23 juillet 2040, 12h40 — William vient de quitter la scène avec Grace ; l'après-midi commence.**
-Dans le bureau, après le geste de 12h00 que Grace a écarté sans brusquerie, William a dit « Ok, montre-moi les deux devis »,
-n'a rien fait de plus, puis a glissé qu'il voulait la féliciter lors d'une sortie cette semaine : **jet (20 %) : NON** ; Grace a
-proposé un **déjeuner d'équipe vendredi 27/07 à midi** (Abdoul, Yves) et une **demi-page écrite sur sa clause d'ici mercredi** ;
-elle est sortie en laissant la porte ouverte ; **Aïcha l'a vue sortir** (silence) ; Grace note l'échange dans son carnet vers
-12h20 (**William ne le sait pas**) ; Mariette croisée à 12h35, sandwich intact. William lira la **note de Mariette jeudi 26/07 soir**
-et lui répondra le soir même (**Mariette n'en est pas informée**). **Réponse de William attendue** pour le déjeuner de vendredi.
-À venir aujourd'hui : **clinique de Marcory à 14h** (Abdoul, Grace, Dr Yapi), **appel à Sandra entre 17h et 18h (Abidjan) = 19h-20h à
-Esch**. Mercredi 25/07 : attestation du Capitol mardi 9h ; **Me Kouamé mercredi 15h**. Aléa de la semaine tiré (jeudi matin, voir
-`memoire/tirages-aleas.md`, non révélé). Voir `journal/2040-07-23.md`, `etat/fils-ouverts.md`, `etat/traces.md`, `etat/vies-privees.md`.
+**Lundi 23 juillet 2040, 12h22 — Grace vient de quitter le bureau de William, effrayée ; l'après-midi commence.**
+À 12h14, après la scène des devis, William s'est **collé au dos de Grace** (porte fermée), lui a dit que c'était parfait pour la clause,
+qu'il lui faisait confiance, qu'il avait **les moyens de la faire arriver très haut** et qu'elle n'avait qu'à lui faire confiance et
+**ne pas avoir peur de lui**. **Grace est restée figée cinq secondes**, est passée au **vouvoiement** (« Je comprends, patron. Je vais
+faire mon travail. »), ne l'a pas regardé et est sortie à 12h20 en laissant la porte ouverte ; **Aïcha a vu son visage fermé**. Le
+moteur n'a rien détaillé et n'avance pas le geste suivant. **Suites tirées au sort et non révélées à William** (jets du 23/07) :
+Grace se confiera à **Mariette au plus tard mercredi 25/07 midi** ; pas de démarche externe ni de démission cette semaine ; Aïcha
+n'interroge pas Grace d'ici le 24/07 ; Grace note tout dans son carnet. **Toujours en attente de William** : réponse au déjeuner d'équipe
+de vendredi 27/07 (Abdoul, Yves) proposé par Grace ; lecture de la note de Mariette jeudi 26/07 soir. À venir aujourd'hui : **clinique de
+Marcory à 14h** (Abdoul, Grace, Dr Yapi), **appel à Sandra entre 17h et 18h (Abidjan) = 19h-20h à Esch**. Mardi 9h : attestation du
+Capitol ; mercredi 15h : Me Kouamé ; aléa de la semaine (jeudi matin, non révélé). Voir `journal/2040-07-23.md`, `etat/fils-ouverts.md`,
+`etat/traces.md`, `etat/vies-privees.md`.
 
 ## 10. PROTOCOLE DE RELAIS (Claude ⇄ Gemini)
 L'utilisateur alterne entre Claude et Gemini (Antigravity) selon ses crédits. Le moteur le plus puissant
