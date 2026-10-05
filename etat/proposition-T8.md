@@ -1,7 +1,7 @@
-# Proposition de table T8 — partenaire ou proche non hiérarchique (NON VALIDÉE)
+# Proposition de table T8 — partenaire ou proche non hiérarchique (VALIDÉE le 25/07/2040 : copiée dans `etat/modele-pouvoir.md`)
 
 > **Proposée par le moteur le 25/07/2040 à la demande de l'utilisateur (« oui T8, seulement si tu penses que ça contribuerait au réalisme »).**
-> **Ne pas utiliser avant validation de l'utilisateur** : ce fichier n'est pas lu par `outils/jet.py`. Tant qu'elle n'est pas validée, les réactions de Sandra, de Kevin et de la famille se jouent
+> **VALIDÉE par l'utilisateur le 25/07/2040 (« mets en place T8 »)** : la source de vérité est désormais `etat/modele-pouvoir.md` ; ce fichier est conservé pour l'historique et n'est pas lu par `outils/jet.py`. *(Avant : non validée → maintenant : validée.)* Tant qu'elle n'est pas validée, les réactions de Sandra, de Kevin et de la famille se jouent
 > par **jets libres en dérogation consignée** (`--derogation`), listés par `outils/audit_jets.py`. Une fois validée, la table est copiée dans `etat/modele-pouvoir.md` (même format, validateur et plafonds).
 
 ## Pourquoi (avis du moteur)

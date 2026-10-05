@@ -225,7 +225,7 @@ def jet_libre(args):
         sys.exit("Usage : jet.py \"libellé\" proba   |   jet.py --table Tn [--mod Mxx] \"libellé\"   |   jet.py --liste")
     if REACTION_LIBRE.search(args.libelle) and not args.derogation and not args.simule:
         sys.exit("REFUSÉ (règle 17) : ce libellé décrit la réaction d'un personnage à un acte de William. Tirer dans une table "
-                 "(--table T1, T1b, T2, T3, T4, T5, T7a, T7b, T7c ; etat/modele-pouvoir.md) ou justifier une exception avec "
+                 "(--table T1, T1b, T2, T3, T4, T5, T7a, T7b, T7c, T8 ; etat/modele-pouvoir.md) ou justifier une exception avec "
                  "--derogation \"raison\" (consignée et auditée).")
     jet = random.SystemRandom().uniform(0, 100)
     oui = jet < args.proba
@@ -253,7 +253,7 @@ def main():
     ap = argparse.ArgumentParser(description="Jet de dé du moteur (probabilité libre ou table de pouvoir)")
     ap.add_argument("libelle", nargs="?")
     ap.add_argument("proba", nargs="?", type=float, help="probabilité de OUI, en %% (jet libre)")
-    ap.add_argument("--table", help="table de pouvoir : T1, T1b, T2, T3, T4, T5, T7a, T7b, T7c")
+    ap.add_argument("--table", help="table de pouvoir : T1, T1b, T2, T3, T4, T5, T7a, T7b, T7c, T8")
     ap.add_argument("--mod", action="append", default=[], help="modificateur (M01…), 3 au maximum")
     ap.add_argument("--informes", type=int, help="T5 : personnes qui connaissent l'affaire, William exclu")
     ap.add_argument("--derogation", help="justification d'un jet libre portant sur une réaction (consignée, auditée)")

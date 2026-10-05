@@ -48,8 +48,7 @@ jets libres (`outils/jet.py "libellé" proba`).
 - **Aïcha** (gérante, ex de William, CDD, mère malade, nom sur les papiers) : T3.
 - **Abdoul, Yves, Sékou** : T2 s'ils apprennent quelque chose ; T7c pour les ordres ordinaires.
 - **Manœuvres de William** (faire taire, faire croire, demander un service) : T7a, T7b, T7c.
-- **Sandra, Kevin, la famille** : pas de table (relation non hiérarchique) ; les tests d'intérêt et de la phrase s'appliquent quand même ;
-  créer une table T8 le jour où une scène l'exige, après validation de l'utilisateur.
+- **Sandra, Kevin, la famille** : **T8** (validée par l'utilisateur le 25/07/2040) pour la **première réaction** à une confidence partielle, une esquive ou une demande déplacée ; les tests d'intérêt et de la phrase s'appliquent ; les **faits de fiche** (ex. Sandra refuse les images intimes) restent des faits, non tirés. *(Avant : « pas de table ; créer T8 le jour où une scène l'exige » → maintenant : T8 installée.)*
 - Les **scènes déjà jouées** (Grace le 23/07, Mariette le 25/07 à 09h25, Aïcha le 25/07 à 09h50) restent telles que jouées ; leurs suites
   passent par les tables.
 
@@ -148,6 +147,18 @@ Règles de rôle, sans tirage ; l'argent et le statut de William ne les achèten
 | execute_partiellement | 7 | Fait à moitié ou « oublie » (lenteur passive). |
 | frontal_refus | 3 | Refus net : jouer l'acte, pas un discours. |
 
+### T8 — Partenaire ou proche non hiérarchique face à une confidence partielle, une esquive ou une demande déplacée (première réaction)
+| Issue | % | En scène |
+|---|---|---|
+| soutient_sans_creuser | 22 | Elle prend ce qu'on lui dit, console, propose du concret, ne creuse pas. |
+| creuse_doucement | 25 | Elle pose des questions neutres pour comprendre (« comment ? avec qui ? »). |
+| releve_esquive | 18 | Elle remarque que la réponse esquive ou que le sujet change, le dit calmement et garde le contact. |
+| plaisante_et_devie | 12 | Elle répond par l'humour et laisse le sujet de côté. |
+| froideur | 10 | Elle devient brève et distante (« ok »), sans conflit ouvert. |
+| agacement_net | 7 | Elle pose tout de suite une limite nette, ton ferme. |
+| rien_ne_dit_soupconne | 5 | Elle ne dit rien ; le doute s'installe (effet différé). |
+| frontal_rupture | 1 | Elle met fin à l'appel ou à la relation : jouer l'acte, pas un discours. |
+
 ### Modificateurs (liste fermée ; 3 au maximum par tirage ; chacun déplace des points d'une issue vers une autre)
 | Code | Tables | Effet | Quand l'appliquer |
 |---|---|---|---|
@@ -176,6 +187,11 @@ Règles de rôle, sans tirage ; l'argent et le statut de William ne les achèten
 | M33 | T7b | incredule_silencieux +10 ; succes_net -10 | La cible connaît bien William |
 | M34 | T7b | doute_visible +10 ; succes_net -10 | La version se vérifie facilement (pièce, témoin) |
 | M35 | T7b | succes_net +8 ; doute_visible -8 | La cible est déférente et n'a aucun moyen de vérifier |
+| M40 | T8 | creuse_doucement +6 ; releve_esquive +4 ; soutient_sans_creuser -6 ; plaisante_et_devie -4 | Peur des silences (héritée de Ricardo) |
+| M41 | T8 | agacement_net +5 ; froideur +3 ; soutient_sans_creuser -4 ; plaisante_et_devie -4 | Fierté, indépendance, méfiance de l'argent ou du contrôle |
+| M42 | T8 | soutient_sans_creuser +5 ; plaisante_et_devie +3 ; creuse_doucement -5 ; releve_esquive -3 | Fatigue, juste avant sa garde de nuit |
+| M43 | T8 | releve_esquive +5 ; rien_ne_dit_soupconne +3 ; froideur +2 ; soutient_sans_creuser -10 | Déjà alertée : acte répété, silences récents |
+| M44 | T8 | soutient_sans_creuser +6 ; frontal_rupture -1 ; agacement_net -2 ; froideur -3 | Confiance récente (« je t'aime », engagement tenu) |
 
 ## 6. William n'est pas un dieu (symétrie)
 1. **Ses manœuvres sur autrui sont tirées** (T7) ; aucune réussite automatique, même quand sa position est forte ; le « succès net » est plafonné.
