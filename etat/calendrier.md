@@ -1,4 +1,4 @@
-# Calendrier (au 25/07/2040, 15h14)
+# Calendrier (au 25/07/2040, 15h52)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -55,6 +55,9 @@
 | **Mer. 25/07, 10h10-10h13** | **William donne sa consigne à Aïcha** (colère) : personnel féminin via la DG avec rapport ; plus d'échange direct avec Mariette ni Grace. **Aïcha : « Oui, patron. »** Voix perceptible dans la villa. |
 | **Mer. 25/07, 14h53-15h08** | William répond à Aïcha (télétravail de Mariette **refusé** ; Grace à voir aujourd'hui), à Sandra (« On s'appelle »), prévient Me Kouamé ; arrive au cabinet à 15h06 ; Me Kouamé demande passeport et justificatif d'origine des fonds. |
 | **Mer. 25/07, 15h08-15h14** | William remet passeport et relevés du compte projet ; Me Kouamé les lit et demande la profession de William (vigilance anti-blanchiment). |
+| **Mer. 25/07, 15h14-15h52** | William explique tout à Me Kouamé (profession, absence d'autorisation, direction de fait, contrats « Gérant »), valide honoraires et frais ; Me Kouamé présente le projet (115 M FCFA) ; **William n'a pas encore choisi le montant ni signé**. |
+| **Mer. 25/07, avant ~16h50** | Courriel de Me Kouamé avec le projet pour la Spuerkeess (« dans l'heure »). |
+| **Ven. 27/07 (au plus tard)** | William envoie à Me Kouamé trois bulletins de salaire + avis d'imposition ; **Aïcha au cabinet pour la ratification des contrats**. |
 | **Mer. 25/07, avant 15h** | ~~Aïcha parle à Grace, seule~~ **REPORTÉ à demain** (T3 : rien_attend ; Aïcha le demande à William dans son rapport de 13h48, « si tu es d'accord ») → **RAMENÉ à aujourd'hui sur ordre de William (14h53) : Aïcha voit Grace cet après-midi.** |
 | **Mer. 25/07, 11h45** | ~~Mariette repasse chez William s'il veut en reparler~~ **ANNULÉ** (consigne de 10h12 : Mariette passe par Aïcha ; personne n'est venu). |
 | **Mer. 25/07, 15h** | **Rendez-vous avec Maître Kouamé (cabinet, Plateau)** : décision de l'associé unique, projet de décision d'augmentation de capital, chiffrage. Confirmé le 23/07. **William part à 14h05 ; circulation dense ; arrivé à 15h06 (6 minutes de retard, cabinet prévenu à 14h55).** |
