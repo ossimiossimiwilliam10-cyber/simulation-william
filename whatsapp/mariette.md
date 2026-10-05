@@ -34,3 +34,7 @@ Bien sûr patron. Je préviens l'équipe cet après-midi et je propose des règl
 
 **[25/07/2040 - 09:05] Mariette :**
 Patron, j'aurais besoin de vingt minutes avec toi aujourd'hui, en privé. C'est un sujet RH sensible, je préfère te le dire de vive voix. Si possible avant ton rendez-vous de 15h. Dis-moi quand tu peux.
+
+**[25/07/2040 - 09:07] William :**
+Viens dès que tu peux, je suis disponible immédiatement.
+*(Texte reconstitué à partir de la dictée.)*

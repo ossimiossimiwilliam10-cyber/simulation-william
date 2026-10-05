@@ -29,7 +29,18 @@ Merci patron 😊 Volontiers. Je te préviens, cette clause je l'ai demandée mo
 Grace, je suis sincèrement désolé. Je n'essaie pas de mentir : je me rends compte que ce que j'ai fait est grave. J'ai toujours eu un problème avec mes pulsions sexuelles. Je suis désolé. À partir de maintenant, je te regarderai uniquement comme une femme compétente au travail, et pas comme un objet sexuel ni rien de ce genre. Si tu te sens vraiment mal, tu peux partir : je n'essaierai pas de te retenir, car je comprends ce que tu ressens. Je te demande sincèrement de m'excuser. Je voudrais qu'on redevienne comme avant. Je suis vraiment désolé, tellement désolé. Comment est-ce que je pourrais me racheter ?
 *(Texte reconstitué à partir de la dictée ; « ses pulsions » lu « mes pulsions ».)*
 
-*(Message délivré à 17h44, **lu par Grace à 18h07**. Pas de réponse à 18h10.)*
+*(Message délivré à 17h44, **lu par Grace à 18h07**. Pas de réponse à 18h10. **Supprimé pour tous par William le 24/07 à 22h20** : Grace en conserve une capture et Mariette l'a lu le 24/07.)*
 
 **[25/07/2040 - 07:58] Grace :**
 Monsieur Ossimi, ma note sur la clause est sur le serveur, dans commercial/ (clause_marches_2507.pdf). Je reste à votre disposition par écrit. G. Adjoua-Mensah
+
+**[24/07/2040 - 22:20] William :**
+*(Suppression « pour tous » de son message du 23/07 à 17h41. Dans la conversation de Grace : « Ce message a été supprimé ».)*
+
+**[24/07/2040 - 22:21] William :**
+Je m'excuse. J'ai effacé mon message complètement, pour nous deux.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[25/07/2040 - 08:05] William :**
+Merci, Grace.
+*(Réponse à sa note du 25/07 à 07h58. Pas de réponse de Grace.)*

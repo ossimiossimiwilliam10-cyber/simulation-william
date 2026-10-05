@@ -22,3 +22,4 @@ dessine des voitures au bas de ses copies. *Physique détaillé à préciser.*
 - 21/07, 13h50 : écrit à William pour la première fois (numéro donné par Sandra), sur WhatsApp, avec vouvoiement et excuses. Même question : « Vous revenez bien en septembre ? ». *En attente de réponse.*
 - 21/07, 14h03-14h06 : William lui répond « Oui je reviens en septembre tkt pas » ; Kevin remercie (« monsieur ») et va le dire à sa mère. **Promesse écrite de William.**
 - 24/07, 17h-18h38 : signe son contrat d'apprentissage chez M. Da Silva ; écrit à William à 18h38 (combinaison de travail, « Maman a pleuré un peu 😅 », merci pour septembre). *En attente de réponse.*
+- 24/07 18h52 : William lui répond « De rien, mon garçon. Je suis heureux de te voir heureux. » ; 25/07 07h12 : Kevin répond « 🙂 Bonne journée monsieur ».

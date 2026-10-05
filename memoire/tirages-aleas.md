@@ -60,3 +60,9 @@ Effets à jouer : A06 (jeudi 26/07 (matin)) : Délai supplémentaire ; l'excuse 
 - Jet « Mariette en parle à Aïcha mercredi (avant 14h) » : probabilité 45 %, jet  15.2 → **OUI** (enregistré le 05/10/2026 17:03 heure machine)
 
 - Jet « Grace remet sa demi-page sur la clause mercredi matin comme promis » : probabilité 90 %, jet  13.2 → **OUI** (enregistré le 05/10/2026 17:03 heure machine)
+
+- Jet « Grace informe Mariette de la suppression du message d'excuses avant 09h15 le 25/07 » : probabilité 70 %, jet  36.1 → **OUI** (enregistré le 05/10/2026 17:13 heure machine)
+
+- Jet « Grace répond au « Merci » de William (réponse courte, vouvoiement) » : probabilité 40 %, jet  72.5 → **NON** (enregistré le 05/10/2026 17:13 heure machine)
+
+- Jet « Kevin répond à William (emoji ou mot court) avant 09h le 25/07 » : probabilité 60 %, jet  30.9 → **OUI** (enregistré le 05/10/2026 17:13 heure machine)

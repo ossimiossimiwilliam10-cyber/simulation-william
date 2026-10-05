@@ -134,20 +134,22 @@ Direct, structuré, sobre. Pas de flatterie ni d'encouragements.
 Langue : **français**.
 
 ## 9. POINT DE REPRISE
-**Mercredi 25 juillet 2040, 09h10 — Mariette demande à voir William seule ; Me Kouamé à 15h ; Sandra à 17h.**
-« Go » joué de mardi 15h à mercredi 09h10. **Mardi** : travail courant ; **Kevin a signé** chez M. Da Silva et écrit à William à
-18h38 (« Maman a pleuré un peu », merci pour septembre) — **réponse facultative en attente** ; Sandra n'a envoyé aucun rappel. **Mercredi**
-: **07h58 Grace** remet sa note sur la clause (`serveur/commercial/clause_marches_2507.pdf`), en « vous » et par écrit, n'entre pas dans le
-bureau, exige un avenant écrit ; **09h05 Mariette** demande **vingt minutes en privé avant 15h** (« sujet RH sensible, je préfère te le
-dire de vive voix »). **Non connu de William (jets)** : Mariette en parlera à **Aïcha avant 14h** (Aïcha sera donc informée au rendez-vous de
-15h chez Me Kouamé) ; Grace a montré le message d'excuses à Mariette et en garde une capture ; aucune condition écrite de Grace dans les 48 h ;
-pas de démarche externe ni de démission cette semaine ; Abdoul n'a pas encore parlé à Bertin. **À décider par William** : **répondre à Mariette
-(quand, où)** ; valider les honoraires de Me Kouamé et fournir passeport + justificatif d'origine des fonds (rendez-vous **15h au Plateau**) ;
-voie alternative pour le niveau 3 (l'attestation d'hôtel a été refusée) ; réponse au déjeuner d'équipe de vendredi 27/07 ; devis de la clinique
-(dû vendredi 27/07) ; réaction aux règles de classement de Mariette ; réponse à Kevin ; **appel à Sandra 17h (Abidjan) = 19h (Esch), prévenir
-AVANT en cas d'empêchement**. Jeudi matin : aléa de la semaine (non révélé) ; jeudi soir : note de Mariette ; **mercredi soir : fiche complète**.
-**Effort** : l'utilisateur est repassé en **Extra** et attend l'indication de quand changer de niveau. Voir `journal/2040-07-25.md`,
-`etat/fils-ouverts.md`, `etat/vies-privees.md`, `etat/traces.md`.
+**Mercredi 25 juillet 2040, 09h25 — Mariette vient de parler à William ; il doit lui répondre.**
+**Mardi soir** : William répond à Kevin (« De rien, mon garçon. Je suis heureux de te voir heureux. ») ; se met un rappel pour appeler
+Sandra mercredi ; **22h20 : supprime « pour tous » son message d'excuses à Grace** (fenêtre WhatsApp de 60 h : possible jusqu'à jeudi 05h41) et
+lui écrit à 22h21 : « Je m'excuse. J'ai effacé mon message complètement, pour nous deux. » (Grace a une capture ; Mariette a lu l'original).
+**Mercredi** : Kevin « 🙂 Bonne journée monsieur » (07h12) ; Grace n'a pas répondu à la suppression ni au « Merci, Grace. » de 08h05 ; **09h12 :
+Mariette** (debout dans l'encadrement, **porte ouverte**, cahier fermé, aucun « hein ») : Grace lui a **tout raconté** et montré le message ;
+elle sait qu'il l'a supprimé (« effacer, de l'extérieur, ça ressemble à autre chose que des excuses ») ; le mot **« toujours »** résonne avec le
+**16 mai** ; elle est DRH (art. 5, obligation d'enquêter et d'informer la gérante) : **elle préviendra Aïcha à midi**, sauf si William le fait avant ;
+elle consignera **hors du serveur** (exception à sa règle) ; elle demande **plus aucun échange seul à seul avec Grace** et **plus rien d'effacé** ;
+elle n'exige pas de réponse immédiate. **À décider par William** : sa réponse à Mariette ; prévenir Aïcha lui-même avant midi ou non ; **Me Kouamé
+à 15h** au Plateau (Aïcha probablement présente, donc informée) : valider les honoraires, passeport + justificatif d'origine des fonds, signer comme
+associé unique ; **appel à Sandra à 17h (Abidjan) = 19h (Esch), prévenir AVANT en cas d'empêchement** ; voie pour le niveau 3 (attestation d'hôtel
+refusée) ; déjeuner d'équipe de vendredi 27/07 ; devis de la clinique (dû vendredi 27/07). Jeudi matin : aléa de la semaine (non révélé) ; jeudi soir :
+note de Mariette ; **mercredi soir : fiche complète**. **Non connu de William (jets)** : Grace garde sa capture et note tout ; aucune condition écrite
+dans les 48 h ; pas de démarche externe ni de démission cette semaine ; Abdoul n'a pas encore parlé à Bertin. **Effort** : l'utilisateur est en
+**Max** pour ce tour (conseillé) ; indiquer ensuite quand repasser en Extra. Voir `journal/2040-07-25.md`, `etat/fils-ouverts.md`, `etat/traces.md`.
 
 ## 10. PROTOCOLE DE RELAIS (Claude ⇄ Gemini)
 L'utilisateur alterne entre Claude et Gemini (Antigravity) selon ses crédits. Le moteur le plus puissant

@@ -47,3 +47,9 @@
 - **Grace (25/07 07h58)** : remet sa note sur la clause en « vous » et par écrit, n'entre pas dans le bureau de William ; exige un avenant écrit pour toute modification de sa mission ; elle reste en poste.
 - **Mariette (25/07 09h05)** : demande un entretien privé à William avant 15h ; **en parlera à Aïcha avant 14h** (non connu de William) ; la nuit précédente elle n'a envoyé aucun message.
 - **Sandra (24/07 soir)** : pas de rappel ; elle attend mercredi 17h (Abidjan).
+
+## Avancées du 25/07 (matin)
+- **Mariette (09h12)** : a fait sa déclaration à William debout dans l'encadrement, porte ouverte, sans « hein » ; **informera Aïcha à midi** (sauf si William la devance) ; consignera hors serveur ; demande deux choses ; a cité le 16 mai ; elle a peur mais tient.
+- **Grace** : a informé Mariette de la suppression du message ; ne répond pas au « Merci » ; reste formelle et écrite.
+- **Kevin (07h12)** : « 🙂 Bonne journée monsieur ».
+- **Sandra** : aucune nouvelle depuis lundi ; rappel de l'appel de 17h noté dans le téléphone de William.

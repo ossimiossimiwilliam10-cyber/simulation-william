@@ -15,3 +15,10 @@ D'accord, merci monsieur 🙂 Je dis à maman que vous revenez.
 
 **[24/07/2040 - 18:38 (Abidjan) / 20:38 (Esch)] Kevin :**
 Bonsoir monsieur, c'est Kevin. J'ai signé chez M. Da Silva aujourd'hui. Il m'a donné une combinaison de travail. Maman a pleuré un peu 😅 Merci encore pour septembre.
+
+**[24/07/2040 - 18:52 (Abidjan)] William :**
+De rien, mon garçon. Je suis heureux de te voir heureux.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[25/07/2040 - 07:12 (Abidjan) / 09:12 (Esch)] Kevin :**
+🙂 Bonne journée monsieur
