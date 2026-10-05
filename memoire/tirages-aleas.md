@@ -147,3 +147,11 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Me Kouamé envoie le courriel avec la décision corrigée (115 M FCFA, relue à 17h) pour la Spuerkeess avant 18h » : probabilité 75 %, jet  65.2 → **OUI** (enregistré le 05/10/2026 23:56 heure machine)
 
 - Jet « Averse tropicale sur Cocody entre 17h30 et 18h15 (juillet, saison des pluies) » : probabilité 35 %, jet  90.4 → **NON** (enregistré le 05/10/2026 23:56 heure machine)
+
+- Tirage [T3] « Aïcha : conduite lors de son entretien avec Grace (ordre de William du 25/07 14h53), premières 24 h ; gérante signataire (M11), CDD et famille (M12), lien affectif avec William (M13) » : contient 40 / garanties_indirectes 24 / rien_attend 19 / consigne_avocat 4 / eloigne_victime 12 / frontal_confronte 1 / frontal_demission 0 ; modificateurs : M11, M12, M13 ; jet  22.0 → **contient** (enregistré le 06/10/2026 00:00 heure machine)
+
+- Tirage [T1] « Mariette : réaction au refus du télétravail transmis par Aïcha en retard (18h10) ; CDD récent (M01), Aïcha amie proche (M02), déjà visée le 16/05 (M03) » : rien_absorption 20 / evitement 29 / confidence_proche 20 / confidence_collegue 18 / negociation_tacite 4 / depart_discret 9 / frontal_formel 0 ; modificateurs : M01, M02, M03 ; jet  16.0 → **rien_absorption** (enregistré le 06/10/2026 00:00 heure machine)
+
+- Jet « Me Kouamé envoie la convention d'honoraires et l'état du solde de la création avant 21h » : probabilité 85 %, jet  40.6 → **OUI** (enregistré le 06/10/2026 00:00 heure machine)
+
+- Jet « Me Kouamé : l'état du solde de la création comporte un poste non annoncé (avenants de prise de poste facturés à part, 3 x 100 000 FCFA), friction économique » : probabilité 30 %, jet  66.7 → **NON** (enregistré le 06/10/2026 00:02 heure machine)

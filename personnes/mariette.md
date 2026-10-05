@@ -36,3 +36,4 @@ Fidèle à Aïcha avant tout. Son intérêt : garder son poste et ne pas porter 
 - 25/07, 09h37 : après le bureau de William, va droit chez Aïcha et lui raconte tout ; en ressort les yeux rouges ; croise William dans le couloir sans un mot (09h42).
 - 25/07, 10h50 : Aïcha l'informe en personne que les échanges avec William passent par elle ; **demande à reprendre le télétravail le mardi et le jeudi** dès la semaine prochaine, sans dire pourquoi (T1 : négociation tacite, jet 87.7). Le créneau de 11h45 chez William tombe.
 - 25/07, 14h53 : William refuse son télétravail (mardi et jeudi) ; **elle ne le sait pas encore** (Aïcha le lui dira en retard, ce soir) ; réaction à tirer (T1) à ce moment-là.
+- 25/07, 18h10 : Aïcha lui dit que le télétravail est refusé (« tout depuis le QG ») ; **« D'accord. »** (T1 : rien_absorption, M01 + M02 + M03, jet 16.0) ; retourne à son poste ; son repas reste intact. Elle ne connaît pas la formule employée par William.

@@ -92,3 +92,10 @@ Pour Mariette : non au télétravail le mardi et le jeudi. Tout se fait depuis l
 
 **[25/07/2040 - 14:57] Aïcha :**
 Bien, patron. Je vois Grace cet après-midi.
+
+**[25/07/2040 - 19:02] Aïcha :**
+Patron, point de fin de journée.
+15h50 : j'ai vu Grace. Tout est calme. Je te dirai le détail de vive voix demain, si tu es d'accord.
+18h10 : j'ai dit à Mariette pour le télétravail. Elle a répondu : « D'accord. »
+Maître Kouamé m'écrit de passer au cabinet vendredi pour régulariser la signature des cinq contrats. Je le ferai.
+Je reste disponible.

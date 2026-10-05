@@ -35,3 +35,4 @@ son contrat lui interdit les marchés publics et les commissions.
 - 24/07 22h20 → 25/07 08h05 : voit le message d'excuses « supprimé » et le second message (« Je m'excuse. J'ai effacé mon message complètement, pour nous deux. »), en informe Mariette ; ne répond pas au « Merci, Grace. » ; ~~garde sa capture~~ *(aucune capture, T1b 25/07)*.
 - 25/07 (T1b 25/07, jets 8.8 et 14.8) : **aucune capture** du message d'excuses et **aucune note** de l'incident. Ce qu'elle a : sa mémoire, le fait que Mariette ait lu le message sur son téléphone le 24/07, et le second message de William (« J'ai effacé mon message complètement… »).
 - 25/07, 11h05 : Aïcha l'informe par écrit que les échanges avec William passent par elle ; elle répond « Bien reçu. » ; **se confie à un proche hors du travail** (T1 : confidence_proche, jet 65.5) *(non connu de William)*.
+- 25/07, 15h50 : Aïcha la voit discrètement (T3 : contient) ; « Bien, Madame Diomandé. » ; rien ne se voit au QG.
