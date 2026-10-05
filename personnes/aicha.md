@@ -56,3 +56,4 @@ propose des alternatives légales. Elle négocie dur avec les artisans.
 - 22/07, 21h58-22h04 : William lui écrit que le remboursement attend son compte ivoirien ; elle répond « Bien noté. » (court). Elle n'a pas reçu la réponse à sa question du groupe (forme de la dotation) ; elle voit Me Kouamé lundi.
 - 23/07 : 06h51 « La gérante, c'est moi. » ; 09h20 « Bonjour. » formel ; rendez-vous chez Me Kouamé (10h-11h) puis compte rendu écrit à 11h26. Dépose son spécimen de signature à la SGBCI à 08h40. Ton sec mais très professionnel ; aucune allusion au week-end.
 - 23/07 : à 07h31 « Parfait. » (William signera comme associé unique) ; à 09h20 « Bonjour. » ; a vu William reprendre le chef d'équipe de SécuTech depuis le perron ; à 11h46 confirme le rendez-vous de mercredi 15h avec Me Kouamé.
+- 23/07, 12h17 : voit Grace sortir du bureau de William ; lève les yeux, les rebaisse, ne dit rien.

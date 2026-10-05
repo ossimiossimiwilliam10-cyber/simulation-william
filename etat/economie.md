@@ -24,3 +24,7 @@ Toute démarche à enjeu (banque, attestation, RCCM, CNPS, impôts, ministère, 
 **jet « deuxième passage demandé » à 30 %** (`python outils/jet.py "<démarche>" 30`) : justificatif manquant, refus, délai,
 mauvais service. Le résultat est joué sans commentaire et consigné. Ne pas rejouer un jet. Un taux différent est possible si le
 réalisme l'exige (ex. dossier incomplet connu d'avance : 100 %).
+
+## Pré-devis (trames) de Grace du 23/07 (fourchettes du moteur, à confirmer par le relevé d'Abdoul et les prix d'achat du fournisseur libanais)
+- **Clinique de Marcory** : 18 à 24 M FCFA (≈ 27 400 à 36 600 €), marge brute plancher 25 %. Argument commercial : réfrigérateurs à vaccins et blocs opératoires protégés des délestages.
+- **Villa Riviera** : 15 à 20 M FCFA (≈ 22 900 à 30 500 €), marge brute plancher 20 % ; deux devis concurrents.

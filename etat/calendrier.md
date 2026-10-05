@@ -1,4 +1,4 @@
-# Calendrier (au 23/07/2040, 12h02)
+# Calendrier (au 23/07/2040, 12h40)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -24,7 +24,7 @@
 | Sam. 21 – Dim. 22/07 | Week-end écoulé. Aïcha (17/07) : « Ce week-end peut-être. Si tu es sage. » — **aucune rencontre** (Aïcha chez sa mère ; William n'a pas relancé). |
 | Dim. 22/07, soir | **FAIT** : synthèse de la semaine ISO 29 (`memoire/semaine-2040-W29.md`) + fiche complète. |
 | Mer. 25/07, soir | Prochaine fiche complète (3 jours simulés après le 22/07). |
-| Sam. 28/07, matin | William lit en détail la note juridique de Mariette ; retour « d'ici la semaine prochaine ». |
+| **Jeu. 26/07, soir** | **William lit en détail la note juridique de Mariette après le travail et lui fait son retour le soir même** (avant : samedi 28/07 matin, retour la semaine suivante ; Mariette n'est pas informée du changement). |
 | **Lun. 30/07** | **Revue du lundi** (deuxième) ; arrivée possible des fonds de la dotation à la SGBCI (lun. 30 – mar. 31/07). |
 | Dim. 29/07, soir | Synthèse de la semaine ISO 30 (`memoire/semaine-2040-W30.md`). |
 | Lun. 23/07, 8h | Aïcha + Mariette : intégrer la matrice d'évaluation au règlement (annoncé le 20/07). |
@@ -47,6 +47,8 @@
 | Jeu. 26/07, matin | Aléa tiré de la semaine (voir `memoire/tirages-aleas.md`). |
 | Jeu. 26/07 | SécuTech : fin des travaux prévue (câble des 2 caméras d'accueil) ; solde de 525 000 FCFA à l'achèvement. |
 | Jeu. 26/07 | Grace : devis comparatif villa Riviera prêt. Abdoul : plan technique (« Jeudi. »). |
+| Mer. 25/07 | Grace remet une demi-page écrite sur la clause « marchés publics / commissions ». |
+| Ven. 27/07, midi | **Déjeuner d'équipe proposé par Grace** (William, Grace, Abdoul, Yves) pour fêter la visite de la clinique et le premier devis — **réponse de William attendue**. |
 | Mar. 24/07, 17h | Kevin : signature du contrat d'apprentissage chez M. Da Silva (Chambre des métiers) — annoncé par Sandra le 22/07 (avant : « semaine du 23/07 »). |
 | Non daté | Abdoul : présentation de l'équipe technique et du devis (reportée). |
 | Non daté | Mariette : revue de la légalité des contrats (demandée le 19/07 au soir) — résultat pas encore rendu. |

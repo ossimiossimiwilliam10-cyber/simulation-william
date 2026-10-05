@@ -19,3 +19,8 @@
 | **M. Tanoh** (propriétaire) | Retraité des douanes ; client potentiel (villa de Bingerville) | Aucun contact récent | Visite au QG ; demande de devis ; remarque sur les travaux |
 | **Bertin Assi, Didier Kacou, Yannick Assi** | Bertin a perdu 2 ouvriers ; Didier évincé pour les batteries (ressentiment) ; Yannick est l'ami de William à Esch | Bertin pas encore informé du statut de sous-traitant | Didier se plaint à Yannick ; Yannick écrit à William |
 | **Sékou** (chef d'équipe SécuTech, *moteur*) | Pressé par ses délais ; William l'a repris sur le retard | Travaux jusqu'à jeudi 26/07 | Rancune ou excuses ; qualité du travail |
+
+## Avancées du 23/07
+- **Grace** : a refusé le tête-à-tête sans froisser (déjeuner d'équipe) ; **a noté l'échange dans son carnet vers 12h20** (William ne le sait pas) ; prépare une demi-page écrite sur sa clause « marchés publics / commissions » d'ici mercredi ; elle garde la place et observe.
+- **Aïcha** : a vu Grace sortir du bureau de William à 12h17, porte laissée ouverte ; silence ; fierté et jalousie.
+- **Mariette** : croisée à 12h35, sandwich intact devant son écran, sourire trop rapide ; fatigue visible.

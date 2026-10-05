@@ -131,20 +131,16 @@ Direct, structuré, sobre. Pas de flatterie ni d'encouragements.
 Langue : **français**.
 
 ## 9. POINT DE REPRISE
-**Lundi 23 juillet 2040, 12h02 — William est dans son bureau avec Grace, porte fermée.**
-**Revue du lundi** : les cinq idées sont **validées** (aléas A01 A04 A06 A09 A13 actifs ; `etat/vies-privees.md`,
-`etat/traces.md`, `etat/economie.md`, `outils/jet.py` créés) ; revue **chaque lundi**. **Tirage réel fait** (un aléa tombe cette
-semaine : voir `memoire/tirages-aleas.md` ; **non révélé au joueur**, à jouer au jour tiré). **Scène en cours** : après avoir
-validé tout le récap de Grace (planchers 25 % / 20 %) et demandé à discuter de sa clause « marchés publics / commissions »
-(elle : « je la touche pas sans écrit »), William a posé ses mains sur ses épaules puis sur sa taille en la félicitant ; **Grace a
-écarté sa main sans brusquerie** (« Merci, patron. »), demi-pas vers la table, « les deux devis, on a cinq minutes » ; porte
-restée fermée ; **le moteur n'avance pas le geste suivant de William**. Matinée : Aïcha « Parfait. » / « Bonjour. » ;
-**statuts** d'OSIA déposés (William associé unique, **Aïcha gérante**) ; William a envoyé à la Spuerkeess statuts, relevés et
-bulletins (il manque le **projet de décision** : **Me Kouamé mercredi 25/07 15h**, confirmé) → fonds à la SGBCI entre lun. 30 et
-mar. 31/07 ; attestation du Capitol **mardi 9h** ; SécuTech : William a repris le chef d'équipe **Sékou** (fin jeudi 26/07) ; note
-juridique de Mariette déposée, William la lira **samedi 28/07 matin** (retour « d'ici la semaine prochaine ») et exige que tout soit
-classé (Mariette propose des règles ce soir). **À venir aujourd'hui** : clinique de Marcory **14h** (Abdoul, Grace), **appel à
-Sandra entre 17h et 18h (Abidjan) = 19h-20h à Esch**. Voir `journal/2040-07-23.md`, `etat/fils-ouverts.md`, `etat/traces.md`.
+**Lundi 23 juillet 2040, 12h40 — William vient de quitter la scène avec Grace ; l'après-midi commence.**
+Dans le bureau, après le geste de 12h00 que Grace a écarté sans brusquerie, William a dit « Ok, montre-moi les deux devis »,
+n'a rien fait de plus, puis a glissé qu'il voulait la féliciter lors d'une sortie cette semaine : **jet (20 %) : NON** ; Grace a
+proposé un **déjeuner d'équipe vendredi 27/07 à midi** (Abdoul, Yves) et une **demi-page écrite sur sa clause d'ici mercredi** ;
+elle est sortie en laissant la porte ouverte ; **Aïcha l'a vue sortir** (silence) ; Grace note l'échange dans son carnet vers
+12h20 (**William ne le sait pas**) ; Mariette croisée à 12h35, sandwich intact. William lira la **note de Mariette jeudi 26/07 soir**
+et lui répondra le soir même (**Mariette n'en est pas informée**). **Réponse de William attendue** pour le déjeuner de vendredi.
+À venir aujourd'hui : **clinique de Marcory à 14h** (Abdoul, Grace, Dr Yapi), **appel à Sandra entre 17h et 18h (Abidjan) = 19h-20h à
+Esch**. Mercredi 25/07 : attestation du Capitol mardi 9h ; **Me Kouamé mercredi 15h**. Aléa de la semaine tiré (jeudi matin, voir
+`memoire/tirages-aleas.md`, non révélé). Voir `journal/2040-07-23.md`, `etat/fils-ouverts.md`, `etat/traces.md`, `etat/vies-privees.md`.
 
 ## 10. PROTOCOLE DE RELAIS (Claude ⇄ Gemini)
 L'utilisateur alterne entre Claude et Gemini (Antigravity) selon ses crédits. Le moteur le plus puissant

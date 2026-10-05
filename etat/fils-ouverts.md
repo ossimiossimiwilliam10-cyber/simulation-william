@@ -1,4 +1,4 @@
-# Fils ouverts et décisions en attente (au 23/07/2040, 12h02)
+# Fils ouverts et décisions en attente (au 23/07/2040, 12h40)
 
 > **Fichier de relais.** Tout ce qui est « en suspens » dans le monde doit être ici, pour qu'aucun moteur
 > (Claude ou Gemini) ne l'oublie. Mettre à jour à chaque tour : ajouter, avancer, clore (garder la ligne
@@ -8,18 +8,19 @@
 ## A. Décisions en attente de William
 | # | Sujet | Contexte | Échéance |
 |---|---|---|---|
-| 1 | **Suite de la scène avec Grace** : William a posé ses mains sur ses épaules puis sa taille et attend sa réaction « avant de continuer plus loin » | **Grace a écarté sa main sans brusquerie** (« Merci, patron. »), demi-pas vers la table, a ouvert sa chemise (« les deux devis, on a cinq minutes ») ; porte restée fermée ; elle n'est ni choquée ni complice : elle attend ; William a aussi demandé un entretien sur la clause « marchés publics / commissions » (elle : « je ne la touche pas sans écrit ») | maintenant |
+| 1 | **Réponse à Grace sur le déjeuner d'équipe de vendredi 27/07 à midi** (Abdoul, Yves) qu'elle propose à la place d'une sortie en tête-à-tête ; **demi-page écrite de Grace sur la clause « marchés publics / commissions » d'ici mercredi 25/07** | William a invité Grace à une sortie (« je tiens vraiment à te féliciter ») ; jet 20 % : **NON** ; elle a quitté le bureau en **laissant la porte ouverte** ; Aïcha l'a vue sortir ; trames de devis vues (clinique 18-24 M FCFA, plancher 25 % ; Riviera 15-20 M FCFA, plancher 20 %) | avant ven. 27/07 |
 | 2 | **Appel à Sandra : William appellera lundi entre 17h et 18h (Abidjan) = 19h-20h à Esch** | Maintenu ; Sandra : « Parfait. À ce soir. » ; elle a été sèche après le report ; fil privé : elle veut dire ce qui la préoccupe | lun. 23/07, 17h-18h |
 | 3 | **Clinique de Marcory 14h** (visite technique avec Abdoul ; Grace présente) | William a dit qu'il irait | lun. 23/07, 14h |
 | 4 | **Rendez-vous avec Me Kouamé mercredi 25/07 à 15h (confirmé, cabinet du Plateau)** : signer la décision de l'associé unique ; honoraires et frais chiffrés mardi | Me Kouamé apporte le projet de décision d'augmentation de capital ; **William signe comme associé unique** | mer. 25/07, 15h |
 | 5 | **Dotation 176 725 € (augmentation de capital)** : ordre **suspendu** par la Spuerkeess | William a transmis le 23/07 à 11h20 statuts, 12 mois de relevés, bulletins de salaire ; **manque le projet de décision** (Me Kouamé, mer. 25/07) ; déblocage au plus tôt jeudi 26/07 ; SWIFT 2 à 4 jours ouvrés : **arrivée à la SGBCI entre lun. 30/07 et mar. 31/07** ; frais SHA : montant crédité un peu inférieur | jeu. 26/07 |
 | 6 | **Capitol : attestation d'hébergement** (signature du directeur) à retirer **mardi 24/07 à 9h**, puis téléverser pour le niveau 3 de son compte ivoirien ; communiquer ensuite le RIB à Aïcha et Mariette | Validation non datée (moteur : 1 à 3 jours ouvrés) ; jet de friction à jouer à la remise | mar. 24/07 |
 | 7 | **Remboursement des avances (~3,54 M FCFA)** | Suspendu jusqu'au niveau 3 du compte ivoirien ; la part « salaires de juin » est difficile à justifier | après niveau 3 |
-| 8 | **Note juridique de Mariette** (`serveur/rh/note_juridique_2307.pdf`) | William a décidé de la lire en détail **samedi 28/07 au matin** et de donner un retour « d'ici la semaine prochaine » ; la note recommande une validation de Me Kouamé avant le 25/07 (Aïcha) et des décisions de William avant le 31/07 | sam. 28/07 |
+| 8 | **Note juridique de Mariette** (`serveur/rh/note_juridique_2307.pdf`) | **William la lira en détail jeudi 26/07 après le travail et fera son retour à Mariette le soir même** (avant : samedi 28/07 au matin) ; **Mariette n'est pas informée du changement** ; la note recommande une validation de Me Kouamé avant le 25/07 (Aïcha) et des décisions de William avant le 31/07 | jeu. 26/07 soir |
 | 9 | **Classement du serveur** : William exige que tout soit rangé (« j'ai horreur du désordre électronique ») | Mariette prévient l'équipe cet après-midi et propose des règles de classement ce soir | lun. 23/07 soir |
 | 10 | Statut comptable de ce que William a payé avant l'ouverture du compte (loyer/caution 17,6 M FCFA, Phase 1, acompte Me Kouamé) | Non tracé ; à voir avec Aïcha/Mariette | libre |
 | 11 | Lecture de la matrice et du dossier de la semaine (promis « ce week-end » le 20/07) | Aïcha et Mariette travaillent sur la légalisation de la matrice ; la note de Mariette recommande de retirer le « naming and shaming » | libre |
 | 12 | **Aïcha** : relation professionnelle et froide | « La gérante, c'est moi. » ; « Bonjour. » ; a vu William reprendre Sékou depuis le perron ; **période froide : demander à chaque message d'Aïcha si William répond** | en continu |
+| 13 | Aïcha a vu Grace sortir du bureau de William (12h17) | Observation silencieuse ; fil privé d'Aïcha (jalousie, fierté) ; rien n'est dit | en continu |
 
 **Clos :** réponse à Kevin (21/07) ; réponse à Aïcha sur SécuTech (21/07) ; consigne à Grace (21/07) ; appel à Sandra du 21/07 ; message à Aïcha « fâchée ? » (21/07) ; week-end avec Aïcha (n'a pas eu lieu) ; décision de remboursement (21/07) ; statut de fonctionnaire : décision de se déclarer **au plus tard le 30/12/2040** (22/07) ; **validation des cinq idées de la revue du lundi (23/07)** ; **récap de Grace validé (23/07, planchers 25 % / 20 %)**.
 
@@ -41,7 +42,7 @@
 | Honoraires de Me Kouamé (solde 1 250 000 FCFA + avenants + 150 000/contrat) | « À vérifier » ; chiffrage de l'augmentation de capital mardi 24/07 | mar. 24/07 |
 | Fibre Orange | Annoncée fin juillet | incertain |
 | Rapports complets des équipes | Échéance mar. 31/07 | — |
-| Mariette (burn-out) | Terrifiée ; note rendue à l'heure ; doit relayer le classement | à surveiller |
+| Mariette (burn-out) | Terrifiée ; note rendue à l'heure ; doit relayer le classement ; **croisée à 12h35 devant un sandwich intact** | à surveiller |
 | Contrat d'apprentissage de Kevin | **Signature chez M. Da Silva mardi 24/07 à 17h** (Chambre des métiers) | mar. 24/07 |
 | Déclaration de William à l'administration luxembourgeoise | **Au plus tard le 30/12/2040 (dimanche ; dernier jour ouvré ven. 28/12)**, en minimisant, en disant ne pas avoir été au courant | à jouer |
 | Comptes luxembourgeois de William et fiscalité française | Spuerkeess ; compte ivoirien (déclaration annuelle 3916) ; situation déclarative non documentée | à jouer |

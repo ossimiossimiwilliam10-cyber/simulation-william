@@ -14,3 +14,5 @@
 Effets à jouer : A06 (jeudi 26/07 (matin)) : Délai supplémentaire ; l'excuse du fournisseur est plausible mais pas toujours vraie
 
 - Jet « Me Kouamé : deuxième passage (rendez-vous du mercredi 25/07 15h refusé ou déplacé) » : probabilité 30 %, jet  92.2 → **NON** (enregistré le 05/10/2026 14:49 heure machine)
+
+- Jet « Grace accepte une sortie en tête-à-tête avec William (hors cadre professionnel) » : probabilité 20 %, jet  42.8 → **NON** (enregistré le 05/10/2026 14:57 heure machine)
