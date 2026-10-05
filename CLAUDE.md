@@ -79,10 +79,19 @@ et parfois peu morale exprès : ne l'en empêche pas, joue les conséquences.
     les conséquences s'expriment par des faits (réactions, traces, procédures, argent, perte de confiance), pas par des
     jugements moraux ou des explications pédagogiques. Un personnage peut avoir peur, être dégoûté ou rancunier ; il ne
     délivre pas le message du moteur.
+17. **Modèle de pouvoir (25/07/2040).** Le moteur ne choisit jamais la probabilité d'une réaction d'un personnage à un acte de William
+    (corps, autorité, argent, secret, loi) : il la **tire dans `etat/modele-pouvoir.md`** avec
+    `python outils/jet.py --table Tn [--mod Mxx] "libellé"`, **dans tout le menu** (l'inaction et l'évitement en font partie), puis il écrit
+    la scène **à partir de l'issue tirée**, sans la durcir, sans l'adoucir, sans la remplacer par un équivalent poli. Sentiments libres,
+    actes tirés ; **test d'intérêt** (nommer l'intérêt matériel ou la peur qui explique l'acte) et **test de la phrase** (aucune phrase qui
+    énonce la norme). L'issue la plus banale peut clore la scène. **Symétrie : William n'est pas tout-puissant** : ses manœuvres sur autrui
+    sont tirées (T7), les tiers à autorité propre appliquent leurs règles (T6), les coûts viennent de la rumeur, des traces, des départs, des
+    tiers et du hasard, jamais d'une justice narrative. Seul l'utilisateur modifie les tables. `outils/jet.py` refuse un jet libre sur une
+    réaction (dérogation consignée) ; `outils/audit_jets.py` et `outils/controle_coherence.py` contrôlent. Voir `memoire/pieges-connus.md` n° 49-52.
 
 ## 4. DÉCLENCHEURS
 - **« Attention au réalisme »** : refais des recherches sur ton dernier tour,
-  identifie ce qui n'était pas réaliste, propose une correction.
+  identifie ce qui n'était pas réaliste, propose une correction ; relance `python outils/audit_jets.py` (biais des probabilités).
 - **« Go »** : lance l'avance rapide proposée.
 - **« Pour le simulateur : … »** ou **« 📌 Vraie vie : … »** : message hors
   simulation. Réponds hors fiction.
@@ -132,7 +141,7 @@ et parfois peu morale exprès : ne l'en empêche pas, joue les conséquences.
   4. PDF demandés générés et vérifiés, puis `python outils/controle_coherence.py` sans erreur (jours de la semaine,
   fichiers maîtres, expressions interdites, PDF) ;
   5. Personnages imparfaits, ton ivoirien respecté ; 6. **registre hiérarchique respecté : aucun subordonné ne confronte, ne
-  menace ni ne moralise William (règles 15-16)** ; 7. « 🔍 Contrôle de réalisme » présent.
+  menace ni ne moralise William (règles 15-16)** ; 7. **réactions tirées dans les tables de pouvoir, aucune probabilité libre sur une réaction (règle 17)** ; 8. « 🔍 Contrôle de réalisme » présent.
 - **À la fin de chaque journée simulée** :
   - Clôturer le journal du jour.
   - Mettre à jour TOUS les fichiers d'état.
@@ -149,7 +158,13 @@ Direct, structuré, sobre. Pas de flatterie ni d'encouragements.
 Langue : **français**.
 
 ## 9. POINT DE REPRISE
-**Mercredi 25 juillet 2040, 10h10 — Aïcha demande « comment on fait pour que ça n'arrive plus » ; scène corrigée (registre hiérarchique).**
+**Mercredi 25 juillet 2040, 10h10 — SIMULATION EN PAUSE (demande de l'utilisateur) ; reprise : réponse de William à Aïcha.**
+**Pause du 25/07/2040** : l'utilisateur a demandé de corriger à la racine le biais du moteur qui rééquilibrait les rapports de force par réflexe moral
+(« à l'européenne »), sans faire de William un dieu. **Livré** : `etat/modele-pouvoir.md` (tables T1-T7, modificateurs, plafonds, symétrie), **règle 17**,
+`outils/jet.py --table` (refuse les probabilités libres sur une réaction), `outils/audit_jets.py`, contrôle intégré à `controle_coherence.py`, pièges n° 49-52,
+corrections n° 25-26. **À la reprise** : tirer chaque réaction avec les tables (T3 pour Aïcha, T1/T2 pour Grace et Mariette), jamais à la main ; chaque dimanche soir, T4 et T5
+pour chaque affaire ouverte ; **l'utilisateur doit valider ou ajuster les tables** et décider du fait caché hérité « Grace garde une capture » (`etat/fils-ouverts.md` C.6).
+**Scène en cours (inchangée)** : Aïcha demande « comment on fait pour que ça n'arrive plus » ; scène corrigée (registre hiérarchique).
 **Deuxième « Attention au réalisme » de William** (la façon dont les subordonnés lui parlent) : la scène d'Aïcha a été **corrigée** (journal du 25/07, `etat/corrections.md` n° 23-24) ;
 **nouvelles règles 15 (renforcée) et 16** : aucun subordonné, Aïcha comprise, ne confronte, ne menace ni ne moralise William ; le jet « ultimatum » à 50 % est invalidé (recalibré à
 5 % : non). **Faits** : Mariette est allée droit chez Aïcha à 09h37 ; William a dit à Aïcha « c'est vrai, j'ai merdé, je manque de professionnalisme, je serai beaucoup plus
@@ -236,3 +251,7 @@ présente une **« 🔄 Revue du lundi »** pour améliorer la simulation et év
 - **Dossier des traces** : `etat/traces.md` ; y ajouter chaque écrit, signature, message ou comportement de William qui peut
   ressortir ; ne jamais en inventer à la dernière minute.
 - **Revue du lundi, chaque lundi** (la prochaine : 30/07/2040), y compris « Go » : la présenter avant le reste.
+- **Modèle de pouvoir (25/07/2040, règle 17)** : toute réaction d'un personnage à un acte de William se tire dans `etat/modele-pouvoir.md`
+  (`python outils/jet.py --table Tn`) ; **chaque dimanche soir**, tirer T4 (escalade externe) et T5 (fuite) pour chaque affaire ouverte ; **chaque lundi**,
+  lancer `python outils/audit_jets.py` dans la revue (dérive des probabilités, dérogations, issues frontales observées contre attendues) ; seul
+  l'utilisateur modifie les tables.

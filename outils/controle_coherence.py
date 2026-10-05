@@ -8,6 +8,7 @@ Contrôles automatiques :
 2. **Fichiers maîtres** : `CLAUDE.md` et `GEMINI.md` doivent être identiques à la ligne 3 près.
 3. **Expressions interdites** : formes déjà corrigées (« faute grave » à propos d'un CDD, « Net » dans les contrats…).
 4. **PDF** : lance `verifier_pdf.py` (accents, texte extractible).
+5. **Modèle de pouvoir** : tables de `etat/modele-pouvoir.md` (sommes, plafonds, modificateurs) et jets conformes à la règle 17.
 Code de sortie 1 s'il y a au moins une erreur.
 """
 import datetime as dt
@@ -114,6 +115,21 @@ def controle_registre():
     return avertissements
 
 
+def controle_pouvoir():
+    """Tables de pouvoir (etat/modele-pouvoir.md) : sommes, plafonds, modificateurs ; jets du régime des tables conformes à la
+    règle 17 de CLAUDE.md. Retourne (erreurs, résumé)."""
+    sys.path.insert(0, str(RACINE / "outils"))
+    import audit_jets
+    import jet
+    tables, modifs = jet.charger()
+    erreurs = jet.valider(tables, modifs)
+    b = audit_jets.bilan()
+    erreurs += [f"memoire/tirages-aleas.md:{x['ligne']} {x['probleme']}" for x in b["non_conformes"]]
+    resume = (f"{len(tables)} table(s), {len(modifs)} modificateur(s) ; jets hérités {b['herites']}, tirages de table {b['tirages']}, "
+              f"dérogations {len(b['derogations'])}")
+    return erreurs, resume
+
+
 def main():
     code = 0
     err, total = controle_jours()
@@ -135,6 +151,11 @@ def main():
     print(f"[Registre hiérarchique] {len(aver)} ligne(s) à relire (avertissement, non bloquant)")
     for a in aver:
         print("  RELIRE", a)
+    err, resume = controle_pouvoir()
+    print(f"[Modèle de pouvoir] {resume}")
+    for e in err:
+        print("  ERREUR", e)
+    code |= bool(err)
     r = subprocess.run([sys.executable, str(RACINE / "outils" / "verifier_pdf.py")], capture_output=True, text=True, encoding="utf-8")
     sortie = [l for l in r.stdout.splitlines() if l.strip()]
     mauvais = [l for l in sortie if not l.startswith("[ OK  ]")]

@@ -87,3 +87,8 @@ Effets à jouer : A06 (jeudi 26/07 (matin)) : Délai supplémentaire ; l'excuse 
 
 - Jet « [RECALIBRAGE après « Attention au réalisme » : le jet à 50 % était mal calibré] Aïcha pose un ultimatum explicite à William (menace de partir et de dénoncer) » : probabilité 5 %, jet  99.7 → **NON** (enregistré le 05/10/2026 17:41 heure machine)
 - NOTE du 25/07 : le jet « Aïcha pose un ultimatum » à 50 % (OUI, jet 2,7) est INVALIDÉ : probabilité mal calibrée (rappel « Attention au réalisme »). Remplacé par le jet à 5 % ci-dessus (NON). Les autres jets de ce tour restent valables.
+
+## RÉGIME DES TABLES DE POUVOIR (depuis le 25/07/2040)
+Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À partir d'ici, toute réaction d'un personnage à un acte de William se tire avec
+`python outils/jet.py --table Tn` (pourcentages de `etat/modele-pouvoir.md`) ; un jet libre sur une réaction exige `--derogation "raison"`.
+- **Fait caché hérité, non révélé, à repasser par la table avant toute révélation (décision de l'utilisateur)** : Grace garde une capture du message d'excuses hors de son téléphone de travail (jet 85 % : OUI, hérité) → T1b.
