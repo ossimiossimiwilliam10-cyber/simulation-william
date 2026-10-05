@@ -16,3 +16,11 @@ D'accord 🙂 Je suis réveillée jusqu'à 20h30 ici (18h30 chez toi), je pars a
 
 **[22/07/2040 - 20:40 (Abidjan) / 22:40 (Esch)] Sandra :**
 Pause, nuit calme. Kevin signe chez Da Silva mardi à 17h. Tu me raconteras ton filon un jour, mais sans chiffres 😄 Bonne semaine, patron.
+
+**[22/07/2040 - 21:05 (Abidjan) / 23:05 (Esch)] William :**
+Bonne semaine ma chérie. Je t'aime. Dis-moi s'il y a quelque chose qui t'a préoccupée.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[22/07/2040 - 21:38 (Abidjan) / 23:38 (Esch)] Sandra :**
+Moi aussi 💛
+Il y a des choses, oui. Mais pas par message à minuit entre deux rondes. Appelle-moi demain après 16h ici (14h chez toi), je te dirai. Bonne semaine, patron.

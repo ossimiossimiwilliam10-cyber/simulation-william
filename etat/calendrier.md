@@ -1,4 +1,4 @@
-# Calendrier (au 22/07/2040, 21h)
+# Calendrier (au 22/07/2040, 21h45)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -32,6 +32,7 @@
 | Lun. 23/07, avant midi | Mariette dépose sa note juridique PDF (chartes, contrats, ruptures) sur le serveur — promise le 21/07. |
 | Lun. 23/07 | Grace remet à William son récap écrit d'une page (clinique, Riviera, calendrier, marge plancher proposée). |
 | Lun. 23/07, fin de journée | Mariette remet à William un point écrit sur l'avancée des équipes. |
+| Lun. 23/07, dès 14h (Abidjan) | Fenêtre d'appel à Sandra (elle est disponible à partir de 16h à Esch) : **chevauche la visite de la clinique de Marcory (14h)**. |
 | Lun. 23/07, 14h | Clinique de Marcory (Dr Yapi) : visite technique avec Abdoul (confirmée par Grace le 21/07). |
 | Mar. 24/07, 17h | Kevin : signature du contrat d'apprentissage chez M. Da Silva (Chambre des métiers) — annoncé par Sandra le 22/07 (avant : « semaine du 23/07 »). |
 | Non daté | Abdoul : présentation de l'équipe technique et du devis (reportée). |

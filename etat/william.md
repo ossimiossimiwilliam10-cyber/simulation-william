@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 22/07/2040, 21h)
+# William Ossimi — profil (état au 22/07/2040, 21h45)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -55,6 +55,7 @@
 - 21/07 : ouvre le compte d'OSIA, paie les salaires du 1er au 15/07 ; demande à Aïcha une évaluation « à chaud » de l'équipe.
 - 21/07 après-midi : promet à Kevin de revenir en septembre ; donne carte blanche à Grace ; presse Mariette (légalité des chartes, équipes) ; décide qu'OSIA lui rembourse ses avances et l'annonce dans le groupe Direction ; appelle Sandra (21 min) ; demande à Aïcha si elle est fâchée.
 - 21/07-22/07 : arrête les apports mensuels vers le compte projet, crée le compte « Future vie familiale », ne fera qu'un seul gros versement à OSIA ; consulte ses comptes (patrimoine net ≈ 787 700 €) ; ne répond pas à Aïcha ; week-end passé à Abidjan sans rencontre.
+- 22/07 soir : dit « je t'aime » à Sandra ; décide de virer la moitié du compte projet (176 725 €) à OSIA, annoncé à la direction ; décide de s'ouvrir un compte ivoirien pour le remboursement ; écrit « Laisse tomber. » à Aïcha après 30 h de silence.
 - Contacts avec Sandra : appel le 17/07 au soir ; silence de quatre jours ; elle écrit la première le 21/07 ; appel de William le 21/07 à 14h26.
 
 ## Personnalité (analyse de départ)

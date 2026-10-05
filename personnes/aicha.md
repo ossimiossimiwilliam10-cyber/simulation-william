@@ -52,3 +52,4 @@ refuse ce qui est illégal (caméras, sélection au faciès, surveillance) mais
 propose des alternatives légales. Elle négocie dur avec les artisans.
 - 21/07, 14h58 : réagit au message de William dans le groupe (remboursement des avances) avec professionnalisme. 15h08 : William lui demande s'il est fâché ; réponse : « Non. Pourquoi ? » puis elle indique être chez sa mère jusqu'à dimanche (sa tension) et fixe rendez-vous lundi au QG. Elle ne propose plus rien pour le week-end.
 - 22/07 : revenue de chez sa mère ; aucun message à William. Week-end resté sans rencontre.
+- 22/07, 21h20 : en DG, demande la forme juridique et le montant de la dotation annoncée par William (verra Me Kouamé lundi). 21h30 : William lui écrit « Laisse tomber. » après 30 h sans réponse ; elle écrit puis s'arrête pendant treize minutes avant de répondre « D'accord. » Période froide à jouer : suivre chaque message d'elle.

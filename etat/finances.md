@@ -1,4 +1,4 @@
-# Finances de William & OSIA (estimations au 22/07/2040, 21h)
+# Finances de William & OSIA (estimations au 22/07/2040, 21h45)
 
 > Parité fixe : 1 € = 655,957 FCFA.
 > Les montants de salaire de toute la simulation sont des **BRUTS** ; les virements réels sont calculés
@@ -27,9 +27,12 @@
 - **Maintenant (décision de William, 21/07)** : 45 % ETF (~3 285 €) / 45 % compte « Future vie familiale »
   (~3 285 €) / 10 % plaisir (~730 €), **à partir du surplus de fin juillet**. **Arrêt des apports mensuels vers le
   compte projet.**
-- **Dotation d'OSIA** : William ne fera plus qu'**un seul versement important** et laissera ensuite l'entreprise
-  « se débrouiller » avec cette somme. **Montant, date, forme (augmentation de capital ou apport en compte courant
-  d'associé) et compte d'origine : non décidés.** (Le compte projet de ~353 450 € est l'épargne réservée à OSIA.)
+- **Dotation d'OSIA (décidée le 22/07, 21h10)** : William ne fera plus qu'**un seul versement important** et
+  laissera ensuite l'entreprise « se débrouiller » avec cette somme. **Montant : exactement la moitié du compte
+  projet = 176 725 € (≈ 115,9 M FCFA), « le plus vite possible »** ; compte d'origine : compte projet (restera
+  ≈ 176 725 €). **Forme (augmentation de capital ou apport en compte courant d'associé) : NON décidée.**
+  Annoncée à la direction (sans montant) le 22/07 à 21h12 ; Aïcha demande forme et montant, verra Me Kouamé lundi.
+  **Non exécuté** : virement international depuis sa banque européenne, avec justificatifs possibles et plafonds.
 
 ## Avances en compte courant d'associé (William → OSIA)
 Total des avances non remboursées par l'entreprise :
@@ -47,6 +50,7 @@ Total des avances non remboursées par l'entreprise :
   convention de compte courant d'associé ; (2) la part « salaires de juin d'Aïcha et Mariette » (~1 850 €) a été
   payée en net, sans fiche de paie, et reste difficile à justifier tant que CNPS/déclaration fiscale ne sont pas
   régularisées ; (3) Aïcha et Mariette (et, via le groupe, Grace, Abdoul, Yves) **informées le 21/07 à 14h50** : Aïcha et Mariette préparent convention de compte courant, tableau des avances et justificatifs ; à voir avec la banque lundi. (4) Échéances sociales de juin déjà dépassées : CNPS (déclaration + cotisations) le 15/07, ITS le 10/07 ; majoration CNPS ≈ 10 %/mois et amende pour défaut de déclaration ; celles de juillet tombent le 10/08 (ITS) et le 15/08 (CNPS).
+- **Décision du 22/07 (21h15) : William s'ouvre un compte ivoirien et y fera verser le remboursement des avances. L'exécution du remboursement est suspendue jusqu'à l'ouverture de ce compte** (documents SGBCI pour un non-résident : passeport avec date d'entrée de moins de 3 mois hors CEDEAO, photos, attestation de domicile, visite en agence). Aïcha et Mariette préparaient un virement pour lundi ; elles ne sont pas informées du changement.
 - ⚠ **Hors périmètre, statut comptable non tracé** (relevé à l'audit du 21/07) : tout ce que William a payé
   de sa poche pour OSIA avant l'ouverture du compte, notamment loyer et caution du QG (8 × 2 200 000 =
   17 600 000 FCFA ≈ 26 800 €, bail à son nom), Phase 1 (climatiseurs, mobilier, ordinateurs), acompte de
@@ -101,3 +105,14 @@ Total des avances non remboursées par l'entreprise :
   à ce jour ; revenus à 0.
 - Autres charges : loyer du QG 2,2 M FCFA/mois (6 mois d'avance payés par William, bail à son nom) ; Phase 2 solaire
   ~9,8 M FCFA non lancée ; échéances sociales de juin dépassées (ITS 10/07, CNPS 15/07).
+
+## Projection si la dotation est versée (décision du 22/07, non exécutée)
+- Trésorerie d'OSIA ≈ 28,98 M + 115.9 M = **≈ 144.9 M FCFA** (avant remboursement des avances et sorties de fin juillet),
+  soit ≈ **26 mois** de masse salariale des cadres (5,6 M FCFA/mois chargée), toujours sans chiffre d'affaires.
+- Patrimoine de William : inchangé en valeur nette (≈ 787 700 €), mais la part liée à OSIA passe d'environ 6 % à
+  environ **29 %** (≈ 226 300 € : participation 44 180 + créance 5 400 + dotation 176 725) ; les liquidités et
+  placements tombent à ≈ 474 500 € (compte courant, compte projet restant ≈ 176 725 €, ETF).
+- Obligation côté ivoirien : une fois les fonds reçus, déclaration statistique de l'investissement étranger à la
+  Direction des Finances extérieures (Trésor) et à la BCEAO au plus tard un mois après (statuts, PV d'AG pour une
+  augmentation de capital, déclaration de souscription et versement) ; un non-résident associé désigne un représentant
+  résident (ici la gérante).

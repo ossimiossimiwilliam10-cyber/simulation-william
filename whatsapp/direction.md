@@ -72,3 +72,21 @@ Noté patron. Je prépare le tableau des avances avec les justificatifs. Pour le
 Noté.
 
 *(Abdoul : message lu, aucune réponse.)*
+
+**[22/07/2040 - 21:12] William :**
+Pour information : un virement important de ma part vers les comptes de l'entreprise est prévu. Je le ferai le plus vite possible.
+*(Formulation reconstituée ; le montant n'est pas indiqué dans le message. Posté dans le groupe : lu par les cinq.)*
+
+**[22/07/2040 - 21:20] Aïcha :**
+Bonne nouvelle. Pour le juridique et la comptabilité, il faut savoir si c'est une augmentation de capital ou un apport en compte courant d'associé, et le montant. Je vois ça avec Maître Kouamé lundi.
+
+**[22/07/2040 - 21:24] Grace :**
+Message reçu patron. Avec ça, je peux parler aux clients d'égal à égal 🔥
+
+**[22/07/2040 - 21:26] Abdoul :**
+Bien reçu. Ça nous permettra d'avancer sur le matériel.
+
+**[22/07/2040 - 21:28] Yves :**
+👍
+
+*(Mariette : message lu, aucune réponse.)*

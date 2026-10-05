@@ -34,3 +34,12 @@ Non. Pourquoi ?
 
 **[21/07/2040 - 15:25] Aïcha :**
 Je suis chez ma mère jusqu'à demain, sa tension. On se voit lundi au QG.
+
+**[22/07/2040 - 21:30] William :**
+Laisse tomber.
+*(Texte reconstitué à partir de « je lui dis de laisser tomber » ; réponse à son « Non. Pourquoi ? » du 21/07, restée sans suite pendant 30 heures.)*
+
+*(21:31-21:44 : Aïcha écrit, s'arrête, réécrit, pendant treize minutes.)*
+
+**[22/07/2040 - 21:44] Aïcha :**
+D'accord.

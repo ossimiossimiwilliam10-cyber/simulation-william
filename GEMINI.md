@@ -130,18 +130,18 @@ Direct, structuré, sobre. Pas de flatterie ni d'encouragements.
 Langue : **français**.
 
 ## 9. POINT DE REPRISE
-**Dimanche 22 juillet 2040, 21h — fin de la semaine ISO 29 ; William a fini son week-end à Abidjan.**
-Depuis samedi 15h25 : William n'a pas répondu à Aïcha (« Non. Pourquoi ? ») ; il a arrêté les apports mensuels vers
-le compte projet, ouvert le compte « Future vie familiale » (0 €, 45 % du surplus dès fin juillet) et décidé de ne
-faire qu'**un seul gros versement à OSIA** (montant, date, forme non fixés) ; synthèse patrimoniale ≈ 787 700 € nets
-(`etat/finances.md`). Sandra (20h40, pause de nuit) lui a écrit un message léger : « tu me raconteras ton filon un
-jour, mais sans chiffres 😄 Bonne semaine, patron » ; **sans réponse à 21h** ; aucun prochain contact fixé. Kevin
-signe son contrat chez M. Da Silva mardi 24/07 à 17h. Aïcha est de retour de chez sa mère. Synthèse W29 et fiche
-complète faites (`memoire/semaine-2040-W29.md`). **Lundi 23/07 (très chargé)** : 8h matrice « à légaliser »
-(Aïcha + Mariette) ; SGBCI à l'ouverture (spécimen d'Aïcha, QG à 9h15) ; SécuTech 9h ; note juridique PDF de
-Mariette avant midi ; récap de Grace (marge plancher) ; visite de la clinique de Marcory 14h ; point écrit de
-Mariette en fin de journée ; remboursement des avances à exécuter. Voir `journal/2040-07-22.md`,
-`etat/fils-ouverts.md`, `etat/calendrier.md`.
+**Dimanche 22 juillet 2040, 21h45 — William vient de prendre quatre décisions et d'écrire à Sandra et Aïcha.**
+(1) À **Sandra** il a écrit « je t'aime » et demandé ce qui l'a préoccupée ; elle : « Moi aussi 💛 », pas de détails par
+message, **elle attend son appel lundi après 16h à Esch (14h à Abidjan)**, ce qui chevauche la clinique de Marcory (14h).
+(2) **Dotation d'OSIA** : exactement la moitié du compte projet (176 725 € ≈ 115,9 M FCFA), « le plus vite possible »,
+annoncée à la direction sans montant ; **forme (capital ou compte courant) non décidée** ; Aïcha demande forme et
+montant, voit Me Kouamé lundi ; non exécutée. (3) **Remboursement des avances** : destination = futur compte ivoirien de
+William, exécution suspendue jusqu'à son ouverture (Aïcha et Mariette ne sont pas informées). (4) **Aïcha** : après
+30 h de silence il lui a écrit « Laisse tomber. » ; elle a répondu « D'accord. » après treize minutes de frappe — période
+froide, suivre chaque message d'elle. Semaine W29 clôturée (`memoire/semaine-2040-W29.md`). Kevin signe mardi 24/07
+17h. **Lundi 23/07 (très chargé)** : 8h matrice à « légaliser » ; SGBCI à l'ouverture (spécimen d'Aïcha) ; SécuTech 9h ;
+note juridique PDF de Mariette avant midi ; récap de Grace (marge plancher) ; clinique 14h ; appel à Sandra dès 14h ;
+point écrit de Mariette en fin de journée. Voir `journal/2040-07-22.md`, `etat/fils-ouverts.md`, `etat/finances.md`.
 
 ## 10. PROTOCOLE DE RELAIS (Claude ⇄ Gemini)
 L'utilisateur alterne entre Claude et Gemini (Antigravity) selon ses crédits. Le moteur le plus puissant
@@ -161,7 +161,8 @@ L'utilisateur alterne entre Claude et Gemini (Antigravity) selon ses crédits. L
    reprendre le tour au point de reprise (§9).
 **B. Moteur sortant** (l'utilisateur annonce qu'il change, ou crédits presque épuisés) : mettre à jour
 le §9 **des deux fichiers maîtres**, `etat/fils-ouverts.md`, le journal du jour et les fichiers d'état ;
-committer si la journée est close ; rappeler à l'utilisateur de fusionner la branche dans `main` si le travail
-a eu lieu dans un worktree.
+committer si la journée est close ; si le travail a eu lieu dans un worktree, fusionner la branche en avance rapide
+(`git -C <dossier principal> merge --ff-only <branche>`, le dossier principal est sur `master`) — **autorisé par l'utilisateur
+le 22/07/2040** ; sinon le rappeler à l'utilisateur.
 **C. Synchronisation** : `CLAUDE.md` et `GEMINI.md` sont identiques, sauf la ligne 3. Toute modification de
 règle ou de point de reprise se fait dans les deux (`diff CLAUDE.md GEMINI.md` ne doit montrer que la ligne 3).

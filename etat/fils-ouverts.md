@@ -1,4 +1,4 @@
-# Fils ouverts et décisions en attente (au 22/07/2040, 21h)
+# Fils ouverts et décisions en attente (au 22/07/2040, 21h45)
 
 > **Fichier de relais.** Tout ce qui est « en suspens » dans le monde doit être ici, pour qu'aucun moteur
 > (Claude ou Gemini) ne l'oublie. Mettre à jour à chaque tour : ajouter, avancer, clore (garder la ligne
@@ -7,14 +7,15 @@
 ## A. Décisions en attente de William
 | # | Sujet | Contexte | Échéance |
 |---|---|---|---|
-| 1 | Réponse (facultative) au message de Sandra du 22/07 à 20h40 | Pause de nuit au CHEM ; « tu me raconteras ton filon un jour, mais sans chiffres 😄 Bonne semaine, patron » ; **aucun prochain contact fixé** depuis l'appel du 21/07 ; elle retravaille ce soir | libre |
-| 2 | **Dotation unique d'OSIA** : montant, date, forme (augmentation de capital ou apport en compte courant d'associé), compte d'origine | William a décidé le 21/07 d'arrêter les apports mensuels et de ne verser qu'**une seule grosse somme** (« l'entreprise se débrouille ensuite ») ; **rien n'est précisé** | libre |
-| 3 | Remboursement des avances (~3,54 M FCFA) : exécution | **Décidé le 21/07, annoncé à la direction** ; Aïcha + Mariette préparent convention et justificatifs ; ordre bancaire après le spécimen d'Aïcha ; compte de destination à choisir ; la part « salaires de juin » est difficile à justifier | lun. 23/07 au plus tôt |
+| 1 | **Appel à Sandra lundi 23/07 : elle attend l'appel après 16h à Esch (14h à Abidjan)** pour dire ce qui l'a préoccupée | William lui a écrit le 22/07 à 21h05 (bonne semaine, « je t'aime », « dis-moi s'il y a quelque chose qui t'a préoccupée ») ; elle : « Moi aussi 💛 », « pas par message à minuit entre deux rondes » ; **la fenêtre chevauche la visite de la clinique de Marcory (14h)** | lun. 23/07, dès 14h Abidjan |
+| 2 | **Dotation unique d'OSIA : montant décidé = exactement la moitié du compte projet (176 725 € ≈ 115,9 M FCFA), « le plus vite possible »** ; **forme (augmentation de capital ou compte courant d'associé) : NON décidée** ; compte d'origine : compte projet | Annoncée à la direction le 22/07 à 21h12 (sans montant) ; Aïcha demande la forme et le montant, voit Me Kouamé lundi ; virement non exécuté (banque européenne fermée le dimanche ; justificatifs, plafonds possibles) | lun. 23/07 au plus tôt |
+| 3 | Remboursement des avances (~3,54 M FCFA) : **destination = futur compte ivoirien de William (décidé le 22/07) ; exécution suspendue jusqu'à l'ouverture de ce compte** | Aïcha + Mariette préparent pour lundi convention et justificatifs sans savoir que le virement attendra (non informées) ; la part « salaires de juin » reste difficile à justifier | à partir de l'ouverture du compte |
 | 4 | Statut comptable de ce que William a payé avant l'ouverture du compte (loyer/caution 17,6 M FCFA, Phase 1, acompte Me Kouamé) | Non tracé ; à voir avec Aïcha/Mariette | libre |
 | 5 | Lecture de la matrice et du dossier de la semaine (promis « ce week-end » le 20/07) | « On en reparle lundi » avec Aïcha ; rien de consigné sur sa lecture | lun. 23/07 |
 | 6 | Valider ou corriger le récap écrit de Grace (objectifs, calendrier, **marge plancher proposée**) | Liberté totale donnée à Grace le 21/07 ; récap annoncé lundi | lun. 23/07 |
 | 7 | Lire la note juridique de Mariette (PDF) | Annoncée lundi avant midi ; « points sensibles sur les ruptures de contrat » | lun. 23/07, midi |
-| 8 | Message d'Aïcha à William : aucun depuis 15h25 le 21/07 | William a choisi de ne pas répondre à son « Non. Pourquoi ? » ; elle est chez sa mère jusqu'à dimanche ; retour lundi au QG | lun. 23/07 |
+| 8 | Aïcha : William lui a écrit « Laisse tomber. » (22/07 21h30) après 30 h de silence ; elle répond « D'accord. » (21h44) après treize minutes de frappe | Rendez-vous lundi au QG 9h15 ; tension non dite ; **période froide : demander à chaque message d'Aïcha si William répond** | lun. 23/07 |
+| 9 | Ouvrir un compte bancaire ivoirien (William) | Se renseigner ; SGBCI : passeport (date d'entrée < 3 mois hors CEDEAO), photos, justificatif ou attestation de domicile (ex. hôtel), visite en agence ; compte à l'étranger à déclarer chaque année en France (3916) | lun. 23/07 au plus tôt |
 
 **Clos :** réponse à Kevin (21/07 14h03, promesse de retour en septembre) ; réponse à Aïcha sur SécuTech (21/07 12h20) ; consigne à Grace (21/07) ; appel à Sandra (21/07 14h26-14h47, « non négociable » tenu) ; message à Aïcha « fâchée ? » (21/07 15h08) ; **week-end avec Aïcha : n'a pas eu lieu** (21-22/07, clos le 22/07 au soir) ; décision de remboursement des avances (21/07) ; nouvelle politique d'épargne (21/07-22/07, voir `etat/finances.md`).
 
@@ -39,6 +40,7 @@
 | Mariette (burn-out) | Terrifiée depuis le 20/07 ; pressée de nouveau le 21/07 | à surveiller dans les scènes |
 | État d'avancement des équipes (Mariette, 21/07) | Yves : 3 CV SAV ; Grace : organisation en finalisation ; Abdoul : plan technique non remis | Mariette relance lundi 8h, point écrit en fin de journée |
 | Contrat d'apprentissage de Kevin | **Signature chez M. Da Silva mardi 24/07 à 17h** (annoncé par Sandra le 22/07) ; suivi par la Chambre des métiers | mar. 24/07 |
+| Déclaration de l'investissement étranger (dotation de William) | Dès réception des fonds par OSIA : déclaration statistique au Trésor (Finances extérieures) et à la BCEAO sous un mois ; sans cette trace, rapatrier plus tard dividendes ou compte courant se complique | à jouer (Aïcha, Esther, Me Kouamé) |
 | Fiscalité de William | Résident fiscal en France (Audun-le-Tiche), salaire luxembourgeois ; participation et dividendes futurs d'OSIA, comptes hors de France : obligations déclaratives en France (formulaires 2047/2042, 3916) — jamais abordé | à jouer (Esther/comptable) |
 | Congés de Sandra | 6-19/08 (projet Mindelo non financé) | août |
 | Esther N'Guessan | Arrivée fin août/sept. | — |
