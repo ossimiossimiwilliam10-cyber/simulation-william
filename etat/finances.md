@@ -1,5 +1,10 @@
-# Finances de William (estimations au 18/07/2040)
+# Finances de William & OSIA (estimations au 21/07/2040)
 
+## Trésorerie OSIA Énergies (Compte Courant SGBCI)
+- **Solde Actuel : 28 980 000 FCFA (~44 180 €)**
+- *Historique : Capital initial débloqué le 21/07 (30 000 000 FCFA). Paiement des salaires du 1er au 15 juillet (Grace 370k, Abdoul 390k, Yves 260k) soit -1 020 000 FCFA.*
+
+## Finances Personnelles de William
 | Poste | Montant | Remarques |
 |---|---|---|
 | Compte courant | ~9 800 € | Après billet d'avion (1 480 €), e-visa, moitié de l'hôtel (~3 144 €), salaires de juin d'Aïcha et Mariette (~1 850 €) |
@@ -19,9 +24,7 @@ Total des avances non remboursées par l'entreprise :
 
 ## Engagements en cours
 - Solde de l'hôtel Capitol : ~2 062 500 FCFA (~3 145 €) en fin de séjour.
-- Salaires du 1er au 15 juillet promis (Grace 370 000, Abdoul 390 000,
-  Yves 260 000 FCFA net) : à payer depuis le compte d'OSIA dès son ouverture,
-  remboursés à William en « compte courant d'associé » (plan de Mariette).
+- **Salaires du 1er au 15 juillet (Grace, Abdoul, Yves) : PAYÉS via SGBCI le 21/07 (1 020 000 FCFA).**
 - Reste des honoraires de Maître Kouamé (solde de 1 250 000 FCFA + promesses
   et avenants) : **à vérifier**.
 - Salaires de juillet de toute l'équipe : fin juillet.
