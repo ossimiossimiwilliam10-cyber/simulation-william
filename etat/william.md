@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 23/07/2040, 11h58)
+# William Ossimi — profil (état au 23/07/2040, 12h02)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -60,6 +60,7 @@
 - 22/07 23h20-23h50 : lance le virement de la dotation (en attente de validation bancaire) ; ouvre son compte ivoirien (niveau 1) ; envoie la confirmation d'ordre à Aïcha ; revient sur sa décision de ne « rien déclarer » : il se déclarera à l'administration luxembourgeoise **d'ici décembre**.
 - 22/07 23h52-23h58 : indique que sa banque est la **Spuerkeess** ; choisit de monter son compte ivoirien au **niveau 3** et de communiquer ensuite son RIB à Aïcha et Mariette ; fixe sa déclaration au Luxembourg **au plus tard le 30/12/2040** ; confirme (pour lui) l'appel à Sandra lundi 17h-18h.
 - **Note du 23/07 (« Go ! »)** : durant toute la semaine du 23/07, William sera « particulièrement amical » et « vraiment tactile » **avec Grace uniquement**, de préférence **en privé** (quand ils sont seuls). Le 23/07 à 11h58 Grace entre dans son bureau, porte fermée (récap des marges).
+- **23/07, matinée** : valide les cinq idées de la revue du lundi ; signe comme associé unique (à venir) ; reprend le chef d'équipe de SécuTech ; fournit les documents demandés par la Spuerkeess ; accepte de voir Me Kouamé mercredi 15h ; survole la note de Mariette et décide de la lire samedi matin ; exige que tout soit classé ; valide le récap de Grace ; **vers 12h, dans son bureau, porte fermée, il pose ses mains sur les épaules de Grace puis sur sa taille ; elle l'écarte sans brusquerie** (voir `etat/traces.md`).
 - Contacts avec Sandra : appel le 17/07 au soir ; silence de quatre jours ; elle écrit la première le 21/07 ; appel de William le 21/07 à 14h26.
 
 ## Personnalité (analyse de départ)

@@ -1,0 +1,23 @@
+# Dossier des traces de William (créé le 23/07/2040)
+
+> Règle (revue du lundi, validée le 23/07/2040) : le monde garde la mémoire de ce que William écrit, signe, dit et fait.
+> Ces traces peuvent **ressortir** (rumeur, plainte, contrôle, conflit, fuite : aléa A12 s'il devient actif) sans que le moteur
+> les invente à la dernière minute. À chaque tour, ajouter les traces nouvelles ; ne jamais en effacer.
+> Ce fichier n'est pas un jugement : c'est l'état de ce que les autres personnages *pourraient* savoir ou prouver.
+
+| Date | Trace | Support | Qui peut la détenir / la voir | Exposition |
+|---|---|---|---|---|
+| 16/05 | Demande de caméras dans les toilettes des femmes ; sélection « jeunes et belles » au pôle RH | Échanges avec l'équipe de création / Me Kouamé (« illégal, voyeurisme ») | Me Kouamé (a refusé) ; peut-être Aïcha | Moyenne : a été refusé, mais Me Kouamé s'en souvient |
+| 16/05 | Drague refusée de Mariette, racontée à Aïcha | Parole | Mariette, Aïcha | Faible à moyenne |
+| 17/07 | Proposition de surveillance cachée des ordinateurs, présentée comme « test » | Entretien à porte fermée | Aïcha | Moyenne : illégal (ARTCI) |
+| 17-20/07 | Cinq contrats signés « William Ossimi, **Gérant** » alors que les statuts nomment Aïcha gérante | `serveur/rh/contrats/` ; statuts (`serveur/direction/statuts_osia_energies.pdf`) | Tous ceux qui ont accès au serveur ; Mariette l'a relevé dans sa note | **Élevée** (document daté, contradiction avec la « ligne de défense ») |
+| 19-20/07 | Ordres et règles dans le groupe WhatsApp « Direction » : « grand patron », promotion > 95/100, « naming and shaming », bonus/malus discrétionnaire, sanction pour les oublis de serveur | WhatsApp (5 membres) | Aïcha, Mariette, Grace, Abdoul, Yves | **Élevée** (écrit, durable) |
+| 20/07 | Hausse de ton contre Mariette (contrats numérisés faux) | Entretien à porte fermée | Mariette, Aïcha (informée) | Moyenne |
+| 21-22/07 | Remboursement des avances (~3,54 M FCFA), dotation de 176 725 €, libellé « augmentation de capital » | Ordres bancaires ; messages ; groupe WhatsApp | Aïcha, Mariette, Me Kouamé, Spuerkeess, SGBCI | Élevée (traces bancaires) |
+| 22/07 | Recherche sur l'art. 14 du statut ; décision de ne rien déclarer ; plan « pas au courant / délais » | Historique de navigation de William ; dans sa tête | William seul (pour l'instant) | Faible pour l'instant, élevée si une déclaration est contredite |
+| 22/07 | « Laisse tomber. » à Aïcha après 30 h de silence | WhatsApp | Aïcha | Faible |
+| 22/07-23/07 | Promesses à Sandra (« je t'appelle dès que je peux », report d'un appel qualifié de non négociable) | WhatsApp | Sandra | Moyenne (affecte la confiance) |
+| 23/07 | Promesse écrite à Kevin (« Oui je reviens en septembre ») | WhatsApp | Kevin, Sandra | Moyenne |
+| 23/07, ~12h00 | **Contact physique avec Grace** (mains sur les épaules puis sur la taille) dans son bureau, porte fermée, après un compliment sur son travail ; **Grace a posé sa main sur la sienne et l'a retirée sans brusquerie, puis a fait un demi-pas** | Aucun écrit ; Grace est le seul témoin ; porte fermée ; Grace tient un carnet | Grace ; à la sortie, ceux qui l'ont vue entrer (Mariette, Aïcha, gardien de jour) | **Élevée si Grace le consigne ou en parle** (art. 5 du Code du travail) |
+| permanent | Page Facebook d'OSIA publique (photo vue par Sandra) ; registre du commerce ivoirien (associé unique : William) | Internet | Sandra, collègues luxembourgeois (Mme Schmit…), toute personne qui cherche | Moyenne à élevée (statut de fonctionnaire) |
+| 23/07, 10h40 | William reprend Sékou (SécuTech) devant son équipe : « pas très sérieux », « manque de professionnalisme » | Oral | Sékou, deux techniciens, Aïcha | Faible |

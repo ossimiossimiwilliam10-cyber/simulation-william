@@ -14,7 +14,10 @@
 5. **Mémoire des traces** : le moteur tient un dossier des traces de William (écrits, signatures, messages, comportements) qui peuvent ressortir (rumeur, plainte, contrôle) ; applicable au statut de fonctionnaire et aux comportements envers l'équipe.
 
 ## 3. Décision de l'utilisateur
-*En attente.* Les aléas restent « proposé » dans `etat/aleas.md` tant que William n'a pas validé ; aucun tirage cette semaine avant cette validation (tirage immédiat possible après).
+**William a validé les cinq idées (23/07)** : « Toutes tes idées, je les valide. C'est du super boulot. » Il demande que la revue ait lieu **chaque lundi**.
 
 ## 4. Application
-*Aucune pour l'instant.*
+- Pack d'aléas **A01 A04 A06 A09 A13 actif** dans `etat/aleas.md`.
+- **Tirage réel** de la semaine (lundi après-midi) : consigné dans `memoire/tirages-aleas.md` ; un aléa est déclenché cette semaine (détail dans le journal des tirages ; non révélé au joueur, se jouera au jour tiré).
+- Nouveaux fichiers : `etat/vies-privees.md` (vie propre des personnages), `etat/traces.md` (dossier des traces de William), `etat/economie.md` (économie et règle de friction), outil `outils/jet.py`.
+- Première friction jouée : jet « Me Kouamé : deuxième passage » à 30 % → NON (rendez-vous du mercredi 25/07 15h confirmé).

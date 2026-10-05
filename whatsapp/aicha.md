@@ -61,3 +61,16 @@ Reçu. Je vois Maître Kouamé à 10h pour l'augmentation de capital. Pour la d�
 
 **[23/07/2040 - 11:26] Aïcha :**
 Retour de Maître Kouamé. Pour l'augmentation de capital il faut : 1) une décision de l'associé unique signée par toi, 2) les statuts modifiés, 3) l'attestation de versement de la SGBCI quand les fonds arrivent. Ensuite RCCM, publication et déclaration d'investissement. Il compte plusieurs semaines après réception des fonds et nous chiffre ses honoraires et les frais mardi. Il veut aussi un justificatif de l'origine des fonds. Il demande à te voir cette semaine.
+
+**[23/07/2040 - 07:25] William :**
+Aucun souci, je signerai comme associé unique.
+*(Texte reconstitué à partir de la dictée ; réponse à son message de 06h51.)*
+
+**[23/07/2040 - 07:31] Aïcha :**
+Parfait.
+
+**[23/07/2040 - 11:40] William :**
+*(Il suit les directives de Maître Kouamé et lui propose un rendez-vous mercredi à 15h, puisqu'il veut le voir. Texte reconstitué : « Je suis les directives de Maître Kouamé. Propose-lui mercredi à 15h. »)*
+
+**[23/07/2040 - 11:46] Aïcha :**
+Maître Kouamé confirme mercredi 25/07 à 15h à son cabinet, au Plateau. Il apporte le projet de décision et le chiffrage.

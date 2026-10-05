@@ -1,4 +1,4 @@
-# Calendrier (au 23/07/2040, 11h58)
+# Calendrier (au 23/07/2040, 12h02)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -24,6 +24,8 @@
 | Sam. 21 – Dim. 22/07 | Week-end écoulé. Aïcha (17/07) : « Ce week-end peut-être. Si tu es sage. » — **aucune rencontre** (Aïcha chez sa mère ; William n'a pas relancé). |
 | Dim. 22/07, soir | **FAIT** : synthèse de la semaine ISO 29 (`memoire/semaine-2040-W29.md`) + fiche complète. |
 | Mer. 25/07, soir | Prochaine fiche complète (3 jours simulés après le 22/07). |
+| Sam. 28/07, matin | William lit en détail la note juridique de Mariette ; retour « d'ici la semaine prochaine ». |
+| **Lun. 30/07** | **Revue du lundi** (deuxième) ; arrivée possible des fonds de la dotation à la SGBCI (lun. 30 – mar. 31/07). |
 | Dim. 29/07, soir | Synthèse de la semaine ISO 30 (`memoire/semaine-2040-W30.md`). |
 | Lun. 23/07, 8h | Aïcha + Mariette : intégrer la matrice d'évaluation au règlement (annoncé le 20/07). |
 | Lun. 23/07, ouverture | SGBCI : Aïcha doit déposer sa fiche de spécimen de signature, sinon les prochains ordres sont bloqués. |
@@ -41,6 +43,8 @@
 | Lun. 23/07, 14h | Clinique de Marcory (Dr Yapi) : visite technique avec Abdoul (confirmée par Grace le 21/07). |
 | Mar. 24/07, 9h | Capitol : retrait de l'attestation d'hébergement (signature du directeur) ; téléversement dans l'application pour le niveau 3. |
 | Mar. 24/07 | Maître Kouamé chiffre honoraires et frais de l'augmentation de capital ; William doit le rencontrer cette semaine. |
+| **Mer. 25/07, 15h** | **Rendez-vous avec Maître Kouamé (cabinet, Plateau)** : décision de l'associé unique, projet de décision d'augmentation de capital, chiffrage. Confirmé le 23/07. |
+| Jeu. 26/07, matin | Aléa tiré de la semaine (voir `memoire/tirages-aleas.md`). |
 | Jeu. 26/07 | SécuTech : fin des travaux prévue (câble des 2 caméras d'accueil) ; solde de 525 000 FCFA à l'achèvement. |
 | Jeu. 26/07 | Grace : devis comparatif villa Riviera prêt. Abdoul : plan technique (« Jeudi. »). |
 | Mar. 24/07, 17h | Kevin : signature du contrat d'apprentissage chez M. Da Silva (Chambre des métiers) — annoncé par Sandra le 22/07 (avant : « semaine du 23/07 »). |

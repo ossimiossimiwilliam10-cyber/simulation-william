@@ -1,61 +1,58 @@
-# Fils ouverts et décisions en attente (au 23/07/2040, 11h58)
+# Fils ouverts et décisions en attente (au 23/07/2040, 12h02)
 
 > **Fichier de relais.** Tout ce qui est « en suspens » dans le monde doit être ici, pour qu'aucun moteur
 > (Claude ou Gemini) ne l'oublie. Mettre à jour à chaque tour : ajouter, avancer, clore (garder la ligne
 > en « CLOS » avec la date). Les cases « décision de William » ne sont jamais tranchées par le moteur.
+> Voir aussi : `etat/vies-privees.md` (fils privés), `etat/traces.md` (traces de William), `etat/aleas.md`, `etat/economie.md`.
 
 ## A. Décisions en attente de William
 | # | Sujet | Contexte | Échéance |
 |---|---|---|---|
-| 1 | **Appel à Sandra : William appellera lundi 23/07 entre 17h et 18h (Abidjan) = 19h-20h à Esch** (créneau de Sandra : 19h-20h30 Esch, avant sa garde) | Confirmation faite **pour lui-même** (23h55) ; **aucun message à Sandra** ; Sandra n'a pas répondu depuis son « Ok. » (de garde jusqu'à 7h) ; ton plus sec depuis le report ; William doit être libre à ce moment | lun. 23/07, 17h-18h |
-| 2 | **Dotation unique d'OSIA : 176 725 € par AUGMENTATION DE CAPITAL** ; **ordre SUSPENDU par la Spuerkeess (23/07 10h22)** : justificatif d'origine des fonds, justificatif de l'opération (projet de décision d'augmentation de capital ou statuts), coordonnées complètes du bénéficiaire | Me Kouamé (rdv d'Aïcha 10h-11h) : il faut (1) décision de l'associé unique signée par William **comme associé unique** (« la gérante, c'est moi » — Aïcha), (2) statuts modifiés, (3) attestation de versement de la SGBCI après réception, puis RCCM, publication, déclaration d'investissement ; honoraires et frais chiffrés mardi ; plusieurs semaines après réception ; **fonds pas avant le 27/07, plus vraisemblablement la semaine suivante** ; Me Kouamé veut voir William cette semaine | dès que William fournit les documents |
-| 3 | Remboursement des avances (~3,54 M FCFA) : **destination = compte ivoirien de William (ouvert le 22/07, niveau 1) ; William veut le NIVEAU 3** ; exécution suspendue | **Attestation d'hébergement du Capitol disponible mardi 24/07 à 9h** (signature du directeur) à téléverser dans l'application ; validation non datée (moteur : 1 à 3 jours ouvrés après dépôt) ; **RIB à communiquer ensuite à Aïcha et Mariette** (pas fait) ; la part « salaires de juin » reste difficile à justifier | après validation du niveau 3 |
-| 4 | Statut comptable de ce que William a payé avant l'ouverture du compte (loyer/caution 17,6 M FCFA, Phase 1, acompte Me Kouamé) | Non tracé ; à voir avec Aïcha/Mariette | libre |
-| 5 | Lecture de la matrice et du dossier de la semaine (promis « ce week-end » le 20/07) | « On en reparle lundi » avec Aïcha ; rien de consigné sur sa lecture | lun. 23/07 |
-| 6 | **Valider ou corriger le récap de Grace** (`serveur/commercial/recap_grace_2307.pdf`, déposé 11h52) : planchers de marge brute **25 % (clinique) / 20 % (Riviera)**, aucune remise > 5 % sans lui, besoins (Abdoul, prix d'achat du fournisseur libanais) | **Grace est dans le bureau de William depuis 11h58, porte fermée**, pour en parler de vive voix ; elle demande une réponse sous 24 h | lun. 23/07 |
-| 7 | **Lire la note juridique de Mariette** (`serveur/rh/note_juridique_2307.pdf`, déposée 11h38) et décider : sort des CDD de direction (risque de requalification en CDI, rupture seulement pour faute lourde, indemnité de 3 %), retrait du « naming and shaming », encadrement du bonus/malus, qualité de signataire « Gérant », régularisation CNPS/ITS | Mariette (message 11h41) : « points durs » ; la note recommande de faire valider par Me Kouamé avant le 25/07 ; décisions de William attendues avant le 31/07 | lun. 23/07 |
-| 8 | Aïcha : relation professionnelle et froide | 23/07 06h51 : « La gérante, c'est moi. » ; 09h20 : « Bonjour. » formel face à William ; aucune allusion au week-end ; **période froide : demander à chaque message d'Aïcha si William répond** | en continu |
-| 9 | ~~Ouvrir un compte bancaire ivoirien~~ **FAIT 22/07 ~23h30 (néobanque, niveau 1)** ; reste : monter au niveau 3, communiquer le RIB, déclarer le compte en France (3916) | | lun. 23/07 au plus tôt |
-| 10 | **Répondre à la Spuerkeess** (S-Net, 23/07 10h22) : justificatif d'origine des fonds, justificatif de l'opération, coordonnées complètes du bénéficiaire | Ordre suspendu tant que ces pièces ne sont pas fournies ; le projet de décision d'augmentation de capital dépend de Me Kouamé/Aïcha | cette semaine |
-| 11 | **Rencontrer Me Kouamé cette semaine** (demande transmise par Aïcha) ; signer la décision de l'associé unique | Il chiffre honoraires et frais mardi 24/07 | cette semaine |
-| 12 | **Validation du pack d'aléas et des idées de la revue du lundi** (`memoire/revue-lundi-2040-07-23.md`, `etat/aleas.md`) | Aucun aléa actif tant que William n'a pas validé | dès que possible |
-| 13 | **Comportement annoncé par William** : « particulièrement amical et vraiment tactile » avec Grace **uniquement**, surtout **en privé**, toute la semaine du 23/07 | Grace (subordonnée directe, ambitieuse) est entrée dans son bureau à 11h58, porte fermée ; le moteur s'arrête avant le premier geste ; art. 5 du Code du travail (harcèlement sexuel interdit) ; Mariette (DRH) recevrait un signalement ; Aïcha est jalouse ; aucun témoin en privé | toute la semaine |
+| 1 | **Suite de la scène avec Grace** : William a posé ses mains sur ses épaules puis sa taille et attend sa réaction « avant de continuer plus loin » | **Grace a écarté sa main sans brusquerie** (« Merci, patron. »), demi-pas vers la table, a ouvert sa chemise (« les deux devis, on a cinq minutes ») ; porte restée fermée ; elle n'est ni choquée ni complice : elle attend ; William a aussi demandé un entretien sur la clause « marchés publics / commissions » (elle : « je ne la touche pas sans écrit ») | maintenant |
+| 2 | **Appel à Sandra : William appellera lundi entre 17h et 18h (Abidjan) = 19h-20h à Esch** | Maintenu ; Sandra : « Parfait. À ce soir. » ; elle a été sèche après le report ; fil privé : elle veut dire ce qui la préoccupe | lun. 23/07, 17h-18h |
+| 3 | **Clinique de Marcory 14h** (visite technique avec Abdoul ; Grace présente) | William a dit qu'il irait | lun. 23/07, 14h |
+| 4 | **Rendez-vous avec Me Kouamé mercredi 25/07 à 15h (confirmé, cabinet du Plateau)** : signer la décision de l'associé unique ; honoraires et frais chiffrés mardi | Me Kouamé apporte le projet de décision d'augmentation de capital ; **William signe comme associé unique** | mer. 25/07, 15h |
+| 5 | **Dotation 176 725 € (augmentation de capital)** : ordre **suspendu** par la Spuerkeess | William a transmis le 23/07 à 11h20 statuts, 12 mois de relevés, bulletins de salaire ; **manque le projet de décision** (Me Kouamé, mer. 25/07) ; déblocage au plus tôt jeudi 26/07 ; SWIFT 2 à 4 jours ouvrés : **arrivée à la SGBCI entre lun. 30/07 et mar. 31/07** ; frais SHA : montant crédité un peu inférieur | jeu. 26/07 |
+| 6 | **Capitol : attestation d'hébergement** (signature du directeur) à retirer **mardi 24/07 à 9h**, puis téléverser pour le niveau 3 de son compte ivoirien ; communiquer ensuite le RIB à Aïcha et Mariette | Validation non datée (moteur : 1 à 3 jours ouvrés) ; jet de friction à jouer à la remise | mar. 24/07 |
+| 7 | **Remboursement des avances (~3,54 M FCFA)** | Suspendu jusqu'au niveau 3 du compte ivoirien ; la part « salaires de juin » est difficile à justifier | après niveau 3 |
+| 8 | **Note juridique de Mariette** (`serveur/rh/note_juridique_2307.pdf`) | William a décidé de la lire en détail **samedi 28/07 au matin** et de donner un retour « d'ici la semaine prochaine » ; la note recommande une validation de Me Kouamé avant le 25/07 (Aïcha) et des décisions de William avant le 31/07 | sam. 28/07 |
+| 9 | **Classement du serveur** : William exige que tout soit rangé (« j'ai horreur du désordre électronique ») | Mariette prévient l'équipe cet après-midi et propose des règles de classement ce soir | lun. 23/07 soir |
+| 10 | Statut comptable de ce que William a payé avant l'ouverture du compte (loyer/caution 17,6 M FCFA, Phase 1, acompte Me Kouamé) | Non tracé ; à voir avec Aïcha/Mariette | libre |
+| 11 | Lecture de la matrice et du dossier de la semaine (promis « ce week-end » le 20/07) | Aïcha et Mariette travaillent sur la légalisation de la matrice ; la note de Mariette recommande de retirer le « naming and shaming » | libre |
+| 12 | **Aïcha** : relation professionnelle et froide | « La gérante, c'est moi. » ; « Bonjour. » ; a vu William reprendre Sékou depuis le perron ; **période froide : demander à chaque message d'Aïcha si William répond** | en continu |
 
-**Clos :** réponse à Kevin (21/07 14h03, promesse de retour en septembre) ; réponse à Aïcha sur SécuTech (21/07 12h20) ; consigne à Grace (21/07) ; appel à Sandra (21/07 14h26-14h47, « non négociable » tenu) ; message à Aïcha « fâchée ? » (21/07 15h08) ; **week-end avec Aïcha : n'a pas eu lieu** (21-22/07, clos le 22/07 au soir) ; décision de remboursement des avances (21/07) ; nouvelle politique d'épargne (21/07-22/07, voir `etat/finances.md`).
+**Clos :** réponse à Kevin (21/07) ; réponse à Aïcha sur SécuTech (21/07) ; consigne à Grace (21/07) ; appel à Sandra du 21/07 ; message à Aïcha « fâchée ? » (21/07) ; week-end avec Aïcha (n'a pas eu lieu) ; décision de remboursement (21/07) ; statut de fonctionnaire : décision de se déclarer **au plus tard le 30/12/2040** (22/07) ; **validation des cinq idées de la revue du lundi (23/07)** ; **récap de Grace validé (23/07, planchers 25 % / 20 %)**.
 
 ## B. Fils en cours côté monde (le moteur les fait avancer)
 | Sujet | État | Prochain jalon |
 |---|---|---|
-| SécuTech : vidéosurveillance | **Équipe arrivée lun. 23/07 à 10h40 (1 h 40 de retard)** ; extérieur en cours ; **manque de câble pour les 2 caméras d'accueil : fin jeudi 26/07** ; Aïcha ne paie le solde de 525 000 FCFA qu'à l'achèvement | jeu. 26/07 |
-| Clinique de Marcory (Dr Yapi) | Prospect chaud ; visite technique confirmée | lun. 23/07, 14h avec Abdoul |
-| Villa Riviera | Prospect tiède, 2 devis concurrents | Grace prépare un devis comparatif (carte blanche) avec la fiche d'onduleur d'Abdoul |
-| Banque SGBCI | Compte ouvert ; **spécimen de signature d'Aïcha déposé le 23/07 à 08h40** ; salaires du 1er au 15/07 crédités | carte + e-banking semaine du 23/07 |
-| Salaires du 1er au 15/07 | Ordonnés le 21/07 | crédités lun. 23/07, mar. 24/07 au plus tard |
-| Matrice d'évaluation à « légaliser » (Aïcha + Mariette) | Annoncé pour lundi à la première heure | lun. 23/07, 8h |
-| **Revue de légalité des contrats et chartes (Mariette)** | Demandée le 19/07, relancée le 21/07 ; **note PDF promise lundi avant midi** ; « points sensibles sur les ruptures » non détaillés | lun. 23/07 midi ; elle trouverait notamment : CDD max 24 mois, rupture anticipée limitée, requalification en CDI, contrats d'Aïcha et Mariette antérieurs au RCCM, gérance ambiguë, salaires de juin non déclarés |
-| Gérance (William « Gérant » sur les contrats vs Aïcha gérante « par procuration ») | Non soulevé | Mariette, Esther ou Me Kouamé peuvent le relever ; exposition de William (art. 14 du statut LU) |
-| Présentation de l'équipe technique d'Abdoul (4 à 6 personnes + devis) | Non tenue | date à fixer par Abdoul |
+| **Aléa tiré de la semaine du 23/07** (A06, retard fournisseur/douane) | **Un aléa déclenché, détail dans `memoire/tirages-aleas.md`** ; à jouer au jour tiré (jeudi 26/07 au matin), avec jet sur la véracité de l'excuse du fournisseur | jeu. 26/07 matin |
+| SécuTech : vidéosurveillance | Équipe arrivée à 10h40 (1 h 40 de retard) ; William a repris le chef d'équipe **Sékou** ; extérieur en cours ; manque de câble pour les 2 caméras d'accueil ; fin jeudi 26/07 ; solde 525 000 FCFA payé à l'achèvement | jeu. 26/07 |
+| Clinique de Marcory (Dr Yapi) | Prospect chaud ; visite technique confirmée | lun. 23/07, 14h avec Abdoul ; devis sous 5 jours ouvrés |
+| Villa Riviera | Prospect tiède, 2 devis concurrents | Devis comparatif jeudi 26/07 (Grace) ; plancher 20 % |
+| Matrice d'évaluation à « légaliser » (Aïcha + Mariette) | En cours depuis le 23/07 08h ; la note de Mariette recommande de retirer le « naming and shaming » et d'encadrer le bonus/malus | selon William |
+| **Note juridique de Mariette : points à traiter** | CDD de direction (requalification en CDI possible ; rupture seulement pour faute lourde ; indemnité 3 % non provisionnée), naming and shaming (diffamation), bonus/malus, charte ≠ règlement intérieur, signatures « Gérant » vs statuts (Aïcha gérante), CNPS/ITS de juin | validation Me Kouamé (Aïcha), décisions de William avant le 31/07 |
+| **Gérance** | **Statuts (serveur/direction/statuts_osia_energies.pdf, 11h05) : William associé unique, Aïcha gérante (4 ans, procuration générale)** ; les 5 contrats signés « William Ossimi, Gérant » sont contradictoires | Me Kouamé ou Mariette le relèvent ; exposition de William (art. 14 du statut LU) |
+| Présentation de l'équipe technique d'Abdoul | « Jeudi. » (plan technique) | jeu. 26/07 |
 | Annonce à Bertin (sous-traitant externe) | Pas fait | Abdoul doit le faire « avec respect » |
-| Livraison onduleurs/batteries (fournisseur libanais) | Payé le 18/07 ; aucune date | à jouer (retard probable) |
-| Régularisation CNPS / déclaration fiscale d'existence / salaires de juin d'Aïcha et Mariette (versés en net, non déclarés) | « En cours » depuis le 11/07 ; échéances de juin dépassées (ITS 10/07, CNPS 15/07) | Mariette, note de lundi |
-| Solde honoraires Me Kouamé (1 250 000 FCFA + avenants + 150 000/contrat) | « À vérifier » | à jouer |
+| Livraison onduleurs/batteries (fournisseur libanais) | Payé le 18/07 ; aucune date | voir aléa A06 |
+| Régularisation CNPS / déclaration fiscale d'existence / salaires de juin (non déclarés) | « En cours » depuis le 11/07 ; échéances de juin dépassées | Mariette, Aïcha |
+| Salaires de juillet | Dus fin juillet ; ITS 10/08, CNPS 15/08 | 31/07 |
+| Honoraires de Me Kouamé (solde 1 250 000 FCFA + avenants + 150 000/contrat) | « À vérifier » ; chiffrage de l'augmentation de capital mardi 24/07 | mar. 24/07 |
 | Fibre Orange | Annoncée fin juillet | incertain |
 | Rapports complets des équipes | Échéance mar. 31/07 | — |
-| Mariette (burn-out) | Terrifiée depuis le 20/07 ; pressée de nouveau le 21/07 | à surveiller dans les scènes |
-| État d'avancement des équipes (Mariette, 21/07) | Yves : 3 CV SAV ; Grace : organisation en finalisation ; Abdoul : plan technique non remis | Mariette relance lundi 8h, point écrit en fin de journée |
-| Contrat d'apprentissage de Kevin | **Signature chez M. Da Silva mardi 24/07 à 17h** (annoncé par Sandra le 22/07) ; suivi par la Chambre des métiers | mar. 24/07 |
-| **Statut de fonctionnaire de William** | Recherche faite le 22/07 : aucune autorisation préalable (art. 14) alors qu'il dirige OSIA ; **décision de William (22/07 ~23h) : ne rien déclarer, ne rien changer, ligne de défense « Aïcha gérante, William quasi externe »** (Aïcha ne le sait pas) ; traces contraires : contrats signés « Gérant », matrice, ordres dans le groupe, bail, page Facebook publique ; rien n'indique que l'administration le sache | à jouer ; risque de fuite (aléa A12), de rapprochement par un collègue (Mme Schmit) ou d'une remarque de Me Kouamé/Mariette/Esther |
-| Comptes luxembourgeois de William et fiscalité française | Banque : **Spuerkeess** ; William réside en France (Audun-le-Tiche) : des comptes ouverts à l'étranger (ici au Luxembourg) se déclarent chaque année (3916) ; **la situation déclarative de William n'est pas documentée** | à jouer (Esther, comptable, échéance de la déclaration annuelle) |
-| **Déclaration de William à l'administration luxembourgeoise** | **Décision du 22/07 : déclarer, en minimisant, en disant ne pas avoir été au courant ou n'avoir pas anticipé les délais ; échéance fixée : 30/12/2040 (un DIMANCHE : dernier jour ouvré ven. 28/12, période de vacances scolaires et de fêtes)** ; jusque-là rien n'est déclaré ; l'autorisation de l'art. 14 est **préalable** (non rétroactive) ; attendre décembre prolonge la durée du manquement (≈ 5 mois depuis le RCCM du 11/07) | à jouer ; décision de William sur la forme (demande d'autorisation, courrier) et la date exacte |
-| Déclaration de l'investissement étranger (dotation de William) | Dès réception des fonds par OSIA : déclaration statistique au Trésor (Finances extérieures) et à la BCEAO sous un mois ; sans cette trace, rapatrier plus tard dividendes ou compte courant se complique | à jouer (Aïcha, Esther, Me Kouamé) |
-| Fiscalité de William | Résident fiscal en France (Audun-le-Tiche), salaire luxembourgeois ; participation et dividendes futurs d'OSIA, comptes hors de France : obligations déclaratives en France (formulaires 2047/2042, 3916) — jamais abordé | à jouer (Esther/comptable) |
-| **Revue du lundi (règle du 22/07)** | **Première revue lundi 23/07** : bilan de la semaine W29 + choix de nouveaux éléments de réalisme (voir `etat/aleas.md`) ; chaque lundi ensuite | lun. 23/07, début de journée |
+| Mariette (burn-out) | Terrifiée ; note rendue à l'heure ; doit relayer le classement | à surveiller |
+| Contrat d'apprentissage de Kevin | **Signature chez M. Da Silva mardi 24/07 à 17h** (Chambre des métiers) | mar. 24/07 |
+| Déclaration de William à l'administration luxembourgeoise | **Au plus tard le 30/12/2040 (dimanche ; dernier jour ouvré ven. 28/12)**, en minimisant, en disant ne pas avoir été au courant | à jouer |
+| Comptes luxembourgeois de William et fiscalité française | Spuerkeess ; compte ivoirien (déclaration annuelle 3916) ; situation déclarative non documentée | à jouer |
+| Déclaration de l'investissement étranger (dotation) | Dans le mois qui suit la réception des fonds : Trésor/BCEAO (statuts, PV, déclaration de souscription et versement) | après réception des fonds |
 | Congés de Sandra | 6-19/08 (projet Mindelo non financé) | août |
 | Esther N'Guessan | Arrivée fin août/sept. | — |
-| Semaine ISO 29 (16-22/07) | **Synthèse écrite le 22/07** : `memoire/semaine-2040-W29.md` | semaine 30 : à écrire dim. 29/07 |
+| Revue du lundi | **Chaque lundi** ; prochaine : lun. 30/07 (bilan de la semaine du 23/07 et nouvelles idées) | lun. 30/07 |
+| Semaine ISO 30 (23-29/07) | Synthèse à écrire dim. 29/07 soir : `memoire/semaine-2040-W30.md` | dim. 29/07 |
 
 ## C. Questions de cohérence à poser à l'utilisateur (hors fiction)
 1. ~~Naturalisation de William~~ : **CLOS le 21/07** (via son père, effet collectif).
-2. **Gérance** : confirmer qui est le gérant statutaire (William ou Aïcha « par procuration »).
+2. ~~Gérance~~ : **CLOS le 23/07** : William a dit lui-même avoir désigné Aïcha comme gérante ; les statuts le traduisent. Reste la contradiction avec les contrats signés « Gérant », jouée dans le monde.
 3. La commande d'onduleurs du 18/07 (2 750 €) a été imputée au **compte projet** (hypothèse du moteur) : confirmer.
-4. ~~Banque de William~~ : **Spuerkeess (Luxembourg)**, précisé le 22/07. Reste à préciser lesquels de ses comptes (courant, projet, épargne, ETF) y sont domiciliés (le moteur suppose : tous).
+4. ~~Banque de William~~ : **Spuerkeess (Luxembourg)**, précisé le 22/07. Reste à préciser lesquels de ses comptes y sont domiciliés (le moteur suppose : tous).

@@ -24,3 +24,10 @@ Noté patron. Je garde le dossier prêt, il ne manquera que ton RIB.
 
 **[23/07/2040 - 11:41] Mariette :**
 Patron, la note juridique est sur le serveur, dans rh/ (note_juridique_2307.pdf). Elle fait deux pages. Il y a des points durs, surtout sur les CDD et le naming and shaming. Je te laisse la lire et je suis disponible quand tu veux, hein.
+
+**[23/07/2040 - 11:50] William :**
+Mariette, j'ai ouvert ta note. Je te le dis aussi pour les autres membres de l'équipe : les documents commencent à s'empiler sur le serveur. Il faut vraiment tout bien classer. J'ai horreur du désordre électronique, j'aime quand tout est rangé et qu'on retrouve facilement les documents. Peux-tu le répéter à l'équipe ? Je survole ta note, je la lirai en détail samedi matin et je te donne un retour d'ici la semaine prochaine.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[23/07/2040 - 11:53] Mariette :**
+Bien sûr patron. Je préviens l'équipe cet après-midi et je propose des règles de classement ce soir. Samedi matin, très bien. Merci de prendre le temps de la lire, hein.

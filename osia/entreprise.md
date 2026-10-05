@@ -3,11 +3,7 @@
 ## Statut
 - Activité : installation et maintenance photovoltaïque premium, Abidjan.
 - **Associé unique : William Ossimi.** Gérante : Aïcha Diomandé (par procuration).
-- ⚠ **Gérance : point juridique à clarifier** (relevé à l'audit du 21/07). Les fiches d'origine disent
-  « gérante : Aïcha (par procuration) », mais les contrats de travail et les rapports désignent William
-  comme « Gérant ». Conséquences possibles : validité des signatures, qualité pour opérer le compte
-  bancaire, et — pour William, fonctionnaire luxembourgeois — exposition accrue (art. 14 du statut, voir
-  `etat/william.md`). À faire trancher par Maître Kouamé / Esther ; Mariette ne l'a pas encore soulevé.
+- **Gérance (précisé le 23/07)** : William a dit avoir **désigné Aïcha comme gérante** ; les **statuts** (`serveur/direction/statuts_osia_energies.pdf`, signés le 04/07/2040) nomment Mme Aïcha Diomandé gérante pour 4 ans, avec procuration générale ; William est **associé unique** (art. 7 et 9 : il décide seul du capital, des statuts, de la cession, de la nomination du gérant). *Contradiction jouée dans le monde* : les cinq contrats de travail sont signés « William Ossimi, Gérant » ; la note de Mariette (23/07) le relève ; exposition de William (art. 14 du statut luxembourgeois).
 - Capital : 30 000 000 FCFA (45 735 €). **Augmentation de capital décidée le 22/07 par William (≈ +115,9 M FCFA, non exécutée, formalités à cadrer par Me Kouamé).**
   le 21/07 et versé sur le compte courant.*
 - **RCCM délivré le 11/07/2040.** Déclaration fiscale d'existence et
@@ -111,3 +107,4 @@
 - **SécuTech** : équipe arrivée à 10h40, extérieur en cours, fin jeudi 26/07 (câble manquant pour l'accueil).
 - **Augmentation de capital** : procédure cadrée par Me Kouamé (décision de l'associé unique, statuts, attestation de versement, RCCM, publication, déclaration d'investissement) ; chiffrage mardi.
 - **SGBCI** : spécimen de signature d'Aïcha déposé.
+- **23/07, 10h40** : William a repris le chef d'équipe de SécuTech, **Sékou**, sur son retard de 1 h 40 (« pas très sérieux », « manque de professionnalisme ») ; Sékou a présenté des excuses ; Aïcha a vu la scène.

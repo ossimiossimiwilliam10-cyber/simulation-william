@@ -17,3 +17,10 @@ Reçu patron. Un résultat, tu l'auras. Pour que ce soit clair entre nous, je te
 
 **[23/07/2040 - 11:52] Grace :**
 Patron, le récap est sur le serveur, dans commercial/ (recap_grace_2307.pdf). Tu as cinq minutes ? Je passe à ton bureau pour qu'on en parle de vive voix.
+
+**[23/07/2040 - 11:55] William :**
+Je valide tout. Je suis très content de ton récap, c'est vraiment du bon travail. Par contre j'aimerais qu'on s'entretienne davantage de ta clause qui exclut les marchés publics et toute commission.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[23/07/2040 - 11:57] Grace :**
+Merci patron 😊 Volontiers. Je te préviens, cette clause je l'ai demandée moi-même, je ne la touche pas sans écrit. J'arrive.

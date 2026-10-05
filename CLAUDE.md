@@ -131,20 +131,20 @@ Direct, structuré, sobre. Pas de flatterie ni d'encouragements.
 Langue : **français**.
 
 ## 9. POINT DE REPRISE
-**Lundi 23 juillet 2040, 11h58 — Grace vient d'entrer dans le bureau de William et a fermé la porte (récap des marges).**
-Première **revue du lundi** présentée (`memoire/revue-lundi-2040-07-23.md`) : cinq idées de réalisme (pack d'aléas A01 A04
-A06 A09 A13, vie propre des personnages, friction administrative, économie moins complaisante, dossier des traces),
-**en attente de validation de William** (aucun aléa actif). Matinée : Sandra « Parfait. À ce soir. » ; Aïcha « La gérante, c'est
-moi. » puis « Bonjour. » formel, compte rendu de Me Kouamé à 11h26 (décision de l'associé unique à signer par William **comme
-associé unique**, statuts, attestation de versement, RCCM, publication ; chiffrage mardi ; il veut voir William) ; **Spuerkeess a
-SUSPENDU l'ordre de 176 725 €** (10h22 : origine des fonds, justificatif de l'opération, coordonnées du bénéficiaire) ; hôtel :
-attestation pour le niveau 3 disponible **mardi 24/07 à 9h** ; SécuTech en retard, fin **jeudi 26/07** ; spécimen d'Aïcha
-déposé, salaires du 1er au 15/07 crédités ; Abdoul « Jeudi. » ; **note juridique de Mariette** déposée à 11h38 (PDF, deux pages,
-« points durs » : CDD, naming and shaming, gérance, CNPS/ITS) ; **récap de Grace** déposé à 11h52 (planchers 25 % clinique,
-20 % Riviera). **William a annoncé (note du 23/07)** qu'il serait toute la semaine « particulièrement amical et vraiment
-tactile » avec Grace seule, en privé : **le moteur s'arrête avant son premier geste** (règle 13). À venir aujourd'hui : visite
-de la clinique de Marcory à 14h (Abdoul, Grace), **appel à Sandra entre 17h et 18h (Abidjan) = 19h-20h à Esch**, point écrit de
-Mariette en fin de journée. Voir `journal/2040-07-23.md`, `etat/fils-ouverts.md`, `etat/finances.md`.
+**Lundi 23 juillet 2040, 12h02 — William est dans son bureau avec Grace, porte fermée.**
+**Revue du lundi** : les cinq idées sont **validées** (aléas A01 A04 A06 A09 A13 actifs ; `etat/vies-privees.md`,
+`etat/traces.md`, `etat/economie.md`, `outils/jet.py` créés) ; revue **chaque lundi**. **Tirage réel fait** (un aléa tombe cette
+semaine : voir `memoire/tirages-aleas.md` ; **non révélé au joueur**, à jouer au jour tiré). **Scène en cours** : après avoir
+validé tout le récap de Grace (planchers 25 % / 20 %) et demandé à discuter de sa clause « marchés publics / commissions »
+(elle : « je la touche pas sans écrit »), William a posé ses mains sur ses épaules puis sur sa taille en la félicitant ; **Grace a
+écarté sa main sans brusquerie** (« Merci, patron. »), demi-pas vers la table, « les deux devis, on a cinq minutes » ; porte
+restée fermée ; **le moteur n'avance pas le geste suivant de William**. Matinée : Aïcha « Parfait. » / « Bonjour. » ;
+**statuts** d'OSIA déposés (William associé unique, **Aïcha gérante**) ; William a envoyé à la Spuerkeess statuts, relevés et
+bulletins (il manque le **projet de décision** : **Me Kouamé mercredi 25/07 15h**, confirmé) → fonds à la SGBCI entre lun. 30 et
+mar. 31/07 ; attestation du Capitol **mardi 9h** ; SécuTech : William a repris le chef d'équipe **Sékou** (fin jeudi 26/07) ; note
+juridique de Mariette déposée, William la lira **samedi 28/07 matin** (retour « d'ici la semaine prochaine ») et exige que tout soit
+classé (Mariette propose des règles ce soir). **À venir aujourd'hui** : clinique de Marcory **14h** (Abdoul, Grace), **appel à
+Sandra entre 17h et 18h (Abidjan) = 19h-20h à Esch**. Voir `journal/2040-07-23.md`, `etat/fils-ouverts.md`, `etat/traces.md`.
 
 ## 10. PROTOCOLE DE RELAIS (Claude ⇄ Gemini)
 L'utilisateur alterne entre Claude et Gemini (Antigravity) selon ses crédits. Le moteur le plus puissant
@@ -203,3 +203,14 @@ présente une **« 🔄 Revue du lundi »** pour améliorer la simulation et év
 4. **Application** : tirage avec `python outils/tirage_aleas.py AAAA-MM-JJ` (vrai hasard, consigné dans
    `memoire/tirages-aleas.md`, jamais rejoué), puis narration des aléas déclenchés.
 5. **Trace** : compte rendu dans `memoire/revue-lundi-AAAA-MM-JJ.md`.
+
+**Mécanismes permanents (validés par l'utilisateur le 23/07/2040)** — à appliquer à chaque tour :
+- **Aléas** : pack actif A01 A04 A06 A09 A13 (`etat/aleas.md`) ; tirage réel chaque lundi (`outils/tirage_aleas.py`), consigné ;
+  les détails ne sont pas révélés à l'avance au joueur ; les jouer au jour tiré, avec un jet (`outils/jet.py`) quand une
+  excuse ou un résultat est incertain.
+- **Vie propre des personnages** : `etat/vies-privees.md` ; faire avancer **au moins un fil privé** par tour significatif.
+- **Friction administrative** : jet « deuxième passage demandé » à 30 % pour toute démarche à enjeu (`etat/economie.md`).
+- **Économie moins complaisante** : `etat/economie.md` (concurrence, remises, délais de paiement, signatures lentes).
+- **Dossier des traces** : `etat/traces.md` ; y ajouter chaque écrit, signature, message ou comportement de William qui peut
+  ressortir ; ne jamais en inventer à la dernière minute.
+- **Revue du lundi, chaque lundi** (la prochaine : 30/07/2040), y compris « Go » : la présenter avant le reste.

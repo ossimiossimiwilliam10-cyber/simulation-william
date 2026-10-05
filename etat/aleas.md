@@ -1,5 +1,8 @@
 # Catalogue des aléas (hasard, maladies, imprévus) — créé le 22/07/2040
 
+> **23/07/2040 — William a validé le pack : A01, A04, A06, A09, A13 sont ACTIFS.** Les autres restent « proposé »
+> (à réexaminer chaque lundi).
+
 > Règle du lundi (CLAUDE.md §12) : chaque lundi simulé, on analyse la semaine écoulée et on décide ensemble de
 > nouveaux éléments de réalisme. Ce fichier est la **réserve d'idées** et le **catalogue des aléas**.
 > - Statut **proposé** = idée non validée : **jamais tirée**. Statut **actif** = validée par l'utilisateur.
@@ -10,19 +13,19 @@
 
 | ID | Événement | Probabilité par semaine | Statut | Effets / conditions |
 |---|---|---|---|---|
-| A01 | Maladie d'un membre de l'équipe (paludisme, gastro, typhoïde) | 10 % | proposé | Absence de 2 à 5 jours ; qui est touché : tirer parmi les salariés ; saison des pluies = plus fréquent |
+| A01 | Maladie d'un membre de l'équipe (paludisme, gastro, typhoïde) | 10 % | actif | Absence de 2 à 5 jours ; qui est touché : tirer parmi les salariés ; saison des pluies = plus fréquent |
 | A02 | Problème de santé d'un proche d'un personnage (ex. mère d'Aïcha, tension) | 8 % | proposé | Personnage moins disponible, humeur, demande d'absence ou d'avance |
 | A03 | Maladie ou accident d'un des enfants de Sandra | 8 % | proposé | Sandra indisponible, échange d'argent ou d'aide possible, test pour William |
-| A04 | Délestage / coupure d'électricité prolongée | 25 % | proposé | QG sans groupe électrogène (hors service) ; chantiers et visites perturbés |
+| A04 | Délestage / coupure d'électricité prolongée | 25 % | actif | QG sans groupe électrogène (hors service) ; chantiers et visites perturbés |
 | A05 | Fortes pluies / inondation | 15 % | proposé | Transports et chantiers retardés (Abidjan, saison des pluies) |
-| A06 | Retard fournisseur ou douane (NVR, onduleurs, batteries) | 30 % | proposé | Délai supplémentaire ; l'excuse du fournisseur est plausible mais pas toujours vraie |
+| A06 | Retard fournisseur ou douane (NVR, onduleurs, batteries) | 30 % | actif | Délai supplémentaire ; l'excuse du fournisseur est plausible mais pas toujours vraie |
 | A07 | Panne réseau (fibre, 4G) ou banque en ligne | 15 % | proposé | Retard d'un virement, d'un envoi, d'un rapport |
 | A08 | Contrôle ou courrier administratif (Inspection du travail, CNPS, impôts) | 5 % | proposé | Dossiers incomplets (CNPS, salaires de juin) ressortent |
-| A09 | Erreur administrative (virement mal affecté, pièce perdue, nom mal orthographié) | 10 % | proposé | Correction longue, agacement |
+| A09 | Erreur administrative (virement mal affecté, pièce perdue, nom mal orthographié) | 10 % | actif | Correction longue, agacement |
 | A10 | Offre concurrente ou démission d'un cadre | 3 % | proposé | Négociation, révision salariale, ou départ |
 | A11 | Cérémonie familiale ou décès dans l'entourage d'un salarié (funérailles ivoiriennes) | 4 % | proposé | Absence de plusieurs jours, contribution financière attendue |
 | A12 | Fuite d'information (salaires, avances, statut de William) | 5 % | proposé | Rumeur, tension d'équipe, risque pour William |
-| A13 | Opportunité commerciale inattendue (recommandation, appel d'un prospect) | 10 % | proposé | Nouvelle piste (rarement un contrat tout de suite) |
+| A13 | Opportunité commerciale inattendue (recommandation, appel d'un prospect) | 10 % | actif | Nouvelle piste (rarement un contrat tout de suite) |
 | A14 | Incident de sécurité au QG (intrusion, vol, alarme) | 3 % | proposé | Moussa et le gardien de jour, SécuTech si installé |
 | A15 | Variation de prix du matériel ou du change | 8 % | proposé | Devis à revoir, marge rognée |
 | A16 | Grève de transport ou embouteillage exceptionnel | 5 % | proposé | Retards de personnes, rendez-vous manqués |

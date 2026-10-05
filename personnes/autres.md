@@ -28,3 +28,4 @@
   signature d'Aïcha (apparu le 21/07).
 - **Chef d'équipe SécuTech CI** : promet l'installation des caméras lun. 23/07, 9h (a reporté le 20/07).
 - **Orange CI** : raccordement fibre annoncé pour fin juillet (incertain).
+- **Sékou** : chef d'équipe de SécuTech CI (casque jaune, ~40 ans). Arrivé avec 1 h 40 de retard le 23/07 ; repris par William ; a présenté des excuses ; travaux jusqu'à jeudi 26/07.
