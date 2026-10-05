@@ -129,3 +129,5 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Me Kouamé : pièces complémentaires exigées sur l'origine des fonds après lecture des relevés (deuxième passage, friction administrative à enjeu) » : probabilité 30 %, jet  97.4 → **NON** (enregistré le 05/10/2026 18:47 heure machine)
 
 - Jet « Me Kouamé : décision à retaper et faire relire avant signature, signature impossible avant 17h (deuxième passage, friction administrative à enjeu) » : probabilité 30 %, jet  19.4 → **OUI** (enregistré le 05/10/2026 23:18 heure machine)
+
+- Jet « Trajet Plateau vers Cocody (QG ou hôtel), départ 16h20 en heure de pointe : durée supérieure à 40 minutes (circulation dense) » : probabilité 65 %, jet  74.2 → **NON** (enregistré le 05/10/2026 23:31 heure machine)

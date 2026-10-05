@@ -1,4 +1,4 @@
-# Calendrier (au 25/07/2040, 16h15)
+# Calendrier (au 25/07/2040, 16h52)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -58,8 +58,10 @@
 | **Mer. 25/07, 15h14-15h52** | William explique tout à Me Kouamé (profession, absence d'autorisation, direction de fait, contrats « Gérant »), valide honoraires et frais ; Me Kouamé présente le projet (115 M FCFA) ; **William n'a pas encore choisi le montant ni signé**. |
 | **Mer. 25/07, 15h53-16h10** | William interroge Me Kouamé (ratification, protection contre la gérante) ; décide : **signer aujourd'hui, 115 M FCFA, honoraires payés par la société** ; signature retardée à 17h par la friction. |
 | **Mer. 25/07, 16h11-16h15** | William dit qu'il **suit toutes les protections** et veut clôturer la réunion ; Me Kouamé traduit (statuts modifiés avec limitation des pouvoirs de la gérante, autorisation écrite) et rappelle la décision restante : **signature 17h ou demain 9h**. |
+| **Jeu. 26/07, 9h** | **William signe la décision de l'associé unique chez Me Kouamé (Plateau)** ; passeport ; collision possible avec l'aléa du matin (non révélé), la fin des travaux SécuTech et le plan technique d'Abdoul au QG. |
+| **Mer. 25/07, 16h16-16h52** | William quitte le cabinet à 16h18, taxi vers Cocody ; entre dans Cocody à 16h52 ; **appel à Sandra à 17h** (lieu non précisé). |
 | **Avant ven. 27/07** | **Me Kouamé envoie par courriel le seuil d'autorisation proposé** ; William envoie bulletins + avis d'imposition. |
-| **Mer. 25/07, ~17h** | Décision corrigée (115 M FCFA) **prête à signer** après relecture (friction : retapée et relue) ; courriel de Me Kouamé pour la Spuerkeess au même moment. **William décide : attendre au cabinet ou revenir jeu. 26/07 à 9h.** |
+| **Mer. 25/07, ~17h** | Décision corrigée (115 M FCFA) **prête à signer** après relecture (friction : retapée et relue) ; courriel de Me Kouamé pour la Spuerkeess au même moment. **William a choisi (16h16) de revenir jeu. 26/07 à 9h.** |
 | **Ven. 27/07 (au plus tard)** | William envoie à Me Kouamé trois bulletins de salaire + avis d'imposition ; **Aïcha au cabinet pour la ratification des contrats**. |
 | **Mer. 25/07, avant 15h** | ~~Aïcha parle à Grace, seule~~ **REPORTÉ à demain** (T3 : rien_attend ; Aïcha le demande à William dans son rapport de 13h48, « si tu es d'accord ») → **RAMENÉ à aujourd'hui sur ordre de William (14h53) : Aïcha voit Grace cet après-midi.** |
 | **Mer. 25/07, 11h45** | ~~Mariette repasse chez William s'il veut en reparler~~ **ANNULÉ** (consigne de 10h12 : Mariette passe par Aïcha ; personne n'est venu). |
