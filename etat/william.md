@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 22/07/2040, 21h45)
+# William Ossimi — profil (état au 22/07/2040, 23h)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -56,6 +56,7 @@
 - 21/07 après-midi : promet à Kevin de revenir en septembre ; donne carte blanche à Grace ; presse Mariette (légalité des chartes, équipes) ; décide qu'OSIA lui rembourse ses avances et l'annonce dans le groupe Direction ; appelle Sandra (21 min) ; demande à Aïcha si elle est fâchée.
 - 21/07-22/07 : arrête les apports mensuels vers le compte projet, crée le compte « Future vie familiale », ne fera qu'un seul gros versement à OSIA ; consulte ses comptes (patrimoine net ≈ 787 700 €) ; ne répond pas à Aïcha ; week-end passé à Abidjan sans rencontre.
 - 22/07 soir : dit « je t'aime » à Sandra ; décide de virer la moitié du compte projet (176 725 €) à OSIA, annoncé à la direction ; décide de s'ouvrir un compte ivoirien pour le remboursement ; écrit « Laisse tomber. » à Aïcha après 30 h de silence.
+- 22/07 21h50-23h : se note l'appel à Sandra comme priorité absolue puis lui demande de le déplacer (visite) ; choisit l'**augmentation de capital** pour la dotation ; prévient Aïcha et Mariette que le remboursement attend son compte ivoirien ; se renseigne sur son statut de fonctionnaire.
 - Contacts avec Sandra : appel le 17/07 au soir ; silence de quatre jours ; elle écrit la première le 21/07 ; appel de William le 21/07 à 14h26.
 
 ## Personnalité (analyse de départ)
@@ -71,3 +72,21 @@
 - **Résolution du 16/07 au soir** : rester fidèle à Sandra. Déjà mise à
   l'épreuve le 17/07 au matin (rendez-vous à porte fermée avec Aïcha,
   invitation au restaurant).
+
+## Risque statutaire — état au 22/07/2040 (recherche faite par William)
+- **Texte** : art. 14 du statut général des fonctionnaires luxembourgeois — exercer une activité commerciale, artisanale
+  ou industrielle, ou participer à la direction, l'administration ou la surveillance d'une entreprise commerciale,
+  nécessite l'**autorisation préalable du ministre du ressort (ici Éducation nationale)**, sur **avis conforme du ministre
+  de la Fonction publique**. L'autorisation est refusée si l'activité n'est pas compatible avec l'exercice complet et
+  consciencieux de la fonction ; elle est révocable. Détenir des parts est surtout visé lorsque l'entreprise est liée au
+  contrôle de l'administration du fonctionnaire (ce n'est pas le cas d'OSIA).
+- **Situation de William** : associé unique d'OSIA, il en assure de fait la direction (missions, recrutements,
+  contrats signés « Gérant », décisions quotidiennes depuis le 16/07, actes préparatoires avant) ; **aucune demande
+  d'autorisation n'a été faite**. En lecture stricte, l'autorisation devait précéder : il est donc déjà en défaut ; le
+  texte lu ne prévoit pas de délai de régularisation.
+- **Sanctions possibles (échelle disciplinaire)** : avertissement, réprimande, amende (entre un dixième et un mois de
+  traitement brut), changement d'affectation ; au-delà (rétrogradation, exclusion temporaire, mise à la retraite d'office)
+  le dossier va devant le Conseil de discipline. Rien ne dit à quel niveau se situerait ce manquement.
+- **Exposition** : page Facebook d'OSIA publique (photo vue par Sandra), Mme Schmit a deviné la relation avec Sandra, M. Wagner
+  a déjà rappelé à l'ordre William (absence tardive, élève hors lycée) ; **aucun signe que l'administration soit informée**.
+- **Décision de William** : aucune (ni demande d'autorisation, ni retrait de la direction).

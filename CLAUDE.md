@@ -130,18 +130,20 @@ Direct, structuré, sobre. Pas de flatterie ni d'encouragements.
 Langue : **français**.
 
 ## 9. POINT DE REPRISE
-**Dimanche 22 juillet 2040, 21h45 — William vient de prendre quatre décisions et d'écrire à Sandra et Aïcha.**
-(1) À **Sandra** il a écrit « je t'aime » et demandé ce qui l'a préoccupée ; elle : « Moi aussi 💛 », pas de détails par
-message, **elle attend son appel lundi après 16h à Esch (14h à Abidjan)**, ce qui chevauche la clinique de Marcory (14h).
-(2) **Dotation d'OSIA** : exactement la moitié du compte projet (176 725 € ≈ 115,9 M FCFA), « le plus vite possible »,
-annoncée à la direction sans montant ; **forme (capital ou compte courant) non décidée** ; Aïcha demande forme et
-montant, voit Me Kouamé lundi ; non exécutée. (3) **Remboursement des avances** : destination = futur compte ivoirien de
-William, exécution suspendue jusqu'à son ouverture (Aïcha et Mariette ne sont pas informées). (4) **Aïcha** : après
-30 h de silence il lui a écrit « Laisse tomber. » ; elle a répondu « D'accord. » après treize minutes de frappe — période
-froide, suivre chaque message d'elle. Semaine W29 clôturée (`memoire/semaine-2040-W29.md`). Kevin signe mardi 24/07
-17h. **Lundi 23/07 (très chargé)** : 8h matrice à « légaliser » ; SGBCI à l'ouverture (spécimen d'Aïcha) ; SécuTech 9h ;
-note juridique PDF de Mariette avant midi ; récap de Grace (marge plancher) ; clinique 14h ; appel à Sandra dès 14h ;
-point écrit de Mariette en fin de journée. Voir `journal/2040-07-22.md`, `etat/fils-ouverts.md`, `etat/finances.md`.
+**Dimanche 22 juillet 2040, 23h — fin de journée ; William a pris plusieurs décisions entre 21h50 et 22h55.**
+(1) **Sandra** : il s'était noté l'appel comme priorité absolue (« demain à 16h », heure d'Esch = 14h Abidjan, même heure
+que la clinique) puis lui a demandé de le déplacer (« visite importante ») ; elle répond « Ok. » (plus sec, sans emoji) et
+propose **lundi 19h-20h30 à Esch = 17h-18h30 à Abidjan**, avant sa garde, et attend oui ou non. (2) **Dotation d'OSIA** :
+moitié du compte projet (176 725 € ≈ 115,9 M FCFA), **par augmentation de capital** (décidé, **pas encore dit à Aïcha** qui
+a demandé la forme et voit Me Kouamé lundi) ; non exécutée. (3) **Remboursement des avances** : suspendu jusqu'à
+l'ouverture de son compte ivoirien ; Aïcha (« Bien noté. ») et Mariette (« il ne manquera que ton RIB ») prévenues.
+(4) **Aïcha** : « Laisse tomber. » / « D'accord. » à 21h30-21h44, période froide, suivre chaque message d'elle. (5) **Statut de
+fonctionnaire** : William a fait la recherche (art. 14, autorisation préalable du ministre, il est en défaut en lecture
+stricte, sanctions de l'avertissement à la discipline, aucun signe que l'administration soit informée) ; **aucune
+décision de sa part**. Kevin signe mardi 24/07 17h. **Lundi 23/07 (très chargé)** : 8h matrice à « légaliser » ; SGBCI à
+l'ouverture (spécimen d'Aïcha) ; SécuTech 9h ; note juridique PDF de Mariette avant midi ; récap de Grace (marge
+plancher) ; clinique 14h ; réponse à Sandra (créneau 17h-18h30) ; point écrit de Mariette en fin de journée ; ouverture du
+compte ivoirien à lancer. Voir `journal/2040-07-22.md`, `etat/fils-ouverts.md`, `etat/william.md`.
 
 ## 10. PROTOCOLE DE RELAIS (Claude ⇄ Gemini)
 L'utilisateur alterne entre Claude et Gemini (Antigravity) selon ses crédits. Le moteur le plus puissant

@@ -43,3 +43,10 @@ Laisse tomber.
 
 **[22/07/2040 - 21:44] Aïcha :**
 D'accord.
+
+**[22/07/2040 - 21:58] William :**
+Aïcha, pour te prévenir : le remboursement de mes avances attend que j'ouvre mon compte ivoirien. Je te communique les coordonnées dès que je l'ai.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[22/07/2040 - 22:04] Aïcha :**
+Bien noté.

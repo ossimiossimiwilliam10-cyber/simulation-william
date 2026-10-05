@@ -14,3 +14,10 @@ Bonjour patron, j'ai bien reçu, hein. Pour les chartes : j'ai commencé la revu
 
 **[21/07/2040 - 15:07] Mariette :**
 Certaines de ces avances concernent des salaires, je préfère ne pas les détailler dans le groupe. Je mets tout dans la note de lundi.
+
+**[22/07/2040 - 21:59] William :**
+Mariette, pour te prévenir : le remboursement de mes avances attend que j'ouvre mon compte ivoirien. Je te communique les coordonnées dès que je l'ai.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[22/07/2040 - 22:06] Mariette :**
+Noté patron. Je garde le dossier prêt, il ne manquera que ton RIB.

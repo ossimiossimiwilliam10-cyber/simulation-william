@@ -24,3 +24,10 @@ Bonne semaine ma chérie. Je t'aime. Dis-moi s'il y a quelque chose qui t'a pré
 **[22/07/2040 - 21:38 (Abidjan) / 23:38 (Esch)] Sandra :**
 Moi aussi 💛
 Il y a des choses, oui. Mais pas par message à minuit entre deux rondes. Appelle-moi demain après 16h ici (14h chez toi), je te dirai. Bonne semaine, patron.
+
+**[22/07/2040 - 22:05 (Abidjan) / 00:05 (Esch)] William :**
+Ma chérie, j'ai une visite importante demain après-midi. Tu pourrais me proposer un autre moment pour notre appel ?
+*(Texte reconstitué à partir de la dictée.)*
+
+**[22/07/2040 - 22:52 (Abidjan) / 00:52 (Esch)] Sandra :**
+Ok. Lundi entre 19h et 20h30 ici (17h-18h30 chez toi), avant ma garde. Dis-moi oui ou non pour que je m'organise.

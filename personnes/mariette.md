@@ -25,3 +25,4 @@ Compétente, rapide, mais sous pression : risque d'erreurs par peur, de sur-vér
 Fidèle à Aïcha avant tout. Son intérêt : garder son poste et ne pas porter seule les risques juridiques.
 - 21/07 (samedi, 14h08-14h19) : William la presse sur la légalité des chartes et l'avancée des équipes (« je n'ai plus envie de me répéter »). Elle répond en 11 minutes, polie, apeurée, promet une **note juridique PDF lundi avant midi** et signale qu'il y a des « points sensibles » sur les ruptures de contrat. Elle ne les détaille pas sur WhatsApp.
 - 21/07, 15h03-15h07 : réagit au remboursement des avances : tableau avec justificatifs ; **protège la confidentialité des salaires** (refuse de détailler dans le groupe ce qui concerne des salaires, renvoie au privé puis à sa note de lundi).
+- 22/07, 21h59-22h06 : prévenue que le remboursement attend le compte ivoirien de William ; répond « Noté patron. Je garde le dossier prêt, il ne manquera que ton RIB. »

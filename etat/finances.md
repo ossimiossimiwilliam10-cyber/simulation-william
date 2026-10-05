@@ -1,4 +1,4 @@
-# Finances de William & OSIA (estimations au 22/07/2040, 21h45)
+# Finances de William & OSIA (estimations au 22/07/2040, 23h)
 
 > Parité fixe : 1 € = 655,957 FCFA.
 > Les montants de salaire de toute la simulation sont des **BRUTS** ; les virements réels sont calculés
@@ -30,7 +30,7 @@
 - **Dotation d'OSIA (décidée le 22/07, 21h10)** : William ne fera plus qu'**un seul versement important** et
   laissera ensuite l'entreprise « se débrouiller » avec cette somme. **Montant : exactement la moitié du compte
   projet = 176 725 € (≈ 115,9 M FCFA), « le plus vite possible »** ; compte d'origine : compte projet (restera
-  ≈ 176 725 €). **Forme (augmentation de capital ou apport en compte courant d'associé) : NON décidée.**
+  ≈ 176 725 €). **Forme : AUGMENTATION DE CAPITAL (décidée par William le 22/07 vers 21h55 ; pas encore communiquée à Aïcha).** Capital de 30 M → ≈ 145,9 M FCFA. Formalités à cadrer avec Me Kouamé : décision de l'associé unique, modification des statuts, inscription modificative au RCCM, publication légale, déclaration de l'investissement étranger (Trésor/BCEAO) ; coûts non chiffrés.
   Annoncée à la direction (sans montant) le 22/07 à 21h12 ; Aïcha demande forme et montant, verra Me Kouamé lundi.
   **Non exécuté** : virement international depuis sa banque européenne, avec justificatifs possibles et plafonds.
 

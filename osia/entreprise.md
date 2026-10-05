@@ -8,7 +8,7 @@
   comme « Gérant ». Conséquences possibles : validité des signatures, qualité pour opérer le compte
   bancaire, et — pour William, fonctionnaire luxembourgeois — exposition accrue (art. 14 du statut, voir
   `etat/william.md`). À faire trancher par Maître Kouamé / Esther ; Mariette ne l'a pas encore soulevé.
-- Capital : 30 000 000 FCFA (45 735 €). *Avant : déposé à la SGBCI (compte bloqué) → maintenant : débloqué
+- Capital : 30 000 000 FCFA (45 735 €). **Augmentation de capital décidée le 22/07 par William (≈ +115,9 M FCFA, non exécutée, formalités à cadrer par Me Kouamé).**
   le 21/07 et versé sur le compte courant.*
 - **RCCM délivré le 11/07/2040.** Déclaration fiscale d'existence et
   affiliation CNPS en cours (guichet unique du CEPICI) — *toujours en cours le 21/07* : les salaires sont
