@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 23/07/2040, 17h20)
+# William Ossimi — profil (état au 23/07/2040, 17h32)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -65,6 +65,7 @@
 - **23/07, 12h14** : se colle au dos de Grace (porte fermée), lui promet de la faire arriver très haut et lui dit de ne pas avoir peur de lui ; Grace est restée figée, est passée au vouvoiement et est sortie sans le regarder (voir `etat/traces.md`).
 - **23/07 après-midi (Go)** : pause déjeuner (non consignée) ; visite de la clinique de Marcory avec Abdoul et Grace (relevé dans la fourchette, devis pour vendredi) ; Grace évite d'être seule avec lui ; retour au QG à 16h58 ; **appel à Sandra à venir (17h02)**.
 - **23/07, 17h04** : appelle Sandra et choisit de l'écouter entièrement ; elle attend sa réponse (17h20) ; il compte écrire à Grace ensuite et a décidé de valider le devis de la clinique ; il demande un rappel sur le réalisme du comportement de Grace.
+- **23/07, 17h21** : répond à Sandra (elle a raison, appellera plus souvent, passion et pas argent, il pourrait arrêter l'entreprise si elle le lui demandait, « fortes chances ») ; **n'a rien dit de la photo d'OSIA ni de Kevin** ; Sandra lui demande un chiffre.
 - Contacts avec Sandra : appel le 17/07 au soir ; silence de quatre jours ; elle écrit la première le 21/07 ; appel de William le 21/07 à 14h26.
 
 ## Personnalité (analyse de départ)
