@@ -1,4 +1,4 @@
-# Fils ouverts et décisions en attente (au 25/07/2040, 15h08)
+# Fils ouverts et décisions en attente (au 25/07/2040, 15h14)
 
 > **Fichier de relais.** Tout ce qui est « en suspens » dans le monde doit être ici, pour qu'aucun moteur
 > (Claude ou Gemini) ne l'oublie. Mettre à jour à chaque tour : ajouter, avancer, clore (garder la ligne
@@ -34,7 +34,8 @@
 | 24 | ~~Sandra : confirmation de l'appel de 17h~~ **FAIT 25/07 14h54** (« Oui, pas de problème. On s'appelle. ») ; Sandra : « Parfait. À tout à l'heure. » | **Appel à Sandra à 17h Abidjan = 19h Esch** ; prévenir AVANT en cas d'empêchement | 17h |
 | 25 | ~~Retard probable au rendez-vous de 15h~~ **FAIT** : William a appelé le cabinet à 14h55 ; arrivé à 15h06 | Me Kouamé a noté les 6 minutes | clos |
 | 26 | ~~Entretien Aïcha-Grace reporté à demain~~ **RAMENÉ à aujourd'hui sur ordre de William (14h53)** ; Aïcha : « Bien, patron. Je vois Grace cet après-midi. » (T7c : exécute, jet 10.9) | **Teneur de l'entretien tirée au moment du rapport** ; Grace est déjà au courant de la consigne (11h05) et s'est confiée à un proche hors du travail | cet après-midi |
-| 27 | **Pièces demandées par Me Kouamé (15h07)** : copie du passeport et justificatif de l'origine des fonds (demandés le 24/07 par Aïcha) | À remettre ou non, et lesquelles : William a transmis à la Spuerkeess le 23/07 statuts, 12 mois de relevés et bulletins de salaire | maintenant |
+| 27 | ~~Pièces demandées par Me Kouamé~~ **REMISES 25/07 15h08** : passeport (copié) + 12 mois de relevés du compte projet ; **pas** de bulletins de salaire ni de relevés du compte courant ; jet de friction « pièces complémentaires » 30 % : NON | Le cabinet garde une copie du passeport et des relevés | clos |
+| 28 | **Question de Me Kouamé (15h14)** : « Quelle est votre profession ? » (obligation de vigilance : profession absente de son dossier ; relevés = solde d'ouverture > 300 000 €, versements mensuels ≈ 3 300 € d'un autre compte à son nom) | **Réponse de William** (profession, origine du solde d'ouverture, compte qui alimente le compte projet) ; ensuite : honoraires et frais, projet de décision, signature | maintenant |
 
 **Clos :** réponse à Kevin (21/07) ; réponse à Aïcha sur SécuTech (21/07) ; consigne à Grace (21/07) ; appel à Sandra du 21/07 ; message à Aïcha « fâchée ? » (21/07) ; week-end avec Aïcha (n'a pas eu lieu) ; décision de remboursement (21/07) ; statut de fonctionnaire : décision de se déclarer **au plus tard le 30/12/2040** (22/07) ; **validation des cinq idées de la revue du lundi (23/07)** ; **récap de Grace validé (23/07, planchers 25 % / 20 %)**.
 

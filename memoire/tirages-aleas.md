@@ -125,3 +125,5 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Tirage [T7c] « Aïcha : transmettre à Mariette le refus du télétravail (tout depuis le QG), donné par message du patron » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  75.5 → **execute_a_contrecoeur** (enregistré le 05/10/2026 18:39 heure machine)
 
 - Jet « Sandra répond à William avant 15h30 (Abidjan) à sa confirmation de l'appel de 17h » : probabilité 60 %, jet  30.7 → **OUI** (enregistré le 05/10/2026 18:39 heure machine)
+
+- Jet « Me Kouamé : pièces complémentaires exigées sur l'origine des fonds après lecture des relevés (deuxième passage, friction administrative à enjeu) » : probabilité 30 %, jet  97.4 → **NON** (enregistré le 05/10/2026 18:47 heure machine)
