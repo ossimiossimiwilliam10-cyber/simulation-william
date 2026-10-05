@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 22/07/2040, 23h10)
+# William Ossimi — profil (état au 22/07/2040, 23h50)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -57,6 +57,7 @@
 - 21/07-22/07 : arrête les apports mensuels vers le compte projet, crée le compte « Future vie familiale », ne fera qu'un seul gros versement à OSIA ; consulte ses comptes (patrimoine net ≈ 787 700 €) ; ne répond pas à Aïcha ; week-end passé à Abidjan sans rencontre.
 - 22/07 soir : dit « je t'aime » à Sandra ; décide de virer la moitié du compte projet (176 725 €) à OSIA, annoncé à la direction ; décide de s'ouvrir un compte ivoirien pour le remboursement ; écrit « Laisse tomber. » à Aïcha après 30 h de silence.
 - 22/07 21h50-23h : se note l'appel à Sandra comme priorité absolue puis lui demande de le déplacer (visite) ; choisit l'**augmentation de capital** pour la dotation ; prévient Aïcha et Mariette que le remboursement attend son compte ivoirien ; se renseigne sur son statut de fonctionnaire.
+- 22/07 23h20-23h50 : lance le virement de la dotation (en attente de validation bancaire) ; ouvre son compte ivoirien (niveau 1) ; envoie la confirmation d'ordre à Aïcha ; revient sur sa décision de ne « rien déclarer » : il se déclarera à l'administration luxembourgeoise **d'ici décembre**.
 - Contacts avec Sandra : appel le 17/07 au soir ; silence de quatre jours ; elle écrit la première le 21/07 ; appel de William le 21/07 à 14h26.
 
 ## Personnalité (analyse de départ)
@@ -98,3 +99,13 @@
   est à son nom ; il a payé les avances et dotera OSIA ; il est présent au QG chaque jour ; la page Facebook d'OSIA est
   publique. Les documents qui le désigneraient comme simple associé (statuts, RCCM : gérante Aïcha « par procuration »)
   vont dans son sens.
+
+### Mise à jour du 22/07, ~23h45 : déclaration à l'administration luxembourgeoise
+- **Décision de William** : se déclarer **d'ici décembre 2040**, « en minimisant le plus possible » et en disant qu'il **n'était pas du tout au courant** ou qu'il **n'avait pas anticipé les délais**. (Remplace, pour la suite, « ne rien déclarer ».)
+- **Faits du monde à garder en tête (non conseil)** : la procédure est une **demande d'autorisation préalable** au ministre du ressort
+  (avis conforme du ministre de la Fonction publique) ; elle n'est pas rétroactive. En décembre il demanderait une autorisation pour une
+  activité exercée depuis des mois (RCCM du 11/07 ; direction effective depuis le 16/07). Dès la rentrée de septembre il enseigne à
+  temps plein : la compatibilité avec « l'exercice complet et consciencieux de la fonction » sera examinée. Le registre du commerce
+  ivoirien et la page Facebook publique d'OSIA rendent l'activité découvrable. Une déclaration inexacte (« pas au courant ») peut
+  constituer un manquement distinct si elle est contredite : traces de sa recherche du 22/07 ; ses messages et signatures « Gérant ».
+- **Aïcha** est désignée comme gérante par procuration ; elle ne sait pas que William compte s'en servir comme ligne de défense.

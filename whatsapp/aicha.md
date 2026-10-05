@@ -50,3 +50,8 @@ Aïcha, pour te prévenir : le remboursement de mes avances attend que j'ouvre m
 
 **[22/07/2040 - 22:04] Aïcha :**
 Bien noté.
+
+**[22/07/2040 - 23:42] William :**
+*(Pièce jointe seule, sans texte : confirmation d'ordre de virement de sa banque européenne : 176 725,00 EUR, bénéficiaire OSIA Énergies SARL (SGBCI), libellé « Augmentation de capital OSIA Énergies SARL », statut « en attente de validation ». Destinataire interprété par le moteur : Aïcha.)*
+
+*(Pas de réponse d'Aïcha à 23h50.)*

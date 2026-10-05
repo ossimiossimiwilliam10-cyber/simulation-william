@@ -1,4 +1,4 @@
-# Finances de William & OSIA (estimations au 22/07/2040, 23h)
+# Finances de William & OSIA (estimations au 22/07/2040, 23h50)
 
 > Parité fixe : 1 € = 655,957 FCFA.
 > Les montants de salaire de toute la simulation sont des **BRUTS** ; les virements réels sont calculés
@@ -32,7 +32,7 @@
   projet = 176 725 € (≈ 115,9 M FCFA), « le plus vite possible »** ; compte d'origine : compte projet (restera
   ≈ 176 725 €). **Forme : AUGMENTATION DE CAPITAL (décidée par William le 22/07 vers 21h55 ; pas encore communiquée à Aïcha).** Capital de 30 M → ≈ 145,9 M FCFA. Formalités à cadrer avec Me Kouamé : décision de l'associé unique, modification des statuts, inscription modificative au RCCM, publication légale, déclaration de l'investissement étranger (Trésor/BCEAO) ; coûts non chiffrés.
   Annoncée à la direction (sans montant) le 22/07 à 21h12 ; Aïcha demande forme et montant, verra Me Kouamé lundi.
-  **Non exécuté** : virement international depuis sa banque européenne, avec justificatifs possibles et plafonds.
+  **Ordre passé le 22/07 vers 23h20 depuis sa banque européenne, libellé « Augmentation de capital OSIA Énergies SARL » : plafond de virement en ligne dépassé, ordre en attente de validation** (conformité, relèvement de plafond, justificatif d'origine des fonds et de motif ; au-delà de 8 000 € la banque est en vigilance anti-blanchiment). Exécution lundi au plus tôt ; SWIFT : 2 à 4 jours ouvrés, **fonds attendus à la SGBCI entre mer. 25 et ven. 27/07**. La confirmation d'ordre a été envoyée à Aïcha le 22/07 à 23h42 (elle n'a pas répondu).
 
 ## Avances en compte courant d'associé (William → OSIA)
 Total des avances non remboursées par l'entreprise :
@@ -50,7 +50,8 @@ Total des avances non remboursées par l'entreprise :
   convention de compte courant d'associé ; (2) la part « salaires de juin d'Aïcha et Mariette » (~1 850 €) a été
   payée en net, sans fiche de paie, et reste difficile à justifier tant que CNPS/déclaration fiscale ne sont pas
   régularisées ; (3) Aïcha et Mariette (et, via le groupe, Grace, Abdoul, Yves) **informées le 21/07 à 14h50** : Aïcha et Mariette préparent convention de compte courant, tableau des avances et justificatifs ; à voir avec la banque lundi. (4) Échéances sociales de juin déjà dépassées : CNPS (déclaration + cotisations) le 15/07, ITS le 10/07 ; majoration CNPS ≈ 10 %/mois et amende pour défaut de déclaration ; celles de juillet tombent le 10/08 (ITS) et le 15/08 (CNPS).
-- **Décision du 22/07 (21h15) : William s'ouvre un compte ivoirien et y fera verser le remboursement des avances. L'exécution du remboursement est suspendue jusqu'à l'ouverture de ce compte** (documents SGBCI pour un non-résident : passeport avec date d'entrée de moins de 3 mois hors CEDEAO, photos, attestation de domicile, visite en agence). Aïcha et Mariette préparaient un virement pour lundi ; elles ne sont pas informées du changement.
+- **Décision du 22/07 (21h15) : William s'ouvre un compte ivoirien et y fera verser le remboursement des avances. L'exécution du remboursement est suspendue jusqu'à l'ouverture de ce compte** (documents SGBCI pour un non-résident : passeport avec date d'entrée de moins de 3 mois hors CEDEAO, photos, attestation de domicile, visite en agence). Aïcha et Mariette ont été prévenues le 22/07 à 21h58 (dossier préparé, « il ne manquera que ton RIB »).
+  **Compte ivoirien OUVERT le 22/07 vers 23h30** sur une application de néobanque (Djamo, choix du moteur ; le passeport suffit pour un non-CEDEAO). **Niveau 1 : solde maximum 200 000 FCFA.** Niveau 2 : solde 2 M FCFA, volume mensuel 10 M FCFA. Niveau 3 (justificatif de domicile validé, ex. attestation de l'hôtel) : solde illimité. **Le remboursement de ~3,54 M FCFA dépasse les niveaux 1 et 2 : il reste suspendu** tant que le niveau 3 n'est pas atteint. Compte à l'étranger à déclarer en France (3916). RIB à communiquer à Aïcha et Mariette.
 - ⚠ **Hors périmètre, statut comptable non tracé** (relevé à l'audit du 21/07) : tout ce que William a payé
   de sa poche pour OSIA avant l'ouverture du compte, notamment loyer et caution du QG (8 × 2 200 000 =
   17 600 000 FCFA ≈ 26 800 €, bail à son nom), Phase 1 (climatiseurs, mobilier, ordinateurs), acompte de
