@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 22/07/2040, 23h)
+# William Ossimi — profil (état au 22/07/2040, 23h10)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -89,4 +89,12 @@
   le dossier va devant le Conseil de discipline. Rien ne dit à quel niveau se situerait ce manquement.
 - **Exposition** : page Facebook d'OSIA publique (photo vue par Sandra), Mme Schmit a deviné la relation avec Sandra, M. Wagner
   a déjà rappelé à l'ordre William (absence tardive, élève hors lycée) ; **aucun signe que l'administration soit informée**.
-- **Décision de William** : aucune (ni demande d'autorisation, ni retrait de la direction).
+- **Décision de William (22/07, ~23h)** : **ne rien déclarer** et **ne pas changer son comportement**. Il prépare une
+  **ligne de défense** « si cela doit se savoir » : il a désigné Aïcha comme gérante et se présente comme « limite
+  quelqu'un d'externe ». *Aïcha n'est pas au courant de ce plan.*
+- **Traces existantes qui contredisent cette ligne** (état du monde, à ne pas oublier) : les 5 contrats sur le serveur sont
+  signés « William Ossimi, Gérant » ; la matrice d'évaluation lui réserve en propre le bonus/malus de la « Direction
+  générale (W. Ossimi) » ; il donne les ordres dans le groupe WhatsApp « Direction » (« le grand patron ») ; le bail
+  est à son nom ; il a payé les avances et dotera OSIA ; il est présent au QG chaque jour ; la page Facebook d'OSIA est
+  publique. Les documents qui le désigneraient comme simple associé (statuts, RCCM : gérante Aïcha « par procuration »)
+  vont dans son sens.

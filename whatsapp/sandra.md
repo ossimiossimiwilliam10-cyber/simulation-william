@@ -31,3 +31,9 @@ Ma chérie, j'ai une visite importante demain après-midi. Tu pourrais me propos
 
 **[22/07/2040 - 22:52 (Abidjan) / 00:52 (Esch)] Sandra :**
 Ok. Lundi entre 19h et 20h30 ici (17h-18h30 chez toi), avant ma garde. Dis-moi oui ou non pour que je m'organise.
+
+**[22/07/2040 - 23:05 (Abidjan) / 01:05 (Esch)] William :**
+C'est parfait pour lundi entre 19h et 20h30, chez toi. À plus tard, je te souhaite une bonne journée.
+*(Texte reconstitué à partir de la dictée ; « je vous souhaite » lu « je te souhaite ».)*
+
+*(Pas de réponse de Sandra à 23h10 : elle est de garde jusqu'à 7h à Esch.)*

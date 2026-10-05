@@ -75,6 +75,7 @@ et parfois peu morale exprès : ne l'en empêche pas, joue les conséquences.
 - Quand l'utilisateur annonce une période de froid avec quelqu'un, **demande
   à chaque message reçu de cette personne s'il répond ou non**.
 - **Changement de moteur** (aucun mot-clé requis) : applique le §10.
+- **Chaque lundi simulé** (aucun mot-clé requis) : « 🔄 Revue du lundi » en début de journée (§12).
 
 ## 5. FORMAT DE CHAQUE TOUR
 1. Recherches web nécessaires.
@@ -130,20 +131,18 @@ Direct, structuré, sobre. Pas de flatterie ni d'encouragements.
 Langue : **français**.
 
 ## 9. POINT DE REPRISE
-**Dimanche 22 juillet 2040, 23h — fin de journée ; William a pris plusieurs décisions entre 21h50 et 22h55.**
-(1) **Sandra** : il s'était noté l'appel comme priorité absolue (« demain à 16h », heure d'Esch = 14h Abidjan, même heure
-que la clinique) puis lui a demandé de le déplacer (« visite importante ») ; elle répond « Ok. » (plus sec, sans emoji) et
-propose **lundi 19h-20h30 à Esch = 17h-18h30 à Abidjan**, avant sa garde, et attend oui ou non. (2) **Dotation d'OSIA** :
-moitié du compte projet (176 725 € ≈ 115,9 M FCFA), **par augmentation de capital** (décidé, **pas encore dit à Aïcha** qui
-a demandé la forme et voit Me Kouamé lundi) ; non exécutée. (3) **Remboursement des avances** : suspendu jusqu'à
-l'ouverture de son compte ivoirien ; Aïcha (« Bien noté. ») et Mariette (« il ne manquera que ton RIB ») prévenues.
-(4) **Aïcha** : « Laisse tomber. » / « D'accord. » à 21h30-21h44, période froide, suivre chaque message d'elle. (5) **Statut de
-fonctionnaire** : William a fait la recherche (art. 14, autorisation préalable du ministre, il est en défaut en lecture
-stricte, sanctions de l'avertissement à la discipline, aucun signe que l'administration soit informée) ; **aucune
-décision de sa part**. Kevin signe mardi 24/07 17h. **Lundi 23/07 (très chargé)** : 8h matrice à « légaliser » ; SGBCI à
-l'ouverture (spécimen d'Aïcha) ; SécuTech 9h ; note juridique PDF de Mariette avant midi ; récap de Grace (marge
-plancher) ; clinique 14h ; réponse à Sandra (créneau 17h-18h30) ; point écrit de Mariette en fin de journée ; ouverture du
-compte ivoirien à lancer. Voir `journal/2040-07-22.md`, `etat/fils-ouverts.md`, `etat/william.md`.
+**Dimanche 22 juillet 2040, 23h10 — fin de journée ; William a confirmé son appel à Sandra et fixé deux règles du simulateur.**
+(1) **Sandra** : appel **confirmé par William pour lundi 19h-20h30 à Esch = 17h-18h30 à Abidjan** ; pas de réponse (de garde
+jusqu'à 7h) ; ton plus sec depuis le report. (2) **Statut de fonctionnaire** : William ne déclare rien, ne change pas son
+comportement, prépare une « ligne de défense » (Aïcha désignée gérante, lui « quasi externe »), en ignorant les traces
+contraires (contrats signés « Gérant », ordres dans le groupe…) ; Aïcha n'en sait rien. (3) **Dotation** par augmentation de
+capital (≈ 115,9 M FCFA), pas encore dite à Aïcha ; remboursement des avances suspendu au compte ivoirien. (4) **Aïcha** :
+période froide (« Laisse tomber. » / « D'accord. »), suivre chaque message. (5) **Nouvelles règles** : §11 libertés et limites
+du moteur face aux actes illégaux/immoraux ; §12 **revue du lundi** (première : lundi 23/07, avec `etat/aleas.md` et
+`outils/tirage_aleas.py`). Kevin signe mardi 24/07 17h. **Lundi 23/07 (très chargé)** : revue du lundi ; 8h matrice à
+« légaliser » ; SGBCI à l'ouverture (spécimen d'Aïcha) ; SécuTech 9h ; note juridique PDF de Mariette avant midi ; récap de
+Grace ; clinique 14h ; **appel à Sandra 17h-18h30 (Abidjan)** ; point écrit de Mariette. Voir `journal/2040-07-22.md`,
+`etat/fils-ouverts.md`, `etat/william.md`, `etat/aleas.md`.
 
 ## 10. PROTOCOLE DE RELAIS (Claude ⇄ Gemini)
 L'utilisateur alterne entre Claude et Gemini (Antigravity) selon ses crédits. Le moteur le plus puissant
@@ -168,3 +167,34 @@ committer si la journée est close ; si le travail a eu lieu dans un worktree, f
 le 22/07/2040** ; sinon le rappeler à l'utilisateur.
 **C. Synchronisation** : `CLAUDE.md` et `GEMINI.md` sont identiques, sauf la ligne 3. Toute modification de
 règle ou de point de reprise se fait dans les deux (`diff CLAUDE.md GEMINI.md` ne doit montrer que la ligne 3).
+
+## 11. ACTES ILLÉGAUX OU IMMORAUX DE WILLIAM — LIBERTÉS ET LIMITES DU MOTEUR
+Principe : c'est un simulateur de vol. Si William commet un acte immoral ou illégal (espionnage des salariés, pression,
+corruption, harcèlement, enregistrement caché, fraude fiscale ou sociale, etc.), le moteur **le joue et en joue les
+conséquences réalistes**, sans sermon et sans complaisance :
+- Les personnages réagissent selon leur intérêt et leur droit : Me Kouamé refuse, Aïcha refuse ou propose une alternative
+  légale, Mariette alerte, un salarié se plaint ou démissionne, l'ARTCI, l'Inspection du travail, la police, un journaliste,
+  l'administration luxembourgeoise peuvent s'en mêler. Recherche web pour le droit applicable ; délais réalistes ;
+  ni impunité « de confort », ni punition « pour la morale » (règle 7).
+- Le moteur ne bloque pas la décision de William ; il en montre le coût (réputation, argent, carrière, procédure).
+- **Limites du moteur (valables même en fiction, non négociables)** : (a) aucune scène sexuelle explicite ni détail
+  anatomique ; (b) **aucun contenu sexuel, romantique ou sexualisé impliquant un mineur** (Kevin, 15 ans, ses frères…) ;
+  (c) un enregistrement ou une image intime non consentis ne sont jamais décrits (le moteur raconte l'acte, la découverte et
+  ses suites, pas le contenu) ; (d) pas de mode d'emploi opérationnel utilisable dans la vraie vie (dissimulation,
+  contournement de la police, armes, etc.) : le moteur raconte « Abdoul refuse » ou « le technicien installe » sans tutoriel ;
+  (e) pas de violence sexuelle détaillée ; (f) pas de contenu réel diffamatoire visant une vraie personne.
+- Si une demande franchit une limite : sortir de la fiction en une phrase (« 📌 Vraie vie »), dire ce qui est refusé et
+  proposer la version jouable (conséquences, réactions). Ne pas moraliser le reste du tour.
+
+## 12. REVUE DU LUNDI (règle de l'utilisateur, 22/07/2040)
+Chaque **lundi simulé**, au début du premier tour du jour (après la synthèse de semaine écrite le dimanche), le moteur
+présente une **« 🔄 Revue du lundi »** pour améliorer la simulation et éviter qu'elle stagne ou régresse :
+1. **Bilan de la semaine écoulée** : ce qui était réaliste ou non, incohérences trouvées et corrigées, fils perdus, qualité
+   des livrables, répétitions et tics d'écriture.
+2. **Nouvelles idées de réalisme** (3 à 5) : aléas (maladies, pannes, retards fournisseurs, erreurs administratives,
+   événements familiaux, météo, prix, rumeurs), vie propre des personnages, saisonnalité, évolution des relations…
+   Piocher d'abord dans `etat/aleas.md` (statut « proposé »).
+3. **Décision de l'utilisateur** : il valide ; les éléments adoptés passent au statut « actif » dans `etat/aleas.md`.
+4. **Application** : tirage avec `python outils/tirage_aleas.py AAAA-MM-JJ` (vrai hasard, consigné dans
+   `memoire/tirages-aleas.md`, jamais rejoué), puis narration des aléas déclenchés.
+5. **Trace** : compte rendu dans `memoire/revue-lundi-AAAA-MM-JJ.md`.

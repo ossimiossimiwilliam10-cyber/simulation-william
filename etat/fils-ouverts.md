@@ -1,4 +1,4 @@
-# Fils ouverts et décisions en attente (au 22/07/2040, 23h)
+# Fils ouverts et décisions en attente (au 22/07/2040, 23h10)
 
 > **Fichier de relais.** Tout ce qui est « en suspens » dans le monde doit être ici, pour qu'aucun moteur
 > (Claude ou Gemini) ne l'oublie. Mettre à jour à chaque tour : ajouter, avancer, clore (garder la ligne
@@ -7,7 +7,7 @@
 ## A. Décisions en attente de William
 | # | Sujet | Contexte | Échéance |
 |---|---|---|---|
-| 1 | **Appel à Sandra** : William a demandé un autre créneau (visite importante lundi après-midi) ; **Sandra propose lundi 23/07 de 19h à 20h30 à Esch = 17h-18h30 à Abidjan, avant sa garde, et attend oui ou non** | Ton plus sec que d'habitude (pas d'emoji) ; William s'était noté l'appel comme priorité absolue | oui ou non avant lundi 17h |
+| 1 | **Appel à Sandra : CONFIRMÉ par William le 22/07 à 23h05 pour lundi 23/07, 19h-20h30 à Esch = 17h-18h30 à Abidjan** (avant sa garde) | Sandra n'a pas encore répondu (de garde jusqu'à 7h à Esch) ; ton plus sec depuis le report ; **durant ce créneau, William doit être libre** | lun. 23/07, 17h-18h30 Abidjan |
 | 2 | **Dotation unique d'OSIA : montant = exactement la moitié du compte projet (176 725 € ≈ 115,9 M FCFA), « le plus vite possible » ; forme = AUGMENTATION DE CAPITAL (décidée 22/07 ~21h55)** ; compte d'origine : compte projet | **William ne l'a pas encore dit à Aïcha**, qui a demandé forme et montant dans le groupe (21h20) et voit Me Kouamé lundi ; virement non exécuté (banque européenne fermée le dimanche ; justificatifs, plafonds possibles) ; formalités RCCM/statuts/publication/déclaration d'investissement à lancer | lun. 23/07 au plus tôt |
 | 3 | Remboursement des avances (~3,54 M FCFA) : **destination = futur compte ivoirien de William ; exécution suspendue jusqu'à l'ouverture de ce compte** | **Aïcha (« Bien noté. ») et Mariette (« il ne manquera que ton RIB ») prévenues le 22/07 à 21h58** ; dossier préparé ; la part « salaires de juin » reste difficile à justifier | à partir de l'ouverture du compte |
 | 4 | Statut comptable de ce que William a payé avant l'ouverture du compte (loyer/caution 17,6 M FCFA, Phase 1, acompte Me Kouamé) | Non tracé ; à voir avec Aïcha/Mariette | libre |
@@ -40,9 +40,10 @@
 | Mariette (burn-out) | Terrifiée depuis le 20/07 ; pressée de nouveau le 21/07 | à surveiller dans les scènes |
 | État d'avancement des équipes (Mariette, 21/07) | Yves : 3 CV SAV ; Grace : organisation en finalisation ; Abdoul : plan technique non remis | Mariette relance lundi 8h, point écrit en fin de journée |
 | Contrat d'apprentissage de Kevin | **Signature chez M. Da Silva mardi 24/07 à 17h** (annoncé par Sandra le 22/07) ; suivi par la Chambre des métiers | mar. 24/07 |
-| **Statut de fonctionnaire de William** | Recherche faite le 22/07 : aucune autorisation préalable du ministre (art. 14 du statut) alors qu'il dirige OSIA ; risque disciplinaire ; rien n'indique que l'administration le sache (page Facebook d'OSIA publique, photo vue par Sandra ; Mme Schmit a deviné la relation avec Sandra) ; **aucune décision de William sur une demande d'autorisation** | à jouer ; décision libre de William |
+| **Statut de fonctionnaire de William** | Recherche faite le 22/07 : aucune autorisation préalable (art. 14) alors qu'il dirige OSIA ; **décision de William (22/07 ~23h) : ne rien déclarer, ne rien changer, ligne de défense « Aïcha gérante, William quasi externe »** (Aïcha ne le sait pas) ; traces contraires : contrats signés « Gérant », matrice, ordres dans le groupe, bail, page Facebook publique ; rien n'indique que l'administration le sache | à jouer ; risque de fuite (aléa A12), de rapprochement par un collègue (Mme Schmit) ou d'une remarque de Me Kouamé/Mariette/Esther |
 | Déclaration de l'investissement étranger (dotation de William) | Dès réception des fonds par OSIA : déclaration statistique au Trésor (Finances extérieures) et à la BCEAO sous un mois ; sans cette trace, rapatrier plus tard dividendes ou compte courant se complique | à jouer (Aïcha, Esther, Me Kouamé) |
 | Fiscalité de William | Résident fiscal en France (Audun-le-Tiche), salaire luxembourgeois ; participation et dividendes futurs d'OSIA, comptes hors de France : obligations déclaratives en France (formulaires 2047/2042, 3916) — jamais abordé | à jouer (Esther/comptable) |
+| **Revue du lundi (règle du 22/07)** | **Première revue lundi 23/07** : bilan de la semaine W29 + choix de nouveaux éléments de réalisme (voir `etat/aleas.md`) ; chaque lundi ensuite | lun. 23/07, début de journée |
 | Congés de Sandra | 6-19/08 (projet Mindelo non financé) | août |
 | Esther N'Guessan | Arrivée fin août/sept. | — |
 | Semaine ISO 29 (16-22/07) | **Synthèse écrite le 22/07** : `memoire/semaine-2040-W29.md` | semaine 30 : à écrire dim. 29/07 |
