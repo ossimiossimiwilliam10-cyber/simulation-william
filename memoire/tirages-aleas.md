@@ -133,3 +133,5 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Trajet Plateau vers Cocody (QG ou hôtel), départ 16h20 en heure de pointe : durée supérieure à 40 minutes (circulation dense) » : probabilité 65 %, jet  74.2 → **NON** (enregistré le 05/10/2026 23:31 heure machine)
 
 - Jet « Sandra décroche à la première sonnerie (19h01 à Esch, avant sa garde, téléphone sur la table) » : probabilité 85 %, jet  52.1 → **OUI** (enregistré le 05/10/2026 23:35 heure machine)
+
+- Jet « Sandra demande des précisions (« mal comment ? ») après la confidence vague de William, plutôt que de simplement le soutenir » : probabilité 65 %, jet  58.2 → **OUI** [DÉROGATION : partenaire non hiérarchique : aucune table (T8 prévue par etat/modele-pouvoir.md §4, non créée) ; probabilité fixée d'après son caractère (elle demande des chiffres précis, a peur des silences)] (enregistré le 05/10/2026 23:38 heure machine)
