@@ -1,4 +1,4 @@
-# Calendrier (au 25/07/2040, 10h13)
+# Calendrier (au 25/07/2040, 14h52)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -53,9 +53,9 @@
 | **Mer. 25/07, 09h37** | **Mariette informe Aïcha** (elle a tout raconté). |
 | **Mer. 25/07, 09h42-10h07** | **William raconte tout à Aïcha** ; elle demande « comment on fait pour que ça n'arrive plus ». |
 | **Mer. 25/07, 10h10-10h13** | **William donne sa consigne à Aïcha** (colère) : personnel féminin via la DG avec rapport ; plus d'échange direct avec Mariette ni Grace. **Aïcha : « Oui, patron. »** Voix perceptible dans la villa. |
-| **Mer. 25/07, avant 15h** | **Aïcha parle à Grace, seule** (annoncé ; William n'y assiste pas). |
-| **Mer. 25/07, 11h45** | Mariette repasse chez William s'il veut en reparler (facultatif ; **avec la consigne de 10h12, ce serait via Aïcha**). |
-| **Mer. 25/07, 15h** | **Rendez-vous avec Maître Kouamé (cabinet, Plateau)** : décision de l'associé unique, projet de décision d'augmentation de capital, chiffrage. Confirmé le 23/07. |
+| **Mer. 25/07, avant 15h** | ~~Aïcha parle à Grace, seule~~ **REPORTÉ à demain** (T3 : rien_attend ; Aïcha le demande à William dans son rapport de 13h48, « si tu es d'accord »). |
+| **Mer. 25/07, 11h45** | ~~Mariette repasse chez William s'il veut en reparler~~ **ANNULÉ** (consigne de 10h12 : Mariette passe par Aïcha ; personne n'est venu). |
+| **Mer. 25/07, 15h** | **Rendez-vous avec Maître Kouamé (cabinet, Plateau)** : décision de l'associé unique, projet de décision d'augmentation de capital, chiffrage. Confirmé le 23/07. **William part à 14h05 ; circulation dense ; arrivée estimée 15h06.** |
 | Jeu. 26/07, matin | Aléa tiré de la semaine (voir `memoire/tirages-aleas.md`). |
 | Jeu. 26/07 | SécuTech : fin des travaux prévue (câble des 2 caméras d'accueil) ; solde de 525 000 FCFA à l'achèvement. |
 | Jeu. 26/07 | Grace : devis comparatif villa Riviera prêt. Abdoul : plan technique (« Jeudi. »). |

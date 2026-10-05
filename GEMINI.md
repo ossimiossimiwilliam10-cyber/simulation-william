@@ -158,7 +158,8 @@ Direct, structuré, sobre. Pas de flatterie ni d'encouragements.
 Langue : **français**.
 
 ## 9. POINT DE REPRISE
-**Mercredi 25 juillet 2040, 10h13 — William a répondu à Aïcha (consigne donnée en colère) ; en attente : sa prochaine action.**
+**Mercredi 25 juillet 2040, 14h52 — William est en route pour le Plateau (circulation) ; en attente : ses réponses (Sandra, Aïcha, retard) avant le rendez-vous de 15h.**
+**Depuis 10h13 (« Go »)** : William retourne à son bureau ; 11h45 : personne ne vient (Mariette passe par Aïcha) ; pause déjeuner ; **13h48 rapport d'Aïcha** : Mariette informée à 10h50, Grace à 11h05 par écrit (« Bien reçu. »), **Mariette demande le télétravail mardi et jeudi** (T1 : négociation tacite), **Aïcha propose de voir Grace demain** (T3 : rien_attend) ; 14h05 départ en taxi ; **14h32 Sandra** demande confirmation de l'appel de ce soir (17h Abidjan = 19h Esch) ; circulation dense (jets), **arrivée estimée 15h06**. **Non connu de William** : Grace s'est confiée à un proche hors du travail (T1, jet 65.5) ; informés hors William = 4 (T5 chaque dimanche : interne 12 %, externe 4 %) ; voix de William perceptible dans la villa, mots non distincts ; Abdoul n'a toujours pas parlé à Bertin (jet 35 % : NON).
 **Pause du 25/07/2040** : l'utilisateur a demandé de corriger à la racine le biais du moteur qui rééquilibrait les rapports de force par réflexe moral
 (« à l'européenne »), sans faire de William un dieu. **Livré** : `etat/modele-pouvoir.md` (tables T1-T7, modificateurs, plafonds, symétrie), **règle 17**,
 `outils/jet.py --table` (refuse les probabilités libres sur une réaction), `outils/audit_jets.py`, contrôle intégré à `controle_coherence.py`, pièges n° 49-52,
@@ -172,11 +173,11 @@ professionnel » puis lui a **tout raconté** (11h58, 12h12, 12h14 le 23/07 ; me
 porte, veut savoir « pour pouvoir répondre si on me pose la question » ; après la confession (sans larmes) : « Merci de me l'avoir dit, patron. C'est très grave. » ; « à Abidjan, ces
 choses-là finissent toujours par sortir » ; « Grace ne dira rien, elle veut sa place » ; « **laisse-moi lui parler, doucement, aujourd'hui, seule** » ; « j'ai ma mère, ma famille au village, mon nom
 est sur tous les papiers » ; « **dis-moi seulement comment on fait pour que ça n'arrive plus** ». Pas d'ultimatum ; elle n'a pas dit si elle informait Me Kouamé ; ni Sandra, ni le statut
-luxembourgeois, ni la « ligne de défense » n'ont été évoqués. **À décider par William** : ~~sa réponse à Aïcha~~ (faite à 10h13) ; Mariette à 11h45 (facultatif) ; **Me Kouamé à 15h** (Plateau) :
+luxembourgeois, ni la « ligne de défense » n'ont été évoqués. **À décider par William** : ~~sa réponse à Aïcha~~ (faite à 10h13) ; ~~Mariette à 11h45~~ (annulé par la consigne) ; **demande de télétravail de Mariette** (via Aïcha) ; **réponse à Sandra** ; **prévenir ou non Me Kouamé du retard** ; **Me Kouamé à 15h** (Plateau) :
 honoraires, passeport, justificatif d'origine des fonds, signature comme associé unique ; **appel à Sandra à 17h (Abidjan) = 19h (Esch), prévenir AVANT en cas d'empêchement** ; niveau 3 ; déjeuner de
 vendredi 27/07 ; devis de la clinique (dû vendredi 27/07). Jeudi matin : aléa de la semaine (non révélé) ; jeudi soir : note de Mariette ; **mercredi soir : fiche complète**. **Non connu de
 William** : Grace n'a **aucune capture** ni note de l'incident (T1b, 25/07) ; aucune condition écrite de sa part dans les 48 h ; pas de démarche externe ni de démission cette semaine ; Abdoul n'a pas encore parlé à
-Bertin. **Effort** : conseillé Max pour le prochain tour. Voir `journal/2040-07-25.md`, `etat/fils-ouverts.md`, `etat/traces.md`, `memoire/pieges-connus.md` n° 47-48.
+Bertin. **Effort** : Extra suffirait pour le prochain tour (Max si tout le rendez-vous de 15h est joué). Voir `journal/2040-07-25.md`, `etat/fils-ouverts.md`, `etat/traces.md`, `memoire/pieges-connus.md` n° 47-48.
 
 ## 10. PROTOCOLE DE RELAIS (Claude ⇄ Gemini)
 L'utilisateur alterne entre Claude et Gemini (Antigravity) selon ses crédits. Le moteur le plus puissant

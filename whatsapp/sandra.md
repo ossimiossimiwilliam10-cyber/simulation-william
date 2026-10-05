@@ -43,3 +43,6 @@ Parfait. À ce soir.
 
 **[23/07/2040 - 17:01 (Abidjan) / 19:01 (Esch)] Sandra :**
 Je suis prête. Les petits dînent chez ma mère, j'ai mis mon téléphone sur la table. Appelle quand tu veux, je suis là jusqu'à 20h30.
+
+**[25/07/2040 - 14:32 (Abidjan) / 16:32 (Esch)] Sandra :**
+Pour ce soir : ok pour 19h-20h30 chez moi (17h-18h30 chez toi), avant ma garde ? Dis-moi oui ou non, s'il te plaît, pour que je m'organise.

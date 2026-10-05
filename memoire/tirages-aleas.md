@@ -103,3 +103,19 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Voix de William perceptible dans la villa QG à travers la porte fermée du bureau de la DG (6 pièces, cloisons intérieures, colère inhabituelle) » : probabilité 70 %, jet  26.8 → **OUI** (enregistré le 05/10/2026 18:25 heure machine)
 
 - Jet « Les prénoms de Mariette et de Grace sont distinctement compris à l'extérieur du bureau de la DG » : probabilité 25 %, jet  34.7 → **NON** (enregistré le 05/10/2026 18:25 heure machine)
+
+- Tirage [T3] « Aïcha : conduite vis-à-vis de Grace aujourd'hui (entretien annoncé) après la consigne de William ; gérante signataire (M11), CDD et famille (M12), lien affectif avec William (M13) » : contient 40 / garanties_indirectes 24 / rien_attend 19 / consigne_avocat 4 / eloigne_victime 12 / frontal_confronte 1 / frontal_demission 0 ; modificateurs : M11, M12, M13 ; jet  73.9 → **rien_attend** (enregistré le 05/10/2026 18:31 heure machine)
+
+- Tirage [T1] « Grace : réaction à la mise à l'écart décidée par William (consigne transmise par Aïcha), 48 h ; CDD et famille au Ghana à charge (M01), Mariette confidente au QG (M02) » : rien_absorption 30 / evitement 23 / confidence_proche 20 / confidence_collegue 18 / negociation_tacite 4 / depart_discret 5 / frontal_formel 0 ; modificateurs : M01, M02 ; jet  65.5 → **confidence_proche** (enregistré le 05/10/2026 18:31 heure machine)
+
+- Tirage [T1] « Mariette : réaction à la mise à l'écart décidée par William (consigne transmise par Aïcha), 48 h ; Aïcha amie proche (M02), déjà visée le 16/05 (M03) » : rien_absorption 14 / evitement 29 / confidence_proche 20 / confidence_collegue 21 / negociation_tacite 4 / depart_discret 11 / frontal_formel 1 ; modificateurs : M02, M03 ; jet  87.7 → **negociation_tacite** (enregistré le 05/10/2026 18:31 heure machine)
+
+- Jet « Sandra écrit à William avant 15h (Abidjan) pour confirmer l'appel de 19h (Esch) » : probabilité 35 %, jet  34.5 → **OUI** (enregistré le 05/10/2026 18:31 heure machine)
+
+- Jet « Abdoul annonce à Bertin son statut de sous-traitant externe aujourd'hui (mercredi 25/07) » : probabilité 35 %, jet  36.2 → **NON** (enregistré le 05/10/2026 18:31 heure machine)
+
+- Jet « Forte pluie sur Abidjan entre 13h30 et 15h (juillet, saison des pluies) » : probabilité 40 %, jet  83.0 → **NON** (enregistré le 05/10/2026 18:31 heure machine)
+
+- Jet « Trajet Cocody Ambassades vers Plateau départ 14h05 : durée supérieure à 50 minutes (circulation dense) » : probabilité 40 %, jet  15.2 → **OUI** (enregistré le 05/10/2026 18:31 heure machine)
+
+- Jet « William arrive au cabinet de Me Kouamé après 15h00 (départ 14h05, circulation dense de plus de 50 minutes, durée supérieure à 55 minutes) » : probabilité 60 %, jet  59.6 → **OUI** (enregistré le 05/10/2026 18:32 heure machine)
