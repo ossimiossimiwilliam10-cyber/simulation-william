@@ -134,22 +134,20 @@ Direct, structuré, sobre. Pas de flatterie ni d'encouragements.
 Langue : **français**.
 
 ## 9. POINT DE REPRISE
-**Mardi 24 juillet 2040, 15h00 — William est au QG ; « Go » joué depuis lundi 18h10.**
-Lundi soir : Mariette a déposé à **23h52** les **règles de classement** (`serveur/direction/regles_classement_2307.pdf` : un dossier par
-pôle, nouveau dossier `juridique/`, noms `sujet_JJMM.pdf`, contrôle chaque vendredi 16h) ; William n'a pas encore réagi. Mardi : **Capitol
-09h00 : attestation retirée** (jet friction : non) ; **09h52 : l'application bancaire ivoirienne REFUSE l'attestation** (jet : non) —
-elle n'accepte que facture CIE/SODECI à son nom ou certificat de résidence du commissariat/ONECI : **compte toujours au niveau 1**,
-remboursement des avances (~3,54 M FCFA) suspendu ; William doit choisir une autre voie. **11h10-11h52 : Grace et Mariette se sont
-enfermées** ; Mariette en est ressortie les **yeux rouges**, ne croise plus le regard de William ; Grace vouvoie William.
-**Non connu de William** : Grace a montré le message d'excuses à Mariette ; elle en garde une capture hors de son téléphone de travail ;
-Mariette n'en parle pas à Aïcha ce mardi (jet) mais hésite ; aucune condition écrite de Grace dans les 48 h ; pas de démarche externe ni
-de démission cette semaine. **11h40 : chiffrage de Me Kouamé** (honoraires 1 200 000 FCFA ; frais 300 000-500 000 FCFA ; droits
-d'enregistrement à calculer ; copie du passeport et justificatif d'origine des fonds demandés) ; **rendez-vous mercredi 25/07 à 15h**
-maintenu. **12h30** : Aïcha demande à Mariette si ça va (« Fatiguée. »), ne sait rien. **À décider par William** : valider les honoraires ;
-voie alternative pour le niveau 3 ; réponse au déjeuner d'équipe de vendredi 27/07 ; **devis de la clinique** (dû vendredi 27/07) ; réaction
-aux règles de Mariette ; **mercredi 25/07 : Me Kouamé 15h puis appel à Sandra 17h (prévenir AVANT en cas d'empêchement)**. Kevin signe à
-17h aujourd'hui chez M. Da Silva. Jeudi matin : aléa de la semaine (non révélé) ; jeudi soir : note de Mariette. **Effort** : l'utilisateur garde
-**Max** par défaut. Voir `journal/2040-07-24.md`, `etat/fils-ouverts.md`, `etat/vies-privees.md`, `etat/traces.md`.
+**Mercredi 25 juillet 2040, 09h10 — Mariette demande à voir William seule ; Me Kouamé à 15h ; Sandra à 17h.**
+« Go » joué de mardi 15h à mercredi 09h10. **Mardi** : travail courant ; **Kevin a signé** chez M. Da Silva et écrit à William à
+18h38 (« Maman a pleuré un peu », merci pour septembre) — **réponse facultative en attente** ; Sandra n'a envoyé aucun rappel. **Mercredi**
+: **07h58 Grace** remet sa note sur la clause (`serveur/commercial/clause_marches_2507.pdf`), en « vous » et par écrit, n'entre pas dans le
+bureau, exige un avenant écrit ; **09h05 Mariette** demande **vingt minutes en privé avant 15h** (« sujet RH sensible, je préfère te le
+dire de vive voix »). **Non connu de William (jets)** : Mariette en parlera à **Aïcha avant 14h** (Aïcha sera donc informée au rendez-vous de
+15h chez Me Kouamé) ; Grace a montré le message d'excuses à Mariette et en garde une capture ; aucune condition écrite de Grace dans les 48 h ;
+pas de démarche externe ni de démission cette semaine ; Abdoul n'a pas encore parlé à Bertin. **À décider par William** : **répondre à Mariette
+(quand, où)** ; valider les honoraires de Me Kouamé et fournir passeport + justificatif d'origine des fonds (rendez-vous **15h au Plateau**) ;
+voie alternative pour le niveau 3 (l'attestation d'hôtel a été refusée) ; réponse au déjeuner d'équipe de vendredi 27/07 ; devis de la clinique
+(dû vendredi 27/07) ; réaction aux règles de classement de Mariette ; réponse à Kevin ; **appel à Sandra 17h (Abidjan) = 19h (Esch), prévenir
+AVANT en cas d'empêchement**. Jeudi matin : aléa de la semaine (non révélé) ; jeudi soir : note de Mariette ; **mercredi soir : fiche complète**.
+**Effort** : l'utilisateur est repassé en **Extra** et attend l'indication de quand changer de niveau. Voir `journal/2040-07-25.md`,
+`etat/fils-ouverts.md`, `etat/vies-privees.md`, `etat/traces.md`.
 
 ## 10. PROTOCOLE DE RELAIS (Claude ⇄ Gemini)
 L'utilisateur alterne entre Claude et Gemini (Antigravity) selon ses crédits. Le moteur le plus puissant

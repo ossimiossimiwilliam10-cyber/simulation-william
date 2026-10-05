@@ -30,3 +30,6 @@ Grace, je suis sincèrement désolé. Je n'essaie pas de mentir : je me rends co
 *(Texte reconstitué à partir de la dictée ; « ses pulsions » lu « mes pulsions ».)*
 
 *(Message délivré à 17h44, **lu par Grace à 18h07**. Pas de réponse à 18h10.)*
+
+**[25/07/2040 - 07:58] Grace :**
+Monsieur Ossimi, ma note sur la clause est sur le serveur, dans commercial/ (clause_marches_2507.pdf). Je reste à votre disposition par écrit. G. Adjoua-Mensah

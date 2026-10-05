@@ -12,3 +12,6 @@ Bonjour, Kevin. Oui je reviens en septembre tkt pas.
 
 **[21/07/2040 - 14:06 (Abidjan)] Kevin :**
 D'accord, merci monsieur 🙂 Je dis à maman que vous revenez.
+
+**[24/07/2040 - 18:38 (Abidjan) / 20:38 (Esch)] Kevin :**
+Bonsoir monsieur, c'est Kevin. J'ai signé chez M. Da Silva aujourd'hui. Il m'a donné une combinaison de travail. Maman a pleuré un peu 😅 Merci encore pour septembre.

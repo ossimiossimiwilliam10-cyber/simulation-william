@@ -31,3 +31,6 @@ Mariette, j'ai ouvert ta note. Je te le dis aussi pour les autres membres de l'�
 
 **[23/07/2040 - 11:53] Mariette :**
 Bien sûr patron. Je préviens l'équipe cet après-midi et je propose des règles de classement ce soir. Samedi matin, très bien. Merci de prendre le temps de la lire, hein.
+
+**[25/07/2040 - 09:05] Mariette :**
+Patron, j'aurais besoin de vingt minutes avec toi aujourd'hui, en privé. C'est un sujet RH sensible, je préfère te le dire de vive voix. Si possible avant ton rendez-vous de 15h. Dis-moi quand tu peux.

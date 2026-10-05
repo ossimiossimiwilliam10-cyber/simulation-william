@@ -48,3 +48,15 @@ Effets à jouer : A06 (jeudi 26/07 (matin)) : Délai supplémentaire ; l'excuse 
 - Jet « Mariette en parle à Aïcha dans la journée de mardi 24/07 » : probabilité 60 %, jet  76.1 → **NON** (enregistré le 05/10/2026 15:40 heure machine)
 
 - Jet « Me Kouamé : chiffrage remis mardi comme promis (sinon mercredi, deuxième passage) » : probabilité 70 %, jet  33.3 → **OUI** (enregistré le 05/10/2026 15:40 heure machine)
+
+- Jet « Kevin écrit à William mardi soir après la signature chez M. Da Silva » : probabilité 80 %, jet  28.4 → **OUI** (enregistré le 05/10/2026 17:03 heure machine)
+
+- Jet « Sandra envoie un rappel à William mardi soir pour l'appel de mercredi » : probabilité 50 %, jet  77.9 → **NON** (enregistré le 05/10/2026 17:03 heure machine)
+
+- Jet « Abdoul annonce à Bertin son statut de sous-traitant externe avant mercredi midi » : probabilité 40 %, jet  89.0 → **NON** (enregistré le 05/10/2026 17:03 heure machine)
+
+- Jet « Mariette demande à voir William seule mercredi matin à propos de Grace » : probabilité 15 %, jet   7.1 → **OUI** (enregistré le 05/10/2026 17:03 heure machine)
+
+- Jet « Mariette en parle à Aïcha mercredi (avant 14h) » : probabilité 45 %, jet  15.2 → **OUI** (enregistré le 05/10/2026 17:03 heure machine)
+
+- Jet « Grace remet sa demi-page sur la clause mercredi matin comme promis » : probabilité 90 %, jet  13.2 → **OUI** (enregistré le 05/10/2026 17:03 heure machine)

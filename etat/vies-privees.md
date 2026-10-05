@@ -41,3 +41,9 @@
 - **Mariette (24/07)** : a reçu la confidence de Grace (11h10-11h52, petite salle de réunion) ; yeux rouges ; **ne croise plus le regard de William** ; **n'en parle pas à Aïcha ce mardi** (jet) ; hésite entre solidarité avec Grace, peur de William, son propre contrat irrégulier et le souvenir du 16/05 ; a déposé les règles de classement à 23h52 la veille (elle travaille jusqu'à minuit).
 - **Aïcha (24/07 12h30)** : demande à Mariette si ça va (« Fatiguée. ») ; regarde une seconde de plus ; ne sait rien.
 - **Grace (24/07)** : a montré le message d'excuses à Mariette ; salue tout le monde, vouvoie William ; reste en poste.
+
+## Avancées du 24 au 25/07
+- **Kevin (24/07 18h38)** : a signé chez M. Da Silva (combinaison de travail) ; sa mère a pleuré un peu ; il remercie William pour septembre ; attend une réponse.
+- **Grace (25/07 07h58)** : remet sa note sur la clause en « vous » et par écrit, n'entre pas dans le bureau de William ; exige un avenant écrit pour toute modification de sa mission ; elle reste en poste.
+- **Mariette (25/07 09h05)** : demande un entretien privé à William avant 15h ; **en parlera à Aïcha avant 14h** (non connu de William) ; la nuit précédente elle n'a envoyé aucun message.
+- **Sandra (24/07 soir)** : pas de rappel ; elle attend mercredi 17h (Abidjan).
