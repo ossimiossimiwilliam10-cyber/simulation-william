@@ -95,6 +95,8 @@ class OsiaPDF(FPDF):
         self.multi_cell(0, 6, self.t(valeur), new_x="LMARGIN", new_y="NEXT")
 
     def titre1(self, texte):
+        if self.get_y() > self.h - 45:  # évite un titre orphelin en bas de page
+            self.add_page()
         self.ln(3)
         self.set_font(self.fam, "B", 12)
         self.multi_cell(0, 7, self.t(texte), new_x="LMARGIN", new_y="NEXT")

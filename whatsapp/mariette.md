@@ -21,3 +21,6 @@ Mariette, pour te prévenir : le remboursement de mes avances attend que j'ouvre
 
 **[22/07/2040 - 22:06] Mariette :**
 Noté patron. Je garde le dossier prêt, il ne manquera que ton RIB.
+
+**[23/07/2040 - 11:41] Mariette :**
+Patron, la note juridique est sur le serveur, dans rh/ (note_juridique_2307.pdf). Elle fait deux pages. Il y a des points durs, surtout sur les CDD et le naming and shaming. Je te laisse la lire et je suis disponible quand tu veux, hein.

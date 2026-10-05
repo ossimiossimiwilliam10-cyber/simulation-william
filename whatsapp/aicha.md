@@ -55,3 +55,9 @@ Bien noté.
 *(Pièce jointe seule, sans texte : confirmation d'ordre de virement de sa banque européenne : 176 725,00 EUR, bénéficiaire OSIA Énergies SARL (SGBCI), libellé « Augmentation de capital OSIA Énergies SARL », statut « en attente de validation ». Destinataire interprété par le moteur : Aïcha.)*
 
 *(Pas de réponse d'Aïcha à 23h50.)*
+
+**[23/07/2040 - 06:51] Aïcha :**
+Reçu. Je vois Maître Kouamé à 10h pour l'augmentation de capital. Pour la décision, tu signes comme associé unique. La gérante, c'est moi.
+
+**[23/07/2040 - 11:26] Aïcha :**
+Retour de Maître Kouamé. Pour l'augmentation de capital il faut : 1) une décision de l'associé unique signée par toi, 2) les statuts modifiés, 3) l'attestation de versement de la SGBCI quand les fonds arrivent. Ensuite RCCM, publication et déclaration d'investissement. Il compte plusieurs semaines après réception des fonds et nous chiffre ses honoraires et les frais mardi. Il veut aussi un justificatif de l'origine des fonds. Il demande à te voir cette semaine.

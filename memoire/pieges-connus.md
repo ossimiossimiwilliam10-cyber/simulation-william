@@ -22,7 +22,7 @@
 8. **Fils en suspens** dans `etat/fils-ouverts.md` : une promesse de personnage (« je vous envoie ça ce
    soir ») qui n'est pas tenue est un événement du monde à jouer, pas à oublier.
 9. **Droit ivoirien réaliste** (vérifié le 21/07, à re-vérifier si besoin) : CDD de 24 mois maximum ; rupture
-   anticipée seulement pour faute grave, force majeure ou accord ; un CDD ne doit pas pourvoir durablement
+   anticipée seulement pour faute lourde, force majeure ou accord commun (art. 15.9) ; un CDD ne doit pas pourvoir durablement
    un emploi permanent (requalification en CDI) ; règlement intérieur obligatoire au-delà de 10 salariés
    (procédure : délégués du personnel → inspecteur du travail → greffe → affichage) ; congés 2,2 jours
    ouvrables par mois. Les personnages compétents (Mariette, Esther, Me Kouamé) doivent le dire, à leur façon.
@@ -51,3 +51,6 @@
 28. **Déclaration à l'administration luxembourgeoise** : l'autorisation de l'art. 14 est *préalable* ; une demande tardive n'est pas rétroactive. William a décidé (22/07) de se déclarer d'ici décembre en minimisant : jouer les réactions réalistes (ministre, direction du lycée, Fonction publique), sans sermon.
 29. **Spuerkeess** (banque de William, vérifié le 22/07) : limite S-Net standard 15 000 € (modifiable via S-Net), commission hors SEPA 0,175 % (min 10 €, max 100 €), options de frais OUR/SHA, SWIFT 2 à 5 jours ouvrés vers l'Afrique. Ses comptes luxembourgeois sont « à l'étranger » pour le fisc français (3916).
 30. **Dates** : le 30/12/2040 est un **dimanche** (échéance de la déclaration de William) ; dernier jour ouvré : vendredi 28/12. Toujours vérifier le jour de la semaine d'une échéance.
+31. **CDD en droit ivoirien (Code du travail 2015, vérifié le 23/07)** : art. 15.2 écrit obligatoire ; 15.4 durée maximale 2 ans, renouvellements sans dépasser 2 ans ; 15.6 cas de recours énumérés (remplacement, surcroît occasionnel, saisonnier, secteurs spécifiques, durée d'un chantier ou projet) ; 15.8 indemnité de fin de contrat 3 % de la rémunération brute totale ; **15.9 rupture anticipée seulement pour force majeure, accord commun ou FAUTE LOURDE** (et non « faute grave », corrigé le 23/07) ; 15.10 CDD non conforme = réputé CDI.
+32. **Harcèlement** : art. 5 du Code du travail ivoirien interdit le harcèlement moral et sexuel (ordre public social) ; définition : tout comportement abusif, menace, parole, intimidation, écrit, attitude ou acte répété à connotation sexuelle visant à obtenir des faveurs sexuelles. Grace est une subordonnée directe de William ; Mariette (DRH) recevrait les signalements.
+33. **Diffamation par communication publique** : amende de 1 à 3 M FCFA d'après les textes consultés (Code pénal / régime de la presse), plus dommages-intérêts civils.

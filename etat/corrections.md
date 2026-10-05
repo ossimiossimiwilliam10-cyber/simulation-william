@@ -33,3 +33,5 @@
 | # | Sujet | Avant | Maintenant | Raison |
 |---|---|---|---|---|
 | 16 | Plafond de virement de William | « plafond de virement en ligne dépassé, ordre en attente » (banque non précisée) | Banque = **Spuerkeess** : limite S-Net standard 15 000 €, modifiable par le client ; au-delà, relèvement puis contrôle de conformité ; commission hors SEPA 0,175 % (max 100 €) ; option de frais SHA par défaut | William a précisé sa banque le 22/07 |
+| 17 | Rupture anticipée d'un CDD (`etat/finances.md`, `osia/entreprise.md`, `memoire/pieges-connus.md`) | « faute grave, force majeure ou accord » | « **faute lourde**, force majeure ou accord commun » (art. 15.9 du Code du travail 2015) | Vérifié le 23/07 sur le texte de la loi ; erreur du moteur |
+| 18 | Note juridique de Mariette | Absente (promise « lundi avant midi ») | `serveur/rh/note_juridique_2307.pdf` (2 pages) | Livrable généré le 23/07, voir `journal/2040-07-23.md` |

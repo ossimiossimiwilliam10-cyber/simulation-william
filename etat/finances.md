@@ -1,4 +1,4 @@
-# Finances de William & OSIA (estimations au 22/07/2040, 23h58)
+# Finances de William & OSIA (estimations au 23/07/2040, 11h58)
 
 > Parité fixe : 1 € = 655,957 FCFA.
 > Les montants de salaire de toute la simulation sont des **BRUTS** ; les virements réels sont calculés
@@ -32,7 +32,7 @@
   projet = 176 725 € (≈ 115,9 M FCFA), « le plus vite possible »** ; compte d'origine : compte projet (restera
   ≈ 176 725 €). **Forme : AUGMENTATION DE CAPITAL (décidée par William le 22/07 vers 21h55 ; pas encore communiquée à Aïcha).** Capital de 30 M → ≈ 145,9 M FCFA. Formalités à cadrer avec Me Kouamé : décision de l'associé unique, modification des statuts, inscription modificative au RCCM, publication légale, déclaration de l'investissement étranger (Trésor/BCEAO) ; coûts non chiffrés.
   Annoncée à la direction (sans montant) le 22/07 à 21h12 ; Aïcha demande forme et montant, verra Me Kouamé lundi.
-  **Ordre passé le 22/07 vers 23h20 depuis sa banque européenne, libellé « Augmentation de capital OSIA Énergies SARL » : plafond de virement en ligne dépassé, ordre en attente de validation** (conformité, relèvement de plafond, justificatif d'origine des fonds et de motif ; au-delà de 8 000 € la banque est en vigilance anti-blanchiment). Exécution lundi au plus tôt ; SWIFT : 2 à 4 jours ouvrés, **fonds attendus à la SGBCI entre mer. 25 et ven. 27/07**. La confirmation d'ordre a été envoyée à Aïcha le 22/07 à 23h42 (elle n'a pas répondu).
+  **Ordre passé le 22/07 vers 23h20 depuis sa banque européenne, libellé « Augmentation de capital OSIA Énergies SARL » : plafond de virement en ligne dépassé, ordre en attente de validation** (conformité, relèvement de plafond, justificatif d'origine des fonds et de motif ; au-delà de 8 000 € la banque est en vigilance anti-blanchiment). Exécution lundi au plus tôt ; SWIFT : 2 à 4 jours ouvrés, **fonds attendus à la SGBCI entre mer. 25 et ven. 27/07**. **Mise à jour 23/07 10h22 : la Spuerkeess a SUSPENDU l'ordre en attendant (1) un justificatif d'origine des fonds, (2) un justificatif de l'opération (projet de décision d'augmentation de capital ou statuts), (3) les coordonnées complètes du bénéficiaire ; les fonds n'arriveront donc pas avant le 27/07 et plus vraisemblablement la semaine suivante.** La confirmation d'ordre a été envoyée à Aïcha le 22/07 à 23h42 (elle n'a pas répondu).
   **Banque de William : Spuerkeess (Luxembourg)** : limite S-Net standard 15 000 € (modifiable par le client), commission hors SEPA 0,175 % (min 10 €, max 100 €) = **100 €** ; option de frais **SHA** par défaut : la SGBCI recevra un peu moins que 176 725 € (frais d'intermédiaires/de la banque réceptrice) ; le montant exact crédité sera celui à retenir pour la souscription.
 
 ## Avances en compte courant d'associé (William → OSIA)
@@ -99,7 +99,7 @@ Total des avances non remboursées par l'entreprise :
 ## Engagements salariaux et autonomie d'OSIA (fiche complète du 22/07/2040)
 - Masse salariale des cadres (6 postes, Esther incluse) ≈ **5,6 M FCFA/mois chargée (~8 500 €)**. Cinq cadres
   en poste aujourd'hui ≈ 4,4 M FCFA/mois chargée (estimation du moteur).
-- Les contrats sont des CDD de 24 mois dont la rupture anticipée est limitée (faute grave, force majeure,
+- Les contrats sont des CDD de 24 mois dont la rupture anticipée est limitée (faute lourde, force majeure,
   accord) : engagement théorique ≈ **134 M FCFA (~205 000 €) sur 24 mois** pour les six cadres, sans compter les
   équipes à recruter ni les charges sociales non encore payées.
 - Trésorerie : 28,98 M FCFA aujourd'hui (≈ 25,44 M après remboursement des avances ; ≈ 21,4 M après les sorties
@@ -118,3 +118,7 @@ Total des avances non remboursées par l'entreprise :
   Direction des Finances extérieures (Trésor) et à la BCEAO au plus tard un mois après (statuts, PV d'AG pour une
   augmentation de capital, déclaration de souscription et versement) ; un non-résident associé désigne un représentant
   résident (ici la gérante).
+
+## Charges à prévoir mises en évidence par la note juridique de Mariette (23/07)
+- **Indemnité de fin de contrat des CDD : 3 % de la rémunération brute totale** (art. 15.8), non provisionnée : ≈ 3,4 M FCFA pour les six cadres sur 24 mois, hors primes et commissions.
+- Majorations CNPS (10 %/mois de retard) et amendes possibles sur les salaires de juin non déclarés ; honoraires de Me Kouamé et frais (RCCM, publication, enregistrement) de l'augmentation de capital : **à chiffrer mardi 24/07**.

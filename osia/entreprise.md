@@ -90,7 +90,7 @@
   prime + éligibilité promotion (directeur ou PDG dans 2 ans). **À « légaliser » par Aïcha et Mariette
   lundi 23/07.**
 - ⚠ Risque juridique relevé à l'audit : le Code du travail ivoirien (2015) limite les CDD à 24 mois et n'en
-  permet la rupture anticipée que pour faute grave, force majeure ou accord des parties ; un
+  permet la rupture anticipée que pour faute lourde, force majeure ou accord commun (art. 15.9) ; un
   « licenciement pour incompétence » d'un salarié en CDD s'exposerait à des dommages et intérêts. Par
   ailleurs un CDD ne peut pas pourvoir durablement un emploi permanent (risque de requalification en CDI).
   Mariette (mission de verrouillage juridique, 19/07) n'a pas encore rendu sa revue.
@@ -105,3 +105,9 @@
 - 20/07 : contrats numérisés d'abord vierges, puis faux (CDD de 6 mois, salaires erronés) ; William hausse
   le ton contre Mariette à porte fermée ; elle est « terrifiée » depuis (observation d'Aïcha, 21/07).
 - 20/07 : instauration du « naming and shaming » ; l'équipe approuve (Mariette : attention à la diffamation).
+
+## Mises à jour du 23/07/2040
+- **Note juridique de Mariette** (`serveur/rh/note_juridique_2307.pdf`) : CDD de direction à risque de requalification en CDI (art. 15.6 et 15.10), rupture anticipée seulement pour faute lourde, force majeure ou accord (art. 15.9), indemnité de fin de contrat de 3 % non provisionnée (art. 15.8), « naming and shaming » = risque de diffamation, bonus/malus discrétionnaire fragile, charte sans valeur de règlement intérieur, contrats signés « William Ossimi, Gérant » alors que la gérante est Aïcha « par procuration », régularisation CNPS/ITS en retard (mon propre contrat inclus).
+- **SécuTech** : équipe arrivée à 10h40, extérieur en cours, fin jeudi 26/07 (câble manquant pour l'accueil).
+- **Augmentation de capital** : procédure cadrée par Me Kouamé (décision de l'associé unique, statuts, attestation de versement, RCCM, publication, déclaration d'investissement) ; chiffrage mardi.
+- **SGBCI** : spécimen de signature d'Aïcha déposé.

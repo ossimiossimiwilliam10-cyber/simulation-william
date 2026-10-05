@@ -131,21 +131,20 @@ Direct, structuré, sobre. Pas de flatterie ni d'encouragements.
 Langue : **français**.
 
 ## 9. POINT DE REPRISE
-**Dimanche 22 juillet 2040, 23h58 — fin de journée ; William a précisé plusieurs choix.**
-(1) **Dotation d'OSIA** : ordre de 176 725 € (augmentation de capital) depuis la **Spuerkeess**, en attente de validation
-(limite S-Net 15 000 € relevée, contrôle de conformité), commission 100 €, frais SHA par défaut ; fonds attendus à la SGBCI
-entre mer. 25 et ven. 27/07 (un peu moins de 176 725 €) ; confirmation d'ordre envoyée à **Aïcha** à 23h42 (pas de réponse).
-(2) **Compte ivoirien** (néobanque, niveau 1 : solde max 200 000 FCFA) : William **veut le niveau 3** (attestation
-d'hébergement du Capitol à demander lundi) puis communiquera **ensuite** son RIB à Aïcha et Mariette ; le remboursement des
-avances (~3,54 M FCFA) reste suspendu. (3) **Administration luxembourgeoise** : déclaration **au plus tard le 30/12/2040**
-(dimanche ; dernier jour ouvré ven. 28/12), en minimisant et en prétendant ne pas avoir été au courant ; rien n'est déclaré
-d'ici là. (4) **Sandra** : William appellera **lundi entre 17h et 18h (Abidjan) = 19h-20h à Esch** (confirmation faite pour
-lui, aucun message envoyé) ; Sandra n'a pas répondu (de garde jusqu'à 7h). (5) **Aïcha** : période froide. (6) Règles :
-§11 limites du moteur + **curseur de dureté relevé à la demande de l'utilisateur** ; §12 revue du lundi (première lundi
-23/07). Kevin signe mardi 24/07 17h. **Lundi 23/07 (très chargé)** : revue du lundi ; 8h matrice à « légaliser » ; SGBCI à
-l'ouverture (spécimen d'Aïcha) ; SécuTech 9h ; note juridique PDF de Mariette avant midi ; récap de Grace ; clinique 14h ;
-validation bancaire de la dotation ; attestation du Capitol ; **appel à Sandra 17h-18h** ; point écrit de Mariette. Voir
-`journal/2040-07-22.md`, `etat/fils-ouverts.md`, `etat/finances.md`, `etat/william.md`.
+**Lundi 23 juillet 2040, 11h58 — Grace vient d'entrer dans le bureau de William et a fermé la porte (récap des marges).**
+Première **revue du lundi** présentée (`memoire/revue-lundi-2040-07-23.md`) : cinq idées de réalisme (pack d'aléas A01 A04
+A06 A09 A13, vie propre des personnages, friction administrative, économie moins complaisante, dossier des traces),
+**en attente de validation de William** (aucun aléa actif). Matinée : Sandra « Parfait. À ce soir. » ; Aïcha « La gérante, c'est
+moi. » puis « Bonjour. » formel, compte rendu de Me Kouamé à 11h26 (décision de l'associé unique à signer par William **comme
+associé unique**, statuts, attestation de versement, RCCM, publication ; chiffrage mardi ; il veut voir William) ; **Spuerkeess a
+SUSPENDU l'ordre de 176 725 €** (10h22 : origine des fonds, justificatif de l'opération, coordonnées du bénéficiaire) ; hôtel :
+attestation pour le niveau 3 disponible **mardi 24/07 à 9h** ; SécuTech en retard, fin **jeudi 26/07** ; spécimen d'Aïcha
+déposé, salaires du 1er au 15/07 crédités ; Abdoul « Jeudi. » ; **note juridique de Mariette** déposée à 11h38 (PDF, deux pages,
+« points durs » : CDD, naming and shaming, gérance, CNPS/ITS) ; **récap de Grace** déposé à 11h52 (planchers 25 % clinique,
+20 % Riviera). **William a annoncé (note du 23/07)** qu'il serait toute la semaine « particulièrement amical et vraiment
+tactile » avec Grace seule, en privé : **le moteur s'arrête avant son premier geste** (règle 13). À venir aujourd'hui : visite
+de la clinique de Marcory à 14h (Abdoul, Grace), **appel à Sandra entre 17h et 18h (Abidjan) = 19h-20h à Esch**, point écrit de
+Mariette en fin de journée. Voir `journal/2040-07-23.md`, `etat/fils-ouverts.md`, `etat/finances.md`.
 
 ## 10. PROTOCOLE DE RELAIS (Claude ⇄ Gemini)
 L'utilisateur alterne entre Claude et Gemini (Antigravity) selon ses crédits. Le moteur le plus puissant

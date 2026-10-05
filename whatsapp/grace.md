@@ -14,3 +14,6 @@ Tu as une liberté totale sur ce contrat. Tout ce que j'attends, c'est un résul
 
 **[21/07/2040 - 14:12] Grace :**
 Reçu patron. Un résultat, tu l'auras. Pour que ce soit clair entre nous, je te fais lundi un récap écrit d'une page : objectifs sur la clinique et la Riviera, calendrier, et la marge plancher que je propose. Tu valides ou tu corriges, et après je ne t'embête plus.
+
+**[23/07/2040 - 11:52] Grace :**
+Patron, le récap est sur le serveur, dans commercial/ (recap_grace_2307.pdf). Tu as cinq minutes ? Je passe à ton bureau pour qu'on en parle de vive voix.

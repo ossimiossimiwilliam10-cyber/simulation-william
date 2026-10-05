@@ -1,4 +1,4 @@
-# Calendrier (au 22/07/2040, 23h58)
+# Calendrier (au 23/07/2040, 11h58)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -39,6 +39,10 @@
 | Lun. 23/07, matin | William demande une attestation d'hébergement au Capitol pour monter son compte ivoirien au niveau 3. |
 | Lun. 23/07, 17h-18h (Abidjan) | **Appel à Sandra : William appellera dans cette fenêtre** (= 19h-20h à Esch) ; **appel à Sandra CONFIRMÉ par William** — créneau proposé par Sandra (19h-20h30 à Esch, avant sa garde) ; elle attend oui ou non. *(Avant : « après 16h à Esch / 14h à Abidjan », qui chevauchait la clinique ; William a demandé de le déplacer.)* |
 | Lun. 23/07, 14h | Clinique de Marcory (Dr Yapi) : visite technique avec Abdoul (confirmée par Grace le 21/07). |
+| Mar. 24/07, 9h | Capitol : retrait de l'attestation d'hébergement (signature du directeur) ; téléversement dans l'application pour le niveau 3. |
+| Mar. 24/07 | Maître Kouamé chiffre honoraires et frais de l'augmentation de capital ; William doit le rencontrer cette semaine. |
+| Jeu. 26/07 | SécuTech : fin des travaux prévue (câble des 2 caméras d'accueil) ; solde de 525 000 FCFA à l'achèvement. |
+| Jeu. 26/07 | Grace : devis comparatif villa Riviera prêt. Abdoul : plan technique (« Jeudi. »). |
 | Mar. 24/07, 17h | Kevin : signature du contrat d'apprentissage chez M. Da Silva (Chambre des métiers) — annoncé par Sandra le 22/07 (avant : « semaine du 23/07 »). |
 | Non daté | Abdoul : présentation de l'équipe technique et du devis (reportée). |
 | Non daté | Mariette : revue de la légalité des contrats (demandée le 19/07 au soir) — résultat pas encore rendu. |

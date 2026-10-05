@@ -37,3 +37,6 @@ C'est parfait pour lundi entre 19h et 20h30, chez toi. À plus tard, je te souha
 *(Texte reconstitué à partir de la dictée ; « je vous souhaite » lu « je te souhaite ».)*
 
 *(Pas de réponse de Sandra à 23h10 : elle est de garde jusqu'à 7h à Esch.)*
+
+**[23/07/2040 - 05:10 (Abidjan) / 07:10 (Esch)] Sandra :**
+Parfait. À ce soir.
