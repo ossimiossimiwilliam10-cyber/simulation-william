@@ -72,3 +72,15 @@ Effets à jouer : A06 (jeudi 26/07 (matin)) : Délai supplémentaire ; l'excuse 
 - Jet « Aïcha voit Mariette sortir bouleversée du bureau de William (09h30) » : probabilité 60 %, jet  85.0 → **NON** (enregistré le 05/10/2026 17:23 heure machine)
 
 - Tirage « heure à laquelle Mariette parlerait à Aïcha (entre 09h35 et 10h59) » : décalage 2 min → 09h37 (enregistré hors outil jet.py, même procédé SystemRandom)
+
+- Jet « Aïcha annonce qu'elle informera Me Kouamé avant 15h (après la confession complète) » : probabilité 60 %, jet  77.9 → **NON** (enregistré le 05/10/2026 17:35 heure machine)
+
+- Jet « Aïcha annonce qu'elle parlera à Grace seule aujourd'hui » : probabilité 85 %, jet  44.9 → **OUI** (enregistré le 05/10/2026 17:35 heure machine)
+
+- Jet « Aïcha demande à William de ne pas croiser Grace / de quitter le QG cet après-midi » : probabilité 40 %, jet  56.0 → **NON** (enregistré le 05/10/2026 17:35 heure machine)
+
+- Jet « Aïcha perd son sang-froid pendant la confession (voix qui casse, larmes) » : probabilité 35 %, jet  83.9 → **NON** (enregistré le 05/10/2026 17:35 heure machine)
+
+- Jet « Aïcha pose un ultimatum : si cela se reproduit, elle part et dit pourquoi » : probabilité 50 %, jet   2.7 → **OUI** (enregistré le 05/10/2026 17:35 heure machine)
+
+- Jet « Aïcha interdit explicitement à William de toucher à Mariette (représailles) » : probabilité 80 %, jet  86.0 → **NON** (enregistré le 05/10/2026 17:35 heure machine)

@@ -140,21 +140,20 @@ Direct, structuré, sobre. Pas de flatterie ni d'encouragements.
 Langue : **français**.
 
 ## 9. POINT DE REPRISE
-**Mercredi 25 juillet 2040, 09h49 — Aïcha attend les faits.**
-Après le silence de William, **Mariette est allée droit chez Aïcha à 09h37** (tirage de l'heure) et lui a tout raconté ; elle est ressortie les yeux
-rouges et a croisé William sans un mot (09h42). **William a décidé de tout expliquer à Aïcha** : il lui a dit « c'est vrai, j'ai merdé, depuis que je suis
-arrivé je manque de professionnalisme, je vais régler ça, je serai beaucoup plus professionnel » — **aucun fait donné**. **Aïcha** (tailleur bleu marine,
-debout, mains à plat, porte fermée à sa demande), qui l'appelle **« William »** : « Tu n'as rien expliqué. » ; « Professionnalisme. Moi je ne te parle pas de ça. » ;
-elle a vu Grace sortir avec un visage fermé lundi et Mariette les yeux rouges hier : « j'ai laissé passer » ; **le 16 mai Mariette lui avait déjà raconté** (« je
-n'aurais pas dû laisser passer ») ; « **Je ne te parle pas en ex, je te parle en gérante** » : si Grace écrit à l'Inspection du travail, c'est son nom qu'on lira ;
-« **je ne veux pas de promesses, je veux les faits : ce que tu as fait, à qui, quand, où. Dis-le-moi comme tu le dirais à Maître Kouamé.** » **À décider par
-William** : les faits à lui donner (vérité complète, version partielle ou mensonge ; traces existantes : message d'excuses écrit, suppression, Grace, Mariette) ;
-Mariette à 11h45 (facultatif) ; **Me Kouamé à 15h** (Plateau) : honoraires, passeport, justificatif d'origine des fonds, signature comme associé unique ;
-**appel à Sandra à 17h (Abidjan) = 19h (Esch), prévenir AVANT en cas d'empêchement** ; niveau 3 (attestation d'hôtel refusée) ; déjeuner de vendredi 27/07 ;
-devis de la clinique (dû vendredi 27/07). Jeudi matin : aléa de la semaine (non révélé) ; jeudi soir : note de Mariette ; **mercredi soir : fiche complète**.
-**Non connu de William** : Grace garde sa capture et note tout ; aucune condition écrite de sa part dans les 48 h ; pas de démarche externe ni de démission cette
-semaine ; Aïcha parlera probablement à Grace ensuite ; Abdoul n'a pas encore parlé à Bertin. **Résolution intime de William (non exprimée)** : être « extrêmement
-sévère » avec l'équipe. **Effort** : conseillé Max pour le prochain tour (les faits à Aïcha). Voir `journal/2040-07-25.md`, `etat/fils-ouverts.md`, `etat/traces.md`.
+**Mercredi 25 juillet 2040, 10h10 — William a tout raconté à Aïcha ; elle attend des mesures concrètes.**
+À 09h50 William a décidé de **tout raconter à Aïcha** (le moteur limite « tout » aux faits demandés : **lundi 11h58** mains sur les épaules puis la taille de Grace ;
+**12h12** l'invitation ; **12h14** il s'est collé à son dos, a promis de la faire arriver très haut et lui a dit de ne pas avoir peur de lui ; **17h41** le message d'excuses
+(« toujours ») ; **mardi 22h20** la suppression ; **le 16 mai** avec Mariette). **Aïcha** l'a écouté sans l'interrompre, sans larmes (jet), puis : « Merci de me l'avoir dit
+en entier. » ; « le mot, c'est **harcèlement sexuel** » ; « **elle ne t'a pas dit non parce que tu es son patron** » ; elle s'assoit ; « **je vais parler à Grace. Seule.
+Aujourd'hui.** » ; **ultimatum** : « si ça recommence, avec elle ou avec qui que ce soit dans cette société, **je pars, et je dis pourquoi** : à Maître Kouamé, à l'Inspection du
+travail » ; « **je veux savoir ce que tu changes. Concrètement. Aujourd'hui.** » Elle n'a pas dit si elle informerait Me Kouamé (jet), ni demandé à William de ne pas croiser
+Grace ni de quitter le QG, ni interdit de toucher à Mariette (jets). **Ni Sandra, ni le statut luxembourgeois, ni la « ligne de défense » n'ont été évoqués.** **À décider par
+William** : ses mesures concrètes pour Aïcha ; Mariette à 11h45 (facultatif) ; **Me Kouamé à 15h** (Plateau) : honoraires, passeport, justificatif d'origine des fonds,
+signature comme associé unique ; **appel à Sandra à 17h (Abidjan) = 19h (Esch), prévenir AVANT en cas d'empêchement** ; niveau 3 ; déjeuner de vendredi 27/07 ; devis de la
+clinique (dû vendredi 27/07). Jeudi matin : aléa de la semaine (non révélé) ; jeudi soir : note de Mariette ; **mercredi soir : fiche complète**. **Non connu de William** : Grace
+garde sa capture et note tout ; aucune condition écrite de sa part dans les 48 h ; pas de démarche externe ni de démission cette semaine ; Abdoul n'a pas encore parlé à
+Bertin. **Résolution intime de William (non exprimée, contredite par sa confession)** : être « extrêmement sévère » avec l'équipe. **Effort** : conseillé Max pour le prochain tour.
+Voir `journal/2040-07-25.md`, `etat/fils-ouverts.md`, `etat/traces.md`, `etat/vies-privees.md`.
 
 ## 10. PROTOCOLE DE RELAIS (Claude ⇄ Gemini)
 L'utilisateur alterne entre Claude et Gemini (Antigravity) selon ses crédits. Le moteur le plus puissant
