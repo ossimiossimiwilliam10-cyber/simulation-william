@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 25/07/2040, 09h31)
+# William Ossimi — profil (état au 25/07/2040, 09h49)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -72,6 +72,7 @@
 - **24/07 15h → 25/07 09h10 (« Go »)** : soirée sans consignation ; Kevin lui écrit à 18h38 ; Grace lui remet sa note par écrit à 07h58 en le vouvoyant ; **Mariette lui demande un entretien privé à 09h05**.
 - **24/07 soir → 25/07 09h25** : répond à Kevin ; met un rappel pour appeler Sandra ; **supprime pour tous son message d'excuses à Grace et lui écrit « Je m'excuse. J'ai effacé mon message complètement, pour nous deux. »** ; remercie Grace de sa note (08h05) ; dit à Mariette de venir immédiatement ; **Mariette lui expose ce qu'elle sait et lui demande deux choses** (09h12).
 - **25/07, 09h13** : **ne répond pas du tout à Mariette**, écoute en silence ; **résolution intime (non exprimée)** : être « extrêmement sévère » avec l'équipe, ne rien laisser passer ; rappel « Attention au réalisme » sur la façon dont Mariette lui parle (corrigé).
+- **25/07, 09h42** : décide de tout expliquer à Aïcha ; lui dit seulement « c'est vrai, j'ai merdé, je manque de professionnalisme, je serai beaucoup plus professionnel » ; **Aïcha, déjà informée par Mariette, exige les faits**.
 - Contacts avec Sandra : appel le 17/07 au soir ; silence de quatre jours ; elle écrit la première le 21/07 ; appel de William le 21/07 à 14h26.
 
 ## Personnalité (analyse de départ)

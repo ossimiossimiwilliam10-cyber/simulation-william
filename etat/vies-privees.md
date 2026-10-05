@@ -55,3 +55,5 @@
 - **Sandra** : aucune nouvelle depuis lundi ; rappel de l'appel de 17h noté dans le téléphone de William.
 - **Mariette (25/07 09h13-09h31)** : a vouvoyé William, s'est excusée à plusieurs reprises ; son silence l'a terrifiée ; **elle préviendra Aïcha avant 11h** (jet) ; elle craint pour son contrat (irrégulier), pour Grace, et pour elle-même ; elle consigne hors serveur.
 - **William (intime, non exprimé)** : se jure d'être « extrêmement sévère » avec l'équipe, de « ne rien laisser passer » ; le moteur ne l'applique aux autres personnages que si William l'exprime ou agit.
+- **Aïcha (25/07 09h37-09h49)** : informée par Mariette à 09h37 ; reçoit William à 09h42 ; l'appelle « William » ; se place en gérante (« pas en ex ») ; se reproche d'avoir « laissé passer » (le 16 mai que Mariette lui avait raconté, lundi, hier) ; exige les faits ; refuse les promesses ; craint pour son nom (courrier à l'Inspection du travail).
+- **Mariette (25/07 09h37)** : est allée droit chez Aïcha après sa sortie du bureau de William ; elle ressort les yeux rouges ; elle repassera à 11h45 si William le veut.
