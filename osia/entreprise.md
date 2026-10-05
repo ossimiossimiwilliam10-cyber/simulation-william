@@ -1,4 +1,4 @@
-# OSIA Énergies SARL (état au 17/07/2040)
+# OSIA Énergies SARL (état au 18/07/2040)
 
 ## Statut
 - Activité : installation et maintenance photovoltaïque premium, Abidjan.
@@ -23,15 +23,24 @@
   encore sous plastique), 6 ordinateurs portables, imprimante, routeur 4G.
 - Enseigne « OSIA Énergies » posée (légèrement de travers).
 - **Fibre** : installation annoncée pour fin juillet (incertaine).
-- **Phase 2 à décider** : solaire sur le toit (10 kWc + 20 kWh, ~9 800 000
-  FCFA), vidéosurveillance extérieure déclarée à l'ARTCI (~1 050 000 FCFA).
+- **Phase 2 — vidéosurveillance** : devis signé le 17/07 (SécuTech CI,
+  1 050 000 FCFA TTC). Acompte 525 000 FCFA payé par William. **Installation
+  prévue vendredi 20/07.** 6 caméras IP (4 ext., 2 accueil) + NVR 2 To.
+  Accès à distance impossible tant que la fibre n'est pas raccordée.
+- **Phase 2 — solaire sur le toit** : 10 kWc + 20 kWh, ~9 800 000 FCFA.
+  Pas encore lancé.
 - Gardiens : **Moussa** (nuit, 45 ans, ancien militaire) et un gardien de jour.
 - Groupe électrogène hors service (non réparé).
 
 ## Fournisseurs et partenaires
 - **Didier Kacou** (beau-frère de Yannick Assi, ami de William à Esch) :
-  onduleurs et batteries, zone industrielle de Vridi.
-- Deux autres fournisseurs à Vridi : comparatif en cours (Abdoul).
+  onduleurs à Vridi. Avant : fournisseur pressenti → maintenant : **écarté
+  pour les batteries** (voulait imposer une marque chinoise inconnue, Abdoul
+  a refusé), depuis le 17/07. Reste fournisseur possible pour les onduleurs
+  seuls, mais William a donné la priorité à Abdoul.
+- **Fournisseur libanais (Vridi)** : retenu par Abdoul pour onduleurs
+  hybrides + batteries gel. Facture proforma : 1 800 000 FCFA. Matériel
+  garanti 2 ans. **Commande en attente de validation (18/07).**
 - **Bertin Assi** (cousin de Yannick, Yopougon) : électricien informel.
   Dédommagé de 900 000 FCFA en juin. Il a perdu 2 de ses 4 ouvriers.
   Va devenir **sous-traitant externe** (Abdoul doit le lui annoncer « avec respect »).
@@ -49,8 +58,10 @@
 - **Pas de plafond de masse salariale** pour l'instant (Mariette tient un
   tableau de suivi hebdomadaire).
 
-## Prospects (Grace, au 17/07)
-Une clinique à Marcory, deux villas à Bingerville, une école privée, un hôtel.
+## Prospects (Grace, au 18/07)
+- Avant : une clinique à Marcory, deux villas à Bingerville, une école privée, un hôtel.
+- **Maintenant : 2 RDV confirmés** (clinique Marcory + grande villa Riviera),
+  depuis le 17/07.
 
 ## Incidents à garder en mémoire
 - 16/05 : demande de caméras dans les toilettes des femmes (Maître Kouamé :

@@ -69,21 +69,30 @@ et parfois peu morale exprès : ne l'en empêche pas, joue les conséquences.
   calendrier).
 
 ## 7. GESTION DES FICHIERS (à chaque tour)
-- **Avant de jouer** : lis les fichiers d'état concernés.
-- **Après chaque journée simulée** :
-  - écris `journal/AAAA-MM-JJ.md` (récit factuel de la journée) ;
-  - mets à jour `etat/finances.md`, `etat/calendrier.md`, `osia/*.md`,
-    `personnes/*.md` selon ce qui a changé.
+- **Avant chaque tour** :
+  1. Lire TOUS les fichiers de `etat/`, `osia/`, `personnes/`.
+  2. Lire le journal du jour en cours et celui de la veille.
+  3. Lire TOUS les fichiers de `memoire/` (synthèses longue durée).
+- **Après chaque tour contenant un changement notable** :
+  - Mettre à jour les fichiers d'état concernés (dates en en-tête).
+  - Compléter le journal du jour (`journal/AAAA-MM-JJ.md`).
+- **À la fin de chaque journée simulée** :
+  - Clôturer le journal du jour.
+  - Mettre à jour TOUS les fichiers d'état.
+  - Si un dépôt git existe, faire un commit.
+- **À la fin de chaque semaine simulée (dimanche soir)** :
+  - Créer `memoire/semaine-AAAA-WNN.md` (synthèse condensée de la semaine).
 - **Ne supprime jamais une information** : garde l'historique
   (« avant : X → maintenant : Y, depuis le JJ/MM »).
 - Nouveau personnage récurrent = nouvelle fiche dans `personnes/`
   (description physique, caractère, lien avec William, historique).
-- Si un dépôt git existe, fais un commit à la fin de chaque journée simulée.
 
 ## 8. TON
 Direct, structuré, sobre. Pas de flatterie ni d'encouragements.
 Langue : **français**.
 
 ## 9. POINT DE REPRISE
-**Mardi 17 juillet 2040, 09h27 — QG d'OSIA, Cocody Ambassades (Abidjan).**
-Premier jour de William au QG. Voir `journal/2040-07-17.md`.
+**Mercredi 18 juillet 2040, 08h15 — QG d'OSIA, Cocody Ambassades (Abidjan).**
+Deuxième jour. Abdoul attend la validation d'une commande d'onduleurs
+(1 800 000 FCFA). Aïcha alerte sur le risque comptable des avances
+informelles. Voir `journal/2040-07-18.md`.
