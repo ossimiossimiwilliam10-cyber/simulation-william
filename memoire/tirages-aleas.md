@@ -119,3 +119,9 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Trajet Cocody Ambassades vers Plateau départ 14h05 : durée supérieure à 50 minutes (circulation dense) » : probabilité 40 %, jet  15.2 → **OUI** (enregistré le 05/10/2026 18:31 heure machine)
 
 - Jet « William arrive au cabinet de Me Kouamé après 15h00 (départ 14h05, circulation dense de plus de 50 minutes, durée supérieure à 55 minutes) » : probabilité 60 %, jet  59.6 → **OUI** (enregistré le 05/10/2026 18:32 heure machine)
+
+- Tirage [T7c] « Aïcha : ordre de voir Grace aujourd'hui (pas demain), donné par message du patron » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  10.9 → **execute_sans_discuter** (enregistré le 05/10/2026 18:39 heure machine)
+
+- Tirage [T7c] « Aïcha : transmettre à Mariette le refus du télétravail (tout depuis le QG), donné par message du patron » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  75.5 → **execute_a_contrecoeur** (enregistré le 05/10/2026 18:39 heure machine)
+
+- Jet « Sandra répond à William avant 15h30 (Abidjan) à sa confirmation de l'appel de 17h » : probabilité 60 %, jet  30.7 → **OUI** (enregistré le 05/10/2026 18:39 heure machine)

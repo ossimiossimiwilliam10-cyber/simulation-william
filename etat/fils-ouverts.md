@@ -1,4 +1,4 @@
-# Fils ouverts et décisions en attente (au 25/07/2040, 14h52)
+# Fils ouverts et décisions en attente (au 25/07/2040, 15h08)
 
 > **Fichier de relais.** Tout ce qui est « en suspens » dans le monde doit être ici, pour qu'aucun moteur
 > (Claude ou Gemini) ne l'oublie. Mettre à jour à chaque tour : ajouter, avancer, clore (garder la ligne
@@ -30,10 +30,11 @@
 | 20 | **Règle du serveur vs dossier RH confidentiel** : Mariette consignera l'affaire **hors du serveur partagé** (exception à « tout sur le serveur ») ; elle assume la perte de points à la ligne « usage du serveur » de la matrice | William n'a pas réagi ; un fichier gardé en local vaut 0 pt dans la matrice (critère 3 du tronc commun) | à trancher |
 | 21 | ~~Mesures à donner à Aïcha (« comment on fait pour que ça n'arrive plus »)~~ **FAIT 25/07 10h10-10h13** : William répond « C'est bon », très en colère ; **tout le personnel féminin passe par Aïcha, rapport à William** ; plus d'échange direct avec Mariette ni Grace ; Aïcha : « Oui, patron. » | **Non précisés par William** : fréquence et contenu du rapport ; comment Mariette et Grace l'apprennent ; sort des échanges prévus avec elles | à trancher |
 | 22 | ~~SIMULATION EN PAUSE~~ **REPRISE le 25/07/2040, vers 10h10**, à la demande de l'utilisateur, sans ajustement des tables ; fait caché hérité repassé par T1b (capture : aucune, jet 8.8 ; note de l'incident : aucune, jet 14.8) | Tirer les réactions avec `outils/jet.py --table Tn` (règle 17) | en continu |
-| 23 | **Demande de Mariette (via Aïcha, rapport de 13h48)** : reprendre le télétravail le mardi et le jeudi dès la semaine prochaine *(T1 : négociation tacite, sans nommer la cause)* | Réponse de William à Aïcha ; Mariette a été en télétravail jusqu'en juillet ; **ven. 27/07, 16h : contrôle du serveur par Mariette** | à trancher |
-| 24 | **Sandra (14h32 Abidjan = 16h32 Esch)** : demande confirmation de l'appel de ce soir, 17h Abidjan = 19h Esch (jusqu'à 20h30 Esch, avant sa garde) ; « Dis-moi oui ou non » | Réponse de William (engagement : prévenir AVANT en cas d'empêchement) | maintenant |
-| 25 | **Retard probable au rendez-vous de 15h** (circulation, arrivée estimée 15h06) | Prévenir ou non Me Kouamé (cabinet, Plateau) | maintenant |
-| 26 | **Aïcha propose de voir Grace demain plutôt qu'aujourd'hui** (rapport de 13h48, « si tu es d'accord ») | Réponse de William à Aïcha (facultative) | avant demain |
+| 23 | ~~Demande de télétravail de Mariette~~ **REFUSÉE 25/07 14h53** (« tout se fait depuis le QG ») | **Aïcha doit le dire à Mariette** : T7c « à contrecœur » (jet 75.5) → **en retard, ce soir** ; réaction de Mariette à tirer (T1) quand elle l'apprend | ce soir |
+| 24 | ~~Sandra : confirmation de l'appel de 17h~~ **FAIT 25/07 14h54** (« Oui, pas de problème. On s'appelle. ») ; Sandra : « Parfait. À tout à l'heure. » | **Appel à Sandra à 17h Abidjan = 19h Esch** ; prévenir AVANT en cas d'empêchement | 17h |
+| 25 | ~~Retard probable au rendez-vous de 15h~~ **FAIT** : William a appelé le cabinet à 14h55 ; arrivé à 15h06 | Me Kouamé a noté les 6 minutes | clos |
+| 26 | ~~Entretien Aïcha-Grace reporté à demain~~ **RAMENÉ à aujourd'hui sur ordre de William (14h53)** ; Aïcha : « Bien, patron. Je vois Grace cet après-midi. » (T7c : exécute, jet 10.9) | **Teneur de l'entretien tirée au moment du rapport** ; Grace est déjà au courant de la consigne (11h05) et s'est confiée à un proche hors du travail | cet après-midi |
+| 27 | **Pièces demandées par Me Kouamé (15h07)** : copie du passeport et justificatif de l'origine des fonds (demandés le 24/07 par Aïcha) | À remettre ou non, et lesquelles : William a transmis à la Spuerkeess le 23/07 statuts, 12 mois de relevés et bulletins de salaire | maintenant |
 
 **Clos :** réponse à Kevin (21/07) ; réponse à Aïcha sur SécuTech (21/07) ; consigne à Grace (21/07) ; appel à Sandra du 21/07 ; message à Aïcha « fâchée ? » (21/07) ; week-end avec Aïcha (n'a pas eu lieu) ; décision de remboursement (21/07) ; statut de fonctionnaire : décision de se déclarer **au plus tard le 30/12/2040** (22/07) ; **validation des cinq idées de la revue du lundi (23/07)** ; **récap de Grace validé (23/07, planchers 25 % / 20 %)**.
 

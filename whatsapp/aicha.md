@@ -85,3 +85,10 @@ Patron, premier point.
 Mariette demande à reprendre le télétravail le mardi et le jeudi, à partir de la semaine prochaine. Je te transmets, c'est à toi de dire.
 Je verrai Grace demain plutôt qu'aujourd'hui, si tu es d'accord.
 Je reste disponible.
+
+**[25/07/2040 - 14:53] William :**
+Pour Mariette : non au télétravail le mardi et le jeudi. Tout se fait depuis le QG. Je ne la paye pas pour qu'elle bosse chez elle dans son lit. Tu vois Grace aujourd'hui. Pas demain, aujourd'hui.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[25/07/2040 - 14:57] Aïcha :**
+Bien, patron. Je vois Grace cet après-midi.

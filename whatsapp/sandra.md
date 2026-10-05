@@ -46,3 +46,10 @@ Je suis prête. Les petits dînent chez ma mère, j'ai mis mon téléphone sur l
 
 **[25/07/2040 - 14:32 (Abidjan) / 16:32 (Esch)] Sandra :**
 Pour ce soir : ok pour 19h-20h30 chez moi (17h-18h30 chez toi), avant ma garde ? Dis-moi oui ou non, s'il te plaît, pour que je m'organise.
+
+**[25/07/2040 - 14:54 (Abidjan) / 16:54 (Esch)] William :**
+Oui, pas de problème. On s'appelle.
+*(Texte reconstitué : « Sangra » lu Sandra ; « Avant, Sangra, on s'appelle » lu « On s'appelle ».)*
+
+**[25/07/2040 - 14:59 (Abidjan) / 16:59 (Esch)] Sandra :**
+Parfait. À tout à l'heure.

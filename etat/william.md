@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 25/07/2040, 14h52)
+# William Ossimi — profil (état au 25/07/2040, 15h08)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -128,3 +128,4 @@
 - **Aïcha** est désignée comme gérante par procuration ; elle ne sait pas que William compte s'en servir comme ligne de défense.
 - **25/07, 10h10-10h13** : répond à Aïcha « C'est bon » et donne, très en colère (inédit pour elle), la consigne : personnel féminin via Aïcha avec rapport ; plus d'échange direct avec Mariette ni Grace. Voix perceptible dans la villa (mots non distincts).
 - **25/07, 10h13-14h52** : retourne à son bureau ; pause déjeuner ; **13h48** premier rapport d'Aïcha ; **14h05** part en taxi pour le Plateau (circulation dense, arrivée estimée 15h06) ; **14h32** message de Sandra (confirmation de l'appel de 17h).
+- **25/07, 14h53-15h08** : répond à Aïcha (refus du télétravail de Mariette avec la formule « bosse chez elle dans son lit » ; Grace à voir aujourd'hui) ; répond à Sandra (« On s'appelle ») ; prévient Me Kouamé par appel ; arrive au cabinet à 15h06 (6 minutes de retard).
