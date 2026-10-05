@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 25/07/2040, 15h52)
+# William Ossimi — profil (état au 25/07/2040, 16h10)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -131,3 +131,4 @@
 - **25/07, 14h53-15h08** : répond à Aïcha (refus du télétravail de Mariette avec la formule « bosse chez elle dans son lit » ; Grace à voir aujourd'hui) ; répond à Sandra (« On s'appelle ») ; prévient Me Kouamé par appel ; arrive au cabinet à 15h06 (6 minutes de retard).
 - **25/07, 15h08-15h14** : remet à Me Kouamé son passeport et 12 mois de relevés du compte projet ; Me Kouamé lui demande sa profession (vigilance anti-blanchiment) ; **William n'a pas encore répondu**.
 - **25/07, 15h14-15h52** : explique **tout** à Me Kouamé (profession de fonctionnaire luxembourgeois, absence d'autorisation, direction de fait d'OSIA, contrats « Gérant ») ; valide honoraires (1 200 000 FCFA) et frais ; **s'engage à ne plus signer « Gérant »** (demande de Me Kouamé) ; **n'a pas encore choisi** le montant de l'augmentation ni signé ; ne dit pas qui règle les honoraires.
+- **25/07, 15h53-16h10** : demande à Me Kouamé si la ratification empêchera de dire qu'il gère directement (réponse : non) et comment se protéger d'une éventuelle « prise de pouvoir » d'Aïcha ; **décide : signer aujourd'hui, 115 000 000 FCFA, honoraires payés par la société** ; signature retardée à 17h (friction) ; **n'a pas encore choisi** entre attendre et revenir demain 9h ; appel à Sandra à 17h (Abidjan) à organiser.

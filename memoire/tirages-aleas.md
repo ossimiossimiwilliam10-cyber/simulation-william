@@ -127,3 +127,5 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Sandra répond à William avant 15h30 (Abidjan) à sa confirmation de l'appel de 17h » : probabilité 60 %, jet  30.7 → **OUI** (enregistré le 05/10/2026 18:39 heure machine)
 
 - Jet « Me Kouamé : pièces complémentaires exigées sur l'origine des fonds après lecture des relevés (deuxième passage, friction administrative à enjeu) » : probabilité 30 %, jet  97.4 → **NON** (enregistré le 05/10/2026 18:47 heure machine)
+
+- Jet « Me Kouamé : décision à retaper et faire relire avant signature, signature impossible avant 17h (deuxième passage, friction administrative à enjeu) » : probabilité 30 %, jet  19.4 → **OUI** (enregistré le 05/10/2026 23:18 heure machine)
