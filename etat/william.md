@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 22/07/2040, 23h50)
+# William Ossimi — profil (état au 22/07/2040, 23h58)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -58,6 +58,7 @@
 - 22/07 soir : dit « je t'aime » à Sandra ; décide de virer la moitié du compte projet (176 725 €) à OSIA, annoncé à la direction ; décide de s'ouvrir un compte ivoirien pour le remboursement ; écrit « Laisse tomber. » à Aïcha après 30 h de silence.
 - 22/07 21h50-23h : se note l'appel à Sandra comme priorité absolue puis lui demande de le déplacer (visite) ; choisit l'**augmentation de capital** pour la dotation ; prévient Aïcha et Mariette que le remboursement attend son compte ivoirien ; se renseigne sur son statut de fonctionnaire.
 - 22/07 23h20-23h50 : lance le virement de la dotation (en attente de validation bancaire) ; ouvre son compte ivoirien (niveau 1) ; envoie la confirmation d'ordre à Aïcha ; revient sur sa décision de ne « rien déclarer » : il se déclarera à l'administration luxembourgeoise **d'ici décembre**.
+- 22/07 23h52-23h58 : indique que sa banque est la **Spuerkeess** ; choisit de monter son compte ivoirien au **niveau 3** et de communiquer ensuite son RIB à Aïcha et Mariette ; fixe sa déclaration au Luxembourg **au plus tard le 30/12/2040** ; confirme (pour lui) l'appel à Sandra lundi 17h-18h.
 - Contacts avec Sandra : appel le 17/07 au soir ; silence de quatre jours ; elle écrit la première le 21/07 ; appel de William le 21/07 à 14h26.
 
 ## Personnalité (analyse de départ)
@@ -108,4 +109,5 @@
   temps plein : la compatibilité avec « l'exercice complet et consciencieux de la fonction » sera examinée. Le registre du commerce
   ivoirien et la page Facebook publique d'OSIA rendent l'activité découvrable. Une déclaration inexacte (« pas au courant ») peut
   constituer un manquement distinct si elle est contredite : traces de sa recherche du 22/07 ; ses messages et signatures « Gérant ».
+- **Échéance fixée par William : le 30/12/2040** (un dimanche ; dernier jour ouvré vendredi 28/12).
 - **Aïcha** est désignée comme gérante par procuration ; elle ne sait pas que William compte s'en servir comme ligne de défense.

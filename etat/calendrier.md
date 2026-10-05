@@ -1,4 +1,4 @@
-# Calendrier (au 22/07/2040, 23h50)
+# Calendrier (au 22/07/2040, 23h58)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -35,8 +35,9 @@
 | **Chaque lundi** | **Revue du lundi** : analyse de la semaine écoulée et nouvelles idées de réalisme (règle du 22/07, `CLAUDE.md` §12). **Première : lun. 23/07.** |
 | Lun. 23/07 | Validation par la banque européenne de William de l'ordre de 176 725 € (dotation) ; justificatifs possibles. |
 | Mer. 25 – Ven. 27/07 | Arrivée attendue des fonds de la dotation sur le compte d'OSIA à la SGBCI (SWIFT, 2 à 4 jours ouvrés). Déclaration de l'investissement étranger sous un mois après réception. |
-| Décembre 2040 | **Échéance que William s'est fixée** pour déclarer son activité à l'administration luxembourgeoise. |
-| Lun. 23/07, 17h-18h30 (Abidjan) | **Appel à Sandra CONFIRMÉ par William** — créneau proposé par Sandra (19h-20h30 à Esch, avant sa garde) ; elle attend oui ou non. *(Avant : « après 16h à Esch / 14h à Abidjan », qui chevauchait la clinique ; William a demandé de le déplacer.)* |
+| **Dimanche 30/12/2040** | **Échéance que William s'est fixée** pour déclarer son activité à l'administration luxembourgeoise (dimanche : dernier jour ouvré ven. 28/12 ; vacances scolaires). |
+| Lun. 23/07, matin | William demande une attestation d'hébergement au Capitol pour monter son compte ivoirien au niveau 3. |
+| Lun. 23/07, 17h-18h (Abidjan) | **Appel à Sandra : William appellera dans cette fenêtre** (= 19h-20h à Esch) ; **appel à Sandra CONFIRMÉ par William** — créneau proposé par Sandra (19h-20h30 à Esch, avant sa garde) ; elle attend oui ou non. *(Avant : « après 16h à Esch / 14h à Abidjan », qui chevauchait la clinique ; William a demandé de le déplacer.)* |
 | Lun. 23/07, 14h | Clinique de Marcory (Dr Yapi) : visite technique avec Abdoul (confirmée par Grace le 21/07). |
 | Mar. 24/07, 17h | Kevin : signature du contrat d'apprentissage chez M. Da Silva (Chambre des métiers) — annoncé par Sandra le 22/07 (avant : « semaine du 23/07 »). |
 | Non daté | Abdoul : présentation de l'équipe technique et du devis (reportée). |

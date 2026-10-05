@@ -28,3 +28,8 @@
 - ~~Naturalisation luxembourgeoise de William en 2022~~ : **RÉSOLU le 21/07** par William (naturalisation via son père, effet collectif sur mineur) ; voir `etat/william.md`.
 - **Gérance** : William signe les contrats « Gérant » alors que la fiche d'entreprise dit « gérante : Aïcha (par procuration) ».
 - **Contrats d'Aïcha (22/05) et de Mariette (01/06)** antérieurs au RCCM du 11/07 : à régulariser (consigné comme risque).
+
+## Précisions du moteur en cours de jeu (22/07/2040)
+| # | Sujet | Avant | Maintenant | Raison |
+|---|---|---|---|---|
+| 16 | Plafond de virement de William | « plafond de virement en ligne dépassé, ordre en attente » (banque non précisée) | Banque = **Spuerkeess** : limite S-Net standard 15 000 €, modifiable par le client ; au-delà, relèvement puis contrôle de conformité ; commission hors SEPA 0,175 % (max 100 €) ; option de frais SHA par défaut | William a précisé sa banque le 22/07 |

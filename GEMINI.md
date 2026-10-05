@@ -131,19 +131,21 @@ Direct, structuré, sobre. Pas de flatterie ni d'encouragements.
 Langue : **français**.
 
 ## 9. POINT DE REPRISE
-**Dimanche 22 juillet 2040, 23h50 — fin de journée ; William a lancé la dotation, ouvert son compte ivoirien et changé de stratégie.**
-(1) **Dotation d'OSIA** : ordre de virement de 176 725 € (augmentation de capital) passé vers 23h20, **en attente de validation
-bancaire** (plafond dépassé), exécution lundi au plus tôt, fonds attendus à la SGBCI entre mer. 25 et ven. 27/07 ; confirmation
-d'ordre envoyée à **Aïcha** à 23h42 (elle apprend ainsi forme et montant ; pas de réponse à 23h50). (2) **Compte ivoirien**
-ouvert (néobanque, niveau 1 : solde max 200 000 FCFA) ; le remboursement des avances (~3,54 M FCFA) reste suspendu (niveau 3
-requis, RIB à communiquer). (3) **Administration luxembourgeoise** : William décide de **se déclarer d'ici décembre**, en
-minimisant, en disant qu'il n'était pas au courant ou n'avait pas anticipé les délais ; jusque-là il ne déclare rien. (4) **Sandra** :
-appel confirmé lundi 19h-20h30 à Esch = 17h-18h30 à Abidjan ; pas de réponse (de garde jusqu'à 7h). (5) **Aïcha** : période froide
-(« Laisse tomber. » / « D'accord. »). (6) Règles §11 (limites du moteur) et §12 (revue du lundi, première lundi 23/07 ;
-`etat/aleas.md`, `outils/tirage_aleas.py`). Kevin signe mardi 24/07 17h. **Lundi 23/07 (très chargé)** : revue du lundi ; 8h
-matrice à « légaliser » ; SGBCI à l'ouverture (spécimen d'Aïcha) ; SécuTech 9h ; note juridique PDF de Mariette avant midi ;
-récap de Grace ; clinique 14h ; validation bancaire de la dotation ; **appel à Sandra 17h-18h30 (Abidjan)** ; point écrit de
-Mariette. Voir `journal/2040-07-22.md`, `etat/fils-ouverts.md`, `etat/finances.md`, `etat/william.md`.
+**Dimanche 22 juillet 2040, 23h58 — fin de journée ; William a précisé plusieurs choix.**
+(1) **Dotation d'OSIA** : ordre de 176 725 € (augmentation de capital) depuis la **Spuerkeess**, en attente de validation
+(limite S-Net 15 000 € relevée, contrôle de conformité), commission 100 €, frais SHA par défaut ; fonds attendus à la SGBCI
+entre mer. 25 et ven. 27/07 (un peu moins de 176 725 €) ; confirmation d'ordre envoyée à **Aïcha** à 23h42 (pas de réponse).
+(2) **Compte ivoirien** (néobanque, niveau 1 : solde max 200 000 FCFA) : William **veut le niveau 3** (attestation
+d'hébergement du Capitol à demander lundi) puis communiquera **ensuite** son RIB à Aïcha et Mariette ; le remboursement des
+avances (~3,54 M FCFA) reste suspendu. (3) **Administration luxembourgeoise** : déclaration **au plus tard le 30/12/2040**
+(dimanche ; dernier jour ouvré ven. 28/12), en minimisant et en prétendant ne pas avoir été au courant ; rien n'est déclaré
+d'ici là. (4) **Sandra** : William appellera **lundi entre 17h et 18h (Abidjan) = 19h-20h à Esch** (confirmation faite pour
+lui, aucun message envoyé) ; Sandra n'a pas répondu (de garde jusqu'à 7h). (5) **Aïcha** : période froide. (6) Règles :
+§11 limites du moteur + **curseur de dureté relevé à la demande de l'utilisateur** ; §12 revue du lundi (première lundi
+23/07). Kevin signe mardi 24/07 17h. **Lundi 23/07 (très chargé)** : revue du lundi ; 8h matrice à « légaliser » ; SGBCI à
+l'ouverture (spécimen d'Aïcha) ; SécuTech 9h ; note juridique PDF de Mariette avant midi ; récap de Grace ; clinique 14h ;
+validation bancaire de la dotation ; attestation du Capitol ; **appel à Sandra 17h-18h** ; point écrit de Mariette. Voir
+`journal/2040-07-22.md`, `etat/fils-ouverts.md`, `etat/finances.md`, `etat/william.md`.
 
 ## 10. PROTOCOLE DE RELAIS (Claude ⇄ Gemini)
 L'utilisateur alterne entre Claude et Gemini (Antigravity) selon ses crédits. Le moteur le plus puissant
@@ -184,6 +186,9 @@ conséquences réalistes**, sans sermon et sans complaisance :
   ses suites, pas le contenu) ; (d) pas de mode d'emploi opérationnel utilisable dans la vraie vie (dissimulation,
   contournement de la police, armes, etc.) : le moteur raconte « Abdoul refuse » ou « le technicien installe » sans tutoriel ;
   (e) pas de violence sexuelle détaillée ; (f) pas de contenu réel diffamatoire visant une vraie personne.
+- **Curseur de dureté (demande de l'utilisateur, 22/07/2040)** : l'utilisateur est « totalement partant » pour que le moteur
+  appuie davantage sur la dureté **dans les limites ci-dessus** : conflits plus rudes, personnages plus cyniques, rancunes
+  et mauvaise foi, conséquences plus amères, humour noir, pertes réelles (argent, personnes, réputation). Toujours sans sermon.
 - Si une demande franchit une limite : sortir de la fiction en une phrase (« 📌 Vraie vie »), dire ce qui est refusé et
   proposer la version jouable (conséquences, réactions). Ne pas moraliser le reste du tour.
 
