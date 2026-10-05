@@ -88,11 +88,13 @@ et parfois peu morale exprès : ne l'en empêche pas, joue les conséquences.
    vérifié, ce qui a été corrigé, les risques en cours.
 6. Proposer une **avance rapide** au bon moment (et s'arrêter si un message
    important arrive).
-7. **Dernière ligne de chaque tour : « 🎚️ Effort conseillé pour le prochain tour : Élevé
-   ou Extra »** + une raison en une phrase. *Extra* si le prochain tour est probablement
+7. **Dernière ligne de chaque tour : « 🎚️ Effort conseillé pour le prochain tour : Élevé,
+   Extra ou Max »** + une raison en une phrase. *Extra* si le prochain tour est probablement
    juridique/comptable/financier, un gros livrable PDF, une fiche complète ou une synthèse de semaine, une
    avance rapide de plusieurs jours, une scène relationnelle charnière, ou « Attention au réalisme » ;
-   *Élevé* pour le reste. Le moteur ne peut pas changer le réglage lui-même : il le dit à l'utilisateur.
+   *Élevé* pour le reste. *Max* seulement pour un audit complet (Scan 5x), un tour très dense mêlant droit, finances et
+   relations, ou un long livrable juridique. Si l'utilisateur a choisi de garder Max par défaut (24/07/2040), indiquer
+   seulement si Extra suffirait. Le moteur ne peut pas changer le réglage lui-même : il le dit à l'utilisateur.
 
 ## 6. FICHES
 - **Fiche courte** à la fin de chaque journée simulée (en fin de journal du jour).
@@ -132,19 +134,22 @@ Direct, structuré, sobre. Pas de flatterie ni d'encouragements.
 Langue : **français**.
 
 ## 9. POINT DE REPRISE
-**Lundi 23 juillet 2040, 18h10 — William a écrit à Grace ; elle a lu sans répondre.**
-À 17h41, William a envoyé à Grace un **message d'excuses** : il est « sincèrement désolé », ce qu'il a fait est « grave », il a
-« **toujours** eu un problème avec [ses] pulsions sexuelles », il la regardera désormais « uniquement comme une femme compétente… pas
-comme un objet sexuel », **si elle se sent vraiment mal elle peut partir et il ne la retiendra pas**, il voudrait qu'« on redevienne
-comme avant » et demande **comment se racheter**. **Lu par Grace à 18h07, pas de réponse ce soir.** **Non connu de William (jets du
-23/07)** : Grace garde une capture du message hors de son téléphone de travail ; elle le **montrera à Mariette dès mardi 24/07** ;
-aucune condition écrite à William dans les 48 h ; aucune démarche externe ni démission cette semaine ; Aïcha n'interroge pas Grace
-d'ici le 24/07. **Reste à faire par William** : **valider le devis de la clinique** (détaillé dû vendredi 27/07 ; conseil
-d'administration du Dr Yapi mardi 31/07) et **répondre au déjeuner d'équipe de vendredi 27/07**. **Sandra** : engagement d'un appel
-tous les deux jours au minimum ; **prochain appel mercredi 25/07 à 17h Abidjan = 19h Esch** (prévenir avant en cas d'empêchement) ;
-mercredi : **Me Kouamé à 15h** (Plateau) juste avant. Mardi 9h : attestation du Capitol ; jeudi matin : aléa de la semaine (non révélé) ;
-jeudi soir : note de Mariette. L'utilisateur teste l'**effort Max** sur ce tour. Voir `journal/2040-07-23.md`, `etat/fils-ouverts.md`,
-`etat/traces.md`, `etat/vies-privees.md`.
+**Mardi 24 juillet 2040, 15h00 — William est au QG ; « Go » joué depuis lundi 18h10.**
+Lundi soir : Mariette a déposé à **23h52** les **règles de classement** (`serveur/direction/regles_classement_2307.pdf` : un dossier par
+pôle, nouveau dossier `juridique/`, noms `sujet_JJMM.pdf`, contrôle chaque vendredi 16h) ; William n'a pas encore réagi. Mardi : **Capitol
+09h00 : attestation retirée** (jet friction : non) ; **09h52 : l'application bancaire ivoirienne REFUSE l'attestation** (jet : non) —
+elle n'accepte que facture CIE/SODECI à son nom ou certificat de résidence du commissariat/ONECI : **compte toujours au niveau 1**,
+remboursement des avances (~3,54 M FCFA) suspendu ; William doit choisir une autre voie. **11h10-11h52 : Grace et Mariette se sont
+enfermées** ; Mariette en est ressortie les **yeux rouges**, ne croise plus le regard de William ; Grace vouvoie William.
+**Non connu de William** : Grace a montré le message d'excuses à Mariette ; elle en garde une capture hors de son téléphone de travail ;
+Mariette n'en parle pas à Aïcha ce mardi (jet) mais hésite ; aucune condition écrite de Grace dans les 48 h ; pas de démarche externe ni
+de démission cette semaine. **11h40 : chiffrage de Me Kouamé** (honoraires 1 200 000 FCFA ; frais 300 000-500 000 FCFA ; droits
+d'enregistrement à calculer ; copie du passeport et justificatif d'origine des fonds demandés) ; **rendez-vous mercredi 25/07 à 15h**
+maintenu. **12h30** : Aïcha demande à Mariette si ça va (« Fatiguée. »), ne sait rien. **À décider par William** : valider les honoraires ;
+voie alternative pour le niveau 3 ; réponse au déjeuner d'équipe de vendredi 27/07 ; **devis de la clinique** (dû vendredi 27/07) ; réaction
+aux règles de Mariette ; **mercredi 25/07 : Me Kouamé 15h puis appel à Sandra 17h (prévenir AVANT en cas d'empêchement)**. Kevin signe à
+17h aujourd'hui chez M. Da Silva. Jeudi matin : aléa de la semaine (non révélé) ; jeudi soir : note de Mariette. **Effort** : l'utilisateur garde
+**Max** par défaut. Voir `journal/2040-07-24.md`, `etat/fils-ouverts.md`, `etat/vies-privees.md`, `etat/traces.md`.
 
 ## 10. PROTOCOLE DE RELAIS (Claude ⇄ Gemini)
 L'utilisateur alterne entre Claude et Gemini (Antigravity) selon ses crédits. Le moteur le plus puissant

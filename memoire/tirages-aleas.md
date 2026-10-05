@@ -40,3 +40,11 @@ Effets à jouer : A06 (jeudi 26/07 (matin)) : Délai supplémentaire ; l'excuse 
 - Jet « Grace sauvegarde une capture du message hors de son téléphone » : probabilité 85 %, jet   5.1 → **OUI** (enregistré le 05/10/2026 15:34 heure machine)
 
 - Jet « Grace formule des conditions écrites à William dans les 48 h » : probabilité 55 %, jet  83.2 → **NON** (enregistré le 05/10/2026 15:34 heure machine)
+
+- Jet « Capitol : deuxième passage pour l'attestation d'hébergement (cachet, signature ou nom incorrect) » : probabilité 30 %, jet  99.5 → **NON** (enregistré le 05/10/2026 15:40 heure machine)
+
+- Jet « Application ivoirienne : l'attestation d'hébergement du Capitol est acceptée comme justificatif de domicile (niveau 3) » : probabilité 25 %, jet  80.1 → **NON** (enregistré le 05/10/2026 15:40 heure machine)
+
+- Jet « Mariette en parle à Aïcha dans la journée de mardi 24/07 » : probabilité 60 %, jet  76.1 → **NON** (enregistré le 05/10/2026 15:40 heure machine)
+
+- Jet « Me Kouamé : chiffrage remis mardi comme promis (sinon mercredi, deuxième passage) » : probabilité 70 %, jet  33.3 → **OUI** (enregistré le 05/10/2026 15:40 heure machine)

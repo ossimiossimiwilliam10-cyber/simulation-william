@@ -31,3 +31,6 @@ réalisme l'exige (ex. dossier incomplet connu d'avance : 100 %).
 
 ## Clinique de Marcory — état au 23/07 17h
 - Relevé de puissance fait le 23/07 (Abdoul) : charge dans les estimations ; devis attendu **vendredi 27/07** (trois lignes : matériel, pose, garantie ; plan de maintenance) ; conseil d'administration du client mardi 31/07 ; **négociation à prévoir** au devis (remise, délai de paiement 60 jours ou plus) ; plancher de marge 25 %, remise maximale 5 % sans William.
+
+## Coût de l'augmentation de capital (chiffrage Me Kouamé, 24/07)
+Honoraires 1 200 000 FCFA ; frais de formalités 300 000 à 500 000 FCFA ; droits d'enregistrement à calculer (barème de la création). Source de comparaison : formalités simples de modification entre 100 000 et 500 000 FCFA selon les guides consultés ; honoraires du juriste en sus.

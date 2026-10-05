@@ -104,3 +104,6 @@ Compris.
 Compris 🫡
 
 *(Grace : message lu à 13h26, aucune réaction.)*
+
+**[23/07/2040 - 23:52] Mariette :**
+Règles de classement déposées dans direction/ (regles_classement_2307.pdf). À appliquer dès demain. Merci.

@@ -36,3 +36,8 @@
 - **Sandra (23/07 17h35)** : accepte « un appel tous les deux jours au minimum », l'écrit dans son téléphone « pour ne pas m'inventer des silences », fixe mercredi 17h Abidjan (19h Esch), pose une seule condition (prévenir avant), dit « Je te crois » et « Bisous, patron ». Elle part ensuite vers sa garde de nuit.
 - **Grace (23/07 18h07)** : a lu le message d'excuses, **ne répond pas** ; en garde une capture hors de son téléphone de travail ; la montrera à Mariette dès mardi ; ne formule pas de conditions écrites dans les 48 h ; reste en poste, vouvoie William, note tout.
 - **Mariette (à venir, mardi)** : recevra le message de Grace ; le mot « toujours » résonne avec ce que William lui a fait vivre le 16/05 ; elle est DRH, destinataire des signalements, mais fragile (contrat irrégulier, peur de William).
+
+## Avancées du 24/07
+- **Mariette (24/07)** : a reçu la confidence de Grace (11h10-11h52, petite salle de réunion) ; yeux rouges ; **ne croise plus le regard de William** ; **n'en parle pas à Aïcha ce mardi** (jet) ; hésite entre solidarité avec Grace, peur de William, son propre contrat irrégulier et le souvenir du 16/05 ; a déposé les règles de classement à 23h52 la veille (elle travaille jusqu'à minuit).
+- **Aïcha (24/07 12h30)** : demande à Mariette si ça va (« Fatiguée. ») ; regarde une seconde de plus ; ne sait rien.
+- **Grace (24/07)** : a montré le message d'excuses à Mariette ; salue tout le monde, vouvoie William ; reste en poste.

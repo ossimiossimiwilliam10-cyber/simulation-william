@@ -58,3 +58,4 @@ propose des alternatives légales. Elle négocie dur avec les artisans.
 - 23/07 : à 07h31 « Parfait. » (William signera comme associé unique) ; à 09h20 « Bonjour. » ; a vu William reprendre le chef d'équipe de SécuTech depuis le perron ; à 11h46 confirme le rendez-vous de mercredi 15h avec Me Kouamé.
 - 23/07, 12h17 : voit Grace sortir du bureau de William ; lève les yeux, les rebaisse, ne dit rien.
 - 23/07, 12h20 : voit Grace sortir du bureau le visage fermé ; garde les yeux dessus plus longtemps que d'habitude puis cherche William du regard.
+- 24/07, 11h40 : transmet le chiffrage de Me Kouamé (ton professionnel) ; à 12h30 demande à Mariette si ça va et la regarde une seconde de plus ; ne sait rien de Grace.

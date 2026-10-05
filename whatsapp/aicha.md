@@ -74,3 +74,6 @@ Parfait.
 
 **[23/07/2040 - 11:46] Aïcha :**
 Maître Kouamé confirme mercredi 25/07 à 15h à son cabinet, au Plateau. Il apporte le projet de décision et le chiffrage.
+
+**[24/07/2040 - 11:40] Aïcha :**
+Chiffrage de Maître Kouamé pour l'augmentation de capital : honoraires 1 200 000 FCFA ; frais de formalités (greffe, publication, guichet unique) entre 300 000 et 500 000 FCFA ; droits d'enregistrement à calculer sur le barème de la création, il nous donnera le montant exact avec le projet. Rendez-vous toujours demain mercredi à 15h. Il demande une copie de ton passeport et un justificatif de l'origine des fonds.

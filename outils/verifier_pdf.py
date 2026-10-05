@@ -5,12 +5,17 @@
 Vérifie pour chaque PDF : texte extractible (pas de PDF vide, cf. incident des contrats
 vierges du 20/07) et absence de mots français courants écrits SANS accent (William a recadré
 Mariette et Grace pour ça le 18/07). Code de sortie 1 s'il y a un avertissement.
+Les noms de dossiers cités avec une barre oblique (conformite/, rh/) ne sont pas contrôlés : les
+dossiers n'ont pas d'accent.
 """
 import re
 import sys
 from pathlib import Path
 
 from pypdf import PdfReader
+
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
 
 RACINE = Path(__file__).resolve().parent.parent
 
@@ -27,6 +32,10 @@ SANS_ACCENT = {
     "reference": "référence", "periode": "période", "modifie": "modifié", "verifie": "vérifié",
 }
 
+# un mot immédiatement suivi d'une barre oblique est un nom de dossier (pas de contrôle d'accent)
+MOTIF_DOSSIER = re.compile(r"[A-Za-z_]+" + "/")
+MOTIF_MOT = re.compile(r"[A-Za-zÀ-ÿ']+")
+
 
 def main():
     pdfs = sorted((RACINE / "serveur").rglob("*.pdf"))
@@ -41,7 +50,8 @@ def main():
             print(f"[VIDE ] {rel} : texte quasi absent ({len(texte.strip())} caractères)")
             erreurs += 1
             continue
-        mots = {m.lower() for m in re.findall(r"[A-Za-zÀ-ÿ']+", texte)}
+        sans_dossiers = MOTIF_DOSSIER.sub(" ", texte)
+        mots = {m.lower() for m in MOTIF_MOT.findall(sans_dossiers)}
         fautes = sorted(f"{k}->{v}" for k, v in SANS_ACCENT.items() if k in mots)
         if fautes:
             print(f"[ACCENT] {rel} : {', '.join(fautes)}")

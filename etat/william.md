@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 23/07/2040, 18h10)
+# William Ossimi — profil (état au 24/07/2040, 15h00)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -68,6 +68,7 @@
 - **23/07, 17h21** : répond à Sandra (elle a raison, appellera plus souvent, passion et pas argent, il pourrait arrêter l'entreprise si elle le lui demandait, « fortes chances ») ; **n'a rien dit de la photo d'OSIA ni de Kevin** ; Sandra lui demande un chiffre.
 - **23/07, 17h33** : s'engage auprès de Sandra à **un appel tous les deux jours au minimum** ; prochain appel mercredi 25/07 à 17h (Abidjan) ; condition de Sandra : prévenir avant en cas d'empêchement.
 - **23/07, 17h41** : écrit à Grace un message d'excuses (« ce que j'ai fait est grave », « j'ai toujours eu un problème avec mes pulsions sexuelles », « tu peux partir, je ne te retiendrai pas », « comment me racheter ? ») ; lu à 18h07, sans réponse.
+- **24/07 (« Go » jusqu'à 15h)** : retire l'attestation du Capitol (9h) ; **refus de l'application** (niveau 3 non obtenu) ; arrive au QG à 10h05 ; voit Grace et Mariette s'enfermer 11h10-11h52, Mariette en ressort les yeux rouges ; reçoit le chiffrage de Me Kouamé (11h40).
 - Contacts avec Sandra : appel le 17/07 au soir ; silence de quatre jours ; elle écrit la première le 21/07 ; appel de William le 21/07 à 14h26.
 
 ## Personnalité (analyse de départ)

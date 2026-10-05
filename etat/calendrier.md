@@ -1,4 +1,4 @@
-# Calendrier (au 23/07/2040, 17h38)
+# Calendrier (au 24/07/2040, 15h00)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -41,8 +41,10 @@
 | Lun. 23/07, matin | William demande une attestation d'hébergement au Capitol pour monter son compte ivoirien au niveau 3. |
 | Lun. 23/07, 17h-18h (Abidjan) | **Appel à Sandra : William appellera dans cette fenêtre** (= 19h-20h à Esch) ; **appel à Sandra CONFIRMÉ par William** — créneau proposé par Sandra (19h-20h30 à Esch, avant sa garde) ; elle attend oui ou non. *(Avant : « après 16h à Esch / 14h à Abidjan », qui chevauchait la clinique ; William a demandé de le déplacer.)* |
 | Lun. 23/07, 14h | Clinique de Marcory (Dr Yapi) : visite technique avec Abdoul (confirmée par Grace le 21/07). |
-| Mar. 24/07, 9h | Capitol : retrait de l'attestation d'hébergement (signature du directeur) ; téléversement dans l'application pour le niveau 3. |
-| Mar. 24/07 | Maître Kouamé chiffre honoraires et frais de l'augmentation de capital ; William doit le rencontrer cette semaine. |
+| Mar. 24/07, 9h | **FAIT** : attestation du Capitol retirée ; **refusée par l'application** (n'accepte que CIE/SODECI ou certificat de résidence du commissariat/ONECI). |
+| Mar. 24/07 | **FAIT** : chiffrage de Me Kouamé reçu (honoraires 1 200 000 FCFA ; frais 300 000-500 000 FCFA ; droits d'enregistrement à calculer). William doit le rencontrer mercredi. |
+| **Ven. 27/07, 16h** | **Premier contrôle du serveur par Mariette** (règles du 23/07) : liste des écarts remise à William. |
+| Mer. 25/07, soir | **Fiche complète** (3 jours simulés depuis le 22/07). |
 | **Ven. 27/07 (au plus tard)** | **Devis de la clinique de Marcory** (trois lignes : matériel, pose, garantie) + plan de maintenance, à remettre au Dr Yapi. |
 | **Mar. 31/07** | Conseil d'administration de la clinique (décision possible). |
 | **Mer. 25/07, 17h (Abidjan) = 19h (Esch)** | **Appel à Sandra** (engagement : un appel tous les deux jours au minimum ; prévenir AVANT en cas d'empêchement) ; juste après le rendez-vous de Me Kouamé à 15h au Plateau. |
