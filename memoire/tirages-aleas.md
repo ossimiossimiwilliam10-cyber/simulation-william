@@ -66,3 +66,7 @@ Effets à jouer : A06 (jeudi 26/07 (matin)) : Délai supplémentaire ; l'excuse 
 - Jet « Grace répond au « Merci » de William (réponse courte, vouvoiement) » : probabilité 40 %, jet  72.5 → **NON** (enregistré le 05/10/2026 17:13 heure machine)
 
 - Jet « Kevin répond à William (emoji ou mot court) avant 09h le 25/07 » : probabilité 60 %, jet  30.9 → **OUI** (enregistré le 05/10/2026 17:13 heure machine)
+
+- Jet « Mariette prévient Aïcha plus tôt que midi (avant 11h) à cause du silence de William » : probabilité 40 %, jet   8.5 → **OUI** (enregistré le 05/10/2026 17:23 heure machine)
+
+- Jet « Aïcha voit Mariette sortir bouleversée du bureau de William (09h30) » : probabilité 60 %, jet  85.0 → **NON** (enregistré le 05/10/2026 17:23 heure machine)

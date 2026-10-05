@@ -65,6 +65,12 @@ et parfois peu morale exprès : ne l'en empêche pas, joue les conséquences.
     livraison, promesse d'un personnage) doit, le jour dit, avoir lieu, être
     reporté (avec une raison) ou annulé, et être consigné au journal.
     Les fils en suspens vivent dans `etat/fils-ouverts.md`.
+15. **Registre hiérarchique.** Dans une société à forte distance hiérarchique (Côte d'Ivoire), les subordonnés de
+    William lui parlent avec déférence : vouvoiement dans les moments graves, « patron » ou « Monsieur », formules de
+    précaution (« je me permets », « excusez-moi »), détours, demandes présentées comme des suggestions, pas de
+    confrontation directe ni d'accusation personnelle ; ils passent par un intermédiaire (Aïcha, Me Kouamé) ou par
+    l'écrit. Exceptions : un personnage qui a une autorité propre (Me Kouamé, Dr Yapi, Aïcha comme gérante) ou qui a
+    décidé de partir. Voir `memoire/pieges-connus.md` n° 47.
 
 ## 4. DÉCLENCHEURS
 - **« Attention au réalisme »** : refais des recherches sur ton dernier tour,
@@ -134,22 +140,21 @@ Direct, structuré, sobre. Pas de flatterie ni d'encouragements.
 Langue : **français**.
 
 ## 9. POINT DE REPRISE
-**Mercredi 25 juillet 2040, 09h25 — Mariette vient de parler à William ; il doit lui répondre.**
-**Mardi soir** : William répond à Kevin (« De rien, mon garçon. Je suis heureux de te voir heureux. ») ; se met un rappel pour appeler
-Sandra mercredi ; **22h20 : supprime « pour tous » son message d'excuses à Grace** (fenêtre WhatsApp de 60 h : possible jusqu'à jeudi 05h41) et
-lui écrit à 22h21 : « Je m'excuse. J'ai effacé mon message complètement, pour nous deux. » (Grace a une capture ; Mariette a lu l'original).
-**Mercredi** : Kevin « 🙂 Bonne journée monsieur » (07h12) ; Grace n'a pas répondu à la suppression ni au « Merci, Grace. » de 08h05 ; **09h12 :
-Mariette** (debout dans l'encadrement, **porte ouverte**, cahier fermé, aucun « hein ») : Grace lui a **tout raconté** et montré le message ;
-elle sait qu'il l'a supprimé (« effacer, de l'extérieur, ça ressemble à autre chose que des excuses ») ; le mot **« toujours »** résonne avec le
-**16 mai** ; elle est DRH (art. 5, obligation d'enquêter et d'informer la gérante) : **elle préviendra Aïcha à midi**, sauf si William le fait avant ;
-elle consignera **hors du serveur** (exception à sa règle) ; elle demande **plus aucun échange seul à seul avec Grace** et **plus rien d'effacé** ;
-elle n'exige pas de réponse immédiate. **À décider par William** : sa réponse à Mariette ; prévenir Aïcha lui-même avant midi ou non ; **Me Kouamé
-à 15h** au Plateau (Aïcha probablement présente, donc informée) : valider les honoraires, passeport + justificatif d'origine des fonds, signer comme
-associé unique ; **appel à Sandra à 17h (Abidjan) = 19h (Esch), prévenir AVANT en cas d'empêchement** ; voie pour le niveau 3 (attestation d'hôtel
-refusée) ; déjeuner d'équipe de vendredi 27/07 ; devis de la clinique (dû vendredi 27/07). Jeudi matin : aléa de la semaine (non révélé) ; jeudi soir :
-note de Mariette ; **mercredi soir : fiche complète**. **Non connu de William (jets)** : Grace garde sa capture et note tout ; aucune condition écrite
-dans les 48 h ; pas de démarche externe ni de démission cette semaine ; Abdoul n'a pas encore parlé à Bertin. **Effort** : l'utilisateur est en
-**Max** pour ce tour (conseillé) ; indiquer ensuite quand repasser en Extra. Voir `journal/2040-07-25.md`, `etat/fils-ouverts.md`, `etat/traces.md`.
+**Mercredi 25 juillet 2040, 09h31 — Mariette vient de sortir du bureau de William, qui ne lui a pas répondu.**
+**Version corrigée de la scène de 09h12** (après « Attention au réalisme ») : Mariette, **vouvoyant** William pour la première fois, debout dans
+l'encadrement, **porte ouverte**, cahier fermé, s'excuse de le déranger ; Grace lui a montré le message du lundi soir et raconté ce qui s'est passé ;
+elle sait que le message a été supprimé (« ce n'est peut-être pas prudent d'effacer ») ; elle commence une phrase sur « un mot » du message sans
+l'achever ; **elle doit informer Mme Diomandé** comme gérante (elle pensait à midi ; William peut le faire avant) ; elle consignera **hors du serveur** ;
+elle **suggère** plus de tête-à-tête avec Grace ni de suppression. **William n'a rien répondu** (silence d'environ 15 secondes, visage fermé ; **il se jure
+intimement d'être « extrêmement sévère » avec l'équipe**, non exprimé) ; Mariette, effrayée, s'excuse, dit qu'elle **repassera à 11h45** s'il veut en
+reparler, sinon préviendra Mme Diomandé, et part ; personne ne la voit sortir. **Non connu de William (jets)** : **Mariette préviendra Aïcha avant 11h**
+(le silence l'a terrifiée), donc bien avant 15h ; Grace garde sa capture et note tout ; aucune condition écrite dans les 48 h ; pas de démarche externe ni de
+démission cette semaine ; Abdoul n'a pas encore parlé à Bertin. **À décider par William** : répondre ou non à Mariette (11h45) ; prévenir Aïcha
+lui-même ; **Me Kouamé à 15h** (Plateau) : honoraires, passeport, justificatif d'origine des fonds, signature comme associé unique ; **appel à Sandra à
+17h (Abidjan) = 19h (Esch), prévenir AVANT en cas d'empêchement** ; niveau 3 (attestation d'hôtel refusée) ; déjeuner d'équipe de vendredi 27/07 ; devis de la
+clinique (dû vendredi 27/07). Jeudi matin : aléa de la semaine (non révélé) ; jeudi soir : note de Mariette ; **mercredi soir : fiche complète**. **Nouvelle règle
+(§3.15)** : registre hiérarchique des subordonnés. **Effort** : conseillé Max pour le prochain tour (Aïcha apprend). Voir `journal/2040-07-25.md`,
+`etat/fils-ouverts.md`, `etat/traces.md`, `etat/vies-privees.md`, `memoire/pieges-connus.md` n° 47.
 
 ## 10. PROTOCOLE DE RELAIS (Claude ⇄ Gemini)
 L'utilisateur alterne entre Claude et Gemini (Antigravity) selon ses crédits. Le moteur le plus puissant

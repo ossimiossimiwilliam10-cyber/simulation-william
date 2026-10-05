@@ -53,3 +53,5 @@
 - **Grace** : a informé Mariette de la suppression du message ; ne répond pas au « Merci » ; reste formelle et écrite.
 - **Kevin (07h12)** : « 🙂 Bonne journée monsieur ».
 - **Sandra** : aucune nouvelle depuis lundi ; rappel de l'appel de 17h noté dans le téléphone de William.
+- **Mariette (25/07 09h13-09h31)** : a vouvoyé William, s'est excusée à plusieurs reprises ; son silence l'a terrifiée ; **elle préviendra Aïcha avant 11h** (jet) ; elle craint pour son contrat (irrégulier), pour Grace, et pour elle-même ; elle consigne hors serveur.
+- **William (intime, non exprimé)** : se jure d'être « extrêmement sévère » avec l'équipe, de « ne rien laisser passer » ; le moteur ne l'applique aux autres personnages que si William l'exprime ou agit.
