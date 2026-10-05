@@ -10,6 +10,7 @@
 ## À venir
 | Date | Événement |
 |---|---|
+| Jeu. 19/07, 14h | **Réunion exceptionnelle** (Règlement intérieur & Système d'évaluation) |
 | Jeu. 19/07 | Abdoul présente son équipe technique (4 à 6 personnes) et son devis |
 | Ven. 20/07 | Installation vidéosurveillance extérieure (SécuTech CI) |
 | ~21/07 | Ouverture prévue du compte courant d'OSIA à la SGBCI |

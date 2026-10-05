@@ -40,7 +40,7 @@
   seuls, mais William a donné la priorité à Abdoul.
 - **Fournisseur libanais (Vridi)** : retenu par Abdoul pour onduleurs
   hybrides + batteries gel. Facture proforma : 1 800 000 FCFA. Matériel
-  garanti 2 ans. **Commande en attente de validation (18/07).**
+  garanti 2 ans. **Commande validée par William le 18/07.**
 - **Bertin Assi** (cousin de Yannick, Yopougon) : électricien informel.
   Dédommagé de 900 000 FCFA en juin. Il a perdu 2 de ses 4 ouvriers.
   Va devenir **sous-traitant externe** (Abdoul doit le lui annoncer « avec respect »).

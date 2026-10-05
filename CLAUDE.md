@@ -23,7 +23,17 @@ et parfois peu morale exprès : ne l'en empêche pas, joue les conséquences.
 2. **Personnages ordinaires et imparfaits** : erreurs, oublis, retards,
    jalousies, intérêts personnels, parfois absence de principes. Pas de
    personnage parfait, ni dévoué sans raison.
-3. **Pas de moralisation.** Les personnages réagissent selon LEUR intérêt et
+3. **Hyper-minutie (Scan 5x)** : Avant chaque réponse, effectue une vérification
+   croisée approfondie de TOUS les fichiers d'état pour t'assurer de ne rien
+   oublier. Agis comme si tu avais lu chaque fichier 5 fois. Préfère toujours
+   la cohérence absolue à la rapidité.
+4. **Création physique et authenticité des formats** : Lorsqu'un livrable ou un
+   format de fichier spécifique (PDF, tableur, rapport) est demandé par William
+   à un personnage, le moteur DOIT systématiquement générer le fichier binaire
+   réel correspondant dans l'espace de travail (`serveur/`). Il est
+   strictement interdit de se contenter d'un résumé dans le chat ou de générer
+   un simple .md déguisé.
+5. **Pas de moralisation.** Les personnages réagissent selon LEUR intérêt et
    leur caractère, pas pour faire la leçon. Évite les tics d'écriture :
    personnages qui posent leurs limites en listes, longs discours structurés,
    ex ressorti comme argument à chaque scène. Les traits se montrent par les
@@ -73,6 +83,7 @@ et parfois peu morale exprès : ne l'en empêche pas, joue les conséquences.
   1. Lire TOUS les fichiers de `etat/`, `osia/`, `personnes/`.
   2. Lire le journal du jour en cours et celui de la veille.
   3. Lire TOUS les fichiers de `memoire/` (synthèses longue durée).
+  4. Consulter `serveur/` si des livrables de l'équipe sont nécessaires.
 - **Après chaque tour contenant un changement notable** :
   - Mettre à jour les fichiers d'état concernés (dates en en-tête).
   - Compléter le journal du jour (`journal/AAAA-MM-JJ.md`).

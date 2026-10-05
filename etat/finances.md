@@ -14,7 +14,8 @@
 Total des avances non remboursées par l'entreprise :
 - Salaires de juin d'Aïcha et Mariette : ~1 850 € (payés en net, non déclarés)
 - Acompte vidéosurveillance SécuTech CI : 525 000 FCFA (~800 €)
-- **Total avances informelles : ~2 650 €** (Aïcha alerte sur le risque comptable)
+- Commande onduleurs (Libanais, Vridi) : 1 800 000 FCFA (~2 750 €)
+- **Total avances informelles : ~5 400 €** (Système de traçabilité demandé à Mariette le 18/07)
 
 ## Engagements en cours
 - Solde de l'hôtel Capitol : ~2 062 500 FCFA (~3 145 €) en fin de séjour.
@@ -24,7 +25,7 @@ Total des avances non remboursées par l'entreprise :
 - Reste des honoraires de Maître Kouamé (solde de 1 250 000 FCFA + promesses
   et avenants) : **à vérifier**.
 - Salaires de juillet de toute l'équipe : fin juillet.
-- **Commande onduleurs (fournisseur libanais, Vridi) : 1 800 000 FCFA (~2 750 €) — en attente de validation (18/07).**
+- **Commande onduleurs (fournisseur libanais, Vridi) : 1 800 000 FCFA (~2 750 €) — validée par William le 18/07 (virement personnel).**
 
 ## Historique notable
 - 500 € envoyés à Sandra pour les enfants (fin mai), acceptés à contrecœur.
