@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 25/07/2040, 10h10)
+# William Ossimi — profil (état au 25/07/2040, 10h13)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -126,3 +126,4 @@
   constituer un manquement distinct si elle est contredite : traces de sa recherche du 22/07 ; ses messages et signatures « Gérant ».
 - **Échéance fixée par William : le 30/12/2040** (un dimanche ; dernier jour ouvré vendredi 28/12).
 - **Aïcha** est désignée comme gérante par procuration ; elle ne sait pas que William compte s'en servir comme ligne de défense.
+- **25/07, 10h10-10h13** : répond à Aïcha « C'est bon » et donne, très en colère (inédit pour elle), la consigne : personnel féminin via Aïcha avec rapport ; plus d'échange direct avec Mariette ni Grace. Voix perceptible dans la villa (mots non distincts).

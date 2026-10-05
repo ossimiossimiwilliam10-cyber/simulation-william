@@ -97,3 +97,9 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 
 - Tirage [T1b] « Grace : note de l'incident physique du 23/07 dans son carnet (fait non tiré, inventé par le moteur précédent ; trace distincte du message, 7 jours) » : aucune 68 / notes_privees 17 / capture_ou_sauvegarde 12 / copie_tiers 3 ; modificateurs : aucun ; jet  14.8 → **aucune** (enregistré le 05/10/2026 18:20 heure machine)
 - **Repassé par la table le 25/07/2040 (accord de l'utilisateur)** : les deux tirages T1b ci-dessus (capture du message : aucune ; note de l'incident dans le carnet : aucune) **remplacent** le jet hérité « Grace sauvegarde une capture… 85 % : OUI » et le fait « Grace note l'échange dans son carnet » (non tiré, inventé par le moteur précédent). Faits joués inchangés.
+
+- Tirage [T7c] « Aïcha : consigne du patron donnée très en colère (personnel féminin via la DG avec rapport ; plus d'échange direct avec Mariette et Grace) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  40.1 → **execute_sans_discuter** (enregistré le 05/10/2026 18:25 heure machine)
+
+- Jet « Voix de William perceptible dans la villa QG à travers la porte fermée du bureau de la DG (6 pièces, cloisons intérieures, colère inhabituelle) » : probabilité 70 %, jet  26.8 → **OUI** (enregistré le 05/10/2026 18:25 heure machine)
+
+- Jet « Les prénoms de Mariette et de Grace sont distinctement compris à l'extérieur du bureau de la DG » : probabilité 25 %, jet  34.7 → **NON** (enregistré le 05/10/2026 18:25 heure machine)

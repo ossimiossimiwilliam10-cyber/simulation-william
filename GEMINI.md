@@ -158,13 +158,13 @@ Direct, structuré, sobre. Pas de flatterie ni d'encouragements.
 Langue : **français**.
 
 ## 9. POINT DE REPRISE
-**Mercredi 25 juillet 2040, 10h10 — SIMULATION REPRISE (après la pause du modèle de pouvoir) ; en attente : réponse de William à Aïcha.**
+**Mercredi 25 juillet 2040, 10h13 — William a répondu à Aïcha (consigne donnée en colère) ; en attente : sa prochaine action.**
 **Pause du 25/07/2040** : l'utilisateur a demandé de corriger à la racine le biais du moteur qui rééquilibrait les rapports de force par réflexe moral
 (« à l'européenne »), sans faire de William un dieu. **Livré** : `etat/modele-pouvoir.md` (tables T1-T7, modificateurs, plafonds, symétrie), **règle 17**,
 `outils/jet.py --table` (refuse les probabilités libres sur une réaction), `outils/audit_jets.py`, contrôle intégré à `controle_coherence.py`, pièges n° 49-52,
 corrections n° 25-26. **À la reprise** : tirer chaque réaction avec les tables (T3 pour Aïcha, T1/T2 pour Grace et Mariette), jamais à la main ; chaque dimanche soir, T4 et T5
 pour chaque affaire ouverte ; **tables conservées telles quelles par l'utilisateur** ; fait caché hérité « Grace garde une capture » **repassé par T1b : aucune capture, aucune note de l'incident** (jets 8.8 et 14.8, `etat/corrections.md` n° 27).
-**Scène en cours (inchangée)** : Aïcha demande « comment on fait pour que ça n'arrive plus » ; scène corrigée (registre hiérarchique).
+**Dernière scène (10h10-10h13)** : William répond à Aïcha « C'est bon. », **très en colère** (inédit pour elle) : **tout le personnel féminin passe par Aïcha, qui lui fait un rapport** ; il ne veut plus entendre parler directement de Mariette, **surtout de Grace** ; **Aïcha : « Oui, patron. »** (T7c : exécute, jet 40.1) ; voix perceptible dans la villa, mots non distincts (jets 70 % OUI, 25 % NON) ; qui a perçu quoi : à déterminer quand une scène l'exige. **La consigne croise** : 11h45 Mariette (facultatif) ; jeu. 26/07 soir : retour de William sur la note juridique de Mariette ; ven. 27/07 : déjeuner d'équipe (Grace, midi), contrôle du serveur par Mariette (16h), devis de la clinique (Grace, Dr Yapi) ; salaires de juillet (Mariette) ; Esther N'Guessan (conformité, septembre). Non précisés par William : fréquence et contenu du rapport, comment Mariette et Grace l'apprennent. *(Avant : Aïcha attendait la réponse à « comment on fait pour que ça n'arrive plus ».)*
 **Deuxième « Attention au réalisme » de William** (la façon dont les subordonnés lui parlent) : la scène d'Aïcha a été **corrigée** (journal du 25/07, `etat/corrections.md` n° 23-24) ;
 **nouvelles règles 15 (renforcée) et 16** : aucun subordonné, Aïcha comprise, ne confronte, ne menace ni ne moralise William ; le jet « ultimatum » à 50 % est invalidé (recalibré à
 5 % : non). **Faits** : Mariette est allée droit chez Aïcha à 09h37 ; William a dit à Aïcha « c'est vrai, j'ai merdé, je manque de professionnalisme, je serai beaucoup plus
@@ -172,7 +172,7 @@ professionnel » puis lui a **tout raconté** (11h58, 12h12, 12h14 le 23/07 ; me
 porte, veut savoir « pour pouvoir répondre si on me pose la question » ; après la confession (sans larmes) : « Merci de me l'avoir dit, patron. C'est très grave. » ; « à Abidjan, ces
 choses-là finissent toujours par sortir » ; « Grace ne dira rien, elle veut sa place » ; « **laisse-moi lui parler, doucement, aujourd'hui, seule** » ; « j'ai ma mère, ma famille au village, mon nom
 est sur tous les papiers » ; « **dis-moi seulement comment on fait pour que ça n'arrive plus** ». Pas d'ultimatum ; elle n'a pas dit si elle informait Me Kouamé ; ni Sandra, ni le statut
-luxembourgeois, ni la « ligne de défense » n'ont été évoqués. **À décider par William** : sa réponse à Aïcha (mesures concrètes) ; Mariette à 11h45 (facultatif) ; **Me Kouamé à 15h** (Plateau) :
+luxembourgeois, ni la « ligne de défense » n'ont été évoqués. **À décider par William** : ~~sa réponse à Aïcha~~ (faite à 10h13) ; Mariette à 11h45 (facultatif) ; **Me Kouamé à 15h** (Plateau) :
 honoraires, passeport, justificatif d'origine des fonds, signature comme associé unique ; **appel à Sandra à 17h (Abidjan) = 19h (Esch), prévenir AVANT en cas d'empêchement** ; niveau 3 ; déjeuner de
 vendredi 27/07 ; devis de la clinique (dû vendredi 27/07). Jeudi matin : aléa de la semaine (non révélé) ; jeudi soir : note de Mariette ; **mercredi soir : fiche complète**. **Non connu de
 William** : Grace n'a **aucune capture** ni note de l'incident (T1b, 25/07) ; aucune condition écrite de sa part dans les 48 h ; pas de démarche externe ni de démission cette semaine ; Abdoul n'a pas encore parlé à
