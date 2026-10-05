@@ -22,3 +22,9 @@
 - **Bertin Assi** : électricien informel de Yopougon (voir `osia/entreprise.md`).
 - **Didier Kacou** : fournisseur d'onduleurs et de batteries à Vridi.
 - **Moussa** : gardien de nuit du QG.
+- **Dr Yapi** : directeur de la clinique privée de Marcory (prospect chaud). Apparu le 21/07 : sera présent
+  en personne à la visite technique du lun. 23/07, 14h.
+- **M. Gbané** : conseiller clientèle entreprises, SGBCI Plateau. Dossier d'OSIA ; réclame le spécimen de
+  signature d'Aïcha (apparu le 21/07).
+- **Chef d'équipe SécuTech CI** : promet l'installation des caméras lun. 23/07, 9h (a reporté le 20/07).
+- **Orange CI** : raccordement fibre annoncé pour fin juillet (incertain).

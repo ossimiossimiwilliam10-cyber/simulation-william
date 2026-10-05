@@ -15,3 +15,9 @@ dessine des voitures au bas de ses copies. *Physique détaillé à préciser.*
   kebab, c'était pour elle ? »), il marche, revient, accepte à moitié.
   Question clé : **« Vous revenez en septembre ? »** William a promis.
 - A entendu sa mère dire à sa grand-mère que William est riche.
+- 21/07 (via Sandra) : M. Da Silva veut signer le contrat d'apprentissage la semaine du 23/07 (le contrat
+  est suivi par la Chambre des métiers). DAP à Bel-Val en régime concomitant : **1re année = 3 jours de
+  cours, 2 jours en entreprise chez M. Da Silva**. Kevin demande de nouveau si William rentre en septembre
+  (Sandra : « demande-le-lui toi-même »). *Question toujours sans réponse directe de William.*
+- 21/07, 13h50 : écrit à William pour la première fois (numéro donné par Sandra), sur WhatsApp, avec vouvoiement et excuses. Même question : « Vous revenez bien en septembre ? ». *En attente de réponse.*
+- 21/07, 14h03-14h06 : William lui répond « Oui je reviens en septembre tkt pas » ; Kevin remercie (« monsieur ») et va le dire à sa mère. **Promesse écrite de William.**

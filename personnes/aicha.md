@@ -31,6 +31,18 @@ A elle-même subi des discriminations à l'embauche pendant deux ans.
   surveillance cachée ; William dit que c'était un test. **Elle n'y croit pas
   vraiment** et sait qu'il y aura d'autres tests. Elle refuse le dîner du
   soir, mais laisse le week-end ouvert (« si tu es sage »).
+- 18/07 : s'inquiète du cumul des avances informelles de William (risque comptable) ; William la charge
+  de monter un vrai système de traçabilité avec Mariette.
+- 19/07 : approuve la règle >95/100 (« excellente perspective d'évolution »).
+- 20/07 : approuve le « naming and shaming » (« C'est rude… filtrer les touristes »). William lui impose
+  le PDF exclusif, valide la matrice, lui confie la « légalisation » avec Mariette (lundi) et la
+  supervision de l'équipe de direction ; **il la supervisera elle**. Elle accuse réception, sans commentaire personnel.
+- 21/07 : à la demande de William, évaluation « à chaud » de l'équipe (Grace, Abdoul, Mariette, Yves) :
+  fine et lucide. **Reste purement professionnelle ; ne dit rien du week-end.** Pas de relance de sa part
+  (fierté : elle attend qu'il fasse le pas, d'autant qu'il lui rappelle régulièrement que « ce n'est rien
+  de sérieux »).
+- 21/07, 10h05 : lui avoue avoir **oublié** de dire que SécuTech avait reporté l'installation (imparfaite :
+  la matrice et les contrats l'ont débordée).
 - **Elle ne sait rien de Sandra.**
 
 ## Comme DG
@@ -38,3 +50,5 @@ Sérieuse, travailleuse, a peur de mal faire et de ne pas être prise au
 sérieux par l'équipe. Elle protège son nom (« c'est moi qui signe ») : elle
 refuse ce qui est illégal (caméras, sélection au faciès, surveillance) mais
 propose des alternatives légales. Elle négocie dur avec les artisans.
+- 21/07, 14h58 : réagit au message de William dans le groupe (remboursement des avances) avec professionnalisme. 15h08 : William lui demande s'il est fâché ; réponse : « Non. Pourquoi ? » puis elle indique être chez sa mère jusqu'à dimanche (sa tension) et fixe rendez-vous lundi au QG. Elle ne propose plus rien pour le week-end.
+- 22/07 : revenue de chez sa mère ; aucun message à William. Week-end resté sans rencontre.

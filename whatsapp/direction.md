@@ -54,3 +54,21 @@ C'est noté. On ajoute une ligne 'Ajustement discrétionnaire de la Direction G�
 
 **[20/07/2040 - 16:47] Grace :**
 C'est la prime au feeling du Boss. Ça marche.
+
+**[21/07/2040 - 14:50] William :**
+Aïcha, Mariette : pour information, je compte me faire rembourser par l'entreprise les avances que j'ai faites.
+*(Formulation reconstituée à partir de la dictée ; message posté dans le groupe, donc lu par les cinq membres.)*
+
+**[21/07/2040 - 14:58] Aïcha :**
+Bien noté. Avec Mariette, on prépare la convention de compte courant d'associé et les justificatifs. On regarde lundi avec la banque.
+
+**[21/07/2040 - 15:03] Mariette :**
+Noté patron. Je prépare le tableau des avances avec les justificatifs. Pour le détail, je préfère t'écrire en privé.
+
+**[21/07/2040 - 15:05] Grace :**
+👍
+
+**[21/07/2040 - 15:06] Yves :**
+Noté.
+
+*(Abdoul : message lu, aucune réponse.)*

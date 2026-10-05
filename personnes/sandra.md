@@ -43,6 +43,14 @@ depuis la pilule du lendemain du 26/05.
 - 08/07 : annonce à Kevin au parc du Galgenberg.
 - 15/07 : médaille de saint Christophe ; **« Je t'aime »** ; nuit chez
   William ; il lui laisse ses clés.
+- 17/07 : appel de 18h45 (Abidjan) avant son service de nuit ; refuse poliment l'aide financière directe.
+  **Aucun échange consigné ensuite jusqu'au 21/07, 12h10** : elle écrit la première (silence de 4 jours,
+  elle « a peur des silences »), sur le ton de l'autodérision, et parle de Kevin et du contrat d'apprentissage.
 - Elle connaît Aïcha comme « l'amie purement platonique » et l'a vue sur la
   photo Facebook d'OSIA (« elle est jolie, et jeune »). **« Je te fais
   confiance. »**
+
+## Mise à jour 21/07
+- Répond brièvement et sans reproche à William (« D'accord 🙂 »), donne l'information pratique : réveillée jusqu'à 20h30 (18h30 à Abidjan), travaille cette nuit au CHEM dès 21h. Autorise/organise le contact Kevin-William. L'appel promis (« dès que je peux ») est une promesse vague de plus, suivie dans `etat/fils-ouverts.md`.
+- 21/07, appel de 21 min (14h26-14h47 Abidjan) : écoute les excuses de William, réagit à « le filon » par un « Mmh » puis une pique légère (« je ne t'ai pas demandé un rapport d'activité »), dit que Kevin a lu trois fois le message de William, répond à « est-ce que ça va mieux depuis moi ? » par « je dors moins mal, je ne sais pas si c'est toi ou si c'est juillet » et « ça va, je t'assure ». Raccroche la première. Ni « je t'aime » ni rendez-vous téléphonique fixé.
+- 22/07, 20h40 (pause de nuit au CHEM) : écrit un message léger et chaleureux (« tu me raconteras ton filon un jour, mais sans chiffres 😄 Bonne semaine, patron »). Elle travaille les nuits des 21 et 22/07. Annonce que Kevin signe chez M. Da Silva mardi à 17h. Aucun prochain contact fixé.

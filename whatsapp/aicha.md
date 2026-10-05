@@ -15,3 +15,22 @@ Bien sûr. Voici mon retour à chaud :
 - **Abdoul** : Extrêmement rigoureux, il maîtrise son sujet technique à 100%. Par contre, il est parfois un peu rigide sur ses positions (cf. le fournisseur de batteries).
 - **Mariette** : Très compétente et organisée, mais depuis hier, elle est terrifiée à l'idée de faire une erreur. Elle marche sur des œufs. Ça garantit la perfection, mais attention au burn-out.
 - **Yves** : Il est en phase d'observation. Il suit le mouvement et obéit bien. Il faudra voir comment il gère la pression face à un vrai client mécontent.
+
+**[21/07/2040 - 10:05] Aïcha :**
+Au fait, j'ai oublié de te dire hier : SécuTech a appelé vendredi matin, ils ont reporté l'installation à lundi 9h. Le NVR est coincé au port, pas encore dédouané. Leur chef d'équipe m'a juré lundi. Désolée, avec la matrice et les contrats ça m'est sorti de la tête.
+
+**[21/07/2040 - 12:20] William :**
+D'accord pas de soucis.
+
+**[21/07/2040 - 12:38] Aïcha :**
+Merci. Je passe à la SGBCI lundi dès l'ouverture pour le spécimen, je serai au QG vers 9h15. Mariette lance la matrice à 8h sans moi, je la rejoins. Bon week-end.
+
+**[21/07/2040 - 15:08] William :**
+Tu es fâchée contre moi ?
+*(Texte reconstitué à partir de « je lui demande si elle est fâchée contre moi ».)*
+
+**[21/07/2040 - 15:24] Aïcha :**
+Non. Pourquoi ?
+
+**[21/07/2040 - 15:25] Aïcha :**
+Je suis chez ma mère jusqu'à demain, sa tension. On se voit lundi au QG.
