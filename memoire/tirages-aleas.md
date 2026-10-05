@@ -135,3 +135,7 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Sandra décroche à la première sonnerie (19h01 à Esch, avant sa garde, téléphone sur la table) » : probabilité 85 %, jet  52.1 → **OUI** (enregistré le 05/10/2026 23:35 heure machine)
 
 - Jet « Sandra demande des précisions (« mal comment ? ») après la confidence vague de William, plutôt que de simplement le soutenir » : probabilité 65 %, jet  58.2 → **OUI** [DÉROGATION : partenaire non hiérarchique : aucune table (T8 prévue par etat/modele-pouvoir.md §4, non créée) ; probabilité fixée d'après son caractère (elle demande des chiffres précis, a peur des silences)] (enregistré le 05/10/2026 23:38 heure machine)
+
+- Jet « Sandra reste légère et rit à la blague (elle ne se ferme pas, ne s'agace pas) après la réponse vague de William » : probabilité 65 %, jet   2.5 → **OUI** [DÉROGATION : partenaire non hiérarchique : aucune table (T8 proposée à l'utilisateur, non validée) ; probabilité d'après son caractère (humour, autodérision) ; son refus des photos intimes est un fait de fiche, non tiré] (enregistré le 05/10/2026 23:46 heure machine)
+
+- Jet « Sandra relève que « tout le monde » l'inclut et demande « moi aussi ? » malgré la blague » : probabilité 60 %, jet  10.4 → **OUI** [DÉROGATION : partenaire non hiérarchique : aucune table (T8 proposée, non validée) ; « tout le monde » englobe Sandra (peur des silences, demande de précisions déjà posée) ; probabilité d'après son caractère] (enregistré le 05/10/2026 23:46 heure machine)

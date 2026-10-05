@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 25/07/2040, 17h03)
+# William Ossimi — profil (état au 25/07/2040, 17h05)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -136,3 +136,4 @@
 - **25/07, 16h16-16h52** : dit à Me Kouamé qu'il **repassera demain à 9h pour signer** ; quitte le cabinet à 16h18 en se dépêchant pour l'appel à Sandra ; taxi vers Cocody (trajet fluide par endroits) ; **n'a pas précisé où prendre l'appel** (taxi, QG ou hôtel).
 - **25/07, 16h52-17h01** : décide d'appeler Sandra dès son arrivée à l'hôtel ; arrive au Capitol à 16h58, monte à la chambre 312 et **appelle Sandra à 17h00-17h01, à l'heure** ; elle décroche à la première sonnerie et lui demande comment il va, « vraiment » ; **il n'a pas encore répondu**.
 - **25/07, 17h02-17h03** : se confie à Sandra (« période assez difficile, beaucoup à faire, impression de mal me comporter ») **sans** parler des infidélités, de Grace, d'Aïcha ni du statut ; Sandra demande « Mal comment ? » ; **il n'a pas encore répondu**.
+- **25/07, 17h04-17h05** : répond à Sandra qu'il se comporte mal « avec tout le monde », que ça le déprime, puis fait une allusion sexuelle (demande d'image) ; Sandra refuse l'image et demande « moi aussi ? » ; **il n'a pas encore répondu**. **T8 proposée** : à valider.
