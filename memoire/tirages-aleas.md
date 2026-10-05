@@ -131,3 +131,5 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Me Kouamé : décision à retaper et faire relire avant signature, signature impossible avant 17h (deuxième passage, friction administrative à enjeu) » : probabilité 30 %, jet  19.4 → **OUI** (enregistré le 05/10/2026 23:18 heure machine)
 
 - Jet « Trajet Plateau vers Cocody (QG ou hôtel), départ 16h20 en heure de pointe : durée supérieure à 40 minutes (circulation dense) » : probabilité 65 %, jet  74.2 → **NON** (enregistré le 05/10/2026 23:31 heure machine)
+
+- Jet « Sandra décroche à la première sonnerie (19h01 à Esch, avant sa garde, téléphone sur la table) » : probabilité 85 %, jet  52.1 → **OUI** (enregistré le 05/10/2026 23:35 heure machine)
