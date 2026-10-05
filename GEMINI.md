@@ -131,20 +131,18 @@ Direct, structuré, sobre. Pas de flatterie ni d'encouragements.
 Langue : **français**.
 
 ## 9. POINT DE REPRISE
-**Lundi 23 juillet 2040, 17h32 — appel en cours : Sandra demande à William un chiffre précis.**
-William a répondu à Sandra : elle a raison, il fera des efforts, **l'appellera plus souvent**, **récompensera sa confiance** ; ce
-qu'il fait est « avant tout de la passion », **il ne cherche pas l'argent** (il l'avait pourtant dit : « le filon va me rapporter pas
-mal d'argent », 21/07) ; **si elle lui demande d'arrêter l'entreprise** parce que cela nuit à leur vie de famille, il y réfléchira
-« très sérieusement » avec « de fortes chances » d'aller dans son sens. **Il n'a rien dit de la photo d'OSIA avec Aïcha ni de Kevin.**
-**Sandra** (ironique, chaleureuse) : « Samedi c'était un filon, aujourd'hui c'est de la passion. » ; « Fortes chances, ce n'est pas
-oui. » ; elle croira William « jusqu'à preuve du contraire, par choix » ; elle **exige un chiffre** : « plus souvent », c'est combien ?
-Elle est disponible jusqu'à 18h30 (Abidjan) = 20h30 (Esch). **À la fin de l'appel** : William veut **écrire à Grace** (passée au
-vouvoiement) et a **décidé de valider le devis de la clinique** (détaillé dû vendredi 27/07 ; conseil d'administration du Dr Yapi mardi
-31/07). William a dit apprécier la simulation parce qu'elle le met face aux conséquences de ses choix. Toujours en attente : réponse
-au déjeuner d'équipe de vendredi 27/07 ; note de Mariette jeudi 26/07 soir ; demi-page de Grace d'ici mercredi. **Suites tirées au
-sort, non révélées** : Grace se confiera à Mariette au plus tard mercredi 25/07 midi ; pas de démarche externe ni de démission cette
-semaine ; Aïcha n'interroge pas Grace d'ici le 24/07. Mardi 9h : attestation du Capitol ; mercredi 15h : Me Kouamé ; jeudi matin : aléa
-de la semaine (non révélé). Voir `journal/2040-07-23.md`, `etat/fils-ouverts.md`, `etat/traces.md`.
+**Lundi 23 juillet 2040, 17h38 — l'appel à Sandra est terminé ; William doit écrire à Grace.**
+William s'est engagé auprès de Sandra à **un appel tous les deux jours au minimum** ; elle l'a noté dans son téléphone (« pour ne
+pas m'inventer des silences »), a fixé le prochain appel **mercredi 25/07 à 17h Abidjan = 19h Esch (avant sa garde)**, avec **une seule
+condition : prévenir AVANT en cas d'empêchement, pas après** ; « Je te crois. Bisous, patron. » Il n'a toujours rien dit de la photo
+d'OSIA avec Aïcha ni de Kevin (Sandra l'a noté). Promesses tracées : passion et pas argent, arrêt possible de l'entreprise si elle le
+demande (« fortes chances »), appel tous les deux jours (voir `etat/traces.md`). **À faire par William** : **message à Grace** (passée au
+vouvoiement, évite William) ; **valider le devis de la clinique** (détaillé dû vendredi 27/07 ; conseil d'administration du Dr Yapi mardi
+31/07) ; répondre au **déjeuner d'équipe de vendredi 27/07** (Abdoul, Yves). Mercredi 25/07 est serré : **Me Kouamé 15h** (Plateau)
+puis **appel à Sandra 17h**. Mardi 9h : attestation du Capitol ; jeudi soir : note de Mariette ; jeudi matin : aléa de la semaine (non
+révélé). **Suites tirées au sort, non révélées** : Grace se confiera à Mariette au plus tard mercredi 25/07 midi ; pas de démarche
+externe ni de démission cette semaine ; Aïcha n'interroge pas Grace d'ici le 24/07. Voir `journal/2040-07-23.md`,
+`etat/fils-ouverts.md`, `etat/traces.md`, `etat/vies-privees.md`.
 
 ## 10. PROTOCOLE DE RELAIS (Claude ⇄ Gemini)
 L'utilisateur alterne entre Claude et Gemini (Antigravity) selon ses crédits. Le moteur le plus puissant

@@ -1,4 +1,4 @@
-# Calendrier (au 23/07/2040, 17h02)
+# Calendrier (au 23/07/2040, 17h38)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -45,6 +45,8 @@
 | Mar. 24/07 | Maître Kouamé chiffre honoraires et frais de l'augmentation de capital ; William doit le rencontrer cette semaine. |
 | **Ven. 27/07 (au plus tard)** | **Devis de la clinique de Marcory** (trois lignes : matériel, pose, garantie) + plan de maintenance, à remettre au Dr Yapi. |
 | **Mar. 31/07** | Conseil d'administration de la clinique (décision possible). |
+| **Mer. 25/07, 17h (Abidjan) = 19h (Esch)** | **Appel à Sandra** (engagement : un appel tous les deux jours au minimum ; prévenir AVANT en cas d'empêchement) ; juste après le rendez-vous de Me Kouamé à 15h au Plateau. |
+| Ven. 27/07 et dim. 29/07 | Appels suivants à Sandra (rythme d'un appel tous les deux jours au minimum). |
 | **Mer. 25/07, 15h** | **Rendez-vous avec Maître Kouamé (cabinet, Plateau)** : décision de l'associé unique, projet de décision d'augmentation de capital, chiffrage. Confirmé le 23/07. |
 | Jeu. 26/07, matin | Aléa tiré de la semaine (voir `memoire/tirages-aleas.md`). |
 | Jeu. 26/07 | SécuTech : fin des travaux prévue (câble des 2 caméras d'accueil) ; solde de 525 000 FCFA à l'achèvement. |
