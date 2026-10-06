@@ -157,3 +157,18 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Me Kouamé : l'état du solde de la création comporte un poste non annoncé (avenants de prise de poste facturés à part, 3 x 100 000 FCFA), friction économique » : probabilité 30 %, jet  66.7 → **NON** (enregistré le 06/10/2026 00:02 heure machine)
 
 - Tirage [T7c] « Aïcha : ordre de William de signer la convention d'honoraires (augmentation) et de régler 2 000 000 FCFA (solde de la création) depuis la SGBCI » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  77.8 → **execute_a_contrecoeur** (enregistré le 06/10/2026 18:45 heure machine)
+
+- Tirage [T7c] « Aïcha : réaction au rappel de William (« j'attends un retour de ta part ») après l'ordre de 20h18 de signer la convention et de régler 2 000 000 FCFA » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  80.9 → **execute_a_contrecoeur** (enregistré le 06/10/2026 18:50 heure machine)
+
+- Jet « Sandra envoie un message léger à William pendant sa pause de nuit au CHEM (avant 01h Abidjan) » : probabilité 45 %, jet  50.7 → **NON** [DÉROGATION : initiative de Sandra, partenaire non hiérarchique : pas de table T8 pour les initiatives ; probabilité d'après son caractère (peur des silences, a dit « écris-moi »)] (enregistré le 06/10/2026 18:50 heure machine)
+
+- Jet « Me Kouamé envoie par courriel le seuil d'autorisation proposé avant 8h jeudi 26/07 » : probabilité 70 %, jet  80.1 → **NON** (enregistré le 06/10/2026 18:50 heure machine)
+
+- Jet « A06 jeudi matin : le fournisseur de Vridi annonce un délai supérieur à 10 jours pour les batteries et onduleurs » : probabilité 50 %, jet  96.4 → **NON** (enregistré le 06/10/2026 18:50 heure machine)
+
+- Jet « A06 : l'excuse du fournisseur (blocage en douane) est vraie » : probabilité 60 %, jet  82.8 → **NON** (enregistré le 06/10/2026 18:50 heure machine)
+
+- Jet « Trajet Cocody vers Plateau jeudi 26/07, départ 7h40, heure de pointe : arrivée après 9h00 » : probabilité 35 %, jet  25.8 → **OUI** (enregistré le 06/10/2026 18:50 heure machine)
+
+- Jet « Me Kouamé : signature de la décision reportée ou à reprendre jeudi 9h (deuxième passage, friction administrative à enjeu) » : probabilité 30 %, jet  95.9 → **NON** (enregistré le 06/10/2026 18:50 heure machine)
+- **NOTE du 26/07/2040, 08h25 : aléa A06 JOUÉ** (tiré le lundi ; détails tirés le 25/07 : délai > 10 jours NON → huit jours ; excuse « douane » vraie : NON). Abdoul prévient William par WhatsApp.

@@ -72,3 +72,6 @@
 - **Grace (25/07 15h50)** : écoutée par Aïcha, dit « Bien, Madame Diomandé. » ; rien ne se voit ; *(non connu de William)* elle s'est confiée à un proche hors du travail (T1).
 - **Mariette (25/07 18h10)** : apprend le refus du télétravail par Aïcha ; dit « D'accord. » (T1 : rien_absorption, jet 16.0) ; son repas reste intact ; rien d'autre ne se voit.
 - **Aïcha (25/07 20h31)** : lit l'ordre de signer la convention d'honoraires et de régler 2 M FCFA, ne répond pas ce soir (T7c : à contrecœur, jet 77.8) ; elle veut lire la convention et vérifier justificatifs et plafond avant de signer ; son nom est sur les papiers ; vendredi, elle ratifie cinq contrats au cabinet.
+- **Aïcha (25/07 21h25 → 26/07 08h10)** : répond « Je lis la convention… Je te réponds demain matin », puis fixe la signature et le paiement **à vendredi au cabinet, avec Me Kouamé** (T7c : à contrecœur, jet 80.9) ; *intérêt : signataire, nom sur les papiers, elle lit avant de signer et veut Me Kouamé présent* ; sa froideur s'installe.
+- **Sandra (25/07 nuit)** : en garde de nuit au CHEM, n'écrit pas (jet en dérogation, 45 % : NON) ; **sait toujours que ses trois questions sont restées sans réponse**.
+- **Fournisseur de Vridi (26/07)** : *(non connu de William)* l'excuse de la douane est fausse ; il n'a pas encore reçu la marchandise de son propre fournisseur ; il espère gagner huit jours.

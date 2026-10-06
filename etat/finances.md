@@ -153,3 +153,9 @@ Total des avances non remboursées par l'entreprise :
 
 ## Mise à jour du 25/07/2040, 20h14 (validation de William)
 - **État du solde de la création : VALIDÉ par William (2 000 000 FCFA)**, règlement par la société ; **l'ordre à Aïcha de régler (SGBCI) n'est pas encore donné** ; la convention d'honoraires de l'augmentation (2,19 à 2,39 M FCFA avec droits) reste à signer par la gérante. Engagement total d'OSIA envers Me Kouamé : **4 190 000 à 4 390 000 FCFA (≈ 6 390 à 6 690 €)** ; trésorerie OSIA 28,98 M → ≈ 24,6 à 24,8 M FCFA après paiement.
+
+## Fiche complète du 25/07/2040 (trois jours depuis le 22/07) et mise à jour du jeudi 26/07, 08h48
+- **Trésorerie OSIA (SGBCI)** : 28 980 000 FCFA (≈ 44 180 €) ; engagements envers Me Kouamé 4 190 000 à 4 390 000 FCFA (solde de la création 2 000 000 validé ; convention d'augmentation à signer par Aïcha **vendredi 27/07** au cabinet, paiement dans la foulée : exécution **en retard**, jet de friction SGBCI à l'exécution) ; sorties prévisibles fin juillet ≈ 4,0 M ; **trésorerie projetée fin juillet ≈ 20,6 M FCFA hors dotation** ; remboursement des avances (≈ 3,54 M) suspendu.
+- **Dotation 176 725 €** : projet transmis à la Spuerkeess le 25/07 à 18h20 ; déblocage au plus tôt jeu. 26/07 ; arrivée à la SGBCI entre lun. 30/07 et mar. 31/07 ; augmentation de 115 M FCFA (capital 145 M) ; surplus ≈ 0,8 M en compte courant d'associé (avances ≈ 3,54 M + surplus ≈ 4,3 M).
+- **Onduleurs et batteries (1 800 000 FCFA payés le 18/07)** : **retard de huit jours annoncé le 26/07 à 08h25** (aléa A06 ; « la douane » ; excuse fausse, non connue de William).
+- **William** : patrimoine net ≈ 787 700 € (inchangé) ; compte ivoirien au niveau 1.

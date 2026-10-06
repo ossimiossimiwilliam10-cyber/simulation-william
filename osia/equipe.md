@@ -49,3 +49,10 @@
   visite à ses frais. Envoie des mèmes dans le groupe.
 - **Esther** : 41 ans, ex-contrôleuse interne de banque, 12 ans
   d'expérience, rigoureuse, peu bavarde (« Bonjour à tous. Ravie. »).
+
+## Mise à jour du 25/07/2040 (fiche complète) et du 26/07, 08h48
+- **Aïcha** (gérante) : sait tout (Grace, Mariette) ; **exécute à contrecœur** (relais du refus de télétravail, ordre de paiement, rappel) ; ratifie les cinq contrats vendredi 27/07 au cabinet ; passe par elle tout le personnel féminin (consigne du 25/07) et fait un rapport (premier rapport 13h48, second 19h02).
+- **Grace** : vouvoie William ; vue discrètement par Aïcha (25/07 15h50, « Bien, Madame Diomandé ») ; confiée à un proche hors du travail ; devis clinique dû ven. 27/07, devis villa Riviera jeu. 26/07.
+- **Mariette** : télétravail refusé (25/07, 18h10 : « D'accord. ») ; contrôle du serveur ven. 27/07 16h ; note juridique en attente d'un retour de William (consigne : plus d'échange direct).
+- **Abdoul** : plan technique « jeudi » ; **aléa A06** : retard de huit jours des batteries et onduleurs (26/07) ; n'a pas annoncé son statut à Bertin.
+- **Yves** : RAS. **Esther N'Guessan** : arrive en septembre.

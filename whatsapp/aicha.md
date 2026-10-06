@@ -117,3 +117,13 @@ Bien, patron. Je m'organise pour midi. Dis-moi si ça change.
 **[25/07/2040 - 20:18] William :**
 Aïcha, tu signes la convention d'honoraires de Me Kouamé pour l'augmentation et tu règles les 2 000 000 du solde de la création depuis la SGBCI.
 *(Texte reconstitué à partir de la dictée. Lu par Aïcha à 20h31, sans réponse ce soir.)*
+
+**[25/07/2040 - 20:40] William :**
+J'attends un retour de ta part.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[25/07/2040 - 21:25] Aïcha :**
+Je lis la convention, patron. Je te réponds demain matin.
+
+**[26/07/2040 - 08:10] Aïcha :**
+Patron, j'ai lu la convention. Je la signe vendredi au cabinet, avec Maître Kouamé, et je passe l'ordre à la banque dans la foulée.

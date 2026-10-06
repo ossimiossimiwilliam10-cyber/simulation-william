@@ -108,3 +108,8 @@
 - **Augmentation de capital** : procédure cadrée par Me Kouamé (décision de l'associé unique, statuts, attestation de versement, RCCM, publication, déclaration d'investissement) ; chiffrage mardi.
 - **SGBCI** : spécimen de signature d'Aïcha déposé.
 - **23/07, 10h40** : William a repris le chef d'équipe de SécuTech, **Sékou**, sur son retard de 1 h 40 (« pas très sérieux », « manque de professionnalisme ») ; Sékou a présenté des excuses ; Aïcha a vu la scène.
+
+## Mise à jour du 25/07/2040 (fiche complète) et du 26/07, 08h48
+- **Augmentation de capital** : projet de décision (115 000 000 FCFA, 11 500 parts, capital 145 M) transmis à la Spuerkeess le 25/07 ; **signature par William jeudi 26/07 à 9h** chez Me Kouamé ; formalités ensuite (statuts modifiés, RCCM, publication, déclaration d'investissement étranger) ; **ratification des cinq contrats par la gérante vendredi 27/07**.
+- **Gérance** : Me Kouamé a qualifié William de **gérant de fait** (direction quotidienne) ; William ne signe plus « Gérant » ; statuts modifiés à venir avec limitation de la procuration de la gérante (seuil d'autorisation à proposer).
+- **Honoraires** : solde de la création 2 000 000 FCFA validé ; convention d'augmentation à signer par Aïcha ; paiement en retard (vendredi).
