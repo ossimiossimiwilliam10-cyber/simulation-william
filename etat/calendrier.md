@@ -1,4 +1,4 @@
-# Calendrier (au 26/07/2040, 08h48)
+# Calendrier (au 26/07/2040, 09h30)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -70,6 +70,7 @@
 | **Mer. 25/07, 20h18-20h35** | William donne à Aïcha l'ordre de signer la convention d'honoraires et de régler 2 000 000 FCFA ; **Aïcha lit à 20h31, ne répond pas** (T7c : à contrecœur, en retard). |
 | **Mer. 25/07, 20h40-21h25 puis nuit** | Rappel de William à Aïcha ; Aïcha : « Je lis la convention… Je te réponds demain matin » (à contrecœur) ; nuit sans message de Sandra. |
 | **Jeu. 26/07, 06h35-08h48** | Réveil, taxi à 7h40 ; **08h10 Aïcha** : signature de la convention et paiement vendredi au cabinet ; **08h25 aléa A06** (Abdoul : huit jours de retard, batteries et onduleurs) ; **08h48 taxi dans la circulation, arrivée estimée 9h14**. |
+| **Jeu. 26/07, 08h52-09h30** | William prévient Me Kouamé (08h52) ; ordre à Abdoul (08h54) ; arrive à 09h14 ; **signe la décision de l'associé unique à 09h18** ; Me Kouamé présente le seuil d'autorisation (5 000 000 FCFA proposé) et rappelle les bulletins et l'avis d'imposition. |
 | **Avant ven. 27/07** | **Me Kouamé envoie par courriel le seuil d'autorisation proposé** ; William envoie bulletins + avis d'imposition. |
 | **Mer. 25/07, ~17h** | Décision corrigée (115 M FCFA) **prête à signer** après relecture (friction : retapée et relue) ; courriel de Me Kouamé pour la Spuerkeess au même moment. **William a choisi (16h16) de revenir jeu. 26/07 à 9h.** |
 | **Ven. 27/07 (au plus tard)** | William envoie à Me Kouamé trois bulletins de salaire + avis d'imposition ; **Aïcha au cabinet pour la ratification des contrats**. |

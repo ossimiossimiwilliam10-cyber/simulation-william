@@ -23,3 +23,4 @@ rapidité commerciale de Grace ou avec les exigences de coût de William. Il tie
 - 23/07, 08h : relancé par Mariette sur son plan technique : « Jeudi. » (un seul mot). Rigide sur ses positions.
 - 23/07, 13h30-16h05 : demande deux fois à Grace si elle va bien ; réalise le relevé de puissance de la clinique malgré 45 minutes d'attente pour le tableau électrique ; glisse à William : « Dix-huit à vingt-quatre, je dirais vingt-et-un. »
 - 26/07, 08h25 (aléa A06) : écrit à William : « Boss, Vridi vient d'appeler : batteries et onduleurs, huit jours de retard, ils parlent de la douane. Je relance. »
+- 26/07, 08h54-08h57 : reçoit de William l'ordre de négocier un geste pour le retard de Vridi ; **« Compris, Boss. »** (T7c : execute_sans_discuter, jet 46.9) ; négocie (résultat à jouer).

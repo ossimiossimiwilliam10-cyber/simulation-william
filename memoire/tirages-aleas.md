@@ -172,3 +172,7 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 
 - Jet « Me Kouamé : signature de la décision reportée ou à reprendre jeudi 9h (deuxième passage, friction administrative à enjeu) » : probabilité 30 %, jet  95.9 → **NON** (enregistré le 06/10/2026 18:50 heure machine)
 - **NOTE du 26/07/2040, 08h25 : aléa A06 JOUÉ** (tiré le lundi ; détails tirés le 25/07 : délai > 10 jours NON → huit jours ; excuse « douane » vraie : NON). Abdoul prévient William par WhatsApp.
+
+- Tirage [T7c] « Abdoul : ordre de William de négocier un geste commercial auprès du fournisseur de Vridi pour le retard des batteries et onduleurs » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  46.9 → **execute_sans_discuter** (enregistré le 06/10/2026 19:02 heure machine)
+
+- Jet « Me Kouamé présente à William le seuil d'autorisation proposé pendant la signature de jeudi 9h » : probabilité 60 %, jet  53.4 → **OUI** (enregistré le 06/10/2026 19:02 heure machine)

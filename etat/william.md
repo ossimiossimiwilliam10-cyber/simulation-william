@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 26/07/2040, 08h48)
+# William Ossimi — profil (état au 26/07/2040, 09h30)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -144,3 +144,4 @@
 - **25/07, 20h10-20h14** : dit à Aïcha qu'il sera au QG « vers 12h, mais je ne suis pas sûr » ; **valide l'état du solde de la création (2 000 000 FCFA)** auprès de Me Kouamé ; **n'a pas encore donné à Aïcha l'ordre de signer la convention et de régler** ; journée non close.
 - **25/07, 20h18-20h35** : donne à Aïcha l'ordre de signer la convention d'honoraires et de régler 2 000 000 FCFA ; **Aïcha lit à 20h31 et ne répond pas ce soir** ; journée non close ; fiche complète à faire.
 - **25/07, 20h40 → 26/07, 08h48** : relance Aïcha par écrit (20h40) ; nuit sans consignation ; réveil 06h35, taxi à 07h40 pour le Plateau ; **Aïcha (08h10)** : convention et paiement vendredi au cabinet ; **Abdoul (08h25)** : retard de huit jours des batteries et onduleurs (A06) ; **taxi dans la circulation, arrivée estimée 9h14** ; **n'a pas prévenu Me Kouamé** ; n'a pas répondu à Abdoul.
+- **26/07, 08h52-09h30** : prévient Me Kouamé (appel) ; ordonne à Abdoul de négocier un geste pour le retard de Vridi ; arrive au cabinet à 09h14 ; **signe la décision de l'associé unique à 09h18** ; Me Kouamé présente le seuil d'autorisation (5 000 000 FCFA proposé) et rappelle les bulletins et l'avis d'imposition ; **William n'a pas encore choisi le seuil** ni envoyé les pièces.
