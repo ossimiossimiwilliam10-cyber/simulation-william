@@ -106,3 +106,10 @@ Je suis d'accord.
 
 **[25/07/2040 - 20:04] Aïcha :**
 Bien, patron. Tu es au QG à quelle heure demain ? Je m'organise.
+
+**[25/07/2040 - 20:10] William :**
+Vers 12h, mais je ne suis pas sûr.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[25/07/2040 - 20:12] Aïcha :**
+Bien, patron. Je m'organise pour midi. Dis-moi si ça change.
