@@ -198,3 +198,7 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Abdoul remet son plan technique jeudi 26/07 (promis : « Jeudi. ») » : probabilité 60 %, jet   2.4 → **OUI** (enregistré le 06/10/2026 23:52 heure machine)
 
 - Jet « Sandra, réveillée vers 12h20 Abidjan après sa garde, répond au message de William avant 13h » : probabilité 75 %, jet  87.5 → **NON** [DÉROGATION : partenaire non hiérarchique : timing de réponse, pas de table T8 pour les délais ; probabilité d'après son rythme (réveil ~14h Esch, écrit en général à son réveil)] (enregistré le 06/10/2026 23:52 heure machine)
+
+- Tirage [T7c] « Abdoul : message de William lui réclamant le plan technique et le devis comparatif de la villa, avec « fais-moi confiance, tu n'as pas intérêt à me décevoir » » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet   6.3 → **execute_sans_discuter** (enregistré le 06/10/2026 23:58 heure machine)
+
+- Tirage [T1] « Mariette : message direct de William (malgré sa consigne du 25/07) lui demandant d'expliquer davantage ses règles de classement du serveur ; CDD récent (M01), Aïcha amie proche (M02), déjà visée le 16/05 (M03) » : rien_absorption 20 / evitement 29 / confidence_proche 20 / confidence_collegue 18 / negociation_tacite 4 / depart_discret 9 / frontal_formel 0 ; modificateurs : M01, M02, M03 ; jet  53.6 → **confidence_proche** (enregistré le 06/10/2026 23:58 heure machine)

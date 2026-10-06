@@ -38,3 +38,16 @@ Patron, j'aurais besoin de vingt minutes avec toi aujourd'hui, en privé. C'est 
 **[25/07/2040 - 09:07] William :**
 Viens dès que tu peux, je suis disponible immédiatement.
 *(Texte reconstitué à partir de la dictée.)*
+
+**[26/07/2040 - 12:57] William :**
+Peux-tu m'expliquer davantage tes règles de classement du serveur ?
+*(Texte reconstitué à partir de la dictée. Premier message direct à Mariette depuis la consigne du 25/07. Lu en moins de deux minutes.)*
+
+**[26/07/2040 - 13:19] Mariette :**
+Bonjour patron. Je me permets de préciser les règles de classement.
+Le principe : un document, un emplacement, un PDF, déposé le jour même. On retrouve n'importe quelle pièce en une minute et on voit qui a déposé quoi, et quand : c'est la ligne « Usage du serveur et traçabilité » de la matrice.
+Chaque dossier a un responsable : rh/ moi, commercial/ Grace, technique/ Abdoul et Yves, direction/ Aïcha, juridique/ Aïcha et moi. Le dossier juridique/ est nouveau : on y met les notes juridiques, les décisions de l'associé unique et les échanges avec les avocats.
+Les noms : sujet_JJMM.pdf, sans espace ; une nouvelle version s'appelle _v2.
+Je passe en revue le serveur chaque vendredi à 16h et je vous remets la liste des écarts.
+Une précision, excusez-moi : les dossiers RH individuels sensibles restent en accès restreint, hors du serveur partagé, comme je vous l'ai dit mercredi.
+Je reste disponible.

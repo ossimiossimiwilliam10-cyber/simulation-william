@@ -21,3 +21,10 @@ C'est du bon boulot.
 
 **[26/07/2040 - 11:23] Abdoul :**
 Merci, Boss.
+
+**[26/07/2040 - 12:57] William :**
+On attend toujours le plan technique et le devis comparatif de la villa. Je te fais confiance. Tu n'as pas intérêt à me décevoir.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[26/07/2040 - 12:58] Abdoul :**
+Compris, Boss. Le plan, c'est cet après-midi. Le devis de la villa, c'est Grace.

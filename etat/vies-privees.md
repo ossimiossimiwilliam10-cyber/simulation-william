@@ -83,3 +83,5 @@
 - **Aïcha (26/07 11h12-11h40)** : relaie le refus de William pour le déjeuner (« Je le leur dis ») ; **ne valide pas le devis de la clinique sans l'avoir lu** (T7c : execute_partiellement) ; reçoit Sékou, visite les deux caméras, signe la réception vers 11h40 ; le solde de 525 000 FCFA attendra vendredi.
 - **Grace (26/07)** : *(non connu de William)* apprend par Aïcha que William ne viendra pas au déjeuner de vendredi ; réaction à tirer vendredi.
 - **Abdoul (26/07 11h23)** : « Merci, Boss. » ; son plan technique arrive cet après-midi.
+- **Mariette (26/07 12h57-13h19)** : reçoit un message direct de William, premier depuis la consigne ; répond normalement, formellement (« je me permets », « excusez-moi ») ; *(non connu de William)* en parle à un proche hors du travail (T1 : confidence_proche, jet 53.6) ; mentionne les dossiers RH sensibles hors serveur.
+- **Abdoul (26/07 12h58)** : reçoit « tu n'as pas intérêt à me décevoir » ; répond « Compris, Boss. » ; précise que le devis de la villa est celui de Grace ; sort son plan cet après-midi.
