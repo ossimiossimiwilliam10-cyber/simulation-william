@@ -80,3 +80,6 @@
 - **Mariette (26/07)** : porte fermée ; travaille ; n'a rien dit.
 - **Sandra (26/07 09h35)** : dort après sa garde de nuit ; deux coches grises sur le message de William.
 - **Sékou (26/07)** : déférent, termine le chantier et attend la réception et le solde.
+- **Aïcha (26/07 11h12-11h40)** : relaie le refus de William pour le déjeuner (« Je le leur dis ») ; **ne valide pas le devis de la clinique sans l'avoir lu** (T7c : execute_partiellement) ; reçoit Sékou, visite les deux caméras, signe la réception vers 11h40 ; le solde de 525 000 FCFA attendra vendredi.
+- **Grace (26/07)** : *(non connu de William)* apprend par Aïcha que William ne viendra pas au déjeuner de vendredi ; réaction à tirer vendredi.
+- **Abdoul (26/07 11h23)** : « Merci, Boss. » ; son plan technique arrive cet après-midi.

@@ -1,4 +1,4 @@
-# Calendrier (au 26/07/2040, 11h10)
+# Calendrier (au 26/07/2040, 12h50)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -72,6 +72,7 @@
 | **Jeu. 26/07, 06h35-08h48** | Réveil, taxi à 7h40 ; **08h10 Aïcha** : signature de la convention et paiement vendredi au cabinet ; **08h25 aléa A06** (Abdoul : huit jours de retard, batteries et onduleurs) ; **08h48 taxi dans la circulation, arrivée estimée 9h14**. |
 | **Jeu. 26/07, 08h52-09h30** | William prévient Me Kouamé (08h52) ; ordre à Abdoul (08h54) ; arrive à 09h14 ; **signe la décision de l'associé unique à 09h18** ; Me Kouamé présente le seuil d'autorisation (5 000 000 FCFA proposé) et rappelle les bulletins et l'avis d'imposition. |
 | **Jeu. 26/07, 09h31-11h10** | William valide le seuil (5 M / 10 M FCFA) ; envoie bulletins et avis d'imposition à Me Kouamé (09h55, taxi) ; message à Sandra (09h35) ; à Aïcha : « vers midi » ; **Abdoul 10h20 : 4 % obtenus, livraison vers le 3 août** ; arrivée au QG 10h38 ; **SécuTech termine** ; **débrief d'Aïcha 10h50-11h05** (question du déjeuner de vendredi). |
+| **Jeu. 26/07, 11h12-12h50** | William : déjeuner de vendredi « sans moi » (via Aïcha) ; devis de la clinique à valider par Aïcha (après lecture) ; Sékou renvoyé vers Aïcha ; « bon boulot » à Abdoul ; **rappel 18h : note de Mariette + message à Aïcha** ; pause déjeuner ; Sandra n'a pas répondu. |
 | **Avant ven. 27/07** | **Me Kouamé envoie par courriel le seuil d'autorisation proposé** ; William envoie bulletins + avis d'imposition. |
 | **Mer. 25/07, ~17h** | Décision corrigée (115 M FCFA) **prête à signer** après relecture (friction : retapée et relue) ; courriel de Me Kouamé pour la Spuerkeess au même moment. **William a choisi (16h16) de revenir jeu. 26/07 à 9h.** |
 | **Ven. 27/07 (au plus tard)** | William envoie à Me Kouamé trois bulletins de salaire + avis d'imposition ; **Aïcha au cabinet pour la ratification des contrats**. |

@@ -14,3 +14,10 @@ Compris, Boss.
 
 **[26/07/2040 - 10:20] Abdoul :**
 Boss. Vridi : huit jours, c'est ferme. Mais quatre pour cent sur la prochaine commande, obtenu. Livraison vers le 3 août.
+
+**[26/07/2040 - 11:22] William :**
+C'est du bon boulot.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[26/07/2040 - 11:23] Abdoul :**
+Merci, Boss.

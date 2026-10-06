@@ -186,3 +186,15 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « SécuTech termine les travaux du QG (câble des 2 caméras d'accueil) avant midi jeudi 26/07 » : probabilité 60 %, jet  15.6 → **OUI** (enregistré le 06/10/2026 23:44 heure machine)
 
 - Jet « Abdoul obtient un geste de Vridi pour le retard (remise ou livraison offerte) » : probabilité 35 %, jet  34.7 → **OUI** (enregistré le 06/10/2026 23:44 heure machine)
+
+- Tirage [T7c] « Aïcha : décision de William sur le déjeuner de vendredi (« s'ils veulent, ils peuvent le faire, mais je ne viendrai pas ») à relayer à Grace » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  50.7 → **execute_sans_discuter** (enregistré le 06/10/2026 23:52 heure machine)
+
+- Tirage [T7c] « Aïcha : ordre de William de valider le devis de la clinique de Grace (« tout est bon pour moi ») » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  93.6 → **execute_partiellement** (enregistré le 06/10/2026 23:52 heure machine)
+
+- Tirage [T7c] « Sékou (SécuTech) : consigne de William de s'adresser à Aïcha pour la réception des travaux et le solde » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  62.1 → **execute_sans_discuter** (enregistré le 06/10/2026 23:52 heure machine)
+
+- Jet « Grace remet le devis comparatif de la villa Riviera à Aïcha avant 17h jeudi 26/07 (promis pour jeudi) » : probabilité 65 %, jet  53.8 → **OUI** (enregistré le 06/10/2026 23:52 heure machine)
+
+- Jet « Abdoul remet son plan technique jeudi 26/07 (promis : « Jeudi. ») » : probabilité 60 %, jet   2.4 → **OUI** (enregistré le 06/10/2026 23:52 heure machine)
+
+- Jet « Sandra, réveillée vers 12h20 Abidjan après sa garde, répond au message de William avant 13h » : probabilité 75 %, jet  87.5 → **NON** [DÉROGATION : partenaire non hiérarchique : timing de réponse, pas de table T8 pour les délais ; probabilité d'après son rythme (réveil ~14h Esch, écrit en général à son réveil)] (enregistré le 06/10/2026 23:52 heure machine)
