@@ -58,3 +58,14 @@ Ok, c'est bon. Je valide, sans plus.
 
 **[26/07/2040 - 13:22] Mariette :**
 Oui patron.
+
+**[26/07/2040 - 13:57] William :**
+Mariette, j'ai lu ta note sur la charte, les contrats et la conformité sociale.
+Désormais, c'est Aïcha qui gère ce genre de dossier. Moi, j'attends simplement un rapport. Toute la direction passe par elle, et moi je suis tout en haut.
+Je garde mon système de notation personnelle. Je ne veux ni le retirer ni le modifier.
+Sur tous les autres points, je suis prêt à suivre vos directives, à Aïcha et à toi.
+Si je ne suis pas d'accord avec un point, j'ai le dernier mot.
+*(Texte reconstitué à partir de la dictée : il dit lui-même à Mariette ce qu'il avait demandé à Aïcha de lui transmettre ; Aïcha avait refusé. Lu à 13h58.)*
+
+**[26/07/2040 - 13:59] Mariette :**
+Bien reçu patron. Je reste disponible.
