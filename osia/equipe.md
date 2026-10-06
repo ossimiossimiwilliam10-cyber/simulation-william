@@ -57,3 +57,4 @@
 - **Abdoul** : plan technique « jeudi » ; **aléa A06** : retard de huit jours des batteries et onduleurs (26/07) ; n'a pas annoncé son statut à Bertin.
 - **Yves** : RAS. **Esther N'Guessan** : arrive en septembre.
 - **26/07, 13h46** : William confie à **Aïcha** la coordination de toute la direction (rapport chaque soir) ; elle remet lundi 30/07 les évaluations de Grace, Mariette, Abdoul et Yves ; William remet le même jour son évaluation d'Aïcha ; sa consigne d'isolement de Grace et de Mariette est assouplie (communication directe par WhatsApp et canal Direction ; il évitera d'être seul à seul avec elles).
+- **26/07, 14h32** : première évaluation selon la matrice v1.0 : **Aïcha 74/100** (performance standard) ; évaluations de Grace, Mariette, Abdoul et Yves par Aïcha attendues lundi 30/07.

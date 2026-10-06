@@ -73,3 +73,11 @@ Bien reçu patron. Je reste disponible.
 **[26/07/2040 - 14:00] William :**
 Mariette, explique-moi simplement c'est quoi le problème avec les CDD de direction, et qu'est-ce que je dois faire au final.
 *(Texte reconstitué à partir de la dictée. Lu à 14h01.)*
+
+**[26/07/2040 - 14:31] Mariette :**
+Oui patron. Je vous explique simplement.
+Le problème. En Côte d'Ivoire, un CDD ne peut servir que dans des cas précis : remplacer quelqu'un d'absent, un surcroît d'activité, un travail saisonnier, un chantier ou un projet. Un poste de direction qui dure n'en fait pas partie. Si un juge regarde nos CDD de direction, il peut les considérer comme des CDI.
+Deuxième point : un CDD ne s'arrête pas avant la fin parce que l'évaluation est mauvaise. Seulement pour faute lourde, accord des deux parties ou force majeure. Sinon la société doit payer tout ce qui restait jusqu'à la fin du contrat. Donc le licenciement prévu sous 30/100 dans la matrice n'est pas possible pour un CDD.
+Troisième point : à la fin d'un CDD, la société doit une indemnité de 3 % de tout ce qui a été versé. Pour les six cadres sur 24 mois, environ 3,4 millions de FCFA, non provisionnés. Si le CDD est remplacé par un CDI, cette indemnité n'est plus due.
+Ce qu'il faut décider avant le 31/07 : transformer les CDD de direction en CDI, avec une période d'essai et des clauses de performance bien rédigées, ou les garder en acceptant ces risques. Je me permets de recommander la transformation en CDI. C'est Maître Kouamé qui doit la rédiger et la valider : ma note est une analyse RH, pas un avis d'avocat.
+Excusez-moi si c'est long. Je reste disponible.

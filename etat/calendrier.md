@@ -1,4 +1,4 @@
-# Calendrier (au 26/07/2040, 14h08)
+# Calendrier (au 26/07/2040, 14h32)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -25,7 +25,7 @@
 | Dim. 22/07, soir | **FAIT** : synthèse de la semaine ISO 29 (`memoire/semaine-2040-W29.md`) + fiche complète. |
 | Mer. 25/07, soir | Prochaine fiche complète (3 jours simulés après le 22/07). |
 | **Jeu. 26/07, soir** | ~~William lit en détail la note juridique de Mariette après le travail et lui fait son retour le soir même~~ **AVANCÉ : William dit à 13h46 qu'il a lu la note et charge Aïcha d'en parler à Mariette ; Aïcha refuse (13h53) ; William écrit lui-même à Mariette (13h57) ; le rappel téléphone de 18h sonnera.** |
-| **Lun. 30/07** | **Revue du lundi** (deuxième) ; **début du système d'évaluation** (Aïcha remet les évaluations de Grace, Mariette, Abdoul et Yves ; William remet son évaluation d'Aïcha, prévue dès samedi 28/07 soir) ; arrivée possible des fonds de la dotation à la SGBCI (lun. 30 – mar. 31/07). |
+| **Lun. 30/07** | **Revue du lundi** (deuxième) ; **début du système d'évaluation** (Aïcha remet les évaluations de Grace, Mariette, Abdoul et Yves ; William a remis son évaluation d'Aïcha le 26/07 (74/100)) ; arrivée possible des fonds de la dotation à la SGBCI (lun. 30 – mar. 31/07). |
 | Dim. 29/07, soir | Synthèse de la semaine ISO 30 (`memoire/semaine-2040-W30.md`). |
 | Lun. 23/07, 8h | Aïcha + Mariette : intégrer la matrice d'évaluation au règlement (annoncé le 20/07). |
 | Lun. 23/07, ouverture | SGBCI : Aïcha doit déposer sa fiche de spécimen de signature, sinon les prochains ordres sont bloqués. |
@@ -79,8 +79,9 @@
 | **Jeu. 26/07, 13h46-13h55** | William fixe le rapport (PDF sur le serveur, 17h) ; demande à Aïcha de dire à Mariette qu'il a lu sa note et garde son système de notation personnelle (**Aïcha refuse**, 13h53) ; note téléphone : évaluer Aïcha d'ici samedi soir ; Aïcha surveille Abdoul ; William renonce au remboursement de ses avances (dossier en attente) ; CNPS/ITS de juin confiés à Aïcha. |
 | **Jeu. 26/07, 13h55-13h59** | William accepte le refus d'Aïcha (« c'est pas grave ») et écrit lui-même à Mariette (13h57) ; Mariette répond à 13h59 : « Bien reçu patron. Je reste disponible. » |
 | **Jeu. 26/07, 14h00-14h08** | William écrit à Mariette (CDD de direction) ; classe ses dépenses d'avant le compte en dépenses personnelles ; rédige la renonciation aux avances (PDF, non signé) ; lance l'évaluation d'Aïcha (questions-réponses). |
-| **Jeu. 26/07, vers 14h30** | Réponse détaillée de Mariette sur les CDD de direction (T1 : rien_absorption). |
-| **Sam. 28/07, soir** | ~~Rappel téléphone de William : évaluer Aïcha~~ **AVANCÉ : évaluation lancée le jeu. 26/07 vers 14h08** (questions-réponses avec le moteur ; le rappel de samedi sera sans objet si elle est terminée). |
+| **Jeu. 26/07, 14h08-14h32** | Évaluation d'Aïcha en questions-réponses (14h08-14h26 : 74/100) ; PDF généré (14h27) et uploadé dans `direction/` (14h28) ; message dans le groupe Direction (14h29), Aïcha : « Bien noté, patron. » ; Mariette répond à 14h31 sur les CDD de direction. |
+| **Jeu. 26/07, 14h31** | ~~Réponse détaillée de Mariette sur les CDD de direction~~ **REÇUE** (T1 : rien_absorption) : conversion en CDI recommandée, décision avant le 31/07. |
+| **Sam. 28/07, soir** | ~~Rappel téléphone de William : évaluer Aïcha~~ **FAIT : évaluation terminée le jeu. 26/07 à 14h26 (74/100) ; le rappel de samedi soir sera sans objet.** |
 | **Chaque jour, 17h** | **Rapport d'Aïcha à William en PDF** dans `serveur/direction/` (fixé par William vers 13h48 ; `rapport_direction_JJMM.pdf`) ; **premier : jeu. 26/07, 17h**. |
 | **Avant ven. 27/07** | **Me Kouamé envoie par courriel le seuil d'autorisation proposé** ; William envoie bulletins + avis d'imposition. |
 | **Mer. 25/07, ~17h** | Décision corrigée (115 M FCFA) **prête à signer** après relecture (friction : retapée et relue) ; courriel de Me Kouamé pour la Spuerkeess au même moment. **William a choisi (16h16) de revenir jeu. 26/07 à 9h.** |

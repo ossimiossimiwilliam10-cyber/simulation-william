@@ -107,3 +107,11 @@ Compris 🫡
 
 **[23/07/2040 - 23:52] Mariette :**
 Règles de classement déposées dans direction/ (regles_classement_2307.pdf). À appliquer dès demain. Merci.
+
+**[26/07/2040 - 14:29] William :**
+L'évaluation d'Aïcha est disponible sur le serveur, dans le dossier direction.
+Aïcha, tu dois faire de même pour les autres évaluations : les mettre sur le serveur, éventuellement dans le dossier direction.
+*(Texte reconstitué à partir de la dictée. Posté dans le groupe : cinq destinataires.)*
+
+**[26/07/2040 - 14:30] Aïcha :**
+Bien noté, patron.

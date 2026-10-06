@@ -1,17 +1,17 @@
-# Évaluation d'Aïcha Diomandé par William — EN COURS (état au 26/07/2040, 14h08)
+# Évaluation d'Aïcha Diomandé par William — TERMINÉE (état au 26/07/2040, 14h27)
 
 > Procédure voulue par William (demande du 26/07/2040) : questions-réponses avec le moteur, critère par critère, d'affilée. Le moteur énonce le critère et demande la note ; il ne suggère rien et ne commente pas (règles 6 et 16). Matrice v1.0 : `serveur/rh/matrice_evaluation.pdf`.
 > William a avancé l'évaluation (rappel initial : samedi 28/07 au soir) : lancée le jeudi 26/07 à 14h08.
 
 | # | Critère | Barème | Note de William |
 |---|---|---|---|
-| 1 | Assiduité et ponctualité (tronc commun) | 10 / 5 / 0 | — |
-| 2 | Respect des directives et de la hiérarchie (tronc commun) | 10 / 5 / 0 | — |
-| 3 | Usage du serveur et traçabilité (tronc commun) | 10 / 5 / 0 | — |
-| 4 | Rentabilité globale (direction / gestion) | 0 à 30 | — |
-| 5 | Coordination des pôles (direction / gestion) | 0 à 20 | — |
-| 6 | Reporting (direction / gestion) | 0 à 20 | — |
-| 7 | Ajustement discrétionnaire de la Direction générale (bonus / malus) | libre | — |
+| 1 | Assiduité et ponctualité (tronc commun) | 10 / 5 / 0 | **5** (26/07, 14h14) |
+| 2 | Respect des directives et de la hiérarchie (tronc commun) | 10 / 5 / 0 | **7** (26/07, 14h16 ; valeur intermédiaire : le barème de ce critère ne prévoit que 10, 5 ou 0 ; consignée telle quelle) |
+| 3 | Usage du serveur et traçabilité (tronc commun) | 10 / 5 / 0 | **5** (26/07, 14h18) |
+| 4 | Rentabilité globale (direction / gestion) | 0 à 30 | **24** (26/07, 14h20) |
+| 5 | Coordination des pôles (direction / gestion) | 0 à 20 | **18** (26/07, 14h22) |
+| 6 | Reporting (direction / gestion) | 0 à 20 | **15** (26/07, 14h24) |
+| 7 | Ajustement discrétionnaire de la Direction générale (bonus / malus) | libre | **0** (26/07, 14h26) |
 
 Barème de sanction et de promotion : moins de 30 : licenciement pour incompétence notoire + « naming and shaming » ; 30 à 60 : avertissement formel ; 61 à 85 : performance standard ; 86 à 95 : prime d'excellence de 150 000 FCFA ; 96 et plus : prime + éligibilité à une promotion.
 
@@ -77,3 +77,7 @@ Description : transparence totale envers le Gérant (William).
 ### 7. Ajustement discrétionnaire de la Direction générale (bonus / malus)
 - Matrice v1.0 : « La Direction générale (W. Ossimi) se réserve le droit exclusif d'ajouter ou de retirer des points à tout employé. »
 - Le total avant ajustement et les seuils du barème sont annoncés au moment de la question.
+
+**Total avant ajustement (26/07, 14h24) : 74 / 100** (tronc commun 17/30 = 5 + 7 + 5 ; direction / gestion 57/70 = 24 + 18 + 15) — tranche 61 à 85 : performance standard (maintien).
+
+**RÉSULTAT FINAL (26/07/2040, 14h26) : 74 / 100, ajustement discrétionnaire 0 → tranche 61 à 85 : performance standard (maintien).** Évaluation TERMINÉE ; PDF généré à 14h27 : `serveur/direction/evaluation_aicha_2607.pdf`.
