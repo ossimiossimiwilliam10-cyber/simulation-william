@@ -1,4 +1,4 @@
-# Calendrier (au 26/07/2040, 13h59)
+# Calendrier (au 26/07/2040, 14h08)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -78,7 +78,9 @@
 | **Jeu. 26/07, 13h38-13h46** | William confie toute la direction à Aïcha (rapport chaque soir ; évaluations lundi ; il se déconnecte de l'équipe de direction ; isolement de Grace et Mariette assoupli) ; Aïcha : « Oui, patron. Tu peux compter sur moi. » ; elle demande le format et l'heure du rapport. |
 | **Jeu. 26/07, 13h46-13h55** | William fixe le rapport (PDF sur le serveur, 17h) ; demande à Aïcha de dire à Mariette qu'il a lu sa note et garde son système de notation personnelle (**Aïcha refuse**, 13h53) ; note téléphone : évaluer Aïcha d'ici samedi soir ; Aïcha surveille Abdoul ; William renonce au remboursement de ses avances (dossier en attente) ; CNPS/ITS de juin confiés à Aïcha. |
 | **Jeu. 26/07, 13h55-13h59** | William accepte le refus d'Aïcha (« c'est pas grave ») et écrit lui-même à Mariette (13h57) ; Mariette répond à 13h59 : « Bien reçu patron. Je reste disponible. » |
-| **Sam. 28/07, soir** | **Rappel téléphone de William : évaluer Aïcha** (questions-réponses avec le moteur, critère par critère). |
+| **Jeu. 26/07, 14h00-14h08** | William écrit à Mariette (CDD de direction) ; classe ses dépenses d'avant le compte en dépenses personnelles ; rédige la renonciation aux avances (PDF, non signé) ; lance l'évaluation d'Aïcha (questions-réponses). |
+| **Jeu. 26/07, vers 14h30** | Réponse détaillée de Mariette sur les CDD de direction (T1 : rien_absorption). |
+| **Sam. 28/07, soir** | ~~Rappel téléphone de William : évaluer Aïcha~~ **AVANCÉ : évaluation lancée le jeu. 26/07 vers 14h08** (questions-réponses avec le moteur ; le rappel de samedi sera sans objet si elle est terminée). |
 | **Chaque jour, 17h** | **Rapport d'Aïcha à William en PDF** dans `serveur/direction/` (fixé par William vers 13h48 ; `rapport_direction_JJMM.pdf`) ; **premier : jeu. 26/07, 17h**. |
 | **Avant ven. 27/07** | **Me Kouamé envoie par courriel le seuil d'autorisation proposé** ; William envoie bulletins + avis d'imposition. |
 | **Mer. 25/07, ~17h** | Décision corrigée (115 M FCFA) **prête à signer** après relecture (friction : retapée et relue) ; courriel de Me Kouamé pour la Spuerkeess au même moment. **William a choisi (16h16) de revenir jeu. 26/07 à 9h.** |

@@ -69,3 +69,7 @@ Si je ne suis pas d'accord avec un point, j'ai le dernier mot.
 
 **[26/07/2040 - 13:59] Mariette :**
 Bien reçu patron. Je reste disponible.
+
+**[26/07/2040 - 14:00] William :**
+Mariette, explique-moi simplement c'est quoi le problème avec les CDD de direction, et qu'est-ce que je dois faire au final.
+*(Texte reconstitué à partir de la dictée. Lu à 14h01.)*

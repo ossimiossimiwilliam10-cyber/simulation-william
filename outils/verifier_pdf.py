@@ -1,4 +1,4 @@
-"""Contrôle qualité des PDF de `serveur/` et de `courriels/` (pièces reçues par William hors serveur) — À LANCER après chaque génération de livrable.
+"""Contrôle qualité des PDF de `serveur/`, de `courriels/` (pièces reçues par William hors serveur) et de `documents_william/` (pièces rédigées par William, gardées hors serveur) — À LANCER après chaque génération de livrable.
 
     python outils/verifier_pdf.py
 
@@ -38,9 +38,10 @@ MOTIF_MOT = re.compile(r"[A-Za-zÀ-ÿ']+")
 
 
 def main():
-    pdfs = sorted((RACINE / "serveur").rglob("*.pdf")) + sorted((RACINE / "courriels").rglob("*.pdf"))
+    pdfs = (sorted((RACINE / "serveur").rglob("*.pdf")) + sorted((RACINE / "courriels").rglob("*.pdf"))
+            + sorted((RACINE / "documents_william").rglob("*.pdf")))
     if not pdfs:
-        print("Aucun PDF dans serveur/ ni courriels/.")
+        print("Aucun PDF dans serveur/, courriels/ ni documents_william/.")
         return 0
     erreurs = 0
     for p in pdfs:
