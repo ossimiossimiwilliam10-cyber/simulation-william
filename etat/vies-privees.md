@@ -85,3 +85,5 @@
 - **Abdoul (26/07 11h23)** : « Merci, Boss. » ; son plan technique arrive cet après-midi.
 - **Mariette (26/07 12h57-13h19)** : reçoit un message direct de William, premier depuis la consigne ; répond normalement, formellement (« je me permets », « excusez-moi ») ; *(non connu de William)* en parle à un proche hors du travail (T1 : confidence_proche, jet 53.6) ; mentionne les dossiers RH sensibles hors serveur.
 - **Abdoul (26/07 12h58)** : reçoit « tu n'as pas intérêt à me décevoir » ; répond « Compris, Boss. » ; précise que le devis de la villa est celui de Grace ; sort son plan cet après-midi.
+- **Mariette (26/07 13h22)** : reçoit la validation de ses règles ; « Oui patron. » ; rien d'autre ne se voit (T1 : rien_absorption, jet 13.3).
+- **Aïcha (26/07 13h22-13h37)** : convoquée « immédiatement, c'est urgent » sans motif ; répond « J'arrive, patron. Je termine avec la banque. » et arrive quinze minutes plus tard (T7c : execute_a_contrecoeur, jet 88.5) ; debout, porte entrouverte ; *intérêt : poste, nom sur les papiers ; elle craint une nouvelle affaire.*

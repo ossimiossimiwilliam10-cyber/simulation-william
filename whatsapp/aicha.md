@@ -134,3 +134,10 @@ Je serai bien là vers midi. Prépare-toi.
 
 **[26/07/2040 - 09:39] Aïcha :**
 Bien, patron. Je suis prête.
+
+**[26/07/2040 - 13:22] William :**
+Viens dans mon bureau immédiatement. C'est urgent.
+*(Texte reconstitué à partir de la dictée. Lu à 13h23.)*
+
+**[26/07/2040 - 13:24] Aïcha :**
+J'arrive, patron. Je termine avec la banque.

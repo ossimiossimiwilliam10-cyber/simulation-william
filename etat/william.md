@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 26/07/2040, 13h20)
+# William Ossimi — profil (état au 26/07/2040, 13h37)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -148,3 +148,4 @@
 - **26/07, 09h31-11h10** : valide le seuil d'autorisation ; écrit « Bonjour, comment ça va ? » à Sandra ; dit à Aïcha qu'il sera là vers midi ; ne répond pas à Grace pour le déjeuner ; **envoie bulletins et avis d'imposition à Me Kouamé (09h55)** ; Abdoul obtient 4 % (10h20) ; arrive au QG à 10h38 ; SécuTech a fini ; **débrief d'Aïcha à 10h50** ; **n'a pas encore répondu** sur le déjeuner de vendredi ni sur la réception des travaux SécuTech.
 - **26/07, 11h12-12h50** : dit à Aïcha qu'ils peuvent faire le déjeuner de vendredi sans lui ; lui demande de valider le devis de la clinique (« tout est bon pour moi ») ; renvoie Sékou vers Aïcha ; dit à Abdoul « C'est du bon boulot » ; **programme un rappel pour 18h** (note de Mariette, puis message à Aïcha) ; pause déjeuner ; Sandra n'a pas répondu ; **rien d'immédiat en attente**.
 - **26/07, 12h57-13h20** : relance Abdoul (plan technique, devis de la villa ; « tu n'as pas intérêt à me décevoir ») ; **écrit directement à Mariette** (explication des règles de classement) ; Abdoul : plan cet après-midi, le devis de la villa est celui de Grace ; **Mariette répond à 13h19** ; rien d'immédiat en attente.
+- **26/07, 13h21-13h37** : valide les règles de classement de Mariette (« Ok, c'est bon. Je valide, sans plus. ») ; **convoque Aïcha « immédiatement, c'est urgent »** ; elle arrive à 13h37 ; **il n'a pas encore dit pourquoi**.

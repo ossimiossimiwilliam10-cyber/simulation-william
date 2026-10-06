@@ -51,3 +51,10 @@ Les noms : sujet_JJMM.pdf, sans espace ; une nouvelle version s'appelle _v2.
 Je passe en revue le serveur chaque vendredi à 16h et je vous remets la liste des écarts.
 Une précision, excusez-moi : les dossiers RH individuels sensibles restent en accès restreint, hors du serveur partagé, comme je vous l'ai dit mercredi.
 Je reste disponible.
+
+**[26/07/2040 - 13:21] William :**
+Ok, c'est bon. Je valide, sans plus.
+*(Texte reconstitué à partir de la dictée ; il valide les règles de classement.)*
+
+**[26/07/2040 - 13:22] Mariette :**
+Oui patron.
