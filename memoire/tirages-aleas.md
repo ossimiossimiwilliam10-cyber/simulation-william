@@ -176,3 +176,13 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Tirage [T7c] « Abdoul : ordre de William de négocier un geste commercial auprès du fournisseur de Vridi pour le retard des batteries et onduleurs » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  46.9 → **execute_sans_discuter** (enregistré le 06/10/2026 19:02 heure machine)
 
 - Jet « Me Kouamé présente à William le seuil d'autorisation proposé pendant la signature de jeudi 9h » : probabilité 60 %, jet  53.4 → **OUI** (enregistré le 06/10/2026 19:02 heure machine)
+
+- Tirage [T7c] « Aïcha : consigne de William (« je serai là vers midi, prépare-toi ») pour le débrief sur Grace au QG » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  59.3 → **execute_sans_discuter** (enregistré le 06/10/2026 23:44 heure machine)
+
+- Jet « William retrouve immédiatement l'avis d'imposition dans sa messagerie pendant le trajet de retour (les trois bulletins sont déjà disponibles) » : probabilité 70 %, jet  47.6 → **OUI** (enregistré le 06/10/2026 23:44 heure machine)
+
+- Jet « Trajet Plateau vers Cocody jeudi 26/07, départ 9h42 : durée supérieure à 60 minutes » : probabilité 40 %, jet  44.6 → **NON** (enregistré le 06/10/2026 23:44 heure machine)
+
+- Jet « SécuTech termine les travaux du QG (câble des 2 caméras d'accueil) avant midi jeudi 26/07 » : probabilité 60 %, jet  15.6 → **OUI** (enregistré le 06/10/2026 23:44 heure machine)
+
+- Jet « Abdoul obtient un geste de Vridi pour le retard (remise ou livraison offerte) » : probabilité 35 %, jet  34.7 → **OUI** (enregistré le 06/10/2026 23:44 heure machine)

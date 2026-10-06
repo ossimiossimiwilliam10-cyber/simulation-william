@@ -159,3 +159,8 @@ Total des avances non remboursées par l'entreprise :
 - **Dotation 176 725 €** : projet transmis à la Spuerkeess le 25/07 à 18h20 ; déblocage au plus tôt jeu. 26/07 ; arrivée à la SGBCI entre lun. 30/07 et mar. 31/07 ; augmentation de 115 M FCFA (capital 145 M) ; surplus ≈ 0,8 M en compte courant d'associé (avances ≈ 3,54 M + surplus ≈ 4,3 M).
 - **Onduleurs et batteries (1 800 000 FCFA payés le 18/07)** : **retard de huit jours annoncé le 26/07 à 08h25** (aléa A06 ; « la douane » ; excuse fausse, non connue de William).
 - **William** : patrimoine net ≈ 787 700 € (inchangé) ; compte ivoirien au niveau 1.
+
+## Mise à jour du jeudi 26/07/2040, 11h10
+- **Seuil d'autorisation validé** (5 M / 10 M FCFA ; liste (a) à (f)) : sera intégré aux statuts modifiés (limitation de la procuration de la gérante).
+- **Vridi (A06)** : geste obtenu par Abdoul : **4 % sur la prochaine commande** ; délai de huit jours maintenu ; livraison vers le 3 août.
+- **SécuTech** : travaux terminés ; **solde de 525 000 FCFA** à régler à la réception (signature à donner) ; trésorerie projetée fin juillet ≈ 20,6 M FCFA hors dotation (inchangée dans l'ordre de grandeur).

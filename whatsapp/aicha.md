@@ -127,3 +127,10 @@ Je lis la convention, patron. Je te réponds demain matin.
 
 **[26/07/2040 - 08:10] Aïcha :**
 Patron, j'ai lu la convention. Je la signe vendredi au cabinet, avec Maître Kouamé, et je passe l'ordre à la banque dans la foulée.
+
+**[26/07/2040 - 09:38] William :**
+Je serai bien là vers midi. Prépare-toi.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[26/07/2040 - 09:39] Aïcha :**
+Bien, patron. Je suis prête.

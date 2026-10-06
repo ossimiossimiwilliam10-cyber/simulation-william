@@ -75,3 +75,8 @@
 - **Aïcha (25/07 21h25 → 26/07 08h10)** : répond « Je lis la convention… Je te réponds demain matin », puis fixe la signature et le paiement **à vendredi au cabinet, avec Me Kouamé** (T7c : à contrecœur, jet 80.9) ; *intérêt : signataire, nom sur les papiers, elle lit avant de signer et veut Me Kouamé présent* ; sa froideur s'installe.
 - **Sandra (25/07 nuit)** : en garde de nuit au CHEM, n'écrit pas (jet en dérogation, 45 % : NON) ; **sait toujours que ses trois questions sont restées sans réponse**.
 - **Fournisseur de Vridi (26/07)** : *(non connu de William)* l'excuse de la douane est fausse ; il n'a pas encore reçu la marchandise de son propre fournisseur ; il espère gagner huit jours.
+- **Aïcha (26/07 09h39 → 11h05)** : « Bien, patron. Je suis prête. » (T7c : exécute) ; débrief oral sur Grace, **sans écrit** (T3 d'hier : contient) ; **elle ne sait pas encore que ses pouvoirs seront limités** (statuts modifiés vendredi) ; elle pose la question du déjeuner de vendredi au nom de Grace.
+- **Grace (26/07 10h38)** : bonjour formel, porte entrouverte, sans lever les yeux ; elle a demandé hier à Aïcha si le déjeuner de vendredi est maintenu et attend la réponse.
+- **Mariette (26/07)** : porte fermée ; travaille ; n'a rien dit.
+- **Sandra (26/07 09h35)** : dort après sa garde de nuit ; deux coches grises sur le message de William.
+- **Sékou (26/07)** : déférent, termine le chantier et attend la réception et le solde.

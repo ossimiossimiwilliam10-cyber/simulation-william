@@ -11,3 +11,6 @@ Négocie un geste pour le retard.
 
 **[26/07/2040 - 08:57] Abdoul :**
 Compris, Boss.
+
+**[26/07/2040 - 10:20] Abdoul :**
+Boss. Vridi : huit jours, c'est ferme. Mais quatre pour cent sur la prochaine commande, obtenu. Livraison vers le 3 août.

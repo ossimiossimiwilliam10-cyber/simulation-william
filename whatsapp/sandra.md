@@ -53,3 +53,7 @@ Oui, pas de problème. On s'appelle.
 
 **[25/07/2040 - 14:59 (Abidjan) / 16:59 (Esch)] Sandra :**
 Parfait. À tout à l'heure.
+
+**[26/07/2040 - 09:35 (Abidjan) / 11:35 (Esch)] William :**
+Bonjour, comment ça va ?
+*(Texte reconstitué : « Sansa » lu Sandra. Deux coches grises : Sandra dort après sa garde de nuit.)*
