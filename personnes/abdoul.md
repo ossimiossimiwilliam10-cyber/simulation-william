@@ -27,3 +27,4 @@ rapidité commerciale de Grace ou avec les exigences de coût de William. Il tie
 - 26/07, 10h20 : « Boss. Vridi : huit jours, c'est ferme. Mais quatre pour cent sur la prochaine commande, obtenu. Livraison vers le 3 août. » (négociation : jet 35 % OUI)
 - 26/07, 11h22-11h23 : William : « C'est du bon boulot. » ; Abdoul : « Merci, Boss. »
 - 26/07, 12h57-12h58 : William : « On attend toujours le plan technique et le devis comparatif de la villa. Je te fais confiance. Tu n'as pas intérêt à me décevoir. » ; Abdoul : « Compris, Boss. Le plan, c'est cet après-midi. Le devis de la villa, c'est Grace. » (T7c : execute_sans_discuter, jet 6.3)
+- 26/07, 13h50 : William demande à Aïcha de le surveiller (« il nous doit beaucoup de choses pour aujourd'hui ») ; Aïcha : « Abdoul, je passe le voir. » ; Abdoul l'ignore.

@@ -1,4 +1,4 @@
-# Calendrier (au 26/07/2040, 13h46)
+# Calendrier (au 26/07/2040, 13h55)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -24,8 +24,8 @@
 | Sam. 21 – Dim. 22/07 | Week-end écoulé. Aïcha (17/07) : « Ce week-end peut-être. Si tu es sage. » — **aucune rencontre** (Aïcha chez sa mère ; William n'a pas relancé). |
 | Dim. 22/07, soir | **FAIT** : synthèse de la semaine ISO 29 (`memoire/semaine-2040-W29.md`) + fiche complète. |
 | Mer. 25/07, soir | Prochaine fiche complète (3 jours simulés après le 22/07). |
-| **Jeu. 26/07, soir** | **William lit en détail la note juridique de Mariette après le travail et lui fait son retour le soir même** (avant : samedi 28/07 matin, retour la semaine suivante ; Mariette n'est pas informée du changement). |
-| **Lun. 30/07** | **Revue du lundi** (deuxième) ; **début du système d'évaluation** (Aïcha remet les évaluations de Grace, Mariette, Abdoul et Yves ; William remet son évaluation d'Aïcha) ; arrivée possible des fonds de la dotation à la SGBCI (lun. 30 – mar. 31/07). |
+| **Jeu. 26/07, soir** | ~~William lit en détail la note juridique de Mariette après le travail et lui fait son retour le soir même~~ **AVANCÉ : William dit à 13h46 qu'il a lu la note et charge Aïcha d'en parler à Mariette ; Aïcha refuse (13h53) ; le rappel téléphone de 18h sonnera.** |
+| **Lun. 30/07** | **Revue du lundi** (deuxième) ; **début du système d'évaluation** (Aïcha remet les évaluations de Grace, Mariette, Abdoul et Yves ; William remet son évaluation d'Aïcha, prévue dès samedi 28/07 soir) ; arrivée possible des fonds de la dotation à la SGBCI (lun. 30 – mar. 31/07). |
 | Dim. 29/07, soir | Synthèse de la semaine ISO 30 (`memoire/semaine-2040-W30.md`). |
 | Lun. 23/07, 8h | Aïcha + Mariette : intégrer la matrice d'évaluation au règlement (annoncé le 20/07). |
 | Lun. 23/07, ouverture | SGBCI : Aïcha doit déposer sa fiche de spécimen de signature, sinon les prochains ordres sont bloqués. |
@@ -76,7 +76,9 @@
 | **Jeu. 26/07, 12h57-13h20** | William relance Abdoul (plan technique, devis de la villa ; « tu n'as pas intérêt à me décevoir ») ; écrit directement à Mariette pour qu'elle explique ses règles de classement ; **Mariette répond à 13h19**. |
 | **Jeu. 26/07, 13h21-13h37** | William valide les règles de classement de Mariette (13h21) ; **convoque Aïcha « immédiatement, c'est urgent » (13h22)** ; Aïcha, au téléphone avec la SGBCI, arrive à 13h37. |
 | **Jeu. 26/07, 13h38-13h46** | William confie toute la direction à Aïcha (rapport chaque soir ; évaluations lundi ; il se déconnecte de l'équipe de direction ; isolement de Grace et Mariette assoupli) ; Aïcha : « Oui, patron. Tu peux compter sur moi. » ; elle demande le format et l'heure du rapport. |
-| **Chaque soir (dès le 26/07)** | **Rapport d'Aïcha à William** (événements, décisions) : format et heure à fixer par William. |
+| **Jeu. 26/07, 13h46-13h55** | William fixe le rapport (PDF sur le serveur, 17h) ; demande à Aïcha de dire à Mariette qu'il a lu sa note et garde son système de notation personnelle (**Aïcha refuse**, 13h53) ; note téléphone : évaluer Aïcha d'ici samedi soir ; Aïcha surveille Abdoul ; William renonce au remboursement de ses avances (dossier en attente) ; CNPS/ITS de juin confiés à Aïcha. |
+| **Sam. 28/07, soir** | **Rappel téléphone de William : évaluer Aïcha** (questions-réponses avec le moteur, critère par critère). |
+| **Chaque jour, 17h** | **Rapport d'Aïcha à William en PDF** dans `serveur/direction/` (fixé par William vers 13h48 ; `rapport_direction_JJMM.pdf`) ; **premier : jeu. 26/07, 17h**. |
 | **Avant ven. 27/07** | **Me Kouamé envoie par courriel le seuil d'autorisation proposé** ; William envoie bulletins + avis d'imposition. |
 | **Mer. 25/07, ~17h** | Décision corrigée (115 M FCFA) **prête à signer** après relecture (friction : retapée et relue) ; courriel de Me Kouamé pour la Spuerkeess au même moment. **William a choisi (16h16) de revenir jeu. 26/07 à 9h.** |
 | **Ven. 27/07 (au plus tard)** | William envoie à Me Kouamé trois bulletins de salaire + avis d'imposition ; **Aïcha au cabinet pour la ratification des contrats**. |
