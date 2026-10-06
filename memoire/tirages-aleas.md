@@ -155,3 +155,5 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Me Kouamé envoie la convention d'honoraires et l'état du solde de la création avant 21h » : probabilité 85 %, jet  40.6 → **OUI** (enregistré le 06/10/2026 00:00 heure machine)
 
 - Jet « Me Kouamé : l'état du solde de la création comporte un poste non annoncé (avenants de prise de poste facturés à part, 3 x 100 000 FCFA), friction économique » : probabilité 30 %, jet  66.7 → **NON** (enregistré le 06/10/2026 00:02 heure machine)
+
+- Tirage [T7c] « Aïcha : ordre de William de signer la convention d'honoraires (augmentation) et de régler 2 000 000 FCFA (solde de la création) depuis la SGBCI » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  77.8 → **execute_a_contrecoeur** (enregistré le 06/10/2026 18:45 heure machine)

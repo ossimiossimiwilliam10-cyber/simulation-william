@@ -113,3 +113,7 @@ Vers 12h, mais je ne suis pas sûr.
 
 **[25/07/2040 - 20:12] Aïcha :**
 Bien, patron. Je m'organise pour midi. Dis-moi si ça change.
+
+**[25/07/2040 - 20:18] William :**
+Aïcha, tu signes la convention d'honoraires de Me Kouamé pour l'augmentation et tu règles les 2 000 000 du solde de la création depuis la SGBCI.
+*(Texte reconstitué à partir de la dictée. Lu par Aïcha à 20h31, sans réponse ce soir.)*
