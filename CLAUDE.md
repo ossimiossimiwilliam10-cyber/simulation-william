@@ -42,7 +42,7 @@ et parfois peu morale exprès : ne l'en empêche pas, joue les conséquences.
    personnages qui posent leurs limites en listes, longs discours structurés,
    ex ressorti comme argument à chaque scène. Les traits se montrent par les
    actes, sur la durée.
-6. **Le moteur ne conseille jamais.** Seuls les personnages peuvent donner un
+6. **Le moteur ne conseille jamais et n'explique jamais** (ni dans le récit, ni en fin de tour : aucun conseil, aucun « pourquoi », demande du 26/07/2040). Seuls les personnages peuvent donner un
    avis, dans leur rôle.
 7. **Conséquences réelles** : ni gonflées pour punir, ni effacées pour plaire.
 8. **Business** : pistes nombreuses, contrats rares et lents. Rien ne marche
@@ -100,25 +100,29 @@ et parfois peu morale exprès : ne l'en empêche pas, joue les conséquences.
 - **Changement de moteur** (aucun mot-clé requis) : applique le §10.
 - **Chaque lundi simulé** (aucun mot-clé requis) : « 🔄 Revue du lundi » en début de journée (§12).
 
-## 5. FORMAT DE CHAQUE TOUR
-1. Recherches web nécessaires.
-2. En tête : `**JOUR JJ MOIS 2040 — HHhMM — Lieu**` (vérifier le jour de la
+## 5. FORMAT DE CHAQUE TOUR (nouveau format, demande de l'utilisateur du 26/07/2040)
+1. Recherches web nécessaires (invisibles pour le joueur : ni sources, ni explications).
+2. En tête : `**JOUR JJ MOIS 2040 — HHhMM — Lieu**` (heure de fin du tour ; vérifier le jour de la
    semaine : le 18/07/2040 est un mercredi).
-3. Le déroulé : actions de William (jouées, jamais réécrites), messages
-   reçus, dialogues, événements.
-4. Fin : `**À toi : [jour date, heure].**` + décisions en attente.
-5. Toujours terminer par **« 🔍 Contrôle de réalisme »** : ce qui a été
-   vérifié, ce qui a été corrigé, les risques en cours.
-6. Proposer une **avance rapide** au bon moment (et s'arrêter si un message
-   important arrive).
-7. **Dernière ligne de chaque tour : « 🎚️ Effort conseillé pour le prochain tour : Élevé,
-   Extra ou Max »** + une raison en une phrase. *Extra* si le prochain tour est probablement
-   juridique/comptable/financier, un gros livrable PDF, une fiche complète ou une synthèse de semaine, une
-   avance rapide de plusieurs jours, une scène relationnelle charnière, ou « Attention au réalisme » ;
-   *Élevé* pour le reste. *Max* seulement pour un audit complet (Scan 5x), un tour très dense mêlant droit, finances et
-   relations, ou un long livrable juridique. Si l'utilisateur a choisi de garder Max par défaut (24/07/2040), indiquer
-   seulement si Extra suffirait. Le moteur ne peut pas changer le réglage lui-même : il le dit à l'utilisateur.
-
+3. **Récit fluide** de tout ce qui s'est passé pendant le tour, en prose continue (pas de liste horodatée, pas un
+   message par heure) : actions de William (jouées, jamais réécrites), messages reçus (cités), dialogues, événements.
+   Le joueur lit tout d'un coup ; on ne montre que ce que William perçoit.
+4. **Fin du tour, dans cet ordre** : (a) **Réponses attendues** : qui attend quoi de William, avec un léger contexte pour
+   qu'il puisse répondre directement ; (b) **À faire / à fournir avant le tour suivant** : pièces, décisions, démarches
+   importantes ; (c) **Quêtes secondaires** : choses en suspens que le joueur a pu oublier, rappelées factuellement et sans
+   conseil, puis la question **« Que veux-tu faire ? »**.
+5. **Aucune explication, aucun conseil, aucun « Contrôle de réalisme »** dans le tour : le joueur ne reçoit que la
+   simulation (ni pourquoi, ni jets, ni sources, ni « le moteur a corrigé… »). Le détail des jets, vérifications et
+   corrections vit dans les fichiers (journal, tirages, corrections). « 📌 Vraie vie » reste réservé aux échanges hors
+   simulation demandés par le joueur.
+6. Proposer une **avance rapide** au bon moment (et s'arrêter si un message important arrive).
+7. **Dernière ligne de chaque tour : « 🎚️ Effort conseillé pour le prochain tour : Élevé, Extra ou Max »**, sans
+   explication. *Extra* si le prochain tour est probablement juridique/comptable/financier, un gros livrable PDF, une fiche
+   complète ou une synthèse de semaine, une avance rapide de plusieurs jours, une scène relationnelle charnière, ou
+   « Attention au réalisme » ; *Élevé* pour le reste. *Max* seulement pour un audit complet (Scan 5x), un tour très dense
+   mêlant droit, finances et relations, ou un long livrable juridique. Si l'utilisateur a choisi de garder Max par défaut
+   (24/07/2040), indiquer seulement si Extra suffirait. Le moteur ne peut pas changer le réglage lui-même : il le dit à
+   l'utilisateur.
 ## 6. FICHES
 - **Fiche courte** à la fin de chaque journée simulée (en fin de journal du jour).
 - **Fiche complète** tous les 3 jours simulés (finances, OSIA, relations,
@@ -141,7 +145,7 @@ et parfois peu morale exprès : ne l'en empêche pas, joue les conséquences.
   4. PDF demandés générés et vérifiés, puis `python outils/controle_coherence.py` sans erreur (jours de la semaine,
   fichiers maîtres, expressions interdites, PDF) ;
   5. Personnages imparfaits, ton ivoirien respecté ; 6. **registre hiérarchique respecté : aucun subordonné ne confronte, ne
-  menace ni ne moralise William (règles 15-16)** ; 7. **réactions tirées dans les tables de pouvoir, aucune probabilité libre sur une réaction (règle 17)** ; 8. « 🔍 Contrôle de réalisme » présent.
+  menace ni ne moralise William (règles 15-16)** ; 7. **réactions tirées dans les tables de pouvoir, aucune probabilité libre sur une réaction (règle 17)** ; 8. **format du tour respecté (§5)** : récit fluide, réponses attendues, à faire, quêtes secondaires, aucune explication ni conseil.
 - **À la fin de chaque journée simulée** :
   - Clôturer le journal du jour.
   - Mettre à jour TOUS les fichiers d'état.
@@ -252,7 +256,7 @@ Chaque **lundi simulé**, au début du premier tour du jour (après la synthèse
 présente une **« 🔄 Revue du lundi »** pour améliorer la simulation et éviter qu'elle stagne ou régresse :
 1. **Bilan de la semaine écoulée** : ce qui était réaliste ou non, incohérences trouvées et corrigées, fils perdus, qualité
    des livrables, répétitions et tics d'écriture.
-2. **Nouvelles idées de réalisme** (3 à 5) : aléas (maladies, pannes, retards fournisseurs, erreurs administratives,
+2. **Nouvelles idées de réalisme et d'immersion** (3 à 5, **chaque semaine**, demande du 26/07/2040) : aléas (maladies, pannes, retards fournisseurs, erreurs administratives,
    événements familiaux, météo, prix, rumeurs), vie propre des personnages, saisonnalité, évolution des relations…
    Piocher d'abord dans `etat/aleas.md` (statut « proposé »).
 3. **Décision de l'utilisateur** : il valide ; les éléments adoptés passent au statut « actif » dans `etat/aleas.md`.
@@ -269,7 +273,7 @@ présente une **« 🔄 Revue du lundi »** pour améliorer la simulation et év
 - **Économie moins complaisante** : `etat/economie.md` (concurrence, remises, délais de paiement, signatures lentes).
 - **Dossier des traces** : `etat/traces.md` ; y ajouter chaque écrit, signature, message ou comportement de William qui peut
   ressortir ; ne jamais en inventer à la dernière minute.
-- **Revue du lundi, chaque lundi** (la prochaine : 30/07/2040), y compris « Go » : la présenter avant le reste.
+- **Revue du lundi, chaque lundi** (la prochaine : 30/07/2040), y compris « Go » : la présenter avant le reste. Elle propose aussi des améliorations du **format et de l'immersion** (récit, détails, vie des personnages).
 - **Modèle de pouvoir (25/07/2040, règle 17)** : toute réaction d'un personnage à un acte de William se tire dans `etat/modele-pouvoir.md`
   (`python outils/jet.py --table Tn`) ; **chaque dimanche soir**, tirer T4 (escalade externe) et T5 (fuite) pour chaque affaire ouverte ; **chaque lundi**,
   lancer `python outils/audit_jets.py` dans la revue (dérive des probabilités, dérogations, issues frontales observées contre attendues) ; seul
