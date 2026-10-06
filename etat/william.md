@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 25/07/2040, 19h55)
+# William Ossimi — profil (état au 25/07/2040, 20h05)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -140,3 +140,4 @@
 - **25/07, 17h06** : répond à Sandra qu'il ne sait pas si ça la concerne aussi, que c'est à elle de le lui dire ; Sandra (T8) lui demande un exemple (quand, avec qui, ce qu'il a fait) et offre de répondre ensuite ; **il n'a pas encore répondu**. **T8 installée** (validée).
 - **25/07, 17h07-18h05** : laisse tomber les questions de Sandra, s'excuse, « plus un poids qu'une aide », « je t'aime » ; appel terminé à 17h12 (Sandra : soutien, sans creuser) ; douche, marche dans Cocody Centre (17h30-18h05, pas d'averse) ; reçoit à 17h38 le courriel de Me Kouamé (projet corrigé) ; **de retour devant le Capitol à 18h05** ; **n'a pas encore transmis le projet à la Spuerkeess**.
 - **25/07, 18h05-19h55** : ouvre le courriel de Me Kouamé et **transmet le projet à la Spuerkeess (S-Net, 18h20)** ; dîne ; **reçoit le rapport d'Aïcha (19h02)** et **la convention d'honoraires avec l'état du solde de la création (19h50)** ; **n'a pas encore répondu** (état du solde : 2 000 000 FCFA ; offre d'Aïcha de détailler l'entretien avec Grace de vive voix demain).
+- **25/07, 20h00-20h05** : répond à Aïcha « Je suis d'accord » (débrief oral sur Grace demain) ; Aïcha demande à quelle heure il sera au QG ; **il n'a pas encore répondu** ; l'état du solde de la création (2 000 000 FCFA) reste à valider.

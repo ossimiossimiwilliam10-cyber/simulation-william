@@ -99,3 +99,10 @@ Patron, point de fin de journée.
 18h10 : j'ai dit à Mariette pour le télétravail. Elle a répondu : « D'accord. »
 Maître Kouamé m'écrit de passer au cabinet vendredi pour régulariser la signature des cinq contrats. Je le ferai.
 Je reste disponible.
+
+**[25/07/2040 - 20:00] William :**
+Je suis d'accord.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[25/07/2040 - 20:04] Aïcha :**
+Bien, patron. Tu es au QG à quelle heure demain ? Je m'organise.

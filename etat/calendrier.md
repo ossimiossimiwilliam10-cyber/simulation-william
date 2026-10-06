@@ -1,4 +1,4 @@
-# Calendrier (au 25/07/2040, 19h55)
+# Calendrier (au 25/07/2040, 20h05)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -65,6 +65,7 @@
 | **Mer. 25/07, 17h06** | William : « je ne sais pas si ça compte pour toi aussi, c'est à toi de me le dire » ; Sandra (T8) : « C'est arrivé quand, la dernière fois ? Avec qui ? Et qu'est-ce que tu as fait ? » |
 | **Mer. 25/07, 17h07-18h05** | William laisse tomber les questions de Sandra, s'excuse, dit « je t'aime » ; appel terminé à 17h12 (T8 : soutient_sans_creuser) ; douche à 17h15 ; marche dans Cocody Centre de 17h30 à 18h05 ; **courriel de Me Kouamé reçu à 17h38** (projet corrigé en PDF) ; retour devant le Capitol à 18h05. |
 | **Mer. 25/07, 18h12-19h55** | William transmet le projet à la Spuerkeess (S-Net, 18h20) ; dîner ; **rapport d'Aïcha 19h02** (Grace vue à 15h50 ; Mariette informée du refus à 18h10) ; **courriel de Me Kouamé 19h50** (convention d'honoraires, état du solde 2 000 000 FCFA à valider). |
+| **Mer. 25/07, 20h00-20h05** | William accepte l'offre d'Aïcha (détail sur Grace de vive voix demain) ; Aïcha demande à quelle heure il sera au QG. |
 | **Avant ven. 27/07** | **Me Kouamé envoie par courriel le seuil d'autorisation proposé** ; William envoie bulletins + avis d'imposition. |
 | **Mer. 25/07, ~17h** | Décision corrigée (115 M FCFA) **prête à signer** après relecture (friction : retapée et relue) ; courriel de Me Kouamé pour la Spuerkeess au même moment. **William a choisi (16h16) de revenir jeu. 26/07 à 9h.** |
 | **Ven. 27/07 (au plus tard)** | William envoie à Me Kouamé trois bulletins de salaire + avis d'imposition ; **Aïcha au cabinet pour la ratification des contrats**. |

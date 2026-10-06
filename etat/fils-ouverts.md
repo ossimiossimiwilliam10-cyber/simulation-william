@@ -1,4 +1,4 @@
-# Fils ouverts et décisions en attente (au 25/07/2040, 19h55)
+# Fils ouverts et décisions en attente (au 25/07/2040, 20h05)
 
 > **Fichier de relais.** Tout ce qui est « en suspens » dans le monde doit être ici, pour qu'aucun moteur
 > (Claude ou Gemini) ne l'oublie. Mettre à jour à chaque tour : ajouter, avancer, clore (garder la ligne
@@ -48,7 +48,7 @@
 | 38 | ~~Table T8 (partenaires, famille) proposée~~ **INSTALLÉE le 25/07 (validée par l'utilisateur : « mets en place T8 »)** dans `etat/modele-pouvoir.md` (T8 + modificateurs M40 à M44) ; première utilisation à 17h06 (M40, M43, M44) ; les trois jets libres en dérogation consignée d'avant restent valables (jamais rejoués) | Les réactions de Sandra, de Kevin et de la famille à une confidence partielle, une esquive ou une demande déplacée se tirent désormais dans T8 | en continu |
 | 39 | ~~Convention d'honoraires + état du solde~~ **REÇUS 19h50** (jet 85 % : OUI) ; ~~rapport d'Aïcha~~ **REÇU 19h02** ; **fiche complète** ce soir | Convention d'honoraires de l'augmentation à signer par la gérante (Aïcha) ; état du solde : voir ligne 40 | ce soir |
 | 40 | **État du solde de la création (Me Kouamé, 19h50), à valider à part** : solde 1 250 000 FCFA + cinq contrats de travail à 150 000 FCFA (750 000), avenants inclus = **2 000 000 FCFA**, règlement par la société (jet « poste non annoncé » : NON) | **William valide ou conteste** ; total à régler par la société avec l'augmentation : 4 190 000 à 4 390 000 FCFA (≈ 6 390 à 6 690 €) | ce soir |
-| 41 | **Offre d'Aïcha (19h02)** : détail de son entretien avec Grace **de vive voix demain, « si tu es d'accord »** (elle évite l'écrit sur Grace) | Réponse de William (facultative) ; consigne du 25/07 : plus d'échange direct avec Mariette et Grace, rapport par Aïcha | demain |
+| 41 | ~~Offre d'Aïcha (détail sur Grace de vive voix demain)~~ **ACCEPTÉE 25/07 20h00** (« Je suis d'accord ») ; **Aïcha (20h04) : « Tu es au QG à quelle heure demain ? Je m'organise. »** | **William répond à Aïcha** : il est au cabinet de Me Kouamé à 9h (Plateau), elle l'ignore ; heure et lieu du débrief à fixer ; consigne du 25/07 : plus d'échange direct avec Mariette et Grace | jeu. 26/07 |
 
 **Clos :** réponse à Kevin (21/07) ; réponse à Aïcha sur SécuTech (21/07) ; consigne à Grace (21/07) ; appel à Sandra du 21/07 ; message à Aïcha « fâchée ? » (21/07) ; week-end avec Aïcha (n'a pas eu lieu) ; décision de remboursement (21/07) ; statut de fonctionnaire : décision de se déclarer **au plus tard le 30/12/2040** (22/07) ; **validation des cinq idées de la revue du lundi (23/07)** ; **récap de Grace validé (23/07, planchers 25 % / 20 %)**.
 
