@@ -250,3 +250,9 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Sandra répond au message de 09h35 entre 14h56 et 17h00 Abidjan » : probabilité 40 %, jet  99.5 → **NON** [DÉROGATION : partenaire non hiérarchique : délai de réponse, aucune table T8 pour les délais ; 40 % (aucune réponse depuis son réveil vers 12h20, elle attend l'appel promis au plus tard vendredi)] (enregistré le 07/10/2026 12:34 heure machine)
 
 - Jet « Au moins un des directeurs (Grace, Abdoul ou Yves) a ouvert le PDF de l'évaluation d'Aïcha pendant qu'il était dans direction/ (14h28-14h59) » : probabilité 55 %, jet  18.2 → **OUI** (enregistré le 07/10/2026 12:34 heure machine)
+
+- Tirage [T7c] « Aïcha : message de William validant le devis de la villa Riviera (envoi au client vendredi 10h) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  62.4 → **execute_sans_discuter** (enregistré le 07/10/2026 12:44 heure machine)
+
+- Tirage [T7c] « Aïcha : consigne de William de remettre d'abord à chaque membre son évaluation individuellement, puis de déposer les évaluations dans l'espace RH du serveur » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  20.4 → **execute_sans_discuter** (enregistré le 07/10/2026 12:44 heure machine)
+
+- Tirage [T7c] « Abdoul : message de William (plan technique vu, « ça me va », se rapprocher d'Aïcha pour finaliser, « je compte sur toi ») » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  25.6 → **execute_sans_discuter** (enregistré le 07/10/2026 12:44 heure machine)

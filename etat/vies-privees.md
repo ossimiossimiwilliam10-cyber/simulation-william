@@ -104,3 +104,4 @@
 - **Abdoul (16h41)** : dépose son plan ; y inscrit Bertin en sous-traitant sans l'avoir prévenu ; *intérêt : protéger Bertin en lui gardant du travail.*
 - **Grace (16h30)** : remet le devis de la villa à Aïcha, pas à William ; reste à distance.
 - **Mariette (15h20)** : écrit à Me Kouamé sur l'essai et en parle à Aïcha.
+- **Aïcha (17h05-17h06)** : exécute (devis, évaluations remises individuellement puis rh/). **Abdoul (17h07)** : « Je vois Madame Diomandé demain. »

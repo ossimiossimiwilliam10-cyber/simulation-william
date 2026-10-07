@@ -144,3 +144,14 @@ J'arrive, patron. Je termine avec la banque.
 
 **[26/07/2040 - 17:00] Aïcha :**
 Patron, le rapport du jour est dans direction : rapport_direction_2607.pdf.
+
+**[26/07/2040 - 17:04] William :**
+Je valide le devis de la villa Riviera.
+Pour les évaluations : il faut maintenant les déposer dans le dossier RH du serveur. Mais avant, fais parvenir individuellement à chaque membre son évaluation.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[26/07/2040 - 17:05] Aïcha :**
+Bien, patron. Le devis part demain à 10h.
+
+**[26/07/2040 - 17:06] Aïcha :**
+Bien, patron. Lundi, chacun reçoit d'abord la sienne, individuellement. Ensuite je les dépose dans rh/.

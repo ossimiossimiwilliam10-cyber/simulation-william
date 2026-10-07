@@ -79,3 +79,4 @@ propose des alternatives légales. Elle négocie dur avec les artisans.
 - 26/07, 14h39-14h56 : lit le refus public de Mariette dans le groupe Direction (évaluations individuelles hors serveur partagé) ; ne répond pas dans le groupe.
 - 26/07, 14h57-14h59 : voit dans le groupe William donner raison à Mariette ; son évaluation passe dans rh/ en accès restreint.
 - 26/07, 15h10-17h00 : CNPS (numéro employeur attribué), ITS de juin préparé, devis de la villa reçu, Abdoul vu ; **premier rapport à 17h00** (`serveur/direction/rapport_direction_2607.pdf`), écrit en « vous » : devis de la villa transmis au client vendredi 10h sauf avis contraire ; avances en attente.
+- 26/07, 17h04-17h06 : William valide le devis de la villa et demande de remettre individuellement chaque évaluation avant dépôt dans rh/ ; « Bien, patron. » (T7c : exécute, deux fois).

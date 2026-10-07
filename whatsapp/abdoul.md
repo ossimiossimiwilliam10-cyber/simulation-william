@@ -31,3 +31,10 @@ Compris, Boss. Le plan, c'est cet après-midi. Le devis de la villa, c'est Grace
 
 **[26/07/2040 - 16:41] Abdoul :**
 Boss, le plan technique est sur le serveur : technique/plan_technique_2607.pdf.
+
+**[26/07/2040 - 17:05] William :**
+J'ai vu ton plan technique. Ça me va. Rapproche-toi d'Aïcha pour finaliser le tout. Je compte sur toi.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[26/07/2040 - 17:07] Abdoul :**
+Merci, Boss. Je vois Madame Diomandé demain.

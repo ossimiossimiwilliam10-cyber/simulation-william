@@ -30,3 +30,4 @@ rapidité commerciale de Grace ou avec les exigences de coût de William. Il tie
 - 26/07, 13h50 : William demande à Aïcha de le surveiller (« il nous doit beaucoup de choses pour aujourd'hui ») ; Aïcha : « Abdoul, je passe le voir. » ; Abdoul l'ignore.
 - 26/07, 14h35 : dans le groupe Direction, après l'annonce de l'évaluation d'Aïcha : « Compris, Boss. » (T7c : execute_sans_discuter, jet 12.2).
 - 26/07, 16h41 : dépose le plan technique (`serveur/technique/plan_technique_2607.pdf`) : noyau de six personnes, Bertin en sous-traitant, lithium pour la clinique ; « Boss, le plan technique est sur le serveur. »
+- 26/07, 17h05-17h07 : William : plan vu, « ça me va », finaliser avec Aïcha, « je compte sur toi » ; « Merci, Boss. Je vois Madame Diomandé demain. » (T7c : exécute).
