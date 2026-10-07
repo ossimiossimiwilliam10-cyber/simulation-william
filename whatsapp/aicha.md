@@ -169,3 +169,6 @@ Bien, patron. Je surveille Abdoul. Pour les avances, il me faut votre renonciati
 
 **[27/07/2040 - 12:16] Aïcha :**
 Bien reçu, patron. Je le classe et je préviens Mariette pour le tableau des avances.
+
+**[27/07/2040 - 17:00] Aïcha :**
+Patron, le rapport du jour est dans direction : rapport_direction_2707.pdf.

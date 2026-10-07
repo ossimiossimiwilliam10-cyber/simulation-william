@@ -103,7 +103,7 @@
 - 20/07 : instauration du « naming and shaming » ; l'équipe approuve (Mariette : attention à la diffamation).
 
 ## Mises à jour du 23/07/2040
-- **Note juridique de Mariette** (`serveur/rh/note_juridique_2307.pdf`) : CDD de direction à risque de requalification en CDI (art. 15.6 et 15.10), rupture anticipée seulement pour faute lourde, force majeure ou accord (art. 15.9), indemnité de fin de contrat de 3 % non provisionnée (art. 15.8), « naming and shaming » = risque de diffamation, bonus/malus discrétionnaire fragile, charte sans valeur de règlement intérieur, contrats signés « William Ossimi, Gérant » alors que la gérante est Aïcha « par procuration », régularisation CNPS/ITS en retard (mon propre contrat inclus).
+- **Note juridique de Mariette** (`serveur/juridique/note_juridique_2307.pdf`) : CDD de direction à risque de requalification en CDI (art. 15.6 et 15.10), rupture anticipée seulement pour faute lourde, force majeure ou accord (art. 15.9), indemnité de fin de contrat de 3 % non provisionnée (art. 15.8), « naming and shaming » = risque de diffamation, bonus/malus discrétionnaire fragile, charte sans valeur de règlement intérieur, contrats signés « William Ossimi, Gérant » alors que la gérante est Aïcha « par procuration », régularisation CNPS/ITS en retard (mon propre contrat inclus).
 - **SécuTech** : équipe arrivée à 10h40, extérieur en cours, fin jeudi 26/07 (câble manquant pour l'accueil).
 - **Augmentation de capital** : procédure cadrée par Me Kouamé (décision de l'associé unique, statuts, attestation de versement, RCCM, publication, déclaration d'investissement) ; chiffrage mardi.
 - **SGBCI** : spécimen de signature d'Aïcha déposé.

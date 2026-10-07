@@ -96,3 +96,6 @@ Pour la durée : six mois, c'est le maximum pour les cadres supérieurs, et c'es
 Une précision, excusez-moi : si une rupture pendant l'essai n'a rien à voir avec le travail de la personne, elle peut être contestée. Je pose la question à Maître Kouamé.
 Je reste disponible.
 *(Texte corrigé hors fiction le 26/07/2040, corrections n° 34 : les contrats de direction sont des CDI à l'essai depuis l'origine ; avant, il portait sur des CDD.)*
+
+**[27/07/2040 - 16:42] Mariette :**
+Patron, je me permets : le contrôle du serveur est fait. La liste des écarts est dans direction/ : controle_serveur_2707.pdf. Copie à Mme Diomandé.

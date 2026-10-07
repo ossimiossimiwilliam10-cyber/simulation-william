@@ -1,4 +1,4 @@
-"""Note juridique de Mariette (23/07/2040) -> serveur/rh/note_juridique_2307.pdf
+"""Note juridique de Mariette (23/07/2040) -> serveur/juridique/note_juridique_2307.pdf (rh/ jusqu'au 27/07/2040, 16h35)
 
 Demandée par William le 19/07 (WhatsApp) et relancée le 21/07 ; promise « lundi avant midi ».
 Version corrigée le 26/07/2040 (hors fiction, corrections n° 34) : les contrats de direction sont des CDI avec période d'essai (avant : CDD ;
@@ -88,4 +88,5 @@ pdf.para("Cette note est une analyse RH, pas un avis d'avocat : elle doit être 
          "Je reste disponible à tout moment pour la détailler.", italique=True)
 pdf.para("Mariette Kouadio, DRH", italique=True)
 
-pdf.sauver(serveur("rh", "note_juridique_2307.pdf"))
+# Déplacée de rh/ vers juridique/ par Mariette le 27/07/2040 à 16h35 (contrôle du serveur).
+pdf.sauver(serveur("juridique", "note_juridique_2307.pdf"))

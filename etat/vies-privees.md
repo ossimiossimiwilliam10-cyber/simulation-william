@@ -115,3 +115,5 @@
 - **Mariette (27/07 matin)** : prépare le contrôle de 16h ; pas encore de réponse de Me Kouamé sur l'essai.
 - **Sandra (27/07 après-midi)** : se réveille, s'occupe des petits, lit le message de William ; ne répond pas tout de suite ; à 15h47 (17h47 Esch), elle pose une limite nette (T8 : agacement_net) ; pas de garde ce soir ; *intérêt : ne pas revivre le « laisse tomber » de mercredi.*
 - **Aïcha (27/07 après-midi)** : relit le projet de statuts modifiés, prépare les évaluations de lundi ; rien n'est dit à William sur la limitation de ses pouvoirs.
+- **Mariette (27/07, 16h-16h42)** : contrôle minutieux du serveur, déplace sa propre note, nomme les responsables sans juger ; reçoit la réponse de Me Kouamé (16h20) qui confirme sa note ; *intérêt : se couvrir par l'écrit, ne pas porter seule le risque juridique.*
+- **Aïcha (27/07, 17h00)** : deuxième rapport à l'heure ; elle y écrit le projet de statuts « en cours de lecture » sans en dire le contenu ; elle annonce un point d'équipe chaque matin la semaine prochaine.

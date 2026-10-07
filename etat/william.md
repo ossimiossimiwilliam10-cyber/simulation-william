@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 27/07/2040, 16h05)
+# William Ossimi — profil (état au 27/07/2040, 17h00)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -167,3 +167,4 @@
 - **27/07, 15h54** : écrit à Sandra : « Ça portera globalement sur tout. Toi, moi, mon boulot. » ; elle demande à 15h56 si c'est « quelque chose que tu as fait, ou quelque chose que tu as décidé ».
 - **27/07, 15h58** : à Sandra : « Je souhaite simplement parler de mon quotidien, te faire part de ce qui me dérange. Et j'attends la même chose de ta part. » (ne répond pas à « fait ou décidé ? ») ; elle : « Que je te dise ce qui me dérange, moi ? À ce soir. »
 - **27/07, 16h02** : à Sandra : « Oui, dis-moi ce qui te dérange, par rapport à moi surtout. À ce soir. » ; elle prépare « sa liste » et l'attend à 22h (Esch).
+- **27/07, 16h05-17h00** : au QG ; reçoit la liste des écarts de Mariette (16h42 ; la décision du 26/07 manque dans juridique/) et le rapport d'Aïcha (17h00), qui lui demande le scan de la décision.
