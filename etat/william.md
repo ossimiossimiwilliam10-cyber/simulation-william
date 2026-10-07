@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 28/07/2040, 18h50)
+# William Ossimi — profil (état au 28/07/2040, 21h34)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -192,3 +192,4 @@
 - **28/07, 15h03** : propose à Naomie 18h et « tout le week-end », « je mets les moyens si tu es vraiment sexy » ; elle accepte 18h et demande 15 000 FCFA de plus.
 - **28/07, 15h08** : vire 15 000 FCFA de plus à Naomie et lui donne le numéro de sa chambre ; rendez-vous à 18h.
 - **28/07, 18h46-18h50** : Naomie arrive avec 46 minutes de retard ; dans la 312, elle annonce : soirée 50 000 FCFA, nuit 120 000 FCFA (25 000 d'acomptes déduits) ; préservatif obligatoire.
+- **28/07, 18h51-21h32** : soirée avec Naomie (50 000 FCFA) ; **rapport protégé** (préservatif ; aucun incident) ; elle propose demain la journée et la nuit pour 150 000 FCFA, réponse avant midi.

@@ -402,3 +402,7 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Kevin écrit à William entre 9h30 et 18h samedi, après que Sandra lui a dit « le 10 septembre » » : probabilité 55 %, jet  60.2 → **NON** (enregistré le 07/10/2026 18:36 heure machine)
 
 - Jet « Heure d'arrivée de Naomie à la réception du Capitol, entre 18h15 et 18h50 » : probabilité 50 %, jet  87.6 → **NON** [DÉROGATION : délai seulement ; le nombre tiré fixe l'heure d'arrivée : 18h15 + jet × 0,35 min] (enregistré le 07/10/2026 18:36 heure machine)
+
+- Jet « Incident de préservatif (rupture ou glissement) pendant la soirée avec Naomie » : probabilité 2 %, jet  80.8 → **NON** (enregistré le 07/10/2026 18:39 heure machine)
+
+- Jet « Naomie propose d'elle-même le week-end (demain) avant de partir » : probabilité 70 %, jet  41.3 → **OUI** (enregistré le 07/10/2026 18:39 heure machine)

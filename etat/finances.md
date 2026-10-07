@@ -185,3 +185,4 @@ Total des avances non remboursées par l'entreprise :
 
 - **28/07 (dépenses personnelles de William)** : maquis du 27/07 au soir ≈ 5 000 FCFA (espèces) ; **acompte de 10 000 FCFA** viré depuis Djamo au numéro Wave d'une escorte (Naomie), rendez-vous annulé par William, acompte non rendu.
 - **28/07, 15h08** : second acompte de **15 000 FCFA** à Naomie (Djamo → Wave) ; total des acomptes : 25 000 FCFA.
+- **28/07, 18h51** : 25 000 FCFA en espèces à Naomie (soirée : 50 000 FCFA au total, acomptes compris).
