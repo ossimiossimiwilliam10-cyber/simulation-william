@@ -11,6 +11,14 @@
   personnel — ce qui explique qu'il ne parle pas luxembourgeois. *(Avant : « 2022 », incohérent avec une
   arrivée à 15 ans en 2020 → maintenant : cohérent, depuis le 21/07.)*
 
+## Physique (donné par le joueur le 28/07/2040, hors fiction ; avant : aucune description → maintenant : fixée)
+- **1,96 m**, carrure athlétique, **95 à 105 kg** (≈ 100 kg), environ 18 % de masse grasse.
+- Visage : **6 à 7 sur 10** ; aucun soin particulier.
+- Style : décontracté au quotidien, habillé quand l'occasion l'exige.
+- **Voix très grave.**
+- Manières : se tient droit ; dégage naturellement une présence physique, sans chercher à s'imposer.
+- *À jouer* : à Abidjan, sa taille et sa voix se remarquent (taxis, maquis, bureaux, rue) ; regards, remarques, déférence physique des hommes, curiosité ou intérêt de certaines femmes ; ces effets colorent les scènes et les probabilités des rencontres, mais les réactions à ses actes restent tirées (règle 17).
+
 ## Travail
 - Professeur de mathématiques et de physique (fonctionnaire A1), dans un
   lycée de Luxembourg-Ville. Environ 9 300 € net/mois (395 points + 3 leçons
