@@ -396,3 +396,9 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Réaction de Naomie à l'annulation de William, juste après l'acompte de 10 000 FCFA » : probabilité 50 %, jet  75.3 → **NON** [DÉROGATION : aucune table pour une prestataire hors hiérarchie face à une annulation après acompte ; le nombre tiré fixe l'issue : 0-55 garde l'acompte, polie (« pas de souci, une autre fois ») ; 55-65 rembourse l'acompte ; 65-85 insiste, propose une autre heure ; 85-100 s'énerve puis bloque le numéro] (enregistré le 07/10/2026 18:23 heure machine)
 
 - Jet « Réponse de Naomie à l'offre de William (18h, tout le week-end, « je mets les moyens si tu es vraiment sexy », émojis) » : probabilité 50 %, jet  58.9 → **NON** [DÉROGATION : aucune table pour une prestataire hors hiérarchie face à une offre commerciale ; le nombre tiré fixe l'issue : 0-45 accepte le week-end, annonce un prix, moitié d'avance, envoie un selfie ; 45-75 accepte 18h, le week-end « on verra sur place », acompte supplémentaire ; 75-90 exige tout le prix d'avance parce qu'il a annulé une fois ; 90-100 occupée ce week-end, propose seulement ce soir] (enregistré le 07/10/2026 18:30 heure machine)
+
+- Jet « Naomie arrive au Capitol avant 18h15 (Angré -> Cocody Centre, samedi soir) » : probabilité 45 %, jet  47.4 → **NON** (enregistré le 07/10/2026 18:36 heure machine)
+
+- Jet « Kevin écrit à William entre 9h30 et 18h samedi, après que Sandra lui a dit « le 10 septembre » » : probabilité 55 %, jet  60.2 → **NON** (enregistré le 07/10/2026 18:36 heure machine)
+
+- Jet « Heure d'arrivée de Naomie à la réception du Capitol, entre 18h15 et 18h50 » : probabilité 50 %, jet  87.6 → **NON** [DÉROGATION : délai seulement ; le nombre tiré fixe l'heure d'arrivée : 18h15 + jet × 0,35 min] (enregistré le 07/10/2026 18:36 heure machine)

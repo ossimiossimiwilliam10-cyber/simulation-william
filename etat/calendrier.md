@@ -1,4 +1,4 @@
-# Calendrier (au 28/07/2040, 15h06)
+# Calendrier (au 28/07/2040, 18h50)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -121,6 +121,7 @@
 | **Sam. 28/07, 09h45-15h00** | Message à Naomie (escorte) ; réponse à 13h50 ; acompte de 10 000 FCFA ; annulation à 14h06 ; elle propose 20h ; recherches sur les applications de rencontre. |
 | **Sam. 28/07, 15h03-15h06** | William relance Naomie : 18h et « tout le week-end » ; elle accepte 18h, demande 15 000 FCFA de plus. |
 | **Sam. 28/07, 18h** | Rendez-vous prévu avec Naomie au Capitol (à confirmer par William). |
+| **Sam. 28/07, 18h46-18h50** | Naomie arrive (pièce d'identité à la réception) ; annonce ses tarifs dans la 312. |
 | **Ven. 03/08, 16h** | Deuxième contrôle du serveur par Mariette. |
 | **Ven. 27/07, 10h** | **Aïcha au cabinet de Me Kouamé** (ratification des cinq contrats, convention d'honoraires, formalités de la décision) ; **devis de la villa Riviera transmis au client sauf avis contraire de William** ; paiements groupés à la SGBCI ensuite (Me Kouamé, SécuTech, CNPS et ITS de juin). |
 | **Ven. 27/07, vers 20h (Abidjan) = 22h (Esch)** | **Appel à Sandra** (rappel téléphone de William, « impérativement »). |

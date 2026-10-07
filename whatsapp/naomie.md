@@ -36,3 +36,6 @@ Chambre 312.
 
 **[28/07/2040 - 15:10] Naomie :**
 Bien reçu ✅ 312. À 18h bb 😘
+
+**[28/07/2040 - 18:02] Naomie :**
+Bb y a embouteillage à Riviera 2 là 😩 j'arrive
