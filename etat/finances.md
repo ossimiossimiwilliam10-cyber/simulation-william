@@ -193,3 +193,4 @@ Total des avances non remboursées par l'entreprise :
 - **29/07, 11h50** : café de la galerie avec Estelle ≈ 8 000 FCFA (payé par William).
 - **29/07, soirée** : taxi Capitol → Angré → Zone 4 ≈ 8 000 FCFA + 2 000 d'attente (+ trajet aller ≈ 5 000) ; dîner libanais à régler.
 - **29/07, 20h** : dîner libanais en Zone 4 ≈ 46 000 FCFA (payé par William).
+- **29/07** : taxis du soir ≈ 22 000 FCFA au total (Capitol → Angré → Zone 4 → Angré → Capitol).

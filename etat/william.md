@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 29/07/2040, 20h05)
+# William Ossimi — profil (état au 30/07/2040, 07h10)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -218,3 +218,4 @@
 - **29/07, 17h15-18h06** : taxi vers Angré (arrivée 18h03, le chauffeur se perd) ; Estelle : « J'arrive 2 min » ; **18h06 : Aïcha lui écrit qu'Estelle l'a contactée de sa part et qu'elle la reçoit mardi à 10h au QG.**
 - **29/07, 18h06-19h55** : ne répond pas à Aïcha ; dîner avec Estelle en Zone 4 (libanais) ; rit plusieurs fois ; **19h55 : elle lui demande s'il est marié ou s'il a quelqu'un au Luxembourg.**
 - **29/07, 19h56-20h05** : dit à Estelle qu'il n'est pas marié, qu'il a des relations, parle de Sandra ; lui propose une douche chaude à son hôtel ; paie le dîner (≈ 46 000 FCFA) ; elle : « Pas ce soir. Un autre soir, peut-être. »
+- **29/07, 20h08-22h30** : raccompagne Estelle à Angré (bise) ; rentre au Capitol, s'endort vers 22h30. **30/07, 07h10** : réveil ; courriel envoyé à 06h00, réponse automatique (secrétariat fermé jusqu'au 13/08).

@@ -452,3 +452,27 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Trajet Angré -> Zone 4, dimanche 18h20 : plus de 45 minutes » : probabilité 40 %, jet  31.5 → **OUI** (enregistré le 07/10/2026 20:17 heure machine)
 
 - Jet « Estelle : William n'est pas marié mais a « des relations » (Sandra, au Luxembourg, pas « la bonne ») ; il lui propose une douche bien chaude à son hôtel puisqu'il n'y a pas d'électricité chez elle » : probabilité 50 %, jet  54.4 → **NON** [DÉROGATION : réaction d'une personne hors hiérarchie (motif tiré : attirance et calcul ; position de 12h32 : pas de nuit le premier soir) à une invitation et à une révélation, pas un acte de pouvoir ; 0-45 refuse la nuit en riant, se fait raccompagner ; 45-65 « pas ce soir, un autre soir » ; 65-85 vient prendre la douche à l'hôtel puis rentre ; 85-100 change d'avis, reste la nuit] (enregistré le 07/10/2026 20:23 heure machine)
+
+- Jet « En descendant du taxi devant chez elle, Estelle embrasse William sur la bouche (sinon une bise appuyée) » : probabilité 30 %, jet  75.2 → **NON** (enregistré le 07/10/2026 20:26 heure machine)
+
+- Tirage [T4] « Affaire Grace (geste du 23/07) : escalade externe, semaine du 23 au 29/07 » : aucune 99.7 / frontal_escalade 0.3 ; modificateurs : aucun ; jet  91.1 → **aucune** (enregistré le 07/10/2026 20:26 heure machine)
+
+- Tirage [T5] « Affaire Grace : fuite, semaine du 23 au 29/07 » : fuite_externe 5 / fuite_interne 15 / aucune 80 ; modificateurs : aucun ; jet  69.3 → **aucune** (enregistré le 07/10/2026 20:26 heure machine)
+
+- Tirage [T4] « Affaire « relation William–Aïcha » (approches du 27/07) : escalade externe, semaine du 23 au 29/07 » : aucune 99.7 / frontal_escalade 0.3 ; modificateurs : aucun ; jet   5.6 → **aucune** (enregistré le 07/10/2026 20:26 heure machine)
+
+- Tirage [T5] « Affaire « relation William–Aïcha » : fuite, semaine du 23 au 29/07 » : fuite_externe 3 / fuite_interne 9 / aucune 88 ; modificateurs : aucun ; jet  75.2 → **aucune** (enregistré le 07/10/2026 20:26 heure machine)
+
+- Jet « La direction du lycée répond par un message automatique d'absence (vacances scolaires) au courriel envoyé lundi à 08h00 (Luxembourg) » : probabilité 65 %, jet  42.1 → **OUI** (enregistré le 07/10/2026 20:26 heure machine)
+
+## Tirage de la semaine du 2040-07-30
+
+| ID | Événement | Probabilité | Jet (0-100) | Résultat |
+|---|---|---|---|---|
+| A01 | Maladie d'un membre de l'équipe (paludisme, gastro, typhoïde) | 10 % |  22.6 | non |
+| A04 | Délestage / coupure d'électricité prolongée | 25 % |  49.5 | non |
+| A06 | Retard fournisseur ou douane (NVR, onduleurs, batteries) | 30 % |   5.9 | **DÉCLENCHÉ** — mardi 31/07 (soir) |
+| A09 | Erreur administrative (virement mal affecté, pièce perdue, nom mal orthographié) | 10 % |   3.1 | **DÉCLENCHÉ** — mardi 31/07 (matin) |
+| A13 | Opportunité commerciale inattendue (recommandation, appel d'un prospect) | 10 % |  31.8 | non |
+
+Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse du fournisseur est plausible mais pas toujours vraie ; A09 (mardi 31/07 (matin)) : Correction longue, agacement
