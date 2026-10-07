@@ -348,3 +348,11 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Recalibrage (correction n° 35) du tirage [T1] de 17h50 le 27/07 : M04 retiré (erreur du moteur), M02 ajouté ; même jet 99.7 → **depart_discret** ; aucun nouveau tirage.
 
 - Recalibrage (correction n° 36, décision de l'utilisateur) du tirage [T1] de 17h50 le 27/07 : depart_discret exclu pour Aïcha (ses 9 points à rien_absorption) ; même jet 99.7 → **negociation_tacite** ; le délai de démission tiré (43.0 → 29/10/2040) est annulé ; aucun nouveau tirage.
+
+- Jet « Averse sur Cocody entre 18h et 20h, vendredi 27/07 (fin de la grande saison des pluies) » : probabilité 35 %, jet  27.2 → **OUI** (enregistré le 07/10/2026 17:42 heure machine)
+
+- Jet « Taxi QG -> Capitol (Cocody Centre) en plus de 30 minutes, vendredi vers 18h05 (sortie de bureaux) » : probabilité 50 %, jet  95.1 → **NON** (enregistré le 07/10/2026 17:42 heure machine)
+
+- Jet « Message de bon week-end posté dans le groupe Direction avant 20h par un membre de l'équipe (habitude du vendredi soir) » : probabilité 40 %, jet  26.2 → **OUI** (enregistré le 07/10/2026 17:42 heure machine)
+
+- Jet « Les petits de Sandra dorment à 21h30 (Esch) comme prévu, elle est prête à 22h » : probabilité 70 %, jet   9.5 → **OUI** (enregistré le 07/10/2026 17:42 heure machine)

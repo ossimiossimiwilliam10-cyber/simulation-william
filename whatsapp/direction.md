@@ -136,3 +136,10 @@ Mariette, effectivement, tu as raison. Fais passer l'évaluation d'Aïcha dans l
 
 **[26/07/2040 - 14:59] Mariette :**
 Bien, patron. C'est fait : l'évaluation de Mme Diomandé est dans rh/, en accès restreint.
+
+**[27/07/2040 - 18:47] Yves :**
+Bon week-end à tous 🙏🏾 On revient en force lundi 💪🏾
+
+**[27/07/2040 - 18:52] Abdoul :**
+Bon week-end à tous.
+*(Mariette réagit 🙏 ; Aïcha et Grace ne disent rien.)*
