@@ -115,3 +115,17 @@ Aïcha, tu dois faire de même pour les autres évaluations : les mettre sur le 
 
 **[26/07/2040 - 14:30] Aïcha :**
 Bien noté, patron.
+
+**[26/07/2040 - 14:33] Yves :**
+Noté 🫡
+
+**[26/07/2040 - 14:35] Abdoul :**
+Compris, Boss.
+
+**[26/07/2040 - 14:37] Grace :**
+Bien reçu.
+
+**[26/07/2040 - 14:39] Mariette :**
+Excusez-moi, patron. Les évaluations individuelles sont des dossiers RH : d'après les règles de classement que vous avez validées tout à l'heure, elles restent en accès restreint. Je ne peux pas les accepter sur le serveur partagé.
+
+*(Plus aucun message dans le groupe jusqu'à 14h56.)*

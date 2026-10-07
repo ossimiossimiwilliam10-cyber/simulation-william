@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 26/07/2040, 14h32)
+# William Ossimi — profil (état au 26/07/2040, 14h56)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -154,3 +154,4 @@
 - **26/07, 13h55-13h59** : accepte le refus d'Aïcha avec un sourire (« c'est pas grave ») ; **écrit lui-même à Mariette** (13h57) ce qu'il avait demandé à Aïcha de lui transmettre ; Mariette : « Bien reçu patron. Je reste disponible. » ; rien d'immédiat en attente.
 - **26/07, 14h00-14h08** : écrit à Mariette (CDD de direction : « explique-moi simplement… ») ; **classe en dépenses personnelles** ce qu'il a payé de sa poche avant l'ouverture du compte (« pour ne pas me casser la tête ») ; **rédige la renonciation aux avances** (PDF non signé, non transmis) ; **avance son évaluation d'Aïcha** : questions-réponses avec le moteur (7 questions) ; il uploadera ensuite le PDF sur le serveur et écrira dans le groupe Direction.
 - **26/07, 14h08-14h32** : **évalue Aïcha** en questions-réponses avec le moteur : assiduité 5/10, directives 7/10 *(valeur intermédiaire, hors barème 10/5/0 ; refus d'Aïcha consignés le 17/07 et le 26/07)*, serveur 5/10, rentabilité 24/30, coordination 18/20, reporting 15/20, **ajustement discrétionnaire 0** (il n'utilise pas son pouvoir ici) → **74/100** ; demande des repères factuels avant de noter (« je ne me souviens pas forcément de tout ») ; **publie l'évaluation de la gérante sur le serveur partagé et dans le groupe Direction** ; reçoit l'explication de Mariette sur les CDD de direction ; **décision à prendre avant le 31/07**.
+- **26/07, 14h34-14h56** : **décide la conversion des CDD de direction en CDI avec une période d'essai de six mois** et la confie à Mariette ; lui demande par écrit s'il pourra « virer » quelqu'un à la fin de l'essai s'il n'est pas satisfait ; reçoit le **refus public de Mariette** (groupe Direction, 14h39 : évaluations individuelles hors du serveur partagé, règles validées par lui à 13h21) puis sa réponse juridique privée (14h55) ; n'a pas encore réagi.

@@ -1,4 +1,4 @@
-# Calendrier (au 26/07/2040, 14h32)
+# Calendrier (au 26/07/2040, 14h56)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -80,6 +80,7 @@
 | **Jeu. 26/07, 13h55-13h59** | William accepte le refus d'Aïcha (« c'est pas grave ») et écrit lui-même à Mariette (13h57) ; Mariette répond à 13h59 : « Bien reçu patron. Je reste disponible. » |
 | **Jeu. 26/07, 14h00-14h08** | William écrit à Mariette (CDD de direction) ; classe ses dépenses d'avant le compte en dépenses personnelles ; rédige la renonciation aux avances (PDF, non signé) ; lance l'évaluation d'Aïcha (questions-réponses). |
 | **Jeu. 26/07, 14h08-14h32** | Évaluation d'Aïcha en questions-réponses (14h08-14h26 : 74/100) ; PDF généré (14h27) et uploadé dans `direction/` (14h28) ; message dans le groupe Direction (14h29), Aïcha : « Bien noté, patron. » ; Mariette répond à 14h31 sur les CDD de direction. |
+| **Jeu. 26/07, 14h33-14h56** | Acquittements dans le groupe (Yves, Abdoul, Grace) ; William confie à Mariette la conversion des CDD de direction en CDI avec essai de six mois (14h34) ; **Mariette refuse publiquement les évaluations individuelles sur le serveur partagé (14h39)** ; réponse privée de Mariette à 14h55 (rupture libre pendant l'essai ; six mois = cadres supérieurs ; accord de chacun ; question à Me Kouamé). |
 | **Jeu. 26/07, 14h31** | ~~Réponse détaillée de Mariette sur les CDD de direction~~ **REÇUE** (T1 : rien_absorption) : conversion en CDI recommandée, décision avant le 31/07. |
 | **Sam. 28/07, soir** | ~~Rappel téléphone de William : évaluer Aïcha~~ **FAIT : évaluation terminée le jeu. 26/07 à 14h26 (74/100) ; le rappel de samedi soir sera sans objet.** |
 | **Chaque jour, 17h** | **Rapport d'Aïcha à William en PDF** dans `serveur/direction/` (fixé par William vers 13h48 ; `rapport_direction_JJMM.pdf`) ; **premier : jeu. 26/07, 17h**. |

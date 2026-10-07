@@ -81,3 +81,15 @@ Deuxième point : un CDD ne s'arrête pas avant la fin parce que l'évaluation e
 Troisième point : à la fin d'un CDD, la société doit une indemnité de 3 % de tout ce qui a été versé. Pour les six cadres sur 24 mois, environ 3,4 millions de FCFA, non provisionnés. Si le CDD est remplacé par un CDI, cette indemnité n'est plus due.
 Ce qu'il faut décider avant le 31/07 : transformer les CDD de direction en CDI, avec une période d'essai et des clauses de performance bien rédigées, ou les garder en acceptant ces risques. Je me permets de recommander la transformation en CDI. C'est Maître Kouamé qui doit la rédiger et la valider : ma note est une analyse RH, pas un avis d'avocat.
 Excusez-moi si c'est long. Je reste disponible.
+
+**[26/07/2040 - 14:34] William :**
+Bon. Je te confie la tâche de te coordonner avec toutes les personnes dont tu as besoin pour faire passer les CDD de direction en CDI, mais avec une période d'essai de six mois.
+À la fin d'une période d'essai, j'ai bien le droit de virer quelqu'un si je ne suis pas satisfait, non ?
+*(Texte reconstitué à partir de la dictée. Lu à 14h35.)*
+
+**[26/07/2040 - 14:55] Mariette :**
+Oui patron. Je m'en occupe, je vois avec Mme Diomandé et Maître Kouamé.
+Pour votre question : oui, pendant la période d'essai, la société peut mettre fin au contrat sans préavis ni indemnité. Mais il faut le faire avant la fin de l'essai, et par écrit pour garder une preuve. Si on laisse passer la date, le contrat devient définitif : ensuite, un licenciement demande un motif légitime, une lettre, un préavis et, selon l'ancienneté, des indemnités.
+Pour la durée : six mois, c'est le maximum pour les cadres supérieurs. Pour les cadres, c'est trois mois, renouvelables une seule fois par écrit, au moins quinze jours avant la fin. Il faudra préciser la catégorie de chaque poste dans le contrat. Pour Yves, par exemple, je ne pense pas qu'on puisse parler de cadre supérieur.
+Deux points, excusez-moi : chacun doit accepter et signer son CDI ; si quelqu'un refuse, son CDD continue jusqu'à son terme. Et pour quelqu'un qui est déjà en poste, une nouvelle période d'essai peut être contestée : je pose la question à Maître Kouamé.
+Je reste disponible.

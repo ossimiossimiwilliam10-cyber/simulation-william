@@ -28,3 +28,4 @@ rapidité commerciale de Grace ou avec les exigences de coût de William. Il tie
 - 26/07, 11h22-11h23 : William : « C'est du bon boulot. » ; Abdoul : « Merci, Boss. »
 - 26/07, 12h57-12h58 : William : « On attend toujours le plan technique et le devis comparatif de la villa. Je te fais confiance. Tu n'as pas intérêt à me décevoir. » ; Abdoul : « Compris, Boss. Le plan, c'est cet après-midi. Le devis de la villa, c'est Grace. » (T7c : execute_sans_discuter, jet 6.3)
 - 26/07, 13h50 : William demande à Aïcha de le surveiller (« il nous doit beaucoup de choses pour aujourd'hui ») ; Aïcha : « Abdoul, je passe le voir. » ; Abdoul l'ignore.
+- 26/07, 14h35 : dans le groupe Direction, après l'annonce de l'évaluation d'Aïcha : « Compris, Boss. » (T7c : execute_sans_discuter, jet 12.2).
