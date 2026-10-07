@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 29/07/2040, 11h42)
+# William Ossimi — profil (état au 29/07/2040, 11h43)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -204,3 +204,4 @@
 - **28/07, 21h38-23h05** : refuse la journée de dimanche à Naomie ; cherche en ligne si l'administration luxembourgeoise peut découvrir OSIA (article 14, sanctions, forum, échange automatique de données bancaires : aucun chiffre) ; ressort marcher vers les Deux-Plateaux, en espérant croiser de jolies femmes ; aucune rencontre ; rentre à 23h05.
 - **28/07, 23h40** : s'endort. **29/07, 07h50** : réveil ; **07h55-08h18** : rédige et **programme pour lundi 08h00** un courriel à la direction de son lycée (demande d'autorisation, version de l'ignorance) ; copie dans `documents_william/`.
 - **29/07, 09h45-11h42** : se promène en regardant les femmes (sorties de messe, Riviera) ; sa taille attire les regards (« Eh, le grand ! ») ; **11h41 : Estelle l'aborde dans une galerie** (« Vous êtes basketteur ? »).
+- **29/07, 11h42** : serre la main d'Estelle, répond « Non. » ; elle relance (« cette voix-là ! », « vous n'êtes pas d'ici, je me trompe ? »).
