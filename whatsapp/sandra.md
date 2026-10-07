@@ -136,3 +136,12 @@ Quand est-ce que tu veux que je revienne ? Qu'est-ce que ton cœur te dit ? Est-
 Mon cœur dit oui, évidemment. Tu me manques, et aux petits aussi.
 Mais avant que je te donne une date : tu veux rentrer pour moi, ou parce que là-bas ça ne va pas ?
 Et ton entreprise, elle devient quoi si tu rentres plus tôt ?
+
+**[30/07/2040 - 08:10 (Abidjan) / 10:10 (Esch)] William :**
+En réalité, je veux rentrer pour toi. J'en ai marre. Tu me manques trop, en fait. Je souffre apparemment du mal du pays… mais le pays, finalement, c'est toi.
+*(Texte reconstitué à partir de la dictée ; le message dicté s'arrête sur « Donc, ».)*
+
+**[30/07/2040 - 08:14 (Abidjan) / 10:14 (Esch)] Sandra :**
+Tu me fais fondre, là. Arrête 🥲
+Donc concrètement : tu rentrerais quand ? Tu as regardé les vols ?
+Et ta boîte, pendant ce temps, tu la laisses à qui ?
