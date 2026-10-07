@@ -376,3 +376,7 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Type de l'événement de la balade nocturne » : probabilité 50 %, jet  70.0 → **NON** [DÉROGATION : type d'événement seulement (aléa de rue, pas une réaction à un acte de William) ; le nombre tiré fixe le type : 0-30 maquis qui l'invite ; 30-50 une jeune femme l'aborde sur la promenade ; 50-62 enfant vendeur ; 62-72 une connaissance (Yves avec des amis) ; 72-85 un inconnu âgé s'assied sur son banc et parle ; 85-95 vendeur insistant ; 95-100 tentative de vol à l'arraché] (enregistré le 07/10/2026 18:03 heure machine)
 
 - Jet « D'ici lundi midi, Yves raconte à quelqu'un de l'équipe (Grace, Abdoul, Mariette ou Aïcha) qu'il a vu le patron les yeux rouges au maquis et qu'il lui a parlé d'amour » : probabilité 35 %, jet  45.0 → **NON** [DÉROGATION : aucune table ne couvre un subordonné témoin d'une confidence personnelle du patron (ni ordre, ni faute, ni geste) ; probabilité d'après Yves : en quête d'approbation, envie de montrer qu'il est proche du patron] (enregistré le 07/10/2026 18:07 heure machine)
+
+- Jet « Pendant la marche du retour (baie -> Capitol, 20 min), Yves aborde le boulot de lui-même (évaluations de lundi, son essai, ses recrutements SAV) » : probabilité 50 %, jet  15.7 → **OUI** (enregistré le 07/10/2026 18:11 heure machine)
+
+- Jet « Veillée de prière (vendredi soir) audible d'une église sur le trajet du retour » : probabilité 40 %, jet   7.3 → **OUI** (enregistré le 07/10/2026 18:11 heure machine)

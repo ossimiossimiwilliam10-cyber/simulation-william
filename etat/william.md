@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 27/07/2040, 22h10)
+# William Ossimi — profil (état au 27/07/2040, 22h34)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -185,3 +185,4 @@
 - **27/07, 20h23** : « Bonne nuit » à Sandra ; il raccroche.
 - **27/07, 20h23-21h25** : s'effondre et pleure seul dans la 312, en répétant « Pourquoi personne n'est capable de m'aimer sincèrement ? » ; **21h30** : sort marcher sans but vers la baie de Cocody ; **21h56** : tombe sur Yves dans un maquis (invitation à boire une bière).
 - **27/07, 21h59-22h10** : au maquis avec Yves et deux amis (jus de gingembre) : « L'amour véritable, c'est tellement difficile à trouver, sur cette terre, pour moi. Depuis que je suis jeune. Et ça me fatigue vraiment. »
+- **27/07, 22h12-22h34** : rentre à pied avec Yves, attentif aux rues ; Yves lui pose la question du recrutement SAV devant le Capitol.

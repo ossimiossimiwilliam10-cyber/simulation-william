@@ -133,3 +133,4 @@
 - **Sandra (27/07, 22h22 à Esch)** : « Bonne nuit, William. » ; pas de « patron », pas de bisous ; elle raye toute sa liste et garde l'enveloppe ; après l'appel, elle ouvre la page Facebook d'OSIA ; demain matin, elle dira à Kevin « le 10 septembre ».
 - **Yves (27/07, 21h56)** : vendredi soir au maquis avec deux amis d'enfance (bière, zouglou) ; il a parlé d'OSIA toute la soirée ; voir passer le patron à pied, seul, lui paraît une chance à ne pas rater.
 - **Yves (27/07, 22h)** : le patron à sa table, un jus à la main, qui parle d'amour : il ne s'y attendait pas ; il garde ça pour lui (pas un mot à l'équipe d'ici lundi) ; ses amis le chambreront plus tard sur « son boss ».
+- **Yves (27/07, 22h26)** : ses trois candidats l'appellent depuis une semaine ; il a promis une réponse « la semaine prochaine » ; il saisit l'occasion d'avoir le patron seul.
