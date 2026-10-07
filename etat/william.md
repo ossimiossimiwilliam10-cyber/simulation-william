@@ -1,9 +1,10 @@
-# William Ossimi — profil (état au 27/07/2040, 21h58)
+# William Ossimi — profil (état au 27/07/2040, 22h10)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
   Naturalisé luxembourgeois en 2022. Ne parle plus à ses parents mais les
   soutient financièrement (a grandi avec son père, « spécial »).
+- **Ne boit pas d'alcool** (précisé par le joueur le 27/07/2040).
 - **Naturalisation (précisé par William le 21/07)** : obtenue **via son père**, naturalisé avant lui (le père
   résidait donc au Luxembourg depuis au moins 5 ans avant 2022). William était mineur (jusqu'au 23/03/2023) :
   il a acquis la nationalité par effet collectif de la naturalisation de son père, sans test de langue
@@ -183,3 +184,4 @@
 - **27/07, 20h16-20h22** : fin de l'appel « en mode automatique » ; septembre confirmé (« je suis là le 10 ») ; « je tiens » ; puis : « Accorde-moi une faveur, et ne t'énerve pas. Je risque d'être absent ces prochains jours. J'ai vraiment pas le moral, cette fois. J'ai besoin d'un peu de temps pour moi. » ; Sandra : « … Ok. … Repose-toi, alors. … Bonne nuit, William. »
 - **27/07, 20h23** : « Bonne nuit » à Sandra ; il raccroche.
 - **27/07, 20h23-21h25** : s'effondre et pleure seul dans la 312, en répétant « Pourquoi personne n'est capable de m'aimer sincèrement ? » ; **21h30** : sort marcher sans but vers la baie de Cocody ; **21h56** : tombe sur Yves dans un maquis (invitation à boire une bière).
+- **27/07, 21h59-22h10** : au maquis avec Yves et deux amis (jus de gingembre) : « L'amour véritable, c'est tellement difficile à trouver, sur cette terre, pour moi. Depuis que je suis jeune. Et ça me fatigue vraiment. »

@@ -15,6 +15,7 @@
 - **M. Da Silva** : garagiste à Schifflange, futur patron-formateur de Kevin.
 
 ## Abidjan
+- **Kader et Junior** *(moteur, 27/07/2040)* : amis d'enfance d'Yves ; Kader, la quarantaine, calme ; Junior, la vingtaine, rieur, nouchi ; ont entendu, au maquis, William parler de sa solitude amoureuse.
 - **Fanta** *(moteur, 27/07/2040)* : cousine d'Aïcha, 31 ans, coiffeuse à Abobo ; sa confidente hors du travail (famille Diomandé) ; connaît, depuis le 27/07 au soir, la relation d'Aïcha avec William et la limitation de ses pouvoirs. Hors du QG, aucun lien avec OSIA.
 - **Maître Kouamé** : avocat d'OSIA. Sérieux, refuse les « arrangements ».
 - **Maître Amon** : huissier.

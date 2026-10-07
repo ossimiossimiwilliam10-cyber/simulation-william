@@ -1,4 +1,4 @@
-# Calendrier (au 27/07/2040, 21h58)
+# Calendrier (au 27/07/2040, 22h10)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -113,6 +113,7 @@
 | **Ven. 27/07, 20h16-20h22** | Fin de la liste de Sandra (« autre chose » rattrapé ; septembre : retour le 09/09 ; « je tiens » les appels) ; William annonce une absence de quelques jours ; Sandra : « Ok. Repose-toi, alors. Bonne nuit, William. » |
 | **Ven. 27/07, 20h23** | Fin de l'appel avec Sandra (23 min) : « Bonne nuit. » |
 | **Ven. 27/07, 20h23-21h58** | William pleure dans sa chambre (≈ 1 h) ; sort à 21h30, marche vers la baie de Cocody ; 21h56 : Yves, dans un maquis avec deux amis, l'invite à boire une bière. |
+| **Ven. 27/07, 21h59-22h10** | Au maquis avec Yves, Kader et Junior ; William (un jus) parle de sa solitude amoureuse ; Yves propose de le raccompagner. |
 | **Ven. 03/08, 16h** | Deuxième contrôle du serveur par Mariette. |
 | **Ven. 27/07, 10h** | **Aïcha au cabinet de Me Kouamé** (ratification des cinq contrats, convention d'honoraires, formalités de la décision) ; **devis de la villa Riviera transmis au client sauf avis contraire de William** ; paiements groupés à la SGBCI ensuite (Me Kouamé, SécuTech, CNPS et ITS de juin). |
 | **Ven. 27/07, vers 20h (Abidjan) = 22h (Esch)** | **Appel à Sandra** (rappel téléphone de William, « impérativement »). |

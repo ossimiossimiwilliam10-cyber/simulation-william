@@ -20,3 +20,4 @@ Envoie des mèmes dans le groupe (à jouer). Pôle technique (SAV).
 Zélé, soucieux de l'image, encore en test sous pression. Peu d'initiative contradictoire pour l'instant.
 - 26/07, 14h33 : dans le groupe Direction, après l'annonce de l'évaluation d'Aïcha : « Noté 🫡 » (T7c : execute_sans_discuter, jet 69.3).
 - 27/07, 21h56 : vendredi soir dans un maquis sur la route de la baie de Cocody, avec deux amis ; voit passer William à pied : « Boss ?! … C'est vous, Boss ? Ah, faut venir ! On est assis là, on vous offre une bière. Faut pas refuser, hein, c'est vendredi ! » ; remarque ses yeux : « Ça va, Boss ? »
+- 27/07, 21h59-22h10 : paie le jus de William ; à sa confidence sur l'amour : « Boss… vous êtes quelqu'un de bien, hein. Ça va venir. L'amour-là, c'est Dieu qui donne. » ; « Après, si vous voulez marcher un peu, je vous raccompagne, Boss. » ; *(non connu de William : il n'en parlera pas à l'équipe d'ici lundi, jet en dérogation)*.
