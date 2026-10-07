@@ -1,4 +1,4 @@
-# Calendrier (au 31/07/2040, 09h27)
+# Calendrier (au 31/07/2040, 12h52)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -142,6 +142,7 @@
 | **Lun. 06/08, 06h00** | **Vol Luxembourg → Lisbonne → São Vicente (Mindelo)** (TAP, économie, réservé le 30/07) ; arrivée 12h40, heure locale. Pré-enregistrement EASE au moins cinq jours avant l'arrivée (au plus tard le 01/08). |
 | **Lun. 06/08 → dim. 12/08** | Hotel Oasis Porto Grande, Mindelo (six nuits, 1 032 €, paiement sur place ; annulation gratuite jusqu'au 03/08). EASE fait le 30/07. |
 | **Dim. 12/08, 23h55** | Retour São Vicente → Lisbonne → Luxembourg (arrivée lun. 13/08, 10h35). |
+| **Sam. 18/08** | Enterrement de l'oncle Joseph (frère aîné du père de William), au village, au Cameroun ; le père demande 5 300 € (message du 31/07). |
 | **Lun. 30/07, 15h** | Aïcha au cabinet de Me Kouamé : signature de la mention « pour les formalités ». *(Reporté : Me Kouamé au tribunal ; mention non signée.)* |
 | **Mar. 31/07, 8h30** | Aïcha au cabinet de Me Kouamé : signature de la mention (deuxième passage). *(Fait : signée à 08h40.)* |
 | **Mer. 01/08, 10h** | Entretiens des trois candidats au poste de technicien SAV (Abdoul, Yves) au QG. |

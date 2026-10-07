@@ -608,3 +608,7 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Sandra réserve son billet pour Mindelo aujourd'hui (même vol que William), malgré le prix (épargne ≈ 2 300 €) » : probabilité 70 %, jet  97.6 → **NON** [DÉROGATION : décision d'achat de Sandra pour son propre billet (budget), pas une réaction à un acte de William] (enregistré le 07/10/2026 23:37 heure machine)
 
 - Jet « Le tarif à 1 520 € est encore disponible pour Sandra (sinon 1 640 €) » : probabilité 55 %, jet  38.5 → **OUI** (enregistré le 07/10/2026 23:37 heure machine)
+
+- Jet « Message du père (argent) : motif — 0-40 santé du père ; 40-70 famille au Cameroun (funérailles, cotisation) ; 70-100 dette, loyer ou voiture » : probabilité 50 %, jet  43.7 → **OUI** (enregistré le 07/10/2026 23:40 heure machine)
+
+- Jet « Message du père : montant demandé = 1 500 € + jet × 45 € (1 500-6 000 €) » : probabilité 50 %, jet  83.9 → **NON** (enregistré le 07/10/2026 23:40 heure machine)

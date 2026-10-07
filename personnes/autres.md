@@ -36,3 +36,5 @@
 - **Dr Yapi** (mise à jour 23/07) : ~55 ans, blouse blanche, regard qui chronomètre ; conseil d'administration le mardi 31/07 ; veut un devis en trois lignes et un plan de maintenance pour vendredi 27/07.
 - **M. Bakayoko** : électricien de la clinique, avait la clé du tableau principal (arrivé à 15h10).
 - **Bertin Assi (30/07)** : apprend par Abdoul qu'il sera sous-traitant ; accepte (« du moment que les chantiers tombent »).
+- **Père de William** (Luxembourg) : William ne lui parle plus mais lui vire de l'argent ponctuellement ; 31/07, 12h52 : premier message depuis longtemps : l'oncle Joseph est mort, 5 300 € demandés pour l'enterrement du 18/08 (« Tu es celui qui a réussi. Je ne te demande pas souvent. »). *(Faits créés par le moteur le 31/07/2040 à partir du tirage « vie hors d'Abidjan ».)*
+- **Oncle Joseph** : frère aîné du père de William ; mort le jeudi 26/07/2040 au village (Cameroun) ; enterrement le samedi 18/08/2040.
