@@ -194,3 +194,4 @@ Total des avances non remboursées par l'entreprise :
 - **29/07, soirée** : taxi Capitol → Angré → Zone 4 ≈ 8 000 FCFA + 2 000 d'attente (+ trajet aller ≈ 5 000) ; dîner libanais à régler.
 - **29/07, 20h** : dîner libanais en Zone 4 ≈ 46 000 FCFA (payé par William).
 - **29/07** : taxis du soir ≈ 22 000 FCFA au total (Capitol → Angré → Zone 4 → Angré → Capitol).
+- **30/07** : changement du vol retour (Air France, tarif Standard) : **+285 €** (carte) ; hôtel Capitol : séjour ramené à 18 nuits au tarif normal (95 000 FCFA) = 1 710 000 FCFA ; **352 500 FCFA remboursés** sur sa carte sous dix jours ouvrés (2 062 500 versés) ; dotation de 115 M FCFA **non arrivée** lundi matin.

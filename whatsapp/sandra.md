@@ -166,3 +166,9 @@ Ok pour que tu paies ton billet. Mais je ne te confirme pas que les dépenses su
 **[30/07/2040 - 08:38 (Abidjan) / 10:38 (Esch)] Sandra :**
 😏 On verra qui paie le poisson grillé à Mindelo, monsieur l'entrepreneur.
 Le 4 août, je l'écris en rouge sur le frigo 🎉
+
+**[30/07/2040 - 08:44 (Abidjan) / 10:44 (Esch)] William :**
+Je t'aime.
+
+**[30/07/2040 - 08:45 (Abidjan) / 10:45 (Esch)] Sandra :**
+Moi aussi ❤️

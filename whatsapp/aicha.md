@@ -212,3 +212,12 @@ Aïcha, je dois repartir d'urgence au Luxembourg le 4 août. Je te laisse inform
 
 **[30/07/2040 - 08:33] Aïcha :**
 Bien, patron. Je les informe ce matin.
+
+**[30/07/2040 - 08:47] William :**
+Aïcha, des nouvelles de l'apport de 115 millions ? Est-ce que ça demande encore mon intervention ou pas du tout ? Et la mention, qu'est-ce qu'il en est ? Je veux une réponse aujourd'hui, avant midi. Occupe-toi aussi des salaires de juillet, ou vois avec la personne qui s'en occupe.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[30/07/2040 - 09:24] Aïcha :**
+Patron, l'apport n'est pas encore arrivé : rien sur le compte ce matin. La SGBCI compte deux à quatre jours ouvrés pour un virement de l'étranger. À réception, la banque délivre l'attestation de versement ; Maître Kouamé dit que vous n'avez plus rien à signer.
+La mention : je la signe aujourd'hui, je passe au cabinet à 15h.
+Les salaires de juillet : Mariette les prépare, virements le 31 au matin.
