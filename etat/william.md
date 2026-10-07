@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 30/07/2040, 08h15)
+# William Ossimi — profil (état au 30/07/2040, 08h27)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -221,3 +221,4 @@
 - **29/07, 20h08-22h30** : raccompagne Estelle à Angré (bise) ; rentre au Capitol, s'endort vers 22h30. **30/07, 07h10** : réveil ; courriel envoyé à 06h00, réponse automatique (secrétariat fermé jusqu'au 13/08).
 - **30/07, 07h15-08h05** : valide les idées de la revue ; à Aïcha : « C'est parfait. Et toi, comment tu vas ? » (« Bien, patron. Ça va, merci. ») ; à Sandra : « Quand est-ce que tu veux que je revienne ? Qu'est-ce que ton cœur te dit ? Est-ce que tu as déjà envie de me revoir ? » ; elle demande s'il veut rentrer pour elle ou parce que ça ne va pas, et ce que devient son entreprise.
 - **30/07, 08h10** : à Sandra : « En réalité, je veux rentrer pour toi. J'en ai marre. Tu me manques trop, en fait. Je souffre apparemment du mal du pays… mais le pays, finalement, c'est toi. » ; elle demande quand il rentrerait, s'il a regardé les vols, et à qui il laisse OSIA.
+- **30/07, 08h20** : propose à Sandra de choisir la date de son retour, explique la gestion à distance par la gérante, propose des congés ensemble ; elle : « Rentre le 4 », Mindelo, et « C'est elle, Aïcha ? ».

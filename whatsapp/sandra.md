@@ -145,3 +145,13 @@ En réalité, je veux rentrer pour toi. J'en ai marre. Tu me manques trop, en fa
 Tu me fais fondre, là. Arrête 🥲
 Donc concrètement : tu rentrerais quand ? Tu as regardé les vols ?
 Et ta boîte, pendant ce temps, tu la laisses à qui ?
+
+**[30/07/2040 - 08:20 (Abidjan) / 10:20 (Esch)] William :**
+Tu n'as qu'à me donner un jour. Quand est-ce que tu veux me revoir ? Je programme mon retour aussitôt. … Pour la société, je la gérerai à distance : j'ai une gérante en place. Elle m'envoie un rapport tous les soirs à 17h, en PDF sur notre serveur ; elle coordonne l'équipe, je garde la décision finale. … Et franchement, ce serait pas mal qu'on se fasse des congés ensemble.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[30/07/2040 - 08:26 (Abidjan) / 10:26 (Esch)] Sandra :**
+Mes congés, c'est du 6 au 19 août. Rentre le 4. Comme ça on a les deux semaines entières.
+Des congés ensemble… Mindelo. Ma tante, la mer, le Monte Verde. J'en rêve depuis février 🥹 Les petits peuvent aller une semaine chez ma mère.
+Mais mon billet, je le paie moi, hein.
+Et une chose, je dis juste ça : vendredi, tu me disais que tu ne garderais pas ta gérante après son essai. Et là, c'est à elle que tu laisses la société. C'est elle, Aïcha ?
