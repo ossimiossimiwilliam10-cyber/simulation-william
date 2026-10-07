@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 29/07/2040, 12h12)
+# William Ossimi — profil (état au 29/07/2040, 12h20)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -208,3 +208,4 @@
 - **29/07, 11h44** : à Estelle : « Je viens du Luxembourg. » ; elle devine un accent camerounais et l'invite à prendre un verre au café de la galerie (« c'est vous qui payez »).
 - **29/07, 11h46-12h05** : café avec Estelle, détendu, il rit franchement ; paie ≈ 8 000 FCFA ; elle lui demande ce qu'il fait à Abidjan et combien de temps il reste.
 - **29/07, 12h06** : se présente à Estelle (« William », entrepreneur dans le solaire, tourisme, départ le 9/09) ; lui demande son salaire ; elle : ≈ 650 000 FCFA net, et lui retourne la question (combien rapporte le solaire, nom de sa société).
+- **29/07, 12h13** : dit à Estelle le nom d'OSIA, « plus de 100 millions » de liquidités et l'absence de suivi financier ; elle lui propose de monter un suivi de trésorerie le week-end pour 150 000 FCFA par mois et lui donne son numéro.
