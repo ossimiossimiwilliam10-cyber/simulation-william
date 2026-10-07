@@ -342,3 +342,7 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Envoi du signalement écrit d'Aïcha à Me Kouamé : samedi 28/07 (sinon dimanche 29/07 avant 17h49) » : probabilité 55 %, jet  57.2 → **NON** [DÉROGATION : délai seulement : issue déjà tirée en T1 (frontal_formel) ; jour d'envoi dans la fenêtre de 48 h] (enregistré le 07/10/2026 15:09 heure machine)
 
 - Jet « Heure d'envoi du signalement d'Aïcha à Me Kouamé, dimanche 29/07, entre 09h00 et 17h49 » : probabilité 50 %, jet  69.6 → **NON** [DÉROGATION : délai seulement : issue déjà tirée en T1 (frontal_formel) ; le nombre tiré fixe l'heure d'envoi dimanche (09h00 + jet × 5,29 min), OUI/NON sans objet] (enregistré le 07/10/2026 15:09 heure machine)
+
+- Jet « Délai avant la démission d'Aïcha (départ discret, motif « opportunité »), compté depuis le 27/07/2040 » : probabilité 50 %, jet  43.0 → **OUI** [DÉROGATION : délai seulement : issue recalculée en T1 (correction n° 35 : depart_discret, même jet 99.7) ; le nombre tiré fixe le délai avant la démission (30 + jet × 1,5 jours), OUI/NON sans objet ; un événement tiré plus tard peut changer sa situation] (enregistré le 07/10/2026 15:22 heure machine)
+
+- Recalibrage (correction n° 35) du tirage [T1] de 17h50 le 27/07 : M04 retiré (erreur du moteur), M02 ajouté ; même jet 99.7 → **depart_discret** ; aucun nouveau tirage.
