@@ -1,4 +1,4 @@
-# Calendrier (au 30/07/2040, 09h30)
+# Calendrier (au 30/07/2040, 09h32)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -137,6 +137,7 @@
 | **Lun. 30/07, 08h10-08h14** | William à Sandra : « le pays, c'est toi » ; elle : « tu rentrerais quand ? … ta boîte, tu la laisses à qui ? » |
 | **Lun. 30/07, 08h20-08h26** | Sandra propose un retour le 04/08 (ses congés du 06 au 19/08) et Mindelo ; elle demande si la gérante est Aïcha. |
 | **Lun. 30/07, 08h28-08h38** | Retour annoncé le 04/08 (Sandra, Aïcha) ; vol du 04/08 complet en économie ; choix du vol en attente. |
+| **Ven. 03/08, 18h** | Départ tardif de la chambre 312 (47 500 FCFA). |
 | **Ven. 03/08, 23h20** | **Vol retour** Abidjan → Paris (Air France, économie) ; Luxembourg le sam. 04/08 vers 10h30. *(Avant : vol du dim. 09/09 → maintenant : ven. 03/08, réservé le 30/07 à 08h43.)* |
 | **Lun. 30/07, 15h** | Aïcha au cabinet de Me Kouamé : signature de la mention « pour les formalités ». |
 | **Mar. 31/07, matin** | Virements des salaires de juillet (Mariette). |
