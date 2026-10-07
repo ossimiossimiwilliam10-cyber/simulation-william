@@ -88,3 +88,12 @@ D'accord. Juste une chose, pour que je me prépare : ça concerne qui ? Toi, moi
 **[27/07/2040 - 15:56 (Abidjan) / 17:56 (Esch)] Sandra :**
 Moi aussi, donc. D'accord.
 Une dernière question, et après j'attends ce soir : c'est quelque chose que tu as fait, ou quelque chose que tu as décidé ?
+
+**[27/07/2040 - 15:58 (Abidjan) / 17:58 (Esch)] William :**
+Je souhaite simplement parler de mon quotidien, te faire part de ce qui me dérange. Et j'attends la même chose de ta part.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[27/07/2040 - 16:00 (Abidjan) / 18:00 (Esch)] Sandra :**
+D'accord, ton quotidien.
+Et « la même chose de ma part », c'est-à-dire ? Que je te dise ce qui me dérange, moi ?
+À ce soir.
