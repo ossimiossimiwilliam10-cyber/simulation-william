@@ -37,3 +37,4 @@ son contrat lui interdit les marchés publics et les commissions.
 - 25/07, 11h05 : Aïcha l'informe par écrit que les échanges avec William passent par elle ; elle répond « Bien reçu. » ; **se confie à un proche hors du travail** (T1 : confidence_proche, jet 65.5) *(non connu de William)*.
 - 25/07, 15h50 : Aïcha la voit discrètement (T3 : contient) ; « Bien, Madame Diomandé. » ; rien ne se voit au QG.
 - 26/07, 14h37 : dans le groupe Direction, après l'annonce de l'évaluation d'Aïcha : « Bien reçu. » (T7c : execute_sans_discuter, jet 46.5).
+- 26/07, 16h30 : remet à Aïcha le devis comparatif de la villa Riviera (A 15,9 M / B 19,6 M FCFA HT ; marges 21 % et 20 %).

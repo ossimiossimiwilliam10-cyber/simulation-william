@@ -1,4 +1,4 @@
-# Calendrier (au 26/07/2040, 15h00)
+# Calendrier (au 26/07/2040, 17h00)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -82,6 +82,8 @@
 | **Jeu. 26/07, 14h08-14h32** | Évaluation d'Aïcha en questions-réponses (14h08-14h26 : 74/100) ; PDF généré (14h27) et uploadé dans `direction/` (14h28) ; message dans le groupe Direction (14h29), Aïcha : « Bien noté, patron. » ; Mariette répond à 14h31 sur les CDD de direction. |
 | **Jeu. 26/07, 14h33-14h56** | Acquittements dans le groupe (Yves, Abdoul, Grace) ; William confie à Mariette la conversion des CDD de direction en CDI avec essai de six mois (14h34) ; **Mariette refuse publiquement les évaluations individuelles sur le serveur partagé (14h39)** ; réponse privée de Mariette à 14h55 (rupture libre pendant l'essai ; six mois = cadres supérieurs ; accord de chacun ; question à Me Kouamé). |
 | **Jeu. 26/07, 14h57-15h00** | William donne raison à Mariette dans le groupe ; l'évaluation d'Aïcha passe dans `rh/evaluations/` (accès restreint, 14h59) ; rappels : appel à Sandra ven. 27/07 vers 20h ; régularisation au Luxembourg dim. 29/07. |
+| **Jeu. 26/07, 15h00-17h00** | « Go » : scan de la décision signée reçu (15h42, non ouvert) ; devis de la villa remis à Aïcha (16h30) ; plan technique d'Abdoul (16h41) ; **premier rapport d'Aïcha (17h00)**. |
+| **Ven. 27/07, 10h** | **Aïcha au cabinet de Me Kouamé** (ratification des cinq contrats, convention d'honoraires, formalités de la décision) ; **devis de la villa Riviera transmis au client sauf avis contraire de William** ; paiements groupés à la SGBCI ensuite (Me Kouamé, SécuTech, CNPS et ITS de juin). |
 | **Ven. 27/07, vers 20h (Abidjan) = 22h (Esch)** | **Appel à Sandra** (rappel téléphone de William, « impérativement »). |
 | **Dim. 29/07** | **William régularise sa situation au Luxembourg** (rappel téléphone ; version de l'ignorance) ; soir : T4, T5, synthèse W30. |
 | **Jeu. 26/07, 14h31** | ~~Réponse détaillée de Mariette sur les CDD de direction~~ **REÇUE** (T1 : rien_absorption) : conversion en CDI recommandée, décision avant le 31/07. |
@@ -95,7 +97,7 @@
 | **Mer. 25/07, 15h** | **Rendez-vous avec Maître Kouamé (cabinet, Plateau)** : décision de l'associé unique, projet de décision d'augmentation de capital, chiffrage. Confirmé le 23/07. **William part à 14h05 ; circulation dense ; arrivé à 15h06 (6 minutes de retard, cabinet prévenu à 14h55).** |
 | Jeu. 26/07, matin | Aléa tiré de la semaine (voir `memoire/tirages-aleas.md`). |
 | Jeu. 26/07 | SécuTech : fin des travaux prévue (câble des 2 caméras d'accueil) ; solde de 525 000 FCFA à l'achèvement. |
-| Jeu. 26/07 | Grace : devis comparatif villa Riviera prêt. Abdoul : plan technique (« Jeudi. »). |
+| Jeu. 26/07 | ~~Grace : devis comparatif villa Riviera prêt. Abdoul : plan technique (« Jeudi. »).~~ **FAIT : devis remis à Aïcha 16h30 ; plan déposé 16h41.** |
 | Mer. 25/07 | Grace remet une demi-page écrite sur la clause « marchés publics / commissions ». |
 | Ven. 27/07, midi | **Déjeuner d'équipe proposé par Grace** (William, Grace, Abdoul, Yves) pour fêter la visite de la clinique et le premier devis — **réponse de William attendue**. |
 | Mar. 24/07, 17h | Kevin : signature du contrat d'apprentissage chez M. Da Silva (Chambre des métiers) — annoncé par Sandra le 22/07 (avant : « semaine du 23/07 »). |

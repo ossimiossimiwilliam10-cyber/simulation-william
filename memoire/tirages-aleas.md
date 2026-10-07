@@ -238,3 +238,15 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Sandra répond au « Bonjour, comment ça va ? » de William (09h35) entre 12h50 et 14h56 Abidjan (réveillée vers 12h20 après sa garde, rien à 12h50) » : probabilité 50 %, jet  89.2 → **NON** [DÉROGATION : partenaire non hiérarchique : délai de réponse, aucune table T8 pour les délais ; 50 % d'après son rythme (réveil vers 14h20 à Esch, enfants, pas de réponse dans la première demi-heure)] (enregistré le 07/10/2026 12:20 heure machine)
 
 - Tirage [T7c] « Mariette : message de William dans le groupe Direction lui donnant raison et lui demandant de déplacer l'évaluation d'Aïcha dans l'espace RH du serveur (accès restreint) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  20.8 → **execute_sans_discuter** (enregistré le 07/10/2026 12:29 heure machine)
+
+- Jet « Plan technique d'Abdoul déposé avant 16h (promis « cet après-midi ») » : probabilité 50 %, jet  70.7 → **NON** (enregistré le 07/10/2026 12:34 heure machine)
+
+- Jet « Devis comparatif de la villa Riviera remis par Grace à Aïcha avant 16h (promis aujourd'hui, avant 17h) » : probabilité 50 %, jet  57.8 → **NON** (enregistré le 07/10/2026 12:34 heure machine)
+
+- Jet « Scan de la décision signée envoyé par le cabinet de Me Kouamé avant 17h jeudi » : probabilité 55 %, jet  18.0 → **OUI** (enregistré le 07/10/2026 12:34 heure machine)
+
+- Jet « CNPS et ITS de juin : deuxième passage demandé (friction administrative 30 %) lors de la première démarche d'Aïcha jeudi après-midi » : probabilité 30 %, jet  42.1 → **NON** (enregistré le 07/10/2026 12:34 heure machine)
+
+- Jet « Sandra répond au message de 09h35 entre 14h56 et 17h00 Abidjan » : probabilité 40 %, jet  99.5 → **NON** [DÉROGATION : partenaire non hiérarchique : délai de réponse, aucune table T8 pour les délais ; 40 % (aucune réponse depuis son réveil vers 12h20, elle attend l'appel promis au plus tard vendredi)] (enregistré le 07/10/2026 12:34 heure machine)
+
+- Jet « Au moins un des directeurs (Grace, Abdoul ou Yves) a ouvert le PDF de l'évaluation d'Aïcha pendant qu'il était dans direction/ (14h28-14h59) » : probabilité 55 %, jet  18.2 → **OUI** (enregistré le 07/10/2026 12:34 heure machine)

@@ -165,3 +165,8 @@ Total des avances non remboursées par l'entreprise :
 - **Seuil d'autorisation validé** (5 M / 10 M FCFA ; liste (a) à (f)) : sera intégré aux statuts modifiés (limitation de la procuration de la gérante).
 - **Vridi (A06)** : geste obtenu par Abdoul : **4 % sur la prochaine commande** ; délai de huit jours maintenu ; livraison vers le 3 août.
 - **SécuTech** : travaux terminés ; **solde de 525 000 FCFA** à régler à la réception (signature à donner) ; trésorerie projetée fin juillet ≈ 20,6 M FCFA hors dotation (inchangée dans l'ordre de grandeur).
+
+## Mise à jour du 26/07/2040, 17h00
+- **CNPS et ITS de juin** : numéro employeur CNPS attribué ; déclarations préparées ; **paiements vendredi 27/07** avec les autres ordres (solde de la création 2 000 000 ; convention d'honoraires ; SécuTech 525 000) ; pénalités de retard à calculer.
+- **Villa Riviera** : devis remis (option A 15 900 000 FCFA HT, marge 21 % ; option B 19 600 000 FCFA HT, marge 20 %) ; envoi au client vendredi 10h sauf avis contraire.
+- **Plan technique d'Abdoul** : masse salariale du noyau 1 980 000 FCFA bruts par mois (≈ 2 380 000 chargés), dès le premier contrat signé ; matériel ≈ 4 900 000 FCFA hors véhicule (location 45 000 FCFA par jour).

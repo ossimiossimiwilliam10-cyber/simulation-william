@@ -141,3 +141,6 @@ Viens dans mon bureau immédiatement. C'est urgent.
 
 **[26/07/2040 - 13:24] Aïcha :**
 J'arrive, patron. Je termine avec la banque.
+
+**[26/07/2040 - 17:00] Aïcha :**
+Patron, le rapport du jour est dans direction : rapport_direction_2607.pdf.
