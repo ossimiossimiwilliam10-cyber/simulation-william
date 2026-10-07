@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 29/07/2040, 15h31)
+# William Ossimi — profil (état au 29/07/2040, 15h35)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -214,3 +214,4 @@
 - **29/07, 12h33-12h40** : donne le numéro d'Aïcha à Estelle (« parle-lui en mon nom ») ; lui propose de passer la nuit « chez lui » (« il ne va rien se passer », trois fois) ; elle refuse la nuit, accepte qu'il passe la chercher à 18h.
 - **29/07, 12h40-15h20** : rentre au Capitol, déjeune, fait la sieste ; reçoit l'adresse d'Estelle (14h47, Angré) ; **15h20 : message de Sandra** (« je voulais juste savoir si tu tiens debout » ; Kevin ravi du 10).
 - **29/07, 15h24-15h31** : confirme le dîner à Estelle (« D'accord ❤️ ») ; écrit à Sandra qu'il ne va pas bien et pense écourter son séjour (« ne le dis pas encore à Kevin ») ; elle le soutient sans creuser.
+- **29/07, 15h33** : à Sandra : « Merci de m'aimer. Je te tiens au courant pour la date de retour. » ; elle : « ❤️ Toujours. Repose-toi. »

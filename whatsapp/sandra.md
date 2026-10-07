@@ -120,3 +120,10 @@ Je ne dis rien à Kevin, promis.
 Si tu rentres plus tôt, je viens te chercher à l'aéroport, peu importe l'heure.
 En attendant : mange, dors, marche. Et écris-moi quand tu veux, même trois mots.
 Je suis là.
+
+**[29/07/2040 - 15:33 (Abidjan) / 17:33 (Esch)] William :**
+Merci de m'aimer. Je te tiens au courant pour la date de retour.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[29/07/2040 - 15:35 (Abidjan) / 17:35 (Esch)] Sandra :**
+❤️ Toujours. Repose-toi.
