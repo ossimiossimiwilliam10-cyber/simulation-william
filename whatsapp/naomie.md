@@ -21,3 +21,10 @@ C'est bon, finalement. Je ne suis plus intéressé.
 
 **[28/07/2040 - 14:08] Naomie :**
 Ah bon ?? 😕 Je suis déjà prête hein. Ce soir 20h alors ? L'acompte reste pour ce soir 😘
+
+**[28/07/2040 - 15:03] William :**
+Finalement je suis dispo à 18h si ça te va 😏 Mais j'aimerais passer tout le week-end avec toi, voire un peu plus 😈 Je suis prêt à mettre les moyens… mais seulement si tu es vraiment sexy 🔥😂
+*(Texte reconstitué à partir de la dictée, émojis compris.)*
+
+**[28/07/2040 - 15:06] Naomie :**
+Hahaha 😂 Toi tu es comment même ? Tu annules, tu reviens 😏 Ok 18h. Le week-end on voit sur place, si on s'entend bien 😘 Mais envoie encore 15 000 pour bloquer ma soirée, sinon je prends un autre client. Et pour sexy, tu vas voir toi-même 🔥
