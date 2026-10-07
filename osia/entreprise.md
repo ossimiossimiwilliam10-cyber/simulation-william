@@ -1,4 +1,4 @@
-# OSIA Énergies SARL (état au 27/07/2040, 17h13)
+# OSIA Énergies SARL (état au 28/07/2040 ; fiche complète)
 
 ## Statut
 - Activité : installation et maintenance photovoltaïque premium, Abidjan.
@@ -122,3 +122,6 @@
 - **26/07/2040, 14h57-14h59** : l'évaluation d'Aïcha est déplacée de `direction/` vers `rh/evaluations/` (accès restreint), William ayant donné raison à Mariette ; la consigne pour les évaluations des quatre autres (14h29) n'est pas modifiée.
 - **26/07/2040, 16h30-17h00** : devis comparatif de la villa Riviera (A 15,9 M / B 19,6 M FCFA HT) ; plan technique d'Abdoul (noyau de six personnes, Bertin en sous-traitant) ; premier rapport quotidien d'Aïcha ; CNPS : numéro employeur attribué.
 - **Correction du 26/07/2040 (n° 34, hors fiction)** : tous les contrats de direction sont des **CDI avec période d'essai** depuis l'origine (six mois pour les cadres supérieurs, trois mois pour Yves) ; les mentions antérieures de CDD (risque de requalification, rupture pour faute lourde seulement, indemnité de 3 %) sont sans objet. Voir `osia/equipe.md`.
+
+## Fiche complète du 28/07/2040
+- Trésorerie ≈ 24 715 000 FCFA ; dotation de 115 M FCFA attendue lun. 30 ou mar. 31/07 ; décision du 26/07 signée par l'associé unique, mention de la gérante non signée, scan non déposé dans juridique/ ; statuts modifiés (seuils 5 M / 10 M) en lecture chez la gérante ; devis clinique (CA mar. 31/07) et villa (sans réponse) ; semaine du 30/07 sans William au QG.

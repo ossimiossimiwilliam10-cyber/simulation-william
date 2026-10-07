@@ -1,4 +1,4 @@
-# Calendrier (au 28/07/2040, 23h05)
+# Calendrier (au 29/07/2040, 08h20)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -124,6 +124,8 @@
 | **Sam. 28/07, 18h46-18h50** | Naomie arrive (pièce d'identité à la réception) ; annonce ses tarifs dans la 312. |
 | **Sam. 28/07, 18h51-21h32** | Soirée avec Naomie dans la 312 (50 000 FCFA) ; elle propose demain (150 000 FCFA), réponse avant midi. |
 | **Sam. 28/07, 21h38-23h05** | Refus du dimanche à Naomie ; recherches sur le risque luxembourgeois ; marche vers les Deux-Plateaux, sans rencontre ; retour 23h05. |
+| **Dim. 29/07, 07h55-08h18** | William programme un courriel à la direction de son lycée (envoi lun. 30/07, 08h00, heure de Luxembourg). |
+| **Lun. 30/07, 08h00 (Luxembourg)** | Envoi automatique du courriel de régularisation (article 14) à la direction du lycée. |
 | **Dim. 29/07, 12h** | Limite donnée par Naomie pour la journée et la nuit de dimanche. |
 | **Ven. 03/08, 16h** | Deuxième contrôle du serveur par Mariette. |
 | **Ven. 27/07, 10h** | **Aïcha au cabinet de Me Kouamé** (ratification des cinq contrats, convention d'honoraires, formalités de la décision) ; **devis de la villa Riviera transmis au client sauf avis contraire de William** ; paiements groupés à la SGBCI ensuite (Me Kouamé, SécuTech, CNPS et ITS de juin). |

@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 28/07/2040, 23h05)
+# William Ossimi — profil (état au 29/07/2040, 08h20)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -202,3 +202,4 @@
 - **28/07, 18h46-18h50** : Naomie arrive avec 46 minutes de retard ; dans la 312, elle annonce : soirée 50 000 FCFA, nuit 120 000 FCFA (25 000 d'acomptes déduits) ; préservatif obligatoire.
 - **28/07, 18h51-21h32** : soirée avec Naomie (50 000 FCFA) ; **rapport protégé** (préservatif ; aucun incident) ; elle propose demain la journée et la nuit pour 150 000 FCFA, réponse avant midi.
 - **28/07, 21h38-23h05** : refuse la journée de dimanche à Naomie ; cherche en ligne si l'administration luxembourgeoise peut découvrir OSIA (article 14, sanctions, forum, échange automatique de données bancaires : aucun chiffre) ; ressort marcher vers les Deux-Plateaux, en espérant croiser de jolies femmes ; aucune rencontre ; rentre à 23h05.
+- **28/07, 23h40** : s'endort. **29/07, 07h50** : réveil ; **07h55-08h18** : rédige et **programme pour lundi 08h00** un courriel à la direction de son lycée (demande d'autorisation, version de l'ignorance) ; copie dans `documents_william/`.

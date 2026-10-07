@@ -1,4 +1,4 @@
-# Finances de William & OSIA (estimations au 24/07/2040, 15h00)
+# Finances de William & OSIA (estimations au 28/07/2040, 23h40 ; fiche complète du 28/07)
 
 > Parité fixe : 1 € = 655,957 FCFA.
 > Les montants de salaire de toute la simulation sont des **BRUTS** ; les virements réels sont calculés
@@ -186,3 +186,7 @@ Total des avances non remboursées par l'entreprise :
 - **28/07 (dépenses personnelles de William)** : maquis du 27/07 au soir ≈ 5 000 FCFA (espèces) ; **acompte de 10 000 FCFA** viré depuis Djamo au numéro Wave d'une escorte (Naomie), rendez-vous annulé par William, acompte non rendu.
 - **28/07, 15h08** : second acompte de **15 000 FCFA** à Naomie (Djamo → Wave) ; total des acomptes : 25 000 FCFA.
 - **28/07, 18h51** : 25 000 FCFA en espèces à Naomie (soirée : 50 000 FCFA au total, acomptes compris).
+
+## Fiche complète du 28/07/2040
+- **Trésorerie OSIA** ≈ 24 715 000 FCFA (≈ 37 680 €) ; dotation de 115 000 000 FCFA attendue lun. 30 ou mar. 31/07 ; formalités et droits (≈ 1,0 à 1,2 M FCFA) à l'exécution ; salaires de juillet le 31/07.
+- **William** : patrimoine ≈ 787 700 € (ordre de grandeur inchangé) ; dépenses personnelles du 27-28/07 : maquis ≈ 5 000 FCFA, Naomie 50 000 FCFA ; Djamo au niveau 1.

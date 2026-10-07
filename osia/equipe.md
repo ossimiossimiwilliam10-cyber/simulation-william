@@ -1,4 +1,4 @@
-# Équipe d'OSIA (au 21/07/2040)
+# Équipe d'OSIA (au 21/07/2040 ; complété à la fiche complète du 28/07/2040)
 
 > Contrats détaillés (début/fin) : `serveur/rh/synthese_equipe_1807.pdf` et `serveur/rh/contrats/`.
 > Tous les salaires ci-dessous sont des **bruts mensuels** (les contrats disaient « Net » par erreur :
@@ -69,3 +69,10 @@
 - **Abdoul** : essai jusqu'au 15/01/2041. **Yves** : première échéance de l'entreprise (15/10).
 - **Disparaissent** : le risque de requalification des CDD, l'indemnité de fin de contrat de 3 % (≈ 3,4 M FCFA), la règle « faute lourde seulement ».
 - **Tables de pouvoir inchangées** (seul l'utilisateur les modifie) : leurs conditions « CDD » (M01, M08, M12, §4) se lisent « contrat récent en période d'essai ».
+
+## Fiche complète du 28/07/2040
+- **Aïcha** (gérante, essai jusqu'au 21/11) : deux refus nets (26 et 27/07), vouvoiement, mention « pour les formalités » non signée, relit les statuts modifiés ; trois approches relationnelles de William le 27/07 (« Non, patron. Je ne vous déteste pas. ») ; *(caché : reste ; demande lundi la confirmation anticipée de son poste ; règle de l'utilisateur : pas de départ discret tant que sa dépendance tient)*.
+- **Mariette** (DRH, essai jusqu'au 30/11) : contrôle du serveur du 27/07 ; matrice : passe par Aïcha, n'écrit pas à Me Kouamé avant lundi.
+- **Grace** (commerciale, essai jusqu'au 15/01/2041) : devis clinique et villa livrés ; silencieuse avec William.
+- **Abdoul** (technique, essai jusqu'au 15/01/2041) : plan technique validé ; Vridi vers le 03/08 ; Bertin toujours pas informé.
+- **Yves** (SAV, essai jusqu'au 15/10, renouvellement à notifier avant le 30/09) : maquis du 27/07 avec William ; accord oral de William pour le technicien SAV, à voir avec Aïcha lundi.
