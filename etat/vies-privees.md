@@ -146,3 +146,5 @@
 - **Sandra (30/07, 23h35 à Esch)** : écrit une ligne avant de dormir ; ne parle ni de l'hôtel ni de la vidéo.
 - **Aïcha (31/07, 08h40)** : signe la mention au cabinet, en cinq minutes, avant l'audience de Me Kouamé ; elle ne pose aucune question sur les statuts.
 - **Yves (31/07, matin)** : appelle ses trois candidats pour confirmer mercredi 10h ; l'annulation du garba le déçoit un peu ; il garde la phrase « sauf si tu as envie de bouger » et la répète à Kader, en riant.
+- **Estelle (31/07, 10h)** : arrive en tailleur, lunettes dorées, un classeur neuf sous le bras ; vouvoie Aïcha, qui la vouvoie aussi ; les deux femmes se jaugent poliment ; Estelle repart avec les relevés et une clé USB, et file au Plateau pour l'après-midi.
+- **Me Kouamé (31/07)** : plaide au tribunal du Plateau toute la matinée ; lit le message de William pendant une suspension.

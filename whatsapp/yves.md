@@ -20,3 +20,7 @@ Kader dit que c'est lui qui paie, il a juré devant tout le monde 😂
 **[31/07/2040 - 09:18] William :**
 Yves, je suis vraiment désolé, mais finalement ça va être vraiment serré pour moi. On se fera ça une autre fois, quand je reviendrai. De toute façon, je pense pas que d'ici là tu vas bouger de l'entreprise, sauf si tu as envie de bouger 😄 On se refait ça la prochaine fois que je reviens en Côte d'Ivoire.
 *(Texte reconstitué à partir de la dictée.)*
+
+**[31/07/2040 - 10:32] Yves :**
+Pas de souci, Boss 🙏🏾 On se fera ça au retour, Kader va garder son argent au chaud 😂
+Moi je bouge pas, hein. OSIA, c'est la maison maintenant. Bon voyage d'avance, Boss.

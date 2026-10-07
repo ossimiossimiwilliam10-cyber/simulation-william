@@ -586,3 +586,11 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Yves répond dans les 30 minutes » : probabilité 70 %, jet  99.2 → **NON** [DÉROGATION : délai seulement] (enregistré le 07/10/2026 23:28 heure machine)
 
 - Jet « Heure de la réponse d'Yves : 09h50 + jet × 3 minutes (09h50-14h50) » : probabilité 50 %, jet  14.0 → **OUI** [DÉROGATION : délai seulement] (enregistré le 07/10/2026 23:28 heure machine)
+
+- Jet « Me Kouamé lit le message de William avant 12h (il plaide ce matin) » : probabilité 40 %, jet   8.8 → **OUI** [DÉROGATION : délai seulement (agenda d'audience d'un tiers à autorité propre, T6 sans tirage sur le fond)] (enregistré le 07/10/2026 23:31 heure machine)
+
+- Jet « Heure du courriel de réponse de Me Kouamé : 13h00 + jet × 5 minutes (13h-21h20) » : probabilité 50 %, jet  43.8 → **OUI** [DÉROGATION : délai seulement] (enregistré le 07/10/2026 23:31 heure machine)
+
+- Jet « Estelle arrive au QG à l'heure (10h) pour le contrat et les relevés » : probabilité 65 %, jet   4.1 → **OUI** [DÉROGATION : ponctualité d'une prestataire (embouteillages Angré-Cocody), pas une réaction à un acte de William] (enregistré le 07/10/2026 23:31 heure machine)
+
+- Jet « Estelle écrit à William dans la journée après le rendez-vous » : probabilité 45 %, jet  66.9 → **NON** [DÉROGATION : message spontané d'une relation récente, délai seulement ; le contenu suit son motif de fiche (attirance et calcul)] (enregistré le 07/10/2026 23:31 heure machine)

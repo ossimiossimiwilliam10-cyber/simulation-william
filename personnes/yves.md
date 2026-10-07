@@ -27,3 +27,4 @@ Zélé, soucieux de l'image, encore en test sous pression. Peu d'initiative cont
 - 30/07, 17h05 : William accepte l'invitation au garba (« Offert par Kader, bien évidemment 😄 ») ; *(non vu : Kader et Junior libres jeudi 02/08 au soir ; réponse mardi)*
 - 31/07, 07h48 : « Bonjour Boss 🙏🏾 Pardon pour hier soir, j'étais avec les gars. Kader et Junior, c'est jeudi soir seulement : Junior est de nuit au port jusqu'à mercredi. Jeudi 20h, au même maquis, côté baie ? Kader dit que c'est lui qui paie, il a juré devant tout le monde 😂 »
 - 31/07, 09h18 : William annule le garba de jeudi (« une autre fois, quand je reviendrai… sauf si tu as envie de bouger 😄 ») ; *(non vu : réponse chaleureuse à 10h32)*.
+- 31/07, 10h32 : « Pas de souci, Boss 🙏🏾 On se fera ça au retour, Kader va garder son argent au chaud 😂 Moi je bouge pas, hein. OSIA, c'est la maison maintenant. Bon voyage d'avance, Boss. »
