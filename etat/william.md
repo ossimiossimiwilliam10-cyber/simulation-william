@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 29/07/2040, 11h45)
+# William Ossimi — profil (état au 29/07/2040, 12h05)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -206,3 +206,4 @@
 - **29/07, 09h45-11h42** : se promène en regardant les femmes (sorties de messe, Riviera) ; sa taille attire les regards (« Eh, le grand ! ») ; **11h41 : Estelle l'aborde dans une galerie** (« Vous êtes basketteur ? »).
 - **29/07, 11h42** : serre la main d'Estelle, répond « Non. » ; elle relance (« cette voix-là ! », « vous n'êtes pas d'ici, je me trompe ? »).
 - **29/07, 11h44** : à Estelle : « Je viens du Luxembourg. » ; elle devine un accent camerounais et l'invite à prendre un verre au café de la galerie (« c'est vous qui payez »).
+- **29/07, 11h46-12h05** : café avec Estelle, détendu, il rit franchement ; paie ≈ 8 000 FCFA ; elle lui demande ce qu'il fait à Abidjan et combien de temps il reste.

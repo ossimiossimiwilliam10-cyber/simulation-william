@@ -418,3 +418,5 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Estelle poursuit la conversation malgré la réponse d'un seul mot (« non ») de William, intriguée par sa voix très grave » : probabilité 65 %, jet  59.7 → **OUI** (enregistré le 07/10/2026 19:12 heure machine)
 
 - Jet « Estelle propose d'elle-même de prendre un verre (café ou jus) au café de la galerie » : probabilité 40 %, jet  28.7 → **OUI** (enregistré le 07/10/2026 19:30 heure machine)
+
+- Jet « Motif caché d'Estelle envers William » : probabilité 50 %, jet  46.9 → **OUI** [DÉROGATION : motif caché d'un personnage nouveau (pas une réaction à un acte de pouvoir) ; le nombre tiré fixe le motif : 0-45 curiosité et attirance sincères ; 45-70 attirance et calcul (un homme qui a les moyens) ; 70-90 sympathie seulement, elle a quelqu'un ; 90-100 chasseuse d'argent (arnaque possible)] (enregistré le 07/10/2026 19:33 heure machine)
