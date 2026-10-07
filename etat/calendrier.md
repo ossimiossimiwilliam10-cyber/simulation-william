@@ -1,4 +1,4 @@
-# Calendrier (au 28/07/2040, 09h05)
+# Calendrier (au 28/07/2040, 09h40)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -117,6 +117,7 @@
 | **Ven. 27/07, 22h12-22h34** | Retour à pied avec Yves (veillée de prière sur le trajet) ; Yves pose la question du recrutement SAV ; arrivée au Capitol. |
 | **Ven. 27/07, 22h35** | William à Yves : « Vois ça avec Aïcha lundi. Mais de mon côté, je suis d'accord. » |
 | **Sam. 28/07, 08h40-09h05** | Réveil au Capitol, petit-déjeuner ; aucun message. |
+| **Sam. 28/07, 09h20-09h40** | William consulte un site d'annonces d'escortes (aucun contact). |
 | **Ven. 03/08, 16h** | Deuxième contrôle du serveur par Mariette. |
 | **Ven. 27/07, 10h** | **Aïcha au cabinet de Me Kouamé** (ratification des cinq contrats, convention d'honoraires, formalités de la décision) ; **devis de la villa Riviera transmis au client sauf avis contraire de William** ; paiements groupés à la SGBCI ensuite (Me Kouamé, SécuTech, CNPS et ITS de juin). |
 | **Ven. 27/07, vers 20h (Abidjan) = 22h (Esch)** | **Appel à Sandra** (rappel téléphone de William, « impérativement »). |

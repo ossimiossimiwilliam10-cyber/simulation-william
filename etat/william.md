@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 28/07/2040, 09h05)
+# William Ossimi — profil (état au 28/07/2040, 09h40)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -36,7 +36,7 @@
 ## Séjour actuel
 - À Abidjan du **16 juillet au 9 septembre 2040** (retour : 9/09, Abidjan
   23h20 → Paris → Luxembourg 10/09 matin). E-visa validé.
-- Hôtel Capitol, Cocody Centre, **chambre 312**. Tarif long séjour
+- Hôtel Capitol, Cocody Centre, **chambre 312**. *(Règle de l'hôtel, posée le 28/07 : tout visiteur laisse une pièce d'identité à la réception ; un second occupant pour la nuit est facturé.)* Tarif long séjour
   75 000 FCFA/nuit (4 125 000 FCFA au total) : moitié payée à l'arrivée,
   solde en fin de séjour. Plafond de carte relevé à 5 000 €/7 jours
   (temporaire).
@@ -187,3 +187,4 @@
 - **27/07, 21h59-22h10** : au maquis avec Yves et deux amis (jus de gingembre) : « L'amour véritable, c'est tellement difficile à trouver, sur cette terre, pour moi. Depuis que je suis jeune. Et ça me fatigue vraiment. »
 - **27/07, 22h12-22h34** : rentre à pied avec Yves, attentif aux rues ; Yves lui pose la question du recrutement SAV devant le Capitol.
 - **27/07, 22h35** : à Yves : « Vois ça avec Aïcha lundi. Mais de mon côté, je suis d'accord. » ; s'endort vers 00h30. **28/07, 08h40** : réveil, yeux gonflés ; petit-déjeuner à 09h05 ; aucun message.
+- **28/07, 09h20-09h40** : ouvre un site d'annonces d'escortes sur son téléphone ; regarde quatre annonces (Naomie, « Les Copines VIP », Kady, Sarah) ; n'a contacté personne.
