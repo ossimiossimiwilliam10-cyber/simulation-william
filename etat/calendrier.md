@@ -1,4 +1,4 @@
-# Calendrier (au 30/07/2040, 08h27)
+# Calendrier (au 30/07/2040, 08h39)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -136,6 +136,8 @@
 | **Lun. 30/07, 07h15-08h05** | Revue validée ; « Bien, patron. Ça va, merci. » (Aïcha) ; Sandra : « tu veux rentrer pour moi, ou parce que là-bas ça ne va pas ? » |
 | **Lun. 30/07, 08h10-08h14** | William à Sandra : « le pays, c'est toi » ; elle : « tu rentrerais quand ? … ta boîte, tu la laisses à qui ? » |
 | **Lun. 30/07, 08h20-08h26** | Sandra propose un retour le 04/08 (ses congés du 06 au 19/08) et Mindelo ; elle demande si la gérante est Aïcha. |
+| **Lun. 30/07, 08h28-08h38** | Retour annoncé le 04/08 (Sandra, Aïcha) ; vol du 04/08 complet en économie ; choix du vol en attente. |
+| **Sam. 04/08** | Départ prévu de William (vol à choisir : 03/08 ou 05/08 en économie, 04/08 en affaires). |
 | **Mar. 31/07** | *(Non connu de William)* message d'un parent de William (vie hors d'Abidjan) ; aléas A09 (matin) et A06 (soir). |
 | **Mar. 31/07, 10h** | *(Non connu de William avant 18h06 dimanche)* Aïcha reçoit Estelle au QG (relevés, factures). |
 | **Dim. 29/07, 18h** | Dîner avec Estelle (Zone 4, à confirmer). |

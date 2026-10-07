@@ -205,3 +205,10 @@ C'est parfait. Et toi, comment tu vas ?
 
 **[30/07/2040 - 07:21] Aïcha :**
 Bien, patron. Ça va, merci.
+
+**[30/07/2040 - 08:31] William :**
+Aïcha, je dois repartir d'urgence au Luxembourg le 4 août. Je te laisse informer l'équipe. Je risque de revenir, c'est à confirmer.
+*(Texte reconstitué à partir de la dictée ; aucun autre détail.)*
+
+**[30/07/2040 - 08:33] Aïcha :**
+Bien, patron. Je les informe ce matin.

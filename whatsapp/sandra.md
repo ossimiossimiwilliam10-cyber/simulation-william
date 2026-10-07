@@ -155,3 +155,14 @@ Mes congés, c'est du 6 au 19 août. Rentre le 4. Comme ça on a les deux semain
 Des congés ensemble… Mindelo. Ma tante, la mer, le Monte Verde. J'en rêve depuis février 🥹 Les petits peuvent aller une semaine chez ma mère.
 Mais mon billet, je le paie moi, hein.
 Et une chose, je dis juste ça : vendredi, tu me disais que tu ne garderais pas ta gérante après son essai. Et là, c'est à elle que tu laisses la société. C'est elle, Aïcha ?
+
+**[30/07/2040 - 08:28 (Abidjan) / 10:28 (Esch)] William :**
+Ok, c'est bon, je rentre le samedi 4 août.
+
+**[30/07/2040 - 08:34 (Abidjan) / 10:34 (Esch)] William :**
+Ok pour que tu paies ton billet. Mais je ne te confirme pas que les dépenses sur place seront aussi pour toi 😏 … Et oui, c'était Aïcha. Sa période d'essai se termine dans environ six mois.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[30/07/2040 - 08:38 (Abidjan) / 10:38 (Esch)] Sandra :**
+😏 On verra qui paie le poisson grillé à Mindelo, monsieur l'entrepreneur.
+Le 4 août, je l'écris en rouge sur le frigo 🎉
