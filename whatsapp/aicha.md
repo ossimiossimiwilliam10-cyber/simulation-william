@@ -246,3 +246,11 @@ Aïcha, où en es-tu avec la mention pour les formalités ? Ce dossier a déjà 
 **[31/07/2040 - 09:26] Aïcha :**
 Patron, c'est signé ce matin, 8h40, au cabinet.
 Maître Kouamé dépose les formalités dès que la SGBCI nous remet l'attestation de versement. Les fonds ne sont pas encore visibles ce matin ; je repasse à la banque cet après-midi.
+
+**[31/07/2040 - 14:52] Aïcha :**
+Patron, l'apport est arrivé : 115 585 600 FCFA crédités à 14h20, frais déduits.
+La banque ne donne l'attestation de versement que jeudi. Maître Kouamé dépose les formalités dès qu'il l'a.
+
+**[31/07/2040 - 17:01] Aïcha :**
+Patron, le rapport de ce mardi est déposé dans direction. La clinique a dit non ; le détail est dedans.
+*(Pièce : `serveur/direction/rapport_direction_3107.pdf`.)*

@@ -1,4 +1,4 @@
-# Calendrier (au 31/07/2040, 12h52)
+# Calendrier (au 31/07/2040, 17h01)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -51,7 +51,7 @@
 | **Ven. 27/07, 16h** | **Premier contrôle du serveur par Mariette** (règles du 23/07) : liste des écarts remise à William. |
 | Mer. 25/07, soir | **Fiche complète** (3 jours simulés depuis le 22/07). |
 | **Ven. 27/07 (au plus tard)** | **Devis de la clinique de Marcory** (trois lignes : matériel, pose, garantie) + plan de maintenance, à remettre au Dr Yapi. |
-| **Mar. 31/07** | Conseil d'administration de la clinique (décision possible). |
+| **Mar. 31/07** | Conseil d'administration de la clinique (décision possible). *(Fait : refus, offre concurrente en location ; communiqué à Grace à 15h50.)* |
 | **Mer. 25/07, 17h (Abidjan) = 19h (Esch)** | **Appel à Sandra** (engagement : un appel tous les deux jours au minimum ; prévenir AVANT en cas d'empêchement) ; juste après le rendez-vous de Me Kouamé à 15h au Plateau. |
 | Ven. 27/07 et dim. 29/07 | Appels suivants à Sandra (ven. 27/07 : fixé vers 20h Abidjan par William) (rythme d'un appel tous les deux jours au minimum). |
 | **Mer. 25/07, 09h12** | **Mariette est venue dans le bureau de William (vouvoiement, porte ouverte) et a exposé ce qu'elle sait ; William n'a pas répondu (silence).** |
@@ -146,6 +146,7 @@
 | **Lun. 30/07, 15h** | Aïcha au cabinet de Me Kouamé : signature de la mention « pour les formalités ». *(Reporté : Me Kouamé au tribunal ; mention non signée.)* |
 | **Mar. 31/07, 8h30** | Aïcha au cabinet de Me Kouamé : signature de la mention (deuxième passage). *(Fait : signée à 08h40.)* |
 | **Mer. 01/08, 10h** | Entretiens des trois candidats au poste de technicien SAV (Abdoul, Yves) au QG. |
+| **Jeu. 02/08** | Attestation de versement de l'apport (SGBCI), puis dépôt des formalités par Me Kouamé. |
 | **Jeu. 02/08, 20h** | ~~Garba avec Yves, Kader et Junior~~ *(proposé par Yves le 31/07 à 07h48 ; annulé par William à 09h18 : « une autre fois, quand je reviendrai »)* |
 | **Jeu. 02/08, soir** | *(Non connu de William)* Seul soir où Yves, Kader et Junior sont libres pour le garba. |
 | **Mar. 14/08** | Raccordement fibre Orange (reporté ; à confirmer). |

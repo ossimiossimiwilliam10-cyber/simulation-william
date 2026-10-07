@@ -40,3 +40,5 @@
 - **Oncle Joseph** : frère aîné du père de William ; mort le jeudi 26/07/2040 au village (Cameroun) ; enterrement le samedi 18/08/2040.
 - **Père de William (31/07, 13h31)** : après le « OK » et les 5 300 € : « Reçu. Merci, mon fils. Tu viens le 18 ? Ta tante demande. Et c'est quoi, cette société à Abidjan ? J'ai vu ta photo sur Facebook. » (il a vu la page Facebook d'OSIA).
 - **Père de William (31/07, 13h40)** : William : « Malheureusement, je ne viendrai pas : je ne suis pas libre. La société, ce n'est pas très important : c'est juste un petit projet comme ça, rien de très important. » ; *(non vu : il répond à 17h00 : « Tu n'es pas en vacances jusqu'en septembre ? Tu seras où, le 18 ? Et le petit projet, c'est quoi ? Il y a des employés sur la photo. »)*.
+- **Dr Yapi (31/07, 15h50)** : appelle Grace : le CA a retenu une offre concurrente en location sur sept ans ; « Votre devis était sérieux. C'est une question de trésorerie, pas de technique. » ; garde le plan de maintenance d'OSIA.
+- **Père de William (31/07, 17h00)** : « Tu n'es pas en vacances jusqu'en septembre ? Tu seras où, le 18 ? Et le petit projet, c'est quoi ? Il y a des employés sur la photo. »

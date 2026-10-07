@@ -125,3 +125,4 @@
 
 ## Fiche complète du 28/07/2040
 - Trésorerie ≈ 24 715 000 FCFA ; dotation de 115 M FCFA attendue lun. 30 ou mar. 31/07 ; décision du 26/07 signée par l'associé unique, mention de la gérante non signée, scan non déposé dans juridique/ ; statuts modifiés (seuils 5 M / 10 M) en lecture chez la gérante ; devis clinique (CA mar. 31/07) et villa (sans réponse) ; semaine du 30/07 sans William au QG.
+- **31/07/2040** : mention signée (08h40) ; apport crédité (115 585 600 FCFA, 14h20) ; trésorerie ≈ 138 M FCFA ; attestation de versement jeudi ; **clinique de Marcory : refus du CA** (offre concurrente en location sur sept ans) ; Estelle sous contrat de prestation ; statuts modifiés (seuils 5 M / 10 M) toujours non signés.

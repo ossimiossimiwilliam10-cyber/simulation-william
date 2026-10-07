@@ -21,3 +21,7 @@ Et c'est quoi, cette société à Abidjan ? J'ai vu ta photo sur Facebook.
 **[31/07/2040 - 13:40 (Abidjan) / 15:40 (Luxembourg)] William :**
 Malheureusement, je ne viendrai pas : je ne suis pas libre. La société, ce n'est pas très important : c'est juste un petit projet comme ça, rien de très important.
 *(Texte reconstitué à partir de la dictée.)*
+
+**[31/07/2040 - 17:00 (Abidjan) / 19:00 (Luxembourg)] Père :**
+Tu n'es pas en vacances jusqu'en septembre ? Tu seras où, le 18 ?
+Et le petit projet, c'est quoi ? Il y a des employés sur la photo.

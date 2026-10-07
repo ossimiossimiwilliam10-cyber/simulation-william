@@ -622,3 +622,15 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Le père répond dans l'heure » : probabilité 55 %, jet  75.0 → **NON** [DÉROGATION : délai seulement] (enregistré le 07/10/2026 23:50 heure machine)
 
 - Jet « Heure de la réponse du père (Abidjan) : 14h40 + jet × 5 minutes (14h40-23h00) » : probabilité 50 %, jet  28.1 → **OUI** [DÉROGATION : délai seulement] (enregistré le 07/10/2026 23:50 heure machine)
+
+- Jet « CA de la clinique de Marcory (devis OSIA 21 400 000 FCFA HT) : issue — 0-20 accepté ; 20-55 reporté (pièces ou comparatif demandés) ; 55-85 négociation (remise demandée) ; 85-100 refusé (concurrent) » : probabilité 50 %, jet  91.2 → **NON** (enregistré le 07/10/2026 23:52 heure machine)
+
+- Jet « Le Dr Yapi communique l'issue du CA à Grace dès aujourd'hui (avant 16h30) » : probabilité 45 %, jet   8.9 → **OUI** (enregistré le 07/10/2026 23:52 heure machine)
+
+- Jet « Dotation créditée sur le compte d'OSIA avant 15h (Aïcha à la banque l'après-midi) » : probabilité 65 %, jet  37.1 → **OUI** (enregistré le 07/10/2026 23:52 heure machine)
+
+- Jet « Friction : la SGBCI ne délivre pas l'attestation de versement aujourd'hui (deuxième passage, 24 à 48 h) » : probabilité 30 %, jet  14.8 → **OUI** (enregistré le 07/10/2026 23:52 heure machine)
+
+- Jet « A09 : Aïcha s'aperçoit aujourd'hui que son salaire n'est pas arrivé » : probabilité 40 %, jet  54.4 → **NON** (enregistré le 07/10/2026 23:52 heure machine)
+
+- Jet « Rapport d'Aïcha déposé à l'heure (17h00) » : probabilité 85 %, jet   0.1 → **OUI** (enregistré le 07/10/2026 23:52 heure machine)

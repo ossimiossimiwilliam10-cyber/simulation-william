@@ -42,3 +42,4 @@ son contrat lui interdit les marchés publics et les commissions.
 - 27/07, 14h20 : le Dr Yapi lui accuse réception du devis (« Le conseil l'examinera mardi. »).
 - 27/07, 17h04 : quitte le QG au téléphone, en anglais, sans regarder vers le bureau de William *(non connu de William : sa mère attend l'envoi d'argent de fin de mois ; « mardi »)*.
 - 30/07 : évaluation 78/100 (standard) remise par Aïcha ; apprend le départ du patron le 4 août au point d'équipe.
+- 31/07, 15h50 : le Dr Yapi lui annonce le refus du CA (offre concurrente en location sur sept ans) ; elle l'annonce à Aïcha à 16h05 et propose d'étudier une offre en location.
