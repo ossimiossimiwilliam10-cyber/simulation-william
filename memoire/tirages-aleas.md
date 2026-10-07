@@ -290,3 +290,13 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Me Kouamé informe William par courriel, avant midi, du résultat du rendez-vous de 10h avec la gérante » : probabilité 60 %, jet  37.4 → **OUI** (enregistré le 07/10/2026 13:22 heure machine)
 
 - Jet « William arrive au QG avant 08h15 vendredi (taxi depuis le Capitol, départ 07h40) » : probabilité 75 %, jet  86.7 → **NON** (enregistré le 07/10/2026 13:22 heure machine)
+
+- Jet « Sandra est de garde la nuit du vendredi 27 au samedi 28/07 (troisième nuit d'affilée, prise de poste à 21h à Esch) » : probabilité 40 %, jet  61.9 → **NON** (enregistré le 07/10/2026 13:32 heure machine)
+
+- Jet « Sandra répond au message de William (proposition d'appel à 22h, « je t'expliquerai tout ») avant 14h à Abidjan, à son réveil » : probabilité 70 %, jet  90.6 → **NON** [DÉROGATION : partenaire non hiérarchique : délai de réponse, aucune table T8 pour les délais ; 70 % (réveil vers 12h20 Abidjan, elle a posé la question elle-même)] (enregistré le 07/10/2026 13:32 heure machine)
+
+- Tirage [T8] « Sandra : réponse de William à « On s'appelle quand ? » : « On s'appelle ce soir vers 22h, si ça te va. Je t'expliquerai tout à ce moment-là. » (promesse de tout expliquer, report des réponses au soir) ; peur des silences (M40), déjà alertée (M43), confiance récente (M44) » : soutient_sans_creuser 12 / creuse_doucement 31 / releve_esquive 27 / plaisante_et_devie 8 / froideur 9 / agacement_net 5 / rien_ne_dit_soupconne 8 / frontal_rupture 0 ; modificateurs : M40, M43, M44 ; jet  87.5 → **agacement_net** (enregistré le 07/10/2026 13:32 heure machine)
+
+- Jet « Sandra répond entre 14h et 17h à Abidjan (réveillée, après-midi avec les enfants) » : probabilité 65 %, jet  33.3 → **OUI** [DÉROGATION : partenaire non hiérarchique : délai de réponse, aucune table T8 pour les délais ; 65 % (elle n'a pas répondu à son réveil ; après-midi avec les enfants)] (enregistré le 07/10/2026 13:32 heure machine)
+
+- Jet « Le Dr Yapi accuse réception du devis de la clinique auprès de Grace avant 16h vendredi » : probabilité 60 %, jet   7.5 → **OUI** (enregistré le 07/10/2026 13:33 heure machine)

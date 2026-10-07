@@ -113,3 +113,5 @@
 - **Aïcha (27/07 matin)** : découvre au cabinet que William a fait limiter ses pouvoirs sans le lui dire ; elle ne refuse rien, mais repart avec le projet de statuts et ne signe pas la mention des formalités ; *intérêt : son nom, sa place de gérante, le temps de comprendre.*
 - **Grace (27/07)** : devis de la clinique bouclé avec Abdoul ; déjeuner d'équipe à midi, sans William ; rien d'autre ne se voit.
 - **Mariette (27/07 matin)** : prépare le contrôle de 16h ; pas encore de réponse de Me Kouamé sur l'essai.
+- **Sandra (27/07 après-midi)** : se réveille, s'occupe des petits, lit le message de William ; ne répond pas tout de suite ; à 15h47 (17h47 Esch), elle pose une limite nette (T8 : agacement_net) ; pas de garde ce soir ; *intérêt : ne pas revivre le « laisse tomber » de mercredi.*
+- **Aïcha (27/07 après-midi)** : relit le projet de statuts modifiés, prépare les évaluations de lundi ; rien n'est dit à William sur la limitation de ses pouvoirs.

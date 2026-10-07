@@ -68,3 +68,8 @@ On s'appelle quand ?
 **[27/07/2040 - 06:45 (Abidjan) / 08:45 (Esch)] William :**
 On s'appelle ce soir vers 22h, si ça te va. Je t'expliquerai tout à ce moment-là.
 *(Texte reconstitué à partir de la dictée ; « 22h » lu comme 22h à Esch. Deux coches grises : Sandra dort.)*
+
+**[27/07/2040 - 15:47 (Abidjan) / 17:47 (Esch)] Sandra :**
+22h, d'accord.
+Mais je te le dis maintenant : mercredi, tu m'as dit « laisse tomber ». Ce soir, si tu dis « tout », c'est tout. Je ne veux pas d'un deuxième « laisse tomber ».
+Sinon, ce n'est pas la peine.

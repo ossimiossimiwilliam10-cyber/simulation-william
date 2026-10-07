@@ -24,3 +24,8 @@ pdf.para("L'associé unique : [signature manuscrite, apposée électroniquement 
 pdf.para("Transmis par courriel à la gérante le 27/07/2040.", italique=True)
 
 pdf.sauver(RACINE / "documents_william" / "2040-07-27_renonciation_avances_signee.pdf")
+
+# Copie déposée par Aïcha dans juridique/ le 27/07/2040 à 13h05 (règles de classement : actes de l'associé unique).
+import shutil
+shutil.copyfile(RACINE / "documents_william" / "2040-07-27_renonciation_avances_signee.pdf",
+                RACINE / "serveur" / "juridique" / "renonciation_avances_2707.pdf")
