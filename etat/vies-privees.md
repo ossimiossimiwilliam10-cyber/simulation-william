@@ -138,3 +138,5 @@
 - **Grace (30/07)** : demande à Mariette, à midi, si les salaires partent bien demain matin ; sa mère, au Ghana, attend l'envoi de fin de mois.
 - **Yves (30/07)** : appelle ses trois candidats à 10h40 pour mercredi ; écrit au patron à midi.
 - **Abdoul (30/07)** : l'appel à Bertin, repoussé depuis dix jours, dure quatre minutes ; soulagé, il n'en parle à personne.
+- **Aïcha (30/07, 17h10-19h08)** : lit le refus au QG ; reste à son bureau jusqu'à 18h25, plus tard que d'habitude ; répond depuis le gbaka, sans un mot sur l'essai. *Intérêt : garder le poste et le salaire (sa mère, la famille du village) ; ne rien donner à lire.*
+- **Yves (30/07, soir)** : appelle Kader et Junior pour le garba ; Junior est de nuit au port jusqu'à mercredi ; jeudi seulement.

@@ -530,3 +530,17 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Estelle écrit à William dans la journée de lundi » : probabilité 50 %, jet  91.6 → **NON** (enregistré le 07/10/2026 22:48 heure machine)
 
 - Jet « Bertin Assi apprend par Abdoul qu'il sera sous-traitant, pas salarié d'OSIA » : probabilité 50 %, jet  16.2 → **OUI** [DÉROGATION : réaction d'un artisan extérieur (Bertin) au plan d'Abdoul, pas à un acte direct de William ; le nombre tiré fixe l'issue : 0-60 accepte la sous-traitance (il a besoin de chantiers) ; 60-90 accepte mais négocie son prix et veut un écrit ; 90-100 refuse, vexé] (enregistré le 07/10/2026 22:48 heure machine)
+
+- Tirage [T1] « Aïcha (lundi 17h10, par WhatsApp) : William refuse par écrit sa demande de confirmation anticipée de son poste (« pas question de mettre fin à ta période d'essai… faire les choses bien… tu as signé, tu étais d'accord… jusqu'au 21 novembre ») ; M01 : famille à charge, mère malade, période d'essai, aucun autre revenu ; M16 : besoin de protection de son poste (c'était l'objet de sa demande) ; règle de l'utilisateur : depart_discret exclu (points à rien_absorption) » : rien_absorption 34 / evitement 17 / confidence_proche 13 / confidence_collegue 8 / reciproque 6 / calcul 12 / negociation_tacite 6 / depart_discret 4 / frontal_formel 0 ; modificateurs : M01, M16 ; jet  23.1 → **rien_absorption** (enregistré le 07/10/2026 23:04 heure machine)
+
+- Tirage [T7c] « Aïcha (lundi 17h10) : William valide la prestation d'Estelle à 150 000 FCFA par mois et lui demande de remettre les relevés bancaires à Estelle le plus vite possible, dès que la prestation est effective » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  43.0 → **execute_sans_discuter** (enregistré le 07/10/2026 23:04 heure machine)
+
+- Jet « Aïcha répond à William avant 18h (elle est encore au QG) » : probabilité 70 %, jet  76.9 → **NON** (enregistré le 07/10/2026 23:04 heure machine)
+
+- Jet « Yves répond à William ce soir » : probabilité 80 %, jet  91.6 → **NON** (enregistré le 07/10/2026 23:04 heure machine)
+
+- Jet « Soir où Yves, Kader et Junior sont libres avant vendredi : 0-35 mardi 31/07 ; 35-70 mercredi 01/08 ; 70-100 jeudi 02/08 » : probabilité 50 %, jet  89.0 → **NON** (enregistré le 07/10/2026 23:04 heure machine)
+
+- Jet « Aïcha répond à William ce soir avant 21h (sinon mardi matin, avant 8h30) » : probabilité 75 %, jet   9.1 → **OUI** (enregistré le 07/10/2026 23:04 heure machine)
+
+- Jet « Heure de la réponse d'Aïcha ce soir : 18h00 + (jet × 1,8) minutes » : probabilité 50 %, jet  37.7 → **OUI** (enregistré le 07/10/2026 23:04 heure machine)

@@ -7,3 +7,7 @@
 Boss, bonjour 🙏🏾 Madame Diomandé nous a dit ce matin pour samedi. Ça part vite, hein ! On espère que c'est rien de grave là-bas.
 Pour le SAV, elle a dit oui : les entretiens, c'est mercredi. Merci beaucoup, Boss. Les gars ont crié au téléphone 😄
 Avant de partir, si vous avez un soir… Kader dit qu'il vous doit un garba 😂
+
+**[30/07/2040 - 17:05] William :**
+Avec plaisir, Yves ! Dis-moi quand vous êtes libres avant mon départ, qu'on se prenne ce garba. Offert par Kader, bien évidemment 😄
+*(Texte reconstitué à partir de la dictée.)*

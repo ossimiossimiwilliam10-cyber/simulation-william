@@ -1,4 +1,4 @@
-# Calendrier (au 30/07/2040, 17h00)
+# Calendrier (au 30/07/2040, 17h38)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -142,6 +142,7 @@
 | **Lun. 30/07, 15h** | Aïcha au cabinet de Me Kouamé : signature de la mention « pour les formalités ». *(Reporté : Me Kouamé au tribunal ; mention non signée.)* |
 | **Mar. 31/07, 8h30** | Aïcha au cabinet de Me Kouamé : signature de la mention (deuxième passage). |
 | **Mer. 01/08, 10h** | Entretiens des trois candidats au poste de technicien SAV (Abdoul, Yves) au QG. |
+| **Jeu. 02/08, soir** | *(Non connu de William)* Seul soir où Yves, Kader et Junior sont libres pour le garba. |
 | **Mar. 14/08** | Raccordement fibre Orange (reporté ; à confirmer). |
 | **Mar. 31/07, matin** | Virements des salaires de juillet (Mariette). |
 | **Mar. 31/07** | *(Non connu de William)* message d'un parent de William (vie hors d'Abidjan) ; aléas A09 (matin) et A06 (soir). |
@@ -175,7 +176,7 @@
 | Fin juillet | Raccordement fibre annoncé par Orange (incertain). *(Avant : fin juillet → maintenant : reporté au mar. 14/08.)* |
 | Fin juillet | Salaires de juillet de l'équipe (Aïcha et Mariette : mois complet ; Grace, Abdoul, Yves : 16-31/07). |
 | Mar. 31/07 | Échéance : rapports complets des équipes (missions du 17/07). |
-| 06/08 → 19/08 | Congés de Sandra (projet Mindelo non financé). |
+| 06/08 → 19/08 | Congés de Sandra (projet Mindelo non financé). *(30/07, 17h38 : William cherche son billet sur le site de TAP : 06-13/08, 09-16/08 ou 12-19/08 ; semaine non fixée ; pré-enregistrement EASE au moins cinq jours avant l'arrivée.)* |
 | Mar. 07/08 | Fête nationale de Côte d'Ivoire — férié, QG fermé. |
 | Mer. 15/08 | Assomption — férié en Côte d'Ivoire. |
 | Après le 16/07 | Signature possible du contrat d'apprentissage de Kevin (M. Da Silva). *Voir ligne « Semaine du 23/07 ».* |

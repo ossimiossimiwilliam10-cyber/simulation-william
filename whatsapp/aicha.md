@@ -225,3 +225,10 @@ Les salaires de juillet : Mariette les prépare, virements le 31 au matin.
 **[30/07/2040 - 17:01] Aïcha :**
 Patron, le rapport du jour est sur le serveur, dans direction. Il y a trois points qui vous concernent, en section 3.
 *(Pièce : `serveur/direction/rapport_direction_3007.pdf`.)*
+
+**[30/07/2040 - 17:10] William :**
+Aïcha, j'ai lu ton rapport. Pour ton poste : je ne vais absolument pas mettre fin à ta période d'essai. Il faut qu'on fasse les choses bien : tu as signé un contrat, tu étais d'accord. Ta période d'essai continue donc jusqu'au 21 novembre.
+Pour Estelle : on part sur la prestation à 150 000 FCFA par mois. Remets-lui les relevés le plus vite possible, dès que ce sera effectif.
+Pour le recrutement SAV, je te le confirme par écrit : je suis d'accord, on part là-dessus.
+Et pour les évaluations, je n'appliquerai pas d'ajustement discrétionnaire cette fois-ci.
+*(Texte reconstitué à partir de la dictée.)*
