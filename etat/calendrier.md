@@ -1,4 +1,4 @@
-# Calendrier (au 27/07/2040, 20h13)
+# Calendrier (au 27/07/2040, 20h15)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -109,6 +109,7 @@
 | **Ven. 27/07, 20h08-20h09** | Appel : « C'est mon argent. Pas d'emprunt. » ; Sandra raye l'argent et ouvre sa liste : la photo (« est-ce que je dois arrêter de le dire ? »). |
 | **Ven. 27/07, 20h10-20h11** | Appel : « Tu peux continuer à me faire confiance » ; Sandra : « Vous vous connaissez d'où, avant OSIA ? » et « C'est elle qui dirige quand tu n'es pas là ? » |
 | **Ven. 27/07, 20h12-20h13** | Appel : « On s'est connus via des amis communs » ; Sandra relève la question sautée : « C'est elle qui dirige, quand tu n'es pas là ? » |
+| **Ven. 27/07, 20h14-20h15** | Appel : William dit à Sandra qu'il pense remplacer Aïcha après son essai (« conflit d'intérêts », « pas que ça devienne autre chose ») ; Sandra : « C'est toi qui as dit « autre chose », pas moi. … J'ai entendu. » |
 | **Ven. 03/08, 16h** | Deuxième contrôle du serveur par Mariette. |
 | **Ven. 27/07, 10h** | **Aïcha au cabinet de Me Kouamé** (ratification des cinq contrats, convention d'honoraires, formalités de la décision) ; **devis de la villa Riviera transmis au client sauf avis contraire de William** ; paiements groupés à la SGBCI ensuite (Me Kouamé, SécuTech, CNPS et ITS de juin). |
 | **Ven. 27/07, vers 20h (Abidjan) = 22h (Esch)** | **Appel à Sandra** (rappel téléphone de William, « impérativement »). |

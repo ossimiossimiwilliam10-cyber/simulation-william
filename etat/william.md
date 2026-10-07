@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 27/07/2040, 20h13)
+# William Ossimi — profil (état au 27/07/2040, 20h15)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -179,3 +179,4 @@
 - **27/07, 20h08** : à Sandra : « C'est mon argent. Pas d'emprunt. » ; elle lui demande, à propos d'Aïcha et de la photo : « est-ce que je dois arrêter de le dire ? » (« je te fais confiance »).
 - **27/07, 20h10** : à Sandra : « Non. Tu peux continuer à me faire confiance. » (faux) ; elle demande d'où il connaît Aïcha « avant OSIA » et si c'est elle qui dirige en son absence.
 - **27/07, 20h12** : à Sandra : « On s'est connus via des amis communs. » ; il saute la question « c'est elle qui dirige quand tu n'es pas là ? », qu'elle lui repose.
+- **27/07, 20h14** : à Sandra : « Oui, Aïcha est la gérante. Mais je réfléchis de plus en plus à quelqu'un d'autre. Je pense que je ne vais pas la garder après sa période d'essai, à cause du conflit d'intérêts éventuel. Je ne veux pas que ça devienne autre chose à long terme. » *(intention déclarée : ne pas garder Aïcha après son essai, qui finit le 21/11/2040 ; rien d'engagé)* ; elle relève le mot « autre chose ».
