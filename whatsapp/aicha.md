@@ -238,3 +238,11 @@ C'est noté, patron.
 Pour Mme Estelle, je prépare demain matin un contrat de prestation simple (150 000 FCFA par mois) ; je lui remets les relevés à la signature, à 10h.
 Pour le SAV, merci. Je préviens Abdoul et Yves pour mercredi.
 Bonne soirée, patron.
+
+**[31/07/2040 - 09:19] William :**
+Aïcha, où en es-tu avec la mention pour les formalités ? Ce dossier a déjà trop traîné.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[31/07/2040 - 09:26] Aïcha :**
+Patron, c'est signé ce matin, 8h40, au cabinet.
+Maître Kouamé dépose les formalités dès que la SGBCI nous remet l'attestation de versement. Les fonds ne sont pas encore visibles ce matin ; je repasse à la banque cet après-midi.

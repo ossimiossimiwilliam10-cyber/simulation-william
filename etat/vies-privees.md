@@ -145,3 +145,4 @@
 - **Aïcha (30/07 soir)** : écrit sa réponse à William dans le gbaka, sans rien sur l'essai ; chez elle, elle appelle sa mère, qui demande si « le patron » a signé ; elle dit « pas encore ».
 - **Sandra (30/07, 23h35 à Esch)** : écrit une ligne avant de dormir ; ne parle ni de l'hôtel ni de la vidéo.
 - **Aïcha (31/07, 08h40)** : signe la mention au cabinet, en cinq minutes, avant l'audience de Me Kouamé ; elle ne pose aucune question sur les statuts.
+- **Yves (31/07, matin)** : appelle ses trois candidats pour confirmer mercredi 10h ; l'annulation du garba le déçoit un peu ; il garde la phrase « sauf si tu as envie de bouger » et la répète à Kader, en riant.

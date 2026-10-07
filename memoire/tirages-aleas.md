@@ -578,3 +578,11 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « A09 : salaire mal affecté — 0-20 Aïcha ; 20-40 Grace ; 40-60 Mariette ; 60-80 Abdoul ; 80-100 Yves (erreur de RIB dans l'ordre groupé) » : probabilité 50 %, jet   3.4 → **OUI** (enregistré le 07/10/2026 23:21 heure machine)
 
 - Jet « Dotation : fonds crédités et visibles sur le compte d'OSIA avant 9h30 mardi » : probabilité 40 %, jet  61.7 → **NON** [DÉROGATION : délai bancaire seulement (heure de crédit à la SGBCI), pas une réaction à un acte de William] (enregistré le 07/10/2026 23:21 heure machine)
+
+- Tirage [T7c] « Aïcha (mardi 09h20, de retour du cabinet) : William lui demande où elle en est avec la mention pour les formalités et ajoute que ce dossier a déjà trop traîné (mention signée à 08h40, non connu de William) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  15.8 → **execute_sans_discuter** (enregistré le 07/10/2026 23:28 heure machine)
+
+- Jet « Yves : réponse à l'annulation du garba par William (« ça va être serré… une autre fois quand je reviendrai… je pense pas que d'ici là tu vas bouger de l'entreprise, sauf si tu as envie de bouger ») — 0-70 accepte chaleureusement ; 70-90 déçu mais poli, réponse courte ; 90-100 inquiet de la phrase sur « bouger », question indirecte » : probabilité 50 %, jet  38.9 → **OUI** [DÉROGATION : réponse sociale à l'annulation d'une invitation amicale, pas à un acte d'autorité ; la phrase sur « bouger » est couverte par la bande 90-100] (enregistré le 07/10/2026 23:28 heure machine)
+
+- Jet « Yves répond dans les 30 minutes » : probabilité 70 %, jet  99.2 → **NON** [DÉROGATION : délai seulement] (enregistré le 07/10/2026 23:28 heure machine)
+
+- Jet « Heure de la réponse d'Yves : 09h50 + jet × 3 minutes (09h50-14h50) » : probabilité 50 %, jet  14.0 → **OUI** [DÉROGATION : délai seulement] (enregistré le 07/10/2026 23:28 heure machine)

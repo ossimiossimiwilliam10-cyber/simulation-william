@@ -1,4 +1,4 @@
-# Calendrier (au 31/07/2040, 09h15)
+# Calendrier (au 31/07/2040, 09h27)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -143,9 +143,9 @@
 | **Lun. 06/08 → dim. 12/08** | Hotel Oasis Porto Grande, Mindelo (six nuits, 1 032 €, paiement sur place ; annulation gratuite jusqu'au 03/08). EASE fait le 30/07. |
 | **Dim. 12/08, 23h55** | Retour São Vicente → Lisbonne → Luxembourg (arrivée lun. 13/08, 10h35). |
 | **Lun. 30/07, 15h** | Aïcha au cabinet de Me Kouamé : signature de la mention « pour les formalités ». *(Reporté : Me Kouamé au tribunal ; mention non signée.)* |
-| **Mar. 31/07, 8h30** | Aïcha au cabinet de Me Kouamé : signature de la mention (deuxième passage). |
+| **Mar. 31/07, 8h30** | Aïcha au cabinet de Me Kouamé : signature de la mention (deuxième passage). *(Fait : signée à 08h40.)* |
 | **Mer. 01/08, 10h** | Entretiens des trois candidats au poste de technicien SAV (Abdoul, Yves) au QG. |
-| **Jeu. 02/08, 20h** | Garba avec Yves, Kader et Junior, au maquis de la baie (proposé par Yves ; réponse de William attendue). |
+| **Jeu. 02/08, 20h** | ~~Garba avec Yves, Kader et Junior~~ *(proposé par Yves le 31/07 à 07h48 ; annulé par William à 09h18 : « une autre fois, quand je reviendrai »)* |
 | **Jeu. 02/08, soir** | *(Non connu de William)* Seul soir où Yves, Kader et Junior sont libres pour le garba. |
 | **Mar. 14/08** | Raccordement fibre Orange (reporté ; à confirmer). |
 | **Mar. 31/07, matin** | Virements des salaires de juillet (Mariette). |
