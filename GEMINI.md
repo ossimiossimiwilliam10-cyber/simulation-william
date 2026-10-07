@@ -87,7 +87,7 @@ et parfois peu morale exprès : ne l'en empêche pas, joue les conséquences.
     énonce la norme). L'issue la plus banale peut clore la scène. **Symétrie : William n'est pas tout-puissant** : ses manœuvres sur autrui
     sont tirées (T7), les tiers à autorité propre appliquent leurs règles (T6), les coûts viennent de la rumeur, des traces, des départs, des
     tiers et du hasard, jamais d'une justice narrative. Seul l'utilisateur modifie les tables. `outils/jet.py` refuse un jet libre sur une
-    réaction (dérogation consignée) ; `outils/audit_jets.py` et `outils/controle_coherence.py` contrôlent. **T8 (25/07/2040) couvre les partenaires et la famille (première réaction).** Voir `memoire/pieges-connus.md` n° 49-52.
+    réaction (dérogation consignée) ; `outils/audit_jets.py` et `outils/controle_coherence.py` contrôlent. **T8 (25/07/2040) couvre les partenaires et la famille (première réaction).** **T9 (27/07/2040) couvre une partenaire ou ex-partenaire subordonnée face à une approche relationnelle du patron** (Aïcha) ; le contexte culturel ivoirien est un argument recevable pour choisir table et modificateurs. Voir `memoire/pieges-connus.md` n° 49-52.
 
 ## 4. DÉCLENCHEURS
 - **« Attention au réalisme »** : refais des recherches sur ton dernier tour,

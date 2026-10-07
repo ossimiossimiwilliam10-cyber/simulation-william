@@ -50,6 +50,7 @@ jets libres (`outils/jet.py "libellé" proba`).
 - **Abdoul, Yves, Sékou** : T2 s'ils apprennent quelque chose ; T7c pour les ordres ordinaires.
 - **Manœuvres de William** (faire taire, faire croire, demander un service) : T7a, T7b, T7c.
 - **Sandra, Kevin, la famille** : **T8** (validée par l'utilisateur le 25/07/2040) pour la **première réaction** à une confidence partielle, une esquive ou une demande déplacée ; les tests d'intérêt et de la phrase s'appliquent ; les **faits de fiche** (ex. Sandra refuse les images intimes) restent des faits, non tirés. *(Avant : « pas de table ; créer T8 le jour où une scène l'exige » → maintenant : T8 installée.)*
+- **Partenaire ou ex-partenaire subordonnée face à une approche relationnelle de William** (conversation sur la relation, invitation hors du travail, mots affectueux ou reproches, tentative de rapprochement ; aujourd'hui : **Aïcha**) : **T9** (validée par l'utilisateur le 27/07/2040). Un geste sexuel, une pression de carrière ou d'argent, ou une approche d'une personne sans lien intime avec William restent en **T1** ; l'information sur une faute du patron reste en **T3**.
 - Les **scènes déjà jouées** (Grace le 23/07, Mariette le 25/07 à 09h25, Aïcha le 25/07 à 09h50) restent telles que jouées ; leurs suites
   passent par les tables.
 
@@ -160,6 +161,19 @@ Règles de rôle, sans tirage ; l'argent et le statut de William ne les achèten
 | rien_ne_dit_soupconne | 5 | Elle ne dit rien ; le doute s'installe (effet différé). |
 | frontal_rupture | 1 | Elle met fin à l'appel ou à la relation : jouer l'acte, pas un discours. |
 
+### T9 — Partenaire ou ex-partenaire subordonnée face à une approche relationnelle du patron (première réaction, 48 heures)
+| Issue | % | En scène |
+|---|---|---|
+| rien_politesse | 24 | Elle répond poliment et court (« Oui, patron. », « Non, patron, tout va bien. ») ; elle ne s'ouvre pas ; rien d'autre ne se voit. |
+| esquive_pro | 18 | Elle ramène la conversation au travail ou à un prétexte (sa mère, l'heure, un dossier) et reporte sans date ; vouvoiement. |
+| entrouvre | 14 | Elle dit une seule chose vraie, courte et indirecte (une blessure, un fait), sans reproche construit, puis se referme. |
+| rancune_silencieuse | 12 | Rien n'est dit ; elle retire sa confiance : distance, lenteur, plus de confidences ; l'effet se voit dans les semaines suivantes. |
+| reprend_le_lien | 11 | Elle accepte de parler hors du travail ; la porte personnelle se rouvre (la suite se joue, rien n'est acquis). |
+| negocie | 9 | Sans nommer le lien, elle profite du moment pour demander quelque chose (pouvoirs, statuts, avance, congé, place pour un proche). |
+| se_confie | 7 | Elle en parle hors du travail (proche, amie, collègue de confiance) ; rien n'apparaît au QG ; l'histoire circule (T5). |
+| cherche_ailleurs | 4 | Elle cherche un autre poste sans rien dire ; démission dans 1 à 6 mois, motif « opportunité ». |
+| frontal_limite | 1 | Une limite nette, en une phrase (« Je préfère qu'on en reste au travail, patron. »), ou la démission de son mandat : jouer l'acte, pas un discours. |
+
 ### Modificateurs (liste fermée ; 3 au maximum par tirage ; chacun déplace des points d'une issue vers une autre)
 | Code | Tables | Effet | Quand l'appliquer |
 |---|---|---|---|
@@ -193,6 +207,11 @@ Règles de rôle, sans tirage ; l'argent et le statut de William ne les achèten
 | M42 | T8 | soutient_sans_creuser +5 ; plaisante_et_devie +3 ; creuse_doucement -5 ; releve_esquive -3 | Fatigue, juste avant sa garde de nuit |
 | M43 | T8 | releve_esquive +5 ; rien_ne_dit_soupconne +3 ; froideur +2 ; soutient_sans_creuser -10 | Déjà alertée : acte répété, silences récents |
 | M44 | T8 | soutient_sans_creuser +6 ; frontal_rupture -1 ; agacement_net -2 ; froideur -3 | Confiance récente (« je t'aime », engagement tenu) |
+| M50 | T9 | rancune_silencieuse +4 ; esquive_pro +3 ; reprend_le_lien -4 ; entrouvre -3 | Blessure récente infligée par William (rejet, « rien de sérieux », silence, autre femme vue) |
+| M51 | T9 | reprend_le_lien +6 ; entrouvre +4 ; rien_politesse -5 ; rancune_silencieuse -5 | Attachement encore vivant (ouverture récente de sa part, engagement tenu par William) |
+| M52 | T9 | negocie +6 ; rancune_silencieuse +2 ; reprend_le_lien -4 ; entrouvre -4 | Enjeu de pouvoir ouvert au même moment (poste, pouvoirs, salaire, statuts) |
+| M53 | T9 | esquive_pro +4 ; rien_politesse +3 ; reprend_le_lien -3 ; entrouvre -4 | Approche insistante ou isolée au travail (répétition, porte, fin de journée) |
+| M54 | T9 | rien_politesse +5 ; esquive_pro +1 ; cherche_ailleurs -2 ; se_confie -3 ; frontal_limite -1 | Dépendance forte (famille à charge, période d'essai, pas d'autre revenu) |
 
 ## 6. William n'est pas un dieu (symétrie)
 1. **Ses manœuvres sur autrui sont tirées** (T7) ; aucune réussite automatique, même quand sa position est forte ; le « succès net » est plafonné.

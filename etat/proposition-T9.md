@@ -1,7 +1,7 @@
-# Proposition de table T9 — partenaire ou ex-partenaire subordonnée face à une approche relationnelle du patron (NON VALIDÉE)
+# Proposition de table T9 — partenaire ou ex-partenaire subordonnée face à une approche relationnelle du patron (VALIDÉE le 27/07/2040 : copiée dans `etat/modele-pouvoir.md`)
 
 > **Proposée par le moteur le 27/07/2040 (hors fiction), à la demande de l'utilisateur (« Go pour C »), après la correction n° 35.**
-> **Statut : à valider par l'utilisateur.** Tant qu'elle n'est pas validée, ce fichier n'est pas lu par `outils/jet.py` et les approches
+> **VALIDÉE par l'utilisateur le 27/07/2040 (« Je valide T9 »)** : la source de vérité est désormais `etat/modele-pouvoir.md` ; ce fichier est gardé pour l'historique. *(Avant : à valider → maintenant : validée.)* **Statut d'origine : à valider par l'utilisateur.** Tant qu'elle n'est pas validée, ce fichier n'est pas lu par `outils/jet.py` et les approches
 > relationnelles se tirent en **T1 sans M04** (piège n° 64). Une fois validée, la table et ses modificateurs sont copiés dans
 > `etat/modele-pouvoir.md` (même format ; validateur et plafonds de `outils/jet.py`) et ce fichier est gardé pour l'historique.
 
