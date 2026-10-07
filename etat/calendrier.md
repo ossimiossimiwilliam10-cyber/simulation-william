@@ -1,4 +1,4 @@
-# Calendrier (au 27/07/2040, 17h50)
+# Calendrier (au 27/07/2040, 17h52)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -102,6 +102,7 @@
 | **Ven. 27/07, 17h15-17h47** | William à Aïcha : disponible « dans les prochains jours pour discuter… parler sincèrement » (17h15, lu 17h16, pas de réponse) ; Mariette : « Je vois avec elle pour la suite. » (17h24) ; Mariette part (17h35) ; Aïcha sur le seuil : « Bon week-end, patron. » (17h47). |
 | **Ven. 27/07, 17h47-17h48** | William demande à Aïcha d'entrer pour lui parler « maintenant » (porte ouverte si elle a peur) ; « Oui, patron. » ; elle s'assied, sac sur les genoux ; conversation en cours. |
 | **Ven. 27/07, 17h49-17h50** | William à Aïcha : « est-ce que tu me détestes ? … repense au bon vieux temps … hors du travail … je perds ta confiance » ; Aïcha : « Non, patron. Je ne vous déteste pas. » puis « Je peux y aller, patron ? » |
+| **Ven. 27/07, 17h51-17h52** | William laisse partir Aïcha (« Oui, tu peux y aller. Bon week-end. ») ; elle : « Bon week-end, patron. » ; QG vide (gardien de jour). |
 | **Ven. 03/08, 16h** | Deuxième contrôle du serveur par Mariette. |
 | **Ven. 27/07, 10h** | **Aïcha au cabinet de Me Kouamé** (ratification des cinq contrats, convention d'honoraires, formalités de la décision) ; **devis de la villa Riviera transmis au client sauf avis contraire de William** ; paiements groupés à la SGBCI ensuite (Me Kouamé, SécuTech, CNPS et ITS de juin). |
 | **Ven. 27/07, vers 20h (Abidjan) = 22h (Esch)** | **Appel à Sandra** (rappel téléphone de William, « impérativement »). |

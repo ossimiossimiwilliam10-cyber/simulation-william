@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 27/07/2040, 17h50)
+# William Ossimi — profil (état au 27/07/2040, 17h52)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -172,3 +172,4 @@
 - **27/07, 17h15-17h47** : à Aïcha : « Aïcha, est-ce que tu serais disponible dans les prochains jours pour qu'on discute ? Simplement discuter. J'ai l'impression que notre relation part un peu en couille depuis longtemps, et j'ai vraiment envie de te parler sincèrement. » (lu à 17h16, pas de réponse) ; Mariette : « Je vois avec elle pour la suite. » (17h24) ; 17h47 : Aïcha sur le seuil, « Bon week-end, patron. »
 - **27/07, 17h47** : à Aïcha, sur le seuil : « Aïcha, viens. J'aimerais te parler. Ce sera rapide, ne t'inquiète pas. Si tu as peur de moi, tu peux même laisser la porte grande ouverte. Mais je tiens vraiment à te parler maintenant. » ; elle : « Oui, patron. », elle entre et s'assied, sac sur les genoux.
 - **27/07, 17h49** : à Aïcha : « Aïcha, est-ce que tu me détestes ? Sincèrement. Dis-moi ce que tu as sur le cœur. Si c'est trop gros, on peut en parler hors du travail. Repense au bon vieux temps. Je suis toujours le même, je n'ai pas changé. Ici, tu es la seule en qui je dois avoir confiance. Et je sens que je commence à perdre ta confiance, lentement. » ; elle : « Non, patron. Je ne vous déteste pas. » puis « Je peux y aller, patron ? »
+- **27/07, 17h51** : à Aïcha : « Oui, tu peux y aller. Bon week-end. » ; elle part à 17h52 ; il est seul au QG (gardien de jour).
