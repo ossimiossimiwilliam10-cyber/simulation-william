@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 28/07/2040, 09h40)
+# William Ossimi — profil (état au 28/07/2040, 15h00)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -188,3 +188,4 @@
 - **27/07, 22h12-22h34** : rentre à pied avec Yves, attentif aux rues ; Yves lui pose la question du recrutement SAV devant le Capitol.
 - **27/07, 22h35** : à Yves : « Vois ça avec Aïcha lundi. Mais de mon côté, je suis d'accord. » ; s'endort vers 00h30. **28/07, 08h40** : réveil, yeux gonflés ; petit-déjeuner à 09h05 ; aucun message.
 - **28/07, 09h20-09h40** : ouvre un site d'annonces d'escortes sur son téléphone ; regarde quatre annonces (Naomie, « Les Copines VIP », Kady, Sarah) ; n'a contacté personne.
+- **28/07, 09h45-15h00** : écrit à une escorte (Naomie) ; accepte ses conditions, envoie un acompte de 10 000 FCFA (Djamo → Wave), puis annule à 14h06 ; elle garde l'acompte et propose 20h ; il se renseigne ensuite sur les applications de rencontre (Badoo, Tinder, faux profils, « brouteurs »).

@@ -384,3 +384,13 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Tirage [T7c] « Yves : devant le Capitol, William lui dit de voir le recrutement SAV avec Aïcha lundi, « mais de mon côté, je suis d'accord » (contre le plan validé : pas d'embauche avant le premier contrat) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  52.3 → **execute_sans_discuter** (enregistré le 07/10/2026 18:14 heure machine)
 
 - Jet « Samedi 28/07 avant 9h30 : Kevin écrit à William après que Sandra lui a dit « le 10 septembre » » : probabilité 50 %, jet  96.2 → **NON** (enregistré le 07/10/2026 18:14 heure machine)
+
+- Jet « Naomie (annonce d'escorte) répond au message de William avant 10h30, samedi matin » : probabilité 40 %, jet  57.8 → **NON** (enregistré le 07/10/2026 18:22 heure machine)
+
+- Jet « Le numéro de l'annonce de Naomie est tenu par la vraie Naomie (sinon : escroc à l'acompte avec des photos volées) » : probabilité 65 %, jet  45.4 → **OUI** (enregistré le 07/10/2026 18:22 heure machine)
+
+- Jet « Heure de la réponse de Naomie, samedi entre 10h30 et 14h00 » : probabilité 50 %, jet  95.5 → **NON** [DÉROGATION : délai seulement (pas une réaction à un acte de pouvoir) ; le nombre tiré fixe l'heure de la réponse de Naomie : 10h30 + jet × 2,1 min] (enregistré le 07/10/2026 18:22 heure machine)
+
+- Jet « Naomie accepte de venir dès l'après-midi, à 15h (sinon : ce soir à 20h, comme dans son annonce) » : probabilité 40 %, jet  32.1 → **OUI** (enregistré le 07/10/2026 18:22 heure machine)
+
+- Jet « Réaction de Naomie à l'annulation de William, juste après l'acompte de 10 000 FCFA » : probabilité 50 %, jet  75.3 → **NON** [DÉROGATION : aucune table pour une prestataire hors hiérarchie face à une annulation après acompte ; le nombre tiré fixe l'issue : 0-55 garde l'acompte, polie (« pas de souci, une autre fois ») ; 55-65 rembourse l'acompte ; 65-85 insiste, propose une autre heure ; 85-100 s'énerve puis bloque le numéro] (enregistré le 07/10/2026 18:23 heure machine)
