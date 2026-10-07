@@ -192,3 +192,4 @@ Total des avances non remboursées par l'entreprise :
 - **William** : patrimoine ≈ 787 700 € (ordre de grandeur inchangé) ; dépenses personnelles du 27-28/07 : maquis ≈ 5 000 FCFA, Naomie 50 000 FCFA ; Djamo au niveau 1.
 - **29/07, 11h50** : café de la galerie avec Estelle ≈ 8 000 FCFA (payé par William).
 - **29/07, soirée** : taxi Capitol → Angré → Zone 4 ≈ 8 000 FCFA + 2 000 d'attente (+ trajet aller ≈ 5 000) ; dîner libanais à régler.
+- **29/07, 20h** : dîner libanais en Zone 4 ≈ 46 000 FCFA (payé par William).

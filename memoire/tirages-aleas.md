@@ -450,3 +450,5 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Pendant le dîner en Zone 4, Estelle demande à William s'il est marié ou s'il a quelqu'un (motif : attirance et calcul) » : probabilité 70 %, jet  14.6 → **OUI** (enregistré le 07/10/2026 20:17 heure machine)
 
 - Jet « Trajet Angré -> Zone 4, dimanche 18h20 : plus de 45 minutes » : probabilité 40 %, jet  31.5 → **OUI** (enregistré le 07/10/2026 20:17 heure machine)
+
+- Jet « Estelle : William n'est pas marié mais a « des relations » (Sandra, au Luxembourg, pas « la bonne ») ; il lui propose une douche bien chaude à son hôtel puisqu'il n'y a pas d'électricité chez elle » : probabilité 50 %, jet  54.4 → **NON** [DÉROGATION : réaction d'une personne hors hiérarchie (motif tiré : attirance et calcul ; position de 12h32 : pas de nuit le premier soir) à une invitation et à une révélation, pas un acte de pouvoir ; 0-45 refuse la nuit en riant, se fait raccompagner ; 45-65 « pas ce soir, un autre soir » ; 65-85 vient prendre la douche à l'hôtel puis rentre ; 85-100 change d'avis, reste la nuit] (enregistré le 07/10/2026 20:23 heure machine)
