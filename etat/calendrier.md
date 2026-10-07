@@ -1,4 +1,4 @@
-# Calendrier (au 27/07/2040, 17h48)
+# Calendrier (au 27/07/2040, 17h50)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -99,10 +99,11 @@
 | **Ven. 27/07, 17h00-17h13** | William lit le rapport d'Aïcha ; scan de la décision transmis à Aïcha (17h06) ; question sur le CA de la clinique (17h07) puis retirée (17h10) ; à Mariette : se rapprocher de Me Kouamé pour le passage 30/100 (17h08) ; Aïcha : « Bien, patron. » (17h11) puis **refus de déposer la décision dans juridique/** (17h13). |
 | **Ven. 27/07, 17h15-17h47** | William à Aïcha : disponible « dans les prochains jours pour discuter… parler sincèrement » (17h15, lu 17h16, pas de réponse) ; Mariette : « Je vois avec elle pour la suite. » (17h24) ; Mariette part (17h35) ; Aïcha sur le seuil : « Bon week-end, patron. » (17h47). |
 | **Ven. 27/07, 17h47-17h48** | William demande à Aïcha d'entrer pour lui parler « maintenant » (porte ouverte si elle a peur) ; « Oui, patron. » ; elle s'assied, sac sur les genoux ; conversation en cours. |
+| **Ven. 27/07, 17h49-17h50** | William à Aïcha : « est-ce que tu me détestes ? … repense au bon vieux temps … hors du travail … je perds ta confiance » ; Aïcha : « Non, patron. Je ne vous déteste pas. » puis « Je peux y aller, patron ? » |
 | **Ven. 03/08, 16h** | Deuxième contrôle du serveur par Mariette. |
 | **Ven. 27/07, 10h** | **Aïcha au cabinet de Me Kouamé** (ratification des cinq contrats, convention d'honoraires, formalités de la décision) ; **devis de la villa Riviera transmis au client sauf avis contraire de William** ; paiements groupés à la SGBCI ensuite (Me Kouamé, SécuTech, CNPS et ITS de juin). |
 | **Ven. 27/07, vers 20h (Abidjan) = 22h (Esch)** | **Appel à Sandra** (rappel téléphone de William, « impérativement »). |
-| **Dim. 29/07** | **William régularise sa situation au Luxembourg** (rappel téléphone ; version de l'ignorance) ; soir : T4, T5, synthèse W30. |
+| **Dim. 29/07** | **William régularise sa situation au Luxembourg** (rappel téléphone ; version de l'ignorance) ; soir : T4, T5, synthèse W30. *(Non connu de William : 15h08, signalement écrit d'Aïcha à Me Kouamé.)* |
 | **Jeu. 26/07, 14h31** | ~~Réponse détaillée de Mariette sur les contrats de direction~~ **REÇUE** (T1 : rien_absorption ; corrigée n° 34) : CDI à l'essai, décisions écrites avant chaque fin d'essai. |
 | **Sam. 28/07, soir** | ~~Rappel téléphone de William : évaluer Aïcha~~ **FAIT : évaluation terminée le jeu. 26/07 à 14h26 (74/100) ; le rappel de samedi soir sera sans objet.** |
 | **Chaque jour, 17h** | **Rapport d'Aïcha à William en PDF** dans `serveur/direction/` (fixé par William vers 13h48 ; `rapport_direction_JJMM.pdf`) ; **premier : jeu. 26/07, 17h**. |
