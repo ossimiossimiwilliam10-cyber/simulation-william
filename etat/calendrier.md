@@ -1,4 +1,4 @@
-# Calendrier (au 29/07/2040, 08h20)
+# Calendrier (au 29/07/2040, 11h42)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -125,6 +125,7 @@
 | **Sam. 28/07, 18h51-21h32** | Soirée avec Naomie dans la 312 (50 000 FCFA) ; elle propose demain (150 000 FCFA), réponse avant midi. |
 | **Sam. 28/07, 21h38-23h05** | Refus du dimanche à Naomie ; recherches sur le risque luxembourgeois ; marche vers les Deux-Plateaux, sans rencontre ; retour 23h05. |
 | **Dim. 29/07, 07h55-08h18** | William programme un courriel à la direction de son lycée (envoi lun. 30/07, 08h00, heure de Luxembourg). |
+| **Dim. 29/07, 09h45-11h42** | Balade (Cocody, Riviera) ; Estelle l'aborde dans une galerie à 11h41. |
 | **Lun. 30/07, 08h00 (Luxembourg)** | Envoi automatique du courriel de régularisation (article 14) à la direction du lycée. |
 | **Dim. 29/07, 12h** | Limite donnée par Naomie pour la journée et la nuit de dimanche. |
 | **Ven. 03/08, 16h** | Deuxième contrôle du serveur par Mariette. |

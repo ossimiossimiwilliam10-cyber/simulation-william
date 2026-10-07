@@ -15,6 +15,7 @@
 - **M. Da Silva** : garagiste à Schifflange, futur patron-formateur de Kevin.
 
 ## Abidjan
+- **Estelle** *(moteur, 29/07/2040)* : environ 29 ans, robe en wax, coupe courte acajou, lunettes rondes, rire franc ; aborde William dans la galerie d'un centre commercial de la Riviera (« Vous êtes basketteur ? ») ; le reste à découvrir.
 - **Naomie Yao** *(moteur, 28/07/2040 ; nom lu sur sa pièce par la réception)* : 25 ans, Angré ; grande, tresses fines, créoles dorées, parfum de jasmin et de coco ; préservatif toujours (règle non négociable) ; escorte (annonce en ligne, majeure) ; se déplace à l'hôtel ; a reçu de William un acompte de 10 000 FCFA (Wave) le 28/07, rendez-vous de 15h annulé par lui ; propose 20h, « l'acompte reste pour ce soir » (`whatsapp/naomie.md`).
 - **Kader et Junior** *(moteur, 27/07/2040)* : amis d'enfance d'Yves ; Kader, la quarantaine, calme ; Junior, la vingtaine, rieur, nouchi ; ont entendu, au maquis, William parler de sa solitude amoureuse.
 - **Fanta** *(moteur, 27/07/2040)* : cousine d'Aïcha, 31 ans, coiffeuse à Abobo ; sa confidente hors du travail (famille Diomandé) ; connaît, depuis le 27/07 au soir, la relation d'Aïcha avec William et la limitation de ses pouvoirs. Hors du QG, aucun lien avec OSIA.
