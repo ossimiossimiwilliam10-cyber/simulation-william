@@ -129,3 +129,4 @@
 - **Aïcha (27/07, 17h52)** : en marchant vers le carrefour, elle appelle Fanta : « Tu es où ? Je passe chez toi. » Elle dîne à Abobo chez sa cousine ; elle raconte la journée (les statuts, le refus, le bureau, « repense au bon vieux temps ») ; Fanta : « Garde ta place d'abord. Le reste, on verra. »
 - **Yves (27/07, 18h47)** : poste le premier « bon week-end » du groupe Direction, émojis compris ; il guette qui répond.
 - **Sandra (27/07, 22h00 à Esch)** : les petits dorment ; porte de la cuisine fermée ; l'enveloppe de sa liste devant elle ; elle laisse William parler le premier.
+- **Sandra (27/07, 22h07 à Esch)** : prend la version du boulot sans la contester ; l'argent la ramène à Ricardo ; un doute reste (T7b : succes_cout) : après l'appel, elle regardera la page Facebook d'OSIA.
