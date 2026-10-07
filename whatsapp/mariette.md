@@ -103,3 +103,6 @@ Patron, je me permets : le contrôle du serveur est fait. La liste des écarts e
 **[27/07/2040 - 17:08] William :**
 Mariette, rapproche-toi de Maître Kouamé pour la matrice d'évaluation, sur le passage du licenciement sous 30/100.
 *(Texte reconstitué à partir de la dictée ; « Maître Kwame » lu comme Me Kouamé. Lu à 17h09.)*
+
+**[27/07/2040 - 17:24] Mariette :**
+Bien, patron. Maître Kouamé m'a déjà répondu cet après-midi, avec copie à Mme Diomandé. Je vois avec elle pour la suite.

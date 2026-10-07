@@ -191,3 +191,7 @@ Bien, patron.
 
 **[27/07/2040 - 17:13] Aïcha :**
 Excusez-moi, patron. Pour la décision… je ne la mets pas dans juridique. Ma ligne n'est pas signée.
+
+**[27/07/2040 - 17:15] William :**
+Aïcha, est-ce que tu serais disponible dans les prochains jours pour qu'on discute ? Simplement discuter. J'ai l'impression que notre relation part un peu en couille depuis longtemps, et j'ai vraiment envie de te parler sincèrement.
+*(Texte reconstitué à partir de la dictée. Lu à 17h16.)*

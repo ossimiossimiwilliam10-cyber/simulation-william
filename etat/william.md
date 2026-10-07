@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 27/07/2040, 17h13)
+# William Ossimi — profil (état au 27/07/2040, 17h47)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -169,3 +169,4 @@
 - **27/07, 16h02** : à Sandra : « Oui, dis-moi ce qui te dérange, par rapport à moi surtout. À ce soir. » ; elle prépare « sa liste » et l'attend à 22h (Esch).
 - **27/07, 16h05-17h00** : au QG ; reçoit la liste des écarts de Mariette (16h42 ; la décision du 26/07 manque dans juridique/) et le rapport d'Aïcha (17h00), qui lui demande le scan de la décision.
 - **27/07, 17h00-17h13** : lit le rapport d'Aïcha ; lui transmet le scan de la décision pour juridique/ ; question sur le CA de la clinique puis « C'est bon, j'ai compris ce que tu voulais dire pour le conseil d'administration de mardi. » ; à Mariette : « Mariette, rapproche-toi de Maître Kouamé pour la matrice d'évaluation, sur le passage du licenciement sous 30/100. » ; **Aïcha refuse de déposer la décision (17h13 : « Ma ligne n'est pas signée. »)**.
+- **27/07, 17h15-17h47** : à Aïcha : « Aïcha, est-ce que tu serais disponible dans les prochains jours pour qu'on discute ? Simplement discuter. J'ai l'impression que notre relation part un peu en couille depuis longtemps, et j'ai vraiment envie de te parler sincèrement. » (lu à 17h16, pas de réponse) ; Mariette : « Je vois avec elle pour la suite. » (17h24) ; 17h47 : Aïcha sur le seuil, « Bon week-end, patron. »
