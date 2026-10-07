@@ -544,3 +544,9 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Aïcha répond à William ce soir avant 21h (sinon mardi matin, avant 8h30) » : probabilité 75 %, jet   9.1 → **OUI** (enregistré le 07/10/2026 23:04 heure machine)
 
 - Jet « Heure de la réponse d'Aïcha ce soir : 18h00 + (jet × 1,8) minutes » : probabilité 50 %, jet  37.7 → **OUI** (enregistré le 07/10/2026 23:04 heure machine)
+
+- Jet « Site de TAP : le tarif à 1 520 € (06-13/08) est encore disponible au moment du paiement » : probabilité 85 %, jet  27.9 → **OUI** (enregistré le 07/10/2026 23:10 heure machine)
+
+- Tirage [T8] « Sandra (lundi 20h12 à Esch, chez elle) : William lui annonce le billet pour Mindelo (06-13/08) et lui envoie une photo suggestive de lui en short (non dénudée) avec « Il n'y a pas que mon cœur à qui tu manques, apparemment 😏 » ; M43 : déjà alertée, acte répété (demande d'image du 25/07, refusée selon sa règle) ; M44 : confiance récente (« je t'aime » ce matin, retour avancé au 4 août et billet pris : engagement tenu) ; fait de fiche : refuse les photos intimes (collègue victime de fuite) » : soutient_sans_creuser 18 / creuse_doucement 25 / releve_esquive 23 / plaisante_et_devie 12 / froideur 9 / agacement_net 5 / rien_ne_dit_soupconne 8 / frontal_rupture 0 ; modificateurs : M43, M44 ; jet  36.5 → **creuse_doucement** (enregistré le 07/10/2026 23:10 heure machine)
+
+- Jet « Sandra répond dans les 15 minutes (chez elle, soirée avec les enfants) » : probabilité 65 %, jet  31.5 → **OUI** (enregistré le 07/10/2026 23:10 heure machine)

@@ -198,3 +198,4 @@ Total des avances non remboursées par l'entreprise :
 - **30/07, 09h31** : départ tardif vendredi 03/08 jusqu'à 18h : 47 500 FCFA à régler au départ.
 - **30/07** : salaires de juillet préparés par Mariette (≈ 2 620 000 FCFA bruts ; virements le 31/07) ; recrutement d'un technicien SAV engagé par Aïcha (350 000 FCFA brut/mois au plan, entretiens le 01/08) ; apport de 115 M FCFA toujours non crédité à 17h.
 - **30/07, 17h10** : engagement d'OSIA : prestation d'Estelle à 150 000 FCFA par mois (contrat à signer le 31/07). **17h15-17h38** : billet pour Mindelo recherché sur le site de TAP (Luxembourg ↔ São Vicente via Lisbonne, économie Classic) : 1 520 € (06-13/08), 1 660 € (09-16/08) ou 1 745 € (12-19/08) ; rien n'est réservé.
+- **30/07, 17h47** : billet TAP Luxembourg ↔ São Vicente (06-13/08), **1 520 €** (carte bancaire de William) ; taxe de sécurité aéroportuaire du Cap-Vert (≈ 40 €) non encore payée (EASE inachevé).

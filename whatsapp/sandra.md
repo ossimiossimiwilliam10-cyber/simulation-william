@@ -172,3 +172,20 @@ Je t'aime.
 
 **[30/07/2040 - 08:45 (Abidjan) / 10:45 (Esch)] Sandra :**
 Moi aussi ❤️
+
+**[30/07/2040 - 18:02 (Abidjan) / 20:02 (Esch)] William :**
+C'est réservé ✈️ Du 6 au 13 août, Mindelo 🌴
+
+**[30/07/2040 - 18:02 (Abidjan) / 20:02 (Esch)] William :**
+*(Photo : William en short, devant le miroir de la salle de bain, suggestive, non dénudée.)*
+
+**[30/07/2040 - 18:02 (Abidjan) / 20:02 (Esch)] William :**
+Il n'y a pas que mon cœur à qui tu manques, apparemment 😏
+*(Texte reconstitué à partir de la dictée.)*
+
+**[30/07/2040 - 18:11 (Abidjan) / 20:11 (Esch)] Sandra :**
+Le 6 ?! 😳 Tu atterris le 4 et on repart le 6… Tu ne perds pas de temps, toi.
+C'est quel vol ? Envoie-moi tout, je regarde s'il reste de la place dessus, et j'appelle ma mère demain.
+
+**[30/07/2040 - 18:12 (Abidjan) / 20:12 (Esch)] Sandra :**
+Et ça… 😅 Tu es où, là ? Dans ta chambre d'hôtel ? Il est quelle heure chez toi, 18h ? Tu es tout seul, là-bas ?
