@@ -131,3 +131,4 @@
 - **Sandra (27/07, 22h00 à Esch)** : les petits dorment ; porte de la cuisine fermée ; l'enveloppe de sa liste devant elle ; elle laisse William parler le premier.
 - **Sandra (27/07, 22h07 à Esch)** : prend la version du boulot sans la contester ; l'argent la ramène à Ricardo ; un doute reste (T7b : succes_cout) : après l'appel, elle regardera la page Facebook d'OSIA.
 - **Sandra (27/07, 22h22 à Esch)** : « Bonne nuit, William. » ; pas de « patron », pas de bisous ; elle raye toute sa liste et garde l'enveloppe ; après l'appel, elle ouvre la page Facebook d'OSIA ; demain matin, elle dira à Kevin « le 10 septembre ».
+- **Yves (27/07, 21h56)** : vendredi soir au maquis avec deux amis d'enfance (bière, zouglou) ; il a parlé d'OSIA toute la soirée ; voir passer le patron à pied, seul, lui paraît une chance à ne pas rater.

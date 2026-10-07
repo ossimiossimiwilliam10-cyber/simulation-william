@@ -19,3 +19,4 @@ Envoie des mèmes dans le groupe (à jouer). Pôle technique (SAV).
 ## Dynamique à jouer
 Zélé, soucieux de l'image, encore en test sous pression. Peu d'initiative contradictoire pour l'instant.
 - 26/07, 14h33 : dans le groupe Direction, après l'annonce de l'évaluation d'Aïcha : « Noté 🫡 » (T7c : execute_sans_discuter, jet 69.3).
+- 27/07, 21h56 : vendredi soir dans un maquis sur la route de la baie de Cocody, avec deux amis ; voit passer William à pied : « Boss ?! … C'est vous, Boss ? Ah, faut venir ! On est assis là, on vous offre une bière. Faut pas refuser, hein, c'est vendredi ! » ; remarque ses yeux : « Ça va, Boss ? »

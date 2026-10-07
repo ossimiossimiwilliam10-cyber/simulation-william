@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 27/07/2040, 20h23)
+# William Ossimi — profil (état au 27/07/2040, 21h58)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -182,3 +182,4 @@
 - **27/07, 20h14** : à Sandra : « Oui, Aïcha est la gérante. Mais je réfléchis de plus en plus à quelqu'un d'autre. Je pense que je ne vais pas la garder après sa période d'essai, à cause du conflit d'intérêts éventuel. Je ne veux pas que ça devienne autre chose à long terme. » *(intention déclarée : ne pas garder Aïcha après son essai, qui finit le 21/11/2040 ; rien d'engagé)* ; elle relève le mot « autre chose ».
 - **27/07, 20h16-20h22** : fin de l'appel « en mode automatique » ; septembre confirmé (« je suis là le 10 ») ; « je tiens » ; puis : « Accorde-moi une faveur, et ne t'énerve pas. Je risque d'être absent ces prochains jours. J'ai vraiment pas le moral, cette fois. J'ai besoin d'un peu de temps pour moi. » ; Sandra : « … Ok. … Repose-toi, alors. … Bonne nuit, William. »
 - **27/07, 20h23** : « Bonne nuit » à Sandra ; il raccroche.
+- **27/07, 20h23-21h25** : s'effondre et pleure seul dans la 312, en répétant « Pourquoi personne n'est capable de m'aimer sincèrement ? » ; **21h30** : sort marcher sans but vers la baie de Cocody ; **21h56** : tombe sur Yves dans un maquis (invitation à boire une bière).
