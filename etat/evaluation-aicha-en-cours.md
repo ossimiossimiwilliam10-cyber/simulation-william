@@ -80,4 +80,4 @@ Description : transparence totale envers le Gérant (William).
 
 **Total avant ajustement (26/07, 14h24) : 74 / 100** (tronc commun 17/30 = 5 + 7 + 5 ; direction / gestion 57/70 = 24 + 18 + 15) — tranche 61 à 85 : performance standard (maintien).
 
-**RÉSULTAT FINAL (26/07/2040, 14h26) : 74 / 100, ajustement discrétionnaire 0 → tranche 61 à 85 : performance standard (maintien).** Évaluation TERMINÉE ; PDF généré à 14h27 : `serveur/direction/evaluation_aicha_2607.pdf`.
+**RÉSULTAT FINAL (26/07/2040, 14h26) : 74 / 100, ajustement discrétionnaire 0 → tranche 61 à 85 : performance standard (maintien).** Évaluation TERMINÉE ; PDF généré à 14h27 : `serveur/direction/evaluation_aicha_2607.pdf` ; **déplacé à 14h59 par Mariette, sur ordre de William, dans `serveur/rh/evaluations/evaluation_aicha_2607.pdf` (accès restreint)**.

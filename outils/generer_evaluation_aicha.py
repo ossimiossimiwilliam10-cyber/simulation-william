@@ -1,4 +1,4 @@
-"""Évaluation d'Aïcha Diomandé par William (26/07/2040) -> serveur/direction/evaluation_aicha_2607.pdf
+"""Évaluation d'Aïcha Diomandé par William (26/07/2040) -> serveur/rh/evaluations/evaluation_aicha_2607.pdf (déplacé de direction/ par Mariette le 26/07 à 14h59, sur ordre de William)
 
 Évaluation menée en questions-réponses entre William et le moteur (26/07/2040, 14h08-14h26), critère par critère, selon la matrice
 d'évaluation détaillée v1.0 (`serveur/rh/matrice_evaluation.pdf`). Notes de William : 5, 7, 5, 24, 18, 15 ; ajustement discrétionnaire : 0
@@ -34,4 +34,4 @@ pdf.titre1("Résultat")
 pdf.para("Score : 74 / 100.")
 pdf.para("Tranche de la matrice : de 61 à 85 / 100 — performance standard (maintien).")
 
-pdf.sauver(serveur("direction", "evaluation_aicha_2607.pdf"))
+pdf.sauver(serveur("rh", "evaluations", "evaluation_aicha_2607.pdf"))

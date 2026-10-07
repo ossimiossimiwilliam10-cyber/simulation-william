@@ -129,3 +129,10 @@ Bien reçu.
 Excusez-moi, patron. Les évaluations individuelles sont des dossiers RH : d'après les règles de classement que vous avez validées tout à l'heure, elles restent en accès restreint. Je ne peux pas les accepter sur le serveur partagé.
 
 *(Plus aucun message dans le groupe jusqu'à 14h56.)*
+
+**[26/07/2040 - 14:57] William :**
+Mariette, effectivement, tu as raison. Fais passer l'évaluation d'Aïcha dans le dossier RH du serveur.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[26/07/2040 - 14:59] Mariette :**
+Bien, patron. C'est fait : l'évaluation de Mme Diomandé est dans rh/, en accès restreint.
