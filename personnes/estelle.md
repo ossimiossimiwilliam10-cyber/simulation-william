@@ -20,3 +20,4 @@ Comptable dans une banque du Plateau (cinq ans de maison), environ 650 000 FCFA 
   950 000 FCFA net, CDI, visite de la société ; accepte un dîner à 18h, pas la nuit (« le premier soir, jamais ») ; reçoit le numéro
   d'Aïcha pour lui parler « au nom » de William ; envoie son adresse à 14h47.
 - *(Non vu : écrit à Aïcha à 17h56 ; rendez-vous au QG mardi 31/07 à 10h.)*
+- 29/07, 17h56 : écrit à Aïcha (« Bonjour Madame Diomandé, je suis Estelle, comptable à la banque. M. Ossimi m'a demandé de vous contacter de sa part : il souhaite que je mette en place un suivi de trésorerie d'OSIA en extra. Il m'a dit que vous me transmettriez les relevés bancaires et les factures. Quand pouvons-nous nous voir ? ») ; rendez-vous mardi 31/07 à 10h au QG ; 18h04 : « J'arrive 2 min 😘 » à William, en bas de chez elle.

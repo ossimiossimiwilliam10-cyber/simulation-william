@@ -1,4 +1,4 @@
-# Calendrier (au 29/07/2040, 15h20)
+# Calendrier (au 29/07/2040, 18h06)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -128,6 +128,7 @@
 | **Dim. 29/07, 09h45-11h42** | Balade (Cocody, Riviera) ; Estelle l'aborde dans une galerie à 11h41. |
 | **Dim. 29/07, 11h46-12h05** | Café avec Estelle (Riviera). |
 | **Dim. 29/07, 14h47-15h20** | Adresse d'Estelle (Angré) ; message de Sandra. |
+| **Dim. 29/07, 17h15-18h06** | Taxi vers Angré ; message d'Estelle à Aïcha (17h56) ; Aïcha prévient William (18h06). |
 | **Mar. 31/07, 10h** | *(Non connu de William avant 18h06 dimanche)* Aïcha reçoit Estelle au QG (relevés, factures). |
 | **Dim. 29/07, 18h** | Dîner avec Estelle (Zone 4, à confirmer). |
 | **Dim. 29/07, 17h56** | *(Non connu de William)* Estelle écrit à Aïcha de la part de William. |
