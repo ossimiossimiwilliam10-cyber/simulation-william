@@ -312,3 +312,11 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Le propriétaire de la villa Riviera accuse réception du devis comparatif auprès de Grace avant 17h vendredi » : probabilité 40 %, jet  75.5 → **NON** (enregistré le 07/10/2026 14:06 heure machine)
 
 - Jet « Me Kouamé répond avant 17h vendredi au courriel de Mariette (période d'essai, clause de sanction de la matrice) » : probabilité 35 %, jet  11.3 → **OUI** (enregistré le 07/10/2026 14:06 heure machine)
+
+- Tirage [T7c] « Aïcha : William lui transmet par WhatsApp (17h06) le scan de la décision du 26/07 pour qu'elle le dépose dans juridique/ (sa propre demande, rapport de 17h) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  97.8 → **frontal_refus** (enregistré le 07/10/2026 14:41 heure machine)
+
+- Tirage [T7c] « Aïcha : William lui demande (17h07) d'en dire plus sur le conseil d'administration de la clinique mardi 31/07 (question retirée à 17h10 : « c'est bon, j'ai compris ») » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  23.6 → **execute_sans_discuter** (enregistré le 07/10/2026 14:41 heure machine)
+
+- Tirage [T7c] « Mariette : William lui écrit (17h08) de se rapprocher de Me Kouamé au sujet de la matrice d'évaluation et du passage « licenciement sous 30/100 » (Me Kouamé lui a déjà répondu à 16h20, copie Aïcha, et propose une reformulation sur devis) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  93.9 → **execute_partiellement** (enregistré le 07/10/2026 14:41 heure machine)
+
+- Jet « Aïcha répond à la question sur le CA de la clinique avant le message « c'est bon, j'ai compris » de William (17h07 → 17h10, environ trois minutes ; elle est à son bureau, le scan arrivé une minute avant) » : probabilité 45 %, jet  88.2 → **NON** (enregistré le 07/10/2026 14:42 heure machine)

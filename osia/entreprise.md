@@ -1,4 +1,4 @@
-# OSIA Énergies SARL (état au 21/07/2040, 12h15)
+# OSIA Énergies SARL (état au 27/07/2040, 17h13)
 
 ## Statut
 - Activité : installation et maintenance photovoltaïque premium, Abidjan.
@@ -12,7 +12,7 @@
 - Les contrats d'Aïcha (22/05) et de Mariette (01/06) datent d'**avant** l'existence légale de la société
   (RCCM du 11/07) : signés pour une société « en formation » ; à régulariser (risque relevé à l'audit).
 - **Compte courant de la société** : *avant : demande déposée, ouverture attendue ~21/07 → maintenant :
-  OUVERT le 21/07 (SGBCI Plateau)*. Solde 28 980 000 FCFA. Carte et accès banque en ligne attendus la
+  OUVERT le 21/07 (SGBCI Plateau)*. Solde ≈ 24 715 000 FCFA depuis les paiements du 27/07 *(avant : 28 980 000 FCFA)*. Carte et accès banque en ligne attendus la
   semaine du 23/07. **Manque : spécimen de signature d'Aïcha (à déposer lun. 23/07).**
 - Avocat : **Maître Kouamé** (honoraires 2 500 000 FCFA, acompte payé ;
   150 000 FCFA par contrat ou promesse ; il a géré les avenants). Solde à vérifier.

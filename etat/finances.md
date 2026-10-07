@@ -5,7 +5,7 @@
 > à ~87 % du brut (net), ex. 850 000 brut → moitié de mois ≈ 370 000 net.
 
 ## Trésorerie OSIA Énergies (Compte Courant SGBCI, ouvert le 21/07)
-- **Solde actuel : 28 980 000 FCFA (~44 180 €)**
+- **Solde actuel : ≈ 24 715 000 FCFA (~37 680 €), depuis les paiements du 27/07 (SGBCI, 11h40-12h05)** *(avant : 28 980 000 FCFA (~44 180 €))*
 - *Historique : capital initial débloqué le 21/07 (30 000 000 FCFA). Salaires du 1er au 15 juillet (Grace 370k, Abdoul 390k, Yves 260k) ordonnés le 21/07 : -1 020 000 FCFA. **Crédit effectif chez les bénéficiaires : lun. 23/07** (virements du samedi traités à la reprise).*
 - Manque au dossier bancaire : fiche de spécimen de signature d'Aïcha (à déposer lun. 23/07).
 - **Sorties prévisibles d'ici fin juillet (estimation du moteur, ≈ 4,0 M FCFA)** : solde SécuTech 525 000 ;

@@ -172,3 +172,22 @@ Bien reçu, patron. Je le classe et je préviens Mariette pour le tableau des av
 
 **[27/07/2040 - 17:00] Aïcha :**
 Patron, le rapport du jour est dans direction : rapport_direction_2707.pdf.
+
+**[27/07/2040 - 17:06] William :**
+📎 2040-07-26_decision_augmentation_capital_signee.pdf
+Voilà le scan de la décision du 26/07. Tu peux le déposer dans juridique.
+*(Texte reconstitué à partir de la dictée ; canal non précisé, lu comme WhatsApp. Lu à 17h06.)*
+
+**[27/07/2040 - 17:07] William :**
+Tu peux m'en dire plus sur le conseil d'administration de la clinique, mardi ?
+*(Texte reconstitué à partir de la dictée. Lu à 17h07.)*
+
+**[27/07/2040 - 17:10] William :**
+C'est bon, j'ai compris ce que tu voulais dire pour le conseil d'administration de mardi.
+*(Texte reconstitué à partir de la dictée. Lu à 17h10.)*
+
+**[27/07/2040 - 17:11] Aïcha :**
+Bien, patron.
+
+**[27/07/2040 - 17:13] Aïcha :**
+Excusez-moi, patron. Pour la décision… je ne la mets pas dans juridique. Ma ligne n'est pas signée.

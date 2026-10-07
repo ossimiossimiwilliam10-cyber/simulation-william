@@ -3,7 +3,7 @@
 Pièce jointe du courriel du secrétariat de Me Kouamé à William du 26/07/2040, 15h42 (« ci-joint le scan de la décision de l'associé unique
 signée ce matin ») ; ouverte par William le vendredi 27/07/2040 à 06h50. Texte identique au projet corrigé du 25/07 (même rédaction),
 signé par William le 26/07/2040 à 09h18 en deux originaux ; la ligne de la gérante (« pour les formalités ») n'est pas encore signée :
-Aïcha la complète au cabinet le 27/07. Jet « erreur matérielle dans le scan » (10 %) : NON.
+prévu : Aïcha la complète au cabinet le 27/07 → elle ne l'a pas signée ce jour-là (elle relit d'abord le projet de statuts) ; le 27/07 à 17h13, elle refuse de déposer ce scan dans serveur/juridique/. Jet « erreur matérielle dans le scan » (10 %) : NON.
 """
 from osia_pdf import OsiaPDF, RACINE
 

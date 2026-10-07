@@ -99,3 +99,7 @@ Je reste disponible.
 
 **[27/07/2040 - 16:42] Mariette :**
 Patron, je me permets : le contrôle du serveur est fait. La liste des écarts est dans direction/ : controle_serveur_2707.pdf. Copie à Mme Diomandé.
+
+**[27/07/2040 - 17:08] William :**
+Mariette, rapproche-toi de Maître Kouamé pour la matrice d'évaluation, sur le passage du licenciement sous 30/100.
+*(Texte reconstitué à partir de la dictée ; « Maître Kwame » lu comme Me Kouamé. Lu à 17h09.)*
