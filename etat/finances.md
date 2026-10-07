@@ -191,3 +191,4 @@ Total des avances non remboursées par l'entreprise :
 - **Trésorerie OSIA** ≈ 24 715 000 FCFA (≈ 37 680 €) ; dotation de 115 000 000 FCFA attendue lun. 30 ou mar. 31/07 ; formalités et droits (≈ 1,0 à 1,2 M FCFA) à l'exécution ; salaires de juillet le 31/07.
 - **William** : patrimoine ≈ 787 700 € (ordre de grandeur inchangé) ; dépenses personnelles du 27-28/07 : maquis ≈ 5 000 FCFA, Naomie 50 000 FCFA ; Djamo au niveau 1.
 - **29/07, 11h50** : café de la galerie avec Estelle ≈ 8 000 FCFA (payé par William).
+- **29/07, soirée** : taxi Capitol → Angré → Zone 4 ≈ 8 000 FCFA + 2 000 d'attente (+ trajet aller ≈ 5 000) ; dîner libanais à régler.

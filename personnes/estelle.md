@@ -21,3 +21,4 @@ Comptable dans une banque du Plateau (cinq ans de maison), environ 650 000 FCFA 
   d'Aïcha pour lui parler « au nom » de William ; envoie son adresse à 14h47.
 - *(Non vu : écrit à Aïcha à 17h56 ; rendez-vous au QG mardi 31/07 à 10h.)*
 - 29/07, 17h56 : écrit à Aïcha (« Bonjour Madame Diomandé, je suis Estelle, comptable à la banque. M. Ossimi m'a demandé de vous contacter de sa part : il souhaite que je mette en place un suivi de trésorerie d'OSIA en extra. Il m'a dit que vous me transmettriez les relevés bancaires et les factures. Quand pouvons-nous nous voir ? ») ; rendez-vous mardi 31/07 à 10h au QG ; 18h04 : « J'arrive 2 min 😘 » à William, en bas de chez elle.
+- 29/07, 18h18-19h55 : descend avec 18 minutes de retard (« Désolée, désolée ! Le délestage : j'ai fait mon maquillage à la lampe torche 😅 ») ; dîner libanais en Zone 4 ; mère à Bouaké *(moteur)* ; à 19h55 : « Et toi, William… tu es marié ? Tu as quelqu'un, là-bas, au Luxembourg ? »

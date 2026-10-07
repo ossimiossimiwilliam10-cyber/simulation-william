@@ -446,3 +446,7 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Taxi Capitol -> Angré 8e tranche (dimanche, départ 17h15) : arrivée avant 17h55 » : probabilité 60 %, jet  86.9 → **NON** (enregistré le 07/10/2026 20:13 heure machine)
 
 - Jet « Estelle descend à 18h00 pile (sinon 10 à 20 minutes de retard) » : probabilité 35 %, jet  98.8 → **NON** (enregistré le 07/10/2026 20:13 heure machine)
+
+- Jet « Pendant le dîner en Zone 4, Estelle demande à William s'il est marié ou s'il a quelqu'un (motif : attirance et calcul) » : probabilité 70 %, jet  14.6 → **OUI** (enregistré le 07/10/2026 20:17 heure machine)
+
+- Jet « Trajet Angré -> Zone 4, dimanche 18h20 : plus de 45 minutes » : probabilité 40 %, jet  31.5 → **OUI** (enregistré le 07/10/2026 20:17 heure machine)
