@@ -1,4 +1,4 @@
-# Calendrier (au 27/07/2040, 06h55)
+# Calendrier (au 27/07/2040, 12h00)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -88,6 +88,7 @@
 | **Jeu. 26/07, 15h00-17h00** | « Go » : scan de la décision signée reçu (15h42, non ouvert) ; devis de la villa remis à Aïcha (16h30) ; plan technique d'Abdoul (16h41) ; **premier rapport d'Aïcha (17h00)**. |
 | **Jeu. 26/07, 17h08 → ven. 27/07, 06h40** | « Go » : averse à 17h40 ; rappel de 18h (déjà fait) ; retour au Capitol à 18h40 ; nuit calme ; **ven. 05h12 : message de Sandra** (« On s'appelle quand ? »). |
 | **Ven. 27/07, 06h45-06h55** | William propose à Sandra l'appel de ce soir vers 22h (Esch) et promet de « tout expliquer » ; annonce à Aïcha son absence du QG toute la semaine du 30/07 (semaine test), lui demande de superviser Abdoul et de poursuivre la renonciation aux avances ; ouvre le scan de la décision signée. |
+| **Ven. 27/07, 06h55-12h00** | « Go » : QG à 08h24 ; Aïcha (08h41) demande la renonciation signée ; devis de la clinique remis (09h05), validé (11h15), envoyé au Dr Yapi (11h32) ; devis de la villa envoyé (09h58) ; cabinet 10h-11h10 (ratification, convention ; mention des formalités non signée) ; courriel de Me Kouamé (11h25) ; paiements SGBCI (≈ 4,27 M FCFA) ; midi : déjeuner d'équipe sans William. |
 | **Ven. 27/07, 10h** | **Aïcha au cabinet de Me Kouamé** (ratification des cinq contrats, convention d'honoraires, formalités de la décision) ; **devis de la villa Riviera transmis au client sauf avis contraire de William** ; paiements groupés à la SGBCI ensuite (Me Kouamé, SécuTech, CNPS et ITS de juin). |
 | **Ven. 27/07, vers 20h (Abidjan) = 22h (Esch)** | **Appel à Sandra** (rappel téléphone de William, « impérativement »). |
 | **Dim. 29/07** | **William régularise sa situation au Luxembourg** (rappel téléphone ; version de l'ignorance) ; soir : T4, T5, synthèse W30. |

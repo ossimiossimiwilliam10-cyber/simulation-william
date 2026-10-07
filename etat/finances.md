@@ -173,3 +173,11 @@ Total des avances non remboursées par l'entreprise :
 
 ## Correction n° 34 (26/07/2040)
 - Contrats de direction : **CDI avec période d'essai** (pas de CDD) : l'**indemnité de fin de contrat de 3 %** (≈ 3,4 M FCFA) et la limite « faute lourde » sont **sans objet** ; pendant l'essai, rupture sans préavis ni indemnité ; après, licenciement pour motif légitime avec préavis et indemnités selon l'ancienneté.
+
+## Mise à jour du 27/07/2040, 12h05 (paiements groupés, SGBCI Plateau ; friction : NON)
+- Me Kouamé : 2 000 000 FCFA (solde de la création) + 1 200 000 FCFA (honoraires de l'augmentation, convention signée le 27/07) ; restent les frais de formalités (300 000 à 500 000) et les droits d'enregistrement (690 000), à l'exécution des formalités.
+- SécuTech : solde de 525 000 FCFA (installation terminée le 26/07).
+- CNPS de juin : 206 850 FCFA (part patronale ≈ 118 650 + part salariale non retenue ≈ 88 200, sur 750 000 et 650 000 bruts) + majoration de 10 % ≈ **227 500 FCFA**.
+- ITS de juin (barème unifié de 2024) : Aïcha 133 500 + Mariette 112 500 = 246 000 FCFA + pénalités ≈ 27 % ≈ **312 400 FCFA** (non retenu à la source : charge de la société).
+- **Total ≈ 4 265 000 FCFA ; trésorerie OSIA : 28 980 000 → ≈ 24 715 000 FCFA.**
+- Devis émis : clinique de Marcory 21 400 000 FCFA HT (marge ≈ 26 %) ; villa Riviera 15 900 000 ou 19 600 000 FCFA HT.

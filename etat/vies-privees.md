@@ -110,3 +110,6 @@
 - **Abdoul (26/07 soir)** : n'appelle pas Bertin (jet 40 % : NON). **Aïcha (26/07)** : quitte le QG la dernière, à 18h05.
 - **Aïcha (27/07, 06h53)** : lit le message de William dès son réveil ; ne répond pas tout de suite (T7c : à contrecœur) ; *intérêt : une semaine seule, plus de responsabilité et plus de reproches possibles ; aujourd'hui, cabinet, ratification et paiements.*
 - **Sandra (27/07 matin)** : dort après sa deuxième nuit de garde ; le message de William l'attend.
+- **Aïcha (27/07 matin)** : découvre au cabinet que William a fait limiter ses pouvoirs sans le lui dire ; elle ne refuse rien, mais repart avec le projet de statuts et ne signe pas la mention des formalités ; *intérêt : son nom, sa place de gérante, le temps de comprendre.*
+- **Grace (27/07)** : devis de la clinique bouclé avec Abdoul ; déjeuner d'équipe à midi, sans William ; rien d'autre ne se voit.
+- **Mariette (27/07 matin)** : prépare le contrôle de 16h ; pas encore de réponse de Me Kouamé sur l'essai.

@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 27/07/2040, 06h55)
+# William Ossimi — profil (état au 27/07/2040, 12h00)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -160,3 +160,4 @@
 - **Correction n° 34 (26/07/2040, hors fiction, à sa demande)** : ses contrats de direction sont des CDI à l'essai depuis l'origine ; ses messages de 14h00 et 14h34 à Mariette portent sur les contrats de direction et le maintien de l'essai le plus long possible (six mois), sa question sur la fin d'essai reste la même.
 - **26/07, 17h08-23h00** : soirée de routine (QG jusqu'à 18h10, taxi sous l'averse, dîner au Capitol) ; aucun message. **27/07, 06h35** : réveil ; lit le message de Sandra (06h36).
 - **27/07, 06h45-06h55** : propose à Sandra l'appel de ce soir vers 22h (Esch) et **promet par écrit de « tout expliquer »** ; annonce à Aïcha qu'il ne viendra pas au QG de la semaine du 30/07 (« choses importantes à faire à côté » : semaine test) ; lui demande de superviser Abdoul et de poursuivre la renonciation aux avances ; ouvre le scan de la décision signée ; garde la matrice d'évaluation telle quelle.
+- **27/07, 06h55-12h00** : QG à 08h24 ; reçoit la demande d'Aïcha (renonciation écrite et signée) et le courriel de Me Kouamé (la gérante relit les statuts modifiés avant de signer la mention des formalités) ; n'a encore rien répondu.

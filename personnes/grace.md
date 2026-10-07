@@ -38,3 +38,4 @@ son contrat lui interdit les marchés publics et les commissions.
 - 25/07, 15h50 : Aïcha la voit discrètement (T3 : contient) ; « Bien, Madame Diomandé. » ; rien ne se voit au QG.
 - 26/07, 14h37 : dans le groupe Direction, après l'annonce de l'évaluation d'Aïcha : « Bien reçu. » (T7c : execute_sans_discuter, jet 46.5).
 - 26/07, 16h30 : remet à Aïcha le devis comparatif de la villa Riviera (A 15,9 M / B 19,6 M FCFA HT ; marges 21 % et 20 %).
+- 27/07 : remet le devis de la clinique à Aïcha (09h05), l'envoie au Dr Yapi après validation (11h32) ; déjeuner d'équipe maintenu à midi sans William (T1 : rien_absorption, jet 17.0).

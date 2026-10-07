@@ -276,3 +276,17 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Sandra voit le message de William (06h45 Abidjan, 08h45 Esch) avant de s'endormir après sa garde » : probabilité 30 %, jet  52.6 → **NON** [DÉROGATION : partenaire non hiérarchique : délai de lecture, aucune table T8 pour les délais ; 30 % (fin de garde à 7h, coucher vers 8h à Esch)] (enregistré le 07/10/2026 13:11 heure machine)
 
 - Jet « Erreur matérielle relevée dans le scan de la décision signée (nom, date, montant) » : probabilité 10 %, jet  28.9 → **NON** (enregistré le 07/10/2026 13:11 heure machine)
+
+- Jet « Grace remet le devis de la clinique à Aïcha avant son départ au cabinet (avant 09h30) » : probabilité 50 %, jet  30.4 → **OUI** (enregistré le 07/10/2026 13:21 heure machine)
+
+- Jet « Cabinet de Me Kouamé, vendredi 10h : deuxième passage demandé pour la ratification des contrats ou la convention (friction administrative 30 %) » : probabilité 30 %, jet  58.5 → **NON** (enregistré le 07/10/2026 13:21 heure machine)
+
+- Tirage [T7c] « Aïcha : découvre au cabinet la limitation de ses pouvoirs voulue par William (statuts modifiés : autorisation écrite de l'associé unique au-delà de 5 M FCFA par engagement et de 10 M FCFA par contrat client, actes réservés) ; elle doit signer la ratification des cinq contrats, la convention et la ligne « pour les formalités » de la décision » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  92.0 → **execute_partiellement** (enregistré le 07/10/2026 13:21 heure machine)
+
+- Jet « SGBCI, vendredi fin de matinée : deuxième passage demandé pour les paiements groupés (friction administrative 30 %) » : probabilité 30 %, jet  48.0 → **NON** (enregistré le 07/10/2026 13:21 heure machine)
+
+- Tirage [T1] « Grace : déjeuner d'équipe de vendredi midi qu'elle avait proposé, auquel William a fait savoir par Aïcha qu'il ne viendrait pas (après les faits du 23/07) ; famille au Ghana à charge, contrat récent en période d'essai (M01), Mariette confidente au QG (M02) » : rien_absorption 30 / evitement 23 / confidence_proche 20 / confidence_collegue 18 / negociation_tacite 4 / depart_discret 5 / frontal_formel 0 ; modificateurs : M01, M02 ; jet  17.0 → **rien_absorption** (enregistré le 07/10/2026 13:21 heure machine)
+
+- Jet « Me Kouamé informe William par courriel, avant midi, du résultat du rendez-vous de 10h avec la gérante » : probabilité 60 %, jet  37.4 → **OUI** (enregistré le 07/10/2026 13:22 heure machine)
+
+- Jet « William arrive au QG avant 08h15 vendredi (taxi depuis le Capitol, départ 07h40) » : probabilité 75 %, jet  86.7 → **NON** (enregistré le 07/10/2026 13:22 heure machine)

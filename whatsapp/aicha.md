@@ -161,3 +161,6 @@ Aïcha, je ne viendrai pas au QG de toute la semaine prochaine : j'ai des choses
 Supervise bien ce que fait Abdoul, fais attention qu'il ne s'emmêle pas les pinceaux.
 Et poursuis le dossier de ma renonciation aux avances.
 *(Texte reconstitué à partir de la dictée. Lu à 06h53.)*
+
+**[27/07/2040 - 08:41] Aïcha :**
+Bien, patron. Je surveille Abdoul. Pour les avances, il me faut votre renonciation écrite et signée.
