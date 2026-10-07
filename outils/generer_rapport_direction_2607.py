@@ -2,7 +2,7 @@
 
 Demandé par William le 26/07 (13h38 : rapport chaque soir ; 13h48 : PDF sur le serveur, chaque jour à 17h). T7c : execute_sans_discuter
 (jet 34.8) : remis à l'heure. Aïcha écrit dans un dossier lisible par la direction : rien sur les évaluations, Grace, Mariette ou son propre
-sentiment ; elle vouvoie dans l'écrit formel. CNPS : friction 30 % NON (pas de second passage). Rendez-vous au cabinet de Me Kouamé fixé à 10h.
+sentiment ; elle vouvoie dans l'écrit formel. Corrigé le 26/07 (corrections n° 34) : la ligne sur les CDD porte désormais sur les fins d'essai. CNPS : friction 30 % NON (pas de second passage). Rendez-vous au cabinet de Me Kouamé fixé à 10h.
 """
 from osia_pdf import OsiaPDF, serveur
 
@@ -16,7 +16,7 @@ pdf.puces([
     "option B 19 600 000 FCFA HT ; marges indiquées par Grace : 21 % et 20 %. Devis de la clinique : en cours avec Abdoul, pour demain.",
     "CNPS : appelée à 15h10. Le numéro employeur est attribué (dossier du guichet unique du 11/07). ITS : déclaration de juin préparée en ligne "
     "avec Mariette. Déclarations et paiements de juin demain, avec les autres ordres ; des pénalités de retard sont à prévoir (montant en cours de calcul).",
-    "Conversion des CDD de direction en CDI : Mariette pilote ; elle a écrit à Maître Kouamé pour la période d'essai. Point au cabinet demain.",
+    "Contrats de direction : Mariette fait le point des fins de période d'essai ; elle a écrit à Maître Kouamé (clause de sanction de la matrice après l'essai). Point au cabinet demain.",
     "SécuTech : réception signée ce matin ; solde de 525 000 FCFA réglé demain.",
 ])
 

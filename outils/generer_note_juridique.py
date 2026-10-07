@@ -1,7 +1,9 @@
 """Note juridique de Mariette (23/07/2040) -> serveur/rh/note_juridique_2307.pdf
 
 Demandée par William le 19/07 (WhatsApp) et relancée le 21/07 ; promise « lundi avant midi ».
-Références vérifiées le 23/07/2040 : Code du travail ivoirien (loi 2015-532) art. 5 et 15.2 à 15.10 ;
+Version corrigée le 26/07/2040 (hors fiction, corrections n° 34) : les contrats de direction sont des CDI avec période d'essai (avant : CDD ;
+le point 1 portait sur le risque de requalification, la rupture anticipée et l'indemnité de 3 %).
+Références vérifiées le 23/07/2040 : Code du travail ivoirien (loi 2015-532) art. 5 et 14.5 ; décret n° 2024-900 (vérifié le 26/07) ;
 décret 96-197 (règlement intérieur) ; échéances CNPS/ITS ; diffamation par communication publique.
 Ton : prudent, très précis, la note ne se substitue pas à un avis d'avocat.
 """
@@ -12,38 +14,35 @@ pdf = OsiaPDF("Note juridique : chartes, contrats et conformité sociale",
 pdf.meta("Date", "23/07/2040")
 pdf.meta("Auteur", "Mariette Kouadio (DRH)")
 pdf.meta("Destinataires", "William Ossimi, Aïcha Diomandé")
-pdf.meta("Références", "Code du travail (loi n° 2015-532 du 20 juillet 2015), art. 5 et 15.2 à 15.10 ; décret n° 96-197 (règlement intérieur)")
+pdf.meta("Références", "Code du travail (loi n° 2015-532 du 20 juillet 2015), art. 5 et 14.5 ; décret n° 2024-900 du 16 octobre 2024 (période d'essai) ; décret n° 96-197 (règlement intérieur)")
 
 pdf.titre1("Résumé")
-pdf.para("Quatre points demandent une décision rapide. (1) Nos CDD de direction risquent d'être requalifiés en CDI et "
-         "ne permettent pas de licencier sur un score d'évaluation. (2) Le « naming and shaming » nous expose à des "
-         "poursuites pour diffamation. (3) La charte du 19/07 n'a pas encore valeur de règlement intérieur. "
-         "(4) La régularisation sociale (CNPS, impôt sur salaires) est en retard, y compris pour mon propre contrat.")
+pdf.para("Quatre points demandent une décision rapide. (1) Nos contrats de direction sont des CDI avec période d'essai : une fois "
+         "l'essai terminé, on ne peut plus licencier sur un simple score d'évaluation, et chaque fin d'essai doit être suivie. "
+         "(2) Le « naming and shaming » nous expose à des poursuites pour diffamation. (3) La charte du 19/07 n'a pas encore valeur "
+         "de règlement intérieur. (4) La régularisation sociale (CNPS, impôt sur salaires) est en retard, y compris pour mon propre contrat.")
 
-pdf.titre1("1. Les contrats à durée déterminée")
+pdf.titre1("1. Les contrats de direction et la période d'essai")
 pdf.puces([
-    "Art. 15.4 : durée maximale de deux ans. Nos CDD de 24 mois sont à la limite ; aucun renouvellement n'est possible "
-    "au-delà (échéances : 21/05/2042, 31/05/2042, 15/07/2042).",
-    "Art. 15.6 : le recours au CDD est limité à des cas énumérés (remplacement temporaire, surcroît occasionnel d'activité, "
-    "emplois saisonniers, secteurs spécifiques, durée d'un chantier ou d'un projet). Des postes de direction permanents n'y "
-    "figurent pas clairement. Art. 15.10 : un CDD qui ne respecte pas ces exigences est réputé à durée indéterminée. "
-    "Risque : requalification en CDI.",
-    "Art. 15.9 : rupture avant terme uniquement pour force majeure, accord commun ou faute lourde. Un licenciement fondé sur "
-    "une mauvaise évaluation ou une « insuffisance de résultats » n'entre pas dans ces cas : il exposerait l'entreprise à des "
-    "dommages-intérêts. En CDI, l'insuffisance professionnelle peut être un motif personnel, mais avec lettre motivée et procédure.",
-    "Art. 15.8 : indemnité de fin de contrat de 3 % de la rémunération brute totale perçue. Elle n'est pas provisionnée "
-    "(ordre de grandeur pour les six cadres sur 24 mois : environ 3,4 M FCFA, hors primes et commissions).",
-    "Art. 15.2 : écrit obligatoire. Condition respectée.",
+    "Nos contrats sont à durée indéterminée et écrits ; ils fixent la durée de l'essai (art. 14.5). Condition respectée.",
+    "Décret n° 2024-900 : durée maximale de six mois pour les cadres supérieurs (Mme Diomandé, Grace, Abdoul, moi-même ; Esther à son "
+    "arrivée), trois mois pour les cadres (Yves). Renouvellement possible une seule fois, notifié par écrit au moins un mois avant la fin "
+    "(six mois) ou quinze jours avant la fin (trois mois) ; sans notification, l'essai s'arrête à sa date.",
+    "Fins d'essai : Yves le 15/10/2040 ; Mme Diomandé le 21/11/2040 ; moi-même le 30/11/2040 ; Grace et Abdoul le 15/01/2041.",
+    "Pendant l'essai, chacune des parties peut rompre le contrat sans préavis ni indemnité, de préférence par écrit et avant la date de "
+    "fin. Une rupture détournée de son objet (motif étranger aux compétences) peut être contestée : à confirmer avec Maître Kouamé.",
+    "Après l'essai, le contrat est définitif : un licenciement demande un motif légitime (l'insuffisance professionnelle en est un, à "
+    "prouver), une lettre, un préavis et, selon l'ancienneté, des indemnités.",
 ])
-pdf.para("Recommandation : examiner avec Maître Kouamé la conversion des CDD de direction en CDI (période d'essai et clauses de "
-         "performance rédigées avec soin) avant la première évaluation trimestrielle.", italique=True)
+pdf.para("Recommandation : décider par écrit, avant chaque fin d'essai, de la confirmation, du renouvellement ou de la rupture ; faire "
+         "relire par Maître Kouamé la clause de sanction de la matrice pour la période qui suit l'essai.", italique=True)
 
 pdf.titre1("2. La matrice d'évaluation et le « naming and shaming »")
 pdf.puces([
     "Un système de primes est tout à fait possible. Les critères chiffrés (chiffre d'affaires, délais, plaintes) sont défendables. "
     "L'ajustement discrétionnaire (bonus ou malus du Gérant, sans critère) est le point le plus fragile : il peut être présenté "
     "comme arbitraire en cas de litige. Je recommande de l'encadrer (plafond, motif écrit).",
-    "La sanction maximale « licenciement pour incompétence notoire » est soumise aux limites du point 1 (impossible en CDD sauf faute lourde).",
+    "La sanction maximale « licenciement pour incompétence notoire » n'est possible sans motif que pendant l'essai ; après l'essai, voir le point 1.",
     "Le « naming and shaming » (signalement d'un ancien salarié sur des forums ou réseaux professionnels) : la diffamation par "
     "communication publique est punie d'une amende de 1 à 3 millions de FCFA d'après les textes consultés, sans compter les "
     "dommages-intérêts civils. L'écrire dans un document interne signé aggrave la preuve de l'intention. Je recommande de le retirer de la matrice.",
@@ -78,7 +77,7 @@ pdf.puces([
 pdf.titre1("6. Plan d'action proposé")
 pdf.tableau(["Action", "Responsable", "Échéance"], [
     ["Faire valider cette note par Maître Kouamé", "A. Diomandé", "25/07"],
-    ["Décider du sort des CDD de direction (conversion en CDI ou maintien assumé)", "W. Ossimi", "avant le 31/07"],
+    ["Suivre les fins d'essai (confirmation, renouvellement écrit ou rupture écrite avant le terme)", "W. Ossimi, A. Diomandé", "15/10, 21/11, 30/11, 15/01"],
     ["Retirer le « naming and shaming » ; encadrer le bonus/malus", "W. Ossimi, A. Diomandé", "avant la légalisation de la matrice"],
     ["Clarifier la gérance et la qualité des signataires", "Maître Kouamé", "31/07"],
     ["Régulariser CNPS et ITS de juin ; préparer la déclaration de la paie de juillet", "M. Kouadio, A. Diomandé", "avant le 10/08 et le 15/08"],
