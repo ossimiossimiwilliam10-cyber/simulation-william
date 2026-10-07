@@ -34,3 +34,4 @@ réalisme l'exige (ex. dossier incomplet connu d'avance : 100 %).
 
 ## Coût de l'augmentation de capital (chiffrage Me Kouamé, 24/07)
 Honoraires 1 200 000 FCFA ; frais de formalités 300 000 à 500 000 FCFA ; droits d'enregistrement à calculer (barème de la création). Source de comparaison : formalités simples de modification entre 100 000 et 500 000 FCFA selon les guides consultés ; honoraires du juriste en sus.
+- **Correction n° 34 (26/07/2040)** : contrats de direction en CDI à l'essai ; l'indemnité de fin de CDD de 3 % est sans objet.

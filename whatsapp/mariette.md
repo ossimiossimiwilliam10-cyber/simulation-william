@@ -71,25 +71,28 @@ Si je ne suis pas d'accord avec un point, j'ai le dernier mot.
 Bien reçu patron. Je reste disponible.
 
 **[26/07/2040 - 14:00] William :**
-Mariette, explique-moi simplement c'est quoi le problème avec les CDD de direction, et qu'est-ce que je dois faire au final.
+Mariette, explique-moi simplement c'est quoi le problème avec les contrats de direction, et qu'est-ce que je dois faire au final.
 *(Texte reconstitué à partir de la dictée. Lu à 14h01.)*
+*(Texte corrigé hors fiction le 26/07/2040, corrections n° 34 : les contrats de direction sont des CDI à l'essai depuis l'origine ; avant, il portait sur des CDD.)*
 
 **[26/07/2040 - 14:31] Mariette :**
 Oui patron. Je vous explique simplement.
-Le problème. En Côte d'Ivoire, un CDD ne peut servir que dans des cas précis : remplacer quelqu'un d'absent, un surcroît d'activité, un travail saisonnier, un chantier ou un projet. Un poste de direction qui dure n'en fait pas partie. Si un juge regarde nos CDD de direction, il peut les considérer comme des CDI.
-Deuxième point : un CDD ne s'arrête pas avant la fin parce que l'évaluation est mauvaise. Seulement pour faute lourde, accord des deux parties ou force majeure. Sinon la société doit payer tout ce qui restait jusqu'à la fin du contrat. Donc le licenciement prévu sous 30/100 dans la matrice n'est pas possible pour un CDD.
-Troisième point : à la fin d'un CDD, la société doit une indemnité de 3 % de tout ce qui a été versé. Pour les six cadres sur 24 mois, environ 3,4 millions de FCFA, non provisionnés. Si le CDD est remplacé par un CDI, cette indemnité n'est plus due.
-Ce qu'il faut décider avant le 31/07 : transformer les CDD de direction en CDI, avec une période d'essai et des clauses de performance bien rédigées, ou les garder en acceptant ces risques. Je me permets de recommander la transformation en CDI. C'est Maître Kouamé qui doit la rédiger et la valider : ma note est une analyse RH, pas un avis d'avocat.
+Nos contrats de direction sont des CDI, avec une période d'essai : six mois pour les cadres supérieurs (Mme Diomandé, Grace, Abdoul et moi), trois mois pour Yves. Chacune peut être renouvelée une fois, par écrit et à temps.
+Le problème. Pendant l'essai, la société peut mettre fin au contrat sans préavis ni indemnité. Mais une fois l'essai terminé, le contrat est définitif : un licenciement demande alors un motif légitime, une lettre, un préavis et, selon l'ancienneté, des indemnités. Donc le licenciement automatique sous 30/100 prévu dans la matrice ne tient plus après l'essai : il faudrait prouver une insuffisance professionnelle.
+Ce qu'il faut faire : décider par écrit, avant chaque fin d'essai, si on confirme, si on renouvelle ou si on arrête. Les premières dates : Yves le 15/10, Mme Diomandé le 21/11, moi le 30/11, Grace et Abdoul le 15/01. Et je me permets de recommander que Maître Kouamé relise la clause de sanction de la matrice.
 Excusez-moi si c'est long. Je reste disponible.
+*(Texte corrigé hors fiction le 26/07/2040, corrections n° 34 : les contrats de direction sont des CDI à l'essai depuis l'origine ; avant, il portait sur des CDD.)*
 
 **[26/07/2040 - 14:34] William :**
-Bon. Je te confie la tâche de te coordonner avec toutes les personnes dont tu as besoin pour faire passer les CDD de direction en CDI, mais avec une période d'essai de six mois.
+Bon. Je te confie la tâche de te coordonner avec toutes les personnes dont tu as besoin pour que les contrats de direction gardent la période d'essai la plus longue possible : six mois.
 À la fin d'une période d'essai, j'ai bien le droit de virer quelqu'un si je ne suis pas satisfait, non ?
 *(Texte reconstitué à partir de la dictée. Lu à 14h35.)*
+*(Texte corrigé hors fiction le 26/07/2040, corrections n° 34 : les contrats de direction sont des CDI à l'essai depuis l'origine ; avant, il portait sur des CDD.)*
 
 **[26/07/2040 - 14:55] Mariette :**
 Oui patron. Je m'en occupe, je vois avec Mme Diomandé et Maître Kouamé.
 Pour votre question : oui, pendant la période d'essai, la société peut mettre fin au contrat sans préavis ni indemnité. Mais il faut le faire avant la fin de l'essai, et par écrit pour garder une preuve. Si on laisse passer la date, le contrat devient définitif : ensuite, un licenciement demande un motif légitime, une lettre, un préavis et, selon l'ancienneté, des indemnités.
-Pour la durée : six mois, c'est le maximum pour les cadres supérieurs. Pour les cadres, c'est trois mois, renouvelables une seule fois par écrit, au moins quinze jours avant la fin. Il faudra préciser la catégorie de chaque poste dans le contrat. Pour Yves, par exemple, je ne pense pas qu'on puisse parler de cadre supérieur.
-Deux points, excusez-moi : chacun doit accepter et signer son CDI ; si quelqu'un refuse, son CDD continue jusqu'à son terme. Et pour quelqu'un qui est déjà en poste, une nouvelle période d'essai peut être contestée : je pose la question à Maître Kouamé.
+Pour la durée : six mois, c'est le maximum pour les cadres supérieurs, et c'est ce que prévoient déjà nos contrats. Pour Yves, cadre, c'est trois mois. Un renouvellement est possible une seule fois, par écrit : au moins un mois avant la fin pour six mois, quinze jours avant pour trois mois. Sans cet écrit, l'essai s'arrête à sa date.
+Une précision, excusez-moi : si une rupture pendant l'essai n'a rien à voir avec le travail de la personne, elle peut être contestée. Je pose la question à Maître Kouamé.
 Je reste disponible.
+*(Texte corrigé hors fiction le 26/07/2040, corrections n° 34 : les contrats de direction sont des CDI à l'essai depuis l'origine ; avant, il portait sur des CDD.)*

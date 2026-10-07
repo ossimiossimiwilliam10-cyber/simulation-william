@@ -170,3 +170,6 @@ Total des avances non remboursées par l'entreprise :
 - **CNPS et ITS de juin** : numéro employeur CNPS attribué ; déclarations préparées ; **paiements vendredi 27/07** avec les autres ordres (solde de la création 2 000 000 ; convention d'honoraires ; SécuTech 525 000) ; pénalités de retard à calculer.
 - **Villa Riviera** : devis remis (option A 15 900 000 FCFA HT, marge 21 % ; option B 19 600 000 FCFA HT, marge 20 %) ; envoi au client vendredi 10h sauf avis contraire.
 - **Plan technique d'Abdoul** : masse salariale du noyau 1 980 000 FCFA bruts par mois (≈ 2 380 000 chargés), dès le premier contrat signé ; matériel ≈ 4 900 000 FCFA hors véhicule (location 45 000 FCFA par jour).
+
+## Correction n° 34 (26/07/2040)
+- Contrats de direction : **CDI avec période d'essai** (pas de CDD) : l'**indemnité de fin de contrat de 3 %** (≈ 3,4 M FCFA) et la limite « faute lourde » sont **sans objet** ; pendant l'essai, rupture sans préavis ni indemnité ; après, licenciement pour motif légitime avec préavis et indemnités selon l'ancienneté.

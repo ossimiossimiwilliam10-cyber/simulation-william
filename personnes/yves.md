@@ -4,7 +4,7 @@
 Grand, mince, peau noire, lunettes rectangulaires, chemise blanche impeccable, sourire de commercial.
 
 ## Profil
-31 ans. CDD du 16/07/2040 au 15/07/2042, 600 000 FCFA brut. A fait imprimer ses cartes de visite à ses frais.
+31 ans. CDI depuis le 16/07/2040 (essai de trois mois jusqu'au 15/10/2040) *(avant : CDD jusqu'au 15/07/2042 ; corrigé le 26/07, n° 34)*, 600 000 FCFA brut. A fait imprimer ses cartes de visite à ses frais.
 Envoie des mèmes dans le groupe (à jouer). Pôle technique (SAV).
 
 ## Lien avec William

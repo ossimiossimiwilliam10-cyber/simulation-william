@@ -6,7 +6,7 @@
 large sourire. Serre la main à deux mains. Léger accent anglophone en français.
 
 ## Profil
-29 ans, ghanéenne installée à Abidjan. CDD du 16/07/2040 au 15/07/2042, 850 000 FCFA brut + 2 % du chiffre
+29 ans, ghanéenne installée à Abidjan. CDI depuis le 16/07/2040 (essai de six mois jusqu'au 15/01/2041) *(avant : CDD jusqu'au 15/07/2042 ; corrigé le 26/07, n° 34)*, 850 000 FCFA brut + 2 % du chiffre
 d'affaires + bonus trimestriel ; **révision écrite à 6 mois (16/01/2041)** ; **clause excluant les marchés
 publics et les « commissions »**. Rigoureuse sur ce qui est écrit. Énergique, chaleureuse.
 

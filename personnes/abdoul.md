@@ -5,7 +5,7 @@ Taille moyenne, trapu, peau noire, barbe courte, avant-bras marqués par le sole
 bleue, chaussures de sécurité.
 
 ## Profil
-34 ans. CDD du 16/07/2040 au 15/07/2042, 900 000 FCFA brut. Parle peu, observe tout. Réagit vite, protège
+34 ans. CDI depuis le 16/07/2040 (essai de six mois jusqu'au 15/01/2041) *(avant : CDD jusqu'au 15/07/2042 ; corrigé le 26/07, n° 34)*, 900 000 FCFA brut. Parle peu, observe tout. Réagit vite, protège
 Bertin Assi (électricien informel qui va devenir sous-traitant). Très rigoureux, maîtrise son sujet ;
 rigide sur ses positions (a refusé les batteries chinoises de Didier Kacou).
 
