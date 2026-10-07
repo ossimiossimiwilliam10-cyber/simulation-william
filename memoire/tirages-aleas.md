@@ -420,3 +420,5 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Estelle propose d'elle-même de prendre un verre (café ou jus) au café de la galerie » : probabilité 40 %, jet  28.7 → **OUI** (enregistré le 07/10/2026 19:30 heure machine)
 
 - Jet « Motif caché d'Estelle envers William » : probabilité 50 %, jet  46.9 → **OUI** [DÉROGATION : motif caché d'un personnage nouveau (pas une réaction à un acte de pouvoir) ; le nombre tiré fixe le motif : 0-45 curiosité et attirance sincères ; 45-70 attirance et calcul (un homme qui a les moyens) ; 70-90 sympathie seulement, elle a quelqu'un ; 90-100 chasseuse d'argent (arnaque possible)] (enregistré le 07/10/2026 19:33 heure machine)
+
+- Jet « Réponse d'Estelle à « combien es-tu payée ? » » : probabilité 50 %, jet  16.8 → **OUI** [DÉROGATION : réponse d'une inconnue à une question directe sur son salaire (pas une réaction à un acte de pouvoir) ; le nombre tiré fixe la réponse : 0-35 elle donne un chiffre approximatif ; 35-70 elle esquive en riant et lui retourne la question ; 70-100 elle donne une fourchette vague en flirtant] (enregistré le 07/10/2026 19:37 heure machine)
