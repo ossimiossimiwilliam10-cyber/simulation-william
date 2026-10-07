@@ -109,3 +109,14 @@ Je couche les petits à 21h30, après je suis à toi. À ce soir.
 **[29/07/2040 - 15:20 (Abidjan) / 17:20 (Esch)] Sandra :**
 Je ne t'appelle pas : tu m'as demandé du temps. Je voulais juste savoir si tu tiens debout.
 Kevin a sauté au plafond pour le 10.
+
+**[29/07/2040 - 15:26 (Abidjan) / 17:26 (Esch)] William :**
+Non, je ne vais vraiment pas bien du tout. J'essaie de le cacher, mais là, je traverse une période difficile. Peut-être que je n'aurais pas dû partir aussi longtemps en Côte d'Ivoire. Je réfléchis même à écourter mon séjour. Mais ne le dis pas encore à Kevin.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[29/07/2040 - 15:31 (Abidjan) / 17:31 (Esch)] Sandra :**
+Merci de me le dire.
+Je ne dis rien à Kevin, promis.
+Si tu rentres plus tôt, je viens te chercher à l'aéroport, peu importe l'heure.
+En attendant : mange, dors, marche. Et écris-moi quand tu veux, même trois mots.
+Je suis là.
