@@ -416,3 +416,5 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Type d'interaction de la balade du dimanche matin » : probabilité 50 %, jet  40.4 → **OUI** [DÉROGATION : type d'interaction seulement (aléa de rue, pas une réaction à un acte de pouvoir) ; le nombre tiré fixe le type : 0-25 une jeune femme en tenue du dimanche le regarde deux fois et sourit, ses amies la taquinent ; 25-45 une femme l'aborde (« vous êtes basketteur ? ») dans une galerie ; 45-60 un groupe de filles d'un maquis l'interpelle en riant (« le géant ! ») ; 60-75 une vendeuse ambulante lui fait la conversation ; 75-90 des regards, mais personne ne l'aborde ; 90-100 une femme l'aborde pour lui demander de l'argent] (enregistré le 07/10/2026 18:59 heure machine)
 
 - Jet « Estelle poursuit la conversation malgré la réponse d'un seul mot (« non ») de William, intriguée par sa voix très grave » : probabilité 65 %, jet  59.7 → **OUI** (enregistré le 07/10/2026 19:12 heure machine)
+
+- Jet « Estelle propose d'elle-même de prendre un verre (café ou jus) au café de la galerie » : probabilité 40 %, jet  28.7 → **OUI** (enregistré le 07/10/2026 19:30 heure machine)
