@@ -612,3 +612,7 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Message du père (argent) : motif — 0-40 santé du père ; 40-70 famille au Cameroun (funérailles, cotisation) ; 70-100 dette, loyer ou voiture » : probabilité 50 %, jet  43.7 → **OUI** (enregistré le 07/10/2026 23:40 heure machine)
 
 - Jet « Message du père : montant demandé = 1 500 € + jet × 45 € (1 500-6 000 €) » : probabilité 50 %, jet  83.9 → **NON** (enregistré le 07/10/2026 23:40 heure machine)
+
+- Tirage [T8] « Père de William (mardi 14h55 à Luxembourg) : à sa demande de 5 300 € pour l'enterrement de l'oncle Joseph, William répond seulement « OK » et fait le virement instantané, sans appel, sans un mot sur l'oncle ni sur sa venue ; aucun modificateur (M40-M44 propres à Sandra) » : soutient_sans_creuser 22 / creuse_doucement 25 / releve_esquive 18 / plaisante_et_devie 12 / froideur 10 / agacement_net 7 / rien_ne_dit_soupconne 5 / frontal_rupture 1 ; modificateurs : aucun ; jet  43.5 → **creuse_doucement** (enregistré le 07/10/2026 23:48 heure machine)
+
+- Jet « Le père répond dans l'heure » : probabilité 60 %, jet  57.5 → **OUI** [DÉROGATION : délai seulement] (enregistré le 07/10/2026 23:48 heure machine)

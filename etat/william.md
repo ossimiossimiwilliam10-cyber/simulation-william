@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 31/07/2040, 12h52)
+# William Ossimi — profil (état au 31/07/2040, 13h31)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -234,3 +234,4 @@
 - **31/07, 09h34-10h32** : demande à Me Kouamé un résumé des pouvoirs de la gérante et s'ils peuvent menacer l'entreprise (réponse écrite promise dans la journée) ; Yves accepte le report du garba.
 - **31/07, 10h44-11h20** : à Yves : appréciation, comparaison avec La vie rêvée de M. Kim, « soutien le plus total » pour devenir PDG, demande de signaler tout ce qui est suspect (Yves : « comptez sur moi ») ; à Sandra : hôtel annoncé (« Ça te plaît ? ») ; elle : « Je regarde ce soir pour mon billet. »
 - **31/07, 11h20-12h52** : déjeuner sur la terrasse de l'hôtel ; à 12h52, message de son père : l'oncle Joseph est mort, enterrement le 18/08, 5 300 € demandés.
+- **31/07, 12h55-13h31** : répond « OK » à son père et lui vire 5 300 € (compte courant ≈ 2 540 €) ; **décision intérieure, non dite : c'est le dernier virement à son père, il estime avoir « compensé sa dette »** ; le père demande s'il vient le 18 et ce qu'est « cette société à Abidjan » (vue sur Facebook).

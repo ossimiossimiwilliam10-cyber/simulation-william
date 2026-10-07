@@ -38,3 +38,4 @@
 - **Bertin Assi (30/07)** : apprend par Abdoul qu'il sera sous-traitant ; accepte (« du moment que les chantiers tombent »).
 - **Père de William** (Luxembourg) : William ne lui parle plus mais lui vire de l'argent ponctuellement ; 31/07, 12h52 : premier message depuis longtemps : l'oncle Joseph est mort, 5 300 € demandés pour l'enterrement du 18/08 (« Tu es celui qui a réussi. Je ne te demande pas souvent. »). *(Faits créés par le moteur le 31/07/2040 à partir du tirage « vie hors d'Abidjan ».)*
 - **Oncle Joseph** : frère aîné du père de William ; mort le jeudi 26/07/2040 au village (Cameroun) ; enterrement le samedi 18/08/2040.
+- **Père de William (31/07, 13h31)** : après le « OK » et les 5 300 € : « Reçu. Merci, mon fils. Tu viens le 18 ? Ta tante demande. Et c'est quoi, cette société à Abidjan ? J'ai vu ta photo sur Facebook. » (il a vu la page Facebook d'OSIA).
