@@ -1,4 +1,4 @@
-# Calendrier (au 29/07/2040, 12h40)
+# Calendrier (au 29/07/2040, 15h20)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -127,6 +127,8 @@
 | **Dim. 29/07, 07h55-08h18** | William programme un courriel à la direction de son lycée (envoi lun. 30/07, 08h00, heure de Luxembourg). |
 | **Dim. 29/07, 09h45-11h42** | Balade (Cocody, Riviera) ; Estelle l'aborde dans une galerie à 11h41. |
 | **Dim. 29/07, 11h46-12h05** | Café avec Estelle (Riviera). |
+| **Dim. 29/07, 14h47-15h20** | Adresse d'Estelle (Angré) ; message de Sandra. |
+| **Mar. 31/07, 10h** | *(Non connu de William avant 18h06 dimanche)* Aïcha reçoit Estelle au QG (relevés, factures). |
 | **Dim. 29/07, 18h** | Dîner avec Estelle (Zone 4, à confirmer). |
 | **Dim. 29/07, 17h56** | *(Non connu de William)* Estelle écrit à Aïcha de la part de William. |
 | **Lun. 30/07, 08h00 (Luxembourg)** | Envoi automatique du courriel de régularisation (article 14) à la direction du lycée. |

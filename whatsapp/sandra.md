@@ -105,3 +105,7 @@ Oui, dis-moi ce qui te dérange, par rapport à moi surtout. À ce soir.
 **[27/07/2040 - 16:04 (Abidjan) / 18:04 (Esch)] Sandra :**
 D'accord. Je préparerai ma liste, moi aussi 🙂
 Je couche les petits à 21h30, après je suis à toi. À ce soir.
+
+**[29/07/2040 - 15:20 (Abidjan) / 17:20 (Esch)] Sandra :**
+Je ne t'appelle pas : tu m'as demandé du temps. Je voulais juste savoir si tu tiens debout.
+Kevin a sauté au plafond pour le 10.

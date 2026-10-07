@@ -434,3 +434,9 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Estelle écrit à Aïcha (WhatsApp) avant 18h ce dimanche, de la part de William » : probabilité 35 %, jet  32.8 → **OUI** [DÉROGATION : délai d'une initiative d'Estelle (pas une réaction à un acte de pouvoir) ; si NON, elle écrit lundi matin à 8h30] (enregistré le 07/10/2026 19:57 heure machine)
 
 - Jet « Heure du message d'Estelle à Aïcha, dimanche entre 13h00 et 18h00 » : probabilité 50 %, jet  98.6 → **NON** [DÉROGATION : délai seulement ; le nombre tiré fixe l'heure : 13h00 + jet × 3 min] (enregistré le 07/10/2026 19:57 heure machine)
+
+- Tirage [T7c] « Aïcha : dimanche 17h56, une inconnue (Estelle, comptable de banque) lui écrit sur son numéro personnel « de la part de M. Ossimi » pour obtenir les relevés bancaires et les factures d'OSIA et monter un suivi de trésorerie en extra ; demande du patron relayée par un tiers, deux jours après « tu es la seule en qui je dois avoir confiance » » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  51.3 → **execute_sans_discuter** (enregistré le 07/10/2026 20:00 heure machine)
+
+- Jet « Estelle envoie son adresse à William avant 16h » : probabilité 70 %, jet  40.1 → **OUI** (enregistré le 07/10/2026 20:00 heure machine)
+
+- Jet « Sandra écrit à William dimanche avant 18h (Abidjan), jour d'appel prévu par leur rythme » : probabilité 30 %, jet  22.0 → **OUI** [DÉROGATION : initiative d'une partenaire non hiérarchique après sa froideur de vendredi (pas une réaction immédiate à un acte) ; délai et fait seulement] (enregistré le 07/10/2026 20:00 heure machine)
