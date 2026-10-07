@@ -1,4 +1,4 @@
-# Proposition — levée des verrous moralisateurs (27/07/2040, hors fiction, NON VALIDÉE)
+# Proposition — levée des verrous moralisateurs (27/07/2040, hors fiction, VALIDÉE le 27/07/2040 : « Je valide tout » ; appliquée, corrections n° 38)
 
 > Demande de l'utilisateur : « faire sauter les verrous woke qui empêchent une simulation vraiment réaliste ».
 > Audit du moteur sur `CLAUDE.md`, `etat/modele-pouvoir.md` et `memoire/pieges-connus.md`. Rien n'est appliqué avant validation.

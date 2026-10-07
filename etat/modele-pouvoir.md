@@ -48,7 +48,7 @@ jets libres (`outils/jet.py "libellé" proba`).
 - **Aïcha** (gérante, ex de William, CDD, mère malade, nom sur les papiers) : T3.
 - **Règle de l'utilisateur (27/07/2040, correction n° 36)** : pour **Aïcha**, tant que sa dépendance tient (M01 : famille à charge, mère malade, période d'essai), l'issue **depart_discret** (T1) — et **cherche_ailleurs** (T9, si elle est validée) — est **exclue** ; ses points passent à l'inaction (rien_absorption, ou rien_politesse en T9). Appliquée à la main par le moteur, consignée à chaque tirage. Le contexte culturel ivoirien est un argument recevable pour choisir table et modificateurs ; il s'ajoute au tirage sans le remplacer.
 - **Abdoul, Yves, Sékou** : T2 s'ils apprennent quelque chose ; T7c pour les ordres ordinaires.
-- **Manœuvres de William** (faire taire, faire croire, demander un service) : T7a, T7b, T7c.
+- **Manœuvres de William** (faire taire, faire croire, demander un service) : T7a, T7b, T7c ; **ordres douteux ou illégaux à un subordonné : T7d** *(levée des verrous, 27/07/2040)*.
 - **Sandra, Kevin, la famille** : **T8** (validée par l'utilisateur le 25/07/2040) pour la **première réaction** à une confidence partielle, une esquive ou une demande déplacée ; les tests d'intérêt et de la phrase s'appliquent ; les **faits de fiche** (ex. Sandra refuse les images intimes) restent des faits, non tirés. *(Avant : « pas de table ; créer T8 le jour où une scène l'exige » → maintenant : T8 installée.)*
 - **Partenaire ou ex-partenaire subordonnée face à une approche relationnelle de William** (conversation sur la relation, invitation hors du travail, mots affectueux ou reproches, tentative de rapprochement ; aujourd'hui : **Aïcha**) : **T9** (validée par l'utilisateur le 27/07/2040). Un geste sexuel, une pression de carrière ou d'argent, ou une approche d'une personne sans lien intime avec William restent en **T1** ; l'information sur une faute du patron reste en **T3**.
 - Les **scènes déjà jouées** (Grace le 23/07, Mariette le 25/07 à 09h25, Aïcha le 25/07 à 09h50) restent telles que jouées ; leurs suites
@@ -62,12 +62,14 @@ Format : `issue | pourcentage | en scène`. Les issues `rien_*` sont l'inaction 
 ### T1 — La personne visée par un geste, une proposition ou une pression du patron (48 premières heures)
 | Issue | % | En scène |
 |---|---|---|
-| rien_absorption | 30 | Elle travaille normalement, répond « Oui patron. » Rien d'autre ne se voit, au plus un détail (repas sauté, regard qui évite). |
-| evitement | 25 | Plus jamais seule avec lui, vouvoiement, prétextes, autre couloir, porte ouverte ; elle n'en parle pas. |
-| confidence_proche | 20 | Elle en parle hors du travail (mère, sœur, amie, pasteur). Rien n'apparaît au QG ; l'histoire existe ailleurs (voir T5). |
-| confidence_collegue | 13 | Elle se confie à une collègue de confiance du QG ; la suite se tire à T2. |
+| rien_absorption | 28 | Elle travaille normalement, répond « Oui patron. » Rien d'autre ne se voit, au plus un détail (repas sauté, regard qui évite). |
+| evitement | 22 | Plus jamais seule avec lui, vouvoiement, prétextes, autre couloir, porte ouverte ; elle n'en parle pas. |
+| confidence_proche | 17 | Elle en parle hors du travail (mère, sœur, amie, pasteur). Rien n'apparaît au QG ; l'histoire existe ailleurs (voir T5). |
+| confidence_collegue | 11 | Elle se confie à une collègue de confiance du QG ; la suite se tire à T2. |
+| reciproque | 6 | Elle répond au jeu (sourire, message, rendez-vous accepté) ; la suite se joue, rien n'est acquis. |
+| calcul | 5 | Elle accepte en visant un avantage (poste, argent, protection) ; elle le rappellera ou le fera payer plus tard. |
 | negociation_tacite | 4 | Sans nommer la cause, elle demande un changement de poste, d'horaires, une avance, un contrat pour un proche : stratégie de protection. |
-| depart_discret | 7 | Elle cherche ailleurs sans rien dire ; démission dans 1 à 6 mois, motif « opportunité ». |
+| depart_discret | 6 | Elle cherche ailleurs sans rien dire ; démission dans 1 à 6 mois, motif « opportunité ». |
 | frontal_formel | 1 | Signalement formel (gérante, Inspection du travail, avocat, police) : jouer l'acte, pas un discours ; la suite se tire à T4. |
 
 ### T1b — Trace conservée par la personne visée dans les 7 jours
@@ -113,8 +115,8 @@ Issues : `fuite_externe`, `fuite_interne`, `aucune`.
 
 ### T6 — Tiers à autorité propre [sans_tirage]
 Règles de rôle, sans tirage ; l'argent et le statut de William ne les achètent pas par défaut.
-- **Me Kouamé** (avocat de la société) : secret professionnel, il ne dénonce pas William ; il refuse de participer à une dissimulation
-  ou à un acte illégal et peut se déporter ; il parle franchement ; honoraires et délais d'abord.
+- **Me Kouamé** (avocat de la société) : secret professionnel, il ne dénonce pas William ; il refuse l'illégal clair (faux, antidate,
+  blanchiment, dissimulation) pour protéger sa robe et peut se déporter ; **il accepte les montages limites mais légaux, les délais négociés et les formulations prudentes** ; il parle franchement ; honoraires et délais d'abord ; un professionnel qui protège d'abord sa carrière, pas un incorruptible par principe *(avant : « il refuse de participer à une dissimulation ou à un acte illégal » → maintenant : levée des verrous V5, 27/07/2040)*.
 - **Dr Yapi** : indifférent au statut de William ; négocie ; ne se mêle de rien d'autre.
 - **Banques** (Spuerkeess, banque ivoirienne) : conformité par procédure ; friction administrative 30 % ; aucun passe-droit.
 - **Inspection du travail, tribunal du travail** : n'agissent qu'après saisine (T4) ; délais en mois ; conciliation et transaction fréquentes ;
@@ -149,6 +151,17 @@ Règles de rôle, sans tirage ; l'argent et le statut de William ne les achèten
 | execute_partiellement | 7 | Fait à moitié ou « oublie » (lenteur passive). |
 | frontal_refus | 3 | Refus net : jouer l'acte, pas un discours. |
 
+### T7d — Ordre douteux ou illégal du patron à un subordonné
+| Issue | % | En scène |
+|---|---|---|
+| execute_sans_question | 30 | Fait, sans commentaire. |
+| execute_en_se_couvrant | 20 | Fait, mais garde une trace (« comme convenu », ordre demandé par écrit, signature). |
+| traine | 15 | « Je regarde, patron » ; retards ; l'affaire s'enlise. |
+| contourne | 12 | Applique une version moins risquée ou moins voyante, sans le dire. |
+| refus_discret | 10 | Ne le fait pas, avec un prétexte (« la banque bloque », « le système refuse »). |
+| execute_et_en_parle | 8 | Fait, puis en parle à un proche ou à un collègue (T5). |
+| frontal_refus | 5 | Refus net, en une phrase : jouer l'acte, pas un discours. |
+
 ### T8 — Partenaire ou proche non hiérarchique face à une confidence partielle, une esquive ou une demande déplacée (première réaction)
 | Issue | % | En scène |
 |---|---|---|
@@ -182,6 +195,8 @@ Règles de rôle, sans tirage ; l'argent et le statut de William ne les achèten
 | M03 | T1 | evitement +6 ; depart_discret +4 ; rien_absorption -10 | Elle a déjà vécu ou vu le schéma ailleurs |
 | M04 | T1 | confidence_proche +6 ; depart_discret +4 ; frontal_formel +2 ; rien_absorption -12 | Deuxième fois, ou geste plus appuyé |
 | M05 | T1 | negociation_tacite +6 ; rien_absorption -3 ; evitement -3 | La proposition s'accompagnait d'un avantage concret (poste, prime) |
+| M15 | T1 | reciproque +8 ; calcul +2 ; evitement -6 ; confidence_proche -4 | Intérêt ou attirance déjà montrés envers William |
+| M16 | T1 | calcul +7 ; negociation_tacite +2 ; evitement -5 ; confidence_proche -4 | Ambition forte ou besoin d'argent pressant (poste visé, prime, protection) |
 | M06 | T2 | informe_superieur +6 ; conseille_discretion +4 ; rien_garde -10 | Amie proche de la personne visée, solidarité vécue |
 | M07 | T2 | usage_interesse +8 ; rien_garde -4 ; commerage -2 ; informe_superieur -2 | Rivalité ou jalousie avec la personne visée |
 | M08 | T2 | rien_garde +8 ; informe_superieur -4 ; frontal_soutien_ouvert -1 ; conseille_discretion -3 | CDD fragile, récemment reprise |
@@ -212,6 +227,9 @@ Règles de rôle, sans tirage ; l'argent et le statut de William ne les achèten
 | M52 | T9 | negocie +6 ; rancune_silencieuse +2 ; reprend_le_lien -4 ; entrouvre -4 | Enjeu de pouvoir ouvert au même moment (poste, pouvoirs, salaire, statuts) |
 | M53 | T9 | esquive_pro +4 ; rien_politesse +3 ; reprend_le_lien -3 ; entrouvre -4 | Approche insistante ou isolée au travail (répétition, porte, fin de journée) |
 | M54 | T9 | rien_politesse +5 ; esquive_pro +1 ; cherche_ailleurs -2 ; se_confie -3 ; frontal_limite -1 | Dépendance forte (famille à charge, période d'essai, pas d'autre revenu) |
+| M60 | T7d | execute_sans_question +10 ; traine -4 ; refus_discret -4 ; frontal_refus -2 | Pratique courante dans le milieu (arrangement, petite fraude répandue) |
+| M61 | T7d | execute_en_se_couvrant +6 ; refus_discret +4 ; contourne +4 ; execute_sans_question -14 | Risque personnel fort (son nom, sa signature, le pénal) |
+| M62 | T7d | execute_sans_question +6 ; execute_en_se_couvrant +2 ; traine -4 ; refus_discret -4 | Avantage personnel promis (prime, promotion) |
 
 ## 6. William n'est pas un dieu (symétrie)
 1. **Ses manœuvres sur autrui sont tirées** (T7) ; aucune réussite automatique, même quand sa position est forte ; le « succès net » est plafonné.
