@@ -80,3 +80,11 @@ Je suis d'accord. Je te dirai vraiment tout.
 
 **[27/07/2040 - 15:52 (Abidjan) / 17:52 (Esch)] Sandra :**
 D'accord. Juste une chose, pour que je me prépare : ça concerne qui ? Toi, moi, ton travail ?
+
+**[27/07/2040 - 15:54 (Abidjan) / 17:54 (Esch)] William :**
+Ça portera globalement sur tout. Toi, moi, mon boulot.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[27/07/2040 - 15:56 (Abidjan) / 17:56 (Esch)] Sandra :**
+Moi aussi, donc. D'accord.
+Une dernière question, et après j'attends ce soir : c'est quelque chose que tu as fait, ou quelque chose que tu as décidé ?
