@@ -380,3 +380,7 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Pendant la marche du retour (baie -> Capitol, 20 min), Yves aborde le boulot de lui-même (évaluations de lundi, son essai, ses recrutements SAV) » : probabilité 50 %, jet  15.7 → **OUI** (enregistré le 07/10/2026 18:11 heure machine)
 
 - Jet « Veillée de prière (vendredi soir) audible d'une église sur le trajet du retour » : probabilité 40 %, jet   7.3 → **OUI** (enregistré le 07/10/2026 18:11 heure machine)
+
+- Tirage [T7c] « Yves : devant le Capitol, William lui dit de voir le recrutement SAV avec Aïcha lundi, « mais de mon côté, je suis d'accord » (contre le plan validé : pas d'embauche avant le premier contrat) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  52.3 → **execute_sans_discuter** (enregistré le 07/10/2026 18:14 heure machine)
+
+- Jet « Samedi 28/07 avant 9h30 : Kevin écrit à William après que Sandra lui a dit « le 10 septembre » » : probabilité 50 %, jet  96.2 → **NON** (enregistré le 07/10/2026 18:14 heure machine)
