@@ -300,3 +300,5 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Sandra répond entre 14h et 17h à Abidjan (réveillée, après-midi avec les enfants) » : probabilité 65 %, jet  33.3 → **OUI** [DÉROGATION : partenaire non hiérarchique : délai de réponse, aucune table T8 pour les délais ; 65 % (elle n'a pas répondu à son réveil ; après-midi avec les enfants)] (enregistré le 07/10/2026 13:32 heure machine)
 
 - Jet « Le Dr Yapi accuse réception du devis de la clinique auprès de Grace avant 16h vendredi » : probabilité 60 %, jet   7.5 → **OUI** (enregistré le 07/10/2026 13:33 heure machine)
+
+- Tirage [T8] « Sandra : William accepte sa condition et promet par écrit « Je suis d'accord. Je te dirai vraiment tout. » (appel de 22h à Esch) ; peur des silences (M40), déjà alertée (M43), confiance récente (M44) » : soutient_sans_creuser 12 / creuse_doucement 31 / releve_esquive 27 / plaisante_et_devie 8 / froideur 9 / agacement_net 5 / rien_ne_dit_soupconne 8 / frontal_rupture 0 ; modificateurs : M40, M43, M44 ; jet  35.5 → **creuse_doucement** (enregistré le 07/10/2026 13:36 heure machine)

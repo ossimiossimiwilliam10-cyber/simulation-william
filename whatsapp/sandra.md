@@ -73,3 +73,10 @@ On s'appelle ce soir vers 22h, si ça te va. Je t'expliquerai tout à ce moment-
 22h, d'accord.
 Mais je te le dis maintenant : mercredi, tu m'as dit « laisse tomber ». Ce soir, si tu dis « tout », c'est tout. Je ne veux pas d'un deuxième « laisse tomber ».
 Sinon, ce n'est pas la peine.
+
+**[27/07/2040 - 15:49 (Abidjan) / 17:49 (Esch)] William :**
+Je suis d'accord. Je te dirai vraiment tout.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[27/07/2040 - 15:52 (Abidjan) / 17:52 (Esch)] Sandra :**
+D'accord. Juste une chose, pour que je me prépare : ça concerne qui ? Toi, moi, ton travail ?
