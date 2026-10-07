@@ -514,3 +514,19 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Tirage [T7c] « Aïcha : William lui demande de s'occuper des salaires de juillet ou de voir avec la personne qui s'en charge (Mariette) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  65.3 → **execute_sans_discuter** (enregistré le 07/10/2026 22:34 heure machine)
 
 - Jet « Hôtel Capitol : départ anticipé le 03/08 d'un séjour long payé à moitié (2 062 500 FCFA versés) » : probabilité 50 %, jet  35.8 → **OUI** [DÉROGATION : règle commerciale d'un tiers (hôtel), pas une réaction à un acte de pouvoir ; le nombre tiré fixe la règle : 0-40 recalcul au tarif normal (95 000 FCFA la nuit) et remboursement du trop-perçu ; 40-70 trop-perçu gardé en avoir valable 12 mois, sans remboursement ; 70-100 tarif long séjour maintenu et remboursement (geste commercial)] (enregistré le 07/10/2026 22:34 heure machine)
+
+- Tirage [T7c] « Aïcha (lundi 10h, QG) : Yves lui rapporte que le patron « est d'accord » pour recruter le technicien SAV dès maintenant, contre le plan technique validé (pas d'embauche avant le premier contrat) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet   8.5 → **execute_sans_discuter** (enregistré le 07/10/2026 22:48 heure machine)
+
+- Jet « Friction : Me Kouamé indisponible à 15h, la mention est signée devant sa collaboratrice ou reportée (deuxième passage) » : probabilité 30 %, jet   4.7 → **OUI** (enregistré le 07/10/2026 22:48 heure machine)
+
+- Jet « Fibre Orange : le raccordement du QG a lieu avant le 31/07 (sinon report avec motif) » : probabilité 40 %, jet  95.8 → **NON** (enregistré le 07/10/2026 22:48 heure machine)
+
+- Jet « Abdoul appelle Bertin cette semaine pour lui annoncer le statut de sous-traitant (lundi) » : probabilité 30 %, jet  10.9 → **OUI** (enregistré le 07/10/2026 22:48 heure machine)
+
+- Jet « Le client de la villa Riviera répond au devis lundi 30/07 » : probabilité 25 %, jet  44.0 → **NON** (enregistré le 07/10/2026 22:48 heure machine)
+
+- Jet « Yves écrit à William dans la journée après l'annonce de son départ » : probabilité 40 %, jet  18.0 → **OUI** (enregistré le 07/10/2026 22:48 heure machine)
+
+- Jet « Estelle écrit à William dans la journée de lundi » : probabilité 50 %, jet  91.6 → **NON** (enregistré le 07/10/2026 22:48 heure machine)
+
+- Jet « Bertin Assi apprend par Abdoul qu'il sera sous-traitant, pas salarié d'OSIA » : probabilité 50 %, jet  16.2 → **OUI** [DÉROGATION : réaction d'un artisan extérieur (Bertin) au plan d'Abdoul, pas à un acte direct de William ; le nombre tiré fixe l'issue : 0-60 accepte la sous-traitance (il a besoin de chantiers) ; 60-90 accepte mais négocie son prix et veut un écrit ; 90-100 refuse, vexé] (enregistré le 07/10/2026 22:48 heure machine)

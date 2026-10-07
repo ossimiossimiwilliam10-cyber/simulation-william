@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 30/07/2040, 09h32)
+# William Ossimi — profil (état au 30/07/2040, 17h00)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -225,3 +225,4 @@
 - **30/07, 08h28-08h38** : confirme à Sandra un retour le samedi 4 août ; sur le site d'Air France, le vol du 04/08 est complet en économie (03 ou 05/08 : +285 € ; affaires le 04/08 : ≈ +2 450 €) ; annonce à Aïcha un départ « d'urgence » le 4 août (« je risque de revenir ») ; dit à Sandra que la gérante est Aïcha (« essai dans environ six mois ») ; elle plaisante et passe à autre chose.
 - **30/07, 08h40-09h30** : réserve le vol du vendredi 03/08 (arrivée à Luxembourg le samedi 04/08 vers 10h30) ; « Je t'aime » à Sandra (« Moi aussi ❤️ ») ; demande à Aïcha l'apport, la mention (avant midi) et les salaires (réponse à 09h24) ; à la réception : remboursement de 352 500 FCFA, choix pour vendredi à faire.
 - **30/07, 09h31** : choisit le départ tardif vendredi (chambre jusqu'à 18h, 47 500 FCFA).
+- **30/07, 09h35-17h00** : journée à l'hôtel (marche dans Cocody Centre, déjeuner, sieste ; nuit courte) ; message d'Yves (12h52) ; à 17h01, Aïcha signale son rapport : trois points qui le concernent (confirmation écrite de son poste avant le 4 août, rémunération d'Estelle, recrutement SAV).

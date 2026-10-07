@@ -221,3 +221,7 @@ Aïcha, des nouvelles de l'apport de 115 millions ? Est-ce que ça demande encor
 Patron, l'apport n'est pas encore arrivé : rien sur le compte ce matin. La SGBCI compte deux à quatre jours ouvrés pour un virement de l'étranger. À réception, la banque délivre l'attestation de versement ; Maître Kouamé dit que vous n'avez plus rien à signer.
 La mention : je la signe aujourd'hui, je passe au cabinet à 15h.
 Les salaires de juillet : Mariette les prépare, virements le 31 au matin.
+
+**[30/07/2040 - 17:01] Aïcha :**
+Patron, le rapport du jour est sur le serveur, dans direction. Il y a trois points qui vous concernent, en section 3.
+*(Pièce : `serveur/direction/rapport_direction_3007.pdf`.)*

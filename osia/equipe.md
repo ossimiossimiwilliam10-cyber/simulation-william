@@ -76,3 +76,6 @@
 - **Grace** (commerciale, essai jusqu'au 15/01/2041) : devis clinique et villa livrés ; silencieuse avec William.
 - **Abdoul** (technique, essai jusqu'au 15/01/2041) : plan technique validé ; Vridi vers le 03/08 ; Bertin toujours pas informé.
 - **Yves** (SAV, essai jusqu'au 15/10, renouvellement à notifier avant le 30/09) : maquis du 27/07 avec William ; accord oral de William pour le technicien SAV, à voir avec Aïcha lundi.
+
+## Évaluations du 30/07/2040 (par Aïcha, matrice v1.0 ; ajustement discrétionnaire non appliqué)
+- Grace 78/100 ; Mariette 81/100 ; Abdoul 66/100 ; Yves 69/100 : tous « performance standard » (`serveur/rh/evaluations/`). Aïcha : 74/100 (par William, 26/07).

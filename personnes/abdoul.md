@@ -31,3 +31,4 @@ rapidité commerciale de Grace ou avec les exigences de coût de William. Il tie
 - 26/07, 14h35 : dans le groupe Direction, après l'annonce de l'évaluation d'Aïcha : « Compris, Boss. » (T7c : execute_sans_discuter, jet 12.2).
 - 26/07, 16h41 : dépose le plan technique (`serveur/technique/plan_technique_2607.pdf`) : noyau de six personnes, Bertin en sous-traitant, lithium pour la clinique ; « Boss, le plan technique est sur le serveur. »
 - 26/07, 17h05-17h07 : William : plan vu, « ça me va », finaliser avec Aïcha, « je compte sur toi » ; « Merci, Boss. Je vois Madame Diomandé demain. » (T7c : exécute).
+- 30/07 : évaluation 66/100 (standard ; directives et serveur à 5/10) ; 11h10 : annonce à Bertin son statut de sous-traitant, Bertin accepte ; entretiens SAV mer. 01/08 avec Yves.

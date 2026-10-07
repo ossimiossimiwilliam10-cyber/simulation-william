@@ -41,3 +41,4 @@ son contrat lui interdit les marchés publics et les commissions.
 - 27/07 : remet le devis de la clinique à Aïcha (09h05), l'envoie au Dr Yapi après validation (11h32) ; déjeuner d'équipe maintenu à midi sans William (T1 : rien_absorption, jet 17.0).
 - 27/07, 14h20 : le Dr Yapi lui accuse réception du devis (« Le conseil l'examinera mardi. »).
 - 27/07, 17h04 : quitte le QG au téléphone, en anglais, sans regarder vers le bureau de William *(non connu de William : sa mère attend l'envoi d'argent de fin de mois ; « mardi »)*.
+- 30/07 : évaluation 78/100 (standard) remise par Aïcha ; apprend le départ du patron le 4 août au point d'équipe.

@@ -1,4 +1,4 @@
-# Calendrier (au 30/07/2040, 09h32)
+# Calendrier (au 30/07/2040, 17h00)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -139,7 +139,10 @@
 | **Lun. 30/07, 08h28-08h38** | Retour annoncé le 04/08 (Sandra, Aïcha) ; vol du 04/08 complet en économie ; choix du vol en attente. |
 | **Ven. 03/08, 18h** | Départ tardif de la chambre 312 (47 500 FCFA). |
 | **Ven. 03/08, 23h20** | **Vol retour** Abidjan → Paris (Air France, économie) ; Luxembourg le sam. 04/08 vers 10h30. *(Avant : vol du dim. 09/09 → maintenant : ven. 03/08, réservé le 30/07 à 08h43.)* |
-| **Lun. 30/07, 15h** | Aïcha au cabinet de Me Kouamé : signature de la mention « pour les formalités ». |
+| **Lun. 30/07, 15h** | Aïcha au cabinet de Me Kouamé : signature de la mention « pour les formalités ». *(Reporté : Me Kouamé au tribunal ; mention non signée.)* |
+| **Mar. 31/07, 8h30** | Aïcha au cabinet de Me Kouamé : signature de la mention (deuxième passage). |
+| **Mer. 01/08, 10h** | Entretiens des trois candidats au poste de technicien SAV (Abdoul, Yves) au QG. |
+| **Mar. 14/08** | Raccordement fibre Orange (reporté ; à confirmer). |
 | **Mar. 31/07, matin** | Virements des salaires de juillet (Mariette). |
 | **Mar. 31/07** | *(Non connu de William)* message d'un parent de William (vie hors d'Abidjan) ; aléas A09 (matin) et A06 (soir). |
 | **Mar. 31/07, 10h** | *(Non connu de William avant 18h06 dimanche)* Aïcha reçoit Estelle au QG (relevés, factures). |
@@ -169,7 +172,7 @@
 | Non daté | Abdoul : présentation de l'équipe technique et du devis (reportée). |
 | Non daté | Mariette : revue de la légalité des contrats (demandée le 19/07 au soir) — résultat pas encore rendu. |
 | Non daté | Livraison des onduleurs/batteries commandés le 18/07 (fournisseur libanais). |
-| Fin juillet | Raccordement fibre annoncé par Orange (incertain). |
+| Fin juillet | Raccordement fibre annoncé par Orange (incertain). *(Avant : fin juillet → maintenant : reporté au mar. 14/08.)* |
 | Fin juillet | Salaires de juillet de l'équipe (Aïcha et Mariette : mois complet ; Grace, Abdoul, Yves : 16-31/07). |
 | Mar. 31/07 | Échéance : rapports complets des équipes (missions du 17/07). |
 | 06/08 → 19/08 | Congés de Sandra (projet Mindelo non financé). |

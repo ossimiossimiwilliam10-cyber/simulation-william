@@ -196,3 +196,4 @@ Total des avances non remboursées par l'entreprise :
 - **29/07** : taxis du soir ≈ 22 000 FCFA au total (Capitol → Angré → Zone 4 → Angré → Capitol).
 - **30/07** : changement du vol retour (Air France, tarif Standard) : **+285 €** (carte) ; hôtel Capitol : séjour ramené à 18 nuits au tarif normal (95 000 FCFA) = 1 710 000 FCFA ; **352 500 FCFA remboursés** sur sa carte sous dix jours ouvrés (2 062 500 versés) ; dotation de 115 M FCFA **non arrivée** lundi matin.
 - **30/07, 09h31** : départ tardif vendredi 03/08 jusqu'à 18h : 47 500 FCFA à régler au départ.
+- **30/07** : salaires de juillet préparés par Mariette (≈ 2 620 000 FCFA bruts ; virements le 31/07) ; recrutement d'un technicien SAV engagé par Aïcha (350 000 FCFA brut/mois au plan, entretiens le 01/08) ; apport de 115 M FCFA toujours non crédité à 17h.
