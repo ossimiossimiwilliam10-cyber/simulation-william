@@ -28,7 +28,8 @@
 | **Lun. 30/07** | **William absent du QG toute la semaine (jusqu'au ven. 03/08) : semaine test d'Aïcha.** **Revue du lundi** (deuxième) ; **début du système d'évaluation** (Aïcha remet les évaluations de Grace, Mariette, Abdoul et Yves ; William a remis son évaluation d'Aïcha le 26/07 (74/100)) ; arrivée possible des fonds de la dotation à la SGBCI (lun. 30 – mar. 31/07). |
 | **30/09/2040** | Dernier jour pour notifier par écrit le renouvellement de l'essai d'Yves (fin de l'essai le 15/10/2040). |
 | **21/10/2040** et **30/10/2040** | Derniers jours pour notifier un renouvellement d'essai : Aïcha (fin le 21/11/2040), Mariette (fin le 30/11/2040). |
-| **Lun. 29/10/2040** | *(Non connu de William)* Démission d'Aïcha prévue (départ discret, motif « opportunité » ; correction n° 35). Avant : signalement à Me Kouamé le 29/07 à 15h08 → maintenant : annulé. |
+| **Lun. 29/10/2040** | *(ANNULÉ, correction n° 36 : départ discret exclu par l'utilisateur)* *(Non connu de William)* Démission d'Aïcha prévue (départ discret, motif « opportunité » ; correction n° 35). Avant : signalement à Me Kouamé le 29/07 à 15h08 → maintenant : annulé. |
+| **Lun. 30/07, 17h** | *(Non connu de William)* Dans son rapport, Aïcha demande la confirmation écrite anticipée de son poste (négociation tacite, correction n° 36). |
 | **15/12/2040** | Dernier jour pour notifier un renouvellement d'essai : Grace et Abdoul (fin le 15/01/2041). |
 | Dim. 29/07, soir | Synthèse de la semaine ISO 30 (`memoire/semaine-2040-W30.md`). |
 | Lun. 23/07, 8h | Aïcha + Mariette : intégrer la matrice d'évaluation au règlement (annoncé le 20/07). |

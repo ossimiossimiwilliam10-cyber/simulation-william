@@ -46,3 +46,5 @@ aucune combinaison de trois modificateurs ne fait passer une issue sous 0 % (rep
 
 *Hors table (restent des faits de fiche)* : les règles d'Aïcha de mai 2040 (pas ses amies, pas les employées, « au bureau c'est boulot ») ;
 elle ne sait rien de Sandra.
+
+*Règle de l'utilisateur (27/07/2040, correction n° 36)* : pour Aïcha, tant que sa dépendance tient, « cherche_ailleurs » est exclue ; ses points passent à rien_politesse.

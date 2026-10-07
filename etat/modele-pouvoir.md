@@ -46,6 +46,7 @@ jets libres (`outils/jet.py "libellé" proba`).
 ## 4. Qui est dans quelle table (état au 25/07/2040)
 - **Grace** : T1 (visée le 23/07), T1b (trace conservée). **Mariette** : T1 (visée le 16/05), T2 (témoin de l'affaire Grace).
 - **Aïcha** (gérante, ex de William, CDD, mère malade, nom sur les papiers) : T3.
+- **Règle de l'utilisateur (27/07/2040, correction n° 36)** : pour **Aïcha**, tant que sa dépendance tient (M01 : famille à charge, mère malade, période d'essai), l'issue **depart_discret** (T1) — et **cherche_ailleurs** (T9, si elle est validée) — est **exclue** ; ses points passent à l'inaction (rien_absorption, ou rien_politesse en T9). Appliquée à la main par le moteur, consignée à chaque tirage. Le contexte culturel ivoirien est un argument recevable pour choisir table et modificateurs ; il s'ajoute au tirage sans le remplacer.
 - **Abdoul, Yves, Sékou** : T2 s'ils apprennent quelque chose ; T7c pour les ordres ordinaires.
 - **Manœuvres de William** (faire taire, faire croire, demander un service) : T7a, T7b, T7c.
 - **Sandra, Kevin, la famille** : **T8** (validée par l'utilisateur le 25/07/2040) pour la **première réaction** à une confidence partielle, une esquive ou une demande déplacée ; les tests d'intérêt et de la phrase s'appliquent ; les **faits de fiche** (ex. Sandra refuse les images intimes) restent des faits, non tirés. *(Avant : « pas de table ; créer T8 le jour où une scène l'exige » → maintenant : T8 installée.)*

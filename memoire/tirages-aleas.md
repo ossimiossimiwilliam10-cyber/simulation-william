@@ -346,3 +346,5 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Délai avant la démission d'Aïcha (départ discret, motif « opportunité »), compté depuis le 27/07/2040 » : probabilité 50 %, jet  43.0 → **OUI** [DÉROGATION : délai seulement : issue recalculée en T1 (correction n° 35 : depart_discret, même jet 99.7) ; le nombre tiré fixe le délai avant la démission (30 + jet × 1,5 jours), OUI/NON sans objet ; un événement tiré plus tard peut changer sa situation] (enregistré le 07/10/2026 15:22 heure machine)
 
 - Recalibrage (correction n° 35) du tirage [T1] de 17h50 le 27/07 : M04 retiré (erreur du moteur), M02 ajouté ; même jet 99.7 → **depart_discret** ; aucun nouveau tirage.
+
+- Recalibrage (correction n° 36, décision de l'utilisateur) du tirage [T1] de 17h50 le 27/07 : depart_discret exclu pour Aïcha (ses 9 points à rien_absorption) ; même jet 99.7 → **negociation_tacite** ; le délai de démission tiré (43.0 → 29/10/2040) est annulé ; aucun nouveau tirage.
