@@ -210,3 +210,10 @@ Les touristes vont au Porto Grande, sur la place. Prends ce que tu veux, c'est t
 
 **[30/07/2040 - 21:35 (Abidjan) / 23:35 (Esch)] Sandra :**
 Je vais dormir. Bonne nuit.
+
+**[31/07/2040 - 10:47 (Abidjan) / 12:47 (Esch)] William :**
+J'ai pris l'Hotel Oasis Porto Grande, sur la place Amílcar Cabral : chambre avec vue sur la baie, du 6 au 12. Ça te plaît ?
+*(Texte reconstitué à partir de la dictée.)*
+
+**[31/07/2040 - 11:20 (Abidjan) / 13:20 (Esch)] Sandra :**
+Je regarde ce soir pour mon billet.

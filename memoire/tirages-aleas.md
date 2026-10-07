@@ -594,3 +594,17 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Estelle arrive au QG à l'heure (10h) pour le contrat et les relevés » : probabilité 65 %, jet   4.1 → **OUI** [DÉROGATION : ponctualité d'une prestataire (embouteillages Angré-Cocody), pas une réaction à un acte de William] (enregistré le 07/10/2026 23:31 heure machine)
 
 - Jet « Estelle écrit à William dans la journée après le rendez-vous » : probabilité 45 %, jet  66.9 → **NON** [DÉROGATION : message spontané d'une relation récente, délai seulement ; le contenu suit son motif de fiche (attirance et calcul)] (enregistré le 07/10/2026 23:31 heure machine)
+
+- Tirage [T1] « Yves (mardi ~10h45, au QG) : William lui écrit qu'il l'apprécie beaucoup, le compare à un personnage d'une série coréenne, et lui dit de bosser pour améliorer sa note afin d'avoir la chance d'accéder au rôle de PDG, avec son soutien total ; M05 : la proposition s'accompagne d'un avantage concret (le poste de PDG, le soutien du patron) ; M15 : intérêt déjà montré envers William (maquis du 27/07, raccompagné à pied, « vous êtes quelqu'un de bien ») » : rien_absorption 25 / evitement 13 / confidence_proche 13 / confidence_collegue 11 / reciproque 14 / calcul 7 / negociation_tacite 10 / depart_discret 6 / frontal_formel 1 ; modificateurs : M05, M15 ; jet  47.6 → **confidence_proche** (enregistré le 07/10/2026 23:36 heure machine)
+
+- Tirage [T7c] « Yves : William lui demande, pendant son absence, de l'informer s'il remarque quelque chose de suspect dans l'entreprise (canal direct, hors de la gérante) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  15.9 → **execute_sans_discuter** (enregistré le 07/10/2026 23:36 heure machine)
+
+- Jet « Yves répond dans les 30 minutes (au QG, préparation des entretiens SAV) » : probabilité 60 %, jet  23.1 → **OUI** [DÉROGATION : délai seulement] (enregistré le 07/10/2026 23:36 heure machine)
+
+- Tirage [T8] « Sandra (mardi 12h45 à Esch) : William lui annonce l'hôtel réservé à Mindelo (Oasis Porto Grande, vue sur la baie, six nuits, 1 032 € qu'il paie) et lui demande si ça lui plaît ; M41 : fierté, gêne de l'argent (« demande-moi avant », elle paie son billet) ; M43 : déjà alertée (vidéo sarcastique de la veille restée sans réponse, doute installé) ; M44 : confiance récente (retour avancé au 4 août, billets pris) » : soutient_sans_creuser 14 / creuse_doucement 25 / releve_esquive 23 / plaisante_et_devie 8 / froideur 12 / agacement_net 10 / rien_ne_dit_soupconne 8 / frontal_rupture 0 ; modificateurs : M41, M43, M44 ; jet  96.6 → **rien_ne_dit_soupconne** (enregistré le 07/10/2026 23:37 heure machine)
+
+- Jet « Sandra répond dans l'heure » : probabilité 60 %, jet  15.4 → **OUI** [DÉROGATION : délai seulement] (enregistré le 07/10/2026 23:37 heure machine)
+
+- Jet « Sandra réserve son billet pour Mindelo aujourd'hui (même vol que William), malgré le prix (épargne ≈ 2 300 €) » : probabilité 70 %, jet  97.6 → **NON** [DÉROGATION : décision d'achat de Sandra pour son propre billet (budget), pas une réaction à un acte de William] (enregistré le 07/10/2026 23:37 heure machine)
+
+- Jet « Le tarif à 1 520 € est encore disponible pour Sandra (sinon 1 640 €) » : probabilité 55 %, jet  38.5 → **OUI** (enregistré le 07/10/2026 23:37 heure machine)

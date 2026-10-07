@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 31/07/2040, 10h32)
+# William Ossimi — profil (état au 31/07/2040, 11h20)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -232,3 +232,4 @@
 - **30/07, 18h30-22h40** : réserve l'Oasis Porto Grande (06-12/08, 1 032 €), refait l'EASE (taxe ≈ 42 €) ; réponse d'Aïcha à 19h08 ; dîner ; « Je vais dormir. Bonne nuit. » de Sandra ; coucher à 22h40. **31/07, 06h40-09h15** : réveil reposé ; message d'Yves (jeudi 20h, garba).
 - **31/07, 09h18-09h27** : annule le garba de jeudi avec Yves (« une autre fois, quand je reviendrai ») ; demande à Aïcha où en est la mention (« ce dossier a déjà trop traîné ») : signée à 08h40, formalités à réception de l'attestation de versement.
 - **31/07, 09h34-10h32** : demande à Me Kouamé un résumé des pouvoirs de la gérante et s'ils peuvent menacer l'entreprise (réponse écrite promise dans la journée) ; Yves accepte le report du garba.
+- **31/07, 10h44-11h20** : à Yves : appréciation, comparaison avec La vie rêvée de M. Kim, « soutien le plus total » pour devenir PDG, demande de signaler tout ce qui est suspect (Yves : « comptez sur moi ») ; à Sandra : hôtel annoncé (« Ça te plaît ? ») ; elle : « Je regarde ce soir pour mon billet. »

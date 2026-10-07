@@ -24,3 +24,16 @@ Yves, je suis vraiment désolé, mais finalement ça va être vraiment serré po
 **[31/07/2040 - 10:32] Yves :**
 Pas de souci, Boss 🙏🏾 On se fera ça au retour, Kader va garder son argent au chaud 😂
 Moi je bouge pas, hein. OSIA, c'est la maison maintenant. Bon voyage d'avance, Boss.
+
+**[31/07/2040 - 10:44] William :**
+Sincèrement, Yves, je t'apprécie beaucoup. Par ton caractère, tu me fais penser à un personnage de La vie rêvée de M. Kim, une série coréenne sur le monde du travail : celui qui était sous l'aile de M. Kim.
+Tu dois vraiment bosser et améliorer ta note, pour avoir la chance d'accéder un jour au rôle de PDG. À ce moment-là, tu auras mon soutien le plus total, parce que je t'apprécie réellement : tu es vraiment un bon gars.
+Et pendant que je ne suis pas là, si tu remarques quelque chose de suspect dans l'entreprise, je compte sur toi pour m'en informer.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[31/07/2040 - 10:58] Yves :**
+Boss… merci beaucoup, hein 🙏🏾 Ça me touche vraiment.
+La série-là, je connais pas, mais je cherche ce soir 😄
+Je vais travailler dur, vous allez voir la note monter 💪🏾
+Et pour le reste, comptez sur moi : s'il y a quoi que ce soit, je vous écris directement.
+Que Dieu vous garde, Boss.
