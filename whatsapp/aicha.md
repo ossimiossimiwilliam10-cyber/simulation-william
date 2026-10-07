@@ -164,3 +164,8 @@ Et poursuis le dossier de ma renonciation aux avances.
 
 **[27/07/2040 - 08:41] Aïcha :**
 Bien, patron. Je surveille Abdoul. Pour les avances, il me faut votre renonciation écrite et signée.
+
+*(27/07/2040 - 12:09 : courriel de William à Aïcha, objet « Renonciation au remboursement de mes avances » : « Aïcha, ci-joint ma renonciation écrite et signée. William » ; pièce jointe : renonciation signée.)*
+
+**[27/07/2040 - 12:16] Aïcha :**
+Bien reçu, patron. Je le classe et je préviens Mariette pour le tableau des avances.
