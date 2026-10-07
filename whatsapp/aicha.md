@@ -232,3 +232,9 @@ Pour Estelle : on part sur la prestation à 150 000 FCFA par mois. Remets-lui le
 Pour le recrutement SAV, je te le confirme par écrit : je suis d'accord, on part là-dessus.
 Et pour les évaluations, je n'appliquerai pas d'ajustement discrétionnaire cette fois-ci.
 *(Texte reconstitué à partir de la dictée.)*
+
+**[30/07/2040 - 19:08] Aïcha :**
+C'est noté, patron.
+Pour Mme Estelle, je prépare demain matin un contrat de prestation simple (150 000 FCFA par mois) ; je lui remets les relevés à la signature, à 10h.
+Pour le SAV, merci. Je préviens Abdoul et Yves pour mercredi.
+Bonne soirée, patron.

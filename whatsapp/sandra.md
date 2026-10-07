@@ -207,3 +207,6 @@ Pour entrer au Cap-Vert, il faut faire un pré-enregistrement en ligne : ils dem
 Bien reçu pour le vol. Je regarde demain à la pause, il me faut le même.
 L'hôtel… moi, je dormais toujours chez ma tia, à Monte Sossego. Mais chez elle c'est petit, et il y a les cousins.
 Les touristes vont au Porto Grande, sur la place. Prends ce que tu veux, c'est toi qui sais 🙂
+
+**[30/07/2040 - 21:35 (Abidjan) / 23:35 (Esch)] Sandra :**
+Je vais dormir. Bonne nuit.

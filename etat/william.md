@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 30/07/2040, 18h27)
+# William Ossimi — profil (état au 31/07/2040, 09h15)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -229,3 +229,4 @@
 - **30/07, 17h05-17h38** : accepte le garba d'Yves ; à Aïcha : refus de la confirmation anticipée de son poste (essai jusqu'au 21/11), prestation d'Estelle validée (150 000 FCFA/mois), SAV confirmé, aucun ajustement discrétionnaire ; cherche son billet pour Mindelo sur le site de TAP (semaine non fixée avec Sandra).
 - **30/07, 17h40-18h12** : réserve le billet pour Mindelo (06-13/08, 1 520 €) ; pré-enregistrement EASE bloqué (adresse de l'hôte à Mindelo), session expirée ; envoie à Sandra l'annonce du billet, une photo suggestive en short et « Il n'y a pas que mon cœur à qui tu manques, apparemment 😏 » ; elle demande le vol, où il est et s'il est seul.
 - **30/07, 18h14-18h27** : envoie à Sandra le détail du vol, « Oui, je suis tout seul 😂 » et une vidéo de sa chambre par sarcasme, explique l'EASE et propose un hôtel « confortable pour toi et moi » ; cherche un hôtel à Mindelo (Oasis Porto Grande 1 032 €, Kira's 1 188 €, Casa Café 504 € pour six nuits) ; Sandra ne dit rien de la vidéo.
+- **30/07, 18h30-22h40** : réserve l'Oasis Porto Grande (06-12/08, 1 032 €), refait l'EASE (taxe ≈ 42 €) ; réponse d'Aïcha à 19h08 ; dîner ; « Je vais dormir. Bonne nuit. » de Sandra ; coucher à 22h40. **31/07, 06h40-09h15** : réveil reposé ; message d'Yves (jeudi 20h, garba).

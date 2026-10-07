@@ -142,3 +142,6 @@
 - **Yves (30/07, soir)** : appelle Kader et Junior pour le garba ; Junior est de nuit au port jusqu'à mercredi ; jeudi seulement.
 - **Sandra (30/07, 20h02-20h12 à Esch)** : le dîner des petits à peine fini, elle lit les messages dans la cuisine ; rit au premier, reste un moment sur la photo, puis l'efface, comme toujours depuis l'histoire de sa collègue ; elle note « 6 août » sur le calendrier du frigo et pense à sa mère pour la garde. *Intérêt : partir enfin à Mindelo ; savoir ce qui se passe de l'autre côté, sans retomber dans les silences.*
 - **Sandra (30/07, 20h16-20h24 à Esch)** : regarde la vidéo deux fois, le son coupé ; elle n'avait demandé qu'une chose et il lui montre toute la chambre ; elle ne répond que sur le vol et l'hôtel ; avant de dormir, elle rouvre la page Facebook d'OSIA. *Intérêt : ne pas être celle qui accuse sans preuve ; ne pas revivre Ricardo ; garder le voyage.*
+- **Aïcha (30/07 soir)** : écrit sa réponse à William dans le gbaka, sans rien sur l'essai ; chez elle, elle appelle sa mère, qui demande si « le patron » a signé ; elle dit « pas encore ».
+- **Sandra (30/07, 23h35 à Esch)** : écrit une ligne avant de dormir ; ne parle ni de l'hôtel ni de la vidéo.
+- **Aïcha (31/07, 08h40)** : signe la mention au cabinet, en cinq minutes, avant l'audience de Me Kouamé ; elle ne pose aucune question sur les statuts.

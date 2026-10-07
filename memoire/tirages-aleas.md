@@ -554,3 +554,27 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Tirage [T8] « Sandra (lundi ~20h20 à Esch) : à sa question « tu es tout seul ? », William répond oui et lui envoie, par sarcasme, une vidéo de toute sa chambre d'hôtel ; il lui envoie les détails du vol, explique le pré-enregistrement EASE, propose de prendre un hôtel à Mindelo (« confortable pour elle et moi ») et lui demande si un hôtel l'intéresse ; M41 : fierté, gêne de l'argent (« demande-moi avant », elle paie son billet) ; M44 : confiance récente (retour avancé au 4 août, billet pris, « je t'aime » ce matin) » : soutient_sans_creuser 24 / creuse_doucement 25 / releve_esquive 18 / plaisante_et_devie 8 / froideur 10 / agacement_net 10 / rien_ne_dit_soupconne 5 / frontal_rupture 0 ; modificateurs : M41, M44 ; jet  98.4 → **rien_ne_dit_soupconne** (enregistré le 07/10/2026 23:15 heure machine)
 
 - Jet « Sandra répond dans les 15 minutes » : probabilité 70 %, jet   6.1 → **OUI** (enregistré le 07/10/2026 23:15 heure machine)
+
+- Jet « EASE : friction (paiement de la taxe refusé une première fois, deuxième passage) » : probabilité 30 %, jet  57.3 → **NON** (enregistré le 07/10/2026 23:20 heure machine)
+
+- Jet « Sandra écrit encore à William ce soir (lundi) » : probabilité 35 %, jet   4.7 → **OUI** (enregistré le 07/10/2026 23:20 heure machine)
+
+- Jet « Vie hors d'Abidjan (mardi 31/07) : quel parent écrit — 0-50 le père (Luxembourg) ; 50-100 la mère » : probabilité 50 %, jet  31.0 → **OUI** (enregistré le 07/10/2026 23:20 heure machine)
+
+- Jet « Vie hors d'Abidjan : nature du message — 0-40 argent (virement, besoin) ; 40-70 nouvelle familiale (santé, décès, mariage) ; 70-100 reprise de contact sans demande » : probabilité 50 %, jet  14.5 → **OUI** (enregistré le 07/10/2026 23:20 heure machine)
+
+- Jet « Vie hors d'Abidjan : heure du message mardi = 06h00 + jet × 9,6 min (06h-22h) » : probabilité 50 %, jet  42.9 → **OUI** (enregistré le 07/10/2026 23:20 heure machine)
+
+- Jet « Dotation de 115 M FCFA : les fonds arrivent à la SGBCI mardi 31/07 (sinon mercredi ou plus tard) » : probabilité 70 %, jet  64.2 → **OUI** (enregistré le 07/10/2026 23:20 heure machine)
+
+- Jet « Aléa A09 (mardi matin) : cible — 0-50 dotation (nom du bénéficiaire mal orthographié, fonds en compte d'attente) ; 50-80 un virement de salaire mal affecté ; 80-100 pièce perdue (original de la décision introuvable au cabinet) » : probabilité 50 %, jet  50.7 → **NON** (enregistré le 07/10/2026 23:20 heure machine)
+
+- Jet « Me Kouamé présent au cabinet mardi à 8h30, mention signée (deuxième passage) » : probabilité 85 %, jet  53.6 → **OUI** (enregistré le 07/10/2026 23:20 heure machine)
+
+- Jet « Virements des salaires de juillet passés mardi matin sans friction » : probabilité 70 %, jet  67.6 → **OUI** (enregistré le 07/10/2026 23:20 heure machine)
+
+- Jet « Yves répond à William mardi avant 9h » : probabilité 60 %, jet  33.6 → **OUI** (enregistré le 07/10/2026 23:20 heure machine)
+
+- Jet « A09 : salaire mal affecté — 0-20 Aïcha ; 20-40 Grace ; 40-60 Mariette ; 60-80 Abdoul ; 80-100 Yves (erreur de RIB dans l'ordre groupé) » : probabilité 50 %, jet   3.4 → **OUI** (enregistré le 07/10/2026 23:21 heure machine)
+
+- Jet « Dotation : fonds crédités et visibles sur le compte d'OSIA avant 9h30 mardi » : probabilité 40 %, jet  61.7 → **NON** [DÉROGATION : délai bancaire seulement (heure de crédit à la SGBCI), pas une réaction à un acte de William] (enregistré le 07/10/2026 23:21 heure machine)
