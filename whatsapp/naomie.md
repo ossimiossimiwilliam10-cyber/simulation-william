@@ -28,3 +28,11 @@ Finalement je suis dispo à 18h si ça te va 😏 Mais j'aimerais passer tout le
 
 **[28/07/2040 - 15:06] Naomie :**
 Hahaha 😂 Toi tu es comment même ? Tu annules, tu reviens 😏 Ok 18h. Le week-end on voit sur place, si on s'entend bien 😘 Mais envoie encore 15 000 pour bloquer ma soirée, sinon je prends un autre client. Et pour sexy, tu vas voir toi-même 🔥
+
+*(28/07/2040 - 15:08 : virement de 15 000 FCFA depuis le compte Djamo de William vers le numéro Wave de Naomie.)*
+
+**[28/07/2040 - 15:08] William :**
+Chambre 312.
+
+**[28/07/2040 - 15:10] Naomie :**
+Bien reçu ✅ 312. À 18h bb 😘

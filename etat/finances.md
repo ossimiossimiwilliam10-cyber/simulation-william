@@ -184,3 +184,4 @@ Total des avances non remboursées par l'entreprise :
 - **[27/07, 12h09] Renonciation aux avances SIGNÉE et transmise à la gérante** (`documents_william/2040-07-27_renonciation_avances_signee.pdf`) : ≈ 3 543 000 FCFA abandonnés par William ; *(avant : renoncement oral du 26/07, écrit non signé → maintenant : écrit signé)* ; qualification comptable et fiscale (abandon de créance, apport) non tranchée ; le compte courant d'associé se limitera au surplus de l'augmentation (≈ 0,8 M FCFA) à la réception des fonds.
 
 - **28/07 (dépenses personnelles de William)** : maquis du 27/07 au soir ≈ 5 000 FCFA (espèces) ; **acompte de 10 000 FCFA** viré depuis Djamo au numéro Wave d'une escorte (Naomie), rendez-vous annulé par William, acompte non rendu.
+- **28/07, 15h08** : second acompte de **15 000 FCFA** à Naomie (Djamo → Wave) ; total des acomptes : 25 000 FCFA.
