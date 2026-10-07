@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 26/07/2040, 17h08)
+# William Ossimi — profil (état au 27/07/2040, 06h40)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -158,3 +158,4 @@
 - **26/07, 14h57-15h00** : donne raison à Mariette dans le groupe (« effectivement, tu as raison ») et fait déplacer l'évaluation d'Aïcha dans rh/ ; **rappels** : appeler Sandra vendredi vers 20h (« impérativement ») ; **dimanche 29/07 : régulariser sa situation au Luxembourg**, avec l'intention (non écrite) de tout expliquer en détail **en se disant ignorant de la procédure** (« je pensais que le Luxembourg n'était pas concerné ») — *avant : décision du 22/07 de déclarer au plus tard le 30/12 en minimisant → maintenant : avancé à dimanche, même ligne*. **Éléments contraires déjà existants** (non connus de l'administration) : ses recherches du 22/07 sur le statut (22h10-22h55), sa « ligne de défense » du 22/07, ce qu'il a expliqué à Me Kouamé le 25/07 (secret professionnel).
 - **26/07, 17h04-17h05** : valide le devis de la villa Riviera et le plan technique d'Abdoul ; évaluations : remise individuelle puis dépôt dans rh/.
 - **Correction n° 34 (26/07/2040, hors fiction, à sa demande)** : ses contrats de direction sont des CDI à l'essai depuis l'origine ; ses messages de 14h00 et 14h34 à Mariette portent sur les contrats de direction et le maintien de l'essai le plus long possible (six mois), sa question sur la fin d'essai reste la même.
+- **26/07, 17h08-23h00** : soirée de routine (QG jusqu'à 18h10, taxi sous l'averse, dîner au Capitol) ; aucun message. **27/07, 06h35** : réveil ; lit le message de Sandra (06h36).

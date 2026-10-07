@@ -1,4 +1,4 @@
-# Calendrier (au 26/07/2040, 17h00)
+# Calendrier (au 27/07/2040, 06h40)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -86,6 +86,7 @@
 | **Jeu. 26/07, 14h33-14h56** | Acquittements dans le groupe (Yves, Abdoul, Grace) ; William confie à Mariette le maintien de l'essai le plus long possible (14h34 ; corrigé n° 34) ; **Mariette refuse publiquement les évaluations individuelles sur le serveur partagé (14h39)** ; réponse privée de Mariette à 14h55 (rupture libre pendant l'essai ; six mois = cadres supérieurs ; accord de chacun ; question à Me Kouamé). |
 | **Jeu. 26/07, 14h57-15h00** | William donne raison à Mariette dans le groupe ; l'évaluation d'Aïcha passe dans `rh/evaluations/` (accès restreint, 14h59) ; rappels : appel à Sandra ven. 27/07 vers 20h ; régularisation au Luxembourg dim. 29/07. |
 | **Jeu. 26/07, 15h00-17h00** | « Go » : scan de la décision signée reçu (15h42, non ouvert) ; devis de la villa remis à Aïcha (16h30) ; plan technique d'Abdoul (16h41) ; **premier rapport d'Aïcha (17h00)**. |
+| **Jeu. 26/07, 17h08 → ven. 27/07, 06h40** | « Go » : averse à 17h40 ; rappel de 18h (déjà fait) ; retour au Capitol à 18h40 ; nuit calme ; **ven. 05h12 : message de Sandra** (« On s'appelle quand ? »). |
 | **Ven. 27/07, 10h** | **Aïcha au cabinet de Me Kouamé** (ratification des cinq contrats, convention d'honoraires, formalités de la décision) ; **devis de la villa Riviera transmis au client sauf avis contraire de William** ; paiements groupés à la SGBCI ensuite (Me Kouamé, SécuTech, CNPS et ITS de juin). |
 | **Ven. 27/07, vers 20h (Abidjan) = 22h (Esch)** | **Appel à Sandra** (rappel téléphone de William, « impérativement »). |
 | **Dim. 29/07** | **William régularise sa situation au Luxembourg** (rappel téléphone ; version de l'ignorance) ; soir : T4, T5, synthèse W30. |

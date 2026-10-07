@@ -256,3 +256,13 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Tirage [T7c] « Aïcha : consigne de William de remettre d'abord à chaque membre son évaluation individuellement, puis de déposer les évaluations dans l'espace RH du serveur » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  20.4 → **execute_sans_discuter** (enregistré le 07/10/2026 12:44 heure machine)
 
 - Tirage [T7c] « Abdoul : message de William (plan technique vu, « ça me va », se rapprocher d'Aïcha pour finaliser, « je compte sur toi ») » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  25.6 → **execute_sans_discuter** (enregistré le 07/10/2026 12:44 heure machine)
+
+- Jet « Sandra répond au message de 09h35 entre 17h08 et 23h59 jeudi (Abidjan) » : probabilité 45 %, jet  49.8 → **NON** [DÉROGATION : partenaire non hiérarchique : délai de réponse, aucune table T8 pour les délais ; 45 % (silence depuis son réveil, elle préfère les appels ; soirée possible avant une garde)] (enregistré le 07/10/2026 13:03 heure machine)
+
+- Jet « Abdoul appelle Bertin jeudi soir pour lui annoncer son passage en sous-traitant (plan technique validé par William à 17h05) » : probabilité 40 %, jet  86.4 → **NON** (enregistré le 07/10/2026 13:03 heure machine)
+
+- Tirage [T8] « Sandra : message de William « Bonjour, comment ça va ? » (26/07, 09h35), le lendemain de l'appel où il a laissé tomber ses trois questions après « je me comporte mal avec tout le monde » ; peur des silences (M40), déjà alertée (M43), confiance récente : appel tenu à l'heure, « je t'aime » (M44) » : soutient_sans_creuser 12 / creuse_doucement 31 / releve_esquive 27 / plaisante_et_devie 8 / froideur 9 / agacement_net 5 / rien_ne_dit_soupconne 8 / frontal_rupture 0 ; modificateurs : M40, M43, M44 ; jet  42.4 → **creuse_doucement** (enregistré le 07/10/2026 13:04 heure machine)
+
+- Jet « Sandra répond au message de 09h35 entre 00h et 08h vendredi 27/07 (Abidjan), réponse tirée en T8 : creuse_doucement » : probabilité 55 %, jet  10.7 → **OUI** [DÉROGATION : partenaire non hiérarchique : délai de réponse, aucune table T8 pour les délais ; 55 % (elle écrit souvent en fin de garde ou au réveil ; l'issue de la réaction est tirée en T8)] (enregistré le 07/10/2026 13:04 heure machine)
+
+- Jet « Averse sur Cocody jeudi 26/07 entre 17h et 20h (fin de grande saison des pluies) » : probabilité 35 %, jet  34.2 → **OUI** (enregistré le 07/10/2026 13:05 heure machine)

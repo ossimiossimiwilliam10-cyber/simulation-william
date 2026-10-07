@@ -57,3 +57,10 @@ Parfait. À tout à l'heure.
 **[26/07/2040 - 09:35 (Abidjan) / 11:35 (Esch)] William :**
 Bonjour, comment ça va ?
 *(Texte reconstitué : « Sansa » lu Sandra. Deux coches grises : Sandra dort après sa garde de nuit.)*
+
+**[27/07/2040 - 05:12 (Abidjan) / 07:12 (Esch)] Sandra :**
+Pardon, je n'ai pas vu passer hier. Garde cette nuit, je sors à peine.
+Ça va. Fatiguée, mais ça va.
+Et toi ? Mercredi tu me disais que tu te comportais mal avec tout le monde. Hier, ça s'est passé comment, avec ton équipe ? Tu as dormi ?
+On s'appelle quand ?
+*(Lu par William à 06h36.)*
