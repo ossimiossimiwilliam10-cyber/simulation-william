@@ -1,4 +1,4 @@
-# Calendrier (au 27/07/2040, 20h09)
+# Calendrier (au 27/07/2040, 20h11)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -107,6 +107,7 @@
 | **Ven. 27/07, 20h01-20h03** | Appel : William à Sandra, en sous-entendus (« j'ai l'impression d'avoir merdé… depuis que je suis arrivé en Côte d'Ivoire… ça me met mal ») ; Sandra : « Qu'est-ce que tu as fait, William ? » |
 | **Ven. 27/07, 20h05-20h07** | Appel : version arrangée de William (le boulot, l'argent perdu) ; Sandra : « L'argent que tu perds, c'est le tien ? » ; sa liste a quatre points. |
 | **Ven. 27/07, 20h08-20h09** | Appel : « C'est mon argent. Pas d'emprunt. » ; Sandra raye l'argent et ouvre sa liste : la photo (« est-ce que je dois arrêter de le dire ? »). |
+| **Ven. 27/07, 20h10-20h11** | Appel : « Tu peux continuer à me faire confiance » ; Sandra : « Vous vous connaissez d'où, avant OSIA ? » et « C'est elle qui dirige quand tu n'es pas là ? » |
 | **Ven. 03/08, 16h** | Deuxième contrôle du serveur par Mariette. |
 | **Ven. 27/07, 10h** | **Aïcha au cabinet de Me Kouamé** (ratification des cinq contrats, convention d'honoraires, formalités de la décision) ; **devis de la villa Riviera transmis au client sauf avis contraire de William** ; paiements groupés à la SGBCI ensuite (Me Kouamé, SécuTech, CNPS et ITS de juin). |
 | **Ven. 27/07, vers 20h (Abidjan) = 22h (Esch)** | **Appel à Sandra** (rappel téléphone de William, « impérativement »). |

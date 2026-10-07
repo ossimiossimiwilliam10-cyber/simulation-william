@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 27/07/2040, 20h09)
+# William Ossimi — profil (état au 27/07/2040, 20h11)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -177,3 +177,4 @@
 - **27/07, 20h01** : à Sandra : « Ma semaine a été compliquée, au boulot. Et sincèrement… j'ai l'impression d'avoir merdé. Tout ce que j'ai fait depuis que je suis arrivé en Côte d'Ivoire… voilà. Ça me met mal. » ; elle : « Qu'est-ce que tu as fait, William ? »
 - **27/07, 20h05** : ment à Sandra par omission et par une version arrangée (« surtout au boulot », contrats et argent perdus) ; rien d'Aïcha ni de Grace ; l'invite à parler de la photo, de Kevin et de sa liste.
 - **27/07, 20h08** : à Sandra : « C'est mon argent. Pas d'emprunt. » ; elle lui demande, à propos d'Aïcha et de la photo : « est-ce que je dois arrêter de le dire ? » (« je te fais confiance »).
+- **27/07, 20h10** : à Sandra : « Non. Tu peux continuer à me faire confiance. » (faux) ; elle demande d'où il connaît Aïcha « avant OSIA » et si c'est elle qui dirige en son absence.
