@@ -430,3 +430,7 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Ce qu'Estelle a prévu ce dimanche » : probabilité 50 %, jet   3.3 → **OUI** [DÉROGATION : emploi du temps d'un personnage (aléa) ; 0-40 après-midi libre ; 40-75 déjeuner de famille à 14h, libre le soir ; 75-100 prise toute la journée, propose un autre jour] (enregistré le 07/10/2026 19:49 heure machine)
 
 - Jet « Estelle : dîner à 18h dans un vrai restaurant, « on verra où on finit la nuit » (sourire) » : probabilité 50 %, jet  75.8 → **NON** [DÉROGATION : réaction d'une inconnue (motif tiré : attirance et calcul) à une invitation à dîner avec sous-entendu, pas une réaction à un acte de pouvoir ; 0-55 accepte le dîner, laisse la nuit ouverte en plaisantant ; 55-75 accepte le dîner, pose une limite (« le resto, c'est le resto ») ; 75-90 accepte le dîner, pas de nuit le premier soir ; 90-100 refuse ce soir, propose un autre jour] (enregistré le 07/10/2026 19:52 heure machine)
+
+- Jet « Estelle écrit à Aïcha (WhatsApp) avant 18h ce dimanche, de la part de William » : probabilité 35 %, jet  32.8 → **OUI** [DÉROGATION : délai d'une initiative d'Estelle (pas une réaction à un acte de pouvoir) ; si NON, elle écrit lundi matin à 8h30] (enregistré le 07/10/2026 19:57 heure machine)
+
+- Jet « Heure du message d'Estelle à Aïcha, dimanche entre 13h00 et 18h00 » : probabilité 50 %, jet  98.6 → **NON** [DÉROGATION : délai seulement ; le nombre tiré fixe l'heure : 13h00 + jet × 3 min] (enregistré le 07/10/2026 19:57 heure machine)
