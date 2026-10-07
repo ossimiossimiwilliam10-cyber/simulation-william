@@ -406,3 +406,7 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Incident de préservatif (rupture ou glissement) pendant la soirée avec Naomie » : probabilité 2 %, jet  80.8 → **NON** (enregistré le 07/10/2026 18:39 heure machine)
 
 - Jet « Naomie propose d'elle-même le week-end (demain) avant de partir » : probabilité 70 %, jet  41.3 → **OUI** (enregistré le 07/10/2026 18:39 heure machine)
+
+- Jet « Balade nocturne de William, samedi 22h10-23h, Cocody (Centre -> Deux-Plateaux) : une rencontre ou un événement l'interpelle » : probabilité 75 %, jet  98.1 → **NON** (enregistré le 07/10/2026 18:44 heure machine)
+
+- Jet « Type de l'événement de la balade de samedi soir » : probabilité 50 %, jet  79.7 → **NON** [DÉROGATION : type d'événement seulement (aléa de rue) ; le nombre tiré fixe le type : 0-30 un groupe de jeunes femmes en terrasse, l'une soutient son regard ; 30-50 une femme seule attend un taxi sous un lampadaire ; 50-70 deux femmes au bord de la route l'abordent (racolage) ; 70-80 une femme devant un étal de garba lui parle en attendant sa commande ; 80-90 rien de féminin, ambiance d'hommes ivres, il rentre ; 90-100 tentative de vol à l'arraché du téléphone] (enregistré le 07/10/2026 18:44 heure machine)

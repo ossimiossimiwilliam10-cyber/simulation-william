@@ -39,3 +39,10 @@ Bien reçu ✅ 312. À 18h bb 😘
 
 **[28/07/2040 - 18:02] Naomie :**
 Bb y a embouteillage à Riviera 2 là 😩 j'arrive
+
+**[28/07/2040 - 21:38] William :**
+Non, ça ira. Merci pour ce service.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[28/07/2040 - 21:40] Naomie :**
+Ok bb 😘 Si tu changes d'avis tu m'écris.
