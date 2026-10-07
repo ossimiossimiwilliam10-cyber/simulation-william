@@ -189,3 +189,21 @@ C'est quel vol ? Envoie-moi tout, je regarde s'il reste de la place dessus, et j
 
 **[30/07/2040 - 18:12 (Abidjan) / 20:12 (Esch)] Sandra :**
 Et ça… 😅 Tu es où, là ? Dans ta chambre d'hôtel ? Il est quelle heure chez toi, 18h ? Tu es tout seul, là-bas ?
+
+**[30/07/2040 - 18:14 (Abidjan) / 20:14 (Esch)] William :**
+Vol TAP : lundi 6 août, Luxembourg 06h00 → Lisbonne 07h50, puis Lisbonne 10h35 → São Vicente 12h40. Retour dimanche 12 août, São Vicente 23h55 → Lisbonne 05h55, puis Lisbonne 07h00 → Luxembourg 10h35 le lundi 13.
+
+**[30/07/2040 - 18:15 (Abidjan) / 20:15 (Esch)] William :**
+Oui, je suis tout seul 😂
+
+**[30/07/2040 - 18:16 (Abidjan) / 20:16 (Esch)] William :**
+*(Vidéo de 40 secondes : la chambre 312 filmée en entier, par sarcasme.)*
+
+**[30/07/2040 - 18:18 (Abidjan) / 20:18 (Esch)] William :**
+Pour entrer au Cap-Vert, il faut faire un pré-enregistrement en ligne : ils demandent le nom, l'adresse et le téléphone de l'hôte. Pas grave, on prend un hôtel, ça marche aussi. Il y a un hôtel qui te plaît ? J'aimerais vraiment un hôtel confortable, pour toi et moi.
+*(Textes reconstitués à partir de la dictée.)*
+
+**[30/07/2040 - 18:24 (Abidjan) / 20:24 (Esch)] Sandra :**
+Bien reçu pour le vol. Je regarde demain à la pause, il me faut le même.
+L'hôtel… moi, je dormais toujours chez ma tia, à Monte Sossego. Mais chez elle c'est petit, et il y a les cousins.
+Les touristes vont au Porto Grande, sur la place. Prends ce que tu veux, c'est toi qui sais 🙂
