@@ -17,3 +17,7 @@ OK
 Reçu. Merci, mon fils.
 Tu viens le 18 ? Ta tante demande.
 Et c'est quoi, cette société à Abidjan ? J'ai vu ta photo sur Facebook.
+
+**[31/07/2040 - 13:40 (Abidjan) / 15:40 (Luxembourg)] William :**
+Malheureusement, je ne viendrai pas : je ne suis pas libre. La société, ce n'est pas très important : c'est juste un petit projet comme ça, rien de très important.
+*(Texte reconstitué à partir de la dictée.)*

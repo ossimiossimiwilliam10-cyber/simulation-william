@@ -616,3 +616,9 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Tirage [T8] « Père de William (mardi 14h55 à Luxembourg) : à sa demande de 5 300 € pour l'enterrement de l'oncle Joseph, William répond seulement « OK » et fait le virement instantané, sans appel, sans un mot sur l'oncle ni sur sa venue ; aucun modificateur (M40-M44 propres à Sandra) » : soutient_sans_creuser 22 / creuse_doucement 25 / releve_esquive 18 / plaisante_et_devie 12 / froideur 10 / agacement_net 7 / rien_ne_dit_soupconne 5 / frontal_rupture 1 ; modificateurs : aucun ; jet  43.5 → **creuse_doucement** (enregistré le 07/10/2026 23:48 heure machine)
 
 - Jet « Le père répond dans l'heure » : probabilité 60 %, jet  57.5 → **OUI** [DÉROGATION : délai seulement] (enregistré le 07/10/2026 23:48 heure machine)
+
+- Tirage [T8] « Père de William (mardi ~15h35 à Luxembourg) : William répond qu'il ne viendra pas à l'enterrement (« pas libre ») et minimise la société vue sur Facebook (« pas très important… juste un petit projet ») ; esquive ; aucun modificateur (M40-M44 propres à Sandra) » : soutient_sans_creuser 22 / creuse_doucement 25 / releve_esquive 18 / plaisante_et_devie 12 / froideur 10 / agacement_net 7 / rien_ne_dit_soupconne 5 / frontal_rupture 1 ; modificateurs : aucun ; jet  27.1 → **creuse_doucement** (enregistré le 07/10/2026 23:50 heure machine)
+
+- Jet « Le père répond dans l'heure » : probabilité 55 %, jet  75.0 → **NON** [DÉROGATION : délai seulement] (enregistré le 07/10/2026 23:50 heure machine)
+
+- Jet « Heure de la réponse du père (Abidjan) : 14h40 + jet × 5 minutes (14h40-23h00) » : probabilité 50 %, jet  28.1 → **OUI** [DÉROGATION : délai seulement] (enregistré le 07/10/2026 23:50 heure machine)
