@@ -155,3 +155,9 @@ Bien, patron. Le devis part demain à 10h.
 
 **[26/07/2040 - 17:06] Aïcha :**
 Bien, patron. Lundi, chacun reçoit d'abord la sienne, individuellement. Ensuite je les dépose dans rh/.
+
+**[27/07/2040 - 06:47] William :**
+Aïcha, je ne viendrai pas au QG de toute la semaine prochaine : j'ai des choses importantes à faire à côté. Ce sera ta première vraie semaine test, pour voir comment tu gères l'équipe quand je ne suis pas là. Je reste bien sûr disponible s'il y a quoi que ce soit.
+Supervise bien ce que fait Abdoul, fais attention qu'il ne s'emmêle pas les pinceaux.
+Et poursuis le dossier de ma renonciation aux avances.
+*(Texte reconstitué à partir de la dictée. Lu à 06h53.)*

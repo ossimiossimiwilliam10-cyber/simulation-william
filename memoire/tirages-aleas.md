@@ -266,3 +266,13 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 - Jet « Sandra répond au message de 09h35 entre 00h et 08h vendredi 27/07 (Abidjan), réponse tirée en T8 : creuse_doucement » : probabilité 55 %, jet  10.7 → **OUI** [DÉROGATION : partenaire non hiérarchique : délai de réponse, aucune table T8 pour les délais ; 55 % (elle écrit souvent en fin de garde ou au réveil ; l'issue de la réaction est tirée en T8)] (enregistré le 07/10/2026 13:04 heure machine)
 
 - Jet « Averse sur Cocody jeudi 26/07 entre 17h et 20h (fin de grande saison des pluies) » : probabilité 35 %, jet  34.2 → **OUI** (enregistré le 07/10/2026 13:05 heure machine)
+
+- Tirage [T7c] « Aïcha : message de William annonçant qu'il ne viendra pas au QG de toute la semaine du 30/07 (« choses importantes à faire à côté ») : première vraie semaine test, elle gère l'équipe seule, il reste disponible » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  81.9 → **execute_a_contrecoeur** (enregistré le 07/10/2026 13:11 heure machine)
+
+- Tirage [T7c] « Aïcha : consigne de William de bien superviser Abdoul (« qu'il ne s'emmêle pas les pinceaux ») » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  33.4 → **execute_sans_discuter** (enregistré le 07/10/2026 13:11 heure machine)
+
+- Tirage [T7c] « Aïcha : consigne de William de poursuivre le dossier de sa renonciation aux avances (écrit rédigé par William, non signé, non transmis) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  29.4 → **execute_sans_discuter** (enregistré le 07/10/2026 13:11 heure machine)
+
+- Jet « Sandra voit le message de William (06h45 Abidjan, 08h45 Esch) avant de s'endormir après sa garde » : probabilité 30 %, jet  52.6 → **NON** [DÉROGATION : partenaire non hiérarchique : délai de lecture, aucune table T8 pour les délais ; 30 % (fin de garde à 7h, coucher vers 8h à Esch)] (enregistré le 07/10/2026 13:11 heure machine)
+
+- Jet « Erreur matérielle relevée dans le scan de la décision signée (nom, date, montant) » : probabilité 10 %, jet  28.9 → **NON** (enregistré le 07/10/2026 13:11 heure machine)

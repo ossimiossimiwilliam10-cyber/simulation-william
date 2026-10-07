@@ -108,3 +108,5 @@
 - **Correction n° 34 (26/07)** : tous les cadres sont en **période d'essai** (Aïcha jusqu'au 21/11, Mariette jusqu'au 30/11, Grace et Abdoul jusqu'au 15/01/2041, Yves jusqu'au 15/10) : ils peuvent être remerciés sans préavis, et partir sans préavis ; *intérêt commun : passer l'essai ; Grace et Mariette savent qu'elles peuvent aussi partir vite.*
 - **Sandra (26/07-27/07)** : dort après sa garde jusqu'au début d'après-midi, enfants, repart en garde jeudi soir ; ne répond pas de la journée ; à 05h12 vendredi, en sortant du CHEM, elle écrit et pose des questions (T8 : creuse_doucement) ; *intérêt : comprendre, ne pas être tenue à l'écart.*
 - **Abdoul (26/07 soir)** : n'appelle pas Bertin (jet 40 % : NON). **Aïcha (26/07)** : quitte le QG la dernière, à 18h05.
+- **Aïcha (27/07, 06h53)** : lit le message de William dès son réveil ; ne répond pas tout de suite (T7c : à contrecœur) ; *intérêt : une semaine seule, plus de responsabilité et plus de reproches possibles ; aujourd'hui, cabinet, ratification et paiements.*
+- **Sandra (27/07 matin)** : dort après sa deuxième nuit de garde ; le message de William l'attend.

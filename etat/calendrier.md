@@ -1,4 +1,4 @@
-# Calendrier (au 27/07/2040, 06h40)
+# Calendrier (au 27/07/2040, 06h55)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -25,7 +25,7 @@
 | Dim. 22/07, soir | **FAIT** : synthèse de la semaine ISO 29 (`memoire/semaine-2040-W29.md`) + fiche complète. |
 | Mer. 25/07, soir | Prochaine fiche complète (3 jours simulés après le 22/07). |
 | **Jeu. 26/07, soir** | ~~William lit en détail la note juridique de Mariette après le travail et lui fait son retour le soir même~~ **AVANCÉ : William dit à 13h46 qu'il a lu la note et charge Aïcha d'en parler à Mariette ; Aïcha refuse (13h53) ; William écrit lui-même à Mariette (13h57) ; le rappel téléphone de 18h sonnera.** |
-| **Lun. 30/07** | **Revue du lundi** (deuxième) ; **début du système d'évaluation** (Aïcha remet les évaluations de Grace, Mariette, Abdoul et Yves ; William a remis son évaluation d'Aïcha le 26/07 (74/100)) ; arrivée possible des fonds de la dotation à la SGBCI (lun. 30 – mar. 31/07). |
+| **Lun. 30/07** | **William absent du QG toute la semaine (jusqu'au ven. 03/08) : semaine test d'Aïcha.** **Revue du lundi** (deuxième) ; **début du système d'évaluation** (Aïcha remet les évaluations de Grace, Mariette, Abdoul et Yves ; William a remis son évaluation d'Aïcha le 26/07 (74/100)) ; arrivée possible des fonds de la dotation à la SGBCI (lun. 30 – mar. 31/07). |
 | **30/09/2040** | Dernier jour pour notifier par écrit le renouvellement de l'essai d'Yves (fin de l'essai le 15/10/2040). |
 | **21/10/2040** et **30/10/2040** | Derniers jours pour notifier un renouvellement d'essai : Aïcha (fin le 21/11/2040), Mariette (fin le 30/11/2040). |
 | **15/12/2040** | Dernier jour pour notifier un renouvellement d'essai : Grace et Abdoul (fin le 15/01/2041). |
@@ -87,6 +87,7 @@
 | **Jeu. 26/07, 14h57-15h00** | William donne raison à Mariette dans le groupe ; l'évaluation d'Aïcha passe dans `rh/evaluations/` (accès restreint, 14h59) ; rappels : appel à Sandra ven. 27/07 vers 20h ; régularisation au Luxembourg dim. 29/07. |
 | **Jeu. 26/07, 15h00-17h00** | « Go » : scan de la décision signée reçu (15h42, non ouvert) ; devis de la villa remis à Aïcha (16h30) ; plan technique d'Abdoul (16h41) ; **premier rapport d'Aïcha (17h00)**. |
 | **Jeu. 26/07, 17h08 → ven. 27/07, 06h40** | « Go » : averse à 17h40 ; rappel de 18h (déjà fait) ; retour au Capitol à 18h40 ; nuit calme ; **ven. 05h12 : message de Sandra** (« On s'appelle quand ? »). |
+| **Ven. 27/07, 06h45-06h55** | William propose à Sandra l'appel de ce soir vers 22h (Esch) et promet de « tout expliquer » ; annonce à Aïcha son absence du QG toute la semaine du 30/07 (semaine test), lui demande de superviser Abdoul et de poursuivre la renonciation aux avances ; ouvre le scan de la décision signée. |
 | **Ven. 27/07, 10h** | **Aïcha au cabinet de Me Kouamé** (ratification des cinq contrats, convention d'honoraires, formalités de la décision) ; **devis de la villa Riviera transmis au client sauf avis contraire de William** ; paiements groupés à la SGBCI ensuite (Me Kouamé, SécuTech, CNPS et ITS de juin). |
 | **Ven. 27/07, vers 20h (Abidjan) = 22h (Esch)** | **Appel à Sandra** (rappel téléphone de William, « impérativement »). |
 | **Dim. 29/07** | **William régularise sa situation au Luxembourg** (rappel téléphone ; version de l'ignorance) ; soir : T4, T5, synthèse W30. |

@@ -64,3 +64,7 @@ Pardon, je n'ai pas vu passer hier. Garde cette nuit, je sors à peine.
 Et toi ? Mercredi tu me disais que tu te comportais mal avec tout le monde. Hier, ça s'est passé comment, avec ton équipe ? Tu as dormi ?
 On s'appelle quand ?
 *(Lu par William à 06h36.)*
+
+**[27/07/2040 - 06:45 (Abidjan) / 08:45 (Esch)] William :**
+On s'appelle ce soir vers 22h, si ça te va. Je t'expliquerai tout à ce moment-là.
+*(Texte reconstitué à partir de la dictée ; « 22h » lu comme 22h à Esch. Deux coches grises : Sandra dort.)*

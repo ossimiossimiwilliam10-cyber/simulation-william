@@ -70,3 +70,4 @@ depuis la pilule du lendemain du 26/05.
 - 26/07, 09h35 (11h35 Esch) : William écrit « Bonjour, comment ça va ? » ; elle dort après sa garde de nuit (deux coches grises).
 - 26/07, 15h00 : William se met un rappel pour l'appeler **vendredi 27/07 vers 20h (Abidjan) = 22h à Esch** ; elle n'a toujours pas répondu au « Bonjour, comment ça va ? » de 09h35.
 - 27/07, 05h12 (07h12 Esch), en sortant de sa garde de nuit : répond au « Bonjour » de la veille (T8 : creuse_doucement, jet 42.4) : « Pardon, je n'ai pas vu passer hier. […] Ça va. Fatiguée, mais ça va. » ; demande comment s'est passée la journée de William avec son équipe, s'il a dormi, et « On s'appelle quand ? ». Elle a travaillé les nuits du 25 au 26 et du 26 au 27/07.
+- 27/07, 06h45 (08h45 Esch) : William : « On s'appelle ce soir vers 22h, si ça te va. Je t'expliquerai tout à ce moment-là. » ; elle dort (deux coches grises).
