@@ -198,3 +198,10 @@ Aïcha, est-ce que tu serais disponible dans les prochains jours pour qu'on disc
 
 **[29/07/2040 - 18:06] Aïcha :**
 Bonsoir patron. Mme Estelle m'a écrit de votre part pour le suivi de trésorerie. Je la reçois mardi à 10h au QG.
+
+**[30/07/2040 - 07:16] William :**
+C'est parfait. Et toi, comment tu vas ?
+*(Texte reconstitué à partir de la dictée.)*
+
+**[30/07/2040 - 07:21] Aïcha :**
+Bien, patron. Ça va, merci.

@@ -26,9 +26,10 @@
    lumière, chaleur) d'un tour à l'autre.
 
 ## 3. Décision de l'utilisateur
-*(En attente.)*
+**William a validé les cinq idées (30/07, vers 07h15)** : « Je suis d'accord avec toutes tes idées pour la semaine à venir. »
 
 ## 4. Application
 - **Tirage des aléas actifs de la semaine** (`python outils/tirage_aleas.py 2040-07-30`, consigné) : deux aléas déclenchés, joués au jour
   tiré, non révélés au joueur.
 - T4 et T5 du 29/07 : aucune escalade, aucune fuite.
+- **Après validation (30/07)** : A02, A05, A17 passés « actifs » et tirés pour la semaine (jets consignés : A02 NON 56.7 ; A05 NON 97.9 ; A17 NON 40.3) ; vie hors d'Abidjan : un message d'un parent de William, **mardi 31/07** (jets 87.5 et 15.9 ; non révélé) ; chasse aux tics et corps de William inscrits dans les mécanismes permanents (`CLAUDE.md` §12).

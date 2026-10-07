@@ -1,5 +1,6 @@
 # Catalogue des aléas (hasard, maladies, imprévus) — créé le 22/07/2040
 
+> **30/07/2040 — William a validé A02, A05 et A17 (revue du lundi n° 2) : pack actif A01 A02 A04 A05 A06 A09 A13 A17.**
 > **23/07/2040 — William a validé le pack : A01, A04, A06, A09, A13 sont ACTIFS.** Les autres restent « proposé »
 > (à réexaminer chaque lundi).
 
@@ -14,10 +15,10 @@
 | ID | Événement | Probabilité par semaine | Statut | Effets / conditions |
 |---|---|---|---|---|
 | A01 | Maladie d'un membre de l'équipe (paludisme, gastro, typhoïde) | 10 % | actif | Absence de 2 à 5 jours ; qui est touché : tirer parmi les salariés ; saison des pluies = plus fréquent |
-| A02 | Problème de santé d'un proche d'un personnage (ex. mère d'Aïcha, tension) | 8 % | proposé | Personnage moins disponible, humeur, demande d'absence ou d'avance |
+| A02 | Problème de santé d'un proche d'un personnage (ex. mère d'Aïcha, tension) | 8 % | actif | Personnage moins disponible, humeur, demande d'absence ou d'avance |
 | A03 | Maladie ou accident d'un des enfants de Sandra | 8 % | proposé | Sandra indisponible, échange d'argent ou d'aide possible, test pour William |
 | A04 | Délestage / coupure d'électricité prolongée | 25 % | actif | QG sans groupe électrogène (hors service) ; chantiers et visites perturbés |
-| A05 | Fortes pluies / inondation | 15 % | proposé | Transports et chantiers retardés (Abidjan, saison des pluies) |
+| A05 | Fortes pluies / inondation | 15 % | actif | Transports et chantiers retardés (Abidjan, saison des pluies) |
 | A06 | Retard fournisseur ou douane (NVR, onduleurs, batteries) | 30 % | actif | Délai supplémentaire ; l'excuse du fournisseur est plausible mais pas toujours vraie |
 | A07 | Panne réseau (fibre, 4G) ou banque en ligne | 15 % | proposé | Retard d'un virement, d'un envoi, d'un rapport |
 | A08 | Contrôle ou courrier administratif (Inspection du travail, CNPS, impôts) | 5 % | proposé | Dossiers incomplets (CNPS, salaires de juin) ressortent |
@@ -29,5 +30,5 @@
 | A14 | Incident de sécurité au QG (intrusion, vol, alarme) | 3 % | proposé | Moussa et le gardien de jour, SécuTech si installé |
 | A15 | Variation de prix du matériel ou du change | 8 % | proposé | Devis à revoir, marge rognée |
 | A16 | Grève de transport ou embouteillage exceptionnel | 5 % | proposé | Retards de personnes, rendez-vous manqués |
-| A17 | William lui-même malade ou épuisé (fatigue, gastro) | 5 % | proposé | Jour de repos forcé, décisions moins bonnes |
+| A17 | William lui-même malade ou épuisé (fatigue, gastro) | 5 % | actif | Jour de repos forcé, décisions moins bonnes |
 | A18 | Incident de transport (taxi, panne, retard) | 15 % | proposé | Retard à un rendez-vous |

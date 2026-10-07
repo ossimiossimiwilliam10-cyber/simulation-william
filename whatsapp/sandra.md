@@ -127,3 +127,12 @@ Merci de m'aimer. Je te tiens au courant pour la date de retour.
 
 **[29/07/2040 - 15:35 (Abidjan) / 17:35 (Esch)] Sandra :**
 ❤️ Toujours. Repose-toi.
+
+**[30/07/2040 - 07:17 (Abidjan) / 09:17 (Esch)] William :**
+Quand est-ce que tu veux que je revienne ? Qu'est-ce que ton cœur te dit ? Est-ce que tu as déjà envie de me revoir ?
+*(Texte reconstitué à partir de la dictée.)*
+
+**[30/07/2040 - 08:02 (Abidjan) / 10:02 (Esch)] Sandra :**
+Mon cœur dit oui, évidemment. Tu me manques, et aux petits aussi.
+Mais avant que je te donne une date : tu veux rentrer pour moi, ou parce que là-bas ça ne va pas ?
+Et ton entreprise, elle devient quoi si tu rentres plus tôt ?

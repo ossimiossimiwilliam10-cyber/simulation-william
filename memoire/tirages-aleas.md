@@ -476,3 +476,19 @@ Tout jet ci-dessus est « hérité » (probabilités choisies à la main). À pa
 | A13 | Opportunité commerciale inattendue (recommandation, appel d'un prospect) | 10 % |  31.8 | non |
 
 Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse du fournisseur est plausible mais pas toujours vraie ; A09 (mardi 31/07 (matin)) : Correction longue, agacement
+
+- Tirage [T9] « Aïcha (lundi 07h15, avant le point d'équipe) : William, son patron et ex, répond « C'est parfait » à son message sur Estelle et lui demande comment elle va ; M50 : blessure récente (« rien de sérieux », approches de vendredi, une femme rencontrée la veille lui écrit de sa part sur son numéro personnel) ; M52 : enjeu de pouvoir ouvert (statuts qui limitent ses pouvoirs, mention non signée) ; M54 : dépendance forte (mère malade, famille, essai) ; règle de l'utilisateur : cherche_ailleurs exclue (points à rien_politesse) » : rien_politesse 29 / esquive_pro 22 / entrouvre 7 / rancune_silencieuse 18 / reprend_le_lien 3 / negocie 15 / se_confie 4 / cherche_ailleurs 2 / frontal_limite 0 ; modificateurs : M50, M52, M54 ; jet  28.0 → **rien_politesse** (enregistré le 07/10/2026 20:34 heure machine)
+
+- Tirage [T8] « Sandra (lundi 09h15 Esch) : William lui demande quand elle veut qu'il revienne, ce que son cœur lui dit, si elle a déjà envie de le revoir (il remet la décision du retour entre ses mains) ; peur des silences (M40), déjà alertée (M43), confiance récente : échanges de dimanche (M44) » : soutient_sans_creuser 12 / creuse_doucement 31 / releve_esquive 27 / plaisante_et_devie 8 / froideur 9 / agacement_net 5 / rien_ne_dit_soupconne 8 / frontal_rupture 0 ; modificateurs : M40, M43, M44 ; jet  12.4 → **creuse_doucement** (enregistré le 07/10/2026 20:34 heure machine)
+
+- Jet « Sandra répond au message de William dans l'heure (lundi matin, 09h15 à Esch) » : probabilité 50 %, jet  49.9 → **OUI** [DÉROGATION : délai seulement : rythme de Sandra (gardes de nuit, enfants en vacances)] (enregistré le 07/10/2026 20:34 heure machine)
+
+- Jet « Aléa A02 (santé d'un proche d'un personnage), semaine du 30/07 — activé ce lundi après la revue » : probabilité 8 %, jet  56.7 → **NON** (enregistré le 07/10/2026 20:35 heure machine)
+
+- Jet « Aléa A05 (fortes pluies, inondations localisées), semaine du 30/07 — activé ce lundi après la revue » : probabilité 15 %, jet  97.9 → **NON** (enregistré le 07/10/2026 20:35 heure machine)
+
+- Jet « Aléa A17 (William malade ou épuisé), semaine du 30/07 — activé ce lundi après la revue » : probabilité 5 %, jet  40.3 → **NON** (enregistré le 07/10/2026 20:35 heure machine)
+
+- Jet « Vie hors d'Abidjan, semaine du 30/07 : expéditeur du message spontané (0-30 Kevin ; 30-50 Yannick ; 50-70 Mme Schmit ; 70-100 un parent de William) — le nombre tiré fixe l'expéditeur » : probabilité 50 %, jet  87.5 → **NON** (enregistré le 07/10/2026 20:35 heure machine)
+
+- Jet « Vie hors d'Abidjan, semaine du 30/07 : jour du message (0-14 lundi ; 14-28 mardi ; 28-42 mercredi ; 42-57 jeudi ; 57-71 vendredi ; 71-85 samedi ; 85-100 dimanche) — le nombre tiré fixe le jour » : probabilité 50 %, jet  15.9 → **OUI** (enregistré le 07/10/2026 20:35 heure machine)

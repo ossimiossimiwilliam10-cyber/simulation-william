@@ -1,4 +1,4 @@
-# Calendrier (au 30/07/2040, 07h10)
+# Calendrier (au 30/07/2040, 08h05)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -133,6 +133,8 @@
 | **Dim. 29/07, 19h56-20h05** | William parle de Sandra à Estelle ; propose la douche à l'hôtel ; « pas ce soir » ; addition réglée. |
 | **Dim. 29/07, 20h08-21h40** | Retour d'Estelle à Angré (bise) ; retour au Capitol. |
 | **Lun. 30/07, 06h00** | Courriel envoyé à la direction du lycée ; réponse automatique (secrétariat fermé jusqu'au 13/08). |
+| **Lun. 30/07, 07h15-08h05** | Revue validée ; « Bien, patron. Ça va, merci. » (Aïcha) ; Sandra : « tu veux rentrer pour moi, ou parce que là-bas ça ne va pas ? » |
+| **Mar. 31/07** | *(Non connu de William)* message d'un parent de William (vie hors d'Abidjan) ; aléas A09 (matin) et A06 (soir). |
 | **Mar. 31/07, 10h** | *(Non connu de William avant 18h06 dimanche)* Aïcha reçoit Estelle au QG (relevés, factures). |
 | **Dim. 29/07, 18h** | Dîner avec Estelle (Zone 4, à confirmer). |
 | **Dim. 29/07, 17h56** | *(Non connu de William)* Estelle écrit à Aïcha de la part de William. |
