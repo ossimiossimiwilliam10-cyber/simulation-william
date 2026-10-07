@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 27/07/2040, 16h01)
+# William Ossimi — profil (état au 27/07/2040, 16h05)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -166,3 +166,4 @@
 - **27/07, 15h49** : accepte la condition de Sandra et promet par écrit : « Je suis d'accord. Je te dirai vraiment tout. » ; elle demande à 15h52 : « ça concerne qui ? Toi, moi, ton travail ? »
 - **27/07, 15h54** : écrit à Sandra : « Ça portera globalement sur tout. Toi, moi, mon boulot. » ; elle demande à 15h56 si c'est « quelque chose que tu as fait, ou quelque chose que tu as décidé ».
 - **27/07, 15h58** : à Sandra : « Je souhaite simplement parler de mon quotidien, te faire part de ce qui me dérange. Et j'attends la même chose de ta part. » (ne répond pas à « fait ou décidé ? ») ; elle : « Que je te dise ce qui me dérange, moi ? À ce soir. »
+- **27/07, 16h02** : à Sandra : « Oui, dis-moi ce qui te dérange, par rapport à moi surtout. À ce soir. » ; elle prépare « sa liste » et l'attend à 22h (Esch).

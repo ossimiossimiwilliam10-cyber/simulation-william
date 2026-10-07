@@ -97,3 +97,11 @@ Je souhaite simplement parler de mon quotidien, te faire part de ce qui me déra
 D'accord, ton quotidien.
 Et « la même chose de ma part », c'est-à-dire ? Que je te dise ce qui me dérange, moi ?
 À ce soir.
+
+**[27/07/2040 - 16:02 (Abidjan) / 18:02 (Esch)] William :**
+Oui, dis-moi ce qui te dérange, par rapport à moi surtout. À ce soir.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[27/07/2040 - 16:04 (Abidjan) / 18:04 (Esch)] Sandra :**
+D'accord. Je préparerai ma liste, moi aussi 🙂
+Je couche les petits à 21h30, après je suis à toi. À ce soir.

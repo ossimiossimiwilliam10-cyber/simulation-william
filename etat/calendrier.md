@@ -1,4 +1,4 @@
-# Calendrier (au 27/07/2040, 16h01)
+# Calendrier (au 27/07/2040, 16h05)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -94,6 +94,7 @@
 | **Ven. 27/07, 15h49-15h52** | William à Sandra : « Je suis d'accord. Je te dirai vraiment tout. » ; Sandra : « ça concerne qui ? Toi, moi, ton travail ? » |
 | **Ven. 27/07, 15h54-15h56** | William à Sandra : « Ça portera globalement sur tout. Toi, moi, mon boulot. » ; Sandra : « c'est quelque chose que tu as fait, ou quelque chose que tu as décidé ? » |
 | **Ven. 27/07, 15h58-16h00** | William à Sandra : « parler de mon quotidien… ce qui me dérange… j'attends la même chose de ta part » ; Sandra : « c'est-à-dire ? Que je te dise ce qui me dérange, moi ? À ce soir. » ; Mariette commence le contrôle du serveur. |
+| **Ven. 27/07, 16h02-16h04** | William à Sandra : « dis-moi ce qui te dérange, par rapport à moi surtout. À ce soir. » ; Sandra : « Je préparerai ma liste, moi aussi 🙂 … À ce soir. » |
 | **Ven. 27/07, 10h** | **Aïcha au cabinet de Me Kouamé** (ratification des cinq contrats, convention d'honoraires, formalités de la décision) ; **devis de la villa Riviera transmis au client sauf avis contraire de William** ; paiements groupés à la SGBCI ensuite (Me Kouamé, SécuTech, CNPS et ITS de juin). |
 | **Ven. 27/07, vers 20h (Abidjan) = 22h (Esch)** | **Appel à Sandra** (rappel téléphone de William, « impérativement »). |
 | **Dim. 29/07** | **William régularise sa situation au Luxembourg** (rappel téléphone ; version de l'ignorance) ; soir : T4, T5, synthèse W30. |
