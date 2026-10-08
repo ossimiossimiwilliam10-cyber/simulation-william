@@ -143,8 +143,22 @@ C'est parfait pour moi. À demain.
 Merci, Boss 🙏🏾 À demain, 15h.
 *(Non lu le soir même.)*
 
+**[07/08/2040 - 07:31 (Abidjan) / 08:31 (Lisbonne)] William :**
+Yves, malheureusement, je ne pourrai pas être là pour l'appel de 14h. Je vous prie de m'excuser : je suis malade.
+*(Texte reconstitué à partir de la dictée ; ajouté le 09/08, correction n° 44.)*
+
 **[07/08/2040 - 12:21 (Abidjan) / 13:21 (Lisbonne)] William :**
 Yves, nous devrons recaler notre rendez-vous.
 
 **[07/08/2040 - 13:10 (Abidjan) / 14:10 (Lisbonne)] Yves :**
 Oh, prompt rétablissement, Boss 🙏🏾 Reposez-vous bien. Pas de souci, on recale quand vous serez mieux. Que Dieu vous garde.
+
+**[09/08/2040 - 08:08 (Abidjan) / 09:08 (Lisbonne)] Yves :**
+Bonjour Boss 🙏🏾 J'espère que ça va mieux. Je ne veux pas vous déranger pendant votre repos, mais pour gagner du temps avant notre appel, j'ai mis par écrit comment je vois le pôle Business & Client. Ce sont seulement mes idées, vous corrigez :
+1. Madame Grace garde les grands comptes, les devis et les pilotes en location. Moi, je prends le SAV, le suivi des clients après la pose, et le terrain.
+2. Deux démarcheurs pour commencer : un fixe, plus une commission sur chaque devis signé. Je connais deux jeunes sérieux, à Abobo et à Yopougon.
+3. Une visite gratuite chez chaque client trois mois après l'installation : on contrôle, et on propose l'entretien et les extensions.
+4. Un numéro WhatsApp OSIA pour le SAV, avec une réponse en moins de deux heures.
+5. Pour l'école et l'hôtel, je peux faire les visites techniques avec Madame Grace.
+Pour moi, je reste sur ce que je vous ai dit : 880 000 brut. Quand vous serez rétabli, on s'appelle. Que Dieu vous garde, Boss.
+*(Lu le 09/08 à 13h20, heure de Lisbonne.)*

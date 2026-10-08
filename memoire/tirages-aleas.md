@@ -1169,3 +1169,135 @@ Effets à jouer : A04 (mercredi 08/08 (matin)) : QG sans groupe électrogène (h
 - Tirage [T1] « Abdoul (mer. 08/08, soir, Abidjan) découvre sur LinkedIn l'offre publiée par William : « Directeur·rice Planification, Achats et Projets — Pôle Technique & Déploiement », un pôle à deux directeurs, passation des commandes, jusqu'à 1 200 000 FCFA brut (lui : 900 000), sans avoir été prévenu ; il savait par Yves qu'une réorganisation se préparait ; M16 : poste et statut à protéger » : rien_absorption 28 / evitement 17 / confidence_proche 13 / confidence_collegue 11 / reciproque 6 / calcul 12 / negociation_tacite 6 / depart_discret 6 / frontal_formel 1 ; modificateurs : M16 ; jet  92.7 → **negociation_tacite** (enregistré le 08/10/2026 20:33 heure machine)
 
 - Jet « Heure : Abdoul voit l'offre (0-50 : mercredi soir chez lui ; 50-100 : mercredi à midi au QG) » : probabilité 50 %, jet  48.9 → **OUI** [DÉROGATION : heure seulement] (enregistré le 08/10/2026 20:33 heure machine)
+
+- Tirage [T11] « Tour du monde du 07/08 : Aïcha Diomandé (gérante d'OSIA) » : sans_histoire 50 / petit_evenement 25 / avancee_objectif 10 / coup_dur 11 / tournant 4 ; modificateurs : M80 ; jet  73.2 → **petit_evenement** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 07/08 : Mariette Kouadio (DRH) » : sans_histoire 50 / petit_evenement 25 / avancee_objectif 10 / coup_dur 11 / tournant 4 ; modificateurs : M80 ; jet   9.5 → **sans_histoire** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 07/08 : Grace Adjoua-Mensah (directrice commerciale) » : sans_histoire 47 / petit_evenement 25 / avancee_objectif 16 / coup_dur 7 / tournant 5 ; modificateurs : M81 ; jet  50.5 → **petit_evenement** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 07/08 : Abdoul Karim Touré (directeur technique) » : sans_histoire 47 / petit_evenement 25 / avancee_objectif 16 / coup_dur 7 / tournant 5 ; modificateurs : M81 ; jet  68.5 → **petit_evenement** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 07/08 : Yves Kanga (responsable SAV, promu en principe) » : sans_histoire 47 / petit_evenement 25 / avancee_objectif 16 / coup_dur 7 / tournant 5 ; modificateurs : M81 ; jet   4.2 → **sans_histoire** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 07/08 : Estelle (comptable en banque, prestataire d'OSIA) » : sans_histoire 47 / petit_evenement 25 / avancee_objectif 16 / coup_dur 7 / tournant 5 ; modificateurs : M81 ; jet  20.2 → **sans_histoire** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 07/08 : Me Kouamé (avocat d'OSIA) » : sans_histoire 55 / petit_evenement 25 / avancee_objectif 10 / coup_dur 7 / tournant 3 ; modificateurs : aucun ; jet  48.8 → **sans_histoire** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 07/08 : Sandra Moreira (ex-compagne, depuis le 07/08) » : sans_histoire 50 / petit_evenement 25 / avancee_objectif 10 / coup_dur 11 / tournant 4 ; modificateurs : M80 ; jet  80.4 → **avancee_objectif** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 07/08 : Kevin Moreira (fils aîné de Sandra, 15 ans) » : sans_histoire 55 / petit_evenement 25 / avancee_objectif 10 / coup_dur 7 / tournant 3 ; modificateurs : aucun ; jet  96.8 → **coup_dur** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 07/08 : Le père de William (Luxembourg) » : sans_histoire 50 / petit_evenement 25 / avancee_objectif 10 / coup_dur 11 / tournant 4 ; modificateurs : M80 ; jet  94.9 → **coup_dur** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 07/08 : Fanta (cousine d'Aïcha, coiffeuse à Abobo) » : sans_histoire 50 / petit_evenement 25 / avancee_objectif 10 / coup_dur 11 / tournant 4 ; modificateurs : M80 ; jet  18.8 → **sans_histoire** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 07/08 : Kader (ami d'Yves) » : sans_histoire 47 / petit_evenement 25 / avancee_objectif 16 / coup_dur 7 / tournant 5 ; modificateurs : M81 ; jet  36.7 → **sans_histoire** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 07/08 : Bertin Assi (électricien de Yopougon, sous-traitant) » : sans_histoire 47 / petit_evenement 25 / avancee_objectif 16 / coup_dur 7 / tournant 5 ; modificateurs : M81 ; jet  30.5 → **sans_histoire** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 07/08 : Ibrahim Koné (technicien SAV, arrivée le 01/09) » : sans_histoire 55 / petit_evenement 25 / avancee_objectif 10 / coup_dur 7 / tournant 3 ; modificateurs : aucun ; jet  59.4 → **petit_evenement** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 07/08 : Mme Schmit (collègue de William, Luxembourg) » : sans_histoire 65 / petit_evenement 20 / avancee_objectif 7 / coup_dur 5 / tournant 3 ; modificateurs : M83 ; jet  82.4 → **petit_evenement** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 07/08 : Djina (tia de Sandra, Mindelo) » : sans_histoire 50 / petit_evenement 30 / avancee_objectif 10 / coup_dur 7 / tournant 3 ; modificateurs : M82 ; jet  43.3 → **sans_histoire** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 08/08 : Aïcha Diomandé (gérante d'OSIA) » : sans_histoire 50 / petit_evenement 25 / avancee_objectif 10 / coup_dur 11 / tournant 4 ; modificateurs : M80 ; jet  59.0 → **petit_evenement** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 08/08 : Mariette Kouadio (DRH) » : sans_histoire 50 / petit_evenement 25 / avancee_objectif 10 / coup_dur 11 / tournant 4 ; modificateurs : M80 ; jet  96.5 → **tournant** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 08/08 : Grace Adjoua-Mensah (directrice commerciale) » : sans_histoire 47 / petit_evenement 25 / avancee_objectif 16 / coup_dur 7 / tournant 5 ; modificateurs : M81 ; jet  88.3 → **coup_dur** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 08/08 : Abdoul Karim Touré (directeur technique) » : sans_histoire 47 / petit_evenement 25 / avancee_objectif 16 / coup_dur 7 / tournant 5 ; modificateurs : M81 ; jet  97.3 → **tournant** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 08/08 : Yves Kanga (responsable SAV, promu en principe) » : sans_histoire 47 / petit_evenement 25 / avancee_objectif 16 / coup_dur 7 / tournant 5 ; modificateurs : M81 ; jet   0.4 → **sans_histoire** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 08/08 : Estelle (comptable en banque, prestataire d'OSIA) » : sans_histoire 47 / petit_evenement 25 / avancee_objectif 16 / coup_dur 7 / tournant 5 ; modificateurs : M81 ; jet   7.3 → **sans_histoire** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 08/08 : Me Kouamé (avocat d'OSIA) » : sans_histoire 55 / petit_evenement 25 / avancee_objectif 10 / coup_dur 7 / tournant 3 ; modificateurs : aucun ; jet  17.4 → **sans_histoire** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 08/08 : Sandra Moreira (ex-compagne, depuis le 07/08) » : sans_histoire 50 / petit_evenement 25 / avancee_objectif 10 / coup_dur 11 / tournant 4 ; modificateurs : M80 ; jet  72.3 → **petit_evenement** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 08/08 : Kevin Moreira (fils aîné de Sandra, 15 ans) » : sans_histoire 55 / petit_evenement 25 / avancee_objectif 10 / coup_dur 7 / tournant 3 ; modificateurs : aucun ; jet  28.7 → **sans_histoire** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 08/08 : Le père de William (Luxembourg) » : sans_histoire 50 / petit_evenement 25 / avancee_objectif 10 / coup_dur 11 / tournant 4 ; modificateurs : M80 ; jet  46.1 → **sans_histoire** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 08/08 : Fanta (cousine d'Aïcha, coiffeuse à Abobo) » : sans_histoire 50 / petit_evenement 25 / avancee_objectif 10 / coup_dur 11 / tournant 4 ; modificateurs : M80 ; jet  75.8 → **avancee_objectif** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 08/08 : Kader (ami d'Yves) » : sans_histoire 47 / petit_evenement 25 / avancee_objectif 16 / coup_dur 7 / tournant 5 ; modificateurs : M81 ; jet  23.8 → **sans_histoire** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 08/08 : Bertin Assi (électricien de Yopougon, sous-traitant) » : sans_histoire 47 / petit_evenement 25 / avancee_objectif 16 / coup_dur 7 / tournant 5 ; modificateurs : M81 ; jet  16.6 → **sans_histoire** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 08/08 : Ibrahim Koné (technicien SAV, arrivée le 01/09) » : sans_histoire 55 / petit_evenement 25 / avancee_objectif 10 / coup_dur 7 / tournant 3 ; modificateurs : aucun ; jet  65.3 → **petit_evenement** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 08/08 : Mme Schmit (collègue de William, Luxembourg) » : sans_histoire 65 / petit_evenement 20 / avancee_objectif 7 / coup_dur 5 / tournant 3 ; modificateurs : M83 ; jet  90.2 → **avancee_objectif** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 08/08 : Djina (tia de Sandra, Mindelo) » : sans_histoire 50 / petit_evenement 30 / avancee_objectif 10 / coup_dur 7 / tournant 3 ; modificateurs : M82 ; jet  72.9 → **petit_evenement** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 09/08 : Aïcha Diomandé (gérante d'OSIA) » : sans_histoire 50 / petit_evenement 25 / avancee_objectif 10 / coup_dur 11 / tournant 4 ; modificateurs : M80 ; jet  21.3 → **sans_histoire** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 09/08 : Mariette Kouadio (DRH) » : sans_histoire 50 / petit_evenement 25 / avancee_objectif 10 / coup_dur 11 / tournant 4 ; modificateurs : M80 ; jet  70.1 → **petit_evenement** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 09/08 : Grace Adjoua-Mensah (directrice commerciale) » : sans_histoire 47 / petit_evenement 25 / avancee_objectif 16 / coup_dur 7 / tournant 5 ; modificateurs : M81 ; jet  66.0 → **petit_evenement** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 09/08 : Abdoul Karim Touré (directeur technique) » : sans_histoire 47 / petit_evenement 25 / avancee_objectif 16 / coup_dur 7 / tournant 5 ; modificateurs : M81 ; jet  77.6 → **avancee_objectif** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 09/08 : Yves Kanga (responsable SAV, promu en principe) » : sans_histoire 47 / petit_evenement 25 / avancee_objectif 16 / coup_dur 7 / tournant 5 ; modificateurs : M81 ; jet  76.5 → **avancee_objectif** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 09/08 : Estelle (comptable en banque, prestataire d'OSIA) » : sans_histoire 47 / petit_evenement 25 / avancee_objectif 16 / coup_dur 7 / tournant 5 ; modificateurs : M81 ; jet  65.7 → **petit_evenement** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 09/08 : Me Kouamé (avocat d'OSIA) » : sans_histoire 55 / petit_evenement 25 / avancee_objectif 10 / coup_dur 7 / tournant 3 ; modificateurs : aucun ; jet  96.4 → **coup_dur** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 09/08 : Sandra Moreira (ex-compagne, depuis le 07/08) » : sans_histoire 50 / petit_evenement 25 / avancee_objectif 10 / coup_dur 11 / tournant 4 ; modificateurs : M80 ; jet  37.1 → **sans_histoire** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 09/08 : Kevin Moreira (fils aîné de Sandra, 15 ans) » : sans_histoire 55 / petit_evenement 25 / avancee_objectif 10 / coup_dur 7 / tournant 3 ; modificateurs : aucun ; jet  26.6 → **sans_histoire** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 09/08 : Le père de William (Luxembourg) » : sans_histoire 50 / petit_evenement 25 / avancee_objectif 10 / coup_dur 11 / tournant 4 ; modificateurs : M80 ; jet  47.8 → **sans_histoire** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 09/08 : Fanta (cousine d'Aïcha, coiffeuse à Abobo) » : sans_histoire 50 / petit_evenement 25 / avancee_objectif 10 / coup_dur 11 / tournant 4 ; modificateurs : M80 ; jet  51.0 → **petit_evenement** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 09/08 : Kader (ami d'Yves) » : sans_histoire 47 / petit_evenement 25 / avancee_objectif 16 / coup_dur 7 / tournant 5 ; modificateurs : M81 ; jet  74.0 → **avancee_objectif** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 09/08 : Bertin Assi (électricien de Yopougon, sous-traitant) » : sans_histoire 47 / petit_evenement 25 / avancee_objectif 16 / coup_dur 7 / tournant 5 ; modificateurs : M81 ; jet  82.1 → **avancee_objectif** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 09/08 : Ibrahim Koné (technicien SAV, arrivée le 01/09) » : sans_histoire 55 / petit_evenement 25 / avancee_objectif 10 / coup_dur 7 / tournant 3 ; modificateurs : aucun ; jet  62.4 → **petit_evenement** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 09/08 : Mme Schmit (collègue de William, Luxembourg) » : sans_histoire 65 / petit_evenement 20 / avancee_objectif 7 / coup_dur 5 / tournant 3 ; modificateurs : M83 ; jet  98.7 → **tournant** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T11] « Tour du monde du 09/08 : Djina (tia de Sandra, Mindelo) » : sans_histoire 50 / petit_evenement 30 / avancee_objectif 10 / coup_dur 7 / tournant 3 ; modificateurs : M82 ; jet  25.4 → **sans_histoire** (enregistré le 08/10/2026 20:49 heure machine)
+
+- Tirage [T10] « Yves : délai d'envoi à William de sa note sur l'organisation du pôle Business & Client (initiative, jeudi 09/08 à partir de 08h00 Abidjan) » : immediat 23 / rapide 32 / dans_l_heure 15 / dans_la_journee 13 / le_soir_ou_lendemain 10 / plus_tard_ou_jamais 7 ; modificateurs : M71 ; jet  26.8 → **rapide** (enregistré le 08/10/2026 20:50 heure machine)
+
+- Jet « Tournant de Mariette (08/08), contenu : 0-40 offre d'emploi ailleurs ; 40-60 rencontre ; 60-75 naissance dans sa famille ; 75-85 deuil ; 85-95 déménagement forcé ; 95-100 mariage annoncé (OUI = offre ailleurs) » : probabilité 40 %, jet  65.7 → **NON** [DÉROGATION : contenu d'un résultat T11 (vie propre), pas une réaction à William] (enregistré le 08/10/2026 20:56 heure machine)
+
+- Jet « Tournant de Mme Schmit (09/08), contenu : 0-45 nomination ou mutation pour la rentrée ; 45-70 rencontre ; 70-85 deuil ; 85-100 déménagement (OUI = nomination) » : probabilité 45 %, jet   0.1 → **OUI** [DÉROGATION : contenu d'un résultat T11 (vie propre), pas une réaction à William] (enregistré le 08/10/2026 20:56 heure machine)
+
+- Jet « Coup dur de Me Kouamé (09/08), contenu : 0-40 crise de paludisme, alité ; 40-65 perte d'une affaire importante ; 65-85 problème au cabinet (départ de sa secrétaire, panne) ; 85-100 deuil familial (OUI = paludisme) » : probabilité 40 %, jet  20.4 → **OUI** [DÉROGATION : contenu d'un résultat T11 (vie propre), pas une réaction à William] (enregistré le 08/10/2026 20:56 heure machine)
+
+- Jet « Coup dur de Kevin (07/08), contenu : 0-60 apprend la rupture (souci de la fiche) ; 60-85 blessure au garage ; 85-100 dispute sérieuse avec M. Da Silva ou un frère (OUI = apprend la rupture) » : probabilité 60 %, jet  54.9 → **OUI** [DÉROGATION : contenu d'un résultat T11 (vie propre), pas une réaction à William] (enregistré le 08/10/2026 20:56 heure machine)
+
+- Jet « Coup dur du père de William (07/08), contenu : 0-45 dispute d'argent avec la famille du village (enterrement) ; 45-75 santé (tension, malaise) ; 75-100 voyage (billet, passeport, visa) (OUI = dispute d'argent) » : probabilité 45 %, jet  83.1 → **NON** [DÉROGATION : contenu d'un résultat T11 (vie propre), pas une réaction à William] (enregistré le 08/10/2026 20:56 heure machine)
+
+- Jet « Coup dur de Grace (08/08), contenu : 0-50 mauvaise nouvelle du Ghana (santé d'un parent, argent) ; 50-75 perte d'argent (vol de téléphone, arnaque) ; 75-100 santé (paludisme) (OUI = Ghana) » : probabilité 50 %, jet  93.2 → **NON** [DÉROGATION : contenu d'un résultat T11 (vie propre), pas une réaction à William] (enregistré le 08/10/2026 20:56 heure machine)
+
+- Jet « Mme Schmit : nommée directrice adjointe dans le lycée de William (OUI) ou dans un autre lycée (NON), à compter du 15/09 » : probabilité 50 %, jet   8.0 → **OUI** [DÉROGATION : contenu d'un résultat T11 (vie propre), pas une réaction à William] (enregistré le 08/10/2026 20:57 heure machine)
+
+- Jet « Me Kouamé : paludisme ; durée d'arrêt = 3 + jet × 0,07 jours (0 → 3 j ; 100 → 10 j) ; hospitalisé si jet > 70 » : probabilité 50 %, jet  76.9 → **NON** [DÉROGATION : contenu d'un résultat T11 (vie propre), pas une réaction à William] (enregistré le 08/10/2026 20:57 heure machine)
+
+- Jet « Grace : crise de paludisme ; absente vendredi 10/08 aussi (OUI) ou de retour vendredi (NON) » : probabilité 55 %, jet  23.4 → **OUI** [DÉROGATION : contenu d'un résultat T11 (vie propre), pas une réaction à William] (enregistré le 08/10/2026 20:57 heure machine)
+
+- Jet « Abdoul : jour où il rappelle Soléa Énergies = 10/08 + jet × 0,09 jours (0 → 10/08 ; 100 → 19/08) » : probabilité 50 %, jet  54.3 → **NON** [DÉROGATION : contenu d'un résultat T11 (vie propre), pas une réaction à William] (enregistré le 08/10/2026 20:57 heure machine)
+
+- Tirage [T8] « Kevin (15 ans, mar. 07/08 vers 22h, Differdange) entend sa grand-mère au téléphone avec Sandra et comprend que sa mère et William ont rompu à Lisbonne ; première réaction envers William (lecture fixée : soutient_sans_creuser = il n'écrit pas, il s'occupe de sa mère et de ses frères ; creuse_doucement = il écrit à William pour demander ce qui s'est passé ; releve_esquive = il écrit en rappelant la promesse de septembre ; plaisante_et_devie = il écrit autre chose, léger, sans en parler ; froideur = aucun message, il ne répondra que brièvement ; agacement_net = message court et fâché ; rien_ne_dit_soupconne = il ne dit rien à personne, fait comme s'il ne savait pas ; frontal_rupture = il bloque William) » : soutient_sans_creuser 22 / creuse_doucement 25 / releve_esquive 18 / plaisante_et_devie 12 / froideur 10 / agacement_net 7 / rien_ne_dit_soupconne 5 / frontal_rupture 1 ; modificateurs : aucun ; jet  33.0 → **creuse_doucement** (enregistré le 08/10/2026 20:57 heure machine)
+
+- Tirage [T10] « Kevin : délai avant d'écrire à William (creuse_doucement), à partir du mar. 07/08 vers 22h (Luxembourg), il a apprentissage au garage le lendemain » : immediat 7 / rapide 18 / dans_l_heure 15 / dans_la_journee 25 / le_soir_ou_lendemain 25 / plus_tard_ou_jamais 10 ; modificateurs : M70 ; jet  99.4 → **plus_tard_ou_jamais** (enregistré le 08/10/2026 20:57 heure machine)
+
+- Jet « Sandra : son statut WhatsApp du 08/08 (la Laginha au lever du soleil) est visible par William (OUI) ou elle l'exclut de l'audience (NON) » : probabilité 50 %, jet  79.0 → **NON** [DÉROGATION : trace de vie propre (audience d'un statut), aucune table ne s'applique] (enregistré le 08/10/2026 20:57 heure machine)
+
+- Jet « Abdoul (mer. 08/08, ~21h30) consulte le profil LinkedIn de William en mode visible (OUI : son nom apparaît dans « Qui a consulté votre profil », Premium) ou en mode privé (NON) » : probabilité 60 %, jet  72.2 → **NON** [DÉROGATION : trace de vie propre (réglage par défaut de LinkedIn), aucune table ne s'applique] (enregistré le 08/10/2026 20:57 heure machine)
+
+- Jet « Kevin (plus_tard_ou_jamais) : il écrit finalement à William (OUI : jour = 09/08 + 1 à 5 jours, tiré plus tard) ou n'écrit pas (NON) » : probabilité 50 %, jet  50.5 → **NON** [DÉROGATION : lecture de l'issue T10 plus_tard_ou_jamais] (enregistré le 08/10/2026 20:57 heure machine)
+
+- Jet « Estelle : statut WhatsApp du 09/08 sur le délestage d'Angré visible par William (OUI) ou non publié ou exclu (NON) » : probabilité 70 %, jet  90.4 → **NON** [DÉROGATION : trace de vie propre (statut), aucune table ne s'applique] (enregistré le 08/10/2026 20:57 heure machine)
+
+- Jet « Abdoul répond à l'approche de Soléa Énergies avant le 20/08 (sinon il laisse traîner) » : probabilité 50 %, jet  25.9 → **OUI** *(lancé par erreur avec l'option --simule le 08/10/2026 vers 20:50 heure machine, donc non consigné par l'outil ; consigné ici à la main ; résultat conservé, jamais rejoué ; correction n° 45)*

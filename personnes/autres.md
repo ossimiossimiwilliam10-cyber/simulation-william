@@ -51,3 +51,13 @@
 - **Ibrahim Koné (03/08)** : accepte l'offre d'OSIA ; début le 01/09, son employeur prolongeant son préavis.
 - **Kader** *(05/08)* : *(non vu)* a appris d'Yves, le jeudi 02/08 au soir, « qu'il s'est passé quelque chose » entre William et Mme Grace (T2 : commerage d'Yves) ; informé hors William n° 9 de l'affaire Grace.
 - **Rosa** *(moteur, 02/08/2040)* : cousine de Sandra, vit à Amadora (banlieue de Lisbonne) ; héberge Sandra la nuit du 05 au 06/08 ; voiture capricieuse.
+
+## Tour du monde du 07 au 09/08 (non connu de William)
+- **Mme Schmit** : vacances en Moselle allemande (carton d'elbling de Nittel, 07/08) ; 08/08 : sa candidature au poste de directrice adjointe est retenue ; **09/08 : nommée directrice adjointe du lycée de William à la rentrée de septembre** ; message à William le 10/08.
+- **Père de William** : naturalisé luxembourgeois, il a perdu la nationalité camerounaise ; e-visa renvoyé le 07/08 (certificat d'hébergement légalisé manquant) ; billet Bruxelles-Douala ≈ 1 200 € non acheté.
+- **Fanta** : deux jours de tresses pour la fête ; fournitures scolaires achetées (08/08) ; vocal à Aïcha (09/08) : les 60 000 FCFA « fin du mois ».
+- **Kader** : au feu d'artifice avec Yves (07/08) ; 09/08 : CV tapé au cyber, pour un poste de démarcheur qu'Yves veut proposer.
+- **Bertin Assi** : 07/08, demande à Abdoul quand commence la villa ; 09/08 : nouvel apprenti, semaine du 20/08 gardée libre.
+- **Ibrahim Koné** : lettre d'embauche montrée à son oncle (07/08) ; chaussures de sécurité (08/08) ; forme son remplaçant jusqu'au 31/08 (09/08).
+- **Djina** : au marché, présente Sandra à tout le monde et sonde le poissonnier pour son fils (08/08).
+- **Estelle** : 30 000 FCFA envoyés à sa tante (09/08) ; délestages à Angré.

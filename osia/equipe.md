@@ -95,5 +95,10 @@
 - Aïcha : sait tout de la réorganisation et de la note « poussée vers la sortie » (par Estelle et Yves) ; évitement ; ITS de juin retenu sur son salaire d'août (133 500 FCFA) en plus de ses dettes *(non connu de William)*.
 - Yves : promu en principe au pôle Business & Client ; 880 000 brut demandés ; appel de négociation reporté deux fois.
 - Abdoul : a vu l'offre LinkedIn d'un second directeur dans son pôle (jusqu'à 1 200 000, lui 900 000) ; demande écrite sur son titre, ses attributions et son salaire (09/08).
+- *(Non connu de William)* Abdoul : approché par Soléa Énergies le 08/08 (chef de projets stockage) ; il rappellera le 14/08.
+- *(Non connu de William)* Grace : paludisme, absente les 09 et 10/08 ; point sur les pilotes reporté au 13/08.
+- *(Non connu de William)* Mariette : sa sœur et sa nièce (née le 08/08) vivent chez elle ; fatigue.
+- *(Non connu de William)* Me Kouamé hospitalisé (paludisme) jusqu'au 17/08 environ : contrats, règlement intérieur et matrice retardés.
+- Yves : note sur le pôle Business & Client envoyée le 09/08 (cinq propositions, deux démarcheurs, 880 000 brut maintenus).
 - Mariette : ITS de juin retenu sur son salaire d'août (112 500 FCFA) ; confidente d'Aïcha ; commérage.
 - Grace : contrat de la villa signé (08/08).

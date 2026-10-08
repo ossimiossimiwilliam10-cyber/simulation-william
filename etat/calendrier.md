@@ -213,6 +213,12 @@
 | **Lun. 06/08, 08h50 (estimé)** | Vol TAP Luxembourg → Lisbonne retardé (régulation du contrôle aérien) ; correspondance de 10h35 manquée ; reprotection proposée : mar. 07/08, 10h35, Lisbonne → São Vicente. |
 | Mer. 08/08, matin | *(Non connu de William)* Aléa A04 : délestage au QG (groupe électrogène hors service), jour de la signature de la villa. |
 | Ven. 10/08 | *(Non connu de William)* Vie hors d'Abidjan : message de Mme Schmit. |
+| Ven. 10/08 | *(Non connu de William)* Grace absente (paludisme) ; point sur les pilotes reporté au lun. 13/08. |
+| Lun. 13/08 | *(Non connu de William)* Rendez-vous de Mmes Diomandé et Kouadio avec Me Kouamé (contrats, matrice) reporté : Me Kouamé hospitalisé. |
+| Mar. 14/08 | *(Non connu de William)* Abdoul rappelle Soléa Énergies. |
+| ≈ Ven. 17/08 | *(Non connu de William)* Retour prévu de Me Kouamé au cabinet. |
+| Avant le sam. 18/08 | *(Non connu de William)* Le père de William : e-visa à obtenir (pièce manquante) pour l'enterrement. |
+| Rentrée de septembre | *(Non connu de William)* Mme Schmit devient directrice adjointe du lycée de William. |
 | **≈ Ven. 31/08** | Déclaration de l'investissement étranger (dans le mois qui suit la réception des fonds du 31/07). |
 | **Mar. 07/08, 10h35 (Lisbonne)** | Vol TAP Lisbonne → São Vicente (reprotection de William ; arrivée 12h40, heure locale) ; Oasis : chambre gardée, nuit du 06 facturée. |
 | Lun. 06/08, ≈ 18h40 (Abidjan) | *(Non connu de William)* Réponse écrite de Me Kouamé sur l'organigramme cible et les statuts. |

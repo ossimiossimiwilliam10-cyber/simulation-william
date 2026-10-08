@@ -143,3 +143,11 @@ Bon week-end à tous 🙏🏾 On revient en force lundi 💪🏾
 **[27/07/2040 - 18:52] Abdoul :**
 Bon week-end à tous.
 *(Mariette réagit 🙏 ; Aïcha et Grace ne disent rien.)*
+
+**[07/08/2040 - 20:05 (Abidjan)] Yves :**
+Bonne fête de l'Indépendance à tous 🇨🇮🎆 80 ans ! On est au Plateau avec les gars pour le feu d'artifice, c'est chaud ici 🔥
+*(Photo : le feu d'artifice au-dessus de la lagune.)*
+
+**[07/08/2040 - 20:11 (Abidjan)] Abdoul :**
+Bonne fête à tous.
+*(Mariette réagit 🇨🇮 ; Aïcha réagit 🙏 ; Grace ne dit rien. Lu par William le 09/08 à 13h20, heure de Lisbonne.)*

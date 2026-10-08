@@ -253,3 +253,15 @@
 - **Abdoul (08/08, 21h30)** : il fait défiler l'offre sur son téléphone, la relit, fait une capture d'écran, éteint la lumière ; il ne dit rien à personne.
 
 > **09/08/2040** : mécanisme renforcé (monde vivant) : les fiches sont dans `etat/vies-propres.md` ; les résultats du tour du monde (T11) sont résumés ici.
+
+## Tour du monde du 07 au 09/08 (monde vivant, T11 ; détail dans les journaux et `etat/vies-propres.md`)
+- **Kevin (07/08, 22h)** : il apprend la rupture en entendant sa grand-mère au téléphone ; il tape un message à William le lendemain au garage, l'efface ; il n'écrira pas.
+- **Sandra (07-08/08)** : elle raconte tout à sa mère, archive la conversation avec William ; statut de la Laginha au lever du soleil, William exclu ; au marché avec Djina, elle rit pour la première fois.
+- **Le père (07/08)** : e-visa pour le Cameroun renvoyé (pièce manquante) ; billet non acheté ; l'enterrement du 18 devient incertain pour lui.
+- **Mariette (08/08)** : sa petite sœur accouche ; Mariette marraine, avance les frais, héberge la mère et le bébé.
+- **Abdoul (08/08)** : approché par Soléa Énergies ; rappel prévu le 14/08 ; carnet de ses attributions le 09/08.
+- **Grace (08-10/08)** : paludisme après la signature de la villa ; absente jeudi et vendredi.
+- **Me Kouamé (09/08)** : paludisme, hospitalisé jusqu'au 17/08 environ ; rendez-vous du 13/08 reporté.
+- **Yves (09/08)** : note sur le pôle Business & Client envoyée au patron ; il pousse Kader comme démarcheur.
+- **Mme Schmit (08-09/08)** : nommée directrice adjointe du lycée de William à la rentrée ; message à William vendredi.
+- **Petits faits** : Aïcha (médicaments à crédit), Fanta (fournitures, « fin du mois »), Estelle (tante, délestages), Bertin (apprenti), Koné (chaussures, remplaçant), Djina (le poissonnier).

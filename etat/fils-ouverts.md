@@ -124,6 +124,7 @@
 | 110 | **Hôtel Oasis Porto Grande (Mindelo), réservé du 06 au 12/08 (1 032 €, carte en garantie)** : nuit du 06 facturée à la demande de William ; **non prévenu de l'annulation du voyage** ; **08/08 : non-présentation : séjour entier prélevé, 1 032 €** ; courriel : « Monsieur Ossimi, nous constatons votre non-présentation. Conformément aux conditions de votre réservation, le montant total du séjour (1 032 €) a été prélevé sur la carte fournie en garantie. Nous restons à votre disposition. Réception, Hotel Oasis Porto Grande » | Contestation éventuelle | — |
 | 111 | **Abdoul (09/08, 07h40 à Abidjan) : demande écrite sur son contrat (titre, attributions, commandes et fournisseurs, salaire)** *(non vu : T1 negociation_tacite après avoir vu l'offre LinkedIn d'un second directeur dans son pôle, payé jusqu'à 1 200 000)* : « Boss, bonjour. Je me permets : quand vous aurez un moment, je voudrais qu'on parle de mon contrat. Mon titre, mes attributions, les commandes et les fournisseurs, et le salaire. Je préfère que ce soit écrit. Merci, Boss. » | Réponse de William | à définir |
 | 112 | **Retour de William à Luxembourg** : billet de retour annulé le 07/08 ; chambre 214 à libérer le 09/08 à 14h | Billet Lisbonne-Luxembourg ; hébergement | jeu. 09/08 |
+| 113 | **Note d'Yves sur le pôle Business & Client (09/08, 08h08 à Abidjan, lue à 13h20 à Lisbonne)** : Grace aux grands comptes, devis et pilotes ; Yves au SAV, au suivi et au terrain ; deux démarcheurs (fixe + commission ; « deux jeunes sérieux ») ; visite gratuite à trois mois ; numéro WhatsApp du SAV ; visites techniques avec Grace ; 880 000 brut maintenus ; appel quand le patron sera rétabli | Réponse de William ; appel de négociation | à fixer |
 
 **Clos :** réponse à Kevin (21/07) ; réponse à Aïcha sur SécuTech (21/07) ; consigne à Grace (21/07) ; appel à Sandra du 21/07 ; message à Aïcha « fâchée ? » (21/07) ; week-end avec Aïcha (n'a pas eu lieu) ; décision de remboursement (21/07) ; statut de fonctionnaire : décision de se déclarer **au plus tard le 30/12/2040** (22/07) ; **validation des cinq idées de la revue du lundi (23/07)** ; **récap de Grace validé (23/07, planchers 25 % / 20 %)**.
 
@@ -160,6 +161,14 @@
 | Esther N'Guessan | Arrivée fin août/sept. | — |
 | Revue du lundi | **Chaque lundi** ; prochaine : lun. 30/07 (bilan de la semaine du 23/07 et nouvelles idées) | lun. 30/07 |
 | Semaine ISO 30 (23-29/07) | Synthèse à écrire dim. 29/07 soir : `memoire/semaine-2040-W30.md` | dim. 29/07 |
+| *(Non connu de William)* **Kevin sait pour la rupture (07/08)** | Il a entendu sa grand-mère ; message tapé puis effacé ; n'écrira pas (T10 : plus_tard_ou_jamais ; NON) | Selon William ou un nouveau tour du monde |
+| *(Non connu de William)* **Me Kouamé hospitalisé (paludisme, 09/08)** | Rendez-vous annulés jusqu'au ≈ 17/08 ; contrats, règlement intérieur et matrice retardés ; le cabinet suit l'extrait RCCM | Aïcha prévenue vers 15h (Abidjan) ; rapport du 09/08 ; retour ≈ ven. 17/08 |
+| *(Non connu de William)* **Grace : paludisme (08-10/08)** | Absente jeudi et vendredi ; point sur les pilotes reporté | Lun. 13/08 |
+| *(Non connu de William)* **Abdoul approché par Soléa Énergies (08/08)** | Chef de projets stockage, « on paie mieux » ; il a répondu « Je te rappelle » | Mar. 14/08 : il rappelle Soléa |
+| *(Non connu de William)* **Mariette : sœur et nièce chez elle (09/08)** | ≈ 85 000 FCFA avancés ; nuits courtes ; paie d'août à préparer | Paie d'août ; fatigue |
+| *(Non connu de William)* **Mme Schmit nommée directrice adjointe du lycée de William (09/08)** | Effet à la rentrée de septembre ; dossiers du personnel possibles (demande de William du 30/07 au titre de l'article 14) | Ven. 10/08 : message à William |
+| *(Non connu de William)* **Le père : e-visa bloqué (07/08)** | Certificat d'hébergement légalisé manquant ; billet non acheté | Avant le 18/08 |
+| *(Non connu de William)* **Kader : CV pour un poste de démarcheur (09/08)** | Yves le proposera (note du 09/08 : « deux jeunes sérieux ») | Selon la réponse de William à Yves |
 
 ## C. Questions de cohérence à poser à l'utilisateur (hors fiction)
 1. ~~Naturalisation de William~~ : **CLOS le 21/07** (via son père, effet collectif).
