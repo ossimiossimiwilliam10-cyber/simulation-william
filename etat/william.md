@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 05/08/2040, 12h44)
+# William Ossimi — profil (état au 05/08/2040, 14h42)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -281,3 +281,4 @@
 - **Corps (04-05/08)** : trois heures de sommeil dans l'avion, sieste de deux heures, nuit de onze heures ; repas : cachupa ; pas de sport depuis le départ d'Abidjan.
 - **05/08, 11h45-11h47** : à Estelle : il n'est plus en Côte d'Ivoire, explications par message ; rappel téléphone : payer l'ACD le 22/08 ; à Kevin : « Coucou mon grand, comment tu vas ? » (réponse à 11h49) ; 12h03-12h20 : résumé d'Estelle sur les relevés, « Et tu reviens quand, toi ? 😏 ».
 - **05/08, 12h31-12h32** : à Estelle : félicitations, régularisation de l'ITS de juin d'Aïcha et de Mariette avec Aïcha, « ma proposition tient toujours », « j'ai trouvé la bonne… cadre professionnel » ; à Kevin : bien rentré, « prends bien soin de toi » ; 12h41-12h44 : réponses d'Estelle (conditions inchangées : 950 000 net, CDI, visite de la boîte ; « Tu me diras ce que c'est, le poste »).
+- **05/08, 12h50-14h42** : valise pour Mindelo faite (machine lancée, linge à sécher) ; déjeuner : pâtes au thon ; 14h42 : message logistique de Sandra (Lisbonne : après le contrôle des passeports, vols hors Schengen).

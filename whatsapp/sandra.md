@@ -243,3 +243,9 @@ Bravo, championne ! On se voit donc dans quelques jours.
 
 **[03/08/2040 - 06:31 (Abidjan) / 08:31 (Esch)] Sandra :**
 😘 Lundi, grand monsieur. Prends un pull pour l'avion, il fait 14 degrés ici.
+
+**[05/08/2040 - 14:42 (Luxembourg)] Sandra :**
+Coucou 🙂 Mon vol est à 19h20, j'arrive à Lisbonne vers 21h, Rosa vient me chercher. Demain, toi tu atterris à 7h50 : moi je serai à l'aéroport à 8h30. On se retrouve après le contrôle des passeports, côté vols hors Schengen, au café près des portes. Passeport, la confirmation de l'EASE, et le pull, hein 😉
+
+**[05/08/2040 - 14:42 (Luxembourg)] Sandra :**
+Les petits sont installés chez ma mère. Kevin dit qu'il va gérer le garage tout seul, comme un patron 😅

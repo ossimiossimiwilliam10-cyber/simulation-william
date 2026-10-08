@@ -1,4 +1,4 @@
-# Calendrier (au 05/08/2040, 12h44)
+# Calendrier (au 05/08/2040, 14h42)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -205,3 +205,5 @@
 | **Ven. 10/08 et mer. 15/08/2040** | *(Signalé par Estelle le 05/08)* OSIA : ITS de juillet avant le 10/08 ; CNPS de juillet avant le 15/08. |
 | Lun. 06/08 | Estelle remet son tableau de trésorerie à Aïcha (courriel). |
 | Mer. 08/08 | *(Non connu de William)* Estelle parle à Aïcha, de vive voix, de la régularisation de l'ITS de juin (à contrecœur, en retard). |
+| **Dim. 05/08, 19h20** | Vol de Sandra Luxembourg → Lisbonne (arrivée vers 21h, heure de Lisbonne ; Rosa la récupère). |
+| **Lun. 06/08, ≈ 08h30 (Lisbonne)** | Sandra à l'aéroport ; rendez-vous avec William après le contrôle des passeports, côté vols hors Schengen (vol pour São Vicente à 10h35). |
