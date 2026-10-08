@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 06/08/2040, 21h17)
+# William Ossimi — profil (état au 07/08/2040, 06h47)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -314,3 +314,5 @@
 - **06/08, 20h43-21h05 (Lisbonne)** : à Sandra : « Arrête de penser comme une politicienne. Il ne faut pas surveiller, il ne faut pas suranalyser mes phrases. J'ai dit « pendant ce séjour » sans arrière-pensée. Bien évidemment que je pense à plein temps. Tu m'as demandé ce que je voulais faire là-bas, alors moi aussi j'ai réfléchi en délimitant dans le temps. Il n'y a rien de méchant dans ce que j'ai dit. » (caresse) ; elle, froide : « D'accord. » ; « Je monte. On se lève tôt demain. »
 - **06/08, 21h12-21h15 (Lisbonne)** : enlace Sandra au lit et lui demande ce qui ne va pas ; elle plaisante (« trois assiettes de riz ») et éteint la lampe.
 - **06/08, 21h16-21h17 (Lisbonne)** : s'approche de Sandra pour faire l'amour (préservatif du portefeuille, sans lui demander) ; elle refuse : « Pas ce soir, William. » ; aucun rapport.
+- **06/08, 21h18** : accepte le refus de Sandra, se tourne ; **pensée non dite : « ça commence vraiment à me saouler, son caractère » ; elle ne s'ouvre pas malgré ses efforts ; « elle ne fait que m'évaluer » ; « ça devient barbant »** ; s'endort vers 22h.
+- **07/08, 06h45-06h47 (Lisbonne)** : réveil ; Sandra polie et pratique ; messages de la nuit : Yves, Me Kouamé (convention à 600 000 FCFA HT), 12 candidatures LinkedIn.

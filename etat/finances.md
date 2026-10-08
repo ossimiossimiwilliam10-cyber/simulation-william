@@ -216,3 +216,4 @@ Total des avances non remboursées par l'entreprise :
 - **06/08, Lisbonne** : VTC Martim Moniz → Olivais 16,90 € ; proposition de Me Kouamé : modèle de contrat de cadre et mise à jour du règlement intérieur, 450 000 FCFA HT (société), non acceptée à ce stade.
 - **06/08** : convention d'honoraires de Me Kouamé à venir (modèle de contrat de cadre et règlement intérieur, 450 000 FCFA HT, à la charge d'OSIA) ; dîner de Sandra à l'hôtel 24 €.
 - **06/08, 22h30 (non lu)** : convention de Me Kouamé portée à 600 000 FCFA HT (contrat de cadre, règlement intérieur, matrice d'évaluation), à la charge d'OSIA.
+- **06/08 (fiche courte)** : compte courant ≈ 8 290 € (VTC 138 € ; petit-déjeuner 9 € ; VTC 17,40 € et 16,90 €).
