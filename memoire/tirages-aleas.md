@@ -1015,3 +1015,7 @@ Effets à jouer : A04 (mercredi 08/08 (matin)) : QG sans groupe électrogène (h
 - Tirage [T10] « Me Kouamé : écrit-il à William aujourd'hui pour confirmer le dépôt au CEPICI ? » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  28.3 → **rapide** (enregistré le 08/10/2026 17:59 heure machine)
 
 - Jet « Décision de Sandra au comptoir de TAP, changement à 329 € (0-35 : elle paie et reste avec William ; 35-65 : elle part seule comme prévu à 10h35 ; 65-100 : elle écrit à William le prix et lui demande son avis, sans demander d'argent) » : probabilité 50 %, jet   6.7 → **OUI** [DÉROGATION : organisation d'une proche face à un aléa de voyage et à un coût, pas une réaction à un acte de pouvoir] (enregistré le 08/10/2026 17:59 heure machine)
+
+- Tirage [T10] « Me Kouamé : délai de sa première réponse à William (organigramme et question sur les statuts), lundi 09h55 à Abidjan, au cabinet entre deux rendez-vous » : immediat 7 / rapide 18 / dans_l_heure 15 / dans_la_journee 25 / le_soir_ou_lendemain 25 / plus_tard_ou_jamais 10 ; modificateurs : M70 ; jet  85.5 → **le_soir_ou_lendemain** (enregistré le 08/10/2026 18:07 heure machine)
+
+- Jet « Bagage de William sur le tapis à Lisbonne en moins de 20 minutes » : probabilité 70 %, jet  16.3 → **OUI** (enregistré le 08/10/2026 18:07 heure machine)

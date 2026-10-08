@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 06/08/2040, 10h50)
+# William Ossimi — profil (état au 06/08/2040, 11h18)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -291,3 +291,4 @@
 - **06/08, 05h00-07h06** : enregistré avec la reprotection (bagage jusqu'à Lisbonne) ; revue n° 3 validée (cinq idées) ; messages à Sandra (retard), à l'Oasis (garder la chambre, nuit du 6 payée) et à Aïcha (il mènera seul la restructuration) ; l'Oasis confirme (05h44) ; Sandra (07h05) veut changer son vol pour rester avec lui.
 - **06/08, 07h08-07h36** : à Sandra : heure de départ et d'arrivée ; Sandra l'attendra aux arrivées ; à Estelle : organigramme cible complet (PDF, avec la note sur Aïcha) et « tu serais affectée au pôle financier » ; Estelle : « J'ai lu. » ; « Je l'ai transféré à Madame Diomandé, avec ton message. C'est elle qui a signé mon contrat de prestation : je ne travaille pas dans son dos. » ; « Pour le reste, je finis ton tableau aujourd'hui, comme prévu. »
 - **06/08, 07h40-10h50** : vol Luxembourg-Lisbonne (décollage 08h52, atterrissage 10h45) ; somnole ; à l'arrivée : courriel d'Aïcha (CV et diplôme), WhatsApp d'Aïcha (« c'est vous qui décidez ; les quatre pôles me paraissent cohérents » ; salaire arrivé), Sandra (vol changé, 329 €, elle l'attend aux arrivées), Me Kouamé (dépôt au CEPICI).
+- **06/08, 10h52-11h18 (Lisbonne)** : organigramme envoyé à Me Kouamé (avis, faisabilité avec les statuts) ; bagage récupéré ; retrouvailles avec Sandra aux arrivées ; proposition d'hôtel : « Ensemble, oui. Évidemment. … Mais TAP te donne déjà une chambre, non ? On demande au comptoir si je peux venir avec toi. Ça ne sert à rien de payer un hôtel en plus. »

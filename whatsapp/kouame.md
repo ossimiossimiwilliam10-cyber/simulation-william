@@ -35,3 +35,7 @@ Bonjour, Monsieur Ossimi. J'ai l'attestation depuis ce matin. Je dépose le doss
 
 **[06/08/2040 - 09:50 (Abidjan), courriel] Me Kouamé :**
 Monsieur Ossimi, le dossier de l'augmentation de capital et de la modification des statuts a été déposé ce matin au guichet unique du CEPICI. Compte tenu du jour férié de demain, comptez une à deux semaines pour l'extrait RCCM modifié ; je vous le transmettrai dès réception. Bien cordialement, Me Kouamé
+
+**[06/08/2040 - 09:52 (Abidjan) / 10:52 (Lisbonne)] William :**
+Bonjour Maître. Je vous informe de ma nouvelle organisation de la direction : je vous envoie le fichier tel quel. Qu'en pensez-vous ? Et est-il possible de mettre cela en place avec les statuts actuels de la société ?
+*(Texte reconstitué à partir de la dictée. Pièce jointe : `documents_william/2040-08-06_organigramme_osia.pdf`.)*

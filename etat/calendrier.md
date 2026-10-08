@@ -1,4 +1,4 @@
-# Calendrier (au 06/08/2040, 10h50)
+# Calendrier (au 06/08/2040, 11h18)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -215,3 +215,4 @@
 | Ven. 10/08 | *(Non connu de William)* Vie hors d'Abidjan : message de Mme Schmit. |
 | **≈ Ven. 31/08** | Déclaration de l'investissement étranger (dans le mois qui suit la réception des fonds du 31/07). |
 | **Mar. 07/08, 10h35 (Lisbonne)** | Vol TAP Lisbonne → São Vicente (reprotection de William ; arrivée 12h40, heure locale) ; Oasis : chambre gardée, nuit du 06 facturée. |
+| Lun. 06/08, ≈ 18h40 (Abidjan) | *(Non connu de William)* Réponse écrite de Me Kouamé sur l'organigramme cible et les statuts. |
