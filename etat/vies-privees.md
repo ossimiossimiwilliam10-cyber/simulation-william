@@ -269,3 +269,4 @@
 - **Abdoul (09/08, 12h30 à Abidjan)** : il lit les deux messages du patron debout dans la cour, sa gamelle à la main ; il répond en une ligne, range son carnet des attributions dans son sac.
 - **Grace (09/08, 12h35-12h58 à Abidjan)** : l'appel annulé, elle se rallonge, le téléphone sur le ventre ; elle met vingt minutes à écrire trois lignes, efface « Merci de votre attention », garde « Merci ».
 - **Aïcha (09/08, 12h38 à Abidjan)** : avant de répondre dans le groupe, elle demande à Moussa s'il reste du crédit sur le routeur 4G ; elle note « 10h, salle de réunion, recharger la 4G » sur un post-it.
+- **Grace (09/08, 13h01-13h45 à Abidjan)** : elle lit « une semaine de congé » deux fois ; elle pense d'abord à sa commission et aux pilotes qui attendront, puis à sa mère, au Ghana, qui lui dit toujours de dormir ; elle s'endort sans répondre et ne répond qu'au réveil.

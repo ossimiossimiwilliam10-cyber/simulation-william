@@ -97,3 +97,12 @@ Si tu es souffrante, alors c'est bon : prends le temps de te reposer. Qu'est-ce 
 **[09/08/2040 - 12:58 (Abidjan) / 13:58 (Lisbonne)] Grace :**
 C'est un paludisme, Monsieur Ossimi. Le test est positif depuis ce matin, j'ai commencé le traitement. Le médecin m'a donné deux jours de repos. Je serai à la réunion demain, en visio. Merci.
 G. Adjoua-Mensah
+
+**[09/08/2040 - 13:01 (Abidjan) / 14:01 (Lisbonne)] William :**
+Grace, prends vraiment le temps de te reposer. Je t'accorde une semaine de congé : rapproche-toi de Mariette pour les formalités. Ta santé passe par-dessus tout. Souffle un peu, repose-toi, récupère bien, et reviens en pleine forme.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[09/08/2040 - 13:45 (Abidjan) / 14:45 (Lisbonne)] Grace :**
+Merci beaucoup, Monsieur Ossimi. C'est très gentil. Je vois avec Mme Kouadio pour les papiers.
+G. Adjoua-Mensah
+*(Non encore vu à 14h15.)*

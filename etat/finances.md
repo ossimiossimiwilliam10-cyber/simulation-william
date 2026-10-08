@@ -1,4 +1,4 @@
-# Finances de William & OSIA (estimations au 09/08/2040, 13h20 ; fiche complète du 07/08)
+# Finances de William & OSIA (estimations au 09/08/2040, 14h15 ; fiche complète du 07/08)
 
 > Parité fixe : 1 € = 655,957 FCFA.
 > Les montants de salaire de toute la simulation sont des **BRUTS** ; les virements réels sont calculés
@@ -219,3 +219,4 @@ Total des avances non remboursées par l'entreprise :
 - **06/08 (fiche courte)** : compte courant ≈ 8 290 € (VTC 138 € ; petit-déjeuner 9 € ; VTC 17,40 € et 16,90 €).
 - **07/08, Lisbonne** : vol Lisbonne-São Vicente annulé par William (retour du 12/08 annulé avec) : TAP ne rembourse que les taxes, **186,40 €** sous 30 jours (réclamation possible) ; chambre 214 gardée une nuit : **168 €** ; Oasis Porto Grande non prévenu (non-présentation à venir sur la carte en garantie) ; compte courant ≈ 8 120 € ; offre LinkedIn : jusqu'à 1 200 000 FCFA brut.
 - **07-09/08, Lisbonne (hors ligne)** : nuit du 08/08 168 € ; repas en chambre ≈ 100 € ; **Oasis Porto Grande : 1 032 € prélevés** (non-présentation, séjour entier) ; compte courant ≈ **6 800 €** ; à recevoir : taxes TAP 186,40 €, Capitol ≈ 537 € ; à payer : ACD 1 097,50 € (22/08). OSIA : ITS de juillet payé (08/08) ; convention de Me Kouamé signée (600 000 FCFA HT) ; contrat de la villa signé (acompte 3 752 400 FCFA TTC attendu) ; retenue de l'ITS de juin sur les salaires d'août (Aïcha 133 500, Mariette 112 500) ; trésorerie ≈ 136 M FCFA.
+- **09/08, 14h13 (Lisbonne)** : billet **Royal Air Maroc** Lisbonne → Casablanca → Abidjan (ven. 10/08, 18h40 → sam. 11/08, 03h15) : **668 €** ; compte courant ≈ **6 130 €** *(avant : ≈ 6 800 €)* ; hébergement de la nuit du 09/08 non réglé (chambre 214 rendue).

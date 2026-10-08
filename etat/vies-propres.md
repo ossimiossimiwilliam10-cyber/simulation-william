@@ -34,7 +34,7 @@
 - **Objectif du moment** : toucher sa première commission (2 % de la villa) ; lancer les deux pilotes en location (école, hôtel) ; sa révision à six mois.
 - **Souci en cours** : éviter William depuis le 23/07 ; ne sait pas que tout le QG sait ; famille au Ghana à charge (30 000 FCFA envoyés le 07/08) ; **paludisme depuis le 08/08 au soir : absente les 09 et 10/08**.
 - **Alliés** : Aïcha (depuis la signature), Mariette. **Tensions** : William.
-- **Agenda de la semaine** : relance de l'acompte ; *(avant : ven. 10/08 point avec Aïcha sur les pilotes → maintenant : lun. 13/08)* ; visite de l'école privée décalée à la semaine prochaine ; **09/08, 13h30 : accepte un appel du patron sur les pilotes, de son lit** ; ven. 10/08, 10h : réunion de direction en visio.
+- **Agenda de la semaine** : relance de l'acompte ; *(avant : ven. 10/08 point avec Aïcha sur les pilotes → maintenant : lun. 13/08)* ; visite de l'école privée décalée à la semaine prochaine ; **09/08, 13h30 : accepte un appel du patron sur les pilotes, de son lit** ; *(avant : ven. 10/08, 10h : réunion de direction en visio → maintenant : semaine de congé accordée par le patron (14h01), elle ne viendra pas ; retour ≈ jeu. 16/08)*.
 - **Secret** : —
 - **Modificateurs T11** : M81
 

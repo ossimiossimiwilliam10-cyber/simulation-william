@@ -172,3 +172,11 @@ Noté 💪🏾 Demain 10h. Boss, c'est en vidéo sur WhatsApp, ou vous nous envo
 
 **[09/08/2040 - 12:43 (Abidjan)] Mariette :**
 Bien reçu, patron. Je serai là.
+
+**[09/08/2040 - 13:03 (Abidjan) / 14:03 (Lisbonne)] William :**
+Yves, la réunion se fera en vidéo sur WhatsApp : c'est beaucoup plus simple et pratique.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[10/08/2040 - 09:39 (Abidjan)] Yves :**
+👍🏾 Noté, Boss. À tout à l'heure.
+*(À venir : non encore arrivé au 09/08, 14h15.)*
