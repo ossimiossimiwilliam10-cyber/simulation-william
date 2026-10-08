@@ -25,3 +25,7 @@ J'écris ce soir à Mme Diomandé, avec vous en copie.
 **[31/07/2040 - 18:35] Me Kouamé :**
 Noté : 5 000 000 FCFA, et M. Yves Kanga comme second signataire. La procuration bancaire est donnée par la gérante ; je l'intègre au courrier de ce soir. La banque demandera sa pièce d'identité et son spécimen de signature.
 Je vous signale que M. Kanga est en période d'essai jusqu'au 15 octobre : s'il quitte la société, il faudra désigner quelqu'un d'autre auprès de la banque.
+
+**[03/08/2040 - 10:20] William :**
+Bonjour Maître. Avez-vous déjà déposé les formalités ? Tenez-moi au courant, s'il vous plaît.
+*(Texte reconstitué à partir de la dictée.)*

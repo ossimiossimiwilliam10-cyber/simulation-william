@@ -828,3 +828,9 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Ibrahim Koné, réponse vendredi : 0-55 accepte, début le 20/08 ; 55-80 accepte, début le 01/09 (préavis prolongé par son employeur) ; 80-100 décline (contre-offre de son employeur) » : probabilité 50 %, jet  78.0 → **NON** [DÉROGATION : réponse d'un candidat externe à une offre, pas une réaction à un acte de pouvoir de William] (enregistré le 08/10/2026 14:02 heure machine)
 
 - Jet « Heure de la réponse d'Aïcha au message sur les évaluations mensuelles : 07h00 + jet × 1 minute (07h00-08h40) » : probabilité 50 %, jet   3.6 → **OUI** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 14:02 heure machine)
+
+- Jet « Me Kouamé répond dans l'heure » : probabilité 55 %, jet  56.0 → **NON** [DÉROGATION : délai d'un tiers à autorité propre (T6)] (enregistré le 08/10/2026 14:08 heure machine)
+
+- Jet « Valeur du portefeuille ETF de William ce matin : 291 285 € × (1 + (jet − 50) / 2500) (variation de marché ±2 %) » : probabilité 50 %, jet  41.3 → **OUI** (enregistré le 08/10/2026 14:08 heure machine)
+
+- Jet « Heure de la réponse de Me Kouamé : 11h30 + jet × 3 minutes (11h30-16h30) » : probabilité 50 %, jet  68.0 → **NON** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 14:08 heure machine)
