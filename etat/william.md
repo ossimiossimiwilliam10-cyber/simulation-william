@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 04/08/2040, 13h38)
+# William Ossimi — profil (état au 04/08/2040, 13h42)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -275,3 +275,4 @@
 - **04/08, 12h18-13h30** : retrouvailles intimes avec Sandra (préservatif ; aucun incident) ; elle l'invite ensuite à dire ce qu'il voulait lui dire « sérieusement ».
 - **04/08, 13h32** : dit à Sandra que « tu t'y plairais ici » était sérieux et lui demande si elle n'est pas fatiguée de faire face au monde seule ; elle : « Je ne sais pas, William. … On en reparlera. Après Mindelo. »
 - **04/08, 13h36-13h38** : demande à Sandra d'arrêter son travail et de venir vivre avec lui, dit avoir lancé OSIA « pour s'occuper » ; elle : « Et vivre de quoi, moi ? … Et si un jour ça ne va plus … ? … Qu'est-ce qui s'est passé, à Abidjan ? »
+- **04/08, 13h39** : à Sandra : vivre de son salaire, « je peux m'engager », « tu vois ce genre d'homme dans mes yeux ? », il a « exagéré » la semaine dernière, l'argent perdu était des dépenses de lancement, il est rentré parce qu'elle lui manquait ; elle : « Non. Je ne vois pas ça dans tes yeux. … Ne me promets rien aujourd'hui. Je vais y penser. Vraiment, cette fois. »
