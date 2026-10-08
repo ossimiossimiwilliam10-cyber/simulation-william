@@ -35,3 +35,6 @@ On est chez mamie à Differdange avec les petits. Maman finit sa valise ici, ell
 **[05/08/2040 - 12:32 (Luxembourg)] William :**
 Oui, je suis bien rentré 🙂 On se revoit bientôt. Prends bien soin de toi, mon grand.
 *(Texte reconstitué à partir de la dictée.)*
+
+**[05/08/2040 - 20:12 (Luxembourg)] Kevin :**
+Merci monsieur 🙂 Vous aussi. Bon voyage demain avec maman.

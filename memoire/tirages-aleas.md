@@ -932,3 +932,9 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Aïcha répond dimanche avant 21h (Abidjan), sinon lundi avant 8h » : probabilité 60 %, jet  33.8 → **OUI** [DÉROGATION : délai de réponse seulement] (enregistré le 08/10/2026 17:16 heure machine)
 
 - Jet « Heure de la réponse d'Aïcha : 14h00 + jet x 4,2 min (Abidjan) » : probabilité 50 %, jet  76.2 → **NON** [DÉROGATION : heure seulement] (enregistré le 08/10/2026 17:16 heure machine)
+
+- Jet « Sandra écrit à William depuis Findel avant d'embarquer (19h20) » : probabilité 55 %, jet  69.5 → **NON** [DÉROGATION : message logistique spontané, délai seulement] (enregistré le 08/10/2026 17:20 heure machine)
+
+- Jet « Heure de la réponse de Kevin : 18h00 + jet x 2,4 min (18h-22h) » : probabilité 50 %, jet  55.1 → **NON** [DÉROGATION : heure seulement] (enregistré le 08/10/2026 17:20 heure machine)
+
+- Jet « Vol de Sandra Luxembourg-Lisbonne à l'heure (retard de moins de 30 min) » : probabilité 80 %, jet  10.5 → **OUI** (enregistré le 08/10/2026 17:20 heure machine)

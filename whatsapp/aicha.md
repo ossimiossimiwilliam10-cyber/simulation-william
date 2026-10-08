@@ -359,3 +359,6 @@ Bien noté, patron. Je le prends en compte pour l'évaluation de Grace. Bon voya
 **[05/08/2040 - 12:52 (Abidjan) / 14:52 (Luxembourg)] William :**
 Bonjour Aïcha. Je te pose la question en tant que patron : quand est-ce que tu vas recevoir ton salaire de juillet ? Et de ton côté, est-ce que ça va aller, avec tes charges ?
 *(Texte reconstitué à partir de la dictée.)*
+
+**[05/08/2040 - 19:20 (Abidjan) / 21:20 (Luxembourg)] Aïcha :**
+Bonsoir patron. Merci de demander. La banque dit que le virement doit revenir sur le compte d'OSIA d'ici le 14 août au plus tard. Ça va aller, patron. Je me permets seulement une chose : si vous êtes d'accord, Mariette peut refaire le virement de mon salaire dès demain, sans attendre le retour de la banque. Quand l'argent reviendra, il restera sur le compte de la société.

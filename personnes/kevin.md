@@ -29,3 +29,4 @@ dessine des voitures au bas de ses copies. *Physique détaillé à préciser.*
 - 04-05/08 : n'écrit pas à William (jets : NON, 50.5 et 82.0).
 - 05/08, 11h47-11h49 : William : « Coucou mon grand, comment tu vas ? » ; Kevin : « Ça va monsieur 🙂 Et vous ? Vous êtes bien rentré ? » ; « On est chez mamie à Differdange avec les petits. Maman finit sa valise ici, elle chante en même temps 😅 Faites attention à elle là-bas. »
 - 05/08, 12h32 : William : « Oui, je suis bien rentré 🙂 On se revoit bientôt. Prends bien soin de toi, mon grand. » ; *(non vu : réponse dans la soirée)*.
+- 05/08, 20h12 : « Merci monsieur 🙂 Vous aussi. Bon voyage demain avec maman. »
