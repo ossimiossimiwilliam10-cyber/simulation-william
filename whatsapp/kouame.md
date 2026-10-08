@@ -50,3 +50,11 @@ Maître, je décide de suivre toutes vos directives. Le gérant, ou la gérante,
 
 **[06/08/2040 - 19:05 (Abidjan) / 20:05 (Lisbonne)] Me Kouamé :**
 Bien noté, Monsieur Ossimi. Je prépare avec Mme Diomandé le modèle de contrat de cadre et la mise à jour du règlement intérieur (450 000 FCFA HT, à la charge de la société : je lui adresse la convention). Pour la gérance : tant que le futur CEO n'est pas désigné, Mme Diomandé reste la gérante. La nomination du gérant relève de votre seule décision d'associé unique ; je la préparerai avec vous, le moment venu, et je n'en parlerai pas à Mme Diomandé sans votre accord. Bien cordialement, Me Kouamé
+
+**[06/08/2040 - 19:07 (Abidjan) / 20:07 (Lisbonne)] William :**
+Maître, tant qu'on fait une restructuration globale : revoyez aussi la matrice d'évaluation avec Mme Diomandé et Mme Kouadio. Rendez-la encore plus détaillée, plus précise, et parfaitement légale. S'il faut revenir vers moi pour me demander ce que je fais sur certaines directives, je répondrai à ce moment-là.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[06/08/2040 - 21:30 (Abidjan) / 22:30 (Lisbonne)] Me Kouamé :**
+Bien noté, Monsieur Ossimi. Je reprends la matrice avec Mmes Diomandé et Kouadio et je l'ajoute à la convention : 150 000 FCFA HT de plus, soit 600 000 FCFA HT au total. Je vous solliciterai sur les points qui demandent votre arbitrage. Me Kouamé
+*(Non lu le soir même : téléphone de William en silencieux.)*

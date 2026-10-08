@@ -55,3 +55,4 @@ Zélé, soucieux de l'image, encore en test sous pression. Peu d'initiative cont
 - 06/08, 18h12 (Abidjan) : « D'accord, Boss 🙏🏾 Je suis à la maison à partir de 19h30. Vous m'appelez quand vous voulez après. »
 - 06/08, 18h42 (Abidjan) : appelé dans le gbaka : « Allô, Boss ? Pardon… je suis dans le gbaka, ça fait trop de bruit, je ne vous entends pas bien. Je peux vous rappeler à 19h30, dès que j'arrive à la maison ? »
 - 06/08, 18h44 (Abidjan) : appel reporté ; à contrecœur : « … Ah. D'accord, Boss. Demain… 15h, ça va ? Je serai à la maison. »
+- 06/08, 19h52 (Abidjan) : « Merci, Boss 🙏🏾 À demain, 15h. »

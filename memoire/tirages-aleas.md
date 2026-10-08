@@ -1087,3 +1087,7 @@ Effets à jouer : A04 (mercredi 08/08 (matin)) : QG sans groupe électrogène (h
 - Jet « Heure proposée par Yves pour demain 07/08, jour férié (0-40 : 9h ; 40-75 : 15h ; 75-100 : 20h, heure d'Abidjan) » : probabilité 50 %, jet  72.0 → **NON** [DÉROGATION : choix d'un horaire par un subordonné, logistique] (enregistré le 08/10/2026 19:41 heure machine)
 
 - Tirage [T10] « Me Kouamé : délai de sa réponse au message de William (« je suis toutes vos directives ; le gérant sera le CEO ; voyez avec Aïcha pour tout mettre en place »), lundi 18h45 à Abidjan, veille de jour férié » : immediat 7 / rapide 18 / dans_l_heure 15 / dans_la_journee 25 / le_soir_ou_lendemain 25 / plus_tard_ou_jamais 10 ; modificateurs : M70 ; jet  16.5 → **rapide** (enregistré le 08/10/2026 19:41 heure machine)
+
+- Tirage [T10] « Me Kouamé : délai de sa réponse à la demande de revoir la matrice d'évaluation avec Aïcha et Mariette (lundi 19h10 à Abidjan, veille de férié) » : immediat 7 / rapide 18 / dans_l_heure 15 / dans_la_journee 25 / le_soir_ou_lendemain 25 / plus_tard_ou_jamais 10 ; modificateurs : M70 ; jet  58.6 → **dans_la_journee** (enregistré le 08/10/2026 19:45 heure machine)
+
+- Tirage [T10] « Yves : délai de sa réponse à « c'est parfait pour moi, à demain » » : immediat 19 / rapide 33 / dans_l_heure 15 / dans_la_journee 14 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 4 ; modificateurs : M73 ; jet  55.4 → **dans_l_heure** (enregistré le 08/10/2026 19:45 heure machine)
