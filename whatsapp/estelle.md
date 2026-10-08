@@ -34,3 +34,19 @@ Le reste est propre. Je remets le tableau à Mme Diomandé demain.
 
 **[05/08/2040 - 10:20 (Abidjan) / 12:20 (Luxembourg)] Estelle :**
 Et tu reviens quand, toi ? 😏
+
+**[05/08/2040 - 10:31 (Abidjan) / 12:31 (Luxembourg)] William :**
+Merci beaucoup, Estelle. C'est du travail de pro. Logique, en même temps 😄 Rapproche-toi d'Aïcha pour régulariser l'ITS de juin : celui d'Aïcha et celui de Mariette Kouadio. C'est vraiment du très bon boulot. Dommage : à quelques semaines près, c'est toi qui aurais été engagée au service conformité. Mais ma proposition tient toujours. Pour ta question : j'ai fait tellement de conneries dans ma vie que, cette fois, je pense avoir trouvé la bonne, et je n'ai plus envie de merder. Il vaut mieux qu'on reste dans un cadre professionnel.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[05/08/2040 - 10:41 (Abidjan) / 12:41 (Luxembourg)] Estelle :**
+Merci 😊 C'est mon métier, hein.
+
+**[05/08/2040 - 10:42 (Abidjan) / 12:42 (Luxembourg)] Estelle :**
+Pour l'ITS… pff. D'accord, je lui montre ça demain. Mais la retenue sur leurs salaires, c'est Mme Diomandé et Mme Kouadio qui feront le calcul : moi je ne fais pas leurs fiches de paie.
+
+**[05/08/2040 - 10:43 (Abidjan) / 12:43 (Luxembourg)] Estelle :**
+La conformité, c'était donc ça… Au café, tu me parlais de direction financière, toi 😏 Ma réponse n'a pas changé : 950 000 net, un CDI, et je viens voir la boîte avant. Tu me diras ce que c'est, le poste, quand tu le sauras.
+
+**[05/08/2040 - 10:44 (Abidjan) / 12:44 (Luxembourg)] Estelle :**
+Et pour le reste… « la bonne ». Ta Sandra, je me souviens. Bon. Cadre professionnel, d'accord 😄 C'est mon cadre préféré : il paie à la fin du mois.

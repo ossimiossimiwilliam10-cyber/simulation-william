@@ -1,4 +1,4 @@
-# Calendrier (au 05/08/2040, 12h20)
+# Calendrier (au 05/08/2040, 12h44)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -203,3 +203,5 @@
 | Dim. 12/08, soir | T4/T5 : affaire Grace (9 informés : interne 27 %, externe 9 %) ; relation William–Aïcha (3). |
 | **Mer. 22/08/2040** | Rappel sur le téléphone de William (05/08) : payer l'ACD (1 097,50 €). |
 | **Ven. 10/08 et mer. 15/08/2040** | *(Signalé par Estelle le 05/08)* OSIA : ITS de juillet avant le 10/08 ; CNPS de juillet avant le 15/08. |
+| Lun. 06/08 | Estelle remet son tableau de trésorerie à Aïcha (courriel). |
+| Mer. 08/08 | *(Non connu de William)* Estelle parle à Aïcha, de vive voix, de la régularisation de l'ITS de juin (à contrecœur, en retard). |

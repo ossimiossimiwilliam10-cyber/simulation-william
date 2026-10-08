@@ -914,3 +914,11 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Kevin répond dans l'heure (dimanche, chez sa grand-mère) » : probabilité 55 %, jet   0.4 → **OUI** [DÉROGATION : délai de réponse d'un proche] (enregistré le 08/10/2026 15:16 heure machine)
 
 - Jet « Heure du message logistique de Sandra : 14h00 + jet x 2,4 min » : probabilité 50 %, jet  17.3 → **OUI** [DÉROGATION : heure seulement] (enregistré le 08/10/2026 15:16 heure machine)
+
+- Tirage [T7c] « Estelle : se rapprocher d'Aïcha pour régulariser l'ITS de juin d'Aïcha et de Mariette (246 000 FCFA payés par la société) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  76.5 → **execute_a_contrecoeur** (enregistré le 08/10/2026 15:25 heure machine)
+
+- Jet « Estelle répond dans la demi-heure » : probabilité 60 %, jet   5.7 → **OUI** [DÉROGATION : délai de réponse seulement] (enregistré le 08/10/2026 15:25 heure machine)
+
+- Jet « Kevin répond dans la demi-heure » : probabilité 60 %, jet  82.7 → **NON** [DÉROGATION : délai de réponse d'un proche] (enregistré le 08/10/2026 15:25 heure machine)
+
+- Jet « Heure de la réponse de Kevin : 13h00 + jet x 3 min (13h-18h) » : probabilité 50 %, jet  96.4 → **NON** [DÉROGATION : heure seulement] (enregistré le 08/10/2026 15:25 heure machine)

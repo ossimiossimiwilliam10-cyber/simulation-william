@@ -31,3 +31,7 @@ Coucou mon grand, comment tu vas ?
 
 **[05/08/2040 - 11:49 (Luxembourg)] Kevin :**
 On est chez mamie à Differdange avec les petits. Maman finit sa valise ici, elle chante en même temps 😅 Faites attention à elle là-bas.
+
+**[05/08/2040 - 12:32 (Luxembourg)] William :**
+Oui, je suis bien rentré 🙂 On se revoit bientôt. Prends bien soin de toi, mon grand.
+*(Texte reconstitué à partir de la dictée.)*
