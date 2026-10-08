@@ -370,3 +370,7 @@ Bonsoir Aïcha. J'accepte totalement votre demande. S'il y a moyen de faire un v
 **[05/08/2040 - 19:52 (Abidjan) / 21:52 (Luxembourg)] William :**
 Aïcha, pourriez-vous me faire parvenir votre diplôme de master ? J'aimerais voir un peu vos compétences théoriques et techniques. Et, si c'est possible, votre CV : j'aimerais beaucoup l'analyser.
 *(Texte reconstitué à partir de la dictée. Lu à 19h53.)*
+
+**[06/08/2040 - 03:10 (Abidjan) / 05:10 (Luxembourg)] William :**
+Aïcha, j'aimerais bien avoir votre retour. Pour être clair : c'est moi qui m'occuperai entièrement de la restructuration. Elle se fera lentement, pôle par pôle. Je contacterai chaque personne moi-même, je lui expliquerai les exigences et je verrai si elle est prête à une renégociation. Les nouvelles têtes, je les chercherai moi-même. Ni vous ni l'équipe n'avez à vous en inquiéter : tout sera géré par moi.
+*(Texte reconstitué à partir de la dictée. Lu à 06h52, heure d'Abidjan.)*

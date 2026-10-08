@@ -249,3 +249,10 @@ Coucou 🙂 Mon vol est à 19h20, j'arrive à Lisbonne vers 21h, Rosa vient me c
 
 **[05/08/2040 - 14:42 (Luxembourg)] Sandra :**
 Les petits sont installés chez ma mère. Kevin dit qu'il va gérer le garage tout seul, comme un patron 😅
+
+**[06/08/2040 - 05:04 (Luxembourg) / 04:04 (Lisbonne)] William :**
+Mon vol est retardé de presque trois heures : contrôle aérien en France. Je rate la correspondance de 10h35. TAP m'a mis sur le vol de demain, même heure, avec une nuit d'hôtel à Lisbonne. J'arrive à Lisbonne vers 10h45.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[06/08/2040 - 07:05 (Luxembourg) / 06:05 (Lisbonne)] Sandra :**
+Quoi ?! Demain ?? 😩 … Bon. Je ne pars pas sans toi. Je vais demander au comptoir de TAP combien ça coûte de changer mon vol pour demain. Si c'est trop cher, on verra. Rosa me dépose vers 8h. Tu atterris à quelle heure, exactement ?

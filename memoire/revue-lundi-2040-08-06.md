@@ -25,10 +25,11 @@
    spontanés (proches, équipe, prestataires), afin de remplacer les dérogations au cas par cas ; elle ne tire jamais le contenu d'une réaction.
 
 ## 3. Décision de l'utilisateur
-*En attente.*
+**William a validé les cinq idées (06/08, vers 05h00, au comptoir de Findel)** : « Je valide toutes tes cinq idées. »
 
 ## 4. Application
 - **Tirage des aléas actifs de la semaine** (`python outils/tirage_aleas.py 2040-08-06`, consigné) : un aléa déclenché, joué au jour tiré, non
   révélé au joueur.
 - **Vie hors d'Abidjan** : expéditeur et jour tirés (jets 59.8 et 65.1), non révélés.
 - T4 et T5 du 05/08 : affaire Grace : aucune escalade, fuite interne (9 informés) ; relation William–Aïcha : rien (3).
+- **Après validation (06/08, 05h02)** : A03, A07, A12, A18 passés « actifs » et tirés pour la semaine (A03 NON 61.7 ; A07 NON 24.6 ; A12 NON 25.8 ; A18 NON 66.6) ; **table T10 (délais) installée** (M70-M74 ; `outils/jet.py --table T10`), premières utilisations : Oasis (dans_l_heure) et Sandra (rapide).

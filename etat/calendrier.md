@@ -1,4 +1,4 @@
-# Calendrier (au 06/08/2040, 04h58)
+# Calendrier (au 06/08/2040, 07h06)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -214,3 +214,4 @@
 | Mer. 08/08, matin | *(Non connu de William)* Aléa A04 : délestage au QG (groupe électrogène hors service), jour de la signature de la villa. |
 | Ven. 10/08 | *(Non connu de William)* Vie hors d'Abidjan : message de Mme Schmit. |
 | **≈ Ven. 31/08** | Déclaration de l'investissement étranger (dans le mois qui suit la réception des fonds du 31/07). |
+| **Mar. 07/08, 10h35 (Lisbonne)** | Vol TAP Lisbonne → São Vicente (reprotection de William ; arrivée 12h40, heure locale) ; Oasis : chambre gardée, nuit du 06 facturée. |

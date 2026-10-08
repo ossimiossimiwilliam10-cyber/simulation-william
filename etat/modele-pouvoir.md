@@ -51,6 +51,7 @@ jets libres (`outils/jet.py "libellé" proba`).
 - **Manœuvres de William** (faire taire, faire croire, demander un service) : T7a, T7b, T7c ; **ordres douteux ou illégaux à un subordonné : T7d** *(levée des verrous, 27/07/2040)*.
 - **Sandra, Kevin, la famille** : **T8** (validée par l'utilisateur le 25/07/2040) pour la **première réaction** à une confidence partielle, une esquive ou une demande déplacée ; les tests d'intérêt et de la phrase s'appliquent ; les **faits de fiche** (ex. Sandra refuse les images intimes) restent des faits, non tirés. *(Avant : « pas de table ; créer T8 le jour où une scène l'exige » → maintenant : T8 installée.)*
 - **Partenaire ou ex-partenaire subordonnée face à une approche relationnelle de William** (conversation sur la relation, invitation hors du travail, mots affectueux ou reproches, tentative de rapprochement ; aujourd'hui : **Aïcha**) : **T9** (validée par l'utilisateur le 27/07/2040). Un geste sexuel, une pression de carrière ou d'argent, ou une approche d'une personne sans lien intime avec William restent en **T1** ; l'information sur une faute du patron reste en **T3**.
+- **Délais (T10, validée par l'utilisateur le 06/08/2040, revue du lundi n° 3)** : l'heure d'une réponse ou d'un message spontané (proches, équipe, prestataires, tiers) se tire en **T10** (M70-M74) au lieu d'un jet libre en dérogation ; la minute précise est fixée par le moteur dans l'intervalle tiré, selon la vie du personnage ; T10 ne décide jamais du contenu ni de l'existence d'une réaction (qui se tirent en T1-T9).
 - Les **scènes déjà jouées** (Grace le 23/07, Mariette le 25/07 à 09h25, Aïcha le 25/07 à 09h50) restent telles que jouées ; leurs suites
   passent par les tables.
 
@@ -187,6 +188,16 @@ Règles de rôle, sans tirage ; l'argent et le statut de William ne les achèten
 | cherche_ailleurs | 4 | Elle cherche un autre poste sans rien dire ; démission dans 1 à 6 mois, motif « opportunité ». |
 | frontal_limite | 1 | Une limite nette, en une phrase (« Je préfère qu'on en reste au travail, patron. »), ou la démission de son mandat : jouer l'acte, pas un discours. |
 
+### T10 — Délai d'une réponse ou d'un message spontané (heure seulement ; le contenu se tire ailleurs)
+| Issue | % | En scène |
+|---|---|---|
+| immediat | 15 | Moins de 5 minutes. |
+| rapide | 25 | De 5 à 30 minutes. |
+| dans_l_heure | 15 | De 30 à 60 minutes. |
+| dans_la_journee | 20 | De 1 à 6 heures. |
+| le_soir_ou_lendemain | 15 | De 6 à 24 heures. |
+| plus_tard_ou_jamais | 10 | Plus de 24 heures, ou pas de message. |
+
 ### Modificateurs (liste fermée ; 3 au maximum par tirage ; chacun déplace des points d'une issue vers une autre)
 | Code | Tables | Effet | Quand l'appliquer |
 |---|---|---|---|
@@ -230,6 +241,11 @@ Règles de rôle, sans tirage ; l'argent et le statut de William ne les achèten
 | M60 | T7d | execute_sans_question +10 ; traine -4 ; refus_discret -4 ; frontal_refus -2 | Pratique courante dans le milieu (arrangement, petite fraude répandue) |
 | M61 | T7d | execute_en_se_couvrant +6 ; refus_discret +4 ; contourne +4 ; execute_sans_question -14 | Risque personnel fort (son nom, sa signature, le pénal) |
 | M62 | T7d | execute_sans_question +6 ; execute_en_se_couvrant +2 ; traine -4 ; refus_discret -4 | Avantage personnel promis (prime, promotion) |
+| M70 | T10 | le_soir_ou_lendemain +10 ; dans_la_journee +5 ; immediat -8 ; rapide -7 | Sommeil, garde de nuit, travail, trajet ou décalage horaire au moment du message |
+| M71 | T10 | immediat +8 ; rapide +7 ; dans_la_journee -7 ; le_soir_ou_lendemain -5 ; plus_tard_ou_jamais -3 | Enjeu fort ou urgent pour la personne (argent, poste, sécurité, logistique du jour) |
+| M72 | T10 | plus_tard_ou_jamais +8 ; le_soir_ou_lendemain +5 ; immediat -6 ; rapide -7 | Froideur, évitement ou rancune déjà tirés |
+| M73 | T10 | rapide +8 ; immediat +4 ; dans_la_journee -6 ; plus_tard_ou_jamais -6 | Subordonné qui répond au patron (registre hiérarchique) |
+| M74 | T10 | plus_tard_ou_jamais +10 ; dans_la_journee -4 ; le_soir_ou_lendemain -6 | Message spontané sans raison particulière (« écrira-t-il aujourd'hui ? », tiré jour par jour) |
 
 ## 6. William n'est pas un dieu (symétrie)
 1. **Ses manœuvres sur autrui sont tirées** (T7) ; aucune réussite automatique, même quand sa position est forte ; le « succès net » est plafonné.

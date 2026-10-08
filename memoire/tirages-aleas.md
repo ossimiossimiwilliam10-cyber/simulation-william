@@ -979,3 +979,19 @@ Effets à jouer : A04 (mercredi 08/08 (matin)) : QG sans groupe électrogène (h
 - Jet « Retard du vol Luxembourg-Lisbonne : 20 + jet x 1,6 min (20 à 180 min) » : probabilité 50 %, jet  97.7 → **NON** (enregistré le 08/10/2026 17:38 heure machine)
 
 - Jet « Cause du retard (0-40 avion arrivé en retard de Lisbonne la veille / rotation ; 40-70 contrôle aérien (créneau) ; 70-100 problème technique) » : probabilité 50 %, jet  58.3 → **NON** (enregistré le 08/10/2026 17:38 heure machine)
+
+- Jet « A03 (validé le 06/08) : maladie ou accident d'un des enfants de Sandra, semaine du 06/08 » : probabilité 8 %, jet  61.7 → **NON** (enregistré le 08/10/2026 17:47 heure machine)
+
+- Jet « A07 (validé le 06/08) : panne de réseau ou de banque en ligne, semaine du 06/08 » : probabilité 15 %, jet  24.6 → **NON** (enregistré le 08/10/2026 17:47 heure machine)
+
+- Jet « A12 (validé le 06/08) : fuite d'information (salaires, avances, statut de William), semaine du 06/08 » : probabilité 5 %, jet  25.8 → **NON** (enregistré le 08/10/2026 17:47 heure machine)
+
+- Jet « A18 (validé le 06/08) : incident de transport, semaine du 06/08 » : probabilité 15 %, jet  66.6 → **NON** (enregistré le 08/10/2026 17:47 heure machine)
+
+- Jet « Organisation de Sandra face au retard de William (0-60 : elle part seule comme prévu sur son billet séparé, sa tia l'attend ; 60-85 : elle demande à William ce qu'il préfère ; 85-100 : elle cherche à changer son vol pour rester à Lisbonne avec lui) » : probabilité 50 %, jet  94.0 → **NON** [DÉROGATION : organisation d'une proche face à un aléa de voyage, pas une réaction à un acte de pouvoir] (enregistré le 08/10/2026 17:47 heure machine)
+
+- Tirage [T10] « Sandra : délai de sa réponse au message de William sur le retard (envoyé à 04h04 heure de Lisbonne, elle dort jusqu'à 05h50 ; logistique du jour) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 18 / le_soir_ou_lendemain 20 / plus_tard_ou_jamais 7 ; modificateurs : M70, M71 ; jet  30.0 → **rapide** (enregistré le 08/10/2026 17:47 heure machine)
+
+- Tirage [T10] « Oasis Porto Grande : délai de réponse au courriel de William (envoyé à 03h06 heure de Mindelo, réception de nuit) » : immediat 7 / rapide 18 / dans_l_heure 15 / dans_la_journee 25 / le_soir_ou_lendemain 25 / plus_tard_ou_jamais 10 ; modificateurs : M70 ; jet  34.8 → **dans_l_heure** (enregistré le 08/10/2026 17:47 heure machine)
+
+- Tirage [T7c] « Aïcha : William (vouvoiement) lui demande « un retour » sur la nouvelle organisation et lui annonce qu'il mènera seul la restructuration, pôle par pôle, en contactant chacun pour une éventuelle renégociation et en cherchant lui-même les nouvelles têtes, « ne vous inquiétez pas » » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet   4.1 → **execute_sans_discuter** (enregistré le 08/10/2026 17:47 heure machine)
