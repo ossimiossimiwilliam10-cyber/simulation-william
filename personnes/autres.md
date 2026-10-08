@@ -48,3 +48,4 @@
 - **Candidats SAV (01/08)** *(créés par le moteur)* : **Ibrahim Koné**, 26 ans, BTS électronique, trois ans chez un installateur de groupes et d'onduleurs, solaire hors réseau pour une ONG à Korhogo, 380 000 FCFA brut demandés, disponible sous quinze jours — recommandé par Abdoul et Yves ; **Christelle Adou**, 24 ans, BTS électrotechnique, stage SAV télécom ; **Serge Tano**, 29 ans, en retard, 450 000 demandés.
 - **Ibrahim Koné (01/08)** : retenu sur ordre de William (« quoi qu'il en coûte ») ; offre d'Aïcha à 16h40 (380 000 FCFA brut) ; demande jusqu'à vendredi pour en parler à son employeur.
 - **Propriétaire de la villa Riviera (01/08, 16h20)** : accepte l'option A (15 900 000 FCFA HT) par téléphone à Grace ; demande un acompte de 20 % ; veut signer la semaine prochaine.
+- **Ibrahim Koné (03/08)** : accepte l'offre d'OSIA ; début le 01/09, son employeur prolongeant son préavis.

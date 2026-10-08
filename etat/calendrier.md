@@ -1,4 +1,4 @@
-# Calendrier (au 03/08/2040, 10h45)
+# Calendrier (au 03/08/2040, 17h01)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -142,6 +142,9 @@
 | **Lun. 06/08, 06h00** | **Vol Luxembourg → Lisbonne → São Vicente (Mindelo)** (TAP, économie, réservé le 30/07) ; arrivée 12h40, heure locale. Pré-enregistrement EASE au moins cinq jours avant l'arrivée (au plus tard le 01/08). |
 | **Dim. 05/08, soir** | Sandra vole Luxembourg → Lisbonne (nuit chez sa cousine Rosa) ; le 06/08, elle prend le même vol que William Lisbonne → São Vicente ; retour le 13/08 par Sal (six heures d'escale). |
 | **Lun. 06/08 → dim. 12/08** | Hotel Oasis Porto Grande, Mindelo (six nuits, 1 032 €, paiement sur place ; annulation gratuite jusqu'au 03/08). EASE fait le 30/07. |
+| **Lun. 06/08** | Me Kouamé dépose au CEPICI l'augmentation de capital et les statuts modifiés (extrait RCCM modifié sous une à deux semaines). |
+| **Mer. 08/08** | Signature du contrat de la villa Riviera (acompte 3 180 000 FCFA HT). |
+| **Sam. 01/09** | Arrivée d'Ibrahim Koné, technicien SAV (380 000 FCFA brut). |
 | **Mar. 07/08** | Fête nationale de Côte d'Ivoire (jour férié ; William à Mindelo). |
 | **Dim. 12/08, 23h55** | Retour São Vicente → Lisbonne → Luxembourg (arrivée lun. 13/08, 10h35). |
 | **Sam. 18/08** | Enterrement de l'oncle Joseph (frère aîné du père de William), au village, au Cameroun ; le père demande 5 300 € (message du 31/07). |

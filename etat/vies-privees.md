@@ -191,3 +191,4 @@
 - **Mariette (02/08, soir)** : rien ne lui est encore dit de la pénalité ; elle refait le tableau des RIB ligne par ligne, deux fois.
 - **Grace (03/08, 08h30)** : écoute Yves parler « au nom de Monsieur Ossimi » sans lever les yeux ; elle note « Kanga = canal direct du patron » en marge de son cahier ; à 9h10 elle part la première pour la relance de l'école privée. *Intérêt : ne pas se laisser doubler par un cadet ; garder ses contacts avec le patron par écrit seulement.*
 - **Yves (03/08, 10h)** : écrit son compte rendu dans la cour du QG, pouce levé vers Abdoul, qui hausse les épaules.
+- **Grace (03/08, 15h)** : finit sa note seule au QG ; elle met son nom en bas, sans « pour la direction » ; elle l'envoie aussi en copie personnelle à son adresse.

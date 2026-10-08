@@ -130,3 +130,4 @@
 - **01/08/2040** : **premier client** : villa Riviera, option A (15 900 000 FCFA HT), acompte de 20 %, signature la semaine prochaine ; recrutement du technicien SAV (Ibrahim Koné, réponse vendredi).
 - **02/08/2040** : bulletin de souscription signé (11h50) ; **statuts modifiés signés par l'associé unique (11h58)** : autorisations préalables (5 M / 10 M FCFA, actes réservés), double signature au-delà de 5 M (Aïcha + Yves), relevés en copie, état mensuel de trésorerie ; formalités à réception de l'attestation.
 - **03/08/2040** : attestation de versement délivrée (07h50) et déposée au cabinet ; dernier point d'équipe tenu sans William (Yves porte-parole) ; William décide de passer aux évaluations mensuelles (avis de Me Kouamé demandé).
+- **03/08/2040 (après-midi)** : Koné accepte (début le 01/09) ; note de Grace sur la location (deux pilotes) ; villa : signature le 08/08 ; dépôt au CEPICI le 06/08.

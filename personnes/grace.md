@@ -48,3 +48,4 @@ son contrat lui interdit les marchés publics et les commissions.
 - 01/08, 16h32-16h43 : William : « Félicitations, Grace ! Bravo pour ce premier client. J'accepte l'acompte de 20 %. » ; elle (T7c : à contrecœur) : « Merci, Monsieur Ossimi. C'est noté pour les 20 %. Je transmets au client et à Mme Diomandé. G. Adjoua-Mensah »
 - 02/08 (non vu par William) : appelle le client de la villa : acompte de 20 % confirmé ; rédige le projet de contrat.
 - 03/08, point d'équipe (non vu par William) : T1 evitement : au bout de la table, notes, aucune question, sort la première.
+- 03/08, 15h59 : dépose sa note sur les offres en location (deux pilotes ; partenaire financier).

@@ -344,3 +344,7 @@ D'accord, vois ça avec Maître Kouamé. En fait, c'est mieux qu'on passe à une
 
 **[03/08/2040 - 07:04] Aïcha :**
 Bien noté, patron. J'écris ce matin à Maître Kouamé pour la matrice et le passage à une évaluation mensuelle.
+
+**[03/08/2040 - 17:01] Aïcha :**
+Patron, le rapport de vendredi est dans direction. Bon voyage.
+*(Pièce : `serveur/direction/rapport_direction_0308.pdf`.)*

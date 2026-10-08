@@ -29,3 +29,6 @@ Je vous signale que M. Kanga est en période d'essai jusqu'au 15 octobre : s'il 
 **[03/08/2040 - 10:20] William :**
 Bonjour Maître. Avez-vous déjà déposé les formalités ? Tenez-moi au courant, s'il vous plaît.
 *(Texte reconstitué à partir de la dictée.)*
+
+**[03/08/2040 - 14:54] Me Kouamé :**
+Bonjour, Monsieur Ossimi. J'ai l'attestation depuis ce matin. Je dépose le dossier lundi au guichet unique du CEPICI : enregistrement des actes (droits à la charge de la société), inscription modificative au RCCM, annonce légale. Avec le jour férié du 7, comptez une à deux semaines pour l'extrait RCCM modifié. Je vous l'enverrai.

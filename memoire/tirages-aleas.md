@@ -834,3 +834,11 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Valeur du portefeuille ETF de William ce matin : 291 285 € × (1 + (jet − 50) / 2500) (variation de marché ±2 %) » : probabilité 50 %, jet  41.3 → **OUI** (enregistré le 08/10/2026 14:08 heure machine)
 
 - Jet « Heure de la réponse de Me Kouamé : 11h30 + jet × 3 minutes (11h30-16h30) » : probabilité 50 %, jet  68.0 → **NON** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 14:08 heure machine)
+
+- Jet « Heure de dépôt de la note « location » de Grace sur le serveur : 13h00 + jet × 2,4 minutes (13h00-17h00) » : probabilité 50 %, jet  74.6 → **NON** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 14:11 heure machine)
+
+- Jet « Rapport d'Aïcha à l'heure (17h00) » : probabilité 85 %, jet  19.5 → **OUI** (enregistré le 08/10/2026 14:11 heure machine)
+
+- Jet « Sandra écrit à William dans l'après-midi (avant 17h Abidjan) » : probabilité 40 %, jet  86.1 → **NON** [DÉROGATION : message spontané d'une proche, délai seulement] (enregistré le 08/10/2026 14:11 heure machine)
+
+- Jet « Estelle écrit à William aujourd'hui (elle a appris son départ par Aïcha ou Yves) » : probabilité 30 %, jet  60.1 → **NON** [DÉROGATION : message spontané d'une relation récente, délai seulement ; contenu selon son motif de fiche (attirance et calcul)] (enregistré le 08/10/2026 14:11 heure machine)
