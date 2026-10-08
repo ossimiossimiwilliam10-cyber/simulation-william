@@ -784,3 +784,11 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Taxi Capitol → Plateau (départ 11h05) : arrivée au cabinet avant 11h45 » : probabilité 70 %, jet   9.5 → **OUI** (enregistré le 08/10/2026 12:42 heure machine)
 
 - Jet « Friction au cabinet : une erreur matérielle dans la décision modifiant les statuts oblige à la retaper avant signature (attente) » : probabilité 30 %, jet  71.6 → **NON** (enregistré le 08/10/2026 12:45 heure machine)
+
+- Jet « SGBCI : attestation de versement délivrée jeudi après-midi après remise du bulletin (sinon vendredi matin) » : probabilité 50 %, jet  82.0 → **NON** (enregistré le 08/10/2026 12:48 heure machine)
+
+- Jet « Sandra : décision sur son billet — 0-45 elle réserve elle-même un vol moins cher avec escale ; 45-75 elle accepte que William paie, avec remboursement mensuel ; 75-100 elle repousse la décision au week-end, quand il sera rentré » : probabilité 50 %, jet  32.5 → **OUI** [DÉROGATION : décision budgétaire de Sandra sur son propre billet (après le T8 plaisante_et_devie déjà tiré), pas une première réaction] (enregistré le 08/10/2026 12:48 heure machine)
+
+- Jet « Heure du message de Sandra (Abidjan) : 12h30 + jet × 6 minutes (12h30-22h30) » : probabilité 50 %, jet  56.4 → **NON** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 12:48 heure machine)
+
+- Jet « Rapport d'Aïcha à l'heure (17h00) » : probabilité 85 %, jet   0.1 → **OUI** (enregistré le 08/10/2026 12:48 heure machine)

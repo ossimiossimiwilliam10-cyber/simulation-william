@@ -180,3 +180,5 @@
 - **Yves (02/08, 08h40)** : signe son spécimen au guichet, en costume, et photographie le reçu.
 - **Me Kouamé (02/08, 11h40)** : entre deux dossiers, une tasse de café froid sur le bureau ; il a fait taper le bulletin par sa secrétaire à 10h50 et l'a relu deux fois.
 - **Aïcha (02/08, 12h30)** : passe au cabinet ; la secrétaire lui remet le bulletin et une copie de la décision du jour ; elle lit l'article 8 debout dans le hall, range la feuille dans sa chemise et part pour la SGBCI.
+- **Grace (02/08, matin)** : au téléphone avec le client, elle annonce le 20 % comme « un geste de la direction » ; le client remercie ; elle raccroche sans sourire.
+- **Aïcha (02/08, 16h)** : écrit « un virement a été mal affecté » et efface « mon salaire » ; elle a emprunté 60 000 FCFA à Fanta pour les médicaments de sa mère.

@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 02/08/2040, 12h05)
+# William Ossimi — profil (état au 02/08/2040, 17h01)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -257,3 +257,4 @@
 - **02/08, 06h40-09h26** : à Sandra : « D'accord alors 🙂 On en reparle. » ; matinée à l'hôtel ; 09h26 : Aïcha : attestation pas prête, bulletin de souscription à signer de sa main (avec passeport), procuration et spécimen d'Yves acceptés.
 - **02/08, 09h31-11h52** : envoie la copie de son passeport à Aïcha ; taxi au Plateau ; **signe de sa main le bulletin de souscription** au cabinet ; Me Kouamé lui propose de signer aussi les statuts modifiés maintenant ou à 15h.
 - **02/08, 11h53-12h05** : signe au cabinet la décision modifiant les statuts (au lieu de 15h) ; quitte le Plateau à 12h05.
+- **02/08, 12h05-17h01** : déjeuner au Plateau, retour au Capitol à 13h40, repos ; 17h : rapport d'Aïcha (attestation demain ; un salaire mal affecté ; rien à décider).

@@ -302,3 +302,7 @@ Je t'envoie la copie de mon passeport. Fais préparer le bulletin de souscriptio
 
 **[02/08/2040 - 09:41] Aïcha :**
 Bien noté, patron. J'ai appelé le cabinet : le bulletin sera prêt vers 11h30. Ils n'ont pas de coursier aujourd'hui ; Maître Kouamé peut vous recevoir à 11h45. Dès que vous l'avez signé, je le porte à la banque.
+
+**[02/08/2040 - 17:01] Aïcha :**
+Patron, le rapport de jeudi est dans direction.
+*(Pièce : `serveur/direction/rapport_direction_0208.pdf`.)*
