@@ -378,3 +378,7 @@ Aïcha, j'aimerais bien avoir votre retour. Pour être clair : c'est moi qui m'o
 **[06/08/2040 - 08:20 (Abidjan) / 10:20 (Luxembourg)] Aïcha :**
 Bonjour patron. Je vous ai envoyé par courriel mon CV et mon diplôme de master. Pour l'organisation : c'est vous qui décidez ; les quatre pôles me paraissent cohérents. Le virement de mon salaire est arrivé ce matin. Merci, patron.
 *(Courriel du même instant : « Patron, veuillez trouver ci-joint mon CV et la copie de mon diplôme de master. Cordialement. Aïcha Diomandé, Gérante, OSIA Énergies SARL » ; pièces : CV et diplôme, dans `courriels/`.)*
+
+**[06/08/2040 - 11:27 (Abidjan) / 12:27 (Lisbonne)] William :**
+Madame Diomandé, êtes-vous libre pour un appel ? C'est important.
+*(Texte reconstitué à partir de la dictée.)*

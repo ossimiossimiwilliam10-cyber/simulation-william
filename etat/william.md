@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 06/08/2040, 12h25)
+# William Ossimi — profil (état au 06/08/2040, 12h30)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -296,3 +296,4 @@
 - **06/08, 12h06-12h12 (Lisbonne)** : à Yves : « Tu es disponible là, tout de suite ? Ce serait cool. » ; arrivée à l'hôtel d'Olivais ; Yves appelle à 12h12.
 - **06/08, 12h12-12h21 (Lisbonne)** : appel avec Yves (vouvoiement désormais) : réorganisation complète exposée, « pas confidentielle » ; Yves affecté au pôle Business & Client avec une équipe à superviser ; relevés de notes demandés (Yves n'a pas de master : BTS + licence pro) ; renégociation et revalorisation proposées ; Yves préfère une visio demain ; il demande où sera Aïcha.
 - **06/08, 12h21-12h25 (Lisbonne)** : à Yves : pas besoin de master ni de relevés ; visio directe ; revendications à préparer ; clauses de rétrogradation (évaluation), promotion, licenciement (cas extrêmes) ; il charge Yves d'expliquer tout à Aïcha (« je voulais la mettre CEO, mais je me demande si elle a les épaules » ; pas de licenciement ni de fin d'essai) et de faire voir les contrats par Me Kouamé.
+- **06/08, 12h26-12h30 (Lisbonne)** : à Yves : « Yves, en effet, c'est délicat : je l'expliquerai moi-même à Madame Diomandé. Laissez tomber, occupez-vous uniquement de la partie qui vous concerne. 😄 Et c'était quoi, ce soupir ? Le poste ne vous convient pas, finalement ? » ; à Aïcha : « Madame Diomandé, êtes-vous libre pour un appel ? C'est important. » ; Sandra monte poser la valise.
