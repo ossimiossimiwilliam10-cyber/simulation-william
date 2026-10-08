@@ -362,3 +362,7 @@ Bonjour Aïcha. Je te pose la question en tant que patron : quand est-ce que tu 
 
 **[05/08/2040 - 19:20 (Abidjan) / 21:20 (Luxembourg)] Aïcha :**
 Bonsoir patron. Merci de demander. La banque dit que le virement doit revenir sur le compte d'OSIA d'ici le 14 août au plus tard. Ça va aller, patron. Je me permets seulement une chose : si vous êtes d'accord, Mariette peut refaire le virement de mon salaire dès demain, sans attendre le retour de la banque. Quand l'argent reviendra, il restera sur le compte de la société.
+
+**[05/08/2040 - 19:31 (Abidjan) / 21:31 (Luxembourg)] William :**
+Bonsoir Aïcha. J'accepte totalement votre demande. S'il y a moyen de faire un virement instantané, je l'accepte aussi : je connais cette situation, il faut que vous ayez vos fonds le plus rapidement possible. Autre chose : je réfléchis à une nouvelle organisation de la direction. Quatre pôles : Business & Client (Grace et Yves), Technique & Déploiement (Abdoul), Support & Légal (Mariette et Esther), et un pôle financier. Ils seraient regroupés sous deux directeurs généraux : l'un pour les opérations, l'autre pour le support et les finances. Qu'en pensez-vous ?
+*(Texte reconstitué à partir de la dictée ; premier vouvoiement de William. Lu à 19h44.)*

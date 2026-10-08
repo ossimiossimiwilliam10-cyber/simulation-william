@@ -938,3 +938,11 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Heure de la réponse de Kevin : 18h00 + jet x 2,4 min (18h-22h) » : probabilité 50 %, jet  55.1 → **NON** [DÉROGATION : heure seulement] (enregistré le 08/10/2026 17:20 heure machine)
 
 - Jet « Vol de Sandra Luxembourg-Lisbonne à l'heure (retard de moins de 30 min) » : probabilité 80 %, jet  10.5 → **OUI** (enregistré le 08/10/2026 17:20 heure machine)
+
+- Tirage [T1] « Aïcha (dimanche 19h30 à Abidjan) : William accepte de refaire son salaire tout de suite (virement instantané), passe au vouvoiement et lui demande son avis sur une nouvelle direction (quatre pôles sous deux directeurs généraux) où elle n'apparaît pas, quatre jours après sa menace écrite (« soit tu t'en vas, soit j'agrandis l'équipe de direction centrale ») ; M01 : aucun filet (mère malade, dettes, essai) ; M02 : Mariette, meilleure amie au QG ; M16 : besoin d'argent pressant et poste à protéger ; règle de l'utilisateur : depart_discret exclue (points à rien_absorption) » : rien_absorption 28 / evitement 15 / confidence_proche 13 / confidence_collegue 16 / reciproque 6 / calcul 12 / negociation_tacite 6 / depart_discret 4 / frontal_formel 0 ; modificateurs : M01, M02, M16 ; jet  50.6 → **confidence_proche** (enregistré le 08/10/2026 17:31 heure machine)
+
+- Jet « Aïcha répond dans l'heure (dimanche soir) » : probabilité 45 %, jet  91.8 → **NON** [DÉROGATION : délai de réponse seulement] (enregistré le 08/10/2026 17:31 heure machine)
+
+- Jet « Aïcha répond dimanche avant 23h (Abidjan), sinon lundi matin » : probabilité 50 %, jet  51.1 → **NON** [DÉROGATION : délai de réponse seulement] (enregistré le 08/10/2026 17:31 heure machine)
+
+- Jet « Heure de la réponse d'Aïcha lundi : 06h30 + jet x 1,5 min (Abidjan) » : probabilité 50 %, jet  73.2 → **NON** [DÉROGATION : heure seulement] (enregistré le 08/10/2026 17:31 heure machine)

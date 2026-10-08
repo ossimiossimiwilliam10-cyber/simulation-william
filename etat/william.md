@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 05/08/2040, 21h20)
+# William Ossimi — profil (état au 05/08/2040, 21h45)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -284,3 +284,4 @@
 - **05/08, 12h50-14h42** : valise pour Mindelo faite (machine lancée, linge à sécher) ; déjeuner : pâtes au thon ; 14h42 : message logistique de Sandra (Lisbonne : après le contrôle des passeports, vols hors Schengen).
 - **05/08, 14h45-14h55** : prend note du message de Sandra (pas de réponse) ; à Estelle : « Sois patiente : une offre va arriver bientôt. Surtout au vu de la qualité de ton travail. » ; à Aïcha (« en tant que patron ») : salaire de juillet, charges ; **note avec rappel (date non précisée) : restructuration de la direction en quatre pôles** (Business & Client : Grace + Yves ; Technique : Abdoul + sous-traitants ; Support & Légal : Mariette + Esther ; Finance : Estelle ? ; Aïcha coordonne) ; 15h08 : Estelle attend une offre écrite.
 - **05/08, 15h10-21h20** : après-midi à la maison (linge, valise d'Abidjan rangée, match à la télévision, pâtes au thon) ; Kevin : « Merci monsieur 🙂 Vous aussi. Bon voyage demain avec maman. » ; 21h20 : Aïcha demande que son salaire soit refait dès demain sans attendre le retour de la banque.
+- **05/08, 21h31** : à Aïcha, **premier vouvoiement** : accord total pour refaire son salaire (virement instantané si possible) ; présentation de la nouvelle direction (quatre pôles, deux directeurs généraux, sans elle), avis demandé ; lu à 21h44, pas de réponse. Organigramme cible complet gardé pour lui (`C:/Users/User/Downloads/organigramme_osia.md` : CEO à recruter, DG opérations, DG support et finances « Estelle ? », équipes de 2 à 3 par pôle).

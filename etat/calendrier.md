@@ -1,4 +1,4 @@
-# Calendrier (au 05/08/2040, 21h20)
+# Calendrier (au 05/08/2040, 21h45)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -209,3 +209,4 @@
 | **Lun. 06/08, ≈ 08h30 (Lisbonne)** | Sandra à l'aéroport ; rendez-vous avec William après le contrôle des passeports, côté vols hors Schengen (vol pour São Vicente à 10h35). |
 | Dim. 05/08, 21h20 (Luxembourg) | *(Non connu de William)* Réponse d'Aïcha sur son salaire (T9 : negocie). |
 | Date à fixer | Rappel téléphone de William : restructuration de la direction d'OSIA en quatre pôles (note du 05/08). |
+| Lun. 06/08, matin (Abidjan) | *(Non connu de William)* Mariette refait le salaire de juillet d'Aïcha en virement instantané (PI-SPI) ; réponse d'Aïcha à William à 08h20 (10h20 à Luxembourg). |

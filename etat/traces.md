@@ -143,3 +143,4 @@
 | 05/08, 12h31 | **William écrit à Estelle qu'il a « trouvé la bonne » et veut rester dans un cadre professionnel** | Écrit (WhatsApp) | Estelle | **Faible** |
 | 05/08, 14h50 | **William écrit à Estelle qu'« une offre va arriver bientôt »** | Écrit (WhatsApp) | Estelle | **Faible à moyenne** : deuxième promesse d'emploi écrite à une prestataire ; elle attend une offre écrite |
 | 05/08, 14h52 | **William demande à Aïcha, « en tant que patron », quand elle recevra son salaire et si ça va aller avec ses charges** | Écrit (WhatsApp) | Aïcha | **Faible** |
+| 05/08, 21h31 | **William, en vouvoyant Aïcha pour la première fois, lui soumet une direction à deux directeurs généraux où elle n'apparaît pas, trois jours après « soit tu t'en vas, soit j'agrandis l'équipe de direction centrale »** | Écrit (WhatsApp) | Aïcha (et Fanta, oralement) | **Moyenne** : ensemble de messages qui peut se lire comme une mise à l'écart pendant la période d'essai |
