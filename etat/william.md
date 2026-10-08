@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 04/08/2040, 11h50)
+# William Ossimi — profil (état au 04/08/2040, 12h15)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -270,3 +270,4 @@
 - **03/08, 17h40-23h20** : libère la chambre 312 (47 500 FCFA), demande à Aïcha de tenir compte de l'étude de Grace dans son évaluation ; taxi pour l'aéroport, vol de 23h20. **04/08** : Paris, puis Luxembourg à 10h35 ; Sandra l'attend au Findel.
 - **04/08, 10h59** : retrouve Sandra au Findel (câlin ; « Tu vois, je suis bien revenu. Et même plus tôt que prévu. ») ; elle propose café, et « chez toi, ou chez moi ? ».
 - **04/08, 11h02-11h50** : « Chez moi » ; trajet avec Sandra jusqu'à Audun-le-Tiche ; Kevin sait qu'il est rentré (« Il a tenu parole, alors ») ; la maison est prête (plantes, cachupa, chaudière éteinte).
+- **04/08, 11h52-12h15** : « tu t'y plairais bien ici » (à moitié en riant) ; invite Sandra sous la douche ; elle accepte après une question (« vraie question ? ») ; chaudière à rallumer ; au seuil, elle demande s'il a ce qu'il faut.
