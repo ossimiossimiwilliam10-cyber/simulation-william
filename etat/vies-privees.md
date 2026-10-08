@@ -186,3 +186,4 @@
 - **Aïcha (02/08, 17h49)** : répond en sortant du QG, sous le manguier du portail ; elle ajoute les excuses de Mariette avant d'envoyer. *Intérêt : que le patron n'en fasse pas une affaire ; Mariette lui a avancé 20 000 FCFA à midi.*
 - **Sandra (02/08, 20h à Esch)** : a payé son billet avec sa carte, en trois fois sans frais proposées par l'agence en ligne ; elle a appelé Rosa à Lisbonne, qui a crié de joie ; elle écrit à William en souriant, debout dans la cuisine. *Intérêt : partir à égalité ; ne rien devoir.*
 - **Aïcha (02/08, 19h)** : lit le message du patron dans le gbaka ; elle ne dira rien à Mariette ce soir ; elle répondra en rentrant.
+- **Aïcha (02/08, 19h)** : lit les deux messages dans le gbaka, entre Riviera 2 et Angré ; elle relit « soit tu t'en vas » deux fois, range le téléphone, le ressort, répond à 19h22 ; chez elle, elle ne dîne pas et ne raconte rien à sa mère. *Intérêt : tenir jusqu'au 21 novembre ; le salaire, sa mère.*

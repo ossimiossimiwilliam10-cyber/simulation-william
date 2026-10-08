@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 02/08/2040, 18h08)
+# William Ossimi — profil (état au 02/08/2040, 18h16)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -261,3 +261,4 @@
 - **02/08, 17h05-17h21** : demande à Aïcha des détails sur le virement mal affecté ; c'est son salaire à elle (erreur de RIB) ; « Ce n'est pas grave, patron. »
 - **02/08, 17h25-17h49** : demande à Aïcha si c'est Mariette qui a saisi les RIB ; « Oui… elle s'est excusée… demande de retour faite ».
 - **02/08, 17h55-18h08** : exige que l'erreur de Mariette soit pénalisée dans sa prochaine évaluation et demande à Aïcha s'il faut raccourcir le délai entre évaluations ; 18h08 : Sandra a payé elle-même un billet moins cher (1 090 €), « garde tes sous pour le poisson grillé ».
+- **02/08, 18h15** : à Aïcha : déçu qu'elle minimise, « soit tu t'en vas, soit j'agrandis l'équipe de direction centrale », métaphore de l'avion sur une piste courte (la trésorerie), sa réaction comptera dans sa prochaine évaluation.

@@ -326,3 +326,9 @@ Oui, patron. C'est Mariette qui a préparé l'ordre groupé. Elle a vu l'erreur 
 Cet incident ne doit pas rester impuni. Qu'est-ce qu'on aurait fait si les fonds étaient partis sur le compte de quelqu'un d'autre, et que cette personne, malhonnête, avait refusé de nous rendre l'argent ? On aurait fini par le récupérer, mais avec des procédures longues, compliquées et coûteuses : combien de temps, et surtout combien d'argent ? C'est pour ça qu'elle doit rester attentive. Je veux que cet incident soit pénalisé dans sa prochaine évaluation.
 Et en parlant des évaluations : tu ne penses pas que trois mois, c'est un peu long ? Tu ne penses pas qu'on devrait raccourcir le délai entre deux évaluations ?
 *(Texte reconstitué à partir de la dictée.)*
+
+**[02/08/2040 - 18:15] William :**
+Aïcha, je suis relativement déçu que tu minimises autant cet incident. C'est toi la DG : tu dois être minutieuse. Si tu laisses passer des choses comme ça, en s'accumulant, on va perdre des millions à l'année. Ce n'est pas correct. Tu dois être plus sensible à ce genre d'événement et ne rien laisser au hasard.
+Si tu n'en es pas capable, je vois deux possibilités : soit tu t'en vas, soit j'agrandis l'équipe de direction centrale. On n'a pas le droit à l'erreur. Certes, on se défend, mais c'est le moment de décoller. Imagine un avion qui s'apprête à décoller sur une piste relativement courte : s'il met trop de temps, il s'écrase, il percute le mur. Il faut qu'on décolle au plus vite. Notre trésorerie, c'est notre piste de décollage, et elle n'est pas infinie.
+Je tiendrai compte de ta réaction à cet incident dans ta prochaine évaluation.
+*(Texte reconstitué à partir de la dictée.)*
