@@ -276,3 +276,7 @@ Aïcha, finalement il n'y aura pas de dernier point avec moi. Je confierai toute
 **[31/07/2040 - 21:10] Aïcha :**
 Bien noté. Le point d'équipe aura lieu vendredi à 8h30, avec M. Kanga.
 Bonne soirée, patron.
+
+**[01/08/2040 - 17:43] Aïcha :**
+Patron, le rapport du jour est dans direction. Pardon pour le retard : la banque m'a rappelée pour demain matin.
+*(Pièce : `serveur/direction/rapport_direction_0108.pdf`.)*

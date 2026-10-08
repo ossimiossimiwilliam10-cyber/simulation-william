@@ -171,3 +171,4 @@
 - **Ibrahim Koné (01/08, 16h45)** : remercie, dit qu'il doit d'abord parler à son patron, qui lui doit encore deux mois de primes ; il répondra vendredi.
 - **Grace (01/08, 16h20-16h30)** : raccroche, ferme les yeux trois secondes, puis écrit au patron avant d'aller voir Aïcha ; dans l'escalier, elle envoie un vocal en twi à sa mère. *Intérêt : que le premier contrat porte son nom, d'abord aux yeux du patron.*
 - **Grace (01/08, 16h32-16h43)** : sa contre-proposition à 30 % était écrite sur un post-it collé à son écran ; elle le décolle, le froisse, et répond onze minutes plus tard ; elle appellera le client demain matin. *Intérêt : sa crédibilité de négociatrice face au client ; un patron qui décide au-dessus d'elle comme au-dessus de la gérante.*
+- **Aïcha (01/08, 17h-17h42)** : écrit la section 3 trois fois ; la phrase « je l'enregistre comme votre décision » reste ; elle garde une copie du rapport sur une clé USB, comme Fanta le lui a dit.

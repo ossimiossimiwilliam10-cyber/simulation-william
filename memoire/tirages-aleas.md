@@ -742,3 +742,7 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Tirage [T7c] « Grace (mercredi 16h32) : William la félicite et accepte l'acompte de 20 % pour la villa Riviera (à appliquer au contrat, avec la gérante) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  74.5 → **execute_a_contrecoeur** (enregistré le 08/10/2026 10:13 heure machine)
 
 - Jet « Grace répond dans le quart d'heure » : probabilité 70 %, jet  47.4 → **OUI** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 10:13 heure machine)
+
+- Jet « Rapport d'Aïcha déposé à l'heure (17h00) » : probabilité 85 %, jet  95.9 → **NON** (enregistré le 08/10/2026 10:15 heure machine)
+
+- Jet « Retard du rapport d'Aïcha : 17h05 + jet × 1 minute (17h05-18h45) » : probabilité 50 %, jet  37.3 → **OUI** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 10:16 heure machine)
