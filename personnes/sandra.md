@@ -133,3 +133,4 @@ depuis la pilule du lendemain du 26/05.
 - 06/08, 21h12-21h14 (lit, chambre 214) : à « qu'est-ce qui ne va pas ? » (T8 : plaisante_et_devie) : « Une bêtise ? … Tu as mangé trois assiettes de riz, c'est ça, ta bêtise 😄 » ; « Dors, grand monsieur. Demain, ma tia va te faire passer l'examen. Il faut que tu sois en forme. »
 - 06/08, 21h17 (lit) : William s'approche pour faire l'amour sans demander ; T8 : froideur : « Pas ce soir, William. » ; elle se décale vers le bord du lit.
 - 07/08, 06h45 (Lisbonne) : réveillée et prête avant lui ; « Bom dia. La douche est libre. Je descends prendre mon petit-déjeuner ; on est au comptoir à huit heures, hein. »
+- 07/08, 07h10 (petit-déjeuner) : à « On peut parler un peu ? Il y a quelque chose que je ne comprends pas. » (T8 : creuse_doucement) : « D'accord. » ; « Qu'est-ce que tu ne comprends pas ? … C'est hier soir ? Le dîner, ou après ? »

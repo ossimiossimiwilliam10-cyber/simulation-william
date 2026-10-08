@@ -1105,3 +1105,11 @@ Effets à jouer : A04 (mercredi 08/08 (matin)) : QG sans groupe électrogène (h
 - Jet « Candidatures LinkedIn reçues dans la nuit (jusqu'à 07h, Lisbonne) : nombre = partie entière de jet / 7 (0 à 14) » : probabilité 50 %, jet  41.3 → **OUI** (enregistré le 08/10/2026 20:03 heure machine)
 
 - Jet « Sandra au réveil (0-50 : comme si de rien n'était, polie et pratique ; 50-80 : douce, un geste vers lui ; 80-100 : toujours froide) » : probabilité 50 %, jet  27.7 → **OUI** [DÉROGATION : humeur du matin d'une partenaire, suite de la froideur déjà tirée] (enregistré le 08/10/2026 20:03 heure machine)
+
+- Jet « Classement des 12 candidatures : meilleure note = 55 + jet x 0,35 (55 à 90) » : probabilité 50 %, jet  64.6 → **NON** (enregistré le 08/10/2026 20:07 heure machine)
+
+- Jet « Nombre de candidatures notées 70 ou plus = partie entière de jet / 25 (0 à 4) » : probabilité 50 %, jet  76.2 → **NON** (enregistré le 08/10/2026 20:07 heure machine)
+
+- Jet « Candidatures sans CV joint (profil LinkedIn seul) : partie entière de jet / 20 (0 à 5) » : probabilité 50 %, jet  50.8 → **NON** (enregistré le 08/10/2026 20:07 heure machine)
+
+- Tirage [T8] « Sandra (petit-déjeuner, 07h10, Lisbonne), qui fait comme si de rien n'était : William lui demande si on peut parler un peu, « parce qu'il y a quelque chose que je ne comprends pas » ; lecture fixée : soutient = elle accepte d'écouter, sans creuser ; creuse = « Quoi ? » et elle pose des questions ; releve = elle accepte mais relève qu'hier soir il a tourné le dos ; plaisante = elle plaisante et repousse ; froideur = « Pas maintenant, on a un avion » ; agacement = limite ferme : pas ici ; rien_ne_dit = « Vas-y » sans rien montrer ; M40 : peur des silences ; M43 : déjà alertée ; M44 : confiance récente » : soutient_sans_creuser 12 / creuse_doucement 31 / releve_esquive 27 / plaisante_et_devie 8 / froideur 9 / agacement_net 5 / rien_ne_dit_soupconne 8 / frontal_rupture 0 ; modificateurs : M40, M43, M44 ; jet  27.2 → **creuse_doucement** (enregistré le 08/10/2026 20:07 heure machine)
