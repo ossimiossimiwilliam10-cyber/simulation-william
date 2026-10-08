@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 31/07/2040, 18h06)
+# William Ossimi — profil (état au 31/07/2040, 18h35)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -238,3 +238,4 @@
 - **31/07, 13h40** : à son père : ne viendra pas à l'enterrement (« pas libre ») ; OSIA présentée comme « un petit projet… rien de très important ».
 - **31/07, 13h41-17h01** : après-midi à l'hôtel ; 14h52 : Aïcha : apport crédité ; 16h39 : courriel de Me Kouamé sur les pouvoirs de la gérante ; 17h00 : le père (« Tu n'es pas en vacances jusqu'en septembre ? … le petit projet, c'est quoi ? ») ; 17h01 : rapport d'Aïcha (refus de la clinique).
 - **31/07, 17h08-18h06** : à Aïcha : accord pour l'étude de la location, objectif d'un premier client d'ici fin août, point d'équipe jeudi matin, information sur les statuts modifiés, la double signature et les relevés ; au père : « en déplacement » le 18, « petit projet » ; à Me Kouamé : accord pour les trois mesures ; Aïcha refuse le point d'équipe de jeudi matin (SGBCI) ; Me Kouamé : signature jeudi 15h, seuil et second signataire à fixer.
+- **31/07, 18h10-18h35** : seuil 5 M FCFA et Yves second signataire (à Me Kouamé) ; à Aïcha : pas de dernier point avec lui, Yves le représentera ; à Yves : demande d'appel (« celui en qui j'ai le plus confiance ») ; vérifie son compte : traitement de juillet pas encore arrivé ; Yves appellera vers 19h30 ; Me Kouamé rappelle l'essai d'Yves (15/10).

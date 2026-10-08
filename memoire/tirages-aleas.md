@@ -658,3 +658,19 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Abdoul prévient William directement ce soir (sinon par le rapport d'Aïcha mercredi) » : probabilité 40 %, jet  37.1 → **OUI** [DÉROGATION : canal et délai d'une information, pas une réaction à un acte de William] (enregistré le 08/10/2026 09:02 heure machine)
 
 - Jet « Heure du message d'Abdoul (A06) : 19h00 + jet × 1,5 minute (19h00-21h30) » : probabilité 50 %, jet  96.6 → **NON** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 09:02 heure machine)
+
+- Tirage [T7c] « Aïcha (mardi ~18h12) : William annule le point d'équipe avec lui ; Yves le représentera et parlera en son nom ; elle peut décaler librement ce dernier point, tant que c'est cette semaine » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  35.8 → **execute_sans_discuter** (enregistré le 08/10/2026 09:22 heure machine)
+
+- Tirage [T1] « Aïcha (mardi soir) : William fait d'Yves, son subordonné, son représentant qui « parlera en son nom » au point d'équipe, et le désigne (via Me Kouamé, courriel de ce soir) second signataire du compte au-delà de 5 M FCFA ; M01 : famille à charge, mère malade, période d'essai ; M16 : besoin de protéger sa position (confirmation refusée, pouvoirs limités) ; règle de l'utilisateur : depart_discret exclu (points à rien_absorption) » : rien_absorption 34 / evitement 17 / confidence_proche 13 / confidence_collegue 8 / reciproque 6 / calcul 12 / negociation_tacite 6 / depart_discret 4 / frontal_formel 0 ; modificateurs : M01, M16 ; jet  36.9 → **evitement** (enregistré le 08/10/2026 09:22 heure machine)
+
+- Jet « Aïcha répond à William avant 19h30 » : probabilité 60 %, jet  87.8 → **NON** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 09:22 heure machine)
+
+- Jet « Yves est disponible pour un appel dans le quart d'heure (il sort du QG) » : probabilité 75 %, jet  93.3 → **NON** [DÉROGATION : disponibilité seulement] (enregistré le 08/10/2026 09:23 heure machine)
+
+- Tirage [T1] « Yves (mardi ~18h20, au téléphone) : William lui dit qu'il ne sera pas au dernier point d'équipe et lui demande de parler en son nom, « celui en qui j'ai le plus confiance dans la boîte » ; M05 : avantage concret (rôle de représentant du patron devant la gérante et l'équipe) ; M15 : intérêt déjà montré envers William (maquis, « vous êtes quelqu'un de bien », « comptez sur moi ») » : rien_absorption 25 / evitement 13 / confidence_proche 13 / confidence_collegue 11 / reciproque 14 / calcul 7 / negociation_tacite 10 / depart_discret 6 / frontal_formel 1 ; modificateurs : M05, M15 ; jet  13.3 → **rien_absorption** (enregistré le 08/10/2026 09:23 heure machine)
+
+- Jet « Heure de la réponse d'Aïcha : 19h30 + jet × 2 minutes (19h30-22h50) » : probabilité 50 %, jet  49.8 → **OUI** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 09:23 heure machine)
+
+- Jet « Le traitement de juillet de William (État luxembourgeois) est visible sur son compte avant minuit le 31/07 (sinon le 01/08 au matin) » : probabilité 50 %, jet  40.6 → **OUI** (enregistré le 08/10/2026 09:23 heure machine)
+
+- Jet « Me Kouamé répond à William dans l'heure » : probabilité 60 %, jet   9.3 → **OUI** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 09:23 heure machine)

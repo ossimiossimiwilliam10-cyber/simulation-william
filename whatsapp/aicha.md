@@ -268,3 +268,7 @@ Autre chose : je vais signer les statuts modifiés, et on met en place une doubl
 C'est noté pour la location, patron. Grace commence l'étude demain ; l'objectif de fin août, je le lui transmets.
 Jeudi matin, non. Excusez-moi : je suis à la SGBCI à l'ouverture, pour l'attestation.
 Pour les statuts et la banque, j'attends le courrier de Maître Kouamé.
+
+**[31/07/2040 - 18:12] William :**
+Aïcha, finalement il n'y aura pas de dernier point avec moi. Je confierai toutes les infos importantes à Yves : il sera mon représentant et parlera en mon nom pendant ce dernier point. Tu peux librement le décaler, tant que ça se fait cette semaine.
+*(Texte reconstitué à partir de la dictée.)*

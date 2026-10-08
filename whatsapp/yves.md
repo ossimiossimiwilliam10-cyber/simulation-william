@@ -37,3 +37,10 @@ La série-là, je connais pas, mais je cherche ce soir 😄
 Je vais travailler dur, vous allez voir la note monter 💪🏾
 Et pour le reste, comptez sur moi : s'il y a quoi que ce soit, je vous écris directement.
 Que Dieu vous garde, Boss.
+
+**[31/07/2040 - 18:14] William :**
+Yves, tu es disponible pour un appel ? Je voudrais t'expliquer la situation. Je ne serai pas disponible pour le dernier point d'équipe, mais je souhaiterais passer par toi pour que tu parles en mon nom : tu es celui en qui j'ai le plus confiance dans la boîte actuellement.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[31/07/2040 - 18:22] Yves :**
+Oui, Boss 🙏🏾 Je suis dans le gbaka, ça fait trop de bruit. Je vous appelle dès que j'arrive à la maison, vers 19h30.
