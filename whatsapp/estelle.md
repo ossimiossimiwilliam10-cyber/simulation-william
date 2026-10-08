@@ -60,3 +60,16 @@ D'accord, j'attends 😊 Mais je préviens : l'offre, je la veux écrite. Je ne 
 
 **[05/08/2040 - 13:08 (Abidjan) / 15:08 (Luxembourg)] Estelle :**
 Bon dimanche, Monsieur Ossimi 😄
+
+**[06/08/2040 - 05:10 (Abidjan) / 07:10 (Luxembourg)] William :**
+Bonjour Estelle. Voici ma nouvelle organisation pour OSIA (fichier joint). Qu'en penses-tu ? Dans cette organisation, tu serais affectée au pôle financier.
+*(Texte reconstitué à partir de la dictée. Pièce jointe : `documents_william/2040-08-06_organigramme_osia.pdf`.)*
+
+**[06/08/2040 - 05:34 (Abidjan) / 07:34 (Luxembourg)] Estelle :**
+J'ai lu.
+
+**[06/08/2040 - 05:35 (Abidjan) / 07:35 (Luxembourg)] Estelle :**
+Je l'ai transféré à Madame Diomandé, avec ton message. C'est elle qui a signé mon contrat de prestation : je ne travaille pas dans son dos.
+
+**[06/08/2040 - 05:36 (Abidjan) / 07:36 (Luxembourg)] Estelle :**
+Pour le reste, je finis ton tableau aujourd'hui, comme prévu.

@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 06/08/2040, 07h06)
+# William Ossimi — profil (état au 06/08/2040, 07h36)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -289,3 +289,4 @@
 - **05/08, 22h00** : VTC réservé pour Findel (138 €) ; réveil à 03h45 ; coucher à 22h15.
 - **06/08, 03h45-04h58** : réveil après cinq heures et demie de sommeil ; VTC à 04h20 ; vol retardé (notification à 04h41) ; au comptoir de TAP à 04h58 : correspondance manquée, reprotection proposée pour demain avec hôtel à Lisbonne.
 - **06/08, 05h00-07h06** : enregistré avec la reprotection (bagage jusqu'à Lisbonne) ; revue n° 3 validée (cinq idées) ; messages à Sandra (retard), à l'Oasis (garder la chambre, nuit du 6 payée) et à Aïcha (il mènera seul la restructuration) ; l'Oasis confirme (05h44) ; Sandra (07h05) veut changer son vol pour rester avec lui.
+- **06/08, 07h08-07h36** : à Sandra : heure de départ et d'arrivée ; Sandra l'attendra aux arrivées ; à Estelle : organigramme cible complet (PDF, avec la note sur Aïcha) et « tu serais affectée au pôle financier » ; Estelle : « J'ai lu. » ; « Je l'ai transféré à Madame Diomandé, avec ton message. C'est elle qui a signé mon contrat de prestation : je ne travaille pas dans son dos. » ; « Pour le reste, je finis ton tableau aujourd'hui, comme prévu. »

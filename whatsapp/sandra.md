@@ -256,3 +256,10 @@ Mon vol est retardé de presque trois heures : contrôle aérien en France. Je r
 
 **[06/08/2040 - 07:05 (Luxembourg) / 06:05 (Lisbonne)] Sandra :**
 Quoi ?! Demain ?? 😩 … Bon. Je ne pars pas sans toi. Je vais demander au comptoir de TAP combien ça coûte de changer mon vol pour demain. Si c'est trop cher, on verra. Rosa me dépose vers 8h. Tu atterris à quelle heure, exactement ?
+
+**[06/08/2040 - 07:08 (Luxembourg) / 06:08 (Lisbonne)] William :**
+Départ prévu à 08h50, heure de Luxembourg. Arrivée à Lisbonne vers 10h45, heure de Lisbonne.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[06/08/2040 - 07:10 (Luxembourg) / 06:10 (Lisbonne)] Sandra :**
+Ok ❤️ Alors je vais au comptoir de TAP dès que j'arrive, et je t'attends aux arrivées, pas aux portes 😉
