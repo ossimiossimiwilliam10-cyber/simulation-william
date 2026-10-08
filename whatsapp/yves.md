@@ -142,3 +142,9 @@ C'est parfait pour moi. À demain.
 **[06/08/2040 - 19:52 (Abidjan) / 20:52 (Lisbonne)] Yves :**
 Merci, Boss 🙏🏾 À demain, 15h.
 *(Non lu le soir même.)*
+
+**[07/08/2040 - 12:21 (Abidjan) / 13:21 (Lisbonne)] William :**
+Yves, nous devrons recaler notre rendez-vous.
+
+**[07/08/2040 - 13:10 (Abidjan) / 14:10 (Lisbonne)] Yves :**
+Oh, prompt rétablissement, Boss 🙏🏾 Reposez-vous bien. Pas de souci, on recale quand vous serez mieux. Que Dieu vous garde.

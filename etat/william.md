@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 07/08/2040, 13h18)
+# William Ossimi — profil (état au 09/08/2040, 13h20)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -322,3 +322,4 @@
 - **07/08, 07h15-07h46 (Lisbonne)** : reste longtemps assis ; **pensées non dites : « finalement, je ne suis pas le plus impulsif de la bande » ; un sourire ; « rien n'a vraiment changé pour moi ; je finis toujours seul »** ; fait archiver les deux candidatures sans note ; message du Dr Mbarga ; Sandra attend la navette de 08h00.
 - **07/08, 07h47-08h35 (Lisbonne)** : cœur serré ; pensées non dites (« pourquoi l'être humain aime tant compliquer la vie ? », « j'en ai marre de ces conneries ») ; voit Sandra partir dans la navette de 08h00 ; **annule son vol pour São Vicente** (retour annulé avec ; taxes seules remboursées : 186,40 €) ; garde la chambre 214 (168 €) ; répond au Dr Mbarga ; porte l'offre à 1 200 000 FCFA brut ; dit à Yves qu'il est malade (appel annulé) ; a lu la note de Me Kouamé ; remonte en chambre pour la journée.
 - **07/08, 08h40-13h18 (Lisbonne)** : couché ; repense à sa vie, à son enfance ; « pourquoi je finis toujours seul » ; **pensée non dite : « au final, je ne suis vraiment qu'une merde »** ; dort quatre heures ; réveil à 13h18, affamé. **Corps** : nuit correcte puis sommeil de jour lourd ; petit-déjeuner à peine touché ; pas de déjeuner.
+- **07/08, 13h20 → 09/08, 13h20 (Lisbonne)** : hors ligne, téléphone éteint ; chambre 214, repas en chambre, sommeil, pensées ; règle l'hôtel ; rallume son téléphone le 09/08 à 13h20. **Corps** : deux jours au lit, pas de sport, repas irréguliers ; humeur très basse.

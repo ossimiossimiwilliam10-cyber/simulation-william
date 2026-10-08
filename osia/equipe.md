@@ -1,4 +1,4 @@
-# Équipe d'OSIA (au 21/07/2040 ; complété aux fiches complètes du 28/07 et du 04/08/2040)
+# Équipe d'OSIA (au 21/07/2040 ; complété aux fiches complètes du 28/07, du 04/08 et du 07/08/2040)
 
 > Contrats détaillés (début/fin) : `serveur/rh/synthese_equipe_1807.pdf` et `serveur/rh/contrats/`.
 > Tous les salaires ci-dessous sont des **bruts mensuels** (les contrats disaient « Net » par erreur :
@@ -90,3 +90,10 @@
 - Mariette : discrète ; erreur de RIB (pénalité prévue fin octobre, elle ne le sait pas) ; source involontaire de la fuite interne du 02/08 *(non connu de William)*.
 - Abdoul : Vridi au 19/08 ; Koné recruté (01/09) ; garde pour lui l'histoire du 23 *(non connu de William)*.
 - **Climat (non connu de William)** : depuis le 02/08, tout le QG sait « qu'il s'est passé quelque chose » entre le patron et Grace le 23/07 (T5 : fuite interne).
+
+## Fiche complète du 07/08/2040 (complétée le 09/08)
+- Aïcha : sait tout de la réorganisation et de la note « poussée vers la sortie » (par Estelle et Yves) ; évitement ; ITS de juin retenu sur son salaire d'août (133 500 FCFA) en plus de ses dettes *(non connu de William)*.
+- Yves : promu en principe au pôle Business & Client ; 880 000 brut demandés ; appel de négociation reporté deux fois.
+- Abdoul : a vu l'offre LinkedIn d'un second directeur dans son pôle (jusqu'à 1 200 000, lui 900 000) ; demande écrite sur son titre, ses attributions et son salaire (09/08).
+- Mariette : ITS de juin retenu sur son salaire d'août (112 500 FCFA) ; confidente d'Aïcha ; commérage.
+- Grace : contrat de la villa signé (08/08).

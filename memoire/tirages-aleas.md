@@ -1133,3 +1133,39 @@ Effets à jouer : A04 (mercredi 08/08 (matin)) : QG sans groupe électrogène (h
 - Jet « Heure de la réponse d'Yves : 08h31 + 60 + jet x 3 min (de 09h31 à 14h31, heure de Lisbonne) » : probabilité 50 %, jet  93.0 → **NON** [DÉROGATION : heure seulement (créneau T10 déjà tiré)] (enregistré le 08/10/2026 20:28 heure machine)
 
 - Jet « Réveil de William : 11h00 + jet x 2 min (11h00 à 14h20) » : probabilité 50 %, jet  69.2 → **NON** (enregistré le 08/10/2026 20:29 heure machine)
+
+- Tirage [T7c] « Aïcha (jour férié, 12h20 à Abidjan) : William lui écrit qu'il risque d'être hors ligne deux jours et qu'il la laisse gérer » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  46.9 → **execute_sans_discuter** (enregistré le 08/10/2026 20:32 heure machine)
+
+- Tirage [T10] « Aïcha : délai de sa réponse au message « hors ligne deux jours, je vous laisse gérer » (jour férié) » : immediat 19 / rapide 33 / dans_l_heure 15 / dans_la_journee 14 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 4 ; modificateurs : M73 ; jet  84.7 → **le_soir_ou_lendemain** (enregistré le 08/10/2026 20:32 heure machine)
+
+- Tirage [T7c] « Yves : William lui écrit qu'il faudra recaler l'appel de négociation » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  15.9 → **execute_sans_discuter** (enregistré le 08/10/2026 20:32 heure machine)
+
+- Jet « Mer. 08/08 : la signature du contrat de la villa a lieu malgré le délestage au QG (sinon reportée à jeudi) » : probabilité 80 %, jet  52.1 → **OUI** (enregistré le 08/10/2026 20:32 heure machine)
+
+- Jet « L'acompte de la villa (3 752 400 FCFA TTC) arrive sur le compte d'OSIA d'ici jeudi midi » : probabilité 35 %, jet  72.7 → **NON** (enregistré le 08/10/2026 20:32 heure machine)
+
+- Tirage [T7c] « Aïcha (mer. 08/08) : Estelle lui dit de vive voix que William demande de régulariser l'ITS de juin d'Aïcha et de Mariette (retenue sur leurs salaires, 133 500 et 112 500 FCFA) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  69.8 → **execute_sans_discuter** (enregistré le 08/10/2026 20:32 heure machine)
+
+- Jet « Mer. 08/08 : un membre d'OSIA voit l'offre LinkedIn (désormais jusqu'à 1 200 000 FCFA brut) » : probabilité 35 %, jet  20.3 → **OUI** (enregistré le 08/10/2026 20:32 heure machine)
+
+- Jet « Jeu. 09/08 (matin) : un membre d'OSIA voit l'offre LinkedIn » : probabilité 25 %, jet  75.1 → **NON** (enregistré le 08/10/2026 20:32 heure machine)
+
+- Jet « Nouvelles candidatures du 07/08 13h au 09/08 13h : nombre = partie entière de jet / 5 (0 à 20) » : probabilité 50 %, jet  68.0 → **NON** (enregistré le 08/10/2026 20:32 heure machine)
+
+- Jet « Parmi elles, au moins une notée 75 ou plus (fourchette relevée à 1,2 M) » : probabilité 30 %, jet  36.9 → **NON** (enregistré le 08/10/2026 20:32 heure machine)
+
+- Jet « Sandra écrit à William pendant les deux jours » : probabilité 25 %, jet  37.8 → **NON** [DÉROGATION : message spontané d'une ex-partenaire après la rupture, délai seulement] (enregistré le 08/10/2026 20:32 heure machine)
+
+- Jet « Kevin écrit à William pendant les deux jours » : probabilité 20 %, jet  38.3 → **NON** [DÉROGATION : message spontané d'un proche] (enregistré le 08/10/2026 20:32 heure machine)
+
+- Jet « Oasis Porto Grande, non-présentation (0-50 : une nuit facturée en plus ; 50-80 : séjour entier facturé, 1 032 € ; 80-100 : rien de plus que la nuit du 06) » : probabilité 50 %, jet  75.7 → **NON** (enregistré le 08/10/2026 20:32 heure machine)
+
+- Jet « Aïcha signe la convention d'honoraires de Me Kouamé (600 000 FCFA HT) d'ici jeudi midi » : probabilité 55 %, jet  29.5 → **OUI** (enregistré le 08/10/2026 20:32 heure machine)
+
+- Jet « ITS de juillet payé par OSIA avant jeudi midi (échéance le 10/08) » : probabilité 40 %, jet  16.0 → **OUI** (enregistré le 08/10/2026 20:32 heure machine)
+
+- Jet « Qui voit l'offre LinkedIn mercredi (0-40 : Yves ; 40-65 : Grace ; 65-85 : Abdoul ; 85-100 : Mariette) » : probabilité 50 %, jet  74.1 → **NON** (enregistré le 08/10/2026 20:33 heure machine)
+
+- Tirage [T1] « Abdoul (mer. 08/08, soir, Abidjan) découvre sur LinkedIn l'offre publiée par William : « Directeur·rice Planification, Achats et Projets — Pôle Technique & Déploiement », un pôle à deux directeurs, passation des commandes, jusqu'à 1 200 000 FCFA brut (lui : 900 000), sans avoir été prévenu ; il savait par Yves qu'une réorganisation se préparait ; M16 : poste et statut à protéger » : rien_absorption 28 / evitement 17 / confidence_proche 13 / confidence_collegue 11 / reciproque 6 / calcul 12 / negociation_tacite 6 / depart_discret 6 / frontal_formel 1 ; modificateurs : M16 ; jet  92.7 → **negociation_tacite** (enregistré le 08/10/2026 20:33 heure machine)
+
+- Jet « Heure : Abdoul voit l'offre (0-50 : mercredi soir chez lui ; 50-100 : mercredi à midi au QG) » : probabilité 50 %, jet  48.9 → **OUI** [DÉROGATION : heure seulement] (enregistré le 08/10/2026 20:33 heure machine)

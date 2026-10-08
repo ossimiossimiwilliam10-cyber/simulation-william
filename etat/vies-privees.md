@@ -248,3 +248,6 @@
 - **Sandra (07/08, 07h31, arrêt de la navette)** : la navette pleine repart sans elle ; elle regarde l'heure, ne se retourne pas vers la baie vitrée ; elle sait qu'il la voit.
 - **Sandra (07/08, 08h00-08h30)** : dans la navette, elle regarde la route ; à l'aéroport, elle enregistre seule, passe le contrôle, s'assied à la porte des vols pour le Cap-Vert ; à 10h05, quand l'embarquement commence, elle regarde une fois vers le couloir, puis embarque.
 - **Sandra (07/08, 10h35-12h40, vol pour São Vicente)** : siège 23A, côté hublot ; le siège 23B, celui de William dans la réservation d'origine, est occupé par un Cap-Verdien de Rotterdam qui lui parle de son frère ; elle répond poliment et regarde l'océan.
+- **Sandra (07-08/08, Mindelo)** : chez Djina, la porte bleue, le cabri du soir ; elle rit avec ses cousines, puis, la nuit, pleure en silence dans la chambre du fond ; le 08, elle va seule à la Laginha au lever du soleil.
+- **Aïcha (08/08)** : le soir, chez Fanta, elle fait ses comptes sur un cahier : salaire d'août moins 133 500, moins ce qu'elle doit à Fanta et à Mariette ; elle souligne le total deux fois.
+- **Abdoul (08/08, 21h30)** : il fait défiler l'offre sur son téléphone, la relit, fait une capture d'écran, éteint la lumière ; il ne dit rien à personne.

@@ -40,3 +40,4 @@ rapidité commerciale de Grace ou avec les exigences de coût de William. Il tie
 - 01/08, 11h55-11h57 : William : « Prenez Ibrahim Koné, quoi qu'il en coûte. » ; lui : « Compris, Boss. Je le dis à Madame Diomandé. »
 - *(Non vu, 02/08)* : à la pause de midi, demande pourquoi Mme Grace évite le Boss ; apprend à demi-mot l'histoire du 23 (fuite interne, T5) ; T2 : rien_garde (M08, jet 24.7) : il ne pose plus de question.
 - *(Non vu, 06/08, ≈ 15h00)* : Yves lui raconte la réorganisation, « entre nous » ; T2 : rien_garde (M08, jet 0.5) : « Ce sont les affaires du Boss. »
+- *(Non vu, 08/08 au soir)* : voit l'offre LinkedIn de William (second directeur dans son pôle, jusqu'à 1 200 000) ; T1 : negociation_tacite (M16, jet 92.7) ; 09/08, 07h40 : « Boss, bonjour. Je me permets : quand vous aurez un moment, je voudrais qu'on parle de mon contrat. Mon titre, mes attributions, les commandes et les fournisseurs, et le salaire. Je préfère que ce soit écrit. Merci, Boss. »

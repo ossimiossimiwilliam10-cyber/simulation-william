@@ -57,3 +57,4 @@ Zélé, soucieux de l'image, encore en test sous pression. Peu d'initiative cont
 - 06/08, 18h44 (Abidjan) : appel reporté ; à contrecœur : « … Ah. D'accord, Boss. Demain… 15h, ça va ? Je serai à la maison. »
 - 06/08, 19h52 (Abidjan) : « Merci, Boss 🙏🏾 À demain, 15h. »
 - 07/08, 07h31 (Abidjan) : William : « Yves, malheureusement, je ne pourrai pas être là pour l'appel de 14h. Je vous prie de m'excuser : je suis malade. » *(non vu : T7b succès net : il le croit)*.
+- 07/08, 13h10 (Abidjan) : « Oh, prompt rétablissement, Boss 🙏🏾 Reposez-vous bien. Pas de souci, on recale quand vous serez mieux. Que Dieu vous garde. »

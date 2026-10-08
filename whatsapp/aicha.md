@@ -389,3 +389,13 @@ Bonjour patron. Oui, je suis disponible. Vous pouvez m'appeler quand vous voulez
 *(06/08, 13h33-13h44 à Abidjan : appel de William, qui lui expose tout (réorganisation, organigramme et note, ce qu'il a dit à Yves, « les épaules », pas de licenciement ni de fin d'essai, clauses). Aïcha : « Allô. Oui, patron. » ; « Oui, patron. » ; « J'ai compris, patron. Pour les contrats, j'écrirai à Maître Kouamé. » ; « Excusez-moi, patron : Grace m'attend pour relire le contrat de la villa, la signature est mercredi. Si c'est tout pour moi… »)*
 
 *(Suite de l'appel, 13h45 à Abidjan : William : « Qu'en pensez-vous ? Est-ce que vous pensez avoir les épaules assez solides pour occuper le rôle de CEO ? Qu'est-ce que vous pensez, sincèrement, au fond de vous ? » ; Aïcha : « Sincèrement, patron… Je fais le travail depuis le mois de mai. Mes rapports sont sur le serveur, tous les jours. » ; « Pour le poste, c'est vous qui décidez. Vous verrez sur le marché. » ; « Excusez-moi, patron. Grace m'attend. »)*
+
+**[07/08/2040 - 12:20 (Abidjan) / 13:20 (Lisbonne)] William :**
+Aïcha, je risque d'être hors ligne ces deux prochains jours. Je vous laisse gérer.
+
+**[08/08/2040 - 07:30 (Abidjan)] Aïcha :**
+Bien noté, patron. Reposez-vous.
+
+**[08/08/2040 - 17:00 (Abidjan)] Aïcha :**
+Patron, le rapport du jour est dans direction.
+*(Pièce : `serveur/direction/rapport_direction_0808.pdf`.)*

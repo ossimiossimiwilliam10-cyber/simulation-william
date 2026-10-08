@@ -63,3 +63,6 @@ Prenez Ibrahim Koné, quoi qu'il en coûte.
 
 **[01/08/2040 - 11:57] Abdoul :**
 Compris, Boss. Je le dis à Madame Diomandé.
+
+**[09/08/2040 - 07:40 (Abidjan) / 08:40 (Lisbonne)] Abdoul :**
+Boss, bonjour. Je me permets : quand vous aurez un moment, je voudrais qu'on parle de mon contrat. Mon titre, mes attributions, les commandes et les fournisseurs, et le salaire. Je préfère que ce soit écrit. Merci, Boss.
