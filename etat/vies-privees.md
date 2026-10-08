@@ -161,3 +161,4 @@
 - **Le père de William (31/07, 21h24 à Luxembourg)** : écrit sa réponse assis au bord du lit, la télé allumée sans le son ; il ne relance pas sur l'enterrement.
 - **Yves (31/07, 19h55)** : appelle depuis la cour de sa maison familiale à Angré, la voix basse pour ne pas réveiller le petit de sa sœur.
 - **Yves (31/07, 19h59)** : après l'appel, il reste dans la cour, le téléphone contre la poitrine ; il pense au salaire de son père, chauffeur, qui n'a jamais signé autre chose qu'un reçu ; puis il note dans son carnet : « 31/07 — signataire. Boss : on en reparle au retour. » *Intérêt : sa confirmation au 15/10, une augmentation, la place de PDG promise le matin même.*
+- **Yves (31/07, 20h04)** : recopie le message au propre dans son carnet, souligne deux fois « essai » et « clients » ; il se demande comment le dire devant Madame Diomandé sans avoir l'air de parler à sa place.
