@@ -950,3 +950,32 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Tirage [T7c] « Aïcha (dimanche 19h50 à Abidjan) : William, en la vouvoyant, lui demande de lui faire parvenir son diplôme de master et son CV pour analyser ses compétences, juste après lui avoir soumis une direction à deux directeurs généraux sans elle » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet   9.6 → **execute_sans_discuter** (enregistré le 08/10/2026 17:34 heure machine)
 
 - Jet « Aïcha envoie son CV dès ce soir (dans les 30 min), le diplôme suivant au plus tard lundi matin » : probabilité 60 %, jet  90.7 → **NON** [DÉROGATION : délai d'exécution seulement (issue T7c déjà tirée)] (enregistré le 08/10/2026 17:35 heure machine)
+
+## Tirage de la semaine du 2040-08-06
+
+| ID | Événement | Probabilité | Jet (0-100) | Résultat |
+|---|---|---|---|---|
+| A01 | Maladie d'un membre de l'équipe (paludisme, gastro, typhoïde) | 10 % |  38.9 | non |
+| A02 | Problème de santé d'un proche d'un personnage (ex. mère d'Aïcha, tension) | 8 % |  87.9 | non |
+| A04 | Délestage / coupure d'électricité prolongée | 25 % |   6.2 | **DÉCLENCHÉ** — mercredi 08/08 (matin) |
+| A05 | Fortes pluies / inondation | 15 % |  76.4 | non |
+| A06 | Retard fournisseur ou douane (NVR, onduleurs, batteries) | 30 % |  98.6 | non |
+| A09 | Erreur administrative (virement mal affecté, pièce perdue, nom mal orthographié) | 10 % |  96.0 | non |
+| A13 | Opportunité commerciale inattendue (recommandation, appel d'un prospect) | 10 % |  97.5 | non |
+| A17 | William lui-même malade ou épuisé (fatigue, gastro) | 5 % |  76.7 | non |
+
+Effets à jouer : A04 (mercredi 08/08 (matin)) : QG sans groupe électrogène (hors service) ; chantiers et visites perturbés
+
+- Jet « Vie hors d'Abidjan, semaine du 06/08 : expéditeur (0-25 Kevin ; 25-50 Yannick ; 50-75 Mme Schmit ; 75-100 un parent de William) » : probabilité 50 %, jet  59.8 → **NON** (enregistré le 08/10/2026 17:38 heure machine)
+
+- Jet « Vie hors d'Abidjan, semaine du 06/08 : jour (0-14 lun ; 14-28 mar ; 28-43 mer ; 43-57 jeu ; 57-71 ven ; 71-86 sam ; 86-100 dim) » : probabilité 50 %, jet  65.1 → **NON** (enregistré le 08/10/2026 17:38 heure machine)
+
+- Jet « Vol TAP Luxembourg-Lisbonne du 06/08 à l'heure (retard de moins de 20 min) » : probabilité 80 %, jet  99.1 → **NON** (enregistré le 08/10/2026 17:38 heure machine)
+
+- Jet « Longue file au contrôle des passeports de Lisbonne (sortie de Schengen) : plus de 40 minutes » : probabilité 45 %, jet  80.3 → **NON** (enregistré le 08/10/2026 17:38 heure machine)
+
+- Jet « Sandra au café des portes à l'heure dite (08h30) » : probabilité 85 %, jet  91.9 → **NON** [DÉROGATION : tenue d'un rendez-vous logistique, pas une réaction] (enregistré le 08/10/2026 17:38 heure machine)
+
+- Jet « Retard du vol Luxembourg-Lisbonne : 20 + jet x 1,6 min (20 à 180 min) » : probabilité 50 %, jet  97.7 → **NON** (enregistré le 08/10/2026 17:38 heure machine)
+
+- Jet « Cause du retard (0-40 avion arrivé en retard de Lisbonne la veille / rotation ; 40-70 contrôle aérien (créneau) ; 70-100 problème technique) » : probabilité 50 %, jet  58.3 → **NON** (enregistré le 08/10/2026 17:38 heure machine)

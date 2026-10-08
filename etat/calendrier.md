@@ -1,4 +1,4 @@
-# Calendrier (au 05/08/2040, 21h55)
+# Calendrier (au 06/08/2040, 04h58)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -210,3 +210,7 @@
 | Dim. 05/08, 21h20 (Luxembourg) | *(Non connu de William)* Réponse d'Aïcha sur son salaire (T9 : negocie). |
 | Date à fixer | Rappel téléphone de William : restructuration de la direction d'OSIA en quatre pôles (note du 05/08). |
 | Lun. 06/08, matin (Abidjan) | *(Non connu de William)* Mariette refait le salaire de juillet d'Aïcha en virement instantané (PI-SPI) ; réponse d'Aïcha à William à 08h20 (10h20 à Luxembourg). |
+| **Lun. 06/08, 08h50 (estimé)** | Vol TAP Luxembourg → Lisbonne retardé (régulation du contrôle aérien) ; correspondance de 10h35 manquée ; reprotection proposée : mar. 07/08, 10h35, Lisbonne → São Vicente. |
+| Mer. 08/08, matin | *(Non connu de William)* Aléa A04 : délestage au QG (groupe électrogène hors service), jour de la signature de la villa. |
+| Ven. 10/08 | *(Non connu de William)* Vie hors d'Abidjan : message de Mme Schmit. |
+| **≈ Ven. 31/08** | Déclaration de l'investissement étranger (dans le mois qui suit la réception des fonds du 31/07). |

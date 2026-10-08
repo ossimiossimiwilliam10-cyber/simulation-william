@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 05/08/2040, 21h55)
+# William Ossimi — profil (état au 06/08/2040, 04h58)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -286,3 +286,5 @@
 - **05/08, 15h10-21h20** : après-midi à la maison (linge, valise d'Abidjan rangée, match à la télévision, pâtes au thon) ; Kevin : « Merci monsieur 🙂 Vous aussi. Bon voyage demain avec maman. » ; 21h20 : Aïcha demande que son salaire soit refait dès demain sans attendre le retour de la banque.
 - **05/08, 21h31** : à Aïcha, **premier vouvoiement** : accord total pour refaire son salaire (virement instantané si possible) ; présentation de la nouvelle direction (quatre pôles, deux directeurs généraux, sans elle), avis demandé ; lu à 21h44, pas de réponse. Organigramme cible complet gardé pour lui (`C:/Users/User/Downloads/organigramme_osia.md` : CEO à recruter, DG opérations, DG support et finances « Estelle ? », équipes de 2 à 3 par pôle).
 - **05/08, 21h52** : à Aïcha (vouvoiement) : « Aïcha, pourriez-vous me faire parvenir votre diplôme de master ? J'aimerais voir un peu vos compétences théoriques et techniques. Et, si c'est possible, votre CV : j'aimerais beaucoup l'analyser. » ; lu à 21h53, pas de réponse.
+- **05/08, 22h00** : VTC réservé pour Findel (138 €) ; réveil à 03h45 ; coucher à 22h15.
+- **06/08, 03h45-04h58** : réveil après cinq heures et demie de sommeil ; VTC à 04h20 ; vol retardé (notification à 04h41) ; au comptoir de TAP à 04h58 : correspondance manquée, reprotection proposée pour demain avec hôtel à Lisbonne.
