@@ -366,3 +366,7 @@ Bonsoir patron. Merci de demander. La banque dit que le virement doit revenir su
 **[05/08/2040 - 19:31 (Abidjan) / 21:31 (Luxembourg)] William :**
 Bonsoir Aïcha. J'accepte totalement votre demande. S'il y a moyen de faire un virement instantané, je l'accepte aussi : je connais cette situation, il faut que vous ayez vos fonds le plus rapidement possible. Autre chose : je réfléchis à une nouvelle organisation de la direction. Quatre pôles : Business & Client (Grace et Yves), Technique & Déploiement (Abdoul), Support & Légal (Mariette et Esther), et un pôle financier. Ils seraient regroupés sous deux directeurs généraux : l'un pour les opérations, l'autre pour le support et les finances. Qu'en pensez-vous ?
 *(Texte reconstitué à partir de la dictée ; premier vouvoiement de William. Lu à 19h44.)*
+
+**[05/08/2040 - 19:52 (Abidjan) / 21:52 (Luxembourg)] William :**
+Aïcha, pourriez-vous me faire parvenir votre diplôme de master ? J'aimerais voir un peu vos compétences théoriques et techniques. Et, si c'est possible, votre CV : j'aimerais beaucoup l'analyser.
+*(Texte reconstitué à partir de la dictée. Lu à 19h53.)*

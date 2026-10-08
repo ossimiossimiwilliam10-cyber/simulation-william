@@ -946,3 +946,7 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Aïcha répond dimanche avant 23h (Abidjan), sinon lundi matin » : probabilité 50 %, jet  51.1 → **NON** [DÉROGATION : délai de réponse seulement] (enregistré le 08/10/2026 17:31 heure machine)
 
 - Jet « Heure de la réponse d'Aïcha lundi : 06h30 + jet x 1,5 min (Abidjan) » : probabilité 50 %, jet  73.2 → **NON** [DÉROGATION : heure seulement] (enregistré le 08/10/2026 17:31 heure machine)
+
+- Tirage [T7c] « Aïcha (dimanche 19h50 à Abidjan) : William, en la vouvoyant, lui demande de lui faire parvenir son diplôme de master et son CV pour analyser ses compétences, juste après lui avoir soumis une direction à deux directeurs généraux sans elle » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet   9.6 → **execute_sans_discuter** (enregistré le 08/10/2026 17:34 heure machine)
+
+- Jet « Aïcha envoie son CV dès ce soir (dans les 30 min), le diplôme suivant au plus tard lundi matin » : probabilité 60 %, jet  90.7 → **NON** [DÉROGATION : délai d'exécution seulement (issue T7c déjà tirée)] (enregistré le 08/10/2026 17:35 heure machine)
