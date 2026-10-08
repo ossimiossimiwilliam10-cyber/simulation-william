@@ -151,3 +151,20 @@ Bonne fête de l'Indépendance à tous 🇨🇮🎆 80 ans ! On est au Plateau a
 **[07/08/2040 - 20:11 (Abidjan)] Abdoul :**
 Bonne fête à tous.
 *(Mariette réagit 🇨🇮 ; Aïcha réagit 🙏 ; Grace ne dit rien. Lu par William le 09/08 à 13h20, heure de Lisbonne.)*
+
+**[09/08/2040 - 12:25 (Abidjan) / 13:25 (Lisbonne)] William :**
+Bonjour à tous. Je convoque une réunion spéciale de la direction, le plus tôt possible : demain, vendredi, à 10h. J'y expliquerai comment la société va être dirigée dans les prochaines semaines et les prochains mois.
+*(Texte reconstitué à partir de la dictée. Posté dans le groupe : cinq destinataires.)*
+
+**[09/08/2040 - 12:31 (Abidjan)] Grace :**
+Noté.
+
+**[09/08/2040 - 12:38 (Abidjan)] Aïcha :**
+Bien noté, patron. 10h, heure d'Abidjan ? Au QG, nous n'avons que la 4G en attendant la fibre : nous vous appellerons en vidéo depuis la salle de réunion.
+*(Non encore vu à 13h31, heure de Lisbonne.)*
+
+**[09/08/2040 - 12:39 (Abidjan)] Yves :**
+Noté 💪🏾 Demain 10h. C'est en visio, Boss ? Vous nous envoyez le lien ?
+
+**[09/08/2040 - 12:43 (Abidjan)] Mariette :**
+Bien reçu, patron. Je serai là.

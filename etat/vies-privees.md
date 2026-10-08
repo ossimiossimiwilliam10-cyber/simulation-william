@@ -265,3 +265,5 @@
 - **Yves (09/08)** : note sur le pôle Business & Client envoyée au patron ; il pousse Kader comme démarcheur.
 - **Mme Schmit (08-09/08)** : nommée directrice adjointe du lycée de William à la rentrée ; message à William vendredi.
 - **Petits faits** : Aïcha (médicaments à crédit), Fanta (fournitures, « fin du mois »), Estelle (tante, délestages), Bertin (apprenti), Koné (chaussures, remplaçant), Djina (le poissonnier).
+- **Grace (09/08, 12h28 à Abidjan)** : au lit depuis le matin, la fièvre tombée sous le paracétamol ; quand le message du patron s'allume, elle s'assied, relit deux fois, ouvre son étude sur la tablette, pose un verre d'eau à côté d'elle, puis répond.
+- **Abdoul (09/08, 12h30 à Abidjan)** : il lit les deux messages du patron debout dans la cour, sa gamelle à la main ; il répond en une ligne, range son carnet des attributions dans son sac.

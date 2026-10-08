@@ -162,3 +162,11 @@ Bonjour Boss 🙏🏾 J'espère que ça va mieux. Je ne veux pas vous déranger 
 5. Pour l'école et l'hôtel, je peux faire les visites techniques avec Madame Grace.
 Pour moi, je reste sur ce que je vous ai dit : 880 000 brut. Quand vous serez rétabli, on s'appelle. Que Dieu vous garde, Boss.
 *(Lu le 09/08 à 13h20, heure de Lisbonne.)*
+
+**[09/08/2040 - 12:22 (Abidjan) / 13:22 (Lisbonne)] William :**
+Yves, je suis d'accord : on part sur deux démarcheurs. Finalement, je pense que c'est mieux que je convoque une réunion directement dans le groupe Direction.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[09/08/2040 - 12:38 (Abidjan) / 13:38 (Lisbonne)] Yves :**
+Super, Boss 🙏🏾 Deux démarcheurs, c'est validé alors. Pour la réunion, pas de souci : demain 10h, je suis là.
+*(Non encore vu à 13h31.)*

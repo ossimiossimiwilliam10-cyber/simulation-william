@@ -66,3 +66,14 @@ Compris, Boss. Je le dis à Madame Diomandé.
 
 **[09/08/2040 - 07:40 (Abidjan) / 08:40 (Lisbonne)] Abdoul :**
 Boss, bonjour. Je me permets : quand vous aurez un moment, je voudrais qu'on parle de mon contrat. Mon titre, mes attributions, les commandes et les fournisseurs, et le salaire. Je préfère que ce soit écrit. Merci, Boss.
+
+**[09/08/2040 - 12:21 (Abidjan) / 13:21 (Lisbonne)] William :**
+Abdoul, quand es-tu disponible pour qu'on parle de ce qu'on mettra par écrit ? Je veux aussi t'expliquer la future direction de l'entreprise.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[09/08/2040 - 12:23 (Abidjan) / 13:23 (Lisbonne)] William :**
+Finalement, c'est mieux qu'on écrive tout dans le groupe Direction. Je vais y convoquer une réunion.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[09/08/2040 - 12:30 (Abidjan) / 13:30 (Lisbonne)] Abdoul :**
+Compris, Boss. Demain 10h, je serai là.

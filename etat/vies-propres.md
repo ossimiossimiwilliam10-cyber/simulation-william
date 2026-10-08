@@ -34,7 +34,7 @@
 - **Objectif du moment** : toucher sa première commission (2 % de la villa) ; lancer les deux pilotes en location (école, hôtel) ; sa révision à six mois.
 - **Souci en cours** : éviter William depuis le 23/07 ; ne sait pas que tout le QG sait ; famille au Ghana à charge (30 000 FCFA envoyés le 07/08) ; **paludisme depuis le 08/08 au soir : absente les 09 et 10/08**.
 - **Alliés** : Aïcha (depuis la signature), Mariette. **Tensions** : William.
-- **Agenda de la semaine** : relance de l'acompte ; *(avant : ven. 10/08 point avec Aïcha sur les pilotes → maintenant : lun. 13/08)* ; visite de l'école privée décalée à la semaine prochaine.
+- **Agenda de la semaine** : relance de l'acompte ; *(avant : ven. 10/08 point avec Aïcha sur les pilotes → maintenant : lun. 13/08)* ; visite de l'école privée décalée à la semaine prochaine ; **09/08, 13h30 : accepte un appel du patron sur les pilotes, de son lit** ; ven. 10/08, 10h : réunion de direction en visio.
 - **Secret** : —
 - **Modificateurs T11** : M81
 
@@ -158,6 +158,7 @@
 | Sandra – Rosa | Affection | Hébergement du 05/08 |
 | Sandra – Kevin | Mère et fils | *(avant : Kevin ne sait pas encore pour la rupture → maintenant : il sait (07/08), elle l'ignore)* |
 | Kevin – William | Silence | Kevin sait ; message tapé puis effacé (08/08) |
+| Sandra – William | Rupture ; bloquée | William l'a bloquée sur WhatsApp le 09/08 à 13h26 (elle ne le sait pas) |
 | Abdoul – Soléa Énergies | Tentation | Appel du 08/08 ; rappel prévu le 14/08 |
 | Yves – Kader | Confiance, promesse | Yves le proposera comme démarcheur (09/08) |
 | Mariette – sa sœur | Famille | La sœur et la nièce chez Mariette depuis le 09/08 |

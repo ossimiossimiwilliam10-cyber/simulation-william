@@ -59,3 +59,4 @@ Zélé, soucieux de l'image, encore en test sous pression. Peu d'initiative cont
 - 07/08, 07h31 (Abidjan) : William : « Yves, malheureusement, je ne pourrai pas être là pour l'appel de 14h. Je vous prie de m'excuser : je suis malade. » *(non vu : T7b succès net : il le croit)*.
 - 07/08, 13h10 (Abidjan) : « Oh, prompt rétablissement, Boss 🙏🏾 Reposez-vous bien. Pas de souci, on recale quand vous serez mieux. Que Dieu vous garde. »
 - 07/08, 20h05 : « Bonne fête de l'Indépendance à tous » dans le groupe Direction, depuis le feu d'artifice du Plateau. 09/08, 08h08 : note au patron sur le pôle Business & Client (cinq points ; 880 000 brut) ; *(non connu de William)* il proposera Kader comme démarcheur.
+- 09/08, 12h22 (Abidjan) : William accepte deux démarcheurs et préfère une réunion de groupe ; *(à venir, 12h38)* « Super, Boss 🙏🏾 Deux démarcheurs, c'est validé alors… » ; dans le groupe, il demande si c'est en visio.

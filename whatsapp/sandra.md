@@ -266,3 +266,5 @@ Ok ❤️ Alors je vais au comptoir de TAP dès que j'arrive, et je t'attends au
 
 **[06/08/2040 - 10:22 (Luxembourg) / 09:22 (Lisbonne)] Sandra :**
 C'est fait 💪 Changé pour demain, même vol que toi. 329 €… aïe 😅 Mais c'est moi qui paie, hein. Je t'attends aux arrivées, devant le café, avec un pastel de nata pour toi.
+
+*(09/08/2040, 13h26, heure de Lisbonne : William bloque Sandra sur WhatsApp. Sous son nom : « vu aujourd'hui à 11h58 ». WhatsApp ne prévient pas la personne bloquée.)*

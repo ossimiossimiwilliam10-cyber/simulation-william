@@ -81,3 +81,11 @@ C'est du très bon boulot : je dirai à Aïcha d'en tenir compte dans ta prochai
 **[03/08/2040 - 17:31] Grace :**
 Merci, Monsieur Ossimi. C'est noté. Je verrai avec Mme Diomandé à partir de mercredi, après la signature de la villa.
 G. Adjoua-Mensah
+
+**[09/08/2040 - 12:28 (Abidjan) / 13:28 (Lisbonne)] William :**
+Grace, j'aimerais que tu me parles davantage de ton projet pilote. Es-tu disponible tout de suite pour un appel ?
+*(Texte reconstitué à partir de la dictée.)*
+
+**[09/08/2040 - 12:30 (Abidjan) / 13:30 (Lisbonne)] Grace :**
+Oui, Monsieur Ossimi. Je suis à la maison aujourd'hui, un peu souffrante, mais je peux vous parler. Je vous écoute.
+G. Adjoua-Mensah
