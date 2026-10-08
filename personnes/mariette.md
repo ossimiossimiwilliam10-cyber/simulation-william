@@ -54,3 +54,4 @@ Fidèle à Aïcha avant tout. Son intérêt : garder son poste et ne pas porter 
 - 02/08 : nommée par Aïcha au patron comme auteure de l'ordre groupé (erreur de RIB) ; « elle s'est excusée, elle a déjà fait la demande de retour ».
 - 03/08, point d'équipe : « Merci. » (T1 : rien_absorption) ; ne sait pas encore pour la pénalité.
 - *(Non vu, 02/08)* : à la pause de midi, répond à demi-mot à Abdoul sur Grace et le Boss (« Le 23… il s'est passé quelque chose, au bureau. Moi je n'ai rien dit, hein. ») : source de la fuite interne (T5 du 05/08).
+- 06/08, 12h30 (Abidjan) *(non vu)* : au déjeuner, Aïcha lui raconte l'organigramme transféré par Estelle et le message d'Yves ; T2 : commerage (M06) : elle en parlera ce soir à son proche.

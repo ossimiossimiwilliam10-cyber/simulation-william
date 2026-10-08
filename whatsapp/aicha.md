@@ -382,3 +382,6 @@ Bonjour patron. Je vous ai envoyé par courriel mon CV et mon diplôme de master
 **[06/08/2040 - 11:27 (Abidjan) / 12:27 (Lisbonne)] William :**
 Madame Diomandé, êtes-vous libre pour un appel ? C'est important.
 *(Texte reconstitué à partir de la dictée.)*
+
+**[06/08/2040 - 13:30 (Abidjan) / 14:30 (Lisbonne)] Aïcha :**
+Bonjour patron. Oui, je suis disponible. Vous pouvez m'appeler quand vous voulez cet après-midi.
