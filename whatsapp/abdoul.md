@@ -38,3 +38,6 @@ J'ai vu ton plan technique. Ça me va. Rapproche-toi d'Aïcha pour finaliser le 
 
 **[26/07/2040 - 17:07] Abdoul :**
 Merci, Boss. Je vois Madame Diomandé demain.
+
+**[31/07/2040 - 21:25] Abdoul :**
+Boss, bonsoir. Vridi vient de m'appeler : le navire est retardé au port, batteries et onduleurs pas avant le 19 août. Je relance demain et je vois avec Bertin s'il y a un autre fournisseur.

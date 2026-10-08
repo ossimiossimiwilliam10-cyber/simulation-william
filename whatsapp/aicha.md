@@ -272,3 +272,7 @@ Pour les statuts et la banque, j'attends le courrier de Maître Kouamé.
 **[31/07/2040 - 18:12] William :**
 Aïcha, finalement il n'y aura pas de dernier point avec moi. Je confierai toutes les infos importantes à Yves : il sera mon représentant et parlera en mon nom pendant ce dernier point. Tu peux librement le décaler, tant que ça se fait cette semaine.
 *(Texte reconstitué à partir de la dictée.)*
+
+**[31/07/2040 - 21:10] Aïcha :**
+Bien noté. Le point d'équipe aura lieu vendredi à 8h30, avec M. Kanga.
+Bonne soirée, patron.
