@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 06/08/2040, 14h56)
+# William Ossimi — profil (état au 06/08/2040, 15h22)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -302,3 +302,4 @@
 - **06/08, 14h32-14h44 (Lisbonne)** : bisou sur le front de Sandra ; appel à Aïcha depuis le couloir : il lui expose tout (réorganisation, organigramme et note, échange avec Yves, « les épaules », pas de licenciement ni de fin d'essai, clauses) ; elle répond par monosyllabes, promet d'écrire à Me Kouamé et écourte (contrat de la villa avec Grace).
 - **06/08, 14h45 (Lisbonne)** : demande à Aïcha si elle pense avoir les épaules pour le poste de CEO, « sincèrement » ; elle : « Sincèrement, patron… Je fais le travail depuis le mois de mai. Mes rapports sont sur le serveur, tous les jours. » ; « Pour le poste, c'est vous qui décidez. Vous verrez sur le marché. » ; « Excusez-moi, patron. Grace m'attend. »
 - **06/08, 14h47-14h56 (Lisbonne)** : remercie Aïcha (« Merci, patron. Bonne fin de journée. ») ; **utilise un assistant d'IA (Gemini) pour ses décisions** (choix de l'utilisateur, 06/08) : documents d'OSIA chargés ; question sur le second profil central du pôle Technique ; réponse : responsable planification, achats et projets (ou assistant technique et logistique).
+- **06/08, 14h58-15h22 (Lisbonne)** : publie sur LinkedIn une offre de directeur planification, achats et projets (pôle Technique ; 700 000 à 1 000 000 FCFA brut ; 6 ans de solaire ; doctorat valorisé) ; décide que ce poste passera les commandes ; note : revoir avec Abdoul le rattachement de son équipe ; rejoint Sandra (« la marmotte ») ; elle propose de lui montrer « sa » Lisbonne.
