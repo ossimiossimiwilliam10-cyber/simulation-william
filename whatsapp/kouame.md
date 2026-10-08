@@ -43,3 +43,10 @@ Bonjour Maître. Je vous informe de ma nouvelle organisation de la direction : j
 **[06/08/2040 - 18:40 (Abidjan), courriel] Me Kouamé :**
 Monsieur Ossimi, veuillez trouver ci-joint ma note sur votre projet d'organisation. Le point 3 appelle particulièrement votre attention. Bien cordialement, Me Kouamé
 *(Pièce jointe : `courriels/2040-08-06_note_kouame_organisation.pdf`.)*
+
+**[06/08/2040 - 18:46 (Abidjan) / 19:46 (Lisbonne)] William :**
+Maître, je décide de suivre toutes vos directives. Le gérant, ou la gérante, sera donc le CEO. Rapprochez-vous de Mme Diomandé pour mettre tout cela en place.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[06/08/2040 - 19:05 (Abidjan) / 20:05 (Lisbonne)] Me Kouamé :**
+Bien noté, Monsieur Ossimi. Je prépare avec Mme Diomandé le modèle de contrat de cadre et la mise à jour du règlement intérieur (450 000 FCFA HT, à la charge de la société : je lui adresse la convention). Pour la gérance : tant que le futur CEO n'est pas désigné, Mme Diomandé reste la gérante. La nomination du gérant relève de votre seule décision d'associé unique ; je la préparerai avec vous, le moment venu, et je n'en parlerai pas à Mme Diomandé sans votre accord. Bien cordialement, Me Kouamé

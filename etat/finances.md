@@ -214,3 +214,4 @@ Total des avances non remboursées par l'entreprise :
 - **06/08, Lisbonne** : hôtel de reprotection (Olivais) et dîner payés par TAP ; bon repas de midi (15 €) pour William ; le repas de Sandra (7,80 €) et son petit-déjeuner à l'hôtel sont à sa charge.
 - **06/08, Lisbonne** : LinkedIn Premium Business (essai d'un mois ; 69,99 €/mois à partir du 06/09 sauf résiliation) ; VTC Olivais → Graça 17,40 € ; Sandra paie les cafés (2,80 €).
 - **06/08, Lisbonne** : VTC Martim Moniz → Olivais 16,90 € ; proposition de Me Kouamé : modèle de contrat de cadre et mise à jour du règlement intérieur, 450 000 FCFA HT (société), non acceptée à ce stade.
+- **06/08** : convention d'honoraires de Me Kouamé à venir (modèle de contrat de cadre et règlement intérieur, 450 000 FCFA HT, à la charge d'OSIA) ; dîner de Sandra à l'hôtel 24 €.

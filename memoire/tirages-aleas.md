@@ -1081,3 +1081,9 @@ Effets à jouer : A04 (mercredi 08/08 (matin)) : QG sans groupe électrogène (h
 - Tirage [T10] « Yves : délai de sa réponse à « on s'appelle ce soir pour mettre au clair les dernières conditions » (18h00 à Abidjan) » : immediat 27 / rapide 40 / dans_l_heure 15 / dans_la_journee 7 / le_soir_ou_lendemain 10 / plus_tard_ou_jamais 1 ; modificateurs : M73, M71 ; jet  32.1 → **rapide** (enregistré le 08/10/2026 19:33 heure machine)
 
 - Jet « Yves, appelé à 18h42 (Abidjan) avant l'heure annoncée, encore sur le trajet du retour (0-40 : décroche et peut parler ; 40-85 : décroche, demande à rappeler à 19h30 ; 85-100 : ne décroche pas) » : probabilité 50 %, jet  44.0 → **OUI** [DÉROGATION : disponibilité matérielle d'un subordonné en trajet, pas une réaction à un acte de pouvoir] (enregistré le 08/10/2026 19:36 heure machine)
+
+- Tirage [T7c] « Yves : William lui dit qu'il ne sera pas en ligne ce soir, qu'on peut s'appeler demain, et qu'il doit lui donner une heure » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  74.2 → **execute_a_contrecoeur** (enregistré le 08/10/2026 19:41 heure machine)
+
+- Jet « Heure proposée par Yves pour demain 07/08, jour férié (0-40 : 9h ; 40-75 : 15h ; 75-100 : 20h, heure d'Abidjan) » : probabilité 50 %, jet  72.0 → **NON** [DÉROGATION : choix d'un horaire par un subordonné, logistique] (enregistré le 08/10/2026 19:41 heure machine)
+
+- Tirage [T10] « Me Kouamé : délai de sa réponse au message de William (« je suis toutes vos directives ; le gérant sera le CEO ; voyez avec Aïcha pour tout mettre en place »), lundi 18h45 à Abidjan, veille de jour férié » : immediat 7 / rapide 18 / dans_l_heure 15 / dans_la_journee 25 / le_soir_ou_lendemain 25 / plus_tard_ou_jamais 10 ; modificateurs : M70 ; jet  16.5 → **rapide** (enregistré le 08/10/2026 19:41 heure machine)

@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 06/08/2040, 19h43)
+# William Ossimi — profil (état au 06/08/2040, 20h05)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -308,3 +308,4 @@
 - **06/08, 18h43-18h58 (Lisbonne)** : à Yves : « 880 000 brut : avez-vous pris en compte toutes les clauses ? Est-ce votre dernier mot ? Je ne peux vraiment pas me présenter en face pour l'instant. Est-ce qu'un appel vous conviendrait ? » ; Yves maintient 880 000 (clauses, équipe) et accepte un appel ce soir ou demain.
 - **06/08, 19h00-19h40 (Lisbonne)** : à Yves : « Alors on s'appelle ce soir, pour mettre au clair les dernières conditions. » ; retour en VTC à l'hôtel ; Yves disponible à partir de 20h30 (Lisbonne) ; 19h40 : courriel et note de Me Kouamé.
 - **06/08, 19h41-19h43 (Lisbonne)** : à Sandra : « J'ai juste un petit appel à passer, et je te rejoins pour le dîner. » ; appelle Yves, qui demande à rappeler à 19h30 (Abidjan) ; lira la note de Me Kouamé demain.
+- **06/08, 19h44-20h05 (Lisbonne)** : appel avec Yves reporté à demain 15h (Abidjan) ; à Me Kouamé : « Maître, je décide de suivre toutes vos directives. Le gérant, ou la gérante, sera donc le CEO. Rapprochez-vous de Mme Diomandé pour mettre tout cela en place. » ; dîner avec Sandra ; Me Kouamé : contrats et règlement intérieur avec Aïcha (450 000 HT) ; gérance : Aïcha reste gérante jusqu'à la désignation du CEO, nomination préparée avec William seul.

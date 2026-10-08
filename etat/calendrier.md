@@ -1,4 +1,4 @@
-# Calendrier (au 06/08/2040, 19h43)
+# Calendrier (au 06/08/2040, 20h05)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -223,3 +223,4 @@
 | Dim. 12/08, soir | T4/T5 : nouvelle affaire « mise à l'écart d'Aïcha » (informés à recompter). |
 | ≈ Lun. 20/08 | Offre LinkedIn gratuite mise en pause (14 jours) si le plafond de candidatures n'est pas atteint avant. |
 | **Jeu. 06/09/2040** | Fin de l'essai gratuit de LinkedIn Premium Business : 69,99 €/mois prélevés s'il n'est pas résilié avant. |
+| **Mar. 07/08, 15h (Abidjan) = 14h (São Vicente)** | Appel de négociation William-Yves (880 000 FCFA brut demandés). |

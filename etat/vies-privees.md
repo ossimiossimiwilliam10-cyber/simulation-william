@@ -237,3 +237,4 @@
 - **Abdoul (06/08, 15h05, cour du QG)** : après le récit d'Yves, il rallume sa cigarette, appelle Vridi pour la troisième fois de la journée, et ne dit rien à personne.
 - **Yves (06/08, 17h55, gbaka du retour)** : il tape et efface trois fois son message ; il a calculé 880 000 la veille au soir avec Kader, sur un papier, « en comptant le risque » ; Kader lui a dit : « Demande plus, il dira moins. »
 - **Me Kouamé (06/08, 18h40, cabinet du Plateau)** : il a écrit la note en deux fois, entre une audience et un client ; il a hésité à mettre la dernière phrase du point 3, l'a gardée ; puis il a répondu à Mme Diomandé en quatre lignes, sans un mot sur le reste.
+- **Yves (06/08, 19h20, Abobo)** : en descendant du gbaka, il appelle Kader : « Le Boss a annulé ce soir. Demain 15h. » Kader : « C'est bon signe : il te fait attendre parce qu'il va payer. »

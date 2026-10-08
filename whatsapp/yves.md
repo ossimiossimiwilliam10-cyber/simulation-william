@@ -133,3 +133,5 @@ Alors on s'appelle ce soir, pour mettre au clair les dernières conditions.
 
 **[06/08/2040 - 18:12 (Abidjan) / 19:12 (Lisbonne)] Yves :**
 D'accord, Boss 🙏🏾 Je suis à la maison à partir de 19h30. Vous m'appelez quand vous voulez après.
+
+*(18h44 à Abidjan, appel dans le gbaka : William : « Malheureusement, je ne serai pas en ligne tout à l'heure. Ce n'est pas grave : on peut s'appeler demain. Mais à ce moment-là, donnez-moi une heure. » ; Yves : « … Ah. D'accord, Boss. Demain… 15h, ça va ? Je serai à la maison. »)*
