@@ -169,4 +169,4 @@ Yves, je suis d'accord : on part sur deux démarcheurs. Finalement, je pense que
 
 **[09/08/2040 - 12:38 (Abidjan) / 13:38 (Lisbonne)] Yves :**
 Super, Boss 🙏🏾 Deux démarcheurs, c'est validé alors. Pour la réunion, pas de souci : demain 10h, je suis là.
-*(Non encore vu à 13h31.)*
+*(Lu à 13h38, heure de Lisbonne.)*

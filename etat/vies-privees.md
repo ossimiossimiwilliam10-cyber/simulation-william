@@ -267,3 +267,5 @@
 - **Petits faits** : Aïcha (médicaments à crédit), Fanta (fournitures, « fin du mois »), Estelle (tante, délestages), Bertin (apprenti), Koné (chaussures, remplaçant), Djina (le poissonnier).
 - **Grace (09/08, 12h28 à Abidjan)** : au lit depuis le matin, la fièvre tombée sous le paracétamol ; quand le message du patron s'allume, elle s'assied, relit deux fois, ouvre son étude sur la tablette, pose un verre d'eau à côté d'elle, puis répond.
 - **Abdoul (09/08, 12h30 à Abidjan)** : il lit les deux messages du patron debout dans la cour, sa gamelle à la main ; il répond en une ligne, range son carnet des attributions dans son sac.
+- **Grace (09/08, 12h35-12h58 à Abidjan)** : l'appel annulé, elle se rallonge, le téléphone sur le ventre ; elle met vingt minutes à écrire trois lignes, efface « Merci de votre attention », garde « Merci ».
+- **Aïcha (09/08, 12h38 à Abidjan)** : avant de répondre dans le groupe, elle demande à Moussa s'il reste du crédit sur le routeur 4G ; elle note « 10h, salle de réunion, recharger la 4G » sur un post-it.

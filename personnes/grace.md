@@ -53,3 +53,4 @@ son contrat lui interdit les marchés publics et les commissions.
 - *(Non vu, depuis le 02/08)* : l'histoire du 23/07 circule au QG (Abdoul, Yves, le gardien de jour) ; elle ne sait pas encore que tout le monde sait (perception à tirer quand une scène l'exige).
 - 07-09/08 (non connu de William) : 30 000 FCFA envoyés au Ghana (07/08) ; signature de la villa le 08/08, puis paludisme le soir ; absente les 09 et 10/08 ; de son lit, elle décale la visite de l'école privée ; point sur les pilotes reporté au 13/08.
 - 09/08, 12h28-12h31 (Abidjan) : William lui demande de lui parler davantage du projet pilote, appel immédiat ; elle accepte de son lit (« un peu souffrante, mais je peux vous parler ») ; « Noté. » dans le groupe pour la réunion de vendredi 10h.
+- 09/08, 12h32-12h58 (Abidjan) : William annule l'appel et lui demande ce qu'elle a ; « C'est un paludisme… deux jours de repos. Je serai à la réunion demain, en visio. »

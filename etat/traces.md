@@ -164,3 +164,4 @@
 | 07/08, 08h31 | **William dit à Yves qu'il est malade pour annuler l'appel** | Écrit (WhatsApp) | Yves | **Faible** : version crue |
 | 09/08, 13h25 | **William convoque lui-même, dans le groupe Direction, une « réunion spéciale » pour expliquer « comment la société va être dirigée » (vendredi 10/08, 10h)** | Écrit (WhatsApp, cinq destinataires) | Aïcha, Grace, Mariette, Abdoul, Yves | **Moyenne** : acte de direction de l'associé unique, non gérant (gérance de fait, avertissement de Me Kouamé du 25/07) |
 | 09/08, 13h26 | **William bloque Sandra sur WhatsApp** | Réglage (WhatsApp) | Sandra, si elle essaie d'écrire ou d'appeler (une seule coche, plus de photo) ; Kevin, par elle | **Moyenne** (vie privée) |
+| 09/08, 13h35 | **William contacte lui-même M. Konan, candidat au poste de directeur planification du pôle Technique, sans en informer Abdoul ni Aïcha** | Écrit (LinkedIn) | M. Konan | **Faible** pour l'instant ; Abdoul ignore qu'un candidat est approché |

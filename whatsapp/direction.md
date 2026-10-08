@@ -159,12 +159,16 @@ Bonjour à tous. Je convoque une réunion spéciale de la direction, le plus tô
 **[09/08/2040 - 12:31 (Abidjan)] Grace :**
 Noté.
 
+**[09/08/2040 - 12:33 (Abidjan) / 13:33 (Lisbonne)] William :**
+Ce sera 10h, heure d'Abidjan.
+*(Texte reconstitué à partir de la dictée.)*
+
 **[09/08/2040 - 12:38 (Abidjan)] Aïcha :**
-Bien noté, patron. 10h, heure d'Abidjan ? Au QG, nous n'avons que la 4G en attendant la fibre : nous vous appellerons en vidéo depuis la salle de réunion.
-*(Non encore vu à 13h31, heure de Lisbonne.)*
+Bien noté, patron. Au QG, nous n'avons que la 4G en attendant la fibre : nous vous appellerons en vidéo depuis la salle de réunion.
+*(Lu à 13h38, heure de Lisbonne ; texte ajusté avant sa réception : William a précisé l'heure d'Abidjan à 13h33.)*
 
 **[09/08/2040 - 12:39 (Abidjan)] Yves :**
-Noté 💪🏾 Demain 10h. C'est en visio, Boss ? Vous nous envoyez le lien ?
+Noté 💪🏾 Demain 10h. Boss, c'est en vidéo sur WhatsApp, ou vous nous envoyez un lien ?
 
 **[09/08/2040 - 12:43 (Abidjan)] Mariette :**
 Bien reçu, patron. Je serai là.

@@ -61,3 +61,4 @@
 - **Ibrahim Koné** : lettre d'embauche montrée à son oncle (07/08) ; chaussures de sécurité (08/08) ; forme son remplaçant jusqu'au 31/08 (09/08).
 - **Djina** : au marché, présente Sandra à tout le monde et sonde le poissonnier pour son fils (08/08).
 - **Estelle** : 30 000 FCFA envoyés à sa tante (09/08) ; délestages à Angré.
+- **Ange-Michel Konan** *(créé par le moteur le 07/08)* : 36 ans, Abidjan, ingénieur électricien (bac + 5), huit ans d'expérience dont cinq dans le solaire (chef de projet chez un intégrateur) ; seul candidat retenu par l'agent de William (78/100) ; prétentions : 950 000 FCFA brut. 09/08, 13h35 : William lui écrit ; *(à venir, 14h11)* : 950 000 brut, CDI, indemnité de transport, un mois de préavis ; « à qui je rendrais compte » ; visio ce soir après 19h ou samedi matin.

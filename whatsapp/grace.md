@@ -89,3 +89,11 @@ Grace, j'aimerais que tu me parles davantage de ton projet pilote. Es-tu disponi
 **[09/08/2040 - 12:30 (Abidjan) / 13:30 (Lisbonne)] Grace :**
 Oui, Monsieur Ossimi. Je suis à la maison aujourd'hui, un peu souffrante, mais je peux vous parler. Je vous écoute.
 G. Adjoua-Mensah
+
+**[09/08/2040 - 12:32 (Abidjan) / 13:32 (Lisbonne)] William :**
+Si tu es souffrante, alors c'est bon : prends le temps de te reposer. Qu'est-ce que tu as exactement ? Tu es malade ?
+*(Texte reconstitué à partir de la dictée.)*
+
+**[09/08/2040 - 12:58 (Abidjan) / 13:58 (Lisbonne)] Grace :**
+C'est un paludisme, Monsieur Ossimi. Le test est positif depuis ce matin, j'ai commencé le traitement. Le médecin m'a donné deux jours de repos. Je serai à la réunion demain, en visio. Merci.
+G. Adjoua-Mensah

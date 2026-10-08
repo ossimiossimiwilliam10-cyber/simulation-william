@@ -214,6 +214,7 @@
 | Mer. 08/08, matin | *(Non connu de William)* Aléa A04 : délestage au QG (groupe électrogène hors service), jour de la signature de la villa. |
 | Ven. 10/08 | *(Non connu de William)* Vie hors d'Abidjan : message de Mme Schmit. |
 | **Ven. 10/08, 10h (Abidjan) = 11h (Lisbonne)** | **Réunion spéciale de la direction convoquée par William** (groupe Direction ; format non précisé ; l'équipe propose la vidéo depuis la salle de réunion du QG, sur la 4G). |
+| Jeu. 09/08, 18h40 (Lisbonne) | Option : Royal Air Maroc Lisbonne → Casablanca → Abidjan (arrivée ven. 10/08, 03h15) ; non réservé. |
 | Ven. 10/08 | *(Non connu de William)* Grace absente (paludisme) ; point sur les pilotes reporté au lun. 13/08. |
 | Lun. 13/08 | *(Non connu de William)* Rendez-vous de Mmes Diomandé et Kouadio avec Me Kouamé (contrats, matrice) reporté : Me Kouamé hospitalisé. |
 | Mar. 14/08 | *(Non connu de William)* Abdoul rappelle Soléa Énergies. |
