@@ -738,3 +738,7 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Conditions du client de la villa : 0-50 installation terminée avant le 31/08 ; 50-80 acompte de 20 % seulement ; 80-100 aucune condition particulière » : probabilité 50 %, jet  77.9 → **NON** (enregistré le 08/10/2026 10:11 heure machine)
 
 - Jet « Grace annonce elle-même la nouvelle à William par WhatsApp (en plus d'Aïcha) » : probabilité 50 %, jet  11.3 → **OUI** [DÉROGATION : choix de canal d'une collaboratrice pour une bonne nouvelle commerciale, pas une réaction à un acte de William] (enregistré le 08/10/2026 10:11 heure machine)
+
+- Tirage [T7c] « Grace (mercredi 16h32) : William la félicite et accepte l'acompte de 20 % pour la villa Riviera (à appliquer au contrat, avec la gérante) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  74.5 → **execute_a_contrecoeur** (enregistré le 08/10/2026 10:13 heure machine)
+
+- Jet « Grace répond dans le quart d'heure » : probabilité 70 %, jet  47.4 → **OUI** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 10:13 heure machine)

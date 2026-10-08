@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 01/08/2040, 16h28)
+# William Ossimi — profil (état au 01/08/2040, 16h43)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -248,3 +248,4 @@
 - **01/08, 06h50-11h51** : réveil fatigué ; matinée à l'hôtel, sieste d'une heure ; comptes rendus des entretiens SAV d'Abdoul (11h48) et d'Yves (11h51) : Ibrahim Koné recommandé (380 000 brut).
 - **01/08, 11h55-12h05** : à Abdoul et Yves : « Prenez Ibrahim Koné, quoi qu'il en coûte » ; surplus de juillet : 45 % en ETF (3 285 €), le reste sur le compte courant (≈ 8 555 €).
 - **01/08, 12h05-16h28** : déjeuner, sieste, après-midi à l'hôtel ; 16h28 : Grace lui annonce le premier client (villa Riviera, option A, acompte de 20 %).
+- **01/08, 16h32** : félicite Grace et accepte l'acompte de 20 % ; elle : « Merci, Monsieur Ossimi. C'est noté pour les 20 %. Je transmets au client et à Mme Diomandé. G. Adjoua-Mensah »

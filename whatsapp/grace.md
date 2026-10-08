@@ -59,3 +59,11 @@ Monsieur Ossimi, bonne nouvelle : le propriétaire de la villa Riviera vient de 
 Une seule condition : 20 % d'acompte à la commande au lieu de 50 %, le reste à la livraison et à la réception. Il veut signer la semaine prochaine.
 J'en informe Mme Diomandé.
 G. Adjoua-Mensah
+
+**[01/08/2040 - 16:32] William :**
+Félicitations, Grace ! Bravo pour ce premier client. J'accepte l'acompte de 20 %.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[01/08/2040 - 16:43] Grace :**
+Merci, Monsieur Ossimi. C'est noté pour les 20 %. Je transmets au client et à Mme Diomandé.
+G. Adjoua-Mensah
