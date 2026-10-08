@@ -332,3 +332,8 @@ Aïcha, je suis relativement déçu que tu minimises autant cet incident. C'est 
 Si tu n'en es pas capable, je vois deux possibilités : soit tu t'en vas, soit j'agrandis l'équipe de direction centrale. On n'a pas le droit à l'erreur. Certes, on se défend, mais c'est le moment de décoller. Imagine un avion qui s'apprête à décoller sur une piste relativement courte : s'il met trop de temps, il s'écrase, il percute le mur. Il faut qu'on décolle au plus vite. Notre trésorerie, c'est notre piste de décollage, et elle n'est pas infinie.
 Je tiendrai compte de ta réaction à cet incident dans ta prochaine évaluation.
 *(Texte reconstitué à partir de la dictée.)*
+
+**[02/08/2040 - 19:22] Aïcha :**
+Bien noté, patron. Je le note pour l'évaluation de Mariette, fin octobre.
+Pour le délai : une évaluation tous les deux mois est possible. Je me permets seulement : Maître Kouamé avait demandé de revoir la clause de sanction de la matrice ; si on change le délai, il faudra peut-être le lui montrer.
+Pour le reste, j'ai compris, patron.

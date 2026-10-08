@@ -187,3 +187,5 @@
 - **Sandra (02/08, 20h à Esch)** : a payé son billet avec sa carte, en trois fois sans frais proposées par l'agence en ligne ; elle a appelé Rosa à Lisbonne, qui a crié de joie ; elle écrit à William en souriant, debout dans la cuisine. *Intérêt : partir à égalité ; ne rien devoir.*
 - **Aïcha (02/08, 19h)** : lit le message du patron dans le gbaka ; elle ne dira rien à Mariette ce soir ; elle répondra en rentrant.
 - **Aïcha (02/08, 19h)** : lit les deux messages dans le gbaka, entre Riviera 2 et Angré ; elle relit « soit tu t'en vas » deux fois, range le téléphone, le ressort, répond à 19h22 ; chez elle, elle ne dîne pas et ne raconte rien à sa mère. *Intérêt : tenir jusqu'au 21 novembre ; le salaire, sa mère.*
+- **Yves (02/08, 21h)** : répète son discours dans la cour devant sa sœur, qui rit ; il change « le patron dit » en « Monsieur Ossimi m'a demandé de vous dire ».
+- **Mariette (02/08, soir)** : rien ne lui est encore dit de la pénalité ; elle refait le tableau des RIB ligne par ligne, deux fois.

@@ -39,3 +39,4 @@ Zélé, soucieux de l'image, encore en test sous pression. Peu d'initiative cont
 - 01/08, 11h51 : compte rendu détaillé des entretiens SAV (Ibrahim Koné recommandé ; Aïcha informée).
 - 01/08, 11h55-11h58 : William : « Prenez Ibrahim Koné, quoi qu'il en coûte. » ; lui : « Super, Boss 🙏🏾 Je préviens Madame Diomandé tout de suite. »
 - 02/08 : dépose à la SGBCI son spécimen de signature (second signataire, accepté).
+- 02/08, 21h14 : « Boss, bonsoir 🙏🏾 Demain 8h30, je suis prêt. J'ai tout écrit dans mon carnet. Je vous fais le compte rendu juste après. Bonne nuit, Boss. »

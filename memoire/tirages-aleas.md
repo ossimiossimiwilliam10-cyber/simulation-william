@@ -810,3 +810,7 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Heure de la réponse d'Aïcha : 18h30 + jet × 1,5 minute (18h30-21h00) » : probabilité 50 %, jet  34.4 → **OUI** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 13:05 heure machine)
 
 - Tirage [T1] « Aïcha (jeudi ~19h, dans le gbaka) : nouveau message écrit de William : déçu qu'elle minimise l'erreur de RIB (son propre salaire), elle est DG et doit être minutieuse, « soit tu t'en vas, soit j'agrandis l'équipe de direction », métaphore de l'avion sur une piste courte, et sa réaction comptera dans sa prochaine évaluation ; M01 : famille à charge, mère malade, essai jusqu'au 21/11, salaire de juillet non reçu (emprunt à Fanta) ; M16 : besoin de protéger sa position (confirmation refusée, pouvoirs limités) ; règle de l'utilisateur : depart_discret exclu (points à rien_absorption) » : rien_absorption 34 / evitement 17 / confidence_proche 13 / confidence_collegue 8 / reciproque 6 / calcul 12 / negociation_tacite 6 / depart_discret 4 / frontal_formel 0 ; modificateurs : M01, M16 ; jet  27.6 → **rien_absorption** (enregistré le 08/10/2026 13:10 heure machine)
+
+- Jet « William dort bien (au moins 7 h) la nuit de jeudi à vendredi » : probabilité 70 %, jet  70.2 → **NON** (enregistré le 08/10/2026 13:15 heure machine)
+
+- Jet « Yves écrit à William ce soir pour confirmer qu'il est prêt pour le point de demain » : probabilité 40 %, jet  37.2 → **OUI** [DÉROGATION : message spontané d'un collaborateur, délai seulement] (enregistré le 08/10/2026 13:15 heure machine)

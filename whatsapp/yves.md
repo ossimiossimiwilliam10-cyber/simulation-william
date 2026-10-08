@@ -68,3 +68,6 @@ Prenez Ibrahim Koné, quoi qu'il en coûte.
 
 **[01/08/2040 - 11:58] Yves :**
 Super, Boss 🙏🏾 Je préviens Madame Diomandé tout de suite.
+
+**[02/08/2040 - 21:14] Yves :**
+Boss, bonsoir 🙏🏾 Demain 8h30, je suis prêt. J'ai tout écrit dans mon carnet. Je vous fais le compte rendu juste après. Bonne nuit, Boss.
