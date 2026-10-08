@@ -752,3 +752,9 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Aïcha répond dans la demi-heure » : probabilité 65 %, jet  66.2 → **NON** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 10:23 heure machine)
 
 - Jet « Heure de la réponse d'Aïcha : 18h20 + jet × 1,2 minute (18h20-20h20) » : probabilité 50 %, jet  14.7 → **OUI** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 10:23 heure machine)
+
+- Jet « Sandra écrit à William ce soir (mercredi, avant 23h Abidjan) » : probabilité 55 %, jet  26.1 → **OUI** [DÉROGATION : message spontané d'une proche, délai seulement ; contenu déjà tiré (billet trop cher, elle cherche autre chose)] (enregistré le 08/10/2026 11:30 heure machine)
+
+- Jet « Heure du message de Sandra (Abidjan) : 18h00 + jet × 3 minutes (18h00-23h00) » : probabilité 50 %, jet  79.6 → **NON** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 11:30 heure machine)
+
+- Jet « William dort bien (au moins 7 h) cette nuit » : probabilité 70 %, jet  52.8 → **OUI** (enregistré le 08/10/2026 11:30 heure machine)

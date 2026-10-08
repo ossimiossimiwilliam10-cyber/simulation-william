@@ -287,3 +287,6 @@ Aïcha, je t'autorise par écrit :
 2) à engager l'achat du matériel de la villa.
 William Ossimi, associé unique
 *(Texte reconstitué à partir de la dictée.)*
+
+**[01/08/2040 - 18:38] Aïcha :**
+Bien reçu, patron. Je classe votre autorisation dans juridique/, avec le contrat.

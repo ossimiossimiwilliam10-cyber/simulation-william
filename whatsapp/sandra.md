@@ -217,3 +217,7 @@ J'ai pris l'Hotel Oasis Porto Grande, sur la place Amílcar Cabral : chambre ave
 
 **[31/07/2040 - 11:20 (Abidjan) / 13:20 (Esch)] Sandra :**
 Je regarde ce soir pour mon billet.
+
+**[01/08/2040 - 21:59 (Abidjan) / 23:59 (Esch)] Sandra :**
+Pardon, je n'ai pas répondu hier. J'ai regardé pour le billet : 1 520 €, je ne peux pas ce mois-ci.
+Je cherche un autre vol pour les mêmes dates, avec une escale. Je te dis demain.

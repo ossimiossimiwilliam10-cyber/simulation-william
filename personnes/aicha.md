@@ -108,3 +108,4 @@ propose des alternatives légales. Elle négocie dur avec les artisans.
 - 01/08 (non vu par William) : ~12h15, Yves et Abdoul lui transmettent l'ordre du patron (Koné « quoi qu'il en coûte ») ; T7c : execute_a_contrecoeur : elle n'appelle Koné qu'à 16h40 ; Koné demande jusqu'à vendredi.
 - 01/08, 17h42-17h43 : rapport en retard ; consigne l'embauche de Koné comme décision du patron ; demande des autorisations écrites (villa > 10 M, matériel > 5 M) ; « Patron, le rapport du jour est dans direction. Pardon pour le retard : la banque m'a rappelée pour demain matin. »
 - 01/08, 17h50 : reçoit l'autorisation écrite de William (villa, matériel) ; *(non vu : réponse à 18h38 : « Bien reçu, patron. Je classe votre autorisation dans juridique/, avec le contrat. »)*.
+- 01/08, 18h38 : « Bien reçu, patron. Je classe votre autorisation dans juridique/, avec le contrat. »

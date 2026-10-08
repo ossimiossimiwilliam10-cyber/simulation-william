@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 01/08/2040, 17h52)
+# William Ossimi — profil (état au 01/08/2040, 21h59)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -251,3 +251,4 @@
 - **01/08, 16h32** : félicite Grace et accepte l'acompte de 20 % ; elle : « Merci, Monsieur Ossimi. C'est noté pour les 20 %. Je transmets au client et à Mme Diomandé. G. Adjoua-Mensah »
 - **01/08, 17h42-17h43** : rapport d'Aïcha (en retard) : Koné « votre décision », autorisations écrites demandées pour la villa et le matériel.
 - **01/08, 17h50** : autorise par écrit Aïcha à signer le contrat de la villa et à engager l'achat du matériel.
+- **01/08, 17h52-21h59** : 18h38 : Aïcha classe l'autorisation ; dîner à l'hôtel ; 21h59 : Sandra : billet trop cher (1 520 €), elle cherche un vol avec escale pour les mêmes dates.

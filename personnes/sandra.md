@@ -98,3 +98,4 @@ depuis la pilule du lendemain du 26/05.
 - 30/07, 21h35 (23h35 Esch) : « Je vais dormir. Bonne nuit. »
 - 31/07, 10h47-11h20 (12h47-13h20 Esch) : William : « J'ai pris l'Hotel Oasis Porto Grande, sur la place Amílcar Cabral : chambre avec vue sur la baie, du 6 au 12. Ça te plaît ? » ; elle (T8 : rien_ne_dit_soupconne) : « Je regarde ce soir pour mon billet. » ; *(non vu : ne réserve pas aujourd'hui ; doute : « l'argent comme pardon »)*.
 - 31/07 soir (non vu) : n'écrit pas ; billet trop cher pour elle ce mois-ci, elle cherche autre chose.
+- 01/08, 21h59 (23h59 Esch) : « Pardon, je n'ai pas répondu hier. J'ai regardé pour le billet : 1 520 €, je ne peux pas ce mois-ci. Je cherche un autre vol pour les mêmes dates, avec une escale. Je te dis demain. » (rien sur la vidéo ni sur l'hôtel).
