@@ -1,4 +1,4 @@
-# Fils ouverts et décisions en attente (au 07/08/2040, 08h35)
+# Fils ouverts et décisions en attente (au 07/08/2040, 13h18)
 
 > **Correction n° 34 (26/07/2040, hors fiction)** : les contrats de direction sont des CDI avec période d'essai depuis l'origine ; toute mention de « CDD » plus bas se lit « CDI à l'essai ».
 

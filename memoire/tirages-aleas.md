@@ -1127,3 +1127,9 @@ Effets à jouer : A04 (mercredi 08/08 (matin)) : QG sans groupe électrogène (h
 - Tirage [T10] « Dr Mbarga : délai de sa réponse au message de William (« intéressant, je vous recontacterai au besoin ») » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  88.6 → **le_soir_ou_lendemain** (enregistré le 08/10/2026 20:24 heure machine)
 
 - Jet « TAP : le remboursement des segments non effectués est accepté sans discussion (sinon : refus partiel, taxes seulement, réclamation à faire) » : probabilité 45 %, jet  73.9 → **NON** (enregistré le 08/10/2026 20:24 heure machine)
+
+- Jet « William s'endort dans la matinée (fatigue, émotion) » : probabilité 60 %, jet  23.8 → **OUI** (enregistré le 08/10/2026 20:28 heure machine)
+
+- Jet « Heure de la réponse d'Yves : 08h31 + 60 + jet x 3 min (de 09h31 à 14h31, heure de Lisbonne) » : probabilité 50 %, jet  93.0 → **NON** [DÉROGATION : heure seulement (créneau T10 déjà tiré)] (enregistré le 08/10/2026 20:28 heure machine)
+
+- Jet « Réveil de William : 11h00 + jet x 2 min (11h00 à 14h20) » : probabilité 50 %, jet  69.2 → **NON** (enregistré le 08/10/2026 20:29 heure machine)
