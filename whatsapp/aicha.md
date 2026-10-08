@@ -254,3 +254,17 @@ La banque ne donne l'attestation de versement que jeudi. Maître Kouamé dépose
 **[31/07/2040 - 17:01] Aïcha :**
 Patron, le rapport de ce mardi est déposé dans direction. La clinique a dit non ; le détail est dedans.
 *(Pièce : `serveur/direction/rapport_direction_3107.pdf`.)*
+
+**[31/07/2040 - 17:08] William :**
+Aïcha, je suis d'accord pour l'étude des offres en location. C'est important qu'on ait au moins un premier client d'ici la fin août.
+OK aussi pour un dernier point avec l'équipe avant mon départ : jeudi matin, à la première heure, dès que tout le monde est là. Je serai au bureau ce jour-là.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[31/07/2040 - 17:14] William :**
+Autre chose : je vais signer les statuts modifiés, et on met en place une double signature à la banque au-delà d'un seuil. Je recevrai aussi en copie les relevés mensuels. Maître Kouamé va t'en informer de son côté.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[31/07/2040 - 17:48] Aïcha :**
+C'est noté pour la location, patron. Grace commence l'étude demain ; l'objectif de fin août, je le lui transmets.
+Jeudi matin, non. Excusez-moi : je suis à la SGBCI à l'ouverture, pour l'attestation.
+Pour les statuts et la banque, j'attends le courrier de Maître Kouamé.

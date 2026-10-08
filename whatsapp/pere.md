@@ -25,3 +25,7 @@ Malheureusement, je ne viendrai pas : je ne suis pas libre. La société, ce n'e
 **[31/07/2040 - 17:00 (Abidjan) / 19:00 (Luxembourg)] Père :**
 Tu n'es pas en vacances jusqu'en septembre ? Tu seras où, le 18 ?
 Et le petit projet, c'est quoi ? Il y a des employés sur la photo.
+
+**[31/07/2040 - 17:10 (Abidjan) / 19:10 (Luxembourg)] William :**
+Je serai en déplacement, donc je ne serai pas là le 18. Et c'est juste un petit projet entrepreneurial comme ça, rien de très important. Bonne journée.
+*(Texte reconstitué à partir de la dictée.)*

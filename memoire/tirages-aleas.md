@@ -634,3 +634,27 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « A09 : Aïcha s'aperçoit aujourd'hui que son salaire n'est pas arrivé » : probabilité 40 %, jet  54.4 → **NON** (enregistré le 07/10/2026 23:52 heure machine)
 
 - Jet « Rapport d'Aïcha déposé à l'heure (17h00) » : probabilité 85 %, jet   0.1 → **OUI** (enregistré le 07/10/2026 23:52 heure machine)
+
+- Tirage [T7c] « Aïcha (mardi ~17h12) : William donne son accord pour étudier des offres en location et fixe l'objectif d'au moins un premier client d'ici fin août » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  68.8 → **execute_sans_discuter** (enregistré le 08/10/2026 09:01 heure machine)
+
+- Tirage [T7c] « Aïcha : William accepte un dernier point d'équipe jeudi 02/08 à la première heure, au QG, dès que tout le monde est là » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  99.5 → **frontal_refus** (enregistré le 08/10/2026 09:01 heure machine)
+
+- Tirage [T1] « Aïcha (mardi ~17h14, par WhatsApp) : William l'informe qu'il signe les statuts modifiés (seuils 5 M / 10 M, actes réservés), qu'une double signature sera mise en place à la banque au-delà d'un seuil et qu'il recevra en copie les relevés mensuels ; Me Kouamé doit aussi l'en informer ; M01 : famille à charge, mère malade, période d'essai ; M16 : besoin de protéger sa position (demande de confirmation refusée la veille) ; règle de l'utilisateur : depart_discret exclu (points à rien_absorption) » : rien_absorption 34 / evitement 17 / confidence_proche 13 / confidence_collegue 8 / reciproque 6 / calcul 12 / negociation_tacite 6 / depart_discret 4 / frontal_formel 0 ; modificateurs : M01, M16 ; jet  62.6 → **confidence_proche** (enregistré le 08/10/2026 09:01 heure machine)
+
+- Jet « Aïcha répond à William avant 18h30 » : probabilité 65 %, jet  41.9 → **OUI** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 09:01 heure machine)
+
+- Tirage [T8] « Père de William (mardi ~19h15 à Luxembourg) : William répond qu'il sera en déplacement le 18 et que la société n'est « qu'un petit projet entrepreneurial, rien de très important », puis lui souhaite une bonne journée ; M43 : déjà alerté, acte répété (deuxième esquive en quatre heures, après des années de silence) » : soutient_sans_creuser 12 / creuse_doucement 25 / releve_esquive 23 / plaisante_et_devie 12 / froideur 12 / agacement_net 7 / rien_ne_dit_soupconne 8 / frontal_rupture 1 ; modificateurs : M43 ; jet  55.6 → **releve_esquive** (enregistré le 08/10/2026 09:02 heure machine)
+
+- Jet « Le père répond dans l'heure » : probabilité 50 %, jet  73.2 → **NON** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 09:02 heure machine)
+
+- Jet « Me Kouamé répond à William avant 19h (sinon mercredi matin) » : probabilité 45 %, jet  10.1 → **OUI** [DÉROGATION : délai seulement (tiers à autorité propre, T6 sans tirage sur le fond)] (enregistré le 08/10/2026 09:02 heure machine)
+
+- Jet « Heure de la réponse du père (Abidjan) : 18h20 + jet × 4 minutes (18h20-01h00) » : probabilité 50 %, jet  16.0 → **OUI** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 09:02 heure machine)
+
+- Jet « A06 (mardi soir) : Vridi annonce un nouveau retard sur les batteries et onduleurs ; durée = 5 + jet × 0,15 jours (5 à 20 jours) » : probabilité 50 %, jet  71.6 → **NON** (enregistré le 08/10/2026 09:02 heure machine)
+
+- Jet « A06 : l'excuse de Vridi (navire retardé au port d'Abidjan) est vraie » : probabilité 50 %, jet  50.7 → **NON** (enregistré le 08/10/2026 09:02 heure machine)
+
+- Jet « Abdoul prévient William directement ce soir (sinon par le rapport d'Aïcha mercredi) » : probabilité 40 %, jet  37.1 → **OUI** [DÉROGATION : canal et délai d'une information, pas une réaction à un acte de William] (enregistré le 08/10/2026 09:02 heure machine)
+
+- Jet « Heure du message d'Abdoul (A06) : 19h00 + jet × 1,5 minute (19h00-21h30) » : probabilité 50 %, jet  96.6 → **NON** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 09:02 heure machine)

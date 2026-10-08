@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 31/07/2040, 17h01)
+# William Ossimi — profil (état au 31/07/2040, 18h06)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -237,3 +237,4 @@
 - **31/07, 12h55-13h31** : répond « OK » à son père et lui vire 5 300 € (compte courant ≈ 2 540 €) ; **décision intérieure, non dite : c'est le dernier virement à son père, il estime avoir « compensé sa dette »** ; le père demande s'il vient le 18 et ce qu'est « cette société à Abidjan » (vue sur Facebook).
 - **31/07, 13h40** : à son père : ne viendra pas à l'enterrement (« pas libre ») ; OSIA présentée comme « un petit projet… rien de très important ».
 - **31/07, 13h41-17h01** : après-midi à l'hôtel ; 14h52 : Aïcha : apport crédité ; 16h39 : courriel de Me Kouamé sur les pouvoirs de la gérante ; 17h00 : le père (« Tu n'es pas en vacances jusqu'en septembre ? … le petit projet, c'est quoi ? ») ; 17h01 : rapport d'Aïcha (refus de la clinique).
+- **31/07, 17h08-18h06** : à Aïcha : accord pour l'étude de la location, objectif d'un premier client d'ici fin août, point d'équipe jeudi matin, information sur les statuts modifiés, la double signature et les relevés ; au père : « en déplacement » le 18, « petit projet » ; à Me Kouamé : accord pour les trois mesures ; Aïcha refuse le point d'équipe de jeudi matin (SGBCI) ; Me Kouamé : signature jeudi 15h, seuil et second signataire à fixer.
