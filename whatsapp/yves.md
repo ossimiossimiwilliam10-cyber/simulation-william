@@ -96,3 +96,5 @@ Tu es disponible là, tout de suite ? Ce serait cool.
 Oui Boss, tout de suite 🙏🏾 Je descends dans la cour pour être tranquille. Je vous appelle dans deux minutes.
 
 *(11h12 à Abidjan : appel d'Yves à William.)*
+
+*(06/08, 11h12-11h21 à Abidjan : appel. William le vouvoie désormais ; réorganisation complète expliquée ; pôle Business & Client, supervision d'une équipe, relevés de notes demandés, renégociation et revalorisation proposées. Yves : « Pour le master… je me permets, Boss : moi, je n'ai pas de master. J'ai un BTS en action commerciale, et après une licence professionnelle en marketing et relation client. Je peux vous envoyer les relevés des deux, ce soir. » ; « Et pour le contrat, merci, Boss. Vraiment. Demain c'est férié, je suis libre toute la journée. La visio, c'est mieux : on se voit, on parle en face. Vous me dites l'heure. » ; « Et… Madame Diomandé, Boss ? Dans tout ça, elle sera où ? »)*

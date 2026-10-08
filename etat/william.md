@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 06/08/2040, 12h12)
+# William Ossimi — profil (état au 06/08/2040, 12h21)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -294,3 +294,4 @@
 - **06/08, 10h52-11h18 (Lisbonne)** : organigramme envoyé à Me Kouamé (avis, faisabilité avec les statuts) ; bagage récupéré ; retrouvailles avec Sandra aux arrivées ; proposition d'hôtel : « Ensemble, oui. Évidemment. … Mais TAP te donne déjà une chambre, non ? On demande au comptoir si je peux venir avec toi. Ça ne sert à rien de payer un hôtel en plus. »
 - **06/08, 11h20-12h05 (Lisbonne)** : demande d'entretien à Yves ; comptoir de TAP : Sandra peut partager la chambre (double) ; déjeuner à l'aéroport ; navette ; Yves : « Bonjour Boss 🙏🏾 Oui, je suis disponible. Aujourd'hui je suis au QG jusqu'à 18h, et demain c'est férié, je suis à la maison. Vous m'appelez quand vous voulez, ou vous me dites l'heure. »
 - **06/08, 12h06-12h12 (Lisbonne)** : à Yves : « Tu es disponible là, tout de suite ? Ce serait cool. » ; arrivée à l'hôtel d'Olivais ; Yves appelle à 12h12.
+- **06/08, 12h12-12h21 (Lisbonne)** : appel avec Yves (vouvoiement désormais) : réorganisation complète exposée, « pas confidentielle » ; Yves affecté au pôle Business & Client avec une équipe à superviser ; relevés de notes demandés (Yves n'a pas de master : BTS + licence pro) ; renégociation et revalorisation proposées ; Yves préfère une visio demain ; il demande où sera Aïcha.

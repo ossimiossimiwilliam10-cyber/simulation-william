@@ -226,3 +226,4 @@
 - **Sandra (06/08, 11h15, Lisbonne)** : elle l'observe pendant qu'il mange son pastel debout : les cernes, le téléphone qu'il regarde deux fois en deux minutes ; elle ne demande pas qui écrit.
 - **Yves (06/08, 10h25 au QG)** : il lit le message du patron à son bureau, le relit, regarde la porte d'Aïcha restée entrouverte ; il attend d'avoir fini l'appel d'un client pour répondre, et ne dit rien à personne de la demande.
 - **Yves (06/08, 11h10 au QG)** : il prévient Abdoul qu'il « descend deux minutes », sans dire pour qui ; dans la cour, à l'ombre du manguier, il remet sa chemise dans son pantalon avant d'appeler, comme si le patron pouvait le voir.
+- **Yves (06/08, 11h22 au QG)** : il reste une minute sous le manguier, le téléphone contre la poitrine ; « une équipe à superviser » ; il pense au salaire, à sa mère à Bouaké, à Kader qui ne le croira pas ; en remontant, il voit Aïcha à son bureau, penchée sur un dossier, et détourne les yeux.
