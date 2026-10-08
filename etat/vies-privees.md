@@ -199,3 +199,4 @@
 - **Kevin (04/08, matin)** : au garage de M. Da Silva, les mains dans un moteur de Clio ; il a demandé à sa mère de lui envoyer une photo « quand le prof est là » ; elle ne l'a pas fait.
 - **Sandra (04/08, 12h)** : elle a pensé à cette douche dans la voiture, sans le dire ; la phrase sur la maison l'a remuée plus qu'elle ne le montre ; elle a des préservatifs dans son sac depuis jeudi.
 - **Sandra (04/08, 12h17)** : la phrase « je ne veux pas que tu te sentes forcée » la touche ; « parler sérieusement » lui serre le ventre une seconde, puis elle décide de ne pas y penser maintenant.
+- **Sandra (04/08, 13h20)** : allongée contre lui, elle écoute son cœur ralentir ; elle compte les jours jusqu'à Mindelo ; le « sérieusement » revient lui serrer le ventre, alors elle pose elle-même la question, pour ne pas attendre.
