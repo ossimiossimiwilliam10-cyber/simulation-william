@@ -1,4 +1,4 @@
-# Calendrier (au 02/08/2040, 17h49)
+# Calendrier (au 02/08/2040, 18h08)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -140,6 +140,7 @@
 | **Ven. 03/08, 18h** | Départ tardif de la chambre 312 (47 500 FCFA). |
 | **Ven. 03/08, 23h20** | **Vol retour** Abidjan → Paris (Air France, économie) ; Luxembourg le sam. 04/08 vers 10h30. *(Avant : vol du dim. 09/09 → maintenant : ven. 03/08, réservé le 30/07 à 08h43.)* |
 | **Lun. 06/08, 06h00** | **Vol Luxembourg → Lisbonne → São Vicente (Mindelo)** (TAP, économie, réservé le 30/07) ; arrivée 12h40, heure locale. Pré-enregistrement EASE au moins cinq jours avant l'arrivée (au plus tard le 01/08). |
+| **Dim. 05/08, soir** | Sandra vole Luxembourg → Lisbonne (nuit chez sa cousine Rosa) ; le 06/08, elle prend le même vol que William Lisbonne → São Vicente ; retour le 13/08 par Sal (six heures d'escale). |
 | **Lun. 06/08 → dim. 12/08** | Hotel Oasis Porto Grande, Mindelo (six nuits, 1 032 €, paiement sur place ; annulation gratuite jusqu'au 03/08). EASE fait le 30/07. |
 | **Mar. 07/08** | Fête nationale de Côte d'Ivoire (jour férié ; William à Mindelo). |
 | **Dim. 12/08, 23h55** | Retour São Vicente → Lisbonne → Luxembourg (arrivée lun. 13/08, 10h35). |

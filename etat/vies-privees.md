@@ -184,3 +184,5 @@
 - **Aïcha (02/08, 16h)** : écrit « un virement a été mal affecté » et efface « mon salaire » ; elle a emprunté 60 000 FCFA à Fanta pour les médicaments de sa mère.
 - **Aïcha (02/08, 17h20)** : répond depuis son bureau, la porte fermée ; elle hésite sur « Ce n'est pas grave » puis le laisse. *Intérêt : ne pas passer pour quelqu'un qui réclame ; protéger Mariette, qui lui a fait l'erreur mais qui l'a aidée depuis juin.*
 - **Aïcha (02/08, 17h49)** : répond en sortant du QG, sous le manguier du portail ; elle ajoute les excuses de Mariette avant d'envoyer. *Intérêt : que le patron n'en fasse pas une affaire ; Mariette lui a avancé 20 000 FCFA à midi.*
+- **Sandra (02/08, 20h à Esch)** : a payé son billet avec sa carte, en trois fois sans frais proposées par l'agence en ligne ; elle a appelé Rosa à Lisbonne, qui a crié de joie ; elle écrit à William en souriant, debout dans la cuisine. *Intérêt : partir à égalité ; ne rien devoir.*
+- **Aïcha (02/08, 19h)** : lit le message du patron dans le gbaka ; elle ne dira rien à Mariette ce soir ; elle répondra en rentrant.

@@ -321,3 +321,8 @@ Qui a saisi les RIB pour les salaires ? C'est Mariette, n'est-ce pas ?
 
 **[02/08/2040 - 17:49] Aïcha :**
 Oui, patron. C'est Mariette qui a préparé l'ordre groupé. Elle a vu l'erreur ce matin, elle s'est excusée, et elle a déjà fait la demande de retour à la banque.
+
+**[02/08/2040 - 17:55] William :**
+Cet incident ne doit pas rester impuni. Qu'est-ce qu'on aurait fait si les fonds étaient partis sur le compte de quelqu'un d'autre, et que cette personne, malhonnête, avait refusé de nous rendre l'argent ? On aurait fini par le récupérer, mais avec des procédures longues, compliquées et coûteuses : combien de temps, et surtout combien d'argent ? C'est pour ça qu'elle doit rester attentive. Je veux que cet incident soit pénalisé dans sa prochaine évaluation.
+Et en parlant des évaluations : tu ne penses pas que trois mois, c'est un peu long ? Tu ne penses pas qu'on devrait raccourcir le délai entre deux évaluations ?
+*(Texte reconstitué à partir de la dictée.)*
