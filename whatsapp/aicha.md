@@ -294,3 +294,11 @@ Bien reçu, patron. Je classe votre autorisation dans juridique/, avec le contra
 **[02/08/2040 - 09:26] Aïcha :**
 Patron, l'attestation de versement n'est pas prête : la banque demande le bulletin de souscription signé de votre main, avec la copie de votre passeport. Maître Kouamé peut le préparer pour 15h.
 La procuration et le spécimen de M. Kanga sont acceptés.
+
+**[02/08/2040 - 09:31] William :**
+*(Photo de son passeport.)*
+Je t'envoie la copie de mon passeport. Fais préparer le bulletin de souscription tout de suite : je le signe de ma main dès qu'il est prêt. C'est la priorité.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[02/08/2040 - 09:41] Aïcha :**
+Bien noté, patron. J'ai appelé le cabinet : le bulletin sera prêt vers 11h30. Ils n'ont pas de coursier aujourd'hui ; Maître Kouamé peut vous recevoir à 11h45. Dès que vous l'avez signé, je le porte à la banque.

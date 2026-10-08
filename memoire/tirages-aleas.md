@@ -774,3 +774,11 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Aïcha prévient William dans la matinée du résultat de la banque (attestation, procuration) » : probabilité 60 %, jet   5.7 → **OUI** [DÉROGATION : canal et délai d'une information, pas une réaction à un acte de William] (enregistré le 08/10/2026 12:36 heure machine)
 
 - Jet « Taxi Capitol → Plateau (départ 14h15) : arrivée au cabinet avant 15h » : probabilité 70 %, jet   0.5 → **OUI** (enregistré le 08/10/2026 12:36 heure machine)
+
+- Tirage [T7c] « Aïcha (jeudi 09h30) : William lui envoie aussitôt la copie de son passeport et lui demande de faire préparer le bulletin de souscription tout de suite pour qu'il le signe de sa main, priorité absolue » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  37.6 → **execute_sans_discuter** (enregistré le 08/10/2026 12:42 heure machine)
+
+- Jet « Cabinet de Me Kouamé : bulletin de souscription prêt avant midi » : probabilité 60 %, jet  48.6 → **OUI** [DÉROGATION : délai d'un tiers à autorité propre (T6)] (enregistré le 08/10/2026 12:42 heure machine)
+
+- Jet « Le cabinet envoie le bulletin par coursier au Capitol (sinon signature au cabinet) » : probabilité 50 %, jet  87.1 → **NON** [DÉROGATION : organisation d'un tiers (T6), pas une réaction à un acte de pouvoir] (enregistré le 08/10/2026 12:42 heure machine)
+
+- Jet « Taxi Capitol → Plateau (départ 11h05) : arrivée au cabinet avant 11h45 » : probabilité 70 %, jet   9.5 → **OUI** (enregistré le 08/10/2026 12:42 heure machine)

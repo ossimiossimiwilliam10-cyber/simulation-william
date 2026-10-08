@@ -178,3 +178,4 @@
 - **Aïcha (02/08, 09h15)** : sur le trottoir de la SGBCI, au téléphone avec Mariette ; sa mère attend l'argent des médicaments du mois ; elle écrit au patron pour la banque, pas pour son salaire. *Intérêt : ne rien demander à William, surtout pas de l'argent.*
 - **Mariette (02/08, 09h20)** : retrouve sa propre erreur de saisie (deux chiffres inversés) ; elle s'excuse trois fois au téléphone ; elle cherche comment avancer l'argent sans passer par le patron.
 - **Yves (02/08, 08h40)** : signe son spécimen au guichet, en costume, et photographie le reçu.
+- **Me Kouamé (02/08, 11h40)** : entre deux dossiers, une tasse de café froid sur le bureau ; il a fait taper le bulletin par sa secrétaire à 10h50 et l'a relu deux fois.
