@@ -1,4 +1,4 @@
-# Calendrier (au 31/07/2040, 21h25)
+# Calendrier (au 01/08/2040, 06h50)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -141,6 +141,7 @@
 | **Ven. 03/08, 23h20** | **Vol retour** Abidjan → Paris (Air France, économie) ; Luxembourg le sam. 04/08 vers 10h30. *(Avant : vol du dim. 09/09 → maintenant : ven. 03/08, réservé le 30/07 à 08h43.)* |
 | **Lun. 06/08, 06h00** | **Vol Luxembourg → Lisbonne → São Vicente (Mindelo)** (TAP, économie, réservé le 30/07) ; arrivée 12h40, heure locale. Pré-enregistrement EASE au moins cinq jours avant l'arrivée (au plus tard le 01/08). |
 | **Lun. 06/08 → dim. 12/08** | Hotel Oasis Porto Grande, Mindelo (six nuits, 1 032 €, paiement sur place ; annulation gratuite jusqu'au 03/08). EASE fait le 30/07. |
+| **Mar. 07/08** | Fête nationale de Côte d'Ivoire (jour férié ; William à Mindelo). |
 | **Dim. 12/08, 23h55** | Retour São Vicente → Lisbonne → Luxembourg (arrivée lun. 13/08, 10h35). |
 | **Sam. 18/08** | Enterrement de l'oncle Joseph (frère aîné du père de William), au village, au Cameroun ; le père demande 5 300 € (message du 31/07). |
 | **Lun. 30/07, 15h** | Aïcha au cabinet de Me Kouamé : signature de la mention « pour les formalités ». *(Reporté : Me Kouamé au tribunal ; mention non signée.)* |

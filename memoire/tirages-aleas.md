@@ -690,3 +690,19 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Tirage [T7c] « Abdoul (mardi 21h28) : William lui répond « Ok, fais au mieux » sur le nouveau retard de Vridi (relance, autre fournisseur avec Bertin) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  48.0 → **execute_sans_discuter** (enregistré le 08/10/2026 09:43 heure machine)
 
 - Jet « Abdoul répond ce soir » : probabilité 70 %, jet  54.9 → **OUI** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 09:43 heure machine)
+
+- Tirage [T1] « Grace (mardi 21h36, WhatsApp privé) : premier message direct de William depuis le 25/07 (après l'affaire du 23/07 et la consigne « tout passe par Aïcha »), le soir, sur le travail : où en est-elle sur les offres, le marché est-il abordable selon elle ; M16 : ambition forte (vise le poste de PDG) ; M02 : collègue proche au QG (Mariette, confidente du 24/07) » : rien_absorption 22 / evitement 15 / confidence_proche 13 / confidence_collegue 19 / reciproque 6 / calcul 12 / negociation_tacite 6 / depart_discret 6 / frontal_formel 1 ; modificateurs : M16, M02 ; jet  50.7 → **confidence_collegue** (enregistré le 08/10/2026 09:50 heure machine)
+
+- Jet « Grace répond ce soir avant 23h (sinon mercredi matin) » : probabilité 45 %, jet  41.8 → **OUI** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 09:50 heure machine)
+
+- Tirage [T7c] « Abdoul : William lui demande un compte rendu des entretiens SAV de demain dès que possible, en tenant Aïcha informée (rapport du jour) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  68.4 → **execute_sans_discuter** (enregistré le 08/10/2026 09:50 heure machine)
+
+- Tirage [T7c] « Yves : William lui demande un compte rendu des entretiens SAV de demain dès que possible, en tenant Aïcha informée (rapport du jour) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  49.9 → **execute_sans_discuter** (enregistré le 08/10/2026 09:50 heure machine)
+
+- Jet « Heure de la réponse de Grace : 21h45 + jet × 1,1 minute (21h45-23h35) » : probabilité 50 %, jet  18.4 → **OUI** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 09:51 heure machine)
+
+- Tirage [T2] « Mariette (mercredi 01/08, ~08h15, au QG) : Grace lui confie que le patron lui a écrit en privé mardi soir à 21h36 (question de travail, premier message direct depuis le 25/07) ; M06 : amie proche de Grace, solidarité vécue (porte fermée du 24/07) ; M09 : elle a déjà subi un geste du même patron (16/05) » : rien_garde 19 / commerage 24 / conseille_discretion 19 / usage_interesse 9 / informe_superieur 26 / frontal_soutien_ouvert 3 ; modificateurs : M06, M09 ; jet  35.6 → **commerage** (enregistré le 08/10/2026 09:51 heure machine)
+
+- Jet « Sandra écrit à William mercredi matin avant 8h30 (Abidjan) » : probabilité 45 %, jet  72.6 → **NON** [DÉROGATION : message spontané d'une proche, délai seulement ; contenu déjà tiré (billet trop cher, elle cherche autre chose)] (enregistré le 08/10/2026 09:51 heure machine)
+
+- Jet « William dort bien (au moins 7 h) cette nuit » : probabilité 70 %, jet  95.8 → **NON** (enregistré le 08/10/2026 09:51 heure machine)

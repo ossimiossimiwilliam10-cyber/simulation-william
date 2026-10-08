@@ -44,3 +44,12 @@ Je m'excuse. J'ai effacé mon message complètement, pour nous deux.
 **[25/07/2040 - 08:05] William :**
 Merci, Grace.
 *(Réponse à sa note du 25/07 à 07h58. Pas de réponse de Grace.)*
+
+**[31/07/2040 - 21:36] William :**
+Bonsoir Grace. Où en es-tu au niveau des offres ? Selon toi, le marché est-il abordable ?
+*(Texte reconstitué à partir de la dictée ; premier message direct depuis le 25/07.)*
+
+**[31/07/2040 - 22:05] Grace :**
+Bonsoir Monsieur Ossimi. L'étude commence demain matin ; je la dépose sur le serveur vendredi.
+Mon premier avis : le marché est là, mais pas au prix d'achat. Les cliniques, les écoles privées et les hôtels veulent payer au mois, sans investissement. Avec la trésorerie actuelle, nous pourrions financer quatre ou cinq installations moyennes, à condition d'avoir des garanties de paiement. L'école privée et l'hôtel de la liste de juillet peuvent être relancés sur ce modèle.
+G. Adjoua-Mensah

@@ -80,3 +80,4 @@
 ## Évaluations du 30/07/2040 (par Aïcha, matrice v1.0 ; ajustement discrétionnaire non appliqué)
 - Grace 78/100 ; Mariette 81/100 ; Abdoul 66/100 ; Yves 69/100 : tous « performance standard » (`serveur/rh/evaluations/`). Aïcha : 74/100 (par William, 26/07).
 - 30/07, 17h10 : William n'applique **aucun ajustement discrétionnaire** aux évaluations du 30/07.
+- **31/07** : Yves désigné second signataire du compte (au-delà de 5 M FCFA) et porte-parole de William au point du 03/08 ; Aïcha confirmée dans son essai jusqu'au 21/11 (demande de fin anticipée refusée le 30/07).

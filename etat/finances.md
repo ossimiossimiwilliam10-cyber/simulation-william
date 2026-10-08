@@ -1,4 +1,4 @@
-# Finances de William & OSIA (estimations au 28/07/2040, 23h40 ; fiche complète du 28/07)
+# Finances de William & OSIA (estimations au 31/07/2040, 23h00 ; fiche complète du 31/07)
 
 > Parité fixe : 1 € = 655,957 FCFA.
 > Les montants de salaire de toute la simulation sont des **BRUTS** ; les virements réels sont calculés
@@ -203,3 +203,4 @@ Total des avances non remboursées par l'entreprise :
 - **31/07, 12h57** : **virement instantané de 5 300 €** à son père (enterrement de l'oncle Joseph, 18/08) ; compte courant ≈ 2 540 € (estimation : ≈ 9 800 € au 28/07, moins ≈ 116 € de dépenses du 29/07, 285 € + 1 520 € + 42 € le 30/07, moins 5 300 €) ; l'Oasis (1 032 €) reste à régler sur place.
 - **31/07** : salaires de juillet virés à 09h00 (≈ 2 280 000 FCFA nets ; le salaire d'Aïcha part sur un RIB erroné, rejet à venir) ; **apport crédité à 14h20 : 115 585 600 FCFA** (SHA ; augmentation 115 000 000 + surplus 585 600 en compte courant d'associé) ; **trésorerie d'OSIA ≈ 138 020 000 FCFA (≈ 210 400 €)** ; attestation de versement jeudi ; prestation d'Estelle (150 000 FCFA/mois) signée ; consultation de Me Kouamé (temps passé) à facturer à la société.
 - **31/07, 18h20** : traitement de juillet de William (État) non encore visible sur son compte (solde ≈ 2 540 €) ; *(non connu de William : crédit visible vers 22h05)*.
+- **31/07, 22h05** : **traitement de juillet crédité (≈ 9 300 €)** ; compte courant ≈ 11 840 €. **Fiche complète du 31/07** : voir `journal/2040-07-31.md` (trésorerie OSIA ≈ 138 020 000 FCFA ; patrimoine net de William ≈ 785 000 à 790 000 €).

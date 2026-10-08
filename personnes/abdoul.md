@@ -35,3 +35,4 @@ rapidité commerciale de Grace ou avec les exigences de coût de William. Il tie
 - 31/07 (non vu par William avant 21h25) : Vridi annonce un nouveau retard (livraison vers le 19/08, excuse du navire fausse) ; il écrit au patron à 21h25 : « Boss, bonsoir. Vridi vient de m'appeler : le navire est retardé au port, batteries et onduleurs pas avant le 19 août. Je relance demain et je vois avec Bertin s'il y a un autre fournisseur. »
 - 31/07, 21h25 : « Boss, bonsoir. Vridi vient de m'appeler : le navire est retardé au port, batteries et onduleurs pas avant le 19 août. Je relance demain et je vois avec Bertin s'il y a un autre fournisseur. »
 - 31/07, 21h28-21h30 : William : « Ok, fais au mieux. » ; lui (T7c : execute_sans_discuter) : « Compris, Boss. Je vous tiens au courant. »
+- 31/07, 21h34-21h40 : William demande un compte rendu des entretiens SAV ; lui : « Compris, Boss. Dès qu'on finit, je vous envoie. »

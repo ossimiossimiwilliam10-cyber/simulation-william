@@ -47,3 +47,10 @@ Ok, fais au mieux.
 
 **[31/07/2040 - 21:30] Abdoul :**
 Compris, Boss. Je vous tiens au courant.
+
+**[31/07/2040 - 21:34] William :**
+Abdoul, envoie-moi un compte rendu des entretiens SAV de demain, dès que vous avez fini : ça m'intéresse, j'aimerais être au courant au plus tôt. Tiens aussi Aïcha informée, elle le mettra dans son rapport du jour.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[31/07/2040 - 21:40] Abdoul :**
+Compris, Boss. Dès qu'on finit, je vous envoie.
