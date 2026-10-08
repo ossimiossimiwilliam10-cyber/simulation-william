@@ -306,3 +306,11 @@ Bien noté, patron. J'ai appelé le cabinet : le bulletin sera prêt vers 11h30.
 **[02/08/2040 - 17:01] Aïcha :**
 Patron, le rapport de jeudi est dans direction.
 *(Pièce : `serveur/direction/rapport_direction_0208.pdf`.)*
+
+**[02/08/2040 - 17:05] William :**
+Aïcha, peux-tu m'en dire plus sur le virement de salaire mal affecté ?
+*(Texte reconstitué à partir de la dictée.)*
+
+**[02/08/2040 - 17:21] Aïcha :**
+Patron, c'est mon salaire. Dans l'ordre groupé du 31, une erreur de saisie : deux chiffres de mon RIB ont été inversés. La banque a envoyé le virement vers un compte qui n'existe pas ; il doit revenir sur le compte d'OSIA, puis il sera refait.
+Les autres salaires sont passés normalement. Ce n'est pas grave, patron.

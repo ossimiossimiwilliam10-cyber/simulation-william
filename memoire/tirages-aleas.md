@@ -792,3 +792,7 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Heure du message de Sandra (Abidjan) : 12h30 + jet × 6 minutes (12h30-22h30) » : probabilité 50 %, jet  56.4 → **NON** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 12:48 heure machine)
 
 - Jet « Rapport d'Aïcha à l'heure (17h00) » : probabilité 85 %, jet   0.1 → **OUI** (enregistré le 08/10/2026 12:48 heure machine)
+
+- Tirage [T7c] « Aïcha (jeudi 17h05) : William lui demande d'en dire plus sur le virement de salaire mal affecté (c'est le sien, elle ne l'a pas dit dans le rapport) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  22.5 → **execute_sans_discuter** (enregistré le 08/10/2026 12:52 heure machine)
+
+- Jet « Aïcha répond dans la demi-heure » : probabilité 65 %, jet  17.6 → **OUI** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 12:52 heure machine)
