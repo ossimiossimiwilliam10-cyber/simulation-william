@@ -90,7 +90,7 @@ et parfois peu morale exprès : ne l'en empêche pas, joue les conséquences.
     énonce la norme). L'issue la plus banale peut clore la scène. **Symétrie : William n'est pas tout-puissant** : ses manœuvres sur autrui
     sont tirées (T7), les tiers à autorité propre appliquent leurs règles (T6), les coûts viennent de la rumeur, des traces, des départs, des
     tiers et du hasard, jamais d'une justice narrative. Seul l'utilisateur modifie les tables. `outils/jet.py` refuse un jet libre sur une
-    réaction (dérogation consignée) ; `outils/audit_jets.py` et `outils/controle_coherence.py` contrôlent. **T8 (25/07/2040) couvre les partenaires et la famille (première réaction).** **T9 (27/07/2040) couvre une partenaire ou ex-partenaire subordonnée face à une approche relationnelle du patron** (Aïcha) ; le contexte culturel ivoirien est un argument recevable pour choisir table et modificateurs. **T7d (27/07/2040) couvre les ordres douteux ou illégaux du patron à un subordonné.** **T10 (06/08/2040) tire l'heure des réponses et des messages spontanés (délai seulement, jamais le contenu).** Voir `memoire/pieges-connus.md` n° 49-52.
+    réaction (dérogation consignée) ; `outils/audit_jets.py` et `outils/controle_coherence.py` contrôlent. **T8 (25/07/2040) couvre les partenaires et la famille (première réaction).** **T9 (27/07/2040) couvre une partenaire ou ex-partenaire subordonnée face à une approche relationnelle du patron** (Aïcha) ; le contexte culturel ivoirien est un argument recevable pour choisir table et modificateurs. **T7d (27/07/2040) couvre les ordres douteux ou illégaux du patron à un subordonné.** **T10 (06/08/2040) tire l'heure des réponses et des messages spontanés (délai seulement, jamais le contenu).** **T11 (09/08/2040) tire la journée de chaque personnage hors de William (vie propre).** Voir `memoire/pieges-connus.md` n° 49-52.
 
 ## 4. DÉCLENCHEURS
 - **« Attention au réalisme »** : refais des recherches sur ton dernier tour,
@@ -149,6 +149,7 @@ et parfois peu morale exprès : ne l'en empêche pas, joue les conséquences.
   menace ni ne moralise William (règles 15-16)** ; 7. **réactions tirées dans les tables de pouvoir, aucune probabilité libre sur une réaction (règle 17)** ; 8. **format du tour respecté (§5)** : récit fluide, réponses attendues, à faire, quêtes secondaires, aucune explication ni conseil.
 - **Fichiers pour le téléphone (demande de l'utilisateur, 06/08/2040)** : l'utilisateur joue parfois depuis son téléphone (contrôle à distance, sans accès à l'ordinateur) ; quand il le demande, le moteur lui envoie les fichiers dans la conversation (outil d'envoi de fichiers), en un seul envoi s'il le demande. Demande en cours : le CV et le diplôme d'Aïcha, avec son contrat (`serveur/rh/contrats/contrat_aicha.pdf`), **les trois d'un coup**, dès qu'elle les aura envoyés à William.
 - **À la fin de chaque journée simulée** :
+  - Tour du monde (`python outils/tour_du_monde.py JJ/MM`) et mise à jour de `etat/vies-propres.md`.
   - Clôturer le journal du jour.
   - Mettre à jour TOUS les fichiers d'état.
   - Si un dépôt git existe, faire un commit.
@@ -454,6 +455,7 @@ présente une **« 🔄 Revue du lundi »** pour améliorer la simulation et év
   « les deux coches passent au bleu », « la clim souffle / ronronne », les « Bien, patron. » en cascade ; varier les détails sensoriels
   (odeurs, sons, lumière, chaleur) à chaque tour.
 - **Vie propre des personnages** : `etat/vies-privees.md` ; faire avancer **au moins un fil privé** par tour significatif.
+- **Monde vivant (validé par l'utilisateur le 09/08/2040)** : fiches de vie propre de chaque personnage récurrent dans `etat/vies-propres.md` (objectif, souci, alliés et tensions, agenda, secret, liens entre personnages) ; **tour du monde** à chaque fin de journée simulée et à chaque « Go » (`python outils/tour_du_monde.py JJ/MM`, table **T11**) ; **initiatives** des personnages envers William ou entre eux (heure en T10, raison tirée de la fiche) ; **une ou deux traces visibles** de la vie des autres à chaque tour (statut, photo, rumeur, ton), sans explication ; **le monde extérieur** (`etat/monde.md`) : trois à cinq nouvelles par semaine à la revue du lundi.
 - **Friction administrative** : jet « deuxième passage demandé » à 30 % pour toute démarche à enjeu (`etat/economie.md`).
 - **Économie moins complaisante** : `etat/economie.md` (concurrence, remises, délais de paiement, signatures lentes).
 - **Dossier des traces** : `etat/traces.md` ; y ajouter chaque écrit, signature, message ou comportement de William qui peut

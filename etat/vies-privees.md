@@ -251,3 +251,5 @@
 - **Sandra (07-08/08, Mindelo)** : chez Djina, la porte bleue, le cabri du soir ; elle rit avec ses cousines, puis, la nuit, pleure en silence dans la chambre du fond ; le 08, elle va seule à la Laginha au lever du soleil.
 - **Aïcha (08/08)** : le soir, chez Fanta, elle fait ses comptes sur un cahier : salaire d'août moins 133 500, moins ce qu'elle doit à Fanta et à Mariette ; elle souligne le total deux fois.
 - **Abdoul (08/08, 21h30)** : il fait défiler l'offre sur son téléphone, la relit, fait une capture d'écran, éteint la lumière ; il ne dit rien à personne.
+
+> **09/08/2040** : mécanisme renforcé (monde vivant) : les fiches sont dans `etat/vies-propres.md` ; les résultats du tour du monde (T11) sont résumés ici.

@@ -52,6 +52,7 @@ jets libres (`outils/jet.py "libellé" proba`).
 - **Sandra, Kevin, la famille** : **T8** (validée par l'utilisateur le 25/07/2040) pour la **première réaction** à une confidence partielle, une esquive ou une demande déplacée ; les tests d'intérêt et de la phrase s'appliquent ; les **faits de fiche** (ex. Sandra refuse les images intimes) restent des faits, non tirés. *(Avant : « pas de table ; créer T8 le jour où une scène l'exige » → maintenant : T8 installée.)*
 - **Partenaire ou ex-partenaire subordonnée face à une approche relationnelle de William** (conversation sur la relation, invitation hors du travail, mots affectueux ou reproches, tentative de rapprochement ; aujourd'hui : **Aïcha**) : **T9** (validée par l'utilisateur le 27/07/2040). Un geste sexuel, une pression de carrière ou d'argent, ou une approche d'une personne sans lien intime avec William restent en **T1** ; l'information sur une faute du patron reste en **T3**.
 - **Délais (T10, validée par l'utilisateur le 06/08/2040, revue du lundi n° 3)** : l'heure d'une réponse ou d'un message spontané (proches, équipe, prestataires, tiers) se tire en **T10** (M70-M74) au lieu d'un jet libre en dérogation ; la minute précise est fixée par le moteur dans l'intervalle tiré, selon la vie du personnage ; T10 ne décide jamais du contenu ni de l'existence d'une réaction (qui se tirent en T1-T9).
+- **Vies propres (T11, validée par l'utilisateur le 09/08/2040)** : à chaque fin de journée simulée et à chaque « Go », `python outils/tour_du_monde.py JJ/MM` tire la journée de chaque personnage de `etat/vies-propres.md` dans **T11** (M80-M83) ; le contenu se choisit d'après la fiche ; ce qui touche William ou OSIA se tire ensuite dans les tables existantes (la règle de l'utilisateur sur le départ d'Aïcha reste valable).
 - Les **scènes déjà jouées** (Grace le 23/07, Mariette le 25/07 à 09h25, Aïcha le 25/07 à 09h50) restent telles que jouées ; leurs suites
   passent par les tables.
 
@@ -198,6 +199,15 @@ Règles de rôle, sans tirage ; l'argent et le statut de William ne les achèten
 | le_soir_ou_lendemain | 15 | De 6 à 24 heures. |
 | plus_tard_ou_jamais | 10 | Plus de 24 heures, ou pas de message. |
 
+### T11 — Journée d'un personnage hors de William (vie propre, « tour du monde »)
+| Issue | % | En scène |
+|---|---|---|
+| sans_histoire | 55 | Journée ordinaire ; au plus un détail de vie (repas, trajet, humeur). |
+| petit_evenement | 25 | Un petit fait : une dépense, une dispute brève, une rencontre, un service rendu, une nouvelle. |
+| avancee_objectif | 10 | Un pas concret vers l'objectif de la fiche (démarche, rendez-vous, argent, décision). |
+| coup_dur | 7 | Un revers : maladie, accident, dette, dispute sérieuse, perte d'argent, mauvaise nouvelle familiale. |
+| tournant | 3 | Un fait qui change la suite : rencontre, offre d'emploi ailleurs, deuil, naissance, mariage, déménagement. |
+
 ### Modificateurs (liste fermée ; 3 au maximum par tirage ; chacun déplace des points d'une issue vers une autre)
 | Code | Tables | Effet | Quand l'appliquer |
 |---|---|---|---|
@@ -246,6 +256,10 @@ Règles de rôle, sans tirage ; l'argent et le statut de William ne les achèten
 | M72 | T10 | plus_tard_ou_jamais +8 ; le_soir_ou_lendemain +5 ; immediat -6 ; rapide -7 | Froideur, évitement ou rancune déjà tirés |
 | M73 | T10 | rapide +8 ; immediat +4 ; dans_la_journee -6 ; plus_tard_ou_jamais -6 | Subordonné qui répond au patron (registre hiérarchique) |
 | M74 | T10 | plus_tard_ou_jamais +10 ; dans_la_journee -4 ; le_soir_ou_lendemain -6 | Message spontané sans raison particulière (« écrira-t-il aujourd'hui ? », tiré jour par jour) |
+| M80 | T11 | coup_dur +4 ; tournant +1 ; sans_histoire -5 | Situation fragile (dettes, santé d'un proche, période d'essai, conflit ouvert) |
+| M81 | T11 | avancee_objectif +6 ; tournant +2 ; sans_histoire -8 | Objectif actif poursuivi cette semaine (démarches en cours) |
+| M82 | T11 | petit_evenement +5 ; sans_histoire -5 | Période chargée (fête, voyage, visite, rentrée) |
+| M83 | T11 | sans_histoire +10 ; petit_evenement -5 ; avancee_objectif -3 ; coup_dur -2 | Personnage en retrait (vacances calmes, convalescence) |
 
 ## 6. William n'est pas un dieu (symétrie)
 1. **Ses manœuvres sur autrui sont tirées** (T7) ; aucune réussite automatique, même quand sa position est forte ; le « succès net » est plafonné.
