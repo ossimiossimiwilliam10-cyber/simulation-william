@@ -196,3 +196,4 @@
 - **Sandra (04/08, 10h40)** : arrivée au Findel une demi-heure en avance ; elle a laissé les petits chez sa mère ; dans la voiture, sur le siège passager, un thermos de café et un pull à lui, plié.
 - **Aïcha (03/08, 18h22)** : répond depuis la cour du QG, en fermant elle-même le portail ; elle ajoute « Bon voyage » après avoir hésité.
 - **Sandra (04/08, 11h)** : dans ses bras, elle ferme les yeux ; elle sent sur lui l'odeur de l'avion et d'un savon qu'elle ne connaît pas ; elle ne dit rien. *Intérêt : profiter de lui avant Mindelo ; ne pas ouvrir le doute à l'aéroport.*
+- **Kevin (04/08, matin)** : au garage de M. Da Silva, les mains dans un moteur de Clio ; il a demandé à sa mère de lui envoyer une photo « quand le prof est là » ; elle ne l'a pas fait.

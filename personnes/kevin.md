@@ -25,3 +25,4 @@ dessine des voitures au bas de ses copies. *Physique détaillé à préciser.*
 - 24/07 18h52 : William lui répond « De rien, mon garçon. Je suis heureux de te voir heureux. » ; 25/07 07h12 : Kevin répond « 🙂 Bonne journée monsieur ».
 - *(À venir, 28/07)* : Sandra lui dira que William rentre le 10 septembre (date donnée par William le 27/07 à 20h17).
 - *(Correction n° 39)* : William lui a répondu le 24/07 à 18h52 (« De rien, mon garçon. Je suis heureux de te voir heureux. ») ; Kevin : « 🙂 Bonne journée monsieur » (25/07, 07h12). Aucun message en attente.
+- 04/08 (rapporté par Sandra) : sait que William est rentré ; au garage de M. Da Silva ce samedi ; « Il a tenu parole, alors. »

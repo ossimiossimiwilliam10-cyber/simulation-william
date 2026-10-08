@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 04/08/2040, 11h01)
+# William Ossimi — profil (état au 04/08/2040, 11h50)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -42,7 +42,7 @@
 - Sandra a les clés pendant son absence (plantes, courrier, chaudière bruyante).
 
 ## Séjour actuel
-- À Abidjan du **16 juillet au 9 septembre 2040** (retour : 9/09, Abidjan
+- *(Avant : à Abidjan jusqu'au 9 septembre → maintenant : rentré le samedi 4 août 2040, chez lui à Audun-le-Tiche depuis 11h48.)* À Abidjan du **16 juillet au 9 septembre 2040** (retour : 9/09, Abidjan
   23h20 → Paris → Luxembourg 10/09 matin). E-visa validé.
 - Hôtel Capitol, Cocody Centre, **chambre 312**. *(Règle de l'hôtel, posée le 28/07 : tout visiteur laisse une pièce d'identité à la réception ; un second occupant pour la nuit est facturé.)* Tarif long séjour
   75 000 FCFA/nuit (4 125 000 FCFA au total) : moitié payée à l'arrivée,
@@ -269,3 +269,4 @@
 - **03/08, 17h12-17h31** : à Grace (privé) : location-vente retenue, pilotes approuvés, Dr Yapi, crédit à étudier, autorisation générale « pour tout ce qui concernera ce projet », passer par Aïcha, très bon boulot ; elle : « … à partir de mercredi ».
 - **03/08, 17h40-23h20** : libère la chambre 312 (47 500 FCFA), demande à Aïcha de tenir compte de l'étude de Grace dans son évaluation ; taxi pour l'aéroport, vol de 23h20. **04/08** : Paris, puis Luxembourg à 10h35 ; Sandra l'attend au Findel.
 - **04/08, 10h59** : retrouve Sandra au Findel (câlin ; « Tu vois, je suis bien revenu. Et même plus tôt que prévu. ») ; elle propose café, et « chez toi, ou chez moi ? ».
+- **04/08, 11h02-11h50** : « Chez moi » ; trajet avec Sandra jusqu'à Audun-le-Tiche ; Kevin sait qu'il est rentré (« Il a tenu parole, alors ») ; la maison est prête (plantes, cachupa, chaudière éteinte).
