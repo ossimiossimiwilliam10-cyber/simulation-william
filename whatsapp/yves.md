@@ -46,3 +46,4 @@ Yves, tu es disponible pour un appel ? Je voudrais t'expliquer la situation. Je 
 Oui, Boss 🙏🏾 Je suis dans le gbaka, ça fait trop de bruit. Je vous appelle dès que j'arrive à la maison, vers 19h30.
 
 **[31/07/2040 - 19:55] Appel vocal entrant d'Yves (décroché).**
+*(Appel, 19h55-…, résumé : William lui explique qu'il parlera en son nom vendredi au point d'équipe et qu'il l'a désigné signataire du compte. Yves : « Signataire ? … Dêh, Boss. Signataire de la banque, moi ? » ; « Merci, Boss. Vraiment. Vous pouvez compter sur moi, je ne vais pas vous décevoir. … C'est lourd, hein, une signature. On en reparlera à votre retour, de tout ça. » ; « Et vendredi, je dis quoi exactement, Boss ? Vous m'envoyez les points, ou vous me les dites maintenant ? »)*

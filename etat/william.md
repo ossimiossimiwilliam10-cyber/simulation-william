@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 31/07/2040, 19h55)
+# William Ossimi — profil (état au 31/07/2040, 19h59)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -240,3 +240,4 @@
 - **31/07, 17h08-18h06** : à Aïcha : accord pour l'étude de la location, objectif d'un premier client d'ici fin août, point d'équipe jeudi matin, information sur les statuts modifiés, la double signature et les relevés ; au père : « en déplacement » le 18, « petit projet » ; à Me Kouamé : accord pour les trois mesures ; Aïcha refuse le point d'équipe de jeudi matin (SGBCI) ; Me Kouamé : signature jeudi 15h, seuil et second signataire à fixer.
 - **31/07, 18h10-18h35** : seuil 5 M FCFA et Yves second signataire (à Me Kouamé) ; à Aïcha : pas de dernier point avec lui, Yves le représentera ; à Yves : demande d'appel (« celui en qui j'ai le plus confiance ») ; vérifie son compte : traitement de juillet pas encore arrivé ; Yves appellera vers 19h30 ; Me Kouamé rappelle l'essai d'Yves (15/10).
 - **31/07, 18h35-19h55** : dîner en chambre (room service) ; 19h24 : réponse de son père (« Tu réponds à côté… Quand tu voudras, appelle. ») ; 19h55 : appel d'Yves.
+- **31/07, 19h56-19h59** : au téléphone, apprend à Yves qu'il parlera en son nom vendredi et qu'il est signataire du compte ; Yves accepte (« On en reparlera à votre retour, de tout ça ») et demande quoi dire vendredi.

@@ -676,3 +676,5 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Me Kouamé répond à William dans l'heure » : probabilité 60 %, jet   9.3 → **OUI** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 09:23 heure machine)
 
 - Jet « Yves appelle avant 19h40 comme promis (sinon vers 19h55, embouteillages) » : probabilité 70 %, jet  72.0 → **NON** [DÉROGATION : ponctualité seulement] (enregistré le 08/10/2026 09:27 heure machine)
+
+- Tirage [T1] « Yves (mardi 19h57, au téléphone) : William lui confirme qu'il parlera en son nom vendredi au point d'équipe et lui apprend qu'il l'a désigné signataire du compte de la société (second signataire au-delà de 5 M FCFA, avec la gérante) ; M05 : avantage concret (signature bancaire, rôle d'homme de confiance) ; M15 : intérêt déjà montré envers William » : rien_absorption 25 / evitement 13 / confidence_proche 13 / confidence_collegue 11 / reciproque 14 / calcul 7 / negociation_tacite 10 / depart_discret 6 / frontal_formel 1 ; modificateurs : M05, M15 ; jet  82.1 → **calcul** (enregistré le 08/10/2026 09:33 heure machine)
