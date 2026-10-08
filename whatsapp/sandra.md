@@ -225,3 +225,7 @@ Je cherche un autre vol pour les mêmes dates, avec une escale. Je te dis demain
 **[01/08/2040 - 22:03 (Abidjan) / 00:03 (Esch, 02/08)] William :**
 Sandra, je t'en supplie, laisse-moi te payer ce billet. Si tu veux, tu me rembourseras plus tard, même un peu tous les mois. Mais je t'en prie, accepte.
 *(Texte reconstitué à partir de la dictée.)*
+
+**[02/08/2040 - 06:32 (Abidjan) / 08:32 (Esch)] Sandra :**
+😂 Toi, tu supplies maintenant ? Le grand monsieur à genoux pour un billet d'avion… Je note la date, hein.
+Laisse-moi chercher encore aujourd'hui. On en reparle 😘

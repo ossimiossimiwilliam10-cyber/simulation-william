@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 01/08/2040, 22h05)
+# William Ossimi — profil (état au 02/08/2040, 06h32)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -253,3 +253,4 @@
 - **01/08, 17h50** : autorise par écrit Aïcha à signer le contrat de la villa et à engager l'achat du matériel.
 - **01/08, 17h52-21h59** : 18h38 : Aïcha classe l'autorisation ; dîner à l'hôtel ; 21h59 : Sandra : billet trop cher (1 520 €), elle cherche un vol avec escale pour les mêmes dates.
 - **01/08, 22h03** : supplie Sandra de le laisser payer son billet (« remboursable, même tous les mois ») ; pense intérieurement que c'est un cadeau.
+- **01/08, 23h → 02/08, 06h25** : nuit complète ; réveil reposé ; 06h32 : Sandra plaisante (« Le grand monsieur à genoux pour un billet d'avion… ») sans accepter ni refuser.

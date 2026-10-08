@@ -100,3 +100,4 @@ depuis la pilule du lendemain du 26/05.
 - 31/07 soir (non vu) : n'écrit pas ; billet trop cher pour elle ce mois-ci, elle cherche autre chose.
 - 01/08, 21h59 (23h59 Esch) : « Pardon, je n'ai pas répondu hier. J'ai regardé pour le billet : 1 520 €, je ne peux pas ce mois-ci. Je cherche un autre vol pour les mêmes dates, avec une escale. Je te dis demain. » (rien sur la vidéo ni sur l'hôtel).
 - 01/08, 22h03 : William la supplie de le laisser payer son billet (remboursable) ; *(non vu : réponse jeudi 06h32 : « 😂 Toi, tu supplies maintenant ? Le grand monsieur à genoux pour un billet d'avion… Je note la date, hein. Laisse-moi chercher encore aujourd'hui. On en reparle 😘 »)*.
+- 02/08, 06h32 (08h32 Esch) : « 😂 Toi, tu supplies maintenant ? Le grand monsieur à genoux pour un billet d'avion… Je note la date, hein. Laisse-moi chercher encore aujourd'hui. On en reparle 😘 »
