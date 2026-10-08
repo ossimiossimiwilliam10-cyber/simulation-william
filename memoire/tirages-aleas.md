@@ -1019,3 +1019,9 @@ Effets à jouer : A04 (mercredi 08/08 (matin)) : QG sans groupe électrogène (h
 - Tirage [T10] « Me Kouamé : délai de sa première réponse à William (organigramme et question sur les statuts), lundi 09h55 à Abidjan, au cabinet entre deux rendez-vous » : immediat 7 / rapide 18 / dans_l_heure 15 / dans_la_journee 25 / le_soir_ou_lendemain 25 / plus_tard_ou_jamais 10 ; modificateurs : M70 ; jet  85.5 → **le_soir_ou_lendemain** (enregistré le 08/10/2026 18:07 heure machine)
 
 - Jet « Bagage de William sur le tapis à Lisbonne en moins de 20 minutes » : probabilité 70 %, jet  16.3 → **OUI** (enregistré le 08/10/2026 18:07 heure machine)
+
+- Jet « Comptoir TAP / hôtel de reprotection : Sandra peut partager la chambre (0-55 : oui, chambre double, seul son petit-déjeuner est facturé ; 55-85 : oui avec un supplément de 35 € la nuit ; 85-100 : non, chambre simple, il faut une autre chambre) » : probabilité 50 %, jet   2.9 → **OUI** (enregistré le 08/10/2026 18:13 heure machine)
+
+- Tirage [T7c] « Yves (QG, lundi 10h20 à Abidjan) : William lui demande s'il est disponible pour un entretien avec lui » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet   2.8 → **execute_sans_discuter** (enregistré le 08/10/2026 18:13 heure machine)
+
+- Tirage [T10] « Yves : délai de sa réponse à William (lundi 10h20 à Abidjan, au QG) » : immediat 19 / rapide 33 / dans_l_heure 15 / dans_la_journee 14 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 4 ; modificateurs : M73 ; jet  59.3 → **dans_l_heure** (enregistré le 08/10/2026 18:13 heure machine)

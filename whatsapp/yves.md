@@ -81,3 +81,10 @@ Boss 🙏🏾 Point fait. J'ai tout dit comme vous m'avez dit. Madame Diomandé 
 Tout le monde a écouté. Madame Grace a pris des notes, elle n'a rien demandé. Madame Mariette a dit merci. Abdoul a dit qu'on sera prêts dès que Vridi livre.
 Madame Diomandé a dit que les évaluations vont peut-être devenir mensuelles, elle attend Maître Kouamé.
 Et l'attestation de la banque est arrivée ce matin ✅ Bon voyage, Boss !
+
+**[06/08/2040 - 10:20 (Abidjan) / 11:20 (Lisbonne)] William :**
+Bonjour Yves. Es-tu disponible ? Il faudrait que je m'entretienne avec toi.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[06/08/2040 - 11:05 (Abidjan) / 12:05 (Lisbonne)] Yves :**
+Bonjour Boss 🙏🏾 Oui, je suis disponible. Aujourd'hui je suis au QG jusqu'à 18h, et demain c'est férié, je suis à la maison. Vous m'appelez quand vous voulez, ou vous me dites l'heure.

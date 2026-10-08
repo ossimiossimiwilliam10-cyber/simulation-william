@@ -224,3 +224,4 @@
 - **Sandra (06/08, 09h20, aéroport de Lisbonne)** : en sortant du comptoir, elle range la facture de 329 € dans la poche intérieure de son sac, avec les autres ; elle achète deux pastéis de nata et s'assoit face aux portes des arrivées.
 - **Me Kouamé (06/08, 10h05 à Abidjan)** : il ouvre le PDF entre deux rendez-vous, lit la dernière ligne deux fois, ferme le téléphone et le pose retourné sur le dossier de son client suivant ; il répondra par écrit, ce soir, après l'audience.
 - **Sandra (06/08, 11h15, Lisbonne)** : elle l'observe pendant qu'il mange son pastel debout : les cernes, le téléphone qu'il regarde deux fois en deux minutes ; elle ne demande pas qui écrit.
+- **Yves (06/08, 10h25 au QG)** : il lit le message du patron à son bureau, le relit, regarde la porte d'Aïcha restée entrouverte ; il attend d'avoir fini l'appel d'un client pour répondre, et ne dit rien à personne de la demande.
