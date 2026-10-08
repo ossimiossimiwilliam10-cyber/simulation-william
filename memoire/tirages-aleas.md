@@ -764,3 +764,13 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Sandra répond tout de suite (avant 00h30 à Esch), sinon jeudi matin » : probabilité 50 %, jet  99.8 → **NON** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 12:25 heure machine)
 
 - Jet « Heure de la réponse de Sandra jeudi (Abidjan) : 05h00 + jet × 3 minutes (05h00-10h00) » : probabilité 50 %, jet  30.6 → **OUI** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 12:25 heure machine)
+
+- Jet « Friction : la SGBCI ne délivre toujours pas l'attestation de versement jeudi matin (deuxième passage) » : probabilité 30 %, jet  24.0 → **OUI** (enregistré le 08/10/2026 12:36 heure machine)
+
+- Jet « Friction : la SGBCI refuse la procuration ou le spécimen d'Yves en l'état (pièce manquante, deuxième passage) » : probabilité 30 %, jet  44.3 → **NON** (enregistré le 08/10/2026 12:36 heure machine)
+
+- Jet « A09 : Aïcha découvre à la banque que son salaire de juillet n'est pas arrivé (RIB erroné) » : probabilité 70 %, jet  32.4 → **OUI** (enregistré le 08/10/2026 12:36 heure machine)
+
+- Jet « Aïcha prévient William dans la matinée du résultat de la banque (attestation, procuration) » : probabilité 60 %, jet   5.7 → **OUI** [DÉROGATION : canal et délai d'une information, pas une réaction à un acte de William] (enregistré le 08/10/2026 12:36 heure machine)
+
+- Jet « Taxi Capitol → Plateau (départ 14h15) : arrivée au cabinet avant 15h » : probabilité 70 %, jet   0.5 → **OUI** (enregistré le 08/10/2026 12:36 heure machine)

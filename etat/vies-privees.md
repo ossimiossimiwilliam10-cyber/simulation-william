@@ -175,3 +175,6 @@
 - **Sandra (01/08, 23h59 à Esch)** : écrit au lit, la lampe de chevet allumée, après avoir comparé les vols pendant une heure ; elle efface deux fois une phrase sur l'hôtel avant d'envoyer. *Intérêt : partir sans lui devoir le billet ; ne pas paraître pauvre devant lui.*
 - **Sandra (02/08, 00h03 à Esch)** : le téléphone vibre sur la table de nuit ; elle lit, sourit dans le noir, ne répond pas ; elle répondra au réveil, avant d'emmener les petits chez sa mère pour la matinée.
 - **Sandra (02/08, 08h30 à Esch)** : répond depuis le couloir, les sandales des petits à la main, avant de les déposer chez sa mère à Differdange ; elle ne dit ni oui ni non au billet. *Intérêt : garder la main sur son voyage ; ne pas dire non à un homme qui supplie.*
+- **Aïcha (02/08, 09h15)** : sur le trottoir de la SGBCI, au téléphone avec Mariette ; sa mère attend l'argent des médicaments du mois ; elle écrit au patron pour la banque, pas pour son salaire. *Intérêt : ne rien demander à William, surtout pas de l'argent.*
+- **Mariette (02/08, 09h20)** : retrouve sa propre erreur de saisie (deux chiffres inversés) ; elle s'excuse trois fois au téléphone ; elle cherche comment avancer l'argent sans passer par le patron.
+- **Yves (02/08, 08h40)** : signe son spécimen au guichet, en costume, et photographie le reçu.

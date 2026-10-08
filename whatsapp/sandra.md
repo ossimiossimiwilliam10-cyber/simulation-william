@@ -229,3 +229,7 @@ Sandra, je t'en supplie, laisse-moi te payer ce billet. Si tu veux, tu me rembou
 **[02/08/2040 - 06:32 (Abidjan) / 08:32 (Esch)] Sandra :**
 😂 Toi, tu supplies maintenant ? Le grand monsieur à genoux pour un billet d'avion… Je note la date, hein.
 Laisse-moi chercher encore aujourd'hui. On en reparle 😘
+
+**[02/08/2040 - 06:40 (Abidjan) / 08:40 (Esch)] William :**
+D'accord alors 🙂 On en reparle.
+*(Texte reconstitué à partir de la dictée.)*

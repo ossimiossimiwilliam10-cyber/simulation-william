@@ -50,3 +50,4 @@ Fidèle à Aïcha avant tout. Son intérêt : garder son poste et ne pas porter 
 - 27/07, 17h24-17h35 : répond à William : « Bien, patron. Maître Kouamé m'a déjà répondu cet après-midi, avec copie à Mme Diomandé. Je vois avec elle pour la suite. » (T7c : execute_partiellement) ; transfère son message à Aïcha « pour le devis » (17h30, non vu) ; quitte le QG à 17h35.
 - 30/07 : évaluation 81/100 (standard) ; prépare les salaires de juillet (virements le 31/07).
 - 01/08 (non vu par William) : Grace lui parle du message privé du patron (mardi 21h36) ; T2 : commerage : elle en parle le soir à son proche habituel (aucune nouvelle personne informée).
+- 02/08 (non vu par William) : Aïcha l'appelle depuis la SGBCI : son salaire n'est pas arrivé ; Mariette retrouve l'erreur de RIB dans l'ordre groupé qu'elle a saisi ; rejet et nouveau virement sous cinq à dix jours ouvrés.

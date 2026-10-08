@@ -290,3 +290,7 @@ William Ossimi, associé unique
 
 **[01/08/2040 - 18:38] Aïcha :**
 Bien reçu, patron. Je classe votre autorisation dans juridique/, avec le contrat.
+
+**[02/08/2040 - 09:26] Aïcha :**
+Patron, l'attestation de versement n'est pas prête : la banque demande le bulletin de souscription signé de votre main, avec la copie de votre passeport. Maître Kouamé peut le préparer pour 15h.
+La procuration et le spécimen de M. Kanga sont acceptés.
