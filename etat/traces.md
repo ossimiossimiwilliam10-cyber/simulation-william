@@ -158,3 +158,5 @@
 | 06/08, 20h43 | **William dit à Sandra d'« arrêter de penser comme une politicienne » et de ne pas « suranalyser » ses phrases** | Oral | Sandra | **Faible à moyenne** (vie privée) : froideur immédiate |
 | 06/08, 21h16 | **William s'approche de Sandra pour faire l'amour sans le lui demander, juste après le froid du dîner ; elle l'arrête (« Pas ce soir, William. »)** | Geste (intime) | Sandra | **Moyenne** (vie privée) : refus net, distance physique |
 | 07/08, 06h50 | **William fait évaluer automatiquement les 12 candidatures par un assistant d'IA relié à son compte LinkedIn** | Numérique (service tiers) | — | **Faible** : données de candidats traitées par un service tiers |
+| 07/08, 07h12 | **Refus automatiques envoyés par l'agent de William à 9 candidats (dont la seule ingénieure à six ans de solaire et le seul docteur)** | Écrit (LinkedIn) | Candidats | **Faible** : image d'employeur |
+| 07/08, 07h13 | **William demande à Sandra « à quoi tu joues », « pourquoi tu fais semblant »** | Oral | Sandra | **Élevée** (vie privée) : rupture de son fait, clés rendues |
