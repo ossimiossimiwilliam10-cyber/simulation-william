@@ -1,4 +1,4 @@
-# Calendrier (au 02/08/2040, 11h52)
+# Calendrier (au 02/08/2040, 12h05)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -150,7 +150,7 @@
 | **Jeu. 02/08** | Attestation de versement de l'apport (SGBCI), puis dépôt des formalités par Me Kouamé. |
 | **Jeu. 02/08, ouverture** | Aïcha à la SGBCI pour l'attestation de versement ; point d'équipe du matin refusé par Aïcha (17h48). *(18h12 : William renonce au point avec lui ; Yves le représentera ; Aïcha peut décaler cette semaine.)* |
 | **Ven. 03/08, 8h30** | Dernier point d'équipe avant le départ de William, sans lui ; Yves parle en son nom (message dicté le 31/07). |
-| **Jeu. 02/08, 15h** | Signature des statuts modifiés au cabinet de Me Kouamé (passeport) ; seuil bancaire et second signataire à fixer. |
+| **Jeu. 02/08, 15h** | Signature des statuts modifiés au cabinet de Me Kouamé (passeport) ; seuil bancaire et second signataire à fixer. *(Avancée : signée à 11h58 ; rendez-vous de 15h libéré.)* |
 | **Jeu. 02/08, 20h** | ~~Garba avec Yves, Kader et Junior~~ *(proposé par Yves le 31/07 à 07h48 ; annulé par William à 09h18 : « une autre fois, quand je reviendrai »)* |
 | **Jeu. 02/08, soir** | *(Non connu de William)* Seul soir où Yves, Kader et Junior sont libres pour le garba. |
 | **Mar. 14/08** | Raccordement fibre Orange (reporté ; à confirmer). |

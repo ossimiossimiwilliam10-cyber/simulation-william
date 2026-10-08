@@ -179,3 +179,4 @@
 - **Mariette (02/08, 09h20)** : retrouve sa propre erreur de saisie (deux chiffres inversés) ; elle s'excuse trois fois au téléphone ; elle cherche comment avancer l'argent sans passer par le patron.
 - **Yves (02/08, 08h40)** : signe son spécimen au guichet, en costume, et photographie le reçu.
 - **Me Kouamé (02/08, 11h40)** : entre deux dossiers, une tasse de café froid sur le bureau ; il a fait taper le bulletin par sa secrétaire à 10h50 et l'a relu deux fois.
+- **Aïcha (02/08, 12h30)** : passe au cabinet ; la secrétaire lui remet le bulletin et une copie de la décision du jour ; elle lit l'article 8 debout dans le hall, range la feuille dans sa chemise et part pour la SGBCI.

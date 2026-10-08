@@ -782,3 +782,5 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Le cabinet envoie le bulletin par coursier au Capitol (sinon signature au cabinet) » : probabilité 50 %, jet  87.1 → **NON** [DÉROGATION : organisation d'un tiers (T6), pas une réaction à un acte de pouvoir] (enregistré le 08/10/2026 12:42 heure machine)
 
 - Jet « Taxi Capitol → Plateau (départ 11h05) : arrivée au cabinet avant 11h45 » : probabilité 70 %, jet   9.5 → **OUI** (enregistré le 08/10/2026 12:42 heure machine)
+
+- Jet « Friction au cabinet : une erreur matérielle dans la décision modifiant les statuts oblige à la retaper avant signature (attente) » : probabilité 30 %, jet  71.6 → **NON** (enregistré le 08/10/2026 12:45 heure machine)
