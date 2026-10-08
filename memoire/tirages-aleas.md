@@ -758,3 +758,9 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Heure du message de Sandra (Abidjan) : 18h00 + jet × 3 minutes (18h00-23h00) » : probabilité 50 %, jet  79.6 → **NON** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 11:30 heure machine)
 
 - Jet « William dort bien (au moins 7 h) cette nuit » : probabilité 70 %, jet  52.8 → **OUI** (enregistré le 08/10/2026 11:30 heure machine)
+
+- Tirage [T8] « Sandra (jeudi 00h05 à Esch) : William la supplie de le laisser payer son billet pour Mindelo (1 520 €), remboursable plus tard, « même tous les mois » (pensée non dite : c'est un cadeau) ; M41 : fierté, gêne de l'argent (« mon billet, je le paie moi », « demande-moi avant ») ; M43 : déjà alertée (vidéo et hôtel restés sans réponse, « l'argent comme pardon ») ; M44 : confiance récente (retour avancé au 4 août, billets pris) » : soutient_sans_creuser 14 / creuse_doucement 25 / releve_esquive 23 / plaisante_et_devie 8 / froideur 12 / agacement_net 10 / rien_ne_dit_soupconne 8 / frontal_rupture 0 ; modificateurs : M41, M43, M44 ; jet  66.5 → **plaisante_et_devie** (enregistré le 08/10/2026 12:25 heure machine)
+
+- Jet « Sandra répond tout de suite (avant 00h30 à Esch), sinon jeudi matin » : probabilité 50 %, jet  99.8 → **NON** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 12:25 heure machine)
+
+- Jet « Heure de la réponse de Sandra jeudi (Abidjan) : 05h00 + jet × 3 minutes (05h00-10h00) » : probabilité 50 %, jet  30.6 → **OUI** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 12:25 heure machine)

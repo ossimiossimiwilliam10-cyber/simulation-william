@@ -221,3 +221,7 @@ Je regarde ce soir pour mon billet.
 **[01/08/2040 - 21:59 (Abidjan) / 23:59 (Esch)] Sandra :**
 Pardon, je n'ai pas répondu hier. J'ai regardé pour le billet : 1 520 €, je ne peux pas ce mois-ci.
 Je cherche un autre vol pour les mêmes dates, avec une escale. Je te dis demain.
+
+**[01/08/2040 - 22:03 (Abidjan) / 00:03 (Esch, 02/08)] William :**
+Sandra, je t'en supplie, laisse-moi te payer ce billet. Si tu veux, tu me rembourseras plus tard, même un peu tous les mois. Mais je t'en prie, accepte.
+*(Texte reconstitué à partir de la dictée.)*
