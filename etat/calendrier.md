@@ -1,4 +1,4 @@
-# Calendrier (au 05/08/2040, 11h41)
+# Calendrier (au 05/08/2040, 12h20)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -201,3 +201,5 @@
 | **≈ Jeu. 23/08/2040** | **Échéance du bulletin d'impôt 2039 (ACD)** : solde de 1 097,50 € à payer dans le mois qui suit la notification ; intérêts de retard de 0,6 % par mois au-delà. |
 | Dim. 05/08, après-midi | *(Non connu de William)* Message logistique de Sandra (vol du soir pour Lisbonne, rendez-vous lundi). |
 | Dim. 12/08, soir | T4/T5 : affaire Grace (9 informés : interne 27 %, externe 9 %) ; relation William–Aïcha (3). |
+| **Mer. 22/08/2040** | Rappel sur le téléphone de William (05/08) : payer l'ACD (1 097,50 €). |
+| **Ven. 10/08 et mer. 15/08/2040** | *(Signalé par Estelle le 05/08)* OSIA : ITS de juillet avant le 10/08 ; CNPS de juillet avant le 15/08. |

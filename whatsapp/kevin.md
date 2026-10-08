@@ -22,3 +22,12 @@ De rien, mon garçon. Je suis heureux de te voir heureux.
 
 **[25/07/2040 - 07:12 (Abidjan) / 09:12 (Esch)] Kevin :**
 🙂 Bonne journée monsieur
+
+**[05/08/2040 - 11:47 (Luxembourg)] William :**
+Coucou mon grand, comment tu vas ?
+
+**[05/08/2040 - 11:49 (Luxembourg)] Kevin :**
+Ça va monsieur 🙂 Et vous ? Vous êtes bien rentré ?
+
+**[05/08/2040 - 11:49 (Luxembourg)] Kevin :**
+On est chez mamie à Differdange avec les petits. Maman finit sa valise ici, elle chante en même temps 😅 Faites attention à elle là-bas.

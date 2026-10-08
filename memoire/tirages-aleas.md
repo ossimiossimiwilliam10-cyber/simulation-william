@@ -906,3 +906,11 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Estelle remet son premier suivi de trésorerie à Aïcha ce week-end (sinon lundi) » : probabilité 60 %, jet  83.5 → **NON** [DÉROGATION : délai d'un prestataire] (enregistré le 08/10/2026 15:03 heure machine)
 
 - Jet « Message d'Estelle envoyé samedi soir (sinon dimanche matin) » : probabilité 50 %, jet  95.3 → **NON** [DÉROGATION : heure d'un message spontané] (enregistré le 08/10/2026 15:03 heure machine)
+
+- Tirage [T7c] « Estelle (prestataire d'OSIA) : William lui demande d'expliquer par message les points trouvés dans les relevés (il n'est plus en Côte d'Ivoire) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  34.9 → **execute_sans_discuter** (enregistré le 08/10/2026 15:16 heure machine)
+
+- Jet « Estelle répond dans l'heure (dimanche) » : probabilité 60 %, jet  38.9 → **OUI** [DÉROGATION : délai de réponse seulement] (enregistré le 08/10/2026 15:16 heure machine)
+
+- Jet « Kevin répond dans l'heure (dimanche, chez sa grand-mère) » : probabilité 55 %, jet   0.4 → **OUI** [DÉROGATION : délai de réponse d'un proche] (enregistré le 08/10/2026 15:16 heure machine)
+
+- Jet « Heure du message logistique de Sandra : 14h00 + jet x 2,4 min » : probabilité 50 %, jet  17.3 → **OUI** [DÉROGATION : heure seulement] (enregistré le 08/10/2026 15:16 heure machine)
