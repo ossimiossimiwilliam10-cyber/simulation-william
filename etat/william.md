@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 04/08/2040, 13h30)
+# William Ossimi — profil (état au 04/08/2040, 13h35)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -273,3 +273,4 @@
 - **04/08, 11h52-12h15** : « tu t'y plairais bien ici » (à moitié en riant) ; invite Sandra sous la douche ; elle accepte après une question (« vraie question ? ») ; chaudière à rallumer ; au seuil, elle demande s'il a ce qu'il faut.
 - **04/08, 12h16** : sans préservatif, il dit qu'il se retiendra (« je ne veux pas que tu te sentes forcée ») ; annonce une conversation sérieuse au salon (« rien de grave ») ; Sandra a des préservatifs dans son sac.
 - **04/08, 12h18-13h30** : retrouvailles intimes avec Sandra (préservatif ; aucun incident) ; elle l'invite ensuite à dire ce qu'il voulait lui dire « sérieusement ».
+- **04/08, 13h32** : dit à Sandra que « tu t'y plairais ici » était sérieux et lui demande si elle n'est pas fatiguée de faire face au monde seule ; elle : « Je ne sais pas, William. … On en reparlera. Après Mindelo. »

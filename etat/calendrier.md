@@ -1,4 +1,4 @@
-# Calendrier (au 04/08/2040, 13h30)
+# Calendrier (au 04/08/2040, 13h35)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
