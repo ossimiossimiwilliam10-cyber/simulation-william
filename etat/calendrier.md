@@ -1,4 +1,4 @@
-# Calendrier (au 06/08/2040, 12h21)
+# Calendrier (au 06/08/2040, 12h25)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -217,4 +217,6 @@
 | **Mar. 07/08, 10h35 (Lisbonne)** | Vol TAP Lisbonne → São Vicente (reprotection de William ; arrivée 12h40, heure locale) ; Oasis : chambre gardée, nuit du 06 facturée. |
 | Lun. 06/08, ≈ 18h40 (Abidjan) | *(Non connu de William)* Réponse écrite de Me Kouamé sur l'organigramme cible et les statuts. |
 | Lun. 06/08, après-midi (Abidjan) | *(Non connu de William)* Yves raconte la réorganisation à Abdoul (T2 : commerage) ; réaction d'Abdoul à tirer. |
-| Lun. 06/08, soir | Yves envoie ses relevés de notes (BTS, licence professionnelle). |
+| Lun. 06/08, soir | ~~Yves envoie ses relevés de notes (BTS, licence professionnelle)~~ *(annulé par William à 12h21 : plus besoin)* |
+| Lun. 06/08, ≈ 12h00 (Abidjan) | *(Non connu de William)* Yves parle à Aïcha de la part de William (réorganisation, « les épaules », clauses) ; réaction d'Aïcha à tirer. |
+| Mar. 07/08 (férié en Côte d'Ivoire) | Visio William-Yves : renégociation du contrat (heure à fixer). |
