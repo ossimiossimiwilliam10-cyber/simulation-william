@@ -104,3 +104,7 @@ Oui Boss, tout de suite 🙏🏾 Je descends dans la cour pour être tranquille.
 **[06/08/2040 - 11:26 (Abidjan) / 12:26 (Lisbonne)] William :**
 Yves, en effet, c'est délicat : je l'expliquerai moi-même à Madame Diomandé. Laissez tomber, occupez-vous uniquement de la partie qui vous concerne. 😄 Et c'était quoi, ce soupir ? Le poste ne vous convient pas, finalement ?
 *(Texte reconstitué à partir de la dictée.)*
+
+**[06/08/2040 - 11:31 (Abidjan) / 12:31 (Lisbonne)] William :**
+Je suis avec quelqu'un en ce moment. Finalement, je préférerais que vous m'envoyiez plutôt vos revendications par courriel ou par WhatsApp.
+*(Texte reconstitué à partir de la dictée.)*

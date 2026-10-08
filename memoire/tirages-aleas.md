@@ -1045,3 +1045,5 @@ Effets à jouer : A04 (mercredi 08/08 (matin)) : QG sans groupe électrogène (h
 - Tirage [T7c] « Aïcha (QG, lundi 11h27 à Abidjan) : William (vouvoiement) lui demande si elle est libre pour un appel, « c'est important » » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  43.3 → **execute_sans_discuter** (enregistré le 08/10/2026 18:56 heure machine)
 
 - Tirage [T10] « Aïcha : délai de sa réponse à la demande d'appel de William (au bureau) » : immediat 19 / rapide 33 / dans_l_heure 15 / dans_la_journee 14 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 4 ; modificateurs : M73 ; jet  75.5 → **dans_la_journee** (enregistré le 08/10/2026 18:56 heure machine)
+
+- Tirage [T7c] « Yves : William (vouvoiement) lui demande d'envoyer finalement ses revendications par courriel ou WhatsApp plutôt qu'en visio » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  92.1 → **execute_partiellement** (enregistré le 08/10/2026 18:59 heure machine)
