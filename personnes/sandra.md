@@ -125,3 +125,4 @@ depuis la pilule du lendemain du 26/05.
 - 06/08, 15h23 : « Prends des chaussures où tu peux marcher. Ça monte, la Graça. »
 - **Faits créés le 06/08** : à Lisbonne de 2010 à 2021, rue des Anjos (quatrième sans ascenseur), avec sa mère, qui faisait le ménage de nuit dans les bureaux de la Baixa ; montait le samedi au miradouro da Senhora do Monte avec ses cousines.
 - 06/08, 16h00-18h40 (Lisbonne) : « Là, en bas, à droite de l'église : la rue des Anjos. On habitait au quatrième, sans ascenseur. Ma mère faisait les bureaux de la Baixa la nuit, et moi je montais ici avec mes cousines, le samedi, pour écouter de la musique sur le téléphone et regarder les bateaux. » ; « J'avais quinze ans, je disais que j'irais à Paris, à Londres… Je suis allée à Differdange 😂 » ; « Ma tia a tué un cabri pour demain. Si tu n'aimes pas, tu manges quand même, hein. » ; elle paie les cafés ; ne pose aucune question sur les appels.
+- 06/08, 19h41 : « D'accord. Ne tarde pas, j'ai faim. »
