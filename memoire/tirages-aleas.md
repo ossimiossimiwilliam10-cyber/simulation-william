@@ -724,3 +724,17 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Tirage [T7c] « Aïcha (mercredi ~12h15) : Yves et Abdoul lui transmettent l'ordre du patron de prendre Ibrahim Koné « quoi qu'il en coûte », par-dessus sa décision de gérante ; elle doit faire l'offre et le contrat » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  77.0 → **execute_a_contrecoeur** (enregistré le 08/10/2026 10:07 heure machine)
 
 - Jet « Ibrahim Koné accepte l'offre d'OSIA (380 000 FCFA brut) le jour même » : probabilité 75 %, jet  90.7 → **NON** [DÉROGATION : réponse d'un candidat externe à une offre d'emploi, pas une réaction à un acte de pouvoir de William] (enregistré le 08/10/2026 10:07 heure machine)
+
+- Jet « Sandra écrit à William mercredi entre 12h et 17h (Abidjan) » : probabilité 55 %, jet  78.3 → **NON** [DÉROGATION : message spontané d'une proche, délai seulement ; contenu déjà tiré (billet trop cher, elle cherche autre chose)] (enregistré le 08/10/2026 10:11 heure machine)
+
+- Tirage [T7c] « Aïcha (mercredi après-midi) : signer la procuration bancaire au nom d'Yves (double signature au-delà de 5 M FCFA) et le courrier à la SGBCI pour l'envoi des relevés en copie à l'associé, envoyés par Me Kouamé sur instruction de William » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  61.0 → **execute_sans_discuter** (enregistré le 08/10/2026 10:11 heure machine)
+
+- Jet « Villa Riviera, relance de Grace : 0-40 pas de réponse ; 40-70 « on réfléchit », un concurrent moins cher ; 70-90 le client demande une remise ; 90-100 le client accepte l'option A » : probabilité 50 %, jet  97.6 → **NON** (enregistré le 08/10/2026 10:11 heure machine)
+
+- Jet « Abdoul trouve un autre fournisseur avec du stock à Abidjan (batteries et onduleurs, prix plus élevé) » : probabilité 30 %, jet  76.8 → **NON** (enregistré le 08/10/2026 10:11 heure machine)
+
+- Jet « Heure de l'accord du client de la villa Riviera (appel à Grace) : 12h30 + jet × 2,5 minutes (12h30-16h40) » : probabilité 50 %, jet  92.2 → **NON** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 10:11 heure machine)
+
+- Jet « Conditions du client de la villa : 0-50 installation terminée avant le 31/08 ; 50-80 acompte de 20 % seulement ; 80-100 aucune condition particulière » : probabilité 50 %, jet  77.9 → **NON** (enregistré le 08/10/2026 10:11 heure machine)
+
+- Jet « Grace annonce elle-même la nouvelle à William par WhatsApp (en plus d'Aïcha) » : probabilité 50 %, jet  11.3 → **OUI** [DÉROGATION : choix de canal d'une collaboratrice pour une bonne nouvelle commerciale, pas une réaction à un acte de William] (enregistré le 08/10/2026 10:11 heure machine)

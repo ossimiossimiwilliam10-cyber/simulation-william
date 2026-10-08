@@ -53,3 +53,9 @@ Bonsoir Grace. Où en es-tu au niveau des offres ? Selon toi, le marché est-il 
 Bonsoir Monsieur Ossimi. L'étude commence demain matin ; je la dépose sur le serveur vendredi.
 Mon premier avis : le marché est là, mais pas au prix d'achat. Les cliniques, les écoles privées et les hôtels veulent payer au mois, sans investissement. Avec la trésorerie actuelle, nous pourrions financer quatre ou cinq installations moyennes, à condition d'avoir des garanties de paiement. L'école privée et l'hôtel de la liste de juillet peuvent être relancés sur ce modèle.
 G. Adjoua-Mensah
+
+**[01/08/2040 - 16:28] Grace :**
+Monsieur Ossimi, bonne nouvelle : le propriétaire de la villa Riviera vient de m'appeler. Il accepte l'option A (15 900 000 FCFA HT).
+Une seule condition : 20 % d'acompte à la commande au lieu de 50 %, le reste à la livraison et à la réception. Il veut signer la semaine prochaine.
+J'en informe Mme Diomandé.
+G. Adjoua-Mensah
