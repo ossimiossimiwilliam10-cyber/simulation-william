@@ -674,3 +674,5 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Le traitement de juillet de William (État luxembourgeois) est visible sur son compte avant minuit le 31/07 (sinon le 01/08 au matin) » : probabilité 50 %, jet  40.6 → **OUI** (enregistré le 08/10/2026 09:23 heure machine)
 
 - Jet « Me Kouamé répond à William dans l'heure » : probabilité 60 %, jet   9.3 → **OUI** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 09:23 heure machine)
+
+- Jet « Yves appelle avant 19h40 comme promis (sinon vers 19h55, embouteillages) » : probabilité 70 %, jet  72.0 → **NON** [DÉROGATION : ponctualité seulement] (enregistré le 08/10/2026 09:27 heure machine)

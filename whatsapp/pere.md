@@ -29,3 +29,8 @@ Et le petit projet, c'est quoi ? Il y a des employés sur la photo.
 **[31/07/2040 - 17:10 (Abidjan) / 19:10 (Luxembourg)] William :**
 Je serai en déplacement, donc je ne serai pas là le 18. Et c'est juste un petit projet entrepreneurial comme ça, rien de très important. Bonne journée.
 *(Texte reconstitué à partir de la dictée.)*
+
+**[31/07/2040 - 19:24 (Abidjan) / 21:24 (Luxembourg)] Père :**
+Bonne journée à toi aussi… Ici, c'est déjà la nuit.
+Tu réponds à côté, William. Je ne te demandais pas d'argent pour ta société. Je voulais savoir ce que fait mon fils.
+Quand tu voudras, appelle.

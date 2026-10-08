@@ -44,3 +44,5 @@ Yves, tu es disponible pour un appel ? Je voudrais t'expliquer la situation. Je 
 
 **[31/07/2040 - 18:22] Yves :**
 Oui, Boss 🙏🏾 Je suis dans le gbaka, ça fait trop de bruit. Je vous appelle dès que j'arrive à la maison, vers 19h30.
+
+**[31/07/2040 - 19:55] Appel vocal entrant d'Yves (décroché).**

@@ -158,3 +158,5 @@
 - **Abdoul (31/07, soir)** : Vridi l'appelle à 21h ; il n'y croit qu'à moitié ; il écrit au patron plutôt qu'à la gérante, par habitude.
 - **Yves (31/07, 18h22)** : dans le gbaka d'Angré, coincé entre une vendeuse de pagnes et un sac d'oignons ; il relit le message du patron deux fois et répond d'un pouce ; il ne sait pas encore pour la banque.
 - **Aïcha (31/07, 18h12-21h10)** : reçoit le message au bureau ; le soir, le courriel de Me Kouamé lui apprend qu'Yves sera signataire ; elle met une heure à répondre, passe au vouvoiement sur WhatsApp et fixe le point au vendredi ; elle n'appellera plus le patron, elle écrira. *Intérêt : ne plus se trouver seule face à lui ; garder sa place sans rien demander.*
+- **Le père de William (31/07, 21h24 à Luxembourg)** : écrit sa réponse assis au bord du lit, la télé allumée sans le son ; il ne relance pas sur l'enterrement.
+- **Yves (31/07, 19h55)** : appelle depuis la cour de sa maison familiale à Angré, la voix basse pour ne pas réveiller le petit de sa sœur.
