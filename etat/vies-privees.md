@@ -167,3 +167,5 @@
 - **Mariette (01/08, ~08h15)** : lit l'écran que lui tend Grace, ne dit rien d'abord, puis « Il t'écrit à 21h maintenant ? » ; le soir, elle en parle à son proche habituel.
 - **Abdoul (01/08, 10h)** : avait préparé un onduleur en panne sur la table de la salle de réunion ; Koné l'a trouvée en quatre minutes ; Abdoul a souri pour la première fois de la semaine.
 - **Mariette (01/08, 08h15)** : après l'écran de Grace, elle referme son cahier et commence sa journée sans rien dire de plus.
+- **Aïcha (01/08, 12h15-16h40)** : Yves passe la tête à sa porte, le téléphone à la main : « Le patron a dit : Koné, quoi qu'il en coûte. » Elle répond « D'accord », referme la porte, traite d'abord la procuration bancaire et le courrier pour les relevés, puis appelle Koné à 16h40.
+- **Ibrahim Koné (01/08, 16h45)** : remercie, dit qu'il doit d'abord parler à son patron, qui lui doit encore deux mois de primes ; il répondra vendredi.

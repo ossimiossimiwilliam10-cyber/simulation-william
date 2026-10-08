@@ -57,3 +57,9 @@ Compris, Boss. Dès qu'on finit, je vous envoie.
 
 **[01/08/2040 - 11:48] Abdoul :**
 Boss, entretiens faits. Koné Ibrahim, 26 ans, le meilleur de loin : trois ans d'onduleurs et de solaire hors réseau. Il demande 380 000. Les deux autres, non. Madame Diomandé a les notes.
+
+**[01/08/2040 - 11:55] William :**
+Prenez Ibrahim Koné, quoi qu'il en coûte.
+
+**[01/08/2040 - 11:57] Abdoul :**
+Compris, Boss. Je le dis à Madame Diomandé.

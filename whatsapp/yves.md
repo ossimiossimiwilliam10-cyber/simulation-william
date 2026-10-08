@@ -62,3 +62,9 @@ Boss 🙏🏾 Compte rendu des entretiens :
 2) Christelle Adou, 24 ans, BTS électrotechnique, stage SAV chez un opérateur télécom. Sérieuse, mais timide et peu de terrain.
 3) Serge Tano, 29 ans, arrivé avec 25 minutes de retard ; il demande 450 000.
 Notre choix, avec Abdoul : Ibrahim. Madame Diomandé décide, je lui ai tout envoyé.
+
+**[01/08/2040 - 11:55] William :**
+Prenez Ibrahim Koné, quoi qu'il en coûte.
+
+**[01/08/2040 - 11:58] Yves :**
+Super, Boss 🙏🏾 Je préviens Madame Diomandé tout de suite.

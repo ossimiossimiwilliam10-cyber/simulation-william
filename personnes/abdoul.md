@@ -37,3 +37,4 @@ rapidité commerciale de Grace ou avec les exigences de coût de William. Il tie
 - 31/07, 21h28-21h30 : William : « Ok, fais au mieux. » ; lui (T7c : execute_sans_discuter) : « Compris, Boss. Je vous tiens au courant. »
 - 31/07, 21h34-21h40 : William demande un compte rendu des entretiens SAV ; lui : « Compris, Boss. Dès qu'on finit, je vous envoie. »
 - 01/08, 11h48 : compte rendu des entretiens SAV : « Boss, entretiens faits. Koné Ibrahim, 26 ans, le meilleur de loin : trois ans d'onduleurs et de solaire hors réseau. Il demande 380 000. Les deux autres, non. Madame Diomandé a les notes. »
+- 01/08, 11h55-11h57 : William : « Prenez Ibrahim Koné, quoi qu'il en coûte. » ; lui : « Compris, Boss. Je le dis à Madame Diomandé. »

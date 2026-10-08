@@ -716,3 +716,11 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Heure des comptes rendus : 11h30 + jet × 1,5 minute (11h30-14h00) » : probabilité 50 %, jet  12.1 → **OUI** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 10:01 heure machine)
 
 - Jet « A09 : Aïcha s'aperçoit aujourd'hui que son salaire n'est pas arrivé » : probabilité 55 %, jet  73.0 → **NON** (enregistré le 08/10/2026 10:01 heure machine)
+
+- Tirage [T7c] « Abdoul (mercredi 11h55) : William lui dit de prendre Ibrahim Koné « quoi qu'il en coûte » (la décision revient à la gérante) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  67.4 → **execute_sans_discuter** (enregistré le 08/10/2026 10:07 heure machine)
+
+- Tirage [T7c] « Yves (mercredi 11h55) : William lui dit de prendre Ibrahim Koné « quoi qu'il en coûte » (la décision revient à la gérante) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet   3.9 → **execute_sans_discuter** (enregistré le 08/10/2026 10:07 heure machine)
+
+- Tirage [T7c] « Aïcha (mercredi ~12h15) : Yves et Abdoul lui transmettent l'ordre du patron de prendre Ibrahim Koné « quoi qu'il en coûte », par-dessus sa décision de gérante ; elle doit faire l'offre et le contrat » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  77.0 → **execute_a_contrecoeur** (enregistré le 08/10/2026 10:07 heure machine)
+
+- Jet « Ibrahim Koné accepte l'offre d'OSIA (380 000 FCFA brut) le jour même » : probabilité 75 %, jet  90.7 → **NON** [DÉROGATION : réponse d'un candidat externe à une offre d'emploi, pas une réaction à un acte de pouvoir de William] (enregistré le 08/10/2026 10:07 heure machine)
