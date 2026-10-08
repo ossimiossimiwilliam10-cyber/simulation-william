@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 06/08/2040, 18h41)
+# William Ossimi — profil (état au 06/08/2040, 18h58)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -305,3 +305,4 @@
 - **06/08, 14h58-15h22 (Lisbonne)** : publie sur LinkedIn une offre de directeur planification, achats et projets (pôle Technique ; 700 000 à 1 000 000 FCFA brut ; 6 ans de solaire ; doctorat valorisé) ; décide que ce poste passera les commandes ; note : revoir avec Abdoul le rattachement de son équipe ; rejoint Sandra (« la marmotte ») ; elle propose de lui montrer « sa » Lisbonne.
 - **06/08, 15h23-15h24 (Lisbonne)** : accepte la sortie à la Graça ; ouvre la page des abonnements payants de LinkedIn (Career 39,99 €, Business 69,99 €, Recruiter Lite 229,99 €/mois).
 - **06/08, 15h25-18h41 (Lisbonne)** : LinkedIn Premium Business (essai) ; sortie avec Sandra à la Graça et aux Anjos ; 18h40 : Yves : « Boss, pardon 🙏🏾 J'étais avec un client tout l'après-midi, je n'ai vu vos messages que maintenant. Je dois vous dire : j'avais déjà parlé à Madame Diomandé à midi, avant de les lire. Pardon, Boss. » ; « Le soupir, c'était pas pour le poste, hein ! Le poste me convient très bien. C'était pour Madame Diomandé… c'était lourd, de lui dire ça, moi. » ; « Pour mes revendications : 880 000 brut. Le reste, je préfère vous en parler en face, Boss, quand vous pourrez. » ; 18h41 : 7 candidatures sur LinkedIn.
+- **06/08, 18h43-18h58 (Lisbonne)** : à Yves : « 880 000 brut : avez-vous pris en compte toutes les clauses ? Est-ce votre dernier mot ? Je ne peux vraiment pas me présenter en face pour l'instant. Est-ce qu'un appel vous conviendrait ? » ; Yves maintient 880 000 (clauses, équipe) et accepte un appel ce soir ou demain.

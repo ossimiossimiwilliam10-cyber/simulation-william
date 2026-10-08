@@ -235,3 +235,4 @@
 - **Sandra (06/08, 15h00, salle de bain de la 214)** : elle s'est passé de l'eau sur le visage, a refait une tresse, et a écouté, par la porte entrouverte, la voix de William dans le couloir sans distinguer les mots ; elle s'est remise sur le lit avant qu'il revienne.
 - **Sandra (06/08, 17h30, miradouro da Graça)** : elle a posé la tête sur l'épaule de William et regarde le pont ; elle pense à sa mère qui montait ces mêmes rues à quatre heures du matin ; elle se dit qu'elle verra à Mindelo, chez sa tia, comment il est avec les siens.
 - **Abdoul (06/08, 15h05, cour du QG)** : après le récit d'Yves, il rallume sa cigarette, appelle Vridi pour la troisième fois de la journée, et ne dit rien à personne.
+- **Yves (06/08, 17h55, gbaka du retour)** : il tape et efface trois fois son message ; il a calculé 880 000 la veille au soir avec Kader, sur un papier, « en comptant le risque » ; Kader lui a dit : « Demande plus, il dira moins. »

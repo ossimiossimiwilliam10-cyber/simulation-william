@@ -117,3 +117,13 @@ Le soupir, c'était pas pour le poste, hein ! Le poste me convient très bien. C
 
 **[06/08/2040 - 17:41 (Abidjan) / 18:41 (Lisbonne)] Yves :**
 Pour mes revendications : 880 000 brut. Le reste, je préfère vous en parler en face, Boss, quand vous pourrez.
+
+**[06/08/2040 - 17:43 (Abidjan) / 18:43 (Lisbonne)] William :**
+880 000 brut : avez-vous pris en compte toutes les clauses ? Est-ce votre dernier mot ? Je ne peux vraiment pas me présenter en face pour l'instant. Est-ce qu'un appel vous conviendrait ?
+*(Texte reconstitué à partir de la dictée.)*
+
+**[06/08/2040 - 17:58 (Abidjan) / 18:58 (Lisbonne)] Yves :**
+Oui, Boss, justement. Avec la rétrogradation et le licenciement dans le contrat, c'est moi qui prends le risque. Et il y a l'équipe à superviser. 880 000, c'est en tenant compte de tout ça.
+
+**[06/08/2040 - 17:58 (Abidjan) / 18:58 (Lisbonne)] Yves :**
+Un appel, ça me va, Boss 🙏🏾 Ce soir, ou demain toute la journée, c'est férié. Vous me dites l'heure.
