@@ -746,3 +746,9 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Rapport d'Aïcha déposé à l'heure (17h00) » : probabilité 85 %, jet  95.9 → **NON** (enregistré le 08/10/2026 10:15 heure machine)
 
 - Jet « Retard du rapport d'Aïcha : 17h05 + jet × 1 minute (17h05-18h45) » : probabilité 50 %, jet  37.3 → **OUI** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 10:16 heure machine)
+
+- Tirage [T7c] « Aïcha (mercredi 17h50) : William lui donne par écrit l'autorisation de signer le contrat de la villa Riviera (15 900 000 FCFA HT, acompte de 20 %) et d'engager l'achat du matériel (au-delà de 5 M FCFA, double signature) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  54.7 → **execute_sans_discuter** (enregistré le 08/10/2026 10:23 heure machine)
+
+- Jet « Aïcha répond dans la demi-heure » : probabilité 65 %, jet  66.2 → **NON** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 10:23 heure machine)
+
+- Jet « Heure de la réponse d'Aïcha : 18h20 + jet × 1,2 minute (18h20-20h20) » : probabilité 50 %, jet  14.7 → **OUI** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 10:23 heure machine)

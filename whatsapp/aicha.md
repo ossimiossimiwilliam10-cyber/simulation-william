@@ -280,3 +280,10 @@ Bonne soirée, patron.
 **[01/08/2040 - 17:43] Aïcha :**
 Patron, le rapport du jour est dans direction. Pardon pour le retard : la banque m'a rappelée pour demain matin.
 *(Pièce : `serveur/direction/rapport_direction_0108.pdf`.)*
+
+**[01/08/2040 - 17:50] William :**
+Aïcha, je t'autorise par écrit :
+1) à signer le contrat de la villa Riviera (option A, 15 900 000 FCFA HT, acompte de 20 %) ;
+2) à engager l'achat du matériel de la villa.
+William Ossimi, associé unique
+*(Texte reconstitué à partir de la dictée.)*
