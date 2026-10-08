@@ -1,4 +1,4 @@
-# Équipe d'OSIA (au 21/07/2040 ; complété à la fiche complète du 28/07/2040)
+# Équipe d'OSIA (au 21/07/2040 ; complété aux fiches complètes du 28/07 et du 04/08/2040)
 
 > Contrats détaillés (début/fin) : `serveur/rh/synthese_equipe_1807.pdf` et `serveur/rh/contrats/`.
 > Tous les salaires ci-dessous sont des **bruts mensuels** (les contrats disaient « Net » par erreur :
@@ -82,3 +82,11 @@
 - 30/07, 17h10 : William n'applique **aucun ajustement discrétionnaire** aux évaluations du 30/07.
 - **31/07** : Yves désigné second signataire du compte (au-delà de 5 M FCFA) et porte-parole de William au point du 03/08 ; Aïcha confirmée dans son essai jusqu'au 21/11 (demande de fin anticipée refusée le 30/07).
 - **03/08** : Ibrahim Koné, technicien SAV, embauché à 380 000 FCFA brut (sur ordre de William) ; arrivée le 01/09.
+
+## Fiche complète du 04/08/2040
+- Aïcha : vouvoiement, exécution sans discussion, menace écrite du 02/08 absorbée ; salaire de juillet pas encore revenu (A09) ; essai jusqu'au 21/11.
+- Yves : porte-parole du 03/08, second signataire ; promesse « PDG » ; garde en tête l'histoire du 23 pour la fin de son essai (15/10) *(non connu de William)*.
+- Grace : évitement de William, ambition ; autorisation générale sur la location ; reprend la villa mercredi.
+- Mariette : discrète ; erreur de RIB (pénalité prévue fin octobre, elle ne le sait pas) ; source involontaire de la fuite interne du 02/08 *(non connu de William)*.
+- Abdoul : Vridi au 19/08 ; Koné recruté (01/09) ; garde pour lui l'histoire du 23 *(non connu de William)*.
+- **Climat (non connu de William)** : depuis le 02/08, tout le QG sait « qu'il s'est passé quelque chose » entre le patron et Grace le 23/07 (T5 : fuite interne).

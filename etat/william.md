@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 04/08/2040, 13h42)
+# William Ossimi — profil (état au 05/08/2040, 11h41)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -276,3 +276,6 @@
 - **04/08, 13h32** : dit à Sandra que « tu t'y plairais ici » était sérieux et lui demande si elle n'est pas fatiguée de faire face au monde seule ; elle : « Je ne sais pas, William. … On en reparlera. Après Mindelo. »
 - **04/08, 13h36-13h38** : demande à Sandra d'arrêter son travail et de venir vivre avec lui, dit avoir lancé OSIA « pour s'occuper » ; elle : « Et vivre de quoi, moi ? … Et si un jour ça ne va plus … ? … Qu'est-ce qui s'est passé, à Abidjan ? »
 - **04/08, 13h39** : à Sandra : vivre de son salaire, « je peux m'engager », « tu vois ce genre d'homme dans mes yeux ? », il a « exagéré » la semaine dernière, l'argent perdu était des dépenses de lancement, il est rentré parce qu'elle lui manquait ; elle : « Non. Je ne vois pas ça dans tes yeux. … Ne me promets rien aujourd'hui. Je vais y penser. Vraiment, cette fois. »
+- **04/08, 13h43** : à Sandra : « impulsif », « prêt à faire cet effort de patience », « on peut aller manger ? » ; déjeuner ; sieste ; elle part à 17h10 ; tri du courrier : **bulletin d'impôt 2039 de l'ACD, solde de 1 097,50 € (≈ 23/08)** ; nuit complète.
+- **05/08, 08h40** : réveil reposé (onze heures de sommeil) ; 11h41 : message d'Estelle (café, relevés ; elle ignore son départ).
+- **Corps (04-05/08)** : trois heures de sommeil dans l'avion, sieste de deux heures, nuit de onze heures ; repas : cachupa ; pas de sport depuis le départ d'Abidjan.

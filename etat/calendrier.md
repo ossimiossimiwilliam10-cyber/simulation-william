@@ -1,4 +1,4 @@
-# Calendrier (au 04/08/2040, 13h42)
+# Calendrier (au 05/08/2040, 11h41)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -198,3 +198,6 @@
 | Sept. 2040 | Kevin entre au Lycée Bel-Val (DAP mécatronicien d'autos et de motos ; 1re année : 3 jours de cours, 2 jours en entreprise). |
 | Dim. 09/09 | Vol retour Abidjan → Luxembourg (arrivée le 10/09). |
 | Mi-sept. | Rentrée scolaire au Luxembourg ; passage à 410 points. |
+| **≈ Jeu. 23/08/2040** | **Échéance du bulletin d'impôt 2039 (ACD)** : solde de 1 097,50 € à payer dans le mois qui suit la notification ; intérêts de retard de 0,6 % par mois au-delà. |
+| Dim. 05/08, après-midi | *(Non connu de William)* Message logistique de Sandra (vol du soir pour Lisbonne, rendez-vous lundi). |
+| Dim. 12/08, soir | T4/T5 : affaire Grace (9 informés : interne 27 %, externe 9 %) ; relation William–Aïcha (3). |

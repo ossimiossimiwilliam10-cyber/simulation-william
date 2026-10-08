@@ -50,3 +50,4 @@ son contrat lui interdit les marchés publics et les commissions.
 - 03/08, point d'équipe (non vu par William) : T1 evitement : au bout de la table, notes, aucune question, sort la première.
 - 03/08, 15h59 : dépose sa note sur les offres en location (deux pilotes ; partenaire financier).
 - 03/08, 17h12-17h31 : William (privé) : location-vente, pilotes, Dr Yapi, crédit, « mon autorisation pour tout ce qui concernera ce projet », « tu passes par Aïcha » ; elle (T7c : à contrecœur) : « Merci, Monsieur Ossimi. C'est noté. Je verrai avec Mme Diomandé à partir de mercredi, après la signature de la villa. G. Adjoua-Mensah »
+- *(Non vu, depuis le 02/08)* : l'histoire du 23/07 circule au QG (Abdoul, Yves, le gardien de jour) ; elle ne sait pas encore que tout le monde sait (perception à tirer quand une scène l'exige).

@@ -49,3 +49,4 @@
 - **Ibrahim Koné (01/08)** : retenu sur ordre de William (« quoi qu'il en coûte ») ; offre d'Aïcha à 16h40 (380 000 FCFA brut) ; demande jusqu'à vendredi pour en parler à son employeur.
 - **Propriétaire de la villa Riviera (01/08, 16h20)** : accepte l'option A (15 900 000 FCFA HT) par téléphone à Grace ; demande un acompte de 20 % ; veut signer la semaine prochaine.
 - **Ibrahim Koné (03/08)** : accepte l'offre d'OSIA ; début le 01/09, son employeur prolongeant son préavis.
+- **Kader** *(05/08)* : *(non vu)* a appris d'Yves, le jeudi 02/08 au soir, « qu'il s'est passé quelque chose » entre William et Mme Grace (T2 : commerage d'Yves) ; informé hors William n° 9 de l'affaire Grace.

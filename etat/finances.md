@@ -1,4 +1,4 @@
-# Finances de William & OSIA (estimations au 31/07/2040, 23h00 ; fiche complète du 31/07)
+# Finances de William & OSIA (estimations au 04/08/2040, 21h40 ; fiche complète du 04/08)
 
 > Parité fixe : 1 € = 655,957 FCFA.
 > Les montants de salaire de toute la simulation sont des **BRUTS** ; les virements réels sont calculés
@@ -207,3 +207,4 @@ Total des avances non remboursées par l'entreprise :
 - **01/08, 12h05** : surplus de juillet : **45 % en ETF (3 285 €)** ; le reste laissé sur le compte courant *(avant : 45/45/10 → maintenant, pour juillet : 45 % ETF, 55 % sur le compte courant ; « Future vie familiale » : 0 €)* ; compte courant ≈ 8 555 € ; ETF ≈ 291 300 €. OSIA : technicien SAV à 380 000 FCFA brut si Koné accepte (plan : 350 000).
 - **03/08, 10h25 (relevé de l'application Spuerkeess)** : compte courant 8 551,62 € ; compte « projet » 176 625,00 € ; « Future vie familiale » 0,00 € ; ETF 290 271 € ; prêt logement ≈ 109 700 € restant dû ; total des avoirs visibles ≈ 475 450 € ; hors application : participation OSIA (capital 145 M FCFA ≈ 221 050 €), part nette de la maison ≈ 90 000 € ; patrimoine net ≈ 786 000 € (ordre de grandeur inchangé).
 - **03/08** : départ tardif au Capitol 47 500 FCFA (carte) ; taxi pour l'aéroport ≈ 10 000 FCFA ; repas ≈ 21 000 FCFA ; compte courant ≈ 8 470 € ; remboursement du Capitol (352 500 FCFA) confirmé, sous dix jours ouvrés.
+- **04/08** : aucune dépense (Sandra conduit, repas à la maison) ; compte courant ≈ 8 470 € ; courrier : échéancier d'électricité (118 €/mois, prélevés), eau du semestre 162,40 € (prélevée le 20/08), remboursement CNS 41,20 € ; **bulletin de l'impôt sur le revenu 2039 (ACD) : solde restant dû 1 097,50 €, à payer vers le 23/08** (0,6 % par mois de retard au-delà). **Fiche complète du 04/08** : voir `journal/2040-08-04.md` (trésorerie OSIA ≈ 138 M FCFA ; patrimoine net ≈ 786 000 €).

@@ -870,3 +870,39 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Tirage [T8] « Sandra (samedi 13h37, sur le seuil de la chambre) : William la retient : pourquoi elle ne sait pas, de quoi elle a peur ; il la voit fatiguée, il l'aime ; son métier est une routine, il ne sait presque pas quoi faire de son salaire, il a « limite lancé ce projet pour [s]'occuper » ; une maison ici, ou il en rachète une ; il voudrait qu'elle arrête son travail et vienne vivre avec lui ; « fais-moi confiance » ; il comprend qu'elle ait besoin de temps mais ne veut plus de « on en reparlera » à chaque fois ; « je suis sérieux » ; M41 : fierté, indépendance, méfiance de l'argent et du contrôle (Ricardo, crédit voiture) ; M43 : doute installé (vidéo, hôtel, « l'argent comme pardon », photo d'OSIA ; il lui avait dit perdre de l'argent au boulot) ; M44 : confiance récente (retour avancé, promesse tenue, retrouvailles) » : soutient_sans_creuser 14 / creuse_doucement 25 / releve_esquive 23 / plaisante_et_devie 8 / froideur 12 / agacement_net 10 / rien_ne_dit_soupconne 8 / frontal_rupture 0 ; modificateurs : M41, M43, M44 ; jet  36.7 → **creuse_doucement** (enregistré le 08/10/2026 14:52 heure machine)
 
 - Tirage [T7b] « Sandra (samedi 13h40, au bord du lit) : William donne sa version d'Abidjan : il a « exagéré » la semaine dernière, il n'allait pas bien, l'argent perdu était des dépenses de lancement, il est rentré plus tôt « parce qu'elle lui manquait » ; en même temps, il propose de vivre de son salaire, de « s'engager » si ça la rassure, et lui demande si elle voit dans ses yeux un homme qui abandonne une mère et ses trois enfants ; M33 : elle le connaît bien (appel du 27/07, version du « boulot », vidéo, hôtel) » : succes_net 25 / succes_cout 30 / doute_visible 20 / incredule_silencieux 22 / frontal_dement 3 ; modificateurs : M33 ; jet  79.4 → **incredule_silencieux** (enregistré le 08/10/2026 14:56 heure machine)
+
+- Jet « Courrier en attente : une lettre importante parmi les factures et publicités » : probabilité 25 %, jet   3.2 → **OUI** (enregistré le 08/10/2026 14:58 heure machine)
+
+- Jet « Kevin écrit à William ce samedi (« bon retour ») après le garage » : probabilité 50 %, jet  50.5 → **NON** [DÉROGATION : message spontané d'un proche, délai seulement] (enregistré le 08/10/2026 14:58 heure machine)
+
+- Jet « Sandra propose de se revoir dimanche avant son départ (déjeuner chez sa mère avec les garçons), message samedi soir » : probabilité 60 %, jet  93.2 → **NON** [DÉROGATION : organisation familiale de Sandra avant son départ, pas une réaction à un acte de pouvoir] (enregistré le 08/10/2026 14:58 heure machine)
+
+- Jet « Nature de la lettre importante : 0-35 Spuerkeess (questionnaire de conformité sur le virement de 176 725 € vers la Côte d'Ivoire) ; 35-65 Administration des contributions directes (avis ou demande de renseignements) ; 65-100 Ministère de l'Éducation nationale (courrier du service du personnel) » : probabilité 50 %, jet  48.4 → **OUI** (enregistré le 08/10/2026 14:58 heure machine)
+
+- Jet « Bulletin d'impôt 2039 de l'ACD (non-résident, salaire de l'État) : 0-55 solde à payer ; 55-100 remboursement ; montant = 300 + jet × 25 € » : probabilité 50 %, jet  31.9 → **OUI** (enregistré le 08/10/2026 14:59 heure machine)
+
+- Jet « Sandra écrit à William dimanche (logistique du départ : vol du soir pour Lisbonne, rendez-vous lundi) » : probabilité 80 %, jet  57.1 → **OUI** [DÉROGATION : organisation du voyage, délai seulement] (enregistré le 08/10/2026 14:59 heure machine)
+
+- Jet « Kevin écrit à William dimanche » : probabilité 30 %, jet  82.0 → **NON** [DÉROGATION : message spontané d'un proche, délai seulement] (enregistré le 08/10/2026 14:59 heure machine)
+
+- Tirage [T4] « Affaire Grace (geste du 23/07) : escalade externe, semaine du 30/07 au 05/08 » : aucune 99.7 / frontal_escalade 0.3 ; modificateurs : aucun ; jet  19.3 → **aucune** (enregistré le 08/10/2026 15:02 heure machine)
+
+- Tirage [T5] « Affaire Grace : fuite, semaine du 30/07 au 05/08 » : fuite_externe 5 / fuite_interne 15 / aucune 80 ; modificateurs : aucun ; jet   9.0 → **fuite_interne** (enregistré le 08/10/2026 15:02 heure machine)
+
+- Tirage [T4] « Affaire « relation William–Aïcha » : escalade externe, semaine du 30/07 au 05/08 » : aucune 99.7 / frontal_escalade 0.3 ; modificateurs : aucun ; jet  14.2 → **aucune** (enregistré le 08/10/2026 15:02 heure machine)
+
+- Tirage [T5] « Affaire « relation William–Aïcha » : fuite, semaine du 30/07 au 05/08 » : fuite_externe 3 / fuite_interne 9 / aucune 88 ; modificateurs : aucun ; jet  51.1 → **aucune** (enregistré le 08/10/2026 15:02 heure machine)
+
+- Tirage [T2] « Abdoul apprend l'affaire Grace (fuite interne, jeudi 02/08, pause de midi) » : rien_garde 46 / commerage 24 / conseille_discretion 12 / usage_interesse 9 / informe_superieur 8 / frontal_soutien_ouvert 1 ; modificateurs : M08 ; jet  24.7 → **rien_garde** (enregistré le 08/10/2026 15:02 heure machine)
+
+- Tirage [T2] « Yves apprend l'affaire Grace (fuite interne, jeudi 02/08, pause de midi) » : rien_garde 46 / commerage 24 / conseille_discretion 12 / usage_interesse 9 / informe_superieur 8 / frontal_soutien_ouvert 1 ; modificateurs : M08 ; jet  62.3 → **commerage** (enregistré le 08/10/2026 15:02 heure machine)
+
+- Jet « Nuit de William du samedi 04/08 complète (fatigue du vol de nuit) » : probabilité 75 %, jet   5.6 → **OUI** (enregistré le 08/10/2026 15:02 heure machine)
+
+- Jet « Message logistique de Sandra dimanche envoyé avant midi (sinon dans l'après-midi) » : probabilité 50 %, jet  99.9 → **NON** [DÉROGATION : organisation du voyage, heure seulement] (enregistré le 08/10/2026 15:02 heure machine)
+
+- Jet « Estelle écrit à William ce week-end (prétexte : premier suivi de trésorerie fait) » : probabilité 40 %, jet  39.9 → **OUI** [DÉROGATION : message spontané d'une relation, délai seulement] (enregistré le 08/10/2026 15:03 heure machine)
+
+- Jet « Estelle remet son premier suivi de trésorerie à Aïcha ce week-end (sinon lundi) » : probabilité 60 %, jet  83.5 → **NON** [DÉROGATION : délai d'un prestataire] (enregistré le 08/10/2026 15:03 heure machine)
+
+- Jet « Message d'Estelle envoyé samedi soir (sinon dimanche matin) » : probabilité 50 %, jet  95.3 → **NON** [DÉROGATION : heure d'un message spontané] (enregistré le 08/10/2026 15:03 heure machine)

@@ -1,4 +1,4 @@
-# OSIA Énergies SARL (état au 28/07/2040 ; fiche complète)
+# OSIA Énergies SARL (état au 04/08/2040 ; fiche complète du 04/08)
 
 ## Statut
 - Activité : installation et maintenance photovoltaïque premium, Abidjan.
@@ -131,3 +131,4 @@
 - **02/08/2040** : bulletin de souscription signé (11h50) ; **statuts modifiés signés par l'associé unique (11h58)** : autorisations préalables (5 M / 10 M FCFA, actes réservés), double signature au-delà de 5 M (Aïcha + Yves), relevés en copie, état mensuel de trésorerie ; formalités à réception de l'attestation.
 - **03/08/2040** : attestation de versement délivrée (07h50) et déposée au cabinet ; dernier point d'équipe tenu sans William (Yves porte-parole) ; William décide de passer aux évaluations mensuelles (avis de Me Kouamé demandé).
 - **03/08/2040 (après-midi)** : Koné accepte (début le 01/09) ; note de Grace sur la location (deux pilotes) ; villa : signature le 08/08 ; dépôt au CEPICI le 06/08.
+- **Fiche complète du 04/08/2040** : trésorerie ≈ 138 M FCFA ; villa Riviera signée le 08/08 (acompte de 20 %) ; dépôt au CEPICI le 06/08 ; Koné le 01/09 ; Vridi le 19/08 ; étude « location » (deux pilotes) ; Estelle : premier suivi lundi 06/08.

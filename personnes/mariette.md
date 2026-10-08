@@ -53,3 +53,4 @@ Fidèle à Aïcha avant tout. Son intérêt : garder son poste et ne pas porter 
 - 02/08 (non vu par William) : Aïcha l'appelle depuis la SGBCI : son salaire n'est pas arrivé ; Mariette retrouve l'erreur de RIB dans l'ordre groupé qu'elle a saisi ; rejet et nouveau virement sous cinq à dix jours ouvrés.
 - 02/08 : nommée par Aïcha au patron comme auteure de l'ordre groupé (erreur de RIB) ; « elle s'est excusée, elle a déjà fait la demande de retour ».
 - 03/08, point d'équipe : « Merci. » (T1 : rien_absorption) ; ne sait pas encore pour la pénalité.
+- *(Non vu, 02/08)* : à la pause de midi, répond à demi-mot à Abdoul sur Grace et le Boss (« Le 23… il s'est passé quelque chose, au bureau. Moi je n'ai rien dit, hein. ») : source de la fuite interne (T5 du 05/08).
