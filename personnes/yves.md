@@ -36,3 +36,4 @@ Zélé, soucieux de l'image, encore en test sous pression. Peu d'initiative cont
 - *(Fait ajouté par le moteur le 31/07/2040 : il vit dans la maison familiale à Angré ; son père est chauffeur ; sa sœur et son petit vivent avec eux.)*
 - 31/07, 20h00-20h04 : prend en note le message de William pour vendredi (T7c : execute_sans_discuter) : « C'est noté, Boss. J'écris en même temps… Le marché, Madame Grace et les clients, l'essai et les évaluations, le merci à l'équipe, Madame Diomandé d'abord, et WhatsApp si quelqu'un est coincé. C'est bon comme ça ? » ; « Bon voyage, Boss. Que Dieu vous accompagne. »
 - 31/07, 21h34-21h41 : William demande un compte rendu des entretiens SAV ; lui : « Oui, Boss 🙏🏾 Après les entretiens je vous fais le résumé, et à Madame Diomandé aussi. »
+- 01/08, 11h51 : compte rendu détaillé des entretiens SAV (Ibrahim Koné recommandé ; Aïcha informée).

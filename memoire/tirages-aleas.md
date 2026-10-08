@@ -706,3 +706,13 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Sandra écrit à William mercredi matin avant 8h30 (Abidjan) » : probabilité 45 %, jet  72.6 → **NON** [DÉROGATION : message spontané d'une proche, délai seulement ; contenu déjà tiré (billet trop cher, elle cherche autre chose)] (enregistré le 08/10/2026 09:51 heure machine)
 
 - Jet « William dort bien (au moins 7 h) cette nuit » : probabilité 70 %, jet  95.8 → **NON** (enregistré le 08/10/2026 09:51 heure machine)
+
+- Jet « Sandra écrit à William mercredi avant 12h30 (Abidjan) » : probabilité 50 %, jet  91.2 → **NON** [DÉROGATION : message spontané d'une proche, délai seulement ; contenu déjà tiré (billet trop cher, elle cherche autre chose)] (enregistré le 08/10/2026 10:01 heure machine)
+
+- Jet « Entretiens SAV : un des trois candidats ne se présente pas » : probabilité 25 %, jet  79.3 → **NON** (enregistré le 08/10/2026 10:01 heure machine)
+
+- Jet « Entretiens SAV : issue — 0-30 un candidat se détache nettement ; 30-70 deux candidats corrects, hésitation ; 70-90 aucun convaincant ; 90-100 un candidat se retire (poste trouvé ailleurs) » : probabilité 50 %, jet  10.0 → **OUI** (enregistré le 08/10/2026 10:01 heure machine)
+
+- Jet « Heure des comptes rendus : 11h30 + jet × 1,5 minute (11h30-14h00) » : probabilité 50 %, jet  12.1 → **OUI** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 10:01 heure machine)
+
+- Jet « A09 : Aïcha s'aperçoit aujourd'hui que son salaire n'est pas arrivé » : probabilité 55 %, jet  73.0 → **NON** (enregistré le 08/10/2026 10:01 heure machine)

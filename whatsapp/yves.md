@@ -55,3 +55,10 @@ Yves, envoie-moi un compte rendu des entretiens SAV de demain, dès que vous ave
 
 **[31/07/2040 - 21:41] Yves :**
 Oui, Boss 🙏🏾 Après les entretiens je vous fais le résumé, et à Madame Diomandé aussi.
+
+**[01/08/2040 - 11:51] Yves :**
+Boss 🙏🏾 Compte rendu des entretiens :
+1) Ibrahim Koné, 26 ans, BTS électronique, trois ans chez un installateur de groupes et d'onduleurs, il a fait du solaire pour une ONG à Korhogo. Très bon en pratique : il a trouvé la panne qu'Abdoul avait préparée en quatre minutes 😄 Il demande 380 000 brut, disponible dans quinze jours (préavis).
+2) Christelle Adou, 24 ans, BTS électrotechnique, stage SAV chez un opérateur télécom. Sérieuse, mais timide et peu de terrain.
+3) Serge Tano, 29 ans, arrivé avec 25 minutes de retard ; il demande 450 000.
+Notre choix, avec Abdoul : Ibrahim. Madame Diomandé décide, je lui ai tout envoyé.

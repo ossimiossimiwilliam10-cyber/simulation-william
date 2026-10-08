@@ -165,3 +165,5 @@
 - **Sandra (31/07, 22h à Esch)** : les petits couchés, elle compare trois sites ; le moins cher passe par Porto avec dix heures d'escale ; elle ferme l'ordinateur sans rien prendre et sans rien écrire. *Intérêt : ne pas demander d'argent à William ; ne pas dépendre de lui.*
 - **Grace (31/07, 21h36-22h05)** : lit le message du patron chez elle, à Marcory, en coupant le son de la télévision ; elle écrit sa réponse en vingt minutes, la relit deux fois, signe de ses initiales ; demain, avant le point, elle le montrera à Mariette. *Intérêt : rester celle qui apporte des clients ; ne pas être seule avec ce message.*
 - **Mariette (01/08, ~08h15)** : lit l'écran que lui tend Grace, ne dit rien d'abord, puis « Il t'écrit à 21h maintenant ? » ; le soir, elle en parle à son proche habituel.
+- **Abdoul (01/08, 10h)** : avait préparé un onduleur en panne sur la table de la salle de réunion ; Koné l'a trouvée en quatre minutes ; Abdoul a souri pour la première fois de la semaine.
+- **Mariette (01/08, 08h15)** : après l'écran de Grace, elle referme son cahier et commence sa journée sans rien dire de plus.
