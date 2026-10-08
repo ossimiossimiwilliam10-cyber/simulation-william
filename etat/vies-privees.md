@@ -183,3 +183,4 @@
 - **Grace (02/08, matin)** : au téléphone avec le client, elle annonce le 20 % comme « un geste de la direction » ; le client remercie ; elle raccroche sans sourire.
 - **Aïcha (02/08, 16h)** : écrit « un virement a été mal affecté » et efface « mon salaire » ; elle a emprunté 60 000 FCFA à Fanta pour les médicaments de sa mère.
 - **Aïcha (02/08, 17h20)** : répond depuis son bureau, la porte fermée ; elle hésite sur « Ce n'est pas grave » puis le laisse. *Intérêt : ne pas passer pour quelqu'un qui réclame ; protéger Mariette, qui lui a fait l'erreur mais qui l'a aidée depuis juin.*
+- **Aïcha (02/08, 17h49)** : répond en sortant du QG, sous le manguier du portail ; elle ajoute les excuses de Mariette avant d'envoyer. *Intérêt : que le patron n'en fasse pas une affaire ; Mariette lui a avancé 20 000 FCFA à midi.*

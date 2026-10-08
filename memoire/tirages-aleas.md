@@ -796,3 +796,9 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Tirage [T7c] « Aïcha (jeudi 17h05) : William lui demande d'en dire plus sur le virement de salaire mal affecté (c'est le sien, elle ne l'a pas dit dans le rapport) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  22.5 → **execute_sans_discuter** (enregistré le 08/10/2026 12:52 heure machine)
 
 - Jet « Aïcha répond dans la demi-heure » : probabilité 65 %, jet  17.6 → **OUI** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 12:52 heure machine)
+
+- Tirage [T7c] « Aïcha (jeudi 17h25) : William lui demande qui a saisi les RIB des salaires (« C'est Mariette, n'est-ce pas ? ») ; elle protégeait Mariette en ne la nommant pas » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  37.4 → **execute_sans_discuter** (enregistré le 08/10/2026 12:57 heure machine)
+
+- Jet « Aïcha répond dans le quart d'heure » : probabilité 60 %, jet  98.1 → **NON** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 12:57 heure machine)
+
+- Jet « Heure de la réponse d'Aïcha : 17h40 + jet × 1 minute (17h40-19h20) » : probabilité 50 %, jet   9.1 → **OUI** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 12:57 heure machine)

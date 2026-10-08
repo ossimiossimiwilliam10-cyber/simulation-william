@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 02/08/2040, 17h21)
+# William Ossimi — profil (état au 02/08/2040, 17h49)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -259,3 +259,4 @@
 - **02/08, 11h53-12h05** : signe au cabinet la décision modifiant les statuts (au lieu de 15h) ; quitte le Plateau à 12h05.
 - **02/08, 12h05-17h01** : déjeuner au Plateau, retour au Capitol à 13h40, repos ; 17h : rapport d'Aïcha (attestation demain ; un salaire mal affecté ; rien à décider).
 - **02/08, 17h05-17h21** : demande à Aïcha des détails sur le virement mal affecté ; c'est son salaire à elle (erreur de RIB) ; « Ce n'est pas grave, patron. »
+- **02/08, 17h25-17h49** : demande à Aïcha si c'est Mariette qui a saisi les RIB ; « Oui… elle s'est excusée… demande de retour faite ».

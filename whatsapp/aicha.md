@@ -314,3 +314,10 @@ Aïcha, peux-tu m'en dire plus sur le virement de salaire mal affecté ?
 **[02/08/2040 - 17:21] Aïcha :**
 Patron, c'est mon salaire. Dans l'ordre groupé du 31, une erreur de saisie : deux chiffres de mon RIB ont été inversés. La banque a envoyé le virement vers un compte qui n'existe pas ; il doit revenir sur le compte d'OSIA, puis il sera refait.
 Les autres salaires sont passés normalement. Ce n'est pas grave, patron.
+
+**[02/08/2040 - 17:25] William :**
+Qui a saisi les RIB pour les salaires ? C'est Mariette, n'est-ce pas ?
+*(Texte reconstitué à partir de la dictée.)*
+
+**[02/08/2040 - 17:49] Aïcha :**
+Oui, patron. C'est Mariette qui a préparé l'ordre groupé. Elle a vu l'erreur ce matin, elle s'est excusée, et elle a déjà fait la demande de retour à la banque.

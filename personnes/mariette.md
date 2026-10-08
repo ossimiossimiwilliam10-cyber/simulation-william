@@ -51,3 +51,4 @@ Fidèle à Aïcha avant tout. Son intérêt : garder son poste et ne pas porter 
 - 30/07 : évaluation 81/100 (standard) ; prépare les salaires de juillet (virements le 31/07).
 - 01/08 (non vu par William) : Grace lui parle du message privé du patron (mardi 21h36) ; T2 : commerage : elle en parle le soir à son proche habituel (aucune nouvelle personne informée).
 - 02/08 (non vu par William) : Aïcha l'appelle depuis la SGBCI : son salaire n'est pas arrivé ; Mariette retrouve l'erreur de RIB dans l'ordre groupé qu'elle a saisi ; rejet et nouveau virement sous cinq à dix jours ouvrés.
+- 02/08 : nommée par Aïcha au patron comme auteure de l'ordre groupé (erreur de RIB) ; « elle s'est excusée, elle a déjà fait la demande de retour ».
