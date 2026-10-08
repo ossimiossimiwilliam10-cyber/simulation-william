@@ -127,3 +127,9 @@ Oui, Boss, justement. Avec la rétrogradation et le licenciement dans le contrat
 
 **[06/08/2040 - 17:58 (Abidjan) / 18:58 (Lisbonne)] Yves :**
 Un appel, ça me va, Boss 🙏🏾 Ce soir, ou demain toute la journée, c'est férié. Vous me dites l'heure.
+
+**[06/08/2040 - 18:00 (Abidjan) / 19:00 (Lisbonne)] William :**
+Alors on s'appelle ce soir, pour mettre au clair les dernières conditions.
+
+**[06/08/2040 - 18:12 (Abidjan) / 19:12 (Lisbonne)] Yves :**
+D'accord, Boss 🙏🏾 Je suis à la maison à partir de 19h30. Vous m'appelez quand vous voulez après.

@@ -39,3 +39,7 @@ Monsieur Ossimi, le dossier de l'augmentation de capital et de la modification d
 **[06/08/2040 - 09:52 (Abidjan) / 10:52 (Lisbonne)] William :**
 Bonjour Maître. Je vous informe de ma nouvelle organisation de la direction : je vous envoie le fichier tel quel. Qu'en pensez-vous ? Et est-il possible de mettre cela en place avec les statuts actuels de la société ?
 *(Texte reconstitué à partir de la dictée. Pièce jointe : `documents_william/2040-08-06_organigramme_osia.pdf`.)*
+
+**[06/08/2040 - 18:40 (Abidjan), courriel] Me Kouamé :**
+Monsieur Ossimi, veuillez trouver ci-joint ma note sur votre projet d'organisation. Le point 3 appelle particulièrement votre attention. Bien cordialement, Me Kouamé
+*(Pièce jointe : `courriels/2040-08-06_note_kouame_organisation.pdf`.)*

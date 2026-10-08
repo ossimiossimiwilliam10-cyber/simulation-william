@@ -1077,3 +1077,5 @@ Effets à jouer : A04 (mercredi 08/08 (matin)) : QG sans groupe électrogène (h
 - Tirage [T7c] « Yves : William lui propose un appel au lieu d'une rencontre en face pour la négociation » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  37.1 → **execute_sans_discuter** (enregistré le 08/10/2026 19:29 heure machine)
 
 - Jet « Position de négociation d'Yves (0-45 : il maintient 880 000 en invoquant les clauses ; 45-85 : il se dit ouvert à discuter le chiffre ; 85-100 : il baisse spontanément à 800 000) » : probabilité 50 %, jet  16.8 → **OUI** [DÉROGATION : position de négociation salariale d'un subordonné : aucune table pour les négociations (idée à proposer en revue)] (enregistré le 08/10/2026 19:29 heure machine)
+
+- Tirage [T10] « Yves : délai de sa réponse à « on s'appelle ce soir pour mettre au clair les dernières conditions » (18h00 à Abidjan) » : immediat 27 / rapide 40 / dans_l_heure 15 / dans_la_journee 7 / le_soir_ou_lendemain 10 / plus_tard_ou_jamais 1 ; modificateurs : M73, M71 ; jet  32.1 → **rapide** (enregistré le 08/10/2026 19:33 heure machine)
