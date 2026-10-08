@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 07/08/2040, 07h15)
+# William Ossimi — profil (état au 07/08/2040, 07h46)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -319,3 +319,4 @@
 - **07/08, 06h50-07h11 (Lisbonne)** : classificateur d'IA (Claude) relié à LinkedIn : aucun profil à 94 (cible « Messi ») ; meilleurs : Konan 78, Ndiaye 74, Dr Mbarga 71 ; au petit-déjeuner : « On peut parler un peu ? Il y a quelque chose que je ne comprends pas. »
 - **07/08, 07h12-07h15 (Lisbonne)** : agent de classement : refus automatique sous 75 (9 refus, seul Konan retenu) ; à Sandra : « Attends un peu. À quoi tu joues ? Pourquoi tu fais semblant d'ignorer ce qui se passe ? Pourquoi tu te comportes comme ça ? C'est à cause de ce que j'ai dit hier ? En plus, j'ai essayé de te parler hier soir, et tu as rigolé. Pourquoi tu es devenue si froide avec moi, tout d'un coup ? » ; **Sandra rompt** : clés de sa maison rendues, « Je ne joue pas, William. J'arrête. » ; « Je vais chez ma tia. Toi, tu fais ce que tu veux. » ; elle part.
 - **Relations (07/08)** : *(avant : en couple avec Sandra → maintenant : Sandra a mis fin à la relation le 07/08 à 07h14)*.
+- **07/08, 07h15-07h46 (Lisbonne)** : reste longtemps assis ; **pensées non dites : « finalement, je ne suis pas le plus impulsif de la bande » ; un sourire ; « rien n'a vraiment changé pour moi ; je finis toujours seul »** ; fait archiver les deux candidatures sans note ; message du Dr Mbarga ; Sandra attend la navette de 08h00.

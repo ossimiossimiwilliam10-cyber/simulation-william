@@ -245,3 +245,4 @@
 - **Sandra (06/08, 21h18)** : face au mur, les yeux ouverts ; elle compte les jours jusqu'au 13 ; elle pense qu'à Mindelo, chez Djina, elle dormira peut-être dans la chambre des cousines.
 - **Sandra (07/08, 06h00)** : réveillée avant l'alarme, elle a fait sa valise sans bruit, s'est maquillée dans la salle de bain avec la porte fermée ; elle a décidé de ne pas gâcher l'arrivée chez Djina ; elle a envoyé un vocal à sa tia : « On arrive à une heure moins vingt, tia. Oui, avec lui. »
 - **Sandra (07/08, 07h16, arrêt de la navette)** : elle attend debout, la valise contre la jambe, les bras croisés ; elle ne pleure pas ; elle écrit à Rosa : « C'est fini. Je pars quand même, je vais chez Djina. » ; puis à sa mère, en créole, deux lignes ; elle éteint ensuite son téléphone.
+- **Sandra (07/08, 07h31, arrêt de la navette)** : la navette pleine repart sans elle ; elle regarde l'heure, ne se retourne pas vers la baie vitrée ; elle sait qu'il la voit.
