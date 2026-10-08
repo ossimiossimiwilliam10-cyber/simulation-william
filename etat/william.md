@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 06/08/2040, 14h44)
+# William Ossimi — profil (état au 06/08/2040, 14h46)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -300,3 +300,4 @@
 - **06/08, 12h31-12h35 (Lisbonne)** : à Yves : « Je suis avec quelqu'un en ce moment. Finalement, je préférerais que vous m'envoyiez plutôt vos revendications par courriel ou par WhatsApp. » ; monte à la chambre 214 ; Sandra veut dormir une heure.
 - **06/08, 12h36-14h30 (Lisbonne)** : laisse Sandra dormir (98 min), somnole près d'elle ; 14h19 : Sandra : « J'ai dormi combien ? … Tu n'as pas dormi, toi. Tu as encore les yeux d'Abidjan. » ; 14h30 : Aïcha : « Bonjour patron. Oui, je suis disponible. Vous pouvez m'appeler quand vous voulez cet après-midi. »
 - **06/08, 14h32-14h44 (Lisbonne)** : bisou sur le front de Sandra ; appel à Aïcha depuis le couloir : il lui expose tout (réorganisation, organigramme et note, échange avec Yves, « les épaules », pas de licenciement ni de fin d'essai, clauses) ; elle répond par monosyllabes, promet d'écrire à Me Kouamé et écourte (contrat de la villa avec Grace).
+- **06/08, 14h45 (Lisbonne)** : demande à Aïcha si elle pense avoir les épaules pour le poste de CEO, « sincèrement » ; elle : « Sincèrement, patron… Je fais le travail depuis le mois de mai. Mes rapports sont sur le serveur, tous les jours. » ; « Pour le poste, c'est vous qui décidez. Vous verrez sur le marché. » ; « Excusez-moi, patron. Grace m'attend. »

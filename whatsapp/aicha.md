@@ -387,3 +387,5 @@ Madame Diomandé, êtes-vous libre pour un appel ? C'est important.
 Bonjour patron. Oui, je suis disponible. Vous pouvez m'appeler quand vous voulez cet après-midi.
 
 *(06/08, 13h33-13h44 à Abidjan : appel de William, qui lui expose tout (réorganisation, organigramme et note, ce qu'il a dit à Yves, « les épaules », pas de licenciement ni de fin d'essai, clauses). Aïcha : « Allô. Oui, patron. » ; « Oui, patron. » ; « J'ai compris, patron. Pour les contrats, j'écrirai à Maître Kouamé. » ; « Excusez-moi, patron : Grace m'attend pour relire le contrat de la villa, la signature est mercredi. Si c'est tout pour moi… »)*
+
+*(Suite de l'appel, 13h45 à Abidjan : William : « Qu'en pensez-vous ? Est-ce que vous pensez avoir les épaules assez solides pour occuper le rôle de CEO ? Qu'est-ce que vous pensez, sincèrement, au fond de vous ? » ; Aïcha : « Sincèrement, patron… Je fais le travail depuis le mois de mai. Mes rapports sont sur le serveur, tous les jours. » ; « Pour le poste, c'est vous qui décidez. Vous verrez sur le marché. » ; « Excusez-moi, patron. Grace m'attend. »)*
