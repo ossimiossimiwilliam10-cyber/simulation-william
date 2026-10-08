@@ -242,3 +242,4 @@
 - **Sandra (06/08, 20h42)** : sous la table, elle serre sa serviette dans son poing ; elle entend la voix de Ricardo, « juste les vacances, Sandra » ; elle ne pleure pas, elle attend la réponse.
 - **Sandra (06/08, 21h05)** : dans l'ascenseur, seule, elle regarde son reflet dans la paroi en inox ; « politicienne » ; elle pense que les politiciens, eux, au moins, promettent jusqu'au bout de la phrase. Elle décide de ne rien dire de plus ce soir.
 - **Sandra (06/08, 21h20, dans le noir)** : elle garde les yeux ouverts, la main de William sur son ventre ; elle a eu envie de tout dire (samedi, « politicienne », les mots qu'il ne dit jamais en entier), puis elle a pensé à Djina, au cabri, à la porte bleue ; elle le dira à Mindelo, ou pas.
+- **Sandra (06/08, 21h18)** : face au mur, les yeux ouverts ; elle compte les jours jusqu'au 13 ; elle pense qu'à Mindelo, chez Djina, elle dormira peut-être dans la chambre des cousines.
