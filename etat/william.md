@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 06/08/2040, 20h42)
+# William Ossimi — profil (état au 06/08/2040, 21h05)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -311,3 +311,4 @@
 - **06/08, 19h44-20h05 (Lisbonne)** : appel avec Yves reporté à demain 15h (Abidjan) ; à Me Kouamé : « Maître, je décide de suivre toutes vos directives. Le gérant, ou la gérante, sera donc le CEO. Rapprochez-vous de Mme Diomandé pour mettre tout cela en place. » ; dîner avec Sandra ; Me Kouamé : contrats et règlement intérieur avec Aïcha (450 000 HT) ; gérance : Aïcha reste gérante jusqu'à la désignation du CEO, nomination préparée avec William seul.
 - **06/08, 20h07-20h40 (Lisbonne)** : à Me Kouamé : matrice d'évaluation à revoir avec Aïcha et Mariette ; à Yves : « C'est parfait pour moi. À demain. » ; téléphone en silencieux, face contre la table ; dîner avec Sandra, qui parle de Mindelo et de sa tia Djina.
 - **06/08, 20h41-20h42 (Lisbonne)** : à Sandra : « Je veux juste profiter de toi, te découvrir, te laisser me guider. Et je te demande juste de m'aimer pendant ce séjour. C'est tout. » ; elle : « Pendant ce séjour. » ; « Samedi, tu voulais que je quitte mon travail et que je vienne vivre chez toi. Ce soir, c'est « pendant ce séjour, c'est tout ». » ; « Moi, je n'aime pas à la semaine, William. Je t'aime, ou je ne t'aime pas. Fais attention à tes mots. »
+- **06/08, 20h43-21h05 (Lisbonne)** : à Sandra : « Arrête de penser comme une politicienne. Il ne faut pas surveiller, il ne faut pas suranalyser mes phrases. J'ai dit « pendant ce séjour » sans arrière-pensée. Bien évidemment que je pense à plein temps. Tu m'as demandé ce que je voulais faire là-bas, alors moi aussi j'ai réfléchi en délimitant dans le temps. Il n'y a rien de méchant dans ce que j'ai dit. » (caresse) ; elle, froide : « D'accord. » ; « Je monte. On se lève tôt demain. »
