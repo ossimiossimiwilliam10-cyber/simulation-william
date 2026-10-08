@@ -846,3 +846,15 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Tirage [T7c] « Grace (vendredi 17h10, WhatsApp privé) : William félicite son étude, choisit la location-vente, lui demande de voir avec Aïcha et Me Kouamé une clause rapide contre les impayés, avec la technique et le SAV pour le matériel chez le client, de lancer les deux pilotes, de relancer le Dr Yapi, d'étudier avec Aïcha un crédit (banque, crédit-bail) ; « mon autorisation pour tout ce qui concernera ce projet » ; passer désormais par Aïcha » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  85.9 → **execute_a_contrecoeur** (enregistré le 08/10/2026 14:20 heure machine)
 
 - Jet « Grace répond dans la demi-heure » : probabilité 60 %, jet  51.8 → **OUI** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 14:20 heure machine)
+
+- Tirage [T7c] « Aïcha (vendredi 17h45) : William lui demande de prendre en compte l'étude de Grace (offres en location) dans sa future évaluation, « du très bon boulot » » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  46.0 → **execute_sans_discuter** (enregistré le 08/10/2026 14:24 heure machine)
+
+- Jet « Aïcha répond dans l'heure » : probabilité 60 %, jet  53.0 → **OUI** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 14:24 heure machine)
+
+- Jet « Taxi Capitol → aéroport Félix-Houphouët-Boigny (départ 17h50) : arrivée avant 19h » : probabilité 60 %, jet  86.0 → **NON** (enregistré le 08/10/2026 14:24 heure machine)
+
+- Jet « Vol Air France Abidjan → Paris : départ avec moins de 30 minutes de retard » : probabilité 75 %, jet  13.4 → **OUI** (enregistré le 08/10/2026 14:24 heure machine)
+
+- Jet « Correspondance Paris → Luxembourg à l'heure et bagage livré » : probabilité 80 %, jet  43.4 → **OUI** (enregistré le 08/10/2026 14:24 heure machine)
+
+- Jet « Sandra vient chercher William à l'aéroport de Luxembourg (promesse du 29/07 : « je viens te chercher, peu importe l'heure ») » : probabilité 75 %, jet  65.2 → **OUI** [DÉROGATION : tenue d'une promesse de la partenaire (logistique, garde des enfants un samedi), pas une première réaction à un acte de William] (enregistré le 08/10/2026 14:24 heure machine)

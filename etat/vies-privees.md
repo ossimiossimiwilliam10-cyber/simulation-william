@@ -193,3 +193,5 @@
 - **Yves (03/08, 10h)** : écrit son compte rendu dans la cour du QG, pouce levé vers Abdoul, qui hausse les épaules.
 - **Grace (03/08, 15h)** : finit sa note seule au QG ; elle met son nom en bas, sans « pour la direction » ; elle l'envoie aussi en copie personnelle à son adresse.
 - **Grace (03/08, 17h15-17h31)** : lit le long message dans le taxi de Marcory ; elle le transfère à son adresse personnelle, comme le précédent ; elle répond court et fixe « mercredi » ; ce soir, elle ne travaille pas. *Intérêt : garder la main sur ses dossiers sans devenir la « protégée » du patron ; ne rien lui devoir.*
+- **Sandra (04/08, 10h40)** : arrivée au Findel une demi-heure en avance ; elle a laissé les petits chez sa mère ; dans la voiture, sur le siège passager, un thermos de café et un pull à lui, plié.
+- **Aïcha (03/08, 18h22)** : répond depuis la cour du QG, en fermant elle-même le portail ; elle ajoute « Bon voyage » après avoir hésité.

@@ -348,3 +348,10 @@ Bien noté, patron. J'écris ce matin à Maître Kouamé pour la matrice et le p
 **[03/08/2040 - 17:01] Aïcha :**
 Patron, le rapport de vendredi est dans direction. Bon voyage.
 *(Pièce : `serveur/direction/rapport_direction_0308.pdf`.)*
+
+**[03/08/2040 - 17:45] William :**
+Aïcha, prends en compte l'étude de Grace sur les offres en location pour sa prochaine évaluation. Selon moi, c'est du très bon boulot.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[03/08/2040 - 18:22] Aïcha :**
+Bien noté, patron. Je le prends en compte pour l'évaluation de Grace. Bon voyage.
