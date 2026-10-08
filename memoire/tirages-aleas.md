@@ -922,3 +922,13 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Kevin répond dans la demi-heure » : probabilité 60 %, jet  82.7 → **NON** [DÉROGATION : délai de réponse d'un proche] (enregistré le 08/10/2026 15:25 heure machine)
 
 - Jet « Heure de la réponse de Kevin : 13h00 + jet x 3 min (13h-18h) » : probabilité 50 %, jet  96.4 → **NON** [DÉROGATION : heure seulement] (enregistré le 08/10/2026 15:25 heure machine)
+
+- Tirage [T9] « Aïcha (dimanche 12h45 à Abidjan) : William, son patron et ex, lui demande « en tant que patron » quand elle recevra son salaire de juillet et si ça va aller pour elle avec ses charges ; M50 : blessure récente (menace écrite du 02/08 « soit tu t'en vas… », refus de la confirmation anticipée) ; M52 : enjeu de pouvoir ouvert (son salaire mal affecté, évaluation, statuts) ; M54 : dépendance forte (mère malade, dette à Fanta, essai) ; règle de l'utilisateur : cherche_ailleurs exclue (points à rien_politesse) » : rien_politesse 29 / esquive_pro 22 / entrouvre 7 / rancune_silencieuse 18 / reprend_le_lien 3 / negocie 15 / se_confie 4 / cherche_ailleurs 2 / frontal_limite 0 ; modificateurs : M50, M52, M54 ; jet  79.8 → **negocie** (enregistré le 08/10/2026 17:16 heure machine)
+
+- Jet « Aïcha répond dans l'heure (dimanche) » : probabilité 50 %, jet  96.3 → **NON** [DÉROGATION : délai de réponse seulement] (enregistré le 08/10/2026 17:16 heure machine)
+
+- Jet « Estelle répond dans la demi-heure » : probabilité 60 %, jet  31.3 → **OUI** [DÉROGATION : délai de réponse seulement] (enregistré le 08/10/2026 17:16 heure machine)
+
+- Jet « Aïcha répond dimanche avant 21h (Abidjan), sinon lundi avant 8h » : probabilité 60 %, jet  33.8 → **OUI** [DÉROGATION : délai de réponse seulement] (enregistré le 08/10/2026 17:16 heure machine)
+
+- Jet « Heure de la réponse d'Aïcha : 14h00 + jet x 4,2 min (Abidjan) » : probabilité 50 %, jet  76.2 → **NON** [DÉROGATION : heure seulement] (enregistré le 08/10/2026 17:16 heure machine)

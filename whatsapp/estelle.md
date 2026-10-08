@@ -50,3 +50,13 @@ La conformité, c'était donc ça… Au café, tu me parlais de direction financ
 
 **[05/08/2040 - 10:44 (Abidjan) / 12:44 (Luxembourg)] Estelle :**
 Et pour le reste… « la bonne ». Ta Sandra, je me souviens. Bon. Cadre professionnel, d'accord 😄 C'est mon cadre préféré : il paie à la fin du mois.
+
+**[05/08/2040 - 12:50 (Abidjan) / 14:50 (Luxembourg)] William :**
+Sois patiente : une offre va arriver bientôt. Surtout au vu de la qualité de ton travail.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[05/08/2040 - 13:08 (Abidjan) / 15:08 (Luxembourg)] Estelle :**
+D'accord, j'attends 😊 Mais je préviens : l'offre, je la veux écrite. Je ne dis rien à la banque avant de l'avoir lue.
+
+**[05/08/2040 - 13:08 (Abidjan) / 15:08 (Luxembourg)] Estelle :**
+Bon dimanche, Monsieur Ossimi 😄

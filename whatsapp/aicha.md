@@ -355,3 +355,7 @@ Aïcha, prends en compte l'étude de Grace sur les offres en location pour sa pr
 
 **[03/08/2040 - 18:22] Aïcha :**
 Bien noté, patron. Je le prends en compte pour l'évaluation de Grace. Bon voyage.
+
+**[05/08/2040 - 12:52 (Abidjan) / 14:52 (Luxembourg)] William :**
+Bonjour Aïcha. Je te pose la question en tant que patron : quand est-ce que tu vas recevoir ton salaire de juillet ? Et de ton côté, est-ce que ça va aller, avec tes charges ?
+*(Texte reconstitué à partir de la dictée.)*
