@@ -1061,3 +1061,13 @@ Effets à jouer : A04 (mercredi 08/08 (matin)) : QG sans groupe électrogène (h
 - Jet « Qui la voit en premier (0-40 Yves ; 40-65 Grace ; 65-85 Abdoul ; 85-100 Mariette) » : probabilité 50 %, jet  68.3 → **NON** (enregistré le 08/10/2026 19:18 heure machine)
 
 - Jet « Heure : la voit lundi soir (sinon mardi, jour férié) » : probabilité 50 %, jet  69.8 → **NON** (enregistré le 08/10/2026 19:18 heure machine)
+
+- Tirage [T2] « Abdoul (lundi vers 15h à Abidjan, dans la cour du QG) apprend d'Yves, « entre nous », la réorganisation (CEO à recruter, deux directeurs généraux, quatre pôles dont le sien, Aïcha nulle part, le patron hésite à la mettre CEO, clauses de rétrogradation et de licenciement) ; M08 : essai jusqu'au 15/01/2041 » : rien_garde 46 / commerage 24 / conseille_discretion 12 / usage_interesse 9 / informe_superieur 8 / frontal_soutien_ouvert 1 ; modificateurs : M08 ; jet   0.5 → **rien_garde** (enregistré le 08/10/2026 19:25 heure machine)
+
+- Jet « Revendication salariale écrite d'Yves : 600 000 x (1,20 + jet x 0,003) FCFA brut (720 000 à 900 000) » : probabilité 50 %, jet  88.2 → **NON** (enregistré le 08/10/2026 19:25 heure machine)
+
+- Jet « Yves avoue spontanément à William qu'il avait déjà parlé à Aïcha avant de lire le contrordre » : probabilité 65 %, jet  53.4 → **OUI** [DÉROGATION : aveu d'un subordonné sur sa propre erreur de transmission, pas une réaction à un acte de pouvoir] (enregistré le 08/10/2026 19:25 heure machine)
+
+- Jet « Candidatures reçues sur LinkedIn entre 15h18 et 18h40 (Lisbonne) : nombre = partie entière de jet / 12 (0 à 8) » : probabilité 50 %, jet  86.4 → **NON** (enregistré le 08/10/2026 19:25 heure machine)
+
+- Tirage [T10] « Aïcha : délai de son courriel à Me Kouamé sur les clauses de rétrogradation, promotion et licenciement (promis à William à 13h44, Abidjan) » : immediat 19 / rapide 33 / dans_l_heure 15 / dans_la_journee 14 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 4 ; modificateurs : M73 ; jet  53.1 → **dans_l_heure** (enregistré le 08/10/2026 19:25 heure machine)

@@ -212,3 +212,4 @@ Total des avances non remboursées par l'entreprise :
 - **06/08, 05h06** : nuit du 06/08 à l'Oasis Porto Grande maintenue et facturée (no-show évité ; le total de 1 032 € reste dû sur place) ; petit-déjeuner à Findel ≈ 9 €.
 - **06/08** : OSIA : salaire de juillet d'Aïcha refait en paiement instantané (≈ 650 000 FCFA nets) ; le virement rejeté (même montant) doit revenir sur le compte d'OSIA d'ici le 14/08 ; dépôt au CEPICI (formalités 300 000 à 500 000 FCFA et droits ≈ 690 000 FCFA à régler par la société). Sandra paie 329 € de changement de vol (son argent).
 - **06/08, Lisbonne** : hôtel de reprotection (Olivais) et dîner payés par TAP ; bon repas de midi (15 €) pour William ; le repas de Sandra (7,80 €) et son petit-déjeuner à l'hôtel sont à sa charge.
+- **06/08, Lisbonne** : LinkedIn Premium Business (essai d'un mois ; 69,99 €/mois à partir du 06/09 sauf résiliation) ; VTC Olivais → Graça 17,40 € ; Sandra paie les cafés (2,80 €).

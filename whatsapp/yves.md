@@ -108,3 +108,12 @@ Yves, en effet, c'est délicat : je l'expliquerai moi-même à Madame Diomandé.
 **[06/08/2040 - 11:31 (Abidjan) / 12:31 (Lisbonne)] William :**
 Je suis avec quelqu'un en ce moment. Finalement, je préférerais que vous m'envoyiez plutôt vos revendications par courriel ou par WhatsApp.
 *(Texte reconstitué à partir de la dictée.)*
+
+**[06/08/2040 - 17:40 (Abidjan) / 18:40 (Lisbonne)] Yves :**
+Boss, pardon 🙏🏾 J'étais avec un client tout l'après-midi, je n'ai vu vos messages que maintenant. Je dois vous dire : j'avais déjà parlé à Madame Diomandé à midi, avant de les lire. Pardon, Boss.
+
+**[06/08/2040 - 17:40 (Abidjan) / 18:40 (Lisbonne)] Yves :**
+Le soupir, c'était pas pour le poste, hein ! Le poste me convient très bien. C'était pour Madame Diomandé… c'était lourd, de lui dire ça, moi.
+
+**[06/08/2040 - 17:41 (Abidjan) / 18:41 (Lisbonne)] Yves :**
+Pour mes revendications : 880 000 brut. Le reste, je préfère vous en parler en face, Boss, quand vous pourrez.

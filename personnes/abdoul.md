@@ -39,3 +39,4 @@ rapidité commerciale de Grace ou avec les exigences de coût de William. Il tie
 - 01/08, 11h48 : compte rendu des entretiens SAV : « Boss, entretiens faits. Koné Ibrahim, 26 ans, le meilleur de loin : trois ans d'onduleurs et de solaire hors réseau. Il demande 380 000. Les deux autres, non. Madame Diomandé a les notes. »
 - 01/08, 11h55-11h57 : William : « Prenez Ibrahim Koné, quoi qu'il en coûte. » ; lui : « Compris, Boss. Je le dis à Madame Diomandé. »
 - *(Non vu, 02/08)* : à la pause de midi, demande pourquoi Mme Grace évite le Boss ; apprend à demi-mot l'histoire du 23 (fuite interne, T5) ; T2 : rien_garde (M08, jet 24.7) : il ne pose plus de question.
+- *(Non vu, 06/08, ≈ 15h00)* : Yves lui raconte la réorganisation, « entre nous » ; T2 : rien_garde (M08, jet 0.5) : « Ce sont les affaires du Boss. »
