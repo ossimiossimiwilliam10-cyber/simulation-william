@@ -385,3 +385,5 @@ Madame Diomandé, êtes-vous libre pour un appel ? C'est important.
 
 **[06/08/2040 - 13:30 (Abidjan) / 14:30 (Lisbonne)] Aïcha :**
 Bonjour patron. Oui, je suis disponible. Vous pouvez m'appeler quand vous voulez cet après-midi.
+
+*(06/08, 13h33-13h44 à Abidjan : appel de William, qui lui expose tout (réorganisation, organigramme et note, ce qu'il a dit à Yves, « les épaules », pas de licenciement ni de fin d'essai, clauses). Aïcha : « Allô. Oui, patron. » ; « Oui, patron. » ; « J'ai compris, patron. Pour les contrats, j'écrirai à Maître Kouamé. » ; « Excusez-moi, patron : Grace m'attend pour relire le contrat de la villa, la signature est mercredi. Si c'est tout pour moi… »)*
