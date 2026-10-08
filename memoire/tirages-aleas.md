@@ -842,3 +842,7 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Sandra écrit à William dans l'après-midi (avant 17h Abidjan) » : probabilité 40 %, jet  86.1 → **NON** [DÉROGATION : message spontané d'une proche, délai seulement] (enregistré le 08/10/2026 14:11 heure machine)
 
 - Jet « Estelle écrit à William aujourd'hui (elle a appris son départ par Aïcha ou Yves) » : probabilité 30 %, jet  60.1 → **NON** [DÉROGATION : message spontané d'une relation récente, délai seulement ; contenu selon son motif de fiche (attirance et calcul)] (enregistré le 08/10/2026 14:11 heure machine)
+
+- Tirage [T7c] « Grace (vendredi 17h10, WhatsApp privé) : William félicite son étude, choisit la location-vente, lui demande de voir avec Aïcha et Me Kouamé une clause rapide contre les impayés, avec la technique et le SAV pour le matériel chez le client, de lancer les deux pilotes, de relancer le Dr Yapi, d'étudier avec Aïcha un crédit (banque, crédit-bail) ; « mon autorisation pour tout ce qui concernera ce projet » ; passer désormais par Aïcha » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  85.9 → **execute_a_contrecoeur** (enregistré le 08/10/2026 14:20 heure machine)
+
+- Jet « Grace répond dans la demi-heure » : probabilité 60 %, jet  51.8 → **OUI** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 14:20 heure machine)

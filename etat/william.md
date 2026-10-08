@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 03/08/2040, 17h01)
+# William Ossimi — profil (état au 03/08/2040, 17h31)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -266,3 +266,4 @@
 - **03/08, 06h20-10h13** : évaluations mensuelles décidées (Aïcha : écrit à Me Kouamé) ; « Bravo, championne » à Sandra ; valise ; compte rendu d'Yves après le point d'équipe (attestation arrivée).
 - **03/08, 10h20-10h45** : demande à Me Kouamé où en sont les formalités ; fait le bilan de ses comptes (courant 8 551,62 € ; projet 176 625 € ; ETF 290 271 € ; Future vie familiale 0 €).
 - **03/08, 10h45-17h01** : déjeuner, valise bouclée, sieste ; Me Kouamé (14h54) : dépôt au CEPICI lundi ; 17h : rapport d'Aïcha (Koné le 01/09, note de Grace, villa le 08/08).
+- **03/08, 17h12-17h31** : à Grace (privé) : location-vente retenue, pilotes approuvés, Dr Yapi, crédit à étudier, autorisation générale « pour tout ce qui concernera ce projet », passer par Aïcha, très bon boulot ; elle : « … à partir de mercredi ».

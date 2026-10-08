@@ -67,3 +67,17 @@ Félicitations, Grace ! Bravo pour ce premier client. J'accepte l'acompte de 20 
 **[01/08/2040 - 16:43] Grace :**
 Merci, Monsieur Ossimi. C'est noté pour les 20 %. Je transmets au client et à Mme Diomandé.
 G. Adjoua-Mensah
+
+**[03/08/2040 - 17:12] William :**
+Grace, j'ai lu ton étude sur les offres : c'est du bon travail, brillant et bien structuré.
+On ne part pas sur la vente d'énergie : l'entreprise est trop jeune, ce n'est pas un modèle qui nous convient. On part sur la location-vente.
+Pour les risques : pour les impayés, rapproche-toi d'Aïcha et de Maître Kouamé pour voir si on peut prévoir dès le départ, légalement, une mesure rapide contre l'impayé, inscrite comme clause dans nos futurs contrats. Pour le matériel installé chez le client, je n'ai pas encore d'idée : vois avec le pôle technique et le SAV ce qu'on peut mettre en œuvre.
+Je suis d'accord pour les deux projets pilotes : fonce, en te coordonnant avec le reste des équipes. Relance le Dr Yapi et présente-lui nos nouvelles propositions.
+Si tu veux prendre rendez-vous avec une banque ou une société de crédit-bail pour un crédit, vois avec Aïcha si c'est vraiment pertinent et quel montant maximum on peut espérer.
+Pour ma part, tu as mon autorisation pour tout ce qui concernera ce projet. À partir de maintenant, tu passes par Aïcha ; je reste là pour les éventuelles formalités.
+C'est du très bon boulot : je dirai à Aïcha d'en tenir compte dans ta prochaine évaluation.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[03/08/2040 - 17:31] Grace :**
+Merci, Monsieur Ossimi. C'est noté. Je verrai avec Mme Diomandé à partir de mercredi, après la signature de la villa.
+G. Adjoua-Mensah
