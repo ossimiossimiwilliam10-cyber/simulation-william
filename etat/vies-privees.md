@@ -239,3 +239,4 @@
 - **Me Kouamé (06/08, 18h40, cabinet du Plateau)** : il a écrit la note en deux fois, entre une audience et un client ; il a hésité à mettre la dernière phrase du point 3, l'a gardée ; puis il a répondu à Mme Diomandé en quatre lignes, sans un mot sur le reste.
 - **Yves (06/08, 19h20, Abobo)** : en descendant du gbaka, il appelle Kader : « Le Boss a annulé ce soir. Demain 15h. » Kader : « C'est bon signe : il te fait attendre parce qu'il va payer. »
 - **Sandra (06/08, 20h10, restaurant de l'hôtel)** : quand il retourne son téléphone, elle le remarque, ne dit rien d'abord, puis sourit ; elle mange lentement, parle de Djina, de la porte bleue, des cousins ; elle a envie qu'il aime Mindelo.
+- **Sandra (06/08, 20h42)** : sous la table, elle serre sa serviette dans son poing ; elle entend la voix de Ricardo, « juste les vacances, Sandra » ; elle ne pleure pas, elle attend la réponse.
