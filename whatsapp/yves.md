@@ -71,3 +71,13 @@ Super, Boss 🙏🏾 Je préviens Madame Diomandé tout de suite.
 
 **[02/08/2040 - 21:14] Yves :**
 Boss, bonsoir 🙏🏾 Demain 8h30, je suis prêt. J'ai tout écrit dans mon carnet. Je vous fais le compte rendu juste après. Bonne nuit, Boss.
+
+**[03/08/2040 - 06:22] William :**
+Super. Bon courage pour ce matin, Yves.
+*(Texte reconstitué : « Bonne nuit… bon courage pour demain » adapté à l'heure d'envoi.)*
+
+**[03/08/2040 - 10:13] Yves :**
+Boss 🙏🏾 Point fait. J'ai tout dit comme vous m'avez dit. Madame Diomandé a ouvert, puis m'a donné la parole.
+Tout le monde a écouté. Madame Grace a pris des notes, elle n'a rien demandé. Madame Mariette a dit merci. Abdoul a dit qu'on sera prêts dès que Vridi livre.
+Madame Diomandé a dit que les évaluations vont peut-être devenir mensuelles, elle attend Maître Kouamé.
+Et l'attestation de la banque est arrivée ce matin ✅ Bon voyage, Boss !

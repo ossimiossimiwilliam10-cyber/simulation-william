@@ -814,3 +814,17 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « William dort bien (au moins 7 h) la nuit de jeudi à vendredi » : probabilité 70 %, jet  70.2 → **NON** (enregistré le 08/10/2026 13:15 heure machine)
 
 - Jet « Yves écrit à William ce soir pour confirmer qu'il est prêt pour le point de demain » : probabilité 40 %, jet  37.2 → **OUI** [DÉROGATION : message spontané d'un collaborateur, délai seulement] (enregistré le 08/10/2026 13:15 heure machine)
+
+- Tirage [T7c] « Aïcha (vendredi 06h25) : William décide de passer aux évaluations mensuelles (au lieu de trimestrielles), avec graphiques et analyses, et lui dit de voir ça avec Me Kouamé » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  48.1 → **execute_sans_discuter** (enregistré le 08/10/2026 13:19 heure machine)
+
+- Jet « SGBCI : attestation de versement délivrée vendredi à l'ouverture » : probabilité 80 %, jet  79.3 → **OUI** (enregistré le 08/10/2026 13:19 heure machine)
+
+- Tirage [T1] « Grace (vendredi 8h30, point d'équipe) : Yves, son cadet en essai, parle au nom du patron : « tous encore en période d'essai, l'évaluation court, se donner à fond », la direction commerciale doit trouver des clients ; M16 : ambition forte (vise le poste de PDG) » : rien_absorption 28 / evitement 17 / confidence_proche 13 / confidence_collegue 11 / reciproque 6 / calcul 12 / negociation_tacite 6 / depart_discret 6 / frontal_formel 1 ; modificateurs : M16 ; jet  43.1 → **evitement** (enregistré le 08/10/2026 13:19 heure machine)
+
+- Tirage [T1] « Mariette (vendredi 8h30, point d'équipe) : Yves parle au nom du patron : « tous encore en période d'essai, l'évaluation court, se donner à fond » ; la veille, elle a commis l'erreur de RIB sur le salaire d'Aïcha (pénalité décidée, qu'elle ignore) » : rien_absorption 28 / evitement 22 / confidence_proche 17 / confidence_collegue 11 / reciproque 6 / calcul 5 / negociation_tacite 4 / depart_discret 6 / frontal_formel 1 ; modificateurs : aucun ; jet  22.6 → **rien_absorption** (enregistré le 08/10/2026 13:19 heure machine)
+
+- Jet « Heure du compte rendu d'Yves : 09h15 + jet × 0,6 minute (09h15-10h15) » : probabilité 50 %, jet  96.0 → **NON** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 13:19 heure machine)
+
+- Jet « Ibrahim Koné, réponse vendredi : 0-55 accepte, début le 20/08 ; 55-80 accepte, début le 01/09 (préavis prolongé par son employeur) ; 80-100 décline (contre-offre de son employeur) » : probabilité 50 %, jet  78.0 → **NON** [DÉROGATION : réponse d'un candidat externe à une offre, pas une réaction à un acte de pouvoir de William] (enregistré le 08/10/2026 14:02 heure machine)
+
+- Jet « Heure de la réponse d'Aïcha au message sur les évaluations mensuelles : 07h00 + jet × 1 minute (07h00-08h40) » : probabilité 50 %, jet   3.6 → **OUI** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 14:02 heure machine)

@@ -337,3 +337,10 @@ Je tiendrai compte de ta réaction à cet incident dans ta prochaine évaluation
 Bien noté, patron. Je le note pour l'évaluation de Mariette, fin octobre.
 Pour le délai : une évaluation tous les deux mois est possible. Je me permets seulement : Maître Kouamé avait demandé de revoir la clause de sanction de la matrice ; si on change le délai, il faudra peut-être le lui montrer.
 Pour le reste, j'ai compris, patron.
+
+**[03/08/2040 - 06:20] William :**
+D'accord, vois ça avec Maître Kouamé. En fait, c'est mieux qu'on passe à une évaluation tous les mois : ça nous donnera davantage de matière pour vraiment suivre l'évolution de chacun. On pourrait même faire des graphiques, des analyses assez poussées.
+*(Texte reconstitué à partir de la dictée.)*
+
+**[03/08/2040 - 07:04] Aïcha :**
+Bien noté, patron. J'écris ce matin à Maître Kouamé pour la matrice et le passage à une évaluation mensuelle.

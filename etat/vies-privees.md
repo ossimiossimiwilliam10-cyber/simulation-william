@@ -189,3 +189,5 @@
 - **Aïcha (02/08, 19h)** : lit les deux messages dans le gbaka, entre Riviera 2 et Angré ; elle relit « soit tu t'en vas » deux fois, range le téléphone, le ressort, répond à 19h22 ; chez elle, elle ne dîne pas et ne raconte rien à sa mère. *Intérêt : tenir jusqu'au 21 novembre ; le salaire, sa mère.*
 - **Yves (02/08, 21h)** : répète son discours dans la cour devant sa sœur, qui rit ; il change « le patron dit » en « Monsieur Ossimi m'a demandé de vous dire ».
 - **Mariette (02/08, soir)** : rien ne lui est encore dit de la pénalité ; elle refait le tableau des RIB ligne par ligne, deux fois.
+- **Grace (03/08, 08h30)** : écoute Yves parler « au nom de Monsieur Ossimi » sans lever les yeux ; elle note « Kanga = canal direct du patron » en marge de son cahier ; à 9h10 elle part la première pour la relance de l'école privée. *Intérêt : ne pas se laisser doubler par un cadet ; garder ses contacts avec le patron par écrit seulement.*
+- **Yves (03/08, 10h)** : écrit son compte rendu dans la cour du QG, pouce levé vers Abdoul, qui hausse les épaules.

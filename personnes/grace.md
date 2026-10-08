@@ -47,3 +47,4 @@ son contrat lui interdit les marchés publics et les commissions.
 - 01/08, 16h28 : écrit elle-même à William : « Monsieur Ossimi, bonne nouvelle : le propriétaire de la villa Riviera vient de m'appeler. Il accepte l'option A (15 900 000 FCFA HT). Une seule condition : 20 % d'acompte à la commande au lieu de 50 %, le reste à la livraison et à la réception. Il veut signer la semaine prochaine. J'en informe Mme Diomandé. G. Adjoua-Mensah »
 - 01/08, 16h32-16h43 : William : « Félicitations, Grace ! Bravo pour ce premier client. J'accepte l'acompte de 20 %. » ; elle (T7c : à contrecœur) : « Merci, Monsieur Ossimi. C'est noté pour les 20 %. Je transmets au client et à Mme Diomandé. G. Adjoua-Mensah »
 - 02/08 (non vu par William) : appelle le client de la villa : acompte de 20 % confirmé ; rédige le projet de contrat.
+- 03/08, point d'équipe (non vu par William) : T1 evitement : au bout de la table, notes, aucune question, sort la première.

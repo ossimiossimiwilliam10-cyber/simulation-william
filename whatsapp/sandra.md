@@ -237,3 +237,9 @@ D'accord alors 🙂 On en reparle.
 **[02/08/2040 - 18:08 (Abidjan) / 20:08 (Esch)] Sandra :**
 Voilà, c'est fait 💪 J'ai trouvé : le 5 au soir Luxembourg–Lisbonne, je dors chez ma cousine Rosa, et le 6 je monte dans ton avion pour São Vicente. Au retour, je passe par Sal, avec six heures d'escale. 1 090 € en tout, et c'est moi qui paie.
 Merci pour ta proposition, vraiment. Ça m'a touchée. Mais garde tes sous pour le poisson grillé 😉
+
+**[03/08/2040 - 06:23 (Abidjan) / 08:23 (Esch)] William :**
+Bravo, championne ! On se voit donc dans quelques jours.
+
+**[03/08/2040 - 06:31 (Abidjan) / 08:31 (Esch)] Sandra :**
+😘 Lundi, grand monsieur. Prends un pull pour l'avion, il fait 14 degrés ici.
