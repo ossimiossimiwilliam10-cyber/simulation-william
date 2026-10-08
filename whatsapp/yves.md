@@ -88,3 +88,11 @@ Bonjour Yves. Es-tu disponible ? Il faudrait que je m'entretienne avec toi.
 
 **[06/08/2040 - 11:05 (Abidjan) / 12:05 (Lisbonne)] Yves :**
 Bonjour Boss 🙏🏾 Oui, je suis disponible. Aujourd'hui je suis au QG jusqu'à 18h, et demain c'est férié, je suis à la maison. Vous m'appelez quand vous voulez, ou vous me dites l'heure.
+
+**[06/08/2040 - 11:06 (Abidjan) / 12:06 (Lisbonne)] William :**
+Tu es disponible là, tout de suite ? Ce serait cool.
+
+**[06/08/2040 - 11:07 (Abidjan) / 12:07 (Lisbonne)] Yves :**
+Oui Boss, tout de suite 🙏🏾 Je descends dans la cour pour être tranquille. Je vous appelle dans deux minutes.
+
+*(11h12 à Abidjan : appel d'Yves à William.)*

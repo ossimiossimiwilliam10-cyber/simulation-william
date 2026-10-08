@@ -225,3 +225,4 @@
 - **Me Kouamé (06/08, 10h05 à Abidjan)** : il ouvre le PDF entre deux rendez-vous, lit la dernière ligne deux fois, ferme le téléphone et le pose retourné sur le dossier de son client suivant ; il répondra par écrit, ce soir, après l'audience.
 - **Sandra (06/08, 11h15, Lisbonne)** : elle l'observe pendant qu'il mange son pastel debout : les cernes, le téléphone qu'il regarde deux fois en deux minutes ; elle ne demande pas qui écrit.
 - **Yves (06/08, 10h25 au QG)** : il lit le message du patron à son bureau, le relit, regarde la porte d'Aïcha restée entrouverte ; il attend d'avoir fini l'appel d'un client pour répondre, et ne dit rien à personne de la demande.
+- **Yves (06/08, 11h10 au QG)** : il prévient Abdoul qu'il « descend deux minutes », sans dire pour qui ; dans la cour, à l'ombre du manguier, il remet sa chemise dans son pantalon avant d'appeler, comme si le patron pouvait le voir.

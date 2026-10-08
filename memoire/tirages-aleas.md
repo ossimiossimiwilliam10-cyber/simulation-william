@@ -1025,3 +1025,7 @@ Effets à jouer : A04 (mercredi 08/08 (matin)) : QG sans groupe électrogène (h
 - Tirage [T7c] « Yves (QG, lundi 10h20 à Abidjan) : William lui demande s'il est disponible pour un entretien avec lui » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet   2.8 → **execute_sans_discuter** (enregistré le 08/10/2026 18:13 heure machine)
 
 - Tirage [T10] « Yves : délai de sa réponse à William (lundi 10h20 à Abidjan, au QG) » : immediat 19 / rapide 33 / dans_l_heure 15 / dans_la_journee 14 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 4 ; modificateurs : M73 ; jet  59.3 → **dans_l_heure** (enregistré le 08/10/2026 18:13 heure machine)
+
+- Tirage [T7c] « Yves (QG, lundi 11h06 à Abidjan) : William lui demande s'il est disponible tout de suite pour l'entretien » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  10.8 → **execute_sans_discuter** (enregistré le 08/10/2026 18:32 heure machine)
+
+- Tirage [T10] « Yves : délai de sa réponse à « disponible là tout de suite ? » (au QG, le patron attend) » : immediat 27 / rapide 40 / dans_l_heure 15 / dans_la_journee 7 / le_soir_ou_lendemain 10 / plus_tard_ou_jamais 1 ; modificateurs : M73, M71 ; jet  25.4 → **immediat** (enregistré le 08/10/2026 18:32 heure machine)
