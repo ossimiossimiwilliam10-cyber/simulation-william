@@ -1,4 +1,4 @@
-# William Ossimi — profil (état au 31/07/2040, 21h25)
+# William Ossimi — profil (état au 31/07/2040, 21h30)
 
 ## Identité
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
@@ -243,3 +243,4 @@
 - **31/07, 19h56-19h59** : au téléphone, apprend à Yves qu'il parlera en son nom vendredi et qu'il est signataire du compte ; Yves accepte (« On en reparlera à votre retour, de tout ça ») et demande quoi dire vendredi.
 - **31/07, 20h00-20h04** : dicte à Yves le message de vendredi (marché, clients, essai et évaluations, remerciements, confiance à la gérante, WhatsApp direct au besoin) ; fin de l'appel.
 - **31/07, 20h04-21h25** : soirée dans la chambre ; courriel de Me Kouamé à la gérante en copie (20h12) ; Aïcha : point d'équipe vendredi 8h30 avec M. Kanga (21h10) ; Abdoul : Vridi, livraison pas avant le 19/08 (21h25).
+- **31/07, 21h28** : à Abdoul : « Ok, fais au mieux. » (« Compris, Boss. Je vous tiens au courant. »).

@@ -41,3 +41,9 @@ Merci, Boss. Je vois Madame Diomandé demain.
 
 **[31/07/2040 - 21:25] Abdoul :**
 Boss, bonsoir. Vridi vient de m'appeler : le navire est retardé au port, batteries et onduleurs pas avant le 19 août. Je relance demain et je vois avec Bertin s'il y a un autre fournisseur.
+
+**[31/07/2040 - 21:28] William :**
+Ok, fais au mieux.
+
+**[31/07/2040 - 21:30] Abdoul :**
+Compris, Boss. Je vous tiens au courant.

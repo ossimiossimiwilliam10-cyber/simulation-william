@@ -686,3 +686,7 @@ Effets à jouer : A06 (mardi 31/07 (soir)) : Délai supplémentaire ; l'excuse d
 - Jet « Heure du message de Sandra (Abidjan) : 20h10 + jet × 1,5 minute (20h10-22h40) » : probabilité 50 %, jet  51.5 → **NON** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 09:39 heure machine)
 
 - Jet « Contenu du message de Sandra : 0-50 elle dit que le billet est trop cher pour elle ce mois-ci et qu'elle cherche autre chose ; 50-80 elle dit seulement qu'elle n'a pas encore réservé ; 80-100 elle dit qu'elle a réservé (en plusieurs fois) » : probabilité 50 %, jet  22.8 → **OUI** [DÉROGATION : décision budgétaire de Sandra sur son propre billet, pas une réaction à un acte de William] (enregistré le 08/10/2026 09:39 heure machine)
+
+- Tirage [T7c] « Abdoul (mardi 21h28) : William lui répond « Ok, fais au mieux » sur le nouveau retard de Vridi (relance, autre fournisseur avec Bertin) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  48.0 → **execute_sans_discuter** (enregistré le 08/10/2026 09:43 heure machine)
+
+- Jet « Abdoul répond ce soir » : probabilité 70 %, jet  54.9 → **OUI** [DÉROGATION : délai seulement] (enregistré le 08/10/2026 09:43 heure machine)
