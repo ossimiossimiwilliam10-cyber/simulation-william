@@ -1119,3 +1119,11 @@ Effets à jouer : A04 (mercredi 08/08 (matin)) : QG sans groupe électrogène (h
 - Jet « Réponses des candidats refusés dans l'heure (au moins une réponse écrite) » : probabilité 35 %, jet  33.5 → **OUI** (enregistré le 08/10/2026 20:11 heure machine)
 
 - Jet « La navette de 07h30 part avec Sandra à bord (sinon celle de 08h00) » : probabilité 85 %, jet  99.0 → **NON** (enregistré le 08/10/2026 20:15 heure machine)
+
+- Tirage [T7b] « Yves (jour férié, chez lui) : William annule l'appel de 14h en disant qu'il est malade (en réalité : rupture avec Sandra, il annule son voyage) ; M35 : déférent, aucun moyen de vérifier » : succes_net 43 / succes_cout 30 / doute_visible 12 / incredule_silencieux 12 / frontal_dement 3 ; modificateurs : M35 ; jet   3.8 → **succes_net** (enregistré le 08/10/2026 20:24 heure machine)
+
+- Tirage [T10] « Yves : délai de sa réponse à l'annulation de l'appel (07h35 à Abidjan, jour férié) » : immediat 19 / rapide 33 / dans_l_heure 15 / dans_la_journee 14 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 4 ; modificateurs : M73 ; jet  69.3 → **dans_la_journee** (enregistré le 08/10/2026 20:24 heure machine)
+
+- Tirage [T10] « Dr Mbarga : délai de sa réponse au message de William (« intéressant, je vous recontacterai au besoin ») » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  88.6 → **le_soir_ou_lendemain** (enregistré le 08/10/2026 20:24 heure machine)
+
+- Jet « TAP : le remboursement des segments non effectués est accepté sans discussion (sinon : refus partiel, taxes seulement, réclamation à faire) » : probabilité 45 %, jet  73.9 → **NON** (enregistré le 08/10/2026 20:24 heure machine)

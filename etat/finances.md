@@ -217,3 +217,4 @@ Total des avances non remboursées par l'entreprise :
 - **06/08** : convention d'honoraires de Me Kouamé à venir (modèle de contrat de cadre et règlement intérieur, 450 000 FCFA HT, à la charge d'OSIA) ; dîner de Sandra à l'hôtel 24 €.
 - **06/08, 22h30 (non lu)** : convention de Me Kouamé portée à 600 000 FCFA HT (contrat de cadre, règlement intérieur, matrice d'évaluation), à la charge d'OSIA.
 - **06/08 (fiche courte)** : compte courant ≈ 8 290 € (VTC 138 € ; petit-déjeuner 9 € ; VTC 17,40 € et 16,90 €).
+- **07/08, Lisbonne** : vol Lisbonne-São Vicente annulé par William (retour du 12/08 annulé avec) : TAP ne rembourse que les taxes, **186,40 €** sous 30 jours (réclamation possible) ; chambre 214 gardée une nuit : **168 €** ; Oasis Porto Grande non prévenu (non-présentation à venir sur la carte en garantie) ; compte courant ≈ 8 120 € ; offre LinkedIn : jusqu'à 1 200 000 FCFA brut.

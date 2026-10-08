@@ -160,3 +160,5 @@
 | 07/08, 06h50 | **William fait évaluer automatiquement les 12 candidatures par un assistant d'IA relié à son compte LinkedIn** | Numérique (service tiers) | — | **Faible** : données de candidats traitées par un service tiers |
 | 07/08, 07h12 | **Refus automatiques envoyés par l'agent de William à 9 candidats (dont la seule ingénieure à six ans de solaire et le seul docteur)** | Écrit (LinkedIn) | Candidats | **Faible** : image d'employeur |
 | 07/08, 07h13 | **William demande à Sandra « à quoi tu joues », « pourquoi tu fais semblant »** | Oral | Sandra | **Élevée** (vie privée) : rupture de son fait, clés rendues |
+| 07/08, 08h28 | **William porte publiquement la fourchette de l'offre LinkedIn à 1 200 000 FCFA brut (Abdoul : 900 000 ; Yves demande 880 000)** | Écrit public (LinkedIn) | Tout le monde | **Élevée** : écart salarial visible par l'équipe |
+| 07/08, 08h31 | **William dit à Yves qu'il est malade pour annuler l'appel** | Écrit (WhatsApp) | Yves | **Faible** : version crue |

@@ -1,4 +1,4 @@
-# Calendrier (au 07/08/2040, 07h46)
+# Calendrier (au 07/08/2040, 08h35)
 
 > Mise à jour du 21/07 par le moteur (relais Claude) : le fichier datait du 18/07.
 > Les lignes d'origine sont conservées ; les statuts corrigés portent « avant → maintenant ».
@@ -224,3 +224,4 @@
 | ≈ Lun. 20/08 | Offre LinkedIn gratuite mise en pause (14 jours) si le plafond de candidatures n'est pas atteint avant. |
 | **Jeu. 06/09/2040** | Fin de l'essai gratuit de LinkedIn Premium Business : 69,99 €/mois prélevés s'il n'est pas résilié avant. |
 | **Mar. 07/08, 15h (Abidjan) = 14h (São Vicente)** | Appel de négociation William-Yves (880 000 FCFA brut demandés). |
+| **Mar. 07/08** | *(Avant : vol Lisbonne → São Vicente à 10h35, Oasis Porto Grande jusqu'au 12/08, retour le 13/08 → maintenant : voyage annulé par William le 07/08 à 08h12 ; William reste à Lisbonne, chambre 214 jusqu'au 08/08 ; retour à Luxembourg à organiser)* |
