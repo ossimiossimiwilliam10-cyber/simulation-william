@@ -263,3 +263,6 @@ Départ prévu à 08h50, heure de Luxembourg. Arrivée à Lisbonne vers 10h45, h
 
 **[06/08/2040 - 07:10 (Luxembourg) / 06:10 (Lisbonne)] Sandra :**
 Ok ❤️ Alors je vais au comptoir de TAP dès que j'arrive, et je t'attends aux arrivées, pas aux portes 😉
+
+**[06/08/2040 - 10:22 (Luxembourg) / 09:22 (Lisbonne)] Sandra :**
+C'est fait 💪 Changé pour demain, même vol que toi. 329 €… aïe 😅 Mais c'est moi qui paie, hein. Je t'attends aux arrivées, devant le café, avec un pastel de nata pour toi.

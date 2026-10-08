@@ -16,7 +16,7 @@ Les congés payés n'y figurent pas : William les a demandés pour les FUTURS co
 from osia_pdf import OsiaPDF, serveur
 
 EMPLOYEUR = "La société OSIA Énergies SARL, représentée par son Gérant, M. William Ossimi"
-LIEU = "le QG d'OSIA Énergies, Cocody Ambassades, Abidjan"
+LIEU = "QG d'OSIA Énergies, Cocody Ambassades, Abidjan"
 
 employes = [
     {"fichier": "aicha", "nom": "Mme Aïcha Diomandé", "poste": "Directrice générale (gérante par procuration)",

@@ -1001,3 +1001,17 @@ Effets à jouer : A04 (mercredi 08/08 (matin)) : QG sans groupe électrogène (h
 - Tirage [T2] « Estelle (prestataire, comptable) apprend par l'organigramme de William que la gérante Aïcha « devra soit être reclassée, soit être poussée vers la sortie » ; M07 : rivalité discrète avec Aïcha et calcul (poste, proximité du patron) » : rien_garde 34 / commerage 22 / conseille_discretion 15 / usage_interesse 17 / informe_superieur 10 / frontal_soutien_ouvert 2 ; modificateurs : M07 ; jet  98.4 → **frontal_soutien_ouvert** (enregistré le 08/10/2026 17:53 heure machine)
 
 - Tirage [T10] « Estelle : délai de sa réponse à l'organigramme (reçu à 05h10 à Abidjan, elle dort puis part au travail à la banque ; enjeu fort : le poste) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 18 / le_soir_ou_lendemain 20 / plus_tard_ou_jamais 7 ; modificateurs : M70, M71 ; jet  16.4 → **rapide** (enregistré le 08/10/2026 17:53 heure machine)
+
+- Jet « Vol TAP Luxembourg-Lisbonne : le départ estimé de 08h50 tient (± 15 min) » : probabilité 75 %, jet  66.9 → **OUI** (enregistré le 08/10/2026 17:58 heure machine)
+
+- Tirage [T1] « Aïcha (lundi 06h50 à Abidjan) lit, transféré par Estelle, l'organigramme cible de William : DG Support & Finances « (Estelle ?) », et la note « Aïcha perd de fait son rôle de Gérante globale… reclassée dans le Pôle Support, soit poussée vers la sortie », après le vouvoiement, la demande de diplôme et de CV et l'annonce que William mène seul la restructuration ; M01 : aucun filet (mère malade, dettes, essai) ; M02 : Mariette, meilleure amie au QG ; M04 : pression plus appuyée (troisième en cinq jours, cette fois écrite et transmise à un tiers) ; règle de l'utilisateur : depart_discret exclue (points à rien_absorption) » : rien_absorption 16 / evitement 20 / confidence_proche 23 / confidence_collegue 16 / reciproque 6 / calcul 5 / negociation_tacite 4 / depart_discret 8 / frontal_formel 2 ; modificateurs : M01, M02, M04 ; jet   7.6 → **rien_absorption** (enregistré le 08/10/2026 17:58 heure machine)
+
+- Jet « Place disponible pour Sandra sur le vol TAP Lisbonne-São Vicente du 07/08 (haute saison) » : probabilité 70 %, jet  25.5 → **OUI** (enregistré le 08/10/2026 17:59 heure machine)
+
+- Jet « Coût du changement du billet de Sandra (frais + différence tarifaire) : 120 + jet x 3 € (120 à 420 €) » : probabilité 50 %, jet  69.5 → **NON** (enregistré le 08/10/2026 17:59 heure machine)
+
+- Jet « Me Kouamé : deuxième passage demandé au CEPICI pour le dépôt des formalités (friction administrative) » : probabilité 30 %, jet  84.0 → **NON** (enregistré le 08/10/2026 17:59 heure machine)
+
+- Tirage [T10] « Me Kouamé : écrit-il à William aujourd'hui pour confirmer le dépôt au CEPICI ? » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  28.3 → **rapide** (enregistré le 08/10/2026 17:59 heure machine)
+
+- Jet « Décision de Sandra au comptoir de TAP, changement à 329 € (0-35 : elle paie et reste avec William ; 35-65 : elle part seule comme prévu à 10h35 ; 65-100 : elle écrit à William le prix et lui demande son avis, sans demander d'argent) » : probabilité 50 %, jet   6.7 → **OUI** [DÉROGATION : organisation d'une proche face à un aléa de voyage et à un coût, pas une réaction à un acte de pouvoir] (enregistré le 08/10/2026 17:59 heure machine)

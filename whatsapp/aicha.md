@@ -374,3 +374,7 @@ Aïcha, pourriez-vous me faire parvenir votre diplôme de master ? J'aimerais vo
 **[06/08/2040 - 03:10 (Abidjan) / 05:10 (Luxembourg)] William :**
 Aïcha, j'aimerais bien avoir votre retour. Pour être clair : c'est moi qui m'occuperai entièrement de la restructuration. Elle se fera lentement, pôle par pôle. Je contacterai chaque personne moi-même, je lui expliquerai les exigences et je verrai si elle est prête à une renégociation. Les nouvelles têtes, je les chercherai moi-même. Ni vous ni l'équipe n'avez à vous en inquiéter : tout sera géré par moi.
 *(Texte reconstitué à partir de la dictée. Lu à 06h52, heure d'Abidjan.)*
+
+**[06/08/2040 - 08:20 (Abidjan) / 10:20 (Luxembourg)] Aïcha :**
+Bonjour patron. Je vous ai envoyé par courriel mon CV et mon diplôme de master. Pour l'organisation : c'est vous qui décidez ; les quatre pôles me paraissent cohérents. Le virement de mon salaire est arrivé ce matin. Merci, patron.
+*(Courriel du même instant : « Patron, veuillez trouver ci-joint mon CV et la copie de mon diplôme de master. Cordialement. Aïcha Diomandé, Gérante, OSIA Énergies SARL » ; pièces : CV et diplôme, dans `courriels/`.)*

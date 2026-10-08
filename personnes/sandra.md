@@ -117,3 +117,4 @@ depuis la pilule du lendemain du 26/05.
 - 05/08 : n'écrit pas avant d'embarquer ; vol pour Lisbonne à l'heure (19h20) ; nuit chez Rosa.
 - 06/08, 06h05 (Lisbonne) : apprend le retard ; « Quoi ?! Demain ?? 😩 … Bon. Je ne pars pas sans toi. Je vais demander au comptoir de TAP combien ça coûte de changer mon vol pour demain. Si c'est trop cher, on verra. Rosa me dépose vers 8h. Tu atterris à quelle heure, exactement ? » (elle cherche à changer son vol pour rester avec William).
 - 06/08, 06h10 (Lisbonne) : « Ok ❤️ Alors je vais au comptoir de TAP dès que j'arrive, et je t'attends aux arrivées, pas aux portes 😉 »
+- 06/08, 09h05-09h22 (Lisbonne) : change son vol pour le 07/08 (329 €, payés par elle) ; « C'est fait 💪 Changé pour demain, même vol que toi. 329 €… aïe 😅 Mais c'est moi qui paie, hein. Je t'attends aux arrivées, devant le café, avec un pastel de nata pour toi. »

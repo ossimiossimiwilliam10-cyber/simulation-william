@@ -32,3 +32,6 @@ Bonjour Maître. Avez-vous déjà déposé les formalités ? Tenez-moi au couran
 
 **[03/08/2040 - 14:54] Me Kouamé :**
 Bonjour, Monsieur Ossimi. J'ai l'attestation depuis ce matin. Je dépose le dossier lundi au guichet unique du CEPICI : enregistrement des actes (droits à la charge de la société), inscription modificative au RCCM, annonce légale. Avec le jour férié du 7, comptez une à deux semaines pour l'extrait RCCM modifié. Je vous l'enverrai.
+
+**[06/08/2040 - 09:50 (Abidjan), courriel] Me Kouamé :**
+Monsieur Ossimi, le dossier de l'augmentation de capital et de la modification des statuts a été déposé ce matin au guichet unique du CEPICI. Compte tenu du jour férié de demain, comptez une à deux semaines pour l'extrait RCCM modifié ; je vous le transmettrai dès réception. Bien cordialement, Me Kouamé
