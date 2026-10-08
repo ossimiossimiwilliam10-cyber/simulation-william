@@ -122,3 +122,4 @@ depuis la pilule du lendemain du 26/05.
 - 06/08, 12h33 (Lisbonne, chambre 214) : « Alors, monsieur le patron… Le dîner est compris, hein. Moi, je dors une heure d'abord. Le canapé de Rosa, c'est un instrument de torture. »
 - 06/08, 14h19 (Lisbonne) : se réveille après 98 minutes : « J'ai dormi combien ? … Tu n'as pas dormi, toi. Tu as encore les yeux d'Abidjan. »
 - 06/08, 15h20 (chambre 214) : William s'écroule sur elle en riant (« Bah alors, on est réveillé, la marmotte ? ») ; elle : « Aïe ! Cent kilos de grand monsieur ! Tu vas m'écraser… » ; « La marmotte, elle est réveillée depuis une heure. C'est toi qui travaillais. » ; « Viens. Je te montre ma Lisbonne. J'ai vécu onze ans ici, tu sais. Le dîner, c'est à quelle heure ? On a le temps d'aller jusqu'à la Graça, voir la ville d'en haut. »
+- 06/08, 15h23 : « Prends des chaussures où tu peux marcher. Ça monte, la Graça. »
