@@ -5,5 +5,9 @@
   "simulation-realistic-tools-d95e81": "univers 1 : session des outils du 09/10/2026, jamais enregistrée ; ses 48 modifications sont sauvées dans archives/univers-1/session-outils/modifications-non-enregistrees.patch ; worktree à nettoyer avec l'accord de l'utilisateur",
   "claude/simulation-realistic-tools-d95e81": "univers 1 : branche de la session des outils (voir ci-dessus)",
   "claude/continuation-9f6d32": "univers 1 : suite jouée jusqu'au 11/08/2040 (tag univers-1-continuation), jamais fusionnée, archivée"
+ },
+ "telephone_artefact": {
+  "url": "https://claude.ai/artifact/VJkYBmpJTrVarDVTs24MsS",
+  "note": "page privée « Téléphone de William » publiée par Claude le 11/10/2026 depuis sorties/telephone/index.html (python outils/telephone.py) ; pour la mettre à jour, Claude republie au même URL (outil Artifact, paramètre url) ; un autre agent régénère le fichier et l'envoie au joueur"
  }
 }

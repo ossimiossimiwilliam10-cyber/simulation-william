@@ -1,4 +1,4 @@
-# Résumé d'état (généré le 11/10/2026 22:16 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 11/10/2026 22:17 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
 ## Horloge : samedi 14/07/2040 08:37 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William

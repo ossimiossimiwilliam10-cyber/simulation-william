@@ -20,7 +20,7 @@ import sys
 from commun import ETAT, OUTILS, RACINE, SORTIES, JOURS, MOIS, ecrire_texte, lire_csv, utf8
 
 sys.path.insert(0, str(OUTILS))
-INTERDITS = re.compile(r"\btirage|\bjet\b|\bjets\b|\bT\d{1,2}[a-d]?\b|\bM\d{2}\b|non connu|NON CONNU|moteur|dérogation|"
+INTERDITS = re.compile(r"\btirage|\bjet\b|\bjets\b|\bT\d{1,2}[a-d]?\b|\bM\d{2}\b|non connu|NON CONNU|moteur|dérogation|projection|"
                        r"modificateur|connu=non|\bE\d{3}-\d{8}\b|fait caché|secret_", re.I)
 COMPTES_VISIBLES = {"courant": "Compte courant", "projet": "Épargne « Projet »"}
 
@@ -69,8 +69,8 @@ def donnees():
             continue
         i = agenda.instant(l).astimezone(t.tzinfo)
         if i >= t:
-            evts.append({"date": i.date().isoformat(), "heure": f"{i:%H:%M}" if l["heure"] else "", "titre": l["quoi"].split(" ; ")[0],
-                         "type": "rdv"})
+            titre = re.sub(r"\s*\((?:projection|estimation)[^)]*\)", "", l["quoi"].split(" ; ")[0]).strip()
+            evts.append({"date": i.date().isoformat(), "heure": f"{i:%H:%M}" if l["heure"] else "", "titre": titre, "type": "rdv"})
     fin = jour + dt.timedelta(days=75)
     for pays, nom_pays in (("fr", "France"), ("lu", "Luxembourg")):
         for annee in {jour.year, fin.year}:
@@ -100,6 +100,7 @@ def donnees():
 
 
 GABARIT = r"""<title>Téléphone de William</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">

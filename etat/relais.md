@@ -1,6 +1,6 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 11/10/2026 22:16 (heure machine) pour Claude Opus 5.5 (session du 11/10/2026)
+# Relais de la simulation — briefing généré le 11/10/2026 22:17 (heure machine) pour Claude Opus 5.5 (session du 11/10/2026)
 
 ## Alertes
 - aucune
@@ -30,6 +30,8 @@
   préférences dans memoire/preferences-utilisateur.md, dernier tour dans etat/dernier-tour.md), base de données (base.py),
   orchestrateur (tour.py), météo, lieux, faits, prix, échéancier, corps, fronts, générateur de personnages, rituels,
   téléphone de William (telephone.py). Index : outils/LISEZMOI.md.
+- (11/10/2026 22:35, Claude Opus 5.5) Page « Téléphone de William » publiée (privée) : https://claude.ai/artifact/VJkYBmpJTrVarDVTs24MsS
+  (adresse aussi dans etat/relais-config.json) ; la republier au même endroit après `python outils/telephone.py` (fin de journée ou à la demande).
 
 ## Préférences de l'utilisateur (memoire/preferences-utilisateur.md : à lire en entier)
 - Format du tour : récit fluide, puis « Réponses attendues », « À faire », « Quêtes secondaires », « Que veux-tu faire ? ».
@@ -44,9 +46,9 @@
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/simulation-realistic-agent-handoff-3deabc ; master : ba75eb8 ; avance 0, retard 0
+- branche courante : claude/simulation-realistic-agent-handoff-3deabc ; master : 3bafa2a ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree continuation-9f6d32 (ICI) : branche claude/simulation-realistic-agent-handoff-3deabc ; 0 commit(s) absents de master ; 62 fichier(s) modifié(s)
+- worktree continuation-9f6d32 (ICI) : branche claude/simulation-realistic-agent-handoff-3deabc ; 0 commit(s) absents de master ; 4 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche claude/life-simulation-resume-892e7a ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree simulation-realistic-tools-d95e81 : branche claude/simulation-realistic-tools-d95e81 ; 0 commit(s) absents de master ; 48 fichier(s) modifié(s) ; ARCHIVÉ : univers 1 : session des outils du 09/10/2026, jamais enregistrée ; ses 48 modifications sont sauvées dans archives/univers-1/session-outils/modifications-non-enregistrees.patch ; worktree à nettoyer avec l'accord de l'utilisateur
 
