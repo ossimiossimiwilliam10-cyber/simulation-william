@@ -9,6 +9,9 @@ Contrôles automatiques :
 3. **Expressions interdites** : formes déjà corrigées (« faute grave » à propos d'un CDD, « Net » dans les contrats…).
 4. **PDF** : lance `verifier_pdf.py` (accents, texte extractible).
 5. **Modèle de pouvoir** : tables de `etat/modele-pouvoir.md` (sommes, plafonds, modificateurs) et jets conformes à la règle 17.
+6. **Données structurées** (installées le 09/08/2040) : horloge, agenda (`etat/agenda.csv`), grand livre (`etat/grand-livre.csv`),
+   « qui sait quoi » (`etat/savoir.csv`) : fichiers lisibles et cohérents ; échéances échues non closes en avertissement.
+7. **Chasse aux tics** (`outils/chasse_tics.py`) : avertissements non bloquants sur les trois derniers journaux.
 Code de sortie 1 s'il y a au moins une erreur.
 """
 import datetime as dt
@@ -26,7 +29,7 @@ NOMS = ["lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"]
 MOTIF = re.compile(
     r"\b(lundi|mardi|mercredi|jeudi|vendredi|samedi|dimanche|lun\.?|mar\.|mer\.?|jeu\.?|ven\.?|sam\.?|dim\.?)\s+"
     r"(\d{1,2})/(\d{2})(?:/(\d{4}))?", re.IGNORECASE)
-DOSSIERS = ["etat", "osia", "personnes", "journal", "memoire", "whatsapp", "serveur", "."]
+DOSSIERS = ["etat", "personnes", "journal", "memoire", "whatsapp", "serveur", "."]  # univers 1 : archives/univers-1 (non contrôlé)
 EXCLUS = {".git", "outils", "__pycache__"}
 
 
@@ -97,7 +100,9 @@ REGISTRE = re.compile(
     r"ultimatum|je pars,? et je dis pourquoi|je veux les faits|je veux savoir ce que tu|"
     r"je (te|vous) demande (deux choses|de |d')|ferme la porte|le mot[^.]{0,40}c'est harcèlement|"
     r"ne t'a pas dit non parce que|ne vous a pas dit non parce que", re.I)
-SUBORDONNES = re.compile(r"Aïcha|Mariette|Grace|Abdoul|Yves|Sékou")
+sys.path.insert(0, str(RACINE / "outils"))
+import jet as _jet  # noqa: E402  (noms des personnages récurrents de l'univers en cours)
+SUBORDONNES = re.compile(_jet.PERSONNAGES)
 EXCLUS_REGISTRE = re.compile(r"avant\s*:|version corrigée|corrig|recalibr|tirage|jet\s|\bjets\b", re.I)
 
 
@@ -130,6 +135,37 @@ def controle_pouvoir():
     return erreurs, resume
 
 
+def controle_donnees():
+    """Horloge, agenda, grand livre, qui sait quoi. Retourne (erreurs, avertissements, résumé)."""
+    sys.path.insert(0, str(RACINE / "outils"))
+    import agenda
+    import grand_livre
+    import horloge
+    import savoir
+    erreurs, aver = [], []
+    try:
+        h = horloge.lire()
+    except SystemExit as e:
+        return [f"etat/horloge.txt : {e}"], [], "horloge illisible"
+    erreurs += agenda.verifier()
+    e_gl, retards_gl = grand_livre.verifier()
+    erreurs += e_gl
+    aver += [f"grand livre : prévu échu non réalisé {l['reference']} {l['date']} {l['libelle'][:60]}" for l in retards_gl]
+    erreurs += savoir.verifier()
+    retards = [l for l in agenda.lire() if l["statut"] == "prevu" and agenda.instant(l) < h["instant"]]
+    aver += [f"agenda : échéance échue non close {l['id']} {l['date']} {l['quoi'][:70]}" for l in retards]
+    resume = (f"horloge {h['instant']:%d/%m/%Y %H:%M} ({h['fuseau']}) ; agenda {len(agenda.lire())} lignes ; "
+              f"grand livre {len(grand_livre.lire())} lignes ; savoir {len(savoir.lire())} lignes")
+    return erreurs, aver, resume
+
+
+def controle_tics():
+    sys.path.insert(0, str(RACINE / "outils"))
+    import chasse_tics
+    b = chasse_tics.bilan(chasse_tics.lire_journaux(3))
+    return [f"TIC {k}" for k in b["tics"]] + [f"CASCADE {c}" for c in b["cascades"]] + [f"RÉPÉTITION {n}× « {g} »" for g, n in b["repetitions"]]
+
+
 def main():
     code = 0
     err, total = controle_jours()
@@ -156,8 +192,19 @@ def main():
     for e in err:
         print("  ERREUR", e)
     code |= bool(err)
+    err, aver, resume = controle_donnees()
+    print(f"[Données structurées] {resume}")
+    for e in err:
+        print("  ERREUR", e)
+    for a in aver:
+        print("  RELIRE", a)
+    code |= bool(err)
+    tics = controle_tics()
+    print(f"[Tics d'écriture] {len(tics)} avertissement(s) sur les 3 derniers journaux (non bloquant)")
+    for t in tics:
+        print("  RELIRE", t)
     r = subprocess.run([sys.executable, str(RACINE / "outils" / "verifier_pdf.py")], capture_output=True, text=True, encoding="utf-8")
-    sortie = [l for l in r.stdout.splitlines() if l.strip()]
+    sortie = [l for l in r.stdout.splitlines() if l.strip() and not l.startswith("[INFO]")]
     mauvais = [l for l in sortie if not l.startswith("[ OK  ]")]
     print(f"[PDF] {len(sortie) - len(mauvais)} OK sur {len(sortie)}")
     for l in mauvais:

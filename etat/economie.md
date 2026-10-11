@@ -1,38 +1,20 @@
-# Économie du monde — règles moins complaisantes (créé le 23/07/2040)
+# Économie du monde — règles moins complaisantes (univers 2 ; repris de l'univers 1 le 17/07/2040)
 
-> Règle (revue du lundi, validée le 23/07/2040) : l'argent et le marché ne coopèrent pas. Valeurs à recontrôler par
-> recherche web au moment de chaque négociation ou contrat (prix, délais, taux) ; les chiffres ci-dessous sont des
-> repères de jeu, pas des faits vérifiés.
+> Règle (revue du lundi, validée le 23/07/2040, univers 1) : l'argent et le marché ne coopèrent pas. Valeurs à recontrôler par
+> recherche web au moment de chaque achat, négociation ou contrat (prix, délais, taux) ; les repères ci-dessous ne sont pas des
+> faits vérifiés. Les paramètres propres à OSIA (marges, clients, charges) sont archivés : `archives/univers-1/etat/economie.md`.
 
 ## Paramètres de jeu
-- Parité fixe : 1 € = 655,957 FCFA.
-- **Marges planchers validées par William le 23/07** : clinique de Marcory 25 % (brute) ; villa Riviera 20 % ; toute offre en
-  dessous : soumise à William ; remise maximale négociée par Grace : 5 %.
-- **Concurrence** : villa Riviera : deux devis concurrents ; les clients comparent, négocient, exigent des remises.
-- **Délais de paiement clients (repère de jeu)** : acompte de 30 à 50 % à la commande ; solde à réception ou à la recette ;
-  un client institutionnel (clinique) peut payer à 60 jours ou plus ; relances nécessaires.
-- **Signature d'un client** : jamais du premier coup. Après un devis, chance de signature faible par semaine (repère : 10 % ;
-  tirer avec `python outils/jet.py "Signature <client>" 10`), contre-proposition quasi systématique.
-- **Fournisseurs** : délais de livraison incertains (aléa A06 actif), prix pouvant varier (aléa A15 proposé), paiement à la
-  commande exigé par le fournisseur libanais (déjà payé 1,8 M FCFA, livraison sans date).
-- **Charges d'OSIA** : masse salariale ≈ 5,6 M FCFA/mois chargée ; loyer 2,2 M FCFA/mois (prépayé 6 mois par William) ;
-  indemnité de fin de CDD 3 % non provisionnée ; échéances CNPS/ITS le 10 et le 15 du mois suivant.
-- **Aucun chiffre d'affaires** à ce jour.
+- **Prix** : projetés en 2040 à partir des données actuelles (≈ +30 à 40 %) ; toujours vérifiés au moment où ils comptent.
+- **Parité fixe** : 1 € = 655,957 FCFA (si l'histoire repart vers la zone franc).
+- **Contrats, ventes, recrutements, achats importants** : jamais du premier coup ; contre-propositions, délais, pièces
+  manquantes. Une signature attendue se tire semaine après semaine (`python outils/jet.py "Signature <partie>" <proba>`).
+- **Négociations** : la réponse d'une personne qui a un intérêt direct (salaire, prix, contrat) se tire en **T12**.
+- **Frontalier** : William vit en France (Moselle) et travaille au Luxembourg : impôt sur le traitement au Luxembourg,
+  résidence et taxes locales en France ; toute question fiscale se vérifie par recherche web avant d'être jouée.
 
-## Règle de friction administrative (validée le 23/07)
-Toute démarche à enjeu (banque, attestation, RCCM, CNPS, impôts, ministère, fournisseur, installateur) fait l'objet d'un
+## Règle de friction administrative (validée le 23/07/2040, univers 1)
+Toute démarche à enjeu (banque, administration, notaire, assurance, employeur, impôts, fournisseur, artisan) fait l'objet d'un
 **jet « deuxième passage demandé » à 30 %** (`python outils/jet.py "<démarche>" 30`) : justificatif manquant, refus, délai,
 mauvais service. Le résultat est joué sans commentaire et consigné. Ne pas rejouer un jet. Un taux différent est possible si le
 réalisme l'exige (ex. dossier incomplet connu d'avance : 100 %).
-
-## Pré-devis (trames) de Grace du 23/07 (fourchettes du moteur, à confirmer par le relevé d'Abdoul et les prix d'achat du fournisseur libanais)
-- **Clinique de Marcory** : 18 à 24 M FCFA (≈ 27 400 à 36 600 €), marge brute plancher 25 %. Argument commercial : réfrigérateurs à vaccins et blocs opératoires protégés des délestages.
-- **Villa Riviera** : 15 à 20 M FCFA (≈ 22 900 à 30 500 €), marge brute plancher 20 % ; deux devis concurrents.
-
-## Clinique de Marcory — état au 23/07 17h
-- Relevé de puissance fait le 23/07 (Abdoul) : charge dans les estimations ; devis attendu **vendredi 27/07** (trois lignes : matériel, pose, garantie ; plan de maintenance) ; conseil d'administration du client mardi 31/07 ; **négociation à prévoir** au devis (remise, délai de paiement 60 jours ou plus) ; plancher de marge 25 %, remise maximale 5 % sans William.
-
-## Coût de l'augmentation de capital (chiffrage Me Kouamé, 24/07)
-Honoraires 1 200 000 FCFA ; frais de formalités 300 000 à 500 000 FCFA ; droits d'enregistrement à calculer (barème de la création). Source de comparaison : formalités simples de modification entre 100 000 et 500 000 FCFA selon les guides consultés ; honoraires du juriste en sus.
-- **Correction n° 34 (26/07/2040)** : contrats de direction en CDI à l'essai ; l'indemnité de fin de CDD de 3 % est sans objet.
-- **01/08/2040** : **premier accord client** : villa Riviera, option A, 15 900 000 FCFA HT, acompte de 20 % (au lieu de 50 %) ; OSIA préfinance le matériel ; livraison de Vridi vers le 19/08.

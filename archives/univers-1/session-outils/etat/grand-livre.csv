@@ -1,0 +1,30 @@
+date;heure;compte;montant;type;libelle;reference
+2040-08-03;10:25;courant;8551.62;calage;Relevé de l'application Spuerkeess (03/08, 10h25);
+2040-08-03;10:25;projet;176625.00;calage;Relevé de l'application Spuerkeess (03/08, 10h25);
+2040-08-03;10:25;future_vie_familiale;0.00;calage;Relevé de l'application Spuerkeess (03/08, 10h25);
+2040-08-03;10:25;etf;290271.00;calage;Relevé de l'application Spuerkeess (03/08, 10h25);
+2040-08-03;10:25;pret;109700.00;calage;"Prêt logement restant dû (≈ ; relevé du 03/08)";
+2040-08-03;10:25;maison_part;90000.00;valeur;Part nette de la maison (estimation de la fiche de finances);
+2040-08-03;10:25;participation_osia;145000000.00;valeur;Participation valorisée au capital (145 M FCFA, depuis le 31/07);
+2040-08-03;17:40;courant;-72.41;mouvement;Hôtel Capitol : départ tardif 47 500 FCFA (carte);
+2040-08-06;04:52;courant;-138.00;mouvement;VTC Audun-le-Tiche → Findel;
+2040-08-06;05:06;courant;-9.00;mouvement;Petit-déjeuner à Findel;
+2040-08-06;15:25;courant;-17.40;mouvement;VTC Olivais → Graça (Lisbonne);
+2040-08-06;19:40;courant;-16.90;mouvement;VTC Martim Moniz → Olivais (Lisbonne);
+2040-08-07;08:18;courant;-168.00;mouvement;Hôtel d'Olivais : nuit du 07/08, départ tardif compris;
+2040-08-07;13:35;courant;-168.00;mouvement;Hôtel d'Olivais : nuit du 08/08 (prolongation, départ jeudi 14h);
+2040-08-07;20:30;courant;-43.00;mouvement;Repas en chambre (club sandwich 19 €, bacalhau à brás 24 €);
+2040-08-08;12:12;courant;-1032.00;mouvement;Oasis Porto Grande : non-présentation, séjour entier prélevé;
+2040-08-08;20:00;courant;-45.00;mouvement;Repas en chambre (08/08, ≈ 45 €);
+2040-08-09;08:30;courant;-12.00;mouvement;Petit-déjeuner monté en chambre;
+2040-08-09;14:14;courant;-668.00;mouvement;Billet Royal Air Maroc Lisbonne → Casablanca → Abidjan (réf. K7QW2M);
+2040-08-07;12:00;osia_sgbci;136000000.00;calage;"Trésorerie d'OSIA (fiche complète du 07/08 ; estimation)";
+2040-08-14;12:00;osia_sgbci;650000.00;prevu;Retour du virement rejeté du salaire d'Aïcha (≈ 650 000 FCFA nets);P001
+2040-08-16;12:00;osia_sgbci;3752400.00;prevu;Acompte de la villa Riviera (3 752 400 FCFA TTC);P002
+2040-08-17;12:00;courant;537.38;prevu;Remboursement du Capitol (352 500 FCFA), sous dix jours ouvrés depuis le 03/08;P003
+2040-08-20;08:00;courant;-162.40;prevu;Eau (semestre), prélèvement;P004
+2040-08-22;12:00;courant;-1097.50;prevu;Impôt sur le revenu 2039 (ACD), solde à payer;P005
+2040-08-31;22:00;courant;9300.00;prevu;Traitement d'août (≈ 9 300 €);P006
+2040-09-06;12:00;courant;186.40;prevu;Taxes TAP remboursées (annulation du 07/08), sous 30 jours;P007
+2040-09-06;12:00;courant;-69.99;prevu_annule;LinkedIn Premium Business (fin de l'essai gratuit), sauf résiliation [annulé : essai LinkedIn Premium résilié le 09/08 à 14h42, aucun prélèvement];P008
+2040-08-09;14:36;courant;-189.00;mouvement;Hôtel d'Olivais : nuit du 09/08, chambre 214 (tarif du jour 189 €, carte);

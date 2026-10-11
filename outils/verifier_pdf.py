@@ -41,7 +41,7 @@ def main():
     pdfs = (sorted((RACINE / "serveur").rglob("*.pdf")) + sorted((RACINE / "courriels").rglob("*.pdf"))
             + sorted((RACINE / "documents_william").rglob("*.pdf")))
     if not pdfs:
-        print("Aucun PDF dans serveur/, courriels/ ni documents_william/.")
+        print("[INFO] Aucun PDF dans serveur/, courriels/ ni documents_william/ (normal au départ de l'univers 2).")
         return 0
     erreurs = 0
     for p in pdfs:

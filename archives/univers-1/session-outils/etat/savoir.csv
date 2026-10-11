@@ -1,0 +1,86 @@
+fait;personne;canal;date;note
+affaire_grace_2307;William;acteur;2040-07-23;"auteur des gestes du 23/07 ; messages d'excuses du 23/07 (supprimé pour tous le 24/07)"
+affaire_grace_2307;Grace;vécu;2040-07-23;"victime ; aucune capture ni note (T1b du 25/07) ; ne sait pas que tout le QG sait"
+affaire_grace_2307;Mariette;confidence;2040-07-24;"Grace s'est confiée à elle (enfermées 11h10-11h52) ; a tout dit à Aïcha le 25/07 à 09h37"
+affaire_grace_2307;Aïcha;oral;2040-07-25;Mariette à 09h37, puis William en personne (09h50-10h07)
+affaire_grace_2307;proche_de_Grace;confidence;2040-07-26;"T1 confidence_collegue/confidence_proche ; identité non fixée"
+affaire_grace_2307;proche_de_Mariette;confidence;2040-07-26;"T1 confidence_proche du 26/07, 13h19 ; identité non fixée"
+affaire_grace_2307;Abdoul;rumeur;2040-08-02;"fuite interne du 02/08 (T5) ; rien_garde"
+affaire_grace_2307;Yves;rumeur;2040-08-02;"fuite interne du 02/08 (T5) ; commerage → Kader"
+affaire_grace_2307;Kader;oral;2040-08-02;par Yves (T2 commerage)
+affaire_grace_2307;inconnu_9e;rumeur;2040-08-02;9e informé du décompte T5 (« tout le QG sait ») non nommé dans les fichiers : à fixer quand une scène l'exige
+affaire_relation_william_aicha;William;acteur;2039-01-01;vie commune en 2039, « relation libre » depuis mai 2040
+affaire_relation_william_aicha;Aïcha;vécu;2039-01-01;
+affaire_relation_william_aicha;Mariette;confidence;2040-05-01;meilleure amie d'Aïcha, au courant
+affaire_relation_william_aicha;Fanta;confidence;2040-07-27;"cousine d'Aïcha ; confidence du soir du 27/07 et sait tout"
+affaire_mise_a_l_ecart_aicha;William;acteur;2040-08-05;organigramme cible complet gardé puis envoyé à Estelle (06/08, 07h10) et à Me Kouamé (10h52)
+affaire_mise_a_l_ecart_aicha;Estelle;document;2040-08-06;"a reçu l'organigramme avec la note ; l'a transféré à Aïcha à 05h31 (Abidjan)"
+affaire_mise_a_l_ecart_aicha;Aïcha;document;2040-08-06;"lu au réveil (06h50) ; appel de William le 06/08 à 14h33 ; sait tout"
+affaire_mise_a_l_ecart_aicha;Me Kouamé;document;2040-08-06;"organigramme reçu de William ; note de six points ; secret professionnel"
+affaire_mise_a_l_ecart_aicha;Yves;oral;2040-08-06;"appel de William à 12h12 (Lisbonne) ; a tout rapporté à Aïcha à midi (Abidjan)"
+affaire_mise_a_l_ecart_aicha;Mariette;confidence;2040-08-06;Aïcha à midi (T1 confidence_collegue)
+affaire_mise_a_l_ecart_aicha;proche_de_Mariette;confidence;2040-08-06;T2 commerage
+affaire_mise_a_l_ecart_aicha;Abdoul;oral;2040-08-06;par Yves vers 15h (T2 rien_garde)
+restructuration_4_poles;William;acteur;2040-08-05;"note du 05/08 ; quatre pôles, deux DG, CEO à recruter"
+restructuration_4_poles;Aïcha;oral;2040-08-05;"message de William à 21h31 ; puis appel du 06/08"
+restructuration_4_poles;Yves;oral;2040-08-06;« pas confidentielle »
+restructuration_4_poles;Estelle;document;2040-08-06;
+restructuration_4_poles;Me Kouamé;document;2040-08-06;
+restructuration_4_poles;Mariette;confidence;2040-08-06;par Aïcha
+restructuration_4_poles;Abdoul;oral;2040-08-06;par Yves
+offre_linkedin_dir_planification;William;acteur;2040-08-06;"publiée sur son profil personnel ; fourchette 700 000 – 1 200 000 FCFA brut depuis le 07/08"
+offre_linkedin_dir_planification;Abdoul;LinkedIn;2040-08-08;"vu le 08/08 au soir ; consulte le profil de William en mode privé ; demande un écrit sur son contrat le 09/08"
+offre_linkedin_dir_planification;Ange-Michel Konan;LinkedIn;2040-08-07;candidat retenu (78/100)
+offre_linkedin_dir_planification;Dr Mbarga;LinkedIn;2040-08-07;candidat refusé automatiquement (71/100)
+approche_konan_directement;William;acteur;2040-08-09;message LinkedIn de 13h35 (Lisbonne)
+approche_konan_directement;Ange-Michel Konan;LinkedIn;2040-08-09;"a répondu à 14h11 ; Abdoul et Aïcha ne sont pas informés"
+statut_fonctionnaire_art14;William;vécu;2040-07-22;"aucune autorisation demandée ; régularisation prévue d'ici le 30/12/2040"
+statut_fonctionnaire_art14;Me Kouamé;oral;2040-07-25;"secret professionnel ; n'en dit rien à Aïcha"
+depenses_perso_avant_compte;William;décision;2040-07-26;"loyer, caution, première phase, acompte de Me Kouamé classés en dépenses personnelles ; ni Aïcha ni Mariette ne sont informées"
+renonciation_avances;William;acteur;2040-07-27;écrit signé et transmis
+renonciation_avances;Aïcha;courriel;2040-07-27;
+renonciation_avances;Mariette;oral;2040-07-27;prévenue par Aïcha
+retour_william_abidjan_11_08;William;décision;2040-08-09;"vol RAM réservé à 14h14 ; l'équipe ne le sait pas (la réunion se fait en vidéo)"
+fausse_maladie_william;William;acteur;2040-08-07;"« je suis malade » à Yves (07/08, 08h31) ; deux jours hors ligne"
+fausse_maladie_william;Yves;WhatsApp;2040-08-07;croit la version (T7b succes_net)
+fausse_maladie_william;Aïcha;WhatsApp;2040-08-07;« Reposez-vous » : croit à un repos, sans détail
+rupture_sandra_william;William;vécu;2040-08-07;Sandra a posé les clés de la maison d'Audun-le-Tiche
+rupture_sandra_william;Sandra;vécu;2040-08-07;
+rupture_sandra_william;mere_de_Sandra;oral;2040-08-07;appel du soir
+rupture_sandra_william;Kevin;rumeur;2040-08-07;"entendu en créole entre sa grand-mère et sa mère ; a tapé puis effacé un message à William ; Sandra l'ignore"
+rupture_sandra_william;Djina;oral;2040-08-07;« Il n'est pas venu. »
+blocage_whatsapp_sandra;William;acteur;2040-08-09;"bloquée à 13h26 ; Sandra n'en est pas prévenue (WhatsApp ne prévient pas)"
+abdoul_soléa_energies;Abdoul;vécu;2040-08-08;"appel d'un ancien collègue ; rappel prévu le 14/08"
+abdoul_soléa_energies;ancien_collegue_soléa;oral;2040-08-08;
+grace_paludisme;Grace;vécu;2040-08-08;
+grace_paludisme;Aïcha;WhatsApp;2040-08-09;message de Grace à 07h05 (Abidjan)
+grace_paludisme;William;WhatsApp;2040-08-09;"Grace le lui écrit à 13h58 (Lisbonne) ; congé accordé à 14h01"
+me_kouame_hospitalise;Me Kouamé;vécu;2040-08-09;"paludisme ; polyclinique de Cocody ; arrêt jusqu'à ≈ 17/08"
+me_kouame_hospitalise;secretariat_de_Me_Kouamé;oral;2040-08-09;annule les rendez-vous
+me_kouame_hospitalise;Aïcha;oral;2040-08-09;prévenue vers 15h (Abidjan)
+nomination_mme_schmit;Mme Schmit;vécu;2040-08-09;"directrice adjointe du lycée de William à la rentrée ; écrit à William le 10/08"
+nomination_mme_schmit;directeur_du_lycee;oral;2040-08-08;
+evisa_pere_bloque;Père de William;vécu;2040-08-07;certificat d'hébergement légalisé manquant
+mariette_nièce_et_soeur_hebergees;Mariette;vécu;2040-08-08;"sa sœur a accouché ; marraine ; héberge la sœur et le bébé"
+malaise_aicha_salaire_rib;Aïcha;vécu;2040-08-02;"salaire sur un RIB erroné ; a emprunté 60 000 FCFA à Fanta et 20 000 à Mariette"
+malaise_aicha_salaire_rib;Fanta;oral;2040-08-02;"créancière de 60 000 FCFA ; veut être remboursée fin du mois"
+malaise_aicha_salaire_rib;Mariette;oral;2040-08-02;"auteur de l'erreur ; avance de 20 000 FCFA"
+malaise_aicha_salaire_rib;William;WhatsApp;2040-08-05;sait que le salaire a été mal affecté, pas les emprunts
+abandon_projet_restructuration;William;acteur;2040-08-09;"décision de 14h15 (Lisbonne) : messages écrits à 14h17-14h22 ; offre LinkedIn fermée à 14h24 ; réunion de vendredi annulée à 14h28"
+abandon_projet_restructuration;Aïcha;WhatsApp;2040-08-09;"message de 14h17 ; lu vers 14h19 ; répond « Bien noté, patron. » à 15h15 (T7c execute_partiellement)"
+abandon_projet_restructuration;Yves;WhatsApp;2040-08-09;"message de 14h18 remis ; lu à 17h43 seulement (en clientèle) ; question sur sa promotion (T7c execute_a_contrecoeur)"
+abandon_projet_restructuration;Estelle;WhatsApp;2040-08-09;"message de 14h19 ; répond à 15h10 (T1 calcul) : rappelle la promesse d'une offre, demande si son suivi de trésorerie continue"
+abandon_projet_restructuration;Me Kouamé;WhatsApp;2040-08-09;"message de 14h20 remis, non lu à 15h16 ; hospitalisé ; le secrétariat répondra plus tard ou jamais (T10 plus_tard_ou_jamais)"
+abandon_projet_restructuration;Ange-Michel Konan;LinkedIn;2040-08-09;"message de 14h22 ; prend acte à 14h30"
+reunion_10_08_annulee;Aïcha;groupe Direction;2040-08-09;"annonce de 14h28 (Lisbonne) ; la raison (abandon du projet) n'est pas donnée au groupe"
+reunion_10_08_annulee;Mariette;groupe Direction;2040-08-09;"annonce de 14h28 (Lisbonne) ; la raison (abandon du projet) n'est pas donnée au groupe"
+reunion_10_08_annulee;Abdoul;groupe Direction;2040-08-09;"annonce de 14h28 (Lisbonne) ; la raison (abandon du projet) n'est pas donnée au groupe"
+reunion_10_08_annulee;Yves;groupe Direction;2040-08-09;"annonce de 14h28 (Lisbonne) ; la raison (abandon du projet) n'est pas donnée au groupe"
+reunion_10_08_annulee;Grace;groupe Direction;2040-08-09;"annonce de 14h28 (Lisbonne) ; la raison (abandon du projet) n'est pas donnée au groupe"
+reunion_10_08_annulee;William;acteur;2040-08-09;
+offre_linkedin_fermee;William;acteur;2040-08-09;"offre fermée à 14h24 (LinkedIn ne propose que la clôture pour une offre gratuite publiée) ; 25 candidatures reçues, 24 refusées automatiquement, seul Konan retenu"
+offre_linkedin_fermee;Ange-Michel Konan;LinkedIn;2040-08-09;informé par William à 14h22
+essai_linkedin_premium_resilie;William;acteur;2040-08-09;résilié à 14h42 : accès jusqu'au 06/09, aucun prélèvement
+nuit_supplementaire_hotel_olivais;William;acteur;2040-08-09;"chambre 214, 189 € ; l'équipe ne sait pas où il dort ni qu'il part demain"
+estelle_suivi_tresorerie_maintenu;William;acteur;2040-08-09;« Oui, ton suivi continue. » à 15h17
+estelle_suivi_tresorerie_maintenu;Estelle;WhatsApp;2040-08-09;répond à 15h19 : propose de garder le week-end du 18-19

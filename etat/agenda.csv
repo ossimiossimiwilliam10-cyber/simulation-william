@@ -1,0 +1,4 @@
+id;date;heure;lieu;qui;quoi;statut;connu;note
+A001;2040-07-23;08:00;luxembourg;Moteur et utilisateur;"Revue du lundi n° 1 de l'univers 2 (hors fiction, avant le premier tour du jour) ; validation des pourcentages de T12 à T14 et adaptation du pack d'aléas";prevu;oui;CLAUDE.md §12
+A002;2040-07-31;;luxembourg;État luxembourgeois;Traitement de juillet (≈ 9 300 € net);latent;oui;"grand livre P001 ; jour exact à établir"
+A003;2040-09-17;08:00;luxembourg;Lycée de William;"Rentrée scolaire (projection) ; passage à 410 points";latent;oui;projection d'après les règlements grand-ducaux récents

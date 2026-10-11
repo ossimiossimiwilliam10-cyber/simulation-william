@@ -1,0 +1,7 @@
+date;heure;compte;montant;type;libelle;reference
+2040-07-17;07:00;courant;9800.00;calage;Solde de départ de l'univers 2 (niveau initial choisi par l'utilisateur le 11/10/2026);
+2040-07-17;07:00;projet;357000.00;calage;Solde de départ de l'univers 2 (épargne « Projet »);
+2040-07-17;07:00;etf;288000.00;calage;Valeur de départ de l'univers 2 (ETF);
+2040-07-17;07:00;pret;110000.00;calage;Prêt logement restant dû (départ de l'univers 2);
+2040-07-17;07:00;maison_part;90000.00;valeur;Part nette de la maison d'Audun-le-Tiche (estimation);
+2040-07-31;12:00;courant;9300.00;prevu;"Traitement de juillet (≈ net ; jour exact à établir)";P001

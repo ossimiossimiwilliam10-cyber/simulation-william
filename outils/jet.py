@@ -43,7 +43,23 @@ MAX_MODIFICATEURS = 3
 FUITE_INTERNE = (3, 40)   # T5 : points par personne informée (William exclu), plafond
 FUITE_EXTERNE = (1, 15)
 
-PERSONNAGES = "Grace|Mariette|Aïcha|Abdoul|Yves|Sékou"
+def noms_personnages():
+    """Noms des personnages récurrents de l'univers en cours (univers 2 depuis le 11/10/2026) : titres des fiches de
+    `personnes/` (« # Prénom Nom — … ») et de `etat/vies-propres.md` (« ### Prénom Nom (…) »). Prénom et nom sont pris séparément."""
+    noms = set()
+    sources = list((RACINE / "personnes").glob("*.md"))
+    vp = RACINE / "etat" / "vies-propres.md"
+    for p in sources + ([vp] if vp.exists() else []):
+        for ligne in p.read_text(encoding="utf-8").splitlines():
+            if (p == vp and ligne.startswith("### ")) or (p != vp and ligne.startswith("# ")):
+                titre = re.split(r"\s[—(-]\s?", ligne.lstrip("# ").strip())[0]
+                noms.update(m for m in re.findall(r"[A-ZÀ-Ý][\wÀ-ÿ'-]{2,}", titre) if m not in ("Mme", "Me", "Dr", "Fiche"))
+                if p != vp:
+                    break
+    return sorted(noms)
+
+
+PERSONNAGES = "|".join(re.escape(n) for n in noms_personnages()) or "(?!)"
 VERBES_REACTION = ("confie|informe|préviens|prévient|en parle|parle à|parlera|signale|dénonce|plainte|ultimatum|menace|"
                    "démission|quitte|interdit|exige|représailles|capture|sauvegarde|témoign|confronte|soutien|avocat|"
                    "Inspection|police|syndicat|réagit|réaction|se tait|raconte|avoue")
@@ -225,7 +241,7 @@ def jet_libre(args):
         sys.exit("Usage : jet.py \"libellé\" proba   |   jet.py --table Tn [--mod Mxx] \"libellé\"   |   jet.py --liste")
     if REACTION_LIBRE.search(args.libelle) and not args.derogation and not args.simule:
         sys.exit("REFUSÉ (règle 17) : ce libellé décrit la réaction d'un personnage à un acte de William. Tirer dans une table "
-                 "(--table T1, T1b, T2, T3, T4, T5, T7a, T7b, T7c, T7d, T8, T9, T10, T11 ; etat/modele-pouvoir.md) ou justifier une exception avec "
+                 "(--table T1, T1b, T2, T3, T4, T5, T7a, T7b, T7c, T7d, T8, T9, T10, T11, T12, T13a-d, T14 ; etat/modele-pouvoir.md) ou justifier une exception avec "
                  "--derogation \"raison\" (consignée et auditée).")
     jet = random.SystemRandom().uniform(0, 100)
     oui = jet < args.proba
@@ -253,7 +269,7 @@ def main():
     ap = argparse.ArgumentParser(description="Jet de dé du moteur (probabilité libre ou table de pouvoir)")
     ap.add_argument("libelle", nargs="?")
     ap.add_argument("proba", nargs="?", type=float, help="probabilité de OUI, en %% (jet libre)")
-    ap.add_argument("--table", help="table de pouvoir : T1, T1b, T2, T3, T4, T5, T7a, T7b, T7c, T7d, T8, T9, T10 (délais), T11 (vie propre)")
+    ap.add_argument("--table", help="table de pouvoir : T1, T1b, T2, T3, T4, T5, T7a, T7b, T7c, T7d, T8, T9, T10 (délais), T11 (vie propre), T12 (négociation), T13a-d (contenu T11), T14 (initiatives)")
     ap.add_argument("--mod", action="append", default=[], help="modificateur (M01…), 3 au maximum")
     ap.add_argument("--informes", type=int, help="T5 : personnes qui connaissent l'affaire, William exclu")
     ap.add_argument("--derogation", help="justification d'un jet libre portant sur une réaction (consignée, auditée)")

@@ -1,5 +1,11 @@
 # Modèle de pouvoir — tables de réactions (créé le 25/07/2040)
 
+> **Univers 2 (redémarrage du 11/10/2026, tous les paramètres repris)** : les tables et les pourcentages sont inchangés. Les
+> intitulés qui nomment des personnages ou des lieux de l'univers 1 (Aïcha, Grace, Ricardo, OSIA, Abidjan, « gérante », « QG »)
+> valent pour **tout personnage qui remplit la même condition** (ex. M40 « peur des silences » ; T3 « la numéro 2 informée »).
+> Les §4 et §7 décrivent l'univers 1 : historiques, sans effet dans l'univers 2. Les pourcentages de T12 à T14 (installés le
+> 09/08/2040 sur « applique tout cela ») restent à faire valider par l'utilisateur à la revue du lundi n° 1 de l'univers 2.
+
 > **Source unique** des probabilités de réaction des personnages aux actes de William. Lue par `outils/jet.py` (`--table Tn`),
 > validée par `outils/controle_coherence.py`, auditée par `outils/audit_jets.py`.
 > **Le moteur ne choisit jamais ces pourcentages et ne les modifie jamais seul : seul l'utilisateur les change.**
@@ -44,6 +50,9 @@ jets libres (`outils/jet.py "libellé" proba`).
 7. **Chaque dimanche soir**, pour chaque affaire ouverte : tirer T4 (escalade externe) et T5 (fuite).
 
 ## 4. Qui est dans quelle table (état au 25/07/2040)
+*(Univers 1 : historique, sans effet dans l'univers 2. Dans l'univers 2, la table se choisit d'après la position du personnage
+par rapport à William : subordonné, collègue, partenaire ou proche, tiers à autorité propre, inconnu ; la règle de l'utilisateur
+sur Aïcha n'a pas d'équivalent tant que l'utilisateur n'en pose pas une nouvelle.)*
 - **Grace** : T1 (visée le 23/07), T1b (trace conservée). **Mariette** : T1 (visée le 16/05), T2 (témoin de l'affaire Grace).
 - **Aïcha** (gérante, ex de William, CDD, mère malade, nom sur les papiers) : T3.
 - **Règle de l'utilisateur (27/07/2040, correction n° 36)** : pour **Aïcha**, tant que sa dépendance tient (M01 : famille à charge, mère malade, période d'essai), l'issue **depart_discret** (T1) — et **cherche_ailleurs** (T9, si elle est validée) — est **exclue** ; ses points passent à l'inaction (rien_absorption, ou rien_politesse en T9). Appliquée à la main par le moteur, consignée à chaque tirage. Le contexte culturel ivoirien est un argument recevable pour choisir table et modificateurs ; il s'ajoute au tirage sans le remplacer.
@@ -53,6 +62,10 @@ jets libres (`outils/jet.py "libellé" proba`).
 - **Partenaire ou ex-partenaire subordonnée face à une approche relationnelle de William** (conversation sur la relation, invitation hors du travail, mots affectueux ou reproches, tentative de rapprochement ; aujourd'hui : **Aïcha**) : **T9** (validée par l'utilisateur le 27/07/2040). Un geste sexuel, une pression de carrière ou d'argent, ou une approche d'une personne sans lien intime avec William restent en **T1** ; l'information sur une faute du patron reste en **T3**.
 - **Délais (T10, validée par l'utilisateur le 06/08/2040, revue du lundi n° 3)** : l'heure d'une réponse ou d'un message spontané (proches, équipe, prestataires, tiers) se tire en **T10** (M70-M74) au lieu d'un jet libre en dérogation ; la minute précise est fixée par le moteur dans l'intervalle tiré, selon la vie du personnage ; T10 ne décide jamais du contenu ni de l'existence d'une réaction (qui se tirent en T1-T9).
 - **Vies propres (T11, validée par l'utilisateur le 09/08/2040)** : à chaque fin de journée simulée et à chaque « Go », `python outils/tour_du_monde.py JJ/MM` tire la journée de chaque personnage de `etat/vies-propres.md` dans **T11** (M80-M83) ; le contenu se choisit d'après la fiche ; ce qui touche William ou OSIA se tire ensuite dans les tables existantes (la règle de l'utilisateur sur le départ d'Aïcha reste valable).
+- **Négociations (T12, installée le 09/08/2040)** : la réponse d'une personne qui négocie avec William (salaire, titre, contrat, prix : Yves, M. Konan, Abdoul, Estelle, Dr Mbarga, prestataires) se tire en **T12** (M90-M94) ; pas de jet libre. Le chiffre de départ vient de la fiche, l'issue de la table.
+- **Contenu des événements du tour du monde (T13a à T13d, installées le 09/08/2040)** : après un résultat T11 « coup_dur », « tournant », « petit_evenement » ou « avancee_objectif », la **catégorie** du contenu se tire en T13a, T13b, T13c ou T13d (M95-M99) ; le détail se choisit d'après la fiche (test d'intérêt). `outils/tour_du_monde.py` enchaîne les deux tirages.
+- **Initiatives (T14, installée le 09/08/2040)** : qui écrit ou appelle William ce jour-là se tire en **T14** (M84-M87) pour chaque personnage dont la fiche porte « Modificateurs T14 » (« — » = exclu : Sandra bloquée, Me Kouamé hospitalisé…) ; l'heure se tire ensuite en T10, le contenu se choisit d'après la fiche. `tour_du_monde.py` les tire à chaque « Go » et à chaque fin de journée.
+- *(Installation : tables proposées par le moteur le 09/08/2040 et installées sur la demande de l'utilisateur, « applique tout cela » ; les pourcentages sont ajustables par l'utilisateur seul, comme pour toutes les tables.)*
 - Les **scènes déjà jouées** (Grace le 23/07, Mariette le 25/07 à 09h25, Aïcha le 25/07 à 09h50) restent telles que jouées ; leurs suites
   passent par les tables.
 
@@ -208,6 +221,71 @@ Règles de rôle, sans tirage ; l'argent et le statut de William ne les achèten
 | coup_dur | 7 | Un revers : maladie, accident, dette, dispute sérieuse, perte d'argent, mauvaise nouvelle familiale. |
 | tournant | 3 | Un fait qui change la suite : rencontre, offre d'emploi ailleurs, deuil, naissance, mariage, déménagement. |
 
+### T12 — Négociation : réponse d'une personne qui a un intérêt direct (salaire, titre, contrat, prix) à une contre-proposition ou à un refus du patron (installée le 09/08/2040)
+| Issue | % | En scène |
+|---|---|---|
+| maintient_sa_position | 34 | Il ou elle répète son chiffre ou sa condition, poliment ; rien ne bouge. |
+| concede_un_peu | 22 | Baisse de 3 à 7 % (ou concède une clause mineure), contre un écrit. |
+| concede_beaucoup | 6 | Baisse de 8 à 15 % ou accepte l'essentiel (candidat sans alternative, besoin pressant). |
+| contre_propose_avantage | 14 | Garde le chiffre mais demande un avantage hors salaire : titre, transport, télétravail, prime, clause de révision, congés. |
+| exige_ecrit_d_abord | 10 | Subordonne tout à un document signé (titre, attributions, calendrier, montant). |
+| invoque_alternative | 8 | Cite une autre offre ou un autre employeur (réel ou non, à fixer d'après la fiche) et demande du temps. |
+| temporise | 5 | Demande 48 heures ou un autre rendez-vous. |
+| frontal_retrait | 1 | Met fin à la discussion en une phrase polie (candidat externe : retire sa candidature ; salarié : « Je vais réfléchir, Boss », puis silence) ; jamais d'ultimatum ni de menace (règle 15). |
+
+### T13a — Contenu d'un coup dur (résultat T11 « coup_dur ») : catégorie ; le détail se choisit d'après la fiche (installée le 09/08/2040)
+| Issue | % | En scène |
+|---|---|---|
+| sante | 22 | Maladie ou accident du personnage lui-même. |
+| sante_proche | 20 | Maladie ou accident d'un proche (parent, enfant, conjoint). |
+| argent | 20 | Dette, dépense imprévue, vol, arnaque, prêt non remboursé. |
+| famille | 14 | Dispute sérieuse, mauvaise nouvelle familiale, deuil éloigné. |
+| travail | 10 | Ennui avec un employeur ou un client extérieur à OSIA. |
+| logement_transport | 10 | Panne, délestage prolongé, loyer, déménagement forcé. |
+| relation | 4 | Rupture, trahison d'un ami, conflit avec un voisin. |
+
+### T13b — Contenu d'un tournant (résultat T11 « tournant ») : catégorie ; le détail se choisit d'après la fiche (installée le 09/08/2040)
+| Issue | % | En scène |
+|---|---|---|
+| offre_travail | 20 | Proposition d'emploi ou de collaboration ailleurs. |
+| famille | 20 | Naissance, mariage, décès, retour d'un proche. |
+| sante | 12 | Diagnostic, guérison, grossesse, opération. |
+| logement | 12 | Déménagement, achat, bail, hébergement d'un proche. |
+| rencontre | 18 | Rencontre amicale, amoureuse ou professionnelle qui compte. |
+| argent | 10 | Héritage, prêt obtenu, gros gain ou grosse perte. |
+| voyage | 8 | Départ, retour, visa, projet de voyage. |
+
+### T13c — Contenu d'un petit événement (résultat T11 « petit_evenement ») : catégorie ; le détail se choisit d'après la fiche (installée le 09/08/2040)
+| Issue | % | En scène |
+|---|---|---|
+| depense | 22 | Une dépense imprévue ou un arbitrage d'argent (médicaments, scolarité, réparation). |
+| rencontre | 15 | Un croisement, une visite, une conversation de voisinage. |
+| service_rendu | 15 | Un service rendu ou reçu. |
+| dispute_breve | 12 | Une querelle courte, vite oubliée ou non. |
+| nouvelle_famille | 12 | Une nouvelle de la famille ou des amis. |
+| transport_meteo | 12 | Embouteillage, pluie, panne, délestage ordinaire. |
+| achat | 6 | Un achat de fête, de rentrée, de matériel. |
+| rumeur | 6 | Une rumeur entendue ou colportée. |
+
+### T13d — Contenu d'une avancée vers l'objectif (résultat T11 « avancee_objectif ») : catégorie ; le détail se choisit d'après la fiche (installée le 09/08/2040)
+| Issue | % | En scène |
+|---|---|---|
+| demarche | 30 | Une démarche administrative ou professionnelle. |
+| rendez_vous | 25 | Un rendez-vous obtenu ou tenu. |
+| argent | 20 | Une somme reçue, économisée ou investie. |
+| decision | 15 | Une décision prise (accepter, refuser, demander). |
+| apprentissage | 10 | Une formation, une lecture, un conseil utile. |
+
+### T14 — Initiative d'un personnage envers William, ce jour-là (installée le 09/08/2040 ; l'heure se tire ensuite en T10, le contenu se choisit d'après la fiche)
+| Issue | % | En scène |
+|---|---|---|
+| aucune | 63 | Rien : le personnage n'écrit ni n'appelle William aujourd'hui. |
+| message_routine | 12 | Un point, une photo, une question de travail sans enjeu. |
+| demande | 10 | Demande quelque chose : avance, congé, décision, signature, rendez-vous. |
+| information | 8 | Prévient d'un fait : retard, panne, résultat, rumeur utile. |
+| partage_personnel | 4 | Nouvelle personnelle, remerciement, statut, photo. |
+| plainte_ou_tension | 3 | Mécontentement exprimé avec précaution, par l'indirection (règle 15) : jamais d'ultimatum ni d'étiquette morale. |
+
 ### Modificateurs (liste fermée ; 3 au maximum par tirage ; chacun déplace des points d'une issue vers une autre)
 | Code | Tables | Effet | Quand l'appliquer |
 |---|---|---|---|
@@ -260,6 +338,20 @@ Règles de rôle, sans tirage ; l'argent et le statut de William ne les achèten
 | M81 | T11 | avancee_objectif +6 ; tournant +2 ; sans_histoire -8 | Objectif actif poursuivi cette semaine (démarches en cours) |
 | M82 | T11 | petit_evenement +5 ; sans_histoire -5 | Période chargée (fête, voyage, visite, rentrée) |
 | M83 | T11 | sans_histoire +10 ; petit_evenement -5 ; avancee_objectif -3 ; coup_dur -2 | Personnage en retrait (vacances calmes, convalescence) |
+| M84 | T14 | aucune -20 ; demande +8 ; information +6 ; message_routine +6 | Enjeu actif entre le personnage et William (négociation, dossier, dette, promesse) |
+| M85 | T14 | aucune +15 ; message_routine -6 ; demande -4 ; partage_personnel -3 ; information -2 | Évitement, rancune ou deuil |
+| M86 | T14 | partage_personnel +6 ; message_routine +4 ; aucune -10 | Lien affectif vivant (famille proche, ami, partenaire) |
+| M87 | T14 | information +6 ; plainte_ou_tension +2 ; aucune -8 | Incident en cours côté personnage (panne, absence, erreur) |
+| M90 | T12 | invoque_alternative +6 ; maintient_sa_position +4 ; concede_un_peu -5 ; concede_beaucoup -5 | Une autre offre réelle existe (concurrent, autre employeur) |
+| M91 | T12 | concede_un_peu +6 ; concede_beaucoup +4 ; maintient_sa_position -7 ; invoque_alternative -3 | Aucune alternative visible (chômage, dette, essai fragile) |
+| M92 | T12 | exige_ecrit_d_abord +8 ; temporise +2 ; maintient_sa_position -6 ; concede_beaucoup -4 | Méfiance envers le patron (promesses non tenues, changements d'avis récents) |
+| M93 | T12 | contre_propose_avantage +6 ; concede_un_peu +2 ; maintient_sa_position -5 ; temporise -3 | Un avantage hors salaire est disponible sans coût pour le patron (titre, télétravail) |
+| M94 | T12 | maintient_sa_position +8 ; concede_un_peu -4 ; contre_propose_avantage -2 ; temporise -2 | Le patron a besoin de la personne vite (urgence, pas de remplaçant) |
+| M95 | T13a | argent +8 ; sante -4 ; famille -4 | Dettes en cours, fin de mois difficile |
+| M96 | T13a | sante_proche +8 ; logement_transport -4 ; travail -4 | Un proche déjà fragile ou malade (fait établi) |
+| M97 | T13a, T13b | famille +8 ; sante -4 ; argent -4 | Événement familial attendu (grossesse, deuil, mariage, enterrement) |
+| M98 | T13d | demarche +8 ; apprentissage -4 ; decision -4 | Dossier administratif en cours |
+| M99 | T13c | transport_meteo +8 ; achat -4 ; rumeur -4 | Période de pluies, délestages, grève ou fête |
 
 ## 6. William n'est pas un dieu (symétrie)
 1. **Ses manœuvres sur autrui sont tirées** (T7) ; aucune réussite automatique, même quand sa position est forte ; le « succès net » est plafonné.
@@ -273,6 +365,7 @@ Règles de rôle, sans tirage ; l'argent et le statut de William ne les achèten
    ni effacement « pour plaire » (règle 7).
 
 ## 7. Faits cachés hérités (tirés avant ce modèle)
+*(Univers 1 : historique, sans effet dans l'univers 2.)*
 Les jets d'avant le 25/07/2040 (probabilités choisies à la main) restent valables pour ce qui a été **joué**. Un fait caché **non encore
 révélé** et tiré hors table doit repasser par la table avant toute révélation : aujourd'hui, « Grace garde une capture du message d'excuses
 hors de son téléphone de travail » (85 %, OUI) → T1b. **Résolu le 25/07/2040** (accord de l'utilisateur) : capture **aucune** (jet 8.8) ; note de l'incident dans le carnet **aucune** (jet 14.8).

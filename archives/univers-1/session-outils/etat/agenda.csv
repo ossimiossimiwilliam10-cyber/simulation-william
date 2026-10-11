@@ -1,0 +1,54 @@
+id;date;heure;lieu;qui;quoi;statut;connu;note
+A001;2040-08-09;17:00;abidjan;Aïcha;Rapport quotidien (PDF serveur/direction/rapport_direction_0908.pdf);prevu;oui;
+A002;2040-08-09;19:00;abidjan;M. Konan / William;"Visio proposée par M. Konan « ce soir après 19h » (William n'a pas répondu ; sinon samedi matin)";annule;oui;"fils-ouverts n° 109 | offre retirée par William à 14h22 (message LinkedIn) ; M. Konan en prend acte à 14h30"
+A003;2040-08-09;14:45;lisbonne;Grace;"Répond au congé accordé à 14h01 : « Merci beaucoup… Je vois avec Mme Kouadio pour les papiers. » (T7c execute_sans_discuter ; T10 dans_l_heure) ; ne viendra pas à la réunion";fait;non;journal 09/08 | joué à 14h45 (Lisbonne)
+A004;2040-08-09;15:00;abidjan;Mariette;Quitte le QG à 15h pour ramener sa sœur et le bébé de la maternité (accord d'Aïcha);prevu;non;T11 petit_evenement
+A005;2040-08-09;15:00;abidjan;Cabinet de Me Kouamé;Le secrétariat prévient Aïcha : Me Kouamé hospitalisé, rendez-vous annulés jusqu'au 17/08;prevu;non;T11 coup_dur
+A006;2040-08-10;09:39;abidjan;Yves;Répond dans le groupe Direction : « 👍🏾 Noté, Boss. À tout à l'heure. » (T10 le_soir_ou_lendemain);annule;non;"journal 09/08 | caduc : la réunion a été annulée à 14h28 ; Yves répond en privé à 17h43"
+A007;2040-08-10;10:00;abidjan;Direction;"Réunion spéciale de la direction en vidéo WhatsApp (William à Lisbonne = 11h ; Aïcha, Mariette, Abdoul, Yves ; Grace en congé)";annule;oui;convoquée par William le 09/08 à 13h25 (Lisbonne) | annulée par William à 14h28 dans le groupe Direction (abandon du projet de restructuration)
+A008;2040-08-10;17:00;abidjan;Aïcha;Rapport quotidien (PDF serveur/direction);prevu;oui;
+A009;2040-08-10;;lisbonne;Mme Schmit;Écrit à William (vie hors d'Abidjan, tirage du 06/08) : sa nomination comme directrice adjointe du lycée;prevu;non;"revue n° 3 ; T11 tournant du 09/08"
+A010;2040-08-10;18:40;lisbonne;William;Vol Royal Air Maroc Lisbonne → Casablanca (arrivée 20h05), réf. K7QW2M;prevu;oui;668 € le 09/08
+A011;2040-08-10;23:35;casablanca;William;"Correspondance Casablanca → Abidjan (horaire joué ; le vol de nuit réel part plutôt vers 00h20)";prevu;oui;audit du 09/08, point non modifié
+A012;2040-08-10;23:59;abidjan;Moteur;Fiche complète (tous les trois jours simulés depuis le 07/08);prevu;oui;CLAUDE.md §6
+A013;2040-08-11;03:15;abidjan;William;"Arrivée à Abidjan (vol RAM) ; nuit au QG, canapé-lit du bureau (gardien Moussa)";prevu;oui;
+A014;2040-08-12;21:00;abidjan;Moteur;Dimanche : T4/T5 des trois affaires (python outils/savoir.py t5), synthèse de semaine W32, fiche courte;prevu;non;CLAUDE.md §12
+A015;2040-08-13;08:00;abidjan;Moteur;Revue du lundi n° 4 (à présenter avant le reste : bilan, audit_jets, aléas, vie hors d'Abidjan, monde, idées);prevu;oui;calendrier.md
+A016;2040-08-13;09:00;luxembourg;Lycée de William;Le secrétariat de direction rouvre (réponse automatique au courriel de régularisation du 30/07);prevu;oui;fils-ouverts n° 83
+A017;2040-08-13;10:00;abidjan;Mmes Diomandé et Kouadio;Rendez-vous avec Me Kouamé (contrat de cadre, règlement intérieur, matrice) : ANNULÉ, Me Kouamé hospitalisé;annule;non;T11 coup_dur du 09/08
+A018;2040-08-13;;luxembourg;Sandra;Rentre de Mindelo par Sal et Lisbonne (billet pris par elle le 02/08);latent;non;fils-ouverts n° 89
+A019;2040-08-14;;abidjan;Orange / QG;Raccordement de la fibre au QG (reporté depuis fin juillet, à confirmer);latent;oui;calendrier.md
+A020;2040-08-14;;abidjan;Abdoul;Rappelle Soléa Énergies (chef de projets stockage);prevu;non;T11 tournant du 08/08
+A021;2040-08-14;;abidjan;SGBCI / Aïcha;Retour sur le compte d'OSIA du virement rejeté du salaire d'Aïcha (au plus tard);latent;oui;fils-ouverts n° 93
+A022;2040-08-14;;abidjan;Aïcha;CNPS de juillet : l'échéance du 15 tombe un jour férié (montant non chiffré dans les fichiers);prevu;oui;fils-ouverts n° 104
+A023;2040-08-15;;abidjan;Monde;Assomption (férié en Côte d'Ivoire, au Luxembourg et au Cap-Vert);prevu;oui;
+A024;2040-08-16;;abidjan;Client de la villa Riviera;Virement de l'acompte de 3 752 400 FCFA TTC (annoncé sous huit jours depuis le 08/08);latent;oui;fils-ouverts n° 100
+A025;2040-08-17;;abidjan;Me Kouamé;"Retour au cabinet (≈ ; arrêt d'environ huit jours)";latent;non;T11 coup_dur du 09/08
+A026;2040-08-17;;luxembourg;Hôtel Capitol;Remboursement de 352 500 FCFA (≈ 537 €) sur la carte de William, sous dix jours ouvrés depuis le 03/08;latent;oui;finances.md
+A027;2040-08-18;;douala;Père de William;"Enterrement de l'oncle Joseph au village ; e-visa du père bloqué (certificat d'hébergement légalisé)";prevu;oui;fils-ouverts n° 94
+A028;2040-08-18;;abidjan;Estelle;"Week-end du prochain suivi de trésorerie (18-19/08) : suivi CONFIRMÉ par William le 09/08 à 15h17 ; Estelle demande à garder ce week-end (réponse de William en attente) ; elle garde en créance la promesse d'une offre";latent;oui;vies-propres.md
+A029;2040-08-19;;abidjan;Vridi (fournisseur);"Livraison annoncée des batteries et onduleurs (aléa A06 ; excuse fausse, non connue de William)";prevu;oui;fils-ouverts n° 99
+A030;2040-08-20;;abidjan;LinkedIn;Offre gratuite mise en pause (14 jours) si le plafond de candidatures n'est pas atteint (≈);annule;oui;calendrier.md | offre fermée par William à 14h24
+A031;2040-08-20;;luxembourg;Sandra;Reprise du travail au CHEM;prevu;non;vies-propres.md
+A032;2040-08-20;;luxembourg;Eau (semestre);Prélèvement de 162,40 € sur le compte courant de William;prevu;oui;finances.md
+A033;2040-08-22;;luxembourg;William;Payer l'ACD : 1 097,50 € (rappel enregistré sur son téléphone);prevu;oui;fils-ouverts n° 102
+A034;2040-08-31;;abidjan;Aïcha / Me Kouamé;Déclaration de l'investissement étranger (délai d'un mois après la réception des fonds du 31/07);prevu;oui;revue n° 3
+A035;2040-08-31;;abidjan;Mariette;"Paie d'août avec retenues d'ITS de juin (Aïcha 133 500, Mariette 112 500 FCFA) ; traitement d'août de William (≈ 9 300 €)";prevu;oui;fils-ouverts n° 104
+A036;2040-09-01;;abidjan;Ibrahim Koné;"Début au SAV (préavis prolongé jusqu'au 31/08) ; arrivée prévisionnelle d'Esther N'Guessan (conformité)";prevu;oui;
+A037;2040-09-06;;lisbonne;LinkedIn / TAP;"Remboursement attendu des taxes TAP (186,40 €) ; fin de l'essai LinkedIn Premium Business, RÉSILIÉ le 09/08 à 14h42 (accès jusqu'à ce jour-là, aucun prélèvement)";prevu;oui;
+A038;2040-09-08;;abidjan;Monde;≈ Début du Ramadan 2040 (± 1-2 jours selon la lune) jusqu'à ≈ dim. 07/10;latent;oui;calendrier_2040.py
+A039;2040-09-17;;luxembourg;Lycée de William;"≈ Rentrée scolaire (mi-septembre) ; passage à 410 points ; Mme Schmit directrice adjointe";latent;oui;calendrier.md
+A040;2040-09-30;;abidjan;Yves / William;Dernier jour pour notifier par écrit le renouvellement de l'essai d'Yves (fin le 15/10);prevu;oui;fils-ouverts n° 71
+A041;2040-10-08;;abidjan;Monde;"≈ Aïd el-Fitr / Korité (férié ; jour exact selon la lune)";latent;oui;calendrier_2040.py
+A042;2040-10-15;;abidjan;Yves;Fin de la période d'essai (trois mois);prevu;oui;
+A043;2040-10-21;;abidjan;Aïcha / William;Dernier jour pour notifier le renouvellement de l'essai d'Aïcha (fin le 21/11);prevu;oui;
+A044;2040-10-30;;abidjan;Mariette / William;"Dernier jour pour notifier le renouvellement de l'essai de Mariette (fin le 30/11) ; sa première évaluation mensuelle (pénalité prévue, non connue d'elle)";prevu;oui;
+A045;2040-11-21;;abidjan;Aïcha;Fin de la période d'essai (six mois) : décision écrite de William;prevu;oui;fils-ouverts n° 78
+A046;2040-11-30;;abidjan;Mariette;Fin de la période d'essai (six mois);prevu;oui;
+A047;2040-12-15;;abidjan;Grace et Abdoul / William;"Dernier jour pour notifier le renouvellement de l'essai (fin le 15/01/2041) ; ≈ Tabaski le même jour (férié)";prevu;oui;
+A048;2040-12-30;;luxembourg;William;"Échéance que William s'est fixée pour se déclarer à l'administration luxembourgeoise (dimanche ; dernier jour ouvré ven. 28/12)";prevu;oui;piège n° 30
+A049;2041-01-15;;abidjan;Grace et Abdoul;Fin de la période d'essai (six mois);prevu;oui;
+A050;2040-08-09;16:43;abidjan;Yves;"Lit le message de William (remis à 13h18) et répond en privé : « Noté, Boss 🙏🏾 Pardon, j'étais chez un client. Je me permets une question : pour mon poste, les 880 000, le pôle, les deux démarcheurs… on garde ou on annule ? Je dois voir avec Kader pour son CV. » (T7c execute_a_contrecoeur ; T10 dans_la_journee)";prevu;non;tirages du 09/08 à 13h18 (Abidjan)
+A051;2040-08-11;;abidjan;Secrétariat de Me Kouamé;"Répond au message de William (plus de 24 h après, ou jamais ; T10 plus_tard_ou_jamais) : Me Kouamé est souffrant, absent jusqu'au 17/08, le message lui sera transmis à son retour";latent;non;"T6 ; l'expéditeur est le secrétariat (jet 44.0 NON)"
+A052;2040-08-10;12:00;lisbonne;William;"Libérer la chambre 214 de l'hôtel d'Olivais (heure de départ à confirmer à la réception ; vol à 18h40)";prevu;oui;"intention déclarée le 09/08 à 15h20 : libérer à une heure qui permette de bien prendre le vol ; comptoir RAM clos à 17h40 (60 min avant), 3 h recommandées (15h40) ; heure limite de l'hôtel non communiquée"
+A053;2040-08-10;;abidjan;Abdoul;Constate que l'offre LinkedIn d'un second directeur dans son pôle est fermée (il la consultait);latent;non;

@@ -1,0 +1,7 @@
+# Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
+horloge: 2040-08-09 15:20
+fuseau: lisbonne
+lieu: Lisbonne, chambre 214 de l'hôtel d'Olivais (nuit du 09/08 prise à 14h36)
+attente: Réponse (ou non) à Estelle (15h19) : garde-t-on le week-end du 18-19 pour le prochain point ?
+attente: Messages remis, non lus : Yves (14h18), Me Kouamé (14h20)
+attente: Heure de libération de la chambre 214 demain (intention : laisser le temps de prendre le vol ; heure limite de l'hôtel non communiquée) ; vol RAM à 18h40
