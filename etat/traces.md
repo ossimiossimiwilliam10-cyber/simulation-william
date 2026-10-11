@@ -1,4 +1,4 @@
-# Dossier des traces de William (univers 2 ; créé le 17/07/2040)
+# Dossier des traces de William (univers 2 ; créé le 17/07/2040, redaté au 14/07/2040)
 
 > Règle (revue du lundi, validée le 23/07/2040, univers 1) : le monde garde la mémoire de ce que William écrit, signe, dit et fait.
 > Ces traces peuvent **ressortir** (rumeur, plainte, contrôle, conflit, fuite : aléa A12) sans que le moteur les invente à la

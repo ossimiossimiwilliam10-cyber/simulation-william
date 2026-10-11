@@ -1,0 +1,4 @@
+type;description;min;habituel;max;unite;proba_survenue;source;verifie_le
+virement_sepa;virement SEPA entre banques de la zone euro (crédit chez le bénéficiaire);0;1;1;jours_ouvres;100;règlement SEPA (exécution au plus tard J+1 ouvré) ;
+virement_swift_afrique;virement SWIFT vers l'Afrique depuis la Spuerkeess;2;3;5;jours_ouvres;100;Spuerkeess (univers 1, vérifié le 22/07/2040 de la simulation) ;
+remboursement_cns;remboursement de soins par la CNS (frontalier) ;10;20;45;jours;100;estimation du moteur, à vérifier quand un cas se présente;

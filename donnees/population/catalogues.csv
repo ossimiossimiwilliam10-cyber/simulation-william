@@ -1,0 +1,142 @@
+categorie;element;poids;affinite;gravite
+defaut;arrive souvent en retard et s'en excuse à peine;3;C-;
+defaut;oublie de répondre aux messages pendant des jours;3;C-;
+defaut;radin, compte chaque euro devant les autres;2;A-;
+defaut;dépense sans compter, puis se plaint d'être à découvert;2;C-;
+defaut;aime les commérages et répète ce qu'on lui confie;2;A-,E+;
+defaut;susceptible, se vexe d'une remarque anodine;3;N+;
+defaut;rancunier, n'oublie jamais un affront;2;A-,N+;
+defaut;se vante de ce qu'il gagne ou de ce qu'il a fait;2;E+,A-;
+defaut;parie sur le sport en ligne plus qu'il ne l'avoue;1;C-;
+defaut;cache un crédit à la consommation qu'il rembourse difficilement;1;C-;
+defaut;préjugés ordinaires sur les gens d'autres origines, dits « en riant »;2;O-;
+defaut;toujours sur son téléphone, même en pleine conversation;3;C-;
+defaut;remet tout au lendemain, puis panique à l'échéance;3;C-,N+;
+defaut;flatteur quand il a besoin de quelque chose;2;A-;
+defaut;se plaint de tout : le travail, la météo, les impôts;3;N+;
+defaut;ne supporte pas d'avoir tort, s'enferre dans ses positions;2;A-;
+defaut;jaloux du succès des autres, même de ses amis;2;N+,A-;
+defaut;mauvais conducteur qui se croit excellent;1;;
+defaut;boit trop le week-end et le minimise;2;C-,E+;
+defaut;méfiant, voit des arrière-pensées partout;2;A-,N+;
+defaut;donneur de leçons sur la santé, l'argent ou l'éducation;2;C+,A-;
+defaut;pingre en pourboires, généreux en paroles;1;A-;
+defaut;désordonné, perd ses clés et ses papiers;2;C-;
+defaut;passif-agressif quand il est contrarié;2;A-,N+;
+defaut;dit oui à tout puis se désiste au dernier moment;2;C-,A+;
+defaut;parle trop fort, coupe la parole;2;E+;
+defaut;très susceptible sur son accent ou sa langue;1;N+;
+defaut;se compare sans arrêt aux autres;2;N+;
+defaut;ne prête jamais rien, même pas un outil;1;A-;
+defaut;exagère ses histoires jusqu'au mensonge;2;E+;
+defaut;fuit les conflits et laisse pourrir les situations;2;A+,E-;
+defaut;rigide sur les horaires et les règles, au point d'agacer;2;C+;
+qualite;fiable : ce qu'il promet, il le fait;3;C+;
+qualite;drôle sans méchanceté;3;E+,A+;
+qualite;discret : ne répète rien;2;A+,C+;
+qualite;généreux de son temps quand quelqu'un a besoin d'aide;3;A+;
+qualite;bricoleur, répare tout;2;;
+qualite;bon cuisinier qui aime recevoir;2;E+;
+qualite;patient avec les enfants et les anciens;2;A+;
+qualite;franc, dit ce qu'il pense sans détour;2;A-;
+qualite;travailleur acharné;3;C+;
+qualite;curieux, cultivé, lit beaucoup;2;O+;
+qualite;calme dans les urgences;2;N-;
+qualite;fidèle en amitié;3;A+;
+qualite;organisé, toujours un plan;2;C+;
+qualite;parle quatre langues sans effort;2;O+;
+qualite;sait écouter;2;A+;
+contradiction;économe, mais vient de changer de voiture à crédit;2;;
+contradiction;catholique pratiquant et divorcé deux fois;1;;
+contradiction;sportif et fumeur;2;;
+contradiction;critique le Luxembourg mais n'en partirait pour rien au monde;2;;
+contradiction;se dit sans préjugés et en a plein;2;;
+contradiction;écolo convaincu qui prend l'avion quatre fois par an;2;O+;
+contradiction;méfiant envers les banques, mais tout son argent est sur un livret;1;;
+contradiction;se plaint d'être seul et refuse toutes les invitations;2;N+;
+contradiction;rigoureux au travail, désordre total chez lui;2;;
+contradiction;généreux avec les inconnus, dur avec sa famille;1;;
+contradiction;dit détester les réseaux sociaux et y passe des heures;2;;
+contradiction;veut changer de vie mais ne change rien;3;;
+contradiction;très poli en public, cassant au volant;2;;
+contradiction;se dit pressé de partir à la retraite et ne prend jamais ses congés;1;C+;
+objectif;obtenir une promotion ou un poste plus stable;3;C+;
+objectif;acheter un logement (ou un plus grand);3;;
+objectif;rembourser ses dettes;2;C-;
+objectif;trouver quelqu'un et se poser;3;;
+objectif;avoir un enfant;2;;
+objectif;changer de métier;2;O+;
+objectif;passer plus de temps avec ses enfants;2;A+;
+objectif;préparer une compétition ou un examen;2;C+;
+objectif;faire venir un proche resté au pays;1;;
+objectif;obtenir la nationalité luxembourgeoise;1;;
+objectif;ouvrir son propre commerce;1;E+;
+objectif;maigrir ou reprendre le sport;2;;
+objectif;partir vivre au soleil (Portugal, Espagne, Sud);1;;
+objectif;finir de rénover sa maison;2;;
+objectif;mettre de l'argent de côté pour ses vieux jours;2;C+;
+objectif;apprendre le luxembourgeois;1;O+;
+objectif;organiser son mariage;1;;
+objectif;se faire une place dans le milieu (club, lycée, quartier);2;E+;
+objectif;divorcer sans tout perdre;1;;
+objectif;voyager loin une fois dans sa vie;1;O+;
+souci;un parent âgé dont la santé décline;3;;
+souci;fin de mois difficile, découvert bancaire;3;C-;
+souci;un enfant qui décroche à l'école;2;;
+souci;mal de dos chronique;2;;
+souci;dispute avec un frère ou une sœur pour un héritage;1;;
+souci;voisin bruyant;2;;
+souci;voiture qui lâche, pas d'argent pour la remplacer;2;;
+souci;contrat de travail qui se termine bientôt;2;;
+souci;couple en crise;2;N+;
+souci;insomnies;2;N+;
+souci;loyer qui augmente;2;;
+souci;procédure de divorce;1;;
+souci;dettes de jeu;1;C-;
+souci;solitude depuis un déménagement;2;E-;
+souci;burn-out qui couve;2;N+,C+;
+souci;démarche administrative bloquée (titre de séjour, permis, impôts);2;;
+souci;chef difficile;2;;
+souci;enfant malade;1;;
+souci;problème de santé qu'il refuse de faire examiner;1;;
+souci;tension avec la belle-famille;2;;
+secret;a une liaison;1;;3
+secret;a perdu beaucoup d'argent au jeu ou en bourse;1;C-;2
+secret;cherche un autre travail en cachette;3;;1
+secret;a menti sur son diplôme ou son expérience;1;;2
+secret;prend des antidépresseurs;2;N+;1
+secret;doit de l'argent à un proche;2;;1
+secret;a une condamnation ancienne (conduite en état d'ivresse);1;;2
+secret;n'a jamais dit à sa famille qu'il a été licencié;1;;2
+secret;envoie une grande partie de son salaire à sa famille au pays;2;;1
+secret;a un enfant qu'il ne voit plus;1;;3
+secret;fume en cachette alors qu'il dit avoir arrêté;2;;1
+secret;est amoureux d'un collègue ou d'une collègue;2;;1
+secret;a raté un examen important qu'il dit avoir réussi;1;;2
+secret;travaille au noir le week-end;1;;2
+secret;a un problème d'alcool qu'il cache;1;;2
+secret;se renseigne pour partir s'installer ailleurs;2;;1
+secret;a fait une demande de crédit refusée;2;;1
+secret;a un compte bancaire que son conjoint ignore;1;;2
+secret;consulte un psychologue;2;;1
+secret;vote pour un parti qu'il n'avoue pas;2;;1
+loisir;football (match du dimanche, club amateur);3;;
+loisir;course à pied;2;C+;
+loisir;jeux vidéo;3;;
+loisir;pêche;1;;
+loisir;jardinage;2;;
+loisir;séries et plateformes de vidéo;3;;
+loisir;cuisine;2;;
+loisir;randonnée dans les Ardennes ou en Moselle;2;O+;
+loisir;vélo;2;;
+loisir;musique (joue d'un instrument);1;O+;
+loisir;sorties en boîte à Luxembourg;1;E+;
+loisir;bricolage;2;;
+loisir;lecture;2;O+;
+loisir;salle de sport;2;;
+loisir;voyages à bas prix;2;;
+loisir;paris sportifs;1;C-;
+loisir;associations (bénévolat, fanfare, pompiers volontaires);1;A+;
+loisir;photographie;1;O+;
+loisir;danse (kizomba, salsa);1;E+;
+loisir;mécanique et voitures;2;;

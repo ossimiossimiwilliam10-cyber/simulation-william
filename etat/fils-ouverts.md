@@ -1,23 +1,34 @@
-# Fils ouverts et décisions en attente (univers 2 ; au 17/07/2040, 07h05)
+# Fils ouverts et décisions en attente (univers 2 ; au samedi 14/07/2040, 08h37)
 
-> **Fichier de relais.** Tout ce qui est « en suspens » dans le monde doit être ici, pour qu'aucun moteur (Claude ou Gemini) ne
-> l'oublie. Mettre à jour à chaque tour : ajouter, avancer, clore (garder la ligne en « CLOS » avec la date). Les cases
-> « décision de William » ne sont jamais tranchées par le moteur.
+> **Fichier de relais.** Tout ce qui est « en suspens » dans le monde doit être ici, pour qu'aucun moteur (Claude, Gemini ou un
+> autre agent) ne l'oublie. Mettre à jour à chaque tour : ajouter, avancer, clore (garder la ligne en « CLOS » avec la date). Les
+> cases « décision de William » ne sont jamais tranchées par le moteur.
 > Voir aussi : `etat/vies-privees.md` et `etat/vies-propres.md` (vies des personnages), `etat/traces.md` (traces de William),
-> `etat/agenda.csv` (échéances), `etat/aleas.md`, `etat/economie.md`.
+> `etat/agenda.csv` (échéances), `etat/echeancier.csv` (argent récurrent), `etat/fronts.csv` (menaces et occasions qui avancent),
+> `etat/aleas.md`, `etat/economie.md`, `etat/relais-notes.md` (notes de passation entre agents).
 > **Univers 2 depuis le 11/10/2026** : les fils de l'univers 1 sont archivés (`archives/univers-1/etat/fils-ouverts.md`) et sans
 > effet ici.
 
 ## A. Décisions en attente de William
 | # | Sujet | Contexte | Échéance |
 |---|---|---|---|
-| 1 | **Sa journée du mardi 17/07/2040** | Début de l'univers 2 ; vacances d'été ; aucune obligation | — |
+| 1 | **Sa journée du samedi 14/07/2040** | Début de l'univers 2 ; premier jour des vacances d'été ; Fête nationale française (commerces fermés à Audun) ; aucune obligation | — |
+
+*(Avant : « Sa journée du mardi 17/07/2040 » → maintenant : départ redaté au samedi 14/07, 11/10/2026.)*
 
 ## B. Fils en cours côté monde (le moteur les fait avancer)
 | Sujet | État | Prochain jalon |
 |---|---|---|
-| Revue du lundi n° 1 (univers 2) | À présenter le lundi 23/07/2040 en début de journée | lun. 23/07 |
-| Pourcentages des tables T12 à T14 | Installés le 09/08/2040 (univers 1) sur « applique tout cela » ; à faire valider par l'utilisateur | lun. 23/07 |
+| Revue du lundi n° 1 (univers 2) | À présenter le lundi 16/07/2040 en début de journée (avant : 23/07) ; elle reprend les propositions de `memoire/propositions-2026-10-11.md` | lun. 16/07 |
+| Pourcentages des tables T12 à T14 | Installés le 09/08/2040 (univers 1) sur « applique tout cela » ; à faire valider par l'utilisateur | lun. 16/07 |
+| Pack d'aléas de l'univers 2 | Le pack actif vise Abidjan (A01, A03, A04, A06) : tirages « sans objet » tant qu'il n'est pas adapté ; proposition A19-A30 | lun. 16/07 |
 
-## C. Questions de cohérence à poser à l'utilisateur (hors fiction)
-- Aucune pour l'instant.
+## C. Questions de cohérence à poser à l'utilisateur (hors fiction, posées le 11/10/2026)
+- **Crédit immobilier** : 110 000 € restants à 940 €/mois correspondent à un taux d'environ 8 % jusqu'en 2059, ou à une fin vers
+  2052 à 3,5 % : quel taux, quelle fin ?
+- **Voiture** : William en a-t-il une (modèle, assurance) ? (E010)
+- **Chauffage** de la maison : gaz, fioul, pompe à chaleur ? (E004)
+- **Soutien aux parents** : montant et fréquence ? (E011)
+- **Club de combat** : où William s'entraîne-t-il depuis onze ans (Esch-sur-Alzette proposé, nom fictif à choisir) ? (E008)
+- **Surplus mensuel** : virements automatiques 45/45/10 ou décision chaque mois ? (E012)
+- **Réseau existant** : faut-il générer, pour validation, les collègues, partenaires de club et voisins que William connaît déjà ?

@@ -15,11 +15,17 @@ Garde-fous (règle 17 de CLAUDE.md) :
 - 3 modificateurs au maximum par tirage, pris dans la liste fermée de `etat/modele-pouvoir.md` ;
 - issues `frontal_*` plafonnées (10 % en table, 15 % après modificateurs, 40 % pour T4) ; `succes_net` plafonné dans les tables
   `[contentieux]` (35 % en table, 45 % après modificateurs) ; l'inaction (`rien_*`) doit peser au moins 15 % dans T1-T3.
-Tout est consigné dans `memoire/tirages-aleas.md` (sauf --simule et --blanc) ; ne jamais rejouer un tirage.
+Tout est consigné dans `memoire/tirages-aleas.md` (texte, lu par audit_jets.py) ET dans `memoire/tirages.jsonl` (une ligne JSON
+par tirage, lue par la base de données) ; ne jamais rejouer un tirage. Depuis le 11/10/2026 : les essais `--simule` sont consignés
+à part (`memoire/simulations.jsonl`) pour qu'aucun dé ne soit relancé en cachette ; `--pour "Nom"` rattache le tirage à un
+personnage de `etat/personnages.csv` et REFUSE les tables T1, T1b et T9 pour un mineur (limite (b) du §11) ; la garde de la
+règle 17 reconnaît aussi les RÔLES (« la voisine », « le directeur »…), pas seulement les noms des fiches.
 Règle de friction administrative (CLAUDE.md §12) : jet « deuxième passage demandé » à 30 % pour toute démarche à enjeu.
 """
 import argparse
+import csv
 import datetime as dt
+import json
 import random
 import re
 import sys
@@ -28,6 +34,10 @@ from pathlib import Path
 RACINE = Path(__file__).resolve().parent.parent
 TABLES_MD = RACINE / "etat" / "modele-pouvoir.md"
 JOURNAL = RACINE / "memoire" / "tirages-aleas.md"
+JOURNAL_JSON = RACINE / "memoire" / "tirages.jsonl"
+SIMULATIONS_JSON = RACINE / "memoire" / "simulations.jsonl"
+PERSONNAGES_CSV = RACINE / "etat" / "personnages.csv"
+TABLES_INTERDITES_MINEURS = ("T1", "T1b", "T9")
 for flux in (sys.stdout, sys.stderr):
     if hasattr(flux, 'reconfigure'):
         flux.reconfigure(encoding='utf-8')
@@ -59,11 +69,17 @@ def noms_personnages():
     return sorted(noms)
 
 
+# Rôles reconnus par la garde de la règle 17 même sans fiche (univers 2 : collègues, voisins, inconnus, famille…), en plus des noms.
+ROLES = ("collègue|directeur|directrice|direction|proviseur|secrétaire|voisin|voisine|parent d'élève|élève|inconnu|inconnue|"
+         "serveur|serveuse|vendeur|vendeuse|banquier|banquière|conseiller|conseillère|propriétaire|médecin|coach|entraîneur|"
+         "partenaire|copine|copain|petite amie|amie|ami|mère|père|frère|sœur|cousin|cousine|oncle|tante|ex|patron|patronne|chef|"
+         "subordonné|subordonnée|stagiaire|policier|policière|gendarme|douanier|douanière|agent|employé|employée")
 PERSONNAGES = "|".join(re.escape(n) for n in noms_personnages()) or "(?!)"
+PERSONNES_OU_ROLES = (PERSONNAGES + "|" if noms_personnages() else "") + r"\b(?:" + ROLES + r")\b"
 VERBES_REACTION = ("confie|informe|préviens|prévient|en parle|parle à|parlera|signale|dénonce|plainte|ultimatum|menace|"
                    "démission|quitte|interdit|exige|représailles|capture|sauvegarde|témoign|confronte|soutien|avocat|"
                    "Inspection|police|syndicat|réagit|réaction|se tait|raconte|avoue")
-REACTION_LIBRE = re.compile(f"(?=.*(?:{PERSONNAGES}))(?=.*(?:{VERBES_REACTION}))", re.I | re.S)
+REACTION_LIBRE = re.compile(f"(?=.*(?:{PERSONNES_OU_ROLES}))(?=.*(?:{VERBES_REACTION}))", re.I | re.S)
 
 ENTETE = re.compile(r"^###\s+(T\d+[a-z]?)\s+—\s+(.*)$")
 PLAFOND_TAG = re.compile(r"\[plafond_frontal=(\d+)\]")
@@ -207,6 +223,66 @@ def consigner(ligne):
         f.write(f"\n{ligne} (enregistré le {dt.datetime.now():%d/%m/%Y %H:%M} heure machine)\n")
 
 
+def horloge_texte():
+    """Heure simulée de etat/horloge.txt (« AAAA-MM-JJ HH:MM fuseau »), ou chaîne vide."""
+    p = RACINE / "etat" / "horloge.txt"
+    if not p.exists():
+        return ""
+    cles = dict(l.split(":", 1) for l in p.read_text(encoding="utf-8").splitlines() if ":" in l and not l.startswith("#"))
+    return f"{cles.get('horloge', '').strip()} {cles.get('fuseau', '').strip()}".strip()
+
+
+def consigner_json(objet, simule=False):
+    """Une ligne JSON par tirage (memoire/tirages.jsonl) ; les essais --simule vont dans memoire/simulations.jsonl."""
+    cible = SIMULATIONS_JSON if simule else JOURNAL_JSON
+    maintenant = dt.datetime.now()
+    o = {"id": f"{'S' if simule else 'J'}{maintenant:%Y%m%d%H%M%S%f}", "enregistre": maintenant.isoformat(timespec="seconds"),
+         "horloge": horloge_texte(), "simule": simule}
+    o.update(objet)
+    with cible.open("a", encoding="utf-8", newline="\n") as f:
+        f.write(json.dumps(o, ensure_ascii=False) + "\n")
+
+
+def fiche_personnage(nom):
+    """Ligne de etat/personnages.csv (par nom complet, prénom, alias ou identifiant), ou None."""
+    if not nom or not PERSONNAGES_CSV.exists():
+        return None
+    with PERSONNAGES_CSV.open(encoding="utf-8", newline="") as f:
+        for l in csv.DictReader(f, delimiter=";"):
+            noms = {l.get("id", ""), l.get("nom", ""), (l.get("nom") or " ").split()[0]}
+            noms |= {a.strip() for a in (l.get("alias") or "").split(",") if a.strip()}
+            if nom.strip().lower() in {x.lower() for x in noms if x}:
+                return l
+    return None
+
+
+def est_mineur(fiche):
+    """True si le personnage a moins de 18 ans à l'horloge (date de naissance dans etat/personnages.csv)."""
+    if not fiche or not fiche.get("naissance"):
+        return False
+    h = horloge_texte()
+    try:
+        jour = dt.date.fromisoformat(h[:10]) if h else dt.date.today()
+        n = dt.date.fromisoformat(fiche["naissance"])
+    except ValueError:
+        return False
+    return (jour.year - n.year - ((jour.month, jour.day) < (n.month, n.day))) < 18
+
+
+def garde_pour(args):
+    """Contrôle --pour : personnage connu ; tables relationnelles interdites pour un mineur. Renvoie la fiche (ou None)."""
+    if not getattr(args, "pour", None):
+        return None
+    fiche = fiche_personnage(args.pour)
+    if fiche is None:
+        print(f"(avertissement : « {args.pour} » n'a pas de ligne dans etat/personnages.csv ; personnage.py nouveau, s'il est récurrent)")
+        return None
+    if est_mineur(fiche) and (args.table or "") in TABLES_INTERDITES_MINEURS:
+        sys.exit(f"REFUSÉ (§11, limite b) : {fiche.get('nom')} est mineur(e) ; les tables {', '.join(TABLES_INTERDITES_MINEURS)} "
+                 "ne s'appliquent jamais à un mineur. Aucune scène sexuelle, romantique ou sexualisée avec un mineur.")
+    return fiche
+
+
 def tirage_table(args, tables, modifs):
     issues = distribution(args, tables, modifs)
     tid = args.table
@@ -221,6 +297,7 @@ def tirage_table(args, tables, modifs):
         return 0
     if not args.libelle:
         sys.exit("Libellé obligatoire : jet.py --table Tn [--mod Mxx] \"personnage : situation\"")
+    fiche = garde_pour(args)
     jet = rng.uniform(0, 100)
     issue = choisir(issues, jet)
     repartition = " / ".join(f"{c} {p:g}" for c, p in issues.items())
@@ -231,8 +308,11 @@ def tirage_table(args, tables, modifs):
     if scene:
         print(f"En scène : {scene}")
     print("Règle 17 : sentiments libres, actes tirés ; test d'intérêt ; test de la phrase ; l'issue banale peut clore la scène.")
+    objet = {"mode": "table", "table": tid, "libelle": args.libelle, "pour": (fiche or {}).get("nom", args.pour or ""),
+             "modificateurs": args.mod, "distribution": issues, "jet": round(jet, 2), "issue": issue}
     if not args.simule:
         consigner(ligne)
+    consigner_json(objet, simule=args.simule)
     return 0
 
 
@@ -243,6 +323,7 @@ def jet_libre(args):
         sys.exit("REFUSÉ (règle 17) : ce libellé décrit la réaction d'un personnage à un acte de William. Tirer dans une table "
                  "(--table T1, T1b, T2, T3, T4, T5, T7a, T7b, T7c, T7d, T8, T9, T10, T11, T12, T13a-d, T14 ; etat/modele-pouvoir.md) ou justifier une exception avec "
                  "--derogation \"raison\" (consignée et auditée).")
+    garde_pour(args)
     jet = random.SystemRandom().uniform(0, 100)
     oui = jet < args.proba
     ligne = f"- Jet « {args.libelle} » : probabilité {args.proba:g} %, jet {jet:5.1f} → **{'OUI' if oui else 'NON'}**"
@@ -251,6 +332,8 @@ def jet_libre(args):
     print(ligne)
     if not args.simule:
         consigner(ligne)
+    consigner_json({"mode": "libre", "libelle": args.libelle, "pour": args.pour or "", "proba": args.proba, "jet": round(jet, 2),
+                    "issue": "OUI" if oui else "NON", "derogation": args.derogation or ""}, simule=args.simule)
     return 0
 
 
@@ -273,7 +356,9 @@ def main():
     ap.add_argument("--mod", action="append", default=[], help="modificateur (M01…), 3 au maximum")
     ap.add_argument("--informes", type=int, help="T5 : personnes qui connaissent l'affaire, William exclu")
     ap.add_argument("--derogation", help="justification d'un jet libre portant sur une réaction (consignée, auditée)")
-    ap.add_argument("--simule", action="store_true", help="ne consigne rien")
+    ap.add_argument("--simule", action="store_true",
+                    help="essai : rien dans le journal des tirages (trace dans memoire/simulations.jsonl)")
+    ap.add_argument("--pour", help="personnage concerné (etat/personnages.csv) : garde « mineurs » et rattachement du tirage")
     ap.add_argument("--blanc", type=int, help="statistiques à blanc sur N tirages (rien n'est consigné)")
     ap.add_argument("--liste", action="store_true", help="affiche et valide les tables et modificateurs")
     args = ap.parse_args()

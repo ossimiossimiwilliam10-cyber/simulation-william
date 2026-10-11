@@ -1,4 +1,4 @@
-# Vies privées — fils qui avancent sans William (univers 2 ; créé le 17/07/2040)
+# Vies privées — fils qui avancent sans William (univers 2 ; créé le 17/07/2040, redaté au 14/07/2040)
 
 > Règle (revue du lundi, validée le 23/07/2040, univers 1) : chaque personnage récurrent a une vie hors de William. **À chaque
 > tour significatif, le moteur fait avancer au moins un fil** par un petit événement (message, absence, nouvelle, humeur,

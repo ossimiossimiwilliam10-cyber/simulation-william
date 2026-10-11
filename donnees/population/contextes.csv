@@ -1,0 +1,14 @@
+contexte;zone;age_min;age_mode;age_max;part_femmes;registre;commune;note
+collegue_lycee;lycee;25;42;64;0.55;tu;mêlée (Luxembourg, sud du pays, frontaliers);collègue enseignant de William (même rang : un pair)
+direction_lycee;lycee;40;52;64;0.45;vous;Luxembourg ou environs;directeur, directrice ou directeur adjoint (supérieur hiérarchique)
+secretariat_lycee;luxembourg_ville;25;45;63;0.8;vous;Luxembourg ou environs;secrétariat ou administration du lycée
+eleve_lycee;luxembourg_ville;12;16;19;0.5;tu;Luxembourg ou environs;élève : presque toujours MINEUR (garde de la limite b du §11)
+parent_eleve;luxembourg_ville;35;45;60;0.55;vous;Luxembourg ou environs;parent d'élève
+voisin_audun;audun;22;55;88;0.52;vous;Audun-le-Tiche;voisin ou voisine de la rue
+commerce_audun;audun;18;40;65;0.6;vous;Audun-le-Tiche ou Villerupt;commerçant, employé de commerce côté français
+commerce_lux;esch;18;35;65;0.5;vous;Esch ou Luxembourg;commerçant, employé de commerce côté luxembourgeois
+club_combat;club_mma;17;28;50;0.15;tu;Esch, Audun, Villerupt, Luxembourg;membre ou entraîneur du club de combat
+rencontre;esch;22;33;48;0.5;vous;rayon de 30 km;rencontre adulte (soirée, terrasse, événement)
+appli_rencontre;esch;24;32;42;0.5;tu;rayon de 30 km;profil d'application de rencontre (le sexe se fixe d'après la recherche de William)
+administration;luxembourg_ville;25;45;63;0.6;vous;Luxembourg ou Moselle;agent d'une administration, d'une banque, d'une assurance
+sante;audun;30;48;67;0.55;vous;Audun-le-Tiche ou Esch;médecin, pharmacien, kinésithérapeute

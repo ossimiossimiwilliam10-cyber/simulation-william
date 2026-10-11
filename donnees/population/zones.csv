@@ -1,0 +1,57 @@
+zone;origine;poids;part_nationalite_lu;source
+luxembourg_ville;lu;29.6;1;vdl.lu, État de la population au 31/12/2023 (nationalités)
+luxembourg_ville;fr;15.5;0.08;vdl.lu 2023
+luxembourg_ville;pt;11.0;0.25;vdl.lu 2023 (8,4 % de Portugais + descendants naturalisés, estimation)
+luxembourg_ville;it;8.0;0.15;vdl.lu 2023
+luxembourg_ville;es;3.8;0.05;vdl.lu 2023
+luxembourg_ville;be;3.3;0.05;vdl.lu 2023
+luxembourg_ville;de;2.8;0.05;vdl.lu 2023
+luxembourg_ville;ro;1.9;0.02;vdl.lu 2023
+luxembourg_ville;in;1.7;0.02;vdl.lu 2023
+luxembourg_ville;gr;1.6;0.03;vdl.lu 2023
+luxembourg_ville;ua;1.5;0.02;vdl.lu 2023
+luxembourg_ville;pl;1.4;0.03;vdl.lu 2023
+luxembourg_ville;gb;1.2;0.03;vdl.lu 2023
+luxembourg_ville;cn;1.1;0.02;vdl.lu 2023
+luxembourg_ville;br;0.6;0.05;vdl.lu 2023
+luxembourg_ville;maghreb;0.9;0.1;vdl.lu 2023 (Marocains 0,44 % + autres Maghrébins, estimation)
+luxembourg_ville;cv;0.8;0.3;vdl.lu 2023 (Cap-Verdiens 0,26 % + Cap-Verdiens de nationalité portugaise, estimation)
+luxembourg_ville;cm;0.3;0.2;vdl.lu 2023 (Camerounais 0,15 %, estimation avec les naturalisés)
+luxembourg_ville;balkans;1.5;0.3;estimation du moteur (communautés ex-yougoslaves)
+luxembourg_ville;autres;10.5;0.1;reste des 167 nationalités (vdl.lu 2023)
+esch;lu;30.0;1;STATEC RP2021 Esch-sur-Alzette (43,2 % de Luxembourgeois dont 30,7 % par acquisition)
+esch;pt;38.0;0.3;STATEC RP2021 (28,6 % de Portugais + descendants naturalisés)
+esch;it;6.0;0.5;STATEC RP2021 (3,9 % d'Italiens + naturalisés)
+esch;fr;6.0;0.1;STATEC RP2021 (5,3 %)
+esch;cv;4.0;0.3;STATEC 2025 (Africains 5,2 %), estimation
+esch;maghreb;2.0;0.2;STATEC 2025, estimation
+esch;balkans;4.0;0.4;STATEC 2025 (Européens hors UE 4,4 %), estimation
+esch;be;1.1;0.05;STATEC RP2021
+esch;de;0.9;0.05;STATEC RP2021
+esch;br;2.0;0.1;estimation du moteur
+esch;cm;0.5;0.2;estimation du moteur
+esch;autres;5.5;0.1;STATEC 2025 (Asiatiques 4,6 % et autres), estimation
+audun;fr;52;0;INSEE (Audun-le-Tiche, 7 356 habitants) · origines : estimation du moteur
+audun;it;14;0;histoire minière (ville jumelée avec Gualdo Tadino) · descendants d'Italiens de nationalité française, estimation
+audun;pt;10;0;estimation du moteur (frontaliers d'origine portugaise installés côté français)
+audun;maghreb;10;0;histoire minière (immigration algérienne) · estimation
+audun;pl;4;0;histoire minière (immigration polonaise) · estimation
+audun;cv;2;0;estimation du moteur
+audun;lu;1;1;estimation du moteur
+audun;autres;7;0;estimation du moteur
+lycee;lu;70;1;estimation du moteur : concours d'enseignant trilingue (luxembourgeois, français, allemand) · majorité de Luxembourgeois, dont descendants d'immigrés
+lycee;pt;8;1;estimation du moteur (Luxembourgeois d'origine portugaise)
+lycee;it;6;1;estimation du moteur
+lycee;fr;6;0.3;estimation du moteur
+lycee;be;4;0.2;estimation du moteur
+lycee;de;3;0.2;estimation du moteur
+lycee;autres;3;0.5;estimation du moteur
+club_mma;lu;25;1;estimation du moteur (sport de combat à Esch : population mêlée, frontaliers compris)
+club_mma;pt;25;0.3;estimation du moteur
+club_mma;fr;25;0.05;estimation du moteur (frontaliers)
+club_mma;cv;6;0.3;estimation du moteur
+club_mma;it;4;0.4;estimation du moteur
+club_mma;br;4;0.1;estimation du moteur (jiu-jitsu brésilien)
+club_mma;maghreb;4;0.2;estimation du moteur
+club_mma;balkans;4;0.3;estimation du moteur
+club_mma;autres;3;0.1;estimation du moteur

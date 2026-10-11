@@ -108,9 +108,10 @@ def construire():
         rappels.append("AUJOURD'HUI lundi : revue du lundi (audit_jets.py, tirage_aleas.py, vie hors de la scène principale, monde, idées)")
     L.append("## Routine du tour")
     L += [f"- {r}" for r in rappels]
-    L += ["- Début : `python outils/resume_etat.py`, `python outils/agenda.py dus --jusqua \"<heure de fin du tour>\"`, lecture des fichiers d'état concernés.",
-          "- Pendant : réactions et négociations par `jet.py --table Tn` (T1 à T14) ; fuseaux par `fuseaux.py` ; révélations dans `savoir.py ajouter` ; argent dans `grand_livre.py ajouter`.",
-          "- Fin : `horloge.py --regler ...`, `agenda.py clore/ajouter/reporter`, journal, fils ouverts, WhatsApp, `chasse_tics.py --texte <brouillon>`, `controle_coherence.py`."]
+    L += ["- Session : `python outils/relais.py entree --agent \"<nom>\"` au début ; `python outils/relais.py sortie --note … --commit … --fusionner` à la fin.",
+          "- Début de tour : `python outils/tour.py debut` (résumé, échéances, météo, soleil, argent, corps, lieu, rituels), lecture des fichiers d'état concernés.",
+          "- Pendant : réactions et négociations par `jet.py --table Tn` (T1 à T14 ; `--pour` pour un personnage) ; personnages nouveaux par `personnage.py nouveau` ; faits et prix par `faits.py` et `prix.py` ; lieux par `lieux.py voir` ; révélations dans `savoir.py ajouter` ; argent dans `grand_livre.py ajouter`.",
+          "- Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle)."]
     L.append("")
 
     journaux = sorted((RACINE / "journal").glob("*.md"))
@@ -125,11 +126,13 @@ def construire():
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--sans-ecrire", action="store_true")
+    ap.add_argument("--silencieux", action="store_true", help="écrit etat/resume.md sans l'afficher (relais.py, tour.py)")
     args = ap.parse_args()
     texte = construire()
     if not args.sans_ecrire:
         SORTIE.write_bytes(texte.replace("\n", "\r\n").encode("utf-8"))
-    print(texte)
+    if not args.silencieux:
+        print(texte)
     return 0
 
 

@@ -1,2 +1,6 @@
 __pycache__/
 *.pyc
+# générés (reconstruits à la demande) : base de données, page « téléphone de William »
+sorties/
+# verrou de session hors git (le verrou normal vit dans le dossier .git commun)
+etat/.verrou-session.json

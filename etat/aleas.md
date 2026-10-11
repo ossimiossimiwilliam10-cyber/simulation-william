@@ -1,9 +1,10 @@
 # Catalogue des aléas (hasard, maladies, imprévus) — créé le 22/07/2040
 
-> **Univers 2 (redémarrage du 11/10/2026)** : le pack actif est conservé tel que validé (A01 A02 A03 A04 A05 A06 A07 A09 A12 A13
+> **Univers 2 (redémarrage du 11/10/2026 ; départ le samedi 14/07/2040)** : le pack actif est conservé tel que validé (A01 A02 A03 A04 A05 A06 A07 A09 A12 A13
 > A17 A18) et tiré chaque lundi. Plusieurs aléas visent le contexte de l'univers 1 (équipe d'OSIA, enfants de Sandra, délestages
 > d'Abidjan, fournisseurs de Vridi) : tant que l'univers 2 n'a pas de contexte équivalent, un aléa déclenché sans objet est
-> consigné « sans objet » et n'est pas joué. Adaptation du pack à proposer à la revue du lundi n° 1 (23/07/2040) ; seul
+> consigné « sans objet » et n'est pas joué. Adaptation du pack à proposer à la revue du lundi n° 1 (lundi 16/07/2040 ; avant : 23/07 ; proposition A19-A30 dans
+> `memoire/propositions-2026-10-11.md`) ; seul
 > l'utilisateur la valide.
 
 > **06/08/2040 — William a validé A03, A07, A12 et A18 (revue du lundi n° 3) : pack actif A01 A02 A03 A04 A05 A06 A07 A09 A12 A13 A17 A18.**

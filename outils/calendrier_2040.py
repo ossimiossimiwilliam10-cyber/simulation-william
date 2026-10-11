@@ -7,22 +7,101 @@ Ramadan, phases de la lune. Audit du 09/08/2040 : la simulation ne tenait ni Ram
     python outils/calendrier_2040.py --du 2040-08-09 --au 2040-10-31
     python outils/calendrier_2040.py --jour 2040-08-15        # qu'est-ce qui est férié ce jour-là ?
     python outils/calendrier_2040.py --lune --du 2040-08-01 --au 2040-09-30
+    python outils/calendrier_2040.py --soleil 2040-07-14 [--lieu audun]   # lever et coucher du soleil (calcul NOAA)
+    python outils/calendrier_2040.py --scolaire                    # calendrier scolaire (donnees/calendrier-scolaire.csv)
+    python outils/calendrier_2040.py --evenements --du 2040-07-14 --au 2040-09-30   # événements publics (donnees/evenements.csv)
+    python outils/calendrier_2040.py --ouvres 2040-07-13 --jours 3 --pays lu         # date après N jours ouvrés
 
 Sources et limites (à dire quand un fait en dépend) :
 - fêtes chrétiennes : calcul de Pâques (algorithme grégorien), exact ;
 - fêtes musulmanes : calendrier hégirien TABULAIRE (arithmétique) : le jour réel dépend de l'observation de la lune et de l'annonce
   officielle (Conseil supérieur des imams de Côte d'Ivoire) : écart de 1 à 2 jours possible ; toujours affichées avec « ≈ » ;
 - listes de fériés : état 2025-2026 projeté en 2040 ; les listes du Cap-Vert marquées « ? » sont à vérifier avant usage ;
-- phases de la lune : lunaison moyenne (précision ≈ ± 14 h).
+- phases de la lune : lunaison moyenne (précision ≈ ± 14 h) ;
+- lever et coucher du soleil : équations de la NOAA (précision ≈ 1 à 2 minutes), centre du disque, réfraction standard ;
+- calendrier scolaire et événements publics : fichiers de `donnees/` (sources et statut « vérifié » ou « projection » sur chaque ligne).
 """
 import argparse
+import csv
 import datetime as dt
+import math
 import sys
+from pathlib import Path
+from zoneinfo import ZoneInfo
 
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
 JOURS = ["lun", "mar", "mer", "jeu", "ven", "sam", "dim"]
+DONNEES = Path(__file__).resolve().parent.parent / "donnees"
+# lieux usuels de l'univers 2 : (latitude, longitude, fuseau IANA)
+LIEUX_SOLEIL = {
+    "audun": (49.472, 5.955, "Europe/Paris"),
+    "luxembourg": (49.611, 6.130, "Europe/Luxembourg"),
+    "esch": (49.496, 5.981, "Europe/Luxembourg"),
+    "abidjan": (5.345, -4.024, "Africa/Abidjan"),
+    "douala": (4.051, 9.768, "Africa/Douala"),
+    "lisbonne": (38.722, -9.139, "Europe/Lisbon"),
+}
+
+
+def soleil(jour, lieu="audun"):
+    """(lever, coucher) en datetime locaux pour `jour` (date) ; équations de la NOAA (General Solar Position)."""
+    lat, lon, tz = LIEUX_SOLEIL[lieu]
+    n = jour.timetuple().tm_yday
+    g = 2 * math.pi / 365 * (n - 1)
+    eqtime = 229.18 * (0.000075 + 0.001868 * math.cos(g) - 0.032077 * math.sin(g) - 0.014615 * math.cos(2 * g)
+                       - 0.040849 * math.sin(2 * g))
+    decl = (0.006918 - 0.399912 * math.cos(g) + 0.070257 * math.sin(g) - 0.006758 * math.cos(2 * g)
+            + 0.000907 * math.sin(2 * g) - 0.002697 * math.cos(3 * g) + 0.00148 * math.sin(3 * g))
+    phi = math.radians(lat)
+    cos_ha = math.cos(math.radians(90.833)) / (math.cos(phi) * math.cos(decl)) - math.tan(phi) * math.tan(decl)
+    cos_ha = max(-1.0, min(1.0, cos_ha))
+    ha = math.degrees(math.acos(cos_ha))
+    minuit = dt.datetime.combine(jour, dt.time(0, 0), tzinfo=dt.timezone.utc)
+    lever = minuit + dt.timedelta(minutes=720 - 4 * (lon + ha) - eqtime)
+    coucher = minuit + dt.timedelta(minutes=720 - 4 * (lon - ha) - eqtime)
+    z = ZoneInfo(tz)
+    return lever.astimezone(z), coucher.astimezone(z)
+
+
+def lire_donnees(nom):
+    p = DONNEES / nom
+    if not p.exists():
+        return []
+    with p.open(encoding="utf-8", newline="") as f:
+        return list(csv.DictReader(f, delimiter=";"))
+
+
+def jours_feries(annee, pays):
+    return {d for d, _, _ in fetes(annee, pays)}
+
+
+def ouvres(depart, n, pays="lu"):
+    """Date atteinte après `n` jours ouvrés (lundi-vendredi hors fériés de `pays`) à partir du lendemain de `depart`."""
+    d = depart
+    compte = 0
+    while compte < n:
+        d += dt.timedelta(days=1)
+        if d.weekday() < 5 and d not in jours_feries(d.year, pays):
+            compte += 1
+    return d
+
+
+def dernier_ouvre(annee, mois, pays="lu"):
+    """Dernier jour ouvré du mois."""
+    d = (dt.date(annee + (mois == 12), mois % 12 + 1, 1) - dt.timedelta(days=1))
+    while d.weekday() >= 5 or d in jours_feries(annee, pays):
+        d -= dt.timedelta(days=1)
+    return d
+
+
+def periode_scolaire(jour, pays="lu"):
+    """Ligne du calendrier scolaire qui contient `jour` (vacances, année…), ou None."""
+    for l in lire_donnees("calendrier-scolaire.csv"):
+        if l["pays"] == pays and l["periode"] != "annee" and l["debut"] <= jour.isoformat() <= l["fin"]:
+            return l
+    return None
 
 
 def paques(annee):
@@ -171,7 +250,34 @@ def main():
     ap.add_argument("--au", type=date_arg)
     ap.add_argument("--jour", type=date_arg, help="fériés de ce jour")
     ap.add_argument("--lune", action="store_true", help="phases de la lune sur la période --du / --au")
+    ap.add_argument("--soleil", type=date_arg, help="lever et coucher du soleil ce jour-là")
+    ap.add_argument("--lieu", default="audun", help="lieu pour --soleil : " + ", ".join(LIEUX_SOLEIL))
+    ap.add_argument("--scolaire", action="store_true", help="calendrier scolaire (donnees/calendrier-scolaire.csv)")
+    ap.add_argument("--evenements", action="store_true", help="événements publics (donnees/evenements.csv), filtrés par --du/--au")
+    ap.add_argument("--ouvres", type=date_arg, help="date de départ d'un délai en jours ouvrés (avec --jours et --pays)")
+    ap.add_argument("--jours", type=int, default=1)
     args = ap.parse_args()
+    if args.soleil:
+        lev, cou = soleil(args.soleil, args.lieu)
+        duree = cou - lev
+        print(f"{JOURS[args.soleil.weekday()]} {args.soleil:%d/%m/%Y} à {args.lieu} : lever {lev:%H:%M}, coucher {cou:%H:%M} "
+              f"({duree.seconds // 3600} h {duree.seconds % 3600 // 60:02d} de jour)")
+        return 0
+    if args.scolaire:
+        for l in lire_donnees("calendrier-scolaire.csv"):
+            print(f"{l['pays'].upper()} {l['zone']:6s} {l['annee_scolaire']} {l['periode']:22s} {l['debut']} -> {l['fin']}  [{l['statut']}]")
+        return 0
+    if args.evenements:
+        du, au = (args.du or dt.date(args.annee, 1, 1)), (args.au or dt.date(args.annee, 12, 31))
+        for l in lire_donnees("evenements.csv"):
+            if l["fin"] >= du.isoformat() and l["debut"] <= au.isoformat():
+                print(f"{l['debut']} -> {l['fin']}  {l['lieu']} ({l['pays']}) : {l['evenement']}  [{l['fiabilite']}]")
+        return 0
+    if args.ouvres:
+        pays = args.pays.split(",")[0]
+        d = ouvres(args.ouvres, args.jours, pays)
+        print(f"{args.jours} jour(s) ouvré(s) ({pays.upper()}) après le {args.ouvres:%d/%m/%Y} : {JOURS[d.weekday()]} {d:%d/%m/%Y}")
+        return 0
     if args.lune:
         du = args.du or dt.date(args.annee, 1, 1)
         au = args.au or dt.date(args.annee, 12, 31)

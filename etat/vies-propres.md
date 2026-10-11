@@ -1,4 +1,4 @@
-# Vies propres des personnages — fiches vivantes (univers 2 ; état au 17/07/2040, 07h05)
+# Vies propres des personnages — fiches vivantes (univers 2 ; état au 14/07/2040, 08h37)
 
 > **Mécanisme validé par l'utilisateur le 09/08/2040 (univers 1), repris dans l'univers 2** : chaque personnage récurrent vit
 > indépendamment de William.
@@ -16,6 +16,8 @@
 > - **Mise à jour** : les fiches évoluent à chaque tour du monde (« avant → maintenant »).
 > - **Univers 2** : les fiches de l'univers 1 sont archivées (`archives/univers-1/etat/vies-propres.md`) ; aucun de ces
 >   personnages n'existe ici. Une fiche se crée quand un personnage devient récurrent (deuxième apparition, ou lien durable).
+> - **Depuis le 11/10/2026** : un personnage nouveau se crée avec `python outils/personnage.py nouveau --contexte … --role …`
+>   (tirage selon la démographie réelle ; il écrit lui-même la fiche ci-dessous, `personnes/` et `etat/personnages.csv`).
 
 ## Fiches
 

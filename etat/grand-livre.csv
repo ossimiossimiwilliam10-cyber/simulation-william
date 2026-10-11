@@ -1,7 +1,17 @@
 date;heure;compte;montant;type;libelle;reference
-2040-07-17;07:00;courant;9800.00;calage;Solde de départ de l'univers 2 (niveau initial choisi par l'utilisateur le 11/10/2026);
-2040-07-17;07:00;projet;357000.00;calage;Solde de départ de l'univers 2 (épargne « Projet »);
-2040-07-17;07:00;etf;288000.00;calage;Valeur de départ de l'univers 2 (ETF);
-2040-07-17;07:00;pret;110000.00;calage;Prêt logement restant dû (départ de l'univers 2);
-2040-07-17;07:00;maison_part;90000.00;valeur;Part nette de la maison d'Audun-le-Tiche (estimation);
-2040-07-31;12:00;courant;9300.00;prevu;"Traitement de juillet (≈ net ; jour exact à établir)";P001
+2040-07-14;07:00;courant;9800.00;calage;Solde de départ de l'univers 2 (niveau initial choisi par l'utilisateur le 11/10/2026) (avant : daté du 17/07 → maintenant : 14/07, départ redaté le 11/10/2026);
+2040-07-14;07:00;projet;357000.00;calage;Solde de départ de l'univers 2 (épargne « Projet ») (avant : daté du 17/07 → maintenant : 14/07, départ redaté le 11/10/2026);
+2040-07-14;07:00;etf;288000.00;calage;Valeur de départ de l'univers 2 (ETF) (avant : daté du 17/07 → maintenant : 14/07, départ redaté le 11/10/2026);
+2040-07-14;07:00;pret;110000.00;calage;Prêt logement restant dû (départ de l'univers 2) (avant : daté du 17/07 → maintenant : 14/07, départ redaté le 11/10/2026);
+2040-07-14;07:00;maison_part;90000.00;valeur;Part nette de la maison d'Audun-le-Tiche (estimation) (avant : daté du 17/07 → maintenant : 14/07, départ redaté le 11/10/2026);
+2040-07-31;12:00;courant;9300.00;prevu_annule;"Traitement de juillet (≈ net ; jour exact à établir) [annulé : remplacé par l'échéancier E001, 11/10/2026]";P001
+2040-07-31;20:00;courant;9300.00;prevu;Traitement mensuel de William (net, État luxembourgeois);E001-20400731
+2040-08-31;20:00;courant;9300.00;prevu;Traitement mensuel de William (net, État luxembourgeois);E001-20400831
+2040-08-06;06:00;courant;-940.00;prevu;Mensualité du crédit immobilier (maison d'Audun-le-Tiche);E002-20400806
+2040-09-05;06:00;courant;-940.00;prevu;Mensualité du crédit immobilier (maison d'Audun-le-Tiche);E002-20400905
+2040-08-10;06:00;courant;-112.00;prevu;Électricité (mensualisation, tarif réglementé);E003-20400810
+2040-09-10;06:00;courant;-112.00;prevu;Électricité (mensualisation, tarif réglementé);E003-20400910
+2040-07-16;06:00;courant;-63.00;prevu;Box internet fibre et forfait mobile;E005-20400716
+2040-08-16;06:00;courant;-63.00;prevu;Box internet fibre et forfait mobile;E005-20400816
+2040-08-01;06:00;courant;-85.00;prevu;Club de combat (accès complet);E008-20400801
+2040-09-03;06:00;courant;-85.00;prevu;Club de combat (accès complet);E008-20400903

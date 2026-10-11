@@ -1,0 +1,17 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "shell": "bash",
+            "command": "python outils/relais.py entree --court --agent \"Claude Code (crochet de démarrage)\" 2>/dev/null || true",
+            "timeout": 60,
+            "statusMessage": "Briefing de relais de la simulation"
+          }
+        ]
+      }
+    ]
+  }
+}

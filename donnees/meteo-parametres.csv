@@ -1,0 +1,9 @@
+cle;valeur;description;source
+decalage_2040;1.5;écart de température (°C) ajouté aux normales 1991-2020 pour 2040;projection du moteur : réchauffement ≈ +0,45 °C par décennie depuis le centre de la période 1991-2020 (≈ 2005) · l'été 2026 a déjà été le plus chaud mesuré à Findel (moyenne saisonnière 20,6 °C, bilan ASTA-MeteoLux) · à valider par l'utilisateur
+persistance_pluie;0.55;probabilité qu'un jour de pluie suive un jour de pluie (chaîne de Markov à deux états);ordre de grandeur des climats tempérés (modèles de Richardson et Wilks) · choix du moteur
+phi_temperature;0.75;persistance d'un jour à l'autre de l'anomalie de température (processus AR(1));choix du moteur (vagues de chaleur ou de fraîcheur de quelques jours)
+sigma_tmax;3.8;écart-type de l'anomalie du maximum journalier (°C), d'octobre à avril;calé sur les normales 1991-2020 (jours de gel, moyennes)
+sigma_tmax_ete;4.6;écart-type de l'anomalie du maximum journalier (°C), de mai à septembre;calé pour retrouver ≈ 12,8 jours ≥ 25 °C et ≈ 3,3 jours ≥ 30 °C en juillet (normales 1991-2020)
+effet_pluie_tmax;-2.0;effet d'un jour de pluie sur le maximum (°C);choix du moteur
+forme_gamma_pluie;0.75;paramètre de forme de la loi gamma des hauteurs de pluie;ordre de grandeur usuel des générateurs de temps
+record_national;40.8;record national de chaleur (°C), Steinsel, 25/07/2019;ASTA/AgriMeteo (Findel : 39 °C le même jour)

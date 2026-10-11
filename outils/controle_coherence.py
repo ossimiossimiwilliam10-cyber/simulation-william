@@ -12,6 +12,11 @@ Contrôles automatiques :
 6. **Données structurées** (installées le 09/08/2040) : horloge, agenda (`etat/agenda.csv`), grand livre (`etat/grand-livre.csv`),
    « qui sait quoi » (`etat/savoir.csv`) : fichiers lisibles et cohérents ; échéances échues non closes en avertissement.
 7. **Chasse aux tics** (`outils/chasse_tics.py`) : avertissements non bloquants sur les trois derniers journaux.
+8. **(11/10/2026)** Dates écrites en toutes lettres (« samedi 14 juillet 2040 », en-têtes de tour en majuscules) ; trois fichiers
+   maîtres (CLAUDE.md, GEMINI.md, AGENTS.md : `outils/maitres.py`) ; colonnes de TOUS les CSV de `etat/` et `donnees/` ; cohérence
+   croisée de la base de données (`outils/base.py verifier` : personnages, relations, savoir, météo, corps, échéancier, fronts,
+   ordre du journal) ; rituels du moteur en retard (`outils/rituels.py`) ; dispositif de relais (`outils/relais.py verifier`).
+   Les lignes qui commencent par « > » (citations du joueur, dictées) ne sont pas contrôlées pour les jours de la semaine.
 Code de sortie 1 s'il y a au moins une erreur.
 """
 import datetime as dt
@@ -30,6 +35,11 @@ MOTIF = re.compile(
     r"\b(lundi|mardi|mercredi|jeudi|vendredi|samedi|dimanche|lun\.?|mar\.|mer\.?|jeu\.?|ven\.?|sam\.?|dim\.?)\s+"
     r"(\d{1,2})/(\d{2})(?:/(\d{4}))?", re.IGNORECASE)
 DOSSIERS = ["etat", "personnes", "journal", "memoire", "whatsapp", "serveur", "."]  # univers 1 : archives/univers-1 (non contrôlé)
+MOIS_NOMS = {"janvier": 1, "février": 2, "fevrier": 2, "mars": 3, "avril": 4, "mai": 5, "juin": 6, "juillet": 7, "août": 8, "aout": 8,
+             "septembre": 9, "octobre": 10, "novembre": 11, "décembre": 12, "decembre": 12}
+MOTIF_LETTRES = re.compile(
+    r"\b(lundi|mardi|mercredi|jeudi|vendredi|samedi|dimanche)\s+(1er|\d{1,2})\s+(" + "|".join(MOIS_NOMS) + r")(?:\s+(\d{4}))?",
+    re.IGNORECASE)
 EXCLUS = {".git", "outils", "__pycache__"}
 
 
@@ -51,7 +61,21 @@ def fichiers_md():
 def controle_jours():
     erreurs, total = [], 0
     for p in fichiers_md():
+        if any(x.startswith("conception-") for x in p.parts):
+            continue  # notes de recherche du 11/10/2026 : dates réelles de 2026, pas des dates du monde
         for n, ligne in enumerate(p.read_text(encoding="utf-8").splitlines(), 1):
+            if ligne.lstrip().startswith(">"):
+                continue  # citation (message dicté du joueur, extrait) : pas un fait du moteur
+            for m in MOTIF_LETTRES.finditer(ligne):
+                jour_l, j_l, mois_l, annee_l = m.group(1).lower(), m.group(2).lower(), m.group(3).lower(), m.group(4)
+                try:
+                    d = dt.date(int(annee_l or 2040), MOIS_NOMS[mois_l], 1 if j_l == "1er" else int(j_l))
+                except ValueError:
+                    erreurs.append(f"{p.relative_to(RACINE)}:{n} date impossible « {m.group(0)} »")
+                    continue
+                total += 1
+                if JOURS[jour_l[:3]] != d.weekday():
+                    erreurs.append(f"{p.relative_to(RACINE)}:{n} « {m.group(0)} » : {d:%d/%m/%Y} est un {NOMS[d.weekday()]}")
             for m in MOTIF.finditer(ligne):
                 jour, j, mois, annee = m.group(1).lower(), int(m.group(2)), int(m.group(3)), int(m.group(4) or 2040)
                 try:
@@ -69,12 +93,57 @@ def controle_jours():
 
 
 def controle_maitres():
-    a = (RACINE / "CLAUDE.md").read_text(encoding="utf-8").splitlines()
-    b = (RACINE / "GEMINI.md").read_text(encoding="utf-8").splitlines()
-    if len(a) != len(b):
-        return [f"CLAUDE.md ({len(a)} lignes) et GEMINI.md ({len(b)} lignes) n'ont pas la même longueur"]
-    diff = [i + 1 for i, (x, y) in enumerate(zip(a, b)) if x != y]
-    return [] if diff == [3] else [f"CLAUDE.md et GEMINI.md diffèrent aux lignes {diff} (attendu : 3 seulement)"]
+    """CLAUDE.md, GEMINI.md et AGENTS.md identiques sauf la ligne 3 (outils/maitres.py)."""
+    sys.path.insert(0, str(RACINE / "outils"))
+    import maitres
+    return maitres.verifier()
+
+
+def controle_csv():
+    """Toutes les lignes de chaque CSV de etat/ et donnees/ ont le nombre de colonnes de l'en-tête (un « ; » dans un champ décale
+    tout : piège découvert le 11/10/2026)."""
+    import csv
+    erreurs, total = [], 0
+    for base in (RACINE / "etat", RACINE / "donnees"):
+        for p in sorted(base.rglob("*.csv")):
+            with p.open(encoding="utf-8", newline="") as f:
+                lignes = list(csv.reader(f, delimiter=";"))
+            if not lignes:
+                continue
+            total += 1
+            n = len(lignes[0])
+            for i, l in enumerate(lignes[1:], 2):
+                if l and len(l) != n:
+                    erreurs.append(f"{p.relative_to(RACINE)}:{i} {len(l)} colonnes au lieu de {n} (un « ; » dans un champ ?)")
+    return erreurs, total
+
+
+def controle_base():
+    """Cohérence croisée de la base reconstruite, rituels en retard, relais. Retourne (erreurs, avertissements)."""
+    sys.path.insert(0, str(RACINE / "outils"))
+    erreurs, aver = [], []
+    try:
+        import base
+        e, a = base.verifier()
+        erreurs += e
+        aver += a
+    except Exception as exc:  # noqa: BLE001
+        erreurs.append(f"base de données : vérification impossible ({exc})")
+    try:
+        import rituels
+        aver += [f"rituel {n} : {d}" for n, s, d, c in rituels.bilan() if s == "EN RETARD"]
+    except Exception as exc:  # noqa: BLE001
+        aver.append(f"rituels : bilan impossible ({exc})")
+    try:
+        import fronts
+        aver += [f"front : {x}" for x in fronts.dus()]
+    except Exception as exc:  # noqa: BLE001
+        aver.append(f"fronts : lecture impossible ({exc})")
+    for chemin, quoi in (("memoire/preferences-utilisateur.md", "préférences de l'utilisateur (relais)"),
+                         ("etat/univers.json", "constantes de l'univers"), ("outils/LISEZMOI.md", "index des outils")):
+        if not (RACINE / chemin).exists():
+            erreurs.append(f"{chemin} absent ({quoi})")
+    return erreurs, aver
 
 
 INTERDITS = [
@@ -174,9 +243,21 @@ def main():
         print("  ERREUR", e)
     code |= bool(err)
     err = controle_maitres()
-    print("[Fichiers maîtres] " + ("synchronisés" if not err else "ERREUR"))
+    print("[Fichiers maîtres] " + ("CLAUDE.md, GEMINI.md et AGENTS.md synchronisés" if not err else "ERREUR"))
     for e in err:
         print("  ERREUR", e)
+    code |= bool(err)
+    err, total = controle_csv()
+    print(f"[Fichiers CSV] {total} fichier(s), {len(err)} ligne(s) mal formée(s)")
+    for e in err:
+        print("  ERREUR", e)
+    code |= bool(err)
+    err, aver = controle_base()
+    print(f"[Base, rituels, relais] {len(err)} erreur(s), {len(aver)} avertissement(s)")
+    for e in err:
+        print("  ERREUR", e)
+    for a in aver:
+        print("  RELIRE", a)
     code |= bool(err)
     err = controle_interdits()
     print(f"[Expressions interdites] {len(err)} problème(s)")

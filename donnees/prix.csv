@@ -1,0 +1,19 @@
+id;article;lieu;pays;categorie;prix_2026;unite;source;date_releve;fiabilite;coef;note
+PX001;essence SP95 (prix maximum);Luxembourg;lu;carburant;1.837;€/l;Les Frontaliers (prix maximum du 06/10/2026);2026-10-06;secondaire;;Brent au-dessus de 100 $ ce jour-là
+PX002;gazole (prix maximum);Luxembourg;lu;carburant;1.995;€/l;Les Frontaliers (06/10/2026);2026-10-06;secondaire;;
+PX003;gazole (moyenne nationale);France;fr;carburant;2.347;€/l;prix-carburant.eu (07/10/2026);2026-10-07;secondaire;;
+PX004;essence SP95 (moyenne nationale);France;fr;carburant;2.201;€/l;prix-carburant.eu (07/10/2026);2026-10-07;secondaire;;
+PX005;électricité, kWh (tarif bleu EDF, 6 kVA, base);France;fr;energie;0.2001;€/kWh;CRE, grilles EDF au 01/08/2026;2026-08-01;officielle;;
+PX006;électricité, abonnement 6 kVA (tarif bleu);France;fr;energie;15.86;€/mois;CRE, grilles EDF au 01/08/2026;2026-08-01;officielle;;
+PX007;box internet fibre (moyenne du catalogue);France;fr;telecom;34.08;€/mois;Selectra (juin 2026);2026-06-30;secondaire;;entrée de gamme 25 à 27 €
+PX008;assurance auto (prime moyenne, toutes formules);France;fr;assurance;751;€/an;Assurland (février 2026);2026-02-12;secondaire;;663 à 787 € selon les baromètres · tous risques ≈ 1 115 €
+PX009;coupe homme;Luxembourg-Ville et sud du pays;lu;service;34;€;Salonkee (deux salons, 2026);2026-10-11;estimation;;30 à 38 € · coupe et barbe 55 à 60 €
+PX010;déjeuner au restaurant;Luxembourg;lu;restauration;22;€/personne;comparateurs de budget (2026);2026-10-11;estimation;;12 à 32 €
+PX011;dîner trois plats;Luxembourg;lu;restauration;45;€/personne;comparateurs (Numbeo);2026-10-11;estimation;;35 à 62,50 €
+PX012;salle de sport en chaîne (abonnement de base);Luxembourg;lu;sport;24.99;€/4 semaines;Basic-Fit (promotion, octobre 2026);2026-10-08;secondaire;;premium 29,99 € · ultimate 34,99 €
+PX013;club de MMA, grappling, JJB (accès complet);région (club non localisé);lu;sport;62.90;€/mois;Tang Fighter Team, saison 2026-2027;2026-09-01;secondaire;;une discipline 35,90 € · deux 49,90 €
+PX014;bus transfrontalier RegioZone, abonnement mensuel;Lorraine – Luxembourg;fr-lu;transport;40;€/mois;Frontaliers Grand Est (tarif 2026);2026-01-01;secondaire;;ticket 2 h : 3 € · jour : 5 € · annuel : 360 €
+PX015;maison ancienne au m²;Audun-le-Tiche;fr;logement;2600;€/m²;RealAdvisor, Square Habitat, agence.immo (juillet 2026);2026-07-31;estimation;;2 400 à 2 750 €/m² · pas de données DVF en Moselle (livre foncier)
+PX016;loyer d'une maison au m²;Audun-le-Tiche;fr;logement;12.8;€/m²/mois;Habity (2026);2026-07-31;estimation;;
+PX017;loyer demandé au m² (médiane);Luxembourg-Ville;lu;logement;39.1;€/m²/mois;Observatoire de l'habitat (2025);2025-12-31;officielle;;Esch-sur-Alzette : 32,2 €/m²
+PX018;écart de prix du panier de courses, France par rapport au Luxembourg;Grande Région;fr-lu;alimentation;-4.1;%;Étude 4 frontières (ministère de l'Économie, mai 2026, relevés de novembre 2025);2025-11-30;officielle;1;un écart, pas un prix : le coefficient ne s'applique pas

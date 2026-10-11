@@ -1,6 +1,9 @@
 # SIMULATION DE VIE — WILLIAM OSSIMI (2040)
 
 > Fichier maître lu automatiquement au début de chaque session.
+> **Première commande de toute session, quel que soit l'agent : `python outils/relais.py entree --agent "<nom>"`** (briefing :
+> sessions parallèles, dernier tour montré au joueur, échéances, rituels, notes de passation ; §10). Puis lis
+> `memoire/preferences-utilisateur.md` (préférences de l'utilisateur, communes à tous les agents) et `outils/LISEZMOI.md`.
 > Avant de jouer, lis aussi : `etat/`, `personnes/`, `memoire/`, `whatsapp/`, `courriels/` et `documents_william/` (listes) et
 > les deux derniers fichiers de `journal/`. **Si le moteur a changé depuis la dernière session, applique
 > d'abord le §10 (protocole de relais).**
@@ -143,6 +146,7 @@ et parfois peu morale exprès : ne l'en empêche pas, joue les conséquences.
   3. Lire TOUS les fichiers de `memoire/` (synthèses longues + `pieges-connus.md`).
   4. Consulter `courriels/` (pièces reçues par William), `documents_william/` (pièces rédigées ou gardées par William) et, s'il existe, le serveur d'une organisation (liste des PDF, ouvrir ceux utiles).
   5. *(depuis le 09/08/2040)* Lancer `python outils/resume_etat.py` (écrit `etat/resume.md` : horloge, lieu de William, soldes, agenda, affaires ouvertes, fêtes) puis `python outils/agenda.py dus --jusqua "<heure de fin du tour>"` : ce qui est dû doit être joué, reporté (avec raison) ou annulé (règle 14). Le résumé complète la lecture des fichiers, il ne la remplace pas.
+  6. *(depuis le 11/10/2026)* **`python outils/tour.py debut [--jusqua "<heure de fin prévue>"]`** fait l'étape 5 et y ajoute : la météo du jour (tirée une fois, `etat/meteo.csv`) et la prévision vue par William, le soleil, les fériés, les vacances et les événements publics, les mouvements d'argent de l'échéancier, les paliers des fronts, les rituels du moteur dus, le corps de William, le lieu courant (ouvert ? deux détails d'ambiance non utilisés récemment) ; il régénère `etat/resume.md` et la base de données. Pendant le tour : `faits.py cherche` avant toute recherche web (un fait déjà vérifié ?), `prix.py cherche` (prix projeté en 2040), `lieux.py voir` (ouvert ? ambiance), **`personnage.py nouveau` pour tout personnage nouveau** (tiré selon la démographie réelle, jamais inventé à la main).
 - **Après chaque tour contenant un changement notable** :
   - Mettre à jour les fichiers d'état concernés (dates en en-tête).
   - Compléter le journal du jour (`journal/AAAA-MM-JJ.md`), lignes dans l'ordre chronologique.
@@ -153,7 +157,7 @@ et parfois peu morale exprès : ne l'en empêche pas, joue les conséquences.
   4. PDF demandés générés et vérifiés, puis `python outils/controle_coherence.py` sans erreur (jours de la semaine,
   fichiers maîtres, expressions interdites, PDF) ;
   5. Personnages imparfaits, registre local respecté (règle 9) ; 6. **registre hiérarchique respecté : aucun subordonné ne confronte, ne
-  menace ni ne moralise William (règles 15-16)** ; 7. **réactions tirées dans les tables de pouvoir, aucune probabilité libre sur une réaction (règle 17)** ; 8. **format du tour respecté (§5)** : récit fluide, réponses attendues, à faire, quêtes secondaires, aucune explication ni conseil ; 9. **données structurées à jour** *(depuis le 09/08/2040)* : `horloge.py --regler`, `grand_livre.py ajouter` à chaque mouvement d'argent, `savoir.py ajouter` à chaque révélation, `agenda.py clore/ajouter/reporter`, brouillon passé à `chasse_tics.py --texte`, puis `controle_coherence.py` sans erreur.
+  menace ni ne moralise William (règles 15-16)** ; 7. **réactions tirées dans les tables de pouvoir, aucune probabilité libre sur une réaction (règle 17)** ; 8. **format du tour respecté (§5)** : récit fluide, réponses attendues, à faire, quêtes secondaires, aucune explication ni conseil ; 9. **données structurées à jour** *(depuis le 09/08/2040)* : `horloge.py --regler`, `grand_livre.py ajouter` à chaque mouvement d'argent, `savoir.py ajouter` à chaque révélation, `agenda.py clore/ajouter/reporter`, brouillon passé à `chasse_tics.py --texte`, puis `controle_coherence.py` sans erreur ; 10. *(depuis le 11/10/2026)* le texte du tour est écrit dans un brouillon puis **`python outils/tour.py fin --jusqua "AAAA-MM-JJ HH:MM" --lieu "…" --attente "…" --texte <brouillon> --message "<message du joueur>"`** (horloge et compteur de tours, argent échu de l'échéancier, météo, TEXTE EXACT du tour dans `etat/dernier-tour.md` et `journal/tours/`, chasse aux tics, résumé, base, note de relais, contrôle de cohérence ; en fin de journée : `--commit "…" --fusionner`).
 - **Fichiers pour le téléphone (demande de l'utilisateur, 06/08/2040)** : l'utilisateur joue parfois depuis son téléphone (contrôle à distance, sans accès à l'ordinateur) ; quand il le demande, le moteur lui envoie les fichiers dans la conversation (outil d'envoi de fichiers), en un seul envoi s'il le demande.
 - **À la fin de chaque journée simulée** :
   - Tour du monde (`python outils/tour_du_monde.py JJ/MM`) et mise à jour de `etat/vies-propres.md`.
@@ -161,7 +165,7 @@ et parfois peu morale exprès : ne l'en empêche pas, joue les conséquences.
   - Mettre à jour TOUS les fichiers d'état.
   - Si un dépôt git existe, faire un commit.
 - **À la fin de chaque semaine simulée (dimanche soir)** :
-  - Créer `memoire/semaine-AAAA-WNN.md` (synthèse condensée de la semaine ; semaine ISO 29 = 16-22/07/2040).
+  - Créer `memoire/semaine-AAAA-WNN.md` (synthèse condensée de la semaine ; semaine ISO 29 = 16-22/07/2040 ; univers 2 : première synthèse W28 le dimanche 15/07/2040).
 - **Ne supprime jamais une information** : garde l'historique
   (« avant : X → maintenant : Y, depuis le JJ/MM »).
 - Nouveau personnage récurrent = nouvelle fiche dans `personnes/`
@@ -180,17 +184,25 @@ Langue : **français**.
 > son argent : ni OSIA, ni équipe, ni Sandra, ni Kevin, ni Aïcha) ; **argent : le niveau initial** (celui du 17/07/2040 de
 > l'univers 1 : compte courant ≈ 9 800 €, épargne « Projet » ≈ 357 000 €, ETF ≈ 288 000 €, maison avec 110 000 € de crédit) ;
 > **paramètres : tous repris** (règles 1-17, tables T1-T14, monde vivant, aléas, revue du lundi, outils du §13 récupérés de la
-> session du 09/10/2026, jamais enregistrée). **Départ : mardi 17 juillet 2040**, la toute première date de la simulation, chez
-> William à Audun-le-Tiche, pendant les vacances d'été. Univers 1 archivé : `archives/univers-1/` (état du 09/08/2040, 14h15,
+> session du 09/10/2026, jamais enregistrée). **Départ : samedi 14 juillet 2040, 08h37**, premier vrai jour de vacances de William
+> (demande de l'utilisateur du 11/10/2026 au soir ; avant : mardi 17/07/2040, 07h05, « la toute première date » : faux départ
+> archivé dans `archives/univers-2-faux-depart/`), chez William à Audun-le-Tiche. Univers 1 archivé : `archives/univers-1/` (état du 09/08/2040, 14h15,
 > heure de Lisbonne), tags git `univers-1-master` et `univers-1-continuation` (suite jouée dans une autre session jusqu'au
 > samedi 11/08/2040, 13h27, jamais fusionnée), `archives/univers-1/session-outils/` (session des outils du 09/10/2026).
 > Objectif inchangé : établir un profil précis sur environ une année simulée ; « mode entraînement » disponible sur demande.
-**Mardi 17 juillet 2040, 07h05 — Audun-le-Tiche, chez William : début de l'univers 2 ; réveil sans réveil, vacances d'été, aucun message, aucune obligation ; en attente : **sa journée**.**
+**Samedi 14 juillet 2040, 08h37 — Audun-le-Tiche, chez William : départ de l'univers 2, redaté au premier jour des vacances d'été (demande de l'utilisateur du 11/10/2026) ; Fête nationale française (commerces avec salariés fermés à Audun, ouverts côté luxembourgeois) ; grand soleil tiré (28 °C) ; aucun message ; le premier tour attend les réponses de l'utilisateur aux questions de biographie et sa décision sur les propositions (`etat/relais-notes.md`, `memoire/propositions-2026-10-11.md`) ; en attente : **sa journée**.**
+**Mardi 17 juillet 2040, 07h05 — faux départ de l'univers 2 (un tour, aucune action de William) : archivé le 11/10/2026 dans `archives/univers-2-faux-depart/` ; le 17/07 se rejouera normalement.**
 
-## 10. PROTOCOLE DE RELAIS (Claude ⇄ Gemini)
-L'utilisateur alterne entre Claude et Gemini (Antigravity) selon ses crédits. Le moteur le plus puissant
-(Claude) reprend et corrige ; le moteur sortant prépare la reprise.
-**A. Moteur entrant** (début de la première réponse après un changement de moteur) :
+## 10. PROTOCOLE DE RELAIS (Claude, Gemini, Codex et tout autre agent)
+L'utilisateur alterne entre Claude, Gemini (Antigravity) et d'autres agents selon ses crédits ; il exige une transition 100 %
+fluide, « sans perdre le moindre outil, le moindre contexte » (11/10/2026). Le moteur le plus puissant (Claude) reprend et
+corrige ; le moteur sortant prépare la reprise. Outils : `outils/relais.py`, `outils/maitres.py` (index : `outils/LISEZMOI.md`).
+**A. Moteur entrant** (début de toute session, et en particulier après un changement de moteur) :
+0. *(depuis le 11/10/2026)* `python outils/relais.py entree --agent "<nom>"` : alertes (worktree ou branche avec des commits
+   absents de `master`, fichiers non enregistrés ailleurs, verrou d'une autre session : **s'arrêter et demander à l'utilisateur**
+   avant de jouer), texte exact du dernier tour et dernier message du joueur, échéances, rituels dus, notes de passation ; puis
+   `memoire/preferences-utilisateur.md`. Dans Claude Code, un crochet de démarrage (`.claude/settings.json`) affiche déjà le
+   briefing court.
 1. Lire tout (§7), plus `etat/corrections.md` (dernier audit) et `memoire/pieges-connus.md`.
 2. Auditer le travail du moteur précédent depuis le dernier audit consigné : états périmés, jours de la
    semaine, montants (brut/net, conversions FCFA/€), événements prévus non joués, promesses sans suite,
@@ -203,13 +215,21 @@ L'utilisateur alterne entre Claude et Gemini (Antigravity) selon ses crédits. L
    décisions) : le signaler dans « Incohérences relevées mais non modifiées ».
 6. Annoncer en tête de réponse, hors fiction (« 📌 Vraie vie »), l'essentiel de ce qui a été corrigé, puis
    reprendre le tour au point de reprise (§9).
-**B. Moteur sortant** (l'utilisateur annonce qu'il change, ou crédits presque épuisés) : mettre à jour
-le §9 **des deux fichiers maîtres**, `etat/fils-ouverts.md`, le journal du jour et les fichiers d'état ;
+**B. Moteur sortant** (l'utilisateur annonce qu'il change, crédits presque épuisés, ou simple fin de session) : mettre à jour
+le §9 **des trois fichiers maîtres**, `etat/fils-ouverts.md`, le journal du jour et les fichiers d'état ; écrire dans
+`etat/relais-notes.md` ce que le suivant doit savoir (travail hors fiction en cours, promesses faites à l'utilisateur, validations
+attendues) ; lancer `python outils/relais.py sortie --agent "<nom>" --note "…" --commit "…" --fusionner` (contrôles, résumé, base,
+note de relais `etat/relais.md`, journal des sessions `memoire/sessions.csv`, commit, fusion en avance rapide, verrou libéré) ;
 committer si la journée est close ; si le travail a eu lieu dans un worktree, fusionner la branche en avance rapide
 (`git -C <dossier principal> merge --ff-only <branche>`, le dossier principal est sur `master`) — **autorisé par l'utilisateur
 le 22/07/2040** ; sinon le rappeler à l'utilisateur.
-**C. Synchronisation** : `CLAUDE.md` et `GEMINI.md` sont identiques, sauf la ligne 3. Toute modification de
-règle ou de point de reprise se fait dans les deux (`diff CLAUDE.md GEMINI.md` ne doit montrer que la ligne 3).
+**C. Synchronisation** : `CLAUDE.md`, `GEMINI.md` et `AGENTS.md` (Codex et la plupart des autres agents) sont identiques, sauf la
+ligne 3. On modifie UN seul fichier maître, puis `python outils/maitres.py synchroniser --depuis <ce fichier>` ; contrôle :
+`python outils/maitres.py verifier` (intégré à `controle_coherence.py`). *(Avant : deux fichiers, `diff CLAUDE.md GEMINI.md` →
+maintenant : trois fichiers et un outil, 11/10/2026.)*
+**D. Mémoire partagée** : toute préférence nouvelle de l'utilisateur s'écrit dans `memoire/preferences-utilisateur.md` (datée), en
+plus de la mémoire propre de l'agent s'il en a une : c'est la seule mémoire que tous les agents lisent. Le texte exact de chaque
+tour et le message du joueur vivent dans `etat/dernier-tour.md` et `journal/tours/` (`tour.py fin --texte`).
 
 ## 11. ACTES ILLÉGAUX OU IMMORAUX DE WILLIAM — LIBERTÉS ET LIMITES DU MOTEUR
 Principe : c'est un simulateur de vol. Si William commet un acte immoral ou illégal (espionnage des salariés, pression,
@@ -277,7 +297,7 @@ présente une **« 🔄 Revue du lundi »** pour améliorer la simulation et év
   attribue** ; il joint des **repères factuels** tirés des fichiers (dates, heures, citations courtes ; seulement ce que William a pu
   percevoir ; « je ne me souviens pas forcément de tout ») mais ne suggère aucune note et ne commente pas (règles 6 et 16) ; total et
   barème annoncés à la fin, puis fiche générée en PDF (règle 4). *(Univers 1 : évaluation d'Aïcha, 74/100, le 26/07/2040.)*
-- **Revue du lundi, chaque lundi** (la prochaine : lundi 23/07/2040, n° 1 de l'univers 2), y compris « Go » : la présenter avant le reste. Elle propose aussi des améliorations du **format et de l'immersion** (récit, détails, vie des personnages).
+- **Revue du lundi, chaque lundi** (la prochaine : lundi 16/07/2040, n° 1 de l'univers 2 ; avant : 23/07, départ redaté ; elle présente aussi `memoire/propositions-2026-10-11.md`), y compris « Go » : la présenter avant le reste. Elle propose aussi des améliorations du **format et de l'immersion** (récit, détails, vie des personnages).
 - **Modèle de pouvoir (25/07/2040, règle 17)** : toute réaction d'un personnage à un acte de William se tire dans `etat/modele-pouvoir.md`
   (`python outils/jet.py --table Tn`) ; **chaque dimanche soir**, tirer T4 (escalade externe) et T5 (fuite) pour chaque affaire ouverte ; **chaque lundi**,
   lancer `python outils/audit_jets.py` dans la revue (dérive des probabilités, dérogations, issues frontales observées contre attendues) ; seul
@@ -298,3 +318,4 @@ Univers 2 : données remises à zéro le 11/10/2026 (horloge, agenda, grand livr
 - **PDF** `pdf_base.py` (classe `DocPDF`, accents garantis) pour tout livrable, puis `verifier_pdf.py`.
 - **Contrôles** `controle_coherence.py` (dates, fichiers maîtres, interdits, tables, données structurées, tics, PDF), `audit_jets.py`, `chasse_tics.py`, `verifier_pdf.py`.
 - **§9** : une entrée par tour, en tête ; au-delà de 12 entrées, `archiver_point_de_reprise.py --garder 8 --ecrire` (l'historique complet va dans `memoire/archive-point-de-reprise-*.md`, rien n'est supprimé).
+- **(11/10/2026) Relais, base de données et réalisme** (demande de l'utilisateur : relais 100 % fluide, « bases de données », simulation « la plus réaliste et poussée que possible » ; index complet : `outils/LISEZMOI.md`) : `relais.py` (entrée et sortie de session, sessions parallèles, verrou, note de relais), `maitres.py` (trois fichiers maîtres), `tour.py` (début, fin et aperçu d'avance rapide d'un tour), `base.py` (base SQLite `sorties/monde.sqlite` reconstruite depuis les fichiers, qui restent la source de vérité : `requete`, `cherche`, `verifier`), `meteo.py` (météo tirée sur les normales de Findel 1991-2020, + 1,5 °C projetés), `lieux.py` (horaires, fermetures selon le pays, ambiances tournantes), `faits.py` et `prix.py` (référentiels sourcés de `donnees/`, projection fixe × 1,35), `echeancier.py` (argent récurrent écrit au grand livre), `corps.py`, `fronts.py` (menaces et occasions à paliers écrits d'avance), `personnage.py` (générateur selon la démographie réelle ; garde « mineurs »), `rituels.py` (ce que le moteur doit faire), `telephone.py` (page « téléphone de William » pour le joueur), `tests_moteur.py` (essais sur une copie du dépôt). `jet.py` écrit aussi `memoire/tirages.jsonl` ; `--pour "Nom"` refuse T1, T1b et T9 pour un mineur. Données : `donnees/` (référence), `etat/` (état), `sorties/` (généré, ignoré par git). Propositions qui touchent les tables ou la biographie : `memoire/propositions-2026-10-11.md` (à valider par l'utilisateur).
