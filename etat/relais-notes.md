@@ -12,8 +12,9 @@
   préférences dans memoire/preferences-utilisateur.md, dernier tour dans etat/dernier-tour.md), base de données (base.py),
   orchestrateur (tour.py), météo, lieux, faits, prix, échéancier, corps, fronts, générateur de personnages, rituels,
   téléphone de William (telephone.py). Index : outils/LISEZMOI.md.
-- (11/10/2026 22:35, Claude Opus 5.5) Page « Téléphone de William » publiée (privée) : https://claude.ai/artifact/VJkYBmpJTrVarDVTs24MsS
-  (adresse aussi dans etat/relais-config.json) ; la republier au même endroit après `python outils/telephone.py` (fin de journée ou à la demande).
+- ~~(11/10/2026 22:35, Claude Opus 5.5) Page « Téléphone de William » publiée (privée) : https://claude.ai/artifact/VJkYBmpJTrVarDVTs24MsS
+  (adresse aussi dans etat/relais-config.json) ; la republier au même endroit après `python outils/telephone.py` (fin de journée ou à la demande).~~
+  Réglé le 12/10/2026 : cette adresse n'existe plus (« Page not found ») ; nouvelle adresse dans la note du 12/10/2026, 10h45, ci-dessous.
 - (12/10/2026, Claude Opus 5.5) Réponses de biographie appliquées : prêt PR1 (`outils/prets.py`), échéancier complet,
   virements permanents, Minett Combat Club, entourage de 43 personnes en statut `pre_genere` : à faire entrer en scène par
   `personnage.py apparait`, JAMAIS nommé ni listé au joueur avant (préférence de l'utilisateur). Précisions facultatives pour la
@@ -34,3 +35,7 @@
   Revue du lundi n° 1 le 16/07/2040 : propositions P01 à P21. Le téléphone : `python outils/telephone.py` (fait par
   `tour.py fin`) ; un agent autre que Claude ne peut pas le publier sur claude.ai : envoyer `sorties/telephone/index.html` au joueur
   s'il le demande.
+- (12/10/2026 10:45, Claude Opus 5.5) **Téléphone de William republié à une NOUVELLE adresse** : https://claude.ai/artifact/9j5a5bgQy9De1sxL7LZ27z
+  (l'ancienne, VJkYBmpJTrVarDVTs24MsS, affichait « Page not found » sur le téléphone du joueur et n'apparaissait plus dans la
+  liste de ses artefacts : cause inconnue). Adresse aussi dans etat/relais-config.json. À chaque tour : `tour.py fin` régénère
+  sorties/telephone/index.html ; Claude republie au même URL (paramètre url) après avoir relu la page en entier.
