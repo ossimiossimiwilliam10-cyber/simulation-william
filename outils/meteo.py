@@ -15,6 +15,9 @@ Modèle (paramètres et sources dans donnees/meteo-parametres.csv) :
 - température : normale interpolée au jour près + décalage 2040 + anomalie persistante (AR(1)) + effet du ciel (pluie, sec) ;
 - ensoleillement, brouillard matinal : normales du mois ; lever et coucher du soleil : calendrier_2040.soleil (NOAA).
 Chaque jour est tiré UNE fois (vrai hasard), écrit dans `etat/meteo.csv` et ne se rejoue jamais (comme les aléas).
+STATIONS (12/10/2026) : `donnees/stations-meteo.csv` ; la station est celle du lieu où se trouve William (fuseau de l'horloge) :
+Luxembourg-Findel par défaut, Manille (normales PAGASA de Port Area) quand il y séjourne ; chaque station a son climat, ses
+paramètres et son fichier de tirages (`etat/meteo-manille.csv`…). `--station` force une station.
 William ne connaît que les PRÉVISIONS (bruit croissant avec l'échéance) ; le moteur, lui, lit la vérité du jour.
 """
 import argparse
@@ -28,27 +31,61 @@ import sys
 from commun import DONNEES, ETAT, JOURS, date_fr, ecrire_csv, lire_csv, lire_texte, maintenant_simule, utf8
 
 FICHIER = ETAT / "meteo.csv"
+STATIONS_CSV = DONNEES / "stations-meteo.csv"
 COLONNES = ["date", "type", "tmin", "tmax", "pluie_mm", "orage", "soleil_h", "brouillard", "description", "anomalie", "tire_le"]
 MOIS_COLS = ["jan", "fev", "mar", "avr", "mai", "juin", "juil", "aout", "sep", "oct", "nov", "dec"]
 LIBELLES = {"ensoleille": "grand soleil", "peu_nuageux": "soleil et quelques nuages", "nuageux": "ciel partagé",
-            "couvert": "ciel gris et couvert", "averses": "averses", "pluie": "pluie", "orage": "orage"}
+            "couvert": "ciel gris et couvert", "averses": "averses", "pluie": "pluie", "orage": "orage",
+            "deluge": "pluies torrentielles"}
 
 
-def climat():
-    return {l["parametre"]: [float(l[m]) for m in MOIS_COLS] for l in lire_csv(DONNEES / "climat-findel.csv")}
+def stations():
+    if not STATIONS_CSV.exists():
+        return {"findel": {"station": "findel", "nom": "Luxembourg-Findel", "fuseaux": "luxembourg,paris", "climat": "climat-findel.csv",
+                           "parametres": "meteo-parametres.csv", "etat": "meteo.csv", "lieu_soleil": "luxembourg", "lieu_affichage": "audun"}}
+    return {l["station"]: l for l in lire_csv(STATIONS_CSV)}
 
 
-def parametres():
-    return {l["cle"]: float(l["valeur"]) for l in lire_csv(DONNEES / "meteo-parametres.csv")}
+def station_courante():
+    """Station du lieu où se trouve William (fuseau de l'horloge) ; Luxembourg-Findel par défaut."""
+    try:
+        import horloge
+        fz = horloge.lire()["fuseau"]
+    except Exception:  # noqa: BLE001
+        return "findel"
+    for s, l in stations().items():
+        if fz in [x.strip() for x in l["fuseaux"].split(",")]:
+            return s
+    return "findel"
+
+
+def _st(station):
+    return station or station_courante()
+
+
+def fichier(station=None):
+    return ETAT / stations()[_st(station)]["etat"]
+
+
+def lieu_affichage(station=None):
+    return stations()[_st(station)].get("lieu_affichage") or "audun"
+
+
+def climat(station=None):
+    return {l["parametre"]: [float(l[m]) for m in MOIS_COLS] for l in lire_csv(DONNEES / stations()[_st(station)]["climat"])}
+
+
+def parametres(station=None):
+    return {l["cle"]: float(l["valeur"]) for l in lire_csv(DONNEES / stations()[_st(station)]["parametres"])}
 
 
 def jours_du_mois(annee, mois):
     return ((dt.date(annee + (mois == 12), mois % 12 + 1, 1)) - dt.date(annee, mois, 1)).days
 
 
-def normale(param, jour, par_jour=False):
+def normale(param, jour, par_jour=False, station=None):
     """Valeur interpolée au jour près (valeurs mensuelles placées au 15 du mois). par_jour : un total mensuel ramené à un jour."""
-    c = climat()[param]
+    c = climat(station)[param]
 
     def valeur(annee, mois):
         v = c[mois - 1]
@@ -69,8 +106,8 @@ def normale(param, jour, par_jour=False):
     return v1 + f * (v2 - v1)
 
 
-def lire():
-    return {l["date"]: l for l in lire_csv(FICHIER)}
+def lire(station=None):
+    return {l["date"]: l for l in lire_csv(fichier(station))}
 
 
 def depart_univers():
@@ -80,10 +117,15 @@ def depart_univers():
         return None
 
 
-def tirer_jour(jour, veille, rng):
+def tirer_jour(jour, veille, rng, station=None):
     """Tire le temps de `jour` d'après la veille (dict ou None). Retourne une ligne de etat/meteo.csv."""
     import calendrier_2040 as cal
-    p = parametres()
+    station = _st(station)
+
+    def normale(param, j, par_jour=False):  # noqa: F811 (normale de la station)
+        return normale_station(param, j, par_jour, station)
+
+    p = parametres(station)
     pi = min(0.95, normale("NM_ODRR01", jour, par_jour=True))
     p11 = p["persistance_pluie"]
     p01 = max(0.01, min(0.95, pi * (1 - p11) / (1 - pi)))
@@ -109,7 +151,7 @@ def tirer_jour(jour, veille, rng):
     tmin = (normale("NM_NT", jour) + p["decalage_2040"] + 0.55 * anomalie + (0.8 if humide else -0.6) + rng.gauss(0, 1.1))
     tmin = min(tmin, tmax - 1.5)
     # soleil
-    lever, coucher = cal.soleil(jour, "luxembourg")
+    lever, coucher = cal.soleil(jour, stations()[station]["lieu_soleil"])
     duree_jour = (coucher - lever).total_seconds() / 3600
     soleil_normal = normale("NM_INS", jour, par_jour=True)
     soleil = soleil_normal * (rng.uniform(1.15, 1.65) if not humide else rng.uniform(0.12, 0.7))
@@ -118,7 +160,7 @@ def tirer_jour(jour, veille, rng):
     # type et description
     f = soleil / duree_jour
     if humide:
-        typ = "orage" if orage else ("pluie" if pluie >= 10 else "averses")
+        typ = "orage" if orage else ("deluge" if pluie >= 60 else "pluie" if pluie >= 10 else "averses")
     else:
         typ = "ensoleille" if f >= 0.62 else "peu_nuageux" if f >= 0.45 else "nuageux" if f >= 0.28 else "couvert"
     moment_orage = rng.choice(["en fin d'après-midi", "en fin d'après-midi", "en soirée", "dans la nuit", "en début d'après-midi"])
@@ -128,40 +170,47 @@ def tirer_jour(jour, veille, rng):
     morceaux.append(f"{round(tmax)} °C au plus chaud, {round(tmin)} °C au petit matin")
     if humide:
         morceaux.append(f"{pluie:g} mm de pluie".replace(".", ","))
-    if tmax >= 30:
-        morceaux.append("chaleur pesante")
+    if tmax >= p.get("seuil_chaleur", 30):
+        morceaux.append("chaleur pesante" if p.get("seuil_chaleur", 30) < 33 else "chaleur écrasante")
     return {"date": jour.isoformat(), "type": typ, "tmin": f"{tmin:.1f}", "tmax": f"{tmax:.1f}", "pluie_mm": f"{pluie:.1f}",
             "orage": "oui" if orage else "non", "soleil_h": f"{soleil:.1f}", "brouillard": "oui" if brouillard else "non",
             "description": " ; ".join(morceaux), "anomalie": f"{anomalie:.2f}",
             "tire_le": dt.datetime.now().isoformat(timespec="minutes")}
 
 
-def assurer(jusqua, simule=False):
+def assurer(jusqua, simule=False, station=None):
     """Tire dans l'ordre tous les jours manquants jusqu'à `jusqua` inclus. Retourne {date: ligne}."""
-    deja = lire()
+    station = _st(station)
+    deja = lire(station)
     if jusqua.isoformat() in deja:
         return deja
     rng = random.SystemRandom()
     if deja:
         debut = dt.date.fromisoformat(max(deja)) + dt.timedelta(days=1)
-    else:
+    elif station == "findel":
         debut = depart_univers() or jusqua
         debut = min(debut, jusqua)
+    else:  # première visite d'une autre station : on part du jour de l'horloge (ou plus tôt si on demande avant)
+        debut = min(aujourd_hui(), jusqua)
     jour = debut
     while jour <= jusqua:
         veille = deja.get((jour - dt.timedelta(days=1)).isoformat())
-        deja[jour.isoformat()] = tirer_jour(jour, veille, rng)
+        deja[jour.isoformat()] = tirer_jour(jour, veille, rng, station)
         jour += dt.timedelta(days=1)
     if not simule:
-        ecrire_csv(FICHIER, [deja[k] for k in sorted(deja)], COLONNES)
+        ecrire_csv(fichier(station), [deja[k] for k in sorted(deja)], COLONNES)
     return deja
 
 
-def temperature_a(ligne, instant):
+def normale_station(param, jour, par_jour, station):
+    return normale(param, jour, par_jour, station)
+
+
+def temperature_a(ligne, instant, station=None):
     """Température à l'instant (courbe journalière : minimum au lever du soleil, maximum vers 16 h)."""
     import calendrier_2040 as cal
     jour = instant.date()
-    lever, coucher = cal.soleil(jour, "luxembourg")
+    lever, coucher = cal.soleil(jour, stations()[_st(station)]["lieu_soleil"])
     h = instant.hour + instant.minute / 60
     hl = lever.hour + lever.minute / 60
     tmin, tmax = float(ligne["tmin"]), float(ligne["tmax"])
@@ -181,9 +230,9 @@ def _bruit(cle, sigma):
     return random.Random(graine).gauss(0, sigma)
 
 
-def prevision(cible, emise):
+def prevision(cible, emise, station=None):
     """Prévision vue par William pour `cible`, émise le jour `emise` (déterministe : la même si on la consulte deux fois)."""
-    verite = assurer(cible)[cible.isoformat()]
+    verite = assurer(cible, station=station)[cible.isoformat()]
     ech = (cible - emise).days
     sig = [0.6, 1.3, 1.8, 2.3, 2.8, 3.2, 3.6][min(ech, 6)]
     cle = f"{cible}|{emise}"
@@ -194,7 +243,8 @@ def prevision(cible, emise):
     risque = base * (1 - 0.12 * ech) + 0.5 * (0.12 * ech) + _bruit(cle + "p", 0.08 + 0.03 * ech)
     risque = int(round(max(0.0, min(0.95, risque)) * 10)) * 10
     orage = verite["orage"] == "oui" and _bruit(cle + "o", 1) > -0.6 + 0.25 * ech
-    ciel = ("orageux" if orage else "pluvieux" if risque >= 70 else "averses possibles" if risque >= 40
+    ciel = ("orageux" if orage else "fortes pluies" if verite["type"] == "deluge" and risque >= 70
+            else "pluvieux" if risque >= 70 else "averses possibles" if risque >= 40
             else "plutôt ensoleillé" if verite["type"] in ("ensoleille", "peu_nuageux") or _bruit(cle + "c", 1) > 0.8
             else "nuageux")
     return {"date": cible, "tmax": round(tmax), "tmin": round(tmin), "risque_pluie": risque, "ciel": ciel, "echeance": ech}

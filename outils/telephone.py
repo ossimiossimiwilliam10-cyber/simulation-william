@@ -32,8 +32,8 @@ COMPTES_VISIBLES = {"courant": "Compte courant", "projet": "Compte épargne"}  #
 WEB = OUTILS / "telephone_web"
 # Applications de l'écran d'accueil, dans l'ordre : (nom du fichier JS dans telephone_web/, module Python qui fournit
 # D.applis[nom] par donnees_telephone(t), ou None si l'application se sert des données communes).
-APPLIS = [("messages", None), ("courriels", None), ("banque", None), ("calendrier", "appli_calendrier"), ("meteo", None),
-          ("voyages", "voyages")]
+APPLIS = [("messages", None), ("courriels", None), ("banque", "banque"), ("calendrier", "appli_calendrier"), ("meteo", None),
+          ("voyages", "voyages"), ("rencontres", "rencontres"), ("sante", "corps")]
 
 
 def jour_court(d):
@@ -51,7 +51,8 @@ def donnees():
     t = h["instant"]
     naif = t.replace(tzinfo=None)
     jour = t.date()
-    reseau = "LU" if re.search(r"luxembourg|esch|belval|findel|lux\b", h["lieu"], re.I) else "FR"
+    reseau = ("PH · itinérance" if h["fuseau"] == "manille"
+              else "LU" if re.search(r"luxembourg|esch|belval|findel|lux\b", h["lieu"], re.I) else "FR")
     # messages
     convs = {}
     for m in base.lire_messages():
@@ -100,10 +101,10 @@ def donnees():
         p = meteo.prevision(jour + dt.timedelta(days=i), jour)
         previsions.append({"jour": "Aujourd'hui" if i == 0 else "Demain" if i == 1 else JOURS[(jour + dt.timedelta(days=i)).weekday()].capitalize(),
                            "ciel": p["ciel"], "min": p["tmin"], "max": p["tmax"], "pluie": p["risque_pluie"]})
-    lev, cou = cal.soleil(jour, "audun")
+    lev, cou = cal.soleil(jour, meteo.lieu_affichage())
     return {
         "genere": dt.datetime.now().isoformat(timespec="minutes"),
-        "heure": f"{t:%H:%M}", "date": jour_court(jour), "date_longue": f"{JOURS[jour.weekday()]} {jour.day} {MOIS[jour.month - 1]} {jour.year}",
+        "heure": f"{t:%H:%M}", "date": jour_court(jour), "aujourdhui": jour.isoformat(), "date_longue": f"{JOURS[jour.weekday()]} {jour.day} {MOIS[jour.month - 1]} {jour.year}",
         "reseau": reseau, "lieu": h["lieu"].split(",")[0].split(" (")[0],
         "meteo": {"maintenant": maintenant_c, "previsions": previsions, "lever": f"{lev:%H:%M}", "coucher": f"{cou:%H:%M}"},
         "conversations": conversations, "courriels": courriels, "banque": banque, "agenda": evts[:40],

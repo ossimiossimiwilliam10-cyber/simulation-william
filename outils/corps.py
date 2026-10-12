@@ -78,6 +78,18 @@ def bilan(au=None):
             "recent_malade_blesse": [f"{l['date']} {l['type']} : {l['note']}" for l in malade], "etat": etat}
 
 
+def donnees_telephone(t=None):
+    """Application Santé du téléphone : sommeil des 14 dernières nuits, entraînements, poids (ce que montrerait une montre)."""
+    au = (t.replace(tzinfo=None) if t is not None and t.tzinfo else t) or maintenant()
+    lignes = [l for l in lire() if f"{l['date']} {l['heure'] or '00:00'}" <= f"{au:%Y-%m-%d %H:%M}"]
+    b = bilan(au)
+    nuits = [{"date": l["date"], "heures": float(l["valeur"] or 0)} for l in lignes if l["type"] == "sommeil"][-14:]
+    seances = [{"date": l["date"], "minutes": int(float(l["valeur"] or 0)), "note": (l.get("note") or "")[:60]}
+               for l in lignes if l["type"] == "entrainement"][-14:]
+    return {"nuits": nuits, "seances": seances, "dette_7j": b["dette_7j"], "seances_7j": b["seances_7j"], "minutes_7j": b["minutes_7j"],
+            "poids": b["poids"], "besoin": BESOIN_SOMMEIL}
+
+
 def ligne_etat(b):
     morceaux = [f"nuit dernière {b['derniere_nuit']:.1f} h" if b["derniere_nuit"] is not None else "nuit dernière inconnue",
                 f"dette de sommeil sur 7 j : {b['dette_7j']:g} h ({b['nuits_connues_7j']} nuit(s) notée(s))",

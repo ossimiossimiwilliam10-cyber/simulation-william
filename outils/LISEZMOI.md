@@ -45,7 +45,7 @@
 | `tour_du_monde.py` | Vie propre des personnages (T11, T13, T14) chaque jour | `JJ/MM` |
 | `tirage_aleas.py` | Aléas de la semaine (le lundi) | `AAAA-MM-JJ` |
 | `personnage.py` | Générateur de personnages tirés selon la démographie réelle ; registre ; entourage pré-généré (jamais montré avant son apparition) ; noms sans homonymes ; audit des biais | `nouveau`, `reseau`, `apparait`, `promouvoir`, `liste --statut`, `audit` |
-| `meteo.py` | Météo tirée sur les normales de Findel (+ projection 2040) ; prévisions vues par William | `jour`, `heure`, `prevision`, `mois` |
+| `meteo.py` | Météo tirée sur les normales de la station du lieu où se trouve William (Findel, Manille : `donnees/stations-meteo.csv`) ; prévisions vues par William | `jour`, `heure`, `prevision`, `mois` |
 | `calendrier_2040.py` | Fériés (LU, FR avec droit local, CI, CV), Pâques, Ramadan, lune, soleil, calendrier scolaire, événements, jours ouvrés | `--soleil`, `--scolaire`, `--evenements`, `--ouvres` |
 | `lieux.py` | Lieux : ouvert ou fermé (fériés selon le pays, congés annuels), accès, prix ; ambiances tournantes contre les tics | `voir`, `ouverts`, `liste` |
 | `faits.py` | Faits vérifiés (source, date, fiabilité, projection 2040) : à consulter AVANT une recherche web | `cherche`, `ajouter`, `perimes` |
@@ -55,7 +55,10 @@
 | `rituels.py` | Ce que le moteur doit faire (fiches, tour du monde, synthèses, revue, aléas) | `dus`, `liste` |
 | `telephone.py` | Page « téléphone de William » : écran d'accueil et applications (`telephone_web/` : coque, noyau, une feuille JS par application ; CLAUDE.md §14) | (sans argument) ; `--json` |
 | `voyages.py` | Application Voyages : vols (calendrier des prix), hôtels, forfaits vol + hôtel, formalités ; calcul déterministe partagé avec la page | `vols`, `mois`, `hotels`, `forfait`, `formalites`, `verifier` |
-| `appli_calendrier.py` | Données de l'application Calendrier (fériés, vacances, événements, rendez-vous connus, argent) | (sans argument : résumé) |
+| `appli_calendrier.py` | Données de l'application Calendrier (fériés FR, LU, PH ; vacances, événements, rendez-vous connus, argent) | (sans argument : résumé) |
+| `banque.py` | Banque : virements ponctuels (entre comptes ou vers un tiers), ordres permanents (créer, modifier, suspendre, reprendre), liste ; prévus recalculés | `virement`, `ordre-modifier`, `ordre-creer`, `ordre-suspendre`, `ordre-reprendre`, `liste` |
+| `rencontres.py` | Application de rencontre : profils tirés (Manille), inscription de William, j'aime, matchs, messages ; intention réelle cachée | `generer`, `inscription`, `aimer`, `passer`, `match`, `message`, `liste`, `voir` |
+| `etiquettes.py` | Applique les actions copiées depuis le téléphone (étiquettes [voyages|banque|rencontres: …]) : la commande exacte, à l'heure du jeu | `--texte "…"`, `--simule` |
 | `resume_etat.py` | `etat/resume.md` : l'essentiel en trois minutes | `--silencieux` |
 | `controle_coherence.py` | Contrôle de fin de tour (dates, maîtres, CSV, base, rituels, tables, PDF, tics) | (sans argument) |
 | `audit_jets.py`, `chasse_tics.py`, `fuseaux.py`, `archiver_point_de_reprise.py`, `pdf_base.py`, `verifier_pdf.py` | Audit des probabilités, tics d'écriture, fuseaux horaires, archivage du §9, PDF | voir `--help` |

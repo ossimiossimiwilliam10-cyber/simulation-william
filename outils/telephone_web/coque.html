@@ -14,7 +14,7 @@
   --credit: #1c7a3c; --debit: #9a2b2b; --ferie: #8a5a00; --vacances: #e8f1fb; --vert: #1c7a3c; --orange: #a35a00; --rouge: #b42318;
   --vert-doux: #dff3e6; --orange-doux: #fdebd3; --rouge-doux: #fde2df;
   --app-messages: #2f8f5b; --app-courriels: #3b63c4; --app-banque: #0b6e6a; --app-calendrier: #c2410c; --app-meteo: #0e7490;
-  --app-voyages: #6d3fd1; --sur-app: #ffffff; --badge: #d92d20;
+  --app-voyages: #6d3fd1; --app-rencontres: #be185d; --app-sante: #15803d; --sur-app: #ffffff; --badge: #d92d20;
   --ui: "Figtree", "Segoe UI", system-ui, -apple-system, sans-serif;
   --chiffres: "IBM Plex Mono", ui-monospace, "Cascadia Mono", Consolas, monospace;
 }
@@ -150,6 +150,18 @@ main { flex: 1; padding: 6px 16px 96px; display: grid; gap: 14px; align-content:
 .copie { width: 100%; min-height: 90px; border: 1px solid var(--trait); border-radius: 10px; background: var(--carte); padding: 8px; font-size: 13px; }
 .formalites { display: grid; gap: 10px; margin: 0; padding: 0; list-style: none; }
 .formalites li { background: var(--carte); border: 1px solid var(--trait); border-radius: 12px; padding: 12px; }
+.rangee { display: flex; flex-wrap: wrap; gap: 8px; }
+.onglets-3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.haut-ligne { display: flex; justify-content: space-between; gap: 10px; align-items: baseline; flex-wrap: wrap; }
+.avatar { width: 46px; height: 46px; border-radius: 23px; display: grid; place-items: center; color: var(--sur-app); font-weight: 700; font-size: 20px; flex: none; }
+.profil-tete { display: flex; gap: 12px; align-items: center; min-width: 0; }
+.profil-tete > div { display: grid; gap: 2px; min-width: 0; }
+.bio { margin: 0; overflow-wrap: anywhere; }
+.puce.match { color: var(--app-rencontres); }
+.barres { display: grid; grid-template-columns: repeat(14, minmax(0, 1fr)); gap: 4px; align-items: end; height: 120px; padding-top: 6px; }
+.barres span { background: var(--accent); border-radius: 4px 4px 0 0; min-height: 2px; display: block; }
+.barres span.court { background: var(--orange); }
+.axe { display: grid; grid-template-columns: repeat(14, minmax(0, 1fr)); gap: 4px; font-size: 10px; color: var(--gris); text-align: center; font-family: var(--chiffres); }
 @media (prefers-reduced-motion: no-preference) { main > *, .accueil > * { animation: entree .18s ease-out both; } }
 @keyframes entree { from { opacity: .4; transform: translateY(3px); } to { opacity: 1; transform: none; } }
 </style>

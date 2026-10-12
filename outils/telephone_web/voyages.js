@@ -123,7 +123,7 @@ appli({
         c.append(h, el("span", "note", trajet(v) + " · prix par personne" + (st.voyageurs > 1 ? " · total " + ent(total) : "")), t);
         c.append(boutonCopie("Je réserve le vol " + v.compagnies + " (" + (v.via === "direct" ? "direct" : "par " + v.via) + "), " + V.aeroports[st.de] +
           " → " + dd.ville + ", aller le " + dateLongue(st.aller) + " (" + v.aller[0] + " → " + v.aller[1] + "), retour le " + dateLongue(st.retour) +
-          " (" + v.retour[0] + " → " + v.retour[1] + "), " + st.voyageurs + (st.voyageurs > 1 ? " voyageurs" : " voyageur") + " : " + ent(total) + " au total."));
+          " (" + v.retour[0] + " → " + v.retour[1] + "), " + st.voyageurs + (st.voyageurs > 1 ? " voyageurs" : " voyageur") + " : " + ent(total) + " au total. [voyages: reserver vol=" + v.id + " aller=" + st.aller + " retour=" + st.retour + " voyageurs=" + st.voyageurs + "]"));
         main.append(c);
       });
       main.append(el("p", "note", "Horaires d'été, heures locales. Prix aller-retour en classe économique, taxes comprises."));
@@ -140,7 +140,7 @@ appli({
         const c = el("div", "carte vol");
         const hd = el("div", "haut"); hd.append(el("span", "compagnie", h.nom), el("span", "prix", s ? ent(s.total) : "dès " + ent(h.des)));
         c.append(hd, el("span", "note", [h.categorie, h.quartier].filter(Boolean).join(" · ") + (s ? " · " + s.n + " nuit" + (s.n > 1 ? "s" : "") + " · dès " + ent(h.des) + " la nuit" : " · par nuit")));
-        if (s) c.append(boutonCopie("Je réserve à " + h.nom + ", " + dd.ville + ", du " + dateLongue(st.aller) + " au " + dateLongue(st.retour) + " (" + s.n + " nuit" + (s.n > 1 ? "s" : "") + ") : " + ent(s.total) + "."));
+        if (s) c.append(boutonCopie("Je réserve à " + h.nom + ", " + dd.ville + ", du " + dateLongue(st.aller) + " au " + dateLongue(st.retour) + " (" + s.n + " nuit" + (s.n > 1 ? "s" : "") + ") : " + ent(s.total) + ". [voyages: reserver-hotel hotel=" + h.id + " arrivee=" + st.aller + " depart=" + st.retour + "]"));
         main.append(c);
       });
       main.append(el("p", "note", "Prix d'une chambre, taxes comprises."));
@@ -153,16 +153,18 @@ appli({
       const o = options(dd, st.aller, st.retour);
       if (!o.length) return main.append(vide("Aucun vol ces jours-là", "Change de dates ou d'aéroport de départ."));
       const best = o[0];
-      const lignes = dd.hotels.map(h => { const s = sejour(h, st.aller, st.retour); if (!s) return null;
+      const decal = Number((/\(\+(\d)\)/.exec(best.v.aller[1]) || [0, 0])[1]); /* l'hôtel commence le jour d'arrivée */
+      const arrivee = ajouterJours(st.aller, decal);
+      const lignes = dd.hotels.map(h => { const s = sejour(h, arrivee, st.retour); if (!s) return null;
         const separe = best.p * st.voyageurs + s.total; return { h, s, separe, prix: Math.floor(separe * (1 - V.remise) + 0.5) }; }).filter(Boolean).sort((x, y) => x.prix - y.prix);
-      main.append(el("h2", "sec", "Vol " + best.v.compagnies + " + hôtel · " + ecartJours(st.aller, st.retour) + " nuits"));
+      main.append(el("h2", "sec", "Vol " + best.v.compagnies + " + hôtel · " + ecartJours(arrivee, st.retour) + " nuits à l'hôtel, dès le " + dateFr(arrivee)));
       lignes.forEach(x => {
         const c = el("div", "carte vol");
         const hd = el("div", "haut"); hd.append(el("span", "compagnie", x.h.nom), el("span", "prix", ent(x.prix)));
         c.append(hd, el("span", "note", "Au lieu de " + ent(x.separe) + " réservés séparément · " + st.voyageurs + (st.voyageurs > 1 ? " voyageurs" : " voyageur") + " · " + trajet(best.v)));
         c.append(boutonCopie("Je réserve le forfait vol + hôtel : " + best.v.compagnies + " (" + (best.v.via === "direct" ? "direct" : "par " + best.v.via) + ") au départ de " +
           V.aeroports[st.de] + " et " + x.h.nom + " à " + dd.ville + ", du " + dateLongue(st.aller) + " au " + dateLongue(st.retour) + ", " + st.voyageurs +
-          (st.voyageurs > 1 ? " voyageurs" : " voyageur") + " : " + ent(x.prix) + "."));
+          (st.voyageurs > 1 ? " voyageurs" : " voyageur") + " : " + ent(x.prix) + ". [voyages: reserver-forfait vol=" + best.v.id + " hotel=" + x.h.id + " aller=" + st.aller + " retour=" + st.retour + " voyageurs=" + st.voyageurs + "]"));
         main.append(c);
       });
     }

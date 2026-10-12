@@ -1,0 +1,3 @@
+station;nom;fuseaux;climat;parametres;etat;lieu_soleil;lieu_affichage;source
+findel;Luxembourg-Findel;luxembourg,paris;climat-findel.csv;meteo-parametres.csv;meteo.csv;luxembourg;audun;MeteoLux, normales 1991-2020
+manille;Manille (Port Area);manille;climat-manille.csv;meteo-parametres-manille.csv;meteo-manille.csv;manille;manille;PAGASA, normales 1991-2020 (pluies) · autres paramètres : estimation (voir climat-manille.csv)

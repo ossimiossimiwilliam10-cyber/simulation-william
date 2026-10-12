@@ -7,3 +7,4 @@ sigma_tmax_ete;4.6;écart-type de l'anomalie du maximum journalier (°C), de mai
 effet_pluie_tmax;-2.0;effet d'un jour de pluie sur le maximum (°C);choix du moteur
 forme_gamma_pluie;0.75;paramètre de forme de la loi gamma des hauteurs de pluie;ordre de grandeur usuel des générateurs de temps
 record_national;40.8;record national de chaleur (°C), Steinsel, 25/07/2019;ASTA/AgriMeteo (Findel : 39 °C le même jour)
+seuil_chaleur;30;maximum (°C) à partir duquel la description signale une chaleur pesante;choix du moteur (inchangé depuis le 11/10/2026)

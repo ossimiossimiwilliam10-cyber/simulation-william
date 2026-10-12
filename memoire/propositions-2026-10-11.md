@@ -148,3 +148,37 @@ sexuelle détaillée ; aucun mode d'emploi réel (lieux fictifs, ni adresses, ni
 | refuse et alerte (entourage, sécurité, police : T4 ou T6) | 3 | 10 |
 | arnaque (vol, chantage, faux tarif) | 10 | 6 |
 | piège ou descente de police (T6) | 7 | 2 |
+
+### P16 — T21 : réaction d'un profil de l'application de rencontre (à valider par l'utilisateur, 12/10/2026)
+Profils tirés par `outils/rencontres.py` (femmes de 21 ans au moins, Manille) ; leur INTENTION réelle (serieux, aventure, amitie,
+aide_financiere, travail_sexuel, arnaque) est tirée à la création et cachée. Toujours `jet.py --pour "Nom"` (adulte inscrite, datée).
+**T21a — réaction à un « j'aime » de William**
+| Issue | % | En scène |
+|---|---|---|
+| aucune_reponse | 40 | Rien : le profil ne le voit pas, ou passe. |
+| match | 35 | Elle l'aime aussi : la discussion s'ouvre (`rencontres.py match`). |
+| match_et_message | 12 | Elle l'aime aussi et écrit la première (heure en T10). |
+| vu_sans_suite | 10 | Elle a vu son profil, ne donne pas suite. |
+| bloque | 3 | Elle le bloque ou le signale (photo, âge, étranger, rien de précis). |
+**T21b — réponse à un message de William après un match**
+| Issue | % | En scène |
+|---|---|---|
+| repond | 50 | Elle répond (heure en T10) ; le ton suit sa fiche et son intention. |
+| repond_tard | 20 | Elle répond un ou deux jours plus tard. |
+| ignore | 22 | Pas de réponse. |
+| bloque | 8 | Elle le bloque (message déplacé, insistance, rien de précis). |
+Modificateurs proposés : intention « aide_financiere », « travail_sexuel » ou « arnaque » : match +15, match_et_message +8,
+aucune_reponse −23 (T21a) ; repond +15, ignore −15 (T21b) ; message à caractère sexuel ou proposition d'argent d'emblée (hors
+intention travail_sexuel) : bloque +15, ignore +10, repond −25 ; profil de William remarqué (1,96 m, sportif, Européen) : match +5,
+aucune_reponse −5.
+
+## F. Autres idées pour la revue n° 1 (12/10/2026)
+- **P17 — Placements vivants** : valeur des ETF tirée chaque fin de mois (rendement moyen et volatilité à fixer), pour que le
+  patrimoine bouge comme dans la vie (krach rare compris).
+- **P18 — Dépenses de la vie courante** : un forfait journalier (courses, carburant, sorties) débité automatiquement quand le récit
+  ne mentionne pas d'achat, pour que le compte courant reste vraisemblable sur les longues avances rapides.
+- **P19 — Arrivée à Manille** : carte SIM locale (forfait prépayé), change d'euros en pesos (taux et commission), taxis par
+  application, embouteillages, coupures de courant et inondations par fortes pluies, typhons tirés pendant la saison (signal de
+  tempête qui fige la ville).
+- **P20 — Vieillissement et mortalité** des personnages (tables de l'INSEE, du STATEC et de la PSA) pour les longues avances.
+- **P21 — Trajets** : application Transports (Luxembourg gratuit, bus RegioZone, embouteillages tirés aux heures de pointe).

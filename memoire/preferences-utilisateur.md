@@ -65,6 +65,9 @@
 
 - **Applications et automatisation** (12/10/2026) : « cette simulation doit vraiment se baser sur l'informatique avant tout » ; le moteur n'est que l'interpréteur du monde (recherches, cohérence) ; tout ce qui est long et répétitif est automatisé pour épargner sa limite d'utilisation ; à chaque besoin qui a demandé des recherches, le moteur crée une application et l'ajoute au téléphone de William, sans attendre qu'il la demande (CLAUDE.md §14). Premières : Calendrier et Voyages.
 
+- **Réalisme poussé à fond** (12/10/2026, avant de changer d'agent) : « pousse le réalisme à fond », corriger les bogues, ajouter des fonctionnalités pour gérer le monde, pour que l'agent suivant « continue simplement le monde ». Idées de l'utilisateur : une application de rencontre aux Philippines, configurer lui-même ses virements dans l'application bancaire (faits le 12/10/2026).
+- **Voyage à Manille** (12/10/2026) : William y va pour du tourisme sexuel avec des femmes majeures ; cadre accepté et consigné (faits F055 à F057, tables T20a et T20b validées ; limites du §11 : jamais de mineure, scènes jusqu'au seuil, aucun mode d'emploi réel).
+
 ## Grandes décisions hors fiction (historique)
 - 25/07/2040 (simulé) : il a envisagé d'arrêter, puis a décidé de continuer avec tous les paramètres.
 - 11/10/2026 (réel) : redémarrage complet (univers 2) à 35 ans, argent initial, paramètres repris ; départ d'abord fixé au mardi

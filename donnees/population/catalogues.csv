@@ -49,7 +49,7 @@ qualite;sait écouter;2;A+;;
 contradiction;économe, mais vient de changer de voiture à crédit;2;;;
 contradiction;catholique pratiquant et divorcé deux fois;1;;;
 contradiction;sportif et fumeur;2;;;
-contradiction;critique le Luxembourg mais n'en partirait pour rien au monde;2;;;
+contradiction;critique le Luxembourg mais n'en partirait pour rien au monde;2;;;reside_lu
 contradiction;se dit sans préjugés et en a plein;2;;;
 contradiction;écolo convaincu qui prend l'avion quatre fois par an;2;O+;;
 contradiction;méfiant envers les banques, mais tout son argent est sur un livret;1;;;
@@ -72,10 +72,10 @@ objectif;faire venir un proche resté au pays;1;;;immigre
 objectif;obtenir la nationalité luxembourgeoise;1;;;non_lu,reside_lu
 objectif;ouvrir son propre commerce;1;E+;;age:22-60
 objectif;maigrir ou reprendre le sport;2;;;
-objectif;partir vivre au soleil (Portugal, Espagne, Sud);1;;;age:40-80
+objectif;partir vivre au soleil (Portugal, Espagne, Sud);1;;;age:40-80,europe
 objectif;finir de rénover sa maison;2;;;age:25-85
 objectif;mettre de l'argent de côté pour ses vieux jours;2;C+;;actif,age:30-64
-objectif;apprendre le luxembourgeois;1;O+;;non_lu
+objectif;apprendre le luxembourgeois;1;O+;;non_lu,reside_lu
 objectif;organiser son mariage;1;;;en_couple,age:20-70
 objectif;se faire une place dans le milieu (club, lycée, quartier);2;E+;;
 objectif;divorcer sans tout perdre;1;;;en_couple,age:25-75
@@ -127,10 +127,10 @@ loisir;pêche;1;;;
 loisir;jardinage;2;;;
 loisir;séries et plateformes de vidéo;3;;;
 loisir;cuisine;2;;;
-loisir;randonnée dans les Ardennes ou en Moselle;2;O+;;
+loisir;randonnée dans les Ardennes ou en Moselle;2;O+;;europe
 loisir;vélo;2;;;
 loisir;musique (joue d'un instrument);1;O+;;
-loisir;sorties en boîte à Luxembourg;1;E+;;
+loisir;sorties en boîte à Luxembourg;1;E+;;europe
 loisir;bricolage;2;;;
 loisir;lecture;2;O+;;
 loisir;salle de sport;2;;;
@@ -140,3 +140,18 @@ loisir;associations (bénévolat, fanfare, pompiers volontaires);1;A+;;
 loisir;photographie;1;O+;;
 loisir;danse (kizomba, salsa);1;E+;;
 loisir;mécanique et voitures;2;;;
+objectif;partir travailler à l'étranger (contrat d'OFW);2;O+;;manille,age:21-45
+objectif;faire vivre sa famille restée en province;2;A+;;manille
+objectif;décrocher un poste stable dans un centre d'appels;1;C+;;manille,age:21-40
+objectif;ouvrir une petite boutique (sari-sari) ou un commerce en ligne;1;O+;;manille,age:22-60
+souci;dette auprès d'un prêteur au jour le jour (« 5-6 »);2;;;manille
+souci;trois heures de trajet par jour dans les embouteillages;2;;;manille,actif
+souci;contrat de six mois non renouvelé (« endo »);1;;;manille,actif,age:21-45
+souci;appartement inondé à chaque grosse pluie;1;;;manille
+secret;envoie presque tout son salaire à ses parents en province;2;A+;1;manille,actif
+secret;a un compte de rencontre « sugar » qu'elle cache à ses amis;1;;2;manille,age:21-40
+loisir;karaoké (videoke) entre amis;3;E+;;manille
+loisir;centres commerciaux climatisés le week-end;2;;;manille
+loisir;basket de quartier;2;;;manille
+loisir;séries coréennes;2;;;manille
+loisir;messe du dimanche;2;C+;;manille

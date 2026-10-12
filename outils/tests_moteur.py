@@ -176,7 +176,7 @@ def main():
     e.verifier((copie / "journal" / "tours" / f"{t1:%Y-%m-%d}.md").exists(), f"journal/tours/{t1:%Y-%m-%d}.md écrit")
     e.lancer(o + "horloge.py", contient=f"tour n° {n0 + 1}", nom="horloge : le compteur de tours avance d'un cran")
     e.lancer(o + "tour.py", "apercu", "--jusqua", f"{t1 + dt.timedelta(days=3):%Y-%m-%d} 08:00", contient="Aperçu de l'avance rapide")
-    e.lancer(o + "telephone.py", contient="6 applications", nom="téléphone : écran d'accueil et six applications")
+    e.lancer(o + "telephone.py", contient="8 applications", nom="téléphone : écran d'accueil et huit applications")
 
     print("\n[Applications du téléphone : voyages et calendrier]")
     e.lancer(o + "voyages.py", "verifier", contient="conforme")
@@ -190,6 +190,16 @@ def main():
     e.lancer(o + "voyages.py", "vols", "--de", "LUX", "--vers", "MNL", "--aller", "2040-07-20", "--retour", "2040-08-31", contient="1 705 €",
              nom="voyages : Manille, prix montré au tour n° 4 retrouvé")
     e.lancer(o + "voyages.py", "formalites", "--vers", "MNL", contient="eTravel")
+    e.lancer(o + "banque.py", "liste", contient="ordre E012")
+    e.lancer(o + "banque.py", "ordre-modifier", "E014", "--montant", "2900", "--quand", "2040-07-14 10:30", contient="modifié",
+             nom="banque : un ordre permanent se modifie (prévus recalculés)")
+    e.lancer(o + "banque.py", "virement", "--de", "courant", "--vers", "projet", "--montant", "100", "--quand", "2040-07-14 10:31",
+             contient="exécuté", nom="banque : virement immédiat entre comptes")
+    e.lancer(o + "grand_livre.py", "verifier", contient="conforme", nom="grand livre conforme après les opérations bancaires")
+    e.lancer(o + "rencontres.py", "liste", contient="«", nom="rencontres : profils de Manille")
+    e.lancer(o + "etiquettes.py", "--simule", "--texte", "Test [banque: ordre-suspendre id=E014] [rencontres: aimer id=x] [voyages: reserver vol=W1 aller=2040-09-04 retour=2040-09-25 voyageurs=1]",
+             contient="ordre-suspendre", nom="étiquettes : lecture des actions copiées depuis le téléphone")
+    e.lancer(o + "appli_calendrier.py", contient="argent")
     e.lancer(o + "voyages.py", "reserver", "--vol", "V3", "--aller", "2040-08-28", "--retour", "2040-09-18", "--quand", "2040-07-14 10:00",
              "--simule", contient="1 005", nom="voyages : réservation (essai) au prix de la page")
     e.lancer(o + "controle_coherence.py", contient="RÉSULTAT")

@@ -180,15 +180,22 @@ def sejour(h, arrivee, depart, P=None):
     return sum(prix_nuit(h, n, P) for n in nuits), len(nuits)
 
 
+def decalage_arrivee(v):
+    """Jours entre le départ et l'arrivée de l'aller (« 19:10 (+1) » → 1) : l'hôtel d'un forfait commence le jour d'arrivée."""
+    m = re.search(r"\(\+(\d)\)", v["aller_arr"])
+    return int(m.group(1)) if m else 0
+
+
 def forfaits(de, vers, aller, retour, voyageurs=1):
     P = parametres()
     opts = options(de, vers, aller, retour, voyageurs)
     if not opts:
         return []
     meilleur = opts[0]
+    arrivee = aller + dt.timedelta(days=decalage_arrivee(meilleur["vol"]))
     res = []
     for h in hotels(vers):
-        total_h, nuits = sejour(h, aller, retour, P)
+        total_h, nuits = sejour(h, arrivee, retour, P)
         separe = meilleur["total"] + total_h
         res.append({"hotel": h, "vol": meilleur["vol"], "nuits": nuits, "hotel_total": total_h, "separe": separe,
                     "forfait": arrondi(separe * (1 - P["remise"]))})
@@ -264,7 +271,7 @@ def pdf_confirmation(res, v, P, quand):
     return cible.relative_to(RACINE).as_posix()
 
 
-def reserver_vol(vol_id, aller, retour, voyageurs, quand, simule=False):
+def reserver_vol(vol_id, aller, retour, voyageurs, quand, simule=False, deja_paye=False):
     """Réserve et paie un vol : grand livre, agenda, PDF de confirmation, registre des réservations. Renvoie la ligne du registre."""
     import agenda
     import grand_livre as gl
@@ -287,11 +294,15 @@ def reserver_vol(vol_id, aller, retour, voyageurs, quand, simule=False):
     if simule:
         return res
     res["fichier"] = pdf_confirmation(res, v, P, quand)
+    if deja_paye:
+        res["total"] = "0.00"
+        res["note"] += " · payé dans le forfait vol + hôtel"
     livre = gl.lire()
     livre.append({"date": f"{quand:%Y-%m-%d}", "heure": f"{quand:%H:%M}", "compte": "courant", "montant": f"{-total:.2f}", "type": "mouvement",
                   "libelle": f"Billet d'avion {aeroport(v['de'])['ville']} – {aeroport(v['vers'])['ville']} ({v['compagnies']}), "
                              f"aller le {aller:%d/%m}, retour le {retour:%d/%m} · {P['agence']}, réservation {pnr}", "reference": rid})
-    gl.ecrire(livre)
+    if not deja_paye:
+        gl.ecrire(livre)
     lignes = agenda.lire()
     for sens, d0 in (("aller", aller), ("retour", retour)):
         segs = segments(vol_id, sens)
@@ -305,6 +316,74 @@ def reserver_vol(vol_id, aller, retour, voyageurs, quand, simule=False):
     agenda.ecrire(lignes)
     registre.append(res)
     ecrire_csv(RESERVATIONS, registre, COL_RES)
+    return res
+
+
+def reserver_hotel(hotel_id, arrivee, depart, quand, forfait_vol=None, voyageurs=1, simule=False):
+    """Réserve un hôtel (payé à la réservation, comme sur les agences en ligne) ; avec forfait_vol, réserve vol + hôtel au prix du
+    forfait (remise de parametres.csv) en une seule ligne de paiement. Écrit registre, grand livre, agenda et confirmation PDF."""
+    import agenda
+    import grand_livre as gl
+    from pdf_base import DocPDF, chemin
+    P = parametres()
+    h = next((x for x in table("hotels.csv") if x["id"] == hotel_id), None)
+    if h is None:
+        sys.exit(f"Hôtel inconnu : {hotel_id}")
+    debut_hotel = arrivee
+    if forfait_vol:
+        v0 = next((x for x in table("vols.csv") if x["id"] == forfait_vol), None)
+        if v0 is not None:
+            debut_hotel = arrivee + dt.timedelta(days=decalage_arrivee(v0))
+    total_h, nuits = sejour(h, debut_hotel, depart, P)
+    total, libelle_vol = total_h, ""
+    if forfait_vol:
+        v = next((x for x in table("vols.csv") if x["id"] == forfait_vol), None)
+        p = prix_vol(v, arrivee, depart, P) if v else None
+        if p is None:
+            sys.exit(f"Vol {forfait_vol} indisponible ces jours-là")
+        total = arrondi((p * voyageurs + total_h) * (1 - P["remise"]))
+        libelle_vol = f"{v['compagnies']} ({v['via']}) + "
+    registre = lire_csv(RESERVATIONS) if RESERVATIONS.exists() else []
+    rid = f"R{len(registre) + 1:03d}"
+    hh = empreinte(P["sel"], "hotel", hotel_id, arrivee, depart, quand.isoformat())
+    ref = "".join(ALPHABET_PNR[(hh >> (5 * i)) % len(ALPHABET_PNR)] for i in range(8))
+    res = {"id": rid, "type": "forfait" if forfait_vol else "hotel", "reserve_le": f"{quand:%Y-%m-%d %H:%M}", "statut": "confirme",
+           "vol": forfait_vol or "", "de": "", "vers": h["ville"], "aller": arrivee.isoformat(), "retour": depart.isoformat(),
+           "voyageurs": str(voyageurs), "total": f"{total:.2f}", "pnr": ref, "billet": "", "agence": P["agence"], "fichier": "",
+           "note": f"{libelle_vol}{h['nom']} · {nuits} nuit(s)"}
+    if simule:
+        return res
+    ville = aeroport(h["ville"])["ville"]
+    pdf = DocPDF("Confirmation de réservation", f"{P['agence']} · agence de voyages en ligne", auteur=P["agence"],
+                 pied=f"{P['agence']} — réservation {ref}")
+    pdf.meta("Réservation", f"{ref} (confirmée)")
+    pdf.meta("Client", "OSSIMI William")
+    pdf.meta("Hébergement", f"{h['nom']}, {ville}" + (f" ({h['quartier']})" if h["quartier"] else ""))
+    pdf.meta("Séjour", f"du {debut_hotel:%d/%m/%Y} au {depart:%d/%m/%Y} ({nuits} nuit(s), une chambre)")
+    if forfait_vol:
+        pdf.meta("Vol", f"{libelle_vol[:-3]} : voir la confirmation de vol jointe au dossier")
+    pdf.meta("Montant payé", f"{total:,.2f} €".replace(",", " ").replace(".", ",") + " (taxes comprises)")
+    pdf.puces(["Arrivée à partir de 14 h, départ avant midi (horaires usuels : à confirmer auprès de l'établissement).",
+               "Une pièce d'identité et la carte de paiement sont demandées à l'arrivée.",
+               "Toute modification ou annulation se demande depuis l'espace « Mes réservations » ; des frais peuvent s'appliquer."])
+    nom = f"{quand:%Y-%m-%d}_Confirmation_de_réservation_{'forfait' if forfait_vol else 'hôtel'}_{ville}.pdf".replace(" ", "_")
+    cible = chemin("courriels", nom)
+    pdf.sauver(cible)
+    res["fichier"] = cible.relative_to(RACINE).as_posix()
+    livre = gl.lire()
+    livre.append({"date": f"{quand:%Y-%m-%d}", "heure": f"{quand:%H:%M}", "compte": "courant", "montant": f"{-total:.2f}", "type": "mouvement",
+                  "libelle": f"{'Forfait vol + hôtel' if forfait_vol else 'Hôtel'} {h['nom']} ({ville}), du {debut_hotel:%d/%m} au {depart:%d/%m} · "
+                             f"{P['agence']}, réservation {ref}", "reference": rid})
+    gl.ecrire(livre)
+    lignes = agenda.lire()
+    lignes.append({"id": agenda.prochain_id(lignes), "date": debut_hotel.isoformat(), "heure": "14:00", "lieu": aeroport(h["ville"])["fuseau"] or "luxembourg",
+                   "qui": h["nom"], "quoi": f"Arrivée à l'hôtel {h['nom']} ({ville}), {nuits} nuit(s) · réservation {ref}", "statut": "prevu",
+                   "connu": "oui", "note": f"réservation {rid} (etat/reservations.csv)"})
+    agenda.ecrire(lignes)
+    registre.append(res)
+    ecrire_csv(RESERVATIONS, registre, COL_RES)
+    if forfait_vol:  # le vol du forfait : agenda et confirmation de vol, sans second paiement
+        reserver_vol(forfait_vol, arrivee, depart, voyageurs, quand, simule=False, deja_paye=True)
     return res
 
 
@@ -400,6 +479,20 @@ def main():
     p.add_argument("--depart", required=True)
     p = sp.add_parser("formalites")
     p.add_argument("--vers", default="NSI")
+    p = sp.add_parser("reserver-hotel")
+    p.add_argument("--hotel", required=True)
+    p.add_argument("--arrivee", required=True)
+    p.add_argument("--depart", required=True)
+    p.add_argument("--quand", required=True)
+    p.add_argument("--simule", action="store_true")
+    p = sp.add_parser("reserver-forfait")
+    p.add_argument("--vol", required=True)
+    p.add_argument("--hotel", required=True)
+    p.add_argument("--aller", required=True)
+    p.add_argument("--retour", required=True)
+    p.add_argument("--voyageurs", type=int, default=1)
+    p.add_argument("--quand", required=True)
+    p.add_argument("--simule", action="store_true")
     p = sp.add_parser("reserver")
     p.add_argument("--vol", required=True, help="identifiant de donnees/voyages/vols.csv (V1, V3…)")
     p.add_argument("--aller", required=True)
@@ -439,6 +532,15 @@ def main():
         for f in forfaits(args.de, args.vers, a, r, args.voyageurs):
             print(f"  {f['hotel']['nom']} + {f['vol']['compagnies']} : {euros(f['forfait'])} (séparément : {euros(f['separe'])}, "
                   f"{f['nuits']} nuit(s))")
+        return 0
+    if args.cmd in ("reserver-hotel", "reserver-forfait"):
+        forfait = args.cmd == "reserver-forfait"
+        a = dt.date.fromisoformat(args.aller if forfait else args.arrivee)
+        r = dt.date.fromisoformat(args.retour if forfait else args.depart)
+        res = reserver_hotel(args.hotel, a, r, dt.datetime.fromisoformat(args.quand), forfait_vol=args.vol if forfait else None,
+                             voyageurs=getattr(args, "voyageurs", 1), simule=args.simule)
+        print(f"{'(essai) ' if args.simule else ''}Réservation {res['id']} ({res['type']}) : {res['note']}, {euros(float(res['total']))} ; "
+              f"référence {res['pnr']}" + ("" if args.simule else f" ; {res['fichier']}"))
         return 0
     if args.cmd == "reserver":
         res = reserver_vol(args.vol, dt.date.fromisoformat(args.aller), dt.date.fromisoformat(args.retour), args.voyageurs,

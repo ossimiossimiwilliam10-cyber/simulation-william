@@ -346,7 +346,17 @@ Univers 2 : données remises à zéro le 11/10/2026 (horloge, agenda, grand livr
   une ligne de données, après recherche web.
 - **Mise à jour** : `tour.py fin` régénère la page à chaque tour ; Claude la republie au même endroit (adresse :
   `etat/relais-config.json`) ; un autre agent envoie le fichier `sorties/telephone/index.html` au joueur s'il le demande.
-- **Applications en place** (12/10/2026) : Messages, Courriels, Banque (soldes, opérations, prélèvements et virements à venir),
-  Calendrier (`outils/appli_calendrier.py` : fériés français et luxembourgeois, vacances scolaires, événements publics,
-  rendez-vous connus, argent), Météo, Voyages (`outils/voyages.py` : vols avec calendrier des prix, hôtels, forfaits vol + hôtel,
-  formalités ; données `donnees/voyages/`).
+- **Applications en place** (12/10/2026) : Messages, Courriels, **Banque** (soldes, opérations, prélèvements et virements à venir ;
+  ordres permanents et virements que William configure lui-même : `outils/banque.py`), Calendrier (`outils/appli_calendrier.py` :
+  fériés français, luxembourgeois et philippins, vacances, événements, rendez-vous connus, argent), **Météo** (station du lieu où se
+  trouve William : Luxembourg-Findel ou Manille, `donnees/stations-meteo.csv`), **Voyages** (`outils/voyages.py` : vols avec
+  calendrier des prix, hôtels, forfaits, formalités ; Yaoundé et Manille ; réservation de vol, d'hôtel ou de forfait automatisée),
+  **Rencontres** (`outils/rencontres.py` : application de rencontre, 24 profils tirés à Manille, femmes de 21 ans au moins,
+  intention réelle cachée ; inscription obligatoire avant de voir les profils), **Santé** (sommeil, entraînements, poids :
+  `outils/corps.py`).
+- **Étiquettes (protocole entre le téléphone et le moteur)** : toute action préparée dans une application (réserver, virer,
+  modifier un ordre, s'inscrire, aimer, écrire) se copie avec une étiquette « [appli: commande clé=valeur …] ». Quand le joueur
+  colle ce texte, le moteur lance **`python outils/etiquettes.py --texte "<texte collé>"`** (l'outil exécute la commande exacte à
+  l'heure de l'horloge ; `--simule` pour voir sans écrire), puis il écrit la scène (ce que William voit, les réactions TIRÉES :
+  T21 pour un « j'aime » ou un message sur l'application de rencontre une fois validée, T10 pour l'heure d'une réponse, T20b pour
+  une proposition d'argent). L'étiquette est la décision du joueur : elle ne se réinterprète pas.

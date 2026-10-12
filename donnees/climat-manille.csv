@@ -1,0 +1,9 @@
+parametre;unite;description;jan;fev;mar;avr;mai;juin;juil;aout;sep;oct;nov;dec;source
+NM_T;°C;température moyenne de l'air;26.8;27.4;28.7;30.1;30.4;29.5;28.5;28.3;28.4;28.3;28.0;27.2;estimation du moteur (ordres de grandeur de la climatologie de Manille · normales PAGASA de Port Area non trouvées en ligne le 12/10/2026)
+NM_XT;°C;moyenne des températures maximales;30.0;30.8;32.3;33.8;34.0;32.7;31.3;30.9;31.1;31.2;31.0;30.2;estimation du moteur (ordres de grandeur de la climatologie de Manille · normales PAGASA de Port Area non trouvées en ligne le 12/10/2026)
+NM_NT;°C;moyenne des températures minimales;23.6;23.9;25.0;26.4;26.8;26.4;25.8;25.6;25.6;25.4;25.0;24.1;estimation du moteur (ordres de grandeur de la climatologie de Manille · normales PAGASA de Port Area non trouvées en ligne le 12/10/2026)
+NM_RR06_06;mm;hauteur de pluie du mois;17.3;14.2;15.8;23.7;147.2;253.5;420.5;432.4;355.1;234.8;121.7;67.4;PAGASA, normales 1991-2020, Port Area (Manille) : 2 103,6 mm par an
+NM_INS;h;durée d'ensoleillement du mois;177;198;226;258;223;162;133;133;132;158;153;152;estimation du moteur (ordres de grandeur de la climatologie de Manille · normales PAGASA de Port Area non trouvées en ligne le 12/10/2026)
+NM_ODRR01;jours;jours de pluie (≥ 1 mm);3;2;2;3;9;17;21;21;20;15;11;7;estimation du moteur (ordres de grandeur de la climatologie de Manille · normales PAGASA de Port Area non trouvées en ligne le 12/10/2026) · définition PAGASA du jour de pluie : au moins 1 mm en 24 h
+NM_OFOG;jours;jours de brouillard;0;0;0;0;0;0;0;0;0;0;0;0;estimation du moteur (ordres de grandeur de la climatologie de Manille · normales PAGASA de Port Area non trouvées en ligne le 12/10/2026)
+NM_OTHSTORM;jours;jours d'orage;0.5;0.3;0.8;3;10;17;16;15;16;11;4;1;estimation du moteur (ordres de grandeur de la climatologie de Manille · normales PAGASA de Port Area non trouvées en ligne le 12/10/2026)

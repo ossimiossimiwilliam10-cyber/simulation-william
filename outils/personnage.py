@@ -56,6 +56,12 @@ METIERS_REGION = [("employé(e) de banque ou d'assurance", 10), ("ouvrier ou ouv
                   ("comptable ou juriste", 6), ("étudiant(e) à Belval", 8), ("agent de sécurité", 5), ("cuisinier ou serveur", 7),
                   ("fonctionnaire ou employé(e) de l'État", 8), ("technicien(ne) de maintenance", 6), ("indépendant(e)", 5),
                   ("sans emploi", 4)]
+METIERS_MANILLE = [("employée ou employé de centre d'appels", 14), ("vendeur ou vendeuse en centre commercial", 10),
+                   ("infirmier ou infirmière", 7), ("enseignant ou enseignante", 6), ("employé(e) de banque ou de bureau", 9),
+                   ("serveur ou serveuse", 7), ("comptable", 5), ("étudiant(e)", 6), ("développeur ou développeuse, informatique", 4),
+                   ("travailleur ou travailleuse indépendante (en ligne)", 6), ("aide-soignant(e)", 4), ("chauffeur (VTC, jeepney)", 6),
+                   ("sans emploi", 8), ("employé(e) d'hôtel", 5), ("ouvrier ou ouvrière", 4)]
+LOCALES = {"audun": ("française",), "manille": ("philippine",)}  # nationalités « d'ici » par zone (défaut : Luxembourg)
 ROLES_F = ("directrice", "voisine", "boulangère", "vendeuse", "serveuse", "infirmière", "caissière", "coiffeuse", "banquière",
            "conseillère", "professeure", "entraîneuse", "avocate", "policière", "pharmacienne", "secrétaire générale", "mère",
            "sœur", "tante", "cousine", "fille", "épouse", "femme", "patronne", "gérante", "élève (fille)", "collègue (femme)")
@@ -134,7 +140,7 @@ def cohorte(annee):
 
 def tirer_prenom(rng, origine, sexe, annee, zone):
     prenoms = table("prenoms.csv")
-    hote = "fr" if zone == "audun" else "lu"
+    hote = {"audun": "fr", "manille": "ph"}.get(zone, "lu")
     if origine not in (hote, "lu", "fr") and rng.random() < 0.25:
         origine = hote  # descendants : prénom du pays d'accueil
     voulu = cohorte(annee)
@@ -189,11 +195,14 @@ def situation(a, metier, foyer, nationalite, zone):
     retraite, sans_emploi = "retraité" in m, "sans emploi" in m
     etudiant = "étudiant" in m or m == "élève"
     en_couple = "en couple" in f
+    locales = LOCALES.get(zone, ("luxembourgeoise", "française"))
     return {"age": a, "retraite": retraite, "sans_emploi": sans_emploi, "actif": not (retraite or sans_emploi or etudiant),
             "en_couple": en_couple, "seul": not en_couple, "veuf": "veuf" in f,
             "parent": any(x in f for x in ("avec enfants", "enfants en bas âge", "parent isolé")),
-            "immigre": not (nat.startswith("luxembourgeoise") or nat.startswith("française")),
-            "non_lu": not nat.startswith("luxembourgeoise"), "reside_lu": zone != "audun"}
+            "immigre": not any(nat.startswith(x) for x in locales + ("luxembourgeoise",) if zone not in ("manille",) or x == "philippine"),
+            "non_lu": not nat.startswith("luxembourgeoise"),
+            "reside_lu": zone in ("luxembourg_ville", "esch", "lycee", "club_mma"),
+            "europe": zone != "manille", "manille": zone == "manille"}
 
 
 def convient(condition, s):
@@ -290,7 +299,7 @@ def tirer_metier(rng, ctx, role, a):
     if a >= 65:
         return "retraité(e)", ""
     # pas de retraité avant 58 ans (départs anticipés pour carrière longue au plus tôt), pas d'étudiant après 30 ans (12/10/2026)
-    liste = [(m, p) for m, p in (METIERS_AUDUN if ctx["zone"] == "audun" else METIERS_REGION)
+    liste = [(m, p) for m, p in (METIERS_AUDUN if ctx["zone"] == "audun" else METIERS_MANILLE if ctx["zone"] == "manille" else METIERS_REGION)
              if not (("retraité" in m and a < 58) or ("étudiant" in m and a >= 30))]
     return pondere(rng, liste), ""
 
@@ -344,7 +353,7 @@ def nom_trop_proche(prenom, nom, existants, strict=True):
     return False
 
 
-def tirer(contexte, role, sexe=None, ages=None, rng=None, existants=()):
+def tirer(contexte, role, sexe=None, ages=None, rng=None, existants=(), foyers=None):
     rng = rng or random.SystemRandom()
     ctxs = contextes()
     if contexte not in ctxs:
@@ -374,7 +383,7 @@ def tirer(contexte, role, sexe=None, ages=None, rng=None, existants=()):
     defauts = catalogue(rng, "defaut", traits, 2)
     qualite = catalogue(rng, "qualite", traits, 1)
     contradiction = catalogue(rng, "contradiction", traits, 1) if (not mineur and rng.random() < 0.5) else []
-    foyer = tirer_foyer(rng, a)
+    foyer = pondere(rng, foyers) if foyers else tirer_foyer(rng, a)  # foyers : distribution propre au contexte (ex. application de rencontre)
     metier, employeur = tirer_metier(rng, ctx, role, a)
     s = situation(a, metier, foyer, nat, zone)
     if mineur:

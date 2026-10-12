@@ -42,6 +42,7 @@ LIEUX_SOLEIL = {
     "abidjan": (5.345, -4.024, "Africa/Abidjan"),
     "douala": (4.051, 9.768, "Africa/Douala"),
     "lisbonne": (38.722, -9.139, "Europe/Lisbon"),
+    "manille": (14.599, 120.984, "Asia/Manila"),
 }
 
 
@@ -209,8 +210,34 @@ def fetes(annee, pays):
         ajout(dt.date(annee, 11, 11), "Armistice 1918")
         ajout(dt.date(annee, 12, 25), "Noël")
         ajout(dt.date(annee, 12, 26), "Saint-Étienne (Alsace-Moselle)")
+    elif pays == "ph":
+        # Philippines (12/10/2026) : jours fériés réguliers et jours spéciaux chômés, d'après la proclamation n° 1006 (fériés 2026) ;
+        # le Nouvel An chinois (jour spécial chômé) n'est pas calculé ici ; Aïd el-Fitr et Aïd el-Adha : calendrier tabulaire (± 1-2 j)
+        ajout(dt.date(annee, 1, 1), "Nouvel An")
+        ajout(p - dt.timedelta(days=3), "Jeudi saint")
+        ajout(vendredi_saint, "Vendredi saint")
+        ajout(p - dt.timedelta(days=1), "Samedi saint (jour spécial chômé)")
+        ajout(dt.date(annee, 4, 9), "Araw ng Kagitingan (Jour de la bravoure)")
+        ajout(dt.date(annee, 5, 1), "Fête du travail")
+        ajout(dt.date(annee, 6, 12), "Fête de l'Indépendance")
+        ajout(dt.date(annee, 8, 21), "Ninoy Aquino Day (jour spécial chômé)")
+        d = dt.date(annee, 8, 31)
+        while d.weekday() != 0:
+            d -= dt.timedelta(days=1)
+        ajout(d, "National Heroes Day (Fête des héros nationaux)")
+        ajout(dt.date(annee, 11, 1), "Toussaint (jour spécial chômé)")
+        ajout(dt.date(annee, 11, 2), "Jour des morts (jour spécial chômé)")
+        ajout(dt.date(annee, 11, 30), "Bonifacio Day")
+        ajout(dt.date(annee, 12, 8), "Immaculée Conception (jour spécial chômé)")
+        ajout(dt.date(annee, 12, 24), "Veille de Noël (jour spécial chômé)")
+        ajout(dt.date(annee, 12, 25), "Noël")
+        ajout(dt.date(annee, 12, 30), "Rizal Day")
+        ajout(dt.date(annee, 12, 31), "Dernier jour de l'année (jour spécial chômé)")
+        for d2, nom, ap in fetes_musulmanes(annee):
+            if nom.startswith(("Aïd el-Fitr", "Tabaski")):
+                ajout(d2, nom.replace("Tabaski / ", ""), ap)
     else:
-        sys.exit(f"Pays inconnu : {pays} (ci, lu, cv, fr)")
+        sys.exit(f"Pays inconnu : {pays} (ci, lu, cv, fr, ph)")
     return sorted(liste)
 
 

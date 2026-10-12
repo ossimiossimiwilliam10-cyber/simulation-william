@@ -90,7 +90,7 @@ def cmd_debut(args):
     # météo et ciel
     meteo.assurer(jour + dt.timedelta(days=3))
     v = meteo.lire()[jour.isoformat()]
-    lev, cou = cal.soleil(jour, "audun")
+    lev, cou = cal.soleil(jour, meteo.lieu_affichage())
     l_meteo = [f"- Vérité du jour : {v['description']} (type {v['type']})",
                f"- Maintenant : environ {meteo.temperature_a(v, naif):.0f} °C ; soleil levé à {lev:%H:%M}, couché à {cou:%H:%M}"]
     prev = [meteo.prevision(jour + dt.timedelta(days=i), jour) for i in (1, 2)]
@@ -243,7 +243,7 @@ def cmd_apercu(args):
     jour = t.date()
     while jour <= fin.date():
         v = meteo.lire()[jour.isoformat()]
-        lev, cou = cal.soleil(jour, "audun")
+        lev, cou = cal.soleil(jour, meteo.lieu_affichage())
         print(f"\n### {date_fr(jour)} — {v['description']} ; soleil {lev:%H:%M}-{cou:%H:%M}")
         for pays in ("fr", "lu"):
             for dd, nom, _ in cal.fetes(jour.year, pays):
