@@ -38,15 +38,16 @@
 | `horloge.py` | Heure du monde, lieu de William, attentes, numéro du tour | `--regler`, `--tour +1` |
 | `agenda.py` | Rendez-vous, échéances, promesses (règle 14) | `dus`, `retards`, `ajouter`, `clore`, `reporter` |
 | `grand_livre.py` | Argent : soldes calculés, prévus, mouvements | `solde`, `ajouter`, `realiser`, `journal` |
-| `echeancier.py` | Mouvements récurrents (traitement, crédit, factures) écrits au grand livre | `liste`, `prevoir`, `realiser`, `budget` |
+| `echeancier.py` | Mouvements récurrents (traitement, factures, virements permanents avec contrepartie, échéances de prêt) écrits au grand livre | `liste`, `prevoir`, `realiser`, `budget`, `verifier` |
+| `prets.py` | Prêts de William : tableau d'amortissement calculé (prêt PR1 de la maison), capital restant dû, contrôle des calages | `liste`, `tableau`, `crd`, `verifier` |
 | `savoir.py` | Qui sait quoi ; décomptes de fuite (T5) | `qui`, `peut`, `ajouter`, `t5` |
 | `jet.py` | Tirages (libres ou dans les tables T1-T14) ; garde de la règle 17 ; garde « mineurs » (`--pour`) | `--table Tn`, `--liste` |
 | `tour_du_monde.py` | Vie propre des personnages (T11, T13, T14) chaque jour | `JJ/MM` |
 | `tirage_aleas.py` | Aléas de la semaine (le lundi) | `AAAA-MM-JJ` |
-| `personnage.py` | Générateur de personnages tirés selon la démographie réelle ; registre ; audit des biais | `nouveau`, `promouvoir`, `liste`, `audit` |
+| `personnage.py` | Générateur de personnages tirés selon la démographie réelle ; registre ; entourage pré-généré (jamais montré avant son apparition) ; noms sans homonymes ; audit des biais | `nouveau`, `reseau`, `apparait`, `promouvoir`, `liste --statut`, `audit` |
 | `meteo.py` | Météo tirée sur les normales de Findel (+ projection 2040) ; prévisions vues par William | `jour`, `heure`, `prevision`, `mois` |
 | `calendrier_2040.py` | Fériés (LU, FR avec droit local, CI, CV), Pâques, Ramadan, lune, soleil, calendrier scolaire, événements, jours ouvrés | `--soleil`, `--scolaire`, `--evenements`, `--ouvres` |
-| `lieux.py` | Lieux : ouvert ou fermé (fériés selon le pays), accès, prix ; ambiances tournantes contre les tics | `voir`, `ouverts`, `liste` |
+| `lieux.py` | Lieux : ouvert ou fermé (fériés selon le pays, congés annuels), accès, prix ; ambiances tournantes contre les tics | `voir`, `ouverts`, `liste` |
 | `faits.py` | Faits vérifiés (source, date, fiabilité, projection 2040) : à consulter AVANT une recherche web | `cherche`, `ajouter`, `perimes` |
 | `prix.py` | Prix 2026 sourcés et projetés en 2040 (× 1,35 fixe) ; tirage dans une fourchette | `cherche`, `tirer`, `ajouter` |
 | `corps.py` | Sommeil, entraînements, repas, poids, maladies de William ; état à montrer | `nuit`, `seance`, `noter`, `etat` |
@@ -62,7 +63,7 @@
 - **Source de vérité** : les fichiers texte (CSV, Markdown, JSONL) versionnés par git. **Base** : `sorties/monde.sqlite`,
   reconstruite à la demande (`python outils/base.py construire`, environ une seconde), ignorée par git. Pourquoi : git fusionne
   des lignes de texte, jamais un fichier binaire ; tout agent lit les fichiers même sans Python ; la base n'est qu'un index.
-- Tables : horloge, attentes, agenda, grand_livre, comptes, soldes, echeancier, savoir, personnages, relations, lieux,
+- Tables : horloge, attentes, agenda, grand_livre, comptes, soldes, echeancier, prets, savoir, personnages, relations, lieux,
   ambiances, faits, prix, climat, meteo, corps, fronts, evenements_publics, calendrier_scolaire, delais, journal (lignes
   horodatées), tours (textes des tours), messages (WhatsApp), fiches (personnes/), documents (PDF, texte extrait), tirages
   (JSONL), tirages_md (ancien journal), recherche (plein texte, accents ignorés), meta.

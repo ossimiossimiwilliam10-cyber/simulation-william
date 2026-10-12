@@ -16,8 +16,11 @@
 | Compte courant (Spuerkeess) | 9 800 € | Dépenses courantes |
 | Compte épargne « Projet » (Spuerkeess) | 357 000 € | Épargne libre de toute affectation dans l'univers 2 |
 | ETF | 288 000 € | Valeur de marché (calages seulement) |
-| Part nette de la maison | 90 000 € | Audun-le-Tiche ; crédit restant 110 000 €, mensualité ≈ 940 €, fin 2059 (incohérence signalée : voir etat/william.md) |
-| **Patrimoine net** | **744 800 €** | Comptes + ETF + part de maison |
+| Part nette de la maison | 89 996,87 € | Audun-le-Tiche ; valeur estimée 200 000 € − capital restant dû 110 003,13 € (prêt PR1) |
+| **Patrimoine net** | **744 796,87 €** | Comptes + ETF + part de maison |
+
+*(Avant : part de maison 90 000 € (crédit « 110 000 €, ≈ 940 €/mois, fin 2059 ») et patrimoine 744 800 € → maintenant : 89 996,87 €
+et 744 796,87 €, capital restant dû calculé par le tableau d'amortissement du prêt PR1, 12/10/2026.)*
 
 *(Avant : soldes datés du mardi 17/07/2040, 07h00 → maintenant : 14/07/2040, 07h00, départ redaté le 11/10/2026 ; montants inchangés.)*
 
@@ -25,17 +28,37 @@
 - **Traitement** : ≈ 9 300 € net par mois (395 points + 3 leçons supplémentaires), le dernier jour ouvré du mois (jour exact non
   vérifié) : E001 ; 410 points à partir de septembre 2040 (montant à recalculer). Allocation de fin d'année (13e mois) : E013,
   à chiffrer.
-- **Charges actives** (montants 2026 sourcés × 1,35, ou estimations signalées) : crédit ≈ 940 € (E002, le 5, jour estimé) ;
-  électricité ≈ 112 € (E003, consommation estimée) ; internet et mobile ≈ 63 € (E005) ; club de combat ≈ 85 € (E008, club à
-  confirmer) ; taxe foncière ≈ 1 190 € le 15/10 (E009, valeur locative estimée).
-- **À valider par l'utilisateur** : chauffage (E004), eau (E006, prix à vérifier), assurance habitation (E007), voiture (E010),
-  soutien aux parents (E011), répartition automatique ou manuelle du surplus (E012).
+- **Charges actives** (montants 2026 sourcés × 1,35, ou estimations signalées) :
+  - crédit 949,28 € (E002, le 5 : prêt PR1, mensualité 926,15 € + assurance 23,13 ; montant exact de chaque échéance tiré du
+    tableau d'amortissement) ;
+  - électricité 132 € (E003, le 10 : option heures creuses, 9 kVA, recharge de la voiture la nuit) ; gaz 253 € (E004, le 10) ;
+  - internet et mobile 63 € (E005, le 15) ; eau 187,50 € deux fois par an (E006, mars et septembre) ;
+  - assurance habitation 45 € (E007, le 5) ; assurance de la voiture électrique 107 € (E010, le 5) ;
+  - Minett Combat Club 85 € (E008, le 1er) ; taxe foncière ≈ 1 190 € le 15/10 (E009, valeur locative estimée).
+- **Virements automatiques** (ordres permanents, le 2 du mois) : 2 850 € vers l'épargne « Projet » (E012) et 2 850 € vers les
+  ETF (E014).
+- **Terminé** : soutien aux parents (E011 ; ponts coupés, précisé par l'utilisateur le 11/10/2026). **Encore à chiffrer** :
+  allocation de fin d'année (E013).
+- *(Avant : crédit ≈ 940 €, électricité ≈ 112 €, club « à confirmer », six lignes « à valider » → maintenant : réponses de
+  l'utilisateur appliquées, prix vérifiés le 11/10/2026, 12/10/2026.)*
 - Un prélèvement qui tombe un week-end ou un jour férié luxembourgeois passe au jour ouvré suivant (banque : Spuerkeess).
-- **Surplus mensuel des lignes actives** : ≈ 8 100 € (`python outils/echeancier.py budget 2040-08`), avant dépenses courantes
-  (courses, carburant, sorties) et avant les lignes à valider.
+- **Compte courant, solde des lignes actives d'août 2040** : + 1 965,72 € (`python outils/echeancier.py budget 2040-08` :
+  traitement − charges − virements), avant les dépenses de la vie courante (courses, sorties, vêtements : ≈ 1 200 € estimés) et
+  le « plaisir ». *(Avant : « surplus ≈ 8 100 € », sans virements ni charges complètes → maintenant, 12/10/2026.)*
+
+## Prêt immobilier (PR1 : `etat/prets.csv`, `python outils/prets.py tableau PR1`)
+- 185 000 € à 3,5 % fixe sur 300 mois, première échéance le 05/09/2034 ; assurance emprunteur 23,13 €/mois (0,15 % par an du
+  capital initial ; pas de questionnaire de santé : moins de 200 000 € et fin avant 60 ans, F042).
+- Remboursement anticipé de 40 000 € le 05/06/2037, avec réduction de durée ; indemnité de 700 € (6 mois d'intérêts, plafond
+  légal : F041).
+- Au 14/07/2040 : 71 échéances payées, **capital restant dû 110 003,13 €** ; prochaine échéance le lundi 06/08/2040 (le 5 est
+  un dimanche) : n° 72, capital 605,31 €, intérêts 320,84 €.
+- Dernière échéance le 05/10/2052 ; intérêts restant à payer ≈ 25 242 €.
 
 ## Règle de répartition du surplus mensuel (habitude de William)
-45 % ETF / 45 % épargne « Projet » / 10 % plaisir (ordre permanent ou geste manuel : non fixé, E012).
+45 % ETF / 45 % épargne « Projet » / 10 % plaisir, par **ordres permanents** (précisé par l'utilisateur le 11/10/2026) : 2 850 € +
+2 850 € le 2 du mois (E012, E014 ; montants estimés par le moteur sur un surplus d'environ 6 335 €, modifiables par William).
+*(Avant : « ordre permanent ou geste manuel : non fixé » → maintenant : automatique, 12/10/2026.)*
 
 ## Faits utiles (base des faits, `donnees/faits.csv`)
 - Garantie des dépôts (FGDL) : 100 000 € par déposant et par banque (F022) ; au départ, ≈ 366 800 € à la Spuerkeess.
@@ -46,6 +69,9 @@
 - Aucun.
 
 ## Historique
+- **12/10/2026 (date réelle)** : réponses de biographie appliquées : prêt PR1 calculé (calages pret 110 003,13 € et part de
+  maison 89 996,87 €) ; échéancier complété (gaz, électricité avec recharge, eau, assurances, virements permanents) ; prévus du
+  grand livre recalculés (anciens prévus du crédit et de l'électricité annulés, suffixe « -v1 »).
 - **14/07/2040, 07h00** : soldes de départ de l'univers 2 (grand livre : calages redatés du 17/07 au 14/07 le 11/10/2026).
 - **11/10/2026 (date réelle)** : échéancier installé ; le prévu P001 (« traitement de juillet », 31/07) est annulé et remplacé
   par E001-20400731.

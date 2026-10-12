@@ -39,6 +39,7 @@ SOURCES_CSV = {
     "meteo": (ETAT / "meteo.csv", ("tmin", "tmax", "pluie_mm", "soleil_h")),
     "corps": (ETAT / "corps.csv", ("valeur",)),
     "echeancier": (ETAT / "echeancier.csv", ("montant",)),
+    "prets": (ETAT / "prets.csv", ("capital", "taux", "duree_mois", "assurance_mensuelle")),
     "fronts": (ETAT / "fronts.csv", ("segments", "rempli")),
     "lieux": (DONNEES / "lieux.csv", ()),
     "ambiances": (DONNEES / "ambiances.csv", ()),
@@ -59,7 +60,9 @@ DEFAUTS = {
     "meteo": ["date", "type", "tmin", "tmax", "pluie_mm", "orage", "soleil_h", "brouillard", "description", "anomalie", "tire_le"],
     "corps": ["date", "heure", "type", "valeur", "unite", "note"],
     "echeancier": ["id", "libelle", "compte", "montant", "periodicite", "jour", "mois", "heure", "debut", "fin", "statut", "source",
-                   "note"],
+                   "note", "contrepartie", "pret"],
+    "prets": ["id", "libelle", "preteur", "capital", "taux", "duree_mois", "premiere_echeance", "assurance_mensuelle",
+              "anticipations", "compte_capital", "compte_actif", "statut", "source", "note"],
     "fronts": ["id", "nom", "type", "segments", "rempli", "visibilite", "avance", "paliers", "echeance", "liens", "statut",
                "historique"],
     "lieux": ["id", "nom", "type", "commune", "pays", "fuseau", "horaires", "feries", "acces", "prix", "statut", "notes", "source",
@@ -453,11 +456,16 @@ def verifier():
             if h2 < h1:
                 aver.append(f"journal/{fichier}:{l2} heure {h2} après {h1} (ligne {l1}) : ordre chronologique ?")
     # échéancier
-    for eid, comp, statut in q("SELECT id, compte, statut FROM echeancier"):
+    comptes = {c for (c,) in q("SELECT compte FROM comptes")}
+    prets = {p for (p,) in q("SELECT id FROM prets")}
+    for eid, comp, statut, contre, pret in q("SELECT id, compte, statut, contrepartie, pret FROM echeancier"):
         if statut not in ("actif", "a_valider", "suspendu", "termine"):
             erreurs.append(f"echeancier.csv : statut inconnu « {statut} » ({eid})")
-        if comp not in {c for (c,) in q("SELECT compte FROM comptes")}:
-            erreurs.append(f"echeancier.csv : compte inconnu « {comp} » ({eid})")
+        for c in (comp, contre):
+            if c and c not in comptes:
+                erreurs.append(f"echeancier.csv : compte inconnu « {c} » ({eid})")
+        if pret and pret not in prets:
+            erreurs.append(f"echeancier.csv : prêt inconnu « {pret} » ({eid})")
     # fronts
     for fid, seg, rempli in q("SELECT id, segments, rempli FROM fronts"):
         if seg is not None and rempli is not None and rempli > seg:

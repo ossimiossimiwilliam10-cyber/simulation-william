@@ -139,6 +139,15 @@ def controle_base():
         aver += [f"front : {x}" for x in fronts.dus()]
     except Exception as exc:  # noqa: BLE001
         aver.append(f"fronts : lecture impossible ({exc})")
+    try:  # prêts : capital restant dû calculé = calages du grand livre ; échéancier : comptes, contreparties, prêts (11/10/2026)
+        import echeancier
+        import prets
+        for module in (prets, echeancier):
+            e, a = module.verifier()
+            erreurs += e
+            aver += a
+    except Exception as exc:  # noqa: BLE001
+        erreurs.append(f"prêts ou échéancier : vérification impossible ({exc})")
     for chemin, quoi in (("memoire/preferences-utilisateur.md", "préférences de l'utilisateur (relais)"),
                          ("etat/univers.json", "constantes de l'univers"), ("outils/LISEZMOI.md", "index des outils")):
         if not (RACINE / chemin).exists():

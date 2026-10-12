@@ -2,8 +2,8 @@
  "commentaire": "Configuration du relais entre agents (outils/relais.py). « archives » : worktrees ou branches connus, sans effet sur la partie en cours ; ils ne déclenchent plus d'alerte. N'ajouter une entrée qu'après vérification (et, pour supprimer un worktree, avec l'accord de l'utilisateur).",
  "agent_par_defaut": "agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)",
  "archives": {
-  "simulation-realistic-tools-d95e81": "univers 1 : session des outils du 09/10/2026, jamais enregistrée ; ses 48 modifications sont sauvées dans archives/univers-1/session-outils/modifications-non-enregistrees.patch ; worktree à nettoyer avec l'accord de l'utilisateur",
-  "claude/simulation-realistic-tools-d95e81": "univers 1 : branche de la session des outils (voir ci-dessus)",
+  "simulation-realistic-tools-d95e81": "univers 1 : session des outils du 09/10/2026, jamais enregistrée ; worktree SUPPRIMÉ le 12/10/2026 avec l'accord de l'utilisateur (11/10/2026 : « tu peux le supprimer, sauf s'il est important »), après vérification : 31 modifications suivies identiques à archives/univers-1/session-outils/modifications-non-enregistrees.patch, 17 fichiers non suivis dans archives/univers-1/session-outils/ (dont les 9 outils d'origine, copiés à l'identique le 12/10/2026 dans outils/)",
+  "claude/simulation-realistic-tools-d95e81": "univers 1 : branche de la session des outils (cf66dbb, déjà contenue dans master), conservée après la suppression du worktree (12/10/2026)",
   "claude/continuation-9f6d32": "univers 1 : suite jouée jusqu'au 11/08/2040 (tag univers-1-continuation), jamais fusionnée, archivée"
  },
  "telephone_artefact": {

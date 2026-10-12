@@ -13,8 +13,11 @@
 | **Lun. 16/07/2040** | **Revue du lundi n° 1 de l'univers 2** (§12) : bilan, idées, tirage des aléas, nouvelles du monde, propositions à valider (`memoire/propositions-2026-10-11.md`). Prélèvement internet et mobile (E005, dû le 15, un dimanche). |
 | Sam. 21/07/2040 | Blues'n Jazz Rallye à Luxembourg-Ville (Grund, Clausen, Pfaffenthal), projection. |
 | Mar. 31/07/2040 | Traitement de juillet (≈ 9 300 € net, E001 ; jour exact non vérifié). |
-| Mer. 01/08/2040 | Club de combat (E008). |
-| Lun. 06/08/2040 | Mensualité du crédit (≈ 940 €, E002 ; dû le 5, un dimanche). |
+| Mer. 01/08/2040 | Cotisation du Minett Combat Club (85 €, E008). |
+| Jeu. 02/08/2040 | Virements permanents : 2 850 € vers l'épargne « Projet » (E012) et 2 850 € vers les ETF (E014). |
+| Lun. 06/08/2040 | Mensualité du prêt PR1 (949,28 €, échéance n° 72, E002 ; dû le 5, un dimanche) ; assurance habitation (45 €, E007) ; assurance de la voiture (107 €, E010). |
+| Ven. 10/08/2040 | Électricité (132 €, E003) et gaz (253 €, E004). |
+| Lun. 13/08 → dim. 26/08/2040 | Fermeture d'été du Minett Combat Club (agenda A004) ; reprise le lundi 27/08. |
 | Mer. 15/08/2040 | Assomption : férié au Luxembourg et en France. |
 | Ven. 24/08 → mer. 12/09/2040 | Schueberfouer (Champ du Glacis, Luxembourg-Ville), projection. |
 | Lun. 03/09/2040 | Braderie de Luxembourg (projection) ; rentrée scolaire en France (enfants du voisinage, projection). |

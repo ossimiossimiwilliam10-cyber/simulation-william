@@ -60,6 +60,9 @@
 - **Git** : commit au moins à la fin de chaque journée simulée ; fusion en avance rapide dans `master` autorisée (22/07/2040).
 - Revue du lundi : chaque lundi simulé, avant le reste (§12) ; il valide lui-même les idées, les aléas et les pourcentages.
 
+- **Entourage** (11/10/2026) : il veut **découvrir au fil du jeu** les collègues, le club, les voisins (« tu peux déjà les mettre dans la base de données ») : 43 personnes pré-générées (`personnage.py liste --statut pre_genere`), jamais montrées, listées ni nommées avant leur entrée en scène (`personnage.py apparait`).
+- **Chiffres de biographie** (11/10/2026) : il en donne parfois « au hasard » (crédit : 110 000 € à 940 €/mois jusqu'en 2059) et préfère qu'on les rende **réalistes** (« trouver un bail réaliste en vrai ») : signaler l'incohérence, proposer une version calculée et sourcée, garder ses ordres de grandeur.
+
 ## Grandes décisions hors fiction (historique)
 - 25/07/2040 (simulé) : il a envisagé d'arrêter, puis a décidé de continuer avec tous les paramètres.
 - 11/10/2026 (réel) : redémarrage complet (univers 2) à 35 ans, argent initial, paramètres repris ; départ d'abord fixé au mardi

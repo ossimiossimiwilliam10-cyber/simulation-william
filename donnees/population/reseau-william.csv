@@ -1,0 +1,27 @@
+contexte;role;nombre;ages;sexe;cercle;note
+direction_lycee;{directeur|directrice} du lycée;1;48-56-63;;3;chef d'établissement du lycée de William
+direction_lycee;{directeur adjoint|directrice adjointe};2;40-50-62;;3;direction adjointe (emplois du temps, élèves, examens)
+secretariat_lycee;secrétaire du lycée;2;25-45-62;;3;secrétariat de direction et des élèves
+secretariat_lycee;concierge du lycée;1;40-52-62;;4;
+collegue_lycee;{professeur|professeure} de mathématiques;6;;;3;département de mathématiques de William
+collegue_lycee;{professeur|professeure} de physique;3;;;3;physique : l'autre matière de William
+collegue_lycee;{professeur|professeure} de chimie;1;;;3;
+collegue_lycee;{professeur|professeure} de biologie;1;;;3;
+collegue_lycee;{professeur|professeure} d'éducation physique;1;;;3;
+collegue_lycee;{professeur|professeure} d'anglais;1;;;3;
+collegue_lycee;{professeur|professeure} d'allemand;1;;;3;
+collegue_lycee;{professeur|professeure} de français;1;;;3;
+collegue_lycee;{professeur|professeure} d'informatique;1;;;3;
+club_combat;{fondateur et entraîneur principal|fondatrice et entraîneuse principale} du Minett Combat Club;1;36-42-50;;3;a fondé le club en 2027
+club_combat;{entraîneur|entraîneuse} de grappling;1;28-34-45;;3;
+club_combat;coach de musculation du club;1;25-32-45;;3;
+club_combat;{membre régulier|membre régulière} du club (sparring);7;18-27-45;;3;partenaires d'entraînement de William
+voisin_audun;{voisin mitoyen|voisine mitoyenne} (côté gauche);1;;;3;maison accolée à celle de William
+voisin_audun;{voisin mitoyen|voisine mitoyenne} (côté droit);1;;;3;maison accolée à celle de William
+voisin_audun;{voisin|voisine} d'en face;1;;;3;
+voisin_audun;{voisin|voisine} de la rue;3;;;4;
+sante;médecin généraliste (médecin traitant de William);1;35-50-64;;4;cabinet d'Audun-le-Tiche
+sante;{pharmacien|pharmacienne} d'Audun-le-Tiche;1;30-45-64;;4;
+commerce_audun;{boulanger|boulangère} du centre d'Audun-le-Tiche;1;25-42-60;;4;
+commerce_lux;{barbier|barbière} (salon d'Esch-sur-Alzette);1;22-30-50;;4;
+administration;{conseiller|conseillère} bancaire (Spuerkeess);1;28-42-60;;4;gère les comptes de William

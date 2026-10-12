@@ -9,7 +9,9 @@ local d'Alsace-Moselle compris), accès, prix repères, et RÉSERVOIR D'AMBIANCE
     python outils/lieux.py voir rue_william --simule                     # sans marquer les détails comme utilisés
 
 Données : `donnees/lieux.csv` (horaires « lun-ven 08:30-12:00,14:00-19:00 / sam 08:30-19:00 / dim fermé » ; jours fériés
-« ferme:fr », « ferme:lu » ou « ouvert ») et `donnees/ambiances.csv` (lieu ; saison ; moment ; détail ; dernier usage).
+« ferme:fr », « ferme:lu » ou « ouvert » ; congés annuels « conges:2040-08-13..2040-08-26 » (plusieurs périodes séparées par des
+virgules), joints aux autres règles par « + », par exemple « ferme:lu+conges:2040-08-13..2040-08-26 », depuis le 11/10/2026) et
+`donnees/ambiances.csv` (lieu ; saison ; moment ; détail ; dernier usage).
 `voir` propose les deux détails les moins récemment utilisés et note leur usage (date de l'horloge) : la variété devient mécanique.
 Statut d'un lieu : etabli (fait du profil ou vérifié), generique (type réaliste, horaires estimés), propose (à confirmer par
 l'utilisateur), a_definir, projection. Un lieu nouveau s'ajoute à la main dans le CSV, après une recherche web si ses horaires comptent.
@@ -82,12 +84,18 @@ def ferie(jour, pays):
 
 def ouvert(lieu, quand):
     """(ouvert ?, raison)"""
-    regle = lieu.get("feries", "ouvert")
-    if regle.startswith("ferme:"):
-        for pays in regle[6:].split(","):
-            f = ferie(quand.date(), pays)
-            if f:
-                return False, f"fermé : jour férié ({pays.upper()} : {f[0]})"
+    for regle in (lieu.get("feries") or "ouvert").split("+"):
+        regle = regle.strip()
+        if regle.startswith("ferme:"):
+            for pays in regle[6:].split(","):
+                f = ferie(quand.date(), pays)
+                if f:
+                    return False, f"fermé : jour férié ({pays.upper()} : {f[0]})"
+        elif regle.startswith("conges:"):
+            for periode in regle[7:].split(","):
+                a, b = (dt.date.fromisoformat(x.strip()) for x in periode.split(".."))
+                if a <= quand.date() <= b:
+                    return False, f"fermé : congés annuels du {a:%d/%m} au {b:%d/%m/%Y}"
     minutes = quand.hour * 60 + quand.minute
     p = plages(lieu["horaires"], quand.weekday())
     if not p:

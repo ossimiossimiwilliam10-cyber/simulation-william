@@ -2,16 +2,38 @@ date;heure;compte;montant;type;libelle;reference
 2040-07-14;07:00;courant;9800.00;calage;Solde de départ de l'univers 2 (niveau initial choisi par l'utilisateur le 11/10/2026) (avant : daté du 17/07 → maintenant : 14/07, départ redaté le 11/10/2026);
 2040-07-14;07:00;projet;357000.00;calage;Solde de départ de l'univers 2 (épargne « Projet ») (avant : daté du 17/07 → maintenant : 14/07, départ redaté le 11/10/2026);
 2040-07-14;07:00;etf;288000.00;calage;Valeur de départ de l'univers 2 (ETF) (avant : daté du 17/07 → maintenant : 14/07, départ redaté le 11/10/2026);
-2040-07-14;07:00;pret;110000.00;calage;Prêt logement restant dû (départ de l'univers 2) (avant : daté du 17/07 → maintenant : 14/07, départ redaté le 11/10/2026);
-2040-07-14;07:00;maison_part;90000.00;valeur;Part nette de la maison d'Audun-le-Tiche (estimation) (avant : daté du 17/07 → maintenant : 14/07, départ redaté le 11/10/2026);
-2040-07-31;12:00;courant;9300.00;prevu_annule;"Traitement de juillet (≈ net ; jour exact à établir) [annulé : remplacé par l'échéancier E001, 11/10/2026]";P001
+2040-07-14;07:00;pret;110003.13;calage;Prêt logement restant dû (départ de l'univers 2) (avant : daté du 17/07 → maintenant : 14/07, départ redaté le 11/10/2026) (avant : 110 000,00 € → maintenant : 110 003,13 €, capital restant dû après l'échéance n° 71 du 05/07/2040 selon le tableau d'amortissement du prêt PR1, 11/10/2026);
+2040-07-14;07:00;maison_part;89996.87;valeur;Part nette de la maison d'Audun-le-Tiche (estimation) (avant : daté du 17/07 → maintenant : 14/07, départ redaté le 11/10/2026) (avant : 90 000,00 € → maintenant : 89 996,87 € = valeur estimée 200 000 € − capital restant dû 110 003,13 €, 11/10/2026);
+2040-07-31;12:00;courant;9300.00;prevu_annule;Traitement de juillet (≈ net · jour exact à établir) [annulé : remplacé par l'échéancier E001, 11/10/2026];P001
 2040-07-31;20:00;courant;9300.00;prevu;Traitement mensuel de William (net, État luxembourgeois);E001-20400731
 2040-08-31;20:00;courant;9300.00;prevu;Traitement mensuel de William (net, État luxembourgeois);E001-20400831
-2040-08-06;06:00;courant;-940.00;prevu;Mensualité du crédit immobilier (maison d'Audun-le-Tiche);E002-20400806
-2040-09-05;06:00;courant;-940.00;prevu;Mensualité du crédit immobilier (maison d'Audun-le-Tiche);E002-20400905
-2040-08-10;06:00;courant;-112.00;prevu;Électricité (mensualisation, tarif réglementé);E003-20400810
-2040-09-10;06:00;courant;-112.00;prevu;Électricité (mensualisation, tarif réglementé);E003-20400910
+2040-08-06;06:00;courant;-940.00;prevu_annule;Mensualité du crédit immobilier (maison d'Audun-le-Tiche) [annulé le 11/10/2026 : montant recalculé (prêt PR1, électricité avec recharge), remplacé par le nouveau prévu];E002-20400806-v1
+2040-09-05;06:00;courant;-940.00;prevu_annule;Mensualité du crédit immobilier (maison d'Audun-le-Tiche) [annulé le 11/10/2026 : montant recalculé (prêt PR1, électricité avec recharge), remplacé par le nouveau prévu];E002-20400905-v1
+2040-08-10;06:00;courant;-112.00;prevu_annule;Électricité (mensualisation, tarif réglementé) [annulé le 11/10/2026 : montant recalculé (prêt PR1, électricité avec recharge), remplacé par le nouveau prévu];E003-20400810-v1
+2040-09-10;06:00;courant;-112.00;prevu_annule;Électricité (mensualisation, tarif réglementé) [annulé le 11/10/2026 : montant recalculé (prêt PR1, électricité avec recharge), remplacé par le nouveau prévu];E003-20400910-v1
 2040-07-16;06:00;courant;-63.00;prevu;Box internet fibre et forfait mobile;E005-20400716
 2040-08-16;06:00;courant;-63.00;prevu;Box internet fibre et forfait mobile;E005-20400816
-2040-08-01;06:00;courant;-85.00;prevu;Club de combat (accès complet);E008-20400801
-2040-09-03;06:00;courant;-85.00;prevu;Club de combat (accès complet);E008-20400903
+2040-08-01;06:00;courant;-85.00;prevu;Minett Combat Club (Esch-sur-Alzette) : accès complet;E008-20400801
+2040-09-03;06:00;courant;-85.00;prevu;Minett Combat Club (Esch-sur-Alzette) : accès complet;E008-20400903
+2040-08-06;06:00;courant;-949.28;prevu;Mensualité du prêt immobilier et assurance emprunteur (maison d'Audun-le-Tiche) (échéance n° 72 : capital 605.31 €, intérêts 320.84 €, assurance 23.13 €);E002-20400806
+2040-08-06;06:00;pret;-605.31;prevu;Prêt immobilier de la maison d'Audun-le-Tiche (taux fixe, amortissable) : capital remboursé (échéance n° 72);E002-20400806-K
+2040-08-06;06:00;maison_part;605.31;prevu;Part nette du bien financé : + capital remboursé (échéance n° 72 du prêt PR1);E002-20400806-M
+2040-09-05;06:00;courant;-949.28;prevu;Mensualité du prêt immobilier et assurance emprunteur (maison d'Audun-le-Tiche) (échéance n° 73 : capital 607.07 €, intérêts 319.08 €, assurance 23.13 €);E002-20400905
+2040-09-05;06:00;pret;-607.07;prevu;Prêt immobilier de la maison d'Audun-le-Tiche (taux fixe, amortissable) : capital remboursé (échéance n° 73);E002-20400905-K
+2040-09-05;06:00;maison_part;607.07;prevu;Part nette du bien financé : + capital remboursé (échéance n° 73 du prêt PR1);E002-20400905-M
+2040-08-10;06:00;courant;-132.00;prevu;Électricité (mensualisation · option heures creuses, 9 kVA · recharge de la voiture la nuit);E003-20400810
+2040-09-10;06:00;courant;-132.00;prevu;Électricité (mensualisation · option heures creuses, 9 kVA · recharge de la voiture la nuit);E003-20400910
+2040-08-10;06:00;courant;-253.00;prevu;Gaz naturel (chauffage, eau chaude, cuisson) : mensualisation;E004-20400810
+2040-09-10;06:00;courant;-253.00;prevu;Gaz naturel (chauffage, eau chaude, cuisson) : mensualisation;E004-20400910
+2040-08-06;06:00;courant;-45.00;prevu;Assurance habitation (maison, propriétaire occupant) : mensualisée;E007-20400806
+2040-09-05;06:00;courant;-45.00;prevu;Assurance habitation (maison, propriétaire occupant) : mensualisée;E007-20400905
+2040-08-06;06:00;courant;-107.00;prevu;Voiture électrique : assurance tous risques (mensualisée);E010-20400806
+2040-09-05;06:00;courant;-107.00;prevu;Voiture électrique : assurance tous risques (mensualisée);E010-20400905
+2040-08-02;08:00;courant;-2850.00;prevu;Virement permanent vers l'épargne « Projet » (45 % du surplus);E012-20400802
+2040-08-02;08:00;projet;2850.00;prevu;Virement permanent vers l'épargne « Projet » (45 % du surplus) (compte crédité);E012-20400802-C
+2040-09-03;08:00;courant;-2850.00;prevu;Virement permanent vers l'épargne « Projet » (45 % du surplus);E012-20400903
+2040-09-03;08:00;projet;2850.00;prevu;Virement permanent vers l'épargne « Projet » (45 % du surplus) (compte crédité);E012-20400903-C
+2040-08-02;08:00;courant;-2850.00;prevu;Virement permanent vers le compte-titres ETF (45 % du surplus);E014-20400802
+2040-08-02;08:00;etf;2850.00;prevu;Virement permanent vers le compte-titres ETF (45 % du surplus) (compte crédité);E014-20400802-C
+2040-09-03;08:00;courant;-2850.00;prevu;Virement permanent vers le compte-titres ETF (45 % du surplus);E014-20400903
+2040-09-03;08:00;etf;2850.00;prevu;Virement permanent vers le compte-titres ETF (45 % du surplus) (compte crédité);E014-20400903-C

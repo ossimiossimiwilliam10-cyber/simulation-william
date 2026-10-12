@@ -13,8 +13,9 @@
 - Né le 23/03/2005 au Cameroun (35 ans). Arrivé en Europe à 15 ans.
 - Naturalisé luxembourgeois en 2022, **par effet collectif de la naturalisation de son père** (William était mineur ; il n'a pas
   passé de test de langue, d'où l'absence de luxembourgeois) *(précisé par l'utilisateur le 21/07/2040, univers 1)*.
-- Ne parle plus à ses parents mais les soutient financièrement (a grandi avec son père, « spécial »). Montant et fréquence du
-  soutien : **non fixés** (question posée à l'utilisateur le 11/10/2026 ; `etat/echeancier.csv`, E011, à valider).
+- **A coupé les ponts avec ses parents et ne leur envoie plus d'argent** (précisé par l'utilisateur le 11/10/2026 : « J'ai
+  totalement coupé les ponts avec eux ») ; a grandi avec son père, « spécial ». *(Avant : « ne parle plus à ses parents mais les
+  soutient financièrement ; montant et fréquence non fixés » → maintenant : aucun soutien, ponts coupés ; E011 terminé, 12/10/2026.)*
 - **Ne boit pas d'alcool** *(précisé par l'utilisateur le 27/07/2040, univers 1)*.
 - Langues : français, anglais C1 ; ne parle pas luxembourgeois.
 
@@ -43,29 +44,47 @@
 
 ## Logement
 - Maison mitoyenne ancienne, trois chambres, **Audun-le-Tiche** (Moselle, France), achetée 180 000 € en 2034.
-- **Crédit restant : 110 000 €** (après un remboursement anticipé d'environ 40 000 €), mensualité ≈ 940 €, fin en 2059.
-  Part nette de la maison : ≈ 90 000 €. *Incohérence relevée, non modifiée (biographie) : 110 000 € remboursés à 940 €/mois
-  finiraient vers 2052 à 3,5 % ; finir en 2059 supposerait une mensualité d'environ 630 à 660 € (taux de 3 à 3,5 %) ou un taux d'environ 8 %. Question posée
-  à l'utilisateur le 11/10/2026.*
-- Chauffage : **type inconnu** (gaz, fioul, pompe à chaleur ?) : question posée à l'utilisateur (E004).
+- **Crédit (prêt PR1, `etat/prets.csv`, `python outils/prets.py liste`)** : 185 000 € empruntés à taux fixe de 3,5 % sur
+  25 ans (achat signé en juillet 2034, première échéance le 05/09/2034 ; frais de notaire compris, apport d'environ 8 500 €) ;
+  remboursement anticipé de 40 000 € le 05/06/2037 (indemnité de 700 €), avec réduction de la durée ; **capital restant dû au
+  14/07/2040 : 110 003,13 €** ; mensualité 926,15 € + assurance emprunteur 23,13 € = **949,28 €** (prélevée le 5, E002) ;
+  **dernière échéance le 05/10/2052**. Part nette de la maison : 89 996,87 € (valeur estimée 200 000 €). *(Avant : « 110 000 €
+  restants, mensualité ≈ 940 €, fin en 2059 », chiffres donnés au hasard selon l'utilisateur → maintenant : prêt reconstitué et
+  calculé à sa demande (« trouver un bail réaliste en vrai »), 12/10/2026.)*
+- **Chauffage au gaz** (chauffage, eau chaude, cuisson ; précisé par l'utilisateur le 11/10/2026) : ≈ 13 000 kWh par an,
+  mensualisation ≈ 253 € (E004). *(Avant : « type inconnu » → maintenant : gaz.)*
+- Surface : non fixée. Le prix de 180 000 € en 2034 n'est cohérent qu'avec une petite maison de mineur d'environ 75 m², achetée à
+  rénover (≈ 2 600 €/m² à Audun en 2026 : PX015) : estimation du moteur, à confirmer par l'utilisateur.
 - Frontalier : vit en France, travaille au Luxembourg (impôt sur le traitement au Luxembourg, déclaration en France avec crédit
   d'impôt : F013 ; comptes luxembourgeois à déclarer en France : F015).
 
 ## Argent
 Voir `etat/finances.md` (niveaux initiaux choisis par l'utilisateur le 11/10/2026 : ceux du 17/07/2040 de l'univers 1) et
-`etat/echeancier.csv` (mouvements récurrents).
+`etat/echeancier.csv` (mouvements récurrents). **Virements automatiques** (précisé par l'utilisateur le 11/10/2026) : le 2 de
+chaque mois, 2 850 € vers l'épargne « Projet » et 2 850 € vers les ETF (E012, E014 ; 45 % chacun d'un surplus estimé à
+≈ 6 335 € ; montants estimés par le moteur, modifiables) ; les 10 % « plaisir » restent sur le compte courant.
 
 ## Déplacements
-- Voiture : **non fixé** (question posée à l'utilisateur le 11/10/2026 ; E010). Sans voiture : bus 602, 603 ou 604 jusqu'à Esch
-  ou Luxembourg (RegioZone, partie française payante : F024, F025), puis transports gratuits au Luxembourg (F023) ; plus de train
-  Audun–Esch en 2040 (projection, F027) ; tram rapide Esch – Cloche d'Or en service (projection, F028).
+- **Voiture électrique** (modèle non précisé ; précisé par l'utilisateur le 11/10/2026), immatriculée en France (William réside à
+  Audun-le-Tiche) ; rechargée la nuit à la maison (abonnement 9 kVA, heures creuses : E003) ; assurance tous risques ≈ 107 €/mois
+  (E010). Audun → Luxembourg-Ville : 35 à 60 minutes selon l'heure (pointe de 7 h à 9 h et de 16 h à 18 h : F029) ; Audun → club
+  d'Esch : environ 15 minutes. *(Avant : « Voiture : non fixé » → maintenant : voiture électrique, 12/10/2026.)*
+- Sans la voiture (panne, entretien) : bus 602, 603 ou 604 jusqu'à Esch ou Luxembourg (RegioZone, partie française payante :
+  F024, F025), puis transports gratuits au Luxembourg (F023) ; plus de train Audun–Esch en 2040 (projection, F027) ; tram rapide
+  Esch – Cloche d'Or en service (projection, F028).
 
 ## Vie personnelle
 - Célibataire ; aucune relation en cours ; famille éloignée (voir « Identité »).
-- Entourage, amis, club de sport, voisins : à créer au fil du jeu (aucun personnage récurrent au départ) avec
-  `outils/personnage.py` (tirage selon la démographie réelle) ; tout lien ancien (ami de longue date, ex, frère) relève de la
-  biographie : jamais sans l'accord de l'utilisateur. Club de combat : **lieu à confirmer** (proposition : Esch-sur-Alzette,
-  `donnees/lieux.csv`, club_combat).
+- **Club : Minett Combat Club**, à Esch-sur-Alzette (quartier de Lallange), membre depuis onze ans ; MMA, grappling, boxe
+  thaïe, musculation ; 85 €/mois (E008) ; cours d'été réduits (MMA lundi et mercredi à 19 h, sparring le samedi à 10 h 30),
+  fermeture complète du 13 au 26/08/2040 (`donnees/lieux.csv`, club_combat ; agenda A004). Club fictif proposé par le moteur à la
+  demande de l'utilisateur (« Propose-moi un club à Esch », 11/10/2026). *(Avant : « lieu à confirmer » → maintenant : établi.)*
+- **Entourage existant** (collègues, direction et secrétariat du lycée, club, voisins, médecin, commerçants, conseillère ou
+  conseiller bancaire) : **pré-généré en coulisse le 11/10/2026** (43 personnes, statut `pre_genere` dans
+  `etat/personnages.csv`) ; l'utilisateur veut **le découvrir au fil du jeu** : personne n'est montré ni nommé avant son entrée
+  en scène (`personnage.py apparait`). Tout lien ancien et intime (ami de longue date, ex, frère) relève de la biographie : jamais
+  sans l'accord de l'utilisateur. *(Avant : « à créer au fil du jeu (aucun personnage récurrent au départ) » → maintenant :
+  existe en base, à découvrir, 12/10/2026.)*
 
 ## Profil de l'utilisateur (objectif : profil précis sur environ une année simulée)
 - Les observations de l'univers 1 (analyse de départ, synthèses de semaine, revues) sont archivées dans `archives/univers-1/`
@@ -79,6 +98,9 @@ Voir `etat/finances.md` (niveaux initiaux choisis par l'utilisateur le 11/10/202
 - *(Avant : « Mardi 17/07/2040 : réveillé à 07h05, reposé » → maintenant : faux départ archivé.)*
 
 ## Historique (univers 2)
+- **11-12/10/2026 (date réelle, hors fiction)** : réponses de l'utilisateur aux questions de biographie appliquées : voiture
+  électrique, chauffage au gaz, ponts coupés avec les parents (plus aucun envoi d'argent), virements automatiques, Minett Combat
+  Club à Esch, prêt reconstitué de façon réaliste (PR1), entourage pré-généré à découvrir.
 - **14/07/2040, 08h37** : début de l'univers 2 ; William se réveille chez lui à Audun-le-Tiche ; premier jour des vacances d'été
   (dernier jour de classe la veille) ; Fête nationale française (jour férié chômé en Moselle : commerces avec salariés fermés).
 - *(Avant : « 17/07/2040, 07h05 : début de l'univers 2 ; les vacances d'été ont commencé le samedi 14/07 » → maintenant : départ

@@ -78,6 +78,11 @@ def main():
     e.lancer(o + "echeancier.py", "liste", contient="E001")
     e.lancer(o + "echeancier.py", "budget", "2040-08", contient="Solde des lignes actives")
     e.lancer(o + "echeancier.py", "prevoir", "--jusqua", "2040-12-31", "--simule", contient="prévu")
+    e.lancer(o + "echeancier.py", "verifier", contient="conforme")
+    e.lancer(o + "echeancier.py", "budget", "2040-08", contient="compte projet", nom="échéancier : virement permanent crédité sur « Projet »")
+    e.lancer(o + "prets.py", "liste", contient="110 003,13", nom="prêt PR1 : capital restant dû au 14/07/2040 = 110 003,13 €")
+    e.lancer(o + "prets.py", "verifier", contient="conforme")
+    e.lancer(o + "prets.py", "tableau", "PR1", "--de", "2052-10", "--a", "2052-10", contient="0.00", nom="prêt PR1 : soldé en octobre 2052")
     e.lancer(o + "savoir.py", "verifier", contient="conforme")
 
     print("\n[Monde : météo, calendrier, lieux, faits, prix]")
@@ -92,6 +97,8 @@ def main():
     e.verifier("fermé  supermarche_audun" in sortie and "OUVERT hypermarche_belval" in sortie,
                "lieux : le 14 juillet, supermarché d'Audun fermé (droit local) et hypermarché de Belval ouvert")
     e.lancer(o + "lieux.py", "voir", "boulangerie_audun", "--quand", "2040-07-15 08:00", "--simule", contient="ouvert")
+    e.lancer(o + "lieux.py", "voir", "club_combat", "--quand", "2040-08-20 18:00", "--simule", contient="congés",
+             nom="lieux : fermeture d'été du club (règle conges:)")
     e.lancer(o + "faits.py", "cherche", "taxe foncière", contient="F018")
     e.lancer(o + "prix.py", "cherche", "coupe", contient="PX009")
     e.lancer(o + "prix.py", "tirer", "PX010", "--simule", contient="Prix tiré")
@@ -110,7 +117,7 @@ def main():
              contient="MINEUR")
     e.lancer(o + "personnage.py", "liste", contient="MINEUR")
     noms = [l.split(";")[1] for l in (copie / "etat" / "personnages.csv").read_text(encoding="utf-8").splitlines()[1:] if l.strip()]
-    adulte, mineur = noms[0], noms[1]
+    adulte, mineur = noms[-2], noms[-1]  # les deux personnages que l'essai vient de créer (le registre n'est plus vide)
     e.lancer(o + "jet.py", "--table", "T1", "--pour", mineur, "essai sur un mineur", attendu=1, contient="REFUSÉ",
              nom="jet.py refuse T1 pour un mineur")
     e.lancer(o + "jet.py", "--table", "T10", "--pour", mineur, "délai de réponse d'un élève", "--simule", contient="Tirage [T10]",
@@ -121,11 +128,22 @@ def main():
              nom="garde de la règle 17 : rôle reconnu sans fiche")
     e.verifier((copie / "memoire" / "simulations.jsonl").exists(), "les essais --simule sont tracés (memoire/simulations.jsonl)")
     e.lancer(o + "personnage.py", "audit", contient="récurrent")
+    e.lancer(o + "personnage.py", "reseau", "--plan", "donnees/population/reseau-william.csv", "--simule", contient="essai :",
+             nom="personnage.py reseau --simule (entourage)")
+    e.lancer(o + "personnage.py", "reseau", "--plan", "donnees/population/reseau-william.csv", attendu=1, contient="déjà",
+             nom="personnage.py reseau : un réseau ne se tire qu'une fois")
+    caches = [l.split(";")[1] for l in (copie / "etat" / "personnages.csv").read_text(encoding="utf-8").splitlines()[1:]
+              if ";pre_genere;" in l]
+    if caches:
+        e.lancer(o + "personnage.py", "apparait", caches[0], "--scene", "essai", contient="apparaît",
+                 nom="personnage.py apparait : pré-généré → figurant")
+        e.lancer(o + "personnage.py", "liste", "--statut", "figurant", contient=caches[0].split()[0])
 
     print("\n[Base de données]")
     e.lancer(o + "base.py", "construire", contient="Base reconstruite")
     e.lancer(o + "base.py", "requete", "SELECT nom, age, mineur FROM v_personnages", contient="oui")
-    e.lancer(o + "base.py", "requete", "SELECT COUNT(*) AS n FROM faits", contient="40")
+    e.lancer(o + "base.py", "requete", "SELECT COUNT(*) AS n FROM faits", contient="44")
+    e.lancer(o + "base.py", "requete", "SELECT id, capital FROM prets", contient="PR1")
     e.lancer(o + "base.py", "cherche", "boulangerie", contient="lieux")
     e.lancer(o + "base.py", "requete", "DELETE FROM faits", attendu=1, contient="Lecture seule", nom="base : écriture refusée")
     e.lancer(o + "base.py", "verifier", contient="Base :")

@@ -9,7 +9,15 @@ personnalité (cinq grands traits), attachement, défauts, qualité, contradicti
     python outils/personnage.py nouveau --contexte club_combat --role "entraîneur" --figurant      # figurant : registre seulement
     python outils/personnage.py nouveau --contexte eleve_lycee --role "élève de 2e" --simule        # essai, rien n'est écrit
     python outils/personnage.py promouvoir "Rui Ferreira"         # un figurant devient récurrent (fiche + vie propre)
-    python outils/personnage.py liste | voir "Nom" | audit | contextes
+    python outils/personnage.py liste [--statut pre_genere] | voir "Nom" | audit | contextes
+    python outils/personnage.py reseau --plan donnees/population/reseau-william.csv [--simule]   # entourage existant, en coulisse
+    python outils/personnage.py apparait "Nom" --scene "salle des profs, 17/09"   # un pré-généré entre en scène (→ figurant)
+
+STATUTS (depuis le 11/10/2026) : pre_genere (existe dans le monde, William le connaît dans la fiction, mais le JOUEUR ne l'a pas
+encore rencontré : jamais montré, ni listé, ni nommé hors d'une scène ; demande de l'utilisateur : « j'aimerais bien les découvrir
+au fil du jeu, mais tu peux déjà les mettre dans la base de données ») → figurant (est apparu dans une scène : `apparait`) →
+recurrent (fiche, vie propre, tour du monde : `promouvoir`). Le tirage d'un pré-généré est définitif : à son apparition, le moteur
+le joue tel qu'il a été tiré (secret, défauts, foyer compris), sans le retoucher pour la scène.
 
 Écritures (sauf --simule) : `etat/personnages.csv` (registre de TOUS les personnages, avec date de naissance : garde « mineurs »
 de jet.py --pour) ; pour un personnage récurrent : `personnes/<prenom-nom>.md` (fiche à compléter par le moteur), un bloc
@@ -27,7 +35,7 @@ import re
 import sys
 
 from commun import (DONNEES, ETAT, OUTILS, RACINE, ajouter_texte, age, ecrire_csv, ecrire_texte, lire_csv, lire_texte,
-                    maintenant_simule, slug, utf8)
+                    maintenant_simule, sans_accents, slug, utf8)
 
 sys.path.insert(0, str(OUTILS))
 POP = DONNEES / "population"
@@ -60,6 +68,8 @@ METIER_DANS_ROLE = ("entraîneur", "entraîneuse", "coach", "gérant", "gérante
                     "factrice", "mécanicien", "garagiste", "coiffeur", "coiffeuse", "avocat", "avocate", "notaire", "policier",
                     "policière", "secrétaire", "directeur", "directrice")
 EXCLUS_ORIGINE_LU = ("apprendre le luxembourgeois", "obtenir la nationalité luxembourgeoise", "faire venir un proche resté au pays")
+# prénoms des personnages principaux de l'univers 1 (archivé) : jamais réattribués, pour qu'aucun nom ne prête à confusion
+PRENOMS_UNIVERS_1 = {"Sandra", "Kevin", "Aïcha", "Grace", "Yves", "Mariette", "Abdoul", "Ibrahim"}
 SOUCIS_MINEUR = ["notes en baisse dans une matière", "conflit avec un parent", "timidité qui l'isole en classe",
                  "pression des examens", "séparation récente de ses parents", "moqueries sur les réseaux sociaux"]
 OBJECTIFS_MINEUR = ["réussir son année", "changer de section", "trouver un petit boulot d'été", "entrer dans une équipe de sport",
@@ -231,8 +241,9 @@ def tirer_metier(rng, ctx, role, a):
     if any(m in role.lower().split() or role.lower().startswith(m) for m in METIER_DANS_ROLE) and c != "collegue_lycee":
         return role, ("lycée de William" if c in ("direction_lycee", "secretariat_lycee") else "")
     if c == "collegue_lycee":
-        m = re.search(r"professeure? d[e'’]\s*(.+)", role)
-        return (f"professeur de {m.group(1)}" if m else f"professeur de {rng.choice(MATIERES)}"), "lycée de William"
+        if role.lower().startswith("professeur"):
+            return role.split(" (")[0], "lycée de William"
+        return f"professeur de {rng.choice(MATIERES)}", "lycée de William"
     if c == "direction_lycee":
         return role, "lycée de William"
     if c == "secretariat_lycee":
@@ -276,13 +287,21 @@ def physique(rng, origine, sexe, ctx, a):
     return taille, corpulence, signes
 
 
-def nom_trop_proche(prenom, nom, existants):
-    complet = f"{prenom} {nom}".lower()
+def nom_trop_proche(prenom, nom, existants, strict=True):
+    """Évite les homonymes, qui embrouillent le récit (11/10/2026 : trois « Goergen » et trois « Camille » sur 43 personnes) :
+    même nom complet, ou même nom de famille avec la même initiale, toujours refusés ; en mode strict, aussi un nom de famille ou
+    un prénom déjà porté par quelqu'un du registre (après 45 essais, le tirage l'accepte : un réservoir épuisé ne bloque rien)."""
+    def norme(s):  # sans accents ni majuscules : « Léo » et « Leo » sont le même prénom pour le lecteur
+        return sans_accents(s).lower()
+
+    complet, pn, nn = norme(f"{prenom} {nom}"), norme(prenom), norme(nom)
     for e in existants:
-        x = e.lower()
+        x = norme(e)
         if x == complet:
             return True
-        if x.split()[-1] == nom.lower() and x[0] == prenom[0].lower():
+        if x.endswith(" " + nn) and x[0] == pn[0]:
+            return True
+        if strict and (x.endswith(" " + nn) or x.split()[0] == pn):
             return True
     return False
 
@@ -306,10 +325,10 @@ def tirer(contexte, role, sexe=None, ages=None, rng=None, existants=()):
     zone = ctx["zone"]
     origine, part_lu = tirer_origine(rng, zone)
     nat = nationalite(rng, origine, part_lu, zone)
-    for _ in range(30):
+    for essai in range(60):
         prenom = tirer_prenom(rng, origine, sexe, naissance.year, zone)
         nom = tirer_nom(rng, origine)
-        if not nom_trop_proche(prenom, nom, existants):
+        if prenom not in PRENOMS_UNIVERS_1 and not nom_trop_proche(prenom, nom, existants, strict=essai < 45):
             break
     traits = big_five(rng, sexe, a)
     attachement = pondere(rng, [("sécure", 56), ("évitant", 25), ("anxieux", 19)])  # Hazan et Shaver (1987)
@@ -361,18 +380,23 @@ def resume(p):
     return "\n".join(lignes)
 
 
-def ligne_registre(p, statut, fiche):
+def ligne_registre(p, statut, fiche, cercle=None, note=""):
     t = p["traits"]
     traits = (f"O{t['O']} C{t['C']} E{t['E']} A{t['A']} N{t['N']} · attachement {p['attachement']} · défauts : "
               f"{' / '.join(p['defauts'])} · qualité : {' / '.join(p['qualite'])} · oubli {round(p['oubli'] * 100)} %")
     notes = (f"foyer : {p['foyer']} · objectif : {' / '.join(p['objectif'])} · souci : {' / '.join(p['souci'])} · loisirs : "
              f"{' / '.join(p['loisirs'])} · physique : {p['taille']} cm, {p['corpulence']}"
              + (f", {', '.join(p['signes'])}" if p['signes'] else "") + (" · MINEUR" if p["mineur"] else ""))
+    if statut != "recurrent":  # le tirage complet reste dans le registre : la promotion le reprend tel quel (jamais de nouveau tirage)
+        notes += (f" · secret : {p['secret'][0] + ' (gravité ' + str(p['gravite_secret']) + ')' if p['secret'] else 'aucun'}"
+                  f" · contradiction : {p['contradiction'][0] if p['contradiction'] else 'aucune'}")
+    if note:
+        notes += f" · {note}"
     return {"id": slug(p["nom"]), "nom": p["nom"], "alias": "", "sexe": p["sexe"], "naissance": p["naissance"],
             "nationalite": p["nationalite"], "origine": p["origine"], "langues": p["langues"],
             "langue_avec_william": p["langue_avec_william"], "registre": p["registre"], "commune": p["commune"],
             "metier": p["metier"], "employeur": p["employeur"], "role": p["role"], "contexte": p["contexte"],
-            "cercle": "4" if statut == "figurant" else "3", "statut": statut, "fiche": fiche,
+            "cercle": cercle or ("4" if statut == "figurant" else "3"), "statut": statut, "fiche": fiche,
             "cree_le": f"{aujourd_hui():%Y-%m-%d}", "traits": traits.replace(";", ","), "notes": notes.replace(";", ",")}
 
 
@@ -476,6 +500,70 @@ def cmd_nouveau(args):
     return 0
 
 
+def libelle_sexe(role, sexe):
+    """« {professeur|professeure} de physique », « {directeur adjoint|directrice adjointe} » : entre accolades, la forme masculine
+    avant la barre, la féminine après ; le reste du libellé est commun."""
+    return re.sub(r"\{([^|}]*)\|([^}]*)\}", lambda m: m.group(1) if sexe == "H" else m.group(2), role)
+
+
+def cmd_reseau(args):
+    """Entourage existant de William, généré d'avance d'après un plan (contexte ; rôle ; nombre ; âges ; sexe ; cercle ; note)."""
+    plan = lire_csv(RACINE / args.plan)
+    deja = [l for l in lire() if l["statut"] == "pre_genere"]
+    if deja and not args.forcer and not args.simule:
+        sys.exit(f"{len(deja)} personnage(s) déjà pré-généré(s) : un réseau ne se tire qu'une fois (--forcer pour en ajouter).")
+    rng = random.SystemRandom()
+    ctxs = contextes()
+    existants = [l["nom"] for l in lire()]
+    nouveaux = []
+    for ligne in plan:
+        ctx = ctxs.get(ligne["contexte"])
+        if not ctx:
+            sys.exit(f"Contexte inconnu dans le plan : {ligne['contexte']}")
+        for _ in range(int(ligne["nombre"] or 1)):
+            sexe = ligne.get("sexe") or None
+            if not sexe:
+                sexe = sexe_du_role(ligne["role"]) if "{" not in ligne["role"] else None
+                sexe = sexe or ("F" if rng.random() < float(ctx["part_femmes"]) else "H")
+            role = libelle_sexe(ligne["role"], sexe)
+            ages = None
+            if ligne.get("ages"):
+                bornes = [int(x) for x in ligne["ages"].split("-")]
+                a = int(rng.triangular(bornes[0], bornes[-1] + 1, bornes[1])) if len(bornes) == 3 else int(rng.uniform(bornes[0], bornes[1] + 1))
+                ages = f"{a}-{a}"
+            pers = tirer(ligne["contexte"], role, sexe, ages, rng=rng, existants=existants)
+            existants.append(pers["nom"])
+            nouveaux.append((pers, ligne))
+    lignes = lire()
+    for pers, ligne in nouveaux:
+        note = f"pré-généré le {aujourd_hui():%d/%m/%Y} (entourage existant, plan {args.plan})" + (f" · {ligne['note']}" if ligne.get("note") else "")
+        lignes.append(ligne_registre(pers, "pre_genere", "", cercle=ligne.get("cercle") or "3", note=note))
+        print(f"  {pers['nom']:28s} {pers['age']:>3} ans {pers['sexe']} {pers['role']} ({pers['contexte']}){'  MINEUR' if pers['mineur'] else ''}")
+    if args.simule:
+        print(f"(essai : {len(nouveaux)} personnage(s), rien n'est écrit)")
+        return 0
+    ecrire_csv(REGISTRE, lignes, COLONNES)
+    for pers, _ in nouveaux:
+        consigner(pers, "pre_genere")
+    print(f"{len(nouveaux)} personnage(s) pré-généré(s) dans etat/personnages.csv (statut pre_genere : jamais montrés au joueur avant "
+          f"leur apparition dans une scène)")
+    return 0
+
+
+def cmd_apparait(args):
+    lignes = lire()
+    l = trouver(args.nom)
+    cible = next(x for x in lignes if x["id"] == l["id"])
+    if cible["statut"] != "pre_genere":
+        print(f"{cible['nom']} est déjà {cible['statut']}.")
+        return 0
+    cible["statut"] = "figurant"
+    cible["notes"] += f" · première apparition le {aujourd_hui():%d/%m/%Y}" + (f" ({args.scene})" if args.scene else "")
+    ecrire_csv(REGISTRE, lignes, COLONNES)
+    print(f"{cible['nom']} apparaît : statut figurant ({cible['role']}). Pour une fiche et une vie propre : personnage.py promouvoir")
+    return 0
+
+
 def trouver(nom):
     for l in lire():
         if nom.lower() in (l["nom"].lower(), l["id"].lower(), l["nom"].split()[0].lower()):
@@ -508,8 +596,16 @@ def cmd_promouvoir(args):
     p["objectif"] = [re.search(r"objectif : ([^·]+)", l["notes"]).group(1).strip()] if "objectif" in l["notes"] else catalogue(rng, "objectif", traits)
     p["souci"] = [re.search(r"souci : ([^·]+)", l["notes"]).group(1).strip()] if "souci" in l["notes"] else catalogue(rng, "souci", traits)
     p["loisirs"] = re.search(r"loisirs : ([^·]+)", l["notes"]).group(1).strip().split(" / ") if "loisirs" in l["notes"] else []
-    p["secret"] = [] if p["mineur"] else catalogue(rng, "secret", traits, 1)
-    p["gravite_secret"] = gravite(p["secret"][0]) if p["secret"] else 0
+    secret = re.search(r"secret : ([^·]+?)(?: \(gravité (\d)\))?\s*(?:·|$)", l["notes"])
+    if secret:  # tirage d'origine conservé (pré-généré ou figurant créé depuis le 11/10/2026)
+        p["secret"] = [] if secret.group(1).strip() == "aucun" else [secret.group(1).strip()]
+        p["gravite_secret"] = int(secret.group(2)) if secret.group(2) else (gravite(p["secret"][0]) if p["secret"] else 0)
+    else:
+        p["secret"] = [] if p["mineur"] else catalogue(rng, "secret", traits, 1)
+        p["gravite_secret"] = gravite(p["secret"][0]) if p["secret"] else 0
+    contra = re.search(r"contradiction : ([^·]+?)\s*(?:·|$)", l["notes"])
+    if contra and contra.group(1).strip() != "aucune":
+        p["contradiction"] = [contra.group(1).strip()]
     phys = re.search(r"physique : (\d+) cm, ([^,·]+)", l["notes"])
     p["taille"], p["corpulence"], p["signes"] = (int(phys.group(1)), phys.group(2).strip(), []) if phys else physique(rng, l["origine"], l["sexe"], contextes()[l["contexte"]], a)
     l["fiche"] = ecrire_fiche(p)
@@ -525,6 +621,8 @@ def cmd_promouvoir(args):
 def cmd_liste(args):
     jour = aujourd_hui()
     for l in lire():
+        if args.statut and l["statut"] != args.statut:
+            continue
         a = age(l["naissance"], jour) if l["naissance"] else "?"
         print(f"{l['id']:28s} {l['nom']:26s} {a!s:>3} ans {l['sexe']} {l['statut']:9s} {l['role']} ({l['contexte']})"
               + ("  MINEUR" if isinstance(a, int) and a < 18 else ""))
@@ -540,7 +638,12 @@ def cmd_voir(args):
 
 
 def cmd_audit(args):
-    lignes = [l for l in lire() if l["statut"] == "recurrent"]
+    tous = lire()
+    par_statut = {}
+    for l in tous:
+        par_statut[l["statut"]] = par_statut.get(l["statut"], 0) + 1
+    print("Registre : " + (", ".join(f"{n} {s}" for s, n in sorted(par_statut.items())) or "vide"))
+    lignes = [l for l in tous if l["statut"] == "recurrent"]
     print(f"{len(lignes)} personnage(s) récurrent(s)")
     if not lignes:
         return 0
@@ -588,7 +691,18 @@ def main():
     p = sp.add_parser("promouvoir")
     p.add_argument("nom")
     p.set_defaults(f=cmd_promouvoir)
-    sp.add_parser("liste").set_defaults(f=cmd_liste)
+    p = sp.add_parser("liste")
+    p.add_argument("--statut", help="pre_genere, figurant ou recurrent")
+    p.set_defaults(f=cmd_liste)
+    p = sp.add_parser("reseau")
+    p.add_argument("--plan", required=True, help="CSV : contexte;role;nombre;ages;sexe;cercle;note")
+    p.add_argument("--simule", action="store_true")
+    p.add_argument("--forcer", action="store_true")
+    p.set_defaults(f=cmd_reseau)
+    p = sp.add_parser("apparait")
+    p.add_argument("nom")
+    p.add_argument("--scene", default="")
+    p.set_defaults(f=cmd_apparait)
     p = sp.add_parser("voir")
     p.add_argument("nom")
     p.set_defaults(f=cmd_voir)

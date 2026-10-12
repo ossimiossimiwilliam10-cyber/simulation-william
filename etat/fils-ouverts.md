@@ -24,6 +24,10 @@
 | Pack d'aléas de l'univers 2 | Le pack actif vise Abidjan (A01, A03, A04, A06) : tirages « sans objet » tant qu'il n'est pas adapté ; proposition A19-A30 | lun. 16/07 |
 
 ## C. Questions de cohérence à poser à l'utilisateur (hors fiction, posées le 11/10/2026)
+**CLOS le 12/10/2026** : réponses de l'utilisateur du 11/10/2026 appliquées (voir `etat/corrections.md`, U2-11 à U2-15) :
+voiture électrique ; chauffage au gaz ; plus aucun argent aux parents, ponts coupés ; club proposé par le moteur (Minett Combat
+Club, Esch) ; crédit « balancé au hasard » → prêt PR1 réaliste ; virements automatiques ; entourage pré-généré en base, à
+découvrir au fil du jeu. Questions d'origine, gardées pour l'historique :
 - **Crédit immobilier** : 110 000 € restants à 940 €/mois correspondent à un taux d'environ 8 % jusqu'en 2059, ou à une fin vers
   2052 à 3,5 % : quel taux, quelle fin ?
 - **Voiture** : William en a-t-il une (modèle, assurance) ? (E010)
@@ -32,3 +36,9 @@
 - **Club de combat** : où William s'entraîne-t-il depuis onze ans (Esch-sur-Alzette proposé, nom fictif à choisir) ? (E008)
 - **Surplus mensuel** : virements automatiques 45/45/10 ou décision chaque mois ? (E012)
 - **Réseau existant** : faut-il générer, pour validation, les collègues, partenaires de club et voisins que William connaît déjà ?
+
+## C2. Précisions facultatives (à proposer à la revue n° 1, lundi 16/07/2040 ; rien ne bloque le jeu)
+- Montant des virements permanents : 2 850 € + 2 850 € estimés par le moteur (E012, E014) : à garder ou à changer ?
+- Parents : ponts coupés ; peuvent-ils encore tenter d'écrire (numéro bloqué ou non) ? Par défaut, ils n'écrivent pas.
+- Voiture électrique : modèle (sans effet tant qu'elle ne tombe pas en panne).
+- Maison : surface (≈ 75 m² serait cohérent avec le prix de 180 000 € en 2034).
