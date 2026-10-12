@@ -37,7 +37,9 @@ JOURNAL = RACINE / "memoire" / "tirages-aleas.md"
 JOURNAL_JSON = RACINE / "memoire" / "tirages.jsonl"
 SIMULATIONS_JSON = RACINE / "memoire" / "simulations.jsonl"
 PERSONNAGES_CSV = RACINE / "etat" / "personnages.csv"
-TABLES_INTERDITES_MINEURS = ("T1", "T1b", "T9")
+TABLES_INTERDITES_MINEURS = ("T1", "T1b", "T9", "T20a", "T20b")
+# T20a et T20b (12/10/2026) : la personne doit être nommée (--pour), inscrite, avec sa date de naissance, et majeure
+TABLES_ADULTE_VERIFIE = ("T20a", "T20b")
 for flux in (sys.stdout, sys.stderr):
     if hasattr(flux, 'reconfigure'):
         flux.reconfigure(encoding='utf-8')
@@ -270,13 +272,22 @@ def est_mineur(fiche):
 
 
 def garde_pour(args):
-    """Contrôle --pour : personnage connu ; tables relationnelles interdites pour un mineur. Renvoie la fiche (ou None)."""
+    """Contrôle --pour : personnage connu ; tables relationnelles interdites pour un mineur ; pour T20a et T20b, personne
+    obligatoirement nommée, inscrite, datée et majeure. Renvoie la fiche (ou None)."""
+    table = args.table or ""
+    if table in TABLES_ADULTE_VERIFIE and not getattr(args, "pour", None):
+        sys.exit(f"REFUSÉ : la table {table} exige --pour \"Nom\" (une adulte inscrite dans etat/personnages.csv avec sa date de "
+                 "naissance : personnage.py nouveau d'abord).")
     if not getattr(args, "pour", None):
         return None
     fiche = fiche_personnage(args.pour)
     if fiche is None:
+        if table in TABLES_ADULTE_VERIFIE:
+            sys.exit(f"REFUSÉ : « {args.pour} » n'est pas dans etat/personnages.csv : âge invérifiable (personnage.py nouveau d'abord).")
         print(f"(avertissement : « {args.pour} » n'a pas de ligne dans etat/personnages.csv ; personnage.py nouveau, s'il est récurrent)")
         return None
+    if table in TABLES_ADULTE_VERIFIE and not fiche.get("naissance"):
+        sys.exit(f"REFUSÉ : {fiche.get('nom')} n'a pas de date de naissance : âge invérifiable (§11, limite b).")
     if est_mineur(fiche) and (args.table or "") in TABLES_INTERDITES_MINEURS:
         sys.exit(f"REFUSÉ (§11, limite b) : {fiche.get('nom')} est mineur(e) ; les tables {', '.join(TABLES_INTERDITES_MINEURS)} "
                  "ne s'appliquent jamais à un mineur. Aucune scène sexuelle, romantique ou sexualisée avec un mineur.")
@@ -321,7 +332,7 @@ def jet_libre(args):
         sys.exit("Usage : jet.py \"libellé\" proba   |   jet.py --table Tn [--mod Mxx] \"libellé\"   |   jet.py --liste")
     if REACTION_LIBRE.search(args.libelle) and not args.derogation and not args.simule:
         sys.exit("REFUSÉ (règle 17) : ce libellé décrit la réaction d'un personnage à un acte de William. Tirer dans une table "
-                 "(--table T1, T1b, T2, T3, T4, T5, T7a, T7b, T7c, T7d, T8, T9, T10, T11, T12, T13a-d, T14 ; etat/modele-pouvoir.md) ou justifier une exception avec "
+                 "(--table T1, T1b, T2, T3, T4, T5, T7a, T7b, T7c, T7d, T8, T9, T10, T11, T12, T13a-d, T14, T20a-b ; etat/modele-pouvoir.md) ou justifier une exception avec "
                  "--derogation \"raison\" (consignée et auditée).")
     garde_pour(args)
     jet = random.SystemRandom().uniform(0, 100)
@@ -352,7 +363,7 @@ def main():
     ap = argparse.ArgumentParser(description="Jet de dé du moteur (probabilité libre ou table de pouvoir)")
     ap.add_argument("libelle", nargs="?")
     ap.add_argument("proba", nargs="?", type=float, help="probabilité de OUI, en %% (jet libre)")
-    ap.add_argument("--table", help="table de pouvoir : T1, T1b, T2, T3, T4, T5, T7a, T7b, T7c, T7d, T8, T9, T10 (délais), T11 (vie propre), T12 (négociation), T13a-d (contenu T11), T14 (initiatives)")
+    ap.add_argument("--table", help="table de pouvoir : T1, T1b, T2, T3, T4, T5, T7a, T7b, T7c, T7d, T8, T9, T10 (délais), T11 (vie propre), T12 (négociation), T13a-d (contenu T11), T14 (initiatives), T20a-b (proposition d'argent à une adulte, avec --pour)")
     ap.add_argument("--mod", action="append", default=[], help="modificateur (M01…), 3 au maximum")
     ap.add_argument("--informes", type=int, help="T5 : personnes qui connaissent l'affaire, William exclu")
     ap.add_argument("--derogation", help="justification d'un jet libre portant sur une réaction (consignée, auditée)")

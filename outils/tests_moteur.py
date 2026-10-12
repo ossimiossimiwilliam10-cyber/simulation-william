@@ -126,6 +126,12 @@ def main():
              nom="jet.py accepte T10 pour un mineur")
     e.lancer(o + "jet.py", "--table", "T1", "--pour", adulte, "essai sur un adulte", "--simule", contient="Tirage [T1]",
              nom="jet.py accepte T1 pour un adulte (essai)")
+    e.lancer(o + "jet.py", "--table", "T20a", "proposition sans personne nommée", attendu=1, contient="REFUSÉ",
+             nom="jet.py refuse T20a sans --pour")
+    e.lancer(o + "jet.py", "--table", "T20b", "--pour", mineur, "essai sur un mineur", attendu=1, contient="REFUSÉ",
+             nom="jet.py refuse T20b pour un mineur")
+    e.lancer(o + "jet.py", "--table", "T20a", "--pour", adulte, "essai sur une adulte", "--simule", contient="Tirage [T20a]",
+             nom="jet.py accepte T20a pour une adulte inscrite (essai)")
     e.lancer(o + "jet.py", "La voisine en parle à son mari", "50", attendu=1, contient="REFUSÉ",
              nom="garde de la règle 17 : rôle reconnu sans fiche")
     e.verifier((copie / "memoire" / "simulations.jsonl").exists(), "les essais --simule sont tracés (memoire/simulations.jsonl)")

@@ -135,7 +135,7 @@ cercle 1 (5 proches) chaque jour ; cercle 2 (15) le lundi et le jeudi ; cercle 3
 
 ## E. Proposition du 12/10/2026 (à valider par l'utilisateur, règle 17)
 
-### P15 — T20 : proposition d'argent contre un rapport, faite par William à une femme adulte (voyage à Manille)
+### P15 — T20 : proposition d'argent contre un rapport, faite par William à une femme adulte (voyage à Manille) — **VALIDÉE le 12/10/2026** (« Je valide avec validation ! ») : installée dans `etat/modele-pouvoir.md` (T20a, T20b)
 Contexte : l'utilisateur annonce (12/10/2026, hors fiction) que William part à Manille pour du tourisme sexuel avec des femmes
 majeures. Le moteur le joue (§11) dans ses limites : scènes jusqu'au seuil puis ellipse (règle 10) ; JAMAIS de mineure, ni
 d'âge ambigu (limite b : toute femme concernée est une adulte tirée par `personnage.py`) ; rien d'explicite ni de violence

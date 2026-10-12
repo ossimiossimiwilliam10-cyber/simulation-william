@@ -65,6 +65,7 @@ sur Aïcha n'a pas d'équivalent tant que l'utilisateur n'en pose pas une nouvel
 - **Négociations (T12, installée le 09/08/2040)** : la réponse d'une personne qui négocie avec William (salaire, titre, contrat, prix : Yves, M. Konan, Abdoul, Estelle, Dr Mbarga, prestataires) se tire en **T12** (M90-M94) ; pas de jet libre. Le chiffre de départ vient de la fiche, l'issue de la table.
 - **Contenu des événements du tour du monde (T13a à T13d, installées le 09/08/2040)** : après un résultat T11 « coup_dur », « tournant », « petit_evenement » ou « avancee_objectif », la **catégorie** du contenu se tire en T13a, T13b, T13c ou T13d (M95-M99) ; le détail se choisit d'après la fiche (test d'intérêt). `outils/tour_du_monde.py` enchaîne les deux tirages.
 - **Initiatives (T14, installée le 09/08/2040)** : qui écrit ou appelle William ce jour-là se tire en **T14** (M84-M87) pour chaque personnage dont la fiche porte « Modificateurs T14 » (« — » = exclu : Sandra bloquée, Me Kouamé hospitalisé…) ; l'heure se tire ensuite en T10, le contenu se choisit d'après la fiche. `tour_du_monde.py` les tire à chaque « Go » et à chaque fin de journée.
+- **Proposition d'argent contre un rapport à une femme adulte (T20a, T20b, validées par l'utilisateur le 12/10/2026, voyage à Manille)** : **T20a** dans un lieu où ce commerce se pratique, **T20b** ailleurs (rue, café, application). Toujours avec `--pour "Nom"` : la personne doit être inscrite dans `etat/personnages.csv` avec sa date de naissance, et majeure ; `jet.py` refuse sinon (§11, limite b : jamais de mineure, ni d'âge invérifiable). Les scènes s'arrêtent au seuil (règle 10) ; aucun mode d'emploi réel (lieux fictifs). Faits : F055 à F057 ; proposition d'origine : `memoire/propositions-2026-10-11.md`, P15.
 - *(Installation : tables proposées par le moteur le 09/08/2040 et installées sur la demande de l'utilisateur, « applique tout cela » ; les pourcentages sont ajustables par l'utilisateur seul, comme pour toutes les tables.)*
 - Les **scènes déjà jouées** (Grace le 23/07, Mariette le 25/07 à 09h25, Aïcha le 25/07 à 09h50) restent telles que jouées ; leurs suites
   passent par les tables.
@@ -285,6 +286,26 @@ Règles de rôle, sans tirage ; l'argent et le statut de William ne les achèten
 | information | 8 | Prévient d'un fait : retard, panne, résultat, rumeur utile. |
 | partage_personnel | 4 | Nouvelle personnelle, remerciement, statut, photo. |
 | plainte_ou_tension | 3 | Mécontentement exprimé avec précaution, par l'indirection (règle 15) : jamais d'ultimatum ni d'étiquette morale. |
+
+### T20a — Femme adulte à qui William propose de l'argent contre un rapport, dans un lieu où ce commerce se pratique (validée par l'utilisateur le 12/10/2026)
+| Issue | % | En scène |
+|---|---|---|
+| accepte | 50 | Elle accepte, au prix annoncé ou fixé par un intermédiaire (bar, gérant). La suite se joue jusqu'au seuil, puis ellipse (règle 10) ; la protection est suivie. |
+| negocie | 15 | Elle discute le prix ou les conditions ; la réponse à la contre-proposition de William se tire en T12. |
+| refuse_ou_ignore | 15 | Elle refuse, détourne la conversation ou ne répond pas ; rien d'autre. |
+| frontal_alerte | 3 | Elle refuse et alerte quelqu'un (entourage, agent de sécurité, police) : jouer l'acte, pas un discours ; la suite en T4 ou en T6. |
+| arnaque | 10 | Un piège à argent : vol, faux tarif, chantage ou complice ; la perte se joue, sans morale. |
+| piege_ou_descente | 7 | Policier en civil, descente dans le lieu ou fausse arrestation pour extorquer : la suite s'applique en T6. |
+
+### T20b — Femme adulte à qui William propose de l'argent contre un rapport, ailleurs : rue, café, application (validée par l'utilisateur le 12/10/2026)
+| Issue | % | En scène |
+|---|---|---|
+| accepte | 8 | Elle accepte ; la suite se joue jusqu'au seuil, puis ellipse (règle 10) ; la protection est suivie. |
+| negocie | 12 | Elle discute le prix ou les conditions ; la réponse à la contre-proposition de William se tire en T12. |
+| refuse_ou_ignore | 62 | Elle refuse, s'éloigne, bloque le contact ou ne répond pas ; rien d'autre. |
+| frontal_alerte | 10 | Elle refuse et alerte quelqu'un (entourage, agent de sécurité, police) : jouer l'acte, pas un discours ; la suite en T4 ou en T6. |
+| arnaque | 6 | Un piège à argent : vol, faux tarif, chantage ou complice ; la perte se joue, sans morale. |
+| piege_ou_descente | 2 | Policier en civil ou fausse arrestation pour extorquer : la suite s'applique en T6. |
 
 ### Modificateurs (liste fermée ; 3 au maximum par tirage ; chacun déplace des points d'une issue vers une autre)
 | Code | Tables | Effet | Quand l'appliquer |
