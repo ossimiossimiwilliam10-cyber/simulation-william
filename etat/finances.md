@@ -1,4 +1,4 @@
-# Finances de William (univers 2 ; estimations au samedi 14/07/2040, 10h20)
+# Finances de William (univers 2 ; estimations au samedi 14/07/2040, 10h35)
 
 > Parité fixe : 1 € = 655,957 FCFA (utile si l'histoire repart vers la zone franc).
 > **Source des soldes : le grand livre** (`python outils/grand_livre.py solde`), jamais un solde écrit à la main ; ce fichier les
@@ -23,6 +23,23 @@
 et 744 796,87 €, capital restant dû calculé par le tableau d'amortissement du prêt PR1, 12/10/2026.)*
 
 *(Avant : soldes datés du mardi 17/07/2040, 07h00 → maintenant : 14/07/2040, 07h00, départ redaté le 11/10/2026 ; montants inchangés.)*
+
+## Soldes au samedi 14/07/2040, 10h35 (grand livre : `python outils/grand_livre.py solde --au "2040-07-14 10:35"`)
+| Poste | Montant | Remarques |
+|---|---|---|
+| Compte courant | 39 800 € | + 30 000 € venus du compte épargne à 10h25 (virement B001, exécuté aussitôt) |
+| Compte épargne | 327 000 € | − 30 000 € à 10h25 |
+| ETF | 288 000 € | inchangé |
+| **Patrimoine net** | **744 796,87 €** | inchangé (virement entre ses propres comptes) |
+
+## Cartes et plafonds (biographie fixée par l'utilisateur le 12/10/2026)
+- Package **Zebra Premium** (Spuerkeess) : 12,83 €/mois en 2040 (E015, le premier jour ouvré du mois : estimation) : PX050, F062.
+- **Visa Debit** : limite par défaut de 2 500 € par mois, retraits, magasins et internet confondus (F059).
+- **Visa Premier** (carte de crédit) : limite mensuelle de 5 000 € (estimation acceptée par l'utilisateur) ; hausse temporaire ou
+  définitive demandable dans S-Net (« Limit change »), délai et accord de la banque non précisés (F061) ; assurances voyage incluses.
+- **S-Net** : virements limités à 15 000 € par semaine par défaut, modifiable par William jusqu'à 50 000 € (F060).
+- **14/07/2040, 10h33** : paiement de 10 741 € à Kestrel Voyages (forfait Manille) refusé sur la Visa Premier (limite dépassée) ;
+  rien de débité (réservation R002, statut « paiement_refuse »).
 
 ## Revenus et charges (échéancier, au 14/07/2040)
 - **Traitement** : ≈ 9 300 € net par mois (395 points + 3 leçons supplémentaires), le dernier jour ouvré du mois (jour exact non

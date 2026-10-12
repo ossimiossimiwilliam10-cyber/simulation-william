@@ -12,6 +12,6 @@ rencontre;esch;22;33;48;0.5;vous;rayon de 30 km;rencontre adulte (soirée, terra
 appli_rencontre;esch;24;32;42;0.5;tu;rayon de 30 km;profil d'application de rencontre (le sexe se fixe d'après la recherche de William)
 administration;luxembourg_ville;25;45;63;0.6;vous;Luxembourg ou Moselle;agent d'une administration, d'une banque, d'une assurance
 sante;audun;30;48;67;0.55;vous;Audun-le-Tiche ou Esch;médecin, pharmacien, kinésithérapeute
-appli_rencontre_manille;manille;21;27;40;1.0;tu;Metro Manila;profil d'application de rencontre à Manille (femmes adultes, 21 ans au moins : marge de sécurité, §11 limite b)
-rencontre_manille;manille;21;29;45;0.5;vous;Metro Manila;rencontre adulte à Manille (bar, café, rue, événement)
+appli_rencontre_manille;manille;18;27;40;1.0;tu;Metro Manila;profil d'application de rencontre à Manille (femmes adultes, 18 ans au moins : majorité aux Philippines, RA 6809 · F058 · garde absolue : jamais moins de 18 ans) · avant : 21 ans au moins (marge de sécurité ajoutée par le moteur) → maintenant : 18 ans, demande de l'utilisateur du 12/10/2026
+rencontre_manille;manille;18;29;45;0.5;vous;Metro Manila;rencontre adulte à Manille (bar, café, rue, événement) · 18 ans au moins (majorité, F058) · avant : 21 ans au moins → maintenant : 18 ans, demande de l'utilisateur du 12/10/2026
 commerce_manille;manille;18;32;60;0.6;vous;Metro Manila;personnel d'hôtel, de commerce, de transport à Manille

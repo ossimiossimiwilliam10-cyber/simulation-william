@@ -1,4 +1,4 @@
-# Dossier des traces de William (univers 2 ; créé le 17/07/2040, redaté au 14/07/2040)
+# Dossier des traces de William (univers 2 ; créé le 17/07/2040, redaté au 14/07/2040 ; à jour au 14/07/2040, 10h35)
 
 > Règle (revue du lundi, validée le 23/07/2040, univers 1) : le monde garde la mémoire de ce que William écrit, signe, dit et fait.
 > Ces traces peuvent **ressortir** (rumeur, plainte, contrôle, conflit, fuite : aléa A12) sans que le moteur les invente à la
@@ -10,3 +10,5 @@
 |---|---|---|---|---|
 | — | Aucune trace au départ de l'univers 2 | — | — | — |
 | ~~14/07/2040 10h04~~ (retirée le 12/10/2026 : correction hors fiction, voir U2-18) | ~~Achat en ligne d'un billet d'avion Luxembourg – Yaoundé (2 179 €, aller 20/07, retour 31/08), réservation CYNERS | relevé du compte courant, courriel de confirmation, dossier de l'agence et des compagnies | la banque, Kestrel Voyages, Lufthansa et Ethiopian (liste des passagers) ; quiconque voit son téléphone ou ses relevés | faible |
+| 14/07/2040 10h25 | Virement de 30 000 € du compte épargne vers le compte courant (S-Net Mobile, validé par empreinte) | relevés des deux comptes, historique S-Net | la Spuerkeess ; quiconque voit son téléphone ou ses relevés | faible |
+| 14/07/2040 10h33 | Tentative de paiement en ligne de 10 741 € à Kestrel Voyages (forfait Luxembourg – Manille et Makati Shangri-La, 18/07 – 05/09), refusée sur la Visa Premier (limite dépassée) ; identité et passeport saisis sur le site de l'agence | autorisation refusée chez la banque et le réseau Visa ; panier et données de voyageur chez Kestrel Voyages ; notification dans l'application | la Spuerkeess, Kestrel Voyages ; quiconque voit son téléphone | faible |

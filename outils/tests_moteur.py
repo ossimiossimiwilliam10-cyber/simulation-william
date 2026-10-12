@@ -197,6 +197,8 @@ def main():
              contient="exécuté", nom="banque : virement immédiat entre comptes")
     e.lancer(o + "grand_livre.py", "verifier", contient="conforme", nom="grand livre conforme après les opérations bancaires")
     e.lancer(o + "rencontres.py", "liste", contient="«", nom="rencontres : profils de Manille")
+    e.lancer(o + "rencontres.py", "completer", "--ville", "MNL", "--de", "17", "--a", "20", "--simule", attendu=1, contient="REFUSÉ",
+             nom="rencontres : garde absolue, aucun profil de moins de 18 ans (12/10/2026)")
     e.lancer(o + "etiquettes.py", "--simule", "--texte", "Test [banque: ordre-suspendre id=E014] [rencontres: aimer id=x] [voyages: reserver vol=W1 aller=2040-09-04 retour=2040-09-25 voyageurs=1]",
              contient="ordre-suspendre", nom="étiquettes : lecture des actions copiées depuis le téléphone")
     e.lancer(o + "appli_calendrier.py", contient="argent")

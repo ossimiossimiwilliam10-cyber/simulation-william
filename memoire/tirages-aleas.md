@@ -19,3 +19,7 @@ Toute réaction d'un personnage à un acte de William se tire avec `python outil
 - Prix tiré « vol aller-retour Luxembourg – Yaoundé, prix bas relevés (juillet à octobre, avec escale) (Luxembourg – Yaoundé) » : centre 1 043,55 € (2026 × 1.35), fourchette ± 12 % → **1 005,19 €** (enregistré le 12/10/2026 07:48 heure machine)
 
 - Prix tiré « vol aller-retour Luxembourg – Manille, prix bas en été (estimation : prix bas de Paris + 27 %, écart relevé entre Paris et Bâle) (Luxembourg – Manille) » : centre 1 328,40 € (2026 × 1.35), fourchette ± 12 % → **1 380,81 €** (enregistré le 12/10/2026 08:38 heure machine)
+
+- Jet « Friction administrative (economie.md, 30 %) : virement S-Net de 30 000 EUR du compte epargne vers le compte courant, samedi 14/07/2040 vers 10h25 ; OUI = bloque par la limite hebdomadaire S-Net standard de 15 000 EUR (prise en compte des virements entre comptes propres non etablie par la FAQ Spuerkeess) : deuxieme passage necessaire ; NON = execute immediatement » : probabilité 30 %, jet  91.8 → **NON** (enregistré le 12/10/2026 11:00 heure machine)
+
+- Complément du vivier de l'application de rencontre (MNL, tranche 18-20 ans ouverte après coup) : 24 profils existants, part de la tranche 4.35%, attendu 1.09 → 1 + jet  11.7 contre 9.1 % → **1 profil(s)** (enregistré le 12/10/2026 11:03 heure machine)

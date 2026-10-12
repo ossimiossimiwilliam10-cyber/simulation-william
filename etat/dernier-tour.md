@@ -1,52 +1,45 @@
 # Dernier tour montré au joueur
 
-> Tour n° 4 ; horloge 14/07/2040 10:05 -> 14/07/2040 10:20 ; enregistré le 12/10/2026 08:40 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 5 ; horloge 14/07/2040 10:20 -> 14/07/2040 10:35 ; enregistré le 12/10/2026 11:09 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Oui, il a été vacciné enfant, il a son carnet. Et dans le même temps, je décide de renommer euh, mon compte épargne projet en enlevant simplement la partie projet, c'est simplement un compte épargne. Pas forcément destiné au projet, juste un compte épargne. Désolé, mais est-ce que de façon exceptionnelle, on peut rectifier la destination plutôt vers les, vers les Philippines à Manille Je me rends compte que depuis tout à l'heure, je parle du Cameroun, mais je voulais aller à Manille, en fait. C'est une erreur, je sais pas. J'ai peu dormi, du coup, je fais des erreurs à long terme, apparemment.
+> Je réserve le forfait vol + hôtel : Lufthansa + Qatar Airways (par Francfort et Doha) au départ de Luxembourg-Findel et Makati Shangri-La à Manille, du mercredi 18 juillet 2040 au mercredi 5 septembre 2040, 1 voyageur : 10 741 €. [voyages: reserver-forfait vol=W2 hotel=M1 aller=2040-07-18 retour=2040-09-05 voyageurs=1]
+> Dans l'application de la banque :
+> - Virement de 30 000,00 € de Compte épargne vers Compte courant maintenant [banque: virement de=projet vers=courant montant=30000 date=2040-07-14]
+> (Et aussi concernant l'âge des filles, je crois que 18 ans est la majorité donc il faut régler ça)
+> 
+> [Réponse du joueur à la question de biographie posée avant le paiement : cartes de William = « Zebra Premium (Recommandé) ».]
 
 ## Texte envoyé au joueur
 
-**SAMEDI 14 JUILLET 2040 — 10h20 — Audun-le-Tiche, chez toi**
+**SAMEDI 14 JUILLET 2040 — 10h35 — Audun-le-Tiche, chez toi**
 
-Sur l'ordinateur, la recherche Luxembourg – Manille est restée ouverte sur tes dates : aller le vendredi 20 juillet, retour le vendredi 31 août. Aucun vol direct. Prix aller-retour par personne :
-- **Lufthansa + Qatar Airways**, par Francfort et Doha : départ de Findel à 15h40, arrivée à Manille le lendemain à 16h30, soit 18 h 50 de trajet ; retour à 18h30, arrivée à Luxembourg le lendemain à 10h05, soit 21 h 35. **1 705 €**.
-- **Turkish Airlines**, par Istanbul : départ à 18h45, arrivée le lendemain à 19h10, soit 18 h 25 ; retour à 21h25, arrivée le lendemain à 10h00. **1 815 €**.
-- **Emirates**, par Dubaï, au départ de Bruxelles : **1 800 €**.
-- **Qatar Airways**, par Doha, au départ de Paris-Charles-de-Gaulle : **1 440 €**.
+Tu commences par la banque. Dans l'application, tu prends le compte épargne comme compte de départ, le compte courant comme destination, et tu tapes 30 000. L'écran récapitule : virement entre tes comptes, exécution immédiate. Tu valides avec ton empreinte. Quelques secondes plus tard, les deux soldes ont bougé : 39 800 € sur le compte courant, 327 000 € sur le compte épargne.
 
-Côté hôtels, pour 41 nuits à Manille, du 21 juillet au 31 août :
-- 2 335 € dans un hôtel économique ;
-- 3 963 € au City Garden Grand Hotel ;
-- 5 811 € au New World Makati ;
-- 8 100 € au Makati Shangri-La.
+Dans l'application Voyages, le forfait t'attend. Le vol Lufthansa et Qatar Airways part de Findel le mercredi 18 juillet à 15h40, passe par Francfort et Doha, et arrive à Manille le jeudi 19 à 16h30. Suivent quarante-huit nuits au Makati Shangri-La, du 19 juillet au 5 septembre. Le retour part le mercredi 5 septembre à 18h30 et arrive à Luxembourg le jeudi 6 à 10h05. Total : 10 741 €. Le bouton t'envoie sur le site de Kestrel Voyages, qui demande d'abord le voyageur : nom et prénom exactement comme sur le passeport, date de naissance, nationalité, numéro et date d'expiration du passeport. Tu sors le passeport du tiroir du bureau pour recopier le numéro.
 
-Un encadré résume l'entrée aux Philippines avec un passeport luxembourgeois.
-- Pas de visa jusqu'à 30 jours. Le passeport doit être valable six mois après l'arrivée, et un billet retour est exigé.
-- Au-delà de 30 jours, il faut une prolongation au Bureau de l'immigration : environ 4 091 pesos pour 29 jours de plus.
-- L'inscription en ligne eTravel est gratuite et se fait dans les 72 heures avant l'arrivée.
-- Aucun certificat de fièvre jaune n'est demandé en venant d'Europe.
+Vient le paiement. Tu entres ta Visa Premier. Le site passe la main à la banque, et sur ton téléphone, l'application demande de confirmer un paiement de 10 741,00 € à KESTREL VOYAGES. Tu confirmes. La page de l'agence tourne une dizaine de secondes, puis affiche un bandeau rouge : « Paiement refusé. Votre banque n'a pas autorisé cette transaction. Vérifiez vos informations ou utilisez un autre moyen de paiement. » La notification de la banque arrive dans la foulée : « Visa Premier — paiement refusé : 10 741,00 € chez KESTREL VOYAGES. Montant supérieur à la limite mensuelle de la carte. » Sur la fiche de la carte, la limite est de 5 000 € par mois. Rien n'a été débité. Sur le site, le panier est toujours là, avec le forfait à 10 741 € en attente de paiement.
 
-Vers 10h12, tu ouvres l'application de la banque. Tu touches le nom du compte épargne et tu effaces « Projet ». Le compte s'appelle désormais « Compte épargne ». Le virement permanent du 2 août s'affiche aussitôt : 2 850 € vers Compte épargne.
-
-En face, le capot de la voiture est refermé, et le voisin est rentré chez lui.
+À travers le mur mitoyen de gauche, la télévision du voisin passe le défilé du 14-Juillet : une fanfare, des applaudissements, un commentateur qui égrène des noms de régiments.
 
 ---
 
-**À toi : samedi 14/07, 10h20.**
+**À toi : samedi 14/07, 10h35.**
 
 **Réponses attendues**
 - Personne n'attend de réponse de ta part.
 
 **À faire / à fournir avant le tour suivant**
-- **Voyage à Manille** : rien n'est réservé, ni vol ni hôtel.
-- **Séjour envisagé** : 41 nuits aux Philippines, du 21/07 au 31/08. Au-delà de 30 jours, une prolongation est nécessaire au Bureau de l'immigration.
+- **Forfait pour Manille** : le paiement de 10 741 € a été refusé à 10h33, et rien n'est réservé. Le panier est resté ouvert sur le site de Kestrel Voyages.
+- **Séjour de 48 nuits**, du 19/07 au 05/09 : au-delà de 30 jours, il faut une prolongation au Bureau de l'immigration.
 - **eTravel** : à remplir dans les 72 heures avant l'arrivée.
 
 **Quêtes secondaires**
+- Aujourd'hui : sparring libre au Minett Combat Club, à Esch, jusqu'à 12h30.
 - Lundi 16/07 : prélèvement de la box internet et du forfait mobile (63 €).
 - Mardi 31/07 : traitement de juillet.
+- Mercredi 01/08 : cotisation du club (85 €) et package bancaire (12,83 €).
 - Jeudi 02/08 : virements automatiques, 2 850 € vers le compte épargne et 2 850 € vers les ETF.
 - Minett Combat Club : fermé du 13 au 26/08.
 - Lundi 17/09 : rentrée au lycée.

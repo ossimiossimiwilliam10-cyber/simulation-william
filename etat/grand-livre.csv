@@ -38,3 +38,10 @@ date;heure;compte;montant;type;libelle;reference
 2040-09-03;08:00;courant;-2850.00;prevu;Virement permanent vers le compte-titres ETF (45 % du surplus);E014-20400903
 2040-09-03;08:00;etf;2850.00;prevu;Virement permanent vers le compte-titres ETF (45 % du surplus) (compte crédité);E014-20400903-C
 2040-07-14;10:04;courant;-2179.00;retire;"Billet d'avion Luxembourg – Yaoundé (Lufthansa + Ethiopian), aller le 20/07, retour le 31/08 · Kestrel Voyages, réservation CYNERS [retiré : correction hors fiction demandée par l'utilisateur le 12/10/2026 : la destination voulue était Manille, pas Yaoundé (erreur du joueur, tours n° 2 et 3) ; réservation retirée sans effet dans la fiction]";R001
+2040-07-14;10:25;projet;-30000.00;mouvement;Virement Compte épargne → Compte courant;B001
+2040-07-14;10:25;courant;30000.00;mouvement;Virement Compte épargne → Compte courant (compte crédité);B001-C
+2040-09-28;20:00;courant;9300.00;prevu;Traitement mensuel de William (net, État luxembourgeois);E001-20400928
+2040-09-17;06:00;courant;-63.00;prevu;Box internet fibre et forfait mobile;E005-20400917
+2040-09-20;06:00;courant;-187.50;prevu;Eau et assainissement (Audun-le-Tiche);E006-20400920
+2040-08-01;06:00;courant;-12.83;prevu;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20400801
+2040-09-03;06:00;courant;-12.83;prevu;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20400903

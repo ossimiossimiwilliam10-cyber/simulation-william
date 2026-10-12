@@ -2,6 +2,7 @@
 rencontre aux Philippines, pour rencontrer des femmes philippines »). Affichage : `outils/telephone_web/rencontres.js`.
 
     python outils/rencontres.py generer --ville MNL --nombre 24 [--simule]   # profils tirés par personnage.py (une fois par ville)
+    python outils/rencontres.py completer --ville MNL --de 18 --a 20 [--simule]  # tranche d'âge ouverte après coup : vivier complété
     python outils/rencontres.py inscription --bio "…" --quand "AAAA-MM-JJ HH:MM" [--abonnement plus]
     python outils/rencontres.py aimer <id> --quand "…"          # William aime un profil (la suite se tire en T21, à valider)
     python outils/rencontres.py passer <id>
@@ -9,8 +10,9 @@ rencontre aux Philippines, pour rencontrer des femmes philippines »). Affichage
     python outils/rencontres.py message <id> --auteur william|profil --texte "…" --quand "…"
     python outils/rencontres.py liste | voir <id>
 
-RÈGLES : chaque profil est une personne tirée par `personnage.py` (contexte `appli_rencontre_manille` : femmes de 21 ans au moins,
-marge de sécurité, CLAUDE.md §11 limite b), inscrite dans `etat/personnages.csv` (statut pre_genere, puis figurant ou récurrent
+RÈGLES : chaque profil est une personne tirée par `personnage.py` (contexte `appli_rencontre_manille` : femmes de 18 ans au moins,
+majorité aux Philippines, F058 ; garde absolue AGE_MIN, CLAUDE.md §11 limite b ; avant : 21 ans, marge du moteur → maintenant :
+18 ans, demande de l'utilisateur du 12/10/2026), inscrite dans `etat/personnages.csv` (statut pre_genere, puis figurant ou récurrent
 quand elle entre vraiment en scène). L'application montre ce qu'un vrai profil montre (prénom, âge, quartier, métier, ce qu'elle
 cherche, une courte présentation en anglais) ; l'INTENTION réelle (relation sérieuse, aventure, amitié, aide financière attendue,
 travail du sexe, faux profil) est tirée à la création et reste cachée (moteur seulement) : elle sert de modificateur aux réactions,
@@ -45,6 +47,10 @@ INTENTIONS = {"Une relation sérieuse": [("serieux", 70), ("aide_financiere", 15
               "Quelque chose de léger": [("aventure", 55), ("travail_sexuel", 25), ("aide_financiere", 12), ("arnaque", 8)]}
 FOYERS = [("vit seul(e)", 45), ("vit chez ses parents", 30), ("en colocation", 10), ("parent isolé", 10), ("en couple, sans enfant", 5)]
 PRIX_PLUS = 24.99  # abonnement « Plus » (mode voyage) en 2040 : estimation (≈ 15 à 20 € par mois en 2026 pour ce type d'offre, × 1,35)
+# Âge minimum des profils : la majorité aux Philippines (18 ans, RA 6809 de 1989 : F058). Garde absolue : aucun profil sans date de
+# naissance ni de moins de 18 ans, ni dans les tirages ni dans le téléphone. Avant : 21 ans (marge de sécurité ajoutée par le moteur
+# le 12/10/2026) → maintenant : 18 ans, demande de l'utilisateur du 12/10/2026 (« 18 ans est la majorité »).
+AGE_MIN = 18
 
 
 def lire(p):
@@ -82,22 +88,24 @@ def bio(rng, metier, loisirs, cherche):
     return f"{ouverture}{m}{gouts}. {cherche_en[cherche]}".strip()
 
 
-def generer(ville, nombre, simule=False):
+def generer(ville, nombre, simule=False, ages=None, complement=False):
+    """Tire `nombre` profils pour `ville` ; `ages` (« 18-20 ») restreint la tranche ; `complement` autorise l'ajout à une ville déjà
+    tirée (commande `completer` : les profils existants ne sont jamais retirés ni modifiés)."""
     import jet
     import personnage as P
     rng = random.SystemRandom()
     profils = lire(PROFILS)
-    if any(p["ville"] == ville for p in profils) and not simule:
+    if any(p["ville"] == ville for p in profils) and not simule and not complement:
         sys.exit(f"Des profils existent déjà pour {ville} : on ne retire jamais une ville (règle : un tirage est définitif).")
     registre = P.lire()
     existants = [l["nom"] for l in registre]
     jour = P.aujourd_hui()
     nouveaux = []
     for _ in range(nombre):
-        pers = P.tirer("appli_rencontre_manille", "profil d'application de rencontre (Manille)", sexe="F", rng=rng, existants=existants,
-                       foyers=FOYERS)
+        pers = P.tirer("appli_rencontre_manille", "profil d'application de rencontre (Manille)", sexe="F", ages=ages, rng=rng,
+                       existants=existants, foyers=FOYERS)
         existants.append(pers["nom"])
-        if pers["age"] < 21:  # garde absolue (le contexte commence à 21 ans)
+        if pers["age"] < AGE_MIN:  # garde absolue (majorité)
             continue
         cherche = pondere(rng, CHERCHE)
         intention = pondere(rng, INTENTIONS[cherche])
@@ -123,6 +131,53 @@ def generer(ville, nombre, simule=False):
     ecrire_csv(PROFILS, profils + [p for _, p in nouveaux], COL_P)
     print(f"{len(nouveaux)} profil(s) écrit(s) : etat/rencontres.csv et etat/personnages.csv (statut pre_genere)")
     return nouveaux
+
+
+def part_tranche(ctx, a_min, a_max):
+    """Part des âges a_min à a_max (inclus) dans le tirage du contexte, qui vaut int(triangular(age_min, age_max + 1, age_mode))."""
+    lo, hi, mode = int(ctx["age_min"]), int(ctx["age_max"]) + 1, int(ctx["age_mode"])
+
+    def repartition(x):
+        if x <= lo:
+            return 0.0
+        if x >= hi:
+            return 1.0
+        if x <= mode:
+            return (x - lo) ** 2 / ((hi - lo) * (mode - lo))
+        return 1 - (hi - x) ** 2 / ((hi - lo) * (hi - mode))
+    return repartition(a_max + 1) - repartition(a_min)
+
+
+def completer(ville, a_min, a_max, simule=False):
+    """Une tranche d'âge s'ouvre après coup (12/10/2026 : âge minimum ramené de 21 à 18 ans à la demande de l'utilisateur). Les
+    profils déjà tirés restent tels quels (un tirage est définitif) ; on ajoute le nombre de profils que la tranche aurait eus si
+    elle avait été ouverte dès le départ : n × p / (1 − p), où n est le nombre de profils existants de la ville et p la part de la
+    tranche dans la loi d'âge du contexte ; la partie décimale se joue au dé (consigné)."""
+    import jet
+    import personnage as P
+    if a_min < AGE_MIN:
+        sys.exit(f"REFUSÉ : aucun profil de moins de {AGE_MIN} ans (majorité, garde absolue).")
+    ctx = P.contextes()["appli_rencontre_manille"]
+    if a_min < int(ctx["age_min"]):
+        sys.exit(f"La tranche {a_min}-{a_max} commence sous l'âge minimum du contexte ({ctx['age_min']} ans).")
+    n = sum(1 for p in lire(PROFILS) if p["ville"] == ville)
+    p = part_tranche(ctx, a_min, a_max)
+    attendu = n * p / (1 - p)
+    base = int(attendu)
+    jet_ = random.SystemRandom().uniform(0, 100)
+    nombre = base + (1 if jet_ < (attendu - base) * 100 else 0)
+    ligne = (f"- Complément du vivier de l'application de rencontre ({ville}, tranche {a_min}-{a_max} ans ouverte après coup) : "
+             f"{n} profils existants, part de la tranche {p:.2%}, attendu {attendu:.2f} → {base} + jet {jet_:5.1f} contre "
+             f"{(attendu - base) * 100:.1f} % → **{nombre} profil(s)**")
+    print(ligne)
+    if not simule:
+        jet.consigner(ligne)
+        jet.consigner_json({"mode": "complement_vivier", "libelle": f"complément du vivier {ville} {a_min}-{a_max} ans", "pour": "",
+                            "proba": round((attendu - base) * 100, 2), "jet": round(jet_, 2), "issue": nombre,
+                            "distribution": {"existants": n, "part": round(p, 4), "attendu": round(attendu, 3)}})
+    if nombre:
+        return generer(ville, nombre, simule=simule, ages=f"{a_min}-{a_max}", complement=True)
+    return []
 
 
 def trouver(ident):
@@ -156,8 +211,8 @@ def donnees_telephone(t=None):
         if p["statut"] == "bloque":
             continue
         a = age(naissances[p["id"]], jour) if p["id"] in naissances else None
-        if a is None or a < 21:
-            continue  # garde : jamais un profil sans âge vérifiable ni de moins de 21 ans
+        if a is None or a < AGE_MIN:
+            continue  # garde : jamais un profil sans âge vérifiable ni mineur
         profils.append({"id": p["id"], "prenom": p["prenom"], "age": a, "ville": p["ville"], "quartier": p["quartier"],
                         "distance": int(p["distance_km"]), "cherche": p["cherche"], "bio": p["bio"], "connexion": p["connexion"],
                         "verifie": p["verifie"] == "oui", "statut": p["statut"]})
@@ -178,10 +233,15 @@ def main():
     p.add_argument("--ville", default="MNL")
     p.add_argument("--nombre", type=int, default=24)
     p.add_argument("--simule", action="store_true")
+    p = sp.add_parser("completer")
+    p.add_argument("--ville", default="MNL")
+    p.add_argument("--de", type=int, required=True, help="âge le plus bas de la tranche ouverte (18 au moins)")
+    p.add_argument("--a", type=int, required=True, help="âge le plus haut de la tranche ouverte")
+    p.add_argument("--simule", action="store_true")
     p = sp.add_parser("inscription")
     p.add_argument("--bio", required=True)
     p.add_argument("--ville", default="MNL")
-    p.add_argument("--recherche", default="femmes de 21 à 40 ans")
+    p.add_argument("--recherche", default="femmes de 18 à 40 ans")
     p.add_argument("--abonnement", choices=("gratuit", "plus"), default="gratuit")
     p.add_argument("--quand", required=True)
     for nom in ("aimer", "passer", "match", "bloquer"):
@@ -200,6 +260,9 @@ def main():
     args = ap.parse_args()
     if args.cmd == "generer":
         generer(args.ville, args.nombre, args.simule)
+        return 0
+    if args.cmd == "completer":
+        completer(args.ville, args.de, args.a, args.simule)
         return 0
     if args.cmd == "inscription":
         quand = dt.datetime.fromisoformat(args.quand)

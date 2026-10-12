@@ -1,4 +1,4 @@
-# William Ossimi — profil (univers 2 ; état au samedi 14/07/2040, 10h20)
+# William Ossimi — profil (univers 2 ; état au samedi 14/07/2040, 10h35)
 
 > **Univers 2 (redémarrage complet demandé par l'utilisateur le 11/10/2026, date réelle).** Seuls William, son métier et son
 > argent sont repris de l'univers 1 (`archives/univers-1/etat/william.md`). OSIA, l'équipe d'Abidjan, Sandra, Kevin, Aïcha, le
@@ -64,6 +64,12 @@ Voir `etat/finances.md` (niveaux initiaux choisis par l'utilisateur le 11/10/202
 `etat/echeancier.csv` (mouvements récurrents). **Virements automatiques** (précisé par l'utilisateur le 11/10/2026) : le 2 de
 chaque mois, 2 850 € vers le compte épargne (renommé le 14/07/2040 : avant « Projet ») et 2 850 € vers les ETF (E012, E014 ; 45 % chacun d'un surplus estimé à
 ≈ 6 335 € ; montants estimés par le moteur, modifiables) ; les 10 % « plaisir » restent sur le compte courant.
+- **Cartes bancaires (choisies par l'utilisateur le 12/10/2026, question de biographie posée avant le paiement du forfait pour
+  Manille)** : package **Zebra Premium** de la Spuerkeess (12,83 €/mois en 2040, E015 : PX050, F062) : une **Visa Debit** (limite par
+  défaut de 2 500 € par mois, retraits, magasins et internet confondus : F059) et une **Visa Premier** à crédit (limite mensuelle
+  fixée avec le conseiller : 5 000 €, estimation du moteur acceptée par l'utilisateur ; hausse temporaire ou définitive demandable
+  depuis S-Net, « Limit change » : F061 ; assurances voyage incluses : annulation, bagages). Virements S-Net : limite standard de
+  15 000 € par semaine, modifiable par William jusqu'à 50 000 € (F060). *(Avant : « cartes non fixées » → maintenant : Zebra Premium.)*
 
 ## Déplacements
 - **Voiture électrique** (modèle non précisé ; précisé par l'utilisateur le 11/10/2026), immatriculée en France (William réside à
@@ -104,5 +110,10 @@ chaque mois, 2 850 € vers le compte épargne (renommé le 14/07/2040 : avant �
   Club à Esch, prêt reconstitué de façon réaliste (PR1), entourage pré-généré à découvrir.
 - **14/07/2040, 08h37** : début de l'univers 2 ; William se réveille chez lui à Audun-le-Tiche ; premier jour des vacances d'été
   (dernier jour de classe la veille) ; Fête nationale française (jour férié chômé en Moselle : commerces avec salariés fermés).
+- **14/07/2040, 10h25-10h35** : vire 30 000 € du compte épargne vers le compte courant ; tente de payer en ligne un forfait vol +
+  hôtel pour Manille (Lufthansa + Qatar Airways, 48 nuits au Makati Shangri-La, du 18/07 au 05/09 : 10 741 €) avec sa Visa Premier :
+  paiement refusé, limite mensuelle de la carte (5 000 €) dépassée ; rien de réservé.
+- **12/10/2026 (date réelle, hors fiction)** : cartes bancaires fixées par l'utilisateur (Zebra Premium) ; âge minimum des
+  rencontres à Manille ramené de 21 à 18 ans, la majorité aux Philippines (demande de l'utilisateur).
 - *(Avant : « 17/07/2040, 07h05 : début de l'univers 2 ; les vacances d'été ont commencé le samedi 14/07 » → maintenant : départ
   redaté au 14/07, 08h37, le 11/10/2026 à la demande de l'utilisateur.)*

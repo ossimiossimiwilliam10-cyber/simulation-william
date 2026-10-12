@@ -115,3 +115,11 @@
 80. **Tables T12 à T14 (installées le 09/08/2040)** : une négociation se tire en T12 (M90-M94 ; attention aux combinaisons qui font passer `concede_beaucoup` sous 0 %, ex. M90 + M92 : `jet.py` les refuse) ; le contenu d'un résultat T11 se tire en T13a-d, le détail vient de la fiche ; qui écrit à William se tire en T14 (« aucune » = pas de message ce jour-là) : ne pas inventer de message spontané hors T14, hors événements de l'agenda et hors réponses.
 81. **§9 compact (depuis le 09/08/2040)** : une entrée par tour, en tête ; ne jamais y recopier l'état complet (il est dans `etat/resume.md`) ; au-delà de 12 entrées, `archiver_point_de_reprise.py --garder 8 --ecrire`.
 82. **Enregistrement Royal Air Maroc (vérifié le 09/08/2040, sources non primaires, réseau international de la compagnie)** : comptoir clos 60 minutes avant le départ ; présentation recommandée 3 heures avant (4 heures en période de pointe) pour un vol international court ou moyen-courrier ; enregistrement en ligne ouvert environ 48 heures avant, à terminer 2 heures avant ; portes closes 15 minutes avant. Les horaires précis de Lisbonne n'ont pas été trouvés : les donner comme repères de la compagnie, pas comme faits de l'aéroport.
+83. **Plafonds bancaires (vérifiés le 12/10/2026, FAQ Spuerkeess)** : un gros achat par carte se heurte d'abord aux plafonds, pas au
+    solde : Visa Debit Spuerkeess 2 500 € par mois tout compris (F059) ; carte de crédit : limite fixée avec le conseiller, hausse
+    demandable dans S-Net (F061) ; virements S-Net 15 000 € par semaine, jusqu'à 50 000 € sur réglage du client (F060). Un outil qui
+    « paie » (voyages.py, banque.py) ne vérifie pas les plafonds : le moteur le fait avant de lancer l'étiquette (14/07/2040 : forfait
+    de 10 741 € refusé sur la Visa Premier, limite 5 000 €). Les virements entre ses propres comptes : prise en compte dans la limite
+    S-Net non établie (jet de friction à 30 %).
+84. **`sed -i` sous Git Bash convertit les fins de ligne CRLF en LF** (12/10/2026, `etat/traces.md`) : modifier les fichiers de la
+    simulation avec l'outil d'édition ou un script Python qui écrit en binaire, puis contrôler (`file` doit dire « CRLF »).

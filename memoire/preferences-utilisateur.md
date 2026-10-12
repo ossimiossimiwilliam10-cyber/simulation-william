@@ -67,6 +67,12 @@
 
 - **Réalisme poussé à fond** (12/10/2026, avant de changer d'agent) : « pousse le réalisme à fond », corriger les bogues, ajouter des fonctionnalités pour gérer le monde, pour que l'agent suivant « continue simplement le monde ». Idées de l'utilisateur : une application de rencontre aux Philippines, configurer lui-même ses virements dans l'application bancaire (faits le 12/10/2026).
 - **Voyage à Manille** (12/10/2026) : William y va pour du tourisme sexuel avec des femmes majeures ; cadre accepté et consigné (faits F055 à F057, tables T20a et T20b validées ; limites du §11 : jamais de mineure, scènes jusqu'au seuil, aucun mode d'emploi réel).
+- **Majorité = 18 ans** (12/10/2026) : « 18 ans est la majorité, donc il faut régler ça » : l'âge minimum des rencontres à Manille
+  (application et rencontres de visu) est la majorité, 18 ans (F058), pas une marge ajoutée par le moteur (avant : 21 ans). La garde
+  absolue reste : jamais personne de moins de 18 ans, ni d'âge invérifiable.
+- **Biographie bancaire** (12/10/2026) : cartes de William = package Zebra Premium (Visa Debit à 2 500 €/mois, Visa Premier à
+  5 000 €/mois estimés). Quand un détail de biographie manque et change l'issue d'une action, lui poser la question avant de jouer,
+  avec l'option la plus réaliste en premier (il a choisi l'option recommandée).
 
 ## Grandes décisions hors fiction (historique)
 - 25/07/2040 (simulé) : il a envisagé d'arrêter, puis a décidé de continuer avec tous les paramètres.

@@ -45,7 +45,7 @@ appli({
       [["plus", "Plus, mode voyage (" + euros(R.prix_plus) + " par mois)"], ["gratuit", "Gratuit (profils autour de toi)"]].forEach(([v, t]) => { const o = el("option", "", t); o.value = v; ab.append(o); });
       const la = el("label", "", "Abonnement"); la.htmlFor = "r-ab"; const ca = el("div", "champ large"); ca.append(la, ab);
       f.append(cb, ca);
-      main.append(el("p", "note", "Recherche : femmes de 21 à 40 ans · ville : Manille. Voir une autre ville que la sienne demande le mode voyage (abonnement Plus)."), f);
+      main.append(el("p", "note", "Recherche : femmes de 18 à 40 ans · ville : Manille. Voir une autre ville que la sienne demande le mode voyage (abonnement Plus)."), f);
       const b = el("button", "bouton", "Préparer l'inscription"); b.type = "button";
       b.addEventListener("click", () => {
         if (!bio.value.trim()) { bio.focus(); return; }

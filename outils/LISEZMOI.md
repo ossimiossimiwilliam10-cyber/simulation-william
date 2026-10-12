@@ -57,7 +57,7 @@
 | `voyages.py` | Application Voyages : vols (calendrier des prix), hôtels, forfaits vol + hôtel, formalités ; calcul déterministe partagé avec la page | `vols`, `mois`, `hotels`, `forfait`, `formalites`, `verifier` |
 | `appli_calendrier.py` | Données de l'application Calendrier (fériés FR, LU, PH ; vacances, événements, rendez-vous connus, argent) | (sans argument : résumé) |
 | `banque.py` | Banque : virements ponctuels (entre comptes ou vers un tiers), ordres permanents (créer, modifier, suspendre, reprendre), liste ; prévus recalculés | `virement`, `ordre-modifier`, `ordre-creer`, `ordre-suspendre`, `ordre-reprendre`, `liste` |
-| `rencontres.py` | Application de rencontre : profils tirés (Manille), inscription de William, j'aime, matchs, messages ; intention réelle cachée | `generer`, `inscription`, `aimer`, `passer`, `match`, `message`, `liste`, `voir` |
+| `rencontres.py` | Application de rencontre : profils tirés (Manille, 18 ans au moins : majorité, garde absolue), inscription de William, j'aime, matchs, messages ; intention réelle cachée ; vivier complété si une tranche d'âge s'ouvre après coup | `generer`, `completer`, `inscription`, `aimer`, `passer`, `match`, `message`, `liste`, `voir` |
 | `etiquettes.py` | Applique les actions copiées depuis le téléphone (étiquettes [voyages|banque|rencontres: …]) : la commande exacte, à l'heure du jeu | `--texte "…"`, `--simule` |
 | `resume_etat.py` | `etat/resume.md` : l'essentiel en trois minutes | `--silencieux` |
 | `controle_coherence.py` | Contrôle de fin de tour (dates, maîtres, CSV, base, rituels, tables, PDF, tics) | (sans argument) |
