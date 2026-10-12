@@ -132,3 +132,19 @@ cercle 1 (5 proches) chaque jour ; cercle 2 (15) le lundi et le jeudi ; cercle 3
   agenda et météo depuis son propre téléphone.
 - **P14 — Revue du lundi enrichie** : audit du casting (`personnage.py audit` : origines, âges, sexes contre la démographie
   réelle), rituels oubliés, faits périmés (`faits.py perimes`).
+
+## E. Proposition du 12/10/2026 (à valider par l'utilisateur, règle 17)
+
+### P15 — T20 : proposition d'argent contre un rapport, faite par William à une femme adulte (voyage à Manille)
+Contexte : l'utilisateur annonce (12/10/2026, hors fiction) que William part à Manille pour du tourisme sexuel avec des femmes
+majeures. Le moteur le joue (§11) dans ses limites : scènes jusqu'au seuil puis ellipse (règle 10) ; JAMAIS de mineure, ni
+d'âge ambigu (limite b : toute femme concernée est une adulte tirée par `personnage.py`) ; rien d'explicite ni de violence
+sexuelle détaillée ; aucun mode d'emploi réel (lieux fictifs, ni adresses, ni prix, ni méthodes réelles). Faits : F055 à F057.
+| Issue | Lieu où ce commerce se pratique | Ailleurs (rue, café, application) |
+|---|---|---|
+| accepte (prix annoncé ou fixé par un intermédiaire) | 50 | 8 |
+| négocie (puis T12) | 15 | 12 |
+| refuse ou ignore | 15 | 62 |
+| refuse et alerte (entourage, sécurité, police : T4 ou T6) | 3 | 10 |
+| arnaque (vol, chantage, faux tarif) | 10 | 6 |
+| piège ou descente de police (T6) | 7 | 2 |
