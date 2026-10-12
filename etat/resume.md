@@ -1,11 +1,11 @@
-# Résumé d'état (généré le 12/10/2026 18:08 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 12/10/2026 18:16 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : samedi 14/07/2040 10:46 (luxembourg, UTC+2)
+## Horloge : samedi 14/07/2040 11:25 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 08:46 ; lisbonne 09:46 ; mindelo 07:46 ; casablanca 09:46 ; douala 09:46 ; addis 11:46 ; manille 16:46 ; paris 10:46
+- **Heure dans les autres lieux** : abidjan 09:25 ; lisbonne 10:25 ; mindelo 08:25 ; casablanca 10:25 ; douala 10:25 ; addis 12:25 ; manille 17:25 ; paris 11:25
 - **En attente de William** :
   - Sa journée du samedi 14/07/2040 (premier jour des vacances d'été ; Fête nationale française)
-  - Départ pour Manille le mercredi 18/07 à 15h40 (forfait réservé : R003-R004) ; eTravel dès le lundi 16/07 10h30
+  - eTravel possible dès le lundi 16/07 à 10h30 ; départ pour Manille le mercredi 18/07 à 15h40 (R003-R004) ; trajet vers Findel non prévu
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **39 800,00 €**
@@ -37,9 +37,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2040-07-14.md, 6 dernières lignes)
-> - **Hors fiction (12/10/2026, date réelle)** : reprise par une nouvelle session (Claude Opus 5.5) ; audit d'entrée (U2-19) ; téléphone de William republié à une nouvelle adresse (l'ancienne n'existait plus) ; la situation de 10h20 est remontrée deux fois au joueur, sans avance de l'horloge. Puis, à la demande du joueur : âge minimum des rencontres à Manille ramené de 21 à 18 ans, la majorité (U2-2
-> - **10h20-10h35** (tour n° 5) : depuis le téléphone, William vire 30 000 € du compte épargne vers le compte courant (10h25, exécuté aussitôt : friction tirée à 30 %, jet 91,8 → non ; courant 39 800 €, épargne 327 000 €). Puis il ouvre le forfait de l'application Voyages chez Kestrel Voyages : Lufthansa + Qatar Airways au départ de Findel le mercredi 18/07 à 15h40 (arrivée à Manille le jeudi 19/07 
 > - Tour n° 5 joué jusqu'à 10h35.
 > - **Hors fiction (12/10/2026)** : le message du joueur est arrivé deux fois, traité comme une seule réservation ; outil `cartes.py` créé (plafonds des cartes, relevé différé de la carte de crédit, F063) et branché sur l'application Voyages (choix de la carte) et la Banque (onglet Cartes).
 > - **10h35-10h46** (tour n° 6) : William revient à l'application Voyages et choisit un autre forfait, toujours Lufthansa + Qatar Airways, mais avec le City Garden Grand Hotel (Makati) et un retour le vendredi 24/08 : 4 890 € (prix de `voyages.py`, identique à la page). Paiement avec la Visa Premier à 10h44, confirmé dans l'application de la banque : autorisé (friction tirée à 30 %, jet 44,1 → non ;
-> - Tour en cours à 10h46, en attente de William : **sa journée** (départ pour Manille le mercredi 18/07 à 15h40).
+> - Tour n° 6 joué jusqu'à 10h46.
+> - **10h46-11h25** (tour n° 7) : William sort son sac de voyage du débarras de l'étage et y range de quoi tenir cinq semaines au chaud ; un seul bagage, non pesé. Vers 11h20, il cherche l'eTravel : deux liens sponsorisés proposent de le remplir « pour lui » contre des frais ; il ouvre le portail officiel (etravel.gov.ph), qui refuse la date d'arrivée du 19/07 (inscription possible seulement dans le
+> - Tour en cours à 11h25, en attente de William : **sa journée** (eTravel possible dès le lundi 16/07 à 10h30 ; départ le mercredi 18/07 à 15h40).

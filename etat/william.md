@@ -1,4 +1,4 @@
-# William Ossimi — profil (univers 2 ; état au samedi 14/07/2040, 10h46)
+# William Ossimi — profil (univers 2 ; état au samedi 14/07/2040, 11h25)
 
 > **Univers 2 (redémarrage complet demandé par l'utilisateur le 11/10/2026, date réelle).** Seuls William, son métier et son
 > argent sont repris de l'univers 1 (`archives/univers-1/etat/william.md`). OSIA, l'équipe d'Abidjan, Sandra, Kevin, Aïcha, le
@@ -117,6 +117,9 @@ chaque mois, 2 850 € vers le compte épargne (renommé le 14/07/2040 : avant �
   (Findel mer. 18/07 15h40 → Manille jeu. 19/07 16h30 ; retour ven. 24/08 18h30 → Luxembourg sam. 25/08 10h05) et 36 nuits au City
   Garden Grand Hotel (Makati), du 19/07 au 24/08 : 4 890 € (R003 et R004 ; vol PVS2HS, hôtel R6T4JZA2) ; débité du compte courant
   au relevé de la carte, le 07/08 ; il reste 110 € sur la Visa Premier jusqu'au 30/07.
+- **14/07/2040, 10h50-11h25** : prépare un seul sac de voyage pour Manille ; tente de remplir l'eTravel : le portail officiel refuse
+  (inscription possible seulement dans les 72 heures avant l'arrivée, soit à partir du lundi 16/07 à 10h30, heure du Luxembourg).
+  Décision : **plus de sparring avant la fin des grandes vacances** (16/09/2040) ; fermeture du club du 13 au 26/08 notée.
 - **12/10/2026 (date réelle, hors fiction)** : cartes bancaires fixées par l'utilisateur (Zebra Premium) ; âge minimum des
   rencontres à Manille ramené de 21 à 18 ans, la majorité aux Philippines (demande de l'utilisateur).
 - *(Avant : « 17/07/2040, 07h05 : début de l'univers 2 ; les vacances d'été ont commencé le samedi 14/07 » → maintenant : départ

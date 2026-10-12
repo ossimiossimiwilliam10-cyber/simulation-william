@@ -1,7 +1,7 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2040-07-14 10:46
+horloge: 2040-07-14 11:25
 fuseau: luxembourg
 lieu: Audun-le-Tiche (Moselle), chez William
-tour: 6
+tour: 7
 attente: Sa journée du samedi 14/07/2040 (premier jour des vacances d'été ; Fête nationale française)
-attente: Départ pour Manille le mercredi 18/07 à 15h40 (forfait réservé : R003-R004) ; eTravel dès le lundi 16/07 10h30
+attente: eTravel possible dès le lundi 16/07 à 10h30 ; départ pour Manille le mercredi 18/07 à 15h40 (R003-R004) ; trajet vers Findel non prévu
