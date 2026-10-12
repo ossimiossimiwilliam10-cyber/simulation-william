@@ -1,0 +1,7 @@
+destination;debut;fin;plancher;source;note
+NSI;01-06;06-30;1090;estimation entre les deux tirages (PX028 : moyenne annuelle 1 391,85 € en 2040);aller-retour le moins cher (facteur 1,00), séjour de 7 à 45 jours
+NSI;07-01;08-15;1736.72;tirage prix.py du 12/10/2026 sur PX027 (août, Paris – Yaoundé, moyenne) : 1 736,72 €;haute saison des départs (vacances, diaspora)
+NSI;08-16;08-23;1380;estimation : transition entre haute et basse saison;
+NSI;08-24;11-30;1005.19;tirage prix.py du 12/10/2026 sur PX035 (prix bas relevés de juillet à octobre) : 1 005,19 €;basse saison des départs
+NSI;12-01;12-24;1650;estimation : départs pour les fêtes;
+NSI;12-25;01-05;1300;estimation;

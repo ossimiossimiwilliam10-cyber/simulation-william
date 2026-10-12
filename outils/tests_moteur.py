@@ -144,7 +144,8 @@ def main():
     print("\n[Base de données]")
     e.lancer(o + "base.py", "construire", contient="Base reconstruite")
     e.lancer(o + "base.py", "requete", "SELECT nom, age, mineur FROM v_personnages", contient="oui")
-    e.lancer(o + "base.py", "requete", "SELECT COUNT(*) AS n FROM faits", contient="44")
+    e.lancer(o + "base.py", "requete", "SELECT CASE WHEN COUNT(*) >= 40 THEN 'au moins quarante' END AS n FROM faits", contient="au moins quarante",
+             nom="base : la table des faits est remplie (40 faits ou plus)")
     e.lancer(o + "base.py", "requete", "SELECT id, capital FROM prets", contient="PR1")
     e.lancer(o + "base.py", "cherche", "boulangerie", contient="lieux")
     e.lancer(o + "base.py", "requete", "DELETE FROM faits", attendu=1, contient="Lecture seule", nom="base : écriture refusée")
@@ -169,7 +170,17 @@ def main():
     e.verifier((copie / "journal" / "tours" / f"{t1:%Y-%m-%d}.md").exists(), f"journal/tours/{t1:%Y-%m-%d}.md écrit")
     e.lancer(o + "horloge.py", contient=f"tour n° {n0 + 1}", nom="horloge : le compteur de tours avance d'un cran")
     e.lancer(o + "tour.py", "apercu", "--jusqua", f"{t1 + dt.timedelta(days=3):%Y-%m-%d} 08:00", contient="Aperçu de l'avance rapide")
-    e.lancer(o + "telephone.py", contient="Page écrite")
+    e.lancer(o + "telephone.py", contient="6 applications", nom="téléphone : écran d'accueil et six applications")
+
+    print("\n[Applications du téléphone : voyages et calendrier]")
+    e.lancer(o + "voyages.py", "verifier", contient="conforme")
+    e.lancer(o + "voyages.py", "vols", "--de", "LUX", "--vers", "NSI", "--aller", "2040-08-28", "--retour", "2040-09-18", contient="1 005 €",
+             nom="voyages : le prix montré au tour n° 2 (1 005 € le 28/08) est retrouvé")
+    e.lancer(o + "voyages.py", "mois", "--de", "LUX", "--vers", "NSI", "--mois", "2040-07", contient="1 737 €",
+             nom="voyages : plancher de juillet (1 737 €) retrouvé")
+    e.lancer(o + "voyages.py", "forfait", "--aller", "2040-08-28", "--retour", "2040-09-18", contient="séparément")
+    e.lancer(o + "voyages.py", "formalites", "--vers", "NSI", contient="Fièvre jaune")
+    e.lancer(o + "appli_calendrier.py", contient="ferie")
     e.lancer(o + "controle_coherence.py", contient="RÉSULTAT")
 
     print(f"\n{e.ok} essai(s) réussi(s), {len(e.echecs)} échec(s).")

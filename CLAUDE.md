@@ -322,3 +322,29 @@ Univers 2 : données remises à zéro le 11/10/2026 (horloge, agenda, grand livr
 - **§9** : une entrée par tour, en tête ; au-delà de 12 entrées, `archiver_point_de_reprise.py --garder 8 --ecrire` (l'historique complet va dans `memoire/archive-point-de-reprise-*.md`, rien n'est supprimé).
 - **(11/10/2026) Relais, base de données et réalisme** (demande de l'utilisateur : relais 100 % fluide, « bases de données », simulation « la plus réaliste et poussée que possible » ; index complet : `outils/LISEZMOI.md`) : `relais.py` (entrée et sortie de session, sessions parallèles, verrou, note de relais), `maitres.py` (trois fichiers maîtres), `tour.py` (début, fin et aperçu d'avance rapide d'un tour), `base.py` (base SQLite `sorties/monde.sqlite` reconstruite depuis les fichiers, qui restent la source de vérité : `requete`, `cherche`, `verifier`), `meteo.py` (météo tirée sur les normales de Findel 1991-2020, + 1,5 °C projetés), `lieux.py` (horaires, fermetures selon le pays, ambiances tournantes), `faits.py` et `prix.py` (référentiels sourcés de `donnees/`, projection fixe × 1,35), `echeancier.py` (argent récurrent écrit au grand livre), `corps.py`, `fronts.py` (menaces et occasions à paliers écrits d'avance), `personnage.py` (générateur selon la démographie réelle ; garde « mineurs »), `rituels.py` (ce que le moteur doit faire), `telephone.py` (page « téléphone de William » pour le joueur), `tests_moteur.py` (essais sur une copie du dépôt). `jet.py` écrit aussi `memoire/tirages.jsonl` ; `--pour "Nom"` refuse T1, T1b et T9 pour un mineur. Données : `donnees/` (référence), `etat/` (état), `sorties/` (généré, ignoré par git). Propositions qui touchent les tables ou la biographie : `memoire/propositions-2026-10-11.md` (à valider par l'utilisateur).
 - **(12/10/2026) Réponses de biographie** (crédit « balancé au hasard » à rendre réaliste, entourage « à découvrir au fil du jeu ») : `prets.py` (prêt PR1 de la maison : tableau d'amortissement calculé ; chaque échéance écrit trois lignes au grand livre : mensualité, capital restant dû, part de la maison ; `verifier` contrôle les calages) ; `echeancier.py` (virements permanents entre comptes : colonne `contrepartie` ; échéances de prêt : colonne `pret` ; `verifier` ; budget par compte) ; `lieux.py` (congés annuels d'un lieu : règle `conges:`) ; `personnage.py reseau` (entourage existant tiré d'après `donnees/population/reseau-william.csv`, statut `pre_genere`) et `apparait` ; noms et prénoms sans homonymes (réservoirs élargis, comparaison sans accents).
+
+## 14. APPLICATIONS DU TÉLÉPHONE ET AUTOMATISATION (demande de l'utilisateur, 12/10/2026)
+- **Principe** (l'utilisateur : « cette simulation doit vraiment se baser sur l'informatique avant tout ; toi, tu dois juste jouer
+  le rôle d'interpréteur du monde ») : le PROGRAMME porte la simulation ; le moteur interprète le monde, fait les recherches et
+  garde la cohérence ; toute tâche longue ou répétitive est automatisée dans `outils/`, pour épargner la limite d'utilisation de
+  l'utilisateur. Python par défaut ; un langage compilé (C, Rust) seulement si un calcul devient réellement trop lent.
+- **Une application par besoin** : dès qu'un besoin du joueur a demandé des recherches (prix, horaires, démarches, comparaisons)
+  et qu'une application peut y répondre à l'avenir, le moteur la crée SANS ATTENDRE qu'on la lui demande :
+  1. données sourcées dans `donnees/` (prix 2026 × coefficient 2040, faits datés) ;
+  2. calcul DÉTERMINISTE dans un module Python de `outils/` (fonction `donnees_telephone(t)` pour la page ; commandes en ligne
+     pour le moteur), afin que la page et le moteur donnent toujours le même résultat ;
+  3. affichage dans le téléphone de William : un fichier `outils/telephone_web/<appli>.js` qui appelle `appli({...})`, inscrit
+     dans `APPLIS` de `outils/telephone.py` ;
+  4. essais dans `outils/tests_moteur.py`, ligne dans `outils/LISEZMOI.md`, contrôle dans `controle_coherence.py` si l'outil a
+     des données à vérifier.
+- **Règles des applications** : elles ne montrent que ce que William peut voir (aucun mot du moteur, aucune ligne cachée :
+  contrôle automatique de `telephone.py`) ; elles ne décident ni ne paient jamais à sa place : réserver ou acheter est une action
+  du joueur (bouton « Copier pour réserver », texte à coller dans la simulation), jouée ensuite par le moteur avec le MÊME module
+  et le MÊME prix (puis grand livre, agenda, traces) ; une nouvelle destination, un nouvel hôtel ou un nouveau tarif s'ajoute par
+  une ligne de données, après recherche web.
+- **Mise à jour** : `tour.py fin` régénère la page à chaque tour ; Claude la republie au même endroit (adresse :
+  `etat/relais-config.json`) ; un autre agent envoie le fichier `sorties/telephone/index.html` au joueur s'il le demande.
+- **Applications en place** (12/10/2026) : Messages, Courriels, Banque (soldes, opérations, prélèvements et virements à venir),
+  Calendrier (`outils/appli_calendrier.py` : fériés français et luxembourgeois, vacances scolaires, événements publics,
+  rendez-vous connus, argent), Météo, Voyages (`outils/voyages.py` : vols avec calendrier des prix, hôtels, forfaits vol + hôtel,
+  formalités ; données `donnees/voyages/`).

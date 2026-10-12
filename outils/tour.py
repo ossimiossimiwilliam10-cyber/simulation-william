@@ -188,6 +188,12 @@ def cmd_fin(args):
     if ajouts:
         print(f"  {len(ajouts)} mouvement(s) prévu(s) ajouté(s) au grand livre (60 jours)")
     meteo.assurer(apres["instant"].date() + dt.timedelta(days=3))
+    try:  # téléphone de William régénéré à chaque tour (CLAUDE.md §14) ; Claude le republie au même endroit
+        import telephone
+        chemin_tel, _ = telephone.construire()
+        print(f"  téléphone : {chemin_tel.relative_to(RACINE).as_posix()} régénéré (à republier : outil Artifact, même adresse)")
+    except SystemExit as exc:
+        print(f"  RELIRE téléphone : page non régénérée ({exc})")
     if args.texte:
         texte = lire_texte(args.texte)
         message = lire_texte(args.joueur) if args.joueur else (args.message or "")

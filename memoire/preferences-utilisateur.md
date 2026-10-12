@@ -63,6 +63,8 @@
 - **Entourage** (11/10/2026) : il veut **découvrir au fil du jeu** les collègues, le club, les voisins (« tu peux déjà les mettre dans la base de données ») : 43 personnes pré-générées (`personnage.py liste --statut pre_genere`), jamais montrées, listées ni nommées avant leur entrée en scène (`personnage.py apparait`).
 - **Chiffres de biographie** (11/10/2026) : il en donne parfois « au hasard » (crédit : 110 000 € à 940 €/mois jusqu'en 2059) et préfère qu'on les rende **réalistes** (« trouver un bail réaliste en vrai ») : signaler l'incohérence, proposer une version calculée et sourcée, garder ses ordres de grandeur.
 
+- **Applications et automatisation** (12/10/2026) : « cette simulation doit vraiment se baser sur l'informatique avant tout » ; le moteur n'est que l'interpréteur du monde (recherches, cohérence) ; tout ce qui est long et répétitif est automatisé pour épargner sa limite d'utilisation ; à chaque besoin qui a demandé des recherches, le moteur crée une application et l'ajoute au téléphone de William, sans attendre qu'il la demande (CLAUDE.md §14). Premières : Calendrier et Voyages.
+
 ## Grandes décisions hors fiction (historique)
 - 25/07/2040 (simulé) : il a envisagé d'arrêter, puis a décidé de continuer avec tous les paramètres.
 - 11/10/2026 (réel) : redémarrage complet (univers 2) à 35 ans, argent initial, paramètres repris ; départ d'abord fixé au mardi

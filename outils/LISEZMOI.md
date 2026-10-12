@@ -53,7 +53,9 @@
 | `corps.py` | Sommeil, entraînements, repas, poids, maladies de William ; état à montrer | `nuit`, `seance`, `noter`, `etat` |
 | `fronts.py` | Menaces, occasions, projets en segments avec paliers écrits d'avance | `creer`, `avancer`, `liste`, `clore` |
 | `rituels.py` | Ce que le moteur doit faire (fiches, tour du monde, synthèses, revue, aléas) | `dus`, `liste` |
-| `telephone.py` | Page « téléphone de William » (ce que William voit), pour le joueur | (sans argument) |
+| `telephone.py` | Page « téléphone de William » : écran d'accueil et applications (`telephone_web/` : coque, noyau, une feuille JS par application ; CLAUDE.md §14) | (sans argument) ; `--json` |
+| `voyages.py` | Application Voyages : vols (calendrier des prix), hôtels, forfaits vol + hôtel, formalités ; calcul déterministe partagé avec la page | `vols`, `mois`, `hotels`, `forfait`, `formalites`, `verifier` |
+| `appli_calendrier.py` | Données de l'application Calendrier (fériés, vacances, événements, rendez-vous connus, argent) | (sans argument : résumé) |
 | `resume_etat.py` | `etat/resume.md` : l'essentiel en trois minutes | `--silencieux` |
 | `controle_coherence.py` | Contrôle de fin de tour (dates, maîtres, CSV, base, rituels, tables, PDF, tics) | (sans argument) |
 | `audit_jets.py`, `chasse_tics.py`, `fuseaux.py`, `archiver_point_de_reprise.py`, `pdf_base.py`, `verifier_pdf.py` | Audit des probabilités, tics d'écriture, fuseaux horaires, archivage du §9, PDF | voir `--help` |

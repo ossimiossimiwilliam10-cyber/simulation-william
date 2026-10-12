@@ -1,0 +1,8 @@
+id;ville;nom;categorie;prix;quartier;note
+H1;NSI;Hilton Yaoundé;5 étoiles;PX030;centre-ville;
+H2;NSI;Djeuga Palace;hôtel;PX031;;
+H3;NSI;Hôtel La Falaise;hôtel;PX032;;
+H4;NSI;Hotel Mont Fébé;4 étoiles;PX036;colline du mont Fébé;
+H5;NSI;Hôtel Franco;4 étoiles;PX037;;
+H6;NSI;Résidence hôtelière;3 étoiles;PX038;Bastos;établissement représentatif d'un 3 étoiles au prix moyen relevé (PX038)
+H7;NSI;Chambre en résidence;économique;PX033;;chambres les moins chères relevées (PX033)
