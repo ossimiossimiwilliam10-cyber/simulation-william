@@ -182,7 +182,7 @@ def main():
     e.lancer(o + "voyages.py", "formalites", "--vers", "NSI", contient="Fièvre jaune")
     e.lancer(o + "appli_calendrier.py", contient="ferie")
     e.lancer(o + "voyages.py", "reserver", "--vol", "V3", "--aller", "2040-08-28", "--retour", "2040-09-18", "--quand", "2040-07-14 10:00",
-             "--simule", contient="2 179" if False else "1 005", nom="voyages : réservation (essai) au prix de la page")
+             "--simule", contient="1 005", nom="voyages : réservation (essai) au prix de la page")
     e.lancer(o + "controle_coherence.py", contient="RÉSULTAT")
 
     print(f"\n{e.ok} essai(s) réussi(s), {len(e.echecs)} échec(s).")
