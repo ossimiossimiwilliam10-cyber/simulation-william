@@ -1,67 +1,88 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 12/10/2026 18:16 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 12/10/2026 18:28 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : samedi 14 juillet 2040, 11h25 (luxembourg) ; tour n° 7
+- Horloge : lundi 16 juillet 2040, 07h40 (luxembourg) ; tour n° 8
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Sa journée du samedi 14/07/2040 (premier jour des vacances d'été ; Fête nationale française)
-- En attente de William : eTravel possible dès le lundi 16/07 à 10h30 ; départ pour Manille le mercredi 18/07 à 15h40 (R003-R004) ; trajet vers Findel non prévu
+- En attente de William : Décisions de l'utilisateur sur la revue du lundi n° 1 (puis tirage des aléas de la semaine)
+- En attente de William : Sa journée du lundi 16/07/2040 : eTravel possible dès 10h30 ; départ pour Manille le mercredi 18/07 à 15h40 (R003-R004) ; trajet vers Findel non prévu
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 7 ; horloge 14/07/2040 10:46 -> 14/07/2040 11:25 ; enregistré le 12/10/2026 18:16 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 8 ; horloge 14/07/2040 11:25 -> 16/07/2040 07:40 ; enregistré le 12/10/2026 18:28 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je me fais juste un sac de voyage comme unique bagage. Puis je remplis mon eTravel. Je n'irai plus en Sparring avant la fin des grandes vacances. Je prends note de la fermeture du minett combat club.
+> Je me fais un rappel pour eTravel. Go
 
 ## Texte envoyé au joueur
 
-**SAMEDI 14 JUILLET 2040 — 11h25 — Audun-le-Tiche, chez toi**
+**LUNDI 16 JUILLET 2040 — 07h40 — Audun-le-Tiche, chez toi**
 
-Le sac de voyage dort dans le débarras de l'étage, coincé entre deux cartons. Tu le descends dans la chambre et tu le remplis : des t-shirts, des shorts, deux pantalons légers, une chemise, des baskets et des sandales, la trousse de toilette, les chargeurs. Le passeport va dans la poche extérieure. Il reste un peu de place sur le dessus, et la fermeture éclair se tire jusqu'au bout sans forcer.
+Sur ton téléphone, tu crées un rappel pour le lundi 16 juillet à 10h30 : « Remplir l'eTravel ».
 
-Vers 11h20, sur l'ordinateur, tu tapes « eTravel Philippines ». Les deux premiers résultats sont des liens sponsorisés qui proposent de remplir le formulaire à ta place, contre des frais. Le portail du gouvernement, etravel.gov.ph, vient juste en dessous. Tu l'ouvres et tu commences le formulaire. Quand tu saisis la date d'arrivée, le 19 juillet, un message rouge apparaît sous le champ : « Registration is only allowed within 72 hours prior to your arrival in the Philippines. » Le bouton « Next » reste grisé, et rien n'est enregistré.
+Le samedi s'étire ensuite à la maison. La chaleur monte jusqu'à 28 °C en fin d'après-midi et reste prise dans les murs de pierre de l'étage ; les volets restent mi-clos jusqu'au soir. Personne n'écrit, personne n'appelle. Vers 23 heures, des pétards claquent au loin, du côté du centre. Tu te couches à 0h20.
 
-Par la fenêtre ouverte, une odeur de charbon de bois monte d'un jardin derrière les maisons.
+Le dimanche, tu te réveilles à 9h10. Le ciel s'est couvert pendant la nuit, et les averses se succèdent toute la journée. La gouttière déborde au-dessus de la porte d'entrée, et l'air ne dépasse plus 21 °C. La rue reste vide, à part un parapluie qui passe sous la fenêtre en fin d'après-midi. Le sac de voyage attend au pied du lit. Tu te couches à 23h15.
+
+Le lundi, tu ouvres les yeux à 7h40. Le soleil est revenu, et il fait 16 °C dehors. Le téléphone n'affiche aucun message.
 
 ---
 
-**À toi : samedi 14/07, 11h25.**
+**🔄 Revue du lundi n° 1** *(hors fiction)*
 
-**Réponses attendues**
-- Personne n'attend de réponse de ta part.
+**1. Bilan des 14 et 15/07**
+- Corrigé : la destination du voyage (Manille, à ta demande), quelques lignes périmées, l'âge minimum des rencontres (18 ans), tes cartes bancaires (Zebra Premium).
+- Ajouté : les plafonds des cartes et le relevé différé de la carte de crédit ; les virements programmés, qui n'étaient jamais exécutés à leur date ; la fenêtre de 72 heures de l'eTravel ; le tirage automatique du message spontané d'un proche.
+- Contrôles : aucune réaction de personnage tirée cette semaine, aucune non-conformité, aucun tic d'écriture relevé. Deux confirmations de réservation en PDF, vérifiées.
 
-**À faire / à fournir avant le tour suivant**
-- **eTravel** : possible à partir du lundi 16/07 à 10h30, soit 72 heures avant l'arrivée à Manille.
-- **Départ** : mercredi 18/07, vol LH 391 à 15h40 depuis Findel. Rien n'est prévu pour aller jusqu'à l'aéroport.
-- **Séjour de 36 jours** : au-delà de 30 jours sans visa, il faut une prolongation au Bureau de l'immigration, vers le 17/08. La date exacte figure sur le tampon d'entrée.
+**2. À valider** (réponds par les numéros)
+- **P02 — Aléas de l'univers 2.** On retire ceux d'Abidjan (A01, A03, A04, A05, A06) et on active, par semaine :
+  - A19 rhume ou gastro de William (5 %) ;
+  - A20 trajets frontaliers perturbés (20 %) ;
+  - A21 panne à la maison (4 %) ;
+  - A22 courrier administratif (10 %) ;
+  - A23 tentative d'arnaque (15 %) ;
+  - A24 souci de voisinage (5 %) ;
+  - A25 blessure légère à l'entraînement (1 %) ;
+  - A26 imprévu d'argent (6 %) ;
+  - A27 signe d'un ancien (8 %) ;
+  - A28 courriel du lycée (10 % en juillet, 30 % fin août) ;
+  - A29 contrôle routier (3 %) ;
+  - A30 occasion inattendue (8 %).
 
-**Quêtes secondaires**
-- Visa Premier : 110 € disponibles jusqu'au 30/07, puis relevé de 4 890 € débité le mardi 07/08. Visa Debit : 2 500 € par mois.
-- Lundi 16/07 : prélèvement de la box internet et du forfait mobile (63 €).
-- Mardi 31/07 : traitement de juillet.
-- Mercredi 01/08 : cotisation du club (85 €) et package bancaire (12,83 €).
-- Jeudi 02/08 : virements automatiques, 2 850 € vers le compte épargne et 2 850 € vers les ETF.
-- Lundi 17/09 : rentrée au lycée.
-
-Avance rapide possible : « **Go** » fait passer le samedi et le dimanche à la maison jusqu'au lundi 16/07 au matin, où la revue du lundi n° 1 a lieu. Elle s'arrête au premier message ou événement qui demande une décision.
-
-Que veux-tu faire ?
+  A02, A07, A09, A12, A13, A17 et A18 restent actifs.
+- **P01 — Tables T15 à T18** : réaction d'un pair, d'un supérieur, d'un inconnu ou d'une rencontre adulte (T17, utile à Manille hors des lieux de commerce), et tenue des promesses.
+- **P16 — T21** : réactions sur l'application de rencontre, au « j'aime » et au premier message.
+- **T12 à T14** : confirmer les pourcentages repris de l'univers 1 (négociations, contenu des événements, initiatives des personnages).
+- **Autres propositions** :
+  - P03 météo projetée à +1,5 °C ;
+  - P04 effets de la fatigue ;
+  - P05 relations chiffrées ;
+  - P06 menaces et occasions qui avancent seules ;
+  - P07 vie des personnages tirée selon la proximité ;
+  - P10 paie calculée (points, retenues, 13e mois) ;
+  - P17 ETF qui bougent chaque mois ;
+  - P18 dépenses courantes forfaitaires ;
+  - P19 arrivée à Manille (carte SIM, change, taxis par application, typhons) ;
+  - P20 vieillissement des personnages ;
+  - P21 application Transports.
+… (suite dans etat/dernier-tour.md, 95 lignes)
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
-- rien
+- A010 Mon 16/07 10:30 (luxembourg) | Philippines (eTravel) : eTravel : inscription en ligne gratuite possible à partir de maintenant, 72 heures avant l'arrivée à Manille (jeudi 19/07 à 16h30, heure locale) · code QR à montrer à l'immigration [prevu]  — F051 · arrivée du vol PVS2HS (R004) · 16h30 à Manille = 10h30 au Luxembourg
+- A012 Mon 16/07 10:30 (luxembourg) | William (rappel du téléphone) : Rappel : remplir l'eTravel (ouverture 72 heures avant l'arrivée à Manille) [prevu]  — rappel créé par William le samedi 14/07 à 11h27 · voir A010
 
 ## Rituels du moteur dus (rituels.py)
-- rien
+- [DÛ] tirage_aleas : aléas de la semaine du 16/07/2040 non tirés -> python outils/tirage_aleas.py 2040-07-16
 
 ## Décisions en attente de William (etat/fils-ouverts.md, A)
-| 1 | **Sa journée du samedi 14/07/2040** | Début de l'univers 2 ; premier jour des vacances d'été ; Fête nationale française (commerces fermés à Audun) ; aucune obligation | — |
+| 1 | **Sa journée du lundi 16/07/2040** | Troisième jour des vacances ; eTravel possible dès 10h30 (rappel du téléphone) ; départ pour Manille le mercredi 18/07 à 15h40 ; trajet vers Findel non prévu *(avant : « Sa journée du samedi 14/07/2040 » → maintenant : lundi 16/07, après l'avance rapide du tour n° 8)* | — |
 | 2 | **Voyage à Manille** (ouvert le 14/07/2040) | **RÉSERVÉ le 14/07 à 10h44** (R003 et R004, Kestrel Voyages, 4 890 € sur la Visa Premier, débités au relevé du 07/08) : vol Lufthansa + Qatar Airways PVS2HS, aller mer. 18/07 15h40 de Findel (LH 391, QR 68, QR 932) → Manille jeu. 19/07 16h30 ; retour ven. 24/08 18h30 (QR 933, QR 69, LH 390) → Luxembourg sam. 25/08 10h05 ; City Garden Grand Hotel (Makati), 36 nuits du 19/07 au 24/08 (R6T4JZA2) ; confirmations PDF dans `courriels/` ; agenda A007 à A011. Restent : eTravel (dès le lun. 16/07 10h30, heure du Luxembourg ; tentative du 14/07 à 11h20 refusée par le portail : trop tôt, F064), prolongation de séjour avant la fin des 30 jours sans visa (vers le 17/08), trajet vers Findel le 18/07 (rien de prévu) ; Visa Premier : 110 € disponibles jusqu'au 30/07. Bagage : un seul sac de voyage, fait le 14/07 (poids non mesuré) ; **pour le moteur** : la franchise de bagages du tarif (vols.csv : « selon le tarif choisi ») est à établir par recherche avant l'enregistrement du 18/07. *(Avant : « Rien de réservé : paiement refusé » → maintenant : réservé, 14/07 10h44.)* ~~Rien de réservé : paiement refusé.~~ Le 14/07 à 10h33, William a tenté de payer le forfait Lufthansa + Qatar Airways (Findel mer. 18/07 15h40 → Manille jeu. 19/07 16h30 ; retour mer. 05/09 18h30 → Luxembourg jeu. 06/09 10h05) + 48 nuits au Makati Shangri-La (19/07 – 05/09) : 10 741 € chez Kestrel Voyages, avec sa Visa Premier : refusé, limite mensuelle de 5 000 € dépassée (Visa Debit : 2 500 €/mois) ; panier resté ouvert sur le site ; rien de débité (R002). 30 000 € virés de l'épargne vers le compte courant à 10h25. À décider par William : moyen de payer (hausse de limite dans S-Net, autre combinaison, autre agence…). Séjour de 48 jours : prolongation au Bureau de l'immigration au-delà de 30 jours ; eTravel dans les 72 h avant l'arrivée. *(Avant : « Rien de réservé. Dates envisagées : aller ven. 20/07, retour ven. 31/08 ; vol et hôtel à choisir » → maintenant : forfait choisi, paiement refusé, 14/07 10h33.)* *(Avant : « Voyage à Yaoundé » avec un vol réservé → maintenant : Manille, correction hors fiction U2-18 du 12/10/2026.)* ~~Ancienne ligne : **Vol réservé et payé le 14/07 à 10h04** (R001, CYNERS : aller ven. 20/07 18h30, retour ven. 31/08, 2 179 €). À faire : e-visa (réponse en 72 h ouvrées ou 24 h en express), certificat de fièvre jaune (biographie : question posée à l'utilisateur le 12/10/2026), hébergement à Yaoundé (rien de réservé), trajet vers Findel. *(Avant : « recherches faites, rien de réservé » → maintenant : vol réservé, 14/07 10h04.)*~~ | — |
 
 ## Notes de passation (etat/relais-notes.md)
@@ -114,9 +135,9 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : b5a7693 ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : e23a734 ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche claude/simulation-realistic-agent-handoff-3deabc ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 13 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 21 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche claude/life-simulation-resume-892e7a ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

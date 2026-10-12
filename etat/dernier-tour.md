@@ -1,41 +1,95 @@
 # Dernier tour montré au joueur
 
-> Tour n° 7 ; horloge 14/07/2040 10:46 -> 14/07/2040 11:25 ; enregistré le 12/10/2026 18:16 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 8 ; horloge 14/07/2040 11:25 -> 16/07/2040 07:40 ; enregistré le 12/10/2026 18:28 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je me fais juste un sac de voyage comme unique bagage. Puis je remplis mon eTravel. Je n'irai plus en Sparring avant la fin des grandes vacances. Je prends note de la fermeture du minett combat club.
+> Je me fais un rappel pour eTravel. Go
 
 ## Texte envoyé au joueur
 
-**SAMEDI 14 JUILLET 2040 — 11h25 — Audun-le-Tiche, chez toi**
+**LUNDI 16 JUILLET 2040 — 07h40 — Audun-le-Tiche, chez toi**
 
-Le sac de voyage dort dans le débarras de l'étage, coincé entre deux cartons. Tu le descends dans la chambre et tu le remplis : des t-shirts, des shorts, deux pantalons légers, une chemise, des baskets et des sandales, la trousse de toilette, les chargeurs. Le passeport va dans la poche extérieure. Il reste un peu de place sur le dessus, et la fermeture éclair se tire jusqu'au bout sans forcer.
+Sur ton téléphone, tu crées un rappel pour le lundi 16 juillet à 10h30 : « Remplir l'eTravel ».
 
-Vers 11h20, sur l'ordinateur, tu tapes « eTravel Philippines ». Les deux premiers résultats sont des liens sponsorisés qui proposent de remplir le formulaire à ta place, contre des frais. Le portail du gouvernement, etravel.gov.ph, vient juste en dessous. Tu l'ouvres et tu commences le formulaire. Quand tu saisis la date d'arrivée, le 19 juillet, un message rouge apparaît sous le champ : « Registration is only allowed within 72 hours prior to your arrival in the Philippines. » Le bouton « Next » reste grisé, et rien n'est enregistré.
+Le samedi s'étire ensuite à la maison. La chaleur monte jusqu'à 28 °C en fin d'après-midi et reste prise dans les murs de pierre de l'étage ; les volets restent mi-clos jusqu'au soir. Personne n'écrit, personne n'appelle. Vers 23 heures, des pétards claquent au loin, du côté du centre. Tu te couches à 0h20.
 
-Par la fenêtre ouverte, une odeur de charbon de bois monte d'un jardin derrière les maisons.
+Le dimanche, tu te réveilles à 9h10. Le ciel s'est couvert pendant la nuit, et les averses se succèdent toute la journée. La gouttière déborde au-dessus de la porte d'entrée, et l'air ne dépasse plus 21 °C. La rue reste vide, à part un parapluie qui passe sous la fenêtre en fin d'après-midi. Le sac de voyage attend au pied du lit. Tu te couches à 23h15.
+
+Le lundi, tu ouvres les yeux à 7h40. Le soleil est revenu, et il fait 16 °C dehors. Le téléphone n'affiche aucun message.
 
 ---
 
-**À toi : samedi 14/07, 11h25.**
+**🔄 Revue du lundi n° 1** *(hors fiction)*
+
+**1. Bilan des 14 et 15/07**
+- Corrigé : la destination du voyage (Manille, à ta demande), quelques lignes périmées, l'âge minimum des rencontres (18 ans), tes cartes bancaires (Zebra Premium).
+- Ajouté : les plafonds des cartes et le relevé différé de la carte de crédit ; les virements programmés, qui n'étaient jamais exécutés à leur date ; la fenêtre de 72 heures de l'eTravel ; le tirage automatique du message spontané d'un proche.
+- Contrôles : aucune réaction de personnage tirée cette semaine, aucune non-conformité, aucun tic d'écriture relevé. Deux confirmations de réservation en PDF, vérifiées.
+
+**2. À valider** (réponds par les numéros)
+- **P02 — Aléas de l'univers 2.** On retire ceux d'Abidjan (A01, A03, A04, A05, A06) et on active, par semaine :
+  - A19 rhume ou gastro de William (5 %) ;
+  - A20 trajets frontaliers perturbés (20 %) ;
+  - A21 panne à la maison (4 %) ;
+  - A22 courrier administratif (10 %) ;
+  - A23 tentative d'arnaque (15 %) ;
+  - A24 souci de voisinage (5 %) ;
+  - A25 blessure légère à l'entraînement (1 %) ;
+  - A26 imprévu d'argent (6 %) ;
+  - A27 signe d'un ancien (8 %) ;
+  - A28 courriel du lycée (10 % en juillet, 30 % fin août) ;
+  - A29 contrôle routier (3 %) ;
+  - A30 occasion inattendue (8 %).
+
+  A02, A07, A09, A12, A13, A17 et A18 restent actifs.
+- **P01 — Tables T15 à T18** : réaction d'un pair, d'un supérieur, d'un inconnu ou d'une rencontre adulte (T17, utile à Manille hors des lieux de commerce), et tenue des promesses.
+- **P16 — T21** : réactions sur l'application de rencontre, au « j'aime » et au premier message.
+- **T12 à T14** : confirmer les pourcentages repris de l'univers 1 (négociations, contenu des événements, initiatives des personnages).
+- **Autres propositions** :
+  - P03 météo projetée à +1,5 °C ;
+  - P04 effets de la fatigue ;
+  - P05 relations chiffrées ;
+  - P06 menaces et occasions qui avancent seules ;
+  - P07 vie des personnages tirée selon la proximité ;
+  - P10 paie calculée (points, retenues, 13e mois) ;
+  - P17 ETF qui bougent chaque mois ;
+  - P18 dépenses courantes forfaitaires ;
+  - P19 arrivée à Manille (carte SIM, change, taxis par application, typhons) ;
+  - P20 vieillissement des personnages ;
+  - P21 application Transports.
+- **Message spontané d'un proche** : tiré chaque semaine dans ton entourage, pondéré par la proximité (club 3, collègues 2, voisins, direction et secrétariat du lycée 1).
+- **Facultatif** : le montant des virements automatiques (2 × 2 850 €), la surface de la maison (≈ 75 m² proposé), le modèle de la voiture, et si tes parents peuvent encore t'écrire (par défaut, non).
+
+**3. Idées de la semaine**
+- I1 : frais à l'étranger, c'est-à-dire la commission de change sur chaque paiement en pesos et les frais des distributeurs philippins.
+- I2 : caution d'hôtel à l'arrivée, une pré-autorisation qui bloque une partie du plafond de la carte.
+- I3 : décalage horaire de 6 heures, avec un sommeil perturbé les premiers jours.
+- I4 : santé en voyage (intoxication alimentaire, dengue), un aléa de voyage à chiffrer.
+
+**4. Le monde cette semaine** : vacances d'été au Luxembourg jusqu'au 16/09 ; chantiers routiers d'été sur les axes frontaliers ; Blues'n Jazz Rallye le samedi 21/07 à Luxembourg-Ville ; à Manille, saison des pluies, avec des typhons possibles jusqu'en novembre.
+
+**Ta décision** : par exemple « tout valider », ou « valider P01, P02, P16 et I1 ; refuser P04 ». Je tire les aléas de la semaine juste après, avec le pack que tu auras choisi.
+
+---
+
+**À toi : lundi 16/07, 07h40.**
 
 **Réponses attendues**
 - Personne n'attend de réponse de ta part.
 
 **À faire / à fournir avant le tour suivant**
-- **eTravel** : possible à partir du lundi 16/07 à 10h30, soit 72 heures avant l'arrivée à Manille.
+- **Revue n° 1** : tes décisions ci-dessus.
+- **eTravel** : possible à partir de 10h30 aujourd'hui (rappel programmé).
 - **Départ** : mercredi 18/07, vol LH 391 à 15h40 depuis Findel. Rien n'est prévu pour aller jusqu'à l'aéroport.
-- **Séjour de 36 jours** : au-delà de 30 jours sans visa, il faut une prolongation au Bureau de l'immigration, vers le 17/08. La date exacte figure sur le tampon d'entrée.
+- **Séjour de 36 jours** : au-delà de 30 jours sans visa, il faut une prolongation au Bureau de l'immigration, vers le 17/08.
 
 **Quêtes secondaires**
 - Visa Premier : 110 € disponibles jusqu'au 30/07, puis relevé de 4 890 € débité le mardi 07/08. Visa Debit : 2 500 € par mois.
-- Lundi 16/07 : prélèvement de la box internet et du forfait mobile (63 €).
+- Ce matin : prélèvement de la box internet et du forfait mobile (63 €).
 - Mardi 31/07 : traitement de juillet.
 - Mercredi 01/08 : cotisation du club (85 €) et package bancaire (12,83 €).
 - Jeudi 02/08 : virements automatiques, 2 850 € vers le compte épargne et 2 850 € vers les ETF.
 - Lundi 17/09 : rentrée au lycée.
-
-Avance rapide possible : « **Go** » fait passer le samedi et le dimanche à la maison jusqu'au lundi 16/07 au matin, où la revue du lundi n° 1 a lieu. Elle s'arrête au premier message ou événement qui demande une décision.
 
 Que veux-tu faire ?

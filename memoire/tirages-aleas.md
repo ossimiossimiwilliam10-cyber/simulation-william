@@ -25,3 +25,13 @@ Toute réaction d'un personnage à un acte de William se tire avec `python outil
 - Complément du vivier de l'application de rencontre (MNL, tranche 18-20 ans ouverte après coup) : 24 profils existants, part de la tranche 4.35%, attendu 1.09 → 1 + jet  11.7 contre 9.1 % → **1 profil(s)** (enregistré le 12/10/2026 11:03 heure machine)
 
 - Jet « Friction administrative (economie.md, 30 %) : paiement en ligne de 4 890 EUR chez Kestrel Voyages (forfait Luxembourg - Manille et City Garden Grand Hotel, 18/07 - 24/08) avec la Visa Premier, samedi 14/07/2040 vers 10h45, quelques minutes apres un paiement refuse chez le meme marchand ; OUI = reservation mise en attente par le controle anti-fraude de l'agence (reservation de derniere minute apres un refus) : piece d'identite et photo de la carte demandees, billets emis apres verification ; NON = reservation confirmee aussitot » : probabilité 30 %, jet  44.1 → **NON** (enregistré le 12/10/2026 17:58 heure machine)
+
+- Jet « Avance rapide (routine de William, vacances) : coucher après minuit dans la nuit du samedi 14 au dimanche 15/07/2040 (OUI : 00h20 ; NON : 23h35) » : probabilité 50 %, jet  19.6 → **OUI** (enregistré le 12/10/2026 18:24 heure machine)
+
+- Jet « Avance rapide (routine de William, vacances) : réveil spontané avant 8 h le dimanche 15/07/2040, sans réveil (OUI : 07h55 ; NON : 09h10) » : probabilité 40 %, jet  50.7 → **NON** (enregistré le 12/10/2026 18:24 heure machine)
+
+- Jet « Avance rapide (routine de William, vacances) : coucher après minuit dans la nuit du dimanche 15 au lundi 16/07/2040 (OUI : 00h05 ; NON : 23h15) » : probabilité 50 %, jet  85.0 → **NON** (enregistré le 12/10/2026 18:24 heure machine)
+
+- Jet « Avance rapide (routine de William, vacances) : réveil spontané avant 8 h le lundi 16/07/2040, sans réveil (OUI : 07h40 ; NON : 08h50) » : probabilité 40 %, jet  26.6 → **OUI** (enregistré le 12/10/2026 18:24 heure machine)
+
+- Message spontané d'un proche, semaine du 2040-07-16 : Clément Grandjean (membre régulier du club (sparring)) écrira le 17/07/2040 vers 09:25 (heure de l'expéditeur) · tiré parmi 38 personnes de l'entourage, pondérées par proximité (enregistré le 12/10/2026 18:24 heure machine)

@@ -11,7 +11,7 @@ date;heure;compte;montant;type;libelle;reference
 2040-09-05;06:00;courant;-940.00;prevu_annule;Mensualité du crédit immobilier (maison d'Audun-le-Tiche) [annulé le 11/10/2026 : montant recalculé (prêt PR1, électricité avec recharge), remplacé par le nouveau prévu];E002-20400905-v1
 2040-08-10;06:00;courant;-112.00;prevu_annule;Électricité (mensualisation, tarif réglementé) [annulé le 11/10/2026 : montant recalculé (prêt PR1, électricité avec recharge), remplacé par le nouveau prévu];E003-20400810-v1
 2040-09-10;06:00;courant;-112.00;prevu_annule;Électricité (mensualisation, tarif réglementé) [annulé le 11/10/2026 : montant recalculé (prêt PR1, électricité avec recharge), remplacé par le nouveau prévu];E003-20400910-v1
-2040-07-16;06:00;courant;-63.00;prevu;Box internet fibre et forfait mobile;E005-20400716
+2040-07-16;06:00;courant;-63.00;prevu_realise;Box internet fibre et forfait mobile;E005-20400716
 2040-08-16;06:00;courant;-63.00;prevu;Box internet fibre et forfait mobile;E005-20400816
 2040-08-01;06:00;courant;-85.00;prevu;Minett Combat Club (Esch-sur-Alzette) : accès complet;E008-20400801
 2040-09-03;06:00;courant;-85.00;prevu;Minett Combat Club (Esch-sur-Alzette) : accès complet;E008-20400903

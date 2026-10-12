@@ -123,12 +123,58 @@ def bilan(instant=None):
                         f"python outils/tirage_aleas.py {m:%Y-%m-%d}"))
         if not re.search(rf"(Message spontané|proche)[^\n]*semaine du {m:%Y-%m-%d}", tirages):
             res.append(("message_proche", statut, f"message spontané d'un proche (semaine du {m:%d/%m}) non tiré",
-                        f"python outils/jet.py \"Message spontané d'un proche, semaine du {m:%Y-%m-%d} : <qui>\" <proba>"))
+                        f"python outils/rituels.py message-proche --semaine {m:%Y-%m-%d}"))
         dim = m + dt.timedelta(days=6)
         if not re.search(rf"Semaine du 0?{m.day} au 0?{dim.day}/{dim:%m}", lire_texte(ETAT / "monde.md")):
             res.append(("monde_semaine", statut, f"nouvelles du monde de la semaine du {m:%d/%m} absentes de etat/monde.md",
                         f"## Semaine du {m.day} au {dim:%d/%m/%Y}"))
     return res
+
+
+# Message spontané d'un proche (CLAUDE.md §12 ; outil créé le 12/10/2026, univers 2) : l'expéditeur est tiré dans l'entourage
+# existant (pré-généré, figurant ou récurrent), jamais les parents (ponts coupés), jamais un mineur, jamais un profil ou une
+# rencontre de Manille ; pondération par proximité (estimation du moteur, à revoir en revue du lundi) : partenaires du club 3,
+# collègues 2, voisins, direction et secrétariat du lycée 1 ; services et commerces exclus (ils n'écrivent pas « spontanément »).
+# Le jour (lundi à dimanche) et l'heure (8 h à 22 h, heure de l'expéditeur) sont tirés ; le contenu se choisit le jour dit d'après
+# la fiche du personnage (test d'intérêt), qui entre alors en scène par `personnage.py apparait`.
+POIDS_PROCHES = {"club_combat": 3, "collegue_lycee": 2, "voisin_audun": 1, "direction_lycee": 1, "secretariat_lycee": 1}
+
+
+def message_proche(semaine, simule=False):
+    import random
+    import jet
+    import personnage as P
+    from commun import age
+    lundi = dt.date.fromisoformat(semaine)
+    if lundi.weekday() != 0:
+        sys.exit("--semaine : un lundi (AAAA-MM-JJ)")
+    candidats = []
+    for l in P.lire():
+        if l["statut"] not in ("pre_genere", "figurant", "recurrent") or l["contexte"] not in POIDS_PROCHES:
+            continue
+        if "parent" in (l["role"] or "").lower() or not l["naissance"] or age(dt.date.fromisoformat(l["naissance"]), lundi) < 18:
+            continue
+        candidats.append((l, POIDS_PROCHES[l["contexte"]]))
+    if not candidats:
+        print("Aucun proche tirable (entourage vide)")
+        return None
+    rng = random.SystemRandom()
+    x = rng.uniform(0, sum(w for _, w in candidats))
+    for l, w in candidats:
+        x -= w
+        if x <= 0:
+            break
+    jour = lundi + dt.timedelta(days=rng.randrange(7))
+    heure = f"{rng.randrange(8, 22):02d}:{rng.randrange(0, 60, 5):02d}"
+    ligne = (f"- Message spontané d'un proche, semaine du {lundi:%Y-%m-%d} : {l['nom']} ({l['role']}) écrira le "
+             f"{jour:%d/%m/%Y} vers {heure} (heure de l'expéditeur) · tiré parmi {len(candidats)} personnes de l'entourage, "
+             f"pondérées par proximité")
+    print(ligne)
+    if not simule:
+        jet.consigner(ligne)
+        jet.consigner_json({"mode": "message_proche", "libelle": f"Message spontané d'un proche, semaine du {lundi:%Y-%m-%d}",
+                            "pour": l["nom"], "issue": f"{jour.isoformat()} {heure}", "distribution": {"candidats": len(candidats)}})
+    return l, jour, heure
 
 
 def main():
@@ -138,7 +184,13 @@ def main():
     p = sp.add_parser("dus")
     p.add_argument("--strict", action="store_true")
     sp.add_parser("liste")
+    p = sp.add_parser("message-proche")
+    p.add_argument("--semaine", required=True, help="le lundi de la semaine tirée (AAAA-MM-JJ)")
+    p.add_argument("--simule", action="store_true")
     args = ap.parse_args()
+    if args.cmd == "message-proche":
+        message_proche(args.semaine, args.simule)
+        return 0
     if args.cmd == "liste":
         for nom, quand, comment in RITUELS:
             print(f"- {nom} ({quand}) : {comment}")

@@ -28,5 +28,8 @@
   chantiers routiers d'été sur les axes frontaliers. La Schueberfouer s'installera fin août sur le Glacis (24/08-12/09, projection).
 - **Lorraine (Audun-le-Tiche, Moselle)** : lendemains du 14 juillet ; saison d'été ordinaire.
 - **Prix** : niveaux projetés en 2040 (≈ +30 à 40 % par rapport à 2026) ; à vérifier par recherche web au moment de chaque achat.
+- **Manille** (William y arrive le jeudi 19/07) : saison des pluies de juin à octobre, typhons possibles jusqu'en novembre ; dengue
+  présente (formalités de l'application Voyages) ; six heures de plus qu'au Luxembourg. La météo du jour se tirera à l'arrivée
+  (`etat/meteo-manille.csv`).
 - *(Avant : cette section s'intitulait « départ de l'univers 2 » et annonçait des journées de 20 à 28 °C → maintenant : départ
   redaté au 14/07 ; la météo est tirée par `outils/meteo.py`.)*
