@@ -8,7 +8,9 @@ Python, encodage de la console, dépendances), et qu'une modification d'un outil
 l'outil comme le ferait le moteur et vérifie le code de sortie et un morceau de la sortie ou d'un fichier écrit.
 """
 import argparse
+import datetime as dt
 import os
+import re
 import shutil
 import subprocess
 import sys
@@ -150,16 +152,23 @@ def main():
 
     print("\n[Tour complet : début, fin avec texte, téléphone, contrôle]")
     e.lancer(o + "tour.py", "debut", "--simule", contient="Fiche moteur")
+    # l'essai part de l'horloge de la partie, quelle qu'elle soit (12/10/2026 : il supposait le tour 0 du 14/07 à 08h37)
+    texte_h = (copie / "etat" / "horloge.txt").read_text(encoding="utf-8")
+    t0 = dt.datetime.strptime(re.search(r"^horloge:\s*(.+)$", texte_h, re.M).group(1).strip(), "%Y-%m-%d %H:%M")
+    n0 = int(re.search(r"^tour:\s*(\d+)", texte_h, re.M).group(1)) if re.search(r"^tour:", texte_h, re.M) else 0
+    t1 = t0 + dt.timedelta(minutes=25)
+    jours = ["LUNDI", "MARDI", "MERCREDI", "JEUDI", "VENDREDI", "SAMEDI", "DIMANCHE"]
+    mois = ["JANVIER", "FÉVRIER", "MARS", "AVRIL", "MAI", "JUIN", "JUILLET", "AOÛT", "SEPTEMBRE", "OCTOBRE", "NOVEMBRE", "DÉCEMBRE"]
     brouillon = copie / "brouillon-essai.md"
-    brouillon.write_text("**SAMEDI 14 JUILLET 2040 — 09h05 — Audun-le-Tiche**\n\nTexte d'essai du tour.\n\nQue veux-tu faire ?\n",
-                         encoding="utf-8")
-    e.lancer(o + "tour.py", "fin", "--jusqua", "2040-07-14 09:05", "--attente", "Essai", "--texte", str(brouillon),
+    brouillon.write_text(f"**{jours[t1.weekday()]} {t1.day} {mois[t1.month - 1]} {t1.year} — {t1:%H}h{t1:%M} — Essai**\n\n"
+                         "Texte d'essai du tour.\n\nQue veux-tu faire ?\n", encoding="utf-8")
+    e.lancer(o + "tour.py", "fin", "--jusqua", f"{t1:%Y-%m-%d %H:%M}", "--attente", "Essai", "--texte", str(brouillon),
              "--message", "message d'essai du joueur", contient="Texte du tour enregistré")
     e.verifier("Texte d'essai du tour" in (copie / "etat" / "dernier-tour.md").read_text(encoding="utf-8"),
                "etat/dernier-tour.md contient le texte exact du tour")
-    e.verifier((copie / "journal" / "tours" / "2040-07-14.md").exists(), "journal/tours/2040-07-14.md écrit")
-    e.lancer(o + "horloge.py", contient="tour n° 1")
-    e.lancer(o + "tour.py", "apercu", "--jusqua", "2040-07-17 08:00", contient="Aperçu de l'avance rapide")
+    e.verifier((copie / "journal" / "tours" / f"{t1:%Y-%m-%d}.md").exists(), f"journal/tours/{t1:%Y-%m-%d}.md écrit")
+    e.lancer(o + "horloge.py", contient=f"tour n° {n0 + 1}", nom="horloge : le compteur de tours avance d'un cran")
+    e.lancer(o + "tour.py", "apercu", "--jusqua", f"{t1 + dt.timedelta(days=3):%Y-%m-%d} 08:00", contient="Aperçu de l'avance rapide")
     e.lancer(o + "telephone.py", contient="Page écrite")
     e.lancer(o + "controle_coherence.py", contient="RÉSULTAT")
 
