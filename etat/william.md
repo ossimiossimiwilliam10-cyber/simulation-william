@@ -1,4 +1,4 @@
-# William Ossimi — profil (univers 2 ; état au samedi 14/07/2040, 08h37)
+# William Ossimi — profil (univers 2 ; état au samedi 14/07/2040, 10h20)
 
 > **Univers 2 (redémarrage complet demandé par l'utilisateur le 11/10/2026, date réelle).** Seuls William, son métier et son
 > argent sont repris de l'univers 1 (`archives/univers-1/etat/william.md`). OSIA, l'équipe d'Abidjan, Sandra, Kevin, Aïcha, le

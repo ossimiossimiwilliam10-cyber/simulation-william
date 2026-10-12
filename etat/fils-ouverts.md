@@ -1,4 +1,4 @@
-# Fils ouverts et décisions en attente (univers 2 ; au samedi 14/07/2040, 08h37)
+# Fils ouverts et décisions en attente (univers 2 ; au samedi 14/07/2040, 10h20)
 
 > **Fichier de relais.** Tout ce qui est « en suspens » dans le monde doit être ici, pour qu'aucun moteur (Claude, Gemini ou un
 > autre agent) ne l'oublie. Mettre à jour à chaque tour : ajouter, avancer, clore (garder la ligne en « CLOS » avec la date). Les

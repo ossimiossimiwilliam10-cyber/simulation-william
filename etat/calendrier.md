@@ -1,4 +1,4 @@
-# Calendrier (univers 2 ; au samedi 14/07/2040, 08h37)
+# Calendrier (univers 2 ; au samedi 14/07/2040, 10h20)
 
 > Les rendez-vous, échéances et promesses vivent dans `etat/agenda.csv` (`python outils/agenda.py liste`) ; les mouvements
 > d'argent récurrents dans `etat/echeancier.csv` ; les fériés, le soleil, le calendrier scolaire et les événements publics dans
@@ -14,7 +14,7 @@
 | Sam. 21/07/2040 | Blues'n Jazz Rallye à Luxembourg-Ville (Grund, Clausen, Pfaffenthal), projection. |
 | Mar. 31/07/2040 | Traitement de juillet (≈ 9 300 € net, E001 ; jour exact non vérifié). |
 | Mer. 01/08/2040 | Cotisation du Minett Combat Club (85 €, E008). |
-| Jeu. 02/08/2040 | Virements permanents : 2 850 € vers l'épargne « Projet » (E012) et 2 850 € vers les ETF (E014). |
+| Jeu. 02/08/2040 | Virements permanents : 2 850 € vers le compte épargne (E012) et 2 850 € vers les ETF (E014). *(Avant : « vers l'épargne « Projet » » → maintenant : « vers le compte épargne », compte renommé par William le 14/07/2040 à 10h12 ; corrigé le 12/10/2026, U2-19.)* |
 | Lun. 06/08/2040 | Mensualité du prêt PR1 (949,28 €, échéance n° 72, E002 ; dû le 5, un dimanche) ; assurance habitation (45 €, E007) ; assurance de la voiture (107 €, E010). |
 | Ven. 10/08/2040 | Électricité (132 €, E003) et gaz (253 €, E004). |
 | Lun. 13/08 → dim. 26/08/2040 | Fermeture d'été du Minett Combat Club (agenda A004) ; reprise le lundi 27/08. |

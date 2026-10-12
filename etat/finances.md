@@ -1,4 +1,4 @@
-# Finances de William (univers 2 ; estimations au samedi 14/07/2040, 08h37)
+# Finances de William (univers 2 ; estimations au samedi 14/07/2040, 10h20)
 
 > Parité fixe : 1 € = 655,957 FCFA (utile si l'histoire repart vers la zone franc).
 > **Source des soldes : le grand livre** (`python outils/grand_livre.py solde`), jamais un solde écrit à la main ; ce fichier les
