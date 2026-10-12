@@ -8,7 +8,13 @@ Demande de l'utilisateur (12/10/2026) : « crée l'application et rajoute-la dan
     python outils/voyages.py hotels --vers NSI --arrivee 2040-08-28 --depart 2040-09-18
     python outils/voyages.py forfait --de LUX --vers NSI --aller 2040-08-28 --retour 2040-09-18 [--voyageurs 1]
     python outils/voyages.py formalites --vers NSI
+    python outils/voyages.py reserver --vol V3 --aller 2040-07-20 --retour 2040-08-31 --quand "2040-07-14 10:04" [--voyageurs 1] [--simule]
     python outils/voyages.py verifier
+
+RÉSERVER (le joueur colle le texte « Je réserve … » copié depuis l'application) : `reserver` refait le calcul (le prix doit être
+celui que la page a montré), puis écrit en une fois : le paiement au grand livre (compte courant), les deux vols dans l'agenda
+(connus de William), la confirmation et le reçu du billet électronique en PDF dans `courriels/` (agence en ligne de
+`parametres.csv`), et une ligne dans `etat/reservations.csv` (référence de réservation et numéro de billet tirés par empreinte).
 
 Données : `donnees/voyages/` (aéroports, destinations et formalités, vols, saisons, retours, hôtels, paramètres) ; les prix des
 hôtels et des visas viennent de `donnees/prix.csv` (prix 2026 sourcés × coefficient 2040). Modèle d'un aller-retour, par personne :
@@ -24,7 +30,7 @@ import hashlib
 import math
 import sys
 
-from commun import DONNEES, OUTILS, lire_csv, maintenant_simule, utf8
+from commun import DONNEES, ETAT, OUTILS, RACINE, ecrire_csv, lire_csv, maintenant_simule, utf8
 
 sys.path.insert(0, str(OUTILS))
 DOSSIER = DONNEES / "voyages"
@@ -53,6 +59,7 @@ def parametres():
         "duree_defaut": int(p["duree_defaut"]), "sejour_max": int(p["sejour_max"]), "horizon": int(p["horizon_jours"]),
         "seuil_vert": float(p["seuil_vert"]), "seuil_orange": float(p["seuil_orange"]), "remise": float(p["remise_forfait"]),
         "var_vol": float(p["variation_vol"]), "var_hotel": float(p["variation_hotel"]), "sel": p["sel"],
+        "agence": p.get("agence", "agence de voyages en ligne"),
     }
 
 
@@ -197,6 +204,110 @@ def formalites(vers):
     return []
 
 
+# ---------------------------------------------------------------- réservation
+RESERVATIONS = ETAT / "reservations.csv"
+COL_RES = ["id", "type", "reserve_le", "statut", "vol", "de", "vers", "aller", "retour", "voyageurs", "total", "pnr", "billet", "agence",
+           "fichier", "note"]
+ALPHABET_PNR = "ABCDEFGHJKLMNPQRSTUVWXYZ23456789"
+
+
+def segments(vol_id, sens):
+    return sorted((s for s in table("segments.csv") if s["vol"] == vol_id and s["sens"] == sens), key=lambda s: int(s["ordre"]))
+
+
+def aeroport(code):
+    return next((a for a in table("aeroports.csv") if a["code"] == code), {"code": code, "nom": code, "ville": code, "fuseau": ""})
+
+
+def empreinte(*morceaux):
+    return int(hashlib.sha1("|".join(str(m) for m in morceaux).encode("utf-8")).hexdigest(), 16)
+
+
+def pdf_confirmation(res, v, P, quand):
+    from pdf_base import DocPDF, chemin
+    jours_c = ["lun.", "mar.", "mer.", "jeu.", "ven.", "sam.", "dim."]
+    pdf = DocPDF("Confirmation de réservation et reçu de billet électronique", f"{P['agence']} · agence de voyages en ligne",
+                 auteur=P["agence"], pied=f"{P['agence']} — réservation {res['pnr']}")
+    pdf.meta("Réservation", f"{res['pnr']} (confirmée)")
+    pdf.meta("Billet électronique", res["billet"])
+    pdf.meta("Passager", "OSSIMI William (adulte)" + (f" et {int(res['voyageurs']) - 1} autre(s) voyageur(s)" if int(res["voyageurs"]) > 1 else ""))
+    pdf.meta("Émis le", f"{quand:%d/%m/%Y} à {quand:%H:%M}")
+    lignes = []
+    for sens, d0 in (("aller", dt.date.fromisoformat(res["aller"])), ("retour", dt.date.fromisoformat(res["retour"]))):
+        for s in segments(v["id"], sens):
+            dd = d0 + dt.timedelta(days=int(s["jour_depart"]))
+            da = d0 + dt.timedelta(days=int(s["jour_arrivee"]))
+            arr = s["arrivee"] + ("" if da == dd else f" ({jours_c[da.weekday()]} {da:%d/%m})")
+            lignes.append([f"{jours_c[dd.weekday()]} {dd:%d/%m/%Y}", f"{s['numero']} · {s['compagnie']}",
+                           f"{aeroport(s['de'])['ville']} ({s['de']})", f"{aeroport(s['vers'])['ville']} ({s['vers']})", s["depart"], arr])
+    pdf.titre1("Vols")
+    pdf.tableau(["Date", "Vol", "De", "À", "Départ", "Arrivée"], lignes, (26, 46, 30, 30, 16, 26))
+    pdf.para("Classe économique. Horaires en heure locale de chaque aéroport.", taille=9, italique=True)
+    pdf.titre1("Bagages")
+    pdf.para(f"Franchise : {v['bagages']}.")
+    pdf.titre1("Paiement")
+    total = float(res["total"])
+    pdf.para(f"Montant total : {total:,.2f} €".replace(",", " ").replace(".", ",") + " (taxes et surcharges comprises), payé par carte "
+             f"bancaire le {quand:%d/%m/%Y}.")
+    pdf.titre1("Informations importantes")
+    pdf.puces([
+        "Il appartient au passager de détenir les documents exigés par les pays de destination et de transit : passeport valide, "
+        "visa, certificat de vaccination.",
+        "L'enregistrement en ligne s'ouvre avant le départ sur le site de la compagnie qui opère le premier vol.",
+        "Toute modification ou annulation se demande depuis l'espace « Mes réservations » ; des frais peuvent s'appliquer selon les "
+        "conditions du tarif.",
+    ])
+    ville = aeroport(res["vers"])["ville"]
+    nom = f"{quand:%Y-%m-%d}_Confirmation_de_réservation_vol_{aeroport(res['de'])['ville']}-{ville}.pdf".replace(" ", "_")
+    cible = chemin("courriels", nom)
+    pdf.sauver(cible)
+    return cible.relative_to(RACINE).as_posix()
+
+
+def reserver_vol(vol_id, aller, retour, voyageurs, quand, simule=False):
+    """Réserve et paie un vol : grand livre, agenda, PDF de confirmation, registre des réservations. Renvoie la ligne du registre."""
+    import agenda
+    import grand_livre as gl
+    P = parametres()
+    v = next((x for x in table("vols.csv") if x["id"] == vol_id), None)
+    if v is None:
+        sys.exit(f"Vol inconnu : {vol_id} (donnees/voyages/vols.csv)")
+    prix = prix_vol(v, aller, retour, P)
+    if prix is None:
+        sys.exit(f"{vol_id} n'opère pas ces jours-là ({aller} / {retour}) ou la durée du séjour est hors limites")
+    total = prix * voyageurs
+    registre = lire_csv(RESERVATIONS) if RESERVATIONS.exists() else []
+    rid = f"R{len(registre) + 1:03d}"
+    h = empreinte(P["sel"], "reservation", vol_id, aller, retour, voyageurs, quand.isoformat())
+    pnr = "".join(ALPHABET_PNR[(h >> (5 * i)) % len(ALPHABET_PNR)] for i in range(6))
+    billet = f"071-{h % 10**10:010d}"
+    res = {"id": rid, "type": "vol", "reserve_le": f"{quand:%Y-%m-%d %H:%M}", "statut": "confirme", "vol": vol_id, "de": v["de"],
+           "vers": v["vers"], "aller": aller.isoformat(), "retour": retour.isoformat(), "voyageurs": str(voyageurs), "total": f"{total:.2f}",
+           "pnr": pnr, "billet": billet, "agence": P["agence"], "fichier": "", "note": f"{v['compagnies']} ({v['via']})"}
+    if simule:
+        return res
+    res["fichier"] = pdf_confirmation(res, v, P, quand)
+    livre = gl.lire()
+    livre.append({"date": f"{quand:%Y-%m-%d}", "heure": f"{quand:%H:%M}", "compte": "courant", "montant": f"{-total:.2f}", "type": "mouvement",
+                  "libelle": f"Billet d'avion {aeroport(v['de'])['ville']} – {aeroport(v['vers'])['ville']} ({v['compagnies']}), "
+                             f"aller le {aller:%d/%m}, retour le {retour:%d/%m} · {P['agence']}, réservation {pnr}", "reference": rid})
+    gl.ecrire(livre)
+    lignes = agenda.lire()
+    for sens, d0 in (("aller", aller), ("retour", retour)):
+        segs = segments(vol_id, sens)
+        prem, dern = segs[0], segs[-1]
+        arrivee = d0 + dt.timedelta(days=int(dern["jour_arrivee"]))
+        a_dep, a_arr = aeroport(prem["de"]), aeroport(dern["vers"])
+        lignes.append({"id": agenda.prochain_id(lignes), "date": d0.isoformat(), "heure": prem["depart"], "lieu": a_dep["fuseau"] or "luxembourg",
+                       "qui": v["compagnies"], "quoi": f"Vol {sens} {a_dep['ville']} → {a_arr['ville']} ({prem['numero']}…{dern['numero']}) · "
+                       f"départ {prem['depart']} de {a_dep['nom']}, arrivée le {arrivee:%d/%m} à {dern['arrivee']} (heure locale) · réservation {pnr}",
+                       "statut": "prevu", "connu": "oui", "note": f"réservation {rid} (etat/reservations.csv)"})
+    agenda.ecrire(lignes)
+    registre.append(res)
+    ecrire_csv(RESERVATIONS, registre, COL_RES)
+    return res
+
+
 # ---------------------------------------------------------------- données du téléphone
 def donnees_telephone(t=None):
     """Tout ce que l'application « Voyages » affiche : bases de prix précalculées (même calcul qu'ici), horaires, hôtels, formalités.
@@ -289,6 +400,13 @@ def main():
     p.add_argument("--depart", required=True)
     p = sp.add_parser("formalites")
     p.add_argument("--vers", default="NSI")
+    p = sp.add_parser("reserver")
+    p.add_argument("--vol", required=True, help="identifiant de donnees/voyages/vols.csv (V1, V3…)")
+    p.add_argument("--aller", required=True)
+    p.add_argument("--retour", required=True)
+    p.add_argument("--voyageurs", type=int, default=1)
+    p.add_argument("--quand", required=True, help="AAAA-MM-JJ HH:MM : heure du paiement (heure de la simulation)")
+    p.add_argument("--simule", action="store_true")
     sp.add_parser("verifier")
     args = ap.parse_args()
     if args.cmd == "vols":
@@ -321,6 +439,14 @@ def main():
         for f in forfaits(args.de, args.vers, a, r, args.voyageurs):
             print(f"  {f['hotel']['nom']} + {f['vol']['compagnies']} : {euros(f['forfait'])} (séparément : {euros(f['separe'])}, "
                   f"{f['nuits']} nuit(s))")
+        return 0
+    if args.cmd == "reserver":
+        res = reserver_vol(args.vol, dt.date.fromisoformat(args.aller), dt.date.fromisoformat(args.retour), args.voyageurs,
+                           dt.datetime.fromisoformat(args.quand), simule=args.simule)
+        print(f"{'(essai) ' if args.simule else ''}Réservation {res['id']} : {res['note']}, {res['de']} → {res['vers']}, aller {res['aller']}, "
+              f"retour {res['retour']}, {res['voyageurs']} voyageur(s), {euros(float(res['total']))} ; référence {res['pnr']}, billet {res['billet']}")
+        if not args.simule:
+            print(f"  écrit : grand livre (−{euros(float(res['total']))}, compte courant), agenda (deux vols), {res['fichier']}, etat/reservations.csv")
         return 0
     if args.cmd == "formalites":
         for x in formalites(args.vers):

@@ -9,3 +9,4 @@
 | Date | Trace | Support | Qui peut la détenir / la voir | Exposition |
 |---|---|---|---|---|
 | — | Aucune trace au départ de l'univers 2 | — | — | — |
+| 14/07/2040 10h04 | Achat en ligne d'un billet d'avion Luxembourg – Yaoundé (2 179 €, aller 20/07, retour 31/08), réservation CYNERS | relevé du compte courant, courriel de confirmation, dossier de l'agence et des compagnies | la banque, Kestrel Voyages, Lufthansa et Ethiopian (liste des passagers) ; quiconque voit son téléphone ou ses relevés | faible |

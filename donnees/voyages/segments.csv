@@ -1,0 +1,19 @@
+vol;sens;ordre;compagnie;numero;de;vers;depart;arrivee;jour_depart;jour_arrivee
+V1;aller;1;Luxair (pour Air France);LG 8011;LUX;CDG;06:55;08:00;0;0
+V1;aller;2;Air France;AF 908;CDG;NSI;11:00;17:45;0;0
+V1;retour;1;Air France;AF 907;NSI;CDG;23:20;08:10;0;1
+V1;retour;2;Luxair (pour Air France);LG 8014;CDG;LUX;10:25;11:30;1;1
+V2;aller;1;Brussels Airlines;SN 383;BRU;NSI;10:50;17:35;0;0
+V2;retour;1;Brussels Airlines;SN 384;NSI;BRU;22:25;06:05;0;1
+V3;aller;1;Lufthansa;LH 395;LUX;FRA;18:30;19:20;0;0
+V3;aller;2;Ethiopian Airlines;ET 707;FRA;ADD;21:40;05:20;0;1
+V3;aller;3;Ethiopian Airlines;ET 945;ADD;NSI;09:00;11:30;1;1
+V3;retour;1;Ethiopian Airlines;ET 946;NSI;ADD;13:00;19:50;0;0
+V3;retour;2;Ethiopian Airlines;ET 706;ADD;FRA;23:30;05:30;0;1
+V3;retour;3;Lufthansa;LH 394;FRA;LUX;08:40;09:35;1;1
+V4;aller;1;Royal Air Maroc;AT 837;BRU;CMN;14:00;15:55;0;0
+V4;aller;2;Royal Air Maroc;AT 271;CMN;NSI;23:55;05:30;0;1
+V4;retour;1;Royal Air Maroc;AT 272;NSI;CMN;06:45;12:15;0;0
+V4;retour;2;Royal Air Maroc;AT 838;CMN;BRU;16:40;21:10;0;0
+V5;aller;1;Air France;AF 908;CDG;NSI;11:00;17:45;0;0
+V5;retour;1;Air France;AF 907;NSI;CDG;23:20;08:10;0;1

@@ -9,3 +9,4 @@ remise_forfait;0.05;remise d'un forfait vol + hôtel des agences en ligne (estim
 variation_vol;0.04;écart par cran de tarif (7 crans : 0 à 24 %), tiré par empreinte (jour, vol)
 variation_hotel;0.03;écart par cran de tarif hôtelier (5 crans : 0 à 12 %)
 sel;vols-2040;sel de l'empreinte (tirage déterministe, jamais modifié une fois le jeu commencé)
+agence;Kestrel Voyages;"agence de voyages en ligne (nom inventé) vers laquelle renvoie le comparateur ; émet billets et confirmations"

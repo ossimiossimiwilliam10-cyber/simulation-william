@@ -37,3 +37,4 @@ date;heure;compte;montant;type;libelle;reference
 2040-08-02;08:00;etf;2850.00;prevu;Virement permanent vers le compte-titres ETF (45 % du surplus) (compte crédité);E014-20400802-C
 2040-09-03;08:00;courant;-2850.00;prevu;Virement permanent vers le compte-titres ETF (45 % du surplus);E014-20400903
 2040-09-03;08:00;etf;2850.00;prevu;Virement permanent vers le compte-titres ETF (45 % du surplus) (compte crédité);E014-20400903-C
+2040-07-14;10:04;courant;-2179.00;mouvement;Billet d'avion Luxembourg – Yaoundé (Lufthansa + Ethiopian), aller le 20/07, retour le 31/08 · Kestrel Voyages, réservation CYNERS;R001
