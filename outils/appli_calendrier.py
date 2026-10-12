@@ -77,6 +77,9 @@ def donnees_telephone(t=None):
             titre = re.sub(r"\s*\((?:net|mensualisation)[^)]*\)", "", l["libelle"]).split(" (")[0].strip()
             ev.append({"date": d.isoformat(), "type": "argent", "titre": titre, "montant": montant,
                        "detail": "Compte courant"})
+    import cartes  # relevés des cartes de crédit (débit en une fois au début du mois suivant : F063)
+    for r in cartes.releves_a_venir(max(jour, debut), (fin - max(jour, debut)).days):
+        ev.append({"date": r["date"], "type": "argent", "titre": r["titre"], "montant": r["montant"], "detail": "Compte courant"})
     ev.sort(key=lambda e: (e["date"], e.get("heure") or "", e["type"]))
     return {"aujourd_hui": jour.isoformat(), "debut": debut.isoformat(), "fin": fin.isoformat(), "evenements": ev}
 

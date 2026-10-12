@@ -9,7 +9,8 @@ sans la réinterpréter (CLAUDE.md §14).
 Étiquettes reconnues :
   [voyages: reserver vol=V3 aller=… retour=… voyageurs=1]          → voyages.py reserver
   [voyages: reserver-hotel hotel=M4 arrivee=… depart=…]            → voyages.py reserver-hotel
-  [voyages: reserver-forfait vol=W2 hotel=M4 aller=… retour=… voyageurs=1] → voyages.py reserver-forfait
+  [voyages: reserver-forfait vol=W2 hotel=M4 aller=… retour=… voyageurs=1 carte=visa_premier] → voyages.py reserver-forfait
+      (carte= depuis le 12/10/2026 : plafond contrôlé par cartes.py ; sans carte, débit direct du compte courant, ancien comportement)
   [banque: virement de=courant vers=projet montant=500 date=… beneficiaire="…"] → banque.py virement
   [banque: ordre-modifier id=E012 montant=3000 jour=2]             → banque.py ordre-modifier
   [banque: ordre-creer de=… vers=… montant=… jour=… debut=…]      → banque.py ordre-creer
@@ -32,9 +33,9 @@ ETIQUETTE = re.compile(r"\[(voyages|banque|rencontres):\s*([a-z-]+)((?:\s+[a-z_]
 CLE_VALEUR = re.compile(r"([a-z_]+)=(\"[^\"]*\"|\S+)")
 # (appli, commande) → (script, sous-commande, argument positionnel éventuel, options acceptées)
 TABLE = {
-    ("voyages", "reserver"): ("voyages.py", "reserver", None, {"vol", "aller", "retour", "voyageurs"}),
-    ("voyages", "reserver-hotel"): ("voyages.py", "reserver-hotel", None, {"hotel", "arrivee", "depart"}),
-    ("voyages", "reserver-forfait"): ("voyages.py", "reserver-forfait", None, {"vol", "hotel", "aller", "retour", "voyageurs"}),
+    ("voyages", "reserver"): ("voyages.py", "reserver", None, {"vol", "aller", "retour", "voyageurs", "carte"}),
+    ("voyages", "reserver-hotel"): ("voyages.py", "reserver-hotel", None, {"hotel", "arrivee", "depart", "carte"}),
+    ("voyages", "reserver-forfait"): ("voyages.py", "reserver-forfait", None, {"vol", "hotel", "aller", "retour", "voyageurs", "carte"}),
     ("banque", "virement"): ("banque.py", "virement", None, {"de", "vers", "montant", "date", "beneficiaire", "libelle"}),
     ("banque", "ordre-modifier"): ("banque.py", "ordre-modifier", "id", {"montant", "jour"}),
     ("banque", "ordre-creer"): ("banque.py", "ordre-creer", None, {"de", "vers", "montant", "jour", "debut", "libelle"}),

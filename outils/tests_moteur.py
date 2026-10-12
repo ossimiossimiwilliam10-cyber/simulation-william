@@ -199,6 +199,12 @@ def main():
     e.lancer(o + "rencontres.py", "liste", contient="«", nom="rencontres : profils de Manille")
     e.lancer(o + "rencontres.py", "completer", "--ville", "MNL", "--de", "17", "--a", "20", "--simule", attendu=1, contient="REFUSÉ",
              nom="rencontres : garde absolue, aucun profil de moins de 18 ans (12/10/2026)")
+    e.lancer(o + "cartes.py", "liste", contient="Visa Premier", nom="cartes : plafonds et disponible")
+    e.lancer(o + "cartes.py", "payer", "--carte", "visa_debit", "--montant", "3000", "--marchand", "Essai", "--quand", "2040-07-14 11:00",
+             "--simule", attendu=2, contient="REFUSÉ", nom="cartes : paiement au-delà du plafond refusé")
+    e.lancer(o + "cartes.py", "payer", "--carte", "visa_debit", "--montant", "20", "--marchand", "Essai", "--quand", "2040-07-14 11:01",
+             contient="AUTORISÉ", nom="cartes : paiement dans le plafond autorisé (débit immédiat)")
+    e.lancer(o + "cartes.py", "verifier", contient="conforme")
     e.lancer(o + "etiquettes.py", "--simule", "--texte", "Test [banque: ordre-suspendre id=E014] [rencontres: aimer id=x] [voyages: reserver vol=W1 aller=2040-09-04 retour=2040-09-25 voyageurs=1]",
              contient="ordre-suspendre", nom="étiquettes : lecture des actions copiées depuis le téléphone")
     e.lancer(o + "appli_calendrier.py", contient="argent")

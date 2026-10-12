@@ -1,4 +1,4 @@
-# Finances de William (univers 2 ; estimations au samedi 14/07/2040, 10h35)
+# Finances de William (univers 2 ; estimations au samedi 14/07/2040, 10h46)
 
 > Parité fixe : 1 € = 655,957 FCFA (utile si l'histoire repart vers la zone franc).
 > **Source des soldes : le grand livre** (`python outils/grand_livre.py solde`), jamais un solde écrit à la main ; ce fichier les
@@ -39,7 +39,13 @@ et 744 796,87 €, capital restant dû calculé par le tableau d'amortissement d
   définitive demandable dans S-Net (« Limit change »), délai et accord de la banque non précisés (F061) ; assurances voyage incluses.
 - **S-Net** : virements limités à 15 000 € par semaine par défaut, modifiable par William jusqu'à 50 000 € (F060).
 - **14/07/2040, 10h33** : paiement de 10 741 € à Kestrel Voyages (forfait Manille) refusé sur la Visa Premier (limite dépassée) ;
-  rien de débité (réservation R002, statut « paiement_refuse »).
+  rien de débité (réservation R002, statut « paiement_refuse » ; opération K001).
+- **14/07/2040, 10h44** : paiement de 4 890 € à Kestrel Voyages (forfait Lufthansa + Qatar et City Garden Grand Hotel, 18/07 – 24/08)
+  autorisé sur la Visa Premier (K002, réservations R003 et R004) ; le compte courant n'est débité qu'au relevé : **− 4 890 € le mardi
+  07/08/2040** (relevé clos le lundi 30/07 ; prévu « C-visa_premier-20400730 » au grand livre). Disponible sur la Visa Premier :
+  **110 €** jusqu'au 30/07 ; Visa Debit : 2 500 € en juillet, rien d'utilisé.
+- Suivi automatique depuis le 12/10/2026 : `python outils/cartes.py liste` (plafonds, utilisé, disponible, débit du relevé) ; les
+  réservations de voyages passent par `voyages.py … --carte` (plafond contrôlé) ; F063 (clôture et débit des relevés).
 
 ## Revenus et charges (échéancier, au 14/07/2040)
 - **Traitement** : ≈ 9 300 € net par mois (395 points + 3 leçons supplémentaires), le dernier jour ouvré du mois (jour exact non
@@ -83,7 +89,8 @@ et 744 796,87 €, capital restant dû calculé par le tableau d'amortissement d
 - Revenus de l'ETF : prélèvement forfaitaire unique de 31,4 % en 2026 (F016) ; régime 2040 inconnu.
 
 ## Engagements en cours
-- Aucun.
+- Relevé de la Visa Premier : − 4 890 € sur le compte courant le mardi 07/08/2040 (forfait pour Manille, R003). *(Avant : « Aucun »
+  → maintenant, 14/07/2040 10h44.)*
 
 ## Historique
 - **12/10/2026 (date réelle)** : réponses de biographie appliquées : prêt PR1 calculé (calages pret 110 003,13 € et part de

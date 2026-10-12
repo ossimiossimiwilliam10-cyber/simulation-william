@@ -1,4 +1,4 @@
-# William Ossimi — profil (univers 2 ; état au samedi 14/07/2040, 10h35)
+# William Ossimi — profil (univers 2 ; état au samedi 14/07/2040, 10h46)
 
 > **Univers 2 (redémarrage complet demandé par l'utilisateur le 11/10/2026, date réelle).** Seuls William, son métier et son
 > argent sont repris de l'univers 1 (`archives/univers-1/etat/william.md`). OSIA, l'équipe d'Abidjan, Sandra, Kevin, Aïcha, le
@@ -113,6 +113,10 @@ chaque mois, 2 850 € vers le compte épargne (renommé le 14/07/2040 : avant �
 - **14/07/2040, 10h25-10h35** : vire 30 000 € du compte épargne vers le compte courant ; tente de payer en ligne un forfait vol +
   hôtel pour Manille (Lufthansa + Qatar Airways, 48 nuits au Makati Shangri-La, du 18/07 au 05/09 : 10 741 €) avec sa Visa Premier :
   paiement refusé, limite mensuelle de la carte (5 000 €) dépassée ; rien de réservé.
+- **14/07/2040, 10h44** : réserve et paie avec sa Visa Premier un autre forfait chez Kestrel Voyages : Lufthansa + Qatar Airways
+  (Findel mer. 18/07 15h40 → Manille jeu. 19/07 16h30 ; retour ven. 24/08 18h30 → Luxembourg sam. 25/08 10h05) et 36 nuits au City
+  Garden Grand Hotel (Makati), du 19/07 au 24/08 : 4 890 € (R003 et R004 ; vol PVS2HS, hôtel R6T4JZA2) ; débité du compte courant
+  au relevé de la carte, le 07/08 ; il reste 110 € sur la Visa Premier jusqu'au 30/07.
 - **12/10/2026 (date réelle, hors fiction)** : cartes bancaires fixées par l'utilisateur (Zebra Premium) ; âge minimum des
   rencontres à Manille ramené de 21 à 18 ans, la majorité aux Philippines (demande de l'utilisateur).
 - *(Avant : « 17/07/2040, 07h05 : début de l'univers 2 ; les vacances d'été ont commencé le samedi 14/07 » → maintenant : départ

@@ -5,7 +5,7 @@ appli({
   id: "banque", nom: "Banque", couleur: "var(--app-banque)",
   icone: '<svg viewBox="0 0 24 24"><path d="M3 10h18M5 10v8M10 10v8M14 10v8M19 10v8M3 20h18M12 3l9 5H3z"/></svg>',
   ouvrir(main, ui) {
-    const B = (D.applis && D.applis.banque) || { ordres: [], prelevements: [], comptes: {} };
+    const B = (D.applis && D.applis.banque) || { ordres: [], prelevements: [], comptes: {}, cartes: [], operations: [] };
     const cal = D.applis && D.applis.calendrier;
     let onglet = memoire.lire("banque-onglet", "comptes");
     let file = memoire.lire("banque-file", []);
@@ -99,17 +99,43 @@ appli({
       });
       main.append(f2, b2);
     }
+    /* Cartes (outils/cartes.py, 12/10/2026) : limite de la période, utilisé, disponible ; une carte de crédit est débitée au relevé. */
+    function cartes() {
+      const C = B.cartes || [];
+      if (!C.length) return main.append(el("p", "note", "Aucune carte."));
+      C.forEach(c => {
+        const k = el("div", "carte");
+        const h = el("div", "haut-ligne"); h.append(el("strong", "", c.nom), el("span", "note", c.type === "credit" ? "carte de crédit" : "carte de débit"));
+        const s = el("div", "soldes");
+        [["Disponible", c.disponible], ["Utilisé", c.utilise], ["Limite" + (c.temporaire ? " (temporaire)" : ""), c.limite]].forEach(([n, v]) => {
+          const b = el("div", "solde"); b.append(el("span", "nom", n), el("span", "chiffre", euros(v))); s.append(b); });
+        const barre = el("div", "jauge"); const rempli = el("span"); rempli.style.width = Math.min(100, Math.round(100 * c.utilise / Math.max(c.limite, 1))) + "%";
+        barre.append(rempli);
+        k.append(h, s, barre, el("span", "note", "Période du " + dateFr(c.debut) + " au " + dateFr(c.fin)
+          + (c.type === "credit" ? " · relevé débité du compte courant le " + dateFr(c.debit) : " · débit immédiat du compte courant")));
+        main.append(k);
+      });
+      main.append(el("h2", "sec", "Paiements par carte"));
+      const ops = B.operations || [];
+      if (!ops.length) return main.append(el("p", "note", "Aucun paiement par carte pour l'instant."));
+      const noms = Object.fromEntries(C.map(c => [c.id, c.nom]));
+      const l = el("div", "liste");
+      ops.forEach(o => { const g = el("div", "ligne");
+        g.append(el("span", "titre", o.marchand), el("span", "montant " + (o.statut === "refuse" ? "" : "debit"), (o.statut === "refuse" ? "" : "-") + euros(o.montant)),
+          el("span", "sous", dateFr(o.date) + " " + o.heure + " · " + (noms[o.carte] || o.carte) + " · " + (o.statut === "refuse" ? "refusé" : o.debit ? "débité au relevé le " + dateFr(o.debit) : "débité"))); l.append(g); });
+      main.append(l, el("p", "note", "Une hausse de limite se demande dans les réglages de la banque en ligne, ou au conseiller."));
+    }
     function dessiner() {
       main.replaceChildren();
       ui.titre("Banque", "Comptes de William");
       const bf = barreFile(); if (bf) main.append(bf);
-      const tabs = el("div", "onglets-appli onglets-3");
-      [["comptes", "Comptes"], ["virements", "Ordres et prélèvements"], ["nouveau", "Nouveau"]].forEach(([id, n]) => {
+      const tabs = el("div", "onglets-appli");
+      [["comptes", "Comptes"], ["cartes", "Cartes"], ["virements", "Ordres"], ["nouveau", "Nouveau"]].forEach(([id, n]) => {
         const b = el("button", "", n); b.type = "button"; b.setAttribute("aria-selected", String(onglet === id));
         b.addEventListener("click", () => { onglet = id; sauver(); dessiner(); }); tabs.append(b);
       });
       main.append(tabs);
-      ({ comptes, virements, nouveau })[onglet]();
+      ({ comptes, cartes, virements, nouveau }[onglet] || comptes)();
     }
     dessiner();
   },

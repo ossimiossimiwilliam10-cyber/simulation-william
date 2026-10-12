@@ -66,13 +66,25 @@ appli({
       const s = el("select"); for (let n = 1; n <= 6; n++) { const o = el("option", "", n + (n > 1 ? " voyageurs" : " voyageur")); o.value = String(n); s.append(o); }
       s.value = String(st.voyageurs); s.addEventListener("change", () => { st.voyageurs = Number(s.value); sauver(); dessiner(); }); return champ("Voyageurs", s);
     }
+    /* Carte de paiement (12/10/2026, outils/cartes.py) : la carte choisie part dans l'étiquette (carte=…) ; le moteur contrôle son
+       plafond au moment du paiement, comme la banque. */
+    const CARTES = (D.applis.banque && D.applis.banque.cartes) || [];
+    if (!CARTES.some(c => c.id === st.carte)) st.carte = (CARTES.find(c => c.type === "credit") || CARTES[0] || {}).id || "";
+    function selectCarte() {
+      const s = el("select");
+      CARTES.forEach(c => { const o = el("option", "", c.nom + " (disponible " + ent(Math.floor(c.disponible)) + ")"); o.value = c.id; s.append(o); });
+      s.value = st.carte; s.addEventListener("change", () => { st.carte = s.value; sauver(); dessiner(); }); return champ("Payer avec", s);
+    }
     function boutonCopie(texte) {
+      const c = CARTES.find(x => x.id === st.carte);
+      if (c) texte = texte.replace(/ \[voyages: (.*)\]$/, " Paiement avec la " + c.nom + ". [voyages: $1 carte=" + c.id + "]");
       const z = el("div"); const b = el("button", "bouton discret", "Copier pour réserver"); b.type = "button";
       b.addEventListener("click", () => copier(texte, b, z)); z.prepend(b); return z;
     }
 
     function vols(dd) {
       const f = el("div", "formulaire"); f.append(selectDe(), selectVers(), ...dates("Aller", "Retour"), selectVoyageurs());
+      if (CARTES.length) f.append(selectCarte());
       main.append(f);
       /* calendrier des prix (vue « mois entier ») */
       const [a, m] = st.mois.split("-").map(Number);
@@ -131,6 +143,7 @@ appli({
 
     function hotels(dd) {
       const f = el("div", "formulaire"); f.append(selectVers(), el("span"), ...dates("Arrivée", "Départ"));
+      if (CARTES.length) f.append(selectCarte());
       main.append(f);
       const avecDates = st.aller && st.retour;
       const liste = dd.hotels.map(h => ({ h, s: avecDates ? sejour(h, st.aller, st.retour) : null }));
@@ -148,6 +161,7 @@ appli({
 
     function forfait(dd) {
       const f = el("div", "formulaire"); f.append(selectDe(), selectVers(), ...dates("Aller", "Retour"), selectVoyageurs());
+      if (CARTES.length) f.append(selectCarte());
       main.append(f);
       if (!st.aller || !st.retour) return main.append(vide("Choisis tes dates", "Les prix des forfaits vol + hôtel s'affichent une fois la date de départ et la date de retour choisies."));
       const o = options(dd, st.aller, st.retour);

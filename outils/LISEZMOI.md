@@ -57,6 +57,7 @@
 | `voyages.py` | Application Voyages : vols (calendrier des prix), hôtels, forfaits vol + hôtel, formalités ; calcul déterministe partagé avec la page | `vols`, `mois`, `hotels`, `forfait`, `formalites`, `verifier` |
 | `appli_calendrier.py` | Données de l'application Calendrier (fériés FR, LU, PH ; vacances, événements, rendez-vous connus, argent) | (sans argument : résumé) |
 | `banque.py` | Banque : virements ponctuels (entre comptes ou vers un tiers), ordres permanents (créer, modifier, suspendre, reprendre), liste ; prévus recalculés | `virement`, `ordre-modifier`, `ordre-creer`, `ordre-suspendre`, `ordre-reprendre`, `liste` |
+| `cartes.py` | Cartes de William (Visa Debit, Visa Premier) : plafond de la période, utilisé, disponible ; paiement autorisé ou refusé ; carte de crédit débitée au relevé (prévu « C-… ») ; branché sur `voyages.py --carte`, la Banque et les Voyages du téléphone | `liste`, `payer`, `limite`, `verifier` |
 | `rencontres.py` | Application de rencontre : profils tirés (Manille, 18 ans au moins : majorité, garde absolue), inscription de William, j'aime, matchs, messages ; intention réelle cachée ; vivier complété si une tranche d'âge s'ouvre après coup | `generer`, `completer`, `inscription`, `aimer`, `passer`, `match`, `message`, `liste`, `voir` |
 | `etiquettes.py` | Applique les actions copiées depuis le téléphone (étiquettes [voyages|banque|rencontres: …]) : la commande exacte, à l'heure du jeu | `--texte "…"`, `--simule` |
 | `resume_etat.py` | `etat/resume.md` : l'essentiel en trois minutes | `--silencieux` |

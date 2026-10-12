@@ -151,7 +151,9 @@ def verifier():
 
 
 def realiser(jusqua=None, simule=False):
-    """Les prévus de l'échéancier dont la date/heure est passée à l'horloge deviennent des mouvements (prevu_realise)."""
+    """Les prévus dont la date/heure est passée à l'horloge deviennent des mouvements (prevu_realise) : échéancier (« E… »), virements
+    programmés de la banque (« B… », banque.py) et relevés de cartes de crédit (« C-… », cartes.py) (avant le 12/10/2026 : « E… » seuls ;
+    un virement daté dans le futur ne se réalisait jamais)."""
     import grand_livre as gl
     t = maintenant_simule()
     limite = jusqua or (t.replace(tzinfo=None) if t else None)
@@ -160,7 +162,7 @@ def realiser(jusqua=None, simule=False):
     livre = gl.lire()
     faits = []
     for l in livre:
-        if l["type"] == "prevu" and l["reference"].startswith("E") and gl.quand(l) <= limite:
+        if l["type"] == "prevu" and l["reference"].startswith(("E", "B", "C-")) and gl.quand(l) <= limite:
             l["type"] = "prevu_realise"
             faits.append(l)
     if faits and not simule:

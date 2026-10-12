@@ -190,6 +190,7 @@ Langue : **français**.
 > heure de Lisbonne), tags git `univers-1-master` et `univers-1-continuation` (suite jouée dans une autre session jusqu'au
 > samedi 11/08/2040, 13h27, jamais fusionnée), `archives/univers-1/session-outils/` (session des outils du 09/10/2026).
 > Objectif inchangé : établir un profil précis sur environ une année simulée ; « mode entraînement » disponible sur demande.
+**Samedi 14 juillet 2040, 10h46 — Audun-le-Tiche, chez William : tour n° 6 joué (forfait Lufthansa + Qatar et City Garden Grand Hotel réservé et payé sur la Visa Premier : 4 890 €, débité au relevé du 07/08 ; aller mer. 18/07 15h40, retour ven. 24/08 ; R003-R004, agenda A007-A011 ; outil `cartes.py` créé : plafonds et relevés) ; en attente : **sa journée** (départ le 18/07).**
 **Samedi 14 juillet 2040, 10h35 — Audun-le-Tiche, chez William : tour n° 5 joué (30 000 € virés de l'épargne vers le courant ; forfait Lufthansa + Qatar et Makati Shangri-La, 18/07 – 05/09, 10 741 € : paiement refusé sur la Visa Premier, limite de 5 000 € dépassée ; hors fiction : cartes fixées par l'utilisateur, Zebra Premium ; âge minimum des rencontres à Manille ramené à 18 ans, U2-20 ; téléphone republié à une nouvelle adresse) ; en attente : **le paiement du forfait** et **sa journée**.**
 **Samedi 14 juillet 2040, 10h20 — Audun-le-Tiche, chez William : tour n° 4 joué (correction hors fiction U2-18 : la destination est Manille, la réservation pour Yaoundé est retirée ; recherche Luxembourg – Manille pour le 20/07 – 31/08, de 1 440 à 1 815 € ; compte épargne renommé ; rien de réservé) ; en attente : **sa journée** (vol et hôtel pour Manille à choisir).**
 **Samedi 14 juillet 2040, 10h05 — Audun-le-Tiche, chez William : tour n° 3 joué (vol Lufthansa + Ethiopian réservé et payé à 10h04 : aller ven. 20/07 18h30, retour ven. 31/08, 2 179 €, référence CYNERS ; courant 7 621 €) ; restent visa, fièvre jaune (question de biographie posée), hébergement ; en attente : **sa journée** (départ le 20/07).**
@@ -348,7 +349,8 @@ Univers 2 : données remises à zéro le 11/10/2026 (horloge, agenda, grand livr
 - **Mise à jour** : `tour.py fin` régénère la page à chaque tour ; Claude la republie au même endroit (adresse :
   `etat/relais-config.json`) ; un autre agent envoie le fichier `sorties/telephone/index.html` au joueur s'il le demande.
 - **Applications en place** (12/10/2026) : Messages, Courriels, **Banque** (soldes, opérations, prélèvements et virements à venir ;
-  ordres permanents et virements que William configure lui-même : `outils/banque.py`), Calendrier (`outils/appli_calendrier.py` :
+  ordres permanents et virements que William configure lui-même : `outils/banque.py` ; cartes, plafonds et relevés depuis le
+  12/10/2026 : `outils/cartes.py`, un paiement au-delà du plafond est refusé, une carte de crédit est débitée au relevé), Calendrier (`outils/appli_calendrier.py` :
   fériés français, luxembourgeois et philippins, vacances, événements, rendez-vous connus, argent), **Météo** (station du lieu où se
   trouve William : Luxembourg-Findel ou Manille, `donnees/stations-meteo.csv`), **Voyages** (`outils/voyages.py` : vols avec
   calendrier des prix, hôtels, forfaits, formalités ; Yaoundé et Manille ; réservation de vol, d'hôtel ou de forfait automatisée),

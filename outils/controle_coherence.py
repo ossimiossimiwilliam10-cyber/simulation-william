@@ -147,6 +147,8 @@ def controle_base():
             e, a = module.verifier()
             erreurs += e
             aver += a
+        import cartes  # cartes de William : types, jours de débit, opérations (12/10/2026)
+        erreurs += cartes.verifier()
     except Exception as exc:  # noqa: BLE001
         erreurs.append(f"prêts ou échéancier : vérification impossible ({exc})")
     for chemin, quoi in (("memoire/preferences-utilisateur.md", "préférences de l'utilisateur (relais)"),

@@ -230,7 +230,7 @@ def empreinte(*morceaux):
     return int(hashlib.sha1("|".join(str(m) for m in morceaux).encode("utf-8")).hexdigest(), 16)
 
 
-def pdf_confirmation(res, v, P, quand):
+def pdf_confirmation(res, v, P, quand, carte=None):
     from pdf_base import DocPDF, chemin
     jours_c = ["lun.", "mar.", "mer.", "jeu.", "ven.", "sam.", "dim."]
     pdf = DocPDF("Confirmation de réservation et reçu de billet électronique", f"{P['agence']} · agence de voyages en ligne",
@@ -254,8 +254,12 @@ def pdf_confirmation(res, v, P, quand):
     pdf.para(f"Franchise : {v['bagages']}.")
     pdf.titre1("Paiement")
     total = float(res["total"])
-    pdf.para(f"Montant total : {total:,.2f} €".replace(",", " ").replace(".", ",") + " (taxes et surcharges comprises), payé par carte "
-             f"bancaire le {quand:%d/%m/%Y}.")
+    if total == 0:
+        pdf.para(f"Billet compris dans le forfait vol + hôtel réservé et payé par carte {nom_carte(carte) or 'bancaire'} le "
+                 f"{quand:%d/%m/%Y} (montant : voir la confirmation du forfait).")
+    else:
+        pdf.para(f"Montant total : {total:,.2f} €".replace(",", " ").replace(".", ",") + " (taxes et surcharges comprises), payé par carte "
+                 f"{nom_carte(carte) or 'bancaire'} le {quand:%d/%m/%Y}.")
     pdf.titre1("Informations importantes")
     pdf.puces([
         "Il appartient au passager de détenir les documents exigés par les pays de destination et de transit : passeport valide, "
@@ -271,8 +275,33 @@ def pdf_confirmation(res, v, P, quand):
     return cible.relative_to(RACINE).as_posix()
 
 
-def reserver_vol(vol_id, aller, retour, voyageurs, quand, simule=False, deja_paye=False):
-    """Réserve et paie un vol : grand livre, agenda, PDF de confirmation, registre des réservations. Renvoie la ligne du registre."""
+def nom_carte(carte):
+    if not carte:
+        return ""
+    import cartes
+    return cartes.carte(carte)["nom"]
+
+
+def payer_par_carte(carte, total, P, quand, res, registre):
+    """Paiement par carte (cartes.py : plafond, débit immédiat ou relevé). Refusé : la réservation n'est pas créée ; une ligne
+    « paiement_refuse » est écrite au registre (trace de la tentative) et le refus est affiché. Renvoie True si le paiement passe."""
+    import cartes
+    ok, op = cartes.payer(carte, total, P["agence"], quand, reference=res["id"])
+    if ok:
+        res["note"] += f" · payé par {cartes.carte(carte)['nom']} ({op['id']})"
+        return True
+    res["statut"], res["pnr"], res["billet"] = "paiement_refuse", "", ""
+    res["note"] += f" · paiement par {cartes.carte(carte)['nom']} refusé ({op['note']}) · aucune réservation créée, rien de débité"
+    registre.append(res)
+    ecrire_csv(RESERVATIONS, registre, COL_RES)
+    print(f"PAIEMENT REFUSÉ ({op['id']}) : {total:,.2f} € sur la {cartes.carte(carte)['nom']} : {op['note']}")
+    return False
+
+
+def reserver_vol(vol_id, aller, retour, voyageurs, quand, simule=False, deja_paye=False, carte=None):
+    """Réserve et paie un vol : grand livre, agenda, PDF de confirmation, registre des réservations. Renvoie la ligne du registre.
+    Avec `carte` (cartes.py, depuis le 12/10/2026) : le paiement passe par le plafond de la carte ; refusé, rien n'est réservé
+    (ligne « paiement_refuse » au registre) ; carte de crédit, le compte courant n'est débité qu'au relevé."""
     import agenda
     import grand_livre as gl
     P = parametres()
@@ -293,15 +322,17 @@ def reserver_vol(vol_id, aller, retour, voyageurs, quand, simule=False, deja_pay
            "pnr": pnr, "billet": billet, "agence": P["agence"], "fichier": "", "note": f"{v['compagnies']} ({v['via']})"}
     if simule:
         return res
-    res["fichier"] = pdf_confirmation(res, v, P, quand)
+    if carte and not deja_paye and not payer_par_carte(carte, total, P, quand, res, registre):
+        return res
     if deja_paye:
         res["total"] = "0.00"
         res["note"] += " · payé dans le forfait vol + hôtel"
+    res["fichier"] = pdf_confirmation(res, v, P, quand, carte)
     livre = gl.lire()
     livre.append({"date": f"{quand:%Y-%m-%d}", "heure": f"{quand:%H:%M}", "compte": "courant", "montant": f"{-total:.2f}", "type": "mouvement",
                   "libelle": f"Billet d'avion {aeroport(v['de'])['ville']} – {aeroport(v['vers'])['ville']} ({v['compagnies']}), "
                              f"aller le {aller:%d/%m}, retour le {retour:%d/%m} · {P['agence']}, réservation {pnr}", "reference": rid})
-    if not deja_paye:
+    if not deja_paye and not carte:
         gl.ecrire(livre)
     lignes = agenda.lire()
     for sens, d0 in (("aller", aller), ("retour", retour)):
@@ -319,7 +350,7 @@ def reserver_vol(vol_id, aller, retour, voyageurs, quand, simule=False, deja_pay
     return res
 
 
-def reserver_hotel(hotel_id, arrivee, depart, quand, forfait_vol=None, voyageurs=1, simule=False):
+def reserver_hotel(hotel_id, arrivee, depart, quand, forfait_vol=None, voyageurs=1, simule=False, carte=None):
     """Réserve un hôtel (payé à la réservation, comme sur les agences en ligne) ; avec forfait_vol, réserve vol + hôtel au prix du
     forfait (remise de parametres.csv) en une seule ligne de paiement. Écrit registre, grand livre, agenda et confirmation PDF."""
     import agenda
@@ -353,6 +384,8 @@ def reserver_hotel(hotel_id, arrivee, depart, quand, forfait_vol=None, voyageurs
            "note": f"{libelle_vol}{h['nom']} · {nuits} nuit(s)"}
     if simule:
         return res
+    if carte and not payer_par_carte(carte, total, P, quand, res, registre):
+        return res
     ville = aeroport(h["ville"])["ville"]
     pdf = DocPDF("Confirmation de réservation", f"{P['agence']} · agence de voyages en ligne", auteur=P["agence"],
                  pied=f"{P['agence']} — réservation {ref}")
@@ -374,7 +407,8 @@ def reserver_hotel(hotel_id, arrivee, depart, quand, forfait_vol=None, voyageurs
     livre.append({"date": f"{quand:%Y-%m-%d}", "heure": f"{quand:%H:%M}", "compte": "courant", "montant": f"{-total:.2f}", "type": "mouvement",
                   "libelle": f"{'Forfait vol + hôtel' if forfait_vol else 'Hôtel'} {h['nom']} ({ville}), du {debut_hotel:%d/%m} au {depart:%d/%m} · "
                              f"{P['agence']}, réservation {ref}", "reference": rid})
-    gl.ecrire(livre)
+    if not carte:
+        gl.ecrire(livre)
     lignes = agenda.lire()
     lignes.append({"id": agenda.prochain_id(lignes), "date": debut_hotel.isoformat(), "heure": "14:00", "lieu": aeroport(h["ville"])["fuseau"] or "luxembourg",
                    "qui": h["nom"], "quoi": f"Arrivée à l'hôtel {h['nom']} ({ville}), {nuits} nuit(s) · réservation {ref}", "statut": "prevu",
@@ -383,7 +417,7 @@ def reserver_hotel(hotel_id, arrivee, depart, quand, forfait_vol=None, voyageurs
     registre.append(res)
     ecrire_csv(RESERVATIONS, registre, COL_RES)
     if forfait_vol:  # le vol du forfait : agenda et confirmation de vol, sans second paiement
-        reserver_vol(forfait_vol, arrivee, depart, voyageurs, quand, simule=False, deja_paye=True)
+        reserver_vol(forfait_vol, arrivee, depart, voyageurs, quand, simule=False, deja_paye=True, carte=carte)
     return res
 
 
@@ -480,12 +514,14 @@ def main():
     p = sp.add_parser("formalites")
     p.add_argument("--vers", default="NSI")
     p = sp.add_parser("reserver-hotel")
+    p.add_argument("--carte", help="carte de paiement (etat/cartes.csv : visa_premier, visa_debit) : plafond contrôlé")
     p.add_argument("--hotel", required=True)
     p.add_argument("--arrivee", required=True)
     p.add_argument("--depart", required=True)
     p.add_argument("--quand", required=True)
     p.add_argument("--simule", action="store_true")
     p = sp.add_parser("reserver-forfait")
+    p.add_argument("--carte", help="carte de paiement (etat/cartes.csv : visa_premier, visa_debit) : plafond contrôlé")
     p.add_argument("--vol", required=True)
     p.add_argument("--hotel", required=True)
     p.add_argument("--aller", required=True)
@@ -494,6 +530,7 @@ def main():
     p.add_argument("--quand", required=True)
     p.add_argument("--simule", action="store_true")
     p = sp.add_parser("reserver")
+    p.add_argument("--carte", help="carte de paiement (etat/cartes.csv : visa_premier, visa_debit) : plafond contrôlé")
     p.add_argument("--vol", required=True, help="identifiant de donnees/voyages/vols.csv (V1, V3…)")
     p.add_argument("--aller", required=True)
     p.add_argument("--retour", required=True)
@@ -538,13 +575,17 @@ def main():
         a = dt.date.fromisoformat(args.aller if forfait else args.arrivee)
         r = dt.date.fromisoformat(args.retour if forfait else args.depart)
         res = reserver_hotel(args.hotel, a, r, dt.datetime.fromisoformat(args.quand), forfait_vol=args.vol if forfait else None,
-                             voyageurs=getattr(args, "voyageurs", 1), simule=args.simule)
+                             voyageurs=getattr(args, "voyageurs", 1), simule=args.simule, carte=args.carte)
+        if res["statut"] == "paiement_refuse":
+            return 2
         print(f"{'(essai) ' if args.simule else ''}Réservation {res['id']} ({res['type']}) : {res['note']}, {euros(float(res['total']))} ; "
               f"référence {res['pnr']}" + ("" if args.simule else f" ; {res['fichier']}"))
         return 0
     if args.cmd == "reserver":
         res = reserver_vol(args.vol, dt.date.fromisoformat(args.aller), dt.date.fromisoformat(args.retour), args.voyageurs,
-                           dt.datetime.fromisoformat(args.quand), simule=args.simule)
+                           dt.datetime.fromisoformat(args.quand), simule=args.simule, carte=args.carte)
+        if res["statut"] == "paiement_refuse":
+            return 2
         print(f"{'(essai) ' if args.simule else ''}Réservation {res['id']} : {res['note']}, {res['de']} → {res['vers']}, aller {res['aller']}, "
               f"retour {res['retour']}, {res['voyageurs']} voyageur(s), {euros(float(res['total']))} ; référence {res['pnr']}, billet {res['billet']}")
         if not args.simule:

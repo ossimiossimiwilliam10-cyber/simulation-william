@@ -134,7 +134,8 @@ def donnees_telephone(t=None):
             ordres.append(x)
         elif float(l["montant"]) < 0:
             prelevements.append(x)
-    return {"ordres": ordres, "prelevements": prelevements, "comptes": COMPTES_WILLIAM}
+    import cartes  # cartes, plafonds et paiements (12/10/2026)
+    return {"ordres": ordres, "prelevements": prelevements, "comptes": COMPTES_WILLIAM, **cartes.donnees_telephone(t)}
 
 
 def main():
