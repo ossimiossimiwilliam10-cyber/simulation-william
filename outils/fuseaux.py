@@ -27,6 +27,7 @@ ZONES = {
     "casablanca": "Africa/Casablanca",
     "douala": "Africa/Douala",
     "addis": "Africa/Addis_Ababa",
+    "manille": "Asia/Manila",
     "paris": "Europe/Paris",
 }
 ALIAS = {
@@ -36,6 +37,7 @@ ALIAS = {
     "cameroun": "douala", "côte d'ivoire": "abidjan", "cote d'ivoire": "abidjan", "abj": "abidjan", "lis": "lisbonne",
     "cmn": "casablanca", "vxe": "mindelo", "lisbon": "lisbonne",
     "nsi": "douala", "add": "addis", "addis-abeba": "addis", "bru": "luxembourg", "fra": "luxembourg", "cdg": "paris",
+    "mnl": "manille", "manila": "manille", "philippines": "manille",
 }
 
 

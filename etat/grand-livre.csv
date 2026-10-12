@@ -29,12 +29,12 @@ date;heure;compte;montant;type;libelle;reference
 2040-09-05;06:00;courant;-45.00;prevu;Assurance habitation (maison, propriétaire occupant) : mensualisée;E007-20400905
 2040-08-06;06:00;courant;-107.00;prevu;Voiture électrique : assurance tous risques (mensualisée);E010-20400806
 2040-09-05;06:00;courant;-107.00;prevu;Voiture électrique : assurance tous risques (mensualisée);E010-20400905
-2040-08-02;08:00;courant;-2850.00;prevu;Virement permanent vers l'épargne « Projet » (45 % du surplus);E012-20400802
-2040-08-02;08:00;projet;2850.00;prevu;Virement permanent vers l'épargne « Projet » (45 % du surplus) (compte crédité);E012-20400802-C
-2040-09-03;08:00;courant;-2850.00;prevu;Virement permanent vers l'épargne « Projet » (45 % du surplus);E012-20400903
-2040-09-03;08:00;projet;2850.00;prevu;Virement permanent vers l'épargne « Projet » (45 % du surplus) (compte crédité);E012-20400903-C
+2040-08-02;08:00;courant;-2850.00;prevu;Virement permanent vers le compte épargne (45 % du surplus);E012-20400802
+2040-08-02;08:00;projet;2850.00;prevu;Virement permanent vers le compte épargne (45 % du surplus) (compte crédité);E012-20400802-C
+2040-09-03;08:00;courant;-2850.00;prevu;Virement permanent vers le compte épargne (45 % du surplus);E012-20400903
+2040-09-03;08:00;projet;2850.00;prevu;Virement permanent vers le compte épargne (45 % du surplus) (compte crédité);E012-20400903-C
 2040-08-02;08:00;courant;-2850.00;prevu;Virement permanent vers le compte-titres ETF (45 % du surplus);E014-20400802
 2040-08-02;08:00;etf;2850.00;prevu;Virement permanent vers le compte-titres ETF (45 % du surplus) (compte crédité);E014-20400802-C
 2040-09-03;08:00;courant;-2850.00;prevu;Virement permanent vers le compte-titres ETF (45 % du surplus);E014-20400903
 2040-09-03;08:00;etf;2850.00;prevu;Virement permanent vers le compte-titres ETF (45 % du surplus) (compte crédité);E014-20400903-C
-2040-07-14;10:04;courant;-2179.00;mouvement;Billet d'avion Luxembourg – Yaoundé (Lufthansa + Ethiopian), aller le 20/07, retour le 31/08 · Kestrel Voyages, réservation CYNERS;R001
+2040-07-14;10:04;courant;-2179.00;retire;"Billet d'avion Luxembourg – Yaoundé (Lufthansa + Ethiopian), aller le 20/07, retour le 31/08 · Kestrel Voyages, réservation CYNERS [retiré : correction hors fiction demandée par l'utilisateur le 12/10/2026 : la destination voulue était Manille, pas Yaoundé (erreur du joueur, tours n° 2 et 3) ; réservation retirée sans effet dans la fiction]";R001

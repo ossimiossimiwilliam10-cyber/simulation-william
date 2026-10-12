@@ -14,7 +14,7 @@
 | Poste | Montant | Remarques |
 |---|---|---|
 | Compte courant (Spuerkeess) | 9 800 € | Dépenses courantes |
-| Compte épargne « Projet » (Spuerkeess) | 357 000 € | Épargne libre de toute affectation dans l'univers 2 |
+| Compte épargne (Spuerkeess) | 357 000 € | Épargne libre de toute affectation · *avant : « Compte épargne « Projet » » → maintenant : « Compte épargne », renommé par William le 14/07/2040 à 10h12* |
 | ETF | 288 000 € | Valeur de marché (calages seulement) |
 | Part nette de la maison | 89 996,87 € | Audun-le-Tiche ; valeur estimée 200 000 € − capital restant dû 110 003,13 € (prêt PR1) |
 | **Patrimoine net** | **744 796,87 €** | Comptes + ETF + part de maison |
@@ -35,7 +35,7 @@ et 744 796,87 €, capital restant dû calculé par le tableau d'amortissement d
   - internet et mobile 63 € (E005, le 15) ; eau 187,50 € deux fois par an (E006, mars et septembre) ;
   - assurance habitation 45 € (E007, le 5) ; assurance de la voiture électrique 107 € (E010, le 5) ;
   - Minett Combat Club 85 € (E008, le 1er) ; taxe foncière ≈ 1 190 € le 15/10 (E009, valeur locative estimée).
-- **Virements automatiques** (ordres permanents, le 2 du mois) : 2 850 € vers l'épargne « Projet » (E012) et 2 850 € vers les
+- **Virements automatiques** (ordres permanents, le 2 du mois) : 2 850 € vers le compte épargne (E012) et 2 850 € vers les
   ETF (E014).
 - **Terminé** : soutien aux parents (E011 ; ponts coupés, précisé par l'utilisateur le 11/10/2026). **Encore à chiffrer** :
   allocation de fin d'année (E013).
@@ -56,7 +56,7 @@ et 744 796,87 €, capital restant dû calculé par le tableau d'amortissement d
 - Dernière échéance le 05/10/2052 ; intérêts restant à payer ≈ 25 242 €.
 
 ## Règle de répartition du surplus mensuel (habitude de William)
-45 % ETF / 45 % épargne « Projet » / 10 % plaisir, par **ordres permanents** (précisé par l'utilisateur le 11/10/2026) : 2 850 € +
+45 % ETF / 45 % compte épargne / 10 % plaisir, par **ordres permanents** (précisé par l'utilisateur le 11/10/2026) : 2 850 € +
 2 850 € le 2 du mois (E012, E014 ; montants estimés par le moteur sur un surplus d'environ 6 335 €, modifiables par William).
 *(Avant : « ordre permanent ou geste manuel : non fixé » → maintenant : automatique, 12/10/2026.)*
 

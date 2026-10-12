@@ -16,6 +16,7 @@
 - **A coupé les ponts avec ses parents et ne leur envoie plus d'argent** (précisé par l'utilisateur le 11/10/2026 : « J'ai
   totalement coupé les ponts avec eux ») ; a grandi avec son père, « spécial ». *(Avant : « ne parle plus à ses parents mais les
   soutient financièrement ; montant et fréquence non fixés » → maintenant : aucun soutien, ponts coupés ; E011 terminé, 12/10/2026.)*
+- **Vacciné contre la fièvre jaune enfant, au Cameroun ; a gardé son carnet de vaccination** (précisé par l'utilisateur le 12/10/2026).
 - **Ne boit pas d'alcool** *(précisé par l'utilisateur le 27/07/2040, univers 1)*.
 - Langues : français, anglais C1 ; ne parle pas luxembourgeois.
 
@@ -61,7 +62,7 @@
 ## Argent
 Voir `etat/finances.md` (niveaux initiaux choisis par l'utilisateur le 11/10/2026 : ceux du 17/07/2040 de l'univers 1) et
 `etat/echeancier.csv` (mouvements récurrents). **Virements automatiques** (précisé par l'utilisateur le 11/10/2026) : le 2 de
-chaque mois, 2 850 € vers l'épargne « Projet » et 2 850 € vers les ETF (E012, E014 ; 45 % chacun d'un surplus estimé à
+chaque mois, 2 850 € vers le compte épargne (renommé le 14/07/2040 : avant « Projet ») et 2 850 € vers les ETF (E012, E014 ; 45 % chacun d'un surplus estimé à
 ≈ 6 335 € ; montants estimés par le moteur, modifiables) ; les 10 % « plaisir » restent sur le compte courant.
 
 ## Déplacements

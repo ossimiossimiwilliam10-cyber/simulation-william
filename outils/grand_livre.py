@@ -6,7 +6,7 @@ Colonnes (séparateur « ; ») : date;heure;compte;montant;type;libelle;referenc
 - montant : positif = entrée, négatif = sortie, dans la devise du compte ; point décimal ;
 - type : calage (le solde devient ce montant : relevé de banque, estimation d'une fiche) | mouvement (réel) |
          prevu (attendu, pas encore arrivé ; référence Pnnn) | prevu_realise (devenu mouvement) | prevu_annule (n'aura pas lieu) |
-         valeur (actif non liquide, comme calage).
+         valeur (actif non liquide, comme calage) | retire (retirée par une correction hors fiction : jamais comptée).
 
     python outils/grand_livre.py solde                       # soldes à l'horloge (etat/horloge.txt) + patrimoine
     python outils/grand_livre.py solde --projete 2040-08-31  # + les « prévu » jusqu'à cette date
@@ -39,13 +39,17 @@ PARITE = 655.957
 # son compte (propriétaire = la société, n'entre pas dans le patrimoine) et la participation de William (entre dans le patrimoine).
 COMPTES = {
     "courant": ("William", "EUR", "Compte courant (Spuerkeess)", True),
-    "projet": ("William", "EUR", "Compte épargne « Projet » (Spuerkeess)", True),
+    # clé « projet » gardée pour l'historique ; nom affiché : avant « Compte épargne « Projet » » → maintenant « Compte épargne »,
+    # renommé par William le 14/07/2040 à 10h12
+    "projet": ("William", "EUR", "Compte épargne (Spuerkeess)", True),
     "future_vie_familiale": ("William", "EUR", "Compte « Future vie familiale »", True),
     "etf": ("William", "EUR", "ETF (valeur de marché : calages seulement)", True),
     "pret": ("William", "EUR", "Prêt logement : solde restant dû (passif, déjà déduit de la part de maison)", False),
     "maison_part": ("William", "EUR", "Part nette de la maison d'Audun-le-Tiche", True),
 }
-TYPES = {"calage", "mouvement", "prevu", "prevu_realise", "prevu_annule", "valeur"}
+TYPES = {"calage", "mouvement", "prevu", "prevu_realise", "prevu_annule", "valeur", "retire"}
+# « retire » (12/10/2026) : ligne retirée par une correction HORS FICTION demandée par l'utilisateur (elle n'a jamais eu lieu
+# dans la fiction) ; gardée pour l'historique, jamais comptée dans les soldes.
 
 
 def lire():

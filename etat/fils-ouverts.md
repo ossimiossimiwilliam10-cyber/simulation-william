@@ -13,7 +13,7 @@
 | # | Sujet | Contexte | Échéance |
 |---|---|---|---|
 | 1 | **Sa journée du samedi 14/07/2040** | Début de l'univers 2 ; premier jour des vacances d'été ; Fête nationale française (commerces fermés à Audun) ; aucune obligation | — |
-| 2 | **Voyage à Yaoundé** (ouvert le 14/07/2040, 09h45) | **Vol réservé et payé le 14/07 à 10h04** (R001, CYNERS : aller ven. 20/07 18h30, retour ven. 31/08, 2 179 €). À faire : e-visa (réponse en 72 h ouvrées ou 24 h en express), certificat de fièvre jaune (biographie : question posée à l'utilisateur le 12/10/2026), hébergement à Yaoundé (rien de réservé), trajet vers Findel. *(Avant : « recherches faites, rien de réservé » → maintenant : vol réservé, 14/07 10h04.)* | ven. 20/07, 18h30 |
+| 2 | **Voyage à Manille** (ouvert le 14/07/2040) | **Rien de réservé.** Dates envisagées : aller ven. 20/07, retour ven. 31/08 (41 nuits sur place : au-delà de 30 jours sans visa, prolongation au Bureau de l'immigration) ; eTravel dans les 72 h avant l'arrivée ; vol et hôtel à choisir (application Voyages). *(Avant : « Voyage à Yaoundé » avec un vol réservé → maintenant : Manille, correction hors fiction U2-18 du 12/10/2026.)* ~~Ancienne ligne : **Vol réservé et payé le 14/07 à 10h04** (R001, CYNERS : aller ven. 20/07 18h30, retour ven. 31/08, 2 179 €). À faire : e-visa (réponse en 72 h ouvrées ou 24 h en express), certificat de fièvre jaune (biographie : question posée à l'utilisateur le 12/10/2026), hébergement à Yaoundé (rien de réservé), trajet vers Findel. *(Avant : « recherches faites, rien de réservé » → maintenant : vol réservé, 14/07 10h04.)*~~ | — |
 
 *(Avant : « Sa journée du mardi 17/07/2040 » → maintenant : départ redaté au samedi 14/07, 11/10/2026.)*
 

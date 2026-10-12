@@ -17,3 +17,5 @@ Toute réaction d'un personnage à un acte de William se tire avec `python outil
 - Prix tiré « vol aller-retour Paris – Yaoundé en août (moyenne) (Paris – Yaoundé) » : centre 1 678,05 € (2026 × 1.35), fourchette ± 12 % → **1 736,72 €** (enregistré le 12/10/2026 07:48 heure machine)
 
 - Prix tiré « vol aller-retour Luxembourg – Yaoundé, prix bas relevés (juillet à octobre, avec escale) (Luxembourg – Yaoundé) » : centre 1 043,55 € (2026 × 1.35), fourchette ± 12 % → **1 005,19 €** (enregistré le 12/10/2026 07:48 heure machine)
+
+- Prix tiré « vol aller-retour Luxembourg – Manille, prix bas en été (estimation : prix bas de Paris + 27 %, écart relevé entre Paris et Bâle) (Luxembourg – Manille) » : centre 1 328,40 € (2026 × 1.35), fourchette ± 12 % → **1 380,81 €** (enregistré le 12/10/2026 08:38 heure machine)

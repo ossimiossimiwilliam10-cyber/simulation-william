@@ -28,6 +28,7 @@ import argparse
 import datetime as dt
 import hashlib
 import math
+import re
 import sys
 
 from commun import DONNEES, ETAT, OUTILS, RACINE, ecrire_csv, lire_csv, maintenant_simule, utf8
@@ -197,9 +198,8 @@ def forfaits(de, vers, aller, retour, voyageurs=1):
 def formalites(vers):
     for d in table("destinations.csv"):
         if d["code"] == vers:
-            texte = d["formalites"]
-            for px in ("PX034", "PX039"):
-                texte = texte.replace("{" + px + "}", f"{arrondi(prix_projete(px))}")
+            # {PXnnn} : prix 2040 de donnees/prix.csv, arrondi, milliers séparés par une espace
+            texte = re.sub(r"\{(PX\d{3})\}", lambda m: f"{arrondi(prix_projete(m.group(1))):,}".replace(",", " "), d["formalites"])
             return [x.strip() for x in texte.split("|")]
     return []
 

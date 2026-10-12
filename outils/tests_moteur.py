@@ -181,6 +181,9 @@ def main():
     e.lancer(o + "voyages.py", "forfait", "--aller", "2040-08-28", "--retour", "2040-09-18", contient="séparément")
     e.lancer(o + "voyages.py", "formalites", "--vers", "NSI", contient="Fièvre jaune")
     e.lancer(o + "appli_calendrier.py", contient="ferie")
+    e.lancer(o + "voyages.py", "vols", "--de", "LUX", "--vers", "MNL", "--aller", "2040-07-20", "--retour", "2040-08-31", contient="1 705 €",
+             nom="voyages : Manille, prix montré au tour n° 4 retrouvé")
+    e.lancer(o + "voyages.py", "formalites", "--vers", "MNL", contient="eTravel")
     e.lancer(o + "voyages.py", "reserver", "--vol", "V3", "--aller", "2040-08-28", "--retour", "2040-09-18", "--quand", "2040-07-14 10:00",
              "--simule", contient="1 005", nom="voyages : réservation (essai) au prix de la page")
     e.lancer(o + "controle_coherence.py", contient="RÉSULTAT")
