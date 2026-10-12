@@ -13,3 +13,7 @@ Toute réaction d'un personnage à un acte de William se tire avec `python outil
 - Jet « Départ de l'univers 2 : William s'est couché après minuit dans la nuit du vendredi 13 au samedi 14/07/2040 (dernier jour de classe ; OUI : coucher 00h35, NON : 23h20) » : probabilité 50 %, jet  78.2 → **NON** (enregistré le 11/10/2026 22:02 heure machine)
 
 - Jet « Départ de l'univers 2 : réveil spontané avant 8 h le samedi 14/07/2040, premier jour des vacances, sans réveil (OUI : 07h42, NON : 08h37) » : probabilité 40 %, jet  65.7 → **NON** (enregistré le 11/10/2026 22:02 heure machine)
+
+- Prix tiré « vol aller-retour Paris – Yaoundé en août (moyenne) (Paris – Yaoundé) » : centre 1 678,05 € (2026 × 1.35), fourchette ± 12 % → **1 736,72 €** (enregistré le 12/10/2026 07:48 heure machine)
+
+- Prix tiré « vol aller-retour Luxembourg – Yaoundé, prix bas relevés (juillet à octobre, avec escale) (Luxembourg – Yaoundé) » : centre 1 043,55 € (2026 × 1.35), fourchette ± 12 % → **1 005,19 €** (enregistré le 12/10/2026 07:48 heure machine)

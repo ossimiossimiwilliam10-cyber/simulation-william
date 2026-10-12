@@ -13,6 +13,7 @@
 | # | Sujet | Contexte | Échéance |
 |---|---|---|---|
 | 1 | **Sa journée du samedi 14/07/2040** | Début de l'univers 2 ; premier jour des vacances d'été ; Fête nationale française (commerces fermés à Audun) ; aucune obligation | — |
+| 2 | **Projet de voyage à Yaoundé** (ouvert le 14/07/2040, 09h45) | Recherches faites (vols, hôtels, forfaits, visa, fièvre jaune : journal du 14/07, tour n° 2) ; rien de réservé ; un forfait vol + hôtel n'a de prix qu'avec des dates | — |
 
 *(Avant : « Sa journée du mardi 17/07/2040 » → maintenant : départ redaté au samedi 14/07, 11/10/2026.)*
 

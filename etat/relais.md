@@ -1,61 +1,66 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 12/10/2026 07:36 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 12/10/2026 07:49 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : samedi 14 juillet 2040, 08h40 (luxembourg) ; tour n° 1
+- Horloge : samedi 14 juillet 2040, 09h45 (luxembourg) ; tour n° 2
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
 - En attente de William : Sa journée du samedi 14/07/2040 (premier jour des vacances d'été ; Fête nationale française)
+- En attente de William : Projet de voyage à Yaoundé : dates, vol, hébergement à choisir (rien de réservé)
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 1 ; horloge 14/07/2040 08:37 -> 14/07/2040 08:40 ; enregistré le 12/10/2026 07:36 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 2 ; horloge 14/07/2040 08:40 -> 14/07/2040 09:45 ; enregistré le 12/10/2026 07:49 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> (11/10/2026, réponses hors fiction aux questions de biographie) Alors, oui, j'ai une voiture électrique. Comment la maison est-elle chauffée La maison est chauffée en fait au gaz. Hein. Voilà. Combien envoie-t-il à ses parents et à quel rythme Je n'envoie plus d'argent à mes parents. J'ai totalement coupé les ponts avec eux à part à ce moment-là. Où s'en craignent-ils Propose-moi un club à Esch. Alors le crédit. Ouais, concernant le crédit, attends un peu. Ouais, en fait, le crédit, je t'avoue, j'ai balancé des trucs comme ça au hasard. Je sais pas si c'est réaliste. Sinon, bah, essayer de trouver un bail réaliste en vrai. Alors, ces virements sont-ils automatiques ? Oui, oui, ces virements-là sont automatiques. Alors, je génère, hein, ces collègues, ce personnel, ce personnel, j'ai découvert au fil du jeu. Euh, en vrai, tu peux les générer maintenant, tu vois. Genre, voici, ça peut te faire le travail en avance. Mais j'aimerais bien les découvrir au fil du jeu, sincèrement. Mais tu peux déjà les mettre dans la base de données. Et aussi, j'ai une question. Au plus haut du haut, genre à mes 80 ans, ou vraiment au moment où je vais mourir dans le jeu, au maximum, la simulation peut accepter combien de personnages, en fait, connus et que je connais. Euh, concernant le dernier, l'ancien Warcry, tu peux le supprimer, sauf s'il est important.
-> (12/10/2026) J'ai atteint ma limite d'utilisation pendant que vous travailliez, mais elle a été réinitialisée. Veuillez continuer là où vous vous êtes arrêté.
+> Je prends mon ordinateur et je commence à rechercher un peu les vols vers le Cameroun, là où j'ai grandi. Je souhaite aller à Yaoundé. J'essaie un peu de m'organiser, c'est-à-dire vol, hôtel. Je recherche s'il n'y a pas un pack complet, c'est-à-dire vol, hébergement.
 
 ## Texte envoyé au joueur
 
-**SAMEDI 14 JUILLET 2040 — 08h40 — Audun-le-Tiche, chez toi**
+**SAMEDI 14 JUILLET 2040 — 09h45 — Audun-le-Tiche, chez toi**
 
-Tu te réveilles sans réveil, à 8h37. La lumière passe en lames entre les fentes du volet roulant et raye le mur d'en face. Tu as dormi neuf heures d'affilée, sans te réveiller une seule fois.
+Tu ouvres l'ordinateur et tu tapes « Luxembourg – Yaoundé » dans un comparateur. Aucun vol direct : toujours au moins une escale. Les résultats se rangent en trois familles.
+- **Par Paris** : Luxair relie Findel à Paris-Charles-de-Gaulle en une heure, puis Air France file sans escale vers Nsimalen. Il faut compter dix à douze heures d'aéroport à aéroport.
+- **Depuis Bruxelles** : Brussels Airlines vole en direct en 7 h 45, mais il faut d'abord rejoindre Bruxelles, à deux heures et demie de route.
+- **Par Addis-Abeba ou Casablanca** : Ethiopian et Royal Air Maroc sont moins chers. Le trajet s'étire alors entre quinze et vingt-six heures, parfois avec une nuit d'attente à l'escale.
 
-Hier, c'était le dernier jour de classe. Devant toi, un peu plus de neuf semaines sans emploi du temps : la rentrée n'aura lieu que le lundi 17 septembre.
+Sans dates précises, tu affiches le mois entier. Jusqu'à la mi-août, les cases restent orange et rouges : rien sous 1 737 € l'aller-retour au départ de Luxembourg. Les cases vertes n'apparaissent qu'à partir de la dernière semaine d'août : 1 005 € pour les moins chères, avec escale.
 
-En bas, le frigo se relance avec un claquement sec. Sur le palier, les deux autres chambres sont fermées ; l'une sert de débarras. Dans la rue, rien ne bouge, sauf en face : un capot claque, puis viennent les petits coups réguliers d'une clé à cliquet.
+Côté hébergement, les sites alignent des dizaines d'adresses à Yaoundé. Les grands hôtels affichent leurs prix d'appel à la nuit : environ 313 € au Hilton, 182 € au Djeuga Palace, 161 € à La Falaise. En bas de liste, des chambres à partir de 27 €, dans des résidences presque sans photos.
 
-Sur la table de chevet, l'écran du téléphone est resté noir : pas un message, pas un appel de la nuit.
+Le forfait complet, lui, n'existe pas tout fait : aucun voyagiste ne vend de séjour organisé à Yaoundé. Trois agences en ligne ont bien un onglet « Vol + Hôtel », mais aucun prix ne s'affiche tant que tu n'as pas saisi une date de départ et une date de retour.
 
-Il fait déjà 20 °C dehors. On annonce un grand soleil, 28 °C dans l'après-midi, et de la pluie pour demain.
+Sur la page de la compagnie, un encadré rappelle les conditions d'entrée pour un passeport luxembourgeois.
+- Le visa est obligatoire. La demande se fait en ligne, sur le portail officiel du gouvernement camerounais.
+- La réponse arrive en 72 heures ouvrées pour 207 €, ou en 24 heures pour 309 € en express. Ces frais ne sont pas remboursables.
+- Le dossier exige une copie du carnet de vaccination, page fièvre jaune.
+- À l'arrivée, le certificat international de vaccination contre la fièvre jaune est contrôlé.
 
-C'est le 14 juillet. De ce côté de la frontière, c'est férié : le supermarché et la boulangerie d'Audun restent fermés toute la journée. À un quart d'heure d'ici, au Luxembourg, c'est un samedi comme un autre.
+En face, le moteur de la voiture du voisin tousse deux fois, cale, puis repart et tourne longtemps au ralenti.
 
 ---
 
-**À toi : samedi 14/07, 08h40.**
+**À toi : samedi 14/07, 09h45.**
 
 **Réponses attendues**
 - Personne n'attend de réponse de ta part.
 
 **À faire / à fournir avant le tour suivant**
-- Rien d'obligatoire.
+- Forfait vol + hôtel : il faut une date de départ et une date de retour pour obtenir un prix.
+- Visa du Cameroun (passeport luxembourgeois) : demande en ligne, au plus six mois avant le séjour, réponse en 72 heures ouvrées.
+- Certificat international de vaccination contre la fièvre jaune : exigé dans le dossier de visa, puis à l'arrivée.
 
 **Quêtes secondaires**
-- **Minett Combat Club** (Esch-sur-Alzette) : horaire d'été depuis aujourd'hui.
-  - Sparring libre le samedi à 10h30.
-  - MMA le lundi et le mercredi à 19h00.
-  - Les autres cours sont suspendus jusqu'à la rentrée.
-  - Fermeture complète du lundi 13 au dimanche 26 août.
+- Minett Combat Club : sparring libre aujourd'hui à 10h30 (horaire d'été).
 - Lundi 16/07 : prélèvement de la box internet et du forfait mobile (63 €).
 - Mardi 31/07 : traitement de juillet.
-- Jeudi 02/08 : premiers virements automatiques, 2 850 € vers l'épargne « Projet » et 2 850 € vers les ETF.
-- Lundi 17/09 : rentrée au lycée.
+- Jeudi 02/08 : virements automatiques, 2 850 € vers l'épargne « Projet » et 2 850 € vers les ETF.
+- Fin des vacances le dimanche 16/09 ; rentrée le lundi 17/09.
 
 Que veux-tu faire ?
 
@@ -67,6 +72,7 @@ Que veux-tu faire ?
 
 ## Décisions en attente de William (etat/fils-ouverts.md, A)
 | 1 | **Sa journée du samedi 14/07/2040** | Début de l'univers 2 ; premier jour des vacances d'été ; Fête nationale française (commerces fermés à Audun) ; aucune obligation | — |
+| 2 | **Projet de voyage à Yaoundé** (ouvert le 14/07/2040, 09h45) | Recherches faites (vols, hôtels, forfaits, visa, fièvre jaune : journal du 14/07, tour n° 2) ; rien de réservé ; un forfait vol + hôtel n'a de prix qu'avec des dates | — |
 
 ## Notes de passation (etat/relais-notes.md)
 - ~~(11/10/2026 22:30, Claude Opus 5.5) Redémarrage de l'univers 2 redaté au samedi 14/07/2040, 08h37 (premier vrai jour de vacances,
@@ -97,7 +103,7 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/simulation-realistic-agent-handoff-3deabc ; master : f7f6139 ; avance 0, retard 0
+- branche courante : claude/simulation-realistic-agent-handoff-3deabc ; master : cb48d80 ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 (ICI) : branche claude/simulation-realistic-agent-handoff-3deabc ; 0 commit(s) absents de master ; 15 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche claude/life-simulation-resume-892e7a ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)

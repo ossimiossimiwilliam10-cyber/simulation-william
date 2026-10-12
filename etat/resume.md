@@ -1,10 +1,11 @@
-# Résumé d'état (généré le 12/10/2026 07:36 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 12/10/2026 07:49 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : samedi 14/07/2040 08:40 (luxembourg, UTC+2)
+## Horloge : samedi 14/07/2040 09:45 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 06:40 ; lisbonne 07:40 ; mindelo 05:40 ; casablanca 07:40 ; douala 07:40 ; paris 08:40
+- **Heure dans les autres lieux** : abidjan 07:45 ; lisbonne 08:45 ; mindelo 06:45 ; casablanca 08:45 ; douala 08:45 ; paris 09:45
 - **En attente de William** :
   - Sa journée du samedi 14/07/2040 (premier jour des vacances d'été ; Fête nationale française)
+  - Projet de voyage à Yaoundé : dates, vol, hébergement à choisir (rien de réservé)
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **9 800,00 €**
@@ -33,9 +34,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2040-07-14.md, 6 dernières lignes)
-> > `donnees/faits.csv` F001). Le faux départ du mardi 17/07/2040 (un tour, sans action de William) est archivé :
-> > `archives/univers-2-faux-depart/`.
 > - **Nuit du 13 au 14/07** : coucher vers 23h20 (tiré au dé : `memoire/tirages-aleas.md`) ; environ 9 h de sommeil.
 > - **08h37** : réveil spontané, sans réveil (tiré au dé), chez lui, à Audun-le-Tiche. Départ de l'univers 2.
 > - **08h37-08h40** (tour n° 1) : neuf heures de sommeil d'affilée ; aucun message ni appel de la nuit ; 20 °C dehors, grand soleil annoncé (28 °C), pluie demain. 14 juillet : férié côté français (supermarché et boulangerie d'Audun fermés), jour ordinaire au Luxembourg. Trace : en face, un voisin bricole sa voiture (capot, clé à cliquet), non nommé, rien d'adressé à William. Réponses de biographie a
-> - Tour en cours à 08h40, en attente de William : **sa journée**. *(Avant : « Tour en cours à 08h37 » → maintenant : 08h40, tour n° 1 joué.)*
+> - Tour n° 1 joué jusqu'à 08h40.
+> - **08h40-09h45** (tour n° 2) : William cherche sur son ordinateur des vols vers Yaoundé (où il a grandi), un hôtel et un forfait vol + hôtel. Ce qu'il trouve (prix 2040 : PX027 à PX035 ; faits F045 à F049) : aucun vol direct depuis Luxembourg ; Luxair puis Air France par Paris-CDG (10 à 12 h), Brussels Airlines en direct depuis Bruxelles (7 h 45), Ethiopian par Addis-Abeba ou Royal Air Maroc par 
+> - Tour en cours à 09h45, en attente de William : **sa journée** (projet de voyage à Yaoundé : dates à fixer).
