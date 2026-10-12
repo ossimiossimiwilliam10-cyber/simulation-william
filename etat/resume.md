@@ -1,10 +1,9 @@
-# Résumé d'état (généré le 12/10/2026 18:28 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 12/10/2026 18:42 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
 ## Horloge : lundi 16/07/2040 07:40 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
 - **Heure dans les autres lieux** : abidjan 05:40 ; lisbonne 06:40 ; mindelo 04:40 ; casablanca 06:40 ; douala 06:40 ; addis 08:40 ; manille 13:40 ; paris 07:40
 - **En attente de William** :
-  - Décisions de l'utilisateur sur la revue du lundi n° 1 (puis tirage des aléas de la semaine)
   - Sa journée du lundi 16/07/2040 : eTravel possible dès 10h30 ; départ pour Manille le mercredi 18/07 à 15h40 (R003-R004) ; trajet vers Findel non prévu
 
 ## Argent (grand livre, calculé)
@@ -15,13 +14,17 @@
 - Part nette de la maison d'Audun-le-Tiche : **89 996,87 €**
 - Patrimoine net de William : **744 733,87 €**
 
-## Agenda : dans les 24 heures (2)
+## Agenda : dans les 24 heures (3)
 - A010 Mon 16/07 10:30 (luxembourg) | Philippines (eTravel) : eTravel : inscription en ligne gratuite possible à partir de maintenant, 72 heures avant l'arrivée à Manille (jeudi 19/07 à 16h30, heure locale) · code QR à montrer à l'immigration [prevu]  — F051 · arrivée du vol PVS2HS (R004) · 16h30 à Manille = 10h30 au Luxembourg
 - A012 Mon 16/07 10:30 (luxembourg) | William (rappel du téléphone) : Rappel : remplir l'eTravel (ouverture 72 heures avant l'arrivée à Manille) [prevu]  — rappel créé par William le samedi 14/07 à 11h27 · voir A010
-## Agenda : de J+1 à J+7 (3)
+- A014 Mon 16/07 20:00 (luxembourg) | Aléa A23 (tentative d'arnaque) : Tentative d'arnaque (SMS de faux colis, faux conseiller bancaire ou faux site) · soir [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — tirage_aleas.py 2040-07-16 (jet 2,3) · NON CONNU DE WILLIAM
+## Agenda : de J+1 à J+7 (6)
 - A013 Tue 17/07 09:25 (luxembourg) | Clément Grandjean (club) : Message spontané d'un membre du club (tiré le 16/07 : rituel du lundi, CLAUDE.md §12) · contenu à choisir d'après sa fiche, entrée en scène par personnage.py apparait [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — rituels.py message-proche, semaine du 2040-07-16 · NON CONNU DE WILLIAM : ne rien montrer avant l'heure
+- A015 Tue 17/07 15:00 (luxembourg) | Aléa A09 (erreur administrative) : Erreur administrative (virement mal affecté, pièce perdue, nom mal orthographié) · après-midi [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — tirage_aleas.py 2040-07-16 (jet 4,1) · NON CONNU DE WILLIAM
 - A008 Wed 18/07 15:40 (luxembourg) | Lufthansa + Qatar Airways : Vol aller Luxembourg → Manille (LH 391…QR 932) · départ 15:40 de Luxembourg-Findel, arrivée le 19/07 à 16:30 (heure locale) · réservation PVS2HS [prevu]  — réservation R004 (etat/reservations.csv)
 - A007 Thu 19/07 08:00 (luxembourg) | City Garden Grand Hotel : Arrivée à l'hôtel City Garden Grand Hotel (Manille), 36 nuit(s) · réservation R6T4JZA2 [prevu]  — réservation R003 (etat/reservations.csv)
+- A016 Fri 20/07 03:00 (luxembourg) | Aléa A07 (panne réseau) : Panne réseau (Wi-Fi de l'hôtel, données mobiles) ou banque en ligne indisponible · matin, à Manille [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — tirage_aleas.py 2040-07-16 (jet 4,3) · NON CONNU DE WILLIAM
+- A017 Sun 22/07 03:00 (luxembourg) | Aléa A22 (courrier administratif) : Courrier administratif (impôts, CNS, mairie, banque) : par courriel, William étant à Manille (pas de distribution du courrier le dimanche) · matin [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — tirage_aleas.py 2040-07-16 (jet 6,3) · NON CONNU DE WILLIAM
 (Les lignes « NON CONNU DE WILLIAM » servent au moteur : ne jamais les montrer au joueur avant le jour dit.)
 
 ## Affaires ouvertes (T4/T5 chaque dimanche soir)
@@ -38,9 +41,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2040-07-16.md, 6 dernières lignes)
-> # Lundi 16 juillet 2040 — univers 2, troisième jour
 > - **Nuit du 15 au 16/07** : coucher à 23h15, réveil à 7h40, sans réveil (heures tirées au dé).
 > - **06h00** : prélèvement de la box internet et du forfait mobile (63 €, E005 : dû le 15, un dimanche, passé au jour ouvré suivant).
 > - **07h40** : réveil ; grand soleil, 16 °C dehors (27 °C annoncés) ; aucun message. Fin de l'avance rapide (tour n° 8).
 > - **Revue du lundi n° 1 de l'univers 2** (hors fiction, avant le premier tour du jour) : présentée au joueur ; compte rendu dans `memoire/revue-lundi-2040-07-16.md` ; décisions et tirage des aléas de la semaine en attente de sa réponse. Message spontané d'un proche de la semaine tiré (moteur seulement : agenda A013).
-> - Tour en cours à 07h40, en attente de William : **sa journée** et **ses décisions sur la revue n° 1**.
+> - **Revue n° 1, décisions (hors fiction, 12/10/2026)** : « Je valide absolument tout ! ». Tables T15 à T19, T21a, T21b et T22 installées ; T12 à T14 confirmées ; pack d'aléas de l'univers 2 actif (A19 à A32) ; maison d'environ 75 m², virements de 2 × 2 850 € gardés, les parents n'écrivent pas. Aléas de la semaine tirés : 5 sur 21 (A20 sans objet ; quatre à l'agenda du moteur, A014 à A017, non conn
+> - Tour en cours à 07h40, en attente de William : **sa journée** (eTravel dès 10h30 ; départ le mercredi 18/07 à 15h40 ; trajet vers Findel non prévu).

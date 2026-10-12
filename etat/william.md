@@ -16,6 +16,7 @@
 - **A coupé les ponts avec ses parents et ne leur envoie plus d'argent** (précisé par l'utilisateur le 11/10/2026 : « J'ai
   totalement coupé les ponts avec eux ») ; a grandi avec son père, « spécial ». *(Avant : « ne parle plus à ses parents mais les
   soutient financièrement ; montant et fréquence non fixés » → maintenant : aucun soutien, ponts coupés ; E011 terminé, 12/10/2026.)*
+  Les parents ne lui écrivent pas (défaut validé par l'utilisateur à la revue n° 1, 12/10/2026).
 - **Vacciné contre la fièvre jaune enfant, au Cameroun ; a gardé son carnet de vaccination** (précisé par l'utilisateur le 12/10/2026).
 - **Ne boit pas d'alcool** *(précisé par l'utilisateur le 27/07/2040, univers 1)*.
 - Langues : français, anglais C1 ; ne parle pas luxembourgeois.
@@ -54,8 +55,9 @@
   calculé à sa demande (« trouver un bail réaliste en vrai »), 12/10/2026.)*
 - **Chauffage au gaz** (chauffage, eau chaude, cuisson ; précisé par l'utilisateur le 11/10/2026) : ≈ 13 000 kWh par an,
   mensualisation ≈ 253 € (E004). *(Avant : « type inconnu » → maintenant : gaz.)*
-- Surface : non fixée. Le prix de 180 000 € en 2034 n'est cohérent qu'avec une petite maison de mineur d'environ 75 m², achetée à
-  rénover (≈ 2 600 €/m² à Audun en 2026 : PX015) : estimation du moteur, à confirmer par l'utilisateur.
+- **Surface : environ 75 m²** (petite maison de mineur achetée à rénover ; cohérent avec 180 000 € en 2034, ≈ 2 600 €/m² à Audun en
+  2026 : PX015). *(Avant : « non fixée ; estimation du moteur, à confirmer » → maintenant : validée par l'utilisateur à la revue
+  n° 1, 12/10/2026.)*
 - Frontalier : vit en France, travaille au Luxembourg (impôt sur le traitement au Luxembourg, déclaration en France avec crédit
   d'impôt : F013 ; comptes luxembourgeois à déclarer en France : F015).
 

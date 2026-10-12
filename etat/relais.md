@@ -1,6 +1,6 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 12/10/2026 18:28 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 12/10/2026 18:42 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
@@ -8,78 +8,65 @@
 ## Où en est la partie
 - Horloge : lundi 16 juillet 2040, 07h40 (luxembourg) ; tour n° 8
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Décisions de l'utilisateur sur la revue du lundi n° 1 (puis tirage des aléas de la semaine)
 - En attente de William : Sa journée du lundi 16/07/2040 : eTravel possible dès 10h30 ; départ pour Manille le mercredi 18/07 à 15h40 (R003-R004) ; trajet vers Findel non prévu
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 8 ; horloge 14/07/2040 11:25 -> 16/07/2040 07:40 ; enregistré le 12/10/2026 18:28 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 8 ; horloge 16/07/2040 07:40 -> 16/07/2040 07:40 ; enregistré le 12/10/2026 18:42 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je me fais un rappel pour eTravel. Go
+> Je valide absolument tout !
 
 ## Texte envoyé au joueur
 
-**LUNDI 16 JUILLET 2040 — 07h40 — Audun-le-Tiche, chez toi**
-
-Sur ton téléphone, tu crées un rappel pour le lundi 16 juillet à 10h30 : « Remplir l'eTravel ».
-
-Le samedi s'étire ensuite à la maison. La chaleur monte jusqu'à 28 °C en fin d'après-midi et reste prise dans les murs de pierre de l'étage ; les volets restent mi-clos jusqu'au soir. Personne n'écrit, personne n'appelle. Vers 23 heures, des pétards claquent au loin, du côté du centre. Tu te couches à 0h20.
-
-Le dimanche, tu te réveilles à 9h10. Le ciel s'est couvert pendant la nuit, et les averses se succèdent toute la journée. La gouttière déborde au-dessus de la porte d'entrée, et l'air ne dépasse plus 21 °C. La rue reste vide, à part un parapluie qui passe sous la fenêtre en fin d'après-midi. Le sac de voyage attend au pied du lit. Tu te couches à 23h15.
-
-Le lundi, tu ouvres les yeux à 7h40. Le soleil est revenu, et il fait 16 °C dehors. Le téléphone n'affiche aucun message.
+📌 **Vraie vie** : tout est validé et appliqué.
+- **En vigueur dès maintenant** :
+  - les nouveaux aléas, A19 à A32, dont la diarrhée du voyageur et la dengue à l'étranger ;
+  - les tables T15 à T19, T21 et T22, et les pourcentages de T12 à T14 ;
+  - la maison d'environ 75 m², les deux virements de 2 850 €, et tes parents n'écrivent pas.
+- **Les aléas de la semaine sont tirés.** Ils restent secrets jusqu'à leur jour.
+- **Mis en place avant que ça compte** :
+  - l'application Transports, avant ton départ ;
+  - l'arrivée à Manille avant le 19/07 : frais à l'étranger, caution d'hôtel, décalage horaire, carte SIM, change, taxis ;
+  - avant le 31/07 : les dépenses courantes, la paie calculée et les ETF qui bougent.
+- Le modèle de la voiture reste libre : aucune proposition n'avait été faite.
 
 ---
 
-**🔄 Revue du lundi n° 1** *(hors fiction)*
+**LUNDI 16 JUILLET 2040 — 07h40 — Audun-le-Tiche, chez toi**
 
-**1. Bilan des 14 et 15/07**
-- Corrigé : la destination du voyage (Manille, à ta demande), quelques lignes périmées, l'âge minimum des rencontres (18 ans), tes cartes bancaires (Zebra Premium).
-- Ajouté : les plafonds des cartes et le relevé différé de la carte de crédit ; les virements programmés, qui n'étaient jamais exécutés à leur date ; la fenêtre de 72 heures de l'eTravel ; le tirage automatique du message spontané d'un proche.
-- Contrôles : aucune réaction de personnage tirée cette semaine, aucune non-conformité, aucun tic d'écriture relevé. Deux confirmations de réservation en PDF, vérifiées.
+Rien n'a bougé depuis ton réveil. Dehors, la rue est encore à l'ombre sous un ciel d'un bleu net.
 
-**2. À valider** (réponds par les numéros)
-- **P02 — Aléas de l'univers 2.** On retire ceux d'Abidjan (A01, A03, A04, A05, A06) et on active, par semaine :
-  - A19 rhume ou gastro de William (5 %) ;
-  - A20 trajets frontaliers perturbés (20 %) ;
-  - A21 panne à la maison (4 %) ;
-  - A22 courrier administratif (10 %) ;
-  - A23 tentative d'arnaque (15 %) ;
-  - A24 souci de voisinage (5 %) ;
-  - A25 blessure légère à l'entraînement (1 %) ;
-  - A26 imprévu d'argent (6 %) ;
-  - A27 signe d'un ancien (8 %) ;
-  - A28 courriel du lycée (10 % en juillet, 30 % fin août) ;
-  - A29 contrôle routier (3 %) ;
-  - A30 occasion inattendue (8 %).
+---
 
-  A02, A07, A09, A12, A13, A17 et A18 restent actifs.
-- **P01 — Tables T15 à T18** : réaction d'un pair, d'un supérieur, d'un inconnu ou d'une rencontre adulte (T17, utile à Manille hors des lieux de commerce), et tenue des promesses.
-- **P16 — T21** : réactions sur l'application de rencontre, au « j'aime » et au premier message.
-- **T12 à T14** : confirmer les pourcentages repris de l'univers 1 (négociations, contenu des événements, initiatives des personnages).
-- **Autres propositions** :
-  - P03 météo projetée à +1,5 °C ;
-  - P04 effets de la fatigue ;
-  - P05 relations chiffrées ;
-  - P06 menaces et occasions qui avancent seules ;
-  - P07 vie des personnages tirée selon la proximité ;
-  - P10 paie calculée (points, retenues, 13e mois) ;
-  - P17 ETF qui bougent chaque mois ;
-  - P18 dépenses courantes forfaitaires ;
-  - P19 arrivée à Manille (carte SIM, change, taxis par application, typhons) ;
-  - P20 vieillissement des personnages ;
-  - P21 application Transports.
-… (suite dans etat/dernier-tour.md, 95 lignes)
+**À toi : lundi 16/07, 07h40.**
+
+**Réponses attendues**
+- Personne n'attend de réponse de ta part.
+
+**À faire / à fournir avant le tour suivant**
+- **eTravel** : possible à partir de 10h30 aujourd'hui (rappel programmé).
+- **Départ** : mercredi 18/07, vol LH 391 à 15h40 depuis Findel. Rien n'est prévu pour aller jusqu'à l'aéroport.
+- **Séjour de 36 jours** : au-delà de 30 jours sans visa, il faut une prolongation au Bureau de l'immigration, vers le 17/08.
+
+**Quêtes secondaires**
+- Visa Premier : 110 € disponibles jusqu'au 30/07, puis relevé de 4 890 € débité le mardi 07/08. Visa Debit : 2 500 € par mois.
+- Mardi 31/07 : traitement de juillet.
+- Mercredi 01/08 : cotisation du club (85 €) et package bancaire (12,83 €).
+- Jeudi 02/08 : virements automatiques, 2 850 € vers le compte épargne et 2 850 € vers les ETF.
+- Lundi 17/09 : rentrée au lycée.
+
+Que veux-tu faire ?
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
 - A010 Mon 16/07 10:30 (luxembourg) | Philippines (eTravel) : eTravel : inscription en ligne gratuite possible à partir de maintenant, 72 heures avant l'arrivée à Manille (jeudi 19/07 à 16h30, heure locale) · code QR à montrer à l'immigration [prevu]  — F051 · arrivée du vol PVS2HS (R004) · 16h30 à Manille = 10h30 au Luxembourg
 - A012 Mon 16/07 10:30 (luxembourg) | William (rappel du téléphone) : Rappel : remplir l'eTravel (ouverture 72 heures avant l'arrivée à Manille) [prevu]  — rappel créé par William le samedi 14/07 à 11h27 · voir A010
+- A014 Mon 16/07 20:00 (luxembourg) | Aléa A23 (tentative d'arnaque) : Tentative d'arnaque (SMS de faux colis, faux conseiller bancaire ou faux site) · soir [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — tirage_aleas.py 2040-07-16 (jet 2,3) · NON CONNU DE WILLIAM
 
 ## Rituels du moteur dus (rituels.py)
-- [DÛ] tirage_aleas : aléas de la semaine du 16/07/2040 non tirés -> python outils/tirage_aleas.py 2040-07-16
+- rien
 
 ## Décisions en attente de William (etat/fils-ouverts.md, A)
 | 1 | **Sa journée du lundi 16/07/2040** | Troisième jour des vacances ; eTravel possible dès 10h30 (rappel du téléphone) ; départ pour Manille le mercredi 18/07 à 15h40 ; trajet vers Findel non prévu *(avant : « Sa journée du samedi 14/07/2040 » → maintenant : lundi 16/07, après l'avance rapide du tour n° 8)* | — |
@@ -135,9 +122,9 @@ Le lundi, tu ouvres les yeux à 7h40. Le soleil est revenu, et il fait 16 °C de
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : e23a734 ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 8770b5a ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche claude/simulation-realistic-agent-handoff-3deabc ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 21 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 18 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche claude/life-simulation-resume-892e7a ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

@@ -21,8 +21,9 @@
 | Sujet | État | Prochain jalon |
 |---|---|---|
 | Revue du lundi n° 1 (univers 2) | **Présentée le lundi 16/07 à 07h40** (fin de l'avance rapide du tour n° 8 ; `memoire/revue-lundi-2040-07-16.md`) : décisions de l'utilisateur en attente ; tirage des aléas de la semaine juste après (`tirage_aleas.py 2040-07-16`) *(avant : « à présenter le lundi 16/07 »)* | réponse du joueur |
-| Pourcentages des tables T12 à T14 | Installés le 09/08/2040 (univers 1) sur « applique tout cela » ; à faire valider par l'utilisateur | lun. 16/07 |
-| Pack d'aléas de l'univers 2 | Le pack actif vise Abidjan (A01, A03, A04, A06) : tirages « sans objet » tant qu'il n'est pas adapté ; proposition A19-A30 | lun. 16/07 |
+| Pourcentages des tables T12 à T14 | **CLOS le 16/07** (revue n° 1) : validés par l'utilisateur, avec T15 à T19, T21a, T21b et T22 | — |
+| Pack d'aléas de l'univers 2 | **CLOS le 16/07** (revue n° 1) : A19 à A32 actifs, A01, A03 à A06 retirés ; semaine du 16/07 tirée (agenda A014 à A017) | — |
+| **Propositions validées à appliquer (moteur)** | Revue n° 1, « tout validé » : P21 application Transports (avant le 18/07, trajet vers Findel) ; P19 arrivée à Manille, I1 frais à l'étranger, I2 caution d'hôtel, I3 décalage horaire (avant le 19/07) ; P18 dépenses courantes forfaitaires (dès que possible) ; P10 paie calculée et P17 ETF vivants (avant le 31/07) ; P05 relations chiffrées et P07 tour du monde par cercles (dès le premier personnage récurrent) ; P14 revue enrichie (23/07) ; P20 vieillissement (avances longues) | selon chaque échéance |
 
 ## C. Questions de cohérence à poser à l'utilisateur (hors fiction, posées le 11/10/2026)
 **CLOS le 12/10/2026** : réponses de l'utilisateur du 11/10/2026 appliquées (voir `etat/corrections.md`, U2-11 à U2-15) :

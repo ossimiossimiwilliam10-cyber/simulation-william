@@ -4,7 +4,8 @@
 > intitulés qui nomment des personnages ou des lieux de l'univers 1 (Aïcha, Grace, Ricardo, OSIA, Abidjan, « gérante », « QG »)
 > valent pour **tout personnage qui remplit la même condition** (ex. M40 « peur des silences » ; T3 « la numéro 2 informée »).
 > Les §4 et §7 décrivent l'univers 1 : historiques, sans effet dans l'univers 2. Les pourcentages de T12 à T14 (installés le
-> 09/08/2040 sur « applique tout cela ») restent à faire valider par l'utilisateur à la revue du lundi n° 1 de l'univers 2.
+> 09/08/2040 sur « applique tout cela ») sont **validés par l'utilisateur à la revue du lundi n° 1** (« Je valide absolument tout »,
+> 12/10/2026 ; date simulée : lundi 16/07/2040). Le même jour : T15 à T19, T21a et T21b installées (propositions P01, P04, P16).
 
 > **Source unique** des probabilités de réaction des personnages aux actes de William. Lue par `outils/jet.py` (`--table Tn`),
 > validée par `outils/controle_coherence.py`, auditée par `outils/audit_jets.py`.
@@ -66,6 +67,13 @@ sur Aïcha n'a pas d'équivalent tant que l'utilisateur n'en pose pas une nouvel
 - **Contenu des événements du tour du monde (T13a à T13d, installées le 09/08/2040)** : après un résultat T11 « coup_dur », « tournant », « petit_evenement » ou « avancee_objectif », la **catégorie** du contenu se tire en T13a, T13b, T13c ou T13d (M95-M99) ; le détail se choisit d'après la fiche (test d'intérêt). `outils/tour_du_monde.py` enchaîne les deux tirages.
 - **Initiatives (T14, installée le 09/08/2040)** : qui écrit ou appelle William ce jour-là se tire en **T14** (M84-M87) pour chaque personnage dont la fiche porte « Modificateurs T14 » (« — » = exclu : Sandra bloquée, Me Kouamé hospitalisé…) ; l'heure se tire ensuite en T10, le contenu se choisit d'après la fiche. `tour_du_monde.py` les tire à chaque « Go » et à chaque fin de journée.
 - **Proposition d'argent contre un rapport à une femme adulte (T20a, T20b, validées par l'utilisateur le 12/10/2026, voyage à Manille)** : **T20a** dans un lieu où ce commerce se pratique, **T20b** ailleurs (rue, café, application). Toujours avec `--pour "Nom"` : la personne doit être inscrite dans `etat/personnages.csv` avec sa date de naissance, et majeure ; `jet.py` refuse sinon (§11, limite b : jamais de mineure, ni d'âge invérifiable). Les scènes s'arrêtent au seuil (règle 10) ; aucun mode d'emploi réel (lieux fictifs). Faits : F055 à F057 ; proposition d'origine : `memoire/propositions-2026-10-11.md`, P15.
+- **Univers 2 (validées par l'utilisateur le 12/10/2026, revue n° 1)** : **T15** un pair (collègue, partenaire de club, voisin, ami)
+  face à un acte ordinaire de William ; **T16** un supérieur (direction du lycée, ministère) face à une demande, un retard ou un écart ;
+  **T17** un inconnu ou une rencontre adulte face à une approche (conversation, compliment, invitation ; toujours `--pour` : adulte
+  inscrite et datée) ; **T18** la forme d'un manquement quand un tiers ne tient pas une promesse (le manquement lui-même se tire au taux
+  d'oubli de sa fiche, `etat/personnages.csv`, ou à `donnees/delais.csv` pour un service sans fiche) ; **T19** défaillance de William
+  quand sa dette de sommeil dépasse 6 heures sur 7 jours (seuils : plus de 3 h, fatigue visible ; plus de 6 h, épuisement : `corps.py`) ;
+  **T21a** et **T21b** réactions d'un profil de l'application de rencontre (« j'aime », message après un match ; toujours `--pour`).
 - *(Installation : tables proposées par le moteur le 09/08/2040 et installées sur la demande de l'utilisateur, « applique tout cela » ; les pourcentages sont ajustables par l'utilisateur seul, comme pour toutes les tables.)*
 - Les **scènes déjà jouées** (Grace le 23/07, Mariette le 25/07 à 09h25, Aïcha le 25/07 à 09h50) restent telles que jouées ; leurs suites
   passent par les tables.
@@ -307,6 +315,81 @@ Règles de rôle, sans tirage ; l'argent et le statut de William ne les achèten
 | arnaque | 6 | Un piège à argent : vol, faux tarif, chantage ou complice ; la perte se joue, sans morale. |
 | piege_ou_descente | 2 | Policier en civil ou fausse arrestation pour extorquer : la suite s'applique en T6. |
 
+### T15 — Un pair (collègue, partenaire de club, ami, voisin) face à un acte ordinaire de William (demande, remarque, service, pique, invitation) (validée le 12/10/2026)
+| Issue | % | En scène |
+|---|---|---|
+| rien_laisse_passer | 30 | Il ou elle encaisse ou accepte sans relief ; rien ne change en apparence. |
+| accepte_volontiers | 18 | Dit oui, rend le service, accepte l'invitation. |
+| garde_distance | 14 | Répond poliment mais se tient un peu à l'écart les jours suivants. |
+| en_parle_a_d_autres | 12 | En parle à un tiers (salle des profs, club, rue) : l'information circule (T5). |
+| rend_la_pareille | 10 | Répond du tac au tac, ou rend un service équivalent plus tard. |
+| demande_explication | 8 | Pose une question directe, sans hostilité. |
+| decline | 6 | Refuse poliment, avec une raison vraie ou commode. |
+| frontal_conflit | 2 | Confrontation ouverte : jouer l'acte, pas un discours. |
+
+### T16 — Un supérieur de William (direction du lycée, ministère) face à une demande, un retard ou un écart de William (validée le 12/10/2026)
+| Issue | % | En scène |
+|---|---|---|
+| laisse_passer | 30 | Rien : ni remarque ni trace. |
+| accorde | 18 | Accorde la demande (congé, aménagement, matériel), parfois avec délai. |
+| rappel_oral | 18 | Une remarque brève, dans le couloir ou en fin de réunion. |
+| demande_ecrite | 12 | Exige une demande ou une explication par écrit. |
+| refuse_poliment | 12 | Refus motivé par le règlement ou le budget. |
+| note_au_dossier | 6 | Une trace écrite au dossier de William. |
+| convocation | 3 | Entretien formel. |
+| frontal_saisine | 1 | Transmission au ministère (procédure disciplinaire du statut : recherche web obligatoire avant de la jouer). |
+
+### T17 — Un inconnu ou une rencontre adulte face à une approche de William (conversation, compliment, invitation) (validée le 12/10/2026 ; toujours --pour)
+| Issue | % | En scène |
+|---|---|---|
+| poli_bref | 30 | Répond poliment, sans prolonger. |
+| conversation | 22 | La conversation prend ; rien n'est acquis. |
+| ignore | 14 | Ne répond pas, ou à peine (écouteurs, téléphone, pressé). |
+| reciproque | 10 | Intérêt réel, retour d'invitation ou de numéro. |
+| mefiance | 10 | Méfiance visible (taille, voix, contexte), recul. |
+| refus_net | 9 | Refus clair, sans discours. |
+| calcul | 5 | Intérêt intéressé (argent, statut, service attendu). |
+
+### T18 — Forme du manquement quand un tiers ne tient pas une promesse, un rendez-vous ou un délai (validée le 12/10/2026 ; le manquement se tire d'abord au taux d'oubli de la fiche)
+| Issue | % | En scène |
+|---|---|---|
+| retard | 50 | Ça arrive, mais en retard (heures ou jours selon l'enjeu). |
+| report_excuse | 30 | Report annoncé, avec une excuse vraie ou commode. |
+| oubli_complet | 20 | Rien ne vient ; il faut relancer. |
+
+### T19 — Défaillance de William épuisé (dette de sommeil supérieure à 6 heures sur 7 jours ; validée le 12/10/2026)
+| Issue | % | En scène |
+|---|---|---|
+| rien | 80 | Rien de visible, sinon la fatigue. |
+| oubli | 8 | Il oublie quelque chose (objet, échéance, message). |
+| retard | 6 | Il part ou arrive en retard. |
+| erreur | 4 | Une erreur concrète (montant, date, mauvaise touche, mauvais quai). |
+| somnolence_volant | 2 | Somnolence au volant (s'il conduit) : écart, freinage tardif ; la suite se tire. |
+
+### T21a — Réaction d'un profil de l'application de rencontre à un « j'aime » de William (validée le 12/10/2026 ; toujours --pour)
+| Issue | % | En scène |
+|---|---|---|
+| aucune_reponse | 40 | Rien : le profil ne le voit pas, ou passe. |
+| match | 35 | Elle l'aime aussi : la discussion s'ouvre (rencontres.py match). |
+| match_et_message | 12 | Elle l'aime aussi et écrit la première (heure en T10). |
+| vu_sans_suite | 10 | Elle a vu son profil, ne donne pas suite. |
+| bloque | 3 | Elle le bloque ou le signale (photo, âge, étranger, rien de précis). |
+
+### T21b — Réponse d'un profil de l'application de rencontre à un message de William après un match (validée le 12/10/2026 ; toujours --pour)
+| Issue | % | En scène |
+|---|---|---|
+| repond | 50 | Elle répond (heure en T10) ; le ton suit sa fiche et son intention. |
+| repond_tard | 20 | Elle répond un ou deux jours plus tard. |
+| ignore | 22 | Pas de réponse. |
+| bloque | 8 | Elle le bloque (message déplacé, insistance, rien de précis). |
+
+### T22 — Avance hebdomadaire d'un front « temps » (menace ou occasion qui mûrit seule ; validée le 12/10/2026, P06)
+| Issue | % | En scène |
+|---|---|---|
+| zero_segment | 55 | Rien ne bouge cette semaine. |
+| un_segment | 35 | Le front avance d'un segment (`fronts.py avancer`). |
+| deux_segments | 10 | Le front avance de deux segments. |
+
 ### Modificateurs (liste fermée ; 3 au maximum par tirage ; chacun déplace des points d'une issue vers une autre)
 | Code | Tables | Effet | Quand l'appliquer |
 |---|---|---|---|
@@ -373,6 +456,12 @@ Règles de rôle, sans tirage ; l'argent et le statut de William ne les achèten
 | M97 | T13a, T13b | famille +8 ; sante -4 ; argent -4 | Événement familial attendu (grossesse, deuil, mariage, enterrement) |
 | M98 | T13d | demarche +8 ; apprentissage -4 ; decision -4 | Dossier administratif en cours |
 | M99 | T13c | transport_meteo +8 ; achat -4 ; rumeur -4 | Période de pluies, délestages, grève ou fête |
+| M17 | T17 | conversation +4 ; reciproque +3 ; ignore -4 ; poli_bref -3 | Physique de William remarqué (1,96 m, voix grave) (validé le 12/10/2026) |
+| M18 | T17 | mefiance +6 ; ignore +4 ; conversation -6 ; reciproque -4 | Lieu hostile ou heure tardive (validé le 12/10/2026) |
+| M45 | T21a | match +15 ; match_et_message +8 ; aucune_reponse -23 | Intention cachée du profil : aide_financiere, travail_sexuel ou arnaque (etat/rencontres.csv) (validé le 12/10/2026) |
+| M46 | T21b | repond +15 ; ignore -15 | Intention cachée du profil : aide_financiere, travail_sexuel ou arnaque (validé le 12/10/2026) |
+| M47 | T21b | bloque +15 ; ignore +10 ; repond -25 | Message à caractère sexuel ou proposition d'argent d'emblée, hors intention travail_sexuel (validé le 12/10/2026) |
+| M48 | T21a | match +5 ; aucune_reponse -5 | Profil de William remarqué (1,96 m, sportif, Européen) (validé le 12/10/2026) |
 
 ## 6. William n'est pas un dieu (symétrie)
 1. **Ses manœuvres sur autrui sont tirées** (T7) ; aucune réussite automatique, même quand sa position est forte ; le « succès net » est plafonné.

@@ -7,6 +7,11 @@
 > `memoire/propositions-2026-10-11.md`) ; seul
 > l'utilisateur la valide.
 
+> **16/07/2040 (revue du lundi n° 1 de l'univers 2 ; « Je valide absolument tout », 12/10/2026) — pack de l'univers 2 : A01, A03,
+> A04, A05 et A06 (Abidjan) passent au statut « univers 1 » (plus tirés) ; A19 à A30 (proposition P02) et A31, A32 (idée I4,
+> santé en voyage, chiffrée sur des études de cohortes de voyageurs) deviennent actifs ; A02, A07, A09, A12, A13, A17, A18 restent
+> actifs.** Un aléa tiré un jour où il n'a pas d'objet (A20 pendant les vacances, A25 sans entraînement, A31 et A32 hors voyage,
+> A29 sans conduite) est consigné « sans objet » et n'est pas joué.
 > **06/08/2040 — William a validé A03, A07, A12 et A18 (revue du lundi n° 3) : pack actif A01 A02 A03 A04 A05 A06 A07 A09 A12 A13 A17 A18.**
 > **30/07/2040 — William a validé A02, A05 et A17 (revue du lundi n° 2) : pack actif A01 A02 A04 A05 A06 A09 A13 A17.**
 > **23/07/2040 — William a validé le pack : A01, A04, A06, A09, A13 sont ACTIFS.** Les autres restent « proposé »
@@ -22,12 +27,12 @@
 
 | ID | Événement | Probabilité par semaine | Statut | Effets / conditions |
 |---|---|---|---|---|
-| A01 | Maladie d'un membre de l'équipe (paludisme, gastro, typhoïde) | 10 % | actif | Absence de 2 à 5 jours ; qui est touché : tirer parmi les salariés ; saison des pluies = plus fréquent |
+| A01 | Maladie d'un membre de l'équipe (paludisme, gastro, typhoïde) | 10 % | univers 1 | Absence de 2 à 5 jours ; qui est touché : tirer parmi les salariés ; saison des pluies = plus fréquent |
 | A02 | Problème de santé d'un proche d'un personnage (ex. mère d'Aïcha, tension) | 8 % | actif | Personnage moins disponible, humeur, demande d'absence ou d'avance |
-| A03 | Maladie ou accident d'un des enfants de Sandra | 8 % | actif | Sandra indisponible, échange d'argent ou d'aide possible, test pour William |
-| A04 | Délestage / coupure d'électricité prolongée | 25 % | actif | QG sans groupe électrogène (hors service) ; chantiers et visites perturbés |
-| A05 | Fortes pluies / inondation | 15 % | actif | Transports et chantiers retardés (Abidjan, saison des pluies) |
-| A06 | Retard fournisseur ou douane (NVR, onduleurs, batteries) | 30 % | actif | Délai supplémentaire ; l'excuse du fournisseur est plausible mais pas toujours vraie |
+| A03 | Maladie ou accident d'un des enfants de Sandra | 8 % | univers 1 | Sandra indisponible, échange d'argent ou d'aide possible, test pour William |
+| A04 | Délestage / coupure d'électricité prolongée | 25 % | univers 1 | QG sans groupe électrogène (hors service) ; chantiers et visites perturbés |
+| A05 | Fortes pluies / inondation | 15 % | univers 1 | Transports et chantiers retardés (Abidjan, saison des pluies) |
+| A06 | Retard fournisseur ou douane (NVR, onduleurs, batteries) | 30 % | univers 1 | Délai supplémentaire ; l'excuse du fournisseur est plausible mais pas toujours vraie |
 | A07 | Panne réseau (fibre, 4G) ou banque en ligne | 15 % | actif | Retard d'un virement, d'un envoi, d'un rapport |
 | A08 | Contrôle ou courrier administratif (Inspection du travail, CNPS, impôts) | 5 % | proposé | Dossiers incomplets (CNPS, salaires de juin) ressortent |
 | A09 | Erreur administrative (virement mal affecté, pièce perdue, nom mal orthographié) | 10 % | actif | Correction longue, agacement |
@@ -40,3 +45,17 @@
 | A16 | Grève de transport ou embouteillage exceptionnel | 5 % | proposé | Retards de personnes, rendez-vous manqués |
 | A17 | William lui-même malade ou épuisé (fatigue, gastro) | 5 % | actif | Jour de repos forcé, décisions moins bonnes |
 | A18 | Incident de transport (taxi, panne, retard) | 15 % | actif | Retard à un rendez-vous |
+| A19 | Rhume, angine ou gastro de William | 5 % | actif | Un adulte attrape 2 à 4 rhumes par an ; 1 à 4 jours diminué (corps.py noter --type malade) |
+| A20 | Perturbation des trajets frontaliers (bus en retard, A4 ou N4 bouchée, travaux) | 20 % | actif | Semaines de travail (F029) ; sans objet pendant les vacances ou à l'étranger |
+| A21 | Panne domestique (chauffe-eau, électroménager, fuite) | 4 % | actif | Maison ancienne ; si William est absent, découverte au retour |
+| A22 | Courrier administratif (impôts français ou luxembourgeois, CNS, mairie, banque) | 10 % | actif | Frontalier : deux administrations ; boîte aux lettres (lue au retour si absent) ou courriel |
+| A23 | Tentative d'arnaque (SMS de faux colis, faux conseiller bancaire, faux site) | 15 % | actif | Très courant ; William voit le message et décide |
+| A24 | Souci de voisinage (bruit, travaux, haie, stationnement) | 5 % | actif | Maison mitoyenne ; à l'étranger, seulement par un message d'un voisin |
+| A25 | Blessure légère à l'entraînement (entorse, côte, doigt) | 1 % | actif | ≈ 1,4 blessure pour 1 000 h de MMA (étude de 2025) ; sans objet sans entraînement |
+| A26 | Imprévu d'argent (amende, réparation, cadeau, cotisation) | 6 % | actif | Montant tiré dans une fourchette réaliste (prix.py) |
+| A27 | Signe d'un ancien (collègue, élève devenu adulte, connaissance) | 8 % | actif | Réseau d'un homme de 35 ans ; jamais les parents (ponts coupés) |
+| A28 | Courriel ou appel du lycée pendant les vacances (réunion de rentrée, ajournements, emploi du temps) | 10 % (juillet), 30 % (fin août) | actif | Le moteur règle le taux selon la période (le tirage lit le premier) |
+| A29 | Contrôle routier ou radar | 3 % | actif | Seulement un jour où William conduit |
+| A30 | Occasion inattendue (proposition de cours particuliers, invitation, bon plan) | 8 % | actif | Nouvelle piste ; rien n'est acquis |
+| A31 | Diarrhée du voyageur ou intoxication alimentaire (à l'étranger) | 12 % | actif | Seulement les jours à l'étranger ; 14 % la première semaine, 10 % ensuite (cohorte de voyageurs en Thaïlande : 14 % à 7 jours, 23,5 % à 14 jours, 33 % à 28 jours) ; 1 à 3 jours diminué |
+| A32 | Dengue (à l'étranger, zone d'endémie) | 0,2 % | actif | Seulement les jours à Manille ; ≈ 0,2 % par semaine en saison de transmission (modèle pour la Thaïlande : 0,2 % pour 7 jours, 0,81 % pour 30 jours) ; fièvre 4 à 10 jours après la piqûre |

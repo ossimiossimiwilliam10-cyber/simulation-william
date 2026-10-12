@@ -35,3 +35,33 @@ Toute réaction d'un personnage à un acte de William se tire avec `python outil
 - Jet « Avance rapide (routine de William, vacances) : réveil spontané avant 8 h le lundi 16/07/2040, sans réveil (OUI : 07h40 ; NON : 08h50) » : probabilité 40 %, jet  26.6 → **OUI** (enregistré le 12/10/2026 18:24 heure machine)
 
 - Message spontané d'un proche, semaine du 2040-07-16 : Clément Grandjean (membre régulier du club (sparring)) écrira le 17/07/2040 vers 09:25 (heure de l'expéditeur) · tiré parmi 38 personnes de l'entourage, pondérées par proximité (enregistré le 12/10/2026 18:24 heure machine)
+
+## Tirage de la semaine du 2040-07-16
+
+| ID | Événement | Probabilité | Jet (0-100) | Résultat |
+|---|---|---|---|---|
+| A02 | Problème de santé d'un proche d'un personnage (ex. mère d'Aïcha, tension) | 8 % |  85.8 | non |
+| A07 | Panne réseau (fibre, 4G) ou banque en ligne | 15 % |   4.3 | **DÉCLENCHÉ** — vendredi 20/07 (matin) |
+| A09 | Erreur administrative (virement mal affecté, pièce perdue, nom mal orthographié) | 10 % |   4.1 | **DÉCLENCHÉ** — mardi 17/07 (après-midi) |
+| A12 | Fuite d'information (salaires, avances, statut de William) | 5 % |  96.3 | non |
+| A13 | Opportunité commerciale inattendue (recommandation, appel d'un prospect) | 10 % |  94.2 | non |
+| A17 | William lui-même malade ou épuisé (fatigue, gastro) | 5 % |   8.2 | non |
+| A18 | Incident de transport (taxi, panne, retard) | 15 % |  91.2 | non |
+| A19 | Rhume, angine ou gastro de William | 5 % |  28.6 | non |
+| A20 | Perturbation des trajets frontaliers (bus en retard, A4 ou N4 bouchée, travaux) | 20 % |   3.7 | **DÉCLENCHÉ** — jeudi 19/07 (soir) |
+| A21 | Panne domestique (chauffe-eau, électroménager, fuite) | 4 % |  69.4 | non |
+| A22 | Courrier administratif (impôts français ou luxembourgeois, CNS, mairie, banque) | 10 % |   6.3 | **DÉCLENCHÉ** — dimanche 22/07 (matin) |
+| A23 | Tentative d'arnaque (SMS de faux colis, faux conseiller bancaire, faux site) | 15 % |   2.3 | **DÉCLENCHÉ** — lundi 16/07 (soir) |
+| A24 | Souci de voisinage (bruit, travaux, haie, stationnement) | 5 % |  69.9 | non |
+| A25 | Blessure légère à l'entraînement (entorse, côte, doigt) | 1 % |  38.5 | non |
+| A26 | Imprévu d'argent (amende, réparation, cadeau, cotisation) | 6 % |  74.4 | non |
+| A27 | Signe d'un ancien (collègue, élève devenu adulte, connaissance) | 8 % |  60.4 | non |
+| A28 | Courriel ou appel du lycée pendant les vacances (réunion de rentrée, ajournements, emploi du temps) | 10 % |  72.8 | non |
+| A29 | Contrôle routier ou radar | 3 % |  66.4 | non |
+| A30 | Occasion inattendue (proposition de cours particuliers, invitation, bon plan) | 8 % |  79.7 | non |
+| A31 | Diarrhée du voyageur ou intoxication alimentaire (à l'étranger) | 12 % |  67.9 | non |
+| A32 | Dengue (à l'étranger, zone d'endémie) | 0.2 % |  87.2 | non |
+
+Effets à jouer : A07 (vendredi 20/07 (matin)) : Retard d'un virement, d'un envoi, d'un rapport ; A09 (mardi 17/07 (après-midi)) : Correction longue, agacement ; A20 (jeudi 19/07 (soir)) : Semaines de travail (F029) ; sans objet pendant les vacances ou à l'étranger ; A22 (dimanche 22/07 (matin)) : Frontalier : deux administrations ; boîte aux lettres (lue au retour si absent) ou courriel ; A23 (lundi 16/07 (soir)) : Très courant ; William voit le message et décide
+
+- Aléa A20 (perturbation des trajets frontaliers), tiré pour le jeudi 19/07 au soir : **sans objet** (William est en vacances et arrive à Manille ce jour-là ; règle de etat/aleas.md). Consigné le 12/10/2026.

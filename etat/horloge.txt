@@ -3,5 +3,4 @@ horloge: 2040-07-16 07:40
 fuseau: luxembourg
 lieu: Audun-le-Tiche (Moselle), chez William
 tour: 8
-attente: Décisions de l'utilisateur sur la revue du lundi n° 1 (puis tirage des aléas de la semaine)
 attente: Sa journée du lundi 16/07/2040 : eTravel possible dès 10h30 ; départ pour Manille le mercredi 18/07 à 15h40 (R003-R004) ; trajet vers Findel non prévu

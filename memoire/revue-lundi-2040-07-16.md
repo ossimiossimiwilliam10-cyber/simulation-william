@@ -35,7 +35,8 @@
 Voir `etat/monde.md`, « Semaine du 16 au 22/07/2040 ».
 
 ## 5. Décisions de l'utilisateur
-*(En attente.)*
+« Je valide absolument tout ! » (12/10/2026) : voir `memoire/propositions-2026-10-11.md`, section G.
 
 ## 6. Tirage des aléas de la semaine
-*(Après les décisions : `python outils/tirage_aleas.py 2040-07-16`.)*
+Tiré avec le pack validé (`memoire/tirages-aleas.md`, « Tirage de la semaine du 2040-07-16 ») : 5 aléas déclenchés sur 21 ; A20
+sans objet (vacances) ; les quatre autres sont à l'agenda du moteur (A014 à A017, non connus de William) et se jouent au jour tiré.

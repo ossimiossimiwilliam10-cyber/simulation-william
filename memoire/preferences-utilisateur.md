@@ -74,6 +74,10 @@
   5 000 €/mois estimés). Quand un détail de biographie manque et change l'issue d'une action, lui poser la question avant de jouer,
   avec l'option la plus réaliste en premier (il a choisi l'option recommandée).
 
+- **Revue du lundi n° 1** (12/10/2026 ; lundi 16/07/2040 simulé) : « Je valide absolument tout ! » : propositions P01 à P21, tables
+  T12 à T22, pack d'aléas de l'univers 2 (A19 à A32), idées I1 à I4 (`memoire/propositions-2026-10-11.md`, section G). Il préfère
+  valider en bloc ; lui présenter les revues de façon compacte, avec des numéros.
+
 ## Grandes décisions hors fiction (historique)
 - 25/07/2040 (simulé) : il a envisagé d'arrêter, puis a décidé de continuer avec tous les paramètres.
 - 11/10/2026 (réel) : redémarrage complet (univers 2) à 35 ans, argent initial, paramètres repris ; départ d'abord fixé au mardi

@@ -182,3 +182,18 @@ aucune_reponse −5.
   tempête qui fige la ville).
 - **P20 — Vieillissement et mortalité** des personnages (tables de l'INSEE, du STATEC et de la PSA) pour les longues avances.
 - **P21 — Trajets** : application Transports (Luxembourg gratuit, bus RegioZone, embouteillages tirés aux heures de pointe).
+
+## G. Décisions de la revue du lundi n° 1 (12/10/2026, date réelle ; lundi 16/07/2040, date simulée)
+L'utilisateur : « Je valide absolument tout ! ». Tout ce qui précède est VALIDÉ (P01 à P21, T12 à T14, la pondération du message
+spontané d'un proche, les précisions facultatives C2 et les idées I1 à I4 de la revue). État de l'application :
+- **En vigueur le jour même** : P01 (T15 à T18) et P04 (T19) et P16 (T21a, T21b) dans `etat/modele-pouvoir.md` ; T12 à T14
+  confirmées ; P02 (pack d'aléas de l'univers 2, A19 à A30) et I4 (A31 diarrhée du voyageur, A32 dengue) dans `etat/aleas.md`,
+  tirés pour la semaine du 16/07 ; P03 (météo +1,5 °C, effets sans A05) ; P06 (T22, avance hebdomadaire d'un front « temps ») ;
+  pondération du message spontané (`rituels.py message-proche`) ; P11 et P13 (déjà en place) ; C2 : virements de 2 × 2 850 € gardés,
+  maison d'environ 75 m², les parents n'écrivent pas.
+- **À appliquer par le moteur avant que cela compte** (fils ouverts, B) : P21 application Transports (trajet vers Findel, avant le
+  18/07) ; P19 arrivée à Manille, I1 frais à l'étranger, I2 caution d'hôtel, I3 décalage horaire (avant le 19/07) ; P18 dépenses
+  courantes forfaitaires (dès que possible) ; P10 paie calculée et P17 ETF vivants (avant le 31/07) ; P05 relations chiffrées, P07 tour
+  du monde par cercles (dès le premier personnage récurrent) ; P14 revue enrichie (revue n° 2, 23/07) ; P20 vieillissement (avances
+  rapides longues).
+- **Reste ouvert** : modèle de la voiture (aucune proposition faite : sans effet tant qu'elle ne tombe pas en panne).

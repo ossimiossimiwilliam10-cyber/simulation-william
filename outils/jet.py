@@ -37,9 +37,10 @@ JOURNAL = RACINE / "memoire" / "tirages-aleas.md"
 JOURNAL_JSON = RACINE / "memoire" / "tirages.jsonl"
 SIMULATIONS_JSON = RACINE / "memoire" / "simulations.jsonl"
 PERSONNAGES_CSV = RACINE / "etat" / "personnages.csv"
-TABLES_INTERDITES_MINEURS = ("T1", "T1b", "T9", "T20a", "T20b")
+TABLES_INTERDITES_MINEURS = ("T1", "T1b", "T9", "T17", "T20a", "T20b", "T21a", "T21b")
 # T20a et T20b (12/10/2026) : la personne doit être nommée (--pour), inscrite, avec sa date de naissance, et majeure
-TABLES_ADULTE_VERIFIE = ("T20a", "T20b")
+# T17, T21a et T21b (12/10/2026, revue n° 1) : même garde (rencontre adulte, application de rencontre)
+TABLES_ADULTE_VERIFIE = ("T17", "T20a", "T20b", "T21a", "T21b")
 for flux in (sys.stdout, sys.stderr):
     if hasattr(flux, 'reconfigure'):
         flux.reconfigure(encoding='utf-8')

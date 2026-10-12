@@ -1,75 +1,30 @@
 # Dernier tour montré au joueur
 
-> Tour n° 8 ; horloge 14/07/2040 11:25 -> 16/07/2040 07:40 ; enregistré le 12/10/2026 18:28 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 8 ; horloge 16/07/2040 07:40 -> 16/07/2040 07:40 ; enregistré le 12/10/2026 18:42 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je me fais un rappel pour eTravel. Go
+> Je valide absolument tout !
 
 ## Texte envoyé au joueur
 
-**LUNDI 16 JUILLET 2040 — 07h40 — Audun-le-Tiche, chez toi**
-
-Sur ton téléphone, tu crées un rappel pour le lundi 16 juillet à 10h30 : « Remplir l'eTravel ».
-
-Le samedi s'étire ensuite à la maison. La chaleur monte jusqu'à 28 °C en fin d'après-midi et reste prise dans les murs de pierre de l'étage ; les volets restent mi-clos jusqu'au soir. Personne n'écrit, personne n'appelle. Vers 23 heures, des pétards claquent au loin, du côté du centre. Tu te couches à 0h20.
-
-Le dimanche, tu te réveilles à 9h10. Le ciel s'est couvert pendant la nuit, et les averses se succèdent toute la journée. La gouttière déborde au-dessus de la porte d'entrée, et l'air ne dépasse plus 21 °C. La rue reste vide, à part un parapluie qui passe sous la fenêtre en fin d'après-midi. Le sac de voyage attend au pied du lit. Tu te couches à 23h15.
-
-Le lundi, tu ouvres les yeux à 7h40. Le soleil est revenu, et il fait 16 °C dehors. Le téléphone n'affiche aucun message.
+📌 **Vraie vie** : tout est validé et appliqué.
+- **En vigueur dès maintenant** :
+  - les nouveaux aléas, A19 à A32, dont la diarrhée du voyageur et la dengue à l'étranger ;
+  - les tables T15 à T19, T21 et T22, et les pourcentages de T12 à T14 ;
+  - la maison d'environ 75 m², les deux virements de 2 850 €, et tes parents n'écrivent pas.
+- **Les aléas de la semaine sont tirés.** Ils restent secrets jusqu'à leur jour.
+- **Mis en place avant que ça compte** :
+  - l'application Transports, avant ton départ ;
+  - l'arrivée à Manille avant le 19/07 : frais à l'étranger, caution d'hôtel, décalage horaire, carte SIM, change, taxis ;
+  - avant le 31/07 : les dépenses courantes, la paie calculée et les ETF qui bougent.
+- Le modèle de la voiture reste libre : aucune proposition n'avait été faite.
 
 ---
 
-**🔄 Revue du lundi n° 1** *(hors fiction)*
+**LUNDI 16 JUILLET 2040 — 07h40 — Audun-le-Tiche, chez toi**
 
-**1. Bilan des 14 et 15/07**
-- Corrigé : la destination du voyage (Manille, à ta demande), quelques lignes périmées, l'âge minimum des rencontres (18 ans), tes cartes bancaires (Zebra Premium).
-- Ajouté : les plafonds des cartes et le relevé différé de la carte de crédit ; les virements programmés, qui n'étaient jamais exécutés à leur date ; la fenêtre de 72 heures de l'eTravel ; le tirage automatique du message spontané d'un proche.
-- Contrôles : aucune réaction de personnage tirée cette semaine, aucune non-conformité, aucun tic d'écriture relevé. Deux confirmations de réservation en PDF, vérifiées.
-
-**2. À valider** (réponds par les numéros)
-- **P02 — Aléas de l'univers 2.** On retire ceux d'Abidjan (A01, A03, A04, A05, A06) et on active, par semaine :
-  - A19 rhume ou gastro de William (5 %) ;
-  - A20 trajets frontaliers perturbés (20 %) ;
-  - A21 panne à la maison (4 %) ;
-  - A22 courrier administratif (10 %) ;
-  - A23 tentative d'arnaque (15 %) ;
-  - A24 souci de voisinage (5 %) ;
-  - A25 blessure légère à l'entraînement (1 %) ;
-  - A26 imprévu d'argent (6 %) ;
-  - A27 signe d'un ancien (8 %) ;
-  - A28 courriel du lycée (10 % en juillet, 30 % fin août) ;
-  - A29 contrôle routier (3 %) ;
-  - A30 occasion inattendue (8 %).
-
-  A02, A07, A09, A12, A13, A17 et A18 restent actifs.
-- **P01 — Tables T15 à T18** : réaction d'un pair, d'un supérieur, d'un inconnu ou d'une rencontre adulte (T17, utile à Manille hors des lieux de commerce), et tenue des promesses.
-- **P16 — T21** : réactions sur l'application de rencontre, au « j'aime » et au premier message.
-- **T12 à T14** : confirmer les pourcentages repris de l'univers 1 (négociations, contenu des événements, initiatives des personnages).
-- **Autres propositions** :
-  - P03 météo projetée à +1,5 °C ;
-  - P04 effets de la fatigue ;
-  - P05 relations chiffrées ;
-  - P06 menaces et occasions qui avancent seules ;
-  - P07 vie des personnages tirée selon la proximité ;
-  - P10 paie calculée (points, retenues, 13e mois) ;
-  - P17 ETF qui bougent chaque mois ;
-  - P18 dépenses courantes forfaitaires ;
-  - P19 arrivée à Manille (carte SIM, change, taxis par application, typhons) ;
-  - P20 vieillissement des personnages ;
-  - P21 application Transports.
-- **Message spontané d'un proche** : tiré chaque semaine dans ton entourage, pondéré par la proximité (club 3, collègues 2, voisins, direction et secrétariat du lycée 1).
-- **Facultatif** : le montant des virements automatiques (2 × 2 850 €), la surface de la maison (≈ 75 m² proposé), le modèle de la voiture, et si tes parents peuvent encore t'écrire (par défaut, non).
-
-**3. Idées de la semaine**
-- I1 : frais à l'étranger, c'est-à-dire la commission de change sur chaque paiement en pesos et les frais des distributeurs philippins.
-- I2 : caution d'hôtel à l'arrivée, une pré-autorisation qui bloque une partie du plafond de la carte.
-- I3 : décalage horaire de 6 heures, avec un sommeil perturbé les premiers jours.
-- I4 : santé en voyage (intoxication alimentaire, dengue), un aléa de voyage à chiffrer.
-
-**4. Le monde cette semaine** : vacances d'été au Luxembourg jusqu'au 16/09 ; chantiers routiers d'été sur les axes frontaliers ; Blues'n Jazz Rallye le samedi 21/07 à Luxembourg-Ville ; à Manille, saison des pluies, avec des typhons possibles jusqu'en novembre.
-
-**Ta décision** : par exemple « tout valider », ou « valider P01, P02, P16 et I1 ; refuser P04 ». Je tire les aléas de la semaine juste après, avec le pack que tu auras choisi.
+Rien n'a bougé depuis ton réveil. Dehors, la rue est encore à l'ombre sous un ciel d'un bleu net.
 
 ---
 
@@ -79,14 +34,12 @@ Le lundi, tu ouvres les yeux à 7h40. Le soleil est revenu, et il fait 16 °C de
 - Personne n'attend de réponse de ta part.
 
 **À faire / à fournir avant le tour suivant**
-- **Revue n° 1** : tes décisions ci-dessus.
 - **eTravel** : possible à partir de 10h30 aujourd'hui (rappel programmé).
 - **Départ** : mercredi 18/07, vol LH 391 à 15h40 depuis Findel. Rien n'est prévu pour aller jusqu'à l'aéroport.
 - **Séjour de 36 jours** : au-delà de 30 jours sans visa, il faut une prolongation au Bureau de l'immigration, vers le 17/08.
 
 **Quêtes secondaires**
 - Visa Premier : 110 € disponibles jusqu'au 30/07, puis relevé de 4 890 € débité le mardi 07/08. Visa Debit : 2 500 € par mois.
-- Ce matin : prélèvement de la box internet et du forfait mobile (63 €).
 - Mardi 31/07 : traitement de juillet.
 - Mercredi 01/08 : cotisation du club (85 €) et package bancaire (12,83 €).
 - Jeudi 02/08 : virements automatiques, 2 850 € vers le compte épargne et 2 850 € vers les ETF.
