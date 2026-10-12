@@ -182,8 +182,43 @@ def mot_trait(k, v):
     return noms[k][0] if v >= 60 else noms[k][2] if v <= 40 else noms[k][1]
 
 
-def catalogue(rng, categorie, traits, n=1, exclus=()):
-    lignes = [l for l in table("catalogues.csv") if l["categorie"] == categorie and l["element"] not in exclus]
+def situation(a, metier, foyer, nationalite, zone):
+    """Ce que le catalogue doit respecter (12/10/2026 : un retraité de 74 ans tiré avec un « burn-out qui couve », un parent
+    isolé avec un « couple en crise ») : âge, emploi, couple, enfants à charge, nationalité, pays de résidence."""
+    m, f, nat = (metier or "").lower(), (foyer or "").lower(), (nationalite or "").lower()
+    retraite, sans_emploi = "retraité" in m, "sans emploi" in m
+    etudiant = "étudiant" in m or m == "élève"
+    en_couple = "en couple" in f
+    return {"age": a, "retraite": retraite, "sans_emploi": sans_emploi, "actif": not (retraite or sans_emploi or etudiant),
+            "en_couple": en_couple, "seul": not en_couple, "veuf": "veuf" in f,
+            "parent": any(x in f for x in ("avec enfants", "enfants en bas âge", "parent isolé")),
+            "immigre": not (nat.startswith("luxembourgeoise") or nat.startswith("française")),
+            "non_lu": not nat.startswith("luxembourgeoise"), "reside_lu": zone != "audun"}
+
+
+def convient(condition, s):
+    """« actif,age:22-45 », « pas_veuf », « non_lu,reside_lu » : toutes les clauses doivent être vraies."""
+    if not s:
+        return True
+    for c in (condition or "").split(","):
+        c = c.strip()
+        if not c:
+            continue
+        if c.startswith("age:"):
+            lo, hi = (int(x) for x in c[4:].split("-"))
+            if not lo <= s["age"] <= hi:
+                return False
+        elif c.startswith("pas_"):
+            if s.get(c[4:]):
+                return False
+        elif not s.get(c):
+            return False
+    return True
+
+
+def catalogue(rng, categorie, traits, n=1, exclus=(), situation_=None):
+    lignes = [l for l in table("catalogues.csv") if l["categorie"] == categorie and l["element"] not in exclus
+              and convient(l.get("condition"), situation_)]
     choix = []
     for _ in range(n):
         couples = []
@@ -254,7 +289,10 @@ def tirer_metier(rng, ctx, role, a):
         return role, ""
     if a >= 65:
         return "retraité(e)", ""
-    return pondere(rng, METIERS_AUDUN if ctx["zone"] == "audun" else METIERS_REGION), ""
+    # pas de retraité avant 58 ans (départs anticipés pour carrière longue au plus tôt), pas d'étudiant après 30 ans (12/10/2026)
+    liste = [(m, p) for m, p in (METIERS_AUDUN if ctx["zone"] == "audun" else METIERS_REGION)
+             if not (("retraité" in m and a < 58) or ("étudiant" in m and a >= 30))]
+    return pondere(rng, liste), ""
 
 
 def tirer_registre(rng, ctx, a):
@@ -336,17 +374,18 @@ def tirer(contexte, role, sexe=None, ages=None, rng=None, existants=()):
     defauts = catalogue(rng, "defaut", traits, 2)
     qualite = catalogue(rng, "qualite", traits, 1)
     contradiction = catalogue(rng, "contradiction", traits, 1) if (not mineur and rng.random() < 0.5) else []
+    foyer = tirer_foyer(rng, a)
+    metier, employeur = tirer_metier(rng, ctx, role, a)
+    s = situation(a, metier, foyer, nat, zone)
     if mineur:
         objectif, souci, secret, grav = [rng.choice(OBJECTIFS_MINEUR)], [rng.choice(SOUCIS_MINEUR)], [], 0
     else:
-        objectif = catalogue(rng, "objectif", traits, 1, exclus=EXCLUS_ORIGINE_LU if origine == "lu" else ())
-        souci = catalogue(rng, "souci", traits, 1)
-        secret = catalogue(rng, "secret", traits, 1)
+        objectif = catalogue(rng, "objectif", traits, 1, exclus=EXCLUS_ORIGINE_LU if origine == "lu" else (), situation_=s)
+        souci = catalogue(rng, "souci", traits, 1, situation_=s)
+        secret = catalogue(rng, "secret", traits, 1, situation_=s)
         grav = gravite(secret[0]) if secret else 0
     loisirs = catalogue(rng, "loisir", traits, 1 + (rng.random() < 0.5))
     oubli = max(0.03, min(0.30, 0.12 - (traits["C"] - 50) * 0.004))
-    foyer = tirer_foyer(rng, a)
-    metier, employeur = tirer_metier(rng, ctx, role, a)
     lang = {l["origine"]: l for l in table("langues.csv")}.get(origine, {})
     taille, corpulence, signes = physique(rng, origine, sexe, ctx, a)
     return {

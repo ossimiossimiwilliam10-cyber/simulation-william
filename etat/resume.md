@@ -1,8 +1,8 @@
-# Résumé d'état (généré le 11/10/2026 22:17 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 12/10/2026 07:36 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : samedi 14/07/2040 08:37 (luxembourg, UTC+2)
+## Horloge : samedi 14/07/2040 08:40 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 06:37 ; lisbonne 07:37 ; mindelo 05:37 ; casablanca 07:37 ; douala 07:37 ; paris 08:37
+- **Heure dans les autres lieux** : abidjan 06:40 ; lisbonne 07:40 ; mindelo 05:40 ; casablanca 07:40 ; douala 07:40 ; paris 08:40
 - **En attente de William** :
   - Sa journée du samedi 14/07/2040 (premier jour des vacances d'été ; Fête nationale française)
 
@@ -10,9 +10,9 @@
 - Compte courant (Spuerkeess) : **9 800,00 €**
 - Compte épargne « Projet » (Spuerkeess) : **357 000,00 €**
 - ETF (valeur de marché : calages seulement) : **288 000,00 €**
-- Prêt logement : solde restant dû (passif, déjà déduit de la part de maison) : **110 000,00 €**
-- Part nette de la maison d'Audun-le-Tiche : **90 000,00 €**
-- Patrimoine net de William : **744 800,00 €**
+- Prêt logement : solde restant dû (passif, déjà déduit de la part de maison) : **110 003,13 €**
+- Part nette de la maison d'Audun-le-Tiche : **89 996,87 €**
+- Patrimoine net de William : **744 796,87 €**
 - Prévu dans les 14 jours : 16/07 Box internet fibre et forfait mobile (-63,00 €)
 
 ## Agenda : dans les 24 heures (0)
@@ -33,9 +33,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2040-07-14.md, 6 dernières lignes)
-> > de classe : vendredi 13/07 ; rentrée : lundi 17/09 ; projection fondée sur le règlement grand-ducal du 3 juin 2026, voir
 > > `donnees/faits.csv` F001). Le faux départ du mardi 17/07/2040 (un tour, sans action de William) est archivé :
 > > `archives/univers-2-faux-depart/`.
 > - **Nuit du 13 au 14/07** : coucher vers 23h20 (tiré au dé : `memoire/tirages-aleas.md`) ; environ 9 h de sommeil.
 > - **08h37** : réveil spontané, sans réveil (tiré au dé), chez lui, à Audun-le-Tiche. Départ de l'univers 2.
-> - Tour en cours à 08h37, en attente de William : **sa journée**.
+> - **08h37-08h40** (tour n° 1) : neuf heures de sommeil d'affilée ; aucun message ni appel de la nuit ; 20 °C dehors, grand soleil annoncé (28 °C), pluie demain. 14 juillet : férié côté français (supermarché et boulangerie d'Audun fermés), jour ordinaire au Luxembourg. Trace : en face, un voisin bricole sa voiture (capot, clé à cliquet), non nommé, rien d'adressé à William. Réponses de biographie a
+> - Tour en cours à 08h40, en attente de William : **sa journée**. *(Avant : « Tour en cours à 08h37 » → maintenant : 08h40, tour n° 1 joué.)*

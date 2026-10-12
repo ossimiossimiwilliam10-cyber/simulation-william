@@ -1,0 +1,47 @@
+# Dernier tour montré au joueur
+
+> Tour n° 1 ; horloge 14/07/2040 08:37 -> 14/07/2040 08:40 ; enregistré le 12/10/2026 07:36 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+
+## Message du joueur
+
+> (11/10/2026, réponses hors fiction aux questions de biographie) Alors, oui, j'ai une voiture électrique. Comment la maison est-elle chauffée La maison est chauffée en fait au gaz. Hein. Voilà. Combien envoie-t-il à ses parents et à quel rythme Je n'envoie plus d'argent à mes parents. J'ai totalement coupé les ponts avec eux à part à ce moment-là. Où s'en craignent-ils Propose-moi un club à Esch. Alors le crédit. Ouais, concernant le crédit, attends un peu. Ouais, en fait, le crédit, je t'avoue, j'ai balancé des trucs comme ça au hasard. Je sais pas si c'est réaliste. Sinon, bah, essayer de trouver un bail réaliste en vrai. Alors, ces virements sont-ils automatiques ? Oui, oui, ces virements-là sont automatiques. Alors, je génère, hein, ces collègues, ce personnel, ce personnel, j'ai découvert au fil du jeu. Euh, en vrai, tu peux les générer maintenant, tu vois. Genre, voici, ça peut te faire le travail en avance. Mais j'aimerais bien les découvrir au fil du jeu, sincèrement. Mais tu peux déjà les mettre dans la base de données. Et aussi, j'ai une question. Au plus haut du haut, genre à mes 80 ans, ou vraiment au moment où je vais mourir dans le jeu, au maximum, la simulation peut accepter combien de personnages, en fait, connus et que je connais. Euh, concernant le dernier, l'ancien Warcry, tu peux le supprimer, sauf s'il est important.
+> (12/10/2026) J'ai atteint ma limite d'utilisation pendant que vous travailliez, mais elle a été réinitialisée. Veuillez continuer là où vous vous êtes arrêté.
+
+## Texte envoyé au joueur
+
+**SAMEDI 14 JUILLET 2040 — 08h40 — Audun-le-Tiche, chez toi**
+
+Tu te réveilles sans réveil, à 8h37. La lumière passe en lames entre les fentes du volet roulant et raye le mur d'en face. Tu as dormi neuf heures d'affilée, sans te réveiller une seule fois.
+
+Hier, c'était le dernier jour de classe. Devant toi, un peu plus de neuf semaines sans emploi du temps : la rentrée n'aura lieu que le lundi 17 septembre.
+
+En bas, le frigo se relance avec un claquement sec. Sur le palier, les deux autres chambres sont fermées ; l'une sert de débarras. Dans la rue, rien ne bouge, sauf en face : un capot claque, puis viennent les petits coups réguliers d'une clé à cliquet.
+
+Sur la table de chevet, l'écran du téléphone est resté noir : pas un message, pas un appel de la nuit.
+
+Il fait déjà 20 °C dehors. On annonce un grand soleil, 28 °C dans l'après-midi, et de la pluie pour demain.
+
+C'est le 14 juillet. De ce côté de la frontière, c'est férié : le supermarché et la boulangerie d'Audun restent fermés toute la journée. À un quart d'heure d'ici, au Luxembourg, c'est un samedi comme un autre.
+
+---
+
+**À toi : samedi 14/07, 08h40.**
+
+**Réponses attendues**
+- Personne n'attend de réponse de ta part.
+
+**À faire / à fournir avant le tour suivant**
+- Rien d'obligatoire.
+
+**Quêtes secondaires**
+- **Minett Combat Club** (Esch-sur-Alzette) : horaire d'été depuis aujourd'hui.
+  - Sparring libre le samedi à 10h30.
+  - MMA le lundi et le mercredi à 19h00.
+  - Les autres cours sont suspendus jusqu'à la rentrée.
+  - Fermeture complète du lundi 13 au dimanche 26 août.
+- Lundi 16/07 : prélèvement de la box internet et du forfait mobile (63 €).
+- Mardi 31/07 : traitement de juillet.
+- Jeudi 02/08 : premiers virements automatiques, 2 850 € vers l'épargne « Projet » et 2 850 € vers les ETF.
+- Lundi 17/09 : rentrée au lycée.
+
+Que veux-tu faire ?
