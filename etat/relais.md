@@ -1,54 +1,49 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 12/10/2026 18:42 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 13/10/2026 09:03 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : lundi 16 juillet 2040, 07h40 (luxembourg) ; tour n° 8
+- Horloge : lundi 16 juillet 2040, 07h50 (luxembourg) ; tour n° 9
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Sa journée du lundi 16/07/2040 : eTravel possible dès 10h30 ; départ pour Manille le mercredi 18/07 à 15h40 (R003-R004) ; trajet vers Findel non prévu
+- En attente de William : Sa journée du lundi 16/07/2040 : eTravel possible dès 10h30 ; départ pour Manille le mercredi 18/07 à 15h40 (R003-R004), en transports en commun (≈ 1 h 30 depuis la mairie)
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 8 ; horloge 16/07/2040 07:40 -> 16/07/2040 07:40 ; enregistré le 12/10/2026 18:42 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 9 ; horloge 16/07/2040 07:50 -> 16/07/2040 07:50 ; enregistré le 13/10/2026 09:03 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je valide absolument tout !
+> je prévois de prendre les transports en commun jusqu'à l'aéroport, je laisse ma voiture.
 
 ## Texte envoyé au joueur
 
-📌 **Vraie vie** : tout est validé et appliqué.
-- **En vigueur dès maintenant** :
-  - les nouveaux aléas, A19 à A32, dont la diarrhée du voyageur et la dengue à l'étranger ;
-  - les tables T15 à T19, T21 et T22, et les pourcentages de T12 à T14 ;
-  - la maison d'environ 75 m², les deux virements de 2 850 €, et tes parents n'écrivent pas.
-- **Les aléas de la semaine sont tirés.** Ils restent secrets jusqu'à leur jour.
-- **Mis en place avant que ça compte** :
-  - l'application Transports, avant ton départ ;
-  - l'arrivée à Manille avant le 19/07 : frais à l'étranger, caution d'hôtel, décalage horaire, carte SIM, change, taxis ;
-  - avant le 31/07 : les dépenses courantes, la paie calculée et les ETF qui bougent.
-- Le modèle de la voiture reste libre : aucune proposition n'avait été faite.
+**LUNDI 16 JUILLET 2040 — 07h50 — Audun-le-Tiche, chez toi**
+
+Encore au lit, tu ouvres l'application Transports et tu demandes le trajet de la mairie d'Audun jusqu'à l'aéroport de Findel pour le mercredi 18 juillet. C'est un jour de vacances scolaires : les bus partent de la mairie toutes les demi-heures. L'application propose trois chemins, de 1 h 25 à 1 h 30 de bout en bout :
+- le bus 604 direct jusqu'à Hamilius, au centre de Luxembourg, puis le tram jusqu'à l'aéroport ;
+- le bus 604 jusqu'à la gare d'Esch, le train jusqu'à la Gare Centrale de Luxembourg, puis le tram ;
+- le même bus et le même train, puis le bus 29 depuis la gare.
+
+Côté luxembourgeois, tout est gratuit. La partie française demande un billet RegioZone de 2 heures, à 4,05 €. Il ne se vend plus à bord : il s'achète dans l'application CFL go ou aux automates.
+
+La voiture restera à Audun.
+
+Le camion-poubelle remonte la rue, et ses freins soufflent à chaque arrêt.
 
 ---
 
-**LUNDI 16 JUILLET 2040 — 07h40 — Audun-le-Tiche, chez toi**
-
-Rien n'a bougé depuis ton réveil. Dehors, la rue est encore à l'ombre sous un ciel d'un bleu net.
-
----
-
-**À toi : lundi 16/07, 07h40.**
+**À toi : lundi 16/07, 07h50.**
 
 **Réponses attendues**
 - Personne n'attend de réponse de ta part.
 
 **À faire / à fournir avant le tour suivant**
 - **eTravel** : possible à partir de 10h30 aujourd'hui (rappel programmé).
-- **Départ** : mercredi 18/07, vol LH 391 à 15h40 depuis Findel. Rien n'est prévu pour aller jusqu'à l'aéroport.
+- **Départ** : mercredi 18/07, vol LH 391 à 15h40 depuis Findel. En transports en commun, il faut compter environ 1 h 30 depuis la mairie, avec un billet RegioZone (4,05 €) pour la partie française.
 - **Séjour de 36 jours** : au-delà de 30 jours sans visa, il faut une prolongation au Bureau de l'immigration, vers le 17/08.
 
 **Quêtes secondaires**
@@ -57,6 +52,8 @@ Rien n'a bougé depuis ton réveil. Dehors, la rue est encore à l'ombre sous un
 - Mercredi 01/08 : cotisation du club (85 €) et package bancaire (12,83 €).
 - Jeudi 02/08 : virements automatiques, 2 850 € vers le compte épargne et 2 850 € vers les ETF.
 - Lundi 17/09 : rentrée au lycée.
+
+Avance rapide possible : « **Go** » fait passer la matinée à la maison jusqu'à 10h30, l'heure du rappel de l'eTravel. Elle s'arrête au premier message ou événement qui demande une décision.
 
 Que veux-tu faire ?
 
@@ -69,8 +66,8 @@ Que veux-tu faire ?
 - rien
 
 ## Décisions en attente de William (etat/fils-ouverts.md, A)
-| 1 | **Sa journée du lundi 16/07/2040** | Troisième jour des vacances ; eTravel possible dès 10h30 (rappel du téléphone) ; départ pour Manille le mercredi 18/07 à 15h40 ; trajet vers Findel non prévu *(avant : « Sa journée du samedi 14/07/2040 » → maintenant : lundi 16/07, après l'avance rapide du tour n° 8)* | — |
-| 2 | **Voyage à Manille** (ouvert le 14/07/2040) | **RÉSERVÉ le 14/07 à 10h44** (R003 et R004, Kestrel Voyages, 4 890 € sur la Visa Premier, débités au relevé du 07/08) : vol Lufthansa + Qatar Airways PVS2HS, aller mer. 18/07 15h40 de Findel (LH 391, QR 68, QR 932) → Manille jeu. 19/07 16h30 ; retour ven. 24/08 18h30 (QR 933, QR 69, LH 390) → Luxembourg sam. 25/08 10h05 ; City Garden Grand Hotel (Makati), 36 nuits du 19/07 au 24/08 (R6T4JZA2) ; confirmations PDF dans `courriels/` ; agenda A007 à A011. Restent : eTravel (dès le lun. 16/07 10h30, heure du Luxembourg ; tentative du 14/07 à 11h20 refusée par le portail : trop tôt, F064), prolongation de séjour avant la fin des 30 jours sans visa (vers le 17/08), trajet vers Findel le 18/07 (rien de prévu) ; Visa Premier : 110 € disponibles jusqu'au 30/07. Bagage : un seul sac de voyage, fait le 14/07 (poids non mesuré) ; **pour le moteur** : la franchise de bagages du tarif (vols.csv : « selon le tarif choisi ») est à établir par recherche avant l'enregistrement du 18/07. *(Avant : « Rien de réservé : paiement refusé » → maintenant : réservé, 14/07 10h44.)* ~~Rien de réservé : paiement refusé.~~ Le 14/07 à 10h33, William a tenté de payer le forfait Lufthansa + Qatar Airways (Findel mer. 18/07 15h40 → Manille jeu. 19/07 16h30 ; retour mer. 05/09 18h30 → Luxembourg jeu. 06/09 10h05) + 48 nuits au Makati Shangri-La (19/07 – 05/09) : 10 741 € chez Kestrel Voyages, avec sa Visa Premier : refusé, limite mensuelle de 5 000 € dépassée (Visa Debit : 2 500 €/mois) ; panier resté ouvert sur le site ; rien de débité (R002). 30 000 € virés de l'épargne vers le compte courant à 10h25. À décider par William : moyen de payer (hausse de limite dans S-Net, autre combinaison, autre agence…). Séjour de 48 jours : prolongation au Bureau de l'immigration au-delà de 30 jours ; eTravel dans les 72 h avant l'arrivée. *(Avant : « Rien de réservé. Dates envisagées : aller ven. 20/07, retour ven. 31/08 ; vol et hôtel à choisir » → maintenant : forfait choisi, paiement refusé, 14/07 10h33.)* *(Avant : « Voyage à Yaoundé » avec un vol réservé → maintenant : Manille, correction hors fiction U2-18 du 12/10/2026.)* ~~Ancienne ligne : **Vol réservé et payé le 14/07 à 10h04** (R001, CYNERS : aller ven. 20/07 18h30, retour ven. 31/08, 2 179 €). À faire : e-visa (réponse en 72 h ouvrées ou 24 h en express), certificat de fièvre jaune (biographie : question posée à l'utilisateur le 12/10/2026), hébergement à Yaoundé (rien de réservé), trajet vers Findel. *(Avant : « recherches faites, rien de réservé » → maintenant : vol réservé, 14/07 10h04.)*~~ | — |
+| 1 | **Sa journée du lundi 16/07/2040** | Troisième jour des vacances ; eTravel possible dès 10h30 (rappel du téléphone) ; départ pour Manille le mercredi 18/07 à 15h40, en transports en commun (décidé à 07h45) *(avant : « Sa journée du samedi 14/07/2040 » → maintenant : lundi 16/07, après l'avance rapide du tour n° 8)* | — |
+| 2 | **Voyage à Manille** (ouvert le 14/07/2040) | **RÉSERVÉ le 14/07 à 10h44** (R003 et R004, Kestrel Voyages, 4 890 € sur la Visa Premier, débités au relevé du 07/08) : vol Lufthansa + Qatar Airways PVS2HS, aller mer. 18/07 15h40 de Findel (LH 391, QR 68, QR 932) → Manille jeu. 19/07 16h30 ; retour ven. 24/08 18h30 (QR 933, QR 69, LH 390) → Luxembourg sam. 25/08 10h05 ; City Garden Grand Hotel (Makati), 36 nuits du 19/07 au 24/08 (R6T4JZA2) ; confirmations PDF dans `courriels/` ; agenda A007 à A011. Restent : eTravel (dès le lun. 16/07 10h30, heure du Luxembourg ; tentative du 14/07 à 11h20 refusée par le portail : trop tôt, F064), prolongation de séjour avant la fin des 30 jours sans visa (vers le 17/08), trajet vers Findel le 18/07 : **en transports en commun, la voiture reste à Audun** (décision du 16/07 à 07h45 ; ≈ 1 h 30 depuis la mairie, billet RegioZone de 4,05 € pour la partie française : `transports.py options --de AUD --vers FDL`) *(avant : « rien de prévu »)* ; Visa Premier : 110 € disponibles jusqu'au 30/07. Bagage : un seul sac de voyage, fait le 14/07 (poids non mesuré) ; **pour le moteur** : la franchise de bagages du tarif (vols.csv : « selon le tarif choisi ») est à établir par recherche avant l'enregistrement du 18/07. *(Avant : « Rien de réservé : paiement refusé » → maintenant : réservé, 14/07 10h44.)* ~~Rien de réservé : paiement refusé.~~ Le 14/07 à 10h33, William a tenté de payer le forfait Lufthansa + Qatar Airways (Findel mer. 18/07 15h40 → Manille jeu. 19/07 16h30 ; retour mer. 05/09 18h30 → Luxembourg jeu. 06/09 10h05) + 48 nuits au Makati Shangri-La (19/07 – 05/09) : 10 741 € chez Kestrel Voyages, avec sa Visa Premier : refusé, limite mensuelle de 5 000 € dépassée (Visa Debit : 2 500 €/mois) ; panier resté ouvert sur le site ; rien de débité (R002). 30 000 € virés de l'épargne vers le compte courant à 10h25. À décider par William : moyen de payer (hausse de limite dans S-Net, autre combinaison, autre agence…). Séjour de 48 jours : prolongation au Bureau de l'immigration au-delà de 30 jours ; eTravel dans les 72 h avant l'arrivée. *(Avant : « Rien de réservé. Dates envisagées : aller ven. 20/07, retour ven. 31/08 ; vol et hôtel à choisir » → maintenant : forfait choisi, paiement refusé, 14/07 10h33.)* *(Avant : « Voyage à Yaoundé » avec un vol réservé → maintenant : Manille, correction hors fiction U2-18 du 12/10/2026.)* ~~Ancienne ligne : **Vol réservé et payé le 14/07 à 10h04** (R001, CYNERS : aller ven. 20/07 18h30, retour ven. 31/08, 2 179 €). À faire : e-visa (réponse en 72 h ouvrées ou 24 h en express), certificat de fièvre jaune (biographie : question posée à l'utilisateur le 12/10/2026), hébergement à Yaoundé (rien de réservé), trajet vers Findel. *(Avant : « recherches faites, rien de réservé » → maintenant : vol réservé, 14/07 10h04.)*~~ | — |
 
 ## Notes de passation (etat/relais-notes.md)
 - ~~(11/10/2026 22:30, Claude Opus 5.5) Redémarrage de l'univers 2 redaté au samedi 14/07/2040, 08h37 (premier vrai jour de vacances,
@@ -122,9 +119,9 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 8770b5a ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 1bd5342 ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche claude/simulation-realistic-agent-handoff-3deabc ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 18 fichier(s) modifié(s)
-- worktree life-simulation-resume-892e7a : branche claude/life-simulation-resume-892e7a ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 23 fichier(s) modifié(s)
+- worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

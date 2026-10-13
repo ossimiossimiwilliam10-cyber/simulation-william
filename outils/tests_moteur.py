@@ -176,7 +176,7 @@ def main():
     e.verifier((copie / "journal" / "tours" / f"{t1:%Y-%m-%d}.md").exists(), f"journal/tours/{t1:%Y-%m-%d}.md écrit")
     e.lancer(o + "horloge.py", contient=f"tour n° {n0 + 1}", nom="horloge : le compteur de tours avance d'un cran")
     e.lancer(o + "tour.py", "apercu", "--jusqua", f"{t1 + dt.timedelta(days=3):%Y-%m-%d} 08:00", contient="Aperçu de l'avance rapide")
-    e.lancer(o + "telephone.py", contient="8 applications", nom="téléphone : écran d'accueil et huit applications")
+    e.lancer(o + "telephone.py", contient="9 applications", nom="téléphone : écran d'accueil et neuf applications (Transports : 16/07/2040)")
 
     print("\n[Applications du téléphone : voyages et calendrier]")
     e.lancer(o + "voyages.py", "verifier", contient="conforme")
@@ -205,6 +205,9 @@ def main():
     e.lancer(o + "cartes.py", "payer", "--carte", "visa_debit", "--montant", "20", "--marchand", "Essai", "--quand", "2040-07-14 11:01",
              contient="AUTORISÉ", nom="cartes : paiement dans le plafond autorisé (débit immédiat)")
     e.lancer(o + "cartes.py", "verifier", contient="conforme")
+    e.lancer(o + "transports.py", "verifier", contient="conforme")
+    e.lancer(o + "transports.py", "options", "--de", "AUD", "--vers", "FDL", "--quand", "2040-07-18 11:30", contient="Findel",
+             nom="transports : Audun-le-Tiche → aéroport de Findel (tour du 16/07)")
     e.lancer(o + "etiquettes.py", "--simule", "--texte", "Test [banque: ordre-suspendre id=E014] [rencontres: aimer id=x] [voyages: reserver vol=W1 aller=2040-09-04 retour=2040-09-25 voyageurs=1]",
              contient="ordre-suspendre", nom="étiquettes : lecture des actions copiées depuis le téléphone")
     e.lancer(o + "appli_calendrier.py", contient="argent")

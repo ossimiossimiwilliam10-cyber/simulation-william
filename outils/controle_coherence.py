@@ -142,8 +142,9 @@ def controle_base():
     try:  # prêts : capital restant dû calculé = calages du grand livre ; échéancier : comptes, contreparties, prêts (11/10/2026)
         import echeancier
         import prets
+        import transports
         import voyages
-        for module in (prets, echeancier, voyages):
+        for module in (prets, echeancier, voyages, transports):
             e, a = module.verifier()
             erreurs += e
             aver += a

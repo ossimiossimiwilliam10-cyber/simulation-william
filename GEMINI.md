@@ -190,6 +190,7 @@ Langue : **français**.
 > heure de Lisbonne), tags git `univers-1-master` et `univers-1-continuation` (suite jouée dans une autre session jusqu'au
 > samedi 11/08/2040, 13h27, jamais fusionnée), `archives/univers-1/session-outils/` (session des outils du 09/10/2026).
 > Objectif inchangé : établir un profil précis sur environ une année simulée ; « mode entraînement » disponible sur demande.
+**Lundi 16 juillet 2040, 07h50 — Audun-le-Tiche, chez William : tour n° 9 joué (décision : transports en commun jusqu'à l'aéroport le 18/07, la voiture reste à Audun ; application Transports créée, P21 : ≈ 1 h 30, billet RegioZone 4,05 €) ; en attente : **sa journée** (eTravel dès 10h30).**
 **Lundi 16 juillet 2040, 07h40 — Audun-le-Tiche, chez William : tour n° 8 joué (rappel d'eTravel pour 10h30 ; avance rapide du samedi 11h25 au lundi 07h40, à la maison, sans contact ; nuits tirées au dé ; synthèse W28 ; revue du lundi n° 1 présentée : décisions de l'utilisateur et tirage des aléas en attente ; message spontané de la semaine tiré, agenda A013, non connu) ; en attente : **les décisions de la revue n° 1** et **sa journée**.**
 **Samedi 14 juillet 2040, 11h25 — Audun-le-Tiche, chez William : tour n° 7 joué (un seul sac de voyage préparé ; eTravel refusé par le portail officiel, trop tôt : possible dès le lundi 16/07 à 10h30 ; décision : plus de sparring avant la fin des grandes vacances) ; en attente : **sa journée**.**
 **Samedi 14 juillet 2040, 10h46 — Audun-le-Tiche, chez William : tour n° 6 joué (forfait Lufthansa + Qatar et City Garden Grand Hotel réservé et payé sur la Visa Premier : 4 890 €, débité au relevé du 07/08 ; aller mer. 18/07 15h40, retour ven. 24/08 ; R003-R004, agenda A007-A011 ; outil `cartes.py` créé : plafonds et relevés) ; en attente : **sa journée** (départ le 18/07).**
@@ -356,7 +357,7 @@ Univers 2 : données remises à zéro le 11/10/2026 (horloge, agenda, grand livr
   fériés français, luxembourgeois et philippins, vacances, événements, rendez-vous connus, argent), **Météo** (station du lieu où se
   trouve William : Luxembourg-Findel ou Manille, `donnees/stations-meteo.csv`), **Voyages** (`outils/voyages.py` : vols avec
   calendrier des prix, hôtels, forfaits, formalités ; Yaoundé et Manille ; réservation de vol, d'hôtel ou de forfait automatisée),
-  **Rencontres** (`outils/rencontres.py` : application de rencontre, 24 profils tirés à Manille, femmes de 21 ans au moins,
+  **Transports** (`outils/transports.py`, 13/10/2026 : bus, train et tram entre Audun, Esch, Luxembourg et l'aéroport ; billet RegioZone pour la partie française), **Rencontres** (`outils/rencontres.py` : application de rencontre, profils tirés à Manille, femmes de 18 ans au moins (avant : 21, U2-20),
   intention réelle cachée ; inscription obligatoire avant de voir les profils), **Santé** (sommeil, entraînements, poids :
   `outils/corps.py`).
 - **Étiquettes (protocole entre le téléphone et le moteur)** : toute action préparée dans une application (réserver, virer,

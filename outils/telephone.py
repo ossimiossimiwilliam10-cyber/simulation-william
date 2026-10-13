@@ -33,7 +33,7 @@ WEB = OUTILS / "telephone_web"
 # Applications de l'écran d'accueil, dans l'ordre : (nom du fichier JS dans telephone_web/, module Python qui fournit
 # D.applis[nom] par donnees_telephone(t), ou None si l'application se sert des données communes).
 APPLIS = [("messages", None), ("courriels", None), ("banque", "banque"), ("calendrier", "appli_calendrier"), ("meteo", None),
-          ("voyages", "voyages"), ("rencontres", "rencontres"), ("sante", "corps")]
+          ("voyages", "voyages"), ("transports", "transports"), ("rencontres", "rencontres"), ("sante", "corps")]
 
 
 def jour_court(d):

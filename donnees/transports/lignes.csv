@@ -1,0 +1,13 @@
+id;mode;nom;de;vers;duree;premier;dernier;freq_pointe;freq_creuse;freq_samedi;freq_dimanche;pointe;tarif;source;note
+B604-AE;bus;Bus 604;AUD;ESG;15;05:20;21:50;15;30;30;60;06:00-09:00,16:00-19:00;regiozone;F025 · lignes RGTR d'Audun-le-Tiche (Frontaliers Grand Est, gouvernement.lu, décembre 2025) · durée Audun – Esch ≈ 5 à 15 min selon l'arrêt (Rome2Rio) · fréquences : estimation du moteur;projection 2040 : couloir de bus sur l'ancienne voie ferrée (F027) · horaires exacts non trouvés (mobiliteit.lu)
+B604-EA;bus;Bus 604;ESG;AUD;15;05:50;22:20;15;30;30;60;06:00-09:00,16:00-19:00;regiozone;idem B604-AE;sens retour
+B604-AL;bus;Bus 604 (direct);AUD;LXH;55;05:30;19:30;30;60;60;0;06:00-09:00,16:00-19:00;regiozone;F025 · ligne Audun – Esch – Luxembourg-Ville · durée et fréquences : estimation du moteur · pas de service le dimanche (estimation);courses directes vers le centre de Luxembourg
+B604-LA;bus;Bus 604 (direct);LXH;AUD;55;06:30;20:30;30;60;60;0;06:00-09:00,16:00-19:00;regiozone;idem B604-AL;sens retour
+CFL60-EL;train;Train (ligne 60);ESG;LXG;25;05:05;23:35;15;15;30;30;06:00-09:00,16:00-19:00;gratuit;≈ 70 trains par jour, 24 à 29 min, premier vers minuit et dernier vers 23 h 30 (Trainline, Rome2Rio) · F023 (gratuité);fréquences arrondies par le moteur
+CFL60-LE;train;Train (ligne 60);LXG;ESG;25;05:20;23:50;15;15;30;30;06:00-09:00,16:00-19:00;gratuit;idem CFL60-EL;sens retour
+TR1-GF;tram;Tram ligne 1;LXG;FDL;28;05:00;23:55;5;8;8;10;06:00-09:00,16:00-19:00;gratuit;ligne 1 prolongée jusqu'à Findel - Luxembourg Airport le 02/03/2025 (gouvernement.lu, Paperjam) · durée Gare Centrale – Findel : estimation du moteur (le bus 29 met moins de 22 min);fréquence élevée toute la journée (transports.public.lu)
+TR1-FG;tram;Tram ligne 1;FDL;LXG;28;04:55;23:50;5;8;8;10;06:00-09:00,16:00-19:00;gratuit;idem TR1-GF;sens retour
+TR1-HF;tram;Tram ligne 1;LXH;FDL;22;05:05;23:59;5;8;8;10;06:00-09:00,16:00-19:00;gratuit;idem TR1-GF · Hamilius – Findel : estimation;
+TR1-FH;tram;Tram ligne 1;FDL;LXH;22;04:55;23:50;5;8;8;10;06:00-09:00,16:00-19:00;gratuit;idem TR1-GF;sens retour
+B29-GF;bus;Bus 29;LXG;FDL;22;05:15;23:15;20;20;20;30;06:00-09:00,16:00-19:00;gratuit;Paperjam, mars 2025 : le bus 29 relie la gare à l'aéroport en moins de 22 min, toutes les 20 min, sur une grande amplitude horaire;
+B29-FG;bus;Bus 29;FDL;LXG;22;05:35;23:35;20;20;20;30;06:00-09:00,16:00-19:00;gratuit;idem B29-GF;sens retour

@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 12/10/2026 18:42 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 13/10/2026 09:03 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : lundi 16/07/2040 07:40 (luxembourg, UTC+2)
+## Horloge : lundi 16/07/2040 07:50 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 05:40 ; lisbonne 06:40 ; mindelo 04:40 ; casablanca 06:40 ; douala 06:40 ; addis 08:40 ; manille 13:40 ; paris 07:40
+- **Heure dans les autres lieux** : abidjan 05:50 ; lisbonne 06:50 ; mindelo 04:50 ; casablanca 06:50 ; douala 06:50 ; addis 08:50 ; manille 13:50 ; paris 07:50
 - **En attente de William** :
-  - Sa journée du lundi 16/07/2040 : eTravel possible dès 10h30 ; départ pour Manille le mercredi 18/07 à 15h40 (R003-R004) ; trajet vers Findel non prévu
+  - Sa journée du lundi 16/07/2040 : eTravel possible dès 10h30 ; départ pour Manille le mercredi 18/07 à 15h40 (R003-R004), en transports en commun (≈ 1 h 30 depuis la mairie)
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **39 737,00 €**
@@ -41,9 +41,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2040-07-16.md, 6 dernières lignes)
-> - **Nuit du 15 au 16/07** : coucher à 23h15, réveil à 7h40, sans réveil (heures tirées au dé).
-> - **06h00** : prélèvement de la box internet et du forfait mobile (63 €, E005 : dû le 15, un dimanche, passé au jour ouvré suivant).
-> - **07h40** : réveil ; grand soleil, 16 °C dehors (27 °C annoncés) ; aucun message. Fin de l'avance rapide (tour n° 8).
 > - **Revue du lundi n° 1 de l'univers 2** (hors fiction, avant le premier tour du jour) : présentée au joueur ; compte rendu dans `memoire/revue-lundi-2040-07-16.md` ; décisions et tirage des aléas de la semaine en attente de sa réponse. Message spontané d'un proche de la semaine tiré (moteur seulement : agenda A013).
 > - **Revue n° 1, décisions (hors fiction, 12/10/2026)** : « Je valide absolument tout ! ». Tables T15 à T19, T21a, T21b et T22 installées ; T12 à T14 confirmées ; pack d'aléas de l'univers 2 actif (A19 à A32) ; maison d'environ 75 m², virements de 2 × 2 850 € gardés, les parents n'écrivent pas. Aléas de la semaine tirés : 5 sur 21 (A20 sans objet ; quatre à l'agenda du moteur, A014 à A017, non conn
-> - Tour en cours à 07h40, en attente de William : **sa journée** (eTravel dès 10h30 ; départ le mercredi 18/07 à 15h40 ; trajet vers Findel non prévu).
+> - Tour n° 8 clos à 07h40.
+> - **Hors fiction (13/10/2026)** : application Transports créée (`outils/transports.py`, proposition P21 validée) : itinéraires en bus, train et tram entre Audun, Esch, Luxembourg et l'aéroport ; faits F065 et F066 ; prix PX051 (billet RegioZone de 2 h : 4,05 € en 2040).
+> - **07h40-07h50** (tour n° 9) : William décide d'aller à l'aéroport en transports en commun le mercredi 18/07 et de laisser sa voiture à Audun. Dans l'application Transports, pour le mercredi (vacances scolaires : bus toutes les 30 min) : trois itinéraires de 1 h 25 à 1 h 30 (bus 604 direct jusqu'à Hamilius puis tram ; bus jusqu'à Esch, train, puis tram ou bus 29) ; billet RegioZone de 2 h pour la
+> - Tour en cours à 07h50, en attente de William : **sa journée** (eTravel dès 10h30 ; départ le mercredi 18/07 à 15h40, en transports en commun).
