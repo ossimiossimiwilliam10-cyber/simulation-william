@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 13/10/2026 09:03 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 13/10/2026 09:11 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : lundi 16/07/2040 07:50 (luxembourg, UTC+2)
+## Horloge : lundi 16/07/2040 10:45 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 05:50 ; lisbonne 06:50 ; mindelo 04:50 ; casablanca 06:50 ; douala 06:50 ; addis 08:50 ; manille 13:50 ; paris 07:50
+- **Heure dans les autres lieux** : abidjan 08:45 ; lisbonne 09:45 ; mindelo 07:45 ; casablanca 09:45 ; douala 09:45 ; addis 11:45 ; manille 16:45 ; paris 10:45
 - **En attente de William** :
-  - Sa journée du lundi 16/07/2040 : eTravel possible dès 10h30 ; départ pour Manille le mercredi 18/07 à 15h40 (R003-R004), en transports en commun (≈ 1 h 30 depuis la mairie)
+  - Sa journée du lundi 16/07/2040 : départ pour Manille le mercredi 18/07 (bus 604 à 11h30 de la mairie, vol LH 391 à 15h40) ; eTravel fait
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **39 737,00 €**
@@ -14,13 +14,12 @@
 - Part nette de la maison d'Audun-le-Tiche : **89 996,87 €**
 - Patrimoine net de William : **744 733,87 €**
 
-## Agenda : dans les 24 heures (3)
-- A010 Mon 16/07 10:30 (luxembourg) | Philippines (eTravel) : eTravel : inscription en ligne gratuite possible à partir de maintenant, 72 heures avant l'arrivée à Manille (jeudi 19/07 à 16h30, heure locale) · code QR à montrer à l'immigration [prevu]  — F051 · arrivée du vol PVS2HS (R004) · 16h30 à Manille = 10h30 au Luxembourg
-- A012 Mon 16/07 10:30 (luxembourg) | William (rappel du téléphone) : Rappel : remplir l'eTravel (ouverture 72 heures avant l'arrivée à Manille) [prevu]  — rappel créé par William le samedi 14/07 à 11h27 · voir A010
+## Agenda : dans les 24 heures (2)
 - A014 Mon 16/07 20:00 (luxembourg) | Aléa A23 (tentative d'arnaque) : Tentative d'arnaque (SMS de faux colis, faux conseiller bancaire ou faux site) · soir [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — tirage_aleas.py 2040-07-16 (jet 2,3) · NON CONNU DE WILLIAM
-## Agenda : de J+1 à J+7 (6)
 - A013 Tue 17/07 09:25 (luxembourg) | Clément Grandjean (club) : Message spontané d'un membre du club (tiré le 16/07 : rituel du lundi, CLAUDE.md §12) · contenu à choisir d'après sa fiche, entrée en scène par personnage.py apparait [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — rituels.py message-proche, semaine du 2040-07-16 · NON CONNU DE WILLIAM : ne rien montrer avant l'heure
+## Agenda : de J+1 à J+7 (6)
 - A015 Tue 17/07 15:00 (luxembourg) | Aléa A09 (erreur administrative) : Erreur administrative (virement mal affecté, pièce perdue, nom mal orthographié) · après-midi [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — tirage_aleas.py 2040-07-16 (jet 4,1) · NON CONNU DE WILLIAM
+- A018 Wed 18/07 11:30 (luxembourg) | William (trajet prévu) : Trajet vers l'aéroport : bus 604 direct 11h30 Audun-le-Tiche, Mairie → 12h25 Luxembourg, Hamilius · tram ligne 1 12h33 → 12h55 Findel, Luxembourg Airport · billet RegioZone de 2 h (4,05 €) à acheter avant de monter (application CFL go ou automate) [prevu]  — itinéraire choisi par William le 16/07 dans l'application Transports (transports.py options --de AUD --vers FDL --quand '2040-07-18 11:30')
 - A008 Wed 18/07 15:40 (luxembourg) | Lufthansa + Qatar Airways : Vol aller Luxembourg → Manille (LH 391…QR 932) · départ 15:40 de Luxembourg-Findel, arrivée le 19/07 à 16:30 (heure locale) · réservation PVS2HS [prevu]  — réservation R004 (etat/reservations.csv)
 - A007 Thu 19/07 08:00 (luxembourg) | City Garden Grand Hotel : Arrivée à l'hôtel City Garden Grand Hotel (Manille), 36 nuit(s) · réservation R6T4JZA2 [prevu]  — réservation R003 (etat/reservations.csv)
 - A016 Fri 20/07 03:00 (luxembourg) | Aléa A07 (panne réseau) : Panne réseau (Wi-Fi de l'hôtel, données mobiles) ou banque en ligne indisponible · matin, à Manille [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — tirage_aleas.py 2040-07-16 (jet 4,3) · NON CONNU DE WILLIAM
@@ -41,9 +40,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2040-07-16.md, 6 dernières lignes)
-> - **Revue du lundi n° 1 de l'univers 2** (hors fiction, avant le premier tour du jour) : présentée au joueur ; compte rendu dans `memoire/revue-lundi-2040-07-16.md` ; décisions et tirage des aléas de la semaine en attente de sa réponse. Message spontané d'un proche de la semaine tiré (moteur seulement : agenda A013).
-> - **Revue n° 1, décisions (hors fiction, 12/10/2026)** : « Je valide absolument tout ! ». Tables T15 à T19, T21a, T21b et T22 installées ; T12 à T14 confirmées ; pack d'aléas de l'univers 2 actif (A19 à A32) ; maison d'environ 75 m², virements de 2 × 2 850 € gardés, les parents n'écrivent pas. Aléas de la semaine tirés : 5 sur 21 (A20 sans objet ; quatre à l'agenda du moteur, A014 à A017, non conn
-> - Tour n° 8 clos à 07h40.
 > - **Hors fiction (13/10/2026)** : application Transports créée (`outils/transports.py`, proposition P21 validée) : itinéraires en bus, train et tram entre Audun, Esch, Luxembourg et l'aéroport ; faits F065 et F066 ; prix PX051 (billet RegioZone de 2 h : 4,05 € en 2040).
 > - **07h40-07h50** (tour n° 9) : William décide d'aller à l'aéroport en transports en commun le mercredi 18/07 et de laisser sa voiture à Audun. Dans l'application Transports, pour le mercredi (vacances scolaires : bus toutes les 30 min) : trois itinéraires de 1 h 25 à 1 h 30 (bus 604 direct jusqu'à Hamilius puis tram ; bus jusqu'à Esch, train, puis tram ou bus 29) ; billet RegioZone de 2 h pour la
-> - Tour en cours à 07h50, en attente de William : **sa journée** (eTravel dès 10h30 ; départ le mercredi 18/07 à 15h40, en transports en commun).
+> - Tour n° 9 joué jusqu'à 07h50.
+> - **07h50** (tour n° 10, « Go ») : William garde dans l'application Transports le trajet du mercredi 18/07 : bus 604 direct à 11h30 de la mairie, Hamilius à 12h25, tram à 12h33, aéroport à 12h55 ; billet RegioZone de 2 h (4,05 €) à acheter avant de monter (agenda A018). Avance rapide jusqu'au rappel de 10h30 : matinée à la maison, sans message. Traces : le sac de sport près de l'entrée sent les ga
+> - **10h30-10h45** : le rappel sonne ; William remplit l'eTravel sur le portail officiel (friction tirée à 30 %, jet 37,8 → non) : identité, passeport, vol QR 932 du 19/07, City Garden Grand Hotel à Makati, vacances, déclarations de santé et de douane ; envoyé à 10h42 ; code QR affiché et reçu par courriel (ETR-0080546756, `courriels/2040-07-16_Confirmation_eTravel_Philippines.pdf`). Agenda A010 et
+> - Tour en cours à 10h45, en attente de William : **sa journée** (départ le mercredi 18/07 à 11h30 de la mairie).

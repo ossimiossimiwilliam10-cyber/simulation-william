@@ -206,6 +206,8 @@ def main():
              contient="AUTORISÉ", nom="cartes : paiement dans le plafond autorisé (débit immédiat)")
     e.lancer(o + "cartes.py", "verifier", contient="conforme")
     e.lancer(o + "transports.py", "verifier", contient="conforme")
+    e.lancer(o + "etravel.py", "inscrire", "--reservation", "R004", "--quand", "2040-07-14 11:20", "--simule", attendu=1, contient="REFUSÉ",
+             nom="eTravel : refusé plus de 72 heures avant l'arrivée (tour du 14/07)")
     e.lancer(o + "transports.py", "options", "--de", "AUD", "--vers", "FDL", "--quand", "2040-07-18 11:30", contient="Findel",
              nom="transports : Audun-le-Tiche → aéroport de Findel (tour du 16/07)")
     e.lancer(o + "etiquettes.py", "--simule", "--texte", "Test [banque: ordre-suspendre id=E014] [rencontres: aimer id=x] [voyages: reserver vol=W1 aller=2040-09-04 retour=2040-09-25 voyageurs=1]",
