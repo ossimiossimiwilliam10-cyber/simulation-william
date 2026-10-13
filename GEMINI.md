@@ -64,6 +64,11 @@ et parfois peu morale exprès : ne l'en empêche pas, joue les conséquences.
     **Effort renforcé (demande de l'utilisateur, 27/07/2040)** : désir, tension, regards, gestes, peau, souffle, dialogue et atmosphère
     écrits en détail, montée jusqu'au seuil de l'acte, puis ellipse ; l'après (gestes, mots, malaise ou complicité, contraception)
     joué pleinement. Toujours sans description sexuelle explicite ni détail anatomique.
+    **Au seuil (demande de l'utilisateur du 13/10/2026, qui juge l'ellipse « hypocrite »)** : Claude n'écrit pas de scène sexuelle
+    explicite et ne construit pas de passerelle automatique vers un autre modèle pour qu'il l'écrive. Le joueur reste libre de
+    poursuivre la scène hors de la simulation, avec l'outil ou l'imagination de son choix ; à son retour, il indique seulement ce qui
+    compte pour la suite (protection ou non, argent, comment ça s'est terminé), et le moteur joue les conséquences, tirées comme le
+    reste.
 11. **Erreurs de dictée** : l'utilisateur dicte. Interprète (exemples de
     l'univers 1 : « Sangra » = Sandra, « Auchan » = Aïcha) et signale l'interprétation en une ligne.
 12. **Si une décision de William est impossible** (horaires, lois, délais),
@@ -190,6 +195,7 @@ Langue : **français**.
 > heure de Lisbonne), tags git `univers-1-master` et `univers-1-continuation` (suite jouée dans une autre session jusqu'au
 > samedi 11/08/2040, 13h27, jamais fusionnée), `archives/univers-1/session-outils/` (session des outils du 09/10/2026).
 > Objectif inchangé : établir un profil précis sur environ une année simulée ; « mode entraînement » disponible sur demande.
+**Lundi 16 juillet 2040, 20h15 — Audun-le-Tiche, chez William : tour n° 11 joué (hors fiction : scènes intimes, règle 10 complétée ; « Go » de 10h45 à 20h14, à la maison, sans contact ; aléa A23 joué : courriel d'hameçonnage au nom du City Garden Grand Hotel, lien de « vérification de carte », PDF dans `courriels/`) ; en attente : **sa réaction au courriel** et **sa soirée**.**
 **Lundi 16 juillet 2040, 10h45 — Audun-le-Tiche, chez William : tour n° 10 joué (trajet du 18/07 choisi : bus 604 direct à 11h30, tram depuis Hamilius, aéroport à 12h55, agenda A018 ; « Go » jusqu'au rappel de 10h30 ; eTravel rempli à 10h42, ETR-0080546756, code QR en PDF ; outil `etravel.py`) ; en attente : **sa journée**.**
 **Lundi 16 juillet 2040, 07h50 — Audun-le-Tiche, chez William : tour n° 9 joué (décision : transports en commun jusqu'à l'aéroport le 18/07, la voiture reste à Audun ; application Transports créée, P21 : ≈ 1 h 30, billet RegioZone 4,05 €) ; en attente : **sa journée** (eTravel dès 10h30).**
 **Lundi 16 juillet 2040, 07h40 — Audun-le-Tiche, chez William : tour n° 8 joué (rappel d'eTravel pour 10h30 ; avance rapide du samedi 11h25 au lundi 07h40, à la maison, sans contact ; nuits tirées au dé ; synthèse W28 ; revue du lundi n° 1 présentée : décisions de l'utilisateur et tirage des aléas en attente ; message spontané de la semaine tiré, agenda A013, non connu) ; en attente : **les décisions de la revue n° 1** et **sa journée**.**

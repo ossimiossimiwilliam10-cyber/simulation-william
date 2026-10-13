@@ -57,6 +57,7 @@
 | `voyages.py` | Application Voyages : vols (calendrier des prix), hôtels, forfaits vol + hôtel, formalités ; calcul déterministe partagé avec la page | `vols`, `mois`, `hotels`, `forfait`, `formalites`, `verifier` |
 | `appli_calendrier.py` | Données de l'application Calendrier (fériés FR, LU, PH ; vacances, événements, rendez-vous connus, argent) | (sans argument : résumé) |
 | `banque.py` | Banque : virements ponctuels (entre comptes ou vers un tiers), ordres permanents (créer, modifier, suspendre, reprendre), liste ; prévus recalculés | `virement`, `ordre-modifier`, `ordre-creer`, `ordre-suspendre`, `ordre-reprendre`, `liste` |
+| `courriel.py` | Un courriel reçu par William devient un PDF dans `courriels/` (expéditeur, objet, texte), lu par l'application Courriels | `--de`, `--objet`, `--texte`, `--quand` |
 | `etravel.py` | Inscription eTravel de William (Philippines) : contrôle de la fenêtre de 72 heures, confirmation en PDF avec code QR dans `courriels/` | `inscrire` |
 | `transports.py` | Application Transports : itinéraires en bus, train et tram (Audun, Esch, Luxembourg, aéroport) selon le type de jour ; billet RegioZone pour la partie française ; calcul partagé avec la page | `options`, `arrets`, `lignes`, `verifier` |
 | `cartes.py` | Cartes de William (Visa Debit, Visa Premier) : plafond de la période, utilisé, disponible ; paiement autorisé ou refusé ; carte de crédit débitée au relevé (prévu « C-… ») ; branché sur `voyages.py --carte`, la Banque et les Voyages du téléphone | `liste`, `payer`, `limite`, `verifier` |

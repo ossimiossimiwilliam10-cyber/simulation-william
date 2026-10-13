@@ -78,6 +78,12 @@
   T12 à T22, pack d'aléas de l'univers 2 (A19 à A32), idées I1 à I4 (`memoire/propositions-2026-10-11.md`, section G). Il préfère
   valider en bloc ; lui présenter les revues de façon compacte, avec des numéros.
 
+- **Scènes intimes** (13/10/2026) : il trouve l'ellipse « hypocrite » (« ça fait partie de la vie ») et a demandé un « espace
+  indépendant » qui décrirait le sexe explicitement, hors des règles d'Anthropic. Réponse : Claude n'écrit pas de scène explicite
+  et ne construit pas de passerelle automatique vers un autre modèle ; scènes poussées jusqu'au seuil, l'après joué en entier ;
+  au seuil, le joueur peut poursuivre ailleurs s'il le veut, puis indique l'issue (protection, argent, fin) que le moteur joue
+  (règle 10 du fichier maître). Lui répondre sans morale : c'est une limite de Claude, pas un jugement sur lui.
+
 ## Grandes décisions hors fiction (historique)
 - 25/07/2040 (simulé) : il a envisagé d'arrêter, puis a décidé de continuer avec tous les paramètres.
 - 11/10/2026 (réel) : redémarrage complet (univers 2) à 35 ans, argent initial, paramètres repris ; départ d'abord fixé au mardi

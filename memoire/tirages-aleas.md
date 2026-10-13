@@ -67,3 +67,7 @@ Effets à jouer : A07 (vendredi 20/07 (matin)) : Retard d'un virement, d'un envo
 - Aléa A20 (perturbation des trajets frontaliers), tiré pour le jeudi 19/07 au soir : **sans objet** (William est en vacances et arrive à Manille ce jour-là ; règle de etat/aleas.md). Consigné le 12/10/2026.
 
 - Jet « Friction administrative (economie.md, 30 %) : inscription eTravel de William sur le portail officiel, lundi 16/07/2040 vers 10h30 (ouverture de la fenêtre de 72 h) ; OUI = le portail renvoie une erreur à l'envoi (serveur saturé à l'ouverture de la fenêtre), rien n'est enregistré, deuxième saisie nécessaire ; NON = code QR obtenu du premier coup » : probabilité 30 %, jet  37.8 → **NON** (enregistré le 13/10/2026 09:07 heure machine)
+
+- Jet « Aléa A23 du lundi 16/07 (soir) : forme de la tentative d'arnaque, étape 1 : SMS de faux colis (OUI) ou autre forme (NON) » : probabilité 33.3 %, jet  39.0 → **NON** (enregistré le 13/10/2026 09:16 heure machine)
+
+- Jet « Aléa A23 du lundi 16/07 (soir) : forme de la tentative d'arnaque, étape 2 (si pas de faux colis) : faux conseiller ou fausse alerte de la banque (OUI) ou faux site lié au voyage (NON) » : probabilité 50 %, jet  81.1 → **NON** (enregistré le 13/10/2026 09:16 heure machine)

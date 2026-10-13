@@ -1,37 +1,55 @@
 # Dernier tour montré au joueur
 
-> Tour n° 10 ; horloge 16/07/2040 07:50 -> 16/07/2040 10:45 ; enregistré le 13/10/2026 09:10 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 11 ; horloge 16/07/2040 10:45 -> 16/07/2040 20:15 ; enregistré le 13/10/2026 09:19 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> mon trajet :
-> 
-> 11:30 → 12:55
-> 4,05 €
-> 85 min · 2 étapes
-> bus
-> 11:30 Audun-le-Tiche, Mairie → 12:25 Luxembourg, Hamilius · Bus 604 (direct)
-> tram
-> 12:33 Luxembourg, Hamilius → 12:55 Findel, Luxembourg Airport · Tram ligne 1
-> 
->  ; GO
+> Bon, ok, il faut vraiment qu'on trouve une solution pour euh, les scènes sexuelles. Parce que pour moi, ça fait partie explicitement de la, de la vie, en fait. Tu peux pas juste euh, cacher cela. Ça fait très hypocrite et moi, j'aime pas cela. On pourrait pas configurer genre un espace totalement indépendant, puisque ce sont tes règles qui font que, voilà, tu ne peux pas me présenter des scènes sexuelles, mais on peut pas configurer genre un espace indépendant qui se déclenche uniquement lorsqu'il y a du sexe, tu vois, et qui... décrit ça de façon explicite, mais qui soit totalement indépendant, qui ne dépendent pas d'Anthropic. GO
 
 ## Texte envoyé au joueur
 
-**LUNDI 16 JUILLET 2040 — 10h45 — Audun-le-Tiche, chez toi**
+📌 **Vraie vie** : je comprends ce que tu dis. Le sexe fait partie de la vie, et couper la scène au moment où elle commence peut sembler hypocrite. Mais je n'écris pas de scènes sexuelles explicites, et je ne vais pas non plus monter une passerelle automatique vers un autre modèle pour qu'il les écrive à ma place. C'est une limite de ma part, pas un jugement sur toi ni sur le sujet.
 
-Dans l'application Transports, tu gardes le trajet du mercredi : le bus 604 direct part de la mairie à 11h30 et arrive à Hamilius à 12h25, puis le tram de 12h33 arrive à l'aéroport à 12h55.
+Voici ce qu'on peut faire concrètement :
+- **Avant** : je pousse les scènes aussi loin que je peux, avec le désir, la tension, les gestes et les mots jusqu'au seuil.
+- **Au seuil** : tu es libre de continuer la scène où tu veux, avec l'outil ou l'imagination de ton choix. C'est ton affaire.
+- **Après** : tu me dis seulement ce qui compte pour la suite, c'est-à-dire la protection ou non, l'argent et la façon dont ça s'est terminé. Je joue les conséquences, tirées comme le reste, et l'après en entier.
 
-La matinée passe à la maison. Le sac de sport traîne toujours près de l'entrée, et une odeur de gants humides en sort quand tu passes à côté. Derrière le mur de la salle de bains, le voisin mitoyen tousse longuement. Aucun message n'arrive.
-
-À 10h30, le rappel sonne : « Remplir l'eTravel ». Tu vas directement sur le portail officiel, etravel.gov.ph, cette fois sans passer par la recherche. Le formulaire demande ton identité, ton passeport et ton pays de résidence. Pour le voyage, tu indiques une arrivée le 19 juillet par le vol QR 932 depuis Doha, et le City Garden Grand Hotel à Makati comme adresse. Au motif du voyage, tu coches « Holiday ». Viennent ensuite deux déclarations, une de santé et une de douane, où tu n'as rien à signaler. À 10h42, tu valides. L'écran passe au vert, « Registration successful », avec un code QR et le numéro ETR-0080546756. Une minute plus tard, le même code arrive dans ta boîte de réception.
+Je l'ai inscrit dans les règles du moteur, pour que tout agent fasse pareil.
 
 ---
 
-**À toi : lundi 16/07, 10h45.**
+**LUNDI 16 JUILLET 2040 — 20h15 — Audun-le-Tiche, chez toi**
+
+L'après-midi passe à la maison, volets mi-clos contre les 27 °C. Personne n'écrit. En fin de journée, des martinets passent en criant au-dessus des toits, et quelque part derrière les maisons, un tuyau d'arrosage siffle.
+
+À 20h14, un courriel arrive.
+
+> **De :** City Garden Grand Hotel &lt;reservations@citygardengrand-confirm.info&gt;
+> **Objet :** Action required: your reservation 19 July - 24 August 2040
+>
+> Dear Mr. Ossimi,
+>
+> Thank you for choosing City Garden Grand Hotel Makati for your stay from 19 July to 24 August 2040, booked through Kestrel Voyages.
+>
+> Unfortunately our system was not able to verify the card used to guarantee your reservation. To avoid the automatic cancellation of your booking within 24 hours, please confirm your card details on our secure page :
+>
+> https://citygardengrand-confirm.info/verify-booking
+>
+> Once your card is verified, your room will be guaranteed and you will receive a new confirmation.
+>
+> We look forward to welcome you in Makati.
+>
+> Best regards,
+> Front Office Team
+> City Garden Grand Hotel Makati
+
+---
+
+**À toi : lundi 16/07, 20h15.**
 
 **Réponses attendues**
-- Personne n'attend de réponse de ta part.
+- **City Garden Grand Hotel** : le courriel demande de confirmer ta carte sur le lien sous 24 heures, faute de quoi la réservation serait annulée.
 
 **À faire / à fournir avant le tour suivant**
 - **Départ** : mercredi 18/07, bus 604 à 11h30 devant la mairie, puis vol LH 391 à 15h40 depuis Findel.
@@ -45,7 +63,5 @@ La matinée passe à la maison. Le sac de sport traîne toujours près de l'entr
 - Mercredi 01/08 : cotisation du club (85 €) et package bancaire (12,83 €).
 - Jeudi 02/08 : virements automatiques, 2 850 € vers le compte épargne et 2 850 € vers les ETF.
 - Lundi 17/09 : rentrée au lycée.
-
-Avance rapide possible : « **Go** » fait passer la journée et la nuit à la maison jusqu'au mardi 17/07 au matin. Elle s'arrête au premier message ou événement qui demande une décision.
 
 Que veux-tu faire ?
