@@ -1,4 +1,4 @@
-# Dossier des traces de William (univers 2 ; créé le 17/07/2040, redaté au 14/07/2040 ; à jour au 14/07/2040, 10h46)
+# Dossier des traces de William (univers 2 ; créé le 17/07/2040, redaté au 14/07/2040 ; à jour au 17/07/2040, 09h25)
 
 > Règle (revue du lundi, validée le 23/07/2040, univers 1) : le monde garde la mémoire de ce que William écrit, signe, dit et fait.
 > Ces traces peuvent **ressortir** (rumeur, plainte, contrôle, conflit, fuite : aléa A12) sans que le moteur les invente à la
@@ -16,3 +16,5 @@
 | 16/07/2040 10h42 | Inscription eTravel (Philippines) : identité, nationalité, passeport, vol QR 932 du 19/07, adresse de séjour (City Garden Grand Hotel, Makati), motif « vacances », déclarations de santé et de douane (rien à déclarer) | base du portail eTravel, courriel de confirmation avec code QR (ETR-0080546756) | l'immigration et la douane philippines ; quiconque voit ses courriels | faible |
 | 17/07/2040 08h58 | Inscription sur une application de rencontre, abonnement Plus en mode voyage sur Manille (24,99 € par mois sur la Visa Debit) ; profil visible des utilisatrices de Manille, présentation « Just a kind man looking for love… » | compte et profil de l'application, relevé de la Visa Debit (libellé de l'application), courriel de bienvenue | l'éditeur de l'application, les profils de Manille qui le voient ; quiconque voit son téléphone ou ses relevés | moyenne |
 | 17/07/2040 09h05 | « J'aime » envoyés à dix profils de l'application de rencontre (Yuna, Zia, Julia, Angel, Shane, Hannah, Chloe, Samantha, Kiara, Danica) ; quinze profils passés | historique de l'application ; notifications chez les profils aimés | l'éditeur de l'application ; chaque profil aimé voit qu'il l'a aimée | faible |
+| 17/07/2040 09h17 | Message à Kiara sur l'application de rencontre : « Hi Kiara, how are you? » (ajouté le 13/10/2026, oubli du tour n° 16 : U2-21) | historique de la discussion | l'éditeur de l'application ; Kiara (captures possibles) | faible |
+| 17/07/2040 09h23 | Message à Julia sur l'application de rencontre : « Yes it is my first time and I am looking for a guide too . Why not you haha » (premier séjour à Manille, cherche un guide) | historique de la discussion | l'éditeur de l'application ; Julia (captures possibles) | faible |

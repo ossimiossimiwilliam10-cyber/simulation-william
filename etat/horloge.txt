@@ -1,7 +1,7 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2040-07-17 09:22
+horloge: 2040-07-17 09:25
 fuseau: luxembourg
 lieu: Audun-le-Tiche (Moselle), chez William
-tour: 16
-attente: Premier message de Julia sur l'application de rencontre (09h22) : « Is it your first time here? »
+tour: 17
+attente: WhatsApp de Clément Grandjean, du club (09h25) : absences remarquées, coup de main pour le placo jeudi en fin d'après-midi
 attente: Sa journée du mardi 17/07/2040 (veille du départ pour Manille)

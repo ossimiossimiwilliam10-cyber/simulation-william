@@ -1,12 +1,12 @@
 lieu;saison;moment;detail;dernier_usage
 maison_william;ete;matin;le parquet de l'étage craque sous les pieds nus ;2040-07-17 08:45
 maison_william;ete;matin;la lumière entre en lames par les fentes du volet roulant ;2040-07-17 08:45
-maison_william;ete;tous;le frigo se relance avec un claquement sec dans la cuisine ;2040-07-16 20:15
+maison_william;ete;tous;le frigo se relance avec un claquement sec dans la cuisine ;2040-07-17 09:22
 maison_william;ete;tous;deux chambres fermées à l'étage, dont une sert de débarras ;2040-07-17 09:16
 maison_william;ete;soir;la chaleur de la journée reste prise dans les murs de pierre de l'étage ;2040-07-16 20:15
 maison_william;ete;tous;le sac de sport près de l'entrée, l'odeur de gants humides ;2040-07-17 09:16
 maison_william;ete;nuit;les tuiles qui craquent en refroidissant, au-dessus de la chambre ;
-maison_william;ete;matin;le voisin mitoyen qui tousse derrière le mur de la salle de bains ;2040-07-16 07:50
+maison_william;ete;matin;le voisin mitoyen qui tousse derrière le mur de la salle de bains ;2040-07-17 09:22
 rue_william;ete;matin;une tondeuse au bout de la rue, le samedi, dès neuf heures ;2040-07-14 08:45
 rue_william;ete;tous;des plaques luxembourgeoises et françaises garées en épi, capots tièdes ;2040-07-14 08:45
 rue_william;ete;soir;une odeur de barbecue qui passe par-dessus les haies ;
@@ -28,8 +28,8 @@ hypermarche_belval;ete;tous;trois langues aux caisses : luxembourgeois, portugai
 hypermarche_belval;ete;tous;le parking couvert, ses plaques françaises venues faire le plein de tabac et de café ;
 hypermarche_belval;ete;tous;les étiquettes plus chères de quelques centimes qu'à Audun ;
 hypermarche_belval;ete;matin;les rayons à moitié vides le dimanche matin, les employés qui remettent en place ;
-club_combat;ete;soir;l'odeur de caoutchouc chaud des tapis et de transpiration ;
-club_combat;ete;soir;le claquement des sacs de frappe, le bip du chrono de rounds ;
+club_combat;ete;soir;l'odeur de caoutchouc chaud des tapis et de transpiration ;2040-07-17 18:30
+club_combat;ete;soir;le claquement des sacs de frappe, le bip du chrono de rounds ;2040-07-17 18:30
 club_combat;ete;tous;les ventilateurs industriels qui brassent un air lourd ;2040-07-14 10:20
 club_combat;ete;soir;des conversations mêlées : luxembourgeois au comptoir, portugais sur le tapis ;
 club_combat;ete;tous;le tableau blanc des cours d'été, moitié des créneaux barrés ;2040-07-14 10:20

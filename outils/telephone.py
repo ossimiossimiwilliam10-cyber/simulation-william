@@ -60,7 +60,12 @@ def donnees():
             continue
         convs.setdefault(m["conversation"], []).append({"date": m["date"], "heure": m["heure"], "auteur": m["auteur"],
                                                         "texte": m["texte"], "moi": m["auteur"].split()[0] == "William"})
-    conversations = sorted(({"nom": k.replace("_", " ").replace("-", " ").title(), "messages": v} for k, v in convs.items()),
+    def nom_conversation(cle, messages):
+        """Nom affiché : l'interlocuteur, accents compris, s'il est seul ; sinon le nom du fichier (13/10/2026)."""
+        autres = {m["auteur"] for m in messages if not m["moi"]}
+        return autres.pop() if len(autres) == 1 else cle.replace("_", " ").replace("-", " ").title()
+
+    conversations = sorted(({"nom": nom_conversation(k, v), "messages": v} for k, v in convs.items()),
                            key=lambda c: c["messages"][-1]["date"] + c["messages"][-1]["heure"], reverse=True)
     # courriels
     courriels = [{"date": d["date"], "objet": d["objet"][:1].upper() + d["objet"][1:], "fichier": d["fichier"]}

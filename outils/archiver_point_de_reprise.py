@@ -5,9 +5,9 @@
 
 Principe (CLAUDE.md §7 : « ne supprime jamais une information ») :
 1. le §9 COMPLET est copié tel quel dans `memoire/archive-point-de-reprise-AAAA-MM-JJ.md` (date de la simulation lue dans etat/horloge.txt) ;
-2. dans CLAUDE.md ET GEMINI.md, le §9 est remplacé par : une note de renvoi, le paragraphe d'introduction, et les N entrées les plus
+2. dans les trois fichiers maîtres (CLAUDE.md, GEMINI.md et AGENTS.md ; AGENTS.md ajouté le 13/10/2026), le §9 est remplacé par : une note de renvoi, le paragraphe d'introduction, et les N entrées les plus
    récentes (une entrée = un paragraphe commençant par « ** », la plus récente en tête) ;
-3. les deux fichiers restent identiques à la ligne 3 près (contrôle intégré).
+3. les trois fichiers restent identiques à la ligne 3 près (contrôle intégré, comme `outils/maitres.py verifier`).
 L'état courant se lit ensuite dans `etat/resume.md` (outils/resume_etat.py), `etat/horloge.txt`, `etat/fils-ouverts.md`, `etat/agenda.csv`.
 """
 import argparse
@@ -22,7 +22,7 @@ if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
 RACINE = Path(__file__).resolve().parent.parent
-MAITRES = ("CLAUDE.md", "GEMINI.md")
+MAITRES = tuple(m for m in ("CLAUDE.md", "GEMINI.md", "AGENTS.md") if (RACINE / m).exists())  # avant : CLAUDE.md et GEMINI.md seuls
 
 
 def lire(nom):
@@ -73,7 +73,7 @@ def main():
         return 0
     if archive.exists() and not args.force:
         sys.exit("L'archive du jour existe déjà (--force pour l'écraser).")
-    entete = [f"# Archive du point de reprise (§9 de CLAUDE.md et GEMINI.md) au {h:%d/%m/%Y %H:%M}",
+    entete = [f"# Archive du point de reprise (§9 des fichiers maîtres) au {h:%d/%m/%Y %H:%M}",
               "",
               "> Copie intégrale, mot pour mot, du §9 avant sa compression (outils/archiver_point_de_reprise.py). Ne rien supprimer ici.",
               "> Les entrées sont classées de la plus récente à la plus ancienne ; les entrées « hors ordre » (corrections, pause du 25/07,",
@@ -90,10 +90,15 @@ def main():
         dm, fm = bornes(l)
         sortie = l[:dm + 1] + nouveau_corps + [""] + l[fm:]
         (RACINE / m).write_bytes("\r\n".join(sortie).encode("utf-8"))
-    a, b = lire("CLAUDE.md"), lire("GEMINI.md")
-    ecart = [i + 1 for i, (x, y) in enumerate(zip(a, b)) if x != y]
-    print(f"Écrit. CLAUDE.md : {len('\r\n'.join(a).encode('utf-8'))} octets ; écarts avec GEMINI.md : lignes {ecart} (attendu : [3]).")
-    return 0 if ecart == [3] and len(a) == len(b) else 1
+    a = lire("CLAUDE.md")
+    code = 0
+    for m in MAITRES[1:]:
+        b = lire(m)
+        ecart = [i + 1 for i, (x, y) in enumerate(zip(a, b)) if x != y]
+        print(f"Écrit. CLAUDE.md : {len('\r\n'.join(a).encode('utf-8'))} octets ; écarts avec {m} : lignes {ecart} (attendu : [3]).")
+        if ecart != [3] or len(a) != len(b):
+            code = 1
+    return code
 
 
 if __name__ == "__main__":
