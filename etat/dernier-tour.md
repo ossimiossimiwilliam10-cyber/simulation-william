@@ -1,31 +1,25 @@
 # Dernier tour montré au joueur
 
-> Tour n° 15 ; horloge 17/07/2040 09:00 -> 17/07/2040 09:16 ; enregistré le 13/10/2026 09:37 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 16 ; horloge 17/07/2040 09:16 -> 17/07/2040 09:22 ; enregistré le 13/10/2026 09:55 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Alors, j'ai pris note concernant l'abonnement plus de l'application de rencontre. C'est bon, j'ai pris note qu'il est renouvelé chaque 17 du mois.
-> 
-> [File copiée depuis l'application de rencontre : inscription (déjà faite, non refaite), dix « j'aime » (Yuna, Zia, Julia, Angel, Shane, Hannah, Chloe, Samantha, Kiara, Danica) et quinze profils passés (Alexa, Kate, Ashlyn, Erin, Andrea, Faith, Mikaela, Gabrielle, Precious, Jhoanna, Rhian, Maxine, Ella, Bianca, Lianne), avec leurs étiquettes [rencontres: …].]
+> J'écris à Kiara : « Salut Kiara, comment ça va ? » Euh, est-ce que tu peux rajouter le téléphone comme euh, artefact dans la conversation parce qu'il n'est pas présent en fait? Je parle de, du téléphone.
 
 ## Texte envoyé au joueur
 
-📌 **Vraie vie** : abonnement noté, je ne le rappellerai plus. La file copiée contenait encore ton inscription de ce matin : je ne l'ai pas refaite, et le moteur ignore désormais une inscription déjà faite. Après avoir copié une file, tu peux la vider avec le bouton « Vider ».
+📌 **Vraie vie** : ton message part en anglais, la langue de ta présentation dans l'application et celle de Kiara. L'ancienne adresse du téléphone n'existe plus : il est publié à une nouvelle adresse, [Téléphone de William](https://claude.ai/artifact/P5BeHqT2s6n5aewPEWyK6P).
 
 ---
 
-**MARDI 17 JUILLET 2040 — 09h16 — Audun-le-Tiche, chez toi**
+**MARDI 17 JUILLET 2040 — 09h22 — Audun-le-Tiche, chez toi**
 
-Tu fais défiler les profils un par un. Tu aimes celui de Yuna, puis ceux de Zia, Julia, Angel, Shane, Hannah, Chloe, Samantha, Kiara et Danica, et tu passes les quinze autres. Au bout de la pile, l'écran affiche : « Plus personne pour l'instant. Reviens plus tard : de nouveaux profils arrivent. »
+Tu reprends le téléphone sur la table de nuit et tu écris à Kiara : « Hi Kiara, how are you? » Le message part à 9h17. Sa pastille verte reste allumée encore un moment, puis s'éteint ; aucune réponse ne s'affiche. Par la fenêtre, le soleil tape déjà sur les toits d'en face ; en bas, dans l'entrée, le sac de sport sent encore les gants humides.
 
-Tu poses le téléphone sur la table de nuit. À 9h16, il vibre : « C'est un match ! Kiara et toi, vous vous êtes plu. » Sa fiche s'ouvre : Kiara, 25 ans, Mandaluyong, à 5 kilomètres, profil vérifié, en ligne. Dans sa présentation : « God-fearing. Call center agent · gaming. Let's see where it goes. » Elle cherche « On verra bien ». La discussion est ouverte, encore vide, avec une ligne grise en bas de l'écran : « Dis bonjour à Kiara. »
-
----
-
-**À toi : mardi 17/07, 09h16.**
+À 9h22, le téléphone vibre de nouveau : « C'est un match ! Julia et toi, vous vous êtes plu. » Sa fiche s'ouvre : Julia, 28 ans, Sampaloc (Manille), à 10 kilomètres, profil non vérifié. Dans sa présentation : « Call center agent. Looking for something real. » Elle cherche « Une relation sérieuse ». Elle t'a déjà écrit : « Hi William! 😊 Thank you for the like. I saw you're coming to Manila soon? Is it your first time here? »
 
 **Réponses attendues**
-- **Kiara** (application de rencontre) : match à 9h16, la discussion est ouverte et aucun message n'a encore été échangé.
+- **Julia** (application de rencontre) : match à 9h22 ; elle t'a écrit la première et te demande si c'est ta première fois à Manille.
 
 **À faire / à fournir avant le tour suivant**
 - Rien de nouveau.

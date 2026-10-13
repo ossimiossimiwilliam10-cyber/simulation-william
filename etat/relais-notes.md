@@ -35,10 +35,11 @@
   Revue du lundi n° 1 le 16/07/2040 : propositions P01 à P21. Le téléphone : `python outils/telephone.py` (fait par
   `tour.py fin`) ; un agent autre que Claude ne peut pas le publier sur claude.ai : envoyer `sorties/telephone/index.html` au joueur
   s'il le demande.
-- (12/10/2026 10:45, Claude Opus 5.5) **Téléphone de William republié à une NOUVELLE adresse** : https://claude.ai/artifact/9j5a5bgQy9De1sxL7LZ27z
+- ~~(12/10/2026 10:45, Claude Opus 5.5) **Téléphone de William republié à une NOUVELLE adresse** : https://claude.ai/artifact/9j5a5bgQy9De1sxL7LZ27z
   (l'ancienne, VJkYBmpJTrVarDVTs24MsS, affichait « Page not found » sur le téléphone du joueur et n'apparaissait plus dans la
   liste de ses artefacts : cause inconnue). Adresse aussi dans etat/relais-config.json. À chaque tour : `tour.py fin` régénère
-  sorties/telephone/index.html ; Claude republie au même URL (paramètre url) après avoir relu la page en entier.
+  sorties/telephone/index.html ; Claude republie au même URL (paramètre url) après avoir relu la page en entier.~~
+  Réglé le 13/10/2026 : cette adresse est introuvable ; nouvelle adresse dans la note du 13/10/2026, 09h59, ci-dessous.
 - (13/10/2026, Claude Opus 5.5) **PASSATION DU 13/10/2026 (fin de la session Claude, limite d'utilisation)** : partie au
   **mardi 17/07/2040, 09h16**, chez William (tour n° 15) ; il vient d'avoir un **match avec Kiara Reyes** sur l'application de
   rencontre (discussion ouverte, vide) : attendre son action. Depuis le 12/10 : forfait Manille réservé (vol PVS2HS, City Garden
@@ -60,5 +61,10 @@
   **Outils créés le 12-13/10** : `cartes.py` (plafonds, relevé différé ; voyages et rencontres paient par lui), `transports.py`
   (application Transports), `etravel.py`, `courriel.py` (tout courriel reçu devient un PDF), `rituels.py message-proche`,
   `rencontres.py completer` (âge minimum 18 ans, U2-20). Règle 10 complétée : pas de scène explicite ; au seuil, le joueur peut
-  poursuivre ailleurs puis donne l'issue. Téléphone : https://claude.ai/artifact/9j5a5bgQy9De1sxL7LZ27z (seul Claude republie ;
+  poursuivre ailleurs puis donne l'issue. Téléphone : ~~https://claude.ai/artifact/9j5a5bgQy9De1sxL7LZ27z~~ *(introuvable le 13/10/2026 → maintenant : https://claude.ai/artifact/P5BeHqT2s6n5aewPEWyK6P)* (seul Claude republie ;
   un autre agent envoie `sorties/telephone/index.html` si le joueur le demande).
+- (13/10/2026 09:59, Claude Opus 5.5) **Téléphone de William publié à une NOUVELLE adresse** : https://claude.ai/artifact/P5BeHqT2s6n5aewPEWyK6P
+  (l'ancienne, 9j5a5bgQy9De1sxL7LZ27z, est introuvable : lecture refusée « artifact not found », galerie d'artefacts du compte
+  vide ; le joueur ne voyait plus le téléphone dans la conversation). Adresse aussi dans etat/relais-config.json. À chaque tour :
+  `tour.py fin` régénère sorties/telephone/index.html ; Claude republie au même URL (paramètre url) après avoir relu la page
+  en entier ; si l'adresse est de nouveau introuvable, publier à une nouvelle adresse et la consigner ici.
