@@ -1,11 +1,11 @@
-# Résumé d'état (généré le 13/10/2026 15:26 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 13/10/2026 15:33 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mercredi 18/07/2040 13:04 (luxembourg, UTC+2)
-- **Lieu de William** : Aéroport de Luxembourg-Findel, comptoir de Lufthansa
-- **Heure dans les autres lieux** : abidjan 11:04 ; lisbonne 12:04 ; mindelo 10:04 ; casablanca 12:04 ; douala 12:04 ; addis 14:04 ; manille 19:04 ; paris 13:04
+## Horloge : mercredi 18/07/2040 13:08 (luxembourg, UTC+2)
+- **Lieu de William** : Aéroport de Luxembourg-Findel, hall des départs
+- **Heure dans les autres lieux** : abidjan 11:08 ; lisbonne 12:08 ; mindelo 10:08 ; casablanca 12:08 ; douala 12:08 ; addis 14:08 ; manille 19:08 ; paris 13:08
 - **En attente de William** :
-  - Déclaration du passager à signer (ou non) au comptoir de Lufthansa (entrée possiblement refusée à Manille, frais à sa charge)
-  - Vol LH 391 à 15h40 (Francfort, Doha, Manille)
+  - Ce que William fait avant l'embarquement du LH 391 (15h10, départ 15h40) : contrôle de sûreté, temps libre
+  - Cartes d'embarquement de Qatar Airways à retirer au comptoir de transfert de Francfort (A028)
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **39 707,96 €**
@@ -16,8 +16,9 @@
 - Patrimoine net de William : **744 704,83 €**
 - Prévu dans les 14 jours : 01/08 Minett Combat Club (-85,00 €) ; 01/08 Package bancaire Zebra Premium (-12,83 €)
 
-## Agenda : dans les 24 heures (3)
+## Agenda : dans les 24 heures (4)
 - A008 Wed 18/07 15:40 (luxembourg) | Lufthansa + Qatar Airways : Vol aller Luxembourg → Manille (LH 391…QR 932) · départ 15:40 de Luxembourg-Findel, arrivée le 19/07 à 16:30 (heure locale) · réservation PVS2HS [prevu]  — réservation R004 (etat/reservations.csv)
+- A028 Wed 18/07 16:30 (luxembourg) | Qatar Airways (aéroport de Francfort) : Retirer les cartes d'embarquement du QR 68 (Francfort 17h55 → Doha) et du QR 932 (Doha → Manille) au comptoir de transfert de Francfort · arrivée du LH 391 à 16h30, correspondance d'une heure vingt-cinq [prevu]  — dit par l'agent d'enregistrement de Findel le 18/07 à 13h07 (cartes non imprimées à Findel : jet 97,7) · bagage enregistré jusqu'à Manille
 - A007 Thu 19/07 08:00 (luxembourg) | City Garden Grand Hotel : Arrivée à l'hôtel City Garden Grand Hotel (Manille), 36 nuit(s) · réservation R6T4JZA2 [prevu]  — réservation R003 (etat/reservations.csv)
 - A023 Thu 19/07 11:25 (luxembourg) | Julia Dimaculangan (application de rencontre) : Répond enfin au message de William du 17/07 à 09h23 : « Hi William! So sorry for the very late reply 🙏 Crazy week, night shift every day 😩 Haha a guide? I'm not a pro but I know Manila well, almost 10 years here. Coffee first, as friends, then we see 😊 When do you arrive? Tip: use Grab only, not the taxis outside the malls, and don't drink the tap water ha » (T21b : repond_tard, jet 56,1, sans modificateur · jour : surlendemain, jet 94,8 · heure : 13h00 + 88,4 × 3 min) · rencontres.py message julia-dimaculangan --auteur profil [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · 11h25 au Luxembourg (William aura atterri à 16h30, heure de Manille) · texte à ajuster si William lui écrit de nouveau d'ici là
 ## Agenda : de J+1 à J+7 (4)
@@ -40,9 +41,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2040-07-18.md, 6 dernières lignes)
-> - **11h12-11h52** (tour n° 23) : à 11h14, William répond à Kiara (dicté en français ; « Chiara » compris comme Kiara) : « No worries, I understand. I'm fine, thanks! I'm from Luxembourg. I arrive in Manila tomorrow and I would really love to meet you, so we can get to know each other. Maybe it's destiny. I have a good situation, even an excellent one. So why not change our lives, both of us? » Réa
-> - Tour en cours à 11h52, en attente de William : **le message de Kiara** ; suite du trajet à exécuter (Hamilius 12h25, tram 12h33, aéroport 12h55, enregistrement).
 > - **11h52-12h59** (tour n° 24) : à 11h54, William répond à Kiara (dicté en français ; « Chiara » compris comme Kiara) : « Do you have a boy or a girl? And yes, we can meet on Saturday, no problem at all. I'll be staying at the City Garden Grand Hotel, in Makati. It would be perfect to meet at my hotel, if that's okay with you, as a meeting point. Then we can explore the city a bit and go eat somew
 > - Tour en cours à 12h59, en attente de William : **sa réponse à l'agent d'enregistrement** ; Kiara n'a pas répondu.
 > - **12h59-13h04** (tour n° 25) : William répond à l'agent : « Je prolongerai sur place, au Bureau de l'immigration. » Issue de la vérification (tiers à autorité propre, procédure Timatic ; jets en dérogation, probabilités d'après F070) : pas d'accord simple (jet 92,2 sur 70 %), pas de superviseur (jet 80,7 sur 50 %), **décharge à signer** (jet 24,5 sur 66,7 %) : Simão imprime une déclaration du pa
 > - Tour en cours à 13h04, en attente de William : **la signature (ou non) de la déclaration**.
+> - **13h04-13h08** (tour n° 26) : William signe la déclaration du passager (décharge) et rend le stylo. Simão termine l'enregistrement : sac de 17,4 kg étiqueté jusqu'à Manille (MNL) ; carte d'embarquement du LH 391 seulement : celles de Qatar Airways ne s'impriment pas à Findel (jet 97,7 sur 70 %) et sont à retirer au comptoir de transfert de Francfort (agenda A028) ; eTravel non demandé au compto
+> - Tour en cours à 13h08, en attente de William : **ce qu'il fait avant l'embarquement** (contrôle de sûreté, temps libre).

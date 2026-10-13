@@ -1,28 +1,26 @@
 # Dernier tour montré au joueur
 
-> Tour n° 25 ; horloge 18/07/2040 12:59 -> 18/07/2040 13:04 ; enregistré le 13/10/2026 15:26 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 26 ; horloge 18/07/2040 13:04 -> 18/07/2040 13:08 ; enregistré le 13/10/2026 15:33 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je lui dis que je prolongerai sur place au Bureau de l'immigration
+> Je signe la déclaration et je lui rends le stylo
 
 ## Texte envoyé au joueur
 
-**MERCREDI 18 JUILLET 2040 — 13h04 — Aéroport de Luxembourg-Findel, comptoir de Lufthansa**
+**MERCREDI 18 JUILLET 2040 — 13h08 — Aéroport de Luxembourg-Findel, hall des départs**
 
-« Je prolongerai sur place, au Bureau de l'immigration. »
+Tu signes en bas de la feuille, avec la date, et tu rends le stylo. Simão glisse la déclaration dans une bannette, colle une étiquette sur la poignée de ton sac, « MNL » en gros caractères, et le regarde partir sur le tapis.
 
-Simão hoche la tête, tape encore, fait défiler sur son écran une page grise couverte de texte en anglais. « Oui… là-bas, la prolongation, ça se fait. Mais le système, lui, voit un retour après trente jours. » Il soupire, se retourne vers l'imprimante derrière lui et revient avec une feuille encore tiède. « Dans ce cas, je dois vous faire signer ça. C'est la procédure. »
+« Votre sac est enregistré jusqu'à Manille. » L'imprimante sort une carte d'embarquement. Il tape encore, réessaie, fronce les sourcils. « Pour Qatar, ça ne passe pas : le système ne me donne pas les cartes. Vous les retirerez à Francfort, au comptoir de transfert. Vous avez une heure vingt-cinq de correspondance, ça va. » Il te rend ton passeport avec la carte du LH 391. « Embarquement à 15h10. La porte s'affichera sur les écrans. Bon voyage, monsieur. »
 
-La feuille est en anglais, en français et en allemand : « Déclaration du passager — documents de voyage ». Tu y lis que tu as été informé des conditions d'entrée aux Philippines, que l'entrée peut t'être refusée à Manille, et que, dans ce cas, le billet de retour, les frais et les amendes éventuelles sont à ta charge.
-
-« Vous signez en bas, avec la date. » Il tourne le stylo vers toi, puis ajoute, plus bas : « Moi, à votre place, je prendrais un petit billet pas cher pour Hong Kong ou Bangkok, au cas où. Un collègue a vu des gens bloqués à Manille… Enfin, c'est vous qui voyez. »
+Derrière toi, la famille aux trois chariots s'avance déjà vers le comptoir.
 
 **Réponses attendues**
-- **Simão, l'agent d'enregistrement** : il attend ta signature au bas de la déclaration du passager pour t'enregistrer.
+- Aucune.
 
 **À faire / à fournir avant le tour suivant**
-- Rien de nouveau.
+- Cartes d'embarquement des vols de Qatar Airways (Francfort-Doha, Doha-Manille) à retirer au comptoir de transfert de Francfort : arrivée à 16h30, départ du vol pour Doha à 17h55.
 
 **Quêtes secondaires**
 - Rien de nouveau.

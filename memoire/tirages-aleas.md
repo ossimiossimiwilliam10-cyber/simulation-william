@@ -173,3 +173,7 @@ Effets à jouer : A07 (vendredi 20/07 (matin)) : Retard d'un virement, d'un envo
 - Jet « Enregistrement, suite (sur les 30 points restants) : vérification par le superviseur, puis accord (OUI, 15/30) ; sinon décharge à signer ou billet de sortie exigé (NON) » : probabilité 50 %, jet  80.7 → **NON** [DÉROGATION : suite de la vérification (T6, compagnie aérienne) ; issue précédente NON (jet 92,2)] (enregistré le 13/10/2026 15:25 heure machine)
 
 - Jet « Enregistrement, suite (sur les 15 points restants) : décharge à signer (OUI, 10/15) ou billet de sortie dans les 30 jours exigé avant l'enregistrement (NON, 5/15) » : probabilité 66.7 %, jet  24.5 → **OUI** [DÉROGATION : suite de la vérification (T6, compagnie aérienne) ; issues précédentes NON (jets 92,2 et 80,7)] (enregistré le 13/10/2026 15:25 heure machine)
+
+- Jet « Enregistrement à Findel (billet Lufthansa + Qatar Airways, enregistrement de bout en bout) : les cartes d'embarquement des vols de Qatar Airways (QR 68, QR 932) sont imprimées à Findel avec celle du LH 391 (OUI) ; sinon, à retirer au comptoir de transfert de Francfort (NON) » : probabilité 70 %, jet  97.7 → **NON** (enregistré le 13/10/2026 15:32 heure machine)
+
+- Jet « Enregistrement : l'agent demande le code QR eTravel avant d'imprimer les cartes (OUI) ; sinon, il ne le demande pas (NON) » : probabilité 50 %, jet  79.0 → **NON** [DÉROGATION : procédure de l'agent (T6) : contrôle des documents d'entrée (F071 : certaines compagnies demandent le code eTravel au comptoir)] (enregistré le 13/10/2026 15:32 heure machine)
