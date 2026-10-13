@@ -151,3 +151,19 @@ Effets à jouer : A07 (vendredi 20/07 (matin)) : Retard d'un virement, d'un envo
 - Tirage [T10] « Kiara Reyes : délai de sa réponse au message de William du 18/07 à 11h14 (17h14 à Manille ; T21b : repond) ; M71 : enjeu d'argent pour le profil (intention cachée : aide financière ; William parle de son « excellente situation ») ; elle était en ligne à 11h12 » : immediat 23 / rapide 32 / dans_l_heure 15 / dans_la_journee 13 / le_soir_ou_lendemain 10 / plus_tard_ou_jamais 7 ; modificateurs : M71 ; jet  66.1 → **dans_l_heure** (enregistré le 13/10/2026 10:54 heure machine)
 
 - Jet « Bus 604 (direct) de 11h30 à la mairie d'Audun-le-Tiche, mercredi 18/07/2040 (vacances scolaires, grand soleil) : retard de plus de 5 minutes en route vers Hamilius (OUI) ou à l'heure, à quelques minutes près (NON) » : probabilité 20 %, jet  72.7 → **NON** (enregistré le 13/10/2026 10:55 heure machine)
+
+- Tirage [T21b] « Kiara Reyes : réponse au message de William (mercredi 18/07/2040 à 11h54 au Luxembourg, 17h54 à Manille : garçon ou fille ?, d'accord pour samedi, nom de son hôtel (City Garden Grand Hotel, Makati), rendez-vous à son hôtel comme point de ralliement, puis visite de la ville et repas) ; M46 : intention cachée du profil = aide_financiere ; ni contenu sexuel ni proposition d'argent : pas de M47 » : repond 65 / repond_tard 20 / ignore 7 / bloque 8 ; modificateurs : M46 ; jet  66.7 → **repond_tard** (enregistré le 13/10/2026 15:00 heure machine)
+
+- Jet « Kiara Reyes : sa réponse tardive au message du 18/07 à 11h54 arrive le lendemain, jeudi 19/07 (OUI), ou le surlendemain, vendredi 20/07 (NON) » : probabilité 50 %, jet  69.1 → **NON** [DÉROGATION : délai d'une issue déjà tirée en T21b (repond_tard : un ou deux jours) ; aucune table ne fixe le jour] (enregistré le 13/10/2026 15:00 heure machine)
+
+- Jet « Kiara Reyes : heure de sa réponse dans son après-midi à Manille, entre 13h00 et 18h00 (heure = 13h00 + jet x 3 min ; le résultat OUI/NON est sans objet) » : probabilité 50 %, jet  35.3 → **OUI** [DÉROGATION : heure d'une réponse déjà tirée (T21b repond_tard) ; employée de centre d'appels, horaires de nuit : elle écrit au réveil] (enregistré le 13/10/2026 15:00 heure machine)
+
+- Jet « Forfait Kestrel PVS2HS (Lufthansa + Qatar Airways, Qatar transporteur principal pour les bagages) : tarif Economy Classic, 25 kg en soute (OUI) ou Economy Convenience, 30 kg (NON) » : probabilité 70 %, jet  65.9 → **OUI** (enregistré le 13/10/2026 15:03 heure machine)
+
+- Jet « Poids du sac de voyage de William (fait le 14/07, cinq semaines de vêtements d'été) : 10 kg + jet x 0,1 kg (le résultat OUI/NON est sans objet) » : probabilité 50 %, jet  74.1 → **NON** (enregistré le 13/10/2026 15:03 heure machine)
+
+- Jet « Enregistrement au comptoir de Lufthansa à Findel (démarche à enjeu) : friction (deuxième vérification : retour le 24/08, au-delà des 30 jours sans visa) (OUI) ou enregistrement sans question (NON) » : probabilité 30 %, jet  28.8 → **OUI** (enregistré le 13/10/2026 15:03 heure machine)
+
+- Jet « Enfant de Kiara Reyes (parent isolé, 25 ans) : une fille (OUI) ou un garçon (NON) » : probabilité 50 %, jet  88.9 → **NON** (enregistré le 13/10/2026 15:04 heure machine)
+
+- Jet « Âge de l'enfant de Kiara Reyes : 1 an + jet x 0,07 (arrondi à l'entier inférieur ; de 1 à 7 ans ; le résultat OUI/NON est sans objet) » : probabilité 50 %, jet  41.9 → **OUI** (enregistré le 13/10/2026 15:04 heure machine)

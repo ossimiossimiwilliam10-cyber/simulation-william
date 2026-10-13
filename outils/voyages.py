@@ -298,6 +298,17 @@ def payer_par_carte(carte, total, P, quand, res, registre):
     return False
 
 
+# Codes de billetterie IATA (trois chiffres) des compagnies : le billet électronique porte celui du premier transporteur (13/10/2026).
+PREFIXES_BILLET = {"lufthansa": "220", "qatar": "157", "ethiopian": "071", "air france": "057", "klm": "074",
+                   "emirates": "176", "turkish": "235", "swiss": "724", "brussels": "082", "luxair": "149", "etihad": "607",
+                   "singapore": "618", "cathay": "160", "philippine airlines": "079", "royal air maroc": "147", "tap": "047"}
+
+
+def prefixe_billet(compagnies):
+    premiere = compagnies.split("+")[0].strip().lower()
+    return next((code for nom, code in PREFIXES_BILLET.items() if nom in premiere), "220")
+
+
 def reserver_vol(vol_id, aller, retour, voyageurs, quand, simule=False, deja_paye=False, carte=None):
     """Réserve et paie un vol : grand livre, agenda, PDF de confirmation, registre des réservations. Renvoie la ligne du registre.
     Avec `carte` (cartes.py, depuis le 12/10/2026) : le paiement passe par le plafond de la carte ; refusé, rien n'est réservé
@@ -316,7 +327,7 @@ def reserver_vol(vol_id, aller, retour, voyageurs, quand, simule=False, deja_pay
     rid = f"R{len(registre) + 1:03d}"
     h = empreinte(P["sel"], "reservation", vol_id, aller, retour, voyageurs, quand.isoformat())
     pnr = "".join(ALPHABET_PNR[(h >> (5 * i)) % len(ALPHABET_PNR)] for i in range(6))
-    billet = f"071-{h % 10**10:010d}"
+    billet = f"{prefixe_billet(v['compagnies'])}-{h % 10**10:010d}"  # avant : toujours « 071 » (Ethiopian), U2-23
     res = {"id": rid, "type": "vol", "reserve_le": f"{quand:%Y-%m-%d %H:%M}", "statut": "confirme", "vol": vol_id, "de": v["de"],
            "vers": v["vers"], "aller": aller.isoformat(), "retour": retour.isoformat(), "voyageurs": str(voyageurs), "total": f"{total:.2f}",
            "pnr": pnr, "billet": billet, "agence": P["agence"], "fichier": "", "note": f"{v['compagnies']} ({v['via']})"}
