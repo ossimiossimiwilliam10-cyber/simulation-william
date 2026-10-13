@@ -267,6 +267,9 @@ def main():
         return 0
     if args.cmd == "inscription":
         quand = dt.datetime.fromisoformat(args.quand)
+        if lire(COMPTE):  # garde (13/10/2026) : une inscription recopiée depuis le téléphone n'est jamais refaite
+            print("Déjà inscrit (compte du " + lire(COMPTE)[-1]["inscrit_le"] + ") : rien n'est refait")
+            return 0
         n = None
         if args.abonnement == "plus":
             # paiement du premier mois par carte (cartes.py, depuis le 13/10/2026) : plafond contrôlé ; refusé, pas d'inscription Plus

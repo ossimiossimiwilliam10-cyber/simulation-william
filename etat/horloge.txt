@@ -1,6 +1,7 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2040-07-17 09:00
+horloge: 2040-07-17 09:16
 fuseau: luxembourg
 lieu: Audun-le-Tiche (Moselle), chez William
-tour: 14
-attente: Sa journée du mardi 17/07/2040 (veille du départ pour Manille ; inscrit sur l'application de rencontre)
+tour: 15
+attente: Match avec Kiara sur l'application de rencontre (09h16) : discussion ouverte, vide
+attente: Sa journée du mardi 17/07/2040 (veille du départ pour Manille)

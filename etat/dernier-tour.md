@@ -1,33 +1,36 @@
 # Dernier tour montré au joueur
 
-> Tour n° 14 ; horloge 17/07/2040 08:45 -> 17/07/2040 09:00 ; enregistré le 13/10/2026 09:30 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 15 ; horloge 17/07/2040 09:00 -> 17/07/2040 09:16 ; enregistré le 13/10/2026 09:37 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Dans l'application de rencontre :
-> - Je m'inscris (abonnement Plus, mode voyage sur Manille), présentation : « Just a kind man looking for love. let's meet in real life for better presentation. » [rencontres: inscription abonnement=plus ville=MNL bio="Just a kind man looking for love. let's meet in real life for better presentation."]
+> Alors, j'ai pris note concernant l'abonnement plus de l'application de rencontre. C'est bon, j'ai pris note qu'il est renouvelé chaque 17 du mois.
+> 
+> [File copiée depuis l'application de rencontre : inscription (déjà faite, non refaite), dix « j'aime » (Yuna, Zia, Julia, Angel, Shane, Hannah, Chloe, Samantha, Kiara, Danica) et quinze profils passés (Alexa, Kate, Ashlyn, Erin, Andrea, Faith, Mikaela, Gabrielle, Precious, Jhoanna, Rhian, Maxine, Ella, Bianca, Lianne), avec leurs étiquettes [rencontres: …].]
 
 ## Texte envoyé au joueur
 
-**MARDI 17 JUILLET 2040 — 09h00 — Audun-le-Tiche, chez toi**
-
-Assis sur le bord du lit, tu crées ton compte sur l'application de rencontre : prénom, âge, taille, deux photos tirées de ta galerie. Tu choisis l'abonnement Plus, qui ouvre le mode voyage, et tu places ta position sur Manille. L'abonnement coûte 24,99 € par mois. La banque demande une confirmation sur ton téléphone, et à 8h58 le paiement passe sur ta Visa Debit. Dans la présentation, tu écris : « Just a kind man looking for love. let's meet in real life for better presentation. » Le réglage par défaut s'affiche : femmes de 18 à 40 ans, à Manille.
-
-L'écran « Découvrir » se remplit aussitôt. Vingt-cinq profils de Manille défilent, de Makati à Quezon City. On y voit des prénoms, des âges, des quartiers à quelques kilomètres du point choisi, et des présentations courtes en anglais.
+📌 **Vraie vie** : abonnement noté, je ne le rappellerai plus. La file copiée contenait encore ton inscription de ce matin : je ne l'ai pas refaite, et le moteur ignore désormais une inscription déjà faite. Après avoir copié une file, tu peux la vider avec le bouton « Vider ».
 
 ---
 
-**À toi : mardi 17/07, 09h00.**
+**MARDI 17 JUILLET 2040 — 09h16 — Audun-le-Tiche, chez toi**
+
+Tu fais défiler les profils un par un. Tu aimes celui de Yuna, puis ceux de Zia, Julia, Angel, Shane, Hannah, Chloe, Samantha, Kiara et Danica, et tu passes les quinze autres. Au bout de la pile, l'écran affiche : « Plus personne pour l'instant. Reviens plus tard : de nouveaux profils arrivent. »
+
+Tu poses le téléphone sur la table de nuit. À 9h16, il vibre : « C'est un match ! Kiara et toi, vous vous êtes plu. » Sa fiche s'ouvre : Kiara, 25 ans, Mandaluyong, à 5 kilomètres, profil vérifié, en ligne. Dans sa présentation : « God-fearing. Call center agent · gaming. Let's see where it goes. » Elle cherche « On verra bien ». La discussion est ouverte, encore vide, avec une ligne grise en bas de l'écran : « Dis bonjour à Kiara. »
+
+---
+
+**À toi : mardi 17/07, 09h16.**
 
 **Réponses attendues**
-- Personne n'attend de réponse de ta part.
+- **Kiara** (application de rencontre) : match à 9h16, la discussion est ouverte et aucun message n'a encore été échangé.
 
 **À faire / à fournir avant le tour suivant**
 - Rien de nouveau.
 
 **Quêtes secondaires**
-- Abonnement Plus de l'application de rencontre : 24,99 € par mois sur la Visa Debit, renouvelé le 17 de chaque mois.
-
-Avance rapide possible : « **Go** » fait passer la journée de mardi à la maison, puis le départ de mercredi (bus de 11h30, aéroport). Elle s'arrête au premier message ou événement qui demande une décision.
+- Rien de nouveau.
 
 Que veux-tu faire ?

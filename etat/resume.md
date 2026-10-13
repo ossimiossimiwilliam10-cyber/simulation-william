@@ -1,10 +1,11 @@
-# Résumé d'état (généré le 13/10/2026 09:30 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 13/10/2026 09:37 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mardi 17/07/2040 09:00 (luxembourg, UTC+2)
+## Horloge : mardi 17/07/2040 09:16 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 07:00 ; lisbonne 08:00 ; mindelo 06:00 ; casablanca 08:00 ; douala 08:00 ; addis 10:00 ; manille 15:00 ; paris 09:00
+- **Heure dans les autres lieux** : abidjan 07:16 ; lisbonne 08:16 ; mindelo 06:16 ; casablanca 08:16 ; douala 08:16 ; addis 10:16 ; manille 15:16 ; paris 09:16
 - **En attente de William** :
-  - Sa journée du mardi 17/07/2040 (veille du départ pour Manille ; inscrit sur l'application de rencontre)
+  - Match avec Kiara sur l'application de rencontre (09h16) : discussion ouverte, vide
+  - Sa journée du mardi 17/07/2040 (veille du départ pour Manille)
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **39 712,01 €**
@@ -14,9 +15,12 @@
 - Part nette de la maison d'Audun-le-Tiche : **89 996,87 €**
 - Patrimoine net de William : **744 708,88 €**
 
-## Agenda : dans les 24 heures (2)
+## Agenda : dans les 24 heures (5)
+- A019 Tue 17/07 09:22 (luxembourg) | Julia Dimaculangan (application de rencontre) : Match en retour puis premier message de Julia (T21a : match_et_message, jet 83,8 · T10 : rapide, jet 11,8) · rencontres.py match puis message --auteur profil [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure
 - A013 Tue 17/07 09:25 (luxembourg) | Clément Grandjean (club) : Message spontané d'un membre du club (tiré le 16/07 : rituel du lundi, CLAUDE.md §12) · contenu à choisir d'après sa fiche, entrée en scène par personnage.py apparait [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — rituels.py message-proche, semaine du 2040-07-16 · NON CONNU DE WILLIAM : ne rien montrer avant l'heure
+- A020 Tue 17/07 12:50 (luxembourg) | Hannah De Leon (application de rencontre) : Match en retour de Hannah (T21a : match, jet 59,9 · T10 : dans la journée, jet 82,3) · rencontres.py match [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · intention cachée : arnaque
 - A015 Tue 17/07 15:00 (luxembourg) | Aléa A09 (erreur administrative) : Erreur administrative (virement mal affecté, pièce perdue, nom mal orthographié) · après-midi [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — tirage_aleas.py 2040-07-16 (jet 4,1) · NON CONNU DE WILLIAM
+- A021 Tue 17/07 17:40 (luxembourg) | Shane Lopez (application de rencontre) : Match en retour puis premier message de Shane (T21a : match_et_message, jet 85,7 · T10 : le soir ou le lendemain, jet 81,6 ; 23h40 à Manille, après son service) · rencontres.py match puis message --auteur profil [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure
 ## Agenda : de J+1 à J+7 (5)
 - A018 Wed 18/07 11:30 (luxembourg) | William (trajet prévu) : Trajet vers l'aéroport : bus 604 direct 11h30 Audun-le-Tiche, Mairie → 12h25 Luxembourg, Hamilius · tram ligne 1 12h33 → 12h55 Findel, Luxembourg Airport · billet RegioZone de 2 h (4,05 €) à acheter avant de monter (application CFL go ou automate) [prevu]  — itinéraire choisi par William le 16/07 dans l'application Transports (transports.py options --de AUD --vers FDL --quand '2040-07-18 11:30')
 - A008 Wed 18/07 15:40 (luxembourg) | Lufthansa + Qatar Airways : Vol aller Luxembourg → Manille (LH 391…QR 932) · départ 15:40 de Luxembourg-Findel, arrivée le 19/07 à 16:30 (heure locale) · réservation PVS2HS [prevu]  — réservation R004 (etat/reservations.csv)
@@ -38,8 +42,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2040-07-17.md, 6 dernières lignes)
-> # Mardi 17 juillet 2040 — univers 2, quatrième jour (veille du départ pour Manille)
-> - **Nuit du 16 au 17/07** : coucher à 23h20, réveil à 8h45, sans réveil (heures tirées au dé).
 > - **08h45** : réveil ; grand soleil, 27 °C annoncés ; aucun message. Fin de l'avance rapide (tour n° 13).
 > - **08h45-09h00** (tour n° 14) : William s'inscrit sur l'application de rencontre : abonnement Plus avec le mode voyage sur Manille (24,99 € par mois, premier mois payé sur la Visa Debit à 08h58, opération K003 ; renouvellement le 17 de chaque mois, échéancier E016) ; présentation : « Just a kind man looking for love. let's meet in real life for better presentation. » ; recherche : femmes de 18 à 
-> - Tour en cours à 09h00, en attente de William : **sa journée** (veille du départ).
+> - Tour n° 14 joué jusqu'à 09h00.
+> - **Hors fiction (13/10/2026)** : l'abonnement Plus est noté par le joueur (ne plus le rappeler) ; la file copiée depuis le téléphone contenait encore l'inscription de 08h58 : non refaite (garde ajoutée à `rencontres.py`).
+> - **09h00-09h16** (tour n° 15) : William fait défiler les 25 profils : « j'aime » à Yuna, Zia, Julia, Angel, Shane, Hannah, Chloe, Samantha, Kiara et Danica ; il passe les quinze autres. Réactions tirées en T21a (M48 pour tous ; M45 pour Zia, Hannah, Chloe et Kiara, d'après leur intention cachée) : aucune réponse pour Yuna, Angel, Samantha et Danica ; vus sans suite pour Zia et Chloe ; match pour 
+> - Tour en cours à 09h16, en attente de William : **le match avec Kiara** et **sa journée**.
