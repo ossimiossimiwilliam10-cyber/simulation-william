@@ -221,7 +221,7 @@ def donnees_telephone(t=None):
         if f"{m['date']} {m['heure']}" <= f"{t:%Y-%m-%d %H:%M}":
             discussions.setdefault(m["profil"], []).append({"date": m["date"], "heure": m["heure"], "moi": m["auteur"] == "william",
                                                              "texte": m["texte"]})
-    return {"inscrit": bool(compte), "compte": compte[-1] if compte else None, "prix_plus": PRIX_PLUS, "profils": profils,
+    return {"inscrit": bool(compte), "compte": {k: v for k, v in compte[-1].items() if k != "note"} if compte else None, "prix_plus": PRIX_PLUS, "profils": profils,
             "discussions": discussions, "villes": {"MNL": "Manille"}}
 
 
@@ -243,6 +243,7 @@ def main():
     p.add_argument("--ville", default="MNL")
     p.add_argument("--recherche", default="femmes de 18 à 40 ans")
     p.add_argument("--abonnement", choices=("gratuit", "plus"), default="gratuit")
+    p.add_argument("--carte", default="visa_debit", help="carte qui paie l'abonnement Plus (etat/cartes.csv)")
     p.add_argument("--quand", required=True)
     for nom in ("aimer", "passer", "match", "bloquer"):
         p = sp.add_parser(nom)
@@ -266,26 +267,29 @@ def main():
         return 0
     if args.cmd == "inscription":
         quand = dt.datetime.fromisoformat(args.quand)
-        compte = lire(COMPTE)
-        compte.append({"inscrit_le": f"{quand:%Y-%m-%d %H:%M}", "ville": args.ville, "bio": args.bio.replace(";", ","),
-                       "recherche": args.recherche, "abonnement": args.abonnement, "note": ""})
-        ecrire_csv(COMPTE, compte, COL_C)
+        n = None
         if args.abonnement == "plus":
+            # paiement du premier mois par carte (cartes.py, depuis le 13/10/2026) : plafond contrôlé ; refusé, pas d'inscription Plus
+            import cartes
             import echeancier
-            import grand_livre as gl
             lignes = echeancier.lire()
             n = max(int(l["id"][1:]) for l in lignes) + 1
+            ok, op = cartes.payer(args.carte, PRIX_PLUS, "Application de rencontre (abonnement Plus)", quand, reference=f"E{n:03d}-0")
+            if not ok:
+                print(f"PAIEMENT REFUSÉ ({op['id']}) : {op['note']} · inscription Plus non faite")
+                return 2
             lignes.append({"id": f"E{n:03d}", "libelle": "Application de rencontre : abonnement Plus (mode voyage)", "compte": "courant",
                            "montant": f"{-PRIX_PLUS:.2f}", "periodicite": "mensuel", "jour": str(quand.day), "mois": "", "heure": f"{quand:%H:%M}",
                            "debut": (quand.date() + dt.timedelta(days=28)).isoformat(), "fin": "", "statut": "actif",
                            "source": "estimation (offres comparables ≈ 15 à 20 €/mois en 2026, × 1,35)",
-                           "note": f"souscrit le {quand:%d/%m/%Y} ; premier mois payé à l'inscription", "contrepartie": "", "pret": ""})
+                           "note": f"souscrit le {quand:%d/%m/%Y} ; premier mois payé à l'inscription par {cartes.carte(args.carte)['nom']} ({op['id']}) ; "
+                                   "renouvellement mensuel sur la même carte", "contrepartie": "", "pret": ""})
             ecrire_csv(echeancier.FICHIER, lignes, echeancier.COLONNES)
-            livre = gl.lire()
-            livre.append({"date": f"{quand:%Y-%m-%d}", "heure": f"{quand:%H:%M}", "compte": "courant", "montant": f"{-PRIX_PLUS:.2f}",
-                          "type": "mouvement", "libelle": "Application de rencontre : abonnement Plus, premier mois", "reference": f"E{n:03d}-0"})
-            gl.ecrire(livre)
             echeancier.prevoir(quand.date() + dt.timedelta(days=60))
+        compte = lire(COMPTE)
+        compte.append({"inscrit_le": f"{quand:%Y-%m-%d %H:%M}", "ville": args.ville, "bio": args.bio.replace(";", ","),
+                       "recherche": args.recherche, "abonnement": args.abonnement, "note": f"échéancier E{n:03d}" if n else ""})
+        ecrire_csv(COMPTE, compte, COL_C)
         print(f"Inscription enregistrée ({args.ville}, {args.abonnement})")
         return 0
     if args.cmd in ("aimer", "passer", "match", "bloquer"):

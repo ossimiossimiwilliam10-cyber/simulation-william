@@ -125,6 +125,8 @@ chaque mois, 2 850 € vers le compte épargne (renommé le 14/07/2040 : avant �
 - **16/07/2040, 07h45** : décide d'aller à l'aéroport en transports en commun le 18/07 et de laisser sa voiture à Audun ; trajet choisi :
   bus 604 direct à 11h30 de la mairie, tram depuis Hamilius, aéroport à 12h55.
 - **16/07/2040, 10h42** : eTravel rempli (ETR-0080546756, motif déclaré : vacances).
+- **17/07/2040, 08h58** : s'inscrit sur une application de rencontre (abonnement Plus, mode voyage sur Manille, 24,99 €/mois) ;
+  présentation : « Just a kind man looking for love. let's meet in real life for better presentation. »
 - **12/10/2026 (date réelle, hors fiction)** : cartes bancaires fixées par l'utilisateur (Zebra Premium) ; âge minimum des
   rencontres à Manille ramené de 21 à 18 ans, la majorité aux Philippines (demande de l'utilisateur).
 - *(Avant : « 17/07/2040, 07h05 : début de l'univers 2 ; les vacances d'été ont commencé le samedi 14/07 » → maintenant : départ

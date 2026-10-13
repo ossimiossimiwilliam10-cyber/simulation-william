@@ -1,18 +1,18 @@
-# Résumé d'état (généré le 13/10/2026 09:27 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 13/10/2026 09:30 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mardi 17/07/2040 08:45 (luxembourg, UTC+2)
+## Horloge : mardi 17/07/2040 09:00 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 06:45 ; lisbonne 07:45 ; mindelo 05:45 ; casablanca 07:45 ; douala 07:45 ; addis 09:45 ; manille 14:45 ; paris 08:45
+- **Heure dans les autres lieux** : abidjan 07:00 ; lisbonne 08:00 ; mindelo 06:00 ; casablanca 08:00 ; douala 08:00 ; addis 10:00 ; manille 15:00 ; paris 09:00
 - **En attente de William** :
-  - Sa journée du mardi 17/07/2040 (veille du départ pour Manille ; intentions permanentes : etat/fils-ouverts.md A2)
+  - Sa journée du mardi 17/07/2040 (veille du départ pour Manille ; inscrit sur l'application de rencontre)
 
 ## Argent (grand livre, calculé)
-- Compte courant (Spuerkeess) : **39 737,00 €**
+- Compte courant (Spuerkeess) : **39 712,01 €**
 - Compte épargne (Spuerkeess) : **327 000,00 €**
 - ETF (valeur de marché : calages seulement) : **288 000,00 €**
 - Prêt logement : solde restant dû (passif, déjà déduit de la part de maison) : **110 003,13 €**
 - Part nette de la maison d'Audun-le-Tiche : **89 996,87 €**
-- Patrimoine net de William : **744 733,87 €**
+- Patrimoine net de William : **744 708,88 €**
 
 ## Agenda : dans les 24 heures (2)
 - A013 Tue 17/07 09:25 (luxembourg) | Clément Grandjean (club) : Message spontané d'un membre du club (tiré le 16/07 : rituel du lundi, CLAUDE.md §12) · contenu à choisir d'après sa fiche, entrée en scène par personnage.py apparait [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — rituels.py message-proche, semaine du 2040-07-16 · NON CONNU DE WILLIAM : ne rien montrer avant l'heure
@@ -41,4 +41,5 @@
 > # Mardi 17 juillet 2040 — univers 2, quatrième jour (veille du départ pour Manille)
 > - **Nuit du 16 au 17/07** : coucher à 23h20, réveil à 8h45, sans réveil (heures tirées au dé).
 > - **08h45** : réveil ; grand soleil, 27 °C annoncés ; aucun message. Fin de l'avance rapide (tour n° 13).
-> - Tour en cours à 08h45, en attente de William : **sa journée** (veille du départ).
+> - **08h45-09h00** (tour n° 14) : William s'inscrit sur l'application de rencontre : abonnement Plus avec le mode voyage sur Manille (24,99 € par mois, premier mois payé sur la Visa Debit à 08h58, opération K003 ; renouvellement le 17 de chaque mois, échéancier E016) ; présentation : « Just a kind man looking for love. let's meet in real life for better presentation. » ; recherche : femmes de 18 à 
+> - Tour en cours à 09h00, en attente de William : **sa journée** (veille du départ).

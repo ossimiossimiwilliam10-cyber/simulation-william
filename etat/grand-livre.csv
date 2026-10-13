@@ -46,3 +46,5 @@ date;heure;compte;montant;type;libelle;reference
 2040-08-01;06:00;courant;-12.83;prevu;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20400801
 2040-09-03;06:00;courant;-12.83;prevu;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20400903
 2040-08-07;06:00;courant;-4890.00;prevu;Visa Premier : relevé clos le 30/07/2040, débit du solde (4 890,00 €);C-visa_premier-20400730
+2040-07-17;08:58;courant;-24.99;mouvement;Visa Debit : Application de rencontre (abonnement Plus);K003
+2040-08-17;08:58;courant;-24.99;prevu;Application de rencontre : abonnement Plus (mode voyage);E016-20400817
