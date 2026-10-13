@@ -1,10 +1,9 @@
-# Résumé d'état (généré le 13/10/2026 09:19 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 13/10/2026 09:23 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : lundi 16/07/2040 20:15 (luxembourg, UTC+2)
+## Horloge : lundi 16/07/2040 20:20 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 18:15 ; lisbonne 19:15 ; mindelo 17:15 ; casablanca 19:15 ; douala 19:15 ; addis 21:15 ; manille 02:15 ; paris 20:15
+- **Heure dans les autres lieux** : abidjan 18:20 ; lisbonne 19:20 ; mindelo 17:20 ; casablanca 19:20 ; douala 19:20 ; addis 21:20 ; manille 02:20 ; paris 20:20
 - **En attente de William** :
-  - Courriel « City Garden Grand Hotel » reçu à 20h14 : confirmer la carte sur un lien sous 24 h (hameçonnage, aléa A23)
   - Sa soirée du lundi 16/07/2040 ; départ pour Manille le mercredi 18/07 (bus 604 à 11h30)
 
 ## Argent (grand livre, calculé)
@@ -40,9 +39,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2040-07-16.md, 6 dernières lignes)
-> - **10h30-10h45** : le rappel sonne ; William remplit l'eTravel sur le portail officiel (friction tirée à 30 %, jet 37,8 → non) : identité, passeport, vol QR 932 du 19/07, City Garden Grand Hotel à Makati, vacances, déclarations de santé et de douane ; envoyé à 10h42 ; code QR affiché et reçu par courriel (ETR-0080546756, `courriels/2040-07-16_Confirmation_eTravel_Philippines.pdf`). Agenda A010 et
-> - Tour n° 10 joué jusqu'à 10h45.
 > - **Hors fiction (13/10/2026)** : l'utilisateur demande un « espace indépendant » pour des scènes sexuelles explicites. Réponse : Claude n'en écrit pas et ne construit pas de passerelle vers un autre modèle ; au seuil, le joueur peut poursuivre ailleurs, puis indique l'issue que le moteur joue (règle 10 complétée, préférences de l'utilisateur).
 > - **10h45-20h14** (tour n° 11, « Go ») : journée à la maison, sans message ; 27 °C l'après-midi ; martinets au-dessus des toits en fin de journée ; un tuyau d'arrosage siffle derrière les maisons (un voisin arrose).
 > - **20h14** : aléa A23 (tentative d'arnaque ; forme tirée : faux site lié au voyage, jets 39,0 puis 81,1) : courriel au nom du « City Garden Grand Hotel », expéditeur reservations@citygardengrand-confirm.info, « Action required » : carte de garantie « non vérifiée », annulation sous 24 h, lien vers citygardengrand-confirm.info/verify-booking (`courriels/2040-07-16_City_Garden_Grand_Hotel_action_re
-> - Tour en cours à 20h15, en attente de William : **sa réaction au courriel** et **sa soirée**.
+> - Tour n° 11 joué jusqu'à 20h15.
+> - **20h15-20h20** (tour n° 12) : William ignore le courriel et ouvre l'application de Kestrel Voyages : dossier R6T4JZA2 confirmé et payé le 14/07 (4 890 €), City Garden Grand Hotel, 36 nuits du 19/07 au 24/08 ; billet PVS2HS émis ; aucune action demandée, messagerie de l'agence vide. Le lien du courriel n'est jamais ouvert : rien ne se passe. La lumière du soir passe à l'orange dans le salon.
+> - Tour en cours à 20h20, en attente de William : **sa soirée**.

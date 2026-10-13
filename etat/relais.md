@@ -1,69 +1,38 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 13/10/2026 09:19 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 13/10/2026 09:23 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : lundi 16 juillet 2040, 20h15 (luxembourg) ; tour n° 11
+- Horloge : lundi 16 juillet 2040, 20h20 (luxembourg) ; tour n° 12
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Courriel « City Garden Grand Hotel » reçu à 20h14 : confirmer la carte sur un lien sous 24 h (hameçonnage, aléa A23)
 - En attente de William : Sa soirée du lundi 16/07/2040 ; départ pour Manille le mercredi 18/07 (bus 604 à 11h30)
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 11 ; horloge 16/07/2040 10:45 -> 16/07/2040 20:15 ; enregistré le 13/10/2026 09:19 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 12 ; horloge 16/07/2040 20:15 -> 16/07/2040 20:20 ; enregistré le 13/10/2026 09:23 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Bon, ok, il faut vraiment qu'on trouve une solution pour euh, les scènes sexuelles. Parce que pour moi, ça fait partie explicitement de la, de la vie, en fait. Tu peux pas juste euh, cacher cela. Ça fait très hypocrite et moi, j'aime pas cela. On pourrait pas configurer genre un espace totalement indépendant, puisque ce sont tes règles qui font que, voilà, tu ne peux pas me présenter des scènes sexuelles, mais on peut pas configurer genre un espace indépendant qui se déclenche uniquement lorsqu'il y a du sexe, tu vois, et qui... décrit ça de façon explicite, mais qui soit totalement indépendant, qui ne dépendent pas d'Anthropic. GO
+> J'ignore le courriel et je vérifie sur l'appli de l'agence
 
 ## Texte envoyé au joueur
 
-📌 **Vraie vie** : je comprends ce que tu dis. Le sexe fait partie de la vie, et couper la scène au moment où elle commence peut sembler hypocrite. Mais je n'écris pas de scènes sexuelles explicites, et je ne vais pas non plus monter une passerelle automatique vers un autre modèle pour qu'il les écrive à ma place. C'est une limite de ma part, pas un jugement sur toi ni sur le sujet.
+**LUNDI 16 JUILLET 2040 — 20h20 — Audun-le-Tiche, chez toi**
 
-Voici ce qu'on peut faire concrètement :
-- **Avant** : je pousse les scènes aussi loin que je peux, avec le désir, la tension, les gestes et les mots jusqu'au seuil.
-- **Au seuil** : tu es libre de continuer la scène où tu veux, avec l'outil ou l'imagination de ton choix. C'est ton affaire.
-- **Après** : tu me dis seulement ce qui compte pour la suite, c'est-à-dire la protection ou non, l'argent et la façon dont ça s'est terminé. Je joue les conséquences, tirées comme le reste, et l'après en entier.
+Tu laisses le courriel sans réponse et tu ouvres l'application de Kestrel Voyages. Dans « Mes réservations », le dossier R6T4JZA2 s'affiche en vert : forfait confirmé, payé le 14 juillet, 4 890 €. Le City Garden Grand Hotel y figure pour 36 nuits, du 19 juillet au 24 août, avec une chambre, et le billet PVS2HS est émis. Aucune action n'est demandée, et la messagerie de l'agence ne contient aucun message de l'hôtel.
 
-Je l'ai inscrit dans les règles du moteur, pour que tout agent fasse pareil.
+La lumière du soir passe à l'orange dans le salon.
 
 ---
 
-**LUNDI 16 JUILLET 2040 — 20h15 — Audun-le-Tiche, chez toi**
-
-L'après-midi passe à la maison, volets mi-clos contre les 27 °C. Personne n'écrit. En fin de journée, des martinets passent en criant au-dessus des toits, et quelque part derrière les maisons, un tuyau d'arrosage siffle.
-
-À 20h14, un courriel arrive.
-
-> **De :** City Garden Grand Hotel &lt;reservations@citygardengrand-confirm.info&gt;
-> **Objet :** Action required: your reservation 19 July - 24 August 2040
->
-> Dear Mr. Ossimi,
->
-> Thank you for choosing City Garden Grand Hotel Makati for your stay from 19 July to 24 August 2040, booked through Kestrel Voyages.
->
-> Unfortunately our system was not able to verify the card used to guarantee your reservation. To avoid the automatic cancellation of your booking within 24 hours, please confirm your card details on our secure page :
->
-> https://citygardengrand-confirm.info/verify-booking
->
-> Once your card is verified, your room will be guaranteed and you will receive a new confirmation.
->
-> We look forward to welcome you in Makati.
->
-> Best regards,
-> Front Office Team
-> City Garden Grand Hotel Makati
-
----
-
-**À toi : lundi 16/07, 20h15.**
+**À toi : lundi 16/07, 20h20.**
 
 **Réponses attendues**
-- **City Garden Grand Hotel** : le courriel demande de confirmer ta carte sur le lien sous 24 heures, faute de quoi la réservation serait annulée.
+- Personne n'attend de réponse de ta part.
 
 **À faire / à fournir avant le tour suivant**
 - **Départ** : mercredi 18/07, bus 604 à 11h30 devant la mairie, puis vol LH 391 à 15h40 depuis Findel.
@@ -72,7 +41,15 @@ L'après-midi passe à la maison, volets mi-clos contre les 27 °C. Personne n'�
 
 **Quêtes secondaires**
 - Code QR de l'eTravel : à montrer à l'immigration et à la douane à l'arrivée (il est dans tes courriels).
-… (suite dans etat/dernier-tour.md, 67 lignes)
+- Visa Premier : 110 € disponibles jusqu'au 30/07, puis relevé de 4 890 € débité le mardi 07/08. Visa Debit : 2 500 € par mois.
+- Mardi 31/07 : traitement de juillet.
+- Mercredi 01/08 : cotisation du club (85 €) et package bancaire (12,83 €).
+- Jeudi 02/08 : virements automatiques, 2 850 € vers le compte épargne et 2 850 € vers les ETF.
+- Lundi 17/09 : rentrée au lycée.
+
+Avance rapide possible : « **Go** » fait passer la soirée et la nuit à la maison jusqu'au mardi 17/07 au matin. Elle s'arrête au premier message ou événement qui demande une décision.
+
+Que veux-tu faire ?
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
 - A013 Tue 17/07 09:25 (luxembourg) | Clément Grandjean (club) : Message spontané d'un membre du club (tiré le 16/07 : rituel du lundi, CLAUDE.md §12) · contenu à choisir d'après sa fiche, entrée en scène par personnage.py apparait [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — rituels.py message-proche, semaine du 2040-07-16 · NON CONNU DE WILLIAM : ne rien montrer avant l'heure
@@ -84,7 +61,7 @@ L'après-midi passe à la maison, volets mi-clos contre les 27 °C. Personne n'�
 ## Décisions en attente de William (etat/fils-ouverts.md, A)
 | 1 | **Sa journée du lundi 16/07/2040** | Troisième jour des vacances ; eTravel fait à 10h42 ; départ pour Manille le mercredi 18/07 à 15h40, en transports en commun (décidé à 07h45) *(avant : « Sa journée du samedi 14/07/2040 » → maintenant : lundi 16/07, après l'avance rapide du tour n° 8)* | — |
 | 2 | **Voyage à Manille** (ouvert le 14/07/2040) | **RÉSERVÉ le 14/07 à 10h44** (R003 et R004, Kestrel Voyages, 4 890 € sur la Visa Premier, débités au relevé du 07/08) : vol Lufthansa + Qatar Airways PVS2HS, aller mer. 18/07 15h40 de Findel (LH 391, QR 68, QR 932) → Manille jeu. 19/07 16h30 ; retour ven. 24/08 18h30 (QR 933, QR 69, LH 390) → Luxembourg sam. 25/08 10h05 ; City Garden Grand Hotel (Makati), 36 nuits du 19/07 au 24/08 (R6T4JZA2) ; confirmations PDF dans `courriels/` ; agenda A007 à A011. Restent : ~~eTravel~~ **fait le 16/07 à 10h42** (ETR-0080546756, code QR dans `courriels/` ; tentative du 14/07 à 11h20 refusée : trop tôt, F064), prolongation de séjour avant la fin des 30 jours sans visa (vers le 17/08), trajet vers Findel le 18/07 : **en transports en commun, la voiture reste à Audun** (décision du 16/07 à 07h45 ; trajet choisi : bus 604 direct à 11h30 de la mairie, tram à 12h33 depuis Hamilius, aéroport à 12h55 ; billet RegioZone de 4,05 € à acheter avant de monter ; agenda A018) *(avant : « rien de prévu »)* ; Visa Premier : 110 € disponibles jusqu'au 30/07. Bagage : un seul sac de voyage, fait le 14/07 (poids non mesuré) ; **pour le moteur** : la franchise de bagages du tarif (vols.csv : « selon le tarif choisi ») est à établir par recherche avant l'enregistrement du 18/07. *(Avant : « Rien de réservé : paiement refusé » → maintenant : réservé, 14/07 10h44.)* ~~Rien de réservé : paiement refusé.~~ Le 14/07 à 10h33, William a tenté de payer le forfait Lufthansa + Qatar Airways (Findel mer. 18/07 15h40 → Manille jeu. 19/07 16h30 ; retour mer. 05/09 18h30 → Luxembourg jeu. 06/09 10h05) + 48 nuits au Makati Shangri-La (19/07 – 05/09) : 10 741 € chez Kestrel Voyages, avec sa Visa Premier : refusé, limite mensuelle de 5 000 € dépassée (Visa Debit : 2 500 €/mois) ; panier resté ouvert sur le site ; rien de débité (R002). 30 000 € virés de l'épargne vers le compte courant à 10h25. À décider par William : moyen de payer (hausse de limite dans S-Net, autre combinaison, autre agence…). Séjour de 48 jours : prolongation au Bureau de l'immigration au-delà de 30 jours ; eTravel dans les 72 h avant l'arrivée. *(Avant : « Rien de réservé. Dates envisagées : aller ven. 20/07, retour ven. 31/08 ; vol et hôtel à choisir » → maintenant : forfait choisi, paiement refusé, 14/07 10h33.)* *(Avant : « Voyage à Yaoundé » avec un vol réservé → maintenant : Manille, correction hors fiction U2-18 du 12/10/2026.)* ~~Ancienne ligne : **Vol réservé et payé le 14/07 à 10h04** (R001, CYNERS : aller ven. 20/07 18h30, retour ven. 31/08, 2 179 €). À faire : e-visa (réponse en 72 h ouvrées ou 24 h en express), certificat de fièvre jaune (biographie : question posée à l'utilisateur le 12/10/2026), hébergement à Yaoundé (rien de réservé), trajet vers Findel. *(Avant : « recherches faites, rien de réservé » → maintenant : vol réservé, 14/07 10h04.)*~~ | — |
-| 3 | **Courriel « City Garden Grand Hotel » (16/07, 20h14)** | Demande de « vérifier » la carte de garantie sous 24 h via un lien (citygardengrand-confirm.info), faute de quoi la réservation serait annulée ; **pour le moteur** : hameçonnage (aléa A23), la réservation R003 est en réalité confirmée et payée ; si William saisit sa carte sur le lien, les fraudeurs la tentent (plafonds : Visa Premier 110 € disponibles, Visa Debit 2 500 €), puis friction et opposition à jouer | — |
+| 3 | ~~**Courriel « City Garden Grand Hotel » (16/07, 20h14)**~~ **CLOS le 16/07 à 20h20** : William ignore le courriel et vérifie dans l'application de Kestrel Voyages : forfait confirmé et payé, aucune action demandée, aucun message de l'hôtel ; lien jamais ouvert | Demande de « vérifier » la carte de garantie sous 24 h via un lien (citygardengrand-confirm.info), faute de quoi la réservation serait annulée ; **pour le moteur** : hameçonnage (aléa A23), la réservation R003 est en réalité confirmée et payée ; si William saisit sa carte sur le lien, les fraudeurs la tentent (plafonds : Visa Premier 110 € disponibles, Visa Debit 2 500 €), puis friction et opposition à jouer | — |
 
 ## Notes de passation (etat/relais-notes.md)
 - ~~(11/10/2026 22:30, Claude Opus 5.5) Redémarrage de l'univers 2 redaté au samedi 14/07/2040, 08h37 (premier vrai jour de vacances,
@@ -136,9 +113,9 @@ L'après-midi passe à la maison, volets mi-clos contre les 27 °C. Personne n'�
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 464df42 ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 7742528 ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche claude/simulation-realistic-agent-handoff-3deabc ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 15 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 10 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 
