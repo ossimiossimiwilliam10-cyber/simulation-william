@@ -1,11 +1,11 @@
-# Résumé d'état (généré le 13/10/2026 10:15 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 13/10/2026 10:29 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mardi 17/07/2040 09:25 (luxembourg, UTC+2)
+## Horloge : mardi 17/07/2040 17:40 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 07:25 ; lisbonne 08:25 ; mindelo 06:25 ; casablanca 08:25 ; douala 08:25 ; addis 10:25 ; manille 15:25 ; paris 09:25
+- **Heure dans les autres lieux** : abidjan 15:40 ; lisbonne 16:40 ; mindelo 14:40 ; casablanca 16:40 ; douala 16:40 ; addis 18:40 ; manille 23:40 ; paris 17:40
 - **En attente de William** :
-  - WhatsApp de Clément Grandjean, du club (09h25) : absences remarquées, coup de main pour le placo jeudi en fin d'après-midi
-  - Sa journée du mardi 17/07/2040 (veille du départ pour Manille)
+  - Premier message de Shane sur l'application de rencontre (17h40) : « When will you be in Manila? »
+  - Sa soirée du mardi 17/07/2040 (veille du départ pour Manille)
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **39 712,01 €**
@@ -16,13 +16,10 @@
 - Patrimoine net de William : **744 708,88 €**
 
 ## Agenda : dans les 24 heures (3)
-- A020 Tue 17/07 12:50 (luxembourg) | Hannah De Leon (application de rencontre) : Match en retour de Hannah (T21a : match, jet 59,9 · T10 : dans la journée, jet 82,3) · rencontres.py match [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · intention cachée : arnaque
-- A015 Tue 17/07 15:00 (luxembourg) | Aléa A09 (erreur administrative) : Erreur administrative (virement mal affecté, pièce perdue, nom mal orthographié) · après-midi [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — tirage_aleas.py 2040-07-16 (jet 4,1) · NON CONNU DE WILLIAM
-- A021 Tue 17/07 17:40 (luxembourg) | Shane Lopez (application de rencontre) : Match en retour puis premier message de Shane (T21a : match_et_message, jet 85,7 · T10 : le soir ou le lendemain, jet 81,6 ; 23h40 à Manille, après son service) · rencontres.py match puis message --auteur profil [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure
-## Agenda : de J+1 à J+7 (7)
 - A022 Wed 18/07 11:12 (luxembourg) | Kiara Reyes (application de rencontre) : Répond enfin au message de William du 17/07 à 09h17 : « Hi William! Sorry for the late reply, I was on shift and so tired 😅 I'm good, thanks! How about you? Where are you from? » (T21b : repond_tard, jet 72,6, M46 · jour : lendemain, jet 30,7 · heure : 13h00 + 83,9 × 3 min) · rencontres.py message kiara-reyes --auteur profil [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · 11h12 au Luxembourg
 - A018 Wed 18/07 11:30 (luxembourg) | William (trajet prévu) : Trajet vers l'aéroport : bus 604 direct 11h30 Audun-le-Tiche, Mairie → 12h25 Luxembourg, Hamilius · tram ligne 1 12h33 → 12h55 Findel, Luxembourg Airport · billet RegioZone de 2 h (4,05 €) à acheter avant de monter (application CFL go ou automate) [prevu]  — itinéraire choisi par William le 16/07 dans l'application Transports (transports.py options --de AUD --vers FDL --quand '2040-07-18 11:30')
 - A008 Wed 18/07 15:40 (luxembourg) | Lufthansa + Qatar Airways : Vol aller Luxembourg → Manille (LH 391…QR 932) · départ 15:40 de Luxembourg-Findel, arrivée le 19/07 à 16:30 (heure locale) · réservation PVS2HS [prevu]  — réservation R004 (etat/reservations.csv)
+## Agenda : de J+1 à J+7 (4)
 - A007 Thu 19/07 08:00 (luxembourg) | City Garden Grand Hotel : Arrivée à l'hôtel City Garden Grand Hotel (Manille), 36 nuit(s) · réservation R6T4JZA2 [prevu]  — réservation R003 (etat/reservations.csv)
 - A023 Thu 19/07 11:25 (luxembourg) | Julia Dimaculangan (application de rencontre) : Répond enfin au message de William du 17/07 à 09h23 : « Hi William! So sorry for the very late reply 🙏 Crazy week, night shift every day 😩 Haha a guide? I'm not a pro but I know Manila well, almost 10 years here. Coffee first, as friends, then we see 😊 When do you arrive? Tip: use Grab only, not the taxis outside the malls, and don't drink the tap water ha » (T21b : repond_tard, jet 56,1, sans modificateur · jour : surlendemain, jet 94,8 · heure : 13h00 + 88,4 × 3 min) · rencontres.py message julia-dimaculangan --auteur profil [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · 11h25 au Luxembourg (William aura atterri à 16h30, heure de Manille) · texte à ajuster si William lui écrit de nouveau d'ici là
 - A016 Fri 20/07 03:00 (luxembourg) | Aléa A07 (panne réseau) : Panne réseau (Wi-Fi de l'hôtel, données mobiles) ou banque en ligne indisponible · matin, à Manille [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — tirage_aleas.py 2040-07-16 (jet 4,3) · NON CONNU DE WILLIAM
@@ -42,9 +39,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2040-07-17.md, 6 dernières lignes)
-> - **Hors fiction (13/10/2026)** : reprise de la session (Claude Opus 5.5, entrée du relais sans alerte) ; le joueur demande que la page du téléphone apparaisse dans la conversation : régénérée par `tour.py fin` *(avant : « et republiée à la même adresse » → maintenant :)* ; l'ancienne adresse (https://claude.ai/artifact/9j5a5bgQy9De1sxL7LZ27z) est introuvable et la galerie d'artefacts du compte es
-> - **09h16-09h22** (tour n° 16) : à 09h17, William écrit à Kiara : « Hi Kiara, how are you? » (dicté en français, « Salut Kiara, comment ça va ? » ; envoyé en anglais, langue de sa présentation dans l'application et de Kiara). Réponse tirée en T21b (M46 : intention cachée aide_financiere) : réponse tardive (jet 72,6), le lendemain (jet 30,7), à 17h12 à Manille, 11h12 au Luxembourg (agenda A022, non
 > - Tour en cours à 09h22, en attente de William : **le message de Julia** et **sa journée**.
 > - **09h22-09h25** (tour n° 17) : à 09h23, William répond à Julia : « Yes it is my first time and I am looking for a guide too . Why not you haha » (préparé dans l'application, étiquette appliquée par `etiquettes.py`). Réponse tirée en T21b, sans modificateur (intention cachée serieux ; message ni sexuel ni d'argent) : réponse tardive (jet 56,1), le surlendemain (jet 94,8), le jeudi 19/07 à 17h25 à
 > - **Hors fiction (13/10/2026)** : le téléphone affiche désormais le nom de l'interlocuteur d'une conversation, accents compris (`telephone.py`), au lieu du nom du fichier sans accents ; traces des messages de l'application de rencontre complétées (U2-21).
 > - Tour en cours à 09h25, en attente de William : **la réponse à Clément** et **sa journée**.
+> - **09h25-17h40** (tour n° 18, « Go ») : à 09h26, William répond à Clément : « Oui, en effet, je suis déjà en vacances. Malheureusement, je ne serai pas disponible : je pars justement d'ici jeudi. » (destination non dite). Réaction tirée en T15 : accepte_volontiers (jet 40,2) ; délai en T10 : rapide (jet 27,2) : à 09h37, « Ah mince 😅 Pas de souci, je vais trouver quelqu'un. Profite bien, grand ! O
+> - Tour en cours à 17h40, en attente de William : **le message de Shane** et **sa soirée**.

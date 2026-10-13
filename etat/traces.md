@@ -1,4 +1,4 @@
-# Dossier des traces de William (univers 2 ; créé le 17/07/2040, redaté au 14/07/2040 ; à jour au 17/07/2040, 09h25)
+# Dossier des traces de William (univers 2 ; créé le 17/07/2040, redaté au 14/07/2040 ; à jour au 17/07/2040, 17h40)
 
 > Règle (revue du lundi, validée le 23/07/2040, univers 1) : le monde garde la mémoire de ce que William écrit, signe, dit et fait.
 > Ces traces peuvent **ressortir** (rumeur, plainte, contrôle, conflit, fuite : aléa A12) sans que le moteur les invente à la
@@ -18,3 +18,4 @@
 | 17/07/2040 09h05 | « J'aime » envoyés à dix profils de l'application de rencontre (Yuna, Zia, Julia, Angel, Shane, Hannah, Chloe, Samantha, Kiara, Danica) ; quinze profils passés | historique de l'application ; notifications chez les profils aimés | l'éditeur de l'application ; chaque profil aimé voit qu'il l'a aimée | faible |
 | 17/07/2040 09h17 | Message à Kiara sur l'application de rencontre : « Hi Kiara, how are you? » (ajouté le 13/10/2026, oubli du tour n° 16 : U2-21) | historique de la discussion | l'éditeur de l'application ; Kiara (captures possibles) | faible |
 | 17/07/2040 09h23 | Message à Julia sur l'application de rencontre : « Yes it is my first time and I am looking for a guide too . Why not you haha » (premier séjour à Manille, cherche un guide) | historique de la discussion | l'éditeur de l'application ; Julia (captures possibles) | faible |
+| 17/07/2040 09h26 | Message WhatsApp à Clément Grandjean : « Oui, en effet, je suis déjà en vacances. Malheureusement, je ne serai pas disponible : je pars justement d'ici jeudi. » (destination non dite) | conversation WhatsApp | Clément ; ceux à qui il en parlerait au club | faible |

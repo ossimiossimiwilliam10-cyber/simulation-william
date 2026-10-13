@@ -115,3 +115,17 @@ Effets à jouer : A07 (vendredi 20/07 (matin)) : Retard d'un virement, d'un envo
 - Jet « Julia Dimaculangan : sa réponse tardive (issue T21b repond_tard déjà tirée) arrive le lendemain, mercredi 18/07 (OUI), ou le surlendemain, jeudi 19/07 (NON) » : probabilité 50 %, jet  94.8 → **NON** [DÉROGATION : délai d'une issue déjà tirée en T21b (repond_tard : un ou deux jours) ; aucune table ne fixe le jour] (enregistré le 13/10/2026 10:09 heure machine)
 
 - Jet « Julia Dimaculangan : heure de sa réponse dans son après-midi à Manille, entre 13h00 et 18h00 (heure = 13h00 + jet x 3 min ; le résultat OUI/NON est sans objet) » : probabilité 50 %, jet  88.4 → **NON** [DÉROGATION : heure d'une réponse déjà tirée (T21b repond_tard) ; employée de centre d'appels, horaires de nuit : elle écrit au réveil] (enregistré le 13/10/2026 10:09 heure machine)
+
+- Tirage [T15] « Clément Grandjean : réaction au refus de William (17/07 09h26, WhatsApp : « déjà en vacances », pas disponible, « je pars d'ici jeudi », destination non dite) à sa demande de coup de main pour monter le placo jeudi ; aucun modificateur T15 » : rien_laisse_passer 30 / accepte_volontiers 18 / garde_distance 14 / en_parle_a_d_autres 12 / rend_la_pareille 10 / demande_explication 8 / decline 6 / frontal_conflit 2 ; modificateurs : aucun ; jet  40.2 → **accepte_volontiers** (enregistré le 13/10/2026 10:20 heure machine)
+
+- Tirage [T10] « Clément Grandjean : délai de sa réponse au refus de William (17/07 09h26 ; issue T15 accepte_volontiers) ; il était sur son téléphone à 09h25 ; aucun modificateur » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  27.2 → **rapide** (enregistré le 13/10/2026 10:20 heure machine)
+
+- Jet « Aléa A09 du mardi 17/07 (après-midi) : forme de l'erreur administrative, étape 1 : virement mal affecté (OUI) ou autre forme (NON) » : probabilité 33.3 %, jet  30.1 → **OUI** (enregistré le 13/10/2026 10:22 heure machine)
+
+- Jet « Aléa A09 du mardi 17/07 (après-midi) : forme, étape 2 (si autre forme) : pièce perdue (OUI) ou nom mal orthographié (NON) » : probabilité 50 %, jet  47.3 → **OUI** (enregistré le 13/10/2026 10:22 heure machine)
+
+- Jet « Aléa A09 du mardi 17/07 (après-midi), virement mal affecté : objet, étape 1 : traitement de juillet mal affecté par le service de paie de l'État (OUI ; effet visible le 31/07) ou autre objet (NON) ; l'étape 2 de la forme (pièce perdue) est sans objet » : probabilité 33.3 %, jet  11.2 → **OUI** (enregistré le 13/10/2026 10:22 heure machine)
+
+- Jet « Aléa A09 du mardi 17/07 (après-midi), virement mal affecté : objet, étape 2 (si autre objet) : paiement du forfait de Kestrel Voyages imputé à un autre dossier par l'agence (OUI ; courriel de l'agence) ou abonnement de l'application de rencontre débité deux fois sur la Visa Debit (NON) » : probabilité 50 %, jet   5.0 → **OUI** (enregistré le 13/10/2026 10:22 heure machine)
+
+- Jet « Lufthansa dispose de l'adresse électronique de William (transmise par l'agence Kestrel Voyages) et lui envoie l'invitation à l'enregistrement en ligne 23 heures avant le départ du LH 391, soit le 17/07 à 16h40 (OUI) ; sinon aucun courriel de la compagnie (NON) ; fait vérifié : enregistrement ouvert 30 h avant, courriel à 23 h » : probabilité 75 %, jet  75.4 → **NON** (enregistré le 13/10/2026 10:25 heure machine)

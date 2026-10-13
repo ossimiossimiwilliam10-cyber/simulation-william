@@ -1,27 +1,30 @@
 # Dernier tour montré au joueur
 
-> Tour n° 17 ; horloge 17/07/2040 09:22 -> 17/07/2040 09:25 ; enregistré le 13/10/2026 10:15 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 18 ; horloge 17/07/2040 09:25 -> 17/07/2040 17:40 ; enregistré le 13/10/2026 10:29 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Dans l'application de rencontre :
-> - Message à Julia : « Yes it is my first time and I am looking for a guide too . Why not you haha » [rencontres: message id=julia-dimaculangan texte="Yes it is my first time and I am looking for a guide too . Why not you haha"]
+> Je réponds simplement à Clément que oui, en effet, euh, je suis déjà en vacances, mais sans lui pré le, le préciser où, et que malheureusement, je ne serai pas disponible. Que je pars justement euh, d'ici jeudi. GO
 
 ## Texte envoyé au joueur
 
-**MARDI 17 JUILLET 2040 — 09h25 — Audun-le-Tiche, chez toi**
+**MARDI 17 JUILLET 2040 — 17h40 — Audun-le-Tiche, chez toi**
 
-Tu réponds à Julia : « Yes it is my first time and I am looking for a guide too . Why not you haha » Le message part à 9h23. Pas de réponse. Derrière le mur mitoyen, le voisin tousse, une longue quinte qui finit en raclement, puis plus rien.
+Tu réponds à Clément : « Oui, en effet, je suis déjà en vacances. Malheureusement, je ne serai pas disponible : je pars justement d'ici jeudi. » Sa réponse tombe à 9h37 : « Ah mince 😅 Pas de souci, je vais trouver quelqu'un. Profite bien, grand ! On se refait un sparring à ton retour 👊 »
 
-À 9h25, c'est WhatsApp qui vibre : Clément, du club. « Salut grand ! T'étais pas au sparring samedi ni au MMA hier soir, t'es déjà en vacances ou quoi ? 😄 » Une deuxième bulle arrive aussitôt : « Dis, petit service : jeudi je monte les plaques de placo à l'étage, 25 kilos la plaque, et mon pote m'a lâché. T'aurais deux heures en fin d'aprèm ? Je paie les bières et les pizzas 🍕 À charge de revanche ! »
+La journée passe à la maison. Vers midi, la rue se vide ; tu déjeunes, et dans la cuisine le frigo se relance avec un claquement sec. À 12h50, l'application de rencontre affiche un nouveau match : Hannah, 25 ans, Parañaque, à 10 kilomètres, profil vérifié. Sa présentation : « God-fearing. Nurse · cooking. Looking for something real. » Elle cherche une relation sérieuse. La discussion s'ouvre, vide.
+
+L'après-midi, le thermomètre reste collé à 26 °C sous un ciel sans un nuage, et la chaleur s'installe à l'étage. Ni courriel ni appel.
+
+À 17h40, nouveau match : Shane, 25 ans, Makati, à 6 kilomètres, serveuse. Sa présentation : « Coffee first. Waitress · gaming. Let's see where it goes. » Elle t'écrit dans la foulée : « Hi William 🙂 Just got home from my shift, so tired 😅 Thanks for the like! "Let's meet in real life"… ok, but coffee first 😄 When will you be in Manila? »
 
 **Réponses attendues**
-- **Clément** (WhatsApp, 9h25) : il a remarqué ton absence au sparring de samedi et au MMA d'hier soir et te demande si tu es en vacances. Il te demande aussi un coup de main jeudi en fin d'après-midi pour monter des plaques de placo à l'étage, contre des bières et des pizzas.
+- **Shane** (application de rencontre, 17h40) : match ; elle t'écrit en rentrant de son service et te demande quand tu seras à Manille.
 
 **À faire / à fournir avant le tour suivant**
 - Rien de nouveau.
 
 **Quêtes secondaires**
-- Rien de nouveau.
+- **Hannah** (application de rencontre) : match à 12h50, discussion ouverte, vide.
 
 Que veux-tu faire ?
