@@ -1,23 +1,23 @@
 # Dernier tour montré au joueur
 
-> Tour n° 21 ; horloge 17/07/2040 18:27 -> 17/07/2040 18:33 ; enregistré le 13/10/2026 10:40 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 22 ; horloge 17/07/2040 18:33 -> 18/07/2040 11:12 ; enregistré le 13/10/2026 10:51 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je réponds à Hannah que j'arrive jeudi à Manille. Je lui dis également, euh, je lui demande s'il n'a pas WhatsApp, que ce serait mieux, ce serait plus fluide pour communiquer. Et je lui dis que je suis euh, tombé totalement sous son charme, que je veux qu'elle soit euh, la première personne que je verrai euh, une fois arrivée euh, à Manille.
+> GO
 
 ## Texte envoyé au joueur
 
-**MARDI 17 JUILLET 2040 — 18h33 — Audun-le-Tiche, chez toi**
+**MERCREDI 18 JUILLET 2040 — 11h12 — Audun-le-Tiche, chez toi**
 
-Tu réponds à Hannah : « I arrive in Manila on Thursday. Don't you have WhatsApp? It would be better, smoother to communicate. And I have to tell you: I've totally fallen for your charm. I want you to be the first person I see once I arrive in Manila. » Le message part à 18h30.
+La soirée de mardi passe à la maison, sans message. Tu dînes ; chez les voisins, la radio se tait vers 22 heures, et tu te couches à 23h20.
 
-À 18h33, la discussion avec Hannah disparaît de ta liste. Son profil n'apparaît plus nulle part dans l'application.
+Mercredi, tu te réveilles à 7h40, sans réveil. Le ciel est d'un bleu sans nuage ; il fait déjà 20 °C dehors, et l'application de météo annonce 30 °C pour l'après-midi. Dans la rue, un voisin charge des valises dans le coffre d'une voiture.
 
-Chez les voisins, quelqu'un monte le son d'une radio ; une chanson portugaise passe par-dessus la haie.
+À 11h12, l'application de rencontre vibre : Kiara répond enfin à ton message d'hier matin. « Hi William! Sorry for the late reply, I was on shift and so tired 😅 I'm good, thanks! How about you? Where are you from? » Ton bus part de la mairie à 11h30.
 
 **Réponses attendues**
-- Aucune.
+- **Kiara** (application de rencontre, 11h12) : elle s'excuse de répondre tard (elle sortait de son service) et te demande d'où tu viens.
 
 **À faire / à fournir avant le tour suivant**
 - Rien de nouveau.

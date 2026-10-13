@@ -7,3 +7,4 @@ date;type;tmin;tmax;pluie_mm;orage;soleil_h;brouillard;description;anomalie;tire
 2040-07-19;peu_nuageux;17.5;30.6;0.0;non;9.5;non;"Soleil et quelques nuages ; 31 °C au plus chaud, 17 °C au petit matin ; chaleur pesante";3.66;2026-10-12T18:28
 2040-07-20;ensoleille;17.8;31.3;0.0;non;9.9;non;"Grand soleil ; 31 °C au plus chaud, 18 °C au petit matin ; chaleur pesante";4.42;2026-10-12T18:28
 2040-07-21;ensoleille;16.0;26.1;0.0;non;13.2;non;"Grand soleil ; 26 °C au plus chaud, 16 °C au petit matin";-0.80;2026-10-13T09:27
+2040-07-22;ensoleille;13.8;24.5;0.0;non;9.9;non;"Grand soleil ; 24 °C au plus chaud, 14 °C au petit matin";-2.39;2026-10-13T10:51

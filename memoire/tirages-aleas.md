@@ -141,3 +141,7 @@ Effets à jouer : A07 (vendredi 20/07 (matin)) : Retard d'un virement, d'un envo
 - Tirage [T21b] « Hannah De Leon : réponse au message de William (mardi 17/07/2040 à 18h30 au Luxembourg, 00h30 à Manille : arrivée jeudi à Manille, demande de passer sur WhatsApp, déclaration : « totally fallen for your charm », veut qu'elle soit la première personne qu'il voie à Manille) ; M46 : intention cachée du profil = arnaque ; message romantique, ni sexuel ni d'argent : pas de M47 » : repond 65 / repond_tard 20 / ignore 7 / bloque 8 ; modificateurs : M46 ; jet  97.5 → **bloque** (enregistré le 13/10/2026 10:39 heure machine)
 
 - Tirage [T10] « Hannah De Leon : délai avant le blocage (T21b : bloque, jet 97,5) après le message de William du 17/07 à 18h30 (00h30 à Manille) ; elle était en ligne à 18h27 ; aucun modificateur » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet   6.1 → **immediat** (enregistré le 13/10/2026 10:39 heure machine)
+
+- Jet « Avance rapide (routine de William, vacances, veille du départ) : coucher après minuit dans la nuit du mardi 17 au mercredi 18/07/2040 (OUI : 00h10 ; NON : 23h20) » : probabilité 50 %, jet  62.7 → **NON** (enregistré le 13/10/2026 10:49 heure machine)
+
+- Jet « Avance rapide (routine de William, vacances) : réveil spontané avant 8 h le mercredi 18/07/2040, jour du départ (OUI : 07h40 ; NON : 08h45 ; bus à 11h30) » : probabilité 40 %, jet  32.5 → **OUI** (enregistré le 13/10/2026 10:49 heure machine)
