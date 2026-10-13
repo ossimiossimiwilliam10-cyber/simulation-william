@@ -1,4 +1,4 @@
-# Dossier des traces de William (univers 2 ; créé le 17/07/2040, redaté au 14/07/2040 ; à jour au 19/07/2040, 23h25, heure de Manille)
+# Dossier des traces de William (univers 2 ; créé le 17/07/2040, redaté au 14/07/2040 ; à jour au 19/07/2040, 23h32, heure de Manille)
 
 > Règle (revue du lundi, validée le 23/07/2040, univers 1) : le monde garde la mémoire de ce que William écrit, signe, dit et fait.
 > Ces traces peuvent **ressortir** (rumeur, plainte, contrôle, conflit, fuite : aléa A12) sans que le moteur les invente à la
@@ -29,3 +29,4 @@
 | 18/07/2040 13h05 | Déclaration du passager signée au comptoir de Lufthansa (entrée possiblement refusée à Manille ; billet de retour, frais et amendes à sa charge dans ce cas) | document signé, gardé par la compagnie | Lufthansa, son prestataire d'assistance au sol | moyenne |
 | 18/07/2040 13h40 | Déjeuner à l'aéroport de Findel (31,40 €, Visa Debit) | relevé de la Visa Debit | la Spuerkeess | faible |
 | 19/07/2040 23h01 (Manille) | Entrée aux Philippines : tampon du 19/07, sans visa, 30 jours ; code eTravel scanné | registres du Bureau de l'immigration et du Bureau de la quarantaine | administrations philippines | faible |
+| 19/07/2040 23h27 (Manille) | Message à Julia sur l'application de rencontre : « It's okay, I'm not interested anymore. Not interested at all. » | historique de la discussion | l'éditeur de l'application ; Julia (captures possibles) | faible |

@@ -207,3 +207,9 @@ Effets à jouer : A07 (vendredi 20/07 (matin)) : Retard d'un virement, d'un envo
 - Jet « Cause du retard du QR 68 (78 min) : arrivée tardive de l'avion venu de Doha, cause opérationnelle de la compagnie (OUI, 60 %) ; sinon contrôle aérien ou météo, circonstance extraordinaire (étape 2) » : probabilité 60 %, jet  85.0 → **NON** (enregistré le 13/10/2026 15:42 heure machine)
 
 - Jet « Cause du retard du QR 68, étape 2 (sur les 40 points restants) : contrôle aérien ou météo, circonstance extraordinaire (OUI, 25/40) ; sinon problème technique sur l'avion (NON, 15/40) » : probabilité 62.5 %, jet  53.4 → **OUI** (enregistré le 13/10/2026 15:42 heure machine)
+
+- Tirage [T21b] « Julia Dimaculangan : réaction au message de William (jeudi 19/07/2040 à 23h27, Manille : « It's okay, I'm not interested anymore. Not interested at all. ») ; intention cachée : serieux ; ni sexuel ni d'argent : aucun modificateur » : repond 50 / repond_tard 20 / ignore 22 / bloque 8 ; modificateurs : aucun ; jet  64.6 → **repond_tard** (enregistré le 13/10/2026 15:53 heure machine)
+
+- Jet « Julia Dimaculangan : sa réponse tardive au message du 19/07 à 23h27 arrive le lendemain, vendredi 20/07 (OUI), ou le surlendemain, samedi 21/07 (NON) » : probabilité 50 %, jet  64.0 → **NON** [DÉROGATION : délai d'une issue déjà tirée en T21b (repond_tard : un ou deux jours) ; aucune table ne fixe le jour] (enregistré le 13/10/2026 15:54 heure machine)
+
+- Jet « Julia Dimaculangan : heure de sa réponse dans son après-midi, entre 13h00 et 18h00 à Manille (heure = 13h00 + jet x 3 min ; le résultat OUI/NON est sans objet) » : probabilité 50 %, jet  95.3 → **NON** [DÉROGATION : heure d'une réponse déjà tirée (T21b repond_tard) ; employée de centre d'appels, horaires de nuit : elle écrit au réveil] (enregistré le 13/10/2026 15:54 heure machine)

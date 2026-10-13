@@ -1,7 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2040-07-19 23:25
+horloge: 2040-07-19 23:32
 fuseau: manille
-lieu: Manille, aéroport Ninoy-Aquino (NAIA), terminal 3, hall des arrivées
-tour: 27
-attente: Message de Julia (envoyé à 17h25, reçu à l'atterrissage) : « When do you arrive? »
-attente: Trajet jusqu'au City Garden Grand Hotel (Makati), arrivée prévue le 19/07 à partir de 14h (A007)
+lieu: Manille, aéroport Ninoy-Aquino (NAIA), terminal 3, sortie des arrivées
+tour: 28
+attente: Moyen de rejoindre le City Garden Grand Hotel (Makati) : aucun peso ; taxi à coupon (850 pesos), taxis jaunes au compteur, Grab
