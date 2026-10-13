@@ -145,3 +145,9 @@ Effets à jouer : A07 (vendredi 20/07 (matin)) : Retard d'un virement, d'un envo
 - Jet « Avance rapide (routine de William, vacances, veille du départ) : coucher après minuit dans la nuit du mardi 17 au mercredi 18/07/2040 (OUI : 00h10 ; NON : 23h20) » : probabilité 50 %, jet  62.7 → **NON** (enregistré le 13/10/2026 10:49 heure machine)
 
 - Jet « Avance rapide (routine de William, vacances) : réveil spontané avant 8 h le mercredi 18/07/2040, jour du départ (OUI : 07h40 ; NON : 08h45 ; bus à 11h30) » : probabilité 40 %, jet  32.5 → **OUI** (enregistré le 13/10/2026 10:49 heure machine)
+
+- Tirage [T21b] « Kiara Reyes : réponse au message de William (mercredi 18/07/2040 à 11h14 au Luxembourg, 17h14 à Manille : « no problem », vient du Luxembourg, arrive demain à Manille, veut la rencontrer, « maybe it's destiny », « excellent situation », « why not change our lives ») ; M46 : intention cachée du profil = aide_financiere ; allusion à sa situation, sans proposition d'argent ni contenu sexuel : pas de M47 » : repond 65 / repond_tard 20 / ignore 7 / bloque 8 ; modificateurs : M46 ; jet  48.2 → **repond** (enregistré le 13/10/2026 10:54 heure machine)
+
+- Tirage [T10] « Kiara Reyes : délai de sa réponse au message de William du 18/07 à 11h14 (17h14 à Manille ; T21b : repond) ; M71 : enjeu d'argent pour le profil (intention cachée : aide financière ; William parle de son « excellente situation ») ; elle était en ligne à 11h12 » : immediat 23 / rapide 32 / dans_l_heure 15 / dans_la_journee 13 / le_soir_ou_lendemain 10 / plus_tard_ou_jamais 7 ; modificateurs : M71 ; jet  66.1 → **dans_l_heure** (enregistré le 13/10/2026 10:54 heure machine)
+
+- Jet « Bus 604 (direct) de 11h30 à la mairie d'Audun-le-Tiche, mercredi 18/07/2040 (vacances scolaires, grand soleil) : retard de plus de 5 minutes en route vers Hamilius (OUI) ou à l'heure, à quelques minutes près (NON) » : probabilité 20 %, jet  72.7 → **NON** (enregistré le 13/10/2026 10:55 heure machine)

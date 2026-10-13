@@ -1,23 +1,27 @@
 # Dernier tour montré au joueur
 
-> Tour n° 22 ; horloge 17/07/2040 18:33 -> 18/07/2040 11:12 ; enregistré le 13/10/2026 10:51 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 23 ; horloge 18/07/2040 11:12 -> 18/07/2040 11:52 ; enregistré le 13/10/2026 10:56 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> GO
+> je dis euh, du coup à Chiara que c'est pas grave, hein, que je comprends. Je lui dis que je vais bien, que je viens du Luxembourg. Je lui explique que voilà, j'arrive à Manille demain, que j'aimerais bien beaucoup la rencontrer, qu'on fasse connaissance, que peut-être que c'est le destin, que j'ai une bonne situation, même une excellente situation, et que voilà, pourquoi pas changer nos vies respectivement.
 
 ## Texte envoyé au joueur
 
-**MERCREDI 18 JUILLET 2040 — 11h12 — Audun-le-Tiche, chez toi**
+📌 **Vraie vie** : « Chiara » compris comme Kiara.
 
-La soirée de mardi passe à la maison, sans message. Tu dînes ; chez les voisins, la radio se tait vers 22 heures, et tu te couches à 23h20.
+---
 
-Mercredi, tu te réveilles à 7h40, sans réveil. Le ciel est d'un bleu sans nuage ; il fait déjà 20 °C dehors, et l'application de météo annonce 30 °C pour l'après-midi. Dans la rue, un voisin charge des valises dans le coffre d'une voiture.
+**MERCREDI 18 JUILLET 2040 — 11h52 — Bus 604, en route vers Luxembourg**
 
-À 11h12, l'application de rencontre vibre : Kiara répond enfin à ton message d'hier matin. « Hi William! Sorry for the late reply, I was on shift and so tired 😅 I'm good, thanks! How about you? Where are you from? » Ton bus part de la mairie à 11h30.
+Tu réponds à Kiara : « No worries, I understand. I'm fine, thanks! I'm from Luxembourg. I arrive in Manila tomorrow and I would really love to meet you, so we can get to know each other. Maybe it's destiny. I have a good situation, even an excellent one. So why not change our lives, both of us? » Le message part à 11h14.
+
+Tu fermes la maison vers 11h18, ton sac de voyage à l'épaule. Dehors, il fait déjà 26 °C et le trottoir renvoie la chaleur. À l'arrêt de la mairie, tu achètes le billet RegioZone dans l'application CFL go : 4,05 € sur la Visa Debit. Le 604 direct arrive à l'heure et repart à 11h30, à moitié vide : deux frontaliers en chemise, une femme avec une poussette, un adolescent aux écouteurs.
+
+À 11h52, alors que le bus roule vers Luxembourg, Kiara répond : « Wow, tomorrow already? 😊 That's so sweet of you. Maybe it is destiny haha 🙏 I'd love to meet you too. Just so you know, I'm a single mom, I hope it's ok with you. I work night shift, but I'm free on Saturday. Where will you stay? »
 
 **Réponses attendues**
-- **Kiara** (application de rencontre, 11h12) : elle s'excuse de répondre tard (elle sortait de son service) et te demande d'où tu viens.
+- **Kiara** (application de rencontre, 11h52) : elle aimerait te rencontrer aussi. Elle te dit qu'elle est mère célibataire, qu'elle travaille de nuit mais qu'elle est libre samedi, et te demande où tu loges.
 
 **À faire / à fournir avant le tour suivant**
 - Rien de nouveau.
