@@ -49,3 +49,5 @@ date;heure;compte;montant;type;libelle;reference
 2040-07-17;08:58;courant;-24.99;mouvement;Visa Debit : Application de rencontre (abonnement Plus);K003
 2040-08-17;08:58;courant;-24.99;prevu;Application de rencontre : abonnement Plus (mode voyage);E016-20400817
 2040-07-18;11:25;courant;-4.05;mouvement;Visa Debit : CFL go : billet RegioZone 2 h;K004
+2040-07-18;13:40;courant;-31.40;mouvement;Visa Debit : Luxembourg Airport : restaurant panoramique;K005
+2040-09-17;08:58;courant;-24.99;prevu;Application de rencontre : abonnement Plus (mode voyage);E016-20400917

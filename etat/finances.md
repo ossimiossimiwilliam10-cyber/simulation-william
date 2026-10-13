@@ -1,4 +1,4 @@
-# Finances de William (univers 2 ; estimations au samedi 14/07/2040, 10h46)
+# Finances de William (univers 2 ; au jeudi 19/07/2040, 23h25, heure de Manille ; avant : 14/07/2040, 10h46)
 
 > Parité fixe : 1 € = 655,957 FCFA (utile si l'histoire repart vers la zone franc).
 > **Source des soldes : le grand livre** (`python outils/grand_livre.py solde`), jamais un solde écrit à la main ; ce fichier les
@@ -32,6 +32,18 @@ et 744 796,87 €, capital restant dû calculé par le tableau d'amortissement d
 | ETF | 288 000 € | inchangé |
 | **Patrimoine net** | **744 796,87 €** | inchangé (virement entre ses propres comptes) |
 
+## Soldes au jeudi 19/07/2040, 23h25 (heure de Manille ; grand livre : `python outils/grand_livre.py solde`)
+| Poste | Montant | Remarques |
+|---|---|---|
+| Compte courant | 39 676,56 € | − 24,99 € (abonnement de l'application de rencontre, 17/07), − 4,05 € (billet RegioZone, 18/07), − 31,40 € (déjeuner à Findel, 18/07) |
+| Compte épargne | 327 000 € | inchangé |
+| ETF | 288 000 € | inchangé (calage) |
+| **Patrimoine net** | **744 673,43 €** | |
+
+- **Pour le moteur (non connu de William)** : le traitement de juillet (≈ 9 300 €, 31/07) part sur l'IBAN d'un autre agent de l'État (aléa A09 du 17/07, agenda A024) ; le prévu E001-20400731 est annulé au grand livre ; le nouveau versement s'écrira quand il sera joué. Le courant reste assez garni pour les virements du 02/08 et le relevé de la Visa Premier du 07/08.
+- **Frais des cartes hors zone euro** (paiements et retraits en pesos à Manille) : à établir par recherche (tarifs de la Spuerkeess) avant le premier paiement (I1).
+- **Indemnisation du retard du 18-19/07** (règlement CE 261/2004, F074) : 600 € possibles si William la réclame à Qatar Airways ; refus probable (cause tirée : restrictions du contrôle aérien, circonstance extraordinaire).
+
 ## Cartes et plafonds (biographie fixée par l'utilisateur le 12/10/2026)
 - Package **Zebra Premium** (Spuerkeess) : 12,83 €/mois en 2040 (E015, le premier jour ouvré du mois : estimation) : PX050, F062.
 - **Visa Debit** : limite par défaut de 2 500 € par mois, retraits, magasins et internet confondus (F059).
@@ -43,7 +55,7 @@ et 744 796,87 €, capital restant dû calculé par le tableau d'amortissement d
 - **14/07/2040, 10h44** : paiement de 4 890 € à Kestrel Voyages (forfait Lufthansa + Qatar et City Garden Grand Hotel, 18/07 – 24/08)
   autorisé sur la Visa Premier (K002, réservations R003 et R004) ; le compte courant n'est débité qu'au relevé : **− 4 890 € le mardi
   07/08/2040** (relevé clos le lundi 30/07 ; prévu « C-visa_premier-20400730 » au grand livre). Disponible sur la Visa Premier :
-  **110 €** jusqu'au 30/07 ; Visa Debit : 2 500 € en juillet, rien d'utilisé.
+  **110 €** jusqu'au 30/07 ; Visa Debit : 2 500 € en juillet *(avant : rien d'utilisé → maintenant, au 19/07 : 60,44 € utilisés, 2 439,56 € disponibles)*.
 - Suivi automatique depuis le 12/10/2026 : `python outils/cartes.py liste` (plafonds, utilisé, disponible, débit du relevé) ; les
   réservations de voyages passent par `voyages.py … --carte` (plafond contrôlé) ; F063 (clôture et débit des relevés).
 

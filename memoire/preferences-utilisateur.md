@@ -88,6 +88,12 @@
   nouveau ou l'oublié. Ce qu'il dit faire « automatiquement » devient une intention permanente, exécutée par le moteur au bon moment
   (`etat/fils-ouverts.md`, section A2), toujours avec les règles du monde (horaires, frictions, coûts).
 
+- **Mode auto** (13/10/2026) : « Je passe en mode auto jusqu'à … (dépense max autorisée : N euros) GO ! » : le moteur joue alors
+  lui-même les choix routiniers de William (repas, attentes, trajets, formalités) jusqu'au point indiqué, dans le plafond de
+  dépenses, avec les règles du monde (jets, frictions, retards) ; il ne décide pas à sa place d'un message personnel ni d'un
+  choix important, s'arrête au point indiqué et indique la somme dépensée. Premier usage : trajet Findel-Manille du 18-19/07/2040
+  (500 € au plus, 31,40 € dépensés).
+
 ## Grandes décisions hors fiction (historique)
 - 25/07/2040 (simulé) : il a envisagé d'arrêter, puis a décidé de continuer avec tous les paramètres.
 - 11/10/2026 (réel) : redémarrage complet (univers 2) à 35 ans, argent initial, paramètres repris ; départ d'abord fixé au mardi

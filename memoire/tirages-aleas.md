@@ -177,3 +177,33 @@ Effets à jouer : A07 (vendredi 20/07 (matin)) : Retard d'un virement, d'un envo
 - Jet « Enregistrement à Findel (billet Lufthansa + Qatar Airways, enregistrement de bout en bout) : les cartes d'embarquement des vols de Qatar Airways (QR 68, QR 932) sont imprimées à Findel avec celle du LH 391 (OUI) ; sinon, à retirer au comptoir de transfert de Francfort (NON) » : probabilité 70 %, jet  97.7 → **NON** (enregistré le 13/10/2026 15:32 heure machine)
 
 - Jet « Enregistrement : l'agent demande le code QR eTravel avant d'imprimer les cartes (OUI) ; sinon, il ne le demande pas (NON) » : probabilité 50 %, jet  79.0 → **NON** [DÉROGATION : procédure de l'agent (T6) : contrôle des documents d'entrée (F071 : certaines compagnies demandent le code eTravel au comptoir)] (enregistré le 13/10/2026 15:32 heure machine)
+
+- Jet « LH 391 Luxembourg 15h40 → Francfort, mercredi 18/07/2040 (été) : retard de plus de 15 minutes (OUI) ou à l'heure, à quelques minutes près (NON) » : probabilité 30 %, jet  35.6 → **NON** (enregistré le 13/10/2026 15:39 heure machine)
+
+- Jet « Francfort, correspondance du terminal 1 au terminal 3 (SkyLine) : file d'attente longue au contrôle des passeports ou à la sûreté, plus de 20 minutes (OUI) ou fluide (NON) » : probabilité 30 %, jet  12.8 → **OUI** (enregistré le 13/10/2026 15:39 heure machine)
+
+- Jet « QR 68 Francfort 17h55 → Doha : retard de plus de 30 minutes (OUI) ou à l'heure (NON) » : probabilité 15 %, jet   6.9 → **OUI** (enregistré le 13/10/2026 15:39 heure machine)
+
+- Jet « QR 68, ampleur du retard (issue OUI déjà tirée) : 30 min + jet x 0,6 min (de 30 à 90 min ; le résultat OUI/NON est sans objet) » : probabilité 50 %, jet  79.9 → **NON** (enregistré le 13/10/2026 15:39 heure machine)
+
+- Jet « Francfort, durée de la file au contrôle des passeports et à la sûreté du terminal 3 (issue « longue » déjà tirée) : 20 min + jet x 0,3 min (de 20 à 50 min ; le résultat OUI/NON est sans objet) » : probabilité 50 %, jet  21.7 → **OUI** (enregistré le 13/10/2026 15:39 heure machine)
+
+- Jet « Francfort, comptoir de Qatar Airways au terminal 3 (vers 17h00) : l'agente voit la correspondance de Doha impossible (QR 68 retardé de 78 min) et réachemine William tout de suite sur le QR 928 du lendemain matin (OUI) ; sinon, réacheminement au comptoir de transfert de Doha (NON) » : probabilité 85 %, jet  49.9 → **OUI** (enregistré le 13/10/2026 15:41 heure machine)
+
+- Jet « Doha, correspondance manquée (faute de la compagnie, attente d'environ 5 h 40) : bon de repas remis par Qatar Airways (OUI) ou rien (NON) » : probabilité 60 %, jet  27.0 → **OUI** (enregistré le 13/10/2026 15:41 heure machine)
+
+- Jet « Sommeil de William à bord du QR 68 (soir, 6 h 10 de vol) : 0 h + jet x 0,02 h (de 0 à 2 h ; le résultat OUI/NON est sans objet) » : probabilité 50 %, jet  78.6 → **NON** (enregistré le 13/10/2026 15:41 heure machine)
+
+- Jet « Sommeil de William à Doha (salle de repos gratuite de l'aéroport, de 02h40 à 06h40 environ) : 0,5 h + jet x 0,03 h (de 0,5 à 3,5 h ; le résultat OUI/NON est sans objet) » : probabilité 50 %, jet  58.4 → **NON** (enregistré le 13/10/2026 15:41 heure machine)
+
+- Jet « Sommeil de William à bord du QR 928 (jour, 9 h 25 de vol) : 1 h + jet x 0,03 h (de 1 à 4 h ; le résultat OUI/NON est sans objet) » : probabilité 50 %, jet  10.5 → **OUI** (enregistré le 13/10/2026 15:41 heure machine)
+
+- Jet « Manille, NAIA, contrôle de l'immigration (jeudi 19/07 vers 22h40, démarche à enjeu) : l'agent pose des questions sur le retour du 24/08, au-delà des 30 jours (OUI) ou tamponne sans question (NON) » : probabilité 30 %, jet  43.1 → **NON** (enregistré le 13/10/2026 15:41 heure machine)
+
+- Jet « Manille, NAIA : attente totale entre la passerelle et le guichet de l'immigration (scan eTravel compris), fin de soirée : 15 min + jet x 0,45 min (de 15 à 60 min ; le résultat OUI/NON est sans objet) » : probabilité 50 %, jet  35.1 → **OUI** (enregistré le 13/10/2026 15:41 heure machine)
+
+- Jet « Sac de William (enregistré à Findel jusqu'à Manille, réacheminé à Doha sur le QR 928 avec 5 h 40 d'escale) : arrivé à Manille sur le même vol (OUI) ou retardé (NON) » : probabilité 97 %, jet  17.2 → **OUI** (enregistré le 13/10/2026 15:41 heure machine)
+
+- Jet « Cause du retard du QR 68 (78 min) : arrivée tardive de l'avion venu de Doha, cause opérationnelle de la compagnie (OUI, 60 %) ; sinon contrôle aérien ou météo, circonstance extraordinaire (étape 2) » : probabilité 60 %, jet  85.0 → **NON** (enregistré le 13/10/2026 15:42 heure machine)
+
+- Jet « Cause du retard du QR 68, étape 2 (sur les 40 points restants) : contrôle aérien ou météo, circonstance extraordinaire (OUI, 25/40) ; sinon problème technique sur l'avion (NON, 15/40) » : probabilité 62.5 %, jet  53.4 → **OUI** (enregistré le 13/10/2026 15:42 heure machine)

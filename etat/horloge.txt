@@ -1,7 +1,7 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2040-07-18 13:08
-fuseau: luxembourg
-lieu: Aéroport de Luxembourg-Findel, hall des départs
-tour: 26
-attente: Ce que William fait avant l'embarquement du LH 391 (15h10, départ 15h40) : contrôle de sûreté, temps libre
-attente: Cartes d'embarquement de Qatar Airways à retirer au comptoir de transfert de Francfort (A028)
+horloge: 2040-07-19 23:25
+fuseau: manille
+lieu: Manille, aéroport Ninoy-Aquino (NAIA), terminal 3, hall des arrivées
+tour: 27
+attente: Message de Julia (envoyé à 17h25, reçu à l'atterrissage) : « When do you arrive? »
+attente: Trajet jusqu'au City Garden Grand Hotel (Makati), arrivée prévue le 19/07 à partir de 14h (A007)

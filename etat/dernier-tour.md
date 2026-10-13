@@ -1,26 +1,30 @@
 # Dernier tour montré au joueur
 
-> Tour n° 26 ; horloge 18/07/2040 13:04 -> 18/07/2040 13:08 ; enregistré le 13/10/2026 15:33 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 27 ; horloge 18/07/2040 13:08 -> 19/07/2040 23:25 ; enregistré le 13/10/2026 15:47 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je signe la déclaration et je lui rends le stylo
+> Je passe en mode auto jusqu'à mon arrivé à Manille (dépense max autorisé : 500 euros) GO !
 
 ## Texte envoyé au joueur
 
-**MERCREDI 18 JUILLET 2040 — 13h08 — Aéroport de Luxembourg-Findel, hall des départs**
+**JEUDI 19 JUILLET 2040 — 23h25 (heure de Manille) — Aéroport Ninoy-Aquino, terminal 3, hall des arrivées**
 
-Tu signes en bas de la feuille, avec la date, et tu rends le stylo. Simão glisse la déclaration dans une bannette, colle une étiquette sur la poignée de ton sac, « MNL » en gros caractères, et le regarde partir sur le tapis.
+Le contrôle de sûreté de Findel passe vite. Tu déjeunes au restaurant panoramique, face aux pistes : un plat du jour et une grande eau, 31,40 € sur la Visa Debit. Le LH 391 part à l'heure et se pose à Francfort à 16h28.
 
-« Votre sac est enregistré jusqu'à Manille. » L'imprimante sort une carte d'embarquement. Il tape encore, réessaie, fronce les sourcils. « Pour Qatar, ça ne passe pas : le système ne me donne pas les cartes. Vous les retirerez à Francfort, au comptoir de transfert. Vous avez une heure vingt-cinq de correspondance, ça va. » Il te rend ton passeport avec la carte du LH 391. « Embarquement à 15h10. La porte s'affichera sur les écrans. Bon voyage, monsieur. »
+Qatar Airways n'est pas au terminal 1 : il faut prendre le SkyLine, le petit train sans conducteur, jusqu'au nouveau terminal 3. Au comptoir, l'agente regarde ton billet, puis son écran. « Your flight to Doha is delayed, sir. Air traffic control restrictions. New departure at 19:15. You won't make your connection to Manila… I've moved you to tomorrow morning's flight: Doha 07:55, Manila 22:20. Your bag will follow you. » Elle imprime les deux cartes d'embarquement. Le contrôle des passeports et la sûreté te prennent vingt-sept minutes de file. Le QR 68 décolle à 19h13.
 
-Derrière toi, la famille aux trois chariots s'avance déjà vers le comptoir.
+Dîner à bord, puis une heure et demie d'un sommeil haché. À Doha, il est 2h15 : le vol de Manille de 2h20 est parti sans toi. Au comptoir de transfert, on te remet un bon de repas. Tu manges dans une aérogare presque vide, puis tu dors un peu plus de deux heures dans une salle de repos, entre des voyageurs allongés sous des couvertures grises. À 7h55, le QR 928 décolle pour Manille : neuf heures et demie de vol, deux repas, un film, une heure vingt de sommeil.
+
+L'avion se pose à 22h20. Dans la passerelle, l'air est lourd, presque aussi chaud qu'en plein jour : il fait encore 32 °C. À un guichet, on scanne ton code eTravel ; la file de l'immigration avance lentement. Trente et une minutes après la passerelle, l'agent feuillette ton passeport, regarde son écran et tamponne sans un mot : 19 juillet. Ton sac sort sur le tapis, l'étiquette « MNL » encore sur la poignée. Pendant que tu attends, ton téléphone accroche le Wi-Fi gratuit de l'aéroport, une adresse électronique suffit, et les messages arrivent. Julia, à 17h25 : « Hi William! So sorry for the very late reply 🙏 Crazy week, night shift every day 😩 Haha a guide? I'm not a pro but I know Manila well, almost 10 years here. Coffee first, as friends, then we see 😊 When do you arrive? Tip: use Grab only, not the taxis outside the malls, and don't drink the tap water ha »
+
+À 23h25, les portes coulissantes s'ouvrent sur le hall des arrivées : des familles massées derrière une barrière, des chauffeurs avec des pancartes, des comptoirs de cartes SIM et de change, une file devant le guichet des taxis. Le trajet t'a coûté 31,40 €.
 
 **Réponses attendues**
-- Aucune.
+- **Julia** (application de rencontre, message de 17h25) : elle s'excuse du retard et propose « un café d'abord, en amis ». Elle te demande quand tu arrives, te conseille Grab plutôt que les taxis et de ne pas boire l'eau du robinet.
 
 **À faire / à fournir avant le tour suivant**
-- Cartes d'embarquement des vols de Qatar Airways (Francfort-Doha, Doha-Manille) à retirer au comptoir de transfert de Francfort : arrivée à 16h30, départ du vol pour Doha à 17h55.
+- Rejoindre le City Garden Grand Hotel, à Makati : réservation au nom de William, 36 nuits, arrivée prévue à partir de 14h le 19/07.
 
 **Quêtes secondaires**
 - Rien de nouveau.

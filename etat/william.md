@@ -1,4 +1,4 @@
-# William Ossimi — profil (univers 2 ; état au samedi 14/07/2040, 11h25)
+# William Ossimi — profil (univers 2 ; état au jeudi 19/07/2040, 23h25, heure de Manille ; avant : 14/07/2040, 11h25)
 
 > **Univers 2 (redémarrage complet demandé par l'utilisateur le 11/10/2026, date réelle).** Seuls William, son métier et son
 > argent sont repris de l'univers 1 (`archives/univers-1/etat/william.md`). OSIA, l'équipe d'Abidjan, Sandra, Kevin, Aïcha, le
@@ -83,7 +83,7 @@ chaque mois, 2 850 € vers le compte épargne (renommé le 14/07/2040 : avant �
   Esch – Cloche d'Or en service (projection, F028).
 
 ## Vie personnelle
-- Célibataire ; aucune relation en cours ; famille éloignée (voir « Identité »).
+- Célibataire ; aucune relation en cours ; famille éloignée (voir « Identité »). Depuis le 17/07 : application de rencontre (mode voyage sur Manille) : Kiara (rendez-vous proposé le samedi 21/07 à son hôtel), Julia, Shane ; Hannah l'a bloqué le 17/07 à 18h33. Clément Grandjean, partenaire de sparring du club, lui a écrit le 17/07 (William ne lui a pas dit où il partait).
 - **Club : Minett Combat Club**, à Esch-sur-Alzette (quartier de Lallange), membre depuis onze ans ; MMA, grappling, boxe
   thaïe, musculation ; 85 €/mois (E008) ; cours d'été réduits (MMA lundi et mercredi à 19 h, sparring le samedi à 10 h 30),
   fermeture complète du 13 au 26/08/2040 (`donnees/lieux.csv`, club_combat ; agenda A004). Club fictif proposé par le moteur à la
@@ -100,11 +100,14 @@ chaque mois, 2 850 € vers le compte épargne (renommé le 14/07/2040 : avant �
   (`etat/william.md`, `memoire/semaine-2040-W29.md` à `W31`) : elles servent au profil, **jamais** de faits pour l'univers 2,
   et ne doivent pas être plaquées sur William.
 - Univers 2 : observations à consigner ici au fil des décisions, sans jugement (faits, choix, schémas).
+- 17-18/07/2040 : sur l'application de rencontre, il écrit vite après chaque match, propose une rencontre dès les premiers messages, se dit « totally fallen for your charm » (Hannah, troisième message) et met en avant « an excellent situation » (Kiara) ; il donne le nom de son hôtel avant le premier rendez-vous. À son partenaire de club, il ne dit pas où il part.
+- 18-19/07/2040 : il délègue la routine du voyage au moteur (« mode auto », 500 € au plus) ; au comptoir, il signe la décharge sans acheter de billet de sortie, malgré le conseil de l'agent.
 
 ## Corps (suivi : `etat/corps.csv`, `python outils/corps.py etat`)
 - Nuit du vendredi 13 au samedi 14/07/2040 : couché vers 23h20, réveillé à 08h37 sans réveil (≈ 9 h de sommeil ; heures tirées
   au dé) : reposé. Dernier entraînement : non consigné (avant le départ).
 - *(Avant : « Mardi 17/07/2040 : réveillé à 07h05, reposé » → maintenant : faux départ archivé.)*
+- Nuits suivantes : 15→16/07 8 h 10 ; 16→17/07 9 h 10 ; 17→18/07 8 h 05 ; voyage du 18 au 19/07 : environ 5 h, fractionnées (avion, salle de repos de Doha) ; décalage horaire de + 6 h à Manille. Aucun entraînement depuis le 14/07 (plus de sparring avant le 16/09, décision du 14/07).
 
 ## Historique (univers 2)
 - **11-12/10/2026 (date réelle, hors fiction)** : réponses de l'utilisateur aux questions de biographie appliquées : voiture
@@ -127,6 +130,9 @@ chaque mois, 2 850 € vers le compte épargne (renommé le 14/07/2040 : avant �
 - **16/07/2040, 10h42** : eTravel rempli (ETR-0080546756, motif déclaré : vacances).
 - **17/07/2040, 08h58** : s'inscrit sur une application de rencontre (abonnement Plus, mode voyage sur Manille, 24,99 €/mois) ;
   présentation : « Just a kind man looking for love. let's meet in real life for better presentation. »
+- **17/07/2040** : dix « j'aime » ; matchs avec Kiara, Julia, Hannah et Shane ; messages ; WhatsApp de Clément (coup de main refusé : « je pars d'ici jeudi ») ; Hannah le bloque à 18h33.
+- **18/07/2040** : départ : bus 604, tram, Findel ; à l'enregistrement, signe une décharge (retour au-delà des 30 jours sans visa) ; QR 68 retardé de 78 min (contrôle aérien), correspondance de Doha manquée, réacheminé sur le QR 928.
+- **19/07/2040, 22h20 (Manille)** : arrive à Manille ; tampon d'entrée du 19/07 (fin des 30 jours le 18/08) ; sac arrivé.
 - **12/10/2026 (date réelle, hors fiction)** : cartes bancaires fixées par l'utilisateur (Zebra Premium) ; âge minimum des
   rencontres à Manille ramené de 21 à 18 ans, la majorité aux Philippines (demande de l'utilisateur).
 - *(Avant : « 17/07/2040, 07h05 : début de l'univers 2 ; les vacances d'été ont commencé le samedi 14/07 » → maintenant : départ

@@ -1,4 +1,4 @@
-# Dossier des traces de William (univers 2 ; créé le 17/07/2040, redaté au 14/07/2040 ; à jour au 18/07/2040, 13h08)
+# Dossier des traces de William (univers 2 ; créé le 17/07/2040, redaté au 14/07/2040 ; à jour au 19/07/2040, 23h25, heure de Manille)
 
 > Règle (revue du lundi, validée le 23/07/2040, univers 1) : le monde garde la mémoire de ce que William écrit, signe, dit et fait.
 > Ces traces peuvent **ressortir** (rumeur, plainte, contrôle, conflit, fuite : aléa A12) sans que le moteur les invente à la
@@ -27,3 +27,5 @@
 | 18/07/2040 11h54 | Message à Kiara sur l'application de rencontre : nom et quartier de son hôtel à Manille (City Garden Grand Hotel, Makati), rendez-vous samedi à l'hôtel | historique de la discussion | l'éditeur de l'application ; Kiara (captures possibles) | moyenne |
 | 18/07/2040 12h59 | Déclaration orale à l'agent de Lufthansa : il prolongera son séjour au Bureau de l'immigration (retour le 24/08, au-delà des 30 jours sans visa) | dossier d'enregistrement (remarque de l'agent possible) | Lufthansa, son prestataire d'assistance au sol | faible |
 | 18/07/2040 13h05 | Déclaration du passager signée au comptoir de Lufthansa (entrée possiblement refusée à Manille ; billet de retour, frais et amendes à sa charge dans ce cas) | document signé, gardé par la compagnie | Lufthansa, son prestataire d'assistance au sol | moyenne |
+| 18/07/2040 13h40 | Déjeuner à l'aéroport de Findel (31,40 €, Visa Debit) | relevé de la Visa Debit | la Spuerkeess | faible |
+| 19/07/2040 23h01 (Manille) | Entrée aux Philippines : tampon du 19/07, sans visa, 30 jours ; code eTravel scanné | registres du Bureau de l'immigration et du Bureau de la quarantaine | administrations philippines | faible |

@@ -1,0 +1,7 @@
+date;type;tmin;tmax;pluie_mm;orage;soleil_h;brouillard;description;anomalie;tire_le
+2040-07-18;nuageux;25.1;36.0;0.0;non;5.4;non;"Ciel partagé ; 36 °C au plus chaud, 25 °C au petit matin ; chaleur écrasante";-0.91;2026-10-13T15:43
+2040-07-19;nuageux;27.3;36.5;0.0;non;5.6;non;"Ciel partagé ; 37 °C au plus chaud, 27 °C au petit matin ; chaleur écrasante";-0.33;2026-10-13T15:43
+2040-07-20;orage;26.6;29.5;1.3;oui;2.1;non;"Orage en fin d'après-midi ; 29 °C au plus chaud, 27 °C au petit matin ; 1,3 mm de pluie";-0.58;2026-10-13T15:43
+2040-07-21;averses;28.7;30.2;2.1;non;0.8;non;"Averses ; 30 °C au plus chaud, 29 °C au petit matin ; 2,1 mm de pluie";0.15;2026-10-13T15:46
+2040-07-22;orage;30.2;31.7;36.4;oui;1.7;non;"Orage en fin d'après-midi ; 32 °C au plus chaud, 30 °C au petit matin ; 36,4 mm de pluie";1.65;2026-10-13T15:46
+2040-07-23;averses;29.9;31.9;5.7;non;2.2;non;"Averses ; 32 °C au plus chaud, 30 °C au petit matin ; 5,7 mm de pluie";1.90;2026-10-13T15:47
