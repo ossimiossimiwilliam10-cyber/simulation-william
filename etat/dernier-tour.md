@@ -1,30 +1,25 @@
 # Dernier tour montré au joueur
 
-> Tour n° 18 ; horloge 17/07/2040 09:25 -> 17/07/2040 17:40 ; enregistré le 13/10/2026 10:29 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 19 ; horloge 17/07/2040 17:40 -> 17/07/2040 17:42 ; enregistré le 13/10/2026 10:35 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je réponds simplement à Clément que oui, en effet, euh, je suis déjà en vacances, mais sans lui pré le, le préciser où, et que malheureusement, je ne serai pas disponible. Que je pars justement euh, d'ici jeudi. GO
+> Je réponds à Shane que j'arrive jeudi à Manille ; Dans l'application de rencontre :
+> - Message à Hannah : « Hi Hannah, how are you ? » [rencontres: message id=hannah-de-leon texte="Hi Hannah, how are you ?"]
 
 ## Texte envoyé au joueur
 
-**MARDI 17 JUILLET 2040 — 17h40 — Audun-le-Tiche, chez toi**
+**MARDI 17 JUILLET 2040 — 17h42 — Audun-le-Tiche, chez toi**
 
-Tu réponds à Clément : « Oui, en effet, je suis déjà en vacances. Malheureusement, je ne serai pas disponible : je pars justement d'ici jeudi. » Sa réponse tombe à 9h37 : « Ah mince 😅 Pas de souci, je vais trouver quelqu'un. Profite bien, grand ! On se refait un sparring à ton retour 👊 »
-
-La journée passe à la maison. Vers midi, la rue se vide ; tu déjeunes, et dans la cuisine le frigo se relance avec un claquement sec. À 12h50, l'application de rencontre affiche un nouveau match : Hannah, 25 ans, Parañaque, à 10 kilomètres, profil vérifié. Sa présentation : « God-fearing. Nurse · cooking. Looking for something real. » Elle cherche une relation sérieuse. La discussion s'ouvre, vide.
-
-L'après-midi, le thermomètre reste collé à 26 °C sous un ciel sans un nuage, et la chaleur s'installe à l'étage. Ni courriel ni appel.
-
-À 17h40, nouveau match : Shane, 25 ans, Makati, à 6 kilomètres, serveuse. Sa présentation : « Coffee first. Waitress · gaming. Let's see where it goes. » Elle t'écrit dans la foulée : « Hi William 🙂 Just got home from my shift, so tired 😅 Thanks for the like! "Let's meet in real life"… ok, but coffee first 😄 When will you be in Manila? »
+Tu réponds à Shane : « I arrive in Manila on Thursday. » Puis tu ouvres la discussion vide avec Hannah : « Hi Hannah, how are you ? » Les deux messages partent, à 17h41 et 17h42. Rien ne revient pour l'instant. Une odeur de charbon de bois arrive d'un jardin voisin : quelqu'un allume un barbecue.
 
 **Réponses attendues**
-- **Shane** (application de rencontre, 17h40) : match ; elle t'écrit en rentrant de son service et te demande quand tu seras à Manille.
+- Aucune.
 
 **À faire / à fournir avant le tour suivant**
 - Rien de nouveau.
 
 **Quêtes secondaires**
-- **Hannah** (application de rencontre) : match à 12h50, discussion ouverte, vide.
+- Rien de nouveau.
 
 Que veux-tu faire ?
