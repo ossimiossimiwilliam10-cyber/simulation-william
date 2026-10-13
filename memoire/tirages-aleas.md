@@ -167,3 +167,9 @@ Effets à jouer : A07 (vendredi 20/07 (matin)) : Retard d'un virement, d'un envo
 - Jet « Enfant de Kiara Reyes (parent isolé, 25 ans) : une fille (OUI) ou un garçon (NON) » : probabilité 50 %, jet  88.9 → **NON** (enregistré le 13/10/2026 15:04 heure machine)
 
 - Jet « Âge de l'enfant de Kiara Reyes : 1 an + jet x 0,07 (arrondi à l'entier inférieur ; de 1 à 7 ans ; le résultat OUI/NON est sans objet) » : probabilité 50 %, jet  41.9 → **OUI** (enregistré le 13/10/2026 15:04 heure machine)
+
+- Jet « Enregistrement : après la réponse de William (« je prolongerai sur place au Bureau de l'immigration »), l'agent accepte et l'enregistre jusqu'à Manille (OUI) ; sinon, autre suite de la vérification (NON : vérification par le superviseur 15, décharge à signer 10, billet de sortie dans les 30 jours exigé 5) » : probabilité 70 %, jet  92.2 → **NON** [DÉROGATION : tiers à autorité propre (T6 : compagnie aérienne, procédure Timatic) ; issue de la vérification sans table ; probabilités d'après F070 (décret EO 408 : billet de retour exigé ; prolongation possible au Bureau de l'immigration ; aucune règle publiée sur un retour au-delà de 30 jours)] (enregistré le 13/10/2026 15:25 heure machine)
+
+- Jet « Enregistrement, suite (sur les 30 points restants) : vérification par le superviseur, puis accord (OUI, 15/30) ; sinon décharge à signer ou billet de sortie exigé (NON) » : probabilité 50 %, jet  80.7 → **NON** [DÉROGATION : suite de la vérification (T6, compagnie aérienne) ; issue précédente NON (jet 92,2)] (enregistré le 13/10/2026 15:25 heure machine)
+
+- Jet « Enregistrement, suite (sur les 15 points restants) : décharge à signer (OUI, 10/15) ou billet de sortie dans les 30 jours exigé avant l'enregistrement (NON, 5/15) » : probabilité 66.7 %, jet  24.5 → **OUI** [DÉROGATION : suite de la vérification (T6, compagnie aérienne) ; issues précédentes NON (jets 92,2 et 80,7)] (enregistré le 13/10/2026 15:25 heure machine)

@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 13/10/2026 15:06 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 13/10/2026 15:26 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mercredi 18/07/2040 12:59 (luxembourg, UTC+2)
+## Horloge : mercredi 18/07/2040 13:04 (luxembourg, UTC+2)
 - **Lieu de William** : Aéroport de Luxembourg-Findel, comptoir de Lufthansa
-- **Heure dans les autres lieux** : abidjan 10:59 ; lisbonne 11:59 ; mindelo 09:59 ; casablanca 11:59 ; douala 11:59 ; addis 13:59 ; manille 18:59 ; paris 12:59
+- **Heure dans les autres lieux** : abidjan 11:04 ; lisbonne 12:04 ; mindelo 10:04 ; casablanca 12:04 ; douala 12:04 ; addis 14:04 ; manille 19:04 ; paris 13:04
 - **En attente de William** :
-  - Question de l'agent d'enregistrement Simão Pinto : visa ou prolongation prévue (retour le 24/08, 36 jours sur place)
+  - Déclaration du passager à signer (ou non) au comptoir de Lufthansa (entrée possiblement refusée à Manille, frais à sa charge)
   - Vol LH 391 à 15h40 (Francfort, Doha, Manille)
 
 ## Argent (grand livre, calculé)
@@ -40,9 +40,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2040-07-18.md, 6 dernières lignes)
-> - **07h40-11h12** (tour n° 22, fin du « Go ») : grand soleil (20 °C au réveil, 30 °C annoncés) ; matinée à la maison. À 11h12 (17h12 à Manille), Kiara répond enfin au message de la veille (A022 joué ; T21b : repond_tard, M46) : « Hi William! Sorry for the late reply, I was on shift and so tired 😅 I'm good, thanks! How about you? Where are you from? »
-> - Tour en cours à 11h12, en attente de William : **le message de Kiara** ; départ à exécuter sans le redemander (intentions permanentes, `etat/fils-ouverts.md` A2) : bus 604 à 11h30 à la mairie, billet RegioZone avant de monter.
 > - **11h12-11h52** (tour n° 23) : à 11h14, William répond à Kiara (dicté en français ; « Chiara » compris comme Kiara) : « No worries, I understand. I'm fine, thanks! I'm from Luxembourg. I arrive in Manila tomorrow and I would really love to meet you, so we can get to know each other. Maybe it's destiny. I have a good situation, even an excellent one. So why not change our lives, both of us? » Réa
 > - Tour en cours à 11h52, en attente de William : **le message de Kiara** ; suite du trajet à exécuter (Hamilius 12h25, tram 12h33, aéroport 12h55, enregistrement).
 > - **11h52-12h59** (tour n° 24) : à 11h54, William répond à Kiara (dicté en français ; « Chiara » compris comme Kiara) : « Do you have a boy or a girl? And yes, we can meet on Saturday, no problem at all. I'll be staying at the City Garden Grand Hotel, in Makati. It would be perfect to meet at my hotel, if that's okay with you, as a meeting point. Then we can explore the city a bit and go eat somew
 > - Tour en cours à 12h59, en attente de William : **sa réponse à l'agent d'enregistrement** ; Kiara n'a pas répondu.
+> - **12h59-13h04** (tour n° 25) : William répond à l'agent : « Je prolongerai sur place, au Bureau de l'immigration. » Issue de la vérification (tiers à autorité propre, procédure Timatic ; jets en dérogation, probabilités d'après F070) : pas d'accord simple (jet 92,2 sur 70 %), pas de superviseur (jet 80,7 sur 50 %), **décharge à signer** (jet 24,5 sur 66,7 %) : Simão imprime une déclaration du pa
+> - Tour en cours à 13h04, en attente de William : **la signature (ou non) de la déclaration**.

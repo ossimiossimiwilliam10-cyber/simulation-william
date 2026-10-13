@@ -1,4 +1,4 @@
-# Dossier des traces de William (univers 2 ; créé le 17/07/2040, redaté au 14/07/2040 ; à jour au 18/07/2040, 12h59)
+# Dossier des traces de William (univers 2 ; créé le 17/07/2040, redaté au 14/07/2040 ; à jour au 18/07/2040, 13h04)
 
 > Règle (revue du lundi, validée le 23/07/2040, univers 1) : le monde garde la mémoire de ce que William écrit, signe, dit et fait.
 > Ces traces peuvent **ressortir** (rumeur, plainte, contrôle, conflit, fuite : aléa A12) sans que le moteur les invente à la
@@ -25,3 +25,4 @@
 | 18/07/2040 11h14 | Message à Kiara sur l'application de rencontre : vient du Luxembourg, arrive le lendemain, « Maybe it's destiny », « I have a good situation, even an excellent one », « why not change our lives » | historique de la discussion | l'éditeur de l'application ; Kiara (captures possibles) | moyenne |
 | 18/07/2040 11h25 | Achat d'un billet RegioZone dans l'application CFL go (4,05 €, Visa Debit) | relevé de la Visa Debit, compte CFL go | la Spuerkeess, les CFL | faible |
 | 18/07/2040 11h54 | Message à Kiara sur l'application de rencontre : nom et quartier de son hôtel à Manille (City Garden Grand Hotel, Makati), rendez-vous samedi à l'hôtel | historique de la discussion | l'éditeur de l'application ; Kiara (captures possibles) | moyenne |
+| 18/07/2040 12h59 | Déclaration orale à l'agent de Lufthansa : il prolongera son séjour au Bureau de l'immigration (retour le 24/08, au-delà des 30 jours sans visa) | dossier d'enregistrement (remarque de l'agent possible) | Lufthansa, son prestataire d'assistance au sol | faible |
