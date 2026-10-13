@@ -1,10 +1,9 @@
-# Résumé d'état (généré le 13/10/2026 10:37 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 13/10/2026 10:40 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mardi 17/07/2040 18:27 (luxembourg, UTC+2)
+## Horloge : mardi 17/07/2040 18:33 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 16:27 ; lisbonne 17:27 ; mindelo 15:27 ; casablanca 17:27 ; douala 17:27 ; addis 19:27 ; manille 00:27 ; paris 18:27
+- **Heure dans les autres lieux** : abidjan 16:33 ; lisbonne 17:33 ; mindelo 15:33 ; casablanca 17:33 ; douala 17:33 ; addis 19:33 ; manille 00:33 ; paris 18:33
 - **En attente de William** :
-  - Message de Hannah sur l'application de rencontre (18h27) : « how's your day? Are you already here in Manila? »
   - Sa soirée du mardi 17/07/2040 (veille du départ pour Manille)
 
 ## Argent (grand livre, calculé)
@@ -40,9 +39,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2040-07-17.md, 6 dernières lignes)
-> - **09h25-17h40** (tour n° 18, « Go ») : à 09h26, William répond à Clément : « Oui, en effet, je suis déjà en vacances. Malheureusement, je ne serai pas disponible : je pars justement d'ici jeudi. » (destination non dite). Réaction tirée en T15 : accepte_volontiers (jet 40,2) ; délai en T10 : rapide (jet 27,2) : à 09h37, « Ah mince 😅 Pas de souci, je vais trouver quelqu'un. Profite bien, grand ! O
-> - Tour en cours à 17h40, en attente de William : **le message de Shane** et **sa soirée**.
 > - **17h40-17h42** (tour n° 19) : à 17h41, William répond à Shane : « I arrive in Manila on Thursday. » (dicté en français : « j'arrive jeudi à Manille »). À 17h42, il écrit à Hannah : « Hi Hannah, how are you ? » (préparé dans l'application, étiquette appliquée). Réponses tirées en T21b : Shane, sans modificateur (intention cachée serieux) : réponse tardive (jet 56,7), le surlendemain (jet 91,5), 
 > - Tour en cours à 17h42, en attente de William : **sa soirée** (veille du départ).
 > - **17h42-18h27** (tour n° 20, « Go ») : soirée à la maison, sans sortie. À 18h27 (00h27 à Manille), Hannah répond (A025 joué ; T21b : repond, M46 ; T10 : dans l'heure, M71) : « Hello William 😊 I'm fine, thank you. Just got home from my duty at the hospital, so tired but thankful to God 🙏 How about you, how's your day? Are you already here in Manila? »
 > - Tour en cours à 18h27, en attente de William : **le message de Hannah** et **sa soirée**.
+> - **18h27-18h33** (tour n° 21) : à 18h30, William répond à Hannah (dicté en français) : « I arrive in Manila on Thursday. Don't you have WhatsApp? It would be better, smoother to communicate. And I have to tell you: I've totally fallen for your charm. I want you to be the first person I see once I arrive in Manila. » Réaction tirée en T21b avec M46 (intention cachée arnaque ; message romantique, n
+> - Tour en cours à 18h33, en attente de William : **sa soirée** (veille du départ).

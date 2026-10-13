@@ -1,4 +1,4 @@
-# Dossier des traces de William (univers 2 ; créé le 17/07/2040, redaté au 14/07/2040 ; à jour au 17/07/2040, 17h42)
+# Dossier des traces de William (univers 2 ; créé le 17/07/2040, redaté au 14/07/2040 ; à jour au 17/07/2040, 18h33)
 
 > Règle (revue du lundi, validée le 23/07/2040, univers 1) : le monde garde la mémoire de ce que William écrit, signe, dit et fait.
 > Ces traces peuvent **ressortir** (rumeur, plainte, contrôle, conflit, fuite : aléa A12) sans que le moteur les invente à la
@@ -21,3 +21,4 @@
 | 17/07/2040 09h26 | Message WhatsApp à Clément Grandjean : « Oui, en effet, je suis déjà en vacances. Malheureusement, je ne serai pas disponible : je pars justement d'ici jeudi. » (destination non dite) | conversation WhatsApp | Clément ; ceux à qui il en parlerait au club | faible |
 | 17/07/2040 17h41 | Message à Shane sur l'application de rencontre : « I arrive in Manila on Thursday. » (date d'arrivée à Manille) | historique de la discussion | l'éditeur de l'application ; Shane (captures possibles) | faible |
 | 17/07/2040 17h42 | Message à Hannah sur l'application de rencontre : « Hi Hannah, how are you ? » | historique de la discussion | l'éditeur de l'application ; Hannah (captures possibles) | faible |
+| 17/07/2040 18h30 | Message à Hannah sur l'application de rencontre : arrivée jeudi à Manille, demande de son WhatsApp, « I've totally fallen for your charm », « I want you to be the first person I see once I arrive in Manila » | historique de la discussion (elle l'a bloqué à 18h33) | l'éditeur de l'application ; Hannah (captures possibles : profil d'arnaque) | faible |

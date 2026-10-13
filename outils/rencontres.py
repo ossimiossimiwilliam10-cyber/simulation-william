@@ -207,8 +207,10 @@ def donnees_telephone(t=None):
     compte = lire(COMPTE)
     msgs = lire(MESSAGES)
     profils = []
+    bloques = set()
     for p in lire(PROFILS):
         if p["statut"] == "bloque":
+            bloques.add(p["id"])  # bloqué : profil ET discussion disparaissent, comme dans une vraie application (13/10/2026)
             continue
         a = age(naissances[p["id"]], jour) if p["id"] in naissances else None
         if a is None or a < AGE_MIN:
@@ -218,6 +220,8 @@ def donnees_telephone(t=None):
                         "verifie": p["verifie"] == "oui", "statut": p["statut"]})
     discussions = {}
     for m in msgs:
+        if m["profil"] in bloques:
+            continue
         if f"{m['date']} {m['heure']}" <= f"{t:%Y-%m-%d %H:%M}":
             discussions.setdefault(m["profil"], []).append({"date": m["date"], "heure": m["heure"], "moi": m["auteur"] == "william",
                                                              "texte": m["texte"]})

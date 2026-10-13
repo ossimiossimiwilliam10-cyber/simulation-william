@@ -1,21 +1,23 @@
 # Dernier tour montré au joueur
 
-> Tour n° 20 ; horloge 17/07/2040 17:42 -> 17/07/2040 18:27 ; enregistré le 13/10/2026 10:37 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 21 ; horloge 17/07/2040 18:27 -> 17/07/2040 18:33 ; enregistré le 13/10/2026 10:40 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> GO
+> Je réponds à Hannah que j'arrive jeudi à Manille. Je lui dis également, euh, je lui demande s'il n'a pas WhatsApp, que ce serait mieux, ce serait plus fluide pour communiquer. Et je lui dis que je suis euh, tombé totalement sous son charme, que je veux qu'elle soit euh, la première personne que je verrai euh, une fois arrivée euh, à Manille.
 
 ## Texte envoyé au joueur
 
-**MARDI 17 JUILLET 2040 — 18h27 — Audun-le-Tiche, chez toi**
+**MARDI 17 JUILLET 2040 — 18h33 — Audun-le-Tiche, chez toi**
 
-La soirée commence à la maison. Le barbecue d'à côté fume encore un moment, puis des voix et des rires passent par-dessus la haie, avec un bruit de chaises qu'on tire sur une terrasse. Le soleil reste haut ; il fait encore 25 °C dehors.
+Tu réponds à Hannah : « I arrive in Manila on Thursday. Don't you have WhatsApp? It would be better, smoother to communicate. And I have to tell you: I've totally fallen for your charm. I want you to be the first person I see once I arrive in Manila. » Le message part à 18h30.
 
-À 18h27, Hannah répond : « Hello William 😊 I'm fine, thank you. Just got home from my duty at the hospital, so tired but thankful to God 🙏 How about you, how's your day? Are you already here in Manila? »
+À 18h33, la discussion avec Hannah disparaît de ta liste. Son profil n'apparaît plus nulle part dans l'application.
+
+Chez les voisins, quelqu'un monte le son d'une radio ; une chanson portugaise passe par-dessus la haie.
 
 **Réponses attendues**
-- **Hannah** (application de rencontre, 18h27) : elle rentre de sa garde à l'hôpital, te demande comment se passe ta journée et si tu es déjà à Manille.
+- Aucune.
 
 **À faire / à fournir avant le tour suivant**
 - Rien de nouveau.
