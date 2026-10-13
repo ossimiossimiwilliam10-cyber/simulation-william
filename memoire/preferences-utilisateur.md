@@ -84,6 +84,10 @@
   au seuil, le joueur peut poursuivre ailleurs s'il le veut, puis indique l'issue (protection, argent, fin) que le moteur joue
   (règle 10 du fichier maître). Lui répondre sans morale : c'est une limite de Claude, pas un jugement sur lui.
 
+- **Rappels** (13/10/2026) : ne plus répéter les échéances dont il a dit « j'ai pris note » ; les quêtes secondaires ne gardent que le
+  nouveau ou l'oublié. Ce qu'il dit faire « automatiquement » devient une intention permanente, exécutée par le moteur au bon moment
+  (`etat/fils-ouverts.md`, section A2), toujours avec les règles du monde (horaires, frictions, coûts).
+
 ## Grandes décisions hors fiction (historique)
 - 25/07/2040 (simulé) : il a envisagé d'arrêter, puis a décidé de continuer avec tous les paramètres.
 - 11/10/2026 (réel) : redémarrage complet (univers 2) à 35 ans, argent initial, paramètres repris ; départ d'abord fixé au mardi

@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 13/10/2026 09:23 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 13/10/2026 09:27 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : lundi 16/07/2040 20:20 (luxembourg, UTC+2)
+## Horloge : mardi 17/07/2040 08:45 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 18:20 ; lisbonne 19:20 ; mindelo 17:20 ; casablanca 19:20 ; douala 19:20 ; addis 21:20 ; manille 02:20 ; paris 20:20
+- **Heure dans les autres lieux** : abidjan 06:45 ; lisbonne 07:45 ; mindelo 05:45 ; casablanca 07:45 ; douala 07:45 ; addis 09:45 ; manille 14:45 ; paris 08:45
 - **En attente de William** :
-  - Sa soirée du lundi 16/07/2040 ; départ pour Manille le mercredi 18/07 (bus 604 à 11h30)
+  - Sa journée du mardi 17/07/2040 (veille du départ pour Manille ; intentions permanentes : etat/fils-ouverts.md A2)
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **39 737,00 €**
@@ -32,16 +32,13 @@
 - mer 15/08 LU Assomption
 
 ## Routine du tour
-- AUJOURD'HUI lundi : revue du lundi (audit_jets.py, tirage_aleas.py, vie hors de la scène principale, monde, idées)
 - Session : `python outils/relais.py entree --agent "<nom>"` au début ; `python outils/relais.py sortie --note … --commit … --fusionner` à la fin.
 - Début de tour : `python outils/tour.py debut` (résumé, échéances, météo, soleil, argent, corps, lieu, rituels), lecture des fichiers d'état concernés.
 - Pendant : réactions et négociations par `jet.py --table Tn` (T1 à T14 ; `--pour` pour un personnage) ; personnages nouveaux par `personnage.py nouveau` ; faits et prix par `faits.py` et `prix.py` ; lieux par `lieux.py voir` ; révélations dans `savoir.py ajouter` ; argent dans `grand_livre.py ajouter`.
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
-## Fin du dernier journal (2040-07-16.md, 6 dernières lignes)
-> - **Hors fiction (13/10/2026)** : l'utilisateur demande un « espace indépendant » pour des scènes sexuelles explicites. Réponse : Claude n'en écrit pas et ne construit pas de passerelle vers un autre modèle ; au seuil, le joueur peut poursuivre ailleurs, puis indique l'issue que le moteur joue (règle 10 complétée, préférences de l'utilisateur).
-> - **10h45-20h14** (tour n° 11, « Go ») : journée à la maison, sans message ; 27 °C l'après-midi ; martinets au-dessus des toits en fin de journée ; un tuyau d'arrosage siffle derrière les maisons (un voisin arrose).
-> - **20h14** : aléa A23 (tentative d'arnaque ; forme tirée : faux site lié au voyage, jets 39,0 puis 81,1) : courriel au nom du « City Garden Grand Hotel », expéditeur reservations@citygardengrand-confirm.info, « Action required » : carte de garantie « non vérifiée », annulation sous 24 h, lien vers citygardengrand-confirm.info/verify-booking (`courriels/2040-07-16_City_Garden_Grand_Hotel_action_re
-> - Tour n° 11 joué jusqu'à 20h15.
-> - **20h15-20h20** (tour n° 12) : William ignore le courriel et ouvre l'application de Kestrel Voyages : dossier R6T4JZA2 confirmé et payé le 14/07 (4 890 €), City Garden Grand Hotel, 36 nuits du 19/07 au 24/08 ; billet PVS2HS émis ; aucune action demandée, messagerie de l'agence vide. Le lien du courriel n'est jamais ouvert : rien ne se passe. La lumière du soir passe à l'orange dans le salon.
-> - Tour en cours à 20h20, en attente de William : **sa soirée**.
+## Fin du dernier journal (2040-07-17.md, 6 dernières lignes)
+> # Mardi 17 juillet 2040 — univers 2, quatrième jour (veille du départ pour Manille)
+> - **Nuit du 16 au 17/07** : coucher à 23h20, réveil à 8h45, sans réveil (heures tirées au dé).
+> - **08h45** : réveil ; grand soleil, 27 °C annoncés ; aucun message. Fin de l'avance rapide (tour n° 13).
+> - Tour en cours à 08h45, en attente de William : **sa journée** (veille du départ).

@@ -1,39 +1,36 @@
 # Dernier tour montré au joueur
 
-> Tour n° 12 ; horloge 16/07/2040 20:15 -> 16/07/2040 20:20 ; enregistré le 13/10/2026 09:23 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 13 ; horloge 16/07/2040 20:20 -> 17/07/2040 08:45 ; enregistré le 13/10/2026 09:27 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> J'ignore le courriel et je vérifie sur l'appli de l'agence
+> Je prends note concernant mon départ pour l'aéroport. C'est quelque chose que je vais faire automatiquement, sans que je le reprécise. Donc ça, je le ferai, je le ferai automatiquement. Euh, pareil pour acheter mon billet Regiozone, ce sera fait automatiquement parce que j'ai pris note. Je prends également note pour le séjour de 36 jours. Euh, pour le renouvellement du visa, c'est quelque chose que je ferai également automatiquement quand le moment sera venu. Euh, au niveau des quêtes secondaires, donc pareil, hein, le code QR, je le montrerai automatiquement. Euh, visa, donc ça j'ai pris note, hein, c'est bon, ça n'a plus besoin de me le rappeler. Visa première 110 euros disponible, j'ai pris note. Euh, traitement de juillet, j'ai pris note. Cotisation du club et package bancaire, j'ai pris note. Les virements automatiques, c'est bon, j'ai pris note. Euh, rentrée au lycée le 17, j'ai pris note également. GO
 
 ## Texte envoyé au joueur
 
-**LUNDI 16 JUILLET 2040 — 20h20 — Audun-le-Tiche, chez toi**
-
-Tu laisses le courriel sans réponse et tu ouvres l'application de Kestrel Voyages. Dans « Mes réservations », le dossier R6T4JZA2 s'affiche en vert : forfait confirmé, payé le 14 juillet, 4 890 €. Le City Garden Grand Hotel y figure pour 36 nuits, du 19 juillet au 24 août, avec une chambre, et le billet PVS2HS est émis. Aucune action n'est demandée, et la messagerie de l'agence ne contient aucun message de l'hôtel.
-
-La lumière du soir passe à l'orange dans le salon.
+📌 **Vraie vie** : c'est noté. Le trajet jusqu'à l'aéroport, le billet RegioZone, le code QR et la prolongation du séjour se feront d'eux-mêmes, au bon moment, avec les règles du monde (horaires, imprévus, coûts). Je ne te rappellerai plus les échéances dont tu as pris note : les quêtes secondaires ne garderont que le nouveau.
 
 ---
 
-**À toi : lundi 16/07, 20h20.**
+**MARDI 17 JUILLET 2040 — 08h45 — Audun-le-Tiche, chez toi**
+
+La soirée de lundi passe sans message. Vers 22 heures, un chien aboie deux rues plus loin, puis se tait. Tu te couches à 23h20.
+
+Le mardi, tu te réveilles à 8h45. Le soleil tape déjà sur le volet de la chambre, et 27 °C sont annoncés. C'est la veille du départ, et le téléphone n'affiche aucun message.
+
+---
+
+**À toi : mardi 17/07, 08h45.**
 
 **Réponses attendues**
 - Personne n'attend de réponse de ta part.
 
 **À faire / à fournir avant le tour suivant**
-- **Départ** : mercredi 18/07, bus 604 à 11h30 devant la mairie, puis vol LH 391 à 15h40 depuis Findel.
-- **Billet RegioZone** (4,05 €) à acheter avant de monter dans le bus, dans l'application CFL go ou à un automate.
-- **Séjour de 36 jours** : au-delà de 30 jours sans visa, il faut une prolongation au Bureau de l'immigration, vers le 17/08.
+- Rien de nouveau.
 
 **Quêtes secondaires**
-- Code QR de l'eTravel : à montrer à l'immigration et à la douane à l'arrivée (il est dans tes courriels).
-- Visa Premier : 110 € disponibles jusqu'au 30/07, puis relevé de 4 890 € débité le mardi 07/08. Visa Debit : 2 500 € par mois.
-- Mardi 31/07 : traitement de juillet.
-- Mercredi 01/08 : cotisation du club (85 €) et package bancaire (12,83 €).
-- Jeudi 02/08 : virements automatiques, 2 850 € vers le compte épargne et 2 850 € vers les ETF.
-- Lundi 17/09 : rentrée au lycée.
+- Rien de nouveau.
 
-Avance rapide possible : « **Go** » fait passer la soirée et la nuit à la maison jusqu'au mardi 17/07 au matin. Elle s'arrête au premier message ou événement qui demande une décision.
+Avance rapide possible : « **Go** » fait passer la journée de mardi à la maison, puis le départ de mercredi (bus de 11h30, aéroport). Elle s'arrête au premier message ou événement qui demande une décision.
 
 Que veux-tu faire ?

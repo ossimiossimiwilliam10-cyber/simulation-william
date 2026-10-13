@@ -71,3 +71,7 @@ Effets à jouer : A07 (vendredi 20/07 (matin)) : Retard d'un virement, d'un envo
 - Jet « Aléa A23 du lundi 16/07 (soir) : forme de la tentative d'arnaque, étape 1 : SMS de faux colis (OUI) ou autre forme (NON) » : probabilité 33.3 %, jet  39.0 → **NON** (enregistré le 13/10/2026 09:16 heure machine)
 
 - Jet « Aléa A23 du lundi 16/07 (soir) : forme de la tentative d'arnaque, étape 2 (si pas de faux colis) : faux conseiller ou fausse alerte de la banque (OUI) ou faux site lié au voyage (NON) » : probabilité 50 %, jet  81.1 → **NON** (enregistré le 13/10/2026 09:16 heure machine)
+
+- Jet « Avance rapide (routine de William, vacances) : coucher après minuit dans la nuit du lundi 16 au mardi 17/07/2040 (OUI : 00h10 ; NON : 23h20) » : probabilité 50 %, jet  74.4 → **NON** (enregistré le 13/10/2026 09:26 heure machine)
+
+- Jet « Avance rapide (routine de William, vacances) : réveil spontané avant 8 h le mardi 17/07/2040, sans réveil (OUI : 07h35 ; NON : 08h45) » : probabilité 40 %, jet  75.4 → **NON** (enregistré le 13/10/2026 09:26 heure machine)

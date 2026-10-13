@@ -1,53 +1,50 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 13/10/2026 09:23 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 13/10/2026 09:27 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : lundi 16 juillet 2040, 20h20 (luxembourg) ; tour n° 12
+- Horloge : mardi 17 juillet 2040, 08h45 (luxembourg) ; tour n° 13
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Sa soirée du lundi 16/07/2040 ; départ pour Manille le mercredi 18/07 (bus 604 à 11h30)
+- En attente de William : Sa journée du mardi 17/07/2040 (veille du départ pour Manille ; intentions permanentes : etat/fils-ouverts.md A2)
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 12 ; horloge 16/07/2040 20:15 -> 16/07/2040 20:20 ; enregistré le 13/10/2026 09:23 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 13 ; horloge 16/07/2040 20:20 -> 17/07/2040 08:45 ; enregistré le 13/10/2026 09:27 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> J'ignore le courriel et je vérifie sur l'appli de l'agence
+> Je prends note concernant mon départ pour l'aéroport. C'est quelque chose que je vais faire automatiquement, sans que je le reprécise. Donc ça, je le ferai, je le ferai automatiquement. Euh, pareil pour acheter mon billet Regiozone, ce sera fait automatiquement parce que j'ai pris note. Je prends également note pour le séjour de 36 jours. Euh, pour le renouvellement du visa, c'est quelque chose que je ferai également automatiquement quand le moment sera venu. Euh, au niveau des quêtes secondaires, donc pareil, hein, le code QR, je le montrerai automatiquement. Euh, visa, donc ça j'ai pris note, hein, c'est bon, ça n'a plus besoin de me le rappeler. Visa première 110 euros disponible, j'ai pris note. Euh, traitement de juillet, j'ai pris note. Cotisation du club et package bancaire, j'ai pris note. Les virements automatiques, c'est bon, j'ai pris note. Euh, rentrée au lycée le 17, j'ai pris note également. GO
 
 ## Texte envoyé au joueur
 
-**LUNDI 16 JUILLET 2040 — 20h20 — Audun-le-Tiche, chez toi**
-
-Tu laisses le courriel sans réponse et tu ouvres l'application de Kestrel Voyages. Dans « Mes réservations », le dossier R6T4JZA2 s'affiche en vert : forfait confirmé, payé le 14 juillet, 4 890 €. Le City Garden Grand Hotel y figure pour 36 nuits, du 19 juillet au 24 août, avec une chambre, et le billet PVS2HS est émis. Aucune action n'est demandée, et la messagerie de l'agence ne contient aucun message de l'hôtel.
-
-La lumière du soir passe à l'orange dans le salon.
+📌 **Vraie vie** : c'est noté. Le trajet jusqu'à l'aéroport, le billet RegioZone, le code QR et la prolongation du séjour se feront d'eux-mêmes, au bon moment, avec les règles du monde (horaires, imprévus, coûts). Je ne te rappellerai plus les échéances dont tu as pris note : les quêtes secondaires ne garderont que le nouveau.
 
 ---
 
-**À toi : lundi 16/07, 20h20.**
+**MARDI 17 JUILLET 2040 — 08h45 — Audun-le-Tiche, chez toi**
+
+La soirée de lundi passe sans message. Vers 22 heures, un chien aboie deux rues plus loin, puis se tait. Tu te couches à 23h20.
+
+Le mardi, tu te réveilles à 8h45. Le soleil tape déjà sur le volet de la chambre, et 27 °C sont annoncés. C'est la veille du départ, et le téléphone n'affiche aucun message.
+
+---
+
+**À toi : mardi 17/07, 08h45.**
 
 **Réponses attendues**
 - Personne n'attend de réponse de ta part.
 
 **À faire / à fournir avant le tour suivant**
-- **Départ** : mercredi 18/07, bus 604 à 11h30 devant la mairie, puis vol LH 391 à 15h40 depuis Findel.
-- **Billet RegioZone** (4,05 €) à acheter avant de monter dans le bus, dans l'application CFL go ou à un automate.
-- **Séjour de 36 jours** : au-delà de 30 jours sans visa, il faut une prolongation au Bureau de l'immigration, vers le 17/08.
+- Rien de nouveau.
 
 **Quêtes secondaires**
-- Code QR de l'eTravel : à montrer à l'immigration et à la douane à l'arrivée (il est dans tes courriels).
-- Visa Premier : 110 € disponibles jusqu'au 30/07, puis relevé de 4 890 € débité le mardi 07/08. Visa Debit : 2 500 € par mois.
-- Mardi 31/07 : traitement de juillet.
-- Mercredi 01/08 : cotisation du club (85 €) et package bancaire (12,83 €).
-- Jeudi 02/08 : virements automatiques, 2 850 € vers le compte épargne et 2 850 € vers les ETF.
-- Lundi 17/09 : rentrée au lycée.
+- Rien de nouveau.
 
-Avance rapide possible : « **Go** » fait passer la soirée et la nuit à la maison jusqu'au mardi 17/07 au matin. Elle s'arrête au premier message ou événement qui demande une décision.
+Avance rapide possible : « **Go** » fait passer la journée de mardi à la maison, puis le départ de mercredi (bus de 11h30, aéroport). Elle s'arrête au premier message ou événement qui demande une décision.
 
 Que veux-tu faire ?
 
@@ -59,7 +56,7 @@ Que veux-tu faire ?
 - rien
 
 ## Décisions en attente de William (etat/fils-ouverts.md, A)
-| 1 | **Sa journée du lundi 16/07/2040** | Troisième jour des vacances ; eTravel fait à 10h42 ; départ pour Manille le mercredi 18/07 à 15h40, en transports en commun (décidé à 07h45) *(avant : « Sa journée du samedi 14/07/2040 » → maintenant : lundi 16/07, après l'avance rapide du tour n° 8)* | — |
+| 1 | **Sa journée du mardi 17/07/2040** | Veille du départ (avant : « Sa journée du lundi 16/07/2040 ») ; eTravel fait le 16/07 à 10h42 ; départ pour Manille le mercredi 18/07 à 15h40, en transports en commun (décidé à 07h45) *(avant : « Sa journée du samedi 14/07/2040 » → maintenant : lundi 16/07, après l'avance rapide du tour n° 8)* | — |
 | 2 | **Voyage à Manille** (ouvert le 14/07/2040) | **RÉSERVÉ le 14/07 à 10h44** (R003 et R004, Kestrel Voyages, 4 890 € sur la Visa Premier, débités au relevé du 07/08) : vol Lufthansa + Qatar Airways PVS2HS, aller mer. 18/07 15h40 de Findel (LH 391, QR 68, QR 932) → Manille jeu. 19/07 16h30 ; retour ven. 24/08 18h30 (QR 933, QR 69, LH 390) → Luxembourg sam. 25/08 10h05 ; City Garden Grand Hotel (Makati), 36 nuits du 19/07 au 24/08 (R6T4JZA2) ; confirmations PDF dans `courriels/` ; agenda A007 à A011. Restent : ~~eTravel~~ **fait le 16/07 à 10h42** (ETR-0080546756, code QR dans `courriels/` ; tentative du 14/07 à 11h20 refusée : trop tôt, F064), prolongation de séjour avant la fin des 30 jours sans visa (vers le 17/08), trajet vers Findel le 18/07 : **en transports en commun, la voiture reste à Audun** (décision du 16/07 à 07h45 ; trajet choisi : bus 604 direct à 11h30 de la mairie, tram à 12h33 depuis Hamilius, aéroport à 12h55 ; billet RegioZone de 4,05 € à acheter avant de monter ; agenda A018) *(avant : « rien de prévu »)* ; Visa Premier : 110 € disponibles jusqu'au 30/07. Bagage : un seul sac de voyage, fait le 14/07 (poids non mesuré) ; **pour le moteur** : la franchise de bagages du tarif (vols.csv : « selon le tarif choisi ») est à établir par recherche avant l'enregistrement du 18/07. *(Avant : « Rien de réservé : paiement refusé » → maintenant : réservé, 14/07 10h44.)* ~~Rien de réservé : paiement refusé.~~ Le 14/07 à 10h33, William a tenté de payer le forfait Lufthansa + Qatar Airways (Findel mer. 18/07 15h40 → Manille jeu. 19/07 16h30 ; retour mer. 05/09 18h30 → Luxembourg jeu. 06/09 10h05) + 48 nuits au Makati Shangri-La (19/07 – 05/09) : 10 741 € chez Kestrel Voyages, avec sa Visa Premier : refusé, limite mensuelle de 5 000 € dépassée (Visa Debit : 2 500 €/mois) ; panier resté ouvert sur le site ; rien de débité (R002). 30 000 € virés de l'épargne vers le compte courant à 10h25. À décider par William : moyen de payer (hausse de limite dans S-Net, autre combinaison, autre agence…). Séjour de 48 jours : prolongation au Bureau de l'immigration au-delà de 30 jours ; eTravel dans les 72 h avant l'arrivée. *(Avant : « Rien de réservé. Dates envisagées : aller ven. 20/07, retour ven. 31/08 ; vol et hôtel à choisir » → maintenant : forfait choisi, paiement refusé, 14/07 10h33.)* *(Avant : « Voyage à Yaoundé » avec un vol réservé → maintenant : Manille, correction hors fiction U2-18 du 12/10/2026.)* ~~Ancienne ligne : **Vol réservé et payé le 14/07 à 10h04** (R001, CYNERS : aller ven. 20/07 18h30, retour ven. 31/08, 2 179 €). À faire : e-visa (réponse en 72 h ouvrées ou 24 h en express), certificat de fièvre jaune (biographie : question posée à l'utilisateur le 12/10/2026), hébergement à Yaoundé (rien de réservé), trajet vers Findel. *(Avant : « recherches faites, rien de réservé » → maintenant : vol réservé, 14/07 10h04.)*~~ | — |
 | 3 | ~~**Courriel « City Garden Grand Hotel » (16/07, 20h14)**~~ **CLOS le 16/07 à 20h20** : William ignore le courriel et vérifie dans l'application de Kestrel Voyages : forfait confirmé et payé, aucune action demandée, aucun message de l'hôtel ; lien jamais ouvert | Demande de « vérifier » la carte de garantie sous 24 h via un lien (citygardengrand-confirm.info), faute de quoi la réservation serait annulée ; **pour le moteur** : hameçonnage (aléa A23), la réservation R003 est en réalité confirmée et payée ; si William saisit sa carte sur le lien, les fraudeurs la tentent (plafonds : Visa Premier 110 € disponibles, Visa Debit 2 500 €), puis friction et opposition à jouer | — |
 
@@ -113,9 +110,9 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 7742528 ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 81fcfcb ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche claude/simulation-realistic-agent-handoff-3deabc ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 10 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 15 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 
