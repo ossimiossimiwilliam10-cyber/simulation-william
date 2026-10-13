@@ -1,6 +1,6 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 13/10/2026 09:37 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 13/10/2026 09:41 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
@@ -101,6 +101,29 @@ Que veux-tu faire ?
   (l'ancienne, VJkYBmpJTrVarDVTs24MsS, affichait « Page not found » sur le téléphone du joueur et n'apparaissait plus dans la
   liste de ses artefacts : cause inconnue). Adresse aussi dans etat/relais-config.json. À chaque tour : `tour.py fin` régénère
   sorties/telephone/index.html ; Claude republie au même URL (paramètre url) après avoir relu la page en entier.
+- (13/10/2026, Claude Opus 5.5) **PASSATION DU 13/10/2026 (fin de la session Claude, limite d'utilisation)** : partie au
+  **mardi 17/07/2040, 09h16**, chez William (tour n° 15) ; il vient d'avoir un **match avec Kiara Reyes** sur l'application de
+  rencontre (discussion ouverte, vide) : attendre son action. Depuis le 12/10 : forfait Manille réservé (vol PVS2HS, City Garden
+  Grand Hotel, 18/07 – 24/08, 4 890 € sur la Visa Premier débités au relevé du 07/08), eTravel fait (code QR dans `courriels/`),
+  inscription sur l'application de rencontre (Plus, Visa Debit, E016), revue n° 1 TOUT VALIDÉE (tables T15 à T22 installées,
+  aléas A19 à A32 actifs).
+  **Événements déjà tirés, NON CONNUS de William, à jouer à leur heure (agenda)** : A019 Julia (match et premier message, 17/07
+  09h22) ; A013 Clément Grandjean, du club (message spontané, 17/07 09h25 : contenu d'après sa fiche, `personnage.py apparait`) ;
+  A015 aléa A09 erreur administrative (17/07 après-midi) ; A020 Hannah (match ≈ 12h50 ; intention cachée : arnaque) ; A021 Shane
+  (match et message ≈ 17h40) ; A016 aléa A07 panne réseau (20/07 matin, à Manille) ; A017 aléa A22 courrier administratif par
+  courriel (22/07 matin). Intentions permanentes du joueur (`etat/fils-ouverts.md`, A2) : aller à l'aéroport (bus 604 à 11h30 le
+  18/07, A018), acheter le billet RegioZone (4,05 € sur la Visa Debit), montrer le code QR, prolonger le séjour vers le 17/08 :
+  les exécuter SANS les redemander ; ne plus rappeler les échéances notées (I5).
+  **À faire par le moteur avant que ça compte** : franchise de bagages du tarif (recherche avant l'enregistrement du 18/07) ; P19,
+  I1, I2 et I3 avant l'arrivée du 19/07 (frais à l'étranger sur les cartes en pesos, caution d'hôtel, décalage horaire de 6 h dans
+  `corps.py`, carte SIM, change, taxis ; régler l'horloge avec `--fuseau manille` à l'arrivée) ; P18 dépenses courantes ; P10 paie
+  calculée et P17 ETF avant le 31/07 ; revue n° 2 le lundi 23/07 (P14 : audit du casting, faits périmés ; idée I5 : « j'aime »
+  spontanés reçus).
+  **Outils créés le 12-13/10** : `cartes.py` (plafonds, relevé différé ; voyages et rencontres paient par lui), `transports.py`
+  (application Transports), `etravel.py`, `courriel.py` (tout courriel reçu devient un PDF), `rituels.py message-proche`,
+  `rencontres.py completer` (âge minimum 18 ans, U2-20). Règle 10 complétée : pas de scène explicite ; au seuil, le joueur peut
+  poursuivre ailleurs puis donne l'issue. Téléphone : https://claude.ai/artifact/9j5a5bgQy9De1sxL7LZ27z (seul Claude republie ;
+  un autre agent envoie `sorties/telephone/index.html` si le joueur le demande).
 
 ## Préférences de l'utilisateur (memoire/preferences-utilisateur.md : à lire en entier)
 - Format du tour : récit fluide, puis « Réponses attendues », « À faire », « Quêtes secondaires », « Que veux-tu faire ? ».
@@ -115,9 +138,9 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : d1218ab ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : b469328 ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche claude/simulation-realistic-agent-handoff-3deabc ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 16 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 2 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 
