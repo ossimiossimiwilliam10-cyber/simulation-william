@@ -1,20 +1,21 @@
 # Dernier tour montré au joueur
 
-> Tour n° 19 ; horloge 17/07/2040 17:40 -> 17/07/2040 17:42 ; enregistré le 13/10/2026 10:35 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 20 ; horloge 17/07/2040 17:42 -> 17/07/2040 18:27 ; enregistré le 13/10/2026 10:37 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je réponds à Shane que j'arrive jeudi à Manille ; Dans l'application de rencontre :
-> - Message à Hannah : « Hi Hannah, how are you ? » [rencontres: message id=hannah-de-leon texte="Hi Hannah, how are you ?"]
+> GO
 
 ## Texte envoyé au joueur
 
-**MARDI 17 JUILLET 2040 — 17h42 — Audun-le-Tiche, chez toi**
+**MARDI 17 JUILLET 2040 — 18h27 — Audun-le-Tiche, chez toi**
 
-Tu réponds à Shane : « I arrive in Manila on Thursday. » Puis tu ouvres la discussion vide avec Hannah : « Hi Hannah, how are you ? » Les deux messages partent, à 17h41 et 17h42. Rien ne revient pour l'instant. Une odeur de charbon de bois arrive d'un jardin voisin : quelqu'un allume un barbecue.
+La soirée commence à la maison. Le barbecue d'à côté fume encore un moment, puis des voix et des rires passent par-dessus la haie, avec un bruit de chaises qu'on tire sur une terrasse. Le soleil reste haut ; il fait encore 25 °C dehors.
+
+À 18h27, Hannah répond : « Hello William 😊 I'm fine, thank you. Just got home from my duty at the hospital, so tired but thankful to God 🙏 How about you, how's your day? Are you already here in Manila? »
 
 **Réponses attendues**
-- Aucune.
+- **Hannah** (application de rencontre, 18h27) : elle rentre de sa garde à l'hôpital, te demande comment se passe ta journée et si tu es déjà à Manille.
 
 **À faire / à fournir avant le tour suivant**
 - Rien de nouveau.

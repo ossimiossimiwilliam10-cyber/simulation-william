@@ -1,9 +1,10 @@
-# Résumé d'état (généré le 13/10/2026 10:35 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 13/10/2026 10:37 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mardi 17/07/2040 17:42 (luxembourg, UTC+2)
+## Horloge : mardi 17/07/2040 18:27 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 15:42 ; lisbonne 16:42 ; mindelo 14:42 ; casablanca 16:42 ; douala 16:42 ; addis 18:42 ; manille 23:42 ; paris 17:42
+- **Heure dans les autres lieux** : abidjan 16:27 ; lisbonne 17:27 ; mindelo 15:27 ; casablanca 17:27 ; douala 17:27 ; addis 19:27 ; manille 00:27 ; paris 18:27
 - **En attente de William** :
+  - Message de Hannah sur l'application de rencontre (18h27) : « how's your day? Are you already here in Manila? »
   - Sa soirée du mardi 17/07/2040 (veille du départ pour Manille)
 
 ## Argent (grand livre, calculé)
@@ -14,8 +15,7 @@
 - Part nette de la maison d'Audun-le-Tiche : **89 996,87 €**
 - Patrimoine net de William : **744 708,88 €**
 
-## Agenda : dans les 24 heures (4)
-- A025 Tue 17/07 18:27 (luxembourg) | Hannah De Leon (application de rencontre) : Répond au message de William du 17/07 à 17h42 : « Hello William 😊 I'm fine, thank you. Just got home from my duty at the hospital, so tired but thankful to God 🙏 How about you, how's your day? Are you already here in Manila? » (T21b : repond, jet 60,1, M46 · T10 : dans l'heure, jet 65,1, M71 · minute fixée par le moteur : 18h27) · rencontres.py message hannah-de-leon --auteur profil [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · 00h27 à Manille · intention cachée : arnaque · texte à ajuster si William lui écrit de nouveau d'ici là
+## Agenda : dans les 24 heures (3)
 - A022 Wed 18/07 11:12 (luxembourg) | Kiara Reyes (application de rencontre) : Répond enfin au message de William du 17/07 à 09h17 : « Hi William! Sorry for the late reply, I was on shift and so tired 😅 I'm good, thanks! How about you? Where are you from? » (T21b : repond_tard, jet 72,6, M46 · jour : lendemain, jet 30,7 · heure : 13h00 + 83,9 × 3 min) · rencontres.py message kiara-reyes --auteur profil [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · 11h12 au Luxembourg
 - A018 Wed 18/07 11:30 (luxembourg) | William (trajet prévu) : Trajet vers l'aéroport : bus 604 direct 11h30 Audun-le-Tiche, Mairie → 12h25 Luxembourg, Hamilius · tram ligne 1 12h33 → 12h55 Findel, Luxembourg Airport · billet RegioZone de 2 h (4,05 €) à acheter avant de monter (application CFL go ou automate) [prevu]  — itinéraire choisi par William le 16/07 dans l'application Transports (transports.py options --de AUD --vers FDL --quand '2040-07-18 11:30')
 - A008 Wed 18/07 15:40 (luxembourg) | Lufthansa + Qatar Airways : Vol aller Luxembourg → Manille (LH 391…QR 932) · départ 15:40 de Luxembourg-Findel, arrivée le 19/07 à 16:30 (heure locale) · réservation PVS2HS [prevu]  — réservation R004 (etat/reservations.csv)
@@ -40,9 +40,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2040-07-17.md, 6 dernières lignes)
-> - **Hors fiction (13/10/2026)** : le téléphone affiche désormais le nom de l'interlocuteur d'une conversation, accents compris (`telephone.py`), au lieu du nom du fichier sans accents ; traces des messages de l'application de rencontre complétées (U2-21).
-> - Tour en cours à 09h25, en attente de William : **la réponse à Clément** et **sa journée**.
 > - **09h25-17h40** (tour n° 18, « Go ») : à 09h26, William répond à Clément : « Oui, en effet, je suis déjà en vacances. Malheureusement, je ne serai pas disponible : je pars justement d'ici jeudi. » (destination non dite). Réaction tirée en T15 : accepte_volontiers (jet 40,2) ; délai en T10 : rapide (jet 27,2) : à 09h37, « Ah mince 😅 Pas de souci, je vais trouver quelqu'un. Profite bien, grand ! O
 > - Tour en cours à 17h40, en attente de William : **le message de Shane** et **sa soirée**.
 > - **17h40-17h42** (tour n° 19) : à 17h41, William répond à Shane : « I arrive in Manila on Thursday. » (dicté en français : « j'arrive jeudi à Manille »). À 17h42, il écrit à Hannah : « Hi Hannah, how are you ? » (préparé dans l'application, étiquette appliquée). Réponses tirées en T21b : Shane, sans modificateur (intention cachée serieux) : réponse tardive (jet 56,7), le surlendemain (jet 91,5), 
 > - Tour en cours à 17h42, en attente de William : **sa soirée** (veille du départ).
+> - **17h42-18h27** (tour n° 20, « Go ») : soirée à la maison, sans sortie. À 18h27 (00h27 à Manille), Hannah répond (A025 joué ; T21b : repond, M46 ; T10 : dans l'heure, M71) : « Hello William 😊 I'm fine, thank you. Just got home from my duty at the hospital, so tired but thankful to God 🙏 How about you, how's your day? Are you already here in Manila? »
+> - Tour en cours à 18h27, en attente de William : **le message de Hannah** et **sa soirée**.
