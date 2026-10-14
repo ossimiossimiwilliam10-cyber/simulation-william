@@ -192,14 +192,30 @@ def assurer(jusqua, simule=False, station=None):
         debut = min(debut, jusqua)
     else:  # première visite d'une autre station : on part du jour de l'horloge (ou plus tôt si on demande avant)
         debut = min(aujourd_hui(), jusqua)
+    tropiques = None
+    if station == "manille" and not simule:  # 14/10/2026 : tempêtes et mousson renforcée (outils/tropiques.py)
+        import tropiques
+        tropiques.assurer(jusqua, depuis=debut)
     jour = debut
     while jour <= jusqua:
         veille = deja.get((jour - dt.timedelta(days=1)).isoformat())
         deja[jour.isoformat()] = tirer_jour(jour, veille, rng, station)
+        if tropiques:
+            deja[jour.isoformat()] = tropiques.appliquer(deja[jour.isoformat()], jour, rng)
         jour += dt.timedelta(days=1)
     if not simule:
         ecrire_csv(fichier(station), [deja[k] for k in sorted(deja)], COLONNES)
     return deja
+
+
+def station_du_jour(jour):
+    """Station où se trouvait William ce jour-là : la station courante, sauf avant le premier jour qui y a été tiré (alors
+    Findel, la station de chez lui) ; 14/10/2026 : « heure » et « jour » d'une date passée au Luxembourg depuis Manille."""
+    st = station_courante()
+    deja = lire(st)
+    if st != "findel" and deja and jour.isoformat() < min(deja):
+        return "findel"
+    return st
 
 
 def normale_station(param, jour, par_jour, station):
@@ -272,7 +288,7 @@ def main():
     args = ap.parse_args()
     if args.cmd == "jour":
         jour = dt.date.fromisoformat(args.date) if args.date else aujourd_hui()
-        l = assurer(jour, args.simule)[jour.isoformat()]
+        l = assurer(jour, args.simule, station=station_du_jour(jour))[jour.isoformat()]
         print(f"Météo du {date_fr(jour)} (vérité du moteur) : {l['description']}.")
         print(f"  type {l['type']} ; min {l['tmin']} °C ; max {l['tmax']} °C ; pluie {l['pluie_mm']} mm ; orage {l['orage']} ; "
               f"soleil {l['soleil_h']} h ; brouillard {l['brouillard']}")
@@ -280,8 +296,9 @@ def main():
     if args.cmd == "heure":
         d, h = args.instant.split()
         inst = dt.datetime.combine(dt.date.fromisoformat(d), dt.time.fromisoformat(h))
-        l = assurer(inst.date())[inst.date().isoformat()]
-        print(f"{date_fr(inst)} à {h} : environ {temperature_a(l, inst):.0f} °C ; {l['description']}.")
+        st = station_du_jour(inst.date())
+        l = assurer(inst.date(), station=st)[inst.date().isoformat()]
+        print(f"{date_fr(inst)} à {h} : environ {temperature_a(l, inst, st):.0f} °C ; {l['description']}.")
         return 0
     if args.cmd == "prevision":
         emise = dt.date.fromisoformat(args.depuis) if args.depuis else aujourd_hui()

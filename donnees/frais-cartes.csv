@@ -1,0 +1,5 @@
+carte;operation;zone;pourcentage;fixe_eur;source;fiabilite;note
+visa_debit;paiement;hors_zone_euro;2.5;0.30;estimation calée sur les moyennes des banques françaises de 2026 (meilleurtaux · juillet 2026 : 3,02 € pour 100 € payés en devise · 5,84 € pour 100 € retirés) · barème de la Spuerkeess hors zone euro non trouvé (fiches « Cartes de débit » 04/26 et « Zebra » 01/26 muettes);estimation;à corriger par une ligne si le barème réel est trouvé
+visa_debit;retrait;hors_zone_euro;2.4;3.10;même source;estimation;les frais de l'exploitant du distributeur s'ajoutent (donnees/distributeurs.csv)
+visa_premier;paiement;hors_zone_euro;2.5;0.30;même source;estimation;
+visa_premier;retrait;hors_zone_euro;2.4;5.00;même source · retrait d'espèces avec une carte de crédit plus cher qu'avec une carte de débit;estimation;

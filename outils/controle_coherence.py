@@ -150,6 +150,11 @@ def controle_base():
             aver += a
         import cartes  # cartes de William : types, jours de débit, opérations (12/10/2026)
         erreurs += cartes.verifier()
+        import actualites  # 14/10/2026 : argent sur place, courses en ville, modèles de nouvelles
+        import courses
+        import devises
+        for module in (devises, courses, actualites):
+            erreurs += module.verifier()
     except Exception as exc:  # noqa: BLE001
         erreurs.append(f"prêts ou échéancier : vérification impossible ({exc})")
     for chemin, quoi in (("memoire/preferences-utilisateur.md", "préférences de l'utilisateur (relais)"),

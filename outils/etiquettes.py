@@ -18,6 +18,9 @@ sans la réinterpréter (CLAUDE.md §14).
   [rencontres: inscription abonnement=plus ville=MNL bio="…"]       → rencontres.py inscription
   [rencontres: aimer id=…]  /  [rencontres: passer id=…]            → rencontres.py aimer / passer (puis T21 pour la réaction)
   [rencontres: message id=… texte="…"]                             → rencontres.py message --auteur william
+  [portefeuille: retirer carte=visa_debit montant=10000 distributeur=bdo_naia3] → devises.py retirer (14/10/2026)
+  [courses: installer]  /  [courses: carte carte=visa_debit]       → courses.py installer / carte
+  [courses: commander service=grab_car de=naia_t3 vers=city_garden paiement=carte] → courses.py commander
 Le récit reste à écrire par le moteur (ce que William voit, les réactions tirées) ; l'outil n'invente rien.
 """
 import argparse
@@ -29,7 +32,7 @@ import sys
 
 from commun import OUTILS, maintenant_simule, utf8
 
-ETIQUETTE = re.compile(r"\[(voyages|banque|rencontres):\s*([a-z-]+)((?:\s+[a-z_]+=(?:\"[^\"]*\"|\S+?))*)\s*\]")
+ETIQUETTE = re.compile(r"\[(voyages|banque|rencontres|portefeuille|courses):\s*([a-z-]+)((?:\s+[a-z_]+=(?:\"[^\"]*\"|\S+?))*)\s*\]")
 CLE_VALEUR = re.compile(r"([a-z_]+)=(\"[^\"]*\"|\S+)")
 # (appli, commande) → (script, sous-commande, argument positionnel éventuel, options acceptées)
 TABLE = {
@@ -45,6 +48,11 @@ TABLE = {
     ("rencontres", "aimer"): ("rencontres.py", "aimer", "id", set()),
     ("rencontres", "passer"): ("rencontres.py", "passer", "id", set()),
     ("rencontres", "message"): ("rencontres.py", "message", "id", {"texte"}),
+    # 14/10/2026 : argent sur place et courses en ville
+    ("portefeuille", "retirer"): ("devises.py", "retirer", None, {"carte", "montant", "distributeur"}),
+    ("courses", "installer"): ("courses.py", "installer", None, set()),
+    ("courses", "carte"): ("courses.py", "carte", None, {"carte"}),
+    ("courses", "commander"): ("courses.py", "commander", None, {"service", "de", "vers", "paiement"}),
 }
 
 
@@ -89,7 +97,7 @@ def main():
     quand = args.quand or f"{maintenant_simule():%Y-%m-%d %H:%M}"
     liste = commandes(texte, quand)
     if not liste:
-        print("Aucune étiquette [voyages|banque|rencontres: …] trouvée.")
+        print("Aucune étiquette [voyages|banque|rencontres|portefeuille|courses: …] trouvée.")
         return 1
     code = 0
     for brut, cmd, erreur in liste:

@@ -24,7 +24,8 @@ if hasattr(sys.stdout, "reconfigure"):
 
 JOURNAL = jet.JOURNAL
 MARQUEUR = "## RÉGIME DES TABLES DE POUVOIR"
-LIBRE = re.compile(r"Jet « (.+?) » : probabilité ([\d.,]+) %, jet\s+([\d.,]+) → \*\*(OUI|NON)\*\*(?: \[DÉROGATION : (.+?)\])?")
+LIBRE = re.compile(r"Jet « (.+?) » : probabilité ([\d.,]+) %, jet\s+([\d.,]+) → \*\*(OUI|NON)\*\*(?: \[DÉROGATION : (.+?)\])?"
+                   r"(?: \[PROCÉDURE : (.+?)\])?")  # PROCÉDURE (14/10/2026) : issue déjà tirée appliquée par un outil
 TABLE = re.compile(r"Tirage \[(T\w+)\] « (.+?) » : (.+?) ; modificateurs : (.*?) ; jet\s+([\d.,]+) → \*\*(\w+)\*\*")
 
 
@@ -44,7 +45,7 @@ def analyser(fichier=JOURNAL):
         m = LIBRE.search(ligne)
         if m:
             j = {"ligne": n, "libelle": m.group(1), "proba": float(m.group(2).replace(",", ".")),
-                 "oui": m.group(4) == "OUI", "derogation": m.group(5)}
+                 "oui": m.group(4) == "OUI", "derogation": m.group(5), "procedure": m.group(6)}
             (libres if regime else herites).append(j)
     return herites, tirages, libres
 
@@ -52,9 +53,10 @@ def analyser(fichier=JOURNAL):
 def bilan(fichier=JOURNAL):
     herites, tirages, libres = analyser(fichier)
     non_conformes = [{"ligne": j["ligne"], "probleme": f"jet libre sur une réaction sans table ni dérogation : « {j['libelle'][:70]} »"}
-                     for j in libres if jet.REACTION_LIBRE.search(j["libelle"]) and not j["derogation"]]
+                     for j in libres if jet.REACTION_LIBRE.search(j["libelle"]) and not j["derogation"] and not j["procedure"]]
     return {"herites": len(herites), "tirages": len(tirages), "non_conformes": non_conformes,
-            "derogations": [j for j in libres if j["derogation"]], "_herites": herites, "_tirages": tirages}
+            "derogations": [j for j in libres if j["derogation"]], "procedures": [j for j in libres if j["procedure"]],
+            "_herites": herites, "_tirages": tirages}
 
 
 def main():
@@ -97,7 +99,8 @@ def main():
         print(f"  NON CONFORME ligne {x['ligne']} : {x['probleme']}")
     for j in b["derogations"]:
         print(f"  dérogation ligne {j['ligne']} : « {j['libelle'][:70]} » — {j['derogation']}")
-    print(f"  {len(b['non_conformes'])} non-conformité(s), {len(b['derogations'])} dérogation(s)")
+    print(f"  {len(b['non_conformes'])} non-conformité(s), {len(b['derogations'])} dérogation(s), "
+          f"{len(b['procedures'])} sous-tirage(s) de procédure (issues déjà tirées appliquées par les outils)")
     return 1 if b["non_conformes"] else 0
 
 

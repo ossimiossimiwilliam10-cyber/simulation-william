@@ -69,7 +69,17 @@ def main():
     ap.add_argument("date", help="jour simulé, JJ/MM")
     ap.add_argument("--simule", action="store_true", help="ne consigne rien")
     ap.add_argument("--sans-initiatives", action="store_true", help="ne tire pas T14")
+    ap.add_argument("--ancien", action="store_true", help="ancien tirage d'après les fiches (avant le 14/10/2026)")
     args = ap.parse_args()
+    if not args.ancien:  # 14/10/2026 : le tour du monde passe par outils/monde_vivant.py (cadences, liens, routines)
+        import datetime as dt
+        import horloge
+        import monde_vivant
+        j, m = (int(x) for x in args.date.split("/")[:2])
+        jour = dt.date(horloge.lire()["instant"].year, m, j)
+        for l in monde_vivant.avancer(jour, simule=args.simule) or ["(rien à tirer : journée déjà tirée)"]:
+            print(l)
+        return
     tables, modifs = jet.charger()
     initiatives = []
     for p in lire_fiches():

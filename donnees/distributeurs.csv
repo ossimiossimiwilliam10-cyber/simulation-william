@@ -1,0 +1,7 @@
+id;banque;lieu;pays;frais_2026;devise;plafond_2026;multiple;source;fiabilite;note
+bdo_naia3;BDO;naia_t3;ph;250;PHP;20000;100;BDO · page « ATM » (250 PHP par retrait avec une carte émise à l'étranger · frais de la banque de la carte en plus) · plafond par retrait d'une carte étrangère : guides de voyage (10 000 à 20 000 PHP);secondaire;hall des arrivées du terminal 3 · ouvert 24 h sur 24
+bpi_naia3;BPI;naia_t3;ph;250;PHP;20000;100;guides de voyage 2024-2025 (250 PHP pour une carte étrangère dans la plupart des banques philippines);estimation;hall des arrivées du terminal 3
+metrobank_naia3;Metrobank;naia_t3;ph;250;PHP;10000;100;guides de voyage (plafond par retrait plus bas);estimation;hall des arrivées du terminal 3
+bdo_makati_ave;BDO;makati_avenue;ph;250;PHP;20000;100;BDO (frais) · implantation : estimation;estimation;distributeur d'agence sur Makati Avenue · à quelques minutes à pied du City Garden Grand Hotel
+securitybank_poblacion;Security Bank;poblacion;ph;250;PHP;20000;100;guides de voyage (frais) · implantation : estimation;estimation;Poblacion (Makati)
+hsbc_ayala;HSBC;greenbelt;ph;0;PHP;40000;100;guides de voyage (HSBC ne facture pas les cartes étrangères · peu de distributeurs · plafond plus haut);estimation;centre d'Ayala (Makati)

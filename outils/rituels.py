@@ -23,8 +23,8 @@ TIRAGES = MEMOIRE / "tirages-aleas.md"
 
 RITUELS = [
     ("fiche_courte", "chaque jour simulé (à sa clôture)", "Fiche courte en fin de journal du jour (« Fiche courte » dans journal/AAAA-MM-JJ.md)"),
-    ("tour_du_monde", "chaque jour simulé (à sa clôture) et à chaque « Go »",
-     "python outils/tour_du_monde.py JJ/MM (sans objet tant qu'aucune fiche n'existe dans etat/vies-propres.md)"),
+    ("tour_du_monde", "chaque jour simulé et à chaque « Go »",
+     "automatique depuis le 14/10/2026 : tour.py fin → monde_vivant.py avancer (à la main : python outils/monde_vivant.py avancer)"),
     ("fiche_complete", "tous les 3 jours simulés", "Fiche complète (« Fiche complète » dans le journal) + mise à jour de tous les fichiers d'état"),
     ("synthese_semaine", "chaque dimanche soir", "memoire/semaine-AAAA-WNN.md (semaine ISO)"),
     ("t4_t5_dimanche", "chaque dimanche soir, pour chaque affaire ouverte", "python outils/savoir.py t5 (commandes T4 et T5 prêtes)"),
@@ -43,6 +43,15 @@ def depart():
         return dt.date.fromisoformat(u["depart"][:10])
     except (KeyError, ValueError):
         return None
+
+
+def monde_vivant_fait(d):
+    """Journée déjà tirée par outils/monde_vivant.py (14/10/2026 : tour du monde automatique dans tour.py fin)."""
+    try:
+        e = json.loads(lire_texte(ETAT / "monde-vivant.json") or "{}")
+    except ValueError:
+        return False
+    return bool(e.get("dernier_jour")) and e["dernier_jour"] >= d.isoformat()
 
 
 def fiches_vies_propres():
@@ -87,7 +96,7 @@ def bilan(instant=None):
             res.append(("fiche_courte", "EN RETARD", f"journal du {d:%d/%m/%Y} sans fiche courte",
                         f"compléter journal/{d:%Y-%m-%d}.md"))
         if fiches_vies_propres():
-            if f"Tour du monde du {d:%d/%m}" not in tirages:
+            if f"Tour du monde du {d:%d/%m}" not in tirages and not monde_vivant_fait(d):
                 res.append(("tour_du_monde", "EN RETARD", f"aucun tour du monde consigné pour le {d:%d/%m/%Y}",
                             f"python outils/tour_du_monde.py {d:%d/%m}"))
     if not fiches_vies_propres():

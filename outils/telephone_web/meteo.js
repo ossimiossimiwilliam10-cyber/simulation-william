@@ -7,6 +7,7 @@ appli({
     const m = el("div", "maintenant");
     m.append(el("span", "grand", D.meteo.maintenant + "°"), el("span", "", "Lever " + D.meteo.lever + " · coucher " + D.meteo.coucher));
     main.append(m);
+    (D.meteo.alertes || []).forEach(a => { const c = el("div", "carte"); c.append(el("strong", "", "⚠ " + a)); main.append(c); });
     const p = el("div", "previsions");
     D.meteo.previsions.forEach(x => {
       const r = el("div", "prev");

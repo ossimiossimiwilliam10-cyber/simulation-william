@@ -46,6 +46,9 @@ COMPTES = {
     "etf": ("William", "EUR", "ETF (valeur de marché : calages seulement)", True),
     "pret": ("William", "EUR", "Prêt logement : solde restant dû (passif, déjà déduit de la part de maison)", False),
     "maison_part": ("William", "EUR", "Part nette de la maison d'Audun-le-Tiche", True),
+    # 14/10/2026 : espèces en poche (outils/devises.py : retraits au distributeur, dépenses en espèces)
+    "especes_php": ("William", "PHP", "Espèces (pesos philippins)", True),
+    "especes_eur": ("William", "EUR", "Espèces (euros)", True),
 }
 TYPES = {"calage", "mouvement", "prevu", "prevu_realise", "prevu_annule", "valeur", "retire"}
 # « retire » (12/10/2026) : ligne retirée par une correction HORS FICTION demandée par l'utilisateur (elle n'a jamais eu lieu
@@ -97,6 +100,9 @@ def soldes(au, projete=None):
 
 
 def vers_eur(montant, devise):
+    if devise == "PHP":  # 14/10/2026 : au dernier taux tiré (outils/devises.py)
+        import devises
+        return montant / devises.taux_connu("PHP")
     return montant if devise == "EUR" else montant / PARITE
 
 
@@ -107,6 +113,8 @@ def vers_fcfa(montant, devise):
 def fmt(montant, devise):
     if devise == "EUR":
         return f"{montant:,.2f} €".replace(",", " ").replace(".", ",")
+    if devise == "PHP":
+        return (f"{montant:,.0f}" if abs(montant - round(montant)) < 0.005 else f"{montant:,.2f}").replace(",", " ").replace(".", ",") + " PHP"
     return f"{montant:,.0f} FCFA".replace(",", " ")
 
 
@@ -116,7 +124,8 @@ def afficher_soldes(au, projete=None):
     for c, (prop, dev, desc, _) in COMPTES.items():
         if abs(s[c]) < 1e-9 and not any(l["compte"] == c for l in lire()):
             continue
-        autre = f"  (≈ {fmt(vers_fcfa(s[c], dev), 'FCFA')})" if dev == "EUR" else f"  (≈ {fmt(vers_eur(s[c], dev), 'EUR')})"
+        # univers 2 : plus de conversion en FCFA à l'affichage (14/10/2026) ; une devise étrangère est montrée en euros
+        autre = "" if dev == "EUR" else f"  (≈ {fmt(vers_eur(s[c], dev), 'EUR')})"
         print(f"  {prop:7s} {c:20s} {fmt(s[c], dev):>22s}{autre}")
     patri = sum(vers_eur(s[c], COMPTES[c][1]) for c in COMPTES if COMPTES[c][3])
     print(f"  Patrimoine net de William (comptes + ETF + part de maison + participations éventuelles) : {fmt(patri, 'EUR')}")
@@ -204,8 +213,10 @@ def cmd_convertir(args):
         print(f"{fmt(args.montant, 'EUR')} = {fmt(args.montant * PARITE, 'FCFA')}")
     elif dev == "FCFA":
         print(f"{fmt(args.montant, 'FCFA')} = {fmt(args.montant / PARITE, 'EUR')}")
+    elif dev == "PHP":
+        print(f"{fmt(args.montant, 'PHP')} = {fmt(vers_eur(args.montant, 'PHP'), 'EUR')} (dernier taux tiré : outils/devises.py)")
     else:
-        sys.exit("Devise : EUR ou FCFA")
+        sys.exit("Devise : EUR, FCFA ou PHP")
     return 0
 
 

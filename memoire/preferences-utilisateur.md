@@ -94,6 +94,12 @@
   choix important, s'arrête au point indiqué et indique la somme dépensée. Premier usage : trajet Findel-Manille du 18-19/07/2040
   (500 € au plus, 31,40 € dépensés).
 
+- **Univers vivant et automatisé** (14/10/2026) : « rendre l'univers le plus vivant et réaliste que possible », « indépendant »,
+  « réaliste, pas moral », « pas de trucs woke, des réalités » ; et « configurer des outils pour limiter la dépense d'utilisation »,
+  la simulation étant « surtout informatique, avec un contrôle de l'IA ». En pratique : le monde avance seul entre deux messages
+  (vie des personnages, réponses à l'heure de leur routine, actualités, météo, typhons, change, prix des courses) ; le moteur
+  interprète et écrit ; toute tâche répétitive devient un outil (outils/LISEZMOI.md, « tour économe »).
+
 ## Grandes décisions hors fiction (historique)
 - 25/07/2040 (simulé) : il a envisagé d'arrêter, puis a décidé de continuer avec tous les paramètres.
 - 11/10/2026 (réel) : redémarrage complet (univers 2) à 35 ans, argent initial, paramètres repris ; départ d'abord fixé au mardi

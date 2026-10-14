@@ -213,3 +213,7 @@ Effets à jouer : A07 (vendredi 20/07 (matin)) : Retard d'un virement, d'un envo
 - Jet « Julia Dimaculangan : sa réponse tardive au message du 19/07 à 23h27 arrive le lendemain, vendredi 20/07 (OUI), ou le surlendemain, samedi 21/07 (NON) » : probabilité 50 %, jet  64.0 → **NON** [DÉROGATION : délai d'une issue déjà tirée en T21b (repond_tard : un ou deux jours) ; aucune table ne fixe le jour] (enregistré le 13/10/2026 15:54 heure machine)
 
 - Jet « Julia Dimaculangan : heure de sa réponse dans son après-midi, entre 13h00 et 18h00 à Manille (heure = 13h00 + jet x 3 min ; le résultat OUI/NON est sans objet) » : probabilité 50 %, jet  95.3 → **NON** [DÉROGATION : heure d'une réponse déjà tirée (T21b repond_tard) ; employée de centre d'appels, horaires de nuit : elle écrit au réveil] (enregistré le 13/10/2026 15:54 heure machine)
+
+- Tropiques 2040 : 10 tempête(s) nommée(s) avant le 24/07/2040 (Poisson, λ = 6.0) [PROCÉDURE : climatologie PAGASA, outils/tropiques.py] (enregistré le 14/10/2026 16:41 heure machine)
+
+- Tropiques : tempête « Kidul » entrée dans la PAR le 25/07/2040 ; effet sur Metro Manila : aucun [PROCÉDURE : climatologie PAGASA, outils/tropiques.py] (enregistré le 14/10/2026 16:41 heure machine)

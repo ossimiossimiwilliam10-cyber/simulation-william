@@ -71,8 +71,11 @@ def main():
     if not args.ecrire:
         print("Essai : rien n'est écrit (ajouter --ecrire).")
         return 0
-    if archive.exists() and not args.force:
-        sys.exit("L'archive du jour existe déjà (--force pour l'écraser).")
+    if archive.exists() and not args.force:  # 14/10/2026 : plusieurs archives le même jour simulé, sans rien écraser
+        n = 2
+        while (RACINE / "memoire" / f"archive-point-de-reprise-{h:%Y-%m-%d}-{n}.md").exists():
+            n += 1
+        archive = RACINE / "memoire" / f"archive-point-de-reprise-{h:%Y-%m-%d}-{n}.md"
     entete = [f"# Archive du point de reprise (§9 des fichiers maîtres) au {h:%d/%m/%Y %H:%M}",
               "",
               "> Copie intégrale, mot pour mot, du §9 avant sa compression (outils/archiver_point_de_reprise.py). Ne rien supprimer ici.",
@@ -84,6 +87,7 @@ def main():
             f"`memoire/{archive.name}` ; ce §9 ne garde que l'introduction et les {len(recents)} entrées les plus récentes. "
             "État courant : `python outils/resume_etat.py` (écrit `etat/resume.md`), `etat/horloge.txt`, `etat/fils-ouverts.md`, `etat/agenda.csv`. "
             "À chaque tour : ajouter l'entrée EN TÊTE de ce §9 ; au-delà de 12 entrées : `python outils/archiver_point_de_reprise.py --garder 8 --ecrire`.**")
+    intro = [l for l in intro if not l.startswith("**(Compression du §9")]  # les anciennes notes restent dans les archives
     nouveau_corps = [note] + intro + [x for b in recents for x in b]
     for m in MAITRES:
         l = originaux[m]

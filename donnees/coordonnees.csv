@@ -1,0 +1,12 @@
+lieu;lat;lon;zone;motcles;source
+naia_t3;14.5203;121.0136;aeroport;aéroport · ninoy · naia · terminal 3;OpenStreetMap (estimation au centième)
+city_garden;14.5647;121.0300;makati;city garden · hôtel;estimation
+makati_avenue;14.5640;121.0297;makati;makati avenue · burgos;estimation
+poblacion;14.5660;121.0320;makati;poblacion;estimation
+seven_eleven_makati;14.5644;121.0299;makati;7-eleven;estimation
+greenbelt;14.5526;121.0216;makati;greenbelt · ayala;estimation
+glorietta;14.5508;121.0251;makati;glorietta;estimation
+bgc_high_street;14.5506;121.0510;taguig;bgc · bonifacio;estimation
+mall_of_asia;14.5352;120.9822;pasay;mall of asia · moa;estimation
+intramuros;14.5896;120.9747;manille;intramuros;estimation
+bureau_immigration;14.5925;120.9713;manille;immigration;estimation

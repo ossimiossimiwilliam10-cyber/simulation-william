@@ -32,8 +32,9 @@ COMPTES_VISIBLES = {"courant": "Compte courant", "projet": "Compte épargne"}  #
 WEB = OUTILS / "telephone_web"
 # Applications de l'écran d'accueil, dans l'ordre : (nom du fichier JS dans telephone_web/, module Python qui fournit
 # D.applis[nom] par donnees_telephone(t), ou None si l'application se sert des données communes).
-APPLIS = [("messages", None), ("courriels", None), ("banque", "banque"), ("calendrier", "appli_calendrier"), ("meteo", None),
-          ("voyages", "voyages"), ("transports", "transports"), ("rencontres", "rencontres"), ("sante", "corps")]
+APPLIS = [("messages", None), ("courriels", None), ("banque", "banque"), ("portefeuille", "devises"), ("calendrier", "appli_calendrier"),
+          ("meteo", None), ("voyages", "voyages"), ("transports", "transports"), ("courses", "courses"), ("rencontres", "rencontres"),
+          ("sante", "corps")]  # 14/10/2026 : Portefeuille (devises.py) et Courses (courses.py)
 
 
 def jour_court(d):
@@ -111,12 +112,22 @@ def donnees():
         "genere": dt.datetime.now().isoformat(timespec="minutes"),
         "heure": f"{t:%H:%M}", "date": jour_court(jour), "aujourdhui": jour.isoformat(), "date_longue": f"{JOURS[jour.weekday()]} {jour.day} {MOIS[jour.month - 1]} {jour.year}",
         "reseau": reseau, "lieu": h["lieu"].split(",")[0].split(" (")[0],
-        "meteo": {"maintenant": maintenant_c, "previsions": previsions, "lever": f"{lev:%H:%M}", "coucher": f"{cou:%H:%M}"},
+        "meteo": {"maintenant": maintenant_c, "previsions": previsions, "lever": f"{lev:%H:%M}", "coucher": f"{cou:%H:%M}",
+                  "alertes": alertes_meteo(jour)},
         "conversations": conversations, "courriels": courriels, "banque": banque, "agenda": evts[:40],
     }
 
 
 # Le gabarit vit dans outils/telephone_web/ (coque.html, noyau.js et un fichier par application) depuis le 12/10/2026.
+
+
+def alertes_meteo(jour):
+    """Alertes publiques du lieu où se trouve William (tempêtes et mousson renforcée à Manille : outils/tropiques.py)."""
+    import meteo
+    if meteo.station_courante() != "manille":
+        return []
+    import tropiques
+    return tropiques.alertes(jour)
 
 
 def construire():
@@ -140,6 +151,79 @@ def construire():
     return dossier / "index.html", d
 
 
+# ---------------------------------------------------------------- page publiée (14/10/2026) : relire seulement ce qui change
+PUBLIE = SORTIES / "telephone" / "publie.html"
+
+
+def _separer(html):
+    """(code sans les données, données D) d'une page générée."""
+    import re
+    m = re.search(r"^\s*const D = (\{.*\});?\s*$", html, re.M)
+    if not m:
+        return html, {}
+    return html.replace(m.group(0), ""), json.loads(m.group(1))
+
+
+def _comparer(a, b, chemin, sortie, compteur):
+    if chemin.startswith("D.applis.voyages.destinations") or chemin in ("D.genere",):
+        if a != b:
+            compteur[chemin.split("[")[0] if "[" in chemin else chemin] = compteur.get(chemin.split("[")[0], 0) + 1
+        return
+    if type(a) != type(b):
+        sortie.append(f"~ {chemin} : {json.dumps(a, ensure_ascii=False)[:120]} -> {json.dumps(b, ensure_ascii=False)[:120]}")
+    elif isinstance(a, dict):
+        for k in sorted(set(a) | set(b)):
+            if k not in a:
+                sortie.append(f"+ {chemin}.{k} = {json.dumps(b[k], ensure_ascii=False)[:200]}")
+            elif k not in b:
+                sortie.append(f"- {chemin}.{k}")
+            else:
+                _comparer(a[k], b[k], f"{chemin}.{k}", sortie, compteur)
+    elif isinstance(a, list):
+        if len(a) != len(b):
+            sa = {json.dumps(x, ensure_ascii=False, sort_keys=True) for x in a}
+            sb = [json.dumps(x, ensure_ascii=False, sort_keys=True) for x in b]
+            nouveaux = [x for x in sb if x not in sa]
+            sortie.append(f"~ {chemin} : {len(a)} -> {len(b)} élément(s)" + (f" ; + {nouveaux[0][:200]}" if nouveaux else ""))
+            for x in nouveaux[1:4]:
+                sortie.append(f"    + {x[:200]}")
+        else:
+            for n, (x, y) in enumerate(zip(a, b)):
+                _comparer(x, y, f"{chemin}[{n}]", sortie, compteur)
+    elif a != b:
+        sortie.append(f"~ {chemin} : {json.dumps(a, ensure_ascii=False)[:120]} -> {json.dumps(b, ensure_ascii=False)[:120]}")
+
+
+def diff_publie():
+    """Ce qui a changé depuis la dernière page publiée : le code (lignes) et les données (clé par clé), en bref."""
+    courant = SORTIES / "telephone" / "index.html"
+    if not PUBLIE.exists():
+        return ["(aucune copie publiée enregistrée : relire la page entière avant de publier, puis telephone.py --marquer-publie)"]
+    code_a, d_a = _separer(lire_texte(PUBLIE))
+    code_b, d_b = _separer(lire_texte(courant))
+    sortie, compteur = [], {}
+    if code_a != code_b:
+        import difflib
+        diff = [l for l in difflib.unified_diff(code_a.splitlines(), code_b.splitlines(), lineterm="", n=0) if l[:1] in "+-" and not l.startswith(("+++", "---"))]
+        sortie.append(f"CODE MODIFIÉ : {len(diff)} ligne(s) à relire (telephone.py --diff --code)")
+    _comparer(d_a, d_b, "D", sortie, compteur)
+    for k, n in compteur.items():
+        if k != "D.genere":
+            sortie.append(f"(prix des voyages recalculés : {n} valeur(s))")
+    return sortie or ["aucun changement depuis la page publiée"]
+
+
+def diff_code():
+    import difflib
+    code_a, _ = _separer(lire_texte(PUBLIE))
+    code_b, _ = _separer(lire_texte(SORTIES / "telephone" / "index.html"))
+    return [l for l in difflib.unified_diff(code_a.splitlines(), code_b.splitlines(), lineterm="", n=1)]
+
+
+def marquer_publie():
+    ecrire_texte(PUBLIE, lire_texte(SORTIES / "telephone" / "index.html"))
+
+
 def html_octets(chemin):
     return chemin.read_bytes()
 
@@ -148,7 +232,18 @@ def main():
     utf8()
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--json", action="store_true")
+    ap.add_argument("--diff", action="store_true", help="changements depuis la dernière page publiée (code et données)")
+    ap.add_argument("--code", action="store_true", help="avec --diff : les lignes de code modifiées")
+    ap.add_argument("--marquer-publie", action="store_true", help="la page courante vient d'être publiée : elle devient la référence")
     args = ap.parse_args()
+    if args.diff:
+        for l in (diff_code() if args.code else diff_publie()):
+            print(l)
+        return 0
+    if args.marquer_publie:
+        marquer_publie()
+        print("Page courante enregistrée comme publiée (sorties/telephone/publie.html)")
+        return 0
     if args.json:
         print(json.dumps(donnees(), ensure_ascii=False, indent=1))
         return 0

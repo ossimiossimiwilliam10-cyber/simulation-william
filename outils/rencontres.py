@@ -4,10 +4,13 @@ rencontre aux Philippines, pour rencontrer des femmes philippines »). Affichage
     python outils/rencontres.py generer --ville MNL --nombre 24 [--simule]   # profils tirés par personnage.py (une fois par ville)
     python outils/rencontres.py completer --ville MNL --de 18 --a 20 [--simule]  # tranche d'âge ouverte après coup : vivier complété
     python outils/rencontres.py inscription --bio "…" --quand "AAAA-MM-JJ HH:MM" [--abonnement plus]
-    python outils/rencontres.py aimer <id> --quand "…"          # William aime un profil (la suite se tire en T21, à valider)
+    python outils/rencontres.py aimer <id> --quand "…"          # William aime un profil : T21a et T10 tirés tout seuls (reactions.py)
     python outils/rencontres.py passer <id>
     python outils/rencontres.py match <id> --quand "…"          # le moteur enregistre un match tiré en T21
-    python outils/rencontres.py message <id> --auteur william|profil --texte "…" --quand "…"
+    python outils/rencontres.py message <id> --auteur william|profil --texte "…" --quand "…" [--m47] [--sans-reaction]
+Depuis le 14/10/2026 : un « j'aime » ou un message de William déclenche tout seul la réaction du profil (T21a ou T21b, avec M45,
+M46 et M48 selon l'intention cachée ; --m47 si le message est sexuel ou propose de l'argent d'emblée), son heure (T10 et horaires
+de vie) et la programmation (actions.py, agenda « à écrire ») ; le message de William s'ajoute au dossier des traces.
     python outils/rencontres.py liste | voir <id>
 
 RÈGLES : chaque profil est une personne tirée par `personnage.py` (contexte `appli_rencontre_manille` : femmes de 18 ans au moins,
@@ -254,11 +257,14 @@ def main():
         p.add_argument("id")
         p.add_argument("--quand")
         p.add_argument("--note", default="")
+        p.add_argument("--sans-reaction", action="store_true", help="ne tire pas la réaction (aimer)")
     p = sp.add_parser("message")
     p.add_argument("id")
     p.add_argument("--auteur", choices=("william", "profil"), required=True)
     p.add_argument("--texte", required=True)
     p.add_argument("--quand", required=True)
+    p.add_argument("--m47", action="store_true", help="message sexuel ou proposition d'argent d'emblée (modificateur M47)")
+    p.add_argument("--sans-reaction", action="store_true", help="n'en tire pas la réaction (déjà tirée à part)")
     sp.add_parser("liste")
     p = sp.add_parser("voir")
     p.add_argument("id")
@@ -302,7 +308,11 @@ def main():
     if args.cmd in ("aimer", "passer", "match", "bloquer"):
         statut = {"aimer": "aime", "passer": "passe", "match": "match", "bloquer": "bloque"}[args.cmd]
         p = changer_statut(args.id, statut, (f"{args.cmd} le {args.quand} " if args.quand else "") + args.note)
-        print(f"{p['prenom']} : {statut}" + (" (la suite se tire en T21 : réaction à un « j'aime »)" if statut == "aime" else ""))
+        print(f"{p['prenom']} : {statut}")
+        if args.cmd == "aimer" and not args.sans_reaction:
+            import json
+            import reactions
+            print("  réaction :", json.dumps(reactions.like(p["id"], reactions.quand_arg(args.quand)), ensure_ascii=False))
         return 0
     if args.cmd == "message":
         profils, p = trouver(args.id)
@@ -315,6 +325,16 @@ def main():
             p["statut"] = "conversation"
             ecrire_csv(PROFILS, profils, COL_P)
         print(f"Message enregistré ({args.auteur} → {p['prenom']})")
+        if args.auteur == "william":
+            import json
+            import reactions
+            import traces
+            traces.ajouter(f"{quand:%d/%m/%Y %Hh%M}", f"Message à {p['prenom']} sur l'application de rencontre : « {args.texte[:160]} »",
+                           "historique de la discussion", f"l'éditeur de l'application · {p['prenom']} (captures possibles)", "faible",
+                           etiquette=f"{quand:%d/%m/%Y, %Hh%M}")
+            if not args.sans_reaction:
+                r = reactions.message(p["id"], reactions.quand_arg(args.quand), args.texte, mods=["M47"] if args.m47 else [])
+                print("  réaction :", json.dumps(r, ensure_ascii=False))
         return 0
     if args.cmd == "liste":
         for p in lire(PROFILS):

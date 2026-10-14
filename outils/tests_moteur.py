@@ -176,7 +176,8 @@ def main():
     e.verifier((copie / "journal" / "tours" / f"{t1:%Y-%m-%d}.md").exists(), f"journal/tours/{t1:%Y-%m-%d}.md écrit")
     e.lancer(o + "horloge.py", contient=f"tour n° {n0 + 1}", nom="horloge : le compteur de tours avance d'un cran")
     e.lancer(o + "tour.py", "apercu", "--jusqua", f"{t1 + dt.timedelta(days=3):%Y-%m-%d} 08:00", contient="Aperçu de l'avance rapide")
-    e.lancer(o + "telephone.py", contient="9 applications", nom="téléphone : écran d'accueil et neuf applications (Transports : 16/07/2040)")
+    e.lancer(o + "telephone.py", contient="11 applications",
+             nom="téléphone : écran d'accueil et onze applications (Portefeuille et Courses : 14/10/2026)")
 
     print("\n[Applications du téléphone : voyages et calendrier]")
     e.lancer(o + "voyages.py", "verifier", contient="conforme")
@@ -215,6 +216,36 @@ def main():
     e.lancer(o + "appli_calendrier.py", contient="argent")
     e.lancer(o + "voyages.py", "reserver", "--vol", "V3", "--aller", "2040-08-28", "--retour", "2040-09-18", "--quand", "2040-07-14 10:00",
              "--simule", contient="1 005", nom="voyages : réservation (essai) au prix de la page")
+
+    print("\n[Monde vivant, réactions, argent sur place, courses, actualités (14/10/2026)]")
+    e.lancer(o + "routines.py", "voir", "Kiara Reyes", contient="sommeil", nom="routines : horaires de vie d'un personnage")
+    e.lancer(o + "reactions.py", "en-attente", nom="réactions : réponses programmées")
+    e.lancer(o + "monde_vivant.py", "liens", contient="Kiara Reyes", nom="monde vivant : états des liens")
+    e.lancer(o + "actions.py", "liste", nom="actions programmées : liste")
+    e.lancer(o + "tropiques.py", "liste", contient="TC01", nom="tropiques : tempêtes de la saison")
+    e.lancer(o + "jet.py", "essai de procédure", "50", "--procedure", "essai", "--simule", contient="[PROCÉDURE : essai]",
+             nom="jet : sous-tirage de procédure (ni dérogation, ni réaction)")
+    e.lancer(o + "devises.py", "verifier", contient="devises : OK")
+    e.lancer(o + "devises.py", "taux", "--jour", "2040-07-19", contient="PHP", nom="devises : taux du jour")
+    e.lancer(o + "devises.py", "retirer", "--montant", "10000", "--distributeur", "bdo_naia3", "--quand", "2040-07-19 23:40", "--simule",
+             contient="RÉUSSI", nom="devises : retrait au distributeur (frais du distributeur et de la banque)")
+    e.lancer(o + "devises.py", "retirer", "--montant", "10050", "--distributeur", "bdo_naia3", "--quand", "2040-07-19 23:40", "--simule",
+             contient="multiple de 100", nom="devises : montant refusé par le distributeur")
+    e.lancer(o + "devises.py", "payer", "--montant", "850", "--marchand", "Essai", "--quand", "2040-07-19 23:40", "--simule",
+             contient="AUTORISÉ", nom="devises : paiement par carte en pesos (cours Visa et frais)")
+    e.lancer(o + "courses.py", "verifier", contient="courses : OK")
+    e.lancer(o + "courses.py", "options", "--de", "naia_t3", "--vers", "city_garden", "--quand", "2040-07-19 23:45", contient="Taxi à coupon",
+             nom="courses : options depuis l'aéroport (Grab et taxis)")
+    e.lancer(o + "courses.py", "commander", "--service", "grab_car", "--de", "naia_t3", "--vers", "city_garden", "--quand", "2040-07-19 23:45",
+             "--simule", attendu=1, contient="pas installé", nom="courses : Grab exige l'application installée")
+    e.lancer(o + "courses.py", "installer", "--quand", "2040-07-19 23:46", contient="Grab installé", nom="courses : installation de Grab")
+    e.lancer(o + "courses.py", "commander", "--service", "grab_car", "--de", "naia_t3", "--vers", "city_garden", "--quand", "2040-07-19 23:47",
+             "--simule", contient="pas assez d'espèces", nom="courses : Grab payé en espèces sans pesos (problème à l'arrivée)")
+    e.lancer(o + "actualites.py", "verifier", contient="actualités : OK")
+    e.lancer(o + "actualites.py", "semaine", "--lundi", "2040-07-23", contient="SONA", nom="actualités : semaine du 23/07 (SONA)")
+    e.lancer(o + "etiquettes.py", "--simule", "--texte", "[portefeuille: retirer carte=visa_debit montant=10000 distributeur=bdo_naia3] "
+             "[courses: commander service=taxi_coupon de=naia_t3 vers=city_garden paiement=especes]", contient="courses.py",
+             nom="étiquettes : Portefeuille et Courses")
     e.lancer(o + "controle_coherence.py", contient="RÉSULTAT")
 
     print(f"\n{e.ok} essai(s) réussi(s), {len(e.echecs)} échec(s).")

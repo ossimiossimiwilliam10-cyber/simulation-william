@@ -16,8 +16,13 @@ d'ambiance non utilisés récemment), personnages récurrents ; puis il régén�
 tire la météo jusqu'à la nouvelle date, enregistre le TEXTE EXACT du tour et le message du joueur (etat/dernier-tour.md et
 journal/tours/AAAA-MM-JJ.md : le prochain agent reprend dans la même voix), passe le brouillon à la chasse aux tics, régénère
 le résumé, la base et la note de relais, lance le contrôle de cohérence, puis committe et fusionne si demandé.
-Ce que l'orchestrateur ne fait PAS : écrire le journal, les WhatsApp, les fils ouverts, les fiches ; tirer les réactions
-(jet.py --table) ; décider à la place de William. Ces étapes restent celles du §7 de CLAUDE.md.
+Depuis le 14/10/2026 (univers vivant, simulation surtout informatique), `fin` fait aussi : les actions programmées échues
+(actions.py : matchs, blocages…), la vie des personnages (monde_vivant.py : journées, semaines, initiatives envers William), les
+fiches courtes des jours clos et la fiche complète due (d'après les données), les lignes du journal (--journal, tirages du tour,
+attente), les notes des fils ouverts (--fil "4: texte"), l'entrée du §9 (--resume, archivage et synchronisation des fichiers
+maîtres), le résumé des changements du téléphone, et l'enregistrement git à chaque tour (--enregistrer, sans libérer le verrou).
+Tour économe : `tour.py fin --jusqua … --texte brouillon --joueur message --resume "…" --journal "…" --enregistrer`.
+Ce que l'orchestrateur ne fait PAS : écrire le texte du tour et des messages des personnages, décider à la place de William.
 """
 import argparse
 import datetime as dt
@@ -100,7 +105,7 @@ def cmd_debut(args):
     section("Météo (meteo.py)", l_meteo)
     # calendrier
     l_cal = []
-    for pays in ("fr", "lu"):
+    for pays in (("ph", "lu", "fr") if h["fuseau"] == "manille" else ("fr", "lu")):
         for d, nom, _ in cal.fetes(jour.year, pays):
             if d == jour:
                 l_cal.append(f"- Aujourd'hui férié ({pays.upper()}) : {nom}")
@@ -188,10 +193,40 @@ def cmd_fin(args):
     if ajouts:
         print(f"  {len(ajouts)} mouvement(s) prévu(s) ajouté(s) au grand livre (60 jours)")
     meteo.assurer(apres["instant"].date() + dt.timedelta(days=3))
+    depuis = derniere_heure_machine()
+    import actions
+    for ident, commande, sortie in actions.executer(apres["instant"]):
+        print(f"  action {ident} exécutée : {commande} → {sortie}")
+    try:
+        import monde_vivant
+        vie = monde_vivant.avancer(apres["instant"].date())
+        notables = [x for x in vie if "initiative" in x]
+        if vie:
+            print(f"  monde vivant : {len(vie)} événement(s) de vie tiré(s)" + (" ; " + " ; ".join(notables) if notables else ""))
+    except SystemExit as exc:
+        print(f"  RELIRE monde vivant : {exc}")
+    try:  # 14/10/2026 : nouvelles du monde de la semaine, écrites une fois dès que l'horloge passe le lundi
+        import actualites
+        for l in actualites.assurer(apres["instant"].date()):
+            print(f"  {l}")
+    except SystemExit as exc:
+        print(f"  RELIRE actualités : {exc}")
+    for x in fiches_auto(avant, apres):
+        print(f"  {x}")
+    for note in args.fil or []:
+        import fils
+        ident, _, texte_fil = note.partition(":")
+        fils.noter(ident.strip(), texte_fil.strip())
+        print(f"  fil {ident.strip()} : note ajoutée")
+    if args.texte or args.journal:
+        fj = ecrire_journal(args, avant, apres, depuis)
+        print(f"  journal : {fj.relative_to(RACINE).as_posix()} complété")
     try:  # téléphone de William régénéré à chaque tour (CLAUDE.md §14) ; Claude le republie au même endroit
         import telephone
         chemin_tel, _ = telephone.construire()
         print(f"  téléphone : {chemin_tel.relative_to(RACINE).as_posix()} régénéré (à republier : outil Artifact, même adresse)")
+        for l in telephone.diff_publie()[:12]:
+            print(f"    {l}")
     except SystemExit as exc:
         print(f"  RELIRE téléphone : page non régénérée ({exc})")
     if args.texte:
@@ -205,6 +240,9 @@ def cmd_fin(args):
             print("  RELIRE (tic) :", l.strip())
     else:
         print("(pas de --texte : le texte du tour n'est pas enregistré ; le prochain agent ne le verra pas)")
+    if args.resume:
+        entree, code_m = point_de_reprise(args.resume, apres)
+        print("  §9 : entrée ajoutée en tête" + (" (RELIRE la synchronisation des fichiers maîtres)" if code_m else ""))
     lancer(OUTILS / "resume_etat.py", "--silencieux")
     lancer(OUTILS / "base.py", "construire", "--silencieux")
     relais.ecrire_note(relais.agent_nom(args.agent))
@@ -213,6 +251,9 @@ def cmd_fin(args):
     for l in lignes:
         print(l)
     code = 1 if r.returncode else 0
+    if args.enregistrer:
+        code |= enregistrer_git(f"tour n° {apres['tour']} : {date_fr(apres['instant'])} {heure_fr(apres['instant'])} "
+                                f"({(args.resume or apres['lieu'])[:140]})", args.co_auteur)
     if args.commit:
         sys.argv = ["relais.py"]
         r2 = lancer(OUTILS / "relais.py", "sortie", "--agent", relais.agent_nom(args.agent), "--commit", args.commit,
@@ -220,6 +261,182 @@ def cmd_fin(args):
                     silencieux=False)
         code |= r2.returncode
     return code
+
+
+# ---------------------------------------------------------------- automatisation de la fin de tour (14/10/2026)
+ORDINAUX = ["premier", "deuxième", "troisième", "quatrième", "cinquième", "sixième", "septième", "huitième", "neuvième", "dixième",
+            "onzième", "douzième", "treizième", "quatorzième", "quinzième", "seizième", "dix-septième", "dix-huitième", "dix-neuvième",
+            "vingtième"]
+
+
+def numero_jour(jour):
+    import json
+    try:
+        depart = dt.date.fromisoformat(json.loads(lire_texte(ETAT / "univers.json") or "{}")["depart"][:10])
+    except (KeyError, ValueError):
+        depart = dt.date(2040, 7, 14)
+    n = (jour - depart).days + 1
+    return ORDINAUX[n - 1] if 1 <= n <= len(ORDINAUX) else f"{n}e"
+
+
+def fichier_journal(jour):
+    f = JOURNAL / f"{jour:%Y-%m-%d}.md"
+    if not f.exists():
+        ecrire_texte(f, f"# {date_fr(jour).capitalize()} — univers 2, {numero_jour(jour)} jour\n\n")
+    return f
+
+
+def eur(x, signe=False):
+    t = f"{x:+,.2f}" if signe else f"{x:,.2f}"
+    return t.replace(",", " ").replace(".", ",") + " €"
+
+
+def heure_courte(t):
+    return f"{t:%H}h{t:%M}"
+
+
+def derniere_heure_machine():
+    """Heure machine du tour précédent (en-tête de etat/dernier-tour.md), pour retrouver les tirages faits depuis."""
+    import re
+    m = re.search(r"enregistré le (\d{2})/(\d{2})/(\d{4}) (\d{2}):(\d{2})", lire_texte(DERNIER_TOUR))
+    if not m:
+        return None
+    j, mo, a, h, mi = (int(x) for x in m.groups())
+    return dt.datetime(a, mo, j, h, mi)
+
+
+def tirages_depuis(depuis):
+    """Résumé compact des tirages consignés depuis l'heure machine `depuis` (hors journées de masse du monde vivant)."""
+    import json
+    f = RACINE / "memoire" / "tirages.jsonl"
+    if not f.exists() or depuis is None:
+        return []
+    res = []
+    for l in f.read_text(encoding="utf-8").splitlines():
+        try:
+            o = json.loads(l)
+        except ValueError:
+            continue
+        if o.get("simule") or dt.datetime.fromisoformat(o["enregistre"]) < depuis:
+            continue
+        lib = o.get("libelle", "")
+        if lib.startswith(("Vie de ", "Contenu (")):
+            continue
+        qui = (o.get("pour") or "").split(" ")[0]
+        if o.get("mode") == "table":
+            if o.get("table") == "T14" and o.get("issue") == "aucune":
+                continue
+            res.append(f"{o['table']}{(' ' + qui) if qui else ''} → {o['issue']} ({str(o.get('jet', '')).replace('.', ',')})")
+        elif o.get("mode") == "libre":
+            res.append(f"jet{(' ' + qui) if qui else ''} « {lib[:60]} » → {o['issue']} ({str(o.get('jet', '')).replace('.', ',')})")
+        elif o.get("mode") == "procedure":
+            res.append(f"procédure{(' ' + qui) if qui else ''} : {o.get('valeur', '')}")
+    return res
+
+
+def ecrire_journal(args, avant, apres, depuis):
+    """Lignes du tour dans journal/AAAA-MM-JJ.md : les lignes données (--journal), les tirages du tour, l'attente."""
+    t0, t1 = avant["instant"], apres["instant"]
+    f = fichier_journal(t1.date())
+    lignes = list(args.journal or [])
+    debut = heure_courte(t0) if t0.date() == t1.date() else "00h00"
+    tete = f"- **{debut}-{heure_courte(t1)}** (tour n° {apres['tour']}) : "
+    texte = tete + (lignes[0] if lignes else "voir le texte exact du tour (journal/tours/).") + "\n"
+    for l in lignes[1:]:
+        texte += f"- {l}\n"
+    tir = tirages_depuis(depuis)
+    if tir:
+        texte += "- Tirages du tour : " + " ; ".join(tir) + ".\n"
+    if apres["attentes"]:
+        texte += f"- Tour en cours à {heure_courte(t1)}, en attente de William : " + " ; ".join(f"**{a}**" for a in apres["attentes"]) + ".\n"
+    ajouter_texte(f, texte)
+    return f
+
+
+def fiches_auto(avant, apres):
+    """Jour clos (l'horloge a passé minuit) : fiche courte générée d'après les données si le journal du jour n'en a pas ;
+    fiche complète (données) si le rituel est dû. Le moteur peut les compléter ; elles ne manquent plus jamais."""
+    import grand_livre as gl
+    import rituels
+    j0, j1 = avant["instant"].date(), apres["instant"].date()
+    jour = j0
+    sortie = []
+    while jour < j1:
+        f = fichier_journal(jour)
+        if "Fiche courte du" not in lire_texte(f):
+            debut = gl.soldes(dt.datetime.combine(jour, dt.time(0, 0)))
+            fin = gl.soldes(dt.datetime.combine(jour, dt.time(23, 59)))
+            delta = fin["courant"] - debut["courant"]
+            msgs = [m for m in lire_csv(ETAT / "rencontres-messages.csv") if m["date"] == jour.isoformat()]
+            import base
+            wa = [m for m in base.lire_messages() if m["date"] == jour.isoformat()]
+            env = sum(1 for m in msgs if m["auteur"] == "william") + sum(1 for m in wa if m["auteur"] == "William")
+            rec = len(msgs) + len(wa) - env
+            import agenda
+            faits = [l for l in agenda.lire() if l["statut"] == "fait" and l["date"] == jour.isoformat()]
+            sommeil = [c for c in lire_csv(ETAT / "corps.csv") if c["date"] == (jour + dt.timedelta(days=1)).isoformat() and c["type"] == "sommeil"]
+            texte = (f"\n**Fiche courte du {date_fr(jour)}** (générée par tour.py d'après les données) : messages envoyés {env}, reçus {rec} ; "
+                     f"échéances jouées {len(faits)} ; argent : courant {eur(fin['courant'])} ({eur(delta, signe=True)})"
+                     + (f" ; nuit suivante : {float(sommeil[0]['valeur']):.1f} h".replace(".", ",") if sommeil else "") + ".\n")
+            ajouter_texte(f, texte)
+            sortie.append(f"fiche courte du {jour:%d/%m} générée")
+        jour += dt.timedelta(days=1)
+    if j1 > j0:
+        dus = [x for x in rituels.bilan(apres["instant"]) if x[0] == "fiche_complete" and ("DÛ" in x[1].upper() or "RETARD" in x[1].upper())]
+        if dus:
+            import monde_vivant
+            s = gl.soldes(apres["instant"].replace(tzinfo=None))
+            liens = []
+            ech, fixes = monde_vivant.derniers_echanges(), monde_vivant.liens_fixes()
+            for p in monde_vivant.personnages():
+                e, c = monde_vivant.etat_lien(p, j1, ech, fixes)
+                if e not in ("aucun",):
+                    liens.append(f"{p['nom']} ({e})")
+            import agenda
+            prochains = [agenda.afficher(l, apres["fuseau"]).split(" | ", 1)[-1].split(" [")[0][:90]
+                         for l in sorted(agenda.lire(), key=agenda.instant)
+                         if l["statut"] in ("prevu", "latent") and l["connu"] == "oui" and agenda.instant(l) >= apres["instant"]][:6]
+            f = fichier_journal(j1 - dt.timedelta(days=1))
+            ajouter_texte(f, f"\n**Fiche complète du {date_fr(j1 - dt.timedelta(days=1))}** (générée par tour.py d'après les données) :\n"
+                             f"- *Finances* : courant {eur(s['courant'])} ; épargne {eur(s['projet'])} ; ETF {eur(s['etf'])} ; prêt {eur(s['pret'])}.\n"
+                             + f"- *Relations* : {', '.join(liens) or 'aucun lien actif'}.\n"
+                             + f"- *Calendrier connu* : {' ; '.join(prochains) or 'rien'}.\n")
+            sortie.append("fiche complète générée (données)")
+    return sortie
+
+
+def point_de_reprise(resume, apres):
+    """Entrée du §9 de CLAUDE.md, en tête ; archivage au-delà de 12 entrées ; fichiers maîtres synchronisés."""
+    t = apres["instant"]
+    zone = "" if apres["fuseau"] == "luxembourg" else f" (heure de {apres['fuseau'].capitalize()})"
+    attente = " ; ".join(f"**{a}**" for a in apres["attentes"]) or "**sa suite**"
+    entree = (f"**{date_fr(t).capitalize()}, {heure_fr(t)}{zone} — {apres['lieu']} : tour n° {apres['tour']} joué ({resume.strip().rstrip('.')}) ; "
+              f"en attente : {attente}.**")
+    f = RACINE / "CLAUDE.md"
+    lignes = lire_texte(f).split("\n")
+    d = next(i for i, l in enumerate(lignes) if l.startswith("## 9."))
+    fin = next(i for i, l in enumerate(lignes) if l.startswith("## 10."))
+    premiere = next((i for i in range(d + 1, fin) if lignes[i].startswith("**") and not lignes[i].startswith("**(Compression")), None)
+    if premiere is None:
+        premiere = fin - 1
+    lignes.insert(premiere, entree)
+    ecrire_texte(f, "\n".join(lignes))
+    nb = sum(1 for i in range(d + 1, fin + 1) if lignes[i].startswith("**") and not lignes[i].startswith("**(Compression"))
+    if nb > 12:
+        lancer(OUTILS / "archiver_point_de_reprise.py", "--garder", "8", "--ecrire")
+    r = lancer(OUTILS / "maitres.py", "synchroniser", "--depuis", "CLAUDE.md")
+    return entree, r.returncode
+
+
+def enregistrer_git(message, co_auteur):
+    """Commit (tout) et fusion en avance rapide dans la branche principale, sans libérer le verrou (enregistrement à chaque tour)."""
+    import relais
+    from commun import git
+    git("add", "-A")
+    msg = message + (f"\n\nCo-Authored-By: {co_auteur}" if co_auteur else "")
+    r = subprocess.run(["git", "commit", "-q", "-m", msg], cwd=str(RACINE), capture_output=True, text=True, encoding="utf-8", errors="replace")
+    print("  enregistrement :", (r.stdout.strip() or r.stderr.strip() or "commit fait").splitlines()[0][:120])
+    return relais.fusionner()
 
 
 def cmd_apercu(args):
@@ -290,6 +507,10 @@ def main():
     p.add_argument("--commit")
     p.add_argument("--co-auteur")
     p.add_argument("--fusionner", action="store_true")
+    p.add_argument("--journal", action="append", help="ligne du journal du jour (la première porte l'heure et le numéro du tour)")
+    p.add_argument("--fil", action="append", help="note d'un fil ouvert : « 4: texte »")
+    p.add_argument("--resume", help="résumé d'une phrase : entrée du §9 de CLAUDE.md (archivage et synchronisation compris)")
+    p.add_argument("--enregistrer", action="store_true", help="commit et fusion en avance rapide, sans libérer le verrou")
     p.set_defaults(f=cmd_fin)
     p = sp.add_parser("apercu")
     p.add_argument("--jusqua", required=True)

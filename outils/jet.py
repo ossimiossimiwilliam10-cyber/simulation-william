@@ -21,6 +21,11 @@ par tirage, lue par la base de données) ; ne jamais rejouer un tirage. Depuis l
 personnage de `etat/personnages.csv` et REFUSE les tables T1, T1b et T9 pour un mineur (limite (b) du §11) ; la garde de la
 règle 17 reconnaît aussi les RÔLES (« la voisine », « le directeur »…), pas seulement les noms des fiches.
 Règle de friction administrative (CLAUDE.md §12) : jet « deuxième passage demandé » à 30 % pour toute démarche à enjeu.
+Depuis le 14/10/2026 (univers vivant, simulation surtout informatique) : les autres outils tirent sans passer par la ligne de
+commande, avec les mêmes garde-fous et la même consignation (`jet.tirer(...)`, `jet.tirer_libre(...)`) ; un SOUS-TIRAGE DE
+PROCÉDURE (`--procedure "T21b/T10 : jour de la réponse tardive"`) applique une issue déjà tirée selon la règle écrite de la
+table ou de l'outil (jour d'une réponse tardive, minute dans une fenêtre de disponibilité) : il n'est pas une dérogation, il est
+consigné avec l'étiquette [PROCÉDURE : …] et compté à part par `audit_jets.py`.
 """
 import argparse
 import csv
@@ -295,6 +300,45 @@ def garde_pour(args):
     return fiche
 
 
+def _tirer_table(args, tables, modifs, texte=True):
+    """Tire une issue (garde-fous compris), la consigne (sauf --simule) et renvoie le résultat ; n'affiche rien."""
+    issues = distribution(args, tables, modifs)
+    tid = args.table
+    if not args.libelle:
+        sys.exit("Libellé obligatoire : jet.py --table Tn [--mod Mxx] \"personnage : situation\"")
+    fiche = garde_pour(args)
+    jet = random.SystemRandom().uniform(0, 100)
+    issue = choisir(issues, jet)
+    repartition = " / ".join(f"{c} {p:g}" for c, p in issues.items())
+    mods = ", ".join(args.mod) if args.mod else "aucun"
+    ligne = f"- Tirage [{tid}] « {args.libelle} » : {repartition} ; modificateurs : {mods} ; jet {jet:5.1f} → **{issue}**"
+    scene = next((s for c, _, s in tables[tid]["issues"] if c == issue), "")
+    objet = {"mode": "table", "table": tid, "libelle": args.libelle, "pour": (fiche or {}).get("nom", args.pour or ""),
+             "modificateurs": args.mod, "distribution": issues, "jet": round(jet, 2), "issue": issue}
+    if not args.simule and texte:
+        consigner(ligne)
+    consigner_json(objet, simule=args.simule)
+    return {"issue": issue, "jet": round(jet, 2), "distribution": issues, "ligne": ligne, "scene": scene,
+            "pour": (fiche or {}).get("nom", args.pour or "")}
+
+
+def tirer(table, mods=(), libelle="", pour=None, simule=False, informes=None, texte=True):
+    """Tirage dans une table depuis un autre outil (14/10/2026) : mêmes garde-fous et même consignation que la ligne de
+    commande. Renvoie {issue, jet, distribution, ligne, scene, pour}. Une garde non respectée lève SystemExit.
+    texte=False : tirage de masse du monde vivant (journées des personnages), consigné seulement dans memoire/tirages.jsonl
+    et dans etat/vies.csv, pour ne pas noyer le journal lisible des tirages."""
+    global _CACHE
+    if _CACHE is None:
+        _CACHE = charger()
+    tables, modifs = _CACHE
+    args = argparse.Namespace(table=table, mod=list(mods), libelle=libelle, pour=pour, simule=simule, informes=informes,
+                              blanc=None, derogation=None, procedure=None, proba=None, liste=False)
+    return _tirer_table(args, tables, modifs, texte=texte)
+
+
+_CACHE = None
+
+
 def tirage_table(args, tables, modifs):
     issues = distribution(args, tables, modifs)
     tid = args.table
@@ -307,45 +351,56 @@ def tirage_table(args, tables, modifs):
         for c, p in issues.items():
             print(f"  {c:26s} attendu {p:5.1f} %   observé {100 * compte[c] / args.blanc:5.1f} %")
         return 0
-    if not args.libelle:
-        sys.exit("Libellé obligatoire : jet.py --table Tn [--mod Mxx] \"personnage : situation\"")
-    fiche = garde_pour(args)
-    jet = rng.uniform(0, 100)
-    issue = choisir(issues, jet)
-    repartition = " / ".join(f"{c} {p:g}" for c, p in issues.items())
-    mods = ", ".join(args.mod) if args.mod else "aucun"
-    ligne = f"- Tirage [{tid}] « {args.libelle} » : {repartition} ; modificateurs : {mods} ; jet {jet:5.1f} → **{issue}**"
-    print(ligne)
-    scene = next((s for c, _, s in tables[tid]["issues"] if c == issue), "")
-    if scene:
-        print(f"En scène : {scene}")
+    r = _tirer_table(args, tables, modifs)
+    print(r["ligne"])
+    if r["scene"]:
+        print(f"En scène : {r['scene']}")
     print("Règle 17 : sentiments libres, actes tirés ; test d'intérêt ; test de la phrase ; l'issue banale peut clore la scène.")
-    objet = {"mode": "table", "table": tid, "libelle": args.libelle, "pour": (fiche or {}).get("nom", args.pour or ""),
-             "modificateurs": args.mod, "distribution": issues, "jet": round(jet, 2), "issue": issue}
-    if not args.simule:
-        consigner(ligne)
-    consigner_json(objet, simule=args.simule)
     return 0
 
 
-def jet_libre(args):
+def _jet_libre(args):
+    """Jet libre (garde-fous compris), consigné sauf --simule ; renvoie {oui, jet, ligne} sans rien afficher."""
     if not args.libelle or args.proba is None:
         sys.exit("Usage : jet.py \"libellé\" proba   |   jet.py --table Tn [--mod Mxx] \"libellé\"   |   jet.py --liste")
-    if REACTION_LIBRE.search(args.libelle) and not args.derogation and not args.simule:
+    procedure = getattr(args, "procedure", None)
+    if REACTION_LIBRE.search(args.libelle) and not args.derogation and not procedure and not args.simule:
         sys.exit("REFUSÉ (règle 17) : ce libellé décrit la réaction d'un personnage à un acte de William. Tirer dans une table "
-                 "(--table T1, T1b, T2, T3, T4, T5, T7a, T7b, T7c, T7d, T8, T9, T10, T11, T12, T13a-d, T14, T20a-b ; etat/modele-pouvoir.md) ou justifier une exception avec "
-                 "--derogation \"raison\" (consignée et auditée).")
+                 "(--table Tn ; etat/modele-pouvoir.md), appliquer une issue déjà tirée (--procedure \"règle\") ou justifier une "
+                 "exception (--derogation \"raison\", consignée et auditée).")
     garde_pour(args)
     jet = random.SystemRandom().uniform(0, 100)
     oui = jet < args.proba
     ligne = f"- Jet « {args.libelle} » : probabilité {args.proba:g} %, jet {jet:5.1f} → **{'OUI' if oui else 'NON'}**"
     if args.derogation:
         ligne += f" [DÉROGATION : {args.derogation}]"
-    print(ligne)
+    if procedure:
+        ligne += f" [PROCÉDURE : {procedure}]"
     if not args.simule:
         consigner(ligne)
     consigner_json({"mode": "libre", "libelle": args.libelle, "pour": args.pour or "", "proba": args.proba, "jet": round(jet, 2),
-                    "issue": "OUI" if oui else "NON", "derogation": args.derogation or ""}, simule=args.simule)
+                    "issue": "OUI" if oui else "NON", "derogation": args.derogation or "", "procedure": procedure or ""},
+                   simule=args.simule)
+    return {"oui": oui, "jet": round(jet, 2), "ligne": ligne}
+
+
+def tirer_libre(libelle, proba, pour=None, procedure=None, derogation=None, simule=False):
+    """Jet libre depuis un autre outil (14/10/2026). `procedure` : sous-tirage qui applique une issue déjà tirée selon une
+    règle écrite (jour d'une réponse tardive, minute dans une fenêtre de disponibilité) ; renvoie {oui, jet, ligne}."""
+    args = argparse.Namespace(libelle=libelle, proba=float(proba), pour=pour, procedure=procedure, derogation=derogation,
+                              simule=simule, table=None, mod=[], informes=None, blanc=None, liste=False)
+    return _jet_libre(args)
+
+
+def jet_libre(args):
+    if not args.libelle or args.proba is None:
+        sys.exit("Usage : jet.py \"libellé\" proba   |   jet.py --table Tn [--mod Mxx] \"libellé\"   |   jet.py --liste")
+    if REACTION_LIBRE.search(args.libelle) and not args.derogation and not getattr(args, "procedure", None) and not args.simule:
+        sys.exit("REFUSÉ (règle 17) : ce libellé décrit la réaction d'un personnage à un acte de William. Tirer dans une table "
+                 "(--table T1, T1b, T2, T3, T4, T5, T7a, T7b, T7c, T7d, T8, T9, T10, T11, T12, T13a-d, T14, T20a-b ; etat/modele-pouvoir.md) ou justifier une exception avec "
+                 "--derogation \"raison\" (consignée et auditée).")
+    r = _jet_libre(args)
+    print(r["ligne"])
     return 0
 
 
@@ -368,6 +423,8 @@ def main():
     ap.add_argument("--mod", action="append", default=[], help="modificateur (M01…), 3 au maximum")
     ap.add_argument("--informes", type=int, help="T5 : personnes qui connaissent l'affaire, William exclu")
     ap.add_argument("--derogation", help="justification d'un jet libre portant sur une réaction (consignée, auditée)")
+    ap.add_argument("--procedure", help="sous-tirage qui applique une issue déjà tirée selon une règle écrite (jour d'une réponse "
+                    "tardive, minute dans une fenêtre de disponibilité) : consigné [PROCÉDURE : …], compté à part par l'audit")
     ap.add_argument("--simule", action="store_true",
                     help="essai : rien dans le journal des tirages (trace dans memoire/simulations.jsonl)")
     ap.add_argument("--pour", help="personnage concerné (etat/personnages.csv) : garde « mineurs » et rattachement du tirage")
