@@ -68,3 +68,11 @@
   vide ; le joueur ne voyait plus le téléphone dans la conversation). Adresse aussi dans etat/relais-config.json. À chaque tour :
   `tour.py fin` régénère sorties/telephone/index.html ; Claude republie au même URL (paramètre url) après avoir relu la page
   en entier ; si l'adresse est de nouveau introuvable, publier à une nouvelle adresse et la consigner ici.
+- (14/10/2026 17:20, Claude Opus 5.5) **Monde vivant et tour économe installés** (demande de l'utilisateur, avant le tour n° 29) :
+  `monde_vivant.py`, `routines.py`, `reactions.py`, `actions.py`, `whatsapp.py`, `traces.py`, `fils.py`, `tropiques.py`,
+  `devises.py` (application Portefeuille), `courses.py` (application Courses), `actualites.py` ; `tour.py fin` fait le reste
+  (`--journal`, `--fil`, `--resume`, `--enregistrer`) ; routine : `outils/LISEZMOI.md` §5. Téléphone republié (version 14) ;
+  après chaque tour : `telephone.py --diff`, republier seulement s'il y a un changement, puis `telephone.py --marquer-publie`.
+  **À faire valider** : `memoire/propositions-2026-10-14.md` (P22 rythme du monde vivant, appliqué à titre provisoire ; P23 à
+  P25 tables de l'application de rencontre ; P26 aléa des taxis). Réponses déjà tirées à jouer avec `reactions.py jouer` :
+  A026 (Shane, 19/07 23h45), A027 (Kiara, 20/07 14h46), A029 (Julia, 21/07 17h46).
