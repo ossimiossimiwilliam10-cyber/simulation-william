@@ -217,3 +217,11 @@ Effets à jouer : A07 (vendredi 20/07 (matin)) : Retard d'un virement, d'un envo
 - Tropiques 2040 : 10 tempête(s) nommée(s) avant le 24/07/2040 (Poisson, λ = 6.0) [PROCÉDURE : climatologie PAGASA, outils/tropiques.py] (enregistré le 14/10/2026 16:41 heure machine)
 
 - Tropiques : tempête « Kidul » entrée dans la PAR le 25/07/2040 ; effet sur Metro Manila : aucun [PROCÉDURE : climatologie PAGASA, outils/tropiques.py] (enregistré le 14/10/2026 16:41 heure machine)
+
+- Procédure « Kyla Tan : heure de son « j'aime » spontané » : 17/07 11:07 [PROCÉDURE : horaires de vie (routines.py) · T21c] (enregistré le 14/10/2026 21:49 heure machine)
+
+- Procédure « Janelle Morales : heure de son « j'aime » spontané » : 17/07 22:18 [PROCÉDURE : horaires de vie (routines.py) · T21c] (enregistré le 14/10/2026 21:49 heure machine)
+
+- Procédure « Maxine Garcia : heure de son « j'aime » spontané » : 18/07 22:57 [PROCÉDURE : horaires de vie (routines.py) · T21c] (enregistré le 14/10/2026 21:49 heure machine)
+
+- Procédure « Julia Domingo : heure de son « j'aime » spontané » : 19/07 20:35 [PROCÉDURE : horaires de vie (routines.py) · T21c] (enregistré le 14/10/2026 21:49 heure machine)

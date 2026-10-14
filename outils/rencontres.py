@@ -12,6 +12,12 @@ Depuis le 14/10/2026 : un « j'aime » ou un message de William déclenche tout 
 M46 et M48 selon l'intention cachée ; --m47 si le message est sexuel ou propose de l'argent d'emblée), son heure (T10 et horaires
 de vie) et la programmation (actions.py, agenda « à écrire ») ; le message de William s'ajoute au dossier des traces.
     python outils/rencontres.py liste | voir <id>
+    python outils/rencontres.py likes-recus --jour AAAA-MM-JJ [--simule]   # T21c (14/10/2026) : « j'aime » reçus ce jour-là
+    python outils/rencontres.py menage --lundi AAAA-MM-JJ [--simule]       # T21d (14/10/2026) : matchs sans échange depuis 7 jours
+Depuis le 14/10/2026 (P23, P25, validées) : chaque jour où William est inscrit, des profils l'aiment d'eux-mêmes (T21c, lancé par
+monde_vivant.py) ; ils restent parmi les profils à découvrir (l'application montre seulement leur nombre) et un « j'aime » de
+William sur l'un d'eux fait un match immédiat ; la pile « à découvrir » est complétée à 6 profils (nouvelles inscrites) ;
+chaque semaine, un match resté sans échange depuis 7 jours peut disparaître (T21d).
 
 RÈGLES : chaque profil est une personne tirée par `personnage.py` (contexte `appli_rencontre_manille` : femmes de 18 ans au moins,
 majorité aux Philippines, F058 ; garde absolue AGE_MIN, CLAUDE.md §11 limite b ; avant : 21 ans, marge du moteur → maintenant :
@@ -36,7 +42,10 @@ PROFILS = ETAT / "rencontres.csv"
 MESSAGES = ETAT / "rencontres-messages.csv"
 COMPTE = ETAT / "rencontres-compte.csv"
 COL_P = ["id", "ville", "prenom", "quartier", "distance_km", "metier", "cherche", "bio", "connexion", "verifie", "intention", "statut",
-         "cree_le", "note"]
+         "cree_le", "note", "aime_william"]  # aime_william (14/10/2026) : date et heure de son « j'aime » spontané (T21c)
+PILE_MIN = 12  # profils « à découvrir » au moins, hors profils qui ont aimé William (estimation du moteur, 14/10/2026 ; avant : 6 → maintenant : 12, pour que ceux qui l'ont aimé restent une minorité de la pile)
+NL = chr(10)
+VILLES_ASIE_SE = {"MNL"}  # M101 : étranger aisé dans une ville d'Asie du Sud-Est
 COL_M = ["profil", "date", "heure", "auteur", "texte"]
 COL_C = ["inscrit_le", "ville", "bio", "recherche", "abonnement", "note"]
 QUARTIERS = {"MNL": [("Makati", 2, 6), ("Bonifacio Global City (Taguig)", 3, 7), ("Pasay", 5, 9), ("Mandaluyong", 4, 8),
@@ -134,6 +143,7 @@ def generer(ville, nombre, simule=False, ages=None, complement=False):
     ecrire_csv(PROFILS, profils + [p for _, p in nouveaux], COL_P)
     print(f"{len(nouveaux)} profil(s) écrit(s) : etat/rencontres.csv et etat/personnages.csv (statut pre_genere)")
     return nouveaux
+    return nouveaux
 
 
 def part_tranche(ctx, a_min, a_max):
@@ -200,6 +210,79 @@ def changer_statut(ident, statut, note=""):
     return p
 
 
+def likes_recus(jour, simule=False):
+    """T21c : « j'aime » reçus spontanément par William ce jour-là (s'il est inscrit) ; la pile « à découvrir » est d'abord
+    complétée à PILE_MIN profils (nouvelles inscrites), puis les profils qui l'aiment y sont choisis au hasard."""
+    import jet
+    import reactions
+    import routines
+    compte = lire(COMPTE)
+    if not compte or compte[-1]["inscrit_le"][:10] > jour.isoformat():
+        return []
+    c = compte[-1]
+    ville = c["ville"]
+    sortie = remplir_pile(ville, simule)
+    mods = (["M100"] if c["abonnement"] == "plus" else []) + (["M101"] if ville in VILLES_ASIE_SE else [])
+    r = jet.tirer("T21c", mods, f"« J'aime » reçus par William le {jour:%d/%m/%Y} ({ville})", simule=simule, texte=False)
+    n = {"aucun": 0, "un": 1, "deux": 2, "trois_ou_plus": 3}.get(r["issue"], 0)
+    sortie.append(f"T21c : {r['issue']} (jet {r['jet']:.1f}{', ' + ', '.join(mods) if mods else ''})")
+    if not n or simule:
+        return sortie
+    profils = lire(PROFILS)
+    libres = [p for p in profils if p["ville"] == ville and p["statut"] in ("nouveau", "vu")]
+    for p in random.SystemRandom().sample(libres, min(n, len(libres))):
+        fiche = routines.personnage(p["id"])
+        heure = fuseaux_local(reactions.minute_libre(fiche, jour, "07:00", "23:59"), fiche)
+        reactions.procedure(f"{fiche['nom']} : heure de son « j'aime » spontané", f"{heure:%d/%m %H:%M}",
+                            "horaires de vie (routines.py) · T21c", pour=fiche["nom"])
+        p["statut"] = "vous_aime"
+        p["aime_william"] = f"{heure:%Y-%m-%d %H:%M}"
+        sortie.append(f"{p['prenom']} aime le profil de William ({heure:%d/%m %H:%M}) · intention cachée : {p['intention']}")
+    ecrire_csv(PROFILS, profils, COL_P)
+    return sortie
+
+
+def remplir_pile(ville, simule=False):
+    """Complète la pile « à découvrir » à PILE_MIN profils jamais vus (nouvelles inscrites, tirées par generer)."""
+    pile = [p for p in lire(PROFILS) if p["ville"] == ville and p["statut"] in ("nouveau", "vu")]
+    if len(pile) >= PILE_MIN or simule:
+        return []
+    n = PILE_MIN - len(pile)
+    generer(ville, n, complement=True)
+    return [f"{n} nouvelle(s) inscrite(s) dans la pile à découvrir"]
+
+
+def fuseaux_local(instant, fiche):
+    import fuseaux
+    import routines
+    return fuseaux.convertir(instant, routines.zone_de(fiche)).replace(tzinfo=None)
+
+
+def menage(lundi, simule=False):
+    """T21d : chaque semaine, un match resté sans aucun échange depuis 7 jours peut disparaître (retiré ou bloqué)."""
+    import re
+    import jet
+    import routines
+    profils = lire(PROFILS)
+    parle = {m["profil"] for m in lire(MESSAGES)}
+    sortie, change = [], False
+    for p in profils:
+        m = re.search(r"match le (\d{4}-\d{2}-\d{2})", p["note"])
+        if p["statut"] != "match" or p["id"] in parle or not m or dt.date.fromisoformat(m.group(1)) > lundi - dt.timedelta(days=7):
+            continue
+        fiche = routines.personnage(p["id"])
+        r = jet.tirer("T21d", [], f"{fiche['nom']} : match sans échange depuis le {m.group(1)}", pour=fiche["nom"], simule=simule,
+                      texte=False)
+        sortie.append(f"{p['prenom']} : T21d {r['issue']} (jet {r['jet']:.1f})")
+        if r["issue"] in ("retire", "bloque") and not simule:
+            p["statut"] = "match_retire" if r["issue"] == "retire" else "bloque"
+            p["note"] = (p["note"] + " · " if p["note"] else "") + f"T21d : {r['issue']} (semaine du {lundi:%d/%m/%Y})"
+            change = True
+    if change:
+        ecrire_csv(PROFILS, profils, COL_P)
+    return sortie
+
+
 def donnees_telephone(t=None):
     """Ce que l'application montre : profils (sans intention), statuts, discussions, compte de William."""
     import personnage as P
@@ -211,16 +294,22 @@ def donnees_telephone(t=None):
     msgs = lire(MESSAGES)
     profils = []
     bloques = set()
+    likes = 0
     for p in lire(PROFILS):
-        if p["statut"] == "bloque":
-            bloques.add(p["id"])  # bloqué : profil ET discussion disparaissent, comme dans une vraie application (13/10/2026)
+        if p["statut"] in ("bloque", "match_retire"):
+            bloques.add(p["id"])  # bloqué ou match retiré : profil ET discussion disparaissent, comme dans une vraie application
             continue
+        statut = p["statut"]
+        if statut == "vous_aime":  # l'application ne dit pas qui : le profil reste « à découvrir », seul le nombre s'affiche
+            statut = "nouveau"
+            if (p.get("aime_william") or "9999") <= f"{t:%Y-%m-%d %H:%M}":
+                likes += 1
         a = age(naissances[p["id"]], jour) if p["id"] in naissances else None
         if a is None or a < AGE_MIN:
             continue  # garde : jamais un profil sans âge vérifiable ni mineur
         profils.append({"id": p["id"], "prenom": p["prenom"], "age": a, "ville": p["ville"], "quartier": p["quartier"],
                         "distance": int(p["distance_km"]), "cherche": p["cherche"], "bio": p["bio"], "connexion": p["connexion"],
-                        "verifie": p["verifie"] == "oui", "statut": p["statut"]})
+                        "verifie": p["verifie"] == "oui", "statut": statut})
     discussions = {}
     for m in msgs:
         if m["profil"] in bloques:
@@ -229,7 +318,7 @@ def donnees_telephone(t=None):
             discussions.setdefault(m["profil"], []).append({"date": m["date"], "heure": m["heure"], "moi": m["auteur"] == "william",
                                                              "texte": m["texte"]})
     return {"inscrit": bool(compte), "compte": {k: v for k, v in compte[-1].items() if k != "note"} if compte else None, "prix_plus": PRIX_PLUS, "profils": profils,
-            "discussions": discussions, "villes": {"MNL": "Manille"}}
+            "discussions": discussions, "villes": {"MNL": "Manille"}, "likes_recus": likes}
 
 
 def main():
@@ -268,7 +357,24 @@ def main():
     sp.add_parser("liste")
     p = sp.add_parser("voir")
     p.add_argument("id")
+    p = sp.add_parser("likes-recus")
+    p.add_argument("--jour", required=True)
+    p.add_argument("--simule", action="store_true")
+    p = sp.add_parser("pile")
+    p.add_argument("--ville", default="MNL")
+    p = sp.add_parser("menage")
+    p.add_argument("--lundi", required=True)
+    p.add_argument("--simule", action="store_true")
     args = ap.parse_args()
+    if args.cmd == "likes-recus":
+        print("\n".join(likes_recus(dt.date.fromisoformat(args.jour), args.simule)) or "(pas inscrit ce jour-là)")
+        return 0
+    if args.cmd == "pile":
+        print(NL.join(remplir_pile(args.ville)) or f"pile déjà à {PILE_MIN} profils ou plus")
+        return 0
+    if args.cmd == "menage":
+        print("\n".join(menage(dt.date.fromisoformat(args.lundi), args.simule)) or "aucun match sans échange depuis 7 jours")
+        return 0
     if args.cmd == "generer":
         generer(args.ville, args.nombre, args.simule)
         return 0
@@ -306,6 +412,12 @@ def main():
         print(f"Inscription enregistrée ({args.ville}, {args.abonnement})")
         return 0
     if args.cmd in ("aimer", "passer", "match", "bloquer"):
+        _, avant = trouver(args.id)
+        if args.cmd == "aimer" and avant["statut"] == "vous_aime" and (avant.get("aime_william") or "9999") <= (args.quand or "9999"):
+            # elle l'avait déjà aimé (T21c) : match immédiat, sans nouveau tirage (14/10/2026)
+            p = changer_statut(args.id, "match", f"match le {args.quand} (réciproque : elle l'avait aimé le {avant['aime_william']})")
+            print(f"{p['prenom']} : match immédiat (elle avait aimé le profil de William le {avant['aime_william']})")
+            return 0
         statut = {"aimer": "aime", "passer": "passe", "match": "match", "bloquer": "bloque"}[args.cmd]
         p = changer_statut(args.id, statut, (f"{args.cmd} le {args.quand} " if args.quand else "") + args.note)
         print(f"{p['prenom']} : {statut}")

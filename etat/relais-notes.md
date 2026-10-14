@@ -76,3 +76,8 @@
   **À faire valider** : `memoire/propositions-2026-10-14.md` (P22 rythme du monde vivant, appliqué à titre provisoire ; P23 à
   P25 tables de l'application de rencontre ; P26 aléa des taxis). Réponses déjà tirées à jouer avec `reactions.py jouer` :
   A026 (Shane, 19/07 23h45), A027 (Kiara, 20/07 14h46), A029 (Julia, 21/07 17h46).
+- (14/10/2026 17:50, Claude Opus 5.5) **P22 à P26 VALIDÉES** par l'utilisateur (« Je valide absolument tout, P22 à P26 ») et
+  installées : tables T21c, T21d, T23, T24a, T24b et M100-M104 (`etat/modele-pouvoir.md`), aléa A33 (`etat/aleas.md`) ;
+  « j'aime » reçus du 17 au 19/07 tirés (Kyla, Janelle, Maxine, Julia : profils nouveaux, `etat/rencontres.csv`, statut
+  `vous_aime`) ; un « j'aime » de William sur l'une d'elles = match immédiat. Après une rencontre en personne avec un profil :
+  `reactions.py rencontre --pour … --quand … --lieu …` (T23). Taxi avec prix fixe demandé : `courses.py accepter|annuler Cnnn`.

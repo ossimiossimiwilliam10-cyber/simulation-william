@@ -56,6 +56,8 @@ appli({
     }
     function decouvrir() {
       const liste = R.profils.filter(p => p.statut === "nouveau" || p.statut === "vu");
+      if (R.likes_recus) main.append(el("p", "note", "♥ " + R.likes_recus + (R.likes_recus > 1 ? " personnes t'ont aimé" : " personne t'a aimé")
+        + " : un « j'aime » en retour fait un match immédiat. Leurs profils sont parmi ceux à découvrir."));
       if (!liste.length) return main.append(vide("Plus personne pour l'instant", "Reviens plus tard : de nouveaux profils arrivent."));
       liste.forEach(p => {
         const enFile = file.some(x => x.includes("id=" + p.id + "]"));
@@ -95,7 +97,8 @@ appli({
       main.replaceChildren();
       const bf = barreFile(); if (bf) main.append(bf);
       if (!R.inscrit) return inscription();
-      ui.titre("Rencontres", "Manille · " + R.profils.filter(p => p.statut === "nouveau" || p.statut === "vu").length + " profils à découvrir");
+      ui.titre("Rencontres", "Manille · " + R.profils.filter(p => p.statut === "nouveau" || p.statut === "vu").length + " profils à découvrir"
+        + (R.likes_recus ? " · ♥ " + R.likes_recus + " j'aime reçu" + (R.likes_recus > 1 ? "s" : "") : ""));
       const tabs = el("div", "onglets-appli");
       [["decouvrir", "Découvrir"], ["aimes", "J'aime"], ["discussions", "Discussions"], ["profil", "Profil"]].forEach(([id, nom]) => {
         const b = el("button", "", nom); b.type = "button"; b.setAttribute("aria-selected", String(onglet === id));

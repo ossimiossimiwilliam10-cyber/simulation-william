@@ -12,6 +12,10 @@ dans la bonne application, à la bonne heure, et clôt la ligne d'agenda.
     python outils/reactions.py delai --pour "Clément Grandjean" --quand "…" --canal whatsapp --resume "répond au refus" [--mod M73]
     python outils/reactions.py jouer A031 --texte "Hi William! …"
     python outils/reactions.py en-attente                                  # réponses programmées, non jouées
+    python outils/reactions.py rencontre --pour "Kiara Reyes" --quand "…" --lieu "…"   # rencontre en personne : consignée, puis T23
+Depuis le 14/10/2026 (P24, validée) : un message de William à un profil dont l'intention cachée tourne autour de l'argent, après au
+moins un jour sans échange, tire aussi T23 (évolution de l'intention : M102 rencontre déjà faite, M103 argent déjà donné, M104
+situation financière mise en avant) ; l'issue s'écrit dans le résumé de la réponse programmée. Même tirage après une rencontre.
 
 `rencontres.py message --auteur william` et `rencontres.py aimer` appellent cet outil d'eux-mêmes (sauf --sans-reaction).
 Les sous-tirages qui appliquent une issue déjà tirée (jour d'une réponse tardive, minute dans une fenêtre libre) sont consignés
@@ -37,6 +41,9 @@ DELAIS = {"immediat": (1, 4), "rapide": (5, 30), "dans_l_heure": (30, 60), "dans
 FROIDS = {"froideur", "evitement", "garde_distance", "ignore", "rancune_silencieuse", "esquive_pro", "agacement_net", "bloque",
           "releve_esquive", "refus_net", "mefiance"}
 ARGENT = {"aide_financiere", "arnaque", "travail_sexuel"}
+RENCONTRES_FAITES = ETAT / "rencontres-en-personne.csv"  # 14/10/2026 : rencontres en personne (M102)
+COL_RF = ["personnage", "date", "heure", "lieu", "note"]
+MOTS_ARGENT = re.compile(r"situation|rich|wealth|money|salary|well[- ]off|financ|argent|riche|salaire|fortune|afford", re.I)
 MARQUE = re.compile(r"\[reaction pour=([\w-]+) canal=(\w+)\]")
 CANAUX = {"rencontres": "application de rencontre", "whatsapp": "WhatsApp", "sms": "SMS"}
 
@@ -121,18 +128,7 @@ def heure_tardive(p, quand):
                         procedure="T21b repond_tard : un ou deux jours plus tard")
     zone = routines.zone_de(p)
     jour = fuseaux.convertir(quand, zone).date() + dt.timedelta(days=1 if r["oui"] else 2)
-    fen = routines.fenetres_libres(p, jour, "08:00", "23:30")
-    rng = random.SystemRandom()
-    if not fen:
-        return routines.prochaine_dispo(p, dt.datetime.combine(jour, dt.time(8, 0), tzinfo=fuseaux.convertir(quand, zone).tzinfo))
-    total = sum((b - a).total_seconds() for a, b in fen)
-    x = rng.uniform(0, total)
-    for a, b in fen:
-        d = (b - a).total_seconds()
-        if x <= d:
-            return (a + dt.timedelta(seconds=x)).replace(second=0, microsecond=0)
-        x -= d
-    return fen[-1][0]
+    return minute_libre(p, jour, "08:00", "23:30")
 
 
 def programmer(p, quand_reponse, canal, resume, note_tirages):
@@ -167,6 +163,71 @@ def fiche_courte(p):
     return " · ".join(morceaux)
 
 
+def minute_libre(p, jour, de="08:00", a="23:30"):
+    """Une minute au hasard dans les heures où le personnage est joignable ce jour-là (heure de son fuseau)."""
+    fen = routines.fenetres_libres(p, jour, de, a)
+    if not fen:
+        zone = routines.zone_de(p)
+        tz = fuseaux.analyser_instant(jour.isoformat(), "08:00", zone).tzinfo
+        return routines.prochaine_dispo(p, dt.datetime.combine(jour, dt.time(8, 0), tzinfo=tz))
+    x = random.SystemRandom().uniform(0, sum((b - a_).total_seconds() for a_, b in fen))
+    for a_, b in fen:
+        d = (b - a_).total_seconds()
+        if x <= d:
+            return (a_ + dt.timedelta(seconds=x)).replace(second=0, microsecond=0)
+        x -= d
+    return fen[-1][0]
+
+
+def _messages_rencontre(p):
+    return [m for m in lire_csv(ETAT / "rencontres-messages.csv") if m["profil"] == p.get("id")]
+
+
+def echange_suivi(p, quand):
+    """Nouvel échange suivi (T23) : la conversation existe et rien ne s'est dit depuis au moins un jour avant ce message."""
+    zone = routines.zone_de(p)
+    local = fuseaux.convertir(quand, zone).replace(tzinfo=None)
+    avant = [dt.datetime.fromisoformat(f"{m['date']} {m['heure']}") for m in _messages_rencontre(p)]
+    avant = [x for x in avant if x < local - dt.timedelta(minutes=1)]
+    return bool(avant) and local - max(avant) >= dt.timedelta(days=1)
+
+
+def mods_t23(p, apres_rencontre=False):
+    mods = []
+    if apres_rencontre or any(r["personnage"] == p["nom"] for r in lire_csv(RENCONTRES_FAITES)):
+        mods.append("M102")
+    import grand_livre as gl
+    if any(float(l["montant"] or 0) < 0 and l["type"] in ("mouvement", "prevu_realise") and (p["nom"] in l["libelle"] or p.get("id", "@") in l["libelle"])
+           for l in gl.lire()):
+        mods.append("M103")
+    if any(m["auteur"] == "william" and MOTS_ARGENT.search(m["texte"]) for m in _messages_rencontre(p)):
+        mods.append("M104")
+    return mods[:3]
+
+
+def tirer_t23(p, libelle, apres_rencontre=False, simule=False):
+    """T23 : évolution de l'intention cachée d'un profil intéressé par l'argent (aide financière, arnaque, travail sexuel)."""
+    mods = mods_t23(p, apres_rencontre)
+    r = jet.tirer("T23", mods, f"{p['nom']} : évolution de son intention ({libelle})", pour=p["nom"], simule=simule)
+    return {"issue": r["issue"], "jet": r["jet"], "mods": mods}
+
+
+def rencontre(nom, quand, lieu, note="", simule=False):
+    """Rencontre en personne avec William : consignée (M102 ensuite), puis T23 si l'intention cachée tourne autour de l'argent."""
+    from commun import ecrire_csv
+    p = routines.personnage(nom)
+    loc = fuseaux.convertir(quand, routines.zone_de(p))
+    res = {"pour": p["nom"], "rencontre": f"{loc:%d/%m %H:%M}"}
+    if not simule:
+        lignes = lire_csv(RENCONTRES_FAITES) + [{"personnage": p["nom"], "date": f"{loc:%Y-%m-%d}", "heure": f"{loc:%H:%M}",
+                                                 "lieu": lieu.replace(";", ","), "note": note.replace(";", ",")}]
+        ecrire_csv(RENCONTRES_FAITES, lignes, COL_RF)
+    if intention(p) in ARGENT:
+        t = tirer_t23(p, f"après la rencontre du {loc:%d/%m} ({lieu[:40]})", apres_rencontre=True, simule=simule)
+        res["T23"] = t
+    return res
+
+
 def message(nom, quand, acte, table="T21b", mods=(), canal="rencontres", simule=False):
     """Réaction d'un profil (ou d'un contact) à un message de William ; renvoie un dict résumé."""
     p = routines.personnage(nom)
@@ -193,6 +254,11 @@ def message(nom, quand, acte, table="T21b", mods=(), canal="rencontres", simule=
                   "horaires de vie (routines.py) et intervalle tiré", pour=p["nom"])
         resume = (f"Réponse de {p['prenom'] if 'prenom' in p else p['nom'].split()[0]} au message de William du {heure_p:%d/%m à %H:%M} "
                   f"(« {acte[:120]} ») · {fiche_courte(p)}")
+        if canal == "rencontres" and intention(p) in ARGENT and echange_suivi(p, quand):  # T23 (P24, validée le 14/10/2026)
+            t23 = tirer_t23(p, f"nouvel échange du {heure_p:%d/%m %H:%M}")
+            resume += f" · évolution de son intention (T23) : {t23['issue']}, à jouer dans cette réponse"
+            note += f" · T23 : {t23['issue']} (jet {t23['jet']:.1f}{', ' + ', '.join(t23['mods']) if t23['mods'] else ''})"
+            res["T23"] = t23["issue"]
         aid, loc = programmer(p, t, canal, resume, note)
         res.update({"agenda": aid, "heure": f"{loc:%d/%m %H:%M} ({zone})"})
     elif r["issue"] == "bloque":
@@ -336,6 +402,12 @@ def main():
     p.add_argument("--texte", required=True)
     p.add_argument("--quand")
     sp.add_parser("en-attente")
+    p = sp.add_parser("rencontre")
+    p.add_argument("--pour", required=True)
+    p.add_argument("--quand", required=True)
+    p.add_argument("--lieu", required=True)
+    p.add_argument("--note", default="")
+    p.add_argument("--simule", action="store_true")
     args = ap.parse_args()
     if args.cmd == "message":
         print(json.dumps(message(args.pour, quand_arg(args.quand), args.acte, args.table, args.mod, args.canal, args.simule), ensure_ascii=False))
@@ -345,6 +417,8 @@ def main():
         print(json.dumps(delai(args.pour, quand_arg(args.quand), args.canal, args.resume, args.mod, not args.sans_agenda), ensure_ascii=False))
     elif args.cmd == "jouer":
         print(jouer(args.id, args.texte, args.quand))
+    elif args.cmd == "rencontre":
+        print(json.dumps(rencontre(args.pour, quand_arg(args.quand), args.lieu, args.note, args.simule), ensure_ascii=False))
     else:
         for l in en_attente():
             print(l)

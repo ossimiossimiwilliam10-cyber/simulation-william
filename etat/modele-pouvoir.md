@@ -6,6 +6,8 @@
 > Les §4 et §7 décrivent l'univers 1 : historiques, sans effet dans l'univers 2. Les pourcentages de T12 à T14 (installés le
 > 09/08/2040 sur « applique tout cela ») sont **validés par l'utilisateur à la revue du lundi n° 1** (« Je valide absolument tout »,
 > 12/10/2026 ; date simulée : lundi 16/07/2040). Le même jour : T15 à T19, T21a et T21b installées (propositions P01, P04, P16).
+> **14/10/2026** : T21c, T21d, T23, T24a et T24b et les modificateurs M100 à M104 installés, validés par l'utilisateur (« Je valide
+> absolument tout, P22 à P26 » ; `memoire/propositions-2026-10-14.md`, P23 à P26).
 
 > **Source unique** des probabilités de réaction des personnages aux actes de William. Lue par `outils/jet.py` (`--table Tn`),
 > validée par `outils/controle_coherence.py`, auditée par `outils/audit_jets.py`.
@@ -390,6 +392,43 @@ Règles de rôle, sans tirage ; l'argent et le statut de William ne les achèten
 | un_segment | 35 | Le front avance d'un segment (`fronts.py avancer`). |
 | deux_segments | 10 | Le front avance de deux segments. |
 
+### T21c — « J'aime » spontanés reçus par William sur l'application de rencontre, chaque jour où il est inscrit (validée par l'utilisateur le 14/10/2026, P23)
+| Issue | % | En scène |
+|---|---|---|
+| aucun | 45 | Rien de nouveau. |
+| un | 35 | Un profil de la ville l'a aimé (pris parmi les profils qu'il n'a pas encore vus ; heure selon les horaires de vie du profil). |
+| deux | 15 | Deux profils. |
+| trois_ou_plus | 5 | Trois profils. |
+
+### T21d — Match resté sans aucun échange depuis 7 jours, chaque semaine (validée par l'utilisateur le 14/10/2026, P25 ; toujours --pour)
+| Issue | % | En scène |
+|---|---|---|
+| reste | 70 | Le match reste dans la liste. |
+| retire | 25 | Elle retire le match : le profil et la discussion disparaissent. |
+| bloque | 5 | Elle le bloque. |
+
+### T23 — Évolution d'une intention cachée (profil « aide financière », « arnaque » ou « travail sexuel ») à chaque nouvel échange suivi (message de William après au moins un jour sans parler) et après chaque rencontre en personne (validée par l'utilisateur le 14/10/2026, P24 ; toujours --pour)
+| Issue | % | En scène |
+|---|---|---|
+| rien_encore | 55 | La conversation reste ordinaire. |
+| allusion | 20 | Un souci d'argent évoqué sans demande (loyer, enfant malade, téléphone cassé, frais de transport). |
+| demande_directe | 15 | Une somme précise, un envoi par GCash ou par une agence de transfert. |
+| proposition | 7 | Un arrangement proposé (« allowance » mensuelle ; rendez-vous tarifé si « travail sexuel »). |
+| disparition | 3 | « Arnaque » : profil supprimé ou silence après un paiement ou une demande refusée ; autre intention : elle se retire. |
+
+### T24a — Chauffeur de taxi au compteur à Manille, à chaque course (aléa A33, validée par l'utilisateur le 14/10/2026, P26)
+| Issue | % | En scène |
+|---|---|---|
+| compteur | 70 | Le compteur tourne normalement. |
+| prix_fixe | 20 | Il refuse le compteur et annonce un prix fixe au départ (« 500 pesos, sir, traffic ») : William accepte ou non. |
+| detour | 10 | Détour ou compteur « rapide » : la course coûte et dure plus que prévu. |
+
+### T24b — Chauffeur VTC (Grab) à Manille, à chaque course (aléa A33, validée par l'utilisateur le 14/10/2026, P26)
+| Issue | % | En scène |
+|---|---|---|
+| arrive | 90 | Le chauffeur arrive. |
+| annule | 10 | Il annule avant d'arriver : nouvelle attente, prix recalculé. |
+
 ### Modificateurs (liste fermée ; 3 au maximum par tirage ; chacun déplace des points d'une issue vers une autre)
 | Code | Tables | Effet | Quand l'appliquer |
 |---|---|---|---|
@@ -462,6 +501,11 @@ Règles de rôle, sans tirage ; l'argent et le statut de William ne les achèten
 | M46 | T21b | repond +15 ; ignore -15 | Intention cachée du profil : aide_financiere, travail_sexuel ou arnaque (validé le 12/10/2026) |
 | M47 | T21b | bloque +15 ; ignore +10 ; repond -25 | Message à caractère sexuel ou proposition d'argent d'emblée, hors intention travail_sexuel (validé le 12/10/2026) |
 | M48 | T21a | match +5 ; aucune_reponse -5 | Profil de William remarqué (1,96 m, sportif, Européen) (validé le 12/10/2026) |
+| M100 | T21c | un +10 ; deux +5 ; aucun -15 | Abonnement payant ou mode voyage actif (validé le 14/10/2026) |
+| M101 | T21c | un +8 ; deux +4 ; aucun -12 | Profil d'un étranger aisé dans une ville d'Asie du Sud-Est : intérêt sincère ou calculé (validé le 14/10/2026) |
+| M102 | T23 | demande_directe +10 ; rien_encore -10 | Rencontre en personne déjà faite (validé le 14/10/2026) |
+| M103 | T23 | demande_directe +15 ; rien_encore -15 | William a déjà donné de l'argent à cette personne (validé le 14/10/2026) |
+| M104 | T23 | allusion +5 ; rien_encore -5 | William a mis en avant sa situation financière (validé le 14/10/2026) |
 
 ## 6. William n'est pas un dieu (symétrie)
 1. **Ses manœuvres sur autrui sont tirées** (T7) ; aucune réussite automatique, même quand sa position est forte ; le « succès net » est plafonné.

@@ -348,8 +348,12 @@ def avancer(jusqua, simule=False):
         lundi = jour - dt.timedelta(days=jour.weekday())
         if lundi.isoformat() not in semaines:
             sortie += [f"[semaine du {lundi:%d/%m}] {x}" for x in semaine(lundi, simule)]
+            import rencontres  # T21d (P25, validée le 14/10/2026) : matchs sans échange depuis 7 jours
+            sortie += [f"[semaine du {lundi:%d/%m}] rencontres : {x}" for x in rencontres.menage(lundi, simule)]
             semaines.add(lundi.isoformat())
         sortie += [f"[{jour:%d/%m}] {x}" for x in jour_(jour, simule)]
+        import rencontres  # T21c (P23, validée le 14/10/2026) : « j'aime » reçus par William ce jour-là
+        sortie += [f"[{jour:%d/%m}] rencontres : {x}" for x in rencontres.likes_recus(jour, simule)]
         e["dernier_jour"] = jour.isoformat()
         jour += dt.timedelta(days=1)
     e["semaines"] = sorted(semaines)

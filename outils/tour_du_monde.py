@@ -38,7 +38,7 @@ def lire_fiches():
             personnages.append(courant)
         elif courant and (m := LIGNE_MODS.search(ligne)):
             table, reste = m.group(1), m.group(2).strip()
-            codes = re.findall(r"M\d{2}", reste)
+            codes = re.findall(r"M\d{2,3}", reste)
             if table == "14":
                 courant["T14"] = None if reste.startswith("—") else codes
             else:

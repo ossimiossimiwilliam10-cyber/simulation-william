@@ -42,10 +42,10 @@ JOURNAL = RACINE / "memoire" / "tirages-aleas.md"
 JOURNAL_JSON = RACINE / "memoire" / "tirages.jsonl"
 SIMULATIONS_JSON = RACINE / "memoire" / "simulations.jsonl"
 PERSONNAGES_CSV = RACINE / "etat" / "personnages.csv"
-TABLES_INTERDITES_MINEURS = ("T1", "T1b", "T9", "T17", "T20a", "T20b", "T21a", "T21b")
+TABLES_INTERDITES_MINEURS = ("T1", "T1b", "T9", "T17", "T20a", "T20b", "T21a", "T21b", "T21d", "T23")
 # T20a et T20b (12/10/2026) : la personne doit être nommée (--pour), inscrite, avec sa date de naissance, et majeure
 # T17, T21a et T21b (12/10/2026, revue n° 1) : même garde (rencontre adulte, application de rencontre)
-TABLES_ADULTE_VERIFIE = ("T17", "T20a", "T20b", "T21a", "T21b")
+TABLES_ADULTE_VERIFIE = ("T17", "T20a", "T20b", "T21a", "T21b", "T21d", "T23")  # T21d et T23 : 14/10/2026
 for flux in (sys.stdout, sys.stderr):
     if hasattr(flux, 'reconfigure'):
         flux.reconfigure(encoding='utf-8')
@@ -120,7 +120,7 @@ def charger(md=TABLES_MD):
         if courant and len(cases) >= 2 and re.fullmatch(r"[a-z_0-9]+", cases[0]) \
                 and re.fullmatch(r"\d+(?:[.,]\d+)?", cases[1]):
             tables[courant]["issues"].append((cases[0], float(cases[1].replace(",", ".")), cases[2] if len(cases) > 2 else ""))
-        elif section_modif and len(cases) >= 4 and re.fullmatch(r"M\d{2}", cases[0]):
+        elif section_modif and len(cases) >= 4 and re.fullmatch(r"M\d{2,3}", cases[0]):  # M100 et plus depuis le 14/10/2026
             effet = []
             for morceau in cases[2].split(";"):
                 e = EFFET.fullmatch(morceau)

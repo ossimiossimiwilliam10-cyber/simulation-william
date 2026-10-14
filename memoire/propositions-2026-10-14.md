@@ -1,4 +1,12 @@
-# Propositions du 14/10/2026 (à valider par l'utilisateur)
+# Propositions du 14/10/2026 — VALIDÉES par l'utilisateur le 14/10/2026
+
+> **Décision de l'utilisateur (14/10/2026, date réelle ; avant le tour n° 29)** : « Je valide absolument tout, P22 à P26. »
+> Installé le même jour : P22 (rythme définitif) ; P23 table T21c (M100, M101), P24 table T23 (M102 à M104), P25 table T21d
+> (`etat/modele-pouvoir.md`) ; P26 aléa A33 (`etat/aleas.md`), tiré dans les tables T24a et T24b par `courses.py`. Mise en
+> œuvre : `rencontres.py likes-recus`, `pile`, `menage` (lancés par `monde_vivant.py`) ; `reactions.py message` et `rencontre`
+> (T23) ; `courses.py commander`, `accepter`, `annuler` (A33). Précision d'application : le « trois_ou_plus » de T21c donne trois
+> profils ; la pile « à découvrir » est tenue à 12 profils jamais vus, pour que ceux qui ont aimé William y restent minoritaires.
+> Rattrapage : « j'aime » reçus tirés pour les 17, 18 et 19/07 (William inscrit depuis le 17/07, abonnement Plus).
 
 > Contexte : demande de l'utilisateur du 14/10/2026 (date réelle), avant le tour n° 29 : rendre l'univers « le plus vivant et
 > réaliste que possible », « indépendant », « pas moral, réaliste », et une simulation « surtout informatique, avec un contrôle de

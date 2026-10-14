@@ -58,4 +58,5 @@
 | A29 | Contrôle routier ou radar | 3 % | actif | Seulement un jour où William conduit |
 | A30 | Occasion inattendue (proposition de cours particuliers, invitation, bon plan) | 8 % | actif | Nouvelle piste ; rien n'est acquis |
 | A31 | Diarrhée du voyageur ou intoxication alimentaire (à l'étranger) | 12 % | actif | Seulement les jours à l'étranger ; 14 % la première semaine, 10 % ensuite (cohorte de voyageurs en Thaïlande : 14 % à 7 jours, 23,5 % à 14 jours, 33 % à 28 jours) ; 1 à 3 jours diminué |
+| A33 | Course en taxi ou en VTC à Manille : compteur refusé et prix fixe, détour ; chauffeur VTC qui annule | à chaque course, pas par semaine | par course | Validé par l'utilisateur le 14/10/2026 (P26) : taxi au compteur 70 % compteur, 20 % prix fixe demandé, 10 % détour (table T24a) ; VTC 90 % arrive, 10 % annule (table T24b) ; tiré par `courses.py commander`, jamais par `tirage_aleas.py` |
 | A32 | Dengue (à l'étranger, zone d'endémie) | 0,2 % | actif | Seulement les jours à Manille ; ≈ 0,2 % par semaine en saison de transmission (modèle pour la Thaïlande : 0,2 % pour 7 jours, 0,81 % pour 30 jours) ; fièvre 4 à 10 jours après la piqûre |

@@ -26,7 +26,7 @@ import sys
 from commun import ETAT, OUTILS, RACINE, SORTIES, JOURS, MOIS, ecrire_texte, lire_csv, lire_texte, maintenant_simule, utf8
 
 sys.path.insert(0, str(OUTILS))
-INTERDITS = re.compile(r"\btirage|\bjet\b|\bjets\b|\bT\d{1,2}[a-d]?\b|\bM\d{2}\b|non connu|NON CONNU|moteur|dérogation|projection|"
+INTERDITS = re.compile(r"\btirage|\bjet\b|\bjets\b|\bT\d{1,2}[a-d]?\b|\bM\d{2,3}\b|non connu|NON CONNU|moteur|dérogation|projection|"
                        r"modificateur|connu=non|\bE\d{3}-\d{8}\b|fait caché|secret_", re.I)
 COMPTES_VISIBLES = {"courant": "Compte courant", "projet": "Compte épargne"}  # avant : « Épargne « Projet » » (renommé le 14/07/2040)
 WEB = OUTILS / "telephone_web"

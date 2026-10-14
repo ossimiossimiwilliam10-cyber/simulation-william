@@ -7,7 +7,11 @@ attente se déduisent du lieu, de l'heure (créneau de 15 minutes), du jour et d
     python outils/courses.py installer [--quand …]                        # l'application Grab (décision du joueur)
     python outils/courses.py carte --carte visa_debit [--quand …]         # carte enregistrée dans l'application
     python outils/courses.py commander --service grab_car --de naia_t3 --vers city_garden [--paiement especes|carte] [--quand …] [--simule]
+    python outils/courses.py accepter C003 [--quand …] | annuler C003       # prix fixe demandé par un chauffeur (aléa A33)
     python outils/courses.py lieux | ici | verifier
+ALÉA A33 (validé par l'utilisateur le 14/10/2026) : à chaque course, le chauffeur est tiré (T24a pour un taxi au compteur :
+compteur 70 %, prix fixe demandé 20 %, détour 10 % ; T24b pour un VTC : arrive 90 %, annule 10 %) ; un prix fixe attend la décision
+de William (accepter ou annuler) ; l'application du téléphone montre les prix ordinaires, jamais l'aléa.
 
 RÈGLES : un VTC exige l'application installée (et une carte enregistrée pour payer par carte) ; un taxi se paie en espèces. Taxi à
 coupon : payé d'avance au comptoir (refusé sans assez d'espèces). Compteur ou VTC payé en espèces : le paiement se fait à l'arrivée ;
@@ -19,6 +23,7 @@ import argparse
 import datetime as dt
 import hashlib
 import math
+import random
 import sys
 
 from commun import DONNEES, ETAT, OUTILS, analyser_instant_naif, ecrire_csv, lire_csv, maintenant_simule, utf8
@@ -218,9 +223,39 @@ def enregistrer_carte(carte, quand):
     return f"Carte enregistrée dans Grab : {carte}."
 
 
-def commander(ident, de, vers, quand, paiement="especes", simule=False):
-    """Commande ou prend une course ; renvoie (ok, message, course)."""
+def _journal_ajouter(course):
+    journal = lire_csv(JOURNAL)
+    journal.append(course)
+    ecrire_csv(JOURNAL, journal, COL_JOURNAL)
+
+
+def _procedure(libelle, valeur):
+    import jet
+    jet.consigner_json({"mode": "procedure", "libelle": libelle, "valeur": valeur, "regle": "courses.py (aléa A33)"})
+
+
+def _payer(course, t, L, carte, simule):
+    """Paiement à l'arrivée : par la carte enregistrée dans Grab, ou en espèces. Met à jour le statut ; renvoie le message."""
     import devises
+    arrivee = dt.datetime.fromisoformat(course["arrivee"])
+    prix = float(course["prix"])
+    if course["paiement"] == "carte":
+        ok, x = devises.payer(carte, prix, course["devise"], f"Grab : {L[course['de']]['nom'][:30]} → {L[course['vers']]['nom'][:30]}",
+                              arrivee, reference=course["id"], simule=simule)
+        course["statut"] = "payee" if ok else "carte_refusee"
+        course["note"] = (course["note"] + " · " if course["note"] else "") + x["note"]
+        return "carte : " + ("débit de " + devises.eur(x["total_eur"]) if ok else "REFUSÉE (" + x["operation"]["note"] + ")")
+    ok, m = devises.depenser(prix, course["devise"], f"{t['nom']} ({L[course['vers']]['nom'][:40]})", arrivee, simule=simule)
+    course["statut"] = "payee" if ok else "impayee"
+    course["note"] = (course["note"] + " · " if course["note"] else "") + m
+    return "espèces : " + m + ("" if ok else " (IMPAYÉE à l'arrivée : scène à jouer)")
+
+
+def commander(ident, de, vers, quand, paiement="especes", simule=False):
+    """Commande ou prend une course ; renvoie (ok, message, course). Aléa A33 (validé le 14/10/2026) : T24a pour un taxi au
+    compteur (compteur, prix fixe demandé, détour), T24b pour un VTC (arrive, annule) ; le taxi à coupon n'a pas d'aléa."""
+    import devises
+    import jet
     L = lieux()
     t = tarif(ident)
     c = compte()
@@ -234,30 +269,83 @@ def commander(ident, de, vers, quand, paiement="especes", simule=False):
     e = estimer(ident, de, vers, quand, L)
     if e is None:
         return False, f"{t['nom']} : pas de départ depuis {L[de]['nom']}.", None
-    journal = lire_csv(JOURNAL)
-    course = {"id": f"C{len(journal) + 1:03d}", "demande": f"{quand:%Y-%m-%d %H:%M}", "service": ident, "de": de, "vers": vers,
+    rng = random.SystemRandom()
+    course = {"id": f"C{len(lire_csv(JOURNAL)) + 1:03d}", "demande": f"{quand:%Y-%m-%d %H:%M}", "service": ident, "de": de, "vers": vers,
               "km": e["km"], "minutes": e["minutes"], "attente": e["attente"], "prix": e["prix"], "devise": e["devise"],
               "paiement": "carte" if paiement == "carte" else "especes", "statut": "", "arrivee": e["arrivee"], "note": ""}
-    arrivee = dt.datetime.fromisoformat(e["arrivee"])
-    msg = f"{t['nom']} : {e['km']} km, {e['minutes']} min de trajet après {e['attente']} min d'attente ; {e['prix']} {e['devise']}"
-    if paiement == "carte":
-        ok, x = devises.payer(c["carte"], e["prix"], e["devise"], f"Grab : {L[de]['nom'][:30]} → {L[vers]['nom'][:30]}", arrivee,
-                              reference=course["id"], simule=simule)
-        course["statut"] = "payee" if ok else "carte_refusee"
-        course["note"] = x["note"]
-        msg += f" ; carte : {'débit de ' + devises.eur(x['total_eur']) if ok else 'REFUSÉE (' + x['operation']['note'] + ')'}"
-    else:
-        moment = quand if t["forfaits"] else arrivee  # coupon : payé d'avance au comptoir
-        ok, m = devises.depenser(e["prix"], e["devise"], f"{t['nom']} ({L[vers]['nom'][:40]})", moment, simule=simule)
-        if not ok and t["forfaits"]:
+    trajet = f"de {L[de]['nom'][:40]} à {L[vers]['nom'][:40]}, {quand:%d/%m %H:%M}"
+    if t["type"] == "vtc":
+        r = jet.tirer("T24b", [], f"Chauffeur Grab ({trajet})", simule=simule, texte=False)
+        course["note"] = f"T24b : {r['issue']} (jet {r['jet']:.1f})"
+        if r["issue"] == "annule":
+            apres = rng.randint(2, max(3, e["attente"]))
+            e2 = estimer(ident, de, vers, quand + dt.timedelta(minutes=apres), L)
+            course.update(attente=apres + e2["attente"], minutes=e2["minutes"], prix=e2["prix"], arrivee=e2["arrivee"])
+            course["note"] += f" · le premier chauffeur annule après {apres} min ; un autre accepte (prix recalculé : {e2['prix']} {e2['devise']})"
+            if not simule:
+                _procedure(f"Course {course['id']} : annulation du premier chauffeur", f"après {apres} min")
+    elif not t["forfaits"]:
+        r = jet.tirer("T24a", [], f"Chauffeur de taxi ({t['nom']}, {trajet})", simule=simule, texte=False)
+        course["note"] = f"T24a : {r['issue']} (jet {r['jet']:.1f})"
+        if r["issue"] == "prix_fixe":
+            propose = max(int(round(e["prix"] * rng.uniform(1.6, 2.2) / 50.0)) * 50, int(e["prix"]) + 50)
+            course.update(prix=propose, statut="prix_fixe_propose")
+            course["note"] += f" · refuse le compteur et annonce {propose} {e['devise']} (compteur estimé : {e['prix']})"
+            if not simule:
+                _journal_ajouter(course)
+                _procedure(f"Course {course['id']} : prix fixe demandé", f"{propose} {e['devise']}")
+            return True, (f"PRIX FIXE DEMANDÉ : le chauffeur refuse le compteur et annonce {propose} {e['devise']} (compteur ≈ {e['prix']}) ; "
+                          f"William décide : courses.py accepter {course['id']} ou courses.py annuler {course['id']}"), course
+        if r["issue"] == "detour":
+            fp, fd = rng.uniform(1.25, 1.5), rng.uniform(1.2, 1.4)
+            minutes = round(e["minutes"] * fd)
+            depart = dt.datetime.fromisoformat(e["depart"])
+            course.update(prix=round(e["prix"] * fp), minutes=minutes, arrivee=f"{depart + dt.timedelta(minutes=minutes):%Y-%m-%d %H:%M}")
+            course["note"] += f" · détour ou compteur rapide : {course['prix']} {e['devise']} au lieu d'environ {e['prix']}, {minutes} min"
+            if not simule:
+                _procedure(f"Course {course['id']} : détour", f"prix × {fp:.2f}, durée × {fd:.2f}")
+    if t["forfaits"]:  # taxi à coupon : payé d'avance au comptoir
+        ok, m = devises.depenser(e["prix"], e["devise"], f"{t['nom']} ({L[vers]['nom'][:40]})", quand, simule=simule)
+        if not ok:
             return False, f"Comptoir des taxis à coupon : {m}", None
-        course["statut"] = "payee" if ok else "impayee"
-        course["note"] = m
-        msg += f" ; espèces : {m}"
+        course["statut"], course["note"] = "payee", m
+        msg_p = "espèces : " + m
+    else:
+        msg_p = _payer(course, t, L, c.get("carte"), simule)
     if not simule:
-        journal.append(course)
+        _journal_ajouter(course)
+    arr = dt.datetime.fromisoformat(course["arrivee"])
+    return True, (f"{t['nom']} : {course['km']} km, {course['minutes']} min de trajet après {course['attente']} min d'attente ; "
+                  f"{course['prix']} {course['devise']} ; {msg_p} ; arrivée prévue à {arr:%H:%M} [{course['note']}]"), course
+
+
+def accepter(cid, quand, simule=False):
+    """William accepte le prix fixe demandé par le chauffeur : le taxi part maintenant ; paiement en espèces à l'arrivée."""
+    journal = lire_csv(JOURNAL)
+    course = next((x for x in journal if x["id"] == cid), None)
+    if course is None or course["statut"] != "prix_fixe_propose":
+        return False, f"{cid} : aucune course en attente d'un accord sur le prix"
+    L = lieux()
+    t = tarif(course["service"])
+    arrivee = quand + dt.timedelta(minutes=int(course["minutes"]))
+    course["arrivee"] = f"{arrivee:%Y-%m-%d %H:%M}"
+    course["note"] += f" · prix fixe accepté à {quand:%H:%M}"
+    msg = _payer(course, t, L, None, simule)
+    if not simule:
         ecrire_csv(JOURNAL, journal, COL_JOURNAL)
-    return True, msg + f" ; arrivée prévue à {arrivee:%H:%M}", course
+    return True, f"{course['prix']} {course['devise']} convenus ; arrivée prévue à {arrivee:%H:%M} ; {msg}"
+
+
+def annuler(cid, quand, simule=False):
+    journal = lire_csv(JOURNAL)
+    course = next((x for x in journal if x["id"] == cid), None)
+    if course is None or course["statut"] not in ("prix_fixe_propose", ""):
+        return False, f"{cid} : rien à annuler"
+    course["statut"] = "annulee"
+    course["note"] += f" · William refuse à {quand:%H:%M}"
+    if not simule:
+        ecrire_csv(JOURNAL, journal, COL_JOURNAL)
+    return True, f"{cid} annulée (William ne monte pas)"
 
 
 def donnees_telephone(t=None):
@@ -323,6 +411,11 @@ def main():
     s.add_argument("--paiement", default="especes", choices=["especes", "carte"])
     s.add_argument("--quand")
     s.add_argument("--simule", action="store_true")
+    for nom in ("accepter", "annuler"):
+        s = sub.add_parser(nom)
+        s.add_argument("course")
+        s.add_argument("--quand")
+        s.add_argument("--simule", action="store_true")
     sub.add_parser("lieux")
     sub.add_parser("ici")
     sub.add_parser("verifier")
@@ -339,6 +432,10 @@ def main():
         print(enregistrer_carte(a.carte, quand))
     elif a.cmd == "commander":
         ok, msg, _ = commander(a.service, a.de, a.vers, quand, a.paiement, a.simule)
+        print(("OK" if ok else "REFUSÉ") + f" : {msg}" + (" (essai : rien d'écrit)" if a.simule else ""))
+        return 0 if ok else 1
+    elif a.cmd in ("accepter", "annuler"):
+        ok, msg = (accepter if a.cmd == "accepter" else annuler)(a.course, quand, a.simule)
         print(("OK" if ok else "REFUSÉ") + f" : {msg}" + (" (essai : rien d'écrit)" if a.simule else ""))
         return 0 if ok else 1
     elif a.cmd == "lieux":

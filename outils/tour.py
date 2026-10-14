@@ -200,7 +200,7 @@ def cmd_fin(args):
     try:
         import monde_vivant
         vie = monde_vivant.avancer(apres["instant"].date())
-        notables = [x for x in vie if "initiative" in x]
+        notables = [x for x in vie if "initiative" in x or "aime le profil" in x or "T21d" in x or "inscrite" in x]
         if vie:
             print(f"  monde vivant : {len(vie)} événement(s) de vie tiré(s)" + (" ; " + " ; ".join(notables) if notables else ""))
     except SystemExit as exc:

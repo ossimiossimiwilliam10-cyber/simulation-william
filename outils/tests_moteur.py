@@ -246,6 +246,22 @@ def main():
     e.lancer(o + "etiquettes.py", "--simule", "--texte", "[portefeuille: retirer carte=visa_debit montant=10000 distributeur=bdo_naia3] "
              "[courses: commander service=taxi_coupon de=naia_t3 vers=city_garden paiement=especes]", contient="courses.py",
              nom="étiquettes : Portefeuille et Courses")
+
+    print("\n[P22 à P26, validées le 14/10/2026 : « j'aime » reçus, intentions, matchs, chauffeurs]")
+    e.lancer(o + "jet.py", "--table", "T21c", "--mod", "M100", "--mod", "M101", "essai", "--simule", contient="Tirage [T21c]",
+             nom="jet : T21c et modificateurs à trois chiffres (M100, M101)")
+    e.lancer(o + "jet.py", "--table", "T23", "--pour", "Kiara Reyes", "essai", "--simule", contient="Tirage [T23]",
+             nom="jet : T23 pour une adulte")
+    e.lancer(o + "jet.py", "--table", "T23", "--pour", mineur, "essai sur un mineur", attendu=1, contient="REFUSÉ",
+             nom="garde : T23 refusée pour un mineur")
+    e.lancer(o + "rencontres.py", "likes-recus", "--jour", "2040-07-20", "--simule", contient="T21c",
+             nom="rencontres : « j'aime » reçus (T21c)")
+    e.lancer(o + "rencontres.py", "menage", "--lundi", "2040-07-23", "--simule", nom="rencontres : ménage des matchs (T21d)")
+    e.lancer(o + "reactions.py", "rencontre", "--pour", "Kiara Reyes", "--quand", "2040-07-21 15:00", "--lieu", "essai", "--simule",
+             contient="T23", nom="réactions : rencontre en personne, puis T23")
+    e.lancer(o + "courses.py", "commander", "--service", "taxi_blanc", "--de", "naia_t3", "--vers", "city_garden",
+             "--quand", "2040-07-19 23:50", "--simule", contient="T24a", nom="courses : chauffeur de taxi tiré (aléa A33, T24a)")
+    e.lancer(o + "courses.py", "annuler", "C999", attendu=1, contient="rien à annuler", nom="courses : annulation sans course")
     e.lancer(o + "controle_coherence.py", contient="RÉSULTAT")
 
     print(f"\n{e.ok} essai(s) réussi(s), {len(e.echecs)} échec(s).")
