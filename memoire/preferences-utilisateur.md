@@ -100,8 +100,11 @@
   (vie des personnages, réponses à l'heure de leur routine, actualités, météo, typhons, change, prix des courses) ; le moteur
   interprète et écrit ; toute tâche répétitive devient un outil (outils/LISEZMOI.md, « tour économe »).
 
+- **Modèle financier Solo et Entrepreneuriat (Luxembourg)** (21/10/2026) : en mathématiques, William est célibataire sans enfant (Classe U). Il assume 3 leçons supplémentaires hebdomadaires dès sa titularisation à 28 ans (25 leçons au total, décharges d'âge converties). Formule d'allocation : socle vital fixe 2 000 €/mois, budget vacances 833 €/mois (10 000 €/an), sécurité liquide 10 % de l'excédent net total après socle vital, et solde versé en ETF Monde (~90 % du surplus net). À 35 ans : net lissé de 8 980 € (698 € sécurité, 5 449 € ETF). Entrepreneuriat (Statut général, art. 14) : activité accessoire autorisée par le MENJE (EdTech, logiciel, édition) ou associé non-gérant d'une société de capitaux ; fenêtre optimale à 30-32 ans, bascule possible à 36-38 ans (temps partiel ou congé sans traitement). Toujours utiliser `python outils/carriere.py` (`etat/carriere.md`).
+
 ## Grandes décisions hors fiction (historique)
 - 25/07/2040 (simulé) : il a envisagé d'arrêter, puis a décidé de continuer avec tous les paramètres.
 - 11/10/2026 (réel) : redémarrage complet (univers 2) à 35 ans, argent initial, paramètres repris ; départ d'abord fixé au mardi
   17/07/2040, puis (même soir, après avoir évoqué le 1er juin) au **premier vrai jour de vacances : samedi 14/07/2040** ; demande
   d'un relais 100 % fluide entre agents et d'une simulation plus réaliste (base de données, outils, « apps »).
+- 21/10/2026 (réel) : validation de la maquette financière intégrale Solo sans enfant (Classe U, 410-625 pts, 8 980 € net à 35 ans) et du cadre d'entrepreneuriat à distance (art. 14) pour l'Univers 3.

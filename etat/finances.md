@@ -90,10 +90,20 @@ et 744 796,87 €, capital restant dû calculé par le tableau d'amortissement d
   un dimanche) : n° 72, capital 605,31 €, intérêts 320,84 €.
 - Dernière échéance le 05/10/2052 ; intérêts restant à payer ≈ 25 242 €.
 
-## Règle de répartition du surplus mensuel (habitude de William)
-45 % ETF / 45 % compte épargne / 10 % plaisir, par **ordres permanents** (précisé par l'utilisateur le 11/10/2026) : 2 850 € +
-2 850 € le 2 du mois (E012, E014 ; montants estimés par le moteur sur un surplus d'environ 6 335 €, modifiables par William).
-*(Avant : « ordre permanent ou geste manuel : non fixé » → maintenant : automatique, 12/10/2026.)*
+## Règle de répartition du surplus mensuel (Maquette Solo sans enfant, validée le 21/10/2026)
+Remplaçant l'ancien ratio 45/45/10 de l'univers 2 et intégrant la maquette célibataire sans enfant (Classe U) :
+- **Socle vital** : 2 000 € / mois (dépenses courantes fixes, logement, charges, transport).
+- **Budget vacances** : plafonné à 833 € / mois (10 000 € / an).
+- **Sécurité Liquide (10 %)** : 10 % de l'excédent net total après socle vital (`(Net − 2 000 €) × 10 %`).
+- **ETF Monde (Solde)** : Tout le reste de l'excédent (`Net − Socle − Vacances − Sécurité`), soit ~90 % du surplus net disponible.
+- **À 35 ans** (traitement net lissé de **8 980 €**) :
+  - Socle vital : 2 000 €
+  - Vacances : 833 €
+  - Sécurité liquide : **698 € / mois** (E012)
+  - ETF Monde : **5 449 € / mois** (E014)
+  - Total épargne : **6 147 € / mois**
+- Calculs automatisés via `python outils/carriere.py repartition --net <montant>` et `python outils/carriere.py soldes --age <age>`.
+- Voir `etat/carriere.md` pour le tableau complet 26-65 ans, la stratégie d'entrepreneuriat (art. 14) et la projection patrimoniale.
 
 ## Faits utiles (base des faits, `donnees/faits.csv`)
 - Garantie des dépôts (FGDL) : 100 000 € par déposant et par banque (F022) ; au départ, ≈ 366 800 € à la Spuerkeess.
