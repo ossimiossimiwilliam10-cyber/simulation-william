@@ -2275,3 +2275,7 @@ Effets à jouer : A07 (vendredi 20/07 (matin)) : Retard d'un virement, d'un envo
 - Tirage [T21b] « Hye-won apprend que William n'a jamais voyagé en Asie et envisage de venir en Corée avec elle comme guide » : repond 50 / repond_tard 20 / ignore 22 / bloque 8 ; modificateurs : aucun ; jet  24.2 → **repond** (enregistré le 21/10/2026 21:07 heure machine)
 
 - Tirage [T10] « Délai de réponse de Hye-won sur WhatsApp » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  72.9 → **dans_la_journee** (enregistré le 21/10/2026 21:07 heure machine)
+
+- Tirage [T21b] « Hye-won reçoit les critères de William (6 semaines, max 3000 euros logement, quartier chill) » : repond 50 / repond_tard 20 / ignore 22 / bloque 8 ; modificateurs : aucun ; jet  37.1 → **repond** (enregistré le 21/10/2026 21:29 heure machine)
+
+- Tirage [T10] « Délai de réponse de Hye-won sur les propositions de logement » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  59.3 → **dans_la_journee** (enregistré le 21/10/2026 21:29 heure machine)
