@@ -1,0 +1,33 @@
+id;nom;entree_par;effet;debut;fin;signal;pluie_jour_min;pluie_jour_max;note
+TC01;Amuyao;;passee;;;;;;tempête de 2040 antérieure au 24/07 (nombre tiré : 10)
+TC02;Butchoy;;passee;;;;;;tempête de 2040 antérieure au 24/07 (nombre tiré : 10)
+TC03;Carina;;passee;;;;;;tempête de 2040 antérieure au 24/07 (nombre tiré : 10)
+TC04;Dindo;;passee;;;;;;tempête de 2040 antérieure au 24/07 (nombre tiré : 10)
+TC05;Edring;;passee;;;;;;tempête de 2040 antérieure au 24/07 (nombre tiré : 10)
+TC06;Ferdie;;passee;;;;;;tempête de 2040 antérieure au 24/07 (nombre tiré : 10)
+TC07;Gener;;passee;;;;;;tempête de 2040 antérieure au 24/07 (nombre tiré : 10)
+TC08;Helen;;passee;;;;;;tempête de 2040 antérieure au 24/07 (nombre tiré : 10)
+TC09;Igme;;passee;;;;;;tempête de 2040 antérieure au 24/07 (nombre tiré : 10)
+TC10;Josefa;;passee;;;;;;tempête de 2040 antérieure au 24/07 (nombre tiré : 10)
+TC11;Kidul;2040-07-25;aucun;;;;;;
+TC12;Lekep;2040-08-08;aucun;;;;;;
+TC13;Marce;2040-08-18;habagat;2040-08-19;2040-08-21;;40;150;
+TC14;Nanolay;2040-08-18;habagat;2040-08-20;2040-08-21;;40;150;
+TC15;Onos;2040-08-24;aucun;;;;;;
+TC16;Puwok;2040-09-01;aucun;;;;;;
+TC17;Querubin;2040-09-05;aucun;;;;;;
+TC18;Romina;2040-09-08;aucun;;;;;;
+TC19;Siony;2040-09-10;aucun;;;;;;
+TC20;Tonyo;2040-09-21;aucun;;;;;;
+TC21;Upang;2040-09-25;habagat;2040-09-28;2040-09-29;;40;150;
+TC22;Vicky;2040-09-28;habagat;2040-09-30;2040-10-03;;40;150;
+TC23;Warren;2040-11-07;signal_1;2040-11-09;2040-11-10;1;20;80;
+TC24;Yoyong;2040-11-09;aucun;;;;;;
+TC25;Zosimo;2040-11-12;aucun;;;;;;
+TC26;auxiliaire n° 1;2040-11-18;aucun;;;;;;
+TC27;auxiliaire n° 2;2040-11-27;aucun;;;;;;
+TC28;auxiliaire n° 3;2040-12-09;aucun;;;;;;
+TC29;auxiliaire n° 4;2041-01-29;aucun;;;;;;
+TC30;auxiliaire n° 5;2041-01-30;aucun;;;;;;
+TC31;auxiliaire n° 6;2041-07-12;habagat;2041-07-15;2041-07-17;;40;150;
+JOUR;;;;2041-07-21;;;;;dernier jour tiré

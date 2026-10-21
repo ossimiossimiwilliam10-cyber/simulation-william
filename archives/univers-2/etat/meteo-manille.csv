@@ -1,0 +1,365 @@
+date;type;tmin;tmax;pluie_mm;orage;soleil_h;brouillard;description;anomalie;tire_le
+2040-07-18;nuageux;25.1;36.0;0.0;non;5.4;non;"Ciel partagé ; 36 °C au plus chaud, 25 °C au petit matin ; chaleur écrasante";-0.91;2026-10-13T15:43
+2040-07-19;nuageux;27.3;36.5;0.0;non;5.6;non;"Ciel partagé ; 37 °C au plus chaud, 27 °C au petit matin ; chaleur écrasante";-0.33;2026-10-13T15:43
+2040-07-20;orage;26.6;29.5;1.3;oui;2.1;non;"Orage en fin d'après-midi ; 29 °C au plus chaud, 27 °C au petit matin ; 1,3 mm de pluie";-0.58;2026-10-13T15:43
+2040-07-21;averses;28.7;30.2;2.1;non;0.8;non;"Averses ; 30 °C au plus chaud, 29 °C au petit matin ; 2,1 mm de pluie";0.15;2026-10-13T15:46
+2040-07-22;orage;30.2;31.7;36.4;oui;1.7;non;"Orage en fin d'après-midi ; 32 °C au plus chaud, 30 °C au petit matin ; 36,4 mm de pluie";1.65;2026-10-13T15:46
+2040-07-23;averses;29.9;31.9;5.7;non;2.2;non;"Averses ; 32 °C au plus chaud, 30 °C au petit matin ; 5,7 mm de pluie";1.90;2026-10-13T15:47
+2040-07-24;peu_nuageux;28.7;37.0;0.0;non;6.5;non;"Soleil et quelques nuages ; 37 °C au plus chaud, 29 °C au petit matin ; chaleur écrasante";3.13;2026-10-21T18:49
+2040-07-25;nuageux;23.8;34.3;0.0;non;5.1;non;"Ciel partagé ; 34 °C au plus chaud, 24 °C au petit matin ; chaleur écrasante";0.43;2026-10-21T18:49
+2040-07-26;peu_nuageux;26.4;34.3;0.0;non;6.5;non;"Soleil et quelques nuages ; 34 °C au plus chaud, 26 °C au petit matin ; chaleur écrasante";0.42;2026-10-21T18:49
+2040-07-27;orage;28.6;31.4;43.3;oui;2.2;non;"Orage dans la nuit ; 31 °C au plus chaud, 29 °C au petit matin ; 43,3 mm de pluie";0.02;2026-10-21T18:49
+2040-07-28;peu_nuageux;23.6;34.7;0.0;non;6.5;non;"Soleil et quelques nuages ; 35 °C au plus chaud, 24 °C au petit matin ; chaleur écrasante";0.84;2026-10-21T18:49
+2040-07-29;orage;29.4;33.2;69.8;oui;1.4;non;"Orage en début d'après-midi ; 33 °C au plus chaud, 29 °C au petit matin ; 69,8 mm de pluie";1.92;2026-10-21T18:49
+2040-07-30;nuageux;26.2;35.5;0.0;non;5.5;non;"Ciel partagé ; 35 °C au plus chaud, 26 °C au petit matin ; chaleur écrasante";1.71;2026-10-21T18:49
+2040-07-31;orage;29.6;33.7;1.9;oui;0.7;non;"Orage en soirée ; 34 °C au plus chaud, 30 °C au petit matin ; 1,9 mm de pluie";2.42;2026-10-21T18:49
+2040-08-01;pluie;27.1;32.0;14.9;non;2.3;non;"Pluie ; 32 °C au plus chaud, 27 °C au petit matin ; 14,9 mm de pluie";0.75;2026-10-21T18:49
+2040-08-02;nuageux;27.2;33.3;0.0;non;5.3;non;"Ciel partagé ; 33 °C au plus chaud, 27 °C au petit matin";-0.48;2026-10-21T18:49
+2040-08-03;peu_nuageux;24.5;33.0;0.0;non;6.1;non;"Soleil et quelques nuages ; 33 °C au plus chaud, 24 °C au petit matin";-0.74;2026-10-21T18:49
+2040-08-04;pluie;27.4;31.3;15.9;non;2.1;non;"Pluie ; 31 °C au plus chaud, 27 °C au petit matin ; 15,9 mm de pluie";0.01;2026-10-21T18:49
+2040-08-05;orage;27.0;30.7;13.8;oui;2.1;non;"Orage dans la nuit ; 31 °C au plus chaud, 27 °C au petit matin ; 13,8 mm de pluie";-0.50;2026-10-21T18:49
+2040-08-06;nuageux;28.4;34.4;0.0;non;5.2;non;"Ciel partagé ; 34 °C au plus chaud, 28 °C au petit matin ; chaleur écrasante";0.71;2026-10-21T18:49
+2040-08-07;orage;27.6;30.8;1.5;oui;1.7;non;"Orage en début d'après-midi ; 31 °C au plus chaud, 28 °C au petit matin ; 1,5 mm de pluie";-0.43;2026-10-21T18:49
+2040-08-08;averses;26.9;30.0;1.4;non;0.9;non;"Averses ; 30 °C au plus chaud, 27 °C au petit matin ; 1,4 mm de pluie";-1.17;2026-10-21T18:49
+2040-08-09;orage;26.7;30.2;11.3;oui;1.4;non;"Orage dans la nuit ; 30 °C au plus chaud, 27 °C au petit matin ; 11,3 mm de pluie";-0.95;2026-10-21T18:49
+2040-08-10;peu_nuageux;25.3;33.2;0.0;non;6.4;non;"Soleil et quelques nuages ; 33 °C au plus chaud, 25 °C au petit matin";-0.44;2026-10-21T18:49
+2040-08-11;averses;27.2;32.7;1.4;non;1.3;non;"Averses ; 33 °C au plus chaud, 27 °C au petit matin ; 1,4 mm de pluie";1.59;2026-10-21T18:49
+2040-08-12;peu_nuageux;26.4;35.4;0.0;non;6.1;non;"Soleil et quelques nuages ; 35 °C au plus chaud, 26 °C au petit matin ; chaleur écrasante";1.74;2026-10-21T18:49
+2040-08-13;orage;27.8;32.4;2.9;oui;2.6;non;"Orage en fin d'après-midi ; 32 °C au plus chaud, 28 °C au petit matin ; 2,9 mm de pluie";1.25;2026-10-21T18:49
+2040-08-14;orage;27.3;31.9;43.4;oui;1.8;non;"Orage dans la nuit ; 32 °C au plus chaud, 27 °C au petit matin ; 43,4 mm de pluie";0.76;2026-10-21T18:49
+2040-08-15;pluie;27.4;31.6;35.4;non;1.7;non;"Pluie ; 32 °C au plus chaud, 27 °C au petit matin ; 35,4 mm de pluie";0.49;2026-10-21T18:49
+2040-08-16;orage;28.5;32.0;27.2;oui;1.0;non;"Orage en début d'après-midi ; 32 °C au plus chaud, 28 °C au petit matin ; 27,2 mm de pluie";0.91;2026-10-21T18:49
+2040-08-17;orage;27.2;30.3;3.1;oui;1.6;non;"Orage en fin d'après-midi ; 30 °C au plus chaud, 27 °C au petit matin ; 3,1 mm de pluie";-0.81;2026-10-21T18:49
+2040-08-18;peu_nuageux;26.6;34.4;0.0;non;6.7;non;"Soleil et quelques nuages ; 34 °C au plus chaud, 27 °C au petit matin ; chaleur écrasante";0.85;2026-10-21T18:49
+2040-08-19;deluge;26.5;30.5;94.7;non;1.5;non;"Mousson renforcée par la tempête « Marce » ; 94.7 mm de pluie ; cours suspendus dans plusieurs villes de Metro Manila ; rues inondées dans les quartiers bas, EDSA saturée";-0.53;2026-10-21T18:49
+2040-08-20;deluge;26.4;30.5;106.8;non;1.5;non;"Mousson renforcée par la tempête « Marce » ; 106.8 mm de pluie ; cours suspendus dans plusieurs villes de Metro Manila ; rues inondées dans les quartiers bas, EDSA saturée";1.09;2026-10-21T18:49
+2040-08-21;deluge;28.9;30.5;101.2;non;1.5;non;"Mousson renforcée par la tempête « Marce » ; 101.2 mm de pluie ; cours suspendus dans plusieurs villes de Metro Manila ; rues inondées dans les quartiers bas, EDSA saturée";0.62;2026-10-21T18:49
+2040-08-22;averses;28.0;31.4;6.9;non;1.8;non;"Averses ; 31 °C au plus chaud, 28 °C au petit matin ; 6,9 mm de pluie";0.25;2026-10-21T18:49
+2040-08-23;pluie;28.3;31.4;17.0;non;1.1;non;"Pluie ; 31 °C au plus chaud, 28 °C au petit matin ; 17 mm de pluie";0.20;2026-10-21T18:49
+2040-08-24;peu_nuageux;25.8;34.1;0.0;non;5.8;non;"Soleil et quelques nuages ; 34 °C au plus chaud, 26 °C au petit matin ; chaleur écrasante";0.52;2026-10-21T18:49
+2040-08-25;pluie;30.0;31.8;14.0;non;2.3;non;"Pluie ; 32 °C au plus chaud, 30 °C au petit matin ; 14 mm de pluie";0.66;2026-10-21T18:49
+2040-08-26;averses;26.4;31.4;8.7;non;1.4;non;"Averses ; 31 °C au plus chaud, 26 °C au petit matin ; 8,7 mm de pluie";0.18;2026-10-21T18:49
+2040-08-27;orage;26.9;30.6;32.7;oui;2.8;non;"Orage dans la nuit ; 31 °C au plus chaud, 27 °C au petit matin ; 32,7 mm de pluie";-0.57;2026-10-21T18:49
+2040-08-28;pluie;26.1;31.3;51.2;non;2.0;non;"Pluie ; 31 °C au plus chaud, 26 °C au petit matin ; 51,2 mm de pluie";0.09;2026-10-21T18:49
+2040-08-29;orage;27.3;30.3;6.9;oui;1.0;non;"Orage en soirée ; 30 °C au plus chaud, 27 °C au petit matin ; 6,9 mm de pluie";-0.84;2026-10-21T18:49
+2040-08-30;orage;26.1;29.6;10.1;oui;1.5;non;"Orage dans la nuit ; 30 °C au plus chaud, 26 °C au petit matin ; 10,1 mm de pluie";-1.61;2026-10-21T18:49
+2040-08-31;peu_nuageux;25.6;32.9;0.0;non;6.2;non;"Soleil et quelques nuages ; 33 °C au plus chaud, 26 °C au petit matin";-0.76;2026-10-21T18:49
+2040-09-01;orage;26.3;30.7;7.5;oui;2.1;non;"Orage en soirée ; 31 °C au plus chaud, 26 °C au petit matin ; 7,5 mm de pluie";-0.49;2026-10-21T18:49
+2040-09-02;orage;25.6;30.1;30.2;oui;1.1;non;"Orage dans la nuit ; 30 °C au plus chaud, 26 °C au petit matin ; 30,2 mm de pluie";-1.08;2026-10-21T18:49
+2040-09-03;orage;25.8;30.1;1.8;oui;1.0;non;"Orage en fin d'après-midi ; 30 °C au plus chaud, 26 °C au petit matin ; 1,8 mm de pluie";-1.12;2026-10-21T18:49
+2040-09-04;orage;25.7;31.4;2.8;oui;1.5;non;"Orage en soirée ; 31 °C au plus chaud, 26 °C au petit matin ; 2,8 mm de pluie";0.21;2026-10-21T18:49
+2040-09-05;pluie;28.8;33.2;14.3;non;1.7;non;"Pluie ; 33 °C au plus chaud, 29 °C au petit matin ; 14,3 mm de pluie";1.96;2026-10-21T18:49
+2040-09-06;orage;29.2;32.4;23.2;oui;2.8;non;"Orage en début d'après-midi ; 32 °C au plus chaud, 29 °C au petit matin ; 23,2 mm de pluie";1.16;2026-10-21T18:49
+2040-09-07;pluie;26.3;31.4;15.6;non;0.7;non;"Pluie ; 31 °C au plus chaud, 26 °C au petit matin ; 15,6 mm de pluie";0.20;2026-10-21T18:49
+2040-09-08;pluie;27.8;32.0;19.4;non;0.6;non;"Pluie ; 32 °C au plus chaud, 28 °C au petit matin ; 19,4 mm de pluie";0.72;2026-10-21T18:49
+2040-09-09;orage;29.3;32.1;1.3;oui;2.5;non;"Orage en début d'après-midi ; 32 °C au plus chaud, 29 °C au petit matin ; 1,3 mm de pluie";0.82;2026-10-21T18:49
+2040-09-10;pluie;26.4;31.5;19.3;non;2.0;non;"Pluie ; 31 °C au plus chaud, 26 °C au petit matin ; 19,3 mm de pluie";0.21;2026-10-21T18:49
+2040-09-11;orage;27.2;30.9;86.7;oui;2.5;non;"Orage en fin d'après-midi ; 31 °C au plus chaud, 27 °C au petit matin ; 86,7 mm de pluie";-0.32;2026-10-21T18:49
+2040-09-12;averses;28.5;31.8;6.5;non;2.7;non;"Averses ; 32 °C au plus chaud, 28 °C au petit matin ; 6,5 mm de pluie";0.51;2026-10-21T18:49
+2040-09-13;orage;26.3;30.1;13.1;oui;1.7;non;"Orage dans la nuit ; 30 °C au plus chaud, 26 °C au petit matin ; 13,1 mm de pluie";-1.17;2026-10-21T18:49
+2040-09-14;averses;25.4;30.3;5.5;non;3.0;non;"Averses ; 30 °C au plus chaud, 25 °C au petit matin ; 5,5 mm de pluie";-0.97;2026-10-21T18:49
+2040-09-15;orage;25.4;30.7;30.5;oui;0.7;non;"Orage en fin d'après-midi ; 31 °C au plus chaud, 25 °C au petit matin ; 30,5 mm de pluie";-0.64;2026-10-21T18:49
+2040-09-16;peu_nuageux;26.4;34.2;0.0;non;5.5;non;"Soleil et quelques nuages ; 34 °C au plus chaud, 26 °C au petit matin ; chaleur écrasante";0.57;2026-10-21T18:49
+2040-09-17;pluie;27.4;32.6;19.7;non;2.2;non;"Pluie ; 33 °C au plus chaud, 27 °C au petit matin ; 19,7 mm de pluie";1.32;2026-10-21T18:49
+2040-09-18;pluie;28.9;31.5;16.8;non;2.8;non;"Pluie ; 32 °C au plus chaud, 29 °C au petit matin ; 16,8 mm de pluie";0.23;2026-10-21T18:49
+2040-09-19;peu_nuageux;25.7;34.3;0.0;non;7.0;non;"Soleil et quelques nuages ; 34 °C au plus chaud, 26 °C au petit matin ; chaleur écrasante";0.71;2026-10-21T18:49
+2040-09-20;orage;27.4;32.3;1.0;oui;1.2;non;"Orage en début d'après-midi ; 32 °C au plus chaud, 27 °C au petit matin ; 1 mm de pluie";1.00;2026-10-21T18:49
+2040-09-21;orage;27.6;31.7;67.6;oui;1.1;non;"Orage en début d'après-midi ; 32 °C au plus chaud, 28 °C au petit matin ; 67,6 mm de pluie";0.37;2026-10-21T18:49
+2040-09-22;pluie;28.0;30.7;34.0;non;1.6;non;"Pluie ; 31 °C au plus chaud, 28 °C au petit matin ; 34 mm de pluie";-0.61;2026-10-21T18:49
+2040-09-23;pluie;28.8;32.3;18.5;non;1.2;non;"Pluie ; 32 °C au plus chaud, 29 °C au petit matin ; 18,5 mm de pluie";0.97;2026-10-21T18:49
+2040-09-24;peu_nuageux;26.1;32.7;0.0;non;6.9;non;"Soleil et quelques nuages ; 33 °C au plus chaud, 26 °C au petit matin";-0.70;2026-10-21T18:49
+2040-09-25;peu_nuageux;26.1;34.0;0.0;non;6.1;non;"Soleil et quelques nuages ; 34 °C au plus chaud, 26 °C au petit matin";0.64;2026-10-21T18:49
+2040-09-26;peu_nuageux;25.6;33.8;0.0;non;6.8;non;"Soleil et quelques nuages ; 34 °C au plus chaud, 26 °C au petit matin";0.46;2026-10-21T18:49
+2040-09-27;peu_nuageux;25.0;33.6;0.0;non;6.3;non;"Soleil et quelques nuages ; 34 °C au plus chaud, 25 °C au petit matin";0.33;2026-10-21T18:49
+2040-09-28;deluge;24.7;30.5;120.2;non;1.5;non;"Mousson renforcée par la tempête « Upang » ; 120.2 mm de pluie ; cours suspendus dans plusieurs villes de Metro Manila ; rues inondées dans les quartiers bas, EDSA saturée";-0.55;2026-10-21T18:49
+2040-09-29;deluge;27.1;30.4;81.4;oui;1.5;non;"Mousson renforcée par la tempête « Upang » ; 81.4 mm de pluie ; cours suspendus dans plusieurs villes de Metro Manila ; rues inondées dans les quartiers bas, EDSA saturée";-0.91;2026-10-21T18:49
+2040-09-30;deluge;28.7;30.5;129.2;oui;1.5;non;"Mousson renforcée par la tempête « Vicky » ; 129.2 mm de pluie ; cours suspendus dans plusieurs villes de Metro Manila ; rues inondées dans les quartiers bas, EDSA saturée";-0.01;2026-10-21T18:49
+2040-10-01;deluge;28.6;30.5;64.4;non;1.4;non;"Mousson renforcée par la tempête « Vicky » ; 64.4 mm de pluie ; rues inondées dans les quartiers bas, EDSA saturée";0.30;2026-10-21T18:49
+2040-10-02;pluie;26.4;30.5;47.1;non;1.5;non;"Mousson renforcée par la tempête « Vicky » ; 47.1 mm de pluie ; pluies fortes";1.37;2026-10-21T18:49
+2040-10-03;pluie;26.4;30.5;46.1;non;1.5;non;"Mousson renforcée par la tempête « Vicky » ; 46.1 mm de pluie ; pluies fortes";0.69;2026-10-21T18:49
+2040-10-04;ensoleille;26.8;33.0;0.0;non;7.8;non;"Grand soleil ; 33 °C au plus chaud, 27 °C au petit matin";-0.15;2026-10-21T18:49
+2040-10-05;ensoleille;26.4;34.0;0.0;non;7.7;non;"Grand soleil ; 34 °C au plus chaud, 26 °C au petit matin";0.85;2026-10-21T18:49
+2040-10-06;orage;29.0;31.1;6.3;oui;2.5;non;"Orage dans la nuit ; 31 °C au plus chaud, 29 °C au petit matin ; 6,3 mm de pluie";-0.29;2026-10-21T18:49
+2040-10-07;peu_nuageux;25.9;34.0;0.0;non;5.9;non;"Soleil et quelques nuages ; 34 °C au plus chaud, 26 °C au petit matin";0.91;2026-10-21T18:49
+2040-10-08;peu_nuageux;24.9;33.3;0.0;non;6.5;non;"Soleil et quelques nuages ; 33 °C au plus chaud, 25 °C au petit matin";0.23;2026-10-21T18:49
+2040-10-09;peu_nuageux;27.3;34.6;0.0;non;7.0;non;"Soleil et quelques nuages ; 35 °C au plus chaud, 27 °C au petit matin ; chaleur écrasante";1.59;2026-10-21T18:49
+2040-10-10;peu_nuageux;27.6;34.7;0.0;non;7.0;non;"Soleil et quelques nuages ; 35 °C au plus chaud, 28 °C au petit matin ; chaleur écrasante";1.68;2026-10-21T18:49
+2040-10-11;ensoleille;26.0;34.0;0.0;non;7.9;non;"Grand soleil ; 34 °C au plus chaud, 26 °C au petit matin ; chaleur écrasante";1.02;2026-10-21T18:49
+2040-10-12;orage;26.9;32.8;2.9;oui;1.9;non;"Orage en fin d'après-midi ; 33 °C au plus chaud, 27 °C au petit matin ; 2,9 mm de pluie";1.43;2026-10-21T18:49
+2040-10-13;averses;27.9;32.2;2.0;non;1.7;non;"Averses ; 32 °C au plus chaud, 28 °C au petit matin ; 2 mm de pluie";0.85;2026-10-21T18:49
+2040-10-14;averses;30.0;33.2;7.3;non;1.9;non;"Averses ; 33 °C au plus chaud, 30 °C au petit matin ; 7,3 mm de pluie";1.83;2026-10-21T18:49
+2040-10-15;orage;26.6;32.0;13.5;oui;3.4;non;"Orage en début d'après-midi ; 32 °C au plus chaud, 27 °C au petit matin ; 13,5 mm de pluie";0.64;2026-10-21T18:49
+2040-10-16;orage;26.8;33.1;8.5;oui;3.0;non;"Orage en soirée ; 33 °C au plus chaud, 27 °C au petit matin ; 8,5 mm de pluie";1.67;2026-10-21T18:49
+2040-10-17;ensoleille;27.9;34.5;0.0;non;7.6;non;"Grand soleil ; 34 °C au plus chaud, 28 °C au petit matin ; chaleur écrasante";1.55;2026-10-21T18:49
+2040-10-18;peu_nuageux;26.7;34.9;0.0;non;5.9;non;"Soleil et quelques nuages ; 35 °C au plus chaud, 27 °C au petit matin ; chaleur écrasante";2.03;2026-10-21T18:49
+2040-10-19;ensoleille;26.0;33.4;0.0;non;7.5;non;"Grand soleil ; 33 °C au plus chaud, 26 °C au petit matin";0.57;2026-10-21T18:49
+2040-10-20;ensoleille;25.1;32.4;0.0;non;7.9;non;"Grand soleil ; 32 °C au plus chaud, 25 °C au petit matin";-0.46;2026-10-21T18:49
+2040-10-21;orage;25.2;30.6;6.7;oui;0.7;non;"Orage en fin d'après-midi ; 31 °C au plus chaud, 25 °C au petit matin ; 6,7 mm de pluie";-0.76;2026-10-21T18:49
+2040-10-22;orage;24.4;29.8;40.7;oui;1.8;non;"Orage en fin d'après-midi ; 30 °C au plus chaud, 24 °C au petit matin ; 40,7 mm de pluie";-1.59;2026-10-21T18:49
+2040-10-23;ensoleille;23.7;32.5;0.0;non;7.3;non;"Grand soleil ; 33 °C au plus chaud, 24 °C au petit matin";-0.27;2026-10-21T18:49
+2040-10-24;peu_nuageux;25.6;32.4;0.0;non;6.1;non;"Soleil et quelques nuages ; 32 °C au plus chaud, 26 °C au petit matin";-0.41;2026-10-21T18:49
+2040-10-25;peu_nuageux;25.9;31.8;0.0;non;6.6;non;"Soleil et quelques nuages ; 32 °C au plus chaud, 26 °C au petit matin";-1.01;2026-10-21T18:49
+2040-10-26;ensoleille;24.6;31.1;0.0;non;7.3;non;"Grand soleil ; 31 °C au plus chaud, 25 °C au petit matin";-1.64;2026-10-21T18:49
+2040-10-27;peu_nuageux;23.2;30.4;0.0;non;6.8;non;"Soleil et quelques nuages ; 30 °C au plus chaud, 23 °C au petit matin";-2.36;2026-10-21T18:49
+2040-10-28;peu_nuageux;25.5;31.7;0.0;non;6.3;non;"Soleil et quelques nuages ; 32 °C au plus chaud, 25 °C au petit matin";-1.01;2026-10-21T18:49
+2040-10-29;ensoleille;23.8;31.5;0.0;non;8.2;non;"Grand soleil ; 32 °C au plus chaud, 24 °C au petit matin";-1.21;2026-10-21T18:49
+2040-10-30;ensoleille;25.9;32.7;0.0;non;7.3;non;"Grand soleil ; 33 °C au plus chaud, 26 °C au petit matin";-0.01;2026-10-21T18:49
+2040-10-31;ensoleille;25.3;31.1;0.0;non;8.0;non;"Grand soleil ; 31 °C au plus chaud, 25 °C au petit matin";-1.63;2026-10-21T18:49
+2040-11-01;ensoleille;25.5;32.4;0.0;non;8.4;non;"Grand soleil ; 32 °C au plus chaud, 26 °C au petit matin";-0.30;2026-10-21T18:49
+2040-11-02;ensoleille;24.0;31.7;0.0;non;7.7;non;"Grand soleil ; 32 °C au plus chaud, 24 °C au petit matin";-0.99;2026-10-21T18:49
+2040-11-03;peu_nuageux;25.3;31.6;0.0;non;6.1;non;"Soleil et quelques nuages ; 32 °C au plus chaud, 25 °C au petit matin";-1.08;2026-10-21T18:49
+2040-11-04;peu_nuageux;27.2;32.0;0.0;non;6.2;non;"Soleil et quelques nuages ; 32 °C au plus chaud, 27 °C au petit matin";-0.63;2026-10-21T18:49
+2040-11-05;ensoleille;26.3;32.7;0.0;non;7.4;non;"Grand soleil ; 33 °C au plus chaud, 26 °C au petit matin";0.06;2026-10-21T18:49
+2040-11-06;ensoleille;24.9;32.0;0.0;non;8.3;non;"Grand soleil ; 32 °C au plus chaud, 25 °C au petit matin";-0.56;2026-10-21T18:49
+2040-11-07;peu_nuageux;24.3;32.0;0.0;non;5.9;non;"Soleil et quelques nuages ; 32 °C au plus chaud, 24 °C au petit matin";-0.58;2026-10-21T18:49
+2040-11-08;orage;26.2;30.2;34.3;oui;3.3;non;"Orage en début d'après-midi ; 30 °C au plus chaud, 26 °C au petit matin ; 34,3 mm de pluie";-1.07;2026-10-21T18:49
+2040-11-09;deluge;26.0;30.5;63.9;non;1.5;non;"Signal n° 1 sur Metro Manila (tempête « Warren ») ; 63.9 mm de pluie ; cours suspendus dans plusieurs villes de Metro Manila ; rues inondées dans les quartiers bas, EDSA saturée";-0.89;2026-10-21T18:49
+2040-11-10;deluge;27.1;30.2;73.7;non;1.5;non;"Signal n° 1 sur Metro Manila (tempête « Warren ») ; 73.7 mm de pluie ; cours suspendus dans plusieurs villes de Metro Manila ; rues inondées dans les quartiers bas, EDSA saturée";-1.07;2026-10-21T18:49
+2040-11-11;ensoleille;24.1;31.9;0.0;non;8.0;non;"Grand soleil ; 32 °C au plus chaud, 24 °C au petit matin";-0.67;2026-10-21T18:49
+2040-11-12;peu_nuageux;28.0;33.3;0.0;non;6.8;non;"Soleil et quelques nuages ; 33 °C au plus chaud, 28 °C au petit matin";0.84;2026-10-21T18:49
+2040-11-13;peu_nuageux;24.4;32.5;0.0;non;6.8;non;"Soleil et quelques nuages ; 33 °C au plus chaud, 24 °C au petit matin";0.01;2026-10-21T18:49
+2040-11-14;averses;27.3;31.8;1.0;non;1.4;non;"Averses ; 32 °C au plus chaud, 27 °C au petit matin ; 1 mm de pluie";0.56;2026-10-21T18:49
+2040-11-15;pluie;24.0;30.9;11.3;non;3.1;non;"Pluie ; 31 °C au plus chaud, 24 °C au petit matin ; 11,3 mm de pluie";-0.34;2026-10-21T18:49
+2040-11-16;ensoleille;25.9;32.5;0.0;non;7.3;non;"Grand soleil ; 32 °C au plus chaud, 26 °C au petit matin";0.02;2026-10-21T18:49
+2040-11-17;pluie;27.0;31.4;31.5;non;2.4;non;"Pluie ; 31 °C au plus chaud, 27 °C au petit matin ; 31,5 mm de pluie";0.26;2026-10-21T18:49
+2040-11-18;averses;28.7;30.2;5.2;non;2.0;non;"Averses ; 30 °C au plus chaud, 29 °C au petit matin ; 5,2 mm de pluie";-0.91;2026-10-21T18:49
+2040-11-19;orage;26.7;31.4;3.1;oui;3.1;non;"Orage dans la nuit ; 31 °C au plus chaud, 27 °C au petit matin ; 3,1 mm de pluie";0.32;2026-10-21T18:49
+2040-11-20;averses;27.1;32.3;9.9;non;2.9;non;"Averses ; 32 °C au plus chaud, 27 °C au petit matin ; 9,9 mm de pluie";1.26;2026-10-21T18:49
+2040-11-21;averses;26.3;31.4;6.1;non;2.5;non;"Averses ; 31 °C au plus chaud, 26 °C au petit matin ; 6,1 mm de pluie";0.36;2026-10-21T18:49
+2040-11-22;averses;26.0;31.8;5.8;non;3.1;non;"Averses ; 32 °C au plus chaud, 26 °C au petit matin ; 5,8 mm de pluie";0.77;2026-10-21T18:49
+2040-11-23;ensoleille;25.2;33.1;0.0;non;7.1;non;"Grand soleil ; 33 °C au plus chaud, 25 °C au petit matin";0.92;2026-10-21T18:49
+2040-11-24;peu_nuageux;26.5;32.3;0.0;non;5.8;non;"Soleil et quelques nuages ; 32 °C au plus chaud, 27 °C au petit matin";0.14;2026-10-21T18:49
+2040-11-25;peu_nuageux;25.4;32.5;0.0;non;6.9;non;"Soleil et quelques nuages ; 32 °C au plus chaud, 25 °C au petit matin";0.36;2026-10-21T18:49
+2040-11-26;ensoleille;25.7;32.2;0.0;non;7.6;non;"Grand soleil ; 32 °C au plus chaud, 26 °C au petit matin";0.11;2026-10-21T18:49
+2040-11-27;peu_nuageux;25.8;32.0;0.0;non;6.3;non;"Soleil et quelques nuages ; 32 °C au plus chaud, 26 °C au petit matin";-0.07;2026-10-21T18:49
+2040-11-28;peu_nuageux;24.9;33.0;0.0;non;6.0;non;"Soleil et quelques nuages ; 33 °C au plus chaud, 25 °C au petit matin";0.98;2026-10-21T18:49
+2040-11-29;peu_nuageux;25.2;32.2;0.0;non;6.6;non;"Soleil et quelques nuages ; 32 °C au plus chaud, 25 °C au petit matin";0.20;2026-10-21T18:49
+2040-11-30;ensoleille;24.8;33.0;0.0;non;7.8;non;"Grand soleil ; 33 °C au plus chaud, 25 °C au petit matin";1.06;2026-10-21T18:49
+2040-12-01;ensoleille;24.4;31.1;0.0;non;7.5;non;"Grand soleil ; 31 °C au plus chaud, 24 °C au petit matin";-0.85;2026-10-21T18:49
+2040-12-02;ensoleille;25.4;32.9;0.0;non;8.1;non;"Grand soleil ; 33 °C au plus chaud, 25 °C au petit matin";1.06;2026-10-21T18:49
+2040-12-03;ensoleille;24.3;30.9;0.0;non;7.1;non;"Grand soleil ; 31 °C au plus chaud, 24 °C au petit matin";-0.96;2026-10-21T18:49
+2040-12-04;peu_nuageux;27.6;31.9;0.0;non;6.4;non;"Soleil et quelques nuages ; 32 °C au plus chaud, 28 °C au petit matin";0.07;2026-10-21T18:49
+2040-12-05;ensoleille;25.1;31.6;0.0;non;8.1;non;"Grand soleil ; 32 °C au plus chaud, 25 °C au petit matin";-0.14;2026-10-21T18:49
+2040-12-06;ensoleille;21.8;30.7;0.0;non;7.9;non;"Grand soleil ; 31 °C au plus chaud, 22 °C au petit matin";-1.01;2026-10-21T18:49
+2040-12-07;peu_nuageux;22.6;30.7;0.0;non;5.7;non;"Soleil et quelques nuages ; 31 °C au plus chaud, 23 °C au petit matin";-1.03;2026-10-21T18:49
+2040-12-08;peu_nuageux;24.1;31.6;0.0;non;5.8;non;"Soleil et quelques nuages ; 32 °C au plus chaud, 24 °C au petit matin";-0.08;2026-10-21T18:49
+2040-12-09;peu_nuageux;23.9;32.5;0.0;non;6.1;non;"Soleil et quelques nuages ; 32 °C au plus chaud, 24 °C au petit matin";0.86;2026-10-21T18:49
+2040-12-10;peu_nuageux;24.4;31.6;0.0;non;5.8;non;"Soleil et quelques nuages ; 32 °C au plus chaud, 24 °C au petit matin";0.01;2026-10-21T18:49
+2040-12-11;ensoleille;25.4;31.3;0.0;non;7.1;non;"Grand soleil ; 31 °C au plus chaud, 25 °C au petit matin";-0.26;2026-10-21T18:49
+2040-12-12;ensoleille;24.2;32.0;0.0;non;8.0;non;"Grand soleil ; 32 °C au plus chaud, 24 °C au petit matin";0.47;2026-10-21T18:49
+2040-12-13;peu_nuageux;24.2;31.4;0.0;non;6.4;non;"Soleil et quelques nuages ; 31 °C au plus chaud, 24 °C au petit matin";-0.10;2026-10-21T18:49
+2040-12-14;ensoleille;24.0;30.3;0.0;non;7.0;non;"Grand soleil ; 30 °C au plus chaud, 24 °C au petit matin";-1.13;2026-10-21T18:49
+2040-12-15;averses;27.6;30.4;2.2;non;3.0;non;"Averses ; 30 °C au plus chaud, 28 °C au petit matin ; 2,2 mm de pluie";-0.04;2026-10-21T18:49
+2040-12-16;averses;25.4;29.3;6.5;non;1.4;non;"Averses ; 29 °C au plus chaud, 25 °C au petit matin ; 6,5 mm de pluie";-1.11;2026-10-21T18:49
+2040-12-17;averses;26.4;30.6;5.6;non;1.7;non;"Averses ; 31 °C au plus chaud, 26 °C au petit matin ; 5,6 mm de pluie";0.17;2026-10-21T18:49
+2040-12-18;pluie;27.5;31.8;14.3;non;0.9;non;"Pluie ; 32 °C au plus chaud, 27 °C au petit matin ; 14,3 mm de pluie";1.42;2026-10-21T18:49
+2040-12-19;orage;26.6;30.6;6.6;oui;0.9;non;"Orage en fin d'après-midi ; 31 °C au plus chaud, 27 °C au petit matin ; 6,6 mm de pluie";0.18;2026-10-21T18:49
+2040-12-20;pluie;25.9;30.0;15.6;non;1.5;non;"Pluie ; 30 °C au plus chaud, 26 °C au petit matin ; 15,6 mm de pluie";-0.37;2026-10-21T18:49
+2040-12-21;averses;25.3;29.3;1.4;non;1.7;non;"Averses ; 29 °C au plus chaud, 25 °C au petit matin ; 1,4 mm de pluie";-1.04;2026-10-21T18:49
+2040-12-22;averses;24.4;29.5;1.8;non;3.5;non;"Averses ; 29 °C au plus chaud, 24 °C au petit matin ; 1,8 mm de pluie";-0.90;2026-10-21T18:49
+2040-12-23;orage;26.3;30.3;1.4;oui;1.6;non;"Orage en fin d'après-midi ; 30 °C au plus chaud, 26 °C au petit matin ; 1,4 mm de pluie";-0.06;2026-10-21T18:49
+2040-12-24;averses;23.6;29.8;8.0;non;2.3;non;"Averses ; 30 °C au plus chaud, 24 °C au petit matin ; 8 mm de pluie";-0.51;2026-10-21T18:49
+2040-12-25;averses;27.3;30.0;1.1;non;1.6;non;"Averses ; 30 °C au plus chaud, 27 °C au petit matin ; 1,1 mm de pluie";-0.35;2026-10-21T18:49
+2040-12-26;ensoleille;23.6;31.3;0.0;non;8.5;non;"Grand soleil ; 31 °C au plus chaud, 24 °C au petit matin";-0.00;2026-10-21T18:49
+2040-12-27;ensoleille;24.7;31.0;0.0;non;8.3;non;"Grand soleil ; 31 °C au plus chaud, 25 °C au petit matin";-0.34;2026-10-21T18:49
+2040-12-28;ensoleille;25.0;31.4;0.0;non;8.5;non;"Grand soleil ; 31 °C au plus chaud, 25 °C au petit matin";0.07;2026-10-21T18:49
+2040-12-29;ensoleille;23.5;32.2;0.0;non;7.0;non;"Grand soleil ; 32 °C au plus chaud, 23 °C au petit matin";0.93;2026-10-21T18:49
+2040-12-30;ensoleille;23.0;32.5;0.0;non;8.4;non;"Grand soleil ; 32 °C au plus chaud, 23 °C au petit matin";1.24;2026-10-21T18:49
+2040-12-31;ensoleille;26.0;32.6;0.0;non;7.9;non;"Grand soleil ; 33 °C au plus chaud, 26 °C au petit matin";1.32;2026-10-21T18:49
+2041-01-01;ensoleille;25.8;31.9;0.0;non;7.5;non;"Grand soleil ; 32 °C au plus chaud, 26 °C au petit matin";0.69;2026-10-21T18:49
+2041-01-02;ensoleille;25.4;32.1;0.0;non;8.1;non;"Grand soleil ; 32 °C au plus chaud, 25 °C au petit matin";0.85;2026-10-21T18:49
+2041-01-03;ensoleille;24.9;30.7;0.0;non;7.8;non;"Grand soleil ; 31 °C au plus chaud, 25 °C au petit matin";-0.52;2026-10-21T18:49
+2041-01-04;ensoleille;21.5;28.6;0.0;non;8.5;non;"Grand soleil ; 29 °C au plus chaud, 22 °C au petit matin";-2.56;2026-10-21T18:49
+2041-01-05;ensoleille;21.7;28.7;0.0;non;8.9;non;"Grand soleil ; 29 °C au plus chaud, 22 °C au petit matin";-2.44;2026-10-21T18:49
+2041-01-06;ensoleille;22.5;30.3;0.0;non;8.2;non;"Grand soleil ; 30 °C au plus chaud, 22 °C au petit matin";-0.92;2026-10-21T18:49
+2041-01-07;ensoleille;22.7;30.4;0.0;non;7.1;non;"Grand soleil ; 30 °C au plus chaud, 23 °C au petit matin";-0.79;2026-10-21T18:49
+2041-01-08;ensoleille;24.2;31.4;0.0;non;7.5;non;"Grand soleil ; 31 °C au plus chaud, 24 °C au petit matin";0.23;2026-10-21T18:49
+2041-01-09;ensoleille;24.1;30.7;0.0;non;7.7;non;"Grand soleil ; 31 °C au plus chaud, 24 °C au petit matin";-0.43;2026-10-21T18:49
+2041-01-10;peu_nuageux;22.9;31.0;0.0;non;6.5;non;"Soleil et quelques nuages ; 31 °C au plus chaud, 23 °C au petit matin";-0.17;2026-10-21T18:49
+2041-01-11;ensoleille;23.3;31.0;0.0;non;7.4;non;"Grand soleil ; 31 °C au plus chaud, 23 °C au petit matin";-0.10;2026-10-21T18:49
+2041-01-12;peu_nuageux;24.8;31.5;0.0;non;6.6;non;"Soleil et quelques nuages ; 31 °C au plus chaud, 25 °C au petit matin";0.36;2026-10-21T18:49
+2041-01-13;ensoleille;24.0;32.3;0.0;non;9.3;non;"Grand soleil ; 32 °C au plus chaud, 24 °C au petit matin";1.19;2026-10-21T18:49
+2041-01-14;ensoleille;25.9;32.4;0.0;non;9.1;non;"Grand soleil ; 32 °C au plus chaud, 26 °C au petit matin";1.26;2026-10-21T18:49
+2041-01-15;ensoleille;24.9;31.5;0.0;non;8.8;non;"Grand soleil ; 32 °C au plus chaud, 25 °C au petit matin";0.46;2026-10-21T18:49
+2041-01-16;ensoleille;23.2;30.5;0.0;non;9.1;non;"Grand soleil ; 30 °C au plus chaud, 23 °C au petit matin";-0.65;2026-10-21T18:49
+2041-01-17;ensoleille;24.6;30.9;0.0;non;9.1;non;"Grand soleil ; 31 °C au plus chaud, 25 °C au petit matin";-0.26;2026-10-21T18:49
+2041-01-18;ensoleille;24.9;32.6;0.0;non;7.6;non;"Grand soleil ; 33 °C au plus chaud, 25 °C au petit matin";1.45;2026-10-21T18:49
+2041-01-19;ensoleille;23.6;32.7;0.0;non;9.5;non;"Grand soleil ; 33 °C au plus chaud, 24 °C au petit matin";1.47;2026-10-21T18:49
+2041-01-20;ensoleille;23.8;32.5;0.0;non;7.7;non;"Grand soleil ; 33 °C au plus chaud, 24 °C au petit matin";1.29;2026-10-21T18:49
+2041-01-21;ensoleille;24.3;31.8;0.0;non;9.8;non;"Grand soleil ; 32 °C au plus chaud, 24 °C au petit matin";0.53;2026-10-21T18:49
+2041-01-22;ensoleille;23.2;31.5;0.0;non;7.6;non;"Grand soleil ; 32 °C au plus chaud, 23 °C au petit matin";0.29;2026-10-21T18:49
+2041-01-23;ensoleille;25.2;30.7;0.0;non;9.3;non;"Grand soleil ; 31 °C au plus chaud, 25 °C au petit matin";-0.55;2026-10-21T18:49
+2041-01-24;ensoleille;22.0;31.1;0.0;non;7.4;non;"Grand soleil ; 31 °C au plus chaud, 22 °C au petit matin";-0.25;2026-10-21T18:49
+2041-01-25;averses;25.0;31.6;5.3;non;1.5;non;"Averses ; 32 °C au plus chaud, 25 °C au petit matin ; 5,3 mm de pluie";1.18;2026-10-21T18:49
+2041-01-26;ensoleille;23.9;32.8;0.0;non;9.6;non;"Grand soleil ; 33 °C au plus chaud, 24 °C au petit matin";1.40;2026-10-21T18:49
+2041-01-27;ensoleille;23.6;31.4;0.0;non;8.0;non;"Grand soleil ; 31 °C au plus chaud, 24 °C au petit matin";0.05;2026-10-21T18:49
+2041-01-28;ensoleille;25.2;31.5;0.0;non;8.4;non;"Grand soleil ; 32 °C au plus chaud, 25 °C au petit matin";0.12;2026-10-21T18:49
+2041-01-29;ensoleille;23.8;31.3;0.0;non;7.4;non;"Grand soleil ; 31 °C au plus chaud, 24 °C au petit matin";-0.13;2026-10-21T18:49
+2041-01-30;orage;26.8;30.4;1.4;oui;1.7;non;"Orage en soirée ; 30 °C au plus chaud, 27 °C au petit matin ; 1,4 mm de pluie";-0.22;2026-10-21T18:49
+2041-01-31;pluie;24.6;31.7;15.0;non;3.0;non;"Pluie ; 32 °C au plus chaud, 25 °C au petit matin ; 15 mm de pluie";1.06;2026-10-21T18:49
+2041-02-01;averses;27.8;31.9;2.2;non;2.0;non;"Averses ; 32 °C au plus chaud, 28 °C au petit matin ; 2,2 mm de pluie";1.24;2026-10-21T18:49
+2041-02-02;ensoleille;25.9;32.4;0.0;non;9.1;non;"Grand soleil ; 32 °C au plus chaud, 26 °C au petit matin";0.89;2026-10-21T18:49
+2041-02-03;averses;24.7;30.5;1.0;non;3.5;non;"Averses ; 31 °C au plus chaud, 25 °C au petit matin ; 1 mm de pluie";-0.17;2026-10-21T18:49
+2041-02-04;ensoleille;26.4;30.5;0.0;non;10.5;non;"Grand soleil ; 31 °C au plus chaud, 26 °C au petit matin";-1.04;2026-10-21T18:49
+2041-02-05;ensoleille;24.0;31.1;0.0;non;7.9;non;"Grand soleil ; 31 °C au plus chaud, 24 °C au petit matin";-0.54;2026-10-21T18:49
+2041-02-06;ensoleille;22.5;31.0;0.0;non;9.4;non;"Grand soleil ; 31 °C au plus chaud, 23 °C au petit matin";-0.65;2026-10-21T18:49
+2041-02-07;ensoleille;25.0;30.6;0.0;non;8.1;non;"Grand soleil ; 31 °C au plus chaud, 25 °C au petit matin";-1.10;2026-10-21T18:49
+2041-02-08;ensoleille;22.8;31.9;0.0;non;8.6;non;"Grand soleil ; 32 °C au plus chaud, 23 °C au petit matin";0.19;2026-10-21T18:49
+2041-02-09;ensoleille;25.0;32.0;0.0;non;10.5;non;"Grand soleil ; 32 °C au plus chaud, 25 °C au petit matin";0.34;2026-10-21T18:49
+2041-02-10;ensoleille;22.9;30.5;0.0;non;9.4;non;"Grand soleil ; 31 °C au plus chaud, 23 °C au petit matin";-1.23;2026-10-21T18:49
+2041-02-11;ensoleille;24.5;30.5;0.0;non;10.6;non;"Grand soleil ; 31 °C au plus chaud, 24 °C au petit matin";-1.23;2026-10-21T18:49
+2041-02-12;ensoleille;24.0;32.1;0.0;non;8.1;non;"Grand soleil ; 32 °C au plus chaud, 24 °C au petit matin";0.30;2026-10-21T18:49
+2041-02-13;ensoleille;25.3;31.5;0.0;non;10.6;non;"Grand soleil ; 32 °C au plus chaud, 25 °C au petit matin";-0.27;2026-10-21T18:49
+2041-02-14;ensoleille;24.6;31.7;0.0;non;10.6;non;"Grand soleil ; 32 °C au plus chaud, 25 °C au petit matin";-0.09;2026-10-21T18:49
+2041-02-15;ensoleille;22.8;31.3;0.0;non;9.1;non;"Grand soleil ; 31 °C au plus chaud, 23 °C au petit matin";-0.61;2026-10-21T18:49
+2041-02-16;ensoleille;23.8;31.6;0.0;non;8.2;non;"Grand soleil ; 32 °C au plus chaud, 24 °C au petit matin";-0.36;2026-10-21T18:49
+2041-02-17;ensoleille;25.4;32.8;0.0;non;8.8;non;"Grand soleil ; 33 °C au plus chaud, 25 °C au petit matin";0.85;2026-10-21T18:49
+2041-02-18;ensoleille;22.9;32.2;0.0;non;10.7;non;"Grand soleil ; 32 °C au plus chaud, 23 °C au petit matin";0.17;2026-10-21T18:49
+2041-02-19;ensoleille;23.4;31.3;0.0;non;10.0;non;"Grand soleil ; 31 °C au plus chaud, 23 °C au petit matin";-0.74;2026-10-21T18:49
+2041-02-20;ensoleille;23.3;31.1;0.0;non;8.4;non;"Grand soleil ; 31 °C au plus chaud, 23 °C au petit matin";-1.03;2026-10-21T18:49
+2041-02-21;ensoleille;24.7;31.5;0.0;non;9.6;non;"Grand soleil ; 32 °C au plus chaud, 25 °C au petit matin";-0.66;2026-10-21T18:49
+2041-02-22;ensoleille;25.5;31.4;0.0;non;10.7;non;"Grand soleil ; 31 °C au plus chaud, 26 °C au petit matin";-0.84;2026-10-21T18:49
+2041-02-23;ensoleille;24.8;32.7;0.0;non;9.0;non;"Grand soleil ; 33 °C au plus chaud, 25 °C au petit matin";0.41;2026-10-21T18:49
+2041-02-24;ensoleille;25.0;33.1;0.0;non;8.8;non;"Grand soleil ; 33 °C au plus chaud, 25 °C au petit matin";0.78;2026-10-21T18:49
+2041-02-25;ensoleille;25.0;32.3;0.0;non;8.4;non;"Grand soleil ; 32 °C au plus chaud, 25 °C au petit matin";-0.14;2026-10-21T18:49
+2041-02-26;ensoleille;24.5;32.7;0.0;non;8.3;non;"Grand soleil ; 33 °C au plus chaud, 25 °C au petit matin";0.26;2026-10-21T18:49
+2041-02-27;ensoleille;25.6;33.4;0.0;non;10.8;non;"Grand soleil ; 33 °C au plus chaud, 26 °C au petit matin";0.90;2026-10-21T18:49
+2041-02-28;ensoleille;24.8;34.2;0.0;non;10.8;non;"Grand soleil ; 34 °C au plus chaud, 25 °C au petit matin ; chaleur écrasante";1.62;2026-10-21T18:49
+2041-03-01;ensoleille;25.5;34.1;0.0;non;10.5;non;"Grand soleil ; 34 °C au plus chaud, 26 °C au petit matin ; chaleur écrasante";1.49;2026-10-21T18:49
+2041-03-02;ensoleille;26.2;34.7;0.0;non;10.0;non;"Grand soleil ; 35 °C au plus chaud, 26 °C au petit matin ; chaleur écrasante";2.00;2026-10-21T18:49
+2041-03-03;ensoleille;25.4;32.6;0.0;non;10.9;non;"Grand soleil ; 33 °C au plus chaud, 25 °C au petit matin";-0.10;2026-10-21T18:49
+2041-03-04;ensoleille;25.2;32.1;0.0;non;10.8;non;"Grand soleil ; 32 °C au plus chaud, 25 °C au petit matin";-0.63;2026-10-21T18:49
+2041-03-05;ensoleille;24.6;32.9;0.0;non;10.9;non;"Grand soleil ; 33 °C au plus chaud, 25 °C au petit matin";0.12;2026-10-21T18:49
+2041-03-06;ensoleille;23.8;33.0;0.0;non;10.9;non;"Grand soleil ; 33 °C au plus chaud, 24 °C au petit matin";0.09;2026-10-21T18:49
+2041-03-07;ensoleille;26.9;34.2;0.0;non;8.8;non;"Grand soleil ; 34 °C au plus chaud, 27 °C au petit matin ; chaleur écrasante";1.28;2026-10-21T18:49
+2041-03-08;ensoleille;25.8;32.7;0.0;non;9.3;non;"Grand soleil ; 33 °C au plus chaud, 26 °C au petit matin";-0.24;2026-10-21T18:49
+2041-03-09;ensoleille;24.0;32.5;0.0;non;10.4;non;"Grand soleil ; 33 °C au plus chaud, 24 °C au petit matin";-0.51;2026-10-21T18:49
+2041-03-10;ensoleille;26.2;32.0;0.0;non;11.0;non;"Grand soleil ; 32 °C au plus chaud, 26 °C au petit matin";-1.10;2026-10-21T18:49
+2041-03-11;ensoleille;27.1;33.9;0.0;non;10.9;non;"Grand soleil ; 34 °C au plus chaud, 27 °C au petit matin";0.80;2026-10-21T18:49
+2041-03-12;ensoleille;25.3;33.7;0.0;non;9.3;non;"Grand soleil ; 34 °C au plus chaud, 25 °C au petit matin";0.52;2026-10-21T18:49
+2041-03-13;ensoleille;25.0;32.8;0.0;non;9.3;non;"Grand soleil ; 33 °C au plus chaud, 25 °C au petit matin";-0.41;2026-10-21T18:49
+2041-03-14;ensoleille;25.4;33.4;0.0;non;11.0;non;"Grand soleil ; 33 °C au plus chaud, 25 °C au petit matin";0.05;2026-10-21T18:49
+2041-03-15;ensoleille;27.4;33.5;0.0;non;9.7;non;"Grand soleil ; 34 °C au plus chaud, 27 °C au petit matin";0.15;2026-10-21T18:49
+2041-03-16;ensoleille;25.5;33.7;0.0;non;11.0;non;"Grand soleil ; 34 °C au plus chaud, 26 °C au petit matin";0.30;2026-10-21T18:49
+2041-03-17;ensoleille;25.7;33.5;0.0;non;9.4;non;"Grand soleil ; 34 °C au plus chaud, 26 °C au petit matin";0.08;2026-10-21T18:49
+2041-03-18;ensoleille;25.6;33.6;0.0;non;9.1;non;"Grand soleil ; 34 °C au plus chaud, 26 °C au petit matin";0.14;2026-10-21T18:49
+2041-03-19;ensoleille;24.0;33.6;0.0;non;11.1;non;"Grand soleil ; 34 °C au plus chaud, 24 °C au petit matin";0.01;2026-10-21T18:49
+2041-03-20;ensoleille;26.5;34.0;0.0;non;11.0;non;"Grand soleil ; 34 °C au plus chaud, 26 °C au petit matin ; chaleur écrasante";0.45;2026-10-21T18:49
+2041-03-21;ensoleille;23.8;34.3;0.0;non;11.1;non;"Grand soleil ; 34 °C au plus chaud, 24 °C au petit matin ; chaleur écrasante";0.61;2026-10-21T18:49
+2041-03-22;ensoleille;26.0;34.6;0.0;non;11.1;non;"Grand soleil ; 35 °C au plus chaud, 26 °C au petit matin ; chaleur écrasante";0.94;2026-10-21T18:49
+2041-03-23;ensoleille;25.3;35.7;0.0;non;9.2;non;"Grand soleil ; 36 °C au plus chaud, 25 °C au petit matin ; chaleur écrasante";1.94;2026-10-21T18:49
+2041-03-24;ensoleille;26.4;36.2;0.0;non;10.8;non;"Grand soleil ; 36 °C au plus chaud, 26 °C au petit matin ; chaleur écrasante";2.35;2026-10-21T18:49
+2041-03-25;ensoleille;27.2;36.4;0.0;non;9.3;non;"Grand soleil ; 36 °C au plus chaud, 27 °C au petit matin ; chaleur écrasante";2.54;2026-10-21T18:49
+2041-03-26;ensoleille;28.2;35.5;0.0;non;10.0;non;"Grand soleil ; 35 °C au plus chaud, 28 °C au petit matin ; chaleur écrasante";1.58;2026-10-21T18:49
+2041-03-27;ensoleille;25.6;33.9;0.0;non;10.8;non;"Grand soleil ; 34 °C au plus chaud, 26 °C au petit matin";-0.10;2026-10-21T18:49
+2041-03-28;ensoleille;26.1;32.7;0.0;non;10.2;non;"Grand soleil ; 33 °C au plus chaud, 26 °C au petit matin";-1.27;2026-10-21T18:49
+2041-03-29;ensoleille;26.6;32.8;0.0;non;10.9;non;"Grand soleil ; 33 °C au plus chaud, 27 °C au petit matin";-1.20;2026-10-21T18:49
+2041-03-30;ensoleille;26.3;34.2;0.0;non;11.0;non;"Grand soleil ; 34 °C au plus chaud, 26 °C au petit matin ; chaleur écrasante";0.10;2026-10-21T18:49
+2041-03-31;ensoleille;28.3;35.8;0.0;non;11.2;non;"Grand soleil ; 36 °C au plus chaud, 28 °C au petit matin ; chaleur écrasante";1.63;2026-10-21T18:49
+2041-04-01;ensoleille;26.8;35.6;0.0;non;11.3;non;"Grand soleil ; 36 °C au plus chaud, 27 °C au petit matin ; chaleur écrasante";1.45;2026-10-21T18:49
+2041-04-02;ensoleille;28.7;35.2;0.0;non;10.4;non;"Grand soleil ; 35 °C au plus chaud, 29 °C au petit matin ; chaleur écrasante";0.94;2026-10-21T18:49
+2041-04-03;ensoleille;27.0;34.3;0.0;non;11.3;non;"Grand soleil ; 34 °C au plus chaud, 27 °C au petit matin ; chaleur écrasante";0.04;2026-10-21T18:49
+2041-04-04;ensoleille;25.5;33.0;0.0;non;9.4;non;"Grand soleil ; 33 °C au plus chaud, 26 °C au petit matin";-1.37;2026-10-21T18:49
+2041-04-05;ensoleille;23.9;32.1;0.0;non;11.3;non;"Grand soleil ; 32 °C au plus chaud, 24 °C au petit matin";-2.29;2026-10-21T18:49
+2041-04-06;ensoleille;25.0;33.0;0.0;non;11.0;non;"Grand soleil ; 33 °C au plus chaud, 25 °C au petit matin";-1.41;2026-10-21T18:49
+2041-04-07;ensoleille;25.6;33.2;0.0;non;10.3;non;"Grand soleil ; 33 °C au plus chaud, 26 °C au petit matin";-1.29;2026-10-21T18:49
+2041-04-08;ensoleille;25.5;33.0;0.0;non;11.4;non;"Grand soleil ; 33 °C au plus chaud, 26 °C au petit matin";-1.54;2026-10-21T18:49
+2041-04-09;ensoleille;25.5;32.8;0.0;non;11.4;non;"Grand soleil ; 33 °C au plus chaud, 25 °C au petit matin";-1.76;2026-10-21T18:49
+2041-04-10;ensoleille;23.5;32.8;0.0;non;10.5;non;"Grand soleil ; 33 °C au plus chaud, 23 °C au petit matin";-1.88;2026-10-21T18:49
+2041-04-11;ensoleille;24.8;33.2;0.0;non;11.4;non;"Grand soleil ; 33 °C au plus chaud, 25 °C au petit matin";-1.53;2026-10-21T18:49
+2041-04-12;ensoleille;25.9;33.1;0.0;non;11.4;non;"Grand soleil ; 33 °C au plus chaud, 26 °C au petit matin";-1.67;2026-10-21T18:49
+2041-04-13;ensoleille;25.6;32.9;0.0;non;10.2;non;"Grand soleil ; 33 °C au plus chaud, 26 °C au petit matin";-1.86;2026-10-21T18:49
+2041-04-14;ensoleille;26.7;33.7;0.0;non;11.4;non;"Grand soleil ; 34 °C au plus chaud, 27 °C au petit matin";-1.12;2026-10-21T18:49
+2041-04-15;ensoleille;26.6;33.9;0.0;non;11.4;non;"Grand soleil ; 34 °C au plus chaud, 27 °C au petit matin";-1.03;2026-10-21T18:49
+2041-04-16;ensoleille;27.5;33.8;0.0;non;11.5;non;"Grand soleil ; 34 °C au plus chaud, 28 °C au petit matin";-1.09;2026-10-21T18:49
+2041-04-17;ensoleille;26.0;34.3;0.0;non;10.0;non;"Grand soleil ; 34 °C au plus chaud, 26 °C au petit matin ; chaleur écrasante";-0.58;2026-10-21T18:49
+2041-04-18;ensoleille;24.4;35.5;0.0;non;9.8;non;"Grand soleil ; 35 °C au plus chaud, 24 °C au petit matin ; chaleur écrasante";0.55;2026-10-21T18:49
+2041-04-19;ensoleille;26.0;35.4;0.0;non;10.4;non;"Grand soleil ; 35 °C au plus chaud, 26 °C au petit matin ; chaleur écrasante";0.44;2026-10-21T18:49
+2041-04-20;ensoleille;28.5;36.4;0.0;non;10.4;non;"Grand soleil ; 36 °C au plus chaud, 29 °C au petit matin ; chaleur écrasante";1.48;2026-10-21T18:49
+2041-04-21;ensoleille;27.8;36.5;0.0;non;11.1;non;"Grand soleil ; 36 °C au plus chaud, 28 °C au petit matin ; chaleur écrasante";1.51;2026-10-21T18:49
+2041-04-22;orage;28.0;32.8;6.5;oui;2.5;non;"Orage en fin d'après-midi ; 33 °C au plus chaud, 28 °C au petit matin ; 6,5 mm de pluie";-1.28;2026-10-21T18:49
+2041-04-23;orage;29.6;33.0;6.0;oui;5.6;non;"Orage en début d'après-midi ; 33 °C au plus chaud, 30 °C au petit matin ; 6 mm de pluie";-1.05;2026-10-21T18:49
+2041-04-24;orage;29.9;33.5;29.1;oui;5.7;non;"Orage en fin d'après-midi ; 34 °C au plus chaud, 30 °C au petit matin ; 29,1 mm de pluie";-0.51;2026-10-21T18:49
+2041-04-25;orage;27.5;33.5;1.4;oui;4.1;non;"Orage dans la nuit ; 34 °C au plus chaud, 28 °C au petit matin ; 1,4 mm de pluie";-0.52;2026-10-21T18:49
+2041-04-26;ensoleille;25.9;34.9;0.0;non;11.6;non;"Grand soleil ; 35 °C au plus chaud, 26 °C au petit matin ; chaleur écrasante";-0.09;2026-10-21T18:49
+2041-04-27;ensoleille;27.9;34.5;0.0;non;11.6;non;"Grand soleil ; 34 °C au plus chaud, 28 °C au petit matin ; chaleur écrasante";-0.55;2026-10-21T18:49
+2041-04-28;averses;30.0;35.1;5.3;non;5.3;non;"Averses ; 35 °C au plus chaud, 30 °C au petit matin ; 5,3 mm de pluie ; chaleur écrasante";0.99;2026-10-21T18:49
+2041-04-29;orage;27.8;34.7;13.1;oui;5.4;non;"Orage dans la nuit ; 35 °C au plus chaud, 28 °C au petit matin ; 13,1 mm de pluie ; chaleur écrasante";0.56;2026-10-21T18:49
+2041-04-30;pluie;28.8;35.0;10.2;non;4.2;non;"Pluie ; 35 °C au plus chaud, 29 °C au petit matin ; 10,2 mm de pluie ; chaleur écrasante";0.92;2026-10-21T18:49
+2041-05-01;ensoleille;29.1;35.2;0.0;non;11.6;non;"Grand soleil ; 35 °C au plus chaud, 29 °C au petit matin ; chaleur écrasante";0.11;2026-10-21T18:49
+2041-05-02;ensoleille;26.1;34.4;0.0;non;11.7;non;"Grand soleil ; 34 °C au plus chaud, 26 °C au petit matin ; chaleur écrasante";-0.77;2026-10-21T18:49
+2041-05-03;pluie;28.3;33.1;46.2;non;3.9;non;"Pluie ; 33 °C au plus chaud, 28 °C au petit matin ; 46,2 mm de pluie";-0.99;2026-10-21T18:49
+2041-05-04;averses;29.1;33.3;1.0;non;3.8;non;"Averses ; 33 °C au plus chaud, 29 °C au petit matin ; 1 mm de pluie";-0.85;2026-10-21T18:49
+2041-05-05;orage;27.5;33.3;6.5;oui;3.0;non;"Orage en fin d'après-midi ; 33 °C au plus chaud, 27 °C au petit matin ; 6,5 mm de pluie";-0.79;2026-10-21T18:49
+2041-05-06;ensoleille;27.6;33.6;0.0;non;10.7;non;"Grand soleil ; 34 °C au plus chaud, 28 °C au petit matin";-1.61;2026-10-21T18:49
+2041-05-07;ensoleille;26.6;33.6;0.0;non;9.8;non;"Grand soleil ; 34 °C au plus chaud, 27 °C au petit matin";-1.61;2026-10-21T18:49
+2041-05-08;ensoleille;28.7;36.0;0.0;non;10.3;non;"Grand soleil ; 36 °C au plus chaud, 29 °C au petit matin ; chaleur écrasante";0.76;2026-10-21T18:49
+2041-05-09;orage;29.7;33.7;2.0;oui;2.8;non;"Orage en début d'après-midi ; 34 °C au plus chaud, 30 °C au petit matin ; 2 mm de pluie";-0.50;2026-10-21T18:49
+2041-05-10;ensoleille;27.0;34.1;0.0;non;10.9;non;"Grand soleil ; 34 °C au plus chaud, 27 °C au petit matin ; chaleur écrasante";-1.12;2026-10-21T18:49
+2041-05-11;ensoleille;26.0;32.6;0.0;non;10.8;non;"Grand soleil ; 33 °C au plus chaud, 26 °C au petit matin";-2.66;2026-10-21T18:49
+2041-05-12;orage;28.0;32.8;3.6;oui;0.9;non;"Orage en fin d'après-midi ; 33 °C au plus chaud, 28 °C au petit matin ; 3,6 mm de pluie";-1.40;2026-10-21T18:49
+2041-05-13;pluie;29.0;33.8;18.7;non;4.9;non;"Pluie ; 34 °C au plus chaud, 29 °C au petit matin ; 18,7 mm de pluie";-0.42;2026-10-21T18:49
+2041-05-14;orage;29.0;36.1;2.3;oui;3.3;non;"Orage en fin d'après-midi ; 36 °C au plus chaud, 29 °C au petit matin ; 2,3 mm de pluie ; chaleur écrasante";1.88;2026-10-21T18:49
+2041-05-15;ensoleille;27.8;36.0;0.0;non;11.6;non;"Grand soleil ; 36 °C au plus chaud, 28 °C au petit matin ; chaleur écrasante";0.68;2026-10-21T18:49
+2041-05-16;ensoleille;27.5;36.1;0.0;non;11.0;non;"Grand soleil ; 36 °C au plus chaud, 28 °C au petit matin ; chaleur écrasante";0.80;2026-10-21T18:49
+2041-05-17;ensoleille;26.1;35.2;0.0;non;8.6;non;"Grand soleil ; 35 °C au plus chaud, 26 °C au petit matin ; chaleur écrasante";-0.09;2026-10-21T18:49
+2041-05-18;ensoleille;26.6;33.6;0.0;non;9.8;non;"Grand soleil ; 34 °C au plus chaud, 27 °C au petit matin";-1.63;2026-10-21T18:49
+2041-05-19;ensoleille;28.5;34.8;0.0;non;8.4;non;"Grand soleil ; 35 °C au plus chaud, 28 °C au petit matin ; chaleur écrasante";-0.43;2026-10-21T18:49
+2041-05-20;ensoleille;28.7;36.0;0.0;non;8.8;non;"Grand soleil ; 36 °C au plus chaud, 29 °C au petit matin ; chaleur écrasante";0.86;2026-10-21T18:49
+2041-05-21;ensoleille;27.6;34.7;0.0;non;8.6;non;"Grand soleil ; 35 °C au plus chaud, 28 °C au petit matin ; chaleur écrasante";-0.51;2026-10-21T18:49
+2041-05-22;ensoleille;25.3;35.4;0.0;non;9.7;non;"Grand soleil ; 35 °C au plus chaud, 25 °C au petit matin ; chaleur écrasante";0.26;2026-10-21T18:49
+2041-05-23;ensoleille;27.5;36.3;0.0;non;10.8;non;"Grand soleil ; 36 °C au plus chaud, 28 °C au petit matin ; chaleur écrasante";1.15;2026-10-21T18:49
+2041-05-24;ensoleille;29.5;37.1;0.0;non;9.4;non;"Grand soleil ; 37 °C au plus chaud, 29 °C au petit matin ; chaleur écrasante";1.97;2026-10-21T18:49
+2041-05-25;ensoleille;28.2;36.9;0.0;non;9.2;non;"Grand soleil ; 37 °C au plus chaud, 28 °C au petit matin ; chaleur écrasante";1.80;2026-10-21T18:49
+2041-05-26;ensoleille;29.5;36.7;0.0;non;8.1;non;"Grand soleil ; 37 °C au plus chaud, 29 °C au petit matin ; chaleur écrasante";1.66;2026-10-21T18:49
+2041-05-27;peu_nuageux;26.8;35.7;0.0;non;7.6;non;"Soleil et quelques nuages ; 36 °C au plus chaud, 27 °C au petit matin ; chaleur écrasante";0.71;2026-10-21T18:49
+2041-05-28;ensoleille;29.1;36.7;0.0;non;8.8;non;"Grand soleil ; 37 °C au plus chaud, 29 °C au petit matin ; chaleur écrasante";1.65;2026-10-21T18:49
+2041-05-29;ensoleille;30.6;36.9;0.0;non;9.6;non;"Grand soleil ; 37 °C au plus chaud, 31 °C au petit matin ; chaleur écrasante";1.93;2026-10-21T18:49
+2041-05-30;orage;28.8;34.3;8.1;oui;0.9;non;"Orage dans la nuit ; 34 °C au plus chaud, 29 °C au petit matin ; 8,1 mm de pluie ; chaleur écrasante";0.71;2026-10-21T18:49
+2041-05-31;pluie;29.1;32.2;20.4;non;1.4;non;"Pluie ; 32 °C au plus chaud, 29 °C au petit matin ; 20,4 mm de pluie";-1.31;2026-10-21T18:49
+2041-06-01;orage;28.7;31.9;22.6;oui;3.2;non;"Orage dans la nuit ; 32 °C au plus chaud, 29 °C au petit matin ; 22,6 mm de pluie";-1.63;2026-10-21T18:49
+2041-06-02;orage;28.4;30.8;26.2;oui;1.1;non;"Orage dans la nuit ; 31 °C au plus chaud, 28 °C au petit matin ; 26,2 mm de pluie";-2.68;2026-10-21T18:49
+2041-06-03;orage;27.4;31.7;15.6;oui;0.8;non;"Orage en soirée ; 32 °C au plus chaud, 27 °C au petit matin ; 15,6 mm de pluie";-1.66;2026-10-21T18:49
+2041-06-04;pluie;27.8;31.7;14.8;non;3.7;non;"Pluie ; 32 °C au plus chaud, 28 °C au petit matin ; 14,8 mm de pluie";-1.68;2026-10-21T18:49
+2041-06-05;orage;28.6;34.2;1.9;oui;3.2;non;"Orage dans la nuit ; 34 °C au plus chaud, 29 °C au petit matin ; 1,9 mm de pluie ; chaleur écrasante";0.88;2026-10-21T18:49
+2041-06-06;averses;29.3;33.8;2.0;non;1.0;non;"Averses ; 34 °C au plus chaud, 29 °C au petit matin ; 2 mm de pluie";0.51;2026-10-21T18:49
+2041-06-07;orage;27.6;34.4;59.3;oui;2.6;non;"Orage en soirée ; 34 °C au plus chaud, 28 °C au petit matin ; 59,3 mm de pluie ; chaleur écrasante";1.19;2026-10-21T18:49
+2041-06-08;orage;29.3;32.9;11.6;oui;1.6;non;"Orage en début d'après-midi ; 33 °C au plus chaud, 29 °C au petit matin ; 11,6 mm de pluie";-0.26;2026-10-21T18:49
+2041-06-09;pluie;27.0;32.4;39.4;non;3.4;non;"Pluie ; 32 °C au plus chaud, 27 °C au petit matin ; 39,4 mm de pluie";-0.76;2026-10-21T18:49
+2041-06-10;pluie;27.5;30.5;12.0;non;1.4;non;"Pluie ; 30 °C au plus chaud, 27 °C au petit matin ; 12 mm de pluie";-2.62;2026-10-21T18:49
+2041-06-11;orage;28.5;31.0;1.1;oui;3.8;non;"Orage en fin d'après-midi ; 31 °C au plus chaud, 28 °C au petit matin ; 1,1 mm de pluie";-2.05;2026-10-21T18:49
+2041-06-12;pluie;30.2;32.7;31.1;non;3.8;non;"Pluie ; 33 °C au plus chaud, 30 °C au petit matin ; 31,1 mm de pluie";-0.35;2026-10-21T18:49
+2041-06-13;orage;28.3;32.8;11.5;oui;3.5;non;"Orage en début d'après-midi ; 33 °C au plus chaud, 28 °C au petit matin ; 11,5 mm de pluie";-0.17;2026-10-21T18:49
+2041-06-14;peu_nuageux;26.9;34.2;0.0;non;6.7;non;"Soleil et quelques nuages ; 34 °C au plus chaud, 27 °C au petit matin ; chaleur écrasante";-0.56;2026-10-21T18:49
+2041-06-15;peu_nuageux;27.1;35.7;0.0;non;6.7;non;"Soleil et quelques nuages ; 36 °C au plus chaud, 27 °C au petit matin ; chaleur écrasante";1.00;2026-10-21T18:49
+2041-06-16;orage;28.6;34.1;1.9;oui;3.1;non;"Orage en fin d'après-midi ; 34 °C au plus chaud, 29 °C au petit matin ; 1,9 mm de pluie ; chaleur écrasante";1.29;2026-10-21T18:49
+2041-06-17;orage;26.3;33.2;84.4;oui;2.9;non;"Orage en fin d'après-midi ; 33 °C au plus chaud, 26 °C au petit matin ; 84,4 mm de pluie";0.36;2026-10-21T18:49
+2041-06-18;orage;26.2;34.1;1.4;oui;3.6;non;"Orage en fin d'après-midi ; 34 °C au plus chaud, 26 °C au petit matin ; 1,4 mm de pluie ; chaleur écrasante";1.35;2026-10-21T18:49
+2041-06-19;averses;28.1;33.4;3.2;non;2.5;non;"Averses ; 33 °C au plus chaud, 28 °C au petit matin ; 3,2 mm de pluie";0.69;2026-10-21T18:49
+2041-06-20;peu_nuageux;25.6;33.4;0.0;non;6.7;non;"Soleil et quelques nuages ; 33 °C au plus chaud, 26 °C au petit matin";-1.23;2026-10-21T18:49
+2041-06-21;peu_nuageux;27.4;35.4;0.0;non;7.8;non;"Soleil et quelques nuages ; 35 °C au plus chaud, 27 °C au petit matin ; chaleur écrasante";0.85;2026-10-21T18:49
+2041-06-22;orage;25.9;31.1;87.2;oui;2.9;non;"Orage dans la nuit ; 31 °C au plus chaud, 26 °C au petit matin ; 87,2 mm de pluie";-1.47;2026-10-21T18:49
+2041-06-23;pluie;26.9;31.2;12.3;non;3.2;non;"Pluie ; 31 °C au plus chaud, 27 °C au petit matin ; 12,3 mm de pluie";-1.28;2026-10-21T18:49
+2041-06-24;orage;27.8;32.3;12.5;oui;2.1;non;"Orage en fin d'après-midi ; 32 °C au plus chaud, 28 °C au petit matin ; 12,5 mm de pluie";-0.19;2026-10-21T18:49
+2041-06-25;orage;27.1;31.3;7.8;oui;2.1;non;"Orage en fin d'après-midi ; 31 °C au plus chaud, 27 °C au petit matin ; 7,8 mm de pluie";-1.17;2026-10-21T18:49
+2041-06-26;averses;29.0;32.4;2.6;non;2.8;non;"Averses ; 32 °C au plus chaud, 29 °C au petit matin ; 2,6 mm de pluie";-0.01;2026-10-21T18:49
+2041-06-27;peu_nuageux;28.7;35.9;0.0;non;6.6;non;"Soleil et quelques nuages ; 36 °C au plus chaud, 29 °C au petit matin ; chaleur écrasante";1.52;2026-10-21T18:49
+2041-06-28;orage;28.7;33.9;12.4;oui;2.7;non;"Orage en fin d'après-midi ; 34 °C au plus chaud, 29 °C au petit matin ; 12,4 mm de pluie";1.56;2026-10-21T18:49
+2041-06-29;orage;28.5;33.5;2.0;oui;3.0;non;"Orage en soirée ; 34 °C au plus chaud, 29 °C au petit matin ; 2 mm de pluie";1.27;2026-10-21T18:49
+2041-06-30;orage;28.4;34.2;1.0;oui;2.8;non;"Orage dans la nuit ; 34 °C au plus chaud, 28 °C au petit matin ; 1 mm de pluie ; chaleur écrasante";2.02;2026-10-21T18:49
+2041-07-01;nuageux;26.4;36.7;0.0;non;5.8;non;"Ciel partagé ; 37 °C au plus chaud, 26 °C au petit matin ; chaleur écrasante";2.36;2026-10-21T18:49
+2041-07-02;averses;27.6;33.2;6.5;non;0.6;non;"Averses ; 33 °C au plus chaud, 28 °C au petit matin ; 6,5 mm de pluie";1.10;2026-10-21T18:49
+2041-07-03;orage;28.7;34.4;3.0;oui;3.0;non;"Orage en soirée ; 34 °C au plus chaud, 29 °C au petit matin ; 3 mm de pluie ; chaleur écrasante";2.31;2026-10-21T18:49
+2041-07-04;orage;28.0;32.5;1.3;oui;0.8;non;"Orage dans la nuit ; 33 °C au plus chaud, 28 °C au petit matin ; 1,3 mm de pluie";0.49;2026-10-21T18:49
+2041-07-05;orage;28.7;32.2;1.0;oui;1.3;non;"Orage en soirée ; 32 °C au plus chaud, 29 °C au petit matin ; 1 mm de pluie";0.20;2026-10-21T18:49
+2041-07-06;orage;30.5;32.5;2.3;oui;2.1;non;"Orage dans la nuit ; 33 °C au plus chaud, 30 °C au petit matin ; 2,3 mm de pluie";0.60;2026-10-21T18:49
+2041-07-07;orage;28.0;33.4;1.5;oui;0.6;non;"Orage en fin d'après-midi ; 33 °C au plus chaud, 28 °C au petit matin ; 1,5 mm de pluie";1.48;2026-10-21T18:49
+2041-07-08;nuageux;27.1;35.7;0.0;non;5.3;non;"Ciel partagé ; 36 °C au plus chaud, 27 °C au petit matin ; chaleur écrasante";1.54;2026-10-21T18:49
+2041-07-09;peu_nuageux;27.8;34.1;0.0;non;6.2;non;"Soleil et quelques nuages ; 34 °C au plus chaud, 28 °C au petit matin ; chaleur écrasante";-0.03;2026-10-21T18:49
+2041-07-10;peu_nuageux;26.3;34.6;0.0;non;6.1;non;"Soleil et quelques nuages ; 35 °C au plus chaud, 26 °C au petit matin ; chaleur écrasante";0.56;2026-10-21T18:49
+2041-07-11;peu_nuageux;25.7;34.2;0.0;non;6.9;non;"Soleil et quelques nuages ; 34 °C au plus chaud, 26 °C au petit matin ; chaleur écrasante";0.13;2026-10-21T18:49
+2041-07-12;orage;27.4;30.3;1.5;oui;3.0;non;"Orage en début d'après-midi ; 30 °C au plus chaud, 27 °C au petit matin ; 1,5 mm de pluie";-1.31;2026-10-21T18:49
+2041-07-13;averses;27.2;32.0;1.9;non;1.4;non;"Averses ; 32 °C au plus chaud, 27 °C au petit matin ; 1,9 mm de pluie";0.38;2026-10-21T18:49
+2041-07-14;orage;26.5;31.5;30.6;oui;2.5;non;"Orage dans la nuit ; 31 °C au plus chaud, 27 °C au petit matin ; 30,6 mm de pluie";-0.06;2026-10-21T18:49
+2041-07-15;deluge;26.1;30.5;111.3;non;1.5;non;"Mousson renforcée par la tempête « auxiliaire n° 6 » ; 111.3 mm de pluie ; cours suspendus dans plusieurs villes de Metro Manila ; rues inondées dans les quartiers bas, EDSA saturée";0.42;2026-10-21T18:49
+2041-07-16;deluge;26.6;30.5;60.8;oui;0.9;non;"Mousson renforcée par la tempête « auxiliaire n° 6 » ; 60.8 mm de pluie ; rues inondées dans les quartiers bas, EDSA saturée";0.11;2026-10-21T18:49

@@ -1,0 +1,3 @@
+id;nom;type;compte;limite;limite_temp;temp_jusqua;periode;debit_jour;statut;source;note
+visa_debit;Visa Debit;debit;courant;2500;;;mois;;active;F059 · F062;limite par défaut de la Spuerkeess (retraits, magasins et internet confondus, par mois civil) · package Zebra Premium (biographie choisie par l'utilisateur le 12/10/2026)
+visa_premier;Visa Premier;credit;courant;5000;;;cloture_avant_dernier_ouvre;7;active;F061 · F062 · F063;limite mensuelle fixée avec le conseiller : 5 000 € (estimation du moteur acceptée par l'utilisateur, 12/10/2026) · relevé clos le pénultième jour ouvré du mois · solde débité en une fois vers le 7 du mois suivant (calendrier 2024 de la banque : clôture 30/01, débit 07/02) · assurances voyage incluses

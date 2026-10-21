@@ -225,3 +225,43 @@ Effets à jouer : A07 (vendredi 20/07 (matin)) : Retard d'un virement, d'un envo
 - Procédure « Maxine Garcia : heure de son « j'aime » spontané » : 18/07 22:57 [PROCÉDURE : horaires de vie (routines.py) · T21c] (enregistré le 14/10/2026 21:49 heure machine)
 
 - Procédure « Julia Domingo : heure de son « j'aime » spontané » : 19/07 20:35 [PROCÉDURE : horaires de vie (routines.py) · T21c] (enregistré le 14/10/2026 21:49 heure machine)
+
+- Tropiques : tempête « Lekep » entrée dans la PAR le 08/08/2040 ; effet sur Metro Manila : aucun [PROCÉDURE : climatologie PAGASA, outils/tropiques.py] (enregistré le 21/10/2026 18:49 heure machine)
+
+- Tropiques : tempête « Marce » entrée dans la PAR le 18/08/2040 ; effet sur Metro Manila : habagat du 2040-08-19 au 2040-08-21 [PROCÉDURE : climatologie PAGASA, outils/tropiques.py] (enregistré le 21/10/2026 18:49 heure machine)
+
+- Tropiques : tempête « Nanolay » entrée dans la PAR le 18/08/2040 ; effet sur Metro Manila : habagat du 2040-08-20 au 2040-08-21 [PROCÉDURE : climatologie PAGASA, outils/tropiques.py] (enregistré le 21/10/2026 18:49 heure machine)
+
+- Tropiques : tempête « Onos » entrée dans la PAR le 24/08/2040 ; effet sur Metro Manila : aucun [PROCÉDURE : climatologie PAGASA, outils/tropiques.py] (enregistré le 21/10/2026 18:49 heure machine)
+
+- Tropiques : tempête « Puwok » entrée dans la PAR le 01/09/2040 ; effet sur Metro Manila : aucun [PROCÉDURE : climatologie PAGASA, outils/tropiques.py] (enregistré le 21/10/2026 18:49 heure machine)
+
+- Tropiques : tempête « Querubin » entrée dans la PAR le 05/09/2040 ; effet sur Metro Manila : aucun [PROCÉDURE : climatologie PAGASA, outils/tropiques.py] (enregistré le 21/10/2026 18:49 heure machine)
+
+- Tropiques : tempête « Romina » entrée dans la PAR le 08/09/2040 ; effet sur Metro Manila : aucun [PROCÉDURE : climatologie PAGASA, outils/tropiques.py] (enregistré le 21/10/2026 18:49 heure machine)
+
+- Tropiques : tempête « Siony » entrée dans la PAR le 10/09/2040 ; effet sur Metro Manila : aucun [PROCÉDURE : climatologie PAGASA, outils/tropiques.py] (enregistré le 21/10/2026 18:49 heure machine)
+
+- Tropiques : tempête « Tonyo » entrée dans la PAR le 21/09/2040 ; effet sur Metro Manila : aucun [PROCÉDURE : climatologie PAGASA, outils/tropiques.py] (enregistré le 21/10/2026 18:49 heure machine)
+
+- Tropiques : tempête « Upang » entrée dans la PAR le 25/09/2040 ; effet sur Metro Manila : habagat du 2040-09-28 au 2040-09-29 [PROCÉDURE : climatologie PAGASA, outils/tropiques.py] (enregistré le 21/10/2026 18:49 heure machine)
+
+- Tropiques : tempête « Vicky » entrée dans la PAR le 28/09/2040 ; effet sur Metro Manila : habagat du 2040-09-30 au 2040-10-03 [PROCÉDURE : climatologie PAGASA, outils/tropiques.py] (enregistré le 21/10/2026 18:49 heure machine)
+
+- Tropiques : tempête « Warren » entrée dans la PAR le 07/11/2040 ; effet sur Metro Manila : signal_1 du 2040-11-09 au 2040-11-10 [PROCÉDURE : climatologie PAGASA, outils/tropiques.py] (enregistré le 21/10/2026 18:49 heure machine)
+
+- Tropiques : tempête « Yoyong » entrée dans la PAR le 09/11/2040 ; effet sur Metro Manila : aucun [PROCÉDURE : climatologie PAGASA, outils/tropiques.py] (enregistré le 21/10/2026 18:49 heure machine)
+
+- Tropiques : tempête « Zosimo » entrée dans la PAR le 12/11/2040 ; effet sur Metro Manila : aucun [PROCÉDURE : climatologie PAGASA, outils/tropiques.py] (enregistré le 21/10/2026 18:49 heure machine)
+
+- Tropiques : tempête « auxiliaire n° 1 » entrée dans la PAR le 18/11/2040 ; effet sur Metro Manila : aucun [PROCÉDURE : climatologie PAGASA, outils/tropiques.py] (enregistré le 21/10/2026 18:49 heure machine)
+
+- Tropiques : tempête « auxiliaire n° 2 » entrée dans la PAR le 27/11/2040 ; effet sur Metro Manila : aucun [PROCÉDURE : climatologie PAGASA, outils/tropiques.py] (enregistré le 21/10/2026 18:49 heure machine)
+
+- Tropiques : tempête « auxiliaire n° 3 » entrée dans la PAR le 09/12/2040 ; effet sur Metro Manila : aucun [PROCÉDURE : climatologie PAGASA, outils/tropiques.py] (enregistré le 21/10/2026 18:49 heure machine)
+
+- Tropiques : tempête « auxiliaire n° 4 » entrée dans la PAR le 29/01/2041 ; effet sur Metro Manila : aucun [PROCÉDURE : climatologie PAGASA, outils/tropiques.py] (enregistré le 21/10/2026 18:49 heure machine)
+
+- Tropiques : tempête « auxiliaire n° 5 » entrée dans la PAR le 30/01/2041 ; effet sur Metro Manila : aucun [PROCÉDURE : climatologie PAGASA, outils/tropiques.py] (enregistré le 21/10/2026 18:49 heure machine)
+
+- Tropiques : tempête « auxiliaire n° 6 » entrée dans la PAR le 12/07/2041 ; effet sur Metro Manila : habagat du 2041-07-15 au 2041-07-17 [PROCÉDURE : climatologie PAGASA, outils/tropiques.py] (enregistré le 21/10/2026 18:49 heure machine)

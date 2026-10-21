@@ -1,53 +1,35 @@
 date;heure;compte;montant;type;libelle;reference
-2040-07-14;07:00;courant;9800.00;calage;Solde de départ de l'univers 2 (niveau initial choisi par l'utilisateur le 11/10/2026) (avant : daté du 17/07 → maintenant : 14/07, départ redaté le 11/10/2026);
-2040-07-14;07:00;projet;357000.00;calage;Solde de départ de l'univers 2 (épargne « Projet ») (avant : daté du 17/07 → maintenant : 14/07, départ redaté le 11/10/2026);
-2040-07-14;07:00;etf;288000.00;calage;Valeur de départ de l'univers 2 (ETF) (avant : daté du 17/07 → maintenant : 14/07, départ redaté le 11/10/2026);
-2040-07-14;07:00;pret;110003.13;calage;Prêt logement restant dû (départ de l'univers 2) (avant : daté du 17/07 → maintenant : 14/07, départ redaté le 11/10/2026) (avant : 110 000,00 € → maintenant : 110 003,13 €, capital restant dû après l'échéance n° 71 du 05/07/2040 selon le tableau d'amortissement du prêt PR1, 11/10/2026);
-2040-07-14;07:00;maison_part;89996.87;valeur;Part nette de la maison d'Audun-le-Tiche (estimation) (avant : daté du 17/07 → maintenant : 14/07, départ redaté le 11/10/2026) (avant : 90 000,00 € → maintenant : 89 996,87 € = valeur estimée 200 000 € − capital restant dû 110 003,13 €, 11/10/2026);
-2040-07-31;12:00;courant;9300.00;prevu_annule;Traitement de juillet (≈ net · jour exact à établir) [annulé : remplacé par l'échéancier E001, 11/10/2026];P001
-2040-07-31;20:00;courant;9300.00;prevu_annule;"Traitement mensuel de William (net, État luxembourgeois) [annulé : aléa A09 du 17/07 (15h00) : IBAN d'un autre agent copié par erreur dans le dossier de William au CGPO ; le traitement de juillet part ailleurs le 31/07 ; nouveau versement à écrire quand il sera joué (agenda A024)]";E001-20400731
-2040-08-31;20:00;courant;9300.00;prevu;Traitement mensuel de William (net, État luxembourgeois);E001-20400831
-2040-08-06;06:00;courant;-940.00;prevu_annule;Mensualité du crédit immobilier (maison d'Audun-le-Tiche) [annulé le 11/10/2026 : montant recalculé (prêt PR1, électricité avec recharge), remplacé par le nouveau prévu];E002-20400806-v1
-2040-09-05;06:00;courant;-940.00;prevu_annule;Mensualité du crédit immobilier (maison d'Audun-le-Tiche) [annulé le 11/10/2026 : montant recalculé (prêt PR1, électricité avec recharge), remplacé par le nouveau prévu];E002-20400905-v1
-2040-08-10;06:00;courant;-112.00;prevu_annule;Électricité (mensualisation, tarif réglementé) [annulé le 11/10/2026 : montant recalculé (prêt PR1, électricité avec recharge), remplacé par le nouveau prévu];E003-20400810-v1
-2040-09-10;06:00;courant;-112.00;prevu_annule;Électricité (mensualisation, tarif réglementé) [annulé le 11/10/2026 : montant recalculé (prêt PR1, électricité avec recharge), remplacé par le nouveau prévu];E003-20400910-v1
-2040-07-16;06:00;courant;-63.00;prevu_realise;Box internet fibre et forfait mobile;E005-20400716
-2040-08-16;06:00;courant;-63.00;prevu;Box internet fibre et forfait mobile;E005-20400816
-2040-08-01;06:00;courant;-85.00;prevu;Minett Combat Club (Esch-sur-Alzette) : accès complet;E008-20400801
-2040-09-03;06:00;courant;-85.00;prevu;Minett Combat Club (Esch-sur-Alzette) : accès complet;E008-20400903
-2040-08-06;06:00;courant;-949.28;prevu;Mensualité du prêt immobilier et assurance emprunteur (maison d'Audun-le-Tiche) (échéance n° 72 : capital 605.31 €, intérêts 320.84 €, assurance 23.13 €);E002-20400806
-2040-08-06;06:00;pret;-605.31;prevu;Prêt immobilier de la maison d'Audun-le-Tiche (taux fixe, amortissable) : capital remboursé (échéance n° 72);E002-20400806-K
-2040-08-06;06:00;maison_part;605.31;prevu;Part nette du bien financé : + capital remboursé (échéance n° 72 du prêt PR1);E002-20400806-M
-2040-09-05;06:00;courant;-949.28;prevu;Mensualité du prêt immobilier et assurance emprunteur (maison d'Audun-le-Tiche) (échéance n° 73 : capital 607.07 €, intérêts 319.08 €, assurance 23.13 €);E002-20400905
-2040-09-05;06:00;pret;-607.07;prevu;Prêt immobilier de la maison d'Audun-le-Tiche (taux fixe, amortissable) : capital remboursé (échéance n° 73);E002-20400905-K
-2040-09-05;06:00;maison_part;607.07;prevu;Part nette du bien financé : + capital remboursé (échéance n° 73 du prêt PR1);E002-20400905-M
-2040-08-10;06:00;courant;-132.00;prevu;Électricité (mensualisation · option heures creuses, 9 kVA · recharge de la voiture la nuit);E003-20400810
-2040-09-10;06:00;courant;-132.00;prevu;Électricité (mensualisation · option heures creuses, 9 kVA · recharge de la voiture la nuit);E003-20400910
-2040-08-10;06:00;courant;-253.00;prevu;Gaz naturel (chauffage, eau chaude, cuisson) : mensualisation;E004-20400810
-2040-09-10;06:00;courant;-253.00;prevu;Gaz naturel (chauffage, eau chaude, cuisson) : mensualisation;E004-20400910
-2040-08-06;06:00;courant;-45.00;prevu;Assurance habitation (maison, propriétaire occupant) : mensualisée;E007-20400806
-2040-09-05;06:00;courant;-45.00;prevu;Assurance habitation (maison, propriétaire occupant) : mensualisée;E007-20400905
-2040-08-06;06:00;courant;-107.00;prevu;Voiture électrique : assurance tous risques (mensualisée);E010-20400806
-2040-09-05;06:00;courant;-107.00;prevu;Voiture électrique : assurance tous risques (mensualisée);E010-20400905
-2040-08-02;08:00;courant;-2850.00;prevu;Virement permanent vers le compte épargne (45 % du surplus);E012-20400802
-2040-08-02;08:00;projet;2850.00;prevu;Virement permanent vers le compte épargne (45 % du surplus) (compte crédité);E012-20400802-C
-2040-09-03;08:00;courant;-2850.00;prevu;Virement permanent vers le compte épargne (45 % du surplus);E012-20400903
-2040-09-03;08:00;projet;2850.00;prevu;Virement permanent vers le compte épargne (45 % du surplus) (compte crédité);E012-20400903-C
-2040-08-02;08:00;courant;-2850.00;prevu;Virement permanent vers le compte-titres ETF (45 % du surplus);E014-20400802
-2040-08-02;08:00;etf;2850.00;prevu;Virement permanent vers le compte-titres ETF (45 % du surplus) (compte crédité);E014-20400802-C
-2040-09-03;08:00;courant;-2850.00;prevu;Virement permanent vers le compte-titres ETF (45 % du surplus);E014-20400903
-2040-09-03;08:00;etf;2850.00;prevu;Virement permanent vers le compte-titres ETF (45 % du surplus) (compte crédité);E014-20400903-C
-2040-07-14;10:04;courant;-2179.00;retire;"Billet d'avion Luxembourg – Yaoundé (Lufthansa + Ethiopian), aller le 20/07, retour le 31/08 · Kestrel Voyages, réservation CYNERS [retiré : correction hors fiction demandée par l'utilisateur le 12/10/2026 : la destination voulue était Manille, pas Yaoundé (erreur du joueur, tours n° 2 et 3) ; réservation retirée sans effet dans la fiction]";R001
-2040-07-14;10:25;projet;-30000.00;mouvement;Virement Compte épargne → Compte courant;B001
-2040-07-14;10:25;courant;30000.00;mouvement;Virement Compte épargne → Compte courant (compte crédité);B001-C
-2040-09-28;20:00;courant;9300.00;prevu;Traitement mensuel de William (net, État luxembourgeois);E001-20400928
-2040-09-17;06:00;courant;-63.00;prevu;Box internet fibre et forfait mobile;E005-20400917
-2040-09-20;06:00;courant;-187.50;prevu;Eau et assainissement (Audun-le-Tiche);E006-20400920
-2040-08-01;06:00;courant;-12.83;prevu;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20400801
-2040-09-03;06:00;courant;-12.83;prevu;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20400903
-2040-08-07;06:00;courant;-4890.00;prevu;Visa Premier : relevé clos le 30/07/2040, débit du solde (4 890,00 €);C-visa_premier-20400730
-2040-07-17;08:58;courant;-24.99;mouvement;Visa Debit : Application de rencontre (abonnement Plus);K003
-2040-08-17;08:58;courant;-24.99;prevu;Application de rencontre : abonnement Plus (mode voyage);E016-20400817
-2040-07-18;11:25;courant;-4.05;mouvement;Visa Debit : CFL go : billet RegioZone 2 h;K004
-2040-07-18;13:40;courant;-31.40;mouvement;Visa Debit : Luxembourg Airport : restaurant panoramique;K005
-2040-09-17;08:58;courant;-24.99;prevu;Application de rencontre : abonnement Plus (mode voyage);E016-20400917
+2041-07-16;07:00;courant;10000.00;calage;Solde de départ de l'univers 3 (compte courant Spuerkeess, 5 mois de socle vital);
+2041-07-16;07:00;projet;75250.00;calage;Solde de départ de l'univers 3 (compte épargne sécurité Spuerkeess);
+2041-07-16;07:00;etf;670380.00;calage;Valeur de départ de l'univers 3 (portefeuille ETF Monde à 36 ans);
+2041-07-16;07:00;pret;102621.78;calage;Prêt logement restant dû (départ de l'univers 3, capital restant dû au 16/07/2041 selon tableau PR1);
+2041-07-16;07:00;maison_part;97378.22;valeur;Part nette de la maison d'Audun-le-Tiche (valeur estimée 200 000 € - CRD 102 621,78 €);
+2041-07-31;20:00;courant;9320.00;prevu;Traitement mensuel de William (net, État luxembourgeois);E001-20410731
+2041-08-30;20:00;courant;9320.00;prevu;Traitement mensuel de William (net, État luxembourgeois);E001-20410830
+2041-08-05;06:00;courant;-949.28;prevu;Mensualité du prêt immobilier et assurance emprunteur (maison d'Audun-le-Tiche) (échéance n° 84 : capital 626.84 €, intérêts 299.31 €, assurance 23.13 €);E002-20410805
+2041-08-05;06:00;pret;-626.84;prevu;Prêt immobilier de la maison d'Audun-le-Tiche (taux fixe, amortissable) : capital remboursé (échéance n° 84);E002-20410805-K
+2041-08-05;06:00;maison_part;626.84;prevu;Part nette du bien financé : + capital remboursé (échéance n° 84 du prêt PR1);E002-20410805-M
+2041-09-05;06:00;courant;-949.28;prevu;Mensualité du prêt immobilier et assurance emprunteur (maison d'Audun-le-Tiche) (échéance n° 85 : capital 628.66 €, intérêts 297.49 €, assurance 23.13 €);E002-20410905
+2041-09-05;06:00;pret;-628.66;prevu;Prêt immobilier de la maison d'Audun-le-Tiche (taux fixe, amortissable) : capital remboursé (échéance n° 85);E002-20410905-K
+2041-09-05;06:00;maison_part;628.66;prevu;Part nette du bien financé : + capital remboursé (échéance n° 85 du prêt PR1);E002-20410905-M
+2041-08-12;06:00;courant;-132.00;prevu;Électricité (mensualisation · option heures creuses, 9 kVA · recharge de la voiture la nuit);E003-20410812
+2041-09-10;06:00;courant;-132.00;prevu;Électricité (mensualisation · option heures creuses, 9 kVA · recharge de la voiture la nuit);E003-20410910
+2041-08-12;06:00;courant;-253.00;prevu;Gaz naturel (chauffage, eau chaude, cuisson) : mensualisation;E004-20410812
+2041-09-10;06:00;courant;-253.00;prevu;Gaz naturel (chauffage, eau chaude, cuisson) : mensualisation;E004-20410910
+2041-08-16;06:00;courant;-63.00;prevu;Box internet fibre et forfait mobile;E005-20410816
+2041-08-05;06:00;courant;-45.00;prevu;Assurance habitation (maison, propriétaire occupant) : mensualisée;E007-20410805
+2041-09-05;06:00;courant;-45.00;prevu;Assurance habitation (maison, propriétaire occupant) : mensualisée;E007-20410905
+2041-08-01;06:00;courant;-85.00;prevu;Minett Combat Club (Esch-sur-Alzette) : accès complet;E008-20410801
+2041-09-02;06:00;courant;-85.00;prevu;Minett Combat Club (Esch-sur-Alzette) : accès complet;E008-20410902
+2041-08-05;06:00;courant;-107.00;prevu;Voiture électrique : assurance tous risques (mensualisée);E010-20410805
+2041-09-05;06:00;courant;-107.00;prevu;Voiture électrique : assurance tous risques (mensualisée);E010-20410905
+2041-08-02;08:00;courant;-732.00;prevu;Virement permanent vers le compte épargne (10 % de l'excédent net);E012-20410802
+2041-08-02;08:00;projet;732.00;prevu;Virement permanent vers le compte épargne (10 % de l'excédent net) (compte crédité);E012-20410802-C
+2041-09-02;08:00;courant;-732.00;prevu;Virement permanent vers le compte épargne (10 % de l'excédent net);E012-20410902
+2041-09-02;08:00;projet;732.00;prevu;Virement permanent vers le compte épargne (10 % de l'excédent net) (compte crédité);E012-20410902-C
+2041-08-02;08:00;courant;-5755.00;prevu;Virement permanent vers le compte-titres ETF (solde net après vacances et sécurité);E014-20410802
+2041-08-02;08:00;etf;5755.00;prevu;Virement permanent vers le compte-titres ETF (solde net après vacances et sécurité) (compte crédité);E014-20410802-C
+2041-09-02;08:00;courant;-5755.00;prevu;Virement permanent vers le compte-titres ETF (solde net après vacances et sécurité);E014-20410902
+2041-09-02;08:00;etf;5755.00;prevu;Virement permanent vers le compte-titres ETF (solde net après vacances et sécurité) (compte crédité);E014-20410902-C
+2041-08-01;06:00;courant;-12.83;prevu;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20410801
+2041-09-02;06:00;courant;-12.83;prevu;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20410902

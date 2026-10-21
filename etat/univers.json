@@ -1,19 +1,19 @@
 {
- "univers": 2,
- "depart": "2040-07-14 08:37",
+ "univers": 3,
+ "depart": "2041-07-16 08:37",
  "fuseau": "luxembourg",
  "lieu": "Audun-le-Tiche (Moselle), chez William",
- "redemarre_le": "2026-10-11",
- "premiere_revue": "2040-07-16",
+ "redemarre_le": "2026-10-21",
+ "premiere_revue": "2041-07-21",
  "soldes_depart": {
-  "courant": 9800,
-  "projet": 357000,
-  "etf": 288000,
-  "pret": 110000,
-  "maison_part": 90000
+  "courant": 10000,
+  "projet": 75250,
+  "etf": 670380,
+  "pret": 102621.78,
+  "maison_part": 97378.22
  },
  "historique": [
-  "11/10/2026 (date réelle) : redémarrage complet demandé par l'utilisateur (univers neuf à 35 ans, argent initial, paramètres repris) ; départ fixé au mardi 17/07/2040, 07h05.",
-  "11/10/2026 (date réelle) : l'utilisateur demande de repartir « au premier vrai jour de libre, le premier jour du début des vacances » : départ redaté au samedi 14/07/2040, 08h37 (premier jour des vacances d'été luxembourgeoises ; coucher et réveil tirés au dé). Le faux départ du 17/07 est archivé dans archives/univers-2-faux-depart/."
+  "11/10/2026 (date réelle) : redémarrage Univers 2 à 35 ans (samedi 14/07/2040, 08h37).",
+  "21/10/2026 (date réelle) : redémarrage Univers 3 à 36 ans (mercredi 16/07/2041, 08h37), tout premier jour de libre des vacances d'été après la fin d'année académique, avec la maquette financière Solo sans enfant (Classe U)."
  ]
 }
