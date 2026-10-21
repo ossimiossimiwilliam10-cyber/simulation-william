@@ -104,6 +104,8 @@
 
 - **Modèle financier Solo et Entrepreneuriat (Luxembourg)** (21/10/2026) : en mathématiques, William est célibataire sans enfant (Classe U). Il assume 3 leçons supplémentaires hebdomadaires dès sa titularisation à 28 ans (25 leçons au total, décharges d'âge converties). Formule d'allocation : socle vital fixe 2 000 €/mois, budget vacances 833 €/mois (10 000 €/an), sécurité liquide 10 % de l'excédent net total après socle vital, et solde versé en ETF Monde (~90 % du surplus net). À 35 ans : net lissé de 8 980 € (698 € sécurité, 5 449 € ETF). Entrepreneuriat (Statut général, art. 14) : activité accessoire autorisée par le MENJE (EdTech, logiciel, édition) ou associé non-gérant d'une société de capitaux ; fenêtre optimale à 30-32 ans, bascule possible à 36-38 ans (temps partiel ou congé sans traitement). Toujours utiliser `python outils/carriere.py` (`etat/carriere.md`).
 
+- **Visuels et planches photos des personnages (demande de l'utilisateur, 21/10/2026)** : toute planche visuelle, portrait ou composition de photos d'un personnage transmise ou créée est systématiquement archivée dans personnes/images/<prenom-nom>-planche.jpg et liée directement en tête de sa fiche markdown (personnes/<prenom-nom>.md). Le moteur s'appuie sur ces références graphiques pour préserver une cohérence absolue des scènes (traits, morphologie, tenues de travail, lieux habituels).
+
 ## Grandes décisions hors fiction (historique)
 - 25/07/2040 (simulé) : il a envisagé d'arrêter, puis a décidé de continuer avec tous les paramètres.
 - 11/10/2026 (réel) : redémarrage complet (univers 2) à 35 ans, argent initial, paramètres repris ; départ d'abord fixé au mardi

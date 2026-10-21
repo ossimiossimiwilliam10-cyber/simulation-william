@@ -178,6 +178,8 @@ et parfois peu morale exprès : ne l'en empêche pas, joue les conséquences.
 - Nouveau personnage récurrent = nouvelle fiche dans `personnes/`
   (description physique, caractère, lien avec William, historique).
 
+- **Visuels et planches photos (demande de l'utilisateur, 21/10/2026)** : dès qu'une planche ou photo d'un personnage est transmise ou créée, l'image est archivée dans personnes/images/<prenom-nom>-planche.jpg et liée directement en tête de sa fiche dans personnes/ (![Planche](images/<prenom-nom>-planche.jpg)). Le moteur s'appuie dessus pour la cohérence absolue des scènes.
+
 ## 8. TON
 Direct, structuré, sobre. Pas de flatterie ni d'encouragements.
 Langue : **français**.
