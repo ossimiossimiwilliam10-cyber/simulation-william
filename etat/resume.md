@@ -1,4 +1,4 @@
-# Résumé d'état (généré le 21/10/2026 19:02 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 21/10/2026 19:10 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
 ## Horloge : mardi 16/07/2041 08:37 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
@@ -17,14 +17,14 @@
 ## Agenda : dans les 24 heures (0)
 - rien
 ## Agenda : de J+1 à J+7 (1)
-- A001 Sun 21/07 08:00 (luxembourg) | Moteur et utilisateur : Revue du lundi n° 1 de l'univers 3 (hors fiction, avant le premier tour du jour) ; adaptation des aléas et propositions [prevu]  — CLAUDE.md §12 | premier lundi de l'Univers 3 le 21/07/2041
+- A001 Mon 22/07 08:00 (luxembourg) | Moteur et utilisateur : Revue du lundi n° 1 de l'univers 3 (hors fiction, avant le premier tour du jour) ; adaptation des aléas et propositions [prevu]  — CLAUDE.md §12 | premier lundi de l'Univers 3 le 22/07/2041
 (Les lignes « NON CONNU DE WILLIAM » servent au moteur : ne jamais les montrer au joueur avant le jour dit.)
 
 ## Affaires ouvertes (T4/T5 chaque dimanche soir)
 
 ## Fêtes et fériés dans les 30 jours
-- jeu 15/08 FR Assomption
-- jeu 15/08 LU Assomption
+- jeu 15/08/2041 FR Assomption
+- jeu 15/08/2041 LU Assomption
 
 ## Routine du tour
 - Session : `python outils/relais.py entree --agent "<nom>"` au début ; `python outils/relais.py sortie --note … --commit … --fusionner` à la fin.
@@ -33,9 +33,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-07-16.md, 6 dernières lignes)
-> # Journal du mercredi 16 juillet 2041 (Univers 3)
+> # Journal du mardi 16 juillet 2041 (Univers 3)
 > ## 08h37 — Audun-le-Tiche (Moselle), chez William
-> - Premier réveil des vacances d'été scolaires à 36 ans (dernier jour de classe le mardi 15/07/2041).
+> - Premier réveil des vacances d'été scolaires à 36 ans (dernier jour de classe le lundi 15/07/2041).
 > - Réveil sans sonnerie à 08h37 après une nuit de plus de 9 heures (couché vers 23h20).
 > - Situation financière au départ : Compte courant 10 000,00 €, Épargne sécurité 75 250,00 €, ETF Monde 670 380,00 €, Part nette maison 97 378,22 € (CRD prêt PR1 102 621,78 €). Patrimoine net total : 853 008,22 €.
 > - Traitement net mensuel : 9 320,00 € (Gr. 14, 540 pts + 3 leçons sup). Répartition : socle vital 2 000 €, vacances 833 €, sécurité liquide 732 €, ETF Monde 5 755 €.

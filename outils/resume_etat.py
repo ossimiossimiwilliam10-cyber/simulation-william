@@ -98,7 +98,7 @@ def construire():
         if deb and t.date() <= deb <= fin:
             fetes.append((deb, "--", "début du Ramadan", True))
     L.append("## Fêtes et fériés dans les 30 jours")
-    L += [f"- {JOURS[d.weekday()][:3]} {d:%d/%m} {p} {'≈ ' if ap else ''}{nom}" for d, p, nom, ap in sorted(set(fetes))] or ["- aucun"]
+    L += [f"- {JOURS[d.weekday()][:3]} {d:%d/%m/%Y} {p} {'≈ ' if ap else ''}{nom}" for d, p, nom, ap in sorted(set(fetes))] or ["- aucun"]
     L.append("")
 
     demain = t.date() + dt.timedelta(days=1)

@@ -33,8 +33,8 @@
 - Allocation de fin d'année (13e mois) : traitement de base de décembre (F006 ; versé fin décembre).
 - Statut de fonctionnaire : toute activité commerciale ou rémunérée dans le privé exige une autorisation préalable (article 14
   du statut général, F083 à F086).
-- **Vacances d'été 2041** : dernier jour de classe le lundi 15/07/2041 ; vacances scolaires du mardi 16/07 au dimanche 14/09/2041 ;
-  rentrée le lundi 15/09/2041 (F001 ; agenda A002).
+- **Vacances d'été 2041** : dernier jour de classe le lundi 15/07/2041 ; vacances scolaires du mardi 16/07/2041 au dimanche 15/09/2041 ;
+  rentrée le lundi 16/09/2041 (F001 ; agenda A002).
 
 ## Logement
 - Maison mitoyenne ancienne, trois chambres, **Audun-le-Tiche** (Moselle, France), achetée 180 000 € en 2034.

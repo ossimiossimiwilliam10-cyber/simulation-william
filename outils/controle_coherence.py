@@ -60,6 +60,7 @@ def fichiers_md():
 
 def controle_jours():
     erreurs, total = [], 0
+    annee_defaut = 2040
     for p in fichiers_md():
         if any(x.startswith("conception-") for x in p.parts):
             continue  # notes de recherche du 11/10/2026 : dates réelles de 2026, pas des dates du monde
@@ -69,7 +70,7 @@ def controle_jours():
             for m in MOTIF_LETTRES.finditer(ligne):
                 jour_l, j_l, mois_l, annee_l = m.group(1).lower(), m.group(2).lower(), m.group(3).lower(), m.group(4)
                 try:
-                    d = dt.date(int(annee_l or 2040), MOIS_NOMS[mois_l], 1 if j_l == "1er" else int(j_l))
+                    d = dt.date(int(annee_l or annee_defaut), MOIS_NOMS[mois_l], 1 if j_l == "1er" else int(j_l))
                 except ValueError:
                     erreurs.append(f"{p.relative_to(RACINE)}:{n} date impossible « {m.group(0)} »")
                     continue
@@ -77,7 +78,7 @@ def controle_jours():
                 if JOURS[jour_l[:3]] != d.weekday():
                     erreurs.append(f"{p.relative_to(RACINE)}:{n} « {m.group(0)} » : {d:%d/%m/%Y} est un {NOMS[d.weekday()]}")
             for m in MOTIF.finditer(ligne):
-                jour, j, mois, annee = m.group(1).lower(), int(m.group(2)), int(m.group(3)), int(m.group(4) or 2040)
+                jour, j, mois, annee = m.group(1).lower(), int(m.group(2)), int(m.group(3)), int(m.group(4) or annee_defaut)
                 try:
                     d = dt.date(annee, mois, j)
                 except ValueError:
