@@ -2267,3 +2267,11 @@ Effets à jouer : A07 (vendredi 20/07 (matin)) : Retard d'un virement, d'un envo
 - Tirage [T10] « Délai de réponse de Hye-won » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  41.6 → **dans_l_heure** (enregistré le 21/10/2026 20:47 heure machine)
 
 - Tirage [T10] « Confirmation visio vendredi Thiago Rocha » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet   2.9 → **immediat** (enregistré le 21/10/2026 20:47 heure machine)
+
+- Tirage [T21b] « Min-ji apprend que William arrive à Séoul dès lundi 22 juillet 2041 » : repond 50 / repond_tard 20 / ignore 22 / bloque 8 ; modificateurs : aucun ; jet  50.3 → **repond_tard** (enregistré le 21/10/2026 21:07 heure machine)
+
+- Tirage [T10] « Délai de réponse de Min-ji » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  18.1 → **rapide** (enregistré le 21/10/2026 21:07 heure machine)
+
+- Tirage [T21b] « Hye-won apprend que William n'a jamais voyagé en Asie et envisage de venir en Corée avec elle comme guide » : repond 50 / repond_tard 20 / ignore 22 / bloque 8 ; modificateurs : aucun ; jet  24.2 → **repond** (enregistré le 21/10/2026 21:07 heure machine)
+
+- Tirage [T10] « Délai de réponse de Hye-won sur WhatsApp » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  72.9 → **dans_la_journee** (enregistré le 21/10/2026 21:07 heure machine)

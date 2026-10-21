@@ -1,74 +1,66 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 21/10/2026 20:56 (heure machine) pour Antigravity
+# Relais de la simulation — briefing généré le 21/10/2026 21:13 (heure machine) pour Antigravity
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : jeudi 18 juillet 2041, 12h30 (luxembourg) ; tour n° 5
+- Horloge : jeudi 18 juillet 2041, 19h00 (luxembourg) ; tour n° 6
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Préparation de la visio de vendredi et programme de l'après-midi du jeudi 18 juillet
+- En attente de William : Préparation de la visio Brésil du vendredi et choix d'hébergement pour Séoul
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 5 ; horloge 18/07/2041 12:30 -> 18/07/2041 12:30 ; enregistré le 21/10/2026 20:56 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 6 ; horloge 18/07/2041 12:30 -> 18/07/2041 19:00 ; enregistré le 21/10/2026 21:13 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Validation créneau visio Brésil vendredi 19/07 15h00 Thiago Rocha ; vocaux maths/physique Hye-won WhatsApp ; blague racisme et photos Min-ji Instagram ; pas de MMA jeudi 18/07 ; préparation grille audit IA en PDF
+> Réponse vocale Hye-won (guide Corée), réponse Min-ji (arrivée lundi 22/07), description physique de Min-ji, choix vol Séoul post-visio Thiago
 
 ## Texte envoyé au joueur
 
-**JEUDI 18 JUILLET 2041 — 12h30 — Audun-le-Tiche, chez William**
+**JEUDI 18 JUILLET 2041 — 19h00 — Audun-le-Tiche, chez William**
 
-La confirmation envoyée à Thiago Rocha sur LinkedIn pour fixer la visio au vendredi 19 juillet à 15h00 (10h00 à São Paulo) a reçu un retour quasi immédiat. L'ingénieur d'affaires brésilien a validé le créneau d'un message enthousiaste et a transmis le lien Google Meet de la réunion, ajoutant qu'il finalise d'ici là le dossier de présentation des deux parcs solaires de 150 kW et 300 kW situés dans le Minas Gerais.
+Sur WhatsApp, le message vocal adressé à Hye-won a clarifié tes intentions de voyage : tu lui confirmes n'avoir encore jamais posé le pied en Asie, ajoutant que tu serais véritablement heureux de te rendre en Corée et qu'elle puisse être ta guide pour te faire explorer son pays. Sur Instagram, ton message à Min-ji a enclenché la vitesse supérieure : tu lui annonces avec entrain que c'est parti et que tu prends tes dispositions pour atterrir à Séoul dès lundi prochain.
 
-Sur WhatsApp, le message vocal détaillé adressé à Hye-won a posé les contours précis de ton quotidien : ton métier d'enseignant en mathématiques et physique au Luxembourg, tes recherches universitaires poussées poursuivies chez toi par passion — avec une pièce dédiée couverte de tableaux noirs noircis d'équations, à la manière d'un chercheur passionné —, ton organisation professionnelle entièrement automatisée qui te laisse l'intégralité de tes soirées et de tes week-ends libres, ta stabilité financière confortable et ton ambition entrepreneuriale d'investir et de piloter des projets d'envergure. Hye-won a répondu au milieu de sa nuit à Séoul par un vocal chaleureux d'un peu plus de deux minutes. Visiblement intriguée et séduite par le calme de ta voix, elle confie trouver ce profil scientifique et méthodique particulièrement impressionnant, bien loin des garçons qu'elle côtoie d'ordinaire. Elle raconte terminer sa licence de littérature à l'université Hongik tout en travaillant à temps partiel dans une boulangerie artisanale du quartier animé de Hongdae pour financer son quotidien d'étudiante, avant de conclure en demandant si tu as déjà eu l'occasion de voyager en Asie.
+En observant attentivement les deux clichés partagés par Min-ji depuis la terrasse d'un café branché de Seongsu, la silhouette et les traits de la jeune femme se révèlent avec netteté. Âgée de 28 ans, elle mesure environ 1,64 m pour une cinquantaine de kilos, affichant une silhouette svelte, équilibrée et naturellement gracieuse. Sa taille est fine et bien marquée, contrastant avec une poitrine galbée et naturelle, de proportion moyenne (environ bonnet B), et des épaules délicates. Son visage aux contours ovales présente un teint diaphane impeccable, très lumineux, sans artifice excessif. Ses yeux en amande d'un noir profond pétillent d'une franchise malicieuse, soulignés par un trait discret d'eyeliner, tandis que son nez fin et droit surplombe des lèvres pleines, subtilement rehaussées d'un baume corail, qui s'étirent en un sourire éclatant creusé de légères fossettes. Sa chevelure noir d'ébène, souple et brillante, est coupée en un carré long ondulant doucement jusqu'aux clavicules, avec une frange rideau légère qui habille le front. Son allure générale reflète l'esthétique minimaliste et soignée des milieux créatifs séoulites : un cardigan en maille fine beige chiné porté entrouvert sur un débardeur blanc en coton côtelé, un jean brut taille haute et une fine chaîne argentée au cou. Elle dégage une présence à la fois coquette, spontanée et détendue.
 
-Sur Instagram, ton message à Min-ji demandant des photos récentes, s'enquérant de ses disponibilités et suggérant un séjour à Séoul pour visiter le pays ensemble — tout en glissant avec des émojis rieurs que tu auras besoin d'une guide locale pour te défendre contre d'éventuelles hostilités liées à ta couleur de peau — a déclenché une salve d'émojis hilares. Min-ji a répliqué aussitôt en te rassurant : Séoul est l'une des capitales les plus calmes et sécurisées au monde, le seul risque étant quelques regards insistants de personnes âgées dans le métro. Elle ajoute qu'elle accepte volontiers la mission de guide, ne serait-ce que pour t'initier à un authentique barbecue coréen à Seongsu, et a partagé deux clichés récents sans artifice d'elle souriante en terrasse d'un café.
+Une fois ces messages partis, le début d'après-midi a été consacré à caler la logistique du vol sur ton ordinateur portable. Pour honorer ton engagement d'arriver à Séoul le lundi 22 juillet au matin tout en conservant ta visioconférence cruciale du vendredi 19 juillet à 15h00 avec Thiago Rocha, l'itinéraire le plus fluide s'est imposé : départ d'Audun-le-Tiche le dimanche 21 juillet au matin, TGV direct Lorraine TGV – Roissy-CDG à 9 h 15 (1 h 15 de trajet), puis vol direct Paris CDG – Séoul Incheon (ICN) sur Korean Air décollant à 13 h 20 (11 h 30 de vol sans escale). Avec le décalage horaire de sept heures en été, l'appareil se pose à Incheon le lundi 22 juillet à 7 h 50 du matin. Le tarif est d'environ 1 680 € l'aller-retour en classe Premium Economy (ou 3 450 € en classe Affaires avec siège-lit), ce qui s'intègre parfaitement dans ton budget vacances annuel de 10 000 €. Appliquant une stricte rigueur de gestion, tu as calibré et sauvegardé la réservation dans ton panier sans la régler immédiatement, choisissant d'attendre la tenue de ton appel d'affaires brésilien de vendredi après-midi avant de valider définitivement le paiement de la carte.
 
-Après une nuit paisible de huit heures et quart, le réveil à 7 h 45 s'est fait sans la moindre lourdeur, le corps pleinement régénéré. Prenant acte de ta décision de ne pas aller t'entraîner aujourd'hui au Minett Combat Club afin de préserver ton influx nerveux et d'avancer sur tes dossiers, la matinée entière a été consacrée à une session de travail méthodique avec ton modèle d'intelligence artificielle de pointe. 
+En fin de soirée à Séoul, les notifications ont résonné sur tes deux téléphones. Min-ji a réagi la première sur Instagram avec une surprise non feinte : *« Wait, for real?! Next Monday?! 😲 That's so fast haha! »*. Amusée par cette réactivité sans détour, elle a précisé qu'elle devait vérifier son calendrier de graphiste freelance pour bloquer des demi-journées libres en début de semaine, promettant de te donner ses disponibilités d'ici vendredi soir ou samedi. Sur WhatsApp, Hye-won a envoyé un message vocal doux et enjoué : très touchée par ta proposition, elle s'est dite honorée de jouer le rôle de guide et t'a conseillé de chercher un logement dans le secteur de Hongdae ou de Mapo-gu, un quartier animé par les librairies, les ateliers d'artistes et les petits cafés indépendants qu'elle fréquente après ses cours à l'université Hongik.
 
-L'objectif était d'arriver à l'appel de vendredi avec une posture d'investisseur aguerri, capable de challenger chaque ligne technique et financière. En trois heures d'échanges et de formalisation, vous avez bâti une grille d'audit complète articulée autour de douze questions discriminantes réparties en quatre axes :
-1. Le cadre réglementaire de la loi 14.300/2022 et le calendrier d'application de la composante B du TUSD pour vérifier si les projets bénéficient des droits acquis de l'ancien régime ou subissent la décote tarifaire progressive de la CEMIG.
-2. La solidité des contrats d'offtake (location d'équipements vs autoconsommation à distance), le profil de risque des preneurs d'énergie et les mécanismes de garantie en cas d'impayé.
-3. Les spécifications matérielles (modules N-Type TOPCon tier-1, onduleurs, choix entre structures fixes et trackers solaires mono-axiaux) et le détail du coût de raccordement au réseau de distribution moyenne tension.
-4. L'ingénierie sociétaire (constitution d'une SPE sous forme de LTDA), la fiscalité brésilienne (Lucro Presumido, PIS/COFINS, retenues à la source) et les conventions internationales pour rapatrier les dividendes nets en euros sans double imposition.
-
-Le document a été mis en page et exporté sous la forme d'un dossier PDF de quatre pages, désormais classé dans tes documents personnels sous la référence `2041-07-18_Grille_Audit_Solaire_Bresil_Thiago_Rocha.pdf`.
-
-À 12 h 30, un déjeuner équilibré à base de poulet grillé, de riz complet et d'avocat vient clore cette matinée studieuse. Ton dossier d'audit est prêt, le rendez-vous brésilien est calé, et les échanges avec Séoul sont chaleureusement ouverts.
+À 17 h 30, fermant les écrans, tu as profité de la fin de journée ensoleillée pour effectuer une marche d'oxygénation d'une heure et quart sur les sentiers forestiers d'Audun-le-Tiche, maintenant une récupération active sans solliciter lourdement tes articulations après avoir fait l'impasse sur le club de combat. De retour à 19 h 00, le corps frais et l'esprit clair, la logistique de la semaine prochaine est prête à être déclenchée et la réunion de demain après-midi est minutieusement préparée.
 
 ---
 
 ### Réponses attendues
-- **Hye-won (WhatsApp)** : elle a partagé sa routine entre ses études de littérature à Hongik et son job en boulangerie à Hongdae, et te demande si tu as déjà visité l'Asie ou la Corée.
-- **Min-ji (Instagram)** : elle t'a envoyé deux photos d'elle, t'a rassuré en riant sur la sécurité à Séoul et a validé le principe d'une sortie barbecue coréen à Seongsu lors de ton futur passage.
+- **Min-ji (Instagram)** : elle consulte son planning de freelance pour bloquer du temps en début de semaine prochaine et te transmettra ses disponibilités pour le barbecue à Seongsu.
+- **Hye-won (WhatsApp)** : elle t'a proposé de t'aider à choisir un quartier où loger (recommandant Hongdae/Mapo) et attend de savoir quel type d'ambiance ou d'hôtel tu recherches pour ton arrivée.
 
 ### À faire / à fournir avant le tour suivant
-- **Préparation visio solaire Brésil** : le rendez-vous Google Meet avec Thiago Rocha est confirmé pour vendredi 19 juillet à 15h00 (heure européenne). Ta grille d'audit de 12 questions est prête en PDF.
-- **Lucas Mendes (Fortaleza)** : toujours aucune réponse reçue à ton message de prospection sur LinkedIn.
+- **Visio solaire Brésil (J-1)** : appel Google Meet confirmé avec Thiago Rocha demain, vendredi 19 juillet à 15h00 (heure européenne). Ta grille d'audit technique, juridique et financière de 12 questions est prête en PDF.
+- **Réservation du vol Séoul** : itinéraire sauvegardé pour un départ dimanche 21/07 à 13h20 de CDG et arrivée lundi 22/07 à 7h50 à Incheon. Validation du paiement prévue après l'appel avec Thiago.
 
 ### Quêtes secondaires
-- **Programme de l'après-midi du jeudi 18 juillet** : pas de séance au Minett Combat Club aujourd'hui. L'après-midi est entièrement libre pour du repos, des démarches personnelles, de la lecture technique ou de la détente.
-- **Logistique estivale** : budget vacances disponible de 833 €/mois (10 000 €/an), liberté complète sur le calendrier jusqu'au 15 septembre.
+- **Hébergement à Séoul** : choix du point de chute pour les premières nuits (hôtel moderne à Hongdae/Mapo pour un accès facile à Hye-won, ou quartier branché de Seongsu/Gangnam vers Min-ji).
+- **Soirée du jeudi 18 juillet** : dîner, détente ou dernières lectures avant la journée clé du vendredi.
 
 Que veux-tu faire ?
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
-- rien
+- A004 Fri 19/07 15:00 (luxembourg) | Thiago Rocha & William : Visioconférence Google Meet : présentation du pipeline de fermes solaires (Minas Gerais, 150 kW et 300 kW) [prevu]  — rendez-vous convenu le 17/07 après-midi, lien Meet reçu
 
 ## Rituels du moteur dus (rituels.py)
 - rien
 
 ## Décisions en attente de William (etat/fils-ouverts.md, A)
-| 1 | **Organisation des vacances d'été 2041** | Grandes vacances scolaires (du mardi 16/07/2041 au dimanche 15/09/2041). Choix des projets, voyages, rythme de vie ou déplacements estivaux. Budget vacances disponible : 833 €/mois (10 000 €/an). | Ouvert |
+| 1 | **Voyage à Séoul (Corée du Sud)** | Arrivée annoncée pour le lundi 22/07/2041 au matin. Itinéraire ciblé : TGV Lorraine -> CDG le dimanche 21/07 à 09h15, vol direct Korean Air / Air France KE902 à 13h20 (arrivée 07h50 lun. 22/07 à Incheon). Réservation en attente de la visio de vendredi. Budget vacances disponible (10 000 €/an). | dim. 21/07/2041 |
 | 2 | **Solaire au Brésil (Geração Distribuída)** | Visio confirmée avec Thiago Rocha (Campinas) le vendredi 19/07/2041 à 15h00 (heure européenne / 10h00 à São Paulo, agenda A004). Grille d'audit technique, réglementaire (loi 14.300/2022) et financière prête en PDF (`documents_william/2041-07-18_Grille_Audit_Solaire_Bresil_Thiago_Rocha.pdf`). Lucas Mendes (Fortaleza) n'a pas répondu. | ven. 19/07/2041 15:00 |
-| 3 | **Entraînement sportif & préparation physique** | Choix délibéré de ne pas aller au Minett Combat Club ce jeudi 18/07 pour continuer de récupérer et structurer ses projets. Prochaine opportunité : vendredi 19/07 ou samedi 20/07. Fermeture annuelle du club du lundi 12/08/2041 au dimanche 25/08/2041 (agenda A003). | Ouvert |
+| 3 | **Entraînement sportif & préparation physique** | Repos sportif ce jeudi 18/07 (marche d'oxygénation d'1h15). Prochaine opportunité : vendredi 19/07 ou samedi 20/07. Fermeture annuelle du club du lundi 12/08/2041 au dimanche 25/08/2041 (agenda A003). | Ouvert |
 | 4 | **Logistique personnelle & maison** | Maison d'Audun-le-Tiche (charges à jour, voiture électrique chargée). Tout est en ordre. | Ouvert |
-| 5 | **Rencontres coréennes (Meeff & Tinder Séoul)** | Échanges prometteurs : Min-ji (Instagram) a partagé deux photos, rassuré sur la sécurité à Séoul avec humour et validé une future visite guidée barbecue coréen ; Hye-won (WhatsApp) a envoyé un vocal enthousiaste sur son profil de prof/chercheur et son quotidien (études lettres Hongik, boulangerie Hongdae). Décision : relancer ou orienter la discussion. | Ouvert |
+| 5 | **Rencontres coréennes (Min-ji & Hye-won)** | Annonce faite d'une arrivée lundi 22/07. Min-ji (Instagram) consulte son agenda freelance pour caler un créneau barbecue à Seongsu. Hye-won (WhatsApp) est ravie d'être sa guide et recommande Hongdae/Mapo. Fiches récurrentes créées (`personnes/min-ji.md`, `personnes/hye-won.md`). | Ouvert |
 
 ## Notes de passation (etat/relais-notes.md)
 - ~~(11/10/2026 22:30, Claude Opus 5.5) Redémarrage de l'univers 2 redaté au samedi 14/07/2040, 08h37 (premier vrai jour de vacances,
@@ -162,8 +154,8 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : master ; master : 705c94a ; avance 0, retard 0
-- worktree simulation-william (ICI) : branche master ; 0 commit(s) absents de master ; 17 fichier(s) modifié(s)
+- branche courante : master ; master : 8126504 ; avance 0, retard 0
+- worktree simulation-william (ICI) : branche master ; 0 commit(s) absents de master ; 12 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree eloquent-mirzakhani-73acb9 : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
