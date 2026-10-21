@@ -282,7 +282,9 @@ def numero_jour(jour):
 def fichier_journal(jour):
     f = JOURNAL / f"{jour:%Y-%m-%d}.md"
     if not f.exists():
-        ecrire_texte(f, f"# {date_fr(jour).capitalize()} — univers 2, {numero_jour(jour)} jour\n\n")
+        import json
+        u_num = json.loads(lire_texte(ETAT / "univers.json") or "{}").get("univers", 3)
+        ecrire_texte(f, f"# {date_fr(jour).capitalize()} — univers {u_num}, {numero_jour(jour)} jour\n\n")
     return f
 
 

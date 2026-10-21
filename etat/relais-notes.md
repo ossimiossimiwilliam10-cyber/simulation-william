@@ -56,7 +56,7 @@
   **À faire par le moteur avant que ça compte** : franchise de bagages du tarif (recherche avant l'enregistrement du 18/07) ; P19,
   I1, I2 et I3 avant l'arrivée du 19/07 (frais à l'étranger sur les cartes en pesos, caution d'hôtel, décalage horaire de 6 h dans
   `corps.py`, carte SIM, change, taxis ; régler l'horloge avec `--fuseau manille` à l'arrivée) ; P18 dépenses courantes ; P10 paie
-  calculée et P17 ETF avant le 31/07 ; revue n° 2 le lundi 23/07 (P14 : audit du casting, faits périmés ; idée I5 : « j'aime »
+  calculée et P17 ETF avant le 31/07 ; revue n° 2 le lundi 23/07/2040 (P14 : audit du casting, faits périmés ; idée I5 : « j'aime »
   spontanés reçus).
   **Outils créés le 12-13/10** : `cartes.py` (plafonds, relevé différé ; voyages et rencontres paient par lui), `transports.py`
   (application Transports), `etravel.py`, `courriel.py` (tout courriel reçu devient un PDF), `rituels.py message-proche`,
