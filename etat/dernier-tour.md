@@ -1,46 +1,45 @@
 # Dernier tour montré au joueur
 
-> Tour n° 4 ; horloge 17/07/2041 08:00 -> 17/07/2041 18:30 ; enregistré le 21/10/2026 20:21 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 5 ; horloge 18/07/2041 12:30 -> 18/07/2041 12:30 ; enregistré le 21/10/2026 20:56 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Réponses envoyées à Thiago et Lucas sur LinkedIn (proposition visio jeudi/vendredi) ; réponses personnalisées à Min-ji, Soo-jin et Hye-won ; premiers vocaux WhatsApp avec Hye-won ; Thiago propose visio jeudi ou vendredi 15h00 ; repos à la maison, pas de MMA ce soir.
+> Validation créneau visio Brésil vendredi 19/07 15h00 Thiago Rocha ; vocaux maths/physique Hye-won WhatsApp ; blague racisme et photos Min-ji Instagram ; pas de MMA jeudi 18/07 ; préparation grille audit IA en PDF
 
 ## Texte envoyé au joueur
 
-**MERCREDI 17 JUILLET 2041 — 18h30 — Audun-le-Tiche, chez William**
+**JEUDI 18 JUILLET 2041 — 12h30 — Audun-le-Tiche, chez William**
 
-Dès 08h30, tasse de café à la main, William prend l'initiative sur les deux fronts ouverts la veille.
+La confirmation envoyée à Thiago Rocha sur LinkedIn pour fixer la visio au vendredi 19 juillet à 15h00 (10h00 à São Paulo) a reçu un retour quasi immédiat. L'ingénieur d'affaires brésilien a validé le créneau d'un message enthousiaste et a transmis le lien Google Meet de la réunion, ajoutant qu'il finalise d'ici là le dossier de présentation des deux parcs solaires de 150 kW et 300 kW situés dans le Minas Gerais.
 
-Sur le plan professionnel, il répond sur LinkedIn aux deux prises de contact brésiliennes. Dans un anglais fluide et direct, il détaille son approche : son intention est de faire fructifier ses liquidités d'investisseur européen sur des actifs solides, en s'associant à des professionnels de terrain dignes de confiance. Il propose d'organiser un premier échange en visioconférence d'ici la fin de semaine, jeudi ou vendredi, afin de faire connaissance et d'étudier les dossiers concrets. Le message est transmis à Thiago Rocha à Campinas ainsi qu'à Lucas Mendes à Fortaleza.
+Sur WhatsApp, le message vocal détaillé adressé à Hye-won a posé les contours précis de ton quotidien : ton métier d'enseignant en mathématiques et physique au Luxembourg, tes recherches universitaires poussées poursuivies chez toi par passion — avec une pièce dédiée couverte de tableaux noirs noircis d'équations, à la manière d'un chercheur passionné —, ton organisation professionnelle entièrement automatisée qui te laisse l'intégralité de tes soirées et de tes week-ends libres, ta stabilité financière confortable et ton ambition entrepreneuriale d'investir et de piloter des projets d'envergure. Hye-won a répondu au milieu de sa nuit à Séoul par un vocal chaleureux d'un peu plus de deux minutes. Visiblement intriguée et séduite par le calme de ta voix, elle confie trouver ce profil scientifique et méthodique particulièrement impressionnant, bien loin des garçons qu'elle côtoie d'ordinaire. Elle raconte terminer sa licence de littérature à l'université Hongik tout en travaillant à temps partiel dans une boulangerie artisanale du quartier animé de Hongdae pour financer son quotidien d'étudiante, avant de conclure en demandant si tu as déjà eu l'occasion de voyager en Asie.
 
-Dans la foulée, William traite ses messages sur les applications de rencontre coréennes :
-- À Min-ji sur Meeff, il répond avec simplicité que le monde est vaste, qu'il a envie d'explorer de nouveaux horizons culturels et de voir où cela peut mener. La jeune femme, connectée en milieu d'après-midi à Séoul, réagit favorablement à cette ouverture d'esprit. L'échange se déroule sur un ton naturel et bienveillant, et elle lui glisse son compte Instagram pour continuer à partager des photos et échanger plus facilement.
-- À Soo-jin sur Tinder, il indique qu'il est encore en pleine réflexion sur ses projets estivaux, qu'il pourrait aussi bien faire le voyage demain que dans une semaine selon la nature de la connexion, et qu'il dispose actuellement d'une liberté absolue. Soo-jin prend connaissance du message dans l'après-midi de Gangnam mais, prise par ses réunions professionnelles, elle ne renvoie pas de réponse immédiate.
-- À Hye-won sur Meeff, il confirme volontiers sa disponibilité pour converser en anglais, précisant qu'il est libre immédiatement et qu'il ne facture évidemment rien pour ces séances d'échange linguistique. Ravie de cette opportunité, l'étudiante lui communique sans attendre son numéro de téléphone coréen pour basculer sur WhatsApp.
+Sur Instagram, ton message à Min-ji demandant des photos récentes, s'enquérant de ses disponibilités et suggérant un séjour à Séoul pour visiter le pays ensemble — tout en glissant avec des émojis rieurs que tu auras besoin d'une guide locale pour te défendre contre d'éventuelles hostilités liées à ta couleur de peau — a déclenché une salve d'émojis hilares. Min-ji a répliqué aussitôt en te rassurant : Séoul est l'une des capitales les plus calmes et sécurisées au monde, le seul risque étant quelques regards insistants de personnes âgées dans le métro. Elle ajoute qu'elle accepte volontiers la mission de guide, ne serait-ce que pour t'initier à un authentique barbecue coréen à Seongsu, et a partagé deux clichés récents sans artifice d'elle souriante en terrasse d'un café.
 
-En fin de matinée, les premières notifications WhatsApp sonnent. Hye-won entame la discussion avec un enthousiasme communicatif. Son anglais est encore scolaire mais appliqué, et elle lui envoie un premier message vocal où elle s'étonne avec un rire timide du timbre particulièrement grave et posé de William. Elle l'interroge sur son métier d'enseignant et sur ce à quoi ressemble la vie au Luxembourg.
+Après une nuit paisible de huit heures et quart, le réveil à 7 h 45 s'est fait sans la moindre lourdeur, le corps pleinement régénéré. Prenant acte de ta décision de ne pas aller t'entraîner aujourd'hui au Minett Combat Club afin de préserver ton influx nerveux et d'avancer sur tes dossiers, la matinée entière a été consacrée à une session de travail méthodique avec ton modèle d'intelligence artificielle de pointe. 
 
-Vers 12h30, William prépare son déjeuner dans la cuisine : un beau pavé de bœuf grillé, des patates douces rôties au four et une salade croquante. Le repas est savouré calmement, suivi d'un moment de repos sur le canapé.
+L'objectif était d'arriver à l'appel de vendredi avec une posture d'investisseur aguerri, capable de challenger chaque ligne technique et financière. En trois heures d'échanges et de formalisation, vous avez bâti une grille d'audit complète articulée autour de douze questions discriminantes réparties en quatre axes :
+1. Le cadre réglementaire de la loi 14.300/2022 et le calendrier d'application de la composante B du TUSD pour vérifier si les projets bénéficient des droits acquis de l'ancien régime ou subissent la décote tarifaire progressive de la CEMIG.
+2. La solidité des contrats d'offtake (location d'équipements vs autoconsommation à distance), le profil de risque des preneurs d'énergie et les mécanismes de garantie en cas d'impayé.
+3. Les spécifications matérielles (modules N-Type TOPCon tier-1, onduleurs, choix entre structures fixes et trackers solaires mono-axiaux) et le détail du coût de raccordement au réseau de distribution moyenne tension.
+4. L'ingénierie sociétaire (constitution d'une SPE sous forme de LTDA), la fiscalité brésilienne (Lucro Presumido, PIS/COFINS, retenues à la source) et les conventions internationales pour rapatrier les dividendes nets en euros sans double imposition.
 
-À 14h30, alors que la journée de bureau débute au Brésil avec les cinq heures de décalage horaire, une notification LinkedIn s'affiche. Thiago Rocha a répondu depuis Campinas. L'ingénieur d'affaires se montre particulièrement réceptif : un entretien vidéo lui convient parfaitement. Il propose un créneau pour le **jeudi 18 juillet à 15h00 heure française (10h00 à São Paulo)** ou, à défaut, le **vendredi 19 juillet à la même heure** via Google Meet. Il précise qu'il finalise d'ici là une note de cadrage sur deux parcs solaires au sol de 150 kW et 300 kW actuellement développés dans le Minas Gerais, disposant déjà de leur accord de raccordement au réseau de distribution Cemig. Lucas Mendes, de son côté, n'a pas encore réagi à Fortaleza.
+Le document a été mis en page et exporté sous la forme d'un dossier PDF de quatre pages, désormais classé dans tes documents personnels sous la référence `2041-07-18_Grille_Audit_Solaire_Bresil_Thiago_Rocha.pdf`.
 
-Conformément à sa décision d'écouter son corps après l'intense reprise de la veille et de s'accorder du temps pour structurer ses projets, William laisse de côté le cours de MMA de 19h00 au Minett Combat Club. L'après-midi s'écoule sereinement à la maison entre rangement, consultation de documents techniques sur le solaire brésilien et hydratation.
-
-À 18h30, William est posé au calme dans son salon, parfaitement reposé.
+À 12 h 30, un déjeuner équilibré à base de poulet grillé, de riz complet et d'avocat vient clore cette matinée studieuse. Ton dossier d'audit est prêt, le rendez-vous brésilien est calé, et les échanges avec Séoul sont chaleureusement ouverts.
 
 ---
 
-**Réponses attendues**
-- **Thiago Rocha (Brésil)** : Confirmer le rendez-vous visio (jeudi 18/07 à 15h00 ou vendredi 19/07 à 15h00) ou proposer un autre créneau.
-- **Hye-won / Min-ji (Corée)** : Poursuivre les échanges engagés sur WhatsApp ou Instagram.
+### Réponses attendues
+- **Hye-won (WhatsApp)** : elle a partagé sa routine entre ses études de littérature à Hongik et son job en boulangerie à Hongdae, et te demande si tu as déjà visité l'Asie ou la Corée.
+- **Min-ji (Instagram)** : elle t'a envoyé deux photos d'elle, t'a rassuré en riant sur la sécurité à Séoul et a validé le principe d'une sortie barbecue coréen à Seongsu lors de ton futur passage.
 
-**À faire / à fournir avant le tour suivant**
-- Préparer les points de vigilance pour l'appel avec Thiago Rocha (rentabilité nette, montage d'associé passif non-gérant Art. 14, garanties de raccordement).
-- Arrêter le programme du jeudi 18 juillet (reprise de l'entraînement au club, démarche d'investissement ou autre).
+### À faire / à fournir avant le tour suivant
+- **Préparation visio solaire Brésil** : le rendez-vous Google Meet avec Thiago Rocha est confirmé pour vendredi 19 juillet à 15h00 (heure européenne). Ta grille d'audit de 12 questions est prête en PDF.
+- **Lucas Mendes (Fortaleza)** : toujours aucune réponse reçue à ton message de prospection sur LinkedIn.
 
-**Quêtes secondaires**
-- Minett Combat Club : plateau de musculation et sacs ouverts jeudi dès 06h30 à Esch-sur-Alzette.
-- Lucas Mendes : message LinkedIn en attente de lecture ou retour à Fortaleza.
+### Quêtes secondaires
+- **Programme de l'après-midi du jeudi 18 juillet** : pas de séance au Minett Combat Club aujourd'hui. L'après-midi est entièrement libre pour du repos, des démarches personnelles, de la lecture technique ou de la détente.
+- **Logistique estivale** : budget vacances disponible de 833 €/mois (10 000 €/an), liberté complète sur le calendrier jusqu'au 15 septembre.
 
 Que veux-tu faire ?

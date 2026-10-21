@@ -2257,3 +2257,13 @@ Effets à jouer : A07 (vendredi 20/07 (matin)) : Retard d'un virement, d'un envo
 - Tirage [T10] « Délai réponse Thiago Rocha » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  31.6 → **rapide** (enregistré le 21/10/2026 20:17 heure machine)
 
 - Tirage [T10] « Délai réponse Lucas Mendes » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  98.3 → **plus_tard_ou_jamais** (enregistré le 21/10/2026 20:18 heure machine)
+
+- Tirage [T21b] « Réponse de Min-ji à la proposition de visite à Séoul et blague sur la couleur de peau » : repond 50 / repond_tard 20 / ignore 22 / bloque 8 ; modificateurs : aucun ; jet  17.6 → **repond** (enregistré le 21/10/2026 20:46 heure machine)
+
+- Tirage [T10] « Délai de réponse de Min-ji » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  43.1 → **dans_l_heure** (enregistré le 21/10/2026 20:47 heure machine)
+
+- Tirage [T21b] « Réponse de Hye-won au message vocal détaillé de William » : repond 50 / repond_tard 20 / ignore 22 / bloque 8 ; modificateurs : aucun ; jet  45.3 → **repond** (enregistré le 21/10/2026 20:47 heure machine)
+
+- Tirage [T10] « Délai de réponse de Hye-won » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  41.6 → **dans_l_heure** (enregistré le 21/10/2026 20:47 heure machine)
+
+- Tirage [T10] « Confirmation visio vendredi Thiago Rocha » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet   2.9 → **immediat** (enregistré le 21/10/2026 20:47 heure machine)
