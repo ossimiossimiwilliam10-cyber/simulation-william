@@ -1,30 +1,26 @@
-# Dernier tour montré au joueur
+**MARDI 16 JUILLET 2041 — 08h37 — Audun-le-Tiche, chez William**
 
-> Tour n° 28 ; horloge 19/07/2040 23:25 -> 19/07/2040 23:32 ; enregistré le 13/10/2026 15:55 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+Les rayons de soleil traversent les fentes des volets de ta chambre et dessinent de fines lignes dorées sur le parquet. Aucun réveil n'a sonné. Tu ouvres les yeux naturellement, l'esprit clair et le corps parfaitement reposé après un sommeil profond de plus de neuf heures. La veille, lundi 15 juillet 2041, les dernières formalités administratives, la remise des dossiers scolaires et la clôture officielle de l'année au lycée de Luxembourg-Ville ont marqué le terme de l'année scolaire 2040-2041. Ce matin est le tout premier jour de tes grandes vacances d'été. Pas de trajet à planifier vers la frontière, pas de bouchons à anticiper sur l'autoroute vers Luxembourg-Ville, pas de leçons à dispenser avant deux mois complets.
 
-## Message du joueur
+Tu t'étires de tout ton long sur le lit. À 36 ans, ta carcasse d'un mètre quatre-vingt-seize et tes cent kilos de muscles façonnés par douze années régulières de musculation et de sports de combat ne ressentent aucune douleur parasite, simplement la détente d'un organisme qui relâche la pression du quotidien. Dans la maison, le calme est absolu. Au rez-de-chaussée, le compresseur du réfrigérateur se remet en route avec un claquement sec et régulier. Les deux chambres inutilisées de l'étage restent fermées, l'une d'elles servant de débarras bien ordonné. Près de la porte d'entrée, ton sac de sport est posé contre le mur, dégageant une discrète odeur de cuir et de protège-tibias aérés lors du dernier entraînement.
 
-> Je dis à Julia que bah, c'est bon, je ne suis plus intéressé. Je ne suis plus du tout intéressé. Et je rejoins le City Garden Grand Hôtel. Vous en avez enfin ?
+Sur le plan matériel, ta situation est d'une stabilité remarquable. Échelonné au Grade 14 (540 points indiciaires) avec tes trois leçons supplémentaires hebdomadaires en mathématiques et physique, ton traitement net mensuel lissé s'établit à 9 320 euros. Les virements permanents automatisés ont rodé la gestion de tes excédents : ton compte courant affiche 10 000 euros pour les dépenses de la vie courante, ton livret d'épargne de sécurité conserve 75 250 euros liquides, et ton portefeuille indiciel en ETF Monde atteint 670 380 euros. En ajoutant la part nette de ta maison d'Audun-le-Tiche — estimée à 200 000 euros, dont le capital restant dû sur ton crédit immobilier est descendu à 102 621,78 euros —, ton patrimoine net dépasse aujourd'hui 853 000 euros. 
 
-## Texte envoyé au joueur
+La journée s'annonce chaude et dégagée, avec 21 °C dès le lever du lit et un thermomètre qui grimpera jusqu'à 28 °C dans l'après-midi. Devant toi s'ouvrent deux mois de liberté totale jusqu'au lundi 16 septembre 2041. Cet été de tes 36 ans constitue également la période charnière idéale pour faire mûrir ton projet d'entrepreneuriat à distance, en exploitant ta liberté financière tout en calibrant le montage juridique adéquat vis-à-vis de l'article 14 du statut de la fonction publique grand-ducale. 
 
-📌 **Vraie vie** : je n'ai pas compris « Vous en avez enfin ? » ; je l'ai laissé de côté. Redis-le si c'était une consigne.
+Ton téléphone, posé sur la table de chevet, ne signale aucun message urgent. La journée est entièrement vierge.
 
 ---
 
-**JEUDI 19 JUILLET 2040 — 23h32 (heure de Manille) — Aéroport Ninoy-Aquino, terminal 3, sortie des arrivées**
+**Réponses attendues :**
+- Aucune pour le moment. Personne n'attend de réponse de ta part et aucune démarche immédiate n'est engagée.
 
-Tu réponds à Julia : « It's okay, I'm not interested anymore. Not interested at all. » Le message part à 23h27, encore sur le Wi-Fi de l'aéroport.
+**À faire / à fournir avant le tour suivant :**
+- Choisir comment tu souhaites entamer cette première journée et organiser tes premières semaines d'été : rythme quotidien, entraînements au Minett Combat Club, démarches ou projets de voyages, et premières réflexions sur ton projet de business à distance.
 
-Ton sac à l'épaule, tu traverses le hall vers la sortie. Les portes s'ouvrent sur la nuit : un air chaud et mouillé, l'odeur des gaz d'échappement, des coups de klaxon brefs, des porteurs en gilet qui proposent de prendre ton sac. En face, de l'autre côté de la voie, une guérite annonce les taxis à coupon : « MAKATI — ₱ 850 ». À côté attend une file de taxis jaunes de l'aéroport, au compteur. Plus loin, un panneau vert indique la zone de prise en charge de Grab. Derrière toi, dans le hall, il y a des distributeurs de billets et deux comptoirs de change. Tu n'as pas un seul peso sur toi.
-
-**Réponses attendues**
-- Aucune.
-
-**À faire / à fournir avant le tour suivant**
-- Rejoindre le City Garden Grand Hotel, à Makati, sans un peso en poche.
-
-**Quêtes secondaires**
-- Rien de nouveau.
+**Quêtes secondaires :**
+- **Minett Combat Club (Esch-sur-Alzette)** : Les entraînements estivaux suivent leur cours réduit (MMA les lundis et mercredis soirs à 19h00, sparring le samedi matin à 10h30). Fermeture annuelle programmée du lundi 12 au dimanche 25 août 2041.
+- **Rentrée scolaire 2041** : Reprise officielle des cours au lycée fixée au lundi 16 septembre 2041.
+- **Finances & virements** : Prochaine échéance du prêt PR1 (949,28 €) le lundi 5 août 2041 ; virements permanents vers la sécurité (732 €) et l'ETF Monde (5 755 €) le 2 août.
 
 Que veux-tu faire ?

@@ -2239,3 +2239,5 @@ Effets à jouer : A07 (vendredi 20/07 (matin)) : Retard d'un virement, d'un envo
 - Tirage [T14] « Initiative de Julia Dimaculangan envers William (13/07/2041) » : aucune 78 / message_routine 6 / demande 6 / information 6 / partage_personnel 1 / plainte_ou_tension 3 ; modificateurs : M85 ; jet  74.4 → **aucune** (enregistré le 21/10/2026 19:12 heure machine)
 
 - Tirage [T14] « Initiative de Kiara Reyes envers William (13/07/2041) » : aucune 43 / message_routine 18 / demande 18 / information 14 / partage_personnel 4 / plainte_ou_tension 3 ; modificateurs : M84 ; jet  23.3 → **aucune** (enregistré le 21/10/2026 19:12 heure machine)
+
+- Actualités de la semaine du 15/07/2041 : modèles LU04, LU01, FR01 [PROCÉDURE : outils/actualites.py] (enregistré le 21/10/2026 19:12 heure machine)

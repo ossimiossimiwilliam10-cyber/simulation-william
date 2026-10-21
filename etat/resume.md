@@ -1,4 +1,4 @@
-# Résumé d'état (généré le 21/10/2026 19:10 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 21/10/2026 19:18 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
 ## Horloge : mardi 16/07/2041 08:37 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
@@ -33,9 +33,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-07-16.md, 6 dernières lignes)
-> # Journal du mardi 16 juillet 2041 (Univers 3)
-> ## 08h37 — Audun-le-Tiche (Moselle), chez William
 > - Premier réveil des vacances d'été scolaires à 36 ans (dernier jour de classe le lundi 15/07/2041).
 > - Réveil sans sonnerie à 08h37 après une nuit de plus de 9 heures (couché vers 23h20).
 > - Situation financière au départ : Compte courant 10 000,00 €, Épargne sécurité 75 250,00 €, ETF Monde 670 380,00 €, Part nette maison 97 378,22 € (CRD prêt PR1 102 621,78 €). Patrimoine net total : 853 008,22 €.
 > - Traitement net mensuel : 9 320,00 € (Gr. 14, 540 pts + 3 leçons sup). Répartition : socle vital 2 000 €, vacances 833 €, sécurité liquide 732 €, ETF Monde 5 755 €.
+> - **08h37-08h37** (tour n° 1) : Premier réveil des vacances d'été à 36 ans chez lui à Audun-le-Tiche (Moselle) après la clôture de l'année scolaire hier au Luxembourg.
+> - Tour en cours à 08h37, en attente de William : **Premier jour des vacances d'été à 36 ans**.

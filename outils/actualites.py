@@ -98,7 +98,8 @@ def semaine(lundi, rng=None, tirer=False):
     modeles = [m for m in lire_csv(MODELES) if m["mois"] == "tous" or str(lundi.month) in m["mois"].split(",")]
     # au moins une nouvelle de chez William (Luxembourg ou Lorraine) quand il est ailleurs ; cinq lignes au plus
     maison = 1 if ici == "ph" else 0
-    for p, n in ((ici, 2), (ordre[1], 1), (ordre[2], 1)):
+    repartition = [(ici, 2)] + [(p, 1) for p in ordre[1:]]
+    for p, n in repartition:
         candidats = [m for m in modeles if m["pays"] == p]
         for _ in range(n):
             reserve = maison if p == ici else 0

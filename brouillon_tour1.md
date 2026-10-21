@@ -1,6 +1,6 @@
 **MARDI 16 JUILLET 2041 — 08h37 — Audun-le-Tiche, chez William**
 
-Les rayons de soleil traversent les fentes des volets de ta chambre et dessinent de fines lignes dorées sur le parquet. Aucun réveil n'a sonné. Tu ouvres les yeux naturellement, l'esprit clair et le corps parfaitement reposé après un sommeil profond de plus de neuf heures. La veille, lundi 15 juillet, les dernières formalités administratives, la remise des dossiers scolaires et la clôture officielle de l'année au lycée de Luxembourg-Ville ont marqué le terme de l'année scolaire 2040-2041. Ce matin est le tout premier jour de tes grandes vacances d'été. Pas de trajet à planifier vers la frontière, pas de bouchons à anticiper sur l'autoroute vers Luxembourg-Ville, pas de leçons à dispenser avant deux mois complets.
+Les rayons de soleil traversent les fentes des volets de ta chambre et dessinent de fines lignes dorées sur le parquet. Aucun réveil n'a sonné. Tu ouvres les yeux naturellement, l'esprit clair et le corps parfaitement reposé après un sommeil profond de plus de neuf heures. La veille, lundi 15 juillet 2041, les dernières formalités administratives, la remise des dossiers scolaires et la clôture officielle de l'année au lycée de Luxembourg-Ville ont marqué le terme de l'année scolaire 2040-2041. Ce matin est le tout premier jour de tes grandes vacances d'été. Pas de trajet à planifier vers la frontière, pas de bouchons à anticiper sur l'autoroute vers Luxembourg-Ville, pas de leçons à dispenser avant deux mois complets.
 
 Tu t'étires de tout ton long sur le lit. À 36 ans, ta carcasse d'un mètre quatre-vingt-seize et tes cent kilos de muscles façonnés par douze années régulières de musculation et de sports de combat ne ressentent aucune douleur parasite, simplement la détente d'un organisme qui relâche la pression du quotidien. Dans la maison, le calme est absolu. Au rez-de-chaussée, le compresseur du réfrigérateur se remet en route avec un claquement sec et régulier. Les deux chambres inutilisées de l'étage restent fermées, l'une d'elles servant de débarras bien ordonné. Près de la porte d'entrée, ton sac de sport est posé contre le mur, dégageant une discrète odeur de cuir et de protège-tibias aérés lors du dernier entraînement.
 
@@ -21,6 +21,6 @@ Ton téléphone, posé sur la table de chevet, ne signale aucun message urgent. 
 **Quêtes secondaires :**
 - **Minett Combat Club (Esch-sur-Alzette)** : Les entraînements estivaux suivent leur cours réduit (MMA les lundis et mercredis soirs à 19h00, sparring le samedi matin à 10h30). Fermeture annuelle programmée du lundi 12 au dimanche 25 août 2041.
 - **Rentrée scolaire 2041** : Reprise officielle des cours au lycée fixée au lundi 16 septembre 2041.
-- **Finances & virements** : Prochaine échéance du prêt PR1 (949,28 €) le mardi 5 août 2041 ; virements permanents vers la sécurité (732 €) et l'ETF Monde (5 755 €) le 2 août.
+- **Finances & virements** : Prochaine échéance du prêt PR1 (949,28 €) le lundi 5 août 2041 ; virements permanents vers la sécurité (732 €) et l'ETF Monde (5 755 €) le 2 août.
 
 Que veux-tu faire ?
