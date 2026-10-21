@@ -29,3 +29,38 @@
 - **Secret (moteur seulement)** : se renseigne pour partir s'installer ailleurs (gravité 1)
 - **Horaires** : règle « etudiant », fuseau luxembourg, décalage +25 min ; travail 09:25-17:25 (lun, mar, mer, jeu, ven), trajet 30 min ; sommeil 00:55-08:55
 - **Derniers événements** : 26/06 tournant (naissance, mariage, décès ou retour d'un proche); 01/07 petit_evenement (dépense imprévue (cotisation imprévue)); 09/07 sans_histoire; 21/07 sans_histoire; 20/07 coup_dur (dispute sérieuse ou mauvaise nouvelle dans la famille)
+
+### Min-ji (match Meeff Séoul)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : — ; **souci** : — ; **foyer** : —
+- **Secret (moteur seulement)** : —
+- **Horaires** : règle « bureau », fuseau luxembourg, décalage -8 min ; travail 08:52-17:22 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:22-06:52
+- **Derniers événements** : —
+
+### Soo-jin (match Tinder Séoul)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : — ; **souci** : — ; **foyer** : —
+- **Secret (moteur seulement)** : —
+- **Horaires** : règle « bureau », fuseau luxembourg, décalage -20 min ; travail 08:40-17:10 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:10-06:40
+- **Derniers événements** : —
+
+### Hye-won (match Meeff Séoul)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : — ; **souci** : — ; **foyer** : —
+- **Secret (moteur seulement)** : —
+- **Horaires** : règle « etudiant », fuseau luxembourg, décalage +9 min ; travail 09:09-17:09 (lun, mar, mer, jeu, ven), trajet 30 min ; sommeil 00:39-08:39
+- **Derniers événements** : —
+
+### Thiago Rocha (contact LinkedIn)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : — ; **souci** : — ; **foyer** : —
+- **Secret (moteur seulement)** : —
+- **Horaires** : règle « bureau », fuseau luxembourg, décalage +20 min ; travail 09:20-17:50 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:50-07:20
+- **Derniers événements** : —
+
+### Lucas Mendes (contact LinkedIn)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : — ; **souci** : — ; **foyer** : —
+- **Secret (moteur seulement)** : —
+- **Horaires** : règle « bureau », fuseau luxembourg, décalage -3 min ; travail 08:57-17:27 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:27-06:57
+- **Derniers événements** : —

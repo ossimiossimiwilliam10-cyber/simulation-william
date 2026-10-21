@@ -2241,3 +2241,19 @@ Effets à jouer : A07 (vendredi 20/07 (matin)) : Retard d'un virement, d'un envo
 - Tirage [T14] « Initiative de Kiara Reyes envers William (13/07/2041) » : aucune 43 / message_routine 18 / demande 18 / information 14 / partage_personnel 4 / plainte_ou_tension 3 ; modificateurs : M84 ; jet  23.3 → **aucune** (enregistré le 21/10/2026 19:12 heure machine)
 
 - Actualités de la semaine du 15/07/2041 : modèles LU04, LU01, FR01 [PROCÉDURE : outils/actualites.py] (enregistré le 21/10/2026 19:12 heure machine)
+
+- Tirage [T21b] « Réponse de Min-ji au message de William » : repond 50 / repond_tard 20 / ignore 22 / bloque 8 ; modificateurs : aucun ; jet   0.6 → **repond** (enregistré le 21/10/2026 20:16 heure machine)
+
+- Tirage [T21b] « Réponse de Soo-jin au message de William » : repond 50 / repond_tard 20 / ignore 22 / bloque 8 ; modificateurs : aucun ; jet  29.7 → **repond** (enregistré le 21/10/2026 20:16 heure machine)
+
+- Tirage [T21b] « Réponse de Hye-won au message de William » : repond 50 / repond_tard 20 / ignore 22 / bloque 8 ; modificateurs : aucun ; jet   5.0 → **repond** (enregistré le 21/10/2026 20:16 heure machine)
+
+- Tirage [T10] « Délai réponse Min-ji » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  37.5 → **rapide** (enregistré le 21/10/2026 20:17 heure machine)
+
+- Tirage [T10] « Délai réponse Soo-jin » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  90.0 → **plus_tard_ou_jamais** (enregistré le 21/10/2026 20:17 heure machine)
+
+- Tirage [T10] « Délai réponse Hye-won » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  19.5 → **rapide** (enregistré le 21/10/2026 20:17 heure machine)
+
+- Tirage [T10] « Délai réponse Thiago Rocha » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  31.6 → **rapide** (enregistré le 21/10/2026 20:17 heure machine)
+
+- Tirage [T10] « Délai réponse Lucas Mendes » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  98.3 → **plus_tard_ou_jamais** (enregistré le 21/10/2026 20:18 heure machine)

@@ -1,4 +1,4 @@
-# Fils ouverts et décisions en attente (univers 3 ; au mercredi 17/07/2041, 08h00)
+# Fils ouverts et décisions en attente (univers 3 ; au mercredi 17/07/2041, 18h30)
 
 > **Fichier de relais.** Tout ce qui est « en suspens » dans le monde doit être ici, pour qu'aucun moteur ne l'oublie.
 > Mettre à jour à chaque tour : ajouter, avancer, clore.
@@ -9,10 +9,10 @@
 | # | Sujet | Contexte | Échéance |
 |---|---|---|---|
 | 1 | **Organisation des vacances d'été 2041** | Grandes vacances scolaires (du mardi 16/07/2041 au dimanche 15/09/2041). Choix des projets, voyages, rythme de vie ou déplacements estivaux. Budget vacances disponible : 833 €/mois (10 000 €/an). | Ouvert |
-| 2 | **Solaire au Brésil (Geração Distribuída)** | Publications de prospection diffusées en anglais exclusif le 16/07 au soir (LinkedIn, Reddit, Facebook). Premiers retours reçus au matin du 17/07 (vues de profils, développeurs de parcs solaires, commentaires Reddit). Décision : choix des contacts à relancer. | Ouvert |
-| 3 | **Entraînement sportif & préparation physique** | Première séance effectuée le 16/07 après-midi. Cours de MMA programmé ce soir mercredi 17/07/2041 à 19h00 au Minett Combat Club (ou musculation libre). Noter la fermeture annuelle du club du lundi 12/08/2041 au dimanche 25/08/2041 (agenda A003). | Ouvert |
+| 2 | **Solaire au Brésil (Geração Distribuída)** | Thiago Rocha (ingénieur d'affaires à Campinas) propose un appel visio le jeudi 18/07 à 15h00 ou le vendredi 19/07 à 15h00 (heure européenne) pour présenter un pipeline de fermes solaires (150-300 kW) dans le Minas Gerais. Lucas Mendes (Fortaleza) n'a pas encore répondu. Décision : fixer le jour et l'heure de l'appel. | Ouvert |
+| 3 | **Entraînement sportif & préparation physique** | Journée de repos complet le 17/07. Prochaine opportunité : entraînement libre ou musculation le jeudi 18/07 au Minett Combat Club. Noter la fermeture annuelle du club du lundi 12/08/2041 au dimanche 25/08/2041 (agenda A003). | Ouvert |
 | 4 | **Logistique personnelle & maison** | Maison d'Audun-le-Tiche (charges à jour, voiture électrique chargée). Tout est en ordre. | Ouvert |
-| 5 | **Rencontres coréennes (Meeff & Tinder Séoul)** | Profils créés le 16/07 au soir avec vraies photos et bio directe. Premiers matchs et messages reçus au réveil le 17/07 (curiosité pour la taille/physique, échanges linguistiques, quelques profils suspects). Décision : tri et réponses. | Ouvert |
+| 5 | **Rencontres coréennes (Meeff & Tinder Séoul)** | Échanges actifs avec Min-ji (graphiste à Séoul) et Hye-won (étudiante à Hongdae, basculée sur WhatsApp pour échanges vocaux/écrits en anglais). Soo-jin (cadre cosmétique à Gangnam) n'a pas encore répondu. Décision : suite des échanges. | Ouvert |
 
 ## B. Fils en cours côté monde (le moteur les fait avancer)
 | Sujet | État | Prochain jalon |

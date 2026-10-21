@@ -69,10 +69,12 @@ def controle_jours():
         for n, ligne in enumerate(contenu.splitlines(), 1):
             if ligne.lstrip().startswith(">"):
                 continue  # citation (message dicté du joueur, extrait) : pas un fait du moteur
+            m_ligne_an = re.search(r"\b(204[0-9])\b", ligne)
+            annee_contexte = int(m_ligne_an.group(1)) if m_ligne_an else annee_fichier
             for m in MOTIF_LETTRES.finditer(ligne):
                 jour_l, j_l, mois_l, annee_l = m.group(1).lower(), m.group(2).lower(), m.group(3).lower(), m.group(4)
                 try:
-                    d = dt.date(int(annee_l or annee_fichier), MOIS_NOMS[mois_l], 1 if j_l == "1er" else int(j_l))
+                    d = dt.date(int(annee_l or annee_contexte), MOIS_NOMS[mois_l], 1 if j_l == "1er" else int(j_l))
                 except ValueError:
                     erreurs.append(f"{p.relative_to(RACINE)}:{n} date impossible « {m.group(0)} »")
                     continue
@@ -80,7 +82,7 @@ def controle_jours():
                 if JOURS[jour_l[:3]] != d.weekday():
                     erreurs.append(f"{p.relative_to(RACINE)}:{n} « {m.group(0)} » : {d:%d/%m/%Y} est un {NOMS[d.weekday()]}")
             for m in MOTIF.finditer(ligne):
-                jour, j, mois, annee = m.group(1).lower(), int(m.group(2)), int(m.group(3)), int(m.group(4) or annee_fichier)
+                jour, j, mois, annee = m.group(1).lower(), int(m.group(2)), int(m.group(3)), int(m.group(4) or annee_contexte)
                 try:
                     d = dt.date(annee, mois, j)
                 except ValueError:

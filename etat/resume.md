@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 21/10/2026 20:05 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 21/10/2026 20:23 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mercredi 17/07/2041 08:00 (luxembourg, UTC+2)
+## Horloge : mercredi 17/07/2041 18:30 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 06:00 ; lisbonne 07:00 ; mindelo 05:00 ; casablanca 07:00 ; douala 07:00 ; addis 09:00 ; manille 14:00 ; paris 08:00
+- **Heure dans les autres lieux** : abidjan 16:30 ; lisbonne 17:30 ; mindelo 15:30 ; casablanca 17:30 ; douala 17:30 ; addis 19:30 ; manille 00:30 ; paris 18:30
 - **En attente de William** :
-  - Choix des relances sur le solaire au Brésil et réponses sur Meeff / Tinder Séoul
+  - Validation du créneau visio Brésil avec Thiago Rocha et suite des échanges avec Hye-won et Min-ji
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **10 000,00 €**
@@ -33,9 +33,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-07-17.md, 6 dernières lignes)
-> - Réveil à 07h45 après une nuit réparatrice de 8 h 15 (couché vers 23h30).
-> - Café préparé dans la cuisine, consultation du téléphone portable et de l'ordinateur.
-> - Revue des premiers retours sur les publications de prospection solaire au Brésil (LinkedIn, Reddit, Facebook) et des notifications sur les applications de rencontre coréennes (Meeff et Tinder Séoul).
-> - Situation financière : inchangée (Compte courant 10 000,00 €, Épargne projet 75 250,00 €, ETF Monde 670 380,00 €).
-> - **00h00-08h00** (tour n° 3) : Soirée à la maison : publications de prospection en anglais sur le solaire au Brésil (LinkedIn, Reddit, Facebook) ; profil créé sur Meeff et Tinder Séoul ; nuit réparatrice ; réveil le mercredi 17/07 à 08h00 avec les premiers retours des deux côtés.
-> - Tour en cours à 08h00, en attente de William : **Choix des relances sur le solaire au Brésil et réponses sur Meeff / Tinder Séoul**.
+> - Décision confirmée de faire l'impasse sur le cours de MMA de 19h00 au Minett Combat Club pour laisser le corps récupérer pleinement et structurer ses projets.
+> ## 18h30 — Audun-le-Tiche, chez William
+> - Après-midi calme à la maison : lecture, hydratation, rangement et mise à jour de ses documents de travail.
+> - **08h00-18h30** (tour n° 4) : Réponses envoyées sur LinkedIn à Thiago Rocha et Lucas Mendes (visio proposée jeudi ou vendredi) ; échanges engagés avec Min-ji (Instagram) et Hye-won (WhatsApp) ; réponse positive de Thiago Rocha (visio jeudi ou vendredi 15h00) ; repos complet à la maison (pas de MMA).
+> - Tirages du tour : T21b Min-ji → repond (0,58) ; T21b Soo-jin → repond (29,68) ; T21b Hye-won → repond (5,01) ; T10 → rapide (37,55) ; T10 → plus_tard_ou_jamais (90,02) ; T10 → rapide (19,45) ; T10 → rapide (31,65) ; T10 → plus_tard_ou_jamais (98,25).
+> - Tour en cours à 18h30, en attente de William : **Validation du créneau visio Brésil avec Thiago Rocha et suite des échanges avec Hye-won et Min-ji**.

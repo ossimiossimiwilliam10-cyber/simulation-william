@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-07-17 08:00
+horloge: 2041-07-17 18:30
 fuseau: luxembourg
 lieu: Audun-le-Tiche (Moselle), chez William
-tour: 3
-attente: Choix des relances sur le solaire au Brésil et réponses sur Meeff / Tinder Séoul
+tour: 4
+attente: Validation du créneau visio Brésil avec Thiago Rocha et suite des échanges avec Hye-won et Min-ji

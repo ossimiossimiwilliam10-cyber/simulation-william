@@ -1,66 +1,60 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 21/10/2026 20:05 (heure machine) pour Gemini Antigravity
+# Relais de la simulation — briefing généré le 21/10/2026 20:23 (heure machine) pour Gemini Antigravity
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : mercredi 17 juillet 2041, 08h00 (luxembourg) ; tour n° 3
+- Horloge : mercredi 17 juillet 2041, 18h30 (luxembourg) ; tour n° 4
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Choix des relances sur le solaire au Brésil et réponses sur Meeff / Tinder Séoul
+- En attente de William : Validation du créneau visio Brésil avec Thiago Rocha et suite des échanges avec Hye-won et Min-ji
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 3 ; horloge 16/07/2041 18:30 -> 17/07/2041 08:00 ; enregistré le 21/10/2026 20:04 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 4 ; horloge 17/07/2041 08:00 -> 17/07/2041 18:30 ; enregistré le 21/10/2026 20:21 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Brésil et énergie solaire en génération distribuée ; posts en anglais exclusif sur LinkedIn, Reddit, Facebook ; profil de rencontre coréen Meeff et Tinder Séoul avec vraies photos et bio directe ; soirée, nuit de sommeil et réveil le 17/07 à 08h00.
+> Réponses envoyées à Thiago et Lucas sur LinkedIn (proposition visio jeudi/vendredi) ; réponses personnalisées à Min-ji, Soo-jin et Hye-won ; premiers vocaux WhatsApp avec Hye-won ; Thiago propose visio jeudi ou vendredi 15h00 ; repos à la maison, pas de MMA ce soir.
 
 ## Texte envoyé au joueur
 
-**MERCREDI 17 JUILLET 2041 — 08h00 — Audun-le-Tiche, chez William**
+**MERCREDI 17 JUILLET 2041 — 18h30 — Audun-le-Tiche, chez William**
 
-La soirée du mardi s'est déroulée au calme dans la maison d'Audun-le-Tiche. Dès 19h00, confortablement installé à son bureau, William passe à l'action sur le volet brésilien. Il rédige un message direct et percutant, rédigé exclusivement en anglais afin de filtrer d'emblée des interlocuteurs bilingues et habitués aux échanges internationaux. 
+Dès 08h30, tasse de café à la main, William prend l'initiative sur les deux fronts ouverts la veille.
 
-Le post présente sobrement son profil d'investisseur européen recherchant des connexions sérieuses avec des développeurs locaux, des installateurs EPC ou des consultants spécialisés dans la production solaire en génération distribuée (*Geração Distribuída*, cadre de la loi 14.300), ciblant particulièrement les régions à fort ensoleillement comme le Nordeste et le Minas Gerais. La publication est diffusée simultanément sur son compte LinkedIn professionnel, sur Reddit (notamment sur les sous-forums r/Solar et r/investimentos), ainsi que dans deux groupes spécialisés d'énergie renouvelable sur Facebook. Grâce au décalage horaire avec le Brésil (cinq heures de moins qu'en France), ces messages arrivent en début d'après-midi à São Paulo et Belo Horizonte, en pleine activité économique.
+Sur le plan professionnel, il répond sur LinkedIn aux deux prises de contact brésiliennes. Dans un anglais fluide et direct, il détaille son approche : son intention est de faire fructifier ses liquidités d'investisseur européen sur des actifs solides, en s'associant à des professionnels de terrain dignes de confiance. Il propose d'organiser un premier échange en visioconférence d'ici la fin de semaine, jeudi ou vendredi, afin de faire connaissance et d'étudier les dossiers concrets. Le message est transmis à Thiago Rocha à Campinas ainsi qu'à Lucas Mendes à Fortaleza.
 
-Vers 20h30, William passe au deuxième volet de sa soirée sur son smartphone. Il télécharge et configure son compte sur Meeff, l'application coréenne de référence pour les connexions internationales, puis active le mode Passeport de Tinder en positionnant sa localisation en plein cœur de Séoul. Il y importe des photos authentiques et soignées mettant en valeur son physique d'athlète de 1,96 m et 100 kg affûtés, chemise ajustée et allure soignée. Sa description annonce la couleur sans détour en anglais : *« Looking for a pretty Korean woman to take care of a tall Black man. Mathematics and physics teacher in Luxembourg, 196 cm, athletic, cultured. Let's talk. »*
+Dans la foulée, William traite ses messages sur les applications de rencontre coréennes :
+- À Min-ji sur Meeff, il répond avec simplicité que le monde est vaste, qu'il a envie d'explorer de nouveaux horizons culturels et de voir où cela peut mener. La jeune femme, connectée en milieu d'après-midi à Séoul, réagit favorablement à cette ouverture d'esprit. L'échange se déroule sur un ton naturel et bienveillant, et elle lui glisse son compte Instagram pour continuer à partager des photos et échanger plus facilement.
+- À Soo-jin sur Tinder, il indique qu'il est encore en pleine réflexion sur ses projets estivaux, qu'il pourrait aussi bien faire le voyage demain que dans une semaine selon la nature de la connexion, et qu'il dispose actuellement d'une liberté absolue. Soo-jin prend connaissance du message dans l'après-midi de Gangnam mais, prise par ses réunions professionnelles, elle ne renvoie pas de réponse immédiate.
+- À Hye-won sur Meeff, il confirme volontiers sa disponibilité pour converser en anglais, précisant qu'il est libre immédiatement et qu'il ne facture évidemment rien pour ces séances d'échange linguistique. Ravie de cette opportunité, l'étudiante lui communique sans attendre son numéro de téléphone coréen pour basculer sur WhatsApp.
 
-La soirée se poursuit simplement : un dîner léger dans la cuisine, un peu de lecture sur sa tablette, une grande bouteille d'eau fraîche, avant d'éteindre les lumières vers 23h30. La nuit est profonde et réparatrice, sans aucune interruption, permettant aux muscles sollicités lors de la grosse séance de la veille de récupérer pleinement.
+En fin de matinée, les premières notifications WhatsApp sonnent. Hye-won entame la discussion avec un enthousiasme communicatif. Son anglais est encore scolaire mais appliqué, et elle lui envoie un premier message vocal où elle s'étonne avec un rire timide du timbre particulièrement grave et posé de William. Elle l'interroge sur son métier d'enseignant et sur ce à quoi ressemble la vie au Luxembourg.
 
-À 07h45, le réveil naturel sonne la fin d'une nuit de plus de huit heures. Alors que le café coule dans la cafetière, William déverrouille son téléphone pour faire le point sur les notifications accumulées pendant son sommeil.
+Vers 12h30, William prépare son déjeuner dans la cuisine : un beau pavé de bœuf grillé, des patates douces rôties au four et une salade croquante. Le repas est savouré calmement, suivi d'un moment de repos sur le canapé.
 
-Côté brésilien, la journée de travail de la veille en Amérique du Sud a généré des premiers échos tangibles :
-- Sur LinkedIn, la publication totalise une centaine de vues qualifiées. Deux demandes de connexion sont arrivées, accompagnées d'un message direct : Thiago Rocha, ingénieur d'affaires chez un développeur de fermes solaires basé à Campinas (État de São Paulo), salue l'initiative en anglais et propose un court échange visio pour présenter un pipeline de centrales solaires de 75 kW à 300 kW en cours de structuration dans le Minas Gerais ; par ailleurs, Lucas Mendes, consultant financier indépendant dans les énergies renouvelables à Fortaleza, demande quelle fourchette de ticket d'entrée William envisage et s'il recherche de l'autoconsommation à distance ou de la location d'actifs de production.
-- Sur Reddit (r/investimentos), le fil a suscité quelques échanges techniques en anglais sur la rentabilité nette après la taxation progressive de l'injection réseau, et un utilisateur brésilien envoie un message privé pour le mettre en garde contre les démarcheurs non certifiés qui survendent des terrains sans accès garanti au réseau de distribution Enel ou Cemig.
-- Sur Facebook, le groupe compte surtout des offres commerciales standardisées de kits photovoltaïques industriels, mais un gérant d'une PME d'installation basée à Salvador de Bahia propose de discuter d'un besoin d'apport en fonds propres pour boucler l'achat de parcelles équipées.
+À 14h30, alors que la journée de bureau débute au Brésil avec les cinq heures de décalage horaire, une notification LinkedIn s'affiche. Thiago Rocha a répondu depuis Campinas. L'ingénieur d'affaires se montre particulièrement réceptif : un entretien vidéo lui convient parfaitement. Il propose un créneau pour le **jeudi 18 juillet à 15h00 heure française (10h00 à São Paulo)** ou, à défaut, le **vendredi 19 juillet à la même heure** via Google Meet. Il précise qu'il finalise d'ici là une note de cadrage sur deux parcs solaires au sol de 150 kW et 300 kW actuellement développés dans le Minas Gerais, disposant déjà de leur accord de raccordement au réseau de distribution Cemig. Lucas Mendes, de son côté, n'a pas encore réagi à Fortaleza.
 
-Côté coréen, où il est déjà 15h00 à Séoul (sept heures d'avance), les applications ont tourné toute la nuit :
-- Sur Meeff et Tinder Séoul, le profil a clairement provoqué des réactions tranchées, fidèles aux réalités locales : une large majorité d'utilisatrices glissent à gauche ou ignorent le profil en raison du conservatisme social et des canons de beauté très homogènes du pays. En revanche, le contraste physique et la taille de 1,96 m ont agi comme un puissant aimant auprès d'une minorité ciblée.
-- William compte six matchs et quatre messages directs reçus dans la matinée coréenne :
-  1. **Min-ji (28 ans, Séoul)** : Graphiste freelance, curieuse et enthousiaste : *« 196 cm?! That's insane, you look like an NBA player haha. What does a teacher from Luxembourg do looking for a Korean girl? 😊 »*
-  2. **Soo-jin (31 ans, Gangnam)** : Cadre dans les cosmétiques, profil soigné et anglophone : *« Hello William. Bold bio. I like tall and confident men. When are you coming to Seoul? »*
-  3. **Hye-won (24 ans, Hongdae)** : Étudiante en langues : *« Hi! Your photos are really handsome. I want to practice English, can we chat? »*
-  4. Un profil sans bio avec deux photos glamour d'une jeune femme qui renvoie immédiatement vers un compte KakaoTalk en parlant d'investissements en cryptomonnaies (profil typique de brouteur/arnaque financière à éliminer).
+Conformément à sa décision d'écouter son corps après l'intense reprise de la veille et de s'accorder du temps pour structurer ses projets, William laisse de côté le cours de MMA de 19h00 au Minett Combat Club. L'après-midi s'écoule sereinement à la maison entre rangement, consultation de documents techniques sur le solaire brésilien et hydratation.
 
-La journée du mercredi s'ouvre calmement sous un ciel clair à Audun-le-Tiche. Le cours collectif de MMA au Minett Combat Club est programmé ce soir à 19h00 à Esch-sur-Alzette, laissant toute la journée disponible.
+À 18h30, William est posé au calme dans son salon, parfaitement reposé.
 
 ---
 
 **Réponses attendues**
-- **Prospection Brésil** : Répondre ou non aux messages de Thiago Rocha (pipeline Minas Gerais) et Lucas Mendes (consultant Fortaleza), et décider d'approfondir la discussion.
-- **Meeff / Tinder Séoul** : Choisir d'engager la conversation avec Min-ji, Soo-jin, Hye-won, ou laisser en attente.
+- **Thiago Rocha (Brésil)** : Confirmer le rendez-vous visio (jeudi 18/07 à 15h00 ou vendredi 19/07 à 15h00) ou proposer un autre créneau.
+- **Hye-won / Min-ji (Corée)** : Poursuivre les échanges engagés sur WhatsApp ou Instagram.
 
 **À faire / à fournir avant le tour suivant**
-- Fixer la ligne de conduite sur les contacts brésiliens (demander des dossiers de présentation de projets ou cadrer le ticket d'entrée).
-- Décider de la participation au cours de MMA de ce soir à 19h00 (ou entraînement libre / repos).
+- Préparer les points de vigilance pour l'appel avec Thiago Rocha (rentabilité nette, montage d'associé passif non-gérant Art. 14, garanties de raccordement).
+- Arrêter le programme du jeudi 18 juillet (reprise de l'entraînement au club, démarche d'investissement ou autre).
 
 **Quêtes secondaires**
-- Minett Combat Club : cours de MMA programmé mercredi à 19h00 (ou accès libre au plateau).
-- Échéances : deux mois complets de vacances scolaires jusqu'à la rentrée du lundi 16 septembre 2041.
+- Minett Combat Club : plateau de musculation et sacs ouverts jeudi dès 06h30 à Esch-sur-Alzette.
+- Lucas Mendes : message LinkedIn en attente de lecture ou retour à Fortaleza.
 
 Que veux-tu faire ?
 
@@ -72,10 +66,10 @@ Que veux-tu faire ?
 
 ## Décisions en attente de William (etat/fils-ouverts.md, A)
 | 1 | **Organisation des vacances d'été 2041** | Grandes vacances scolaires (du mardi 16/07/2041 au dimanche 15/09/2041). Choix des projets, voyages, rythme de vie ou déplacements estivaux. Budget vacances disponible : 833 €/mois (10 000 €/an). | Ouvert |
-| 2 | **Solaire au Brésil (Geração Distribuída)** | Publications de prospection diffusées en anglais exclusif le 16/07 au soir (LinkedIn, Reddit, Facebook). Premiers retours reçus au matin du 17/07 (vues de profils, développeurs de parcs solaires, commentaires Reddit). Décision : choix des contacts à relancer. | Ouvert |
-| 3 | **Entraînement sportif & préparation physique** | Première séance effectuée le 16/07 après-midi. Cours de MMA programmé ce soir mercredi 17/07/2041 à 19h00 au Minett Combat Club (ou musculation libre). Noter la fermeture annuelle du club du lundi 12/08/2041 au dimanche 25/08/2041 (agenda A003). | Ouvert |
+| 2 | **Solaire au Brésil (Geração Distribuída)** | Thiago Rocha (ingénieur d'affaires à Campinas) propose un appel visio le jeudi 18/07 à 15h00 ou le vendredi 19/07 à 15h00 (heure européenne) pour présenter un pipeline de fermes solaires (150-300 kW) dans le Minas Gerais. Lucas Mendes (Fortaleza) n'a pas encore répondu. Décision : fixer le jour et l'heure de l'appel. | Ouvert |
+| 3 | **Entraînement sportif & préparation physique** | Journée de repos complet le 17/07. Prochaine opportunité : entraînement libre ou musculation le jeudi 18/07 au Minett Combat Club. Noter la fermeture annuelle du club du lundi 12/08/2041 au dimanche 25/08/2041 (agenda A003). | Ouvert |
 | 4 | **Logistique personnelle & maison** | Maison d'Audun-le-Tiche (charges à jour, voiture électrique chargée). Tout est en ordre. | Ouvert |
-| 5 | **Rencontres coréennes (Meeff & Tinder Séoul)** | Profils créés le 16/07 au soir avec vraies photos et bio directe. Premiers matchs et messages reçus au réveil le 17/07 (curiosité pour la taille/physique, échanges linguistiques, quelques profils suspects). Décision : tri et réponses. | Ouvert |
+| 5 | **Rencontres coréennes (Meeff & Tinder Séoul)** | Échanges actifs avec Min-ji (graphiste à Séoul) et Hye-won (étudiante à Hongdae, basculée sur WhatsApp pour échanges vocaux/écrits en anglais). Soo-jin (cadre cosmétique à Gangnam) n'a pas encore répondu. Décision : suite des échanges. | Ouvert |
 
 ## Notes de passation (etat/relais-notes.md)
 - ~~(11/10/2026 22:30, Claude Opus 5.5) Redémarrage de l'univers 2 redaté au samedi 14/07/2040, 08h37 (premier vrai jour de vacances,
@@ -169,8 +163,8 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : master ; master : 947d8fc ; avance 0, retard 0
-- worktree simulation-william (ICI) : branche master ; 0 commit(s) absents de master ; 19 fichier(s) modifié(s)
+- branche courante : master ; master : 119d03c ; avance 0, retard 0
+- worktree simulation-william (ICI) : branche master ; 0 commit(s) absents de master ; 18 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree eloquent-mirzakhani-73acb9 : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
