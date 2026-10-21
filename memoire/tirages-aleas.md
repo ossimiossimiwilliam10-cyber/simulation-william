@@ -2279,3 +2279,9 @@ Effets à jouer : A07 (vendredi 20/07 (matin)) : Retard d'un virement, d'un envo
 - Tirage [T21b] « Hye-won reçoit les critères de William (6 semaines, max 3000 euros logement, quartier chill) » : repond 50 / repond_tard 20 / ignore 22 / bloque 8 ; modificateurs : aucun ; jet  37.1 → **repond** (enregistré le 21/10/2026 21:29 heure machine)
 
 - Tirage [T10] « Délai de réponse de Hye-won sur les propositions de logement » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  59.3 → **dans_la_journee** (enregistré le 21/10/2026 21:29 heure machine)
+
+- Tirage [T15] « Réaction de Thiago Rocha face à l'audit rigoureux de 12 questions de William lors de la visio » : rien_laisse_passer 30 / accepte_volontiers 18 / garde_distance 14 / en_parle_a_d_autres 12 / rend_la_pareille 10 / demande_explication 8 / decline 6 / frontal_conflit 2 ; modificateurs : aucun ; jet  23.0 → **rien_laisse_passer** (enregistré le 21/10/2026 21:41 heure machine)
+
+- Tirage [T8] « Hye-won reçoit une demande de coordonnées bancaires de William pour une surprise financière de remerciement » : soutient_sans_creuser 22 / creuse_doucement 25 / releve_esquive 18 / plaisante_et_devie 12 / froideur 10 / agacement_net 7 / rien_ne_dit_soupconne 5 / frontal_rupture 1 ; modificateurs : aucun ; jet  82.5 → **froideur** (enregistré le 21/10/2026 21:41 heure machine)
+
+- Tirage [T10] « Délai de réponse de Hye-won suite à la demande bancaire » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  54.8 → **dans_l_heure** (enregistré le 21/10/2026 21:42 heure machine)

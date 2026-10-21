@@ -1,70 +1,75 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 21/10/2026 21:32 (heure machine) pour Antigravity
+# Relais de la simulation — briefing généré le 21/10/2026 21:49 (heure machine) pour Antigravity
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : vendredi 19 juillet 2041, 14h30 (luxembourg) ; tour n° 7
+- Horloge : vendredi 19 juillet 2041, 19h00 (luxembourg) ; tour n° 8
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Visioconférence Google Meet à 15h00 avec Thiago Rocha (solaire Minas Gerais)
+- En attente de William : Préparation des bagages pour le voyage à Séoul (départ dimanche 21 juillet) et programme du samedi 20 juillet
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 7 ; horloge 18/07/2041 19:00 -> 19/07/2041 14:30 ; enregistré le 21/10/2026 21:32 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 8 ; horloge 19/07/2041 14:30 -> 19/07/2041 19:00 ; enregistré le 21/10/2026 21:49 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Réponse Min-ji (attente retour), réponse Hye-won (logement Séoul 6 semaines max 3000 euros chill), planches photos sauvegardées, préparation visio Thiago 15h
+> Visio avec Thiago (audit 12 questions), demande bancaire Hye-won (refus distant), réponse tact William, confirmation barbecue Min-ji mardi 23, réservation vol Séoul 1680 euros
 
 ## Texte envoyé au joueur
 
-**VENDREDI 19 JUILLET 2041 — 14h30 — Audun-le-Tiche, chez William**
+**VENDREDI 19 JUILLET 2041 — 19h00 — Audun-le-Tiche, chez William**
 
-Sur Instagram, ton message à Min-ji a posé le tempo avec simplicité : tu lui as confirmé que c'était parfait et que tu attendrais tranquillement son retour pour bloquer vos disponibilités en début de semaine prochaine. Sur WhatsApp, tes vocaux adressés à Hye-won ont précisément borné le cadre de ton voyage : acceptant son aide de très bon cœur pour te guider dans Séoul, tu lui as indiqué que ton séjour s'étalerait sur environ six semaines — du lundi 22 juillet jusqu'à début septembre —, avec un budget strictement dédié au logement plafonné à 3 000 € pour la totalité des six semaines, sans rien y inclure d'autre. Tu as insisté sur l'atmosphère recherchée : un cadre résolument calme, verdoyant et reposant, loin de l'agitation assourdissante des quartiers de fête nocturne.
+À 14 h 30, juste avant d'enfiler ton casque pour la réunion d'affaires, un bref message a été envoyé à Hye-won sur WhatsApp pour lui demander ses coordonnées bancaires, en glissant que c'était pour une surprise afin de la remercier de l'aide précieuse qu'elle t'apportait dans la prospection de ton logement séoulite.
 
-Les deux planches de présentation détaillées transmises pour Min-ji et Hye-won ont été archivées dans tes dossiers personnels et rattachées à leurs fiches de profil respectives, figeant durablement leurs traits, leurs styles de vie et leurs repères du quotidien.
+À 15 h 00 précise, la visioconférence Google Meet s'est ouverte avec Thiago Rocha, connecté depuis Campinas où il était 10 h 00 du matin. Face à cet ingénieur d'affaires brésilien de 37 ans au ton posé et professionnel, tu as conduit l'échange d'une main ferme, égrenant avec rigueur les douze questions discriminantes de ta grille d'audit technique et financière. Loin de se dérober, Thiago a répondu avec une remarquable précision, documents contractuels et schémas d'ingénierie à l'appui :
+1. Sur le cadre réglementaire, le premier parc de 150 kW implanté à Montes Claros dans le nord du Minas Gerais bénéficie de l'ancien régime de la loi 14.300/2022 grâce à un protocole de connexion CEMIG validé avant le 6 janvier 2023, ce qui garantit une exonération intégrale de la composante B du TUSD jusqu'en 2045. Le second parc de 300 kW à Uberlândia est en revanche assujetti au barème de transition, avec une composante B prélevée à 75 % en 2041.
+2. Concernant l'offtake, les contrats de location d'actifs (*locação de equipamentos*) sont déjà paraphés avec un groupement privé réunissant des cliniques médicales et des commerces de détail de Belo Horizonte. Il s'agit de baux fermes de cinq ans adossés à un compte séquestre bloquant trois mois de loyer en garantie contre les impayés.
+3. Côté matériel, l'installation repose sur des panneaux solaires bifaciaux Canadian Solar N-Type TOPCon de dernière génération, couplés à des onduleurs de chaîne Sungrow et montés sur des structures fixes en acier galvanisé inclinées à 15°, un choix délibéré pour s'affranchir de la maintenance mécanique des trackers dans une région semi-aride.
+4. Sur le volet juridique et fiscal, chaque actif est abrité dans une SPE dédiée sous forme de LTDA régie par le *Lucro Presumido* (taux de base effectif de 11,33 % sur les revenus locatifs), et la convention fiscale bilatérale Brésil-Luxembourg permet le rapatriement des dividendes nets en euros sans retenue à la source au Brésil.
 
-Après une soirée paisible ponctuée d'un dîner léger et d'un coucher à 23 h 30, la nuit a offert huit heures et quart d'un sommeil profond et ininterrompu. Au réveil à 7 h 45, ton organisme affichait une fraîcheur physique totale, capitalisant sur deux journées consécutives de repos sans traumatisme articulaire.
+Impressionné par le niveau de préparation de son interlocuteur, Thiago Rocha s'est engagé à transmettre l'ensemble de la data room technique (rapports d'irradiation SolarGIS, baux notariés et autorisations CEMIG) par courriel d'ici le lundi 22 juillet au matin. Fidèle à ta prudence méthodologique, tu n'as pris aucun engagement verbal ni versé le moindre acompte, convenant d'examiner les pièces à tête reposée.
 
-En milieu de matinée, un long message vocal de Hye-won est venu confirmer la parfaite réception de tes critères. Visiblement ravie, l'étudiante coréenne a salué l'idée d'un séjour de six semaines, soulignant qu'une telle durée permet d'échapper au survol superficiel des circuits touristiques pour s'imprégner du véritable rythme de la ville. Concernant l'enveloppe de 3 000 € uniquement réservée au logement — soit environ 4,5 millions de won, ou près de 100 000 won par nuitée —, elle t'a rassuré sans détours : c'est un budget très confortable qui ouvre l'accès à d'excellents officetels récents ou studios tout équipés, lumineux, climatisés et dotés d'un espace de travail fonctionnel. Fidèle à ta volonté d'examiner des options vérifiées avant de te prononcer, elle t'a précisé cibler en priorité les abords immédiats de Yeonnam-dong et de Mangwon-dong, dans l'arrondissement de Mapo-gu, le long de la coulée verte du Gyeongui Line Forest Park : une atmosphère sereine, bordée de cafés d'auteurs, de petites boulangeries de quartier et d'arbres, à dix minutes à pied de son université, tout en restant à l'écart des foules bruyantes. Elle a promis de prospecter et de te transmettre d'ici ce soir deux ou trois liens d'annonces vérifiées par ses soins.
+En rouvrant tes téléphones à 16 h 45, le retour de Hye-won sur WhatsApp a immédiatement marqué un contraste avec l'enthousiasme de la veille. Heurtée dans sa fierté d'étudiante indépendante par la demande de coordonnées bancaires — une démarche inhabituelle perçue comme une tentative d'introduire une contrepartie financière ou un rapport de dépendance —, elle a répondu par un message textuel concis et distant : *« No thank you, I don't need any money. I just wanted to help you discover Seoul as a friend. Please don't send anything. »*. Mesurant la portée de cette réaction culturelle, tu lui as aussitôt adressé un message vocal franc, calme et mesuré : t'excusant sans détour de ta maladresse occidentale, tu lui as expliqué que tu ne voulais en aucun cas la froisser ou altérer la nature de vos échanges, et que tu appréciais avant tout sa gentillesse et son aide désintéressée. Ton ton posé a permis de désamorcer la tension et de préserver un contact respectueux.
 
-La suite de la matinée s'est déroulée dans un silence studieux devant ton double écran. Tu as repris point par point les douze questions de ta grille d'audit en PDF pour préparer l'entretien de cet après-midi avec Thiago Rocha : le statut exact des protocoles d'accès CEMIG au regard de la loi 14.300/2022 pour les fermes solaires de 150 kW et 300 kW dans le Minas Gerais, les clauses de résiliation anticipée et les garanties bancaires des contrats de location d'équipements, le choix des onduleurs et des modules photovoltaïques TOPCon, ainsi que l'ingénierie sociétaire en SPE et le régime fiscal du *Lucro Presumido*.
+Sur Instagram, Min-ji a quant à elle confirmé la bonne nouvelle : son planning freelance est verrouillé et elle a réservé son mardi 23 juillet après-midi pour vous retrouver autour d'un authentique barbecue coréen à Seongsu.
 
-Après un déjeuner équilibré pris à 12 h 30, la dernière heure a été consacrée à la vérification méticuleuse du poste de travail : connexion filaire à très haut débit testée, éclairage naturel optimisé, caméra HD et micro-casque étalonnés sans le moindre souffle. Le lien Google Meet est ouvert sur ton écran de contrôle, à côté de ta grille d'audit technique et de ton bloc-notes. 
+Le dossier brésilien étant désormais cadré et en attente des documents officiels pour lundi, la décision a été prise de valider le voyage. À 18 h 30, tu as finalisé sur ton ordinateur la réservation de ton vol direct Paris CDG – Séoul Incheon (Korean Air, vol KE902 décollant le dimanche 21 juillet à 13 h 20 pour atterrir à Incheon le lundi 22 juillet à 7 h 50 du matin). Le règlement de 1 680,00 € en classe Premium Economy a été validé par carte bancaire et imputé sur ton compte courant, articulé avec un trajet direct en TGV depuis la gare de Lorraine TGV le dimanche à 9 h 15.
 
-À 14 h 30, assis à ton bureau dans une chemise légère impeccable, l'esprit clair et les chiffres en tête, il te reste exactement trente minutes avant que la visioconférence d'affaires avec le développeur brésilien ne démarre.
+À 19 h 00, le cap est nettement tracé : le billet pour l'Asie est en poche, le dossier brésilien est sous contrôle technique, et le week-end qui s'ouvre sera dédié aux préparatifs du départ.
 
 ---
 
 ### Réponses attendues
-- **Thiago Rocha (Campinas)** : la visioconférence Google Meet démarre à 15h00 précise (10h00 à São Paulo). Il attend ta connexion pour te présenter son dossier sur les deux parcs solaires du Minas Gerais.
-- **Hye-won (WhatsApp)** : elle sélectionne actuellement 2 ou 3 annonces d'officetels calmes et vérifiés à Mapo-gu sous la barre des 3 000 € pour les 6 semaines, et attendra ton retour dès réception des liens.
+- **Hye-won (WhatsApp)** : ton message vocal d'excuses posé et sincère lui a été envoyé pour désamorcer la maladresse financière ; elle poursuit sa prospection des deux ou trois officetels calmes à Mapo-gu et attendra de savoir quand tu seras installé.
+- **Min-ji (Instagram)** : votre premier rendez-vous barbecue à Seongsu est définitivement arrêté pour le mardi 23 juillet après-midi.
 
 ### À faire / à fournir avant le tour suivant
-- **Entretien d'affaires solaire Brésil** : conduite de la réunion visio avec Thiago Rocha. Tu as ta grille d'audit de 12 questions sous les yeux pour mener l'échange.
-- **Réservation du vol Séoul** : finalisation du billet d'avion pour le vol direct Paris CDG – Séoul Incheon de dimanche 21/07 à 13h20 (arrivée lundi 22/07 à 7h50), à déclencher à l'issue de l'appel.
+- **Préparation du voyage à Séoul (départ J-2)** : valise, vêtements adaptés à l'été coréen (chaud et humide), passeport, documents de voyage et adaptateurs électriques. Départ d'Audun-le-Tiche prévu dimanche matin pour prendre le TGV Lorraine – Roissy à 9 h 15.
+- **Logistique maison d'Audun-le-Tiche** : sécurisation de la maison pour une absence de six semaines (fermetures, arrosage, courrier, coupure de l'eau).
 
 ### Quêtes secondaires
-- **Min-ji (Instagram)** : elle consulte son planning freelance pour te donner ses disponibilités pour votre futur barbecue à Seongsu.
-- **Programme de fin de journée** : après la réunion visio de 15h00, fin d'après-midi libre (possibilité d'entraînement libre au Minett Combat Club, démarches de voyage ou détente).
+- **Data room solaire Brésil** : Thiago Rocha enverra l'ensemble des dossiers contractuels par courriel le lundi 22 juillet matin, à consulter à ton arrivée à Séoul.
+- **Programme du samedi 20 juillet** : journée complète à domicile pour t'organiser (possibilité d'une séance d'entraînement au Minett Combat Club, courses de voyage ou repos).
 
 Que veux-tu faire ?
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
+- ⚠ 1 échéance(s) échue(s) non close(s) (règle 14)
 - A004 Fri 19/07 15:00 (luxembourg) | Thiago Rocha & William : Visioconférence Google Meet : présentation du pipeline de fermes solaires (Minas Gerais, 150 kW et 300 kW) [prevu]  — rendez-vous convenu le 17/07 après-midi, lien Meet reçu
 
 ## Rituels du moteur dus (rituels.py)
 - rien
 
 ## Décisions en attente de William (etat/fils-ouverts.md, A)
-| 1 | **Voyage à Séoul (Corée du Sud)** | Séjour de 6 semaines (du 22/07 au 02/09). Vol de nuit réservable dimanche 21/07 à 13h20 (CDG-ICN KE902). Hye-won sélectionne 2-3 options vérifiées d'officetels calmes à Mapo-gu sous le plafond strict de 3 000 € pour les 6 semaines. Décision : validation des billets et du logement post-visio Brésil. | ven. 19/07/2041 |
-| 2 | **Solaire au Brésil (Geração Distribuída)** | Visioconférence Google Meet avec Thiago Rocha (Campinas) à 15h00 (H-30 min, agenda A004). Grille d'audit de 12 questions en PDF ouverte, caméra et micro prêts. Décision : conduite de l'entretien et négociation. | ven. 19/07/2041 15:00 |
-| 3 | **Entraînement sportif & préparation physique** | Corps en pleine forme après deux jours de repos complet et sommeil de 8 h 15. Possibilité d'une séance au Minett Combat Club ce vendredi soir ou samedi matin. Fermeture annuelle du club du lundi 12/08/2041 au dimanche 25/08/2041 (agenda A003). | Ouvert |
-| 4 | **Logistique personnelle & maison** | Maison d'Audun-le-Tiche (charges à jour, voiture électrique chargée). Tout est en ordre. | Ouvert |
-| 5 | **Rencontres coréennes (Min-ji & Hye-won)** | Planches illustrées sauvegardées dans `personnes/images/`. Min-ji consulte son agenda freelance pour leur créneau barbecue. Hye-won prospecte des logements calmes à Mapo-gu. | Ouvert |
+| 1 | **Voyage à Séoul (Corée du Sud)** | Séjour de 6 semaines (du 22/07 au 02/09). Billet d'avion réservé et payé (Korean Air KE902 direct, 1 680 €). Départ dimanche 21/07 à 13h20 (TGV Lorraine-CDG à 09h15). Logement : en attente des 2-3 liens d'officetels vérifiés par Hye-won à Mapo-gu (max 3 000 €). Décision : préparation de la valise et choix du logement. | dim. 21/07/2041 |
+| 2 | **Solaire au Brésil (Geração Distribuída)** | Visioconférence menée avec succès avec Thiago Rocha. Audit technique des 12 points validé. Thiago envoie la data room complète (SolarGIS, baux notariés, protocoles CEMIG) par courriel lundi 22/07 matin. Décision : étude des pièces à réception. | lun. 22/07/2041 |
+| 3 | **Entraînement sportif & préparation physique** | Corps pleinement reposé. Possibilité d'une séance libre de musculation ou cardio au Minett Combat Club le samedi 20/07 avant le départ pour la Corée. Fermeture annuelle du club du lundi 12/08/2041 au dimanche 25/08/2041 (agenda A003). | Ouvert |
+| 4 | **Logistique personnelle & maison** | Maison d'Audun-le-Tiche (charges à jour, voiture électrique chargée). Fermeture et sécurisation de la maison avant le départ de 6 semaines. | dim. 21/07/2041 |
+| 5 | **Rencontres coréennes (Min-ji & Hye-won)** | Min-ji a validé le premier rendez-vous barbecue coréen pour le mardi 23/07 après-midi à Seongsu (A006). Malaise financier désamorcé avec tact auprès de Hye-won, qui prospecte les logements calmes à Mapo. | Ouvert |
 
 ## Notes de passation (etat/relais-notes.md)
 - ~~(11/10/2026 22:30, Claude Opus 5.5) Redémarrage de l'univers 2 redaté au samedi 14/07/2040, 08h37 (premier vrai jour de vacances,
@@ -158,8 +163,8 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : master ; master : c6fc2f9 ; avance 0, retard 0
-- worktree simulation-william (ICI) : branche master ; 0 commit(s) absents de master ; 16 fichier(s) modifié(s)
+- branche courante : master ; master : 88c9e73 ; avance 0, retard 0
+- worktree simulation-william (ICI) : branche master ; 0 commit(s) absents de master ; 13 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree eloquent-mirzakhani-73acb9 : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
