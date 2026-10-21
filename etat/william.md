@@ -73,6 +73,8 @@ Voir `etat/finances.md` et `etat/echeancier.csv`.
 ## Corps
 - Suivi dans `etat/corps.csv`.
 - Nuit du 15 au 16/07/2041 : couché 23h20, lever 08h37 (9 h 17 de sommeil réparateur, premier matin des vacances scolaires, reposé et en excellente forme physique).
+- Mardi 16/07/2041 après-midi : 2 h d'entraînement complet au Minett Combat Club (1 h musculation lourde + 1 h travail d'impact aux sacs de frappe). Corps affûté, bonne congestion musculaire, aucune blessure.
 
 ## Historique
 - **21/10/2026 (date réelle)** : validation du lancement de l'Univers 3 à 36 ans au premier jour des vacances scolaires d'été (16/07/2041). Intégration du modèle financier de carrière luxembourgeoise avec 3 leçons supplémentaires (Gr. 14, 540 pts, 9 320 € net) et règle 90/10.
+- **16/07/2041 (mardi)** : Premier jour des vacances d'été. Recherches prospectives par IA sur les secteurs porteurs en Côte d'Ivoire, au Brésil et aux Philippines. Validation du montage d'associé non-gérant / investisseur passif au titre de l'Art. 14 du statut général des fonctionnaires (risque statutaire zéro). Séance de reprise complète au Minett Combat Club à Esch.
