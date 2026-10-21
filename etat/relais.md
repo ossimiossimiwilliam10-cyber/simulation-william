@@ -1,65 +1,66 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 21/10/2026 19:47 (heure machine) pour Gemini Antigravity
+# Relais de la simulation — briefing généré le 21/10/2026 20:05 (heure machine) pour Gemini Antigravity
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : mardi 16 juillet 2041, 18h30 (luxembourg) ; tour n° 2
+- Horloge : mercredi 17 juillet 2041, 08h00 (luxembourg) ; tour n° 3
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Orientation du projet d'entreprise et programme des prochains jours
+- En attente de William : Choix des relances sur le solaire au Brésil et réponses sur Meeff / Tinder Séoul
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 2 ; horloge 16/07/2041 08:37 -> 16/07/2041 18:30 ; enregistré le 21/10/2026 19:40 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 3 ; horloge 16/07/2041 18:30 -> 17/07/2041 08:00 ; enregistré le 21/10/2026 20:04 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Recherches assistées d'IA sur Côte d'Ivoire, Brésil, Philippines ; vérification statut Art. 14 ; déjeuner maison ; entraînement 2h Minett Combat Club ; prise de note rentrée 16/09/2041 et finances ; posé chez lui à 18h30.
+> Brésil et énergie solaire en génération distribuée ; posts en anglais exclusif sur LinkedIn, Reddit, Facebook ; profil de rencontre coréen Meeff et Tinder Séoul avec vraies photos et bio directe ; soirée, nuit de sommeil et réveil le 17/07 à 08h00.
 
 ## Texte envoyé au joueur
 
-**MARDI 16 JUILLET 2041 — 18h30 — Audun-le-Tiche, chez William**
+**MERCREDI 17 JUILLET 2041 — 08h00 — Audun-le-Tiche, chez William**
 
-La matinée commence devant l'écran de l'ordinateur portable, un café noir posé sur la table de la cuisine. Avec l'appui d'outils d'intelligence artificielle avancés, plusieurs heures sont consacrées à l'analyse comparée des opportunités d'investissement dans trois zones géographiques ciblées : la Côte d'Ivoire, le Brésil et les Philippines.
+La soirée du mardi s'est déroulée au calme dans la maison d'Audun-le-Tiche. Dès 19h00, confortablement installé à son bureau, William passe à l'action sur le volet brésilien. Il rédige un message direct et percutant, rédigé exclusivement en anglais afin de filtrer d'emblée des interlocuteurs bilingues et habitués aux échanges internationaux. 
 
-L'étude met en relief des dynamiques contrastées mais prometteuses :
-- **Côte d'Ivoire** : La transformation agro-industrielle locale (cacao fin, valorisation de l'anacarde, fruits séchés) et la logistique d'entreposage frigorifique entre Abidjan et le corridor portuaire de San Pedro présentent les rendements les plus prévisibles. L'atout déterminant réside dans la parité fixe du franc CFA avec l'euro (1 € = 655,957 FCFA), éliminant tout risque de change direct. Les tickets d'entrée efficaces s'échelonnent entre 25 000 € et 75 000 €.
-- **Brésil** : Les segments les plus vigoureux concernent l'agritech (optimisation du rendement par capteurs et analyse prédictive) ainsi que la production d'énergie solaire en génération distribuée dans le Nordeste. Si le marché intérieur est gigantesque, la volatilité du real brésilien et la complexité des charges administratives locales exigent une vigilance accrue. Les tickets d'amorçage s'établissent entre 30 000 € et 100 000 €.
-- **Philippines** : Le secteur des services d'externalisation à forte valeur ajoutée (BPO/KPO axé sur la comptabilité analytique, le développement applicatif et l'annotation de données pour l'IA) offre une rentabilité rapide, porté par une main-d'œuvre anglophone qualifiée et le statut fiscal privilégié des zones PEZA. Parallèlement, l'immobilier locatif meublé pour cadres expatriés à Bonifacio Global City (BGC) ou Makati garantit des flux locatifs réguliers. Tickets d'entrée types : 20 000 € à 60 000 €.
+Le post présente sobrement son profil d'investisseur européen recherchant des connexions sérieuses avec des développeurs locaux, des installateurs EPC ou des consultants spécialisés dans la production solaire en génération distribuée (*Geração Distribuída*, cadre de la loi 14.300), ciblant particulièrement les régions à fort ensoleillement comme le Nordeste et le Minas Gerais. La publication est diffusée simultanément sur son compte LinkedIn professionnel, sur Reddit (notamment sur les sous-forums r/Solar et r/investimentos), ainsi que dans deux groupes spécialisés d'énergie renouvelable sur Facebook. Grâce au décalage horaire avec le Brésil (cinq heures de moins qu'en France), ces messages arrivent en début d'après-midi à São Paulo et Belo Horizonte, en pleine activité économique.
 
-L'ensemble de ces analyses et projections a été formalisé dans un dossier de synthèse complet, immédiatement classé sous format PDF : `documents_william/2041-07-16_Etude_IA_Opportunites_Investissement.pdf`.
+Vers 20h30, William passe au deuxième volet de sa soirée sur son smartphone. Il télécharge et configure son compte sur Meeff, l'application coréenne de référence pour les connexions internationales, puis active le mode Passeport de Tinder en positionnant sa localisation en plein cœur de Séoul. Il y importe des photos authentiques et soignées mettant en valeur son physique d'athlète de 1,96 m et 100 kg affûtés, chemise ajustée et allure soignée. Sa description annonce la couleur sans détour en anglais : *« Looking for a pretty Korean woman to take care of a tall Black man. Mathematics and physics teacher in Luxembourg, 196 cm, athletic, cultured. Let's talk. »*
 
-Dans le même élan, un point rigoureux est mené sur l'Article 14 du Statut général des fonctionnaires de l'État luxembourgeois. La législation proscrit formellement l'exercice personnel du commerce ou la détention d'un mandat social de gestion exécutive (gérant statutaire, administrateur délégué). En revanche, la qualité d'actionnaire ou d'associé passif (détention de parts sociales, apport en capital, perception légale de dividendes), sans mandat d'administration et avec une gérance confiée à un associé local opérationnel, est pleinement autorisée sans dérogation ministérielle préalable. Le statut d'enseignant titulaire et le traitement net mensuel de 9 320 € demeurent ainsi totalement protégés.
+La soirée se poursuit simplement : un dîner léger dans la cuisine, un peu de lecture sur sa tablette, une grande bouteille d'eau fraîche, avant d'éteindre les lumières vers 23h30. La nuit est profonde et réparatrice, sans aucune interruption, permettant aux muscles sollicités lors de la grosse séance de la veille de récupérer pleinement.
 
-Vers 12h15, place à un déjeuner sain préparé dans la cuisine : escalopes de poulet dorées aux épices douces, riz complet et légumes vapeur arrosés d'un filet d'huile d'olive. Le repas est suivi d'une courte phase de digestion et de calme.
+À 07h45, le réveil naturel sonne la fin d'une nuit de plus de huit heures. Alors que le café coule dans la cafetière, William déverrouille son téléphone pour faire le point sur les notifications accumulées pendant son sommeil.
 
-À 14h45, le départ est pris au volant de la voiture électrique pour franchir la frontière en direction d'Esch-sur-Alzette. Arrivé au Minett Combat Club un quart d'heure plus tard, l'accès au plateau est fluide en ce début d'après-midi. 
+Côté brésilien, la journée de travail de la veille en Amérique du Sud a généré des premiers échos tangibles :
+- Sur LinkedIn, la publication totalise une centaine de vues qualifiées. Deux demandes de connexion sont arrivées, accompagnées d'un message direct : Thiago Rocha, ingénieur d'affaires chez un développeur de fermes solaires basé à Campinas (État de São Paulo), salue l'initiative en anglais et propose un court échange visio pour présenter un pipeline de centrales solaires de 75 kW à 300 kW en cours de structuration dans le Minas Gerais ; par ailleurs, Lucas Mendes, consultant financier indépendant dans les énergies renouvelables à Fortaleza, demande quelle fourchette de ticket d'entrée William envisage et s'il recherche de l'autoconsommation à distance ou de la location d'actifs de production.
+- Sur Reddit (r/investimentos), le fil a suscité quelques échanges techniques en anglais sur la rentabilité nette après la taxation progressive de l'injection réseau, et un utilisateur brésilien envoie un message privé pour le mettre en garde contre les démarcheurs non certifiés qui survendent des terrains sans accès garanti au réseau de distribution Enel ou Cemig.
+- Sur Facebook, le groupe compte surtout des offres commerciales standardisées de kits photovoltaïques industriels, mais un gérant d'une PME d'installation basée à Salvador de Bahia propose de discuter d'un besoin d'apport en fonds propres pour boucler l'achat de parcelles équipées.
 
-La séance de reprise dure deux heures complètes :
-- La première heure est consacrée à la musculation lourde : montées progressives au squat pour réactiver le bas du corps, séries au développé couché avec haltères massifs, puis tractions strictes avec ceinture de lest et renforcement de la sangle abdominale.
-- La seconde heure s'enchaîne directement dans la salle de frappe : rounds intensifs aux sacs lourds, alternant enchaînements en boxe anglaise, crochets au corps, frappes basses et moyennes de pieds-poings, avec un travail soutenu des déplacements et du cardio.
+Côté coréen, où il est déjà 15h00 à Séoul (sept heures d'avance), les applications ont tourné toute la nuit :
+- Sur Meeff et Tinder Séoul, le profil a clairement provoqué des réactions tranchées, fidèles aux réalités locales : une large majorité d'utilisatrices glissent à gauche ou ignorent le profil en raison du conservatisme social et des canons de beauté très homogènes du pays. En revanche, le contraste physique et la taille de 1,96 m ont agi comme un puissant aimant auprès d'une minorité ciblée.
+- William compte six matchs et quatre messages directs reçus dans la matinée coréenne :
+  1. **Min-ji (28 ans, Séoul)** : Graphiste freelance, curieuse et enthousiaste : *« 196 cm?! That's insane, you look like an NBA player haha. What does a teacher from Luxembourg do looking for a Korean girl? 😊 »*
+  2. **Soo-jin (31 ans, Gangnam)** : Cadre dans les cosmétiques, profil soigné et anglophone : *« Hello William. Bold bio. I like tall and confident men. When are you coming to Seoul? »*
+  3. **Hye-won (24 ans, Hongdae)** : Étudiante en langues : *« Hi! Your photos are really handsome. I want to practice English, can we chat? »*
+  4. Un profil sans bio avec deux photos glamour d'une jeune femme qui renvoie immédiatement vers un compte KakaoTalk en parlant d'investissements en cryptomonnaies (profil typique de brouteur/arnaque financière à éliminer).
 
-Le corps de 100 kg encaisse parfaitement la charge de travail et la sensation de puissance est au rendez-vous. Après une douche chaude et des étirements au vestiaire, le sac de sport rejoint le coffre et le retour vers Audun-le-Tiche se fait sans circulation.
-
-De retour à la maison vers 18h00, les repères temporels et financiers des semaines à venir sont clairement posés : les grandes vacances scolaires s'étendent sur deux mois complets jusqu'à la rentrée officielle du lundi 16 septembre 2041. Côté finances, le compte courant (10 000 €) assure toutes les dépenses courantes. Le prochain traitement d'État sera viré aux alentours du 27 juillet, l'échéance de crédit immobilier (1 230 €) sera prélevée le 31 juillet, et les virements automatiques d'épargne (3 000 € vers l'ETF Monde et 2 000 € vers le compte projet) partiront le 1er août.
-
-À 18h30, William est installé au calme dans son salon, prêt pour la suite de la soirée.
+La journée du mercredi s'ouvre calmement sous un ciel clair à Audun-le-Tiche. Le cours collectif de MMA au Minett Combat Club est programmé ce soir à 19h00 à Esch-sur-Alzette, laissant toute la journée disponible.
 
 ---
 
 **Réponses attendues**
-- Aucun message ni sollicitation urgente en attente.
+- **Prospection Brésil** : Répondre ou non aux messages de Thiago Rocha (pipeline Minas Gerais) et Lucas Mendes (consultant Fortaleza), et décider d'approfondir la discussion.
+- **Meeff / Tinder Séoul** : Choisir d'engager la conversation avec Min-ji, Soo-jin, Hye-won, ou laisser en attente.
 
 **À faire / à fournir avant le tour suivant**
-- Définir le pays prioritaire (Côte d'Ivoire, Brésil ou Philippines) et la filière d'activité retenue pour approfondir le modèle d'affaires.
-- Fixer le programme de la soirée ou des journées à venir (poursuite des entraînements, explorations locales ou démarches ciblées).
+- Fixer la ligne de conduite sur les contacts brésiliens (demander des dossiers de présentation de projets ou cadrer le ticket d'entrée).
+- Décider de la participation au cours de MMA de ce soir à 19h00 (ou entraînement libre / repos).
 
 **Quêtes secondaires**
-- Minett Combat Club : cours de MMA programmé mercredi à 19h00 (ou musculation en accès libre).
-- Gestion du quotidien : logistique de la maison d'Audun et véhicule électrique parfaitement opérationnels.
+- Minett Combat Club : cours de MMA programmé mercredi à 19h00 (ou accès libre au plateau).
+- Échéances : deux mois complets de vacances scolaires jusqu'à la rentrée du lundi 16 septembre 2041.
 
 Que veux-tu faire ?
 
@@ -70,10 +71,11 @@ Que veux-tu faire ?
 - rien
 
 ## Décisions en attente de William (etat/fils-ouverts.md, A)
-| 1 | **Organisation des vacances d'été 2041** | Premier jour des grandes vacances scolaires (du mardi 16/07/2041 au dimanche 15/09/2041). Choix des projets, voyages, rythme de vie ou déplacements estivaux. Budget vacances disponible : 833 €/mois (10 000 €/an). | Ouvert |
-| 2 | **Stratégie d'entrepreneuriat à distance** | Étude prospective IA réalisée le 16/07 matin. 3 marchés analysés : Côte d'Ivoire (agro-industrie & logistique), Brésil (agritech & énergies), Philippines (BPO/KPO & immobilier de standing). Véhicule juridique arrêté : Associé / investisseur passif non-gérant (Art. 14 sécurisé à 100 %, aucun risque sur le traitement de fonctionnaire). Prochaine décision : choix du pays cible et du modèle d'actif. | Ouvert |
-| 3 | **Entraînement sportif & préparation physique** | Première séance d'été effectuée le 16/07 après-midi au Minett Combat Club (2 h : musculation lourde + travail d'impact aux sacs). Prochaine opportunité : cours de MMA mercredi 17/07/2041 à 19h00 ou musculation libre. Noter la fermeture annuelle du club du lundi 12/08/2041 au dimanche 25/08/2041 (agenda A003). | Ouvert |
-| 4 | **Logistique personnelle & maison** | Maison d'Audun-le-Tiche (charges à jour, voiture électrique chargée). Rien d'urgent en panne. | Ouvert |
+| 1 | **Organisation des vacances d'été 2041** | Grandes vacances scolaires (du mardi 16/07/2041 au dimanche 15/09/2041). Choix des projets, voyages, rythme de vie ou déplacements estivaux. Budget vacances disponible : 833 €/mois (10 000 €/an). | Ouvert |
+| 2 | **Solaire au Brésil (Geração Distribuída)** | Publications de prospection diffusées en anglais exclusif le 16/07 au soir (LinkedIn, Reddit, Facebook). Premiers retours reçus au matin du 17/07 (vues de profils, développeurs de parcs solaires, commentaires Reddit). Décision : choix des contacts à relancer. | Ouvert |
+| 3 | **Entraînement sportif & préparation physique** | Première séance effectuée le 16/07 après-midi. Cours de MMA programmé ce soir mercredi 17/07/2041 à 19h00 au Minett Combat Club (ou musculation libre). Noter la fermeture annuelle du club du lundi 12/08/2041 au dimanche 25/08/2041 (agenda A003). | Ouvert |
+| 4 | **Logistique personnelle & maison** | Maison d'Audun-le-Tiche (charges à jour, voiture électrique chargée). Tout est en ordre. | Ouvert |
+| 5 | **Rencontres coréennes (Meeff & Tinder Séoul)** | Profils créés le 16/07 au soir avec vraies photos et bio directe. Premiers matchs et messages reçus au réveil le 17/07 (curiosité pour la taille/physique, échanges linguistiques, quelques profils suspects). Décision : tri et réponses. | Ouvert |
 
 ## Notes de passation (etat/relais-notes.md)
 - ~~(11/10/2026 22:30, Claude Opus 5.5) Redémarrage de l'univers 2 redaté au samedi 14/07/2040, 08h37 (premier vrai jour de vacances,
@@ -167,8 +169,8 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : master ; master : 3db9319 ; avance 0, retard 0
-- worktree simulation-william (ICI) : branche master ; 0 commit(s) absents de master ; 18 fichier(s) modifié(s)
+- branche courante : master ; master : 947d8fc ; avance 0, retard 0
+- worktree simulation-william (ICI) : branche master ; 0 commit(s) absents de master ; 19 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree eloquent-mirzakhani-73acb9 : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)

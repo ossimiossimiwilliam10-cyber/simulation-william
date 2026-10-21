@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 21/10/2026 19:47 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 21/10/2026 20:05 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mardi 16/07/2041 18:30 (luxembourg, UTC+2)
+## Horloge : mercredi 17/07/2041 08:00 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 16:30 ; lisbonne 17:30 ; mindelo 15:30 ; casablanca 17:30 ; douala 17:30 ; addis 19:30 ; manille 00:30 ; paris 18:30
+- **Heure dans les autres lieux** : abidjan 06:00 ; lisbonne 07:00 ; mindelo 05:00 ; casablanca 07:00 ; douala 07:00 ; addis 09:00 ; manille 14:00 ; paris 08:00
 - **En attente de William** :
-  - Orientation du projet d'entreprise et programme des prochains jours
+  - Choix des relances sur le solaire au Brésil et réponses sur Meeff / Tinder Séoul
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **10 000,00 €**
@@ -32,10 +32,10 @@
 - Pendant : réactions et négociations par `jet.py --table Tn` (T1 à T14 ; `--pour` pour un personnage) ; personnages nouveaux par `personnage.py nouveau` ; faits et prix par `faits.py` et `prix.py` ; lieux par `lieux.py voir` ; révélations dans `savoir.py ajouter` ; argent dans `grand_livre.py ajouter`.
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
-## Fin du dernier journal (2041-07-16.md, 6 dernières lignes)
-> - Douche au vestiaire, sac rangé dans le coffre.
-> ## 18h30 — Audun-le-Tiche, chez William
-> - Trajet retour sans encombre.
-> - William est de retour chez lui à Audun-le-Tiche, posé au calme après une journée dense, productive et sportive.
-> - **08h37-18h30** (tour n° 3) : Matinée d'études IA sur les opportunités d'affaires à l'international (Côte d'Ivoire, Brésil, Philippines) et validation du statut d'associé non-gérant Art. 14 ; déjeuner maison ; 2 h d'entraînement complet au Minett Combat Club ; retour à Audun posé au calme.
-> - Tour en cours à 18h30, en attente de William : **Orientation du projet d'entreprise et programme des prochains jours**.
+## Fin du dernier journal (2041-07-17.md, 6 dernières lignes)
+> - Réveil à 07h45 après une nuit réparatrice de 8 h 15 (couché vers 23h30).
+> - Café préparé dans la cuisine, consultation du téléphone portable et de l'ordinateur.
+> - Revue des premiers retours sur les publications de prospection solaire au Brésil (LinkedIn, Reddit, Facebook) et des notifications sur les applications de rencontre coréennes (Meeff et Tinder Séoul).
+> - Situation financière : inchangée (Compte courant 10 000,00 €, Épargne projet 75 250,00 €, ETF Monde 670 380,00 €).
+> - **00h00-08h00** (tour n° 3) : Soirée à la maison : publications de prospection en anglais sur le solaire au Brésil (LinkedIn, Reddit, Facebook) ; profil créé sur Meeff et Tinder Séoul ; nuit réparatrice ; réveil le mercredi 17/07 à 08h00 avec les premiers retours des deux côtés.
+> - Tour en cours à 08h00, en attente de William : **Choix des relances sur le solaire au Brésil et réponses sur Meeff / Tinder Séoul**.

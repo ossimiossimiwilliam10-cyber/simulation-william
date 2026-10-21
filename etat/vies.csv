@@ -5039,3 +5039,46 @@ date;personnage;cadence;t11;categorie;detail;initiative;agenda;note
 2041-07-15;Kiara Reyes;jour;sans_histoire;;;;;T11 jet 39.5
 2041-07-16;Julia Dimaculangan;jour;petit_evenement;T13c:transport_meteo;panne du MRT-3, files au quai;;;T11 jet 70.4 · T13c jet 91.3
 2041-07-16;Kiara Reyes;jour;petit_evenement;T13c:transport_meteo;embouteillage monstre sur l'EDSA;;;T11 jet 71.9 · T13c jet 84.7
+2041-07-20;Max Rocha;semaine;avancee_objectif;T13d:argent;somme reçue, économisée ou investie pour son objectif : rembourser ses dettes;;;T11 jet 85.2 · T13d jet 56.9
+2041-07-17;Georges Muller;semaine;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : se faire une place dans le milieu (club, lycée, quartier);;;T11 jet 83.7 · T13d jet 47.9
+2041-07-20;Benjamin Hennequin;semaine;sans_histoire;;;;;T11 jet 43.5
+2041-07-20;Camille Simon;semaine;avancee_objectif;T13d:demarche;démarche pour son objectif : mettre de l'argent de côté pour ses vieux jours;;;T11 jet 81.0 · T13d jet 25.8
+2041-07-19;Emma Gómez;semaine;petit_evenement;T13c:dispute_breve;querelle courte;;;T11 jet 75.6 · T13c jet 57.6
+2041-07-16;Claire Zhao;semaine;sans_histoire;;;;;T11 jet 48.3
+2041-07-16;Sarah Lanners;semaine;sans_histoire;;;;;T11 jet 25.9
+2041-07-18;Anne Kremer;semaine;sans_histoire;;;;;T11 jet 21.3
+2041-07-20;Tom Goergen;semaine;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : partir vivre au soleil (Portugal, Espagne, Sud);;;T11 jet 82.9 · T13d jet 36.9
+2041-07-15;Michèle Wagner;semaine;sans_histoire;;;;;T11 jet 5.8
+2041-07-18;Jil Wolff;semaine;petit_evenement;T13c:rumeur;rumeur entendue ou colportée;;;T11 jet 69.8 · T13c jet 98.8
+2041-07-16;Sam Ries;semaine;avancee_objectif;T13d:apprentissage;formation, lecture ou conseil utile : finir de rénover sa maison;;;T11 jet 81.4 · T13d jet 92.1
+2041-07-19;Pit Thill;semaine;sans_histoire;;;;;T11 jet 8.2
+2041-07-18;Mélanie Blanc;semaine;petit_evenement;T13c:depense;dépense imprévue (réparation de la moto);;;T11 jet 59.9 · T13c jet 15.6
+2041-07-16;Kim Schmitz;semaine;avancee_objectif;T13d:demarche;démarche pour son objectif : changer de métier;;;T11 jet 84.2 · T13d jet 13.5
+2041-07-16;Steve Klein;semaine;sans_histoire;;;;;T11 jet 27.2
+2041-07-18;Caroline Ewen;semaine;sans_histoire;;;;;T11 jet 39.8
+2041-07-16;Martina Ceccarelli;semaine;avancee_objectif;T13d:argent;somme reçue, économisée ou investie pour son objectif : obtenir une promotion ou un poste plus stable;;;T11 jet 76.2 · T13d jet 73.2
+2041-07-20;Elsa Blanchard;semaine;coup_dur;T13a:sante_proche;maladie ou accident de son enfant;;;T11 jet 96.0 · T13a jet 37.6
+2041-07-17;Sandy Lentz;semaine;sans_histoire;;;;;T11 jet 46.8
+2041-07-17;Cláudia Almeida;semaine;sans_histoire;;;;;T11 jet 15.3
+2041-07-19;Luc Biver;semaine;sans_histoire;;;;;T11 jet 23.9
+2041-07-18;Philippe Sinner;semaine;avancee_objectif;T13d:demarche;démarche pour son objectif : obtenir une promotion ou un poste plus stable;;;T11 jet 89.6 · T13d jet 6.3
+2041-07-20;Ruben Gomes;semaine;sans_histoire;;;;;T11 jet 47.7
+2041-07-21;Thiago Alves;semaine;sans_histoire;;;;;T11 jet 42.7
+2041-07-17;Lenny Nguyen;semaine;avancee_objectif;T13d:demarche;démarche pour son objectif : rembourser ses dettes;;;T11 jet 82.6 · T13d jet 8.4
+2041-07-21;Raphaël Jacquot;semaine;avancee_objectif;T13d:demarche;démarche pour son objectif : finir de rénover sa maison;;;T11 jet 84.2 · T13d jet 18.0
+2041-07-19;Mariana Oliveira;semaine;sans_histoire;;;;;T11 jet 10.6
+2041-07-20;Clément Grandjean;semaine;coup_dur;T13a:famille;dispute sérieuse ou mauvaise nouvelle dans la famille;;;T11 jet 93.1 · T13a jet 71.6
+2041-07-18;Yann Diederich;semaine;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;;;T11 jet 57.6 · T13c jet 33.0
+2041-07-16;Arthur Kieffer;semaine;sans_histoire;;;;;T11 jet 45.3
+2041-07-17;Leo Horvat;semaine;sans_histoire;;;;;T11 jet 7.6
+2041-07-20;Olivier Schneider;semaine;sans_histoire;;;;;T11 jet 29.4
+2041-07-17;Claude Majerus;semaine;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : obtenir une promotion ou un poste plus stable;;;T11 jet 75.5 · T13d jet 32.8
+2041-07-18;Christophe Thomas;semaine;coup_dur;T13a:sante;malade (grippe);;;T11 jet 88.4 · T13a jet 17.2
+2041-07-21;Corinne Dubois;semaine;sans_histoire;;;;;T11 jet 43.1
+2041-07-21;Jérôme Rizzo;semaine;petit_evenement;T13c:depense;dépense imprévue (réparation du téléphone);;;T11 jet 71.2 · T13c jet 19.3
+2041-07-17;Aurélie Martin;semaine;petit_evenement;T13c:achat;achat (vêtements);;;T11 jet 71.7 · T13c jet 88.2
+2041-07-20;Émilie Lefebvre;semaine;avancee_objectif;T13d:argent;somme reçue, économisée ou investie pour son objectif : mettre de l'argent de côté pour ses vieux jours;;;T11 jet 85.1 · T13d jet 74.4
+2041-07-18;Amandine Didier;semaine;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;;;T11 jet 71.1 · T13c jet 32.5
+2041-07-19;Charlotte Laurent;semaine;sans_histoire;;;;;T11 jet 43.4
+2041-07-19;Bruno Lopes;semaine;petit_evenement;T13c:depense;dépense imprévue (médicaments);;;T11 jet 72.0 · T13c jet 18.7
+2041-07-15;Lynn Traoré;semaine;tournant;T13b:rencontre;rencontre qui compte (amicale, amoureuse ou professionnelle);;;T11 jet 98.0 · T13b jet 74.7

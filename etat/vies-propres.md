@@ -28,4 +28,4 @@
 - **Objectif** : finir de rénover sa maison ; **souci** : couple en crise ; **foyer** : en couple, sans enfant
 - **Secret (moteur seulement)** : se renseigne pour partir s'installer ailleurs (gravité 1)
 - **Horaires** : règle « etudiant », fuseau luxembourg, décalage +25 min ; travail 09:25-17:25 (lun, mar, mer, jeu, ven), trajet 30 min ; sommeil 00:55-08:55
-- **Derniers événements** : 20/06 sans_histoire; 26/06 tournant (naissance, mariage, décès ou retour d'un proche); 01/07 petit_evenement (dépense imprévue (cotisation imprévue)); 09/07 sans_histoire; 21/07 sans_histoire
+- **Derniers événements** : 26/06 tournant (naissance, mariage, décès ou retour d'un proche); 01/07 petit_evenement (dépense imprévue (cotisation imprévue)); 09/07 sans_histoire; 21/07 sans_histoire; 20/07 coup_dur (dispute sérieuse ou mauvaise nouvelle dans la famille)
