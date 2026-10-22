@@ -2,3 +2,4 @@ id;date;heure;carte;montant;marchand;statut;periode;debit;reference;note
 K001;2041-07-19;18:30;visa_premier;1680.00;Korean Air (billet CDG-ICN, KE902);autorise;2041-06-28→2041-07-30;2041-08-07;VOL-ICN-204107;régularisation de l'audit du 22/10/2026 (U3-1)
 K002;2041-07-20;14:30;visa_debit;145.00;Belval Plaza (achats de voyage);autorise;2041-07-01→2041-07-31;;ACH-BELVAL-20410720;régularisation de l'audit du 22/10/2026 (U3-1)
 K003;2041-07-20;18:30;visa_premier;2450.00;Officetel Yeonnam-dong (Séoul, 6 semaines);autorise;2041-06-28→2041-07-30;2041-08-07;LOG-ICN-204107;régularisation de l'audit du 22/10/2026 (U3-1)
+K004;2041-07-19;19:00;visa_debit;74.00;SNCF Connect (TGV INOUI Lorraine TGV - CDG, dimanche 21/07 à 09h15);autorise;2041-07-01→2041-07-31;;TGV-LRN-CDG-204107;régularisation de l'audit du 22/10/2026 (U3-10) : billet cité au journal mais jamais payé
