@@ -5,12 +5,12 @@ appli({
   icone: '<svg viewBox="0 0 24 24"><path d="M3 7h15a3 3 0 0 1 3 3v7a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3z"/><path d="M3 7l12-4v4"/><circle cx="16.5" cy="13.5" r="1"/></svg>',
   ouvrir(main, ui) {
     const P = D.applis.portefeuille;
-    const pesos = n => Math.round(n).toLocaleString("fr-FR").replace(/ /g, " ") + " PHP";
+    const pesos = n => Math.round(n).toLocaleString("fr-FR").replace(/ /g, " ") + " " + (P.code || "KRW");
     ui.titre("Portefeuille", "Espèces et change");
     const s = el("div", "soldes");
     const d = P.devises[0];
-    const php = P.especes.PHP || 0, eur = P.especes.EUR || 0;
-    const b1 = el("div", "carte solde"); b1.append(el("span", "nom", "Espèces en pesos"), el("span", "chiffre", pesos(php)));
+    const php = P.especes[P.code || "KRW"] || 0, eur = P.especes.EUR || 0;
+    const b1 = el("div", "carte solde"); b1.append(el("span", "nom", "Espèces en " + ({ PHP: "pesos", KRW: "wons" }[P.code] || "monnaie locale")), el("span", "chiffre", pesos(php)));
     if (d) b1.append(el("span", "note", "≈ " + euros(php / d.taux)));
     s.append(b1);
     if (eur) { const b2 = el("div", "carte solde"); b2.append(el("span", "nom", "Espèces en euros"), el("span", "chiffre", euros(eur))); s.append(b2); }
@@ -22,8 +22,8 @@ appli({
              el("span", "note", "Cours appliqué aux cartes Visa : " + d.cours_visa.toLocaleString("fr-FR", { maximumFractionDigits: 2 }) + " " + d.code));
     main.append(c, el("h2", "sec", "Convertir"));
     const f = el("div", "formulaire");
-    const ent = el("input"); ent.type = "number"; ent.min = "0"; ent.step = "10"; ent.value = memoire.lire("portefeuille-montant", 1000); ent.id = "pf-montant";
-    const lb = el("label", "", "Montant en pesos"); lb.htmlFor = "pf-montant";
+    const ent = el("input"); ent.type = "number"; ent.min = "0"; ent.step = "1000"; ent.value = memoire.lire("portefeuille-montant", 100000); ent.id = "pf-montant";
+    const lb = el("label", "", "Montant en " + ({ PHP: "pesos", KRW: "wons" }[P.code] || "monnaie locale")); lb.htmlFor = "pf-montant";
     const ch = el("div", "champ"); ch.append(lb, ent); f.append(ch);
     const res = el("div", "carte");
     const frais = (carte, op, e) => { const x = (P.frais || []).find(y => y.carte === carte && y.operation === op); return x ? e * x.pourcentage / 100 + x.fixe : 0; };
@@ -44,7 +44,7 @@ appli({
     main.append(l, el("p", "note", "Le distributeur affiche ses frais avant de valider ; la banque de la carte ajoute les siens."));
     const z = el("div", "carte");
     const sel = el("select"); P.distributeurs.forEach((x, i) => { const o = el("option", "", x.banque + " · " + x.lieu); o.value = String(i); sel.append(o); });
-    const mt = el("input"); mt.type = "number"; mt.min = "100"; mt.step = "100"; mt.value = "5000";
+    const mt = el("input"); mt.type = "number"; mt.min = "10000"; mt.step = "10000"; mt.value = "100000";
     const ca = el("select"); [["visa_debit", "Visa Debit"], ["visa_premier", "Visa Premier"]].forEach(([v, t]) => { const o = el("option", "", t); o.value = v; ca.append(o); });
     const bt = el("button", "bouton", "Copier pour retirer"); bt.type = "button";
     bt.addEventListener("click", () => { const x = P.distributeurs[Number(sel.value)];

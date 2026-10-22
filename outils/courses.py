@@ -1,10 +1,10 @@
 """COURSES EN VILLE (créé le 14/10/2026 : William arrive à Manille sans pesos ; besoin : rejoindre son hôtel, puis circuler).
-VTC (application Grab) et taxis (ordinaires, jaunes de l'aéroport, à coupon). Calcul DÉTERMINISTE : distance, durée, majoration et
+VTC (application Kakao T) et taxis (ordinaires, jaunes de l'aéroport, à coupon). Calcul DÉTERMINISTE : distance, durée, majoration et
 attente se déduisent du lieu, de l'heure (créneau de 15 minutes), du jour et de la pluie du jour (etat/meteo-manille.csv) ; la page
 « Courses » du téléphone et le moteur obtiennent le même prix. Tarifs 2026 × 1,35 (même coefficient que prix.py).
 
     python outils/courses.py options --de naia_t3 --vers city_garden [--quand "AAAA-MM-JJ HH:MM"]
-    python outils/courses.py installer [--quand …]                        # l'application Grab (décision du joueur)
+    python outils/courses.py installer [--quand …]                        # l'application Kakao T (décision du joueur)
     python outils/courses.py carte --carte visa_debit [--quand …]         # carte enregistrée dans l'application
     python outils/courses.py commander --service grab_car --de naia_t3 --vers city_garden [--paiement especes|carte] [--quand …] [--simule]
     python outils/courses.py accepter C003 [--quand …] | annuler C003       # prix fixe demandé par un chauffeur (aléa A33)
@@ -36,10 +36,11 @@ JOURNAL = ETAT / "courses.csv"
 COMPTE = ETAT / "courses-compte.csv"
 COL_JOURNAL = ["id", "demande", "service", "de", "vers", "km", "minutes", "attente", "prix", "devise", "paiement", "statut", "arrivee", "note"]
 COEF = 1.35
-DETOUR = 1.45  # distance par la route ≈ distance à vol d'oiseau × 1,45 dans Metro Manila (estimation), sauf ligne de distances.csv
-VILLES = {"manille": {"pays": "ph", "devise": "PHP", "meteo": ETAT / "meteo-manille.csv"}}
+DETOUR = 1.35  # distance par la route ≈ distance à vol d'oiseau × 1,35 à Séoul (estimation), sauf ligne de distances.csv ; avant : 1,45 (Metro Manila)
+VILLES = {"manille": {"pays": "ph", "devise": "PHP", "meteo": ETAT / "meteo-manille.csv", "appli": "Grab"},
+          "seoul": {"pays": "kr", "devise": "KRW", "meteo": ETAT / "meteo-seoul.csv", "appli": "Kakao T"}}
 # km/h de porte à porte selon l'heure, en semaine (estimation : Metro Manila, parmi les circulations les plus lentes d'Asie)
-VITESSES = [(0, 32), (5, 24), (7, 13), (10, 17), (16, 11), (20, 17), (22, 26)]
+VITESSES = [(0, 45), (5, 36), (7, 19), (10, 27), (16, 21), (20, 30), (22, 42)]  # Séoul (estimation du moteur : vitesse moyenne en ville ≈ 25 km/h) ; avant : Metro Manila
 
 
 def _alea(*cles):
@@ -51,7 +52,7 @@ def maintenant_naif():
     return maintenant_simule().replace(tzinfo=None)
 
 
-def lieux(ville="manille"):
+def lieux(ville="seoul"):
     import lieux as L
     noms = L.lire()
     return {c["lieu"]: {"id": c["lieu"], "nom": noms.get(c["lieu"], {}).get("nom", c["lieu"]), "lat": float(c["lat"]), "lon": float(c["lon"]),
@@ -59,7 +60,7 @@ def lieux(ville="manille"):
             for c in lire_csv(COORD) if c["lieu"] in noms and noms[c["lieu"]]["fuseau"] == ville}
 
 
-def ici(ville="manille"):
+def ici(ville="seoul"):
     """Lieu connu où se trouve William (d'après le lieu de l'horloge), ou None."""
     import horloge
     texte = horloge.lire()["lieu"].lower()
@@ -82,7 +83,7 @@ def distance_km(a, b, L=None):
     return round(2 * r * math.asin(math.sqrt(h)) * DETOUR, 1)
 
 
-def pluie(quand, ville="manille"):
+def pluie(quand, ville="seoul"):
     """0 sec, 1 pluie, 2 forte pluie ou rues inondées, à cette heure (fixe pour la journée et l'heure)."""
     ligne = next((l for l in lire_csv(VILLES[ville]["meteo"]) if l["date"] == quand.date().isoformat()), None)
     if not ligne:
@@ -96,7 +97,7 @@ def pluie(quand, ville="manille"):
     return 2 if mm >= 30 or "inond" in (ligne.get("description") or "").lower() else 1
 
 
-def type_jour(jour, pays="ph"):
+def type_jour(jour, pays="kr"):
     import calendrier_2040 as cal
     if jour.weekday() == 6 or jour in cal.jours_feries(jour.year, pays):
         return "dimanche"
@@ -114,11 +115,24 @@ def vitesse(quand, niveau_pluie, de, vers):
     return v * (0.9 + 0.2 * _alea("vitesse", de, vers, quand.date(), quand.hour))
 
 
+def duree_minutes(km, depart, niveau_pluie, de, vers):
+    """Durée de la course : les 12 premiers kilomètres à la vitesse de la ville, le reste sur voie rapide (≈ 70 km/h, ralentie aux
+    heures de pointe et sous la pluie ; 22/10/2026 : l'aéroport d'Incheon est à 57 km de Yeonnam-dong, pas à 3 heures de route)."""
+    v = vitesse(depart, niveau_pluie, de, vers)
+    urbain = min(km, 12.0)
+    rapide = km - urbain
+    vr = 70 * (0.7 if (7 <= depart.hour < 10 or 16 <= depart.hour < 20) else 1.0) * (1.0, 0.85, 0.65)[niveau_pluie]
+    return max(4, round(urbain / v * 60 + (rapide / vr * 60 if rapide else 0)))
+
+
 def creneau(quand):
     return quand.replace(minute=quand.minute // 15 * 15, second=0, microsecond=0)
 
 
 def majoration(t, de, quand, niveau_pluie, L):
+    if t["id"].endswith("_seoul"):  # taxis de Séoul : supplément de nuit de 20 % (22 h - 23 h et 2 h - 4 h) ou 40 % (23 h - 2 h), F093
+        h = quand.hour
+        return 1.4 if (h >= 23 or h < 2) else 1.2 if (h == 22 or 2 <= h < 4) else 1.0
     if t["type"] != "vtc":
         return 1.0
     h, tj, zone = quand.hour, type_jour(quand.date()), L[de]["zone"]
@@ -127,7 +141,7 @@ def majoration(t, de, quand, niveau_pluie, L):
         m = 1.35 if (h >= 21 or h < 3) else 1.15
     if tj == "semaine" and (7 <= h < 10 or 16 <= h < 20):
         m = max(m, 1.45)
-    if quand.weekday() in (4, 5) and (h >= 21 or h < 3) and zone in ("makati", "taguig"):
+    if quand.weekday() in (4, 5) and (h >= 21 or h < 3) and zone in ("gangnam", "mapo"):
         m = max(m, 1.35)
     m += (0, 0.2, 0.45)[niveau_pluie] + (_alea("majoration", de, creneau(quand)) - 0.4) * 0.3
     return round(min(max(m, 1.0), float(t["majoration_max"] or 1)), 2)
@@ -171,7 +185,7 @@ def estimer(ident, de, vers, quand, L=None):
     km = distance_km(de, vers, L)
     att = attente(t, de, quand, np_, L)
     depart = quand + dt.timedelta(minutes=att)
-    minutes = max(4, round(km / vitesse(depart, np_, de, vers) * 60))
+    minutes = duree_minutes(km, depart, np_, de, vers)
     maj = majoration(t, de, quand, np_, L)
     if t["forfaits"]:
         f = dict(x.split(":") for x in t["forfaits"].split("|"))
@@ -186,13 +200,13 @@ def estimer(ident, de, vers, quand, L=None):
             temps = minutes * par_min
         prix = (prise + (max(km - premiers, 0) * par_km + temps) * maj) * COEF
     return {"service": t["id"], "nom": t["nom"], "type": t["type"], "de": de, "vers": vers, "km": km, "minutes": minutes, "attente": att,
-            "prix": round(prix), "devise": VILLES["manille"]["devise"], "majoration": maj, "pluie": np_, "paiement": t["paiement"],
+            "prix": round(prix), "devise": VILLES[t["ville"]]["devise"], "majoration": maj, "pluie": np_, "paiement": t["paiement"],
             "depart": f"{depart:%Y-%m-%d %H:%M}", "arrivee": f"{depart + dt.timedelta(minutes=minutes):%Y-%m-%d %H:%M}"}
 
 
 def options(de, vers, quand):
     L = lieux()
-    res = [estimer(t["id"], de, vers, quand, L) for t in lire_csv(TARIFS) if disponible(t, de, L)]
+    res = [estimer(t["id"], de, vers, quand, L) for t in lire_csv(TARIFS) if t["ville"] == "seoul" and disponible(t, de, L)]
     return sorted([r for r in res if r], key=lambda r: r["prix"])
 
 
@@ -208,19 +222,19 @@ def _regler(cle, valeur, quand):
 
 def installer(quand):
     if compte().get("installe") == "oui":
-        return "Grab est déjà installé."
+        return "Kakao T est déjà installé."
     _regler("installe", "oui", quand)
     import traces
-    traces.ajouter(f"{quand:%d/%m/%Y %H:%M}", "Inscription à l'application Grab (numéro de téléphone de William vérifié par SMS)", "application",
-                   "Grab", "faible")
-    return "Grab installé ; numéro vérifié par SMS ; aucune carte enregistrée (paiement en espèces par défaut)."
+    traces.ajouter(f"{quand:%d/%m/%Y %H:%M}", "Inscription à l'application Kakao T (numéro de téléphone de William vérifié par SMS)", "application",
+                   "Kakao T", "faible")
+    return "Kakao T installé ; numéro vérifié par SMS ; aucune carte enregistrée (paiement en espèces par défaut)."
 
 
 def enregistrer_carte(carte, quand):
     import cartes
     cartes.carte(carte)
     _regler("carte", carte, quand)
-    return f"Carte enregistrée dans Grab : {carte}."
+    return f"Carte enregistrée dans Kakao T : {carte}."
 
 
 def _journal_ajouter(course):
@@ -235,12 +249,12 @@ def _procedure(libelle, valeur):
 
 
 def _payer(course, t, L, carte, simule):
-    """Paiement à l'arrivée : par la carte enregistrée dans Grab, ou en espèces. Met à jour le statut ; renvoie le message."""
+    """Paiement à l'arrivée : par la carte enregistrée dans Kakao T, ou en espèces. Met à jour le statut ; renvoie le message."""
     import devises
     arrivee = dt.datetime.fromisoformat(course["arrivee"])
     prix = float(course["prix"])
     if course["paiement"] == "carte":
-        ok, x = devises.payer(carte, prix, course["devise"], f"Grab : {L[course['de']]['nom'][:30]} → {L[course['vers']]['nom'][:30]}",
+        ok, x = devises.payer(carte, prix, course["devise"], f"Kakao T : {L[course['de']]['nom'][:30]} → {L[course['vers']]['nom'][:30]}",
                               arrivee, reference=course["id"], simule=simule)
         course["statut"] = "payee" if ok else "carte_refusee"
         course["note"] = (course["note"] + " · " if course["note"] else "") + x["note"]
@@ -260,12 +274,12 @@ def commander(ident, de, vers, quand, paiement="especes", simule=False):
     t = tarif(ident)
     c = compte()
     if t["type"] == "vtc" and c.get("installe") != "oui":
-        return False, "Grab n'est pas installé sur le téléphone de William.", None
+        return False, "Kakao T n'est pas installé sur le téléphone de William.", None
     if paiement == "carte":
         if t["type"] != "vtc":
             return False, "Ce taxi se paie en espèces.", None
         if not c.get("carte"):
-            return False, "Aucune carte enregistrée dans Grab.", None
+            return False, "Aucune carte enregistrée dans Kakao T.", None
     e = estimer(ident, de, vers, quand, L)
     if e is None:
         return False, f"{t['nom']} : pas de départ depuis {L[de]['nom']}.", None
@@ -275,7 +289,7 @@ def commander(ident, de, vers, quand, paiement="especes", simule=False):
               "paiement": "carte" if paiement == "carte" else "especes", "statut": "", "arrivee": e["arrivee"], "note": ""}
     trajet = f"de {L[de]['nom'][:40]} à {L[vers]['nom'][:40]}, {quand:%d/%m %H:%M}"
     if t["type"] == "vtc":
-        r = jet.tirer("T24b", [], f"Chauffeur Grab ({trajet})", simule=simule, texte=False)
+        r = jet.tirer("T24b", [], f"Chauffeur Kakao T ({trajet})", simule=simule, texte=False)
         course["note"] = f"T24b : {r['issue']} (jet {r['jet']:.1f})"
         if r["issue"] == "annule":
             apres = rng.randint(2, max(3, e["attente"]))
@@ -358,7 +372,7 @@ def donnees_telephone(t=None):
         return {"ville": "", "lieux": [], "courses": {}, "compte": compte()}
     import devises
     L = lieux(ville)
-    tarifs = lire_csv(TARIFS)
+    tarifs = [x for x in lire_csv(TARIFS) if x["ville"] == ville]
     courses = {}
     for a in L:
         for b in L:
@@ -366,13 +380,13 @@ def donnees_telephone(t=None):
                 courses[f"{a}>{b}"] = [{k: e[k] for k in ("service", "nom", "type", "km", "minutes", "attente", "prix", "majoration", "paiement")}
                                        for e in sorted((estimer(x["id"], a, b, naif, L) for x in tarifs if disponible(x, a, L)),
                                                        key=lambda e: e["prix"])]
-    return {"ville": ville, "heure": f"{naif:%H:%M}", "ici": ici(ville) or "", "taux": devises.taux_connu("PHP", naif.date()),
+    return {"ville": ville, "heure": f"{naif:%H:%M}", "ici": ici(ville) or "", "taux": devises.taux_connu(VILLES[ville]["devise"], naif.date()), "devise": VILLES[ville]["devise"], "appli": VILLES[ville]["appli"],
             "lieux": [{"id": i, "nom": l["nom"]} for i, l in L.items()], "courses": courses, "compte": compte()}
 
 
 def verifier():
     erreurs = []
-    L = lieux()
+    L = {**lieux("manille"), **lieux("seoul")}
     for t in lire_csv(TARIFS):
         if t["type"] not in ("vtc", "taxi"):
             erreurs.append(f"courses.csv : type inconnu ({t['id']})")

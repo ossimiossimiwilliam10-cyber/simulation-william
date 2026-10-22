@@ -1,0 +1,22 @@
+# Conversation Meeff puis WhatsApp : William / Hye-won
+
+> Conversation reconstituée le 22/10/2026 d'après le journal des tours n° 1 à 9 de l'univers 3 (les textes exacts n'avaient pas été
+> conservés) : seules les phrases entre guillemets dans les tours sont littérales ; les messages vocaux sont résumés entre crochets ;
+> les heures sont celles du Luxembourg, reconstituées d'après le déroulé des tours.
+
+**[17/07/2041 - 06:05 (Audun-le-Tiche)] Hye-won :** Hi! Your photos are really handsome. I want to practice English, can we chat?
+**[17/07/2041 - 08:35 (Audun-le-Tiche)] William :** Hi Hye-won! Sure, I'm free right now to chat in English, and of course I don't charge anything for the practice 😄
+**[17/07/2041 - 09:10 (Audun-le-Tiche)] Hye-won :** Great, thank you! Here is my Korean number, let's move to WhatsApp: +82 10-XXXX-XXXX
+**[17/07/2041 - 11:50 (Audun-le-Tiche)] Hye-won :** 🎤 Message vocal (0:52) [elle s'étonne avec un rire timide du timbre grave et posé de ta voix ; elle te demande ton métier d'enseignant et à quoi ressemble la vie au Luxembourg]
+**[17/07/2041 - 18:40 (Audun-le-Tiche)] William :** 🎤 Message vocal (3:10) [tu lui parles de ton métier d'enseignant en mathématiques et physique au Luxembourg, de tes recherches poursuivies chez toi par passion (une pièce couverte de tableaux noirs), de ton organisation automatisée qui te laisse soirées et week-ends libres, de ta stabilité financière et de ton ambition d'investir et de piloter des projets]
+**[17/07/2041 - 20:05 (Audun-le-Tiche)] Hye-won :** 🎤 Message vocal (2:12) [elle trouve ton profil scientifique et méthodique impressionnant, bien loin des garçons qu'elle côtoie ; elle termine sa licence de littérature à l'université Hongik et travaille à temps partiel dans une boulangerie artisanale de Hongdae ; elle te demande si tu as déjà voyagé en Asie]
+**[18/07/2041 - 13:05 (Audun-le-Tiche)] William :** 🎤 Message vocal (1:20) [tu lui confirmes n'avoir jamais mis les pieds en Asie, tu serais vraiment heureux d'aller en Corée et qu'elle soit ta guide pour explorer son pays]
+**[18/07/2041 - 14:35 (Audun-le-Tiche)] Hye-won :** 🎤 Message vocal (1:05) [très touchée, elle se dit honorée d'être ta guide ; elle te conseille de chercher un logement vers Hongdae ou Mapo-gu, ses librairies, ses ateliers d'artistes et ses petits cafés indépendants]
+**[19/07/2041 - 08:30 (Audun-le-Tiche)] William :** 🎤 Message vocal (1:40) [tu acceptes son aide de très bon cœur ; ton séjour durera environ six semaines, du lundi 22 juillet à début septembre ; budget de 3 000 € au plus pour le seul logement ; tu cherches un cadre calme, vert et reposant, loin des quartiers de fête]
+**[19/07/2041 - 10:40 (Audun-le-Tiche)] Hye-won :** 🎤 Message vocal (2:30) [elle a bien reçu tes critères et salue l'idée de six semaines ; 3 000 €, soit environ 4,5 millions de wons ou 100 000 wons la nuit, est un budget très confortable pour un officetel récent, climatisé, avec un espace de travail ; elle cible Yeonnam-dong et Mangwon-dong, dans Mapo-gu, le long du parc de la ligne Gyeongui ; elle te transmet deux ou trois annonces vérifiées ce soir]
+**[19/07/2041 - 14:30 (Audun-le-Tiche)] William :** Quick question: could you send me your bank details? It's for a little surprise to thank you for your help with finding my accommodation.
+**[19/07/2041 - 16:45 (Audun-le-Tiche)] Hye-won :** No thank you, I don't need any money. I just wanted to help you discover Seoul as a friend. Please don't send anything.
+**[19/07/2041 - 17:20 (Audun-le-Tiche)] William :** 🎤 Message vocal (0:58) [tu t'excuses sans détour de ta maladresse occidentale ; tu ne voulais pas la froisser ni changer la nature de vos échanges ; tu apprécies avant tout sa gentillesse et son aide désintéressée]
+**[20/07/2041 - 15:20 (Audun-le-Tiche)] Hye-won :** Here are two officetels I checked myself in Mapo-gu 📎 [deux annonces : un officetel à Mangwon, près du marché traditionnel ; un officetel au cœur de Yeonnam-dong, à quelques minutes du parc de la ligne Gyeongui et de la station Hongik University]
+**[20/07/2041 - 18:55 (Audun-le-Tiche)] William :** I'll take the one in Yeonnam-dong. I booked it for the whole stay, July 22nd to September 2nd. Thank you so much!
+**[20/07/2041 - 19:05 (Audun-le-Tiche)] Hye-won :** Perfect! Yeonnam is so green and peaceful, you will love writing and resting there. Let me know when your plane lands on Monday morning!

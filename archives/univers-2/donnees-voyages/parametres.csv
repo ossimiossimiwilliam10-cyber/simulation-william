@@ -1,0 +1,12 @@
+cle;valeur;note
+duree_facteurs;0-3:1.15|4-6:1.06|7-45:1.00|46-90:1.04;durée du séjour en jours → facteur sur l'aller-retour (estimation)
+duree_defaut;21;durée du séjour de la vue « mois entier »
+sejour_max;90;séjour maximal d'un visa de court séjour (F046)
+horizon_jours;365;jours de départ calculés à partir de l'horloge
+seuil_vert;1.20;case verte si prix ≤ 1,20 × le plancher le plus bas de l'année
+seuil_orange;1.75;case orange si prix ≤ 1,75 × le plancher le plus bas de l'année, rouge au-delà
+remise_forfait;0.05;remise d'un forfait vol + hôtel des agences en ligne (estimation)
+variation_vol;0.04;écart par cran de tarif (7 crans : 0 à 24 %), tiré par empreinte (jour, vol)
+variation_hotel;0.03;écart par cran de tarif hôtelier (5 crans : 0 à 12 %)
+sel;vols-2040;sel de l'empreinte (tirage déterministe, jamais modifié une fois le jeu commencé)
+agence;Kestrel Voyages;"agence de voyages en ligne (nom inventé) vers laquelle renvoie le comparateur ; émet billets et confirmations"

@@ -309,7 +309,7 @@ def prefixe_billet(compagnies):
     return next((code for nom, code in PREFIXES_BILLET.items() if nom in premiere), "220")
 
 
-def reserver_vol(vol_id, aller, retour, voyageurs, quand, simule=False, deja_paye=False, carte=None):
+def reserver_vol(vol_id, aller, retour, voyageurs, quand, simule=False, deja_paye=False, carte=None, paye=None):
     """Réserve et paie un vol : grand livre, agenda, PDF de confirmation, registre des réservations. Renvoie la ligne du registre.
     Avec `carte` (cartes.py, depuis le 12/10/2026) : le paiement passe par le plafond de la carte ; refusé, rien n'est réservé
     (ligne « paiement_refuse » au registre) ; carte de crédit, le compte courant n'est débité qu'au relevé."""
@@ -336,8 +336,12 @@ def reserver_vol(vol_id, aller, retour, voyageurs, quand, simule=False, deja_pay
     if carte and not deja_paye and not payer_par_carte(carte, total, P, quand, res, registre):
         return res
     if deja_paye:
-        res["total"] = "0.00"
-        res["note"] += " · payé dans le forfait vol + hôtel"
+        if paye is None:
+            res["total"] = "0.00"
+            res["note"] += " · payé dans le forfait vol + hôtel"
+        else:  # paiement déjà écrit au grand livre et aux cartes (régularisation d'une réservation jouée sans cet outil)
+            res["total"] = f"{paye:.2f}"
+            res["note"] += " · payé à la réservation"
     res["fichier"] = pdf_confirmation(res, v, P, quand, carte)
     livre = gl.lire()
     livre.append({"date": f"{quand:%Y-%m-%d}", "heure": f"{quand:%H:%M}", "compte": "courant", "montant": f"{-total:.2f}", "type": "mouvement",

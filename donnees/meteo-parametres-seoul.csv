@@ -1,0 +1,9 @@
+cle;valeur;description;source
+decalage_2040;1.5;écart de température (°C) ajouté aux normales 1991-2020 pour 2040;projection du moteur : réchauffement ≈ +0,5 °C par décennie depuis ≈ 2005 en Corée du Sud
+persistance_pluie;0.65;probabilité qu'un jour de pluie suive un jour de pluie;choix du moteur (mousson d'été : épisodes de plusieurs jours)
+phi_temperature;0.7;persistance d'un jour à l'autre de l'anomalie de température;choix du moteur
+sigma_tmax;4.0;écart-type de l'anomalie du maximum journalier (°C), d'octobre à avril;choix du moteur (climat continental, forte variabilité en hiver)
+sigma_tmax_ete;2.3;écart-type de l'anomalie du maximum journalier (°C), de mai à septembre;choix du moteur (été humide, variabilité plus faible)
+effet_pluie_tmax;-2.4;effet d'un jour de pluie sur le maximum (°C);choix du moteur
+forme_gamma_pluie;0.55;forme de la loi gamma des hauteurs de pluie (averses de mousson);choix du moteur
+seuil_chaleur;33;maximum (°C) à partir duquel la description signale une chaleur pesante;choix du moteur (avis de canicule coréen à 33 °C)

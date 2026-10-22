@@ -48,6 +48,7 @@ COMPTES = {
     "maison_part": ("William", "EUR", "Part nette de la maison d'Audun-le-Tiche", True),
     # 14/10/2026 : espèces en poche (outils/devises.py : retraits au distributeur, dépenses en espèces)
     "especes_php": ("William", "PHP", "Espèces (pesos philippins)", True),
+    "especes_krw": ("William", "KRW", "Espèces (wons coréens)", True),
     "especes_eur": ("William", "EUR", "Espèces (euros)", True),
 }
 TYPES = {"calage", "mouvement", "prevu", "prevu_realise", "prevu_annule", "valeur", "retire"}
@@ -100,9 +101,9 @@ def soldes(au, projete=None):
 
 
 def vers_eur(montant, devise):
-    if devise == "PHP":  # 14/10/2026 : au dernier taux tiré (outils/devises.py)
+    if devise in ("PHP", "KRW"):  # 14/10/2026 : au dernier taux tiré (outils/devises.py) ; wons : 22/10/2026
         import devises
-        return montant / devises.taux_connu("PHP")
+        return montant / devises.taux_connu(devise)
     return montant if devise == "EUR" else montant / PARITE
 
 
@@ -113,8 +114,8 @@ def vers_fcfa(montant, devise):
 def fmt(montant, devise):
     if devise == "EUR":
         return f"{montant:,.2f} €".replace(",", " ").replace(".", ",")
-    if devise == "PHP":
-        return (f"{montant:,.0f}" if abs(montant - round(montant)) < 0.005 else f"{montant:,.2f}").replace(",", " ").replace(".", ",") + " PHP"
+    if devise in ("PHP", "KRW"):
+        return (f"{montant:,.0f}" if abs(montant - round(montant)) < 0.005 else f"{montant:,.2f}").replace(",", " ").replace(".", ",") + f" {devise}"
     return f"{montant:,.0f} FCFA".replace(",", " ")
 
 
@@ -213,10 +214,10 @@ def cmd_convertir(args):
         print(f"{fmt(args.montant, 'EUR')} = {fmt(args.montant * PARITE, 'FCFA')}")
     elif dev == "FCFA":
         print(f"{fmt(args.montant, 'FCFA')} = {fmt(args.montant / PARITE, 'EUR')}")
-    elif dev == "PHP":
-        print(f"{fmt(args.montant, 'PHP')} = {fmt(vers_eur(args.montant, 'PHP'), 'EUR')} (dernier taux tiré : outils/devises.py)")
+    elif dev in ("PHP", "KRW"):
+        print(f"{fmt(args.montant, dev)} = {fmt(vers_eur(args.montant, dev), 'EUR')} (dernier taux tiré : outils/devises.py)")
     else:
-        sys.exit("Devise : EUR, FCFA ou PHP")
+        sys.exit("Devise : EUR, FCFA, PHP ou KRW")
     return 0
 
 

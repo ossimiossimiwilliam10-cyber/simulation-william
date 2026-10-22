@@ -53,6 +53,7 @@ def donnees():
     naif = t.replace(tzinfo=None)
     jour = t.date()
     reseau = ("PH · itinérance" if h["fuseau"] == "manille"
+              else "KR · itinérance" if h["fuseau"] == "seoul"
               else "LU" if re.search(r"luxembourg|esch|belval|findel|lux\b", h["lieu"], re.I) else "FR")
     # messages
     convs = {}

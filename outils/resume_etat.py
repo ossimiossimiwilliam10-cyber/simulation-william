@@ -88,7 +88,7 @@ def construire():
 
     fin = t.date() + dt.timedelta(days=30)
     fetes = []
-    pays_vus = PAYS + (("ph",) if fuseau == "manille" else ())  # Philippines pendant un séjour à Manille (12/10/2026)
+    pays_vus = PAYS + (("ph",) if fuseau == "manille" else ("kr",) if fuseau == "seoul" else ())  # Philippines pendant un séjour à Manille (12/10/2026)
     for a in {t.year, fin.year}:
         for pays in pays_vus:
             for d, nom, approx in cal.fetes(a, pays):

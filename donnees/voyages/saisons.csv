@@ -1,12 +1,6 @@
 destination;debut;fin;plancher;source;note
-NSI;01-06;06-30;1090;estimation entre les deux tirages (PX028 : moyenne annuelle 1 391,85 € en 2040);aller-retour le moins cher (facteur 1,00), séjour de 7 à 45 jours
-NSI;07-01;08-15;1736.72;tirage prix.py du 12/10/2026 sur PX027 (août, Paris – Yaoundé, moyenne) : 1 736,72 €;haute saison des départs (vacances, diaspora)
-NSI;08-16;08-23;1380;estimation : transition entre haute et basse saison;
-NSI;08-24;11-30;1005.19;tirage prix.py du 12/10/2026 sur PX035 (prix bas relevés de juillet à octobre) : 1 005,19 €;basse saison des départs
-NSI;12-01;12-24;1650;estimation : départs pour les fêtes;
-NSI;12-25;01-05;1300;estimation;
-MNL;07-01;08-31;1380.81;tirage prix.py du 12/10/2026 sur PX042 (prix bas de l'été au départ de Luxembourg) : 1 380,81 €;aller-retour le moins cher au départ de Luxembourg (facteur 1,00), séjour de 7 à 45 jours
-MNL;09-01;11-30;1104.65;estimation : 0,80 × été (basse saison);aller-retour le moins cher au départ de Luxembourg (facteur 1,00), séjour de 7 à 45 jours
-MNL;12-01;01-05;1587.93;estimation : 1,15 × été (fêtes, diaspora philippine);aller-retour le moins cher au départ de Luxembourg (facteur 1,00), séjour de 7 à 45 jours
-MNL;01-06;03-15;1173.69;estimation : 0,85 × été;aller-retour le moins cher au départ de Luxembourg (facteur 1,00), séjour de 7 à 45 jours
-MNL;03-16;06-30;1270.35;estimation : 0,92 × été;aller-retour le moins cher au départ de Luxembourg (facteur 1,00), séjour de 7 à 45 jours
+ICN;07-01;08-31;1282.5;tirage prix.py du 22/10/2026 sur PX055 (aller-retour direct Paris – Séoul en été) : 1 282,50 €;aller-retour le moins cher en classe économique (facteur 1,00), séjour de 7 à 45 jours
+ICN;09-01;11-30;1026.0;estimation : 0,80 × été (basse saison);aller-retour le moins cher en classe économique (facteur 1,00), séjour de 7 à 45 jours
+ICN;12-01;01-05;1474.88;estimation : 1,15 × été (fêtes);aller-retour le moins cher en classe économique (facteur 1,00), séjour de 7 à 45 jours
+ICN;01-06;03-15;1090.13;estimation : 0,85 × été;aller-retour le moins cher en classe économique (facteur 1,00), séjour de 7 à 45 jours
+ICN;03-16;06-30;1179.9;estimation : 0,92 × été;aller-retour le moins cher en classe économique (facteur 1,00), séjour de 7 à 45 jours

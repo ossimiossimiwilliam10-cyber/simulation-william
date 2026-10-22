@@ -1,13 +1,2 @@
 id;ville;nom;categorie;prix;quartier;note
-H1;NSI;Hilton Yaoundé;5 étoiles;PX030;centre-ville;
-H2;NSI;Djeuga Palace;hôtel;PX031;;
-H3;NSI;Hôtel La Falaise;hôtel;PX032;;
-H4;NSI;Hotel Mont Fébé;4 étoiles;PX036;colline du mont Fébé;
-H5;NSI;Hôtel Franco;4 étoiles;PX037;;
-H6;NSI;Résidence hôtelière;3 étoiles;PX038;Bastos;établissement représentatif d'un 3 étoiles au prix moyen relevé (PX038)
-H7;NSI;Chambre en résidence;économique;PX033;;chambres les moins chères relevées (PX033)
-M1;MNL;Makati Shangri-La;5 étoiles;PX044;Makati;
-M2;MNL;The Peninsula Manila;5 étoiles;PX045;Makati;
-M3;MNL;New World Makati Hotel;hôtel;PX046;Makati;
-M4;MNL;City Garden Grand Hotel;hôtel;PX047;Makati;
-M5;MNL;Chambre en hôtel économique;économique;PX048;;chambres les moins chères relevées
+H1;ICN;Officetel meublé de Yeonnam-dong (Mapo-gu);location meublée;PX056;Yeonnam-dong;14e étage d'un immeuble récent, digicode et gardiennage 24 h/24, bureau, fibre, kitchenette

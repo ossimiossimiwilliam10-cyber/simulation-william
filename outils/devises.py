@@ -35,8 +35,8 @@ DISTRIBUTEURS = DONNEES / "distributeurs.csv"
 TAUX = ETAT / "taux.csv"
 COL_TAUX = ["date", "devise", "taux", "tire_le"]
 COEF = 1.35
-DEBUT = dt.date(2040, 7, 14)  # premier jour de l'univers 2
-COMPTE_ESPECES = {"PHP": "especes_php", "EUR": "especes_eur"}
+DEBUT = dt.date(2041, 7, 16)  # premier jour de l'univers 3 (avant : 14/07/2040, univers 2)
+COMPTE_ESPECES = {"PHP": "especes_php", "KRW": "especes_krw", "EUR": "especes_eur"}
 
 
 def devise(code):
@@ -50,7 +50,7 @@ def _lus(code):
     return {l["date"]: float(l["taux"]) for l in lire_csv(TAUX) if l["devise"] == code}
 
 
-def taux(jour, code="PHP", simule=False):
+def taux(jour, code="KRW", simule=False):
     """Taux moyen du jour (unités de devise pour 1 €) ; tire les jours manquants une fois pour toutes."""
     d = devise(code)
     ref, vol, rappel = float(d["reference_eur"]), float(d["volatilite_jour"]), float(d["rappel"])
@@ -72,7 +72,7 @@ def taux(jour, code="PHP", simule=False):
     return round(x, 4)
 
 
-def taux_connu(code="PHP", jour=None):
+def taux_connu(code="KRW", jour=None):
     """Dernier taux déjà tiré à cette date (lecture seule) ; la référence si aucun : pour le patrimoine et l'affichage."""
     jour = jour or maintenant_simule().date()
     lus = _lus(code)
@@ -80,7 +80,7 @@ def taux_connu(code="PHP", jour=None):
     return lus[avant[-1]] if avant else float(devise(code)["reference_eur"])
 
 
-def cours_visa(jour, code="PHP", simule=False):
+def cours_visa(jour, code="KRW", simule=False):
     return round(taux(jour, code, simule) * (1 - float(devise(code)["ecart_visa"])), 4)
 
 
@@ -96,7 +96,7 @@ def eur(x):
     return f"{x:,.2f} €".replace(",", " ").replace(".", ",")
 
 
-def mt(x, code="PHP"):
+def mt(x, code="KRW"):
     return (f"{x:,.0f}" if abs(x - round(x)) < 0.005 else f"{x:,.2f}").replace(",", " ").replace(".", ",") + f" {code}"
 
 
@@ -202,11 +202,10 @@ def donnees_telephone(t=None):
     naif = t.replace(tzinfo=None)
     import meteo
     ville = meteo.station_courante()
-    pays = "ph" if ville == "manille" else ""
+    pays, code = {"manille": ("ph", "PHP"), "seoul": ("kr", "KRW")}.get(ville, ("", ""))  # 22/10/2026 : Séoul
     poche = especes(naif)
-    res = {"especes": poche, "devises": []}
+    res = {"especes": poche, "devises": [], "code": code}
     if pays:
-        code = "PHP"
         tx = taux_connu(code, naif.date())
         c = round(tx * (1 - float(devise(code)["ecart_visa"])), 4)
         res["devises"].append({"code": code, "nom": devise(code)["nom"], "taux": tx, "cours_visa": c})
@@ -245,7 +244,7 @@ def main():
     sub = ap.add_subparsers(dest="cmd", required=True)
     s = sub.add_parser("taux")
     s.add_argument("--jour")
-    s.add_argument("--devise", default="PHP")
+    s.add_argument("--devise", default="KRW")
     s = sub.add_parser("convertir")
     s.add_argument("montant", type=float)
     s.add_argument("devise")
@@ -256,7 +255,7 @@ def main():
         s.add_argument("--quand")
         s.add_argument("--simule", action="store_true")
         if nom in ("payer", "depenser"):
-            s.add_argument("--devise", default="PHP")
+            s.add_argument("--devise", default="KRW")
         if nom in ("payer", "retirer"):
             s.add_argument("--carte", default="visa_debit")
         if nom == "payer":

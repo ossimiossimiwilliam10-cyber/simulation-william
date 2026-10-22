@@ -105,7 +105,7 @@ def cmd_debut(args):
     section("Météo (meteo.py)", l_meteo)
     # calendrier
     l_cal = []
-    for pays in (("ph", "lu", "fr") if h["fuseau"] == "manille" else ("fr", "lu")):
+    for pays in (("ph", "lu", "fr") if h["fuseau"] == "manille" else ("kr", "lu", "fr") if h["fuseau"] == "seoul" else ("fr", "lu")):
         for d, nom, _ in cal.fetes(jour.year, pays):
             if d == jour:
                 l_cal.append(f"- Aujourd'hui férié ({pays.upper()}) : {nom}")

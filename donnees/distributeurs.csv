@@ -5,3 +5,6 @@ metrobank_naia3;Metrobank;naia_t3;ph;250;PHP;10000;100;guides de voyage (plafond
 bdo_makati_ave;BDO;makati_avenue;ph;250;PHP;20000;100;BDO (frais) · implantation : estimation;estimation;distributeur d'agence sur Makati Avenue · à quelques minutes à pied du City Garden Grand Hotel
 securitybank_poblacion;Security Bank;poblacion;ph;250;PHP;20000;100;guides de voyage (frais) · implantation : estimation;estimation;Poblacion (Makati)
 hsbc_ayala;HSBC;greenbelt;ph;0;PHP;40000;100;guides de voyage (HSBC ne facture pas les cartes étrangères · peu de distributeurs · plafond plus haut);estimation;centre d'Ayala (Makati)
+woori_icn_t2;Woori Bank (Global ATM);icn_t2;kr;4000;KRW;1000000;10000;You.co et Wise (guides sur les distributeurs de Corée du Sud, 2026) : retrait de 400 000 à 1 000 000 KRW au plus selon la banque · frais de l'exploitant non établis (estimation 4 000 KRW) · F092;estimation;hall des arrivées du terminal 2 · choisir la facturation en wons
+kb_icn_t2;KB Kookmin Bank (Global ATM);icn_t2;kr;4000;KRW;600000;10000;même source;estimation;hall des arrivées du terminal 2
+gs25_hongdae;GS25 (Global ATM de supérette);hongdae;kr;4000;KRW;400000;10000;même source;estimation;supérette ouverte 24 h sur 24 près de la station Hongik University

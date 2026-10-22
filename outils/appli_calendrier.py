@@ -24,7 +24,7 @@ NOMS_PERIODES = {"vacances_ete": "Vacances d'été", "vacances_toussaint": "Vaca
                  "vacances_pentecote": "Vacances de Pentecôte", "vacances_hiver": "Vacances d'hiver", "vacances_printemps": "Vacances de printemps",
                  "conge_toussaint": "Congé de la Toussaint", "rentree": "Rentrée scolaire",
                  "session_automne_examen": "Session d'automne de l'examen de fin d'études"}
-PAYS = {"lu": "Luxembourg", "fr": "France"}
+PAYS = {"lu": "Luxembourg", "fr": "France", "kr": "Corée du Sud"}
 
 
 def propre(texte):
@@ -43,13 +43,15 @@ def donnees_telephone(t=None):
     m = debut.month - 1 + MOIS_HORIZON
     fin = dt.date(debut.year + m // 12, m % 12 + 1, 1) - dt.timedelta(days=1)
     ev = []
+    import horloge
+    pays_vus = ("fr", "lu") + (("kr",) if horloge.lire()["fuseau"] == "seoul" else ())  # fériés coréens pendant le séjour à Séoul (22/10/2026)
     for annee in range(debut.year, fin.year + 1):
-        for pays in ("fr", "lu"):
+        for pays in pays_vus:
             for d, nom, approx in cal.fetes(annee, pays):
                 if debut <= d <= fin:
                     ev.append({"date": d.isoformat(), "type": "ferie", "titre": nom.split(" (")[0], "detail": PAYS[pays]})
     for l in cal.lire_donnees("calendrier-scolaire.csv"):
-        if l["periode"] == "annee" or l["fin"] < debut.isoformat() or l["debut"] > fin.isoformat():
+        if l["periode"] == "annee" or l["fin"] < debut.isoformat() or l["debut"] > fin.isoformat() or l["pays"] not in pays_vus:
             continue
         nom = NOMS_PERIODES.get(l["periode"], l["periode"].replace("_", " ").capitalize())
         zone = "" if l["zone"] in ("", "national") else f", zone {l['zone']}"

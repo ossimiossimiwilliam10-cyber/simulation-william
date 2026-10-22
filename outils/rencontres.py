@@ -1,8 +1,8 @@
 """APPLICATION DE RENCONTRE du téléphone de William (créée le 12/10/2026 à la demande de l'utilisateur : « une application de
 rencontre aux Philippines, pour rencontrer des femmes philippines »). Affichage : `outils/telephone_web/rencontres.js`.
 
-    python outils/rencontres.py generer --ville MNL --nombre 24 [--simule]   # profils tirés par personnage.py (une fois par ville)
-    python outils/rencontres.py completer --ville MNL --de 18 --a 20 [--simule]  # tranche d'âge ouverte après coup : vivier complété
+    python outils/rencontres.py generer --ville SEL --nombre 24 [--simule]   # profils tirés par personnage.py (une fois par ville)
+    python outils/rencontres.py completer --ville SEL --de 20 --a 22 [--simule]  # tranche d'âge ouverte après coup : vivier complété
     python outils/rencontres.py inscription --bio "…" --quand "AAAA-MM-JJ HH:MM" [--abonnement plus]
     python outils/rencontres.py aimer <id> --quand "…"          # William aime un profil : T21a et T10 tirés tout seuls (reactions.py)
     python outils/rencontres.py passer <id>
@@ -45,12 +45,17 @@ COL_P = ["id", "ville", "prenom", "quartier", "distance_km", "metier", "cherche"
          "cree_le", "note", "aime_william"]  # aime_william (14/10/2026) : date et heure de son « j'aime » spontané (T21c)
 PILE_MIN = 12  # profils « à découvrir » au moins, hors profils qui ont aimé William (estimation du moteur, 14/10/2026 ; avant : 6 → maintenant : 12, pour que ceux qui l'ont aimé restent une minorité de la pile)
 NL = chr(10)
-VILLES_ASIE_SE = {"MNL"}  # M101 : étranger aisé dans une ville d'Asie du Sud-Est
+VILLES_ASIE_SE = {"MNL", "SEL"}  # M101 : étranger aisé dans une ville d'Asie (Séoul ajouté le 22/10/2026)
+CONTEXTES = {"MNL": "appli_rencontre_manille", "SEL": "appli_rencontre_seoul"}  # contexte de personnage.py de chaque ville
+NOMS_VILLES = {"MNL": "Manille", "SEL": "Séoul"}
 COL_M = ["profil", "date", "heure", "auteur", "texte"]
 COL_C = ["inscrit_le", "ville", "bio", "recherche", "abonnement", "note"]
 QUARTIERS = {"MNL": [("Makati", 2, 6), ("Bonifacio Global City (Taguig)", 3, 7), ("Pasay", 5, 9), ("Mandaluyong", 4, 8),
                      ("Pasig", 7, 12), ("Quezon City", 10, 18), ("Ermita (Manille)", 6, 9), ("Malate (Manille)", 6, 9),
-                     ("San Juan", 7, 10), ("Parañaque", 10, 15), ("Marikina", 14, 20), ("Las Piñas", 15, 22), ("Sampaloc (Manille)", 8, 12)]}
+                     ("San Juan", 7, 10), ("Parañaque", 10, 15), ("Marikina", 14, 20), ("Las Piñas", 15, 22), ("Sampaloc (Manille)", 8, 12)],
+             "SEL": [("Hongdae (Mapo-gu)", 1, 4), ("Mangwon-dong (Mapo-gu)", 1, 3), ("Sinchon", 2, 4), ("Seongsu-dong", 8, 12),
+                     ("Gangnam", 11, 17), ("Itaewon", 5, 9), ("Jongno", 5, 8), ("Yeouido", 6, 10), ("Seodaemun", 3, 6),
+                     ("Konkuk University (Gwangjin)", 10, 14), ("Songpa", 14, 20), ("Guro", 12, 18), ("Gwanak", 11, 16)]}
 # ce qu'affiche le profil (« cherche ») et l'intention réelle cachée : estimations du moteur (12/10/2026), à corriger à la revue
 CHERCHE = [("Une relation sérieuse", 40), ("On verra bien", 30), ("De nouveaux amis", 15), ("Quelque chose de léger", 15)]
 INTENTIONS = {"Une relation sérieuse": [("serieux", 70), ("aide_financiere", 15), ("arnaque", 8), ("aventure", 7)],
@@ -79,24 +84,33 @@ def pondere(rng, couples):
     return couples[-1][0]
 
 
-def bio(rng, metier, loisirs, cherche):
+def bio(rng, metier, loisirs, cherche, ville="MNL"):
     metiers_en = {"employée ou employé de centre d'appels": "Call center agent", "vendeur ou vendeuse en centre commercial": "Mall sales staff",
                   "infirmier ou infirmière": "Nurse", "enseignant ou enseignante": "Teacher", "employé(e) de banque ou de bureau": "Office worker",
                   "serveur ou serveuse": "Waitress", "comptable": "Accountant", "étudiant(e)": "Student",
                   "développeur ou développeuse, informatique": "Software developer",
                   "travailleur ou travailleuse indépendante (en ligne)": "Freelancer", "aide-soignant(e)": "Caregiver",
                   "chauffeur (VTC, jeepney)": "Driver", "sans emploi": "Between jobs", "employé(e) d'hôtel": "Hotel staff",
-                  "ouvrier ou ouvrière": "Factory worker"}
+                  "ouvrier ou ouvrière": "Factory worker",
+                  "employé(e) de bureau (grande entreprise)": "Office worker", "serveur ou serveuse, barista": "Barista",
+                  "vendeur ou vendeuse en grand magasin ou boutique": "Retail staff", "ingénieur(e) ou développeur(se), informatique": "Developer",
+                  "fonctionnaire ou employé(e) d'administration": "Civil servant", "enseignant(e) (collège, lycée ou hagwon)": "Teacher",
+                  "infirmier(ère) ou aide-soignant(e)": "Nurse", "travailleur(se) indépendant(e) (design, contenu en ligne)": "Freelancer",
+                  "chauffeur (taxi, livraison)": "Driver", "cadre d'entreprise": "Manager", "employé(e) d'hôtel ou de restauration": "Hotel staff"}
     loisirs_en = {"karaoké (videoke) entre amis": "videoke nights", "centres commerciaux climatisés le week-end": "mall dates",
                   "basket de quartier": "basketball", "séries coréennes": "K-dramas", "messe du dimanche": "Sunday mass",
-                  "cuisine": "cooking", "lecture": "books", "vélo": "biking", "jeux vidéo": "gaming", "musique": "music"}
+                  "cuisine": "cooking", "lecture": "books", "vélo": "biking", "jeux vidéo": "gaming", "musique": "music",
+                  "karaoké (noraebang) entre amis": "noraebang", "cafés à thème et expositions": "cafés and exhibitions",
+                  "randonnée sur les montagnes autour de Séoul (Bukhansan, Inwangsan)": "hiking", "jeux vidéo dans un PC bang": "gaming",
+                  "bains publics (jjimjilbang) le week-end": "jjimjilbang"}
     cherche_en = {"Une relation sérieuse": "Looking for something real.", "On verra bien": "Let's see where it goes.",
                   "De nouveaux amis": "New friends welcome.", "Quelque chose de léger": "Nothing too serious."}
     m = metiers_en.get(metier, metier.capitalize())
     l = [loisirs_en.get(x, None) for x in loisirs]
     l = [x for x in l if x]
     gouts = (" · " + ", ".join(l)) if l else ""
-    ouverture = rng.choice(["", "Simple girl. ", "Coffee first. ", "God-fearing. ", "Laughs a lot. ", "Introvert-ish. "])
+    ouverture = rng.choice(["", "Coffee addict. ", "Cat person. ", "Foodie. ", "Weekend hiker. ", "Introvert-ish. "] if ville == "SEL"
+                           else ["", "Simple girl. ", "Coffee first. ", "God-fearing. ", "Laughs a lot. ", "Introvert-ish. "])
     return f"{ouverture}{m}{gouts}. {cherche_en[cherche]}".strip()
 
 
@@ -114,7 +128,7 @@ def generer(ville, nombre, simule=False, ages=None, complement=False):
     jour = P.aujourd_hui()
     nouveaux = []
     for _ in range(nombre):
-        pers = P.tirer("appli_rencontre_manille", "profil d'application de rencontre (Manille)", sexe="F", ages=ages, rng=rng,
+        pers = P.tirer(CONTEXTES[ville], f"profil d'application de rencontre ({NOMS_VILLES[ville]})", sexe="F", ages=ages, rng=rng,
                        existants=existants, foyers=FOYERS)
         existants.append(pers["nom"])
         if pers["age"] < AGE_MIN:  # garde absolue (majorité)
@@ -124,7 +138,7 @@ def generer(ville, nombre, simule=False, ages=None, complement=False):
         q, dmin, dmax = rng.choice(QUARTIERS[ville])
         nouveaux.append((pers, {"id": slug(pers["nom"]), "ville": ville, "prenom": pers["prenom"], "quartier": q,
                                 "distance_km": str(rng.randint(dmin, dmax)), "metier": pers["metier"], "cherche": cherche,
-                                "bio": bio(rng, pers["metier"], pers["loisirs"], cherche),
+                                "bio": bio(rng, pers["metier"], pers["loisirs"], cherche, ville),
                                 "connexion": pondere(rng, [("en ligne", 15), ("il y a 1 h", 20), ("aujourd'hui", 35), ("hier", 20), ("cette semaine", 10)]),
                                 "verifie": "oui" if rng.random() < 0.55 else "non", "intention": intention, "statut": "nouveau",
                                 "cree_le": f"{jour:%Y-%m-%d}", "note": ""}))
@@ -170,7 +184,7 @@ def completer(ville, a_min, a_max, simule=False):
     import personnage as P
     if a_min < AGE_MIN:
         sys.exit(f"REFUSÉ : aucun profil de moins de {AGE_MIN} ans (majorité, garde absolue).")
-    ctx = P.contextes()["appli_rencontre_manille"]
+    ctx = P.contextes()[CONTEXTES[ville]]
     if a_min < int(ctx["age_min"]):
         sys.exit(f"La tranche {a_min}-{a_max} commence sous l'âge minimum du contexte ({ctx['age_min']} ans).")
     n = sum(1 for p in lire(PROFILS) if p["ville"] == ville)
@@ -318,7 +332,8 @@ def donnees_telephone(t=None):
             discussions.setdefault(m["profil"], []).append({"date": m["date"], "heure": m["heure"], "moi": m["auteur"] == "william",
                                                              "texte": m["texte"]})
     return {"inscrit": bool(compte), "compte": {k: v for k, v in compte[-1].items() if k != "note"} if compte else None, "prix_plus": PRIX_PLUS, "profils": profils,
-            "discussions": discussions, "villes": {"MNL": "Manille"}, "likes_recus": likes}
+            "discussions": discussions, "villes": {"SEL": NOMS_VILLES["SEL"]}, "ville_defaut": "SEL",
+            "age_min": int(P.contextes()[CONTEXTES["SEL"]]["age_min"]), "likes_recus": likes}
 
 
 def main():
@@ -326,18 +341,18 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sp = ap.add_subparsers(dest="cmd", required=True)
     p = sp.add_parser("generer")
-    p.add_argument("--ville", default="MNL")
+    p.add_argument("--ville", default="SEL")
     p.add_argument("--nombre", type=int, default=24)
     p.add_argument("--simule", action="store_true")
     p = sp.add_parser("completer")
-    p.add_argument("--ville", default="MNL")
+    p.add_argument("--ville", default="SEL")
     p.add_argument("--de", type=int, required=True, help="âge le plus bas de la tranche ouverte (18 au moins)")
     p.add_argument("--a", type=int, required=True, help="âge le plus haut de la tranche ouverte")
     p.add_argument("--simule", action="store_true")
     p = sp.add_parser("inscription")
     p.add_argument("--bio", required=True)
-    p.add_argument("--ville", default="MNL")
-    p.add_argument("--recherche", default="femmes de 18 à 40 ans")
+    p.add_argument("--ville", default="SEL")
+    p.add_argument("--recherche", default="femmes de 20 à 40 ans")
     p.add_argument("--abonnement", choices=("gratuit", "plus"), default="gratuit")
     p.add_argument("--carte", default="visa_debit", help="carte qui paie l'abonnement Plus (etat/cartes.csv)")
     p.add_argument("--quand", required=True)
@@ -361,7 +376,7 @@ def main():
     p.add_argument("--jour", required=True)
     p.add_argument("--simule", action="store_true")
     p = sp.add_parser("pile")
-    p.add_argument("--ville", default="MNL")
+    p.add_argument("--ville", default="SEL")
     p = sp.add_parser("menage")
     p.add_argument("--lundi", required=True)
     p.add_argument("--simule", action="store_true")

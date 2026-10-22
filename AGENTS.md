@@ -373,6 +373,7 @@ Univers 2 : données remises à zéro le 11/10/2026 (horloge, agenda, grand livr
 - **Mise à jour** : `tour.py fin` régénère la page à chaque tour ; Claude la republie au même endroit (adresse :
   `etat/relais-config.json`) ; un autre agent envoie le fichier `sorties/telephone/index.html` au joueur s'il le demande.
 - **Applications en place** (12/10/2026) : Messages, Courriels, **Banque** (soldes, opérations, prélèvements et virements à venir ;
+  **Univers 3 (22/10/2026)** : Voyages (Séoul : vols Paris et Luxembourg, formalités, réservation de William), Portefeuille (wons coréens, distributeurs Global ATM), Courses (taxis et Kakao T à Séoul), Rencontres (Séoul, 20 ans au moins : majorité coréenne à 19 ans, décompte en année civile), Météo (station de Séoul), fériés coréens ; les données de Manille et de Yaoundé sont dans `archives/univers-2/donnees-voyages/`.
   ordres permanents et virements que William configure lui-même : `outils/banque.py` ; cartes, plafonds et relevés depuis le
   12/10/2026 : `outils/cartes.py`, un paiement au-delà du plafond est refusé, une carte de crédit est débitée au relevé), Calendrier (`outils/appli_calendrier.py` :
   fériés français, luxembourgeois et philippins, vacances, événements, rendez-vous connus, argent), **Météo** (station du lieu où se

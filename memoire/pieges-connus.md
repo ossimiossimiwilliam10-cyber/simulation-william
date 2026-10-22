@@ -133,3 +133,8 @@
 87. **Fuseau et routines par défaut = Luxembourg** (22/10/2026) : un personnage de Séoul ou du Brésil sans contexte « …_seoul » ou
     « …_bresil » reçoit des horaires de vie en heure de Luxembourg, donc des heures de réponse fausses de sept ou cinq heures. Tout
     personnage lointain est rattaché à une zone de `donnees/population/zones.csv` ; `routines.py voir` le vérifie.
+88. **Applications du téléphone figées sur le premier voyage** (22/10/2026) : Voyages, Portefeuille, Courses, Rencontres et la météo
+    étaient écrits pour Manille (pesos, Grab, « MNL ») ; au changement d'univers ou de destination, vérifier chaque application avec
+    `python outils/telephone.py` puis la page ouverte (zone, devise, application de VTC, âge minimum du pays, fériés, météo) avant de dire
+    que le téléphone est à jour. Les conversations et courriels du jeu vivent dans `whatsapp/` et `courriels/` : s'ils sont vides, le
+    téléphone l'est aussi.

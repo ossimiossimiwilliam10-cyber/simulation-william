@@ -1,11 +1,12 @@
-/* Courses : VTC (Grab) et taxis de la ville où se trouve William (outils/courses.py). Prix calculés par le même module que
+/* Courses : VTC (Kakao T) et taxis de la ville où se trouve William (outils/courses.py). Prix calculés par le même module que
    le moteur, pour l'heure de la dernière mise à jour du téléphone (créneau de 15 minutes, pluie du jour). */
 appli({
   id: "courses", nom: "Courses", couleur: "var(--app-courses)",
   icone: '<svg viewBox="0 0 24 24"><path d="M5 16V11l2-5h10l2 5v5M5 16h14M5 16v3M19 16v3M7 11h10"/><circle cx="8" cy="14" r=".7"/><circle cx="16" cy="14" r=".7"/></svg>',
   ouvrir(main, ui) {
     const C = D.applis.courses;
-    const pesos = n => Math.round(n).toLocaleString("fr-FR").replace(/ /g, " ") + " PHP";
+    const A = C.appli || "Kakao T";
+    const pesos = n => Math.round(n).toLocaleString("fr-FR").replace(/ /g, " ") + " " + (C.devise || "KRW");
     ui.titre("Courses", "VTC et taxis");
     if (!C.ville) return main.append(vide("Rien ici", "Les courses en VTC ou en taxi s'affichent dans une ville couverte."));
     const L = Object.fromEntries(C.lieux.map(l => [l.id, l]));
@@ -19,14 +20,14 @@ appli({
       main.replaceChildren(); ui.titre("Courses", "VTC et taxis");
       const z = el("div", "carte");
       if (!installe) {
-        z.append(el("strong", "", "Grab n'est pas installé"), el("span", "note", "Inscription avec le numéro de téléphone (code par SMS)."));
-        const b = el("button", "bouton", "Copier pour installer Grab"); b.type = "button";
-        b.addEventListener("click", () => copier("J'installe Grab sur mon téléphone [courses: installer]", b, z)); z.append(b);
+        z.append(el("strong", "", A + " n'est pas installé"), el("span", "note", "Inscription avec le numéro de téléphone (code par SMS)."));
+        const b = el("button", "bouton", "Copier pour installer " + A); b.type = "button";
+        b.addEventListener("click", () => copier("J'installe " + A + " sur mon téléphone [courses: installer]", b, z)); z.append(b);
       } else if (!C.compte.carte) {
-        z.append(el("strong", "", "Grab : paiement en espèces"), el("span", "note", "Aucune carte enregistrée."));
+        z.append(el("strong", "", A + " : paiement en espèces"), el("span", "note", "Aucune carte enregistrée."));
         [["visa_debit", "Visa Debit"], ["visa_premier", "Visa Premier"]].forEach(([v, t]) => { const b = el("button", "bouton discret", "Copier : enregistrer la " + t); b.type = "button";
-          b.addEventListener("click", () => copier("J'enregistre ma " + t + " dans Grab [courses: carte carte=" + v + "]", b, z)); z.append(b); });
-      } else z.append(el("strong", "", "Grab : carte enregistrée"), el("span", "note", C.compte.carte === "visa_premier" ? "Visa Premier" : "Visa Debit"));
+          b.addEventListener("click", () => copier("J'enregistre ma " + t + " dans " + A + " [courses: carte carte=" + v + "]", b, z)); z.append(b); });
+      } else z.append(el("strong", "", A + " : carte enregistrée"), el("span", "note", C.compte.carte === "visa_premier" ? "Visa Premier" : "Visa Debit"));
       main.append(z);
       const f = el("div", "formulaire");
       const choix = (cle, label) => { const s = el("select"); C.lieux.forEach(l => { const o = el("option", "", l.nom); o.value = l.id; s.append(o); });

@@ -43,6 +43,7 @@ LIEUX_SOLEIL = {
     "douala": (4.051, 9.768, "Africa/Douala"),
     "lisbonne": (38.722, -9.139, "Europe/Lisbon"),
     "manille": (14.599, 120.984, "Asia/Manila"),
+    "seoul": (37.567, 126.978, "Asia/Seoul"),
 }
 
 
@@ -236,9 +237,48 @@ def fetes(annee, pays):
         for d2, nom, ap in fetes_musulmanes(annee):
             if nom.startswith(("Aïd el-Fitr", "Tabaski")):
                 ajout(d2, nom.replace("Tabaski / ", ""), ap)
+    elif pays == "kr":
+        # Corée du Sud (22/10/2026) : jours fériés légaux ; fêtes lunaires (Seollal, Bouddha, Chuseok) calculées à ± 1 jour (lunaison
+        # moyenne) ; les jours de remplacement quand une fête tombe un week-end ne sont pas calculés
+        ajout(dt.date(annee, 1, 1), "Nouvel An")
+        ajout(dt.date(annee, 3, 1), "Mouvement du 1er Mars (Samiljeol)")
+        ajout(dt.date(annee, 5, 5), "Fête des enfants")
+        ajout(dt.date(annee, 6, 6), "Jour du souvenir (Hyeonchungil)")
+        ajout(dt.date(annee, 8, 15), "Fête de la Libération (Gwangbokjeol)")
+        ajout(dt.date(annee, 10, 3), "Fête de la fondation nationale (Gaecheonjeol)")
+        ajout(dt.date(annee, 10, 9), "Jour de l'alphabet coréen (Hangeul)")
+        ajout(dt.date(annee, 12, 25), "Noël")
+        for d2, nom in fetes_coreennes_lunaires(annee):
+            ajout(d2, nom, True)
     else:
-        sys.exit(f"Pays inconnu : {pays} (ci, lu, cv, fr, ph)")
+        sys.exit(f"Pays inconnu : {pays} (ci, lu, cv, fr, ph, kr)")
     return sorted(liste)
+
+
+def fetes_coreennes_lunaires(annee):
+    """[(date, libellé)] des fêtes lunaires de Corée du Sud : Seollal (1er jour du 1er mois lunaire, avec la veille et le lendemain),
+    anniversaire du Bouddha (8e jour du 4e mois), Chuseok (15e jour du 8e mois, avec la veille et le lendemain). Le premier jour d'un
+    mois lunaire est la date coréenne (UTC+9) de la nouvelle lune ; lunaison moyenne : ± 1 jour (vérifié sur 2025 et 2026)."""
+    def nouvelle_lune_entre(d1, d2):
+        for quand, nom in lunes(d1 - dt.timedelta(days=2), d2 + dt.timedelta(days=2)):
+            if nom == "Nouvelle lune":
+                j = (quand + dt.timedelta(hours=9)).date()
+                if d1 <= j <= d2:
+                    return j
+        return None
+    res = []
+    s = nouvelle_lune_entre(dt.date(annee, 1, 21), dt.date(annee, 2, 20))
+    if s:
+        res += [(s - dt.timedelta(days=1), "Seollal (veille du Nouvel An lunaire)"), (s, "Seollal (Nouvel An lunaire)"),
+                (s + dt.timedelta(days=1), "Seollal (lendemain)")]
+    b = nouvelle_lune_entre(dt.date(annee, 4, 20), dt.date(annee, 5, 19))
+    if b:
+        res.append((b + dt.timedelta(days=7), "Anniversaire du Bouddha"))
+    c = nouvelle_lune_entre(dt.date(annee, 8, 25), dt.date(annee, 9, 22))
+    if c:
+        res += [(c + dt.timedelta(days=13), "Chuseok (veille)"), (c + dt.timedelta(days=14), "Chuseok (fête des récoltes)"),
+                (c + dt.timedelta(days=15), "Chuseok (lendemain)")]
+    return res
 
 
 def ramadan(annee):

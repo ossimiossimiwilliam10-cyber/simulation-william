@@ -45,12 +45,12 @@ appli({
       [["plus", "Plus, mode voyage (" + euros(R.prix_plus) + " par mois)"], ["gratuit", "Gratuit (profils autour de toi)"]].forEach(([v, t]) => { const o = el("option", "", t); o.value = v; ab.append(o); });
       const la = el("label", "", "Abonnement"); la.htmlFor = "r-ab"; const ca = el("div", "champ large"); ca.append(la, ab);
       f.append(cb, ca);
-      main.append(el("p", "note", "Recherche : femmes de 18 à 40 ans · ville : Manille. Voir une autre ville que la sienne demande le mode voyage (abonnement Plus)."), f);
+      main.append(el("p", "note", "Recherche : femmes de " + R.age_min + " à 40 ans · ville : " + (R.villes[R.ville_defaut] || "") + ". Voir une autre ville que la sienne demande le mode voyage (abonnement Plus)."), f);
       const b = el("button", "bouton", "Préparer l'inscription"); b.type = "button";
       b.addEventListener("click", () => {
         if (!bio.value.trim()) { bio.focus(); return; }
-        ajouter("Je m'inscris (" + (ab.value === "plus" ? "abonnement Plus, mode voyage sur Manille" : "gratuit") + "), présentation : « " + bio.value.trim() + " »",
-          "[rencontres: inscription abonnement=" + ab.value + " ville=MNL bio=\"" + guillemets(bio.value.trim()) + "\"]");
+        ajouter("Je m'inscris (" + (ab.value === "plus" ? "abonnement Plus, mode voyage sur " + (R.villes[R.ville_defaut] || "") : "gratuit") + "), présentation : « " + bio.value.trim() + " »",
+          "[rencontres: inscription abonnement=" + ab.value + " ville=" + R.ville_defaut + " bio=\"" + guillemets(bio.value.trim()) + "\"]");
       });
       main.append(b);
     }
@@ -97,7 +97,7 @@ appli({
       main.replaceChildren();
       const bf = barreFile(); if (bf) main.append(bf);
       if (!R.inscrit) return inscription();
-      ui.titre("Rencontres", "Manille · " + R.profils.filter(p => p.statut === "nouveau" || p.statut === "vu").length + " profils à découvrir"
+      ui.titre("Rencontres", (R.villes[R.compte ? R.compte.ville : R.ville_defaut] || "") + " · " + R.profils.filter(p => p.statut === "nouveau" || p.statut === "vu").length + " profils à découvrir"
         + (R.likes_recus ? " · ♥ " + R.likes_recus + " j'aime reçu" + (R.likes_recus > 1 ? "s" : "") : ""));
       const tabs = el("div", "onglets-appli");
       [["decouvrir", "Découvrir"], ["aimes", "J'aime"], ["discussions", "Discussions"], ["profil", "Profil"]].forEach(([id, nom]) => {

@@ -1,18 +1,18 @@
-# Résumé d'état (généré le 22/10/2026 09:53 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 22/10/2026 22:05 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
 ## Horloge : samedi 20/07/2041 21:00 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 19:00 ; lisbonne 20:00 ; mindelo 18:00 ; casablanca 20:00 ; douala 20:00 ; addis 22:00 ; manille 03:00 ; paris 21:00 ; seoul 04:00
+- **Heure dans les autres lieux** : abidjan 19:00 ; lisbonne 20:00 ; mindelo 18:00 ; casablanca 20:00 ; douala 20:00 ; addis 22:00 ; manille 03:00 ; paris 21:00 ; seoul 04:00 ; bresil 16:00
 - **En attente de William** :
   - Départ dimanche 21 juillet à 08h30 pour Lorraine TGV et vol Séoul KE902
 
 ## Argent (grand livre, calculé)
-- Compte courant (Spuerkeess) : **5 725,00 €**
+- Compte courant (Spuerkeess) : **9 781,00 €**
 - Compte épargne (Spuerkeess) : **75 250,00 €**
 - ETF (valeur de marché : calages seulement) : **670 380,00 €**
 - Prêt logement : solde restant dû (passif, déjà déduit de la part de maison) : **102 621,78 €**
 - Part nette de la maison d'Audun-le-Tiche : **97 378,22 €**
-- Patrimoine net de William : **848 733,22 €**
+- Patrimoine net de William : **852 789,22 €**
 - Prévu dans les 14 jours : 31/07 Traitement mensuel de William (9 320,00 €) ; 01/08 Minett Combat Club (-85,00 €) ; 01/08 Package bancaire Zebra Premium (-12,83 €) ; 02/08 Virement permanent vers le compte épargne (-732,00 €) ; 02/08 Virement permanent vers le compte épargne (732,00 €) ; 02/08 Virement permanent vers le compte-titres ETF (-5 755,00 €) ; 02/08 Virement permanent vers le compte-titres ETF (5 755,00 €)
 
 ## Agenda : dans les 24 heures (1)
