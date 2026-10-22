@@ -1,4 +1,4 @@
-# Résumé d'état (généré le 21/10/2026 21:49 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 22/10/2026 09:41 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
 ## Horloge : vendredi 19/07/2041 19:00 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
@@ -14,9 +14,6 @@
 - Part nette de la maison d'Audun-le-Tiche : **97 378,22 €**
 - Patrimoine net de William : **851 328,22 €**
 - Prévu dans les 14 jours : 31/07 Traitement mensuel de William (9 320,00 €) ; 01/08 Minett Combat Club (-85,00 €) ; 01/08 Package bancaire Zebra Premium (-12,83 €) ; 02/08 Virement permanent vers le compte épargne (-732,00 €) ; 02/08 Virement permanent vers le compte épargne (732,00 €) ; 02/08 Virement permanent vers le compte-titres ETF (-5 755,00 €) ; 02/08 Virement permanent vers le compte-titres ETF (5 755,00 €)
-
-## ÉCHÉANCES ÉCHUES NON CLOSES (jouer, reporter avec raison ou annuler : règle 14)
-- A004 Fri 19/07 15:00 (luxembourg) | Thiago Rocha & William : Visioconférence Google Meet : présentation du pipeline de fermes solaires (Minas Gerais, 150 kW et 300 kW) [prevu]  — rendez-vous convenu le 17/07 après-midi, lien Meet reçu
 
 ## Agenda : dans les 24 heures (0)
 - rien
