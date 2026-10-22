@@ -34,3 +34,11 @@
 - **18/07/2041 (soir)** : William lui confirme qu'il accepte son aide de bon cœur, prévoit un séjour de 6 semaines dès le 22 juillet avec un budget logement strict de 3 000 € maximum, pour une ambiance très "chill" et reposante.
 - **19/07/2041** : Hye-won approuve avec enthousiasme le séjour de 6 semaines et part prospecter des officetels à Yeonnam-dong / Mangwon-dong. Suite à une proposition maladroite de coordonnées bancaires pour une surprise de remerciement, elle refuse avec fierté et pudeur (« I just wanted to help you as a friend »). William s'excuse avec franchise et tact, préservant une relation saine et respectueuse.
 - **20/07/2041** : Hye-won envoie deux annonces vérifiées à Mapo-gu (Mangwon et Yeonnam-dong). William sélectionne l'officetel de Yeonnam-dong (14e étage, bureau fibre, calme) et valide la réservation de 6 semaines (2 450 €). Hye-won, ravie et rassurée, lui propose de se retrouver ou de lui laisser le temps de s'installer à son atterrissage lundi matin.
+
+## Complément tiré le 20/07/2041 (audit U3-2)
+> Tirage du générateur pour un personnage écrit à la main : il complète la fiche sans modifier ce qui a été joué. Définitif.
+- Foyer : vit chez ses parents.
+- Attachement : évitant. Défauts : aime les commérages et répète ce qu'on lui confie ; dit oui à tout puis se désiste au dernier moment. Qualité : curieux, cultivé, lit beaucoup. Contradiction : sportif et fumeur.
+- Fiabilité : environ 14 % de risque d'oubli ou d'annulation d'un rendez-vous ou d'une promesse.
+- Objectif du moment : réussir le concours de la fonction publique ou un examen de certification. Souci en cours : solitude depuis un déménagement. Loisirs : jardinage.
+- Secret : doit de l'argent à un proche (gravité 1) (fait caché ; ne ressort que par un tirage ou une révélation consignée dans etat/savoir.csv).

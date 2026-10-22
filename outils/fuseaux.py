@@ -30,6 +30,7 @@ ZONES = {
     "manille": "Asia/Manila",
     "paris": "Europe/Paris",
     "seoul": "Asia/Seoul",
+    "bresil": "America/Sao_Paulo",
 }
 ALIAS = {
     "esch": "luxembourg", "audun": "luxembourg", "audun-le-tiche": "luxembourg", "differdange": "luxembourg",
@@ -39,6 +40,8 @@ ALIAS = {
     "cmn": "casablanca", "vxe": "mindelo", "lisbon": "lisbonne",
     "nsi": "douala", "add": "addis", "addis-abeba": "addis", "bru": "luxembourg", "fra": "luxembourg", "cdg": "paris",
     "mnl": "manille", "manila": "manille", "philippines": "manille",
+    "campinas": "bresil", "sao paulo": "bresil", "são paulo": "bresil", "fortaleza": "bresil", "brasilia": "bresil",
+    "brasília": "bresil", "brésil": "bresil", "br": "bresil", "belo horizonte": "bresil",
     "séoul": "seoul", "incheon": "seoul", "icn": "seoul", "corée": "seoul", "coree": "seoul",
 }
 

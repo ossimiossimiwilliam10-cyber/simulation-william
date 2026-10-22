@@ -155,3 +155,39 @@ loisir;centres commerciaux climatisés le week-end;2;;;manille
 loisir;basket de quartier;2;;;manille
 loisir;séries coréennes;2;;;manille
 loisir;messe du dimanche;2;C+;;manille
+objectif;entrer ou rester dans une grande entreprise (chaebol) réputée;3;C+;;seoul,actif,age:22-40
+objectif;économiser pour le dépôt de garantie d'un logement (jeonse) à Séoul;3;;;seoul,actif
+objectif;réussir le concours de la fonction publique ou un examen de certification;2;C+;;seoul,age:20-35
+objectif;partir étudier ou travailler à l'étranger (visa vacances-travail, master);2;O+;;seoul,age:20-35
+objectif;lancer son propre studio ou une boutique en ligne;2;O+;;seoul,age:22-45
+objectif;rembourser son prêt étudiant;2;;;seoul,age:20-40
+souci;loyer et dépôt de garantie (jeonse, wolse) qui s'envolent;3;;;seoul
+souci;heures supplémentaires et dîners d'équipe imposés;3;N+;;seoul,actif
+souci;contrat renouvelé de mois en mois, sans visibilité;2;;;seoul,actif,age:22-45
+souci;pression de la famille pour se marier;2;;;seoul,seul,age:26-45
+souci;examens et notes de fin de semestre;2;C-;;seoul,age:20-28
+secret;a un prêt à taux élevé auprès d'un prêteur privé, caché à sa famille;1;;2;seoul,age:22-60
+secret;fait des heures non déclarées en plus de son emploi;1;;1;seoul,actif
+secret;est avec quelqu'un que sa famille désapprouve;1;;2;seoul,age:22-45
+secret;embellit son emploi et ses revenus sur les applications de rencontre;1;;2;seoul,age:22-45
+secret;a plusieurs conversations parallèles sur les applications de rencontre;1;;1;seoul,age:22-45
+secret;envoie une part de son salaire à ses parents sans le dire;1;;1;seoul,actif
+loisir;karaoké (noraebang) entre amis;2;E+;;seoul
+loisir;cafés à thème et expositions;2;O+;;seoul
+loisir;randonnée sur les montagnes autour de Séoul (Bukhansan, Inwangsan);2;;;seoul
+loisir;jeux vidéo dans un PC bang;2;;;seoul
+loisir;bains publics (jjimjilbang) le week-end;1;;;seoul
+objectif;faire grandir une petite entreprise d'énergie solaire (contrats nouveaux);3;C+;;bresil,actif,age:25-60
+objectif;obtenir un financement bancaire pour un projet;2;;;bresil,actif
+objectif;partir travailler en Europe ou aux États-Unis;2;O+;;bresil,age:22-45
+objectif;acheter un logement;2;;;bresil,age:25-50
+souci;taux d'intérêt élevé qui renchérit tous les prêts;3;;;bresil
+souci;inflation et taux de change réal/euro;2;;;bresil
+souci;lenteur des licences et des raccordements au réseau électrique;3;;;bresil,actif
+souci;sécurité de la famille dans la grande ville;2;N+;;bresil
+secret;a des dettes personnelles qu'il cache à ses associés;1;;2;bresil,actif
+secret;a un second emploi non déclaré à son employeur;1;;1;bresil,actif
+secret;a promis les mêmes contacts à plusieurs partenaires;1;;1;bresil,actif,age:25-60
+secret;a une relation en dehors de son couple;1;;2;bresil,en_couple
+loisir;churrasco en famille le dimanche;2;E+;;bresil
+loisir;plage, forró et sorties entre amis;2;E+;;bresil

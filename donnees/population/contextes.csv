@@ -15,3 +15,8 @@ sante;audun;30;48;67;0.55;vous;Audun-le-Tiche ou Esch;médecin, pharmacien, kin�
 appli_rencontre_manille;manille;18;27;40;1.0;tu;Metro Manila;profil d'application de rencontre à Manille (femmes adultes, 18 ans au moins : majorité aux Philippines, RA 6809 · F058 · garde absolue : jamais moins de 18 ans) · avant : 21 ans au moins (marge de sécurité ajoutée par le moteur) → maintenant : 18 ans, demande de l'utilisateur du 12/10/2026
 rencontre_manille;manille;18;29;45;0.5;vous;Metro Manila;rencontre adulte à Manille (bar, café, rue, événement) · 18 ans au moins (majorité, F058) · avant : 21 ans au moins → maintenant : 18 ans, demande de l'utilisateur du 12/10/2026
 commerce_manille;manille;18;32;60;0.6;vous;Metro Manila;personnel d'hôtel, de commerce, de transport à Manille
+appli_rencontre_seoul;seoul;20;28;40;1.0;tu;Séoul;profil d'application de rencontre à Séoul (femmes adultes) · majorité coréenne = 19 ans (Code civil), mais la loi de protection de la jeunesse compte parfois en année civile : 20 ans au moins retenus (F087)
+rencontre_seoul;seoul;20;29;45;0.5;vous;Séoul;rencontre adulte à Séoul (café, bar, rue, événement) · 20 ans au moins (même règle, F087)
+commerce_seoul;seoul;19;34;60;0.55;vous;Séoul;personnel d'hôtel, de commerce, de transport à Séoul (19 ans au moins, F087)
+voisin_officetel;seoul;19;31;65;0.5;vous;Séoul (Mapo-gu);voisins et gardiens de l'immeuble de William à Séoul (19 ans au moins, F087)
+business_bresil;bresil;25;42;62;0.25;vous;Brésil (Minas Gerais, São Paulo, Ceará);contacts d'affaires brésiliens (énergie solaire, finance)

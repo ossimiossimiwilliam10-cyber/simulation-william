@@ -118,6 +118,8 @@ def main():
     e.lancer(o + "personnage.py", "nouveau", "--contexte", "eleve_lycee", "--role", "élève de 3e", "--age", "14-15",
              contient="MINEUR")
     e.lancer(o + "personnage.py", "liste", contient="MINEUR")
+    e.lancer(o + "personnage.py", "nouveau", "--contexte", "rencontre_seoul", "--role", "rencontre à Séoul", "--sexe", "F",
+             "--simule", contient="Séoul", nom="personnage.py : contexte de Séoul (âge de 20 ans au moins)")
     noms = [l.split(";")[1] for l in (copie / "etat" / "personnages.csv").read_text(encoding="utf-8").splitlines()[1:] if l.strip()]
     adulte, mineur = noms[-2], noms[-1]  # les deux personnages que l'essai vient de créer (le registre n'est plus vide)
     e.lancer(o + "jet.py", "--table", "T1", "--pour", mineur, "essai sur un mineur", attendu=1, contient="REFUSÉ",

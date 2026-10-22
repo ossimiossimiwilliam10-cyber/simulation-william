@@ -10,6 +10,7 @@ personnalité (cinq grands traits), attachement, défauts, qualité, contradicti
     python outils/personnage.py nouveau --contexte eleve_lycee --role "élève de 2e" --simule        # essai, rien n'est écrit
     python outils/personnage.py promouvoir "Rui Ferreira"         # un figurant devient récurrent (fiche + vie propre)
     python outils/personnage.py liste [--statut pre_genere] | voir "Nom" | audit | contextes
+    python outils/personnage.py completer "Nom" [--zone seoul] [--celibataire] [--simule]   # tire ce qui manque à un personnage écrit à la main
     python outils/personnage.py reseau --plan donnees/population/reseau-william.csv [--simule]   # entourage existant, en coulisse
     python outils/personnage.py apparait "Nom" --scene "salle des profs, 17/09"   # un pré-généré entre en scène (→ figurant)
 
@@ -61,7 +62,17 @@ METIERS_MANILLE = [("employée ou employé de centre d'appels", 14), ("vendeur o
                    ("serveur ou serveuse", 7), ("comptable", 5), ("étudiant(e)", 6), ("développeur ou développeuse, informatique", 4),
                    ("travailleur ou travailleuse indépendante (en ligne)", 6), ("aide-soignant(e)", 4), ("chauffeur (VTC, jeepney)", 6),
                    ("sans emploi", 8), ("employé(e) d'hôtel", 5), ("ouvrier ou ouvrière", 4)]
-LOCALES = {"audun": ("française",), "manille": ("philippine",)}  # nationalités « d'ici » par zone (défaut : Luxembourg)
+METIERS_SEOUL = [("employé(e) de bureau (grande entreprise)", 18), ("étudiant(e)", 10), ("serveur ou serveuse, barista", 8),
+                 ("vendeur ou vendeuse en grand magasin ou boutique", 9), ("ingénieur(e) ou développeur(se), informatique", 9),
+                 ("fonctionnaire ou employé(e) d'administration", 6), ("enseignant(e) (collège, lycée ou hagwon)", 6),
+                 ("infirmier(ère) ou aide-soignant(e)", 5), ("travailleur(se) indépendant(e) (design, contenu en ligne)", 8),
+                 ("chauffeur (taxi, livraison)", 6), ("sans emploi", 5), ("cadre d'entreprise", 6), ("employé(e) d'hôtel ou de restauration", 4)]
+METIERS_BRESIL = [("ingénieur(e) ou technicien(ne) (énergie, industrie)", 10), ("employé(e) de bureau ou de banque", 14),
+                  ("commerçant(e) ou vendeur(se)", 14), ("entrepreneur(se) ou indépendant(e)", 12), ("enseignant(e)", 8),
+                  ("comptable ou conseiller(ère) financier(ère)", 8), ("infirmier(ère) ou aide-soignant(e)", 6),
+                  ("chauffeur (VTC, camion, livraison)", 8), ("agent immobilier ou courtier", 4), ("sans emploi", 7),
+                  ("étudiant(e)", 6), ("fonctionnaire", 3)]
+LOCALES = {"audun": ("française",), "manille": ("philippine",), "seoul": ("sud-coréenne",), "bresil": ("brésilienne",)}  # nationalités « d'ici » par zone (défaut : Luxembourg)
 ROLES_F = ("directrice", "voisine", "boulangère", "vendeuse", "serveuse", "infirmière", "caissière", "coiffeuse", "banquière",
            "conseillère", "professeure", "entraîneuse", "avocate", "policière", "pharmacienne", "secrétaire générale", "mère",
            "sœur", "tante", "cousine", "fille", "épouse", "femme", "patronne", "gérante", "élève (fille)", "collègue (femme)")
@@ -140,7 +151,7 @@ def cohorte(annee):
 
 def tirer_prenom(rng, origine, sexe, annee, zone):
     prenoms = table("prenoms.csv")
-    hote = {"audun": "fr", "manille": "ph"}.get(zone, "lu")
+    hote = {"audun": "fr", "manille": "ph", "seoul": "kr", "bresil": "br"}.get(zone, "lu")
     if origine not in (hote, "lu", "fr") and rng.random() < 0.25:
         origine = hote  # descendants : prénom du pays d'accueil
     voulu = cohorte(annee)
@@ -199,10 +210,12 @@ def situation(a, metier, foyer, nationalite, zone):
     return {"age": a, "retraite": retraite, "sans_emploi": sans_emploi, "actif": not (retraite or sans_emploi or etudiant),
             "en_couple": en_couple, "seul": not en_couple, "veuf": "veuf" in f,
             "parent": any(x in f for x in ("avec enfants", "enfants en bas âge", "parent isolé")),
-            "immigre": not any(nat.startswith(x) for x in locales + ("luxembourgeoise",) if zone not in ("manille",) or x == "philippine"),
+            "immigre": not any(nat.startswith(x) for x in locales + ("luxembourgeoise",)
+                             if zone not in ("manille", "seoul", "bresil") or x in LOCALES.get(zone, ())),
             "non_lu": not nat.startswith("luxembourgeoise"),
             "reside_lu": zone in ("luxembourg_ville", "esch", "lycee", "club_mma"),
-            "europe": zone != "manille", "manille": zone == "manille"}
+            "europe": zone not in ("manille", "seoul", "bresil"), "manille": zone == "manille",
+            "seoul": zone == "seoul", "bresil": zone == "bresil"}
 
 
 def convient(condition, s):
@@ -299,7 +312,8 @@ def tirer_metier(rng, ctx, role, a):
     if a >= 65:
         return "retraité(e)", ""
     # pas de retraité avant 58 ans (départs anticipés pour carrière longue au plus tôt), pas d'étudiant après 30 ans (12/10/2026)
-    liste = [(m, p) for m, p in (METIERS_AUDUN if ctx["zone"] == "audun" else METIERS_MANILLE if ctx["zone"] == "manille" else METIERS_REGION)
+    liste = [(m, p) for m, p in (METIERS_AUDUN if ctx["zone"] == "audun" else METIERS_MANILLE if ctx["zone"] == "manille" else METIERS_SEOUL if ctx["zone"] == "seoul"
+             else METIERS_BRESIL if ctx["zone"] == "bresil" else METIERS_REGION)
              if not (("retraité" in m and a < 58) or ("étudiant" in m and a >= 30))]
     return pondere(rng, liste), ""
 
@@ -382,10 +396,10 @@ def tirer(contexte, role, sexe=None, ages=None, rng=None, existants=(), foyers=N
     mineur = a < 18
     defauts = catalogue(rng, "defaut", traits, 2)
     qualite = catalogue(rng, "qualite", traits, 1)
-    contradiction = catalogue(rng, "contradiction", traits, 1) if (not mineur and rng.random() < 0.5) else []
     foyer = pondere(rng, foyers) if foyers else tirer_foyer(rng, a)  # foyers : distribution propre au contexte (ex. application de rencontre)
     metier, employeur = tirer_metier(rng, ctx, role, a)
     s = situation(a, metier, foyer, nat, zone)
+    contradiction = catalogue(rng, "contradiction", traits, 1, situation_=s) if (not mineur and rng.random() < 0.5) else []
     if mineur:
         objectif, souci, secret, grav = [rng.choice(OBJECTIFS_MINEUR)], [rng.choice(SOUCIS_MINEUR)], [], 0
     else:
@@ -393,7 +407,7 @@ def tirer(contexte, role, sexe=None, ages=None, rng=None, existants=(), foyers=N
         souci = catalogue(rng, "souci", traits, 1, situation_=s)
         secret = catalogue(rng, "secret", traits, 1, situation_=s)
         grav = gravite(secret[0]) if secret else 0
-    loisirs = catalogue(rng, "loisir", traits, 1 + (rng.random() < 0.5))
+    loisirs = catalogue(rng, "loisir", traits, 1 + (rng.random() < 0.5), situation_=s)
     oubli = max(0.03, min(0.30, 0.12 - (traits["C"] - 50) * 0.004))
     lang = {l["origine"]: l for l in table("langues.csv")}.get(origine, {})
     taille, corpulence, signes = physique(rng, origine, sexe, ctx, a)
@@ -666,6 +680,85 @@ def cmd_promouvoir(args):
     return 0
 
 
+def maj_vie_propre(p, foyer):
+    """Remplit le bloc « vie propre » d'un personnage écrit à la main (champs vides) ; sinon ajoute un bloc."""
+    texte = lire_texte(VIES).replace("\r\n", "\n")
+    m = re.search(rf"(### {re.escape(p['nom'])} \([^\n]*\n)(.*?)(?=\n### |\n## |\Z)", texte, re.S)
+    if not m:
+        ecrire_vie_propre(p)
+        return
+    corps = m.group(2)
+    corps = corps.replace("- **Objectif** : — ; **souci** : — ; **foyer** : —",
+                          f"- **Objectif** : {' ; '.join(p['objectif'])} ; **souci** : {' ; '.join(p['souci'])} ; **foyer** : {foyer}")
+    corps = corps.replace("- **Secret (moteur seulement)** : —",
+                          f"- **Secret (moteur seulement)** : {p['secret'][0] + ' (tiré le 22/10/2026)' if p['secret'] else 'aucun'}")
+    ecrire_texte(VIES, texte[:m.start(2)] + corps + texte[m.end(2):])
+
+
+def cmd_completer(args):
+    """Complète un personnage écrit à la main (sans défauts, secret, souci ni objectif tirés) : tire seulement ce qui manque,
+    d'après sa zone, son âge, son métier et ses traits déjà écrits ; ne modifie rien de ce qui a été joué (22/10/2026, U3-2)."""
+    lignes = lire()
+    l = trouver(args.nom)
+    cible = next(x for x in lignes if x["id"] == l["id"])
+    if "complété le" in cible["notes"]:
+        print(f"{cible['nom']} a déjà été complété : le tirage est définitif.")
+        return 0
+    ctx = contextes().get(cible["contexte"])
+    zone = args.zone or (ctx["zone"] if ctx else None)
+    if zone not in {z["zone"] for z in table("zones.csv")}:
+        sys.exit("Zone inconnue ou absente : préciser --zone (seoul, bresil, manille, audun…).")
+    a = age(cible["naissance"], aujourd_hui())
+    if a < 18:
+        sys.exit(f"{cible['nom']} a moins de 18 ans : aucun tirage relationnel.")
+    traits = {k: int(v) for k, v in re.findall(r"([OCEAN])(\d+)", cible["traits"])}
+    if len(traits) < 5:
+        sys.exit("Traits (Big Five) absents du registre : à écrire avant de compléter.")
+    rng = random.SystemRandom()
+    foyer = (pondere(rng, [("vit seul(e)", 55), ("en colocation", 25), ("vit chez ses parents", 20 if a < 30 else 0)])
+             if args.celibataire else tirer_foyer(rng, a))
+    s = situation(a, cible["metier"], foyer, cible["nationalite"], zone)
+    p = {"nom": cible["nom"], "role": cible["role"], "contexte": cible["contexte"], "age": a, "mineur": False, "zone": zone,
+         "traits": traits, "foyer": foyer,
+         "attachement": pondere(rng, [("sécure", 56), ("évitant", 25), ("anxieux", 19)]),
+         "defauts": catalogue(rng, "defaut", traits, 2), "qualite": catalogue(rng, "qualite", traits, 1),
+         "contradiction": catalogue(rng, "contradiction", traits, 1, situation_=s) if rng.random() < 0.5 else [],
+         "objectif": catalogue(rng, "objectif", traits, 1, situation_=s), "souci": catalogue(rng, "souci", traits, 1, situation_=s),
+         "secret": catalogue(rng, "secret", traits, 1, situation_=s),
+         "loisirs": catalogue(rng, "loisir", traits, 1 + (rng.random() < 0.5), situation_=s),
+         "oubli": max(0.03, min(0.30, 0.12 - (traits["C"] - 50) * 0.004))}
+    p["gravite_secret"] = gravite(p["secret"][0]) if p["secret"] else 0
+    secret = f"{p['secret'][0]} (gravité {p['gravite_secret']})" if p["secret"] else "aucun"
+    print(f"{p['nom']} ({a} ans, zone {zone}) : foyer {foyer} ; attachement {p['attachement']} ; défauts {' / '.join(p['defauts'])} ; "
+          f"qualité {' / '.join(p['qualite'])} ; contradiction {p['contradiction'][0] if p['contradiction'] else 'aucune'}\n"
+          f"  objectif {' / '.join(p['objectif'])} ; souci {' / '.join(p['souci'])} ; loisirs {' / '.join(p['loisirs'])} ; "
+          f"secret {secret} ; oubli {round(p['oubli'] * 100)} %")
+    if args.simule:
+        print("(essai : rien n'est écrit)")
+        return 0
+    cible["traits"] = (cible["traits"] + f" · attachement {p['attachement']} · défauts : {' / '.join(p['defauts'])} · qualité : "
+                       f"{' / '.join(p['qualite'])} · oubli {round(p['oubli'] * 100)} %").replace(";", ",")
+    cible["notes"] = (cible["notes"] + f" · complété le {aujourd_hui():%d/%m/%Y} (tirage, audit U3-2) : foyer : {foyer} · objectif : "
+                      f"{' / '.join(p['objectif'])} · souci : {' / '.join(p['souci'])} · loisirs : {' / '.join(p['loisirs'])} · secret : "
+                      f"{secret} · contradiction : {p['contradiction'][0] if p['contradiction'] else 'aucune'}").replace(";", ",")
+    ecrire_csv(REGISTRE, lignes, COLONNES)
+    if cible["fiche"] and (RACINE / cible["fiche"]).exists():
+        ajouter_texte(RACINE / cible["fiche"], f"""
+## Complément tiré le {aujourd_hui():%d/%m/%Y} (audit U3-2)
+> Tirage du générateur pour un personnage écrit à la main : il complète la fiche sans modifier ce qui a été joué. Définitif.
+- Foyer : {foyer}.
+- Attachement : {p['attachement']}. Défauts : {' ; '.join(p['defauts'])}. Qualité : {' ; '.join(p['qualite'])}.{' Contradiction : ' + p['contradiction'][0] + '.' if p['contradiction'] else ''}
+- Fiabilité : environ {round(p['oubli'] * 100)} % de risque d'oubli ou d'annulation d'un rendez-vous ou d'une promesse.
+- Objectif du moment : {' ; '.join(p['objectif'])}. Souci en cours : {' ; '.join(p['souci'])}. Loisirs : {' ; '.join(p['loisirs'])}.
+- Secret : {secret} (fait caché ; ne ressort que par un tirage ou une révélation consignée dans etat/savoir.csv).
+""")
+    maj_vie_propre(p, foyer)
+    ecrire_secret(p)
+    consigner(p, "complete")
+    print("Écrit : etat/personnages.csv ; fiche ; etat/vies-propres.md ; etat/savoir.csv (secret)")
+    return 0
+
+
 def cmd_liste(args):
     jour = aujourd_hui()
     for l in lire():
@@ -739,6 +832,12 @@ def main():
     p = sp.add_parser("promouvoir")
     p.add_argument("nom")
     p.set_defaults(f=cmd_promouvoir)
+    p = sp.add_parser("completer")
+    p.add_argument("nom")
+    p.add_argument("--zone", help="seoul, bresil, manille, audun… (sinon : celle du contexte du personnage)")
+    p.add_argument("--celibataire", action="store_true", help="foyer sans conjoint ni enfants")
+    p.add_argument("--simule", action="store_true")
+    p.set_defaults(f=cmd_completer)
     p = sp.add_parser("liste")
     p.add_argument("--statut", help="pre_genere, figurant ou recurrent")
     p.set_defaults(f=cmd_liste)

@@ -57,3 +57,7 @@ club_mma;balkans;4;0.3;estimation du moteur
 club_mma;autres;3;0.1;estimation du moteur
 manille;ph;97;0;PSA (recensement 2020 : Metro Manila, population très majoritairement philippine) · estimation
 manille;autres;3;0;estimation du moteur (expatriés, étudiants, personnes de passage)
+seoul;kr;96;0;KOSIS (recensement 2020 : résidents étrangers ≈ 4 % de la population de Séoul) · estimation du moteur
+seoul;autres;4;0;estimation du moteur (étudiants d'échange, expatriés, touristes de longue durée)
+bresil;br;96;0;IBGE (recensement 2022) · estimation du moteur
+bresil;autres;4;0;estimation du moteur (descendants d'immigrés, expatriés)

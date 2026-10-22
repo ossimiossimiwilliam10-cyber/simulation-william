@@ -31,3 +31,11 @@
 - **17/07/2041** : Échange sur Instagram, partage de ses clichés en terrasse à Seongsu, proposition de visite guidée barbecue coréen.
 - **18/07/2041 (midi)** : William lui annonce son arrivée à Séoul pour le lundi 22 juillet. Min-ji accuse réception avec surprise et excitation (*« Wait, for real?! Next Monday?! 😲 »*), consulte son planning freelance pour lui caler des créneaux.
 - **18/07/2041 (soir)** : William lui répond que c'est parfait et qu'il attendra son retour avec plaisir.
+
+## Complément tiré le 20/07/2041 (audit U3-2)
+> Tirage du générateur pour un personnage écrit à la main : il complète la fiche sans modifier ce qui a été joué. Définitif.
+- Foyer : vit seul(e).
+- Attachement : sécure. Défauts : méfiant, voit des arrière-pensées partout ; toujours sur son téléphone, même en pleine conversation. Qualité : parle quatre langues sans effort.
+- Fiabilité : environ 10 % de risque d'oubli ou d'annulation d'un rendez-vous ou d'une promesse.
+- Objectif du moment : voyager loin une fois dans sa vie. Souci en cours : loyer qui augmente. Loisirs : danse (kizomba, salsa) ; football (match du dimanche, club amateur).
+- Secret : se renseigne pour partir s'installer ailleurs (gravité 1) (fait caché ; ne ressort que par un tirage ou une révélation consignée dans etat/savoir.csv).

@@ -4,6 +4,12 @@ serveur_soir;serveu|barman|barmaid|plongeu;manille;6/7;15:00-23:00;90;01:00-09:0
 infirmier_soir;infirmi|aide-soignant;manille;5/7;15:00-23:00;45;01:00-08:30;;Trois postes de huit heures dans les hôpitaux philippins (7-15, 15-23, 23-7) · poste du soir retenu par défaut (estimation);
 commerce_manille;vendeu|caissi|commerce|commerçant|magasin;manille;6/7;10:00-19:00;60;23:30-07:00;;Centres commerciaux de Manille ouverts de 10 h à 21 h ou 22 h (estimation);
 hotel_manille;hôtel|réception|concierge|femme de chambre;manille;6/7;07:00-15:00;60;22:30-06:00;;Postes tournants de l'hôtellerie (estimation);
+bureau_seoul;employé|cadre|banque|comptable|ingénieur|développeu|informati|fonctionnaire|administration;seoul;lun,mar,mer,jeu,ven;09:00-19:00;55;00:30-07:00;;Bureaux de Séoul : journées longues, dîners d'équipe fréquents (estimation du moteur, 22/10/2026);
+service_seoul;serveu|barista|restaura|café|plongeu|hôtel|réception;seoul;6/7;11:00-22:00;40;00:30-08:30;;Service en café, restaurant et hôtel à Séoul (estimation);
+vente_seoul;vendeu|caissi|commerce|boutique|magasin;seoul;6/7;10:30-20:30;40;00:30-08:00;;Commerces et grands magasins de Séoul ouverts jusqu'à 20 h ou 22 h (estimation);
+independant_seoul;indépendant|freelance|graphiste|illustrat|design|créateur|contenu;seoul;lun,mar,mer,jeu,ven;11:00-20:00;20;01:30-09:30;;Travail indépendant numérique à Séoul : horaires décalés, café ou tiers-lieu (estimation);
+enseignant_seoul;enseignant|professeur|hagwon;seoul;lun,mar,mer,jeu,ven;08:30-17:30;40;00:00-07:00;;Enseignement à Séoul (hagwon : parfois jusqu'à 22 h · estimation);
+etudiant_seoul;étudiant|étudiante|élève;seoul;lun,mar,mer,jeu,ven;10:00-17:00;35;01:00-08:30;oui;Université coréenne : cours en semaine, vacances d'été de fin juin à fin août (estimation, donnees/calendrier-scolaire.csv);
 chauffeur;chauffeur|conducteur|taxi|livreu;*;6/7;06:00-18:00;20;22:00-05:00;;Journées longues des chauffeurs et livreurs (estimation);
 etudiant;étudiant|étudiante|élève|doctorant;*;lun,mar,mer,jeu,ven;09:00-17:00;30;00:30-08:30;oui;Cours en semaine · libres pendant les vacances scolaires et universitaires (estimation);
 enseignant;enseignant|professeur|instituteur|institutrice;luxembourg;lun,mar,mer,jeu,ven;08:00-16:00;45;23:00-06:30;oui;Lycées luxembourgeois : cours de 8 h à 16 h environ · libres pendant les vacances scolaires (F001);

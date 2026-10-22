@@ -32,35 +32,35 @@
 
 ### Min-ji (match Meeff Séoul)
 - **Lien avec William** : aucun (whatsapp)
-- **Objectif** : — ; **souci** : — ; **foyer** : —
-- **Secret (moteur seulement)** : —
-- **Horaires** : règle « bureau », fuseau luxembourg, décalage -8 min ; travail 08:52-17:22 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:22-06:52
+- **Objectif** : voyager loin une fois dans sa vie ; **souci** : loyer qui augmente ; **foyer** : vit seul(e)
+- **Secret (moteur seulement)** : se renseigne pour partir s'installer ailleurs (gravité 1)
+- **Horaires** : règle « independant_seoul », fuseau seoul, décalage -8 min ; travail 10:52-19:52 (lun, mar, mer, jeu, ven), trajet 20 min ; sommeil 01:22-09:22
 - **Derniers événements** : —
 
 ### Soo-jin (match Tinder Séoul)
 - **Lien avec William** : aucun (whatsapp)
-- **Objectif** : — ; **souci** : — ; **foyer** : —
-- **Secret (moteur seulement)** : —
-- **Horaires** : règle « bureau », fuseau luxembourg, décalage -20 min ; travail 08:40-17:10 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:10-06:40
+- **Objectif** : maigrir ou reprendre le sport ; **souci** : fin de mois difficile, découvert bancaire ; **foyer** : en colocation
+- **Secret (moteur seulement)** : a une condamnation ancienne (conduite en état d'ivresse) (gravité 2)
+- **Horaires** : règle « bureau_seoul », fuseau seoul, décalage -20 min ; travail 08:40-18:40 (lun, mar, mer, jeu, ven), trajet 55 min ; sommeil 00:10-06:40
 - **Derniers événements** : —
 
 ### Hye-won (match Meeff Séoul)
 - **Lien avec William** : aucun (whatsapp)
-- **Objectif** : — ; **souci** : — ; **foyer** : —
-- **Secret (moteur seulement)** : —
-- **Horaires** : règle « etudiant », fuseau luxembourg, décalage +9 min ; travail 09:09-17:09 (lun, mar, mer, jeu, ven), trajet 30 min ; sommeil 00:39-08:39
+- **Objectif** : réussir le concours de la fonction publique ou un examen de certification ; **souci** : solitude depuis un déménagement ; **foyer** : vit chez ses parents
+- **Secret (moteur seulement)** : doit de l'argent à un proche (gravité 1)
+- **Horaires** : règle « etudiant_seoul », fuseau seoul, décalage +9 min ; travail 10:09-17:09 (lun, mar, mer, jeu, ven), trajet 35 min ; sommeil 01:09-08:39
 - **Derniers événements** : —
 
 ### Thiago Rocha (contact LinkedIn)
 - **Lien avec William** : aucun (whatsapp)
-- **Objectif** : — ; **souci** : — ; **foyer** : —
-- **Secret (moteur seulement)** : —
-- **Horaires** : règle « bureau », fuseau luxembourg, décalage +20 min ; travail 09:20-17:50 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:50-07:20
+- **Objectif** : acheter un logement (ou un plus grand) ; **souci** : mal de dos chronique ; **foyer** : en couple, sans enfant
+- **Secret (moteur seulement)** : vote pour un parti qu'il n'avoue pas (gravité 1)
+- **Horaires** : règle « bureau », fuseau bresil, décalage +20 min ; travail 09:20-17:50 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:50-07:20
 - **Derniers événements** : —
 
 ### Lucas Mendes (contact LinkedIn)
 - **Lien avec William** : aucun (whatsapp)
-- **Objectif** : — ; **souci** : — ; **foyer** : —
-- **Secret (moteur seulement)** : —
-- **Horaires** : règle « bureau », fuseau luxembourg, décalage -3 min ; travail 08:57-17:27 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:27-06:57
+- **Objectif** : obtenir une promotion ou un poste plus stable ; **souci** : lenteur des licences et des raccordements au réseau électrique ; **foyer** : en couple, sans enfant
+- **Secret (moteur seulement)** : prend des antidépresseurs (gravité 1)
+- **Horaires** : règle « bureau », fuseau bresil, décalage -3 min ; travail 08:57-17:27 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:27-06:57
 - **Derniers événements** : —

@@ -130,3 +130,6 @@
 86. **Durées de route inventées** (22/10/2026) : « Audun-le-Tiche – gare Lorraine TGV en 30 minutes » (réel : environ 1 h 10, 85 km).
     Tout trajet annoncé au joueur (route, train, avion) se calcule : distance réelle, bouchons de l'A31, marge d'enregistrement ; pas de
     durée « ronde » écrite de mémoire. Les trajets des transports en commun passent par `outils/transports.py`.
+87. **Fuseau et routines par défaut = Luxembourg** (22/10/2026) : un personnage de Séoul ou du Brésil sans contexte « …_seoul » ou
+    « …_bresil » reçoit des horaires de vie en heure de Luxembourg, donc des heures de réponse fausses de sept ou cinq heures. Tout
+    personnage lointain est rattaché à une zone de `donnees/population/zones.csv` ; `routines.py voir` le vérifie.

@@ -9,7 +9,7 @@ dort, travaille ou conduit ne répond pas avant d'être libre (fini les heures c
 
 États : sommeil, travail, trajet, libre. Un personnage est JOIGNABLE quand il est libre ou en trajet (il lit et répond sur son
 téléphone) ; le travail et le sommeil retardent une réponse jusqu'à la fin de la plage.
-Fuseau d'un personnage : contexte « …_manille » → Manille ; sinon Luxembourg (Audun-le-Tiche et Esch sont dans le même fuseau).
+Fuseau d'un personnage : contexte « …_manille » → Manille, « …_seoul » → Séoul, « …_bresil » → Brésil (22/10/2026) ; sinon Luxembourg (Audun-le-Tiche et Esch sont dans le même fuseau).
 """
 import argparse
 import datetime as dt
@@ -41,7 +41,11 @@ def personnage(nom):
 
 
 def zone_de(p):
-    return "manille" if (p.get("contexte") or "").endswith("_manille") else "luxembourg"
+    c = p.get("contexte") or ""
+    for suffixe, z in (("_manille", "manille"), ("_seoul", "seoul"), ("_bresil", "bresil")):
+        if c.endswith(suffixe):
+            return z
+    return "luxembourg"
 
 
 def _h(texte):
@@ -94,7 +98,7 @@ def _dans(m, plage):
 def en_vacances(p, jour):
     """Vacances scolaires (pays du personnage) pour les élèves, étudiants et enseignants."""
     import calendrier_2040 as cal
-    pays = "ph" if zone_de(p) == "manille" else "lu"
+    pays = {"manille": "ph", "seoul": "kr", "bresil": "br"}.get(zone_de(p), "lu")
     for l in cal.lire_donnees("calendrier-scolaire.csv"):
         if l.get("pays") == pays and l["periode"].startswith(("vacances", "conge")) and l["debut"] <= jour.isoformat() <= l["fin"]:
             return True
