@@ -123,3 +123,10 @@
     S-Net non établie (jet de friction à 30 %).
 84. **`sed -i` sous Git Bash convertit les fins de ligne CRLF en LF** (12/10/2026, `etat/traces.md`) : modifier les fichiers de la
     simulation avec l'outil d'édition ou un script Python qui écrit en binaire, puis contrôler (`file` doit dire « CRLF »).
+85. **Sauter les outils d'état pour raconter vite** (22/10/2026, audit de l'univers 3 joué par Gemini) : achats payés sans `cartes.py`
+    (plafond de la Visa Debit dépassé, relevé différé ignoré), personnages écrits à la main sans `personnage.py` (aucun défaut ni
+    secret, tous très favorables à William), « qui sait quoi » vide après neuf tours. Un tour qui écrit au grand livre sans passer par
+    la carte, ou qui crée un personnage sans le générateur, est à reprendre : lancer l'outil d'abord, écrire la scène ensuite.
+86. **Durées de route inventées** (22/10/2026) : « Audun-le-Tiche – gare Lorraine TGV en 30 minutes » (réel : environ 1 h 10, 85 km).
+    Tout trajet annoncé au joueur (route, train, avion) se calcule : distance réelle, bouchons de l'A31, marge d'enregistrement ; pas de
+    durée « ronde » écrite de mémoire. Les trajets des transports en commun passent par `outils/transports.py`.

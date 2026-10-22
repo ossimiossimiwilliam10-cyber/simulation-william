@@ -7,6 +7,8 @@
 > Avant de jouer, lis aussi : `etat/`, `personnes/`, `memoire/`, `whatsapp/`, `courriels/` et `documents_william/` (listes) et
 > les deux derniers fichiers de `journal/`. **Si le moteur a changé depuis la dernière session, applique
 > d'abord le §10 (protocole de relais).**
+> **UNIVERS 3 depuis le 21/10/2026 (date réelle)** : reboot demandé par l'utilisateur (William à 36 ans, départ le 16/07/2041 ; voir §9).
+> Les règles ci-dessous valent pour tous les univers ; les dates citées en 2040 sont des exemples historiques de l'univers 2.
 > **UNIVERS 2 depuis le 11/10/2026 (date réelle)** : la simulation a été redémarrée à la demande de l'utilisateur (univers neuf à
 > 35 ans, argent initial, tous les paramètres repris ; voir §9). L'univers 1 (Abidjan, OSIA, du 17/07 au 11/08/2040) est archivé
 > dans `archives/univers-1/` : n'en tirer **aucun fait** pour l'univers 2 (seulement les leçons de `memoire/pieges-connus.md` et
@@ -201,13 +203,15 @@ Langue : **français**.
 > heure de Lisbonne), tags git `univers-1-master` et `univers-1-continuation` (suite jouée dans une autre session jusqu'au
 > samedi 11/08/2040, 13h27, jamais fusionnée), `archives/univers-1/session-outils/` (session des outils du 09/10/2026).
 > Objectif inchangé : établir un profil précis sur environ une année simulée ; « mode entraînement » disponible sur demande.
+> **UNIVERS 3 — depuis le 21/10/2026 (date réelle)** : reboot demandé par l'utilisateur après l'univers 2 (Manille), joué d'abord par Gemini
+> (Antigravity), repris par Claude le 22/10/2026. William a 36 ans, enseigne les mathématiques (titularisé à 28 ans, classe U),
+> départ le mardi 16/07/2041 à 08h37 (9 320 € nets par mois, patrimoine net 853 008 €, ETF 670 380 €, épargne 75 250 €, courant 10 000 €).
+> Voyage en Corée du Sud du 22/07 au 02/09/2041 (Séoul, Yeonnam-dong). L'univers 2 reste sur sa branche (tour n° 28) et dans `archives/univers-2/`.
+**Samedi 20 juillet 2041, 21h00 — Audun-le-Tiche (Moselle), chez William : tour n° 9 joué (séance de 2 h au Minett Combat Club, achats de voyage à Belval Plaza, officetel de Yeonnam-dong réservé avec l'aide de Hye-won, maison sécurisée, bagages bouclés) ; audit d'entrée de Claude du 22/10/2026 (`etat/corrections.md` U3-0 à U3-6 : cartes régularisées, trajet vers Lorraine TGV à corriger, personnages coréens à compléter) ; en attente : **le départ de dimanche 21/07 (Lorraine TGV, vol KE902 Paris–Séoul à 13h20)**.** (Entrées des tours n° 5 à 8 non écrites ici : voir `journal/tours/` et `git log`.)
 **Mercredi 17 juillet 2041, 18h30 — Audun-le-Tiche (Moselle), chez William : tour n° 4 joué (William propose une visio à Thiago Rocha et Lucas Mendes (solaire Brésil), échange avec Min-ji et Hye-won (WhatsApp), reçoit la proposition de visio de Thiago pour jeudi/vendredi et passe une journée de repos chez lui) ; en attente : **Validation du créneau visio Brésil avec Thiago Rocha et suite des échanges avec Hye-won et Min-ji**.**
 **Mercredi 17 juillet 2041, 08h00 — Audun-le-Tiche (Moselle), chez William : tour n° 3 joué (William prospecte en anglais sur le solaire au Brésil (LinkedIn, Reddit, Facebook), crée ses profils de rencontre coréens (Meeff, Tinder Séoul) et découvre les premiers retours à son réveil le 17/07 à 08h00) ; en attente : **Choix des relances sur le solaire au Brésil et réponses sur Meeff / Tinder Séoul**.**
 **Mardi 16 juillet 2041, 18h30 — Audun-le-Tiche (Moselle), chez William : tour n° 2 joué (William étudie par IA les opportunités d'investissement (Côte d'Ivoire, Brésil, Philippines), valide le cadrage Art. 14 (associé passif), s'entraîne 2 h au Minett Combat Club et rentre à Audun) ; en attente : **Orientation du projet d'entreprise et programme des prochains jours**.**
 **Mardi 16 juillet 2041, 08h37 — Audun-le-Tiche (Moselle), chez William : tour n° 1 joué (William se réveille chez lui à Audun-le-Tiche au tout premier jour des vacances d'été à 36 ans : 9 320 € nets/mois, 853 008 € de patrimoine net, 2 mois de vacances devant lui) ; en attente : **Premier jour des vacances d'été à 36 ans**.**
-**Jeudi 19 juillet 2040, 23h32 (heure de Manille) — aéroport Ninoy-Aquino, terminal 3, sortie des arrivées : tour n° 28 joué (message à Julia à 23h27 : « It's okay, I'm not interested anymore. Not interested at all. » ; sa réponse, tirée tardive, arrivera le samedi 21/07 à 17h46, A029, non connue ; William sort du terminal sans pesos : taxi à coupon, taxis jaunes, Grab) ; en attente : **le moyen de rejoindre l'hôtel**.**
-**Jeudi 19 juillet 2040, 23h25 (heure de Manille) — aéroport Ninoy-Aquino, terminal 3, hall des arrivées : tour n° 27 joué (mode automatique demandé par le joueur jusqu'à l'arrivée, 500 € au plus : 31,40 € dépensés ; QR 68 retardé de 78 min, correspondance de Doha manquée, QR 928, atterrissage à 22h20 ; tampon du 19/07, fin des 30 jours le 18/08 ; sac arrivé ; horloge passée au fuseau de Manille ; message de Julia reçu) ; en attente : **le message de Julia** et **le trajet jusqu'à l'hôtel**.**
-**Mercredi 18 juillet 2040, 13h08 — Aéroport de Findel, hall des départs : tour n° 26 joué (déclaration du passager signée ; sac enregistré jusqu'à Manille ; carte du LH 391 seule, cartes de Qatar Airways à retirer au comptoir de transfert de Francfort, A028 ; embarquement à 15h10) ; en attente : **ce que William fait avant l'embarquement**.**
 
 ## 10. PROTOCOLE DE RELAIS (Claude, Gemini, Codex et tout autre agent)
 L'utilisateur alterne entre Claude, Gemini (Antigravity) et d'autres agents selon ses crédits ; il exige une transition 100 %

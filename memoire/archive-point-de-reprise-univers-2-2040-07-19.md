@@ -1,0 +1,8 @@
+# Archive du point de reprise (§9) : fin de l'univers 2 (tours n° 26 à 28, 18-19/07/2040)
+
+> Entrées déplacées mot pour mot du §9 de CLAUDE.md le 22/10/2026 (audit d'entrée, correction U3-5). L'univers 2 continue sur la
+> branche `claude/luxembourg-teacher-salary-2031-101e49` (tour n° 28) ; l'univers 3 a repris la main sur `master`.
+
+**Jeudi 19 juillet 2040, 23h32 (heure de Manille) — aéroport Ninoy-Aquino, terminal 3, sortie des arrivées : tour n° 28 joué (message à Julia à 23h27 : « It's okay, I'm not interested anymore. Not interested at all. » ; sa réponse, tirée tardive, arrivera le samedi 21/07 à 17h46, A029, non connue ; William sort du terminal sans pesos : taxi à coupon, taxis jaunes, Grab) ; en attente : **le moyen de rejoindre l'hôtel**.**
+**Jeudi 19 juillet 2040, 23h25 (heure de Manille) — aéroport Ninoy-Aquino, terminal 3, hall des arrivées : tour n° 27 joué (mode automatique demandé par le joueur jusqu'à l'arrivée, 500 € au plus : 31,40 € dépensés ; QR 68 retardé de 78 min, correspondance de Doha manquée, QR 928, atterrissage à 22h20 ; tampon du 19/07, fin des 30 jours le 18/08 ; sac arrivé ; horloge passée au fuseau de Manille ; message de Julia reçu) ; en attente : **le message de Julia** et **le trajet jusqu'à l'hôtel**.**
+**Mercredi 18 juillet 2040, 13h08 — Aéroport de Findel, hall des départs : tour n° 26 joué (déclaration du passager signée ; sac enregistré jusqu'à Manille ; carte du LH 391 seule, cartes de Qatar Airways à retirer au comptoir de transfert de Francfort, A028 ; embarquement à 15h10) ; en attente : **ce que William fait avant l'embarquement**.**

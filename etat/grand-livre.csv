@@ -34,6 +34,8 @@ date;heure;compte;montant;type;libelle;reference
 2041-08-01;06:00;courant;-12.83;prevu;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20410801
 2041-09-02;06:00;courant;-12.83;prevu;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20410902
 2041-09-16;06:00;courant;-63.00;prevu;Box internet fibre et forfait mobile;E005-20410916
-2041-07-19;18:30;courant;-1680.00;mouvement;Billet d'avion A/R Paris CDG - Séoul Incheon (Korean Air, vol KE902 direct en Premium Economy, départ 21/07);VOL-ICN-204107
-2041-07-20;14:30;courant;-145.00;mouvement;Belval Plaza : achats de voyage (adaptateurs C/F, kit pharmacie/solaire, t-shirts);
-2041-07-20;18:30;courant;-2450.00;mouvement;Logement Séoul : Officetel meublé Mapo-gu Yeonnam-dong (6 sem., 22/07 au 02/09);
+2041-07-19;18:30;courant;-1680.00;retire;Billet d'avion A/R Paris CDG - Séoul Incheon (Korean Air, vol KE902 direct en Premium Economy, départ 21/07);VOL-ICN-204107
+2041-07-20;14:30;courant;-145.00;retire;Belval Plaza : achats de voyage (adaptateurs C/F, kit pharmacie/solaire, t-shirts);
+2041-07-20;18:30;courant;-2450.00;retire;Logement Séoul : Officetel meublé Mapo-gu Yeonnam-dong (6 sem., 22/07 au 02/09);
+2041-08-07;06:00;courant;-4130.00;prevu;Visa Premier : relevé clos le 30/07/2041, débit du solde (4 130,00 €);C-visa_premier-20410730
+2041-07-20;14:30;courant;-145.00;mouvement;Visa Debit : Belval Plaza (achats de voyage);K002
