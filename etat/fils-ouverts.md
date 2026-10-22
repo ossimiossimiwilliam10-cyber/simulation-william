@@ -8,11 +8,11 @@
 ## A. Décisions en attente de William
 | # | Sujet | Contexte | Échéance |
 |---|---|---|---|
-| 1 | **Voyage à Séoul (Corée du Sud)** | Séjour de 6 semaines (du 22/07 au 02/09). Billet d'avion réservé et payé (Korean Air KE902 direct, 1 680 €). Départ dimanche 21/07 à 13h20 (TGV Lorraine-CDG à 09h15). Logement : en attente des 2-3 liens d'officetels vérifiés par Hye-won à Mapo-gu (max 3 000 €). Décision : préparation de la valise et choix du logement. | dim. 21/07/2041 |
+| 1 | **Voyage à Séoul (Corée du Sud)** | Séjour de 6 semaines (du 22/07 au 02/09). Vol KE902 réservé (1 680 €). Officetel meublé réservé à Yeonnam-dong (Mapo-gu, 2 450 €). Valises bouclées. Départ dimanche 21/07 à 08h30 pour Lorraine TGV (TGV à 09h15 vers Roissy CDG). | dim. 21/07/2041 |
 | 2 | **Solaire au Brésil (Geração Distribuída)** | Visioconférence menée avec succès avec Thiago Rocha. Audit technique des 12 points validé. Thiago envoie la data room complète (SolarGIS, baux notariés, protocoles CEMIG) par courriel lundi 22/07 matin. Décision : étude des pièces à réception. | lun. 22/07/2041 |
-| 3 | **Entraînement sportif & préparation physique** | Corps pleinement reposé. Possibilité d'une séance libre de musculation ou cardio au Minett Combat Club le samedi 20/07 avant le départ pour la Corée. Fermeture annuelle du club du lundi 12/08/2041 au dimanche 25/08/2041 (agenda A003). | Ouvert |
-| 4 | **Logistique personnelle & maison** | Maison d'Audun-le-Tiche (charges à jour, voiture électrique chargée). Fermeture et sécurisation de la maison avant le départ de 6 semaines. | dim. 21/07/2041 |
-| 5 | **Rencontres coréennes (Min-ji & Hye-won)** | Min-ji a validé le premier rendez-vous barbecue coréen pour le mardi 23/07 après-midi à Seongsu (A006). Malaise financier désamorcé avec tact auprès de Hye-won, qui prospecte les logements calmes à Mapo. | Ouvert |
+| 3 | **Entraînement sportif & préparation physique** | Séance de 2 h effectuée au Minett Combat Club le samedi 20/07 matin (1 h musculation polyarticulaire + 1 h sacs de frappe et cardio). Corps affûté et détendu avant le long vol. Fermeture annuelle du club du lundi 12/08/2041 au dimanche 25/08/2041 (agenda A003). | Ouvert |
+| 4 | **Logistique personnelle & maison** | Maison d'Audun-le-Tiche entièrement sécurisée pour 6 semaines (eau coupée, chauffe-eau mode absence, VE à 50 % de charge, volets et portes verrouillés). | dim. 21/07/2041 |
+| 5 | **Rencontres coréennes (Min-ji & Hye-won)** | Hye-won prévenue de la réservation de l'officetel à Yeonnam-dong, attend le message d'atterrissage lundi 22 matin. Min-ji a validé le premier rendez-vous barbecue coréen pour le mardi 23/07 après-midi à Seongsu (A006). | Ouvert |
 
 ## B. Fils en cours côté monde (le moteur les fait avancer)
 | Sujet | État | Prochain jalon |
