@@ -40,3 +40,4 @@ date;heure;compte;montant;type;libelle;reference
 2041-08-07;06:00;courant;-4130.00;prevu;Visa Premier : relevé clos le 30/07/2041, débit du solde (4 130,00 €);C-visa_premier-20410730
 2041-07-20;14:30;courant;-145.00;mouvement;Visa Debit : Belval Plaza (achats de voyage);K002
 2041-07-19;19:00;courant;-74.00;mouvement;Visa Debit : SNCF Connect (TGV INOUI Lorraine TGV - CDG, dimanche 21/07 à 09h15);K004
+2041-09-02;22:15;courant;-534.60;prevu;Parking de la gare Lorraine TGV : 44 jours de longue durée, à régler à la sortie (12,15 € par jour, PX057);P001

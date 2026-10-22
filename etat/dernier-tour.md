@@ -1,37 +1,37 @@
 # Dernier tour montré au joueur
 
-> Tour n° 9 ; horloge 19/07/2041 19:00 -> 20/07/2041 21:00 ; enregistré le 22/10/2026 09:52 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 10 ; horloge 20/07/2041 21:00 -> 21/07/2041 12:05 ; enregistré le 22/10/2026 22:37 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Programme samedi 20 juillet : entraînement Minett Combat Club 10h-12h, Belval Plaza l'après-midi, réservation officetel Yeonnam-dong avec Hye-won, sécurisation maison et bagages
+> Je me fais un rappel comme quoi il faut que je fasse un message dès que j'arrive à Séoul, à Hye-won (dicté « Iwon » puis « Yewon »). Je prends également note pour le barbecue avec Minji. Go pour le TGV. Et peux-tu mettre le téléphone à jour ? Il a encore des informations issues de l'ancien univers.
 
 ## Texte envoyé au joueur
 
-**SAMEDI 20 JUILLET 2041 — 21h00 — Audun-le-Tiche, chez William**
-
-Le vendredi soir s'est déroulé dans un calme bienfaisant. Après la charge mentale de la semaine, tu as préparé un dîner simple et nourrissant à base de protéines maigres et de féculents complets, avant de t'accorder une soirée de déconnexion totale, un livre entre les mains, sans solliciter les écrans. Couché dès 23 h 00 au rythme de la nuit lorraine, le sommeil a été continu et profondément réparateur : neuf heures pleines d'un repos sans interruption, qui ont effacé la moindre fatigue résiduelle.
-
-À 8 h 00 ce samedi matin, le réveil s'est fait naturellement, le corps dispos et l'esprit clair. Un solide petit-déjeuner avalé, tu as pris la route vers Esch-sur-Alzette pour franchir la frontière en direction du quartier de Lallange. Au Minett Combat Club, l'atmosphère familière de l'ancien entrepôt réhabilité était au rendez-vous : odeur de magnésie et de cuir, claquements sourds des frappes et rumeur polyglotte mêlant luxembourgeois au comptoir et portugais sur les tatamis. De 10 h 00 à 12 h 00, la séance a été menée avec une rigueur absolue : d'abord une heure de musculation polyarticulaire axée sur les mouvements fondamentaux — séries lourdes de squat, développé couché et tirages horizontaux —, suivie d'une seconde heure intensive au sac lourd et en fractionné cardio. Deux heures d'effort pur qui ont apporté une congestion musculaire pleine, sans tension articulaire, laissant le physique affûté et nettoyé de toute nervosité avant le voyage.
-
-Après un déjeuner copieux pris au retour, un court trajet t'a mené à Belval Plaza pour régler les derniers détails matériels du départ. En une heure, tu as rassemblé le nécessaire : deux adaptateurs électriques internationaux compatibles avec les fiches rondes de type C et F en 220 V utilisées en Corée, une trousse de pharmacie de voyage garnie d'une protection solaire haute performance et de comprimés contre les troubles digestifs ou les céphalées de décalage horaire, ainsi que trois t-shirts techniques en fibre respirante, coupés pour rester élégants sous la chaleur étouffante et humide de l'été séoulite. Les 145,00 € réglés par carte bancaire ont immédiatement été imputés sur ton compte courant.
-
-En milieu d'après-midi, un message WhatsApp de Hye-won est venu concrétiser la prospection du logement. Fidèle à sa parole et touchée par la franchise de ton message d'excuses de la veille, l'étudiante coréenne t'a transmis deux fiches détaillées d'officetels meublés à Mapo-gu qu'elle a personnellement contrôlés : le premier à Mangwon, à proximité immédiate du marché traditionnel, et le second situé au cœur de Yeonnam-dong, à quelques minutes à pied du parc de la ligne Gyeongui et de la station Hongik University. Ton choix s'est immédiatement porté sur l'officetel de Yeonnam-dong : perché au quatorzième étage d'un immeuble récent avec digicode et gardiennage 24 h/24, il offre une vue dégagée, une excellente insonorisation à double vitrage, un lit queen-size confortable, un bureau ergonomique baigné de lumière naturelle avec connexion fibre optique dédiée, ainsi qu'une kitchenette compacte parfaitement équipée. La réservation pour l'intégralité du séjour de six semaines (du lundi 22 juillet au lundi 2 septembre 2041) a été validée et réglée en ligne par carte pour 2 450,00 €, respectant scrupuleusement ton plafond initial de 3 000 €. En recevant ta confirmation, Hye-won a exprimé son soulagement enthousiaste par message : *« Perfect! Yeonnam is so green and peaceful, you will love writing and resting there. Let me know when your plane lands on Monday morning! »*.
-
-Vers 17 h 30, alors qu'un violent orage d'été éclatait sur le bassin ferrifère, déversant une pluie battante qui a fait chuter la température de 24 à 18 degrés, tu as méthodiquement sécurisé la maison d'Audun-le-Tiche en vue de ton absence prolongée : coupure de la vanne d'arrivée d'eau principale, basculement du chauffe-eau électrique sur son réglage vacances, paramétrage de la recharge de la voiture électrique à 50 % pour préserver la durée de vie des cellules lithium, puis verrouillage des huisseries et volets. 
-
-À 21 h 00, les bagages sont définitivement bouclés dans l'entrée : une valise rigide de 23 kg en soute contenant tenues professionnelles légères, affaires de sport et matériel d'écriture, complétée d'un sac cabine avec tes appareils électroniques, chargeurs et documents de vol. Tout est en ordre, l'esprit est tranquille, et le compte à rebours est lancé pour la gare Lorraine TGV demain matin.
+📌 **Vraie vie** : « Iwon » et « Yewon » lus comme Hye-won, « Minji » comme Min-ji. Ton rappel est noté : à l'atterrissage, c'est toi qui écris à Hye-won. Le barbecue avec Min-ji est noté, je n'y reviens plus. La voiture est garée au parking longue durée de la gare, à payer à la sortie (12,15 € par jour). Le téléphone est à jour pour l'univers 3.
 
 ---
 
-### Réponses attendues
-- **Hye-won (WhatsApp)** : ton officetel de Yeonnam-dong est payé et confirmé ; elle attend ton message à l'atterrissage lundi matin à 07h50 à Incheon pour savoir si tu souhaites qu'elle t'accueille ou si tu préfères t'installer seul en autonomie.
-- **Min-ji (Instagram)** : votre premier rendez-vous barbecue à Seongsu reste calé pour le mardi 23 juillet après-midi.
+**DIMANCHE 21 JUILLET 2041 — 12h05 — Aéroport Paris-Charles de Gaulle, terminal 2E**
 
-### À faire / à fournir avant le tour suivant
-- **Départ dimanche 21 juillet matin** : réveil à 07h30, départ d'Audun-le-Tiche en voiture à 08h30 pour rejoindre la gare Lorraine TGV (Louvigny) à 09h00. Embarquement à 09h15 dans le TGV direct pour Roissy CDG (arrivée 10h30 au terminal 2), avant l'enregistrement du vol Korean Air KE902 (départ 13h20).
+Le réveil sonne à 06h30. Après sept heures et demie de sommeil, la tête est claire. Le soleil est déjà haut derrière les volets et la rue sent la terre mouillée de l'orage d'hier. Café noir, œufs brouillés, un dernier tour de la maison : la valise de 23 kg et le sac cabine attendent dans l'entrée, la vanne d'eau est fermée depuis la veille. À 07h17, le téléphone vibre sur le plan de travail. Hye-won, depuis Séoul, où il est déjà 14h17 : « Hi William! 😊 Just some info for your arrival on Monday: it is the rainy season, so very hot and humid, and sudden showers are possible. From the airport, the AREX train is the easiest way: about one hour to Hongik University Station, and your officetel is a 10-minute walk from there. Safe flight! ✈️ »
 
-### Quêtes secondaires
-- **Data room solaire Brésil** : Thiago Rocha doit envoyer les autorisations CEMIG et baux notariés par courriel le lundi 22 juillet matin, à réceptionner pendant ton transit ou à ton arrivée à Séoul.
+Tu pars à 07h30. La voiture sort d'Audun, traverse les cités ouvrières et les friches de la sidérurgie, puis prend l'A31 vers le sud. À cette heure, un dimanche, l'autoroute est presque vide : les poids lourds sont interdits, il ne reste que quelques caravanes et des familles qui montent vers les Vosges. La jauge de la batterie, partie de 50 %, passe sous les 40 % vers Metz. À 08h46, à la barrière de Louvigny, tu prends le ticket du parking longue durée en plein air, à côté de la gare de Lorraine TGV : une grande dalle claire plantée au milieu des champs, un vent chaud sur les chaumes, pas un bâtiment alentour. Le ticket se règle à la sortie.
+
+À 09h05, tu es sur le quai, la valise à tes pieds. Le TGV INOUI part à l'heure, à 09h15. Voiture 12, place 54, côté couloir : la rame est à moitié vide. Les champs de la Meuse puis de la Marne défilent en bandes jaunes et vertes ; tu fermes les yeux un quart d'heure. À 10h33, le train s'arrête sous la grande halle de la gare Aéroport Paris-Charles de Gaulle 2 TGV.
+
+Tu rejoins le terminal 2E à pied, par les passerelles, en un peu plus de dix minutes. Les comptoirs de Korean Air sont ouverts depuis 10h20 : une file de voyageurs pour l'économique, aucune attente au guichet Premium Economy. L'agent compare ton passeport au billet, pèse la valise (22,8 kg), colle l'étiquette de soute et te tend la carte d'embarquement : siège 24A, côté hublot. Le contrôle de sécurité puis la police aux frontières prennent vingt-cinq minutes en tout. À 12h05, tu es assis dans la salle d'embarquement, face à la piste ensoleillée où l'appareil blanc à la queue bleu ciel de ton vol est déjà branché à la passerelle. L'embarquement est annoncé pour 12h35 ; le départ est prévu à 13h20.
+
+---
+
+**Réponses attendues**
+- **Hye-won** (WhatsApp) : elle t'a écrit à 07h17 pour te donner quelques informations sur ton arrivée à Séoul (chaleur humide, averses, train AREX jusqu'à la station Hongik University).
+
+**À faire / à fournir avant le tour suivant**
+- **Corée du Sud** : la carte d'arrivée électronique (e-Arrival Card) se remplit en ligne ; elle n'est valable que si tu entres dans le pays dans les 72 heures suivant son envoi. Elle n'est pas faite.
+- **Embarquement du KE902** : 12h35, décollage à 13h20, atterrissage à Incheon lundi 22/07 à 07h50.
+
+**Quêtes secondaires**
+- Rien de nouveau.
 
 Que veux-tu faire ?
