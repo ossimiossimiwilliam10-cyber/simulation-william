@@ -138,3 +138,6 @@
     `python outils/telephone.py` puis la page ouverte (zone, devise, application de VTC, âge minimum du pays, fériés, météo) avant de dire
     que le téléphone est à jour. Les conversations et courriels du jeu vivent dans `whatsapp/` et `courriels/` : s'ils sont vides, le
     téléphone l'est aussi.
+89. **Journal des aléas non archivé au changement d'univers** (22/10/2026) : les aléas « déclenchés » de l'univers 2 restaient dans
+    `memoire/tirages-aleas.md` et `tour.py apercu` les rapprochait des jours de l'univers 3 par jour et par mois. À chaque redémarrage :
+    archiver ce journal (et `etat/agenda.csv`, `etat/vies.csv`, `etat/rencontres*.csv`…) AVANT le premier tour, puis lancer `tour.py apercu`.

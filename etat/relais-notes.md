@@ -81,3 +81,13 @@
   « j'aime » reçus du 17 au 19/07 tirés (Kyla, Janelle, Maxine, Julia : profils nouveaux, `etat/rencontres.csv`, statut
   `vous_aime`) ; un « j'aime » de William sur l'une d'elles = match immédiat. Après une rencontre en personne avec un profil :
   `reactions.py rencontre --pour … --quand … --lieu …` (T23). Taxi avec prix fixe demandé : `courses.py accepter|annuler Cnnn`.
+- (22/10/2026 ~23h, Claude Sonnet 5.5) **REPRISE DE L'UNIVERS 3** (joué par Gemini du 21/10 au 22/10 : tours n° 1 à 9) : audit d'entrée consigné
+  dans `etat/corrections.md` U3-0 à U3-14 (cartes régularisées, billet de TGV, personnages complétés par `personnage.py completer`, aléas de
+  l'univers 2 archivés, §9 remis en ordre). Tour n° 10 joué : dimanche 21/07/2041 12h05, aéroport CDG 2E, KE902 à 13h20. **Séoul est installé**
+  (population, routines, fuseau, fériés, météo, devises KRW, courses Kakao T, Voyages, Rencontres, téléphone : voir U3-9 et U3-11). Ce qui
+  reste à faire avant ou à l'arrivée : régler l'horloge avec `horloge.py --fuseau seoul` à l'atterrissage ; l'application Transports ne couvre
+  que la Lorraine et le Luxembourg (créer Séoul : métro, AREX, T-money, selon §14) ; `actualites.py` ne connaît que le Luxembourg et Manille ;
+  carte SIM ou eSIM, change, caution de l'officetel, e-Arrival Card (pas faite) ; revue du lundi n° 1 le lundi 22/07/2041 (idées, pack d'aléas à
+  adapter à l'univers 3 : aucun aléa tiré tant que l'utilisateur n'a pas validé) ; **les essais `tests_moteur.py` décrivent encore l'univers 2
+  (U3-12) : à réécrire**. Téléphone republié sur https://claude.ai/artifact/9j5a5bgQy9De1sxL7LZ27z (l'ancienne adresse était supprimée). Intentions
+  du joueur : `etat/fils-ouverts.md`, A2. L'utilisateur « valide tout » (cartes, Corée, Brésil, 20 ans à Séoul : à lui de modifier).
