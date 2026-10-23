@@ -2166,3 +2166,11 @@ Toute réaction d'un personnage à un acte de William se tire avec `python outil
 | A36 | Malentendu de langue (adresse mal comprise, commande erronée, document en coréen) | 10 % |  75.6 | non |
 
 Effets à jouer : A24 (dimanche 28/07 (après-midi)) : Maison mitoyenne ; à l'étranger, seulement par un message d'un voisin ; A28 (vendredi 26/07 (soir)) : Le moteur règle le taux selon la période (le tirage lit le premier)
+
+- Jet « Friction administrative (economie.md, 30 %) : e-Arrival Card remplie dans la file d'immigration avec le Wi-Fi de l'aéroport : deuxième passage demandé (formulaire qui expire ou champ refusé) » : probabilité 30 %, jet  37.3 → **NON** (enregistré le 23/10/2026 06:36 heure machine)
+
+- Jet « Incheon, contrôle d'immigration de William : questions complémentaires (séjour de six semaines, hébergement, moyens) » : probabilité 12 %, jet   0.2 → **OUI** (enregistré le 23/10/2026 06:36 heure machine)
+
+- Jet « Incheon : valise de William choisie pour un contrôle des douanes (ouverture et radiographie) » : probabilité 5 %, jet  50.2 → **NON** (enregistré le 23/10/2026 06:36 heure machine)
+
+- Message spontané d'un proche, semaine du 2041-07-22 : Anne Kremer (professeure de mathématiques) écrira le 25/07/2041 vers 10:40 (heure de l'expéditeur) · tiré parmi 38 personnes de l'entourage, pondérées par proximité (enregistré le 23/10/2026 06:38 heure machine)
