@@ -96,7 +96,7 @@ def semaine(lundi, rng=None, tirer=False):
         sens = "s'affaiblit" if apres > avant else "se raffermit" if apres < avant else "ne bouge pas"
         v = lambda x: f"{x:.2f}".replace(".", ",")  # noqa: E731
         lignes.append((0, f"- **{NOMS_PAYS[ici]}** : sur la semaine écoulée, le {monnaie} {sens} face à l'euro : {v(apres)} {code} pour 1 € "
-                          f"le dimanche {lundi - dt.timedelta(days=1):%d/%m}, contre {v(avant)} une semaine plus tôt."))
+                          f"le dimanche {lundi - dt.timedelta(days=1):%d/%m/%Y}, contre {v(avant)} une semaine plus tôt."))
     modeles = [m for m in lire_csv(MODELES) if m["mois"] == "tous" or str(lundi.month) in m["mois"].split(",")]
     # au moins une nouvelle de chez William (Luxembourg ou Lorraine) quand il est ailleurs ; cinq lignes au plus
     maison = 1 if ici in ("ph", "kr") else 0
