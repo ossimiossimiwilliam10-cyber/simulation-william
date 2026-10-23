@@ -141,3 +141,6 @@
 89. **Journal des aléas non archivé au changement d'univers** (22/10/2026) : les aléas « déclenchés » de l'univers 2 restaient dans
     `memoire/tirages-aleas.md` et `tour.py apercu` les rapprochait des jours de l'univers 3 par jour et par mois. À chaque redémarrage :
     archiver ce journal (et `etat/agenda.csv`, `etat/vies.csv`, `etat/rencontres*.csv`…) AVANT le premier tour, puis lancer `tour.py apercu`.
+90. **Régler l'horloge à la main avant `tour.py fin`** (22/10/2026, `horloge.py --regler` pour noter le sommeil du vol) : `fin` compare l'heure
+    d'avant et d'après pour clore les jours et écrire les fiches courtes ; avec l'horloge déjà avancée, la fiche courte du dimanche 21/07/2041
+    a manqué (rattrapée à la main avec `tour.fiches_auto`). Noter le sommeil APRÈS `tour.py fin`, ou donner `--fuseau` et `--jusqua` à `fin` seul.
