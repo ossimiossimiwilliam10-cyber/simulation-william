@@ -5085,3 +5085,63 @@ date;personnage;cadence;t11;categorie;detail;initiative;agenda;note
 2041-07-21;Min-ji;jour;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;;;T11 jet 64.5 · T13c jet 25.9
 2041-07-21;Soo-jin;jour;sans_histoire;;;aucune;;T11 jet 35.0
 2041-07-21;Hye-won;jour;sans_histoire;;;information à 21/07 14:17;A010;T11 jet 42.9
+2041-07-25;Max Rocha;semaine;coup_dur;T13a:famille;dispute sérieuse ou mauvaise nouvelle dans la famille;;;T11 jet 97.0 · T13a jet 75.6
+2041-07-22;Georges Muller;semaine;petit_evenement;T13c:depense;dépense imprévue (facture d'électricité plus lourde);;;T11 jet 76.2 · T13c jet 1.8
+2041-07-27;Benjamin Hennequin;semaine;coup_dur;T13a:sante_proche;maladie ou accident de son enfant;;;T11 jet 89.8 · T13a jet 24.3
+2041-07-28;Camille Simon;semaine;coup_dur;T13a:argent;facture en retard;;;T11 jet 94.9 · T13a jet 45.1
+2041-07-22;Emma Gómez;semaine;coup_dur;T13a:logement_transport;panne, coupure ou souci de logement;;;T11 jet 95.3 · T13a jet 95.0
+2041-07-25;Claire Zhao;semaine;sans_histoire;;;;;T11 jet 0.3
+2041-07-23;Sarah Lanners;semaine;petit_evenement;T13c:rumeur;rumeur entendue ou colportée;;;T11 jet 71.4 · T13c jet 95.2
+2041-07-22;Anne Kremer;semaine;sans_histoire;;;;;T11 jet 49.4
+2041-07-26;Tom Goergen;semaine;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;;;T11 jet 63.2 · T13c jet 64.3
+2041-07-26;Michèle Wagner;semaine;petit_evenement;T13c:service_rendu;service rendu ou reçu;;;T11 jet 74.0 · T13c jet 50.1
+2041-07-24;Jil Wolff;semaine;sans_histoire;;;;;T11 jet 6.4
+2041-07-28;Sam Ries;semaine;sans_histoire;;;;;T11 jet 16.9
+2041-07-24;Pit Thill;semaine;sans_histoire;;;;;T11 jet 40.0
+2041-07-22;Mélanie Blanc;semaine;coup_dur;T13a:famille;dispute sérieuse ou mauvaise nouvelle dans la famille;;;T11 jet 91.6 · T13a jet 63.4
+2041-07-24;Kim Schmitz;semaine;sans_histoire;;;;;T11 jet 10.4
+2041-07-24;Steve Klein;semaine;sans_histoire;;;;;T11 jet 11.1
+2041-07-23;Caroline Ewen;semaine;petit_evenement;T13c:dispute_breve;querelle courte;;;T11 jet 72.9 · T13c jet 55.1
+2041-07-23;Martina Ceccarelli;semaine;petit_evenement;T13c:depense;dépense imprévue (médicaments);;;T11 jet 59.8 · T13c jet 10.2
+2041-07-26;Elsa Blanchard;semaine;sans_histoire;;;;;T11 jet 18.4
+2041-07-25;Sandy Lentz;semaine;petit_evenement;T13c:dispute_breve;querelle courte;;;T11 jet 75.7 · T13c jet 54.0
+2041-07-22;Cláudia Almeida;semaine;sans_histoire;;;;;T11 jet 26.6
+2041-07-24;Luc Biver;semaine;sans_histoire;;;;;T11 jet 21.8
+2041-07-22;Philippe Sinner;semaine;petit_evenement;T13c:transport_meteo;orage et routes glissantes;;;T11 jet 70.0 · T13c jet 78.1
+2041-07-26;Ruben Gomes;semaine;sans_histoire;;;;;T11 jet 48.9
+2041-07-22;Thiago Alves;semaine;coup_dur;T13a:sante;malade (grippe);;;T11 jet 96.2 · T13a jet 13.8
+2041-07-28;Lenny Nguyen;semaine;sans_histoire;;;;;T11 jet 16.1
+2041-07-27;Raphaël Jacquot;semaine;sans_histoire;;;;;T11 jet 37.2
+2041-07-23;Mariana Oliveira;semaine;sans_histoire;;;;;T11 jet 30.3
+2041-07-23;Clément Grandjean;semaine;avancee_objectif;T13d:demarche;démarche pour son objectif : finir de rénover sa maison;;;T11 jet 82.7 · T13d jet 9.8
+2041-07-25;Yann Diederich;semaine;coup_dur;T13a:sante_proche;maladie ou accident de son enfant;;;T11 jet 96.0 · T13a jet 23.4
+2041-07-28;Arthur Kieffer;semaine;sans_histoire;;;;;T11 jet 28.5
+2041-07-23;Leo Horvat;semaine;sans_histoire;;;;;T11 jet 16.6
+2041-07-28;Olivier Schneider;semaine;sans_histoire;;;;;T11 jet 20.2
+2041-07-27;Claude Majerus;semaine;sans_histoire;;;;;T11 jet 11.1
+2041-07-28;Christophe Thomas;semaine;coup_dur;T13a:argent;vol ou arnaque;;;T11 jet 95.8 · T13a jet 44.0
+2041-07-26;Corinne Dubois;semaine;coup_dur;T13a:argent;facture en retard;;;T11 jet 94.2 · T13a jet 54.3
+2041-07-25;Jérôme Rizzo;semaine;sans_histoire;;;;;T11 jet 33.3
+2041-07-27;Aurélie Martin;semaine;sans_histoire;;;;;T11 jet 29.3
+2041-07-25;Émilie Lefebvre;semaine;petit_evenement;T13c:dispute_breve;querelle courte;;;T11 jet 55.2 · T13c jet 61.5
+2041-07-26;Amandine Didier;semaine;petit_evenement;T13c:dispute_breve;querelle courte;;;T11 jet 62.4 · T13c jet 52.3
+2041-07-25;Charlotte Laurent;semaine;coup_dur;T13a:relation;rupture, trahison d'un ami ou conflit de voisinage;;;T11 jet 94.8 · T13a jet 98.2
+2041-07-28;Bruno Lopes;semaine;petit_evenement;T13c:dispute_breve;querelle courte;;;T11 jet 54.4 · T13c jet 57.3
+2041-07-25;Lynn Traoré;semaine;avancee_objectif;T13d:argent;somme reçue, économisée ou investie pour son objectif : passer plus de temps avec ses enfants;;;T11 jet 81.0 · T13d jet 65.0
+2041-07-26;Thiago Rocha;semaine;sans_histoire;;;;;T11 jet 21.2
+2041-07-26;Lucas Mendes;semaine;sans_histoire;;;;;T11 jet 13.4
+2041-07-28;Ye-eun Yang;semaine;sans_histoire;;;;;T11 jet 50.2
+2041-07-28;Ji-woo Nam;semaine;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;;;T11 jet 69.3 · T13c jet 24.5
+2041-07-23;Soo-ah Han;semaine;sans_histoire;;;;;T11 jet 29.0
+2041-07-26;Da-yeon Lee;semaine;sans_histoire;;;;;T11 jet 8.7
+2041-07-27;Ha-eun Bae;semaine;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;;;T11 jet 55.1 · T13c jet 24.1
+2041-07-22;Ha-rin Cho;semaine;tournant;T13b:logement;déménagement, bail ou proche hébergé;;;T11 jet 97.1 · T13b jet 59.5
+2041-07-27;Ji-an Park;semaine;sans_histoire;;;;;T11 jet 50.0
+2041-07-24;Seo-yeon Oh;semaine;sans_histoire;;;;;T11 jet 26.3
+2041-07-26;Chae-won Moon;semaine;avancee_objectif;T13d:argent;somme reçue, économisée ou investie pour son objectif : entrer ou rester dans une grande entreprise (chaebol) réputée;;;T11 jet 83.8 · T13d jet 57.1
+2041-07-23;Seo-ah Kim;semaine;sans_histoire;;;;;T11 jet 34.4
+2041-07-24;Su-bin Jeon;semaine;avancee_objectif;T13d:demarche;démarche pour son objectif : se faire une place dans le milieu (club, lycée, quartier);;;T11 jet 85.5 · T13d jet 29.1
+2041-07-22;Ye-rin Hong;semaine;sans_histoire;;;;;T11 jet 31.6
+2041-07-22;Min-ji;jour;tournant;T13b:sante;diagnostic, guérison, grossesse ou opération;;;T11 jet 97.7 · T13b jet 44.8
+2041-07-22;Soo-jin;jour;coup_dur;T13a:logement_transport;panne, coupure ou souci de logement;aucune;;T11 jet 96.0 · T13a jet 91.0
+2041-07-22;Hye-won;jour;sans_histoire;;;message_routine (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 40.4

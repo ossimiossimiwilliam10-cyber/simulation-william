@@ -1,48 +1,61 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 22/10/2026 22:37 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
+# Relais de la simulation — briefing généré le 23/10/2026 05:45 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : dimanche 21 juillet 2041, 12h05 (luxembourg) ; tour n° 10
-- Lieu de William : Aéroport Paris-Charles de Gaulle, terminal 2E, salle d'embarquement
-- En attente de William : Embarquement du KE902 à 12h35 (décollage 13h20)
+- Horloge : lundi 22 juillet 2041, 08h12 (seoul) ; tour n° 11
+- Lieu de William : Aéroport international d'Incheon, piste d'atterrissage (KE902)
+- En attente de William : Écrire à Hye-won (rappel du joueur) et formalités d'arrivée à Séoul
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 10 ; horloge 20/07/2041 21:00 -> 21/07/2041 12:05 ; enregistré le 22/10/2026 22:37 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 11 ; horloge 22/07/2041 08:12 -> 22/07/2041 08:12 ; enregistré le 23/10/2026 05:45 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je me fais un rappel comme quoi il faut que je fasse un message dès que j'arrive à Séoul, à Hye-won (dicté « Iwon » puis « Yewon »). Je prends également note pour le barbecue avec Minji. Go pour le TGV. Et peux-tu mettre le téléphone à jour ? Il a encore des informations issues de l'ancien univers.
+> Je remercie Ewan pour son message (dicté « Ewan » : Hye-won). Et je monte dans, bah, je fais mon voyage, quoi. Go
 
 ## Texte envoyé au joueur
 
-📌 **Vraie vie** : « Iwon » et « Yewon » lus comme Hye-won, « Minji » comme Min-ji. Ton rappel est noté : à l'atterrissage, c'est toi qui écris à Hye-won. Le barbecue avec Min-ji est noté, je n'y reviens plus. La voiture est garée au parking longue durée de la gare, à payer à la sortie (12,15 € par jour). Le téléphone est à jour pour l'univers 3 : l'ancienne adresse ne marche plus, la nouvelle est https://claude.ai/artifact/9j5a5bgQy9De1sxL7LZ27z
+🔄 **Revue du lundi n° 1 de l'univers 3** (hors fiction)
+
+**Bilan de la semaine** : corrigé en coulisses, les cartes bancaires, le billet de TGV (74 €), le trajet Audun – Lorraine TGV (1 h 15 et non 30 minutes), les cinq personnages coréens et brésiliens complétés, les aléas de l'univers 2 archivés et le téléphone passé à Séoul (détail : `etat/corrections.md`). Rien de perdu : la promesse de Thiago (data room par courriel, ce lundi) est programmée. L'audit des jets ne relève aucune dérive.
+
+**Nouvelles idées (numéros à valider)**
+- **R1** : décalage horaire de 7 heures, nuits perturbées les trois premiers jours à Séoul.
+- **R2** : téléphone en Corée, l'itinérance hors Union européenne coûte cher ; choix d'une eSIM ou d'une SIM à l'arrivée.
+- **R3** : pack d'aléas de Séoul, A32 (dengue) sans objet, A33 devient « course à l'étranger », nouveaux A34 coup de chaleur (6 % par jour à plus de 35 °C), A35 surfacturation d'un touriste (5 % par semaine), A36 malentendu de langue (10 % par semaine).
+- **R4** : application Transports de Séoul (métro, AREX, bus, T-money).
+- **R5** : friction de langue (anglais « scolaire ») sur les délais et la clarté des messages.
+
+**Ta décision** : valides-tu R1 à R5 ? Les aléas de la semaine sont tirés une fois que tu as répondu.
+
+📌 **Vraie vie** : « Ewan » lu comme Hye-won.
 
 ---
 
-**DIMANCHE 21 JUILLET 2041 — 12h05 — Aéroport Paris-Charles de Gaulle, terminal 2E**
+**LUNDI 22 JUILLET 2041 — 08h12 (heure de Séoul) — Aéroport international d'Incheon, piste**
 
-Le réveil sonne à 06h30. Après sept heures et demie de sommeil, la tête est claire. Le soleil est déjà haut derrière les volets et la rue sent la terre mouillée de l'orage d'hier. Café noir, œufs brouillés, un dernier tour de la maison : la valise de 23 kg et le sac cabine attendent dans l'entrée, la vanne d'eau est fermée depuis la veille. À 07h17, le téléphone vibre sur le plan de travail. Hye-won, depuis Séoul, où il est déjà 14h17 : « Hi William! 😊 Just some info for your arrival on Monday: it is the rainy season, so very hot and humid, and sudden showers are possible. From the airport, the AREX train is the easiest way: about one hour to Hongik University Station, and your officetel is a 10-minute walk from there. Safe flight! ✈️ »
+À 12h10, tu envoies ton remerciement à Hye-won : « Thank you so much for the info, Hye-won! 🙏 ». Rien n'arrive en retour avant l'embarquement. À 12h35, les passagers de Premium Economy passent en premier ; siège 24A, côté hublot. Tu plies tes jambes de 1,96 m comme tu peux : le repose-pieds et quelques centimètres de plus qu'en économique font la différence. L'appareil recule à 13h22 et décolle à 13h29, avec neuf minutes de retard sur l'horaire, le temps que la file des avions devant le vôtre s'écoule.
 
-Tu pars à 07h30. La voiture sort d'Audun, traverse les cités ouvrières et les friches de la sidérurgie, puis prend l'A31 vers le sud. À cette heure, un dimanche, l'autoroute est presque vide : les poids lourds sont interdits, il ne reste que quelques caravanes et des familles qui montent vers les Vosges. La jauge de la batterie, partie de 50 %, passe sous les 40 % vers Metz. À 08h46, à la barrière de Louvigny, tu prends le ticket du parking longue durée en plein air, à côté de la gare de Lorraine TGV : une grande dalle claire plantée au milieu des champs, un vent chaud sur les chaumes, pas un bâtiment alentour. Le ticket se règle à la sortie.
+Le plateau du premier repas arrive vers 14h40, du poulet au riz avec un petit bol de kimchi. Les écrans du siège montrent la mer Caspienne, puis les steppes d'Asie centrale, d'un brun pâle sous un ciel sans nuage. Vers 16h30, tu baisses le store et tu dors presque quatre heures et demie, la tête calée contre la cloison, le ronflement des moteurs en fond. À ton réveil, vers 04h00 à l'heure de Séoul, la carte affiche le désert de Gobi puis les premières montagnes de Chine ; le petit déjeuner suit deux heures plus tard, une omelette et du riz que tu avales sans parler. Dehors, la lumière est déjà blanche.
 
-À 09h05, tu es sur le quai, la valise à tes pieds. Le TGV INOUI part à l'heure, à 09h15. Voiture 12, place 54, côté couloir : la rame est à moitié vide. Les champs de la Meuse puis de la Marne défilent en bandes jaunes et vertes ; tu fermes les yeux un quart d'heure. À 10h33, le train s'arrête sous la grande halle de la gare Aéroport Paris-Charles de Gaulle 2 TGV.
-
-Tu rejoins le terminal 2E à pied, par les passerelles, en un peu plus de dix minutes. Les comptoirs de Korean Air sont ouverts depuis 10h20 : une file de voyageurs pour l'économique, aucune attente au guichet Premium Economy. L'agent compare ton passeport au billet, pèse la valise (22,8 kg), colle l'étiquette de soute et te tend la carte d'embarquement : siège 24A, côté hublot. Le contrôle de sécurité puis la police aux frontières prennent vingt-cinq minutes en tout. À 12h05, tu es assis dans la salle d'embarquement, face à la piste ensoleillée où l'appareil blanc à la queue bleu ciel de ton vol est déjà branché à la passerelle. L'embarquement est annoncé pour 12h35 ; le départ est prévu à 13h20.
+À 08h12, avec vingt-deux minutes de retard sur l'horaire, les roues touchent la piste d'Incheon. Par le hublot, un ciel laiteux, la brume de chaleur au-dessus de la mer Jaune et, au sud-est, une barre de cumulus gris qui annonce l'orage de l'après-midi. Il fait 26 °C au sol. Tu rallumes ton téléphone : un réseau coréen s'accroche en itinérance et ton opérateur luxembourgeois t'envoie un SMS sur ses tarifs hors Union européenne. Tout en haut de l'écran, ton rappel : « Écrire à Hye-won ». L'appareil roule encore vers la porte, les ceintures sont bouclées.
 
 ---
 
 **Réponses attendues**
-- **Hye-won** (WhatsApp) : elle t'a écrit à 07h17 pour te donner quelques informations sur ton arrivée à Séoul (chaleur humide, averses, train AREX jusqu'à la station Hongik University).
+- Aucune.
 
 **À faire / à fournir avant le tour suivant**
-- **Corée du Sud** : la carte d'arrivée électronique (e-Arrival Card) se remplit en ligne ; elle n'est valable que si tu entres dans le pays dans les 72 heures suivant son envoi. Elle n'est pas faite.
-- **Embarquement du KE902** : 12h35, décollage à 13h20, atterrissage à Incheon lundi 22/07 à 07h50.
+- **Rappel** : écrire à Hye-won, comme tu l'avais prévu.
+- **Corée du Sud** : la carte d'arrivée électronique (e-Arrival Card) n'est pas faite ; elle se remplit en ligne.
+- **Officetel de Yeonnam-dong** : arrivée à partir de 11h00 (convenue avec l'hôte).
+- **Argent** : aucun won en poche ; les distributeurs Global ATM sont dans le hall des arrivées.
 
 **Quêtes secondaires**
 - Rien de nouveau.
@@ -50,20 +63,24 @@ Tu rejoins le terminal 2E à pied, par les passerelles, en un peu plus de dix mi
 Que veux-tu faire ?
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
-- A008 Sun 21/07 13:20 (luxembourg) | Korean Air (Premium Economy) : Vol aller Paris → Séoul (KE 902…KE 902) · départ 13:20 de Paris-Charles-de-Gaulle, arrivée le 22/07 à 07:50 (heure locale) · réservation XLGTS3 [prevu]  — réservation R001 (etat/reservations.csv)
-- A011 Mon 22/07 00:50 (luxembourg) | William : Rappel du joueur : écrire à Hye-won dès l'arrivée à Séoul (atterrissage du KE902) [prevu]  — intention du joueur du 21/07/2041 : il rédige lui-même le message
-- A007 Mon 22/07 04:00 (luxembourg) | William : Installation et prise de possession de l'officetel meublé à Yeonnam-dong (Mapo-gu) [prevu]  — réservé le 20/07 (2 450 € pour 6 semaines du 22/07 au 02/09)
-- A001 Mon 22/07 08:00 (luxembourg) | Moteur et utilisateur : Revue du lundi n° 1 de l'univers 3 (hors fiction, avant le premier tour du jour) ; adaptation des aléas et propositions [prevu]  — CLAUDE.md §12 | premier lundi de l'Univers 3 le 22/07/2041
+- ⚠ 2 échéance(s) échue(s) non close(s) (règle 14)
+- A008 Sun 21/07 20:20 (seoul) | Korean Air (Premium Economy) : Vol aller Paris → Séoul (KE 902…KE 902) · départ 13:20 de Paris-Charles-de-Gaulle, arrivée le 22/07 à 07:50 (heure locale) · réservation XLGTS3 [prevu]  — réservation R001 (etat/reservations.csv)
+- A011 Mon 22/07 07:50 (seoul) | William : Rappel du joueur : écrire à Hye-won dès l'arrivée à Séoul (atterrissage du KE902) [prevu]  — intention du joueur du 21/07/2041 : il rédige lui-même le message
+- A007 Mon 22/07 11:00 (seoul) | William : Installation et prise de possession de l'officetel meublé à Yeonnam-dong (Mapo-gu) [prevu]  — réservé le 20/07 (2 450 € pour 6 semaines du 22/07 au 02/09)
+- A001 Mon 22/07 15:00 (seoul) | Moteur et utilisateur : Revue du lundi n° 1 de l'univers 3 (hors fiction, avant le premier tour du jour) ; adaptation des aléas et propositions [prevu]  — CLAUDE.md §12 | premier lundi de l'Univers 3 le 22/07/2041
+- A012 Mon 22/07 21:17 (seoul) | Thiago Rocha (courriel) : Thiago Rocha envoie la data room par courriel (promesse du vendredi 19/07 : lundi matin , SolarGIS, baux notariés, autorisations CEMIG : PDF à générer par courriel.py au moment voulu) · souci : mal de dos chronique · objectif : acheter un logement (ou un plus grand) · foyer : en couple, sans enfant · défauts : boit trop le week-end et le minimise / donneur de leçons sur la santé, l'argent ou l'éducation [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : dans_l_heure (jet 50.3) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=thiago-rocha-br canal=courriel]
 
 ## Rituels du moteur dus (rituels.py)
-- [DÛ] synthese_semaine : ce soir : synthèse de la semaine, T4/T5 des affaires ouvertes -> python outils/savoir.py t5
+- [EN RETARD] fiche_courte : journal du 21/07/2041 sans fiche courte -> compléter journal/2041-07-21.md
+- [DÛ] tirage_aleas : aléas de la semaine du 22/07/2041 non tirés -> python outils/tirage_aleas.py 2041-07-22
+- [DÛ] message_proche : message spontané d'un proche (semaine du 22/07) non tiré -> python outils/rituels.py message-proche --semaine 2041-07-22
 
 ## Décisions en attente de William (etat/fils-ouverts.md, A)
-| 1 | **Voyage à Séoul (Corée du Sud)** | Séjour de 6 semaines (du 22/07 au 02/09). Vol KE902 réservé (1 680 €). Officetel meublé réservé à Yeonnam-dong (Mapo-gu, 2 450 €). Valises bouclées. Départ dimanche 21/07 à 08h30 pour Lorraine TGV (TGV à 09h15 vers Roissy CDG). | dim. 21/07/2041 |
+| 1 | **Voyage à Séoul (Corée du Sud)** | Séjour de 6 semaines (du 22/07 au 02/09, retour KE901 le 02/09 à 13h35). Vol KE902 (Premium Economy, 1 680 €, réservation XLGTS3, R001). Officetel de Yeonnam-dong (2 450 €). TGV pris à l'heure, enregistrement fait : William attend l'embarquement (12h35) au terminal 2E ; décollage 13h20, atterrissage lundi 22/07 à 07h50 (Séoul). Carte d'arrivée électronique (e-Arrival Card) pas faite. ; *(22/07 08h12) vol KE902 atterri à Incheon lundi 22/07 à 08h12 (22 minutes de retard) ; formalités d'arrivée à faire (e-Arrival Card, immigration, bagages), arrivée à l'officetel à partir de 11h00* | lun. 22/07/2041 |
 | 2 | **Solaire au Brésil (Geração Distribuída)** | Visioconférence menée avec succès avec Thiago Rocha. Audit technique des 12 points validé. Thiago envoie la data room complète (SolarGIS, baux notariés, protocoles CEMIG) par courriel lundi 22/07 matin. Décision : étude des pièces à réception. | lun. 22/07/2041 |
 | 3 | **Entraînement sportif & préparation physique** | Séance de 2 h effectuée au Minett Combat Club le samedi 20/07 matin (1 h musculation polyarticulaire + 1 h sacs de frappe et cardio). Corps affûté et détendu avant le long vol. Fermeture annuelle du club du lundi 12/08/2041 au dimanche 25/08/2041 (agenda A003). | Ouvert |
-| 4 | **Logistique personnelle & maison** | Maison d'Audun-le-Tiche entièrement sécurisée pour 6 semaines (eau coupée, chauffe-eau mode absence, VE à 50 % de charge, volets et portes verrouillés). ; *(21/07 12h05) voiture garée au parking longue durée de la gare Lorraine TGV depuis dim. 21/07 08h46, 44 jours à régler à la sortie le 02/09 (534,60 €, prévu P001)* | dim. 21/07/2041 |
-| 5 | **Rencontres coréennes (Min-ji & Hye-won)** | Hye-won prévenue de la réservation de l'officetel à Yeonnam-dong, attend le message d'atterrissage lundi 22 matin. Min-ji a validé le premier rendez-vous barbecue coréen pour le mardi 23/07 après-midi à Seongsu (A006). | Ouvert |
+| 4 | **Logistique personnelle & maison** | Maison d'Audun-le-Tiche sécurisée pour 6 semaines (eau coupée, chauffe-eau en mode absence, volets et portes verrouillés). Voiture électrique garée depuis dim. 21/07 à 08h46 au parking longue durée de la gare Lorraine TGV (batterie sous 40 %) : 44 jours à régler à la sortie le 02/09 (534,60 €, prévu P001). | lun. 02/09/2041 |
+| 5 | **Rencontres coréennes (Min-ji & Hye-won)** | Hye-won a écrit dim. 21/07 à 07h17 (infos sur l'arrivée : AREX jusqu'à Hongik University). Rappel de William : lui écrire lui-même à l'atterrissage (agenda A011). Barbecue avec Min-ji mardi 23/07 à 14h00 : NOTÉ par William, ne plus le rappeler (A006). | lun. 22/07/2041 |
 
 ## Notes de passation (etat/relais-notes.md)
 - ~~(11/10/2026 22:30, Claude Opus 5.5) Redémarrage de l'univers 2 redaté au samedi 14/07/2040, 08h37 (premier vrai jour de vacances,
@@ -143,6 +160,9 @@ Que veux-tu faire ?
   « j'aime » reçus du 17 au 19/07 tirés (Kyla, Janelle, Maxine, Julia : profils nouveaux, `etat/rencontres.csv`, statut
   `vous_aime`) ; un « j'aime » de William sur l'une d'elles = match immédiat. Après une rencontre en personne avec un profil :
   `reactions.py rencontre --pour … --quand … --lieu …` (T23). Taxi avec prix fixe demandé : `courses.py accepter|annuler Cnnn`.
+- (22/10/2026 ~23h, Claude Sonnet 5.5) **REPRISE DE L'UNIVERS 3** (joué par Gemini du 21/10 au 22/10 : tours n° 1 à 9) : audit d'entrée consigné
+  dans `etat/corrections.md` U3-0 à U3-14 (cartes régularisées, billet de TGV, personnages complétés par `personnage.py completer`, aléas de
+  l'univers 2 archivés, §9 remis en ordre). Tour n° 10 joué : dimanche 21/07/2041 12h05, aéroport CDG 2E, KE902 à 13h20. **Séoul est installé**
 
 ## Préférences de l'utilisateur (memoire/preferences-utilisateur.md : à lire en entier)
 - Format du tour : récit fluide, puis « Réponses attendues », « À faire », « Quêtes secondaires », « Que veux-tu faire ? ».
@@ -157,10 +177,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 08678aa ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 5104bc1 ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 25 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 27 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

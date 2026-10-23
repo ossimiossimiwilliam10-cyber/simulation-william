@@ -2109,3 +2109,25 @@ Toute réaction d'un personnage à un acte de William se tire avec `python outil
 - Tirage [T14] « Initiative de Hye-won envers William (21/07/2041) » : aucune 63 / message_routine 12 / demande 10 / information 8 / partage_personnel 4 / plainte_ou_tension 3 ; modificateurs : aucun ; jet  90.1 → **information** (enregistré le 22/10/2026 22:35 heure machine)
 
 - Tirage [T10] « Heure de l'initiative (information) de Hye-won (21/07/2041) » : immediat 23 / rapide 32 / dans_l_heure 15 / dans_la_journee 13 / le_soir_ou_lendemain 10 / plus_tard_ou_jamais 7 ; modificateurs : M71 ; jet  80.4 → **dans_la_journee** (enregistré le 22/10/2026 22:35 heure machine)
+
+- Tirage [T21b] « Hye-won : réaction au message de William du 21/07 19:10 (seoul) : « Thank you so much for the info, Hye-won! 🙏 » » : repond 50 / repond_tard 20 / ignore 22 / bloque 8 ; modificateurs : aucun ; jet  88.2 → **ignore** (enregistré le 23/10/2026 05:40 heure machine)
+
+- Jet « KE902 : William dort au moins 4 h pendant le vol (OUI : 4 h 30 de sommeil ; NON : 2 h 30) » : probabilité 45 %, jet  39.0 → **OUI** (enregistré le 23/10/2026 05:40 heure machine)
+
+- Jet « KE902 : atterrissage en avance d'au moins 10 minutes » : probabilité 30 %, jet  91.4 → **NON** (enregistré le 23/10/2026 05:40 heure machine)
+
+- Jet « KE902 : atterrissage en retard d'au moins 15 minutes (si pas en avance) » : probabilité 18 %, jet   4.7 → **OUI** (enregistré le 23/10/2026 05:40 heure machine)
+
+- Jet « Valise de soute non arrivée à Incheon (bagage retardé) » : probabilité 2 %, jet  28.9 → **NON** (enregistré le 23/10/2026 05:40 heure machine)
+
+- Jet « Incheon, contrôle d'immigration du lundi matin : file de plus de 45 minutes » : probabilité 25 %, jet  33.7 → **NON** (enregistré le 23/10/2026 05:40 heure machine)
+
+- Tirage [T10] « Thiago Rocha : délai (Thiago Rocha envoie la data room par courriel (promesse du vendredi 19/07 : lund) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  50.3 → **dans_l_heure** (enregistré le 23/10/2026 05:42 heure machine)
+
+- Tirage [T14] « Initiative de Soo-jin envers William (22/07/2041) » : aucune 55 / message_routine 12 / demande 10 / information 14 / partage_personnel 4 / plainte_ou_tension 5 ; modificateurs : M87 ; jet  38.7 → **aucune** (enregistré le 23/10/2026 05:44 heure machine)
+
+- Tirage [T14] « Initiative de Hye-won envers William (22/07/2041) » : aucune 63 / message_routine 12 / demande 10 / information 8 / partage_personnel 4 / plainte_ou_tension 3 ; modificateurs : aucun ; jet  64.9 → **message_routine** (enregistré le 23/10/2026 05:44 heure machine)
+
+- Tirage [T10] « Heure de l'initiative (message_routine) de Hye-won (22/07/2041) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 16 / le_soir_ou_lendemain 9 / plus_tard_ou_jamais 20 ; modificateurs : M74 ; jet  80.0 → **plus_tard_ou_jamais** (enregistré le 23/10/2026 05:44 heure machine)
+
+- Actualités de la semaine du 22/07/2041 : modèles KR01, KR05, LU04, FR01 [PROCÉDURE : outils/actualites.py] (enregistré le 23/10/2026 05:45 heure machine)

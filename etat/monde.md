@@ -39,3 +39,11 @@
 - **Luxembourg** : Carburants : nouveaux prix maximums au Luxembourg à partir de mardi · baisse d'environ 3 centimes le litre.
 - **Lorraine (Audun-le-Tiche, Moselle)** : Moselle : travaux de nuit sur l'A31 entre Thionville et la frontière · bouchons le matin au passage de Zoufftgen.
 - *(écrit par outils/actualites.py le 21/10/2026 heure machine ; modèles tirés : LU04, LU01, FR01 ; une nouvelle datée n'est connue qu'à sa date)*
+
+## Semaine du 22 au 28/07/2041
+- **Corée du Sud (Séoul)** : sur la semaine écoulée, le won s'affaiblit face à l'euro : 1714,23 KRW pour 1 € le dimanche 21/07, contre 1706,46 une semaine plus tôt.
+- **Corée du Sud (Séoul)** : Météo : l'agence météorologique coréenne maintient un avis de canicule à Séoul · 10 nuits tropicales d'affilée (minimum au-dessus de 25 °C) · les ventes de climatiseurs et de ventilateurs s'envolent.
+- **Corée du Sud (Séoul)** : Arnaques : la police met en garde contre de faux SMS de livreurs ou d'administrations (smishing) · 793 plaintes la semaine dernière dans la capitale.
+- **Luxembourg** : Frontaliers : nouveau record du nombre de travailleurs frontaliers selon les chiffres trimestriels · la France fournit toujours plus de la moitié des entrants.
+- **Lorraine (Audun-le-Tiche, Moselle)** : Moselle : travaux de nuit sur l'A31 entre Thionville et la frontière · bouchons le matin au passage de Zoufftgen.
+- *(écrit par outils/actualites.py le 23/10/2026 heure machine ; modèles tirés : KR01, KR05, LU04, FR01 ; une nouvelle datée n'est connue qu'à sa date)*

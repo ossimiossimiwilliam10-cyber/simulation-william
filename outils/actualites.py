@@ -23,12 +23,12 @@ sys.path.insert(0, str(OUTILS))
 MODELES = DONNEES / "actualites-modeles.csv"
 EVENEMENTS = DONNEES / "evenements.csv"
 MONDE = ETAT / "monde.md"
-NOMS_PAYS = {"ph": "Philippines (Manille)", "lu": "Luxembourg", "fr": "Lorraine (Audun-le-Tiche, Moselle)"}
+NOMS_PAYS = {"ph": "Philippines (Manille)", "kr": "Corée du Sud (Séoul)", "lu": "Luxembourg", "fr": "Lorraine (Audun-le-Tiche, Moselle)"}
 
 
 def pays_de_william():
     import meteo
-    return "ph" if meteo.station_courante() == "manille" else "lu"
+    return {"manille": "ph", "seoul": "kr"}.get(meteo.station_courante(), "lu")  # Séoul : 22/10/2026
 
 
 def lundi_de(jour):
@@ -88,16 +88,18 @@ def semaine(lundi, rng=None, tirer=False):
                         f"signal n° {l['signal']} hissé sur Metro Manila" if l["signal"] else "sans effet attendu sur Metro Manila")
                 lignes.append((0, f"- **{NOMS_PAYS['ph']}** : la PAGASA suit la tempête « {l['nom']} », entrée dans la zone de responsabilité "
                                   f"des Philippines le {dt.date.fromisoformat(entree):%d/%m} ({quoi})."))
+    if ici in ("ph", "kr"):
         import devises
+        code, monnaie = {"ph": ("PHP", "peso"), "kr": ("KRW", "won")}[ici]
         lire_taux = devises.taux if tirer else (lambda j, c: devises.taux_connu(c, j))
-        avant, apres = lire_taux(lundi - dt.timedelta(days=8), "PHP"), lire_taux(lundi - dt.timedelta(days=1), "PHP")
+        avant, apres = lire_taux(lundi - dt.timedelta(days=8), code), lire_taux(lundi - dt.timedelta(days=1), code)
         sens = "s'affaiblit" if apres > avant else "se raffermit" if apres < avant else "ne bouge pas"
         v = lambda x: f"{x:.2f}".replace(".", ",")  # noqa: E731
-        lignes.append((0, f"- **{NOMS_PAYS['ph']}** : sur la semaine écoulée, le peso {sens} face à l'euro : {v(apres)} PHP pour 1 € "
+        lignes.append((0, f"- **{NOMS_PAYS[ici]}** : sur la semaine écoulée, le {monnaie} {sens} face à l'euro : {v(apres)} {code} pour 1 € "
                           f"le dimanche {lundi - dt.timedelta(days=1):%d/%m}, contre {v(avant)} une semaine plus tôt."))
     modeles = [m for m in lire_csv(MODELES) if m["mois"] == "tous" or str(lundi.month) in m["mois"].split(",")]
     # au moins une nouvelle de chez William (Luxembourg ou Lorraine) quand il est ailleurs ; cinq lignes au plus
-    maison = 1 if ici == "ph" else 0
+    maison = 1 if ici in ("ph", "kr") else 0
     repartition = [(ici, 2)] + [(p, 1) for p in ordre[1:]]
     for p, n in repartition:
         candidats = [m for m in modeles if m["pays"] == p]

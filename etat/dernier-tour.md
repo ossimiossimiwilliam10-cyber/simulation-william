@@ -1,35 +1,48 @@
 # Dernier tour montré au joueur
 
-> Tour n° 10 ; horloge 20/07/2041 21:00 -> 21/07/2041 12:05 ; enregistré le 22/10/2026 22:37 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 11 ; horloge 22/07/2041 08:12 -> 22/07/2041 08:12 ; enregistré le 23/10/2026 05:45 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je me fais un rappel comme quoi il faut que je fasse un message dès que j'arrive à Séoul, à Hye-won (dicté « Iwon » puis « Yewon »). Je prends également note pour le barbecue avec Minji. Go pour le TGV. Et peux-tu mettre le téléphone à jour ? Il a encore des informations issues de l'ancien univers.
+> Je remercie Ewan pour son message (dicté « Ewan » : Hye-won). Et je monte dans, bah, je fais mon voyage, quoi. Go
 
 ## Texte envoyé au joueur
 
-📌 **Vraie vie** : « Iwon » et « Yewon » lus comme Hye-won, « Minji » comme Min-ji. Ton rappel est noté : à l'atterrissage, c'est toi qui écris à Hye-won. Le barbecue avec Min-ji est noté, je n'y reviens plus. La voiture est garée au parking longue durée de la gare, à payer à la sortie (12,15 € par jour). Le téléphone est à jour pour l'univers 3 : l'ancienne adresse ne marche plus, la nouvelle est https://claude.ai/artifact/9j5a5bgQy9De1sxL7LZ27z
+🔄 **Revue du lundi n° 1 de l'univers 3** (hors fiction)
+
+**Bilan de la semaine** : corrigé en coulisses, les cartes bancaires, le billet de TGV (74 €), le trajet Audun – Lorraine TGV (1 h 15 et non 30 minutes), les cinq personnages coréens et brésiliens complétés, les aléas de l'univers 2 archivés et le téléphone passé à Séoul (détail : `etat/corrections.md`). Rien de perdu : la promesse de Thiago (data room par courriel, ce lundi) est programmée. L'audit des jets ne relève aucune dérive.
+
+**Nouvelles idées (numéros à valider)**
+- **R1** : décalage horaire de 7 heures, nuits perturbées les trois premiers jours à Séoul.
+- **R2** : téléphone en Corée, l'itinérance hors Union européenne coûte cher ; choix d'une eSIM ou d'une SIM à l'arrivée.
+- **R3** : pack d'aléas de Séoul, A32 (dengue) sans objet, A33 devient « course à l'étranger », nouveaux A34 coup de chaleur (6 % par jour à plus de 35 °C), A35 surfacturation d'un touriste (5 % par semaine), A36 malentendu de langue (10 % par semaine).
+- **R4** : application Transports de Séoul (métro, AREX, bus, T-money).
+- **R5** : friction de langue (anglais « scolaire ») sur les délais et la clarté des messages.
+
+**Ta décision** : valides-tu R1 à R5 ? Les aléas de la semaine sont tirés une fois que tu as répondu.
+
+📌 **Vraie vie** : « Ewan » lu comme Hye-won.
 
 ---
 
-**DIMANCHE 21 JUILLET 2041 — 12h05 — Aéroport Paris-Charles de Gaulle, terminal 2E**
+**LUNDI 22 JUILLET 2041 — 08h12 (heure de Séoul) — Aéroport international d'Incheon, piste**
 
-Le réveil sonne à 06h30. Après sept heures et demie de sommeil, la tête est claire. Le soleil est déjà haut derrière les volets et la rue sent la terre mouillée de l'orage d'hier. Café noir, œufs brouillés, un dernier tour de la maison : la valise de 23 kg et le sac cabine attendent dans l'entrée, la vanne d'eau est fermée depuis la veille. À 07h17, le téléphone vibre sur le plan de travail. Hye-won, depuis Séoul, où il est déjà 14h17 : « Hi William! 😊 Just some info for your arrival on Monday: it is the rainy season, so very hot and humid, and sudden showers are possible. From the airport, the AREX train is the easiest way: about one hour to Hongik University Station, and your officetel is a 10-minute walk from there. Safe flight! ✈️ »
+À 12h10, tu envoies ton remerciement à Hye-won : « Thank you so much for the info, Hye-won! 🙏 ». Rien n'arrive en retour avant l'embarquement. À 12h35, les passagers de Premium Economy passent en premier ; siège 24A, côté hublot. Tu plies tes jambes de 1,96 m comme tu peux : le repose-pieds et quelques centimètres de plus qu'en économique font la différence. L'appareil recule à 13h22 et décolle à 13h29, avec neuf minutes de retard sur l'horaire, le temps que la file des avions devant le vôtre s'écoule.
 
-Tu pars à 07h30. La voiture sort d'Audun, traverse les cités ouvrières et les friches de la sidérurgie, puis prend l'A31 vers le sud. À cette heure, un dimanche, l'autoroute est presque vide : les poids lourds sont interdits, il ne reste que quelques caravanes et des familles qui montent vers les Vosges. La jauge de la batterie, partie de 50 %, passe sous les 40 % vers Metz. À 08h46, à la barrière de Louvigny, tu prends le ticket du parking longue durée en plein air, à côté de la gare de Lorraine TGV : une grande dalle claire plantée au milieu des champs, un vent chaud sur les chaumes, pas un bâtiment alentour. Le ticket se règle à la sortie.
+Le plateau du premier repas arrive vers 14h40, du poulet au riz avec un petit bol de kimchi. Les écrans du siège montrent la mer Caspienne, puis les steppes d'Asie centrale, d'un brun pâle sous un ciel sans nuage. Vers 16h30, tu baisses le store et tu dors presque quatre heures et demie, la tête calée contre la cloison, le ronflement des moteurs en fond. À ton réveil, vers 04h00 à l'heure de Séoul, la carte affiche le désert de Gobi puis les premières montagnes de Chine ; le petit déjeuner suit deux heures plus tard, une omelette et du riz que tu avales sans parler. Dehors, la lumière est déjà blanche.
 
-À 09h05, tu es sur le quai, la valise à tes pieds. Le TGV INOUI part à l'heure, à 09h15. Voiture 12, place 54, côté couloir : la rame est à moitié vide. Les champs de la Meuse puis de la Marne défilent en bandes jaunes et vertes ; tu fermes les yeux un quart d'heure. À 10h33, le train s'arrête sous la grande halle de la gare Aéroport Paris-Charles de Gaulle 2 TGV.
-
-Tu rejoins le terminal 2E à pied, par les passerelles, en un peu plus de dix minutes. Les comptoirs de Korean Air sont ouverts depuis 10h20 : une file de voyageurs pour l'économique, aucune attente au guichet Premium Economy. L'agent compare ton passeport au billet, pèse la valise (22,8 kg), colle l'étiquette de soute et te tend la carte d'embarquement : siège 24A, côté hublot. Le contrôle de sécurité puis la police aux frontières prennent vingt-cinq minutes en tout. À 12h05, tu es assis dans la salle d'embarquement, face à la piste ensoleillée où l'appareil blanc à la queue bleu ciel de ton vol est déjà branché à la passerelle. L'embarquement est annoncé pour 12h35 ; le départ est prévu à 13h20.
+À 08h12, avec vingt-deux minutes de retard sur l'horaire, les roues touchent la piste d'Incheon. Par le hublot, un ciel laiteux, la brume de chaleur au-dessus de la mer Jaune et, au sud-est, une barre de cumulus gris qui annonce l'orage de l'après-midi. Il fait 26 °C au sol. Tu rallumes ton téléphone : un réseau coréen s'accroche en itinérance et ton opérateur luxembourgeois t'envoie un SMS sur ses tarifs hors Union européenne. Tout en haut de l'écran, ton rappel : « Écrire à Hye-won ». L'appareil roule encore vers la porte, les ceintures sont bouclées.
 
 ---
 
 **Réponses attendues**
-- **Hye-won** (WhatsApp) : elle t'a écrit à 07h17 pour te donner quelques informations sur ton arrivée à Séoul (chaleur humide, averses, train AREX jusqu'à la station Hongik University).
+- Aucune.
 
 **À faire / à fournir avant le tour suivant**
-- **Corée du Sud** : la carte d'arrivée électronique (e-Arrival Card) se remplit en ligne ; elle n'est valable que si tu entres dans le pays dans les 72 heures suivant son envoi. Elle n'est pas faite.
-- **Embarquement du KE902** : 12h35, décollage à 13h20, atterrissage à Incheon lundi 22/07 à 07h50.
+- **Rappel** : écrire à Hye-won, comme tu l'avais prévu.
+- **Corée du Sud** : la carte d'arrivée électronique (e-Arrival Card) n'est pas faite ; elle se remplit en ligne.
+- **Officetel de Yeonnam-dong** : arrivée à partir de 11h00 (convenue avec l'hôte).
+- **Argent** : aucun won en poche ; les distributeurs Global ATM sont dans le hall des arrivées.
 
 **Quêtes secondaires**
 - Rien de nouveau.

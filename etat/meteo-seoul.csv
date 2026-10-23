@@ -1,0 +1,7 @@
+date;type;tmin;tmax;pluie_mm;orage;soleil_h;brouillard;description;anomalie;tire_le
+2041-07-21;peu_nuageux;25.8;37.5;0.0;non;7.7;non;"Soleil et quelques nuages ; 38 °C au plus chaud, 26 °C au petit matin ; chaleur écrasante";4.26;2026-10-23T05:40
+2041-07-22;orage;25.3;29.6;5.7;oui;0.6;non;"Orage en début d'après-midi ; 30 °C au plus chaud, 25 °C au petit matin ; 5,7 mm de pluie";0.88;2026-10-23T05:40
+2041-07-23;peu_nuageux;23.0;37.4;0.0;non;6.8;non;"Soleil et quelques nuages ; 37 °C au plus chaud, 23 °C au petit matin ; chaleur écrasante";4.08;2026-10-23T05:40
+2041-07-24;peu_nuageux;24.6;35.6;0.0;non;6.8;non;"Soleil et quelques nuages ; 36 °C au plus chaud, 25 °C au petit matin ; chaleur écrasante";2.28;2026-10-23T05:40
+2041-07-25;nuageux;26.2;37.0;0.0;non;6.2;non;"Ciel partagé ; 37 °C au plus chaud, 26 °C au petit matin ; chaleur écrasante";3.66;2026-10-23T05:40
+2041-07-26;peu_nuageux;21.1;34.2;0.0;non;7.3;non;"Soleil et quelques nuages ; 34 °C au plus chaud, 21 °C au petit matin ; chaleur écrasante";0.87;2026-10-23T05:40
