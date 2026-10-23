@@ -123,6 +123,8 @@ def main():
     e.lancer(o + "transports.py", "options", "--de", "ICN2", "--vers", "HGU", "--quand", "2041-07-22 09:00", contient="Hongik",
              nom="transports : AREX de l'aéroport d'Incheon à Hongik University (Séoul, R4)")
     e.lancer(o + "mobile.py", "verifier", contient="mobile : OK", nom="mobile : offres et prix de référence (R2)")
+    e.lancer(o + "e_arrival.py", "soumettre", "--reservation", "R001", "--quand", "2041-07-22 08:52", "--simule", contient="EAC-",
+             nom="e-Arrival Card : fenêtre de 72 heures respectée et référence calculée (essai)")
     e.lancer(o + "mobile.py", "acheter", "--option", "esim_30j_3go", "--quand", "2041-07-22 10:00", "--simule", contient="RÉUSSI",
              nom="mobile : achat d'une eSIM par carte (essai)")
     noms = [l.split(";")[1] for l in (copie / "etat" / "personnages.csv").read_text(encoding="utf-8").splitlines()[1:] if l.strip()]
