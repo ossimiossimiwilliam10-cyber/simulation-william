@@ -42,3 +42,6 @@
 - Fiabilité : environ 14 % de risque d'oubli ou d'annulation d'un rendez-vous ou d'une promesse.
 - Objectif du moment : réussir le concours de la fonction publique ou un examen de certification. Souci en cours : solitude depuis un déménagement. Loisirs : jardinage.
 - Secret : doit de l'argent à un proche (gravité 1) (fait caché ; ne ressort que par un tirage ou une révélation consignée dans etat/savoir.csv).
+
+## Langue (R5, 22/10/2026)
+- Anglais scolaire mais appliqué : phrases courtes, fautes rares, contresens possibles sur l'ironie et les expressions ; un message long ou complexe de William allonge son délai de réponse (modificateur M105 de T10), sans jamais changer l'issue tirée.

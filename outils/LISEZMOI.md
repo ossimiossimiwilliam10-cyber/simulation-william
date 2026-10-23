@@ -76,6 +76,7 @@
 | `controle_coherence.py` | Contrôle de fin de tour (dates, maîtres, CSV, base, rituels, tables, PDF, tics) | (sans argument) |
 | `audit_jets.py`, `chasse_tics.py`, `fuseaux.py`, `archiver_point_de_reprise.py`, `pdf_base.py`, `verifier_pdf.py` | Audit des probabilités, tics d'écriture, fuseaux horaires, archivage du §9, PDF | voir `--help` |
 | `tests_moteur.py` | Essais automatiques de tous les outils sur une COPIE du dépôt | (sans argument) |
+| `mobile.py` | Téléphone en Corée : eSIM, SIM de l'aéroport, pass journalier d'itinérance (prix projetés, paiement par carte ou sur facture) ; affiché dans Portefeuille | `options`, `acheter`, `etat`, `verifier` ; étiquette `[mobile: acheter option=… carte=…]` |
 
 ## 4. Base de données
 - **Source de vérité** : les fichiers texte (CSV, Markdown, JSONL) versionnés par git. **Base** : `sorties/monde.sqlite`,

@@ -506,6 +506,7 @@ Règles de rôle, sans tirage ; l'argent et le statut de William ne les achèten
 | M102 | T23 | demande_directe +10 ; rien_encore -10 | Rencontre en personne déjà faite (validé le 14/10/2026) |
 | M103 | T23 | demande_directe +15 ; rien_encore -15 | William a déjà donné de l'argent à cette personne (validé le 14/10/2026) |
 | M104 | T23 | allusion +5 ; rien_encore -5 | William a mis en avant sa situation financière (validé le 14/10/2026) |
+| M105 | T10 | dans_la_journee +8 ; le_soir_ou_lendemain +6 ; rapide -8 ; immediat -6 | Message long ou complexe (plus de 200 caractères ou plus de trois phrases) adressé à quelqu'un dont l'anglais est « scolaire » : lecture lente, traduction, réponse préparée (R5, validé le 22/10/2026) |
 
 ## 6. William n'est pas un dieu (symétrie)
 1. **Ses manœuvres sur autrui sont tirées** (T7) ; aucune réussite automatique, même quand sa position est forte ; le « succès net » est plafonné.

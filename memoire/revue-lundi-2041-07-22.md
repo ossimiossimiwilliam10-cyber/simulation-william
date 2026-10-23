@@ -24,7 +24,7 @@ Voir `memoire/propositions-2026-10-22.md` (R1 à R5).
 Voir `etat/monde.md`, « Semaine du 22 au 28/07/2041 » (écrite par `actualites.py` quand l'horloge a passé le lundi).
 
 ## 5. Décisions de l'utilisateur
-En attente : propositions R1 à R5.
+« Je valide R1 à R5, et j'écris à Hye-won. » (22/10/2026) : propositions R1 à R5 validées et installées (corrections U3-15).
 
 ## 6. Tirage des aléas de la semaine
-En attente de la validation des propositions (le pack de l'univers 3 sera tiré avec `python outils/tirage_aleas.py 2041-07-22`, une fois).
+Tiré le 22/10/2026 (`python outils/tirage_aleas.py 2041-07-22`) : A24 (souci de voisinage) dimanche 28/07 après-midi, par un message d'un voisin ; A28 (courriel du lycée) vendredi 26/07 soir ; les autres aléas : non. A34 (coup de chaleur) se tire chaque jour de maximum ≥ 35 °C par `tour.py fin`.

@@ -144,3 +144,6 @@
 90. **Régler l'horloge à la main avant `tour.py fin`** (22/10/2026, `horloge.py --regler` pour noter le sommeil du vol) : `fin` compare l'heure
     d'avant et d'après pour clore les jours et écrire les fiches courtes ; avec l'horloge déjà avancée, la fiche courte du dimanche 21/07/2041
     a manqué (rattrapée à la main avec `tour.fiches_auto`). Noter le sommeil APRÈS `tour.py fin`, ou donner `--fuseau` et `--jusqua` à `fin` seul.
+91. **Une idée validée n'est pas installée tant qu'un outil ne la fait pas tourner** (22/10/2026, R1 à R5) : écrire « validé » dans
+    `etat/aleas.md` ou `memoire/propositions-*.md` ne change rien au jeu ; chaque idée se traduit par une donnée ou une commande (décalage
+    horaire : `corps.py decalage` ; aléa par jour de chaleur : `tour.py fin` ; table : modificateur dans `etat/modele-pouvoir.md`) et par un essai.

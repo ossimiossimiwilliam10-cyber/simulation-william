@@ -81,8 +81,8 @@ def main():
     e.lancer(o + "echeancier.py", "budget", "2040-08", contient="Solde des lignes actives")
     e.lancer(o + "echeancier.py", "prevoir", "--jusqua", "2040-12-31", "--simule", contient="prévu")
     e.lancer(o + "echeancier.py", "verifier", contient="conforme")
-    e.lancer(o + "echeancier.py", "budget", "2040-08", contient="compte projet", nom="échéancier : virement permanent crédité sur « Projet »")
-    e.lancer(o + "prets.py", "liste", contient="110 003,13", nom="prêt PR1 : capital restant dû au 14/07/2040 = 110 003,13 €")
+    e.lancer(o + "echeancier.py", "budget", "2041-08", contient="projet", nom="échéancier : virement permanent crédité sur le compte épargne")
+    e.lancer(o + "prets.py", "liste", contient="102 621,78", nom="prêt PR1 : capital restant dû au 22/07/2041 = 102 621,78 €")
     e.lancer(o + "prets.py", "verifier", contient="conforme")
     e.lancer(o + "prets.py", "tableau", "PR1", "--de", "2052-10", "--a", "2052-10", contient="0.00", nom="prêt PR1 : soldé en octobre 2052")
     e.lancer(o + "savoir.py", "verifier", contient="conforme")
@@ -90,7 +90,7 @@ def main():
     print("\n[Monde : météo, calendrier, lieux, faits, prix]")
     e.lancer(o + "meteo.py", "jour", contient="Météo du")
     e.lancer(o + "meteo.py", "prevision", "--jours", "3", contient="Prévisions consultées")
-    e.lancer(o + "meteo.py", "heure", "2040-07-14 15:30", contient="°C")
+    e.lancer(o + "meteo.py", "heure", "2041-07-22 15:30", contient="°C")
     e.lancer(o + "calendrier_2040.py", "--soleil", "2040-06-21", "--lieu", "luxembourg", contient="lever 05:2")
     e.lancer(o + "calendrier_2040.py", "--scolaire", contient="vacances_ete")
     e.lancer(o + "calendrier_2040.py", "--evenements", "--du", "2040-07-14", "--au", "2040-09-30", contient="Schueberfouer")
@@ -120,6 +120,11 @@ def main():
     e.lancer(o + "personnage.py", "liste", contient="MINEUR")
     e.lancer(o + "personnage.py", "nouveau", "--contexte", "rencontre_seoul", "--role", "rencontre à Séoul", "--sexe", "F",
              "--simule", contient="Séoul", nom="personnage.py : contexte de Séoul (âge de 20 ans au moins)")
+    e.lancer(o + "transports.py", "options", "--de", "ICN2", "--vers", "HGU", "--quand", "2041-07-22 09:00", contient="Hongik",
+             nom="transports : AREX de l'aéroport d'Incheon à Hongik University (Séoul, R4)")
+    e.lancer(o + "mobile.py", "verifier", contient="mobile : OK", nom="mobile : offres et prix de référence (R2)")
+    e.lancer(o + "mobile.py", "acheter", "--option", "esim_30j_3go", "--quand", "2041-07-22 10:00", "--simule", contient="RÉUSSI",
+             nom="mobile : achat d'une eSIM par carte (essai)")
     noms = [l.split(";")[1] for l in (copie / "etat" / "personnages.csv").read_text(encoding="utf-8").splitlines()[1:] if l.strip()]
     adulte, mineur = noms[-2], noms[-1]  # les deux personnages que l'essai vient de créer (le registre n'est plus vide)
     e.lancer(o + "jet.py", "--table", "T1", "--pour", mineur, "essai sur un mineur", attendu=1, contient="REFUSÉ",
@@ -183,16 +188,13 @@ def main():
 
     print("\n[Applications du téléphone : voyages et calendrier]")
     e.lancer(o + "voyages.py", "verifier", contient="conforme")
-    e.lancer(o + "voyages.py", "vols", "--de", "LUX", "--vers", "NSI", "--aller", "2040-08-28", "--retour", "2040-09-18", contient="1 005 €",
-             nom="voyages : le prix montré au tour n° 2 (1 005 € le 28/08) est retrouvé")
-    e.lancer(o + "voyages.py", "mois", "--de", "LUX", "--vers", "NSI", "--mois", "2040-07", contient="1 737 €",
-             nom="voyages : plancher de juillet (1 737 €) retrouvé")
-    e.lancer(o + "voyages.py", "forfait", "--aller", "2040-08-28", "--retour", "2040-09-18", contient="séparément")
-    e.lancer(o + "voyages.py", "formalites", "--vers", "NSI", contient="Fièvre jaune")
+    e.lancer(o + "voyages.py", "vols", "--de", "CDG", "--vers", "ICN", "--aller", "2041-07-21", "--retour", "2041-09-02", contient="1 680 €",
+             nom="voyages : le prix payé par William (1 680 €, Premium Economy) est retrouvé")
+    e.lancer(o + "voyages.py", "mois", "--de", "CDG", "--vers", "ICN", "--mois", "2041-07", contient="1 283 €",
+             nom="voyages : plancher de juillet (1 283 €) retrouvé")
+    e.lancer(o + "voyages.py", "forfait", "--de", "CDG", "--vers", "ICN", "--aller", "2041-07-21", "--retour", "2041-09-02", contient="séparément")
+    e.lancer(o + "voyages.py", "formalites", "--vers", "ICN", contient="K-ETA")
     e.lancer(o + "appli_calendrier.py", contient="ferie")
-    e.lancer(o + "voyages.py", "vols", "--de", "LUX", "--vers", "MNL", "--aller", "2040-07-20", "--retour", "2040-08-31", contient="1 705 €",
-             nom="voyages : Manille, prix montré au tour n° 4 retrouvé")
-    e.lancer(o + "voyages.py", "formalites", "--vers", "MNL", contient="eTravel")
     e.lancer(o + "banque.py", "liste", contient="ordre E012")
     e.lancer(o + "banque.py", "ordre-modifier", "E014", "--montant", "2900", "--quand", "2040-07-14 10:30", contient="modifié",
              nom="banque : un ordre permanent se modifie (prévus recalculés)")
@@ -209,26 +211,23 @@ def main():
              contient="AUTORISÉ", nom="cartes : paiement dans le plafond autorisé (débit immédiat)")
     e.lancer(o + "cartes.py", "verifier", contient="conforme")
     e.lancer(o + "transports.py", "verifier", contient="conforme")
-    e.lancer(o + "etravel.py", "inscrire", "--reservation", "R004", "--quand", "2040-07-14 11:20", "--simule", attendu=1, contient="REFUSÉ",
-             nom="eTravel : refusé plus de 72 heures avant l'arrivée (tour du 14/07)")
     e.lancer(o + "transports.py", "options", "--de", "AUD", "--vers", "FDL", "--quand", "2040-07-18 11:30", contient="Findel",
              nom="transports : Audun-le-Tiche → aéroport de Findel (tour du 16/07)")
     e.lancer(o + "etiquettes.py", "--simule", "--texte", "Test [banque: ordre-suspendre id=E014] [rencontres: aimer id=x] [voyages: reserver vol=W1 aller=2040-09-04 retour=2040-09-25 voyageurs=1]",
              contient="ordre-suspendre", nom="étiquettes : lecture des actions copiées depuis le téléphone")
     e.lancer(o + "appli_calendrier.py", contient="argent")
-    e.lancer(o + "voyages.py", "reserver", "--vol", "V3", "--aller", "2040-08-28", "--retour", "2040-09-18", "--quand", "2040-07-14 10:00",
-             "--simule", contient="1 005", nom="voyages : réservation (essai) au prix de la page")
+    e.lancer(o + "voyages.py", "reserver", "--vol", "S4", "--aller", "2041-07-21", "--retour", "2041-09-02", "--quand", "2041-07-19 18:30",
+             "--simule", contient="1 680", nom="voyages : réservation (essai) au prix de la page")
 
     print("\n[Monde vivant, réactions, argent sur place, courses, actualités (14/10/2026)]")
-    e.lancer(o + "routines.py", "voir", "Kiara Reyes", contient="sommeil", nom="routines : horaires de vie d'un personnage")
+    e.lancer(o + "routines.py", "voir", "Min-ji", contient="sommeil", nom="routines : horaires de vie d'un personnage (Séoul)")
     e.lancer(o + "reactions.py", "en-attente", nom="réactions : réponses programmées")
-    e.lancer(o + "monde_vivant.py", "liens", contient="Kiara Reyes", nom="monde vivant : états des liens")
+    e.lancer(o + "monde_vivant.py", "liens", contient="Min-ji", nom="monde vivant : états des liens")
     e.lancer(o + "actions.py", "liste", nom="actions programmées : liste")
-    e.lancer(o + "tropiques.py", "liste", contient="TC01", nom="tropiques : tempêtes de la saison")
     e.lancer(o + "jet.py", "essai de procédure", "50", "--procedure", "essai", "--simule", contient="[PROCÉDURE : essai]",
              nom="jet : sous-tirage de procédure (ni dérogation, ni réaction)")
     e.lancer(o + "devises.py", "verifier", contient="devises : OK")
-    e.lancer(o + "devises.py", "taux", "--jour", "2040-07-19", contient="PHP", nom="devises : taux du jour")
+    e.lancer(o + "devises.py", "taux", "--jour", "2041-07-19", contient="KRW", nom="devises : taux du jour")
     e.lancer(o + "devises.py", "retirer", "--montant", "10000", "--distributeur", "bdo_naia3", "--quand", "2040-07-19 23:40", "--simule",
              contient="RÉUSSI", nom="devises : retrait au distributeur (frais du distributeur et de la banque)")
     e.lancer(o + "devises.py", "retirer", "--montant", "10050", "--distributeur", "bdo_naia3", "--quand", "2040-07-19 23:40", "--simule",
@@ -236,15 +235,15 @@ def main():
     e.lancer(o + "devises.py", "payer", "--montant", "850", "--marchand", "Essai", "--quand", "2040-07-19 23:40", "--simule",
              contient="AUTORISÉ", nom="devises : paiement par carte en pesos (cours Visa et frais)")
     e.lancer(o + "courses.py", "verifier", contient="courses : OK")
-    e.lancer(o + "courses.py", "options", "--de", "naia_t3", "--vers", "city_garden", "--quand", "2040-07-19 23:45", contient="Taxi à coupon",
-             nom="courses : options depuis l'aéroport (Grab et taxis)")
-    e.lancer(o + "courses.py", "commander", "--service", "grab_car", "--de", "naia_t3", "--vers", "city_garden", "--quand", "2040-07-19 23:45",
-             "--simule", attendu=1, contient="pas installé", nom="courses : Grab exige l'application installée")
-    e.lancer(o + "courses.py", "installer", "--quand", "2040-07-19 23:46", contient="Grab installé", nom="courses : installation de Grab")
-    e.lancer(o + "courses.py", "commander", "--service", "grab_car", "--de", "naia_t3", "--vers", "city_garden", "--quand", "2040-07-19 23:47",
-             "--simule", contient="pas assez d'espèces", nom="courses : Grab payé en espèces sans pesos (problème à l'arrivée)")
+    e.lancer(o + "courses.py", "options", "--de", "icn_t2", "--vers", "officetel_yeonnam", "--quand", "2041-07-22 09:30",
+             contient="Taxi international", nom="courses : options depuis l'aéroport d'Incheon (Kakao T et taxis)")
+    e.lancer(o + "courses.py", "commander", "--service", "kakao_t_seoul", "--de", "icn_t2", "--vers", "officetel_yeonnam", "--quand", "2041-07-22 09:30",
+             "--simule", attendu=1, contient="pas installé", nom="courses : Kakao T exige l'application installée")
+    e.lancer(o + "courses.py", "installer", "--quand", "2041-07-22 09:31", contient="Kakao T installé", nom="courses : installation de Kakao T")
+    e.lancer(o + "courses.py", "commander", "--service", "kakao_t_seoul", "--de", "icn_t2", "--vers", "officetel_yeonnam", "--quand", "2041-07-22 09:32",
+             "--simule", contient="pas assez d'espèces", nom="courses : Kakao T payé en espèces sans wons (problème à l'arrivée)")
     e.lancer(o + "actualites.py", "verifier", contient="actualités : OK")
-    e.lancer(o + "actualites.py", "semaine", "--lundi", "2040-07-23", contient="SONA", nom="actualités : semaine du 23/07 (SONA)")
+    e.lancer(o + "actualites.py", "semaine", "--lundi", "2041-07-22", contient="won", nom="actualités : semaine du 22/07/2041 (Séoul)")
     e.lancer(o + "etiquettes.py", "--simule", "--texte", "[portefeuille: retirer carte=visa_debit montant=10000 distributeur=bdo_naia3] "
              "[courses: commander service=taxi_coupon de=naia_t3 vers=city_garden paiement=especes]", contient="courses.py",
              nom="étiquettes : Portefeuille et Courses")
@@ -252,17 +251,17 @@ def main():
     print("\n[P22 à P26, validées le 14/10/2026 : « j'aime » reçus, intentions, matchs, chauffeurs]")
     e.lancer(o + "jet.py", "--table", "T21c", "--mod", "M100", "--mod", "M101", "essai", "--simule", contient="Tirage [T21c]",
              nom="jet : T21c et modificateurs à trois chiffres (M100, M101)")
-    e.lancer(o + "jet.py", "--table", "T23", "--pour", "Kiara Reyes", "essai", "--simule", contient="Tirage [T23]",
+    e.lancer(o + "jet.py", "--table", "T23", "--pour", "Soo-jin", "essai", "--simule", contient="Tirage [T23]",
              nom="jet : T23 pour une adulte")
     e.lancer(o + "jet.py", "--table", "T23", "--pour", mineur, "essai sur un mineur", attendu=1, contient="REFUSÉ",
              nom="garde : T23 refusée pour un mineur")
-    e.lancer(o + "rencontres.py", "likes-recus", "--jour", "2040-07-20", "--simule", contient="T21c",
+    e.lancer(o + "rencontres.py", "likes-recus", "--jour", "2041-07-22", "--simule", contient="T21c",
              nom="rencontres : « j'aime » reçus (T21c)")
     e.lancer(o + "rencontres.py", "menage", "--lundi", "2040-07-23", "--simule", nom="rencontres : ménage des matchs (T21d)")
-    e.lancer(o + "reactions.py", "rencontre", "--pour", "Kiara Reyes", "--quand", "2040-07-21 15:00", "--lieu", "essai", "--simule",
+    e.lancer(o + "reactions.py", "rencontre", "--pour", "Soo-jin", "--quand", "2041-07-23 15:00", "--lieu", "essai", "--simule",
              contient="T23", nom="réactions : rencontre en personne, puis T23")
-    e.lancer(o + "courses.py", "commander", "--service", "taxi_blanc", "--de", "naia_t3", "--vers", "city_garden",
-             "--quand", "2040-07-19 23:50", "--simule", contient="T24a", nom="courses : chauffeur de taxi tiré (aléa A33, T24a)")
+    e.lancer(o + "courses.py", "commander", "--service", "taxi_ordinaire_seoul", "--de", "hongdae", "--vers", "seongsu",
+             "--quand", "2041-07-23 11:30", "--simule", contient="T24a", nom="courses : chauffeur de taxi tiré (aléa A33, T24a)")
     e.lancer(o + "courses.py", "annuler", "C999", attendu=1, contient="rien à annuler", nom="courses : annulation sans course")
     e.lancer(o + "controle_coherence.py", contient="RÉSULTAT")
 

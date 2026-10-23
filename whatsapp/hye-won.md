@@ -22,3 +22,4 @@
 **[20/07/2041 - 19:05 (Audun-le-Tiche)] Hye-won :** Perfect! Yeonnam is so green and peaceful, you will love writing and resting there. Let me know when your plane lands on Monday morning!
 **[21/07/2041 - 07:17 (Audun-le-Tiche)] Hye-won :** Hi William! 😊 Just some info for your arrival on Monday: it is the rainy season, so very hot and humid, and sudden showers are possible. From the airport, the AREX train is the easiest way: about one hour to Hongik University Station, and your officetel is a 10-minute walk from there. Safe flight! ✈️
 **[21/07/2041 - 12:10 (Paris-Charles de Gaulle)] William :** Thank you so much for the info, Hye-won! 🙏
+**[22/07/2041 - 08:14 (Séoul)] William :** Hi Hye-won! I just landed in Seoul 😊

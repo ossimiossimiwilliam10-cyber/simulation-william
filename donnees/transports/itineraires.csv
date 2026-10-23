@@ -1,15 +1,27 @@
-id;de;vers;troncons;note
-I01;AUD;FDL;B604-AE|CFL60-EL|TR1-GF;bus jusqu'à Esch, train jusqu'à la gare de Luxembourg, tram jusqu'à l'aéroport
-I02;AUD;FDL;B604-AE|CFL60-EL|B29-GF;bus jusqu'à Esch, train jusqu'à la gare de Luxembourg, bus 29 jusqu'à l'aéroport
-I03;AUD;FDL;B604-AL|TR1-HF;bus direct jusqu'au centre de Luxembourg (Hamilius), tram jusqu'à l'aéroport
-I04;FDL;AUD;TR1-FG|CFL60-LE|B604-EA;tram jusqu'à la gare de Luxembourg, train jusqu'à Esch, bus jusqu'à Audun
-I05;FDL;AUD;B29-FG|CFL60-LE|B604-EA;bus 29 jusqu'à la gare de Luxembourg, train jusqu'à Esch, bus jusqu'à Audun
-I06;FDL;AUD;TR1-FH|B604-LA;tram jusqu'à Hamilius, bus direct jusqu'à Audun
-I07;AUD;LXG;B604-AE|CFL60-EL;bus jusqu'à Esch, train jusqu'à la gare de Luxembourg
-I08;LXG;AUD;CFL60-LE|B604-EA;train jusqu'à Esch, bus jusqu'à Audun
-I09;AUD;LXH;B604-AL;bus direct
-I10;LXH;AUD;B604-LA;bus direct
-I11;AUD;ESG;B604-AE;bus
-I12;ESG;AUD;B604-EA;bus
-I13;ESG;FDL;CFL60-EL|TR1-GF;train, puis tram
-I14;FDL;ESG;TR1-FG|CFL60-LE;tram, puis train
+id;de;vers;troncons;note;prix_krw_2026
+I01;AUD;FDL;B604-AE|CFL60-EL|TR1-GF;bus jusqu'à Esch, train jusqu'à la gare de Luxembourg, tram jusqu'à l'aéroport;
+I02;AUD;FDL;B604-AE|CFL60-EL|B29-GF;bus jusqu'à Esch, train jusqu'à la gare de Luxembourg, bus 29 jusqu'à l'aéroport;
+I03;AUD;FDL;B604-AL|TR1-HF;bus direct jusqu'au centre de Luxembourg (Hamilius), tram jusqu'à l'aéroport;
+I04;FDL;AUD;TR1-FG|CFL60-LE|B604-EA;tram jusqu'à la gare de Luxembourg, train jusqu'à Esch, bus jusqu'à Audun;
+I05;FDL;AUD;B29-FG|CFL60-LE|B604-EA;bus 29 jusqu'à la gare de Luxembourg, train jusqu'à Esch, bus jusqu'à Audun;
+I06;FDL;AUD;TR1-FH|B604-LA;tram jusqu'à Hamilius, bus direct jusqu'à Audun;
+I07;AUD;LXG;B604-AE|CFL60-EL;bus jusqu'à Esch, train jusqu'à la gare de Luxembourg;
+I08;LXG;AUD;CFL60-LE|B604-EA;train jusqu'à Esch, bus jusqu'à Audun;
+I09;AUD;LXH;B604-AL;bus direct;
+I10;LXH;AUD;B604-LA;bus direct;
+I11;AUD;ESG;B604-AE;bus;
+I12;ESG;AUD;B604-EA;bus;
+I13;ESG;FDL;CFL60-EL|TR1-GF;train, puis tram;
+I14;FDL;ESG;TR1-FG|CFL60-LE;tram, puis train;
+K01;ICN2;HGU;AREXA-IH;AREX tous arrêts jusqu'à Hongik University : 5 250 KRW en 2026 (F095), sans correspondance;5250
+K02;ICN2;SEL;AREXX-IS;AREX Express direct jusqu'à la gare de Séoul : tarif estimé à 11 000 KRW en 2026;11000
+K03;HGU;ICN2;AREXA-HI;AREX tous arrêts jusqu'au terminal 2;5250
+K04;SEL;ICN2;AREXX-SI;AREX Express direct jusqu'au terminal 2 : tarif estimé à 11 000 KRW en 2026;11000
+K05;HGU;SEO;L2-HS;métro ligne 2 (tarif à la distance, estimé);1750
+K06;SEO;HGU;L2-SH;métro ligne 2 (tarif à la distance, estimé);1750
+K07;HGU;GNM;L2-HG;métro ligne 2 (tarif à la distance, estimé);1850
+K08;GNM;HGU;L2-GH;métro ligne 2 (tarif à la distance, estimé);1850
+K09;HGU;ITW;L2-HHP|L6-HI;ligne 2 puis ligne 6 (correspondance à Hapjeong);1650
+K10;ITW;HGU;L6-IH|L2-HPH;ligne 6 puis ligne 2 (correspondance à Hapjeong);1650
+K11;HGU;MYD;AREXA-HS|L4-SM;AREX puis ligne 4 (correspondance à la gare de Séoul);1650
+K12;MYD;HGU;L4-MS|AREXA-SH;ligne 4 puis AREX (correspondance à la gare de Séoul);1650

@@ -166,6 +166,46 @@ def enregistrer_tour(texte, message, h_avant, h_apres, numero):
     return fichier
 
 
+def aleas_chaleur(avant, apres):
+    """A34 (validé le 22/10/2026) : coup de chaleur ou déshydratation, 6 % chaque jour où le maximum de Séoul atteint 35 °C ; tiré une
+    fois par jour, consigné ; l'événement est ajouté à l'agenda (non connu de William) et se joue à son heure."""
+    import agenda
+    import jet
+    import meteo
+    sortie = []
+    jour, fin = avant["instant"].date(), apres["instant"].date()
+    journal = lire_texte(RACINE / "memoire" / "tirages-aleas.md")
+    while jour <= fin:
+        ligne = meteo.lire("seoul").get(jour.isoformat()) if "seoul" in meteo.stations() else None
+        etait_a_seoul = meteo.station_du_jour(jour) == "seoul"
+        marque = f"A34 coup de chaleur du {jour:%d/%m/%Y}"
+        if ligne and etait_a_seoul and float(ligne["tmax"]) >= 35 and marque not in journal:
+            r = jet.tirer_libre(f"Aléa {marque} (maximum de {float(ligne['tmax']):.0f} °C ; 6 %)", 6)
+            sortie.append(f"A34 {jour:%d/%m} : {'DÉCLENCHÉ' if r['oui'] else 'non'}")
+            if r["oui"]:
+                import random
+                h = random.SystemRandom().choice(["12:40", "13:30", "14:15", "15:05", "16:20"])
+                lignes = agenda.lire()
+                lignes.append({"id": agenda.prochain_id(lignes), "date": jour.isoformat(), "heure": h, "lieu": "seoul", "qui": "William",
+                               "quoi": "A34 : coup de chaleur ou déshydratation de William (malaise léger, une demi-journée perdue)",
+                               "statut": "prevu", "connu": "non",
+                               "note": f"NON CONNU DE WILLIAM avant l'heure · aléa A34, maximum de {float(ligne['tmax']):.0f} °C"})
+                agenda.ecrire(lignes)
+        jour += dt.timedelta(days=1)
+    return sortie
+
+
+def decalage_a_noter(avant, apres):
+    """R1 : une arrivée avec au moins 3 h de décalage horaire est notée dans corps.py (trois nuits perturbées)."""
+    try:
+        ecart = abs((apres["instant"].utcoffset() - avant["instant"].utcoffset()).total_seconds()) / 3600
+    except (AttributeError, TypeError):
+        return None
+    if avant["fuseau"] == apres["fuseau"] or ecart < 3:
+        return None
+    return ecart
+
+
 def cmd_fin(args):
     import echeancier
     import horloge
@@ -186,6 +226,10 @@ def cmd_fin(args):
         sys.exit("Horloge non réglée : " + r.stderr.strip())
     apres = horloge.lire()
     print(f"Horloge : {date_fr(apres['instant'])}, {heure_fr(apres['instant'])} ; tour n° {apres['tour']}")
+    deca = decalage_a_noter(avant, apres)
+    if deca:
+        lancer(OUTILS / "corps.py", "decalage", "--heures", f"{deca:g}", "--quand", f"{apres['instant']:%Y-%m-%d %H:%M}")
+        print(f"  décalage horaire de {deca:g} h noté (corps.py : trois nuits perturbées)")
     faits = echeancier.realiser()
     for l in faits:
         print(f"  argent réalisé : {l['date']} {float(l['montant']):+.2f} € {l['libelle']}")
@@ -193,6 +237,11 @@ def cmd_fin(args):
     if ajouts:
         print(f"  {len(ajouts)} mouvement(s) prévu(s) ajouté(s) au grand livre (60 jours)")
     meteo.assurer(apres["instant"].date() + dt.timedelta(days=3))
+    try:
+        for x in aleas_chaleur(avant, apres):
+            print(f"  {x}")
+    except (SystemExit, KeyError, ValueError) as exc:
+        print(f"  RELIRE aléa de chaleur : {exc}")
     depuis = derniere_heure_machine()
     import actions
     for ident, commande, sortie in actions.executer(apres["instant"]):

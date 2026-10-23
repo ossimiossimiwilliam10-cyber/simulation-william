@@ -2131,3 +2131,38 @@ Toute réaction d'un personnage à un acte de William se tire avec `python outil
 - Tirage [T10] « Heure de l'initiative (message_routine) de Hye-won (22/07/2041) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 16 / le_soir_ou_lendemain 9 / plus_tard_ou_jamais 20 ; modificateurs : M74 ; jet  80.0 → **plus_tard_ou_jamais** (enregistré le 23/10/2026 05:44 heure machine)
 
 - Actualités de la semaine du 22/07/2041 : modèles KR01, KR05, LU04, FR01 [PROCÉDURE : outils/actualites.py] (enregistré le 23/10/2026 05:45 heure machine)
+
+- Tirage [T21b] « Hye-won : réaction au message de William du 22/07 08:14 (seoul) : « Hi Hye-won! I just landed in Seoul 😊 » » : repond 50 / repond_tard 20 / ignore 22 / bloque 8 ; modificateurs : aucun ; jet  40.1 → **repond** (enregistré le 23/10/2026 05:49 heure machine)
+
+- Tirage [T10] « Hye-won : délai de sa réponse (T21b : repond) » : immediat 1 / rapide 11 / dans_l_heure 15 / dans_la_journee 25 / le_soir_ou_lendemain 30 / plus_tard_ou_jamais 18 ; modificateurs : M70, M72 ; jet  42.4 → **dans_la_journee** (enregistré le 23/10/2026 05:49 heure machine)
+
+- Procédure « Hye-won : heure de la réponse » : 22/07 12:23 (seoul) [PROCÉDURE : horaires de vie (routines.py) et intervalle tiré] (enregistré le 23/10/2026 05:49 heure machine)
+
+## Tirage de la semaine du 2041-07-22
+
+| ID | Événement | Probabilité | Jet (0-100) | Résultat |
+|---|---|---|---|---|
+| A02 | Problème de santé d'un proche d'un personnage (ex. mère d'Aïcha, tension) | 8 % |  71.5 | non |
+| A07 | Panne réseau (fibre, 4G) ou banque en ligne | 15 % |  20.2 | non |
+| A09 | Erreur administrative (virement mal affecté, pièce perdue, nom mal orthographié) | 10 % |  69.1 | non |
+| A12 | Fuite d'information (salaires, avances, statut de William) | 5 % |  73.4 | non |
+| A13 | Opportunité commerciale inattendue (recommandation, appel d'un prospect) | 10 % |  22.0 | non |
+| A17 | William lui-même malade ou épuisé (fatigue, gastro) | 5 % |  32.2 | non |
+| A18 | Incident de transport (taxi, panne, retard) | 15 % |  93.9 | non |
+| A19 | Rhume, angine ou gastro de William | 5 % |  78.0 | non |
+| A20 | Perturbation des trajets frontaliers (bus en retard, A4 ou N4 bouchée, travaux) | 20 % |  83.7 | non |
+| A21 | Panne domestique (chauffe-eau, électroménager, fuite) | 4 % |   4.4 | non |
+| A22 | Courrier administratif (impôts français ou luxembourgeois, CNS, mairie, banque) | 10 % |  44.4 | non |
+| A23 | Tentative d'arnaque (SMS de faux colis, faux conseiller bancaire, faux site) | 15 % |  30.5 | non |
+| A24 | Souci de voisinage (bruit, travaux, haie, stationnement) | 5 % |   2.6 | **DÉCLENCHÉ** — dimanche 28/07 (après-midi) |
+| A25 | Blessure légère à l'entraînement (entorse, côte, doigt) | 1 % |   1.3 | non |
+| A26 | Imprévu d'argent (amende, réparation, cadeau, cotisation) | 6 % |  41.7 | non |
+| A27 | Signe d'un ancien (collègue, élève devenu adulte, connaissance) | 8 % |  92.6 | non |
+| A28 | Courriel ou appel du lycée pendant les vacances (réunion de rentrée, ajournements, emploi du temps) | 10 % |   1.9 | **DÉCLENCHÉ** — vendredi 26/07 (soir) |
+| A29 | Contrôle routier ou radar | 3 % |  46.6 | non |
+| A30 | Occasion inattendue (proposition de cours particuliers, invitation, bon plan) | 8 % |  87.9 | non |
+| A31 | Diarrhée du voyageur ou intoxication alimentaire (à l'étranger) | 12 % |  71.4 | non |
+| A35 | Surfacturation ou arnaque visant un touriste (taxi, boutique, bar) | 5 % |  12.8 | non |
+| A36 | Malentendu de langue (adresse mal comprise, commande erronée, document en coréen) | 10 % |  75.6 | non |
+
+Effets à jouer : A24 (dimanche 28/07 (après-midi)) : Maison mitoyenne ; à l'étranger, seulement par un message d'un voisin ; A28 (vendredi 26/07 (soir)) : Le moteur règle le taux selon la période (le tirage lit le premier)

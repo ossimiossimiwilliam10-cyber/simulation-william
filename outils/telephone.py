@@ -48,12 +48,13 @@ def donnees():
     import grand_livre as gl
     import horloge
     import meteo
+    import mobile
     h = horloge.lire()
     t = h["instant"]
     naif = t.replace(tzinfo=None)
     jour = t.date()
     reseau = ("PH · itinérance" if h["fuseau"] == "manille"
-              else "KR · itinérance" if h["fuseau"] == "seoul"
+              else "KR · " + mobile.reseau_court(naif) if h["fuseau"] == "seoul"
               else "LU" if re.search(r"luxembourg|esch|belval|findel|lux\b", h["lieu"], re.I) else "FR")
     # messages
     convs = {}

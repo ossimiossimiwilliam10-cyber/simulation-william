@@ -15,6 +15,20 @@ appli({
     s.append(b1);
     if (eur) { const b2 = el("div", "carte solde"); b2.append(el("span", "nom", "Espèces en euros"), el("span", "chiffre", euros(eur))); s.append(b2); }
     main.append(s);
+    if (P.mobile) {
+      main.append(el("h2", "sec", "Téléphone en Corée"));
+      const m = el("div", "carte"); m.append(el("strong", "", P.mobile.reseau), el("span", "note", P.mobile.forfait));
+      main.append(m);
+      P.mobile.options.forEach(o => {
+        const c = el("div", "carte vol"); const hd = el("div", "haut");
+        hd.append(el("span", "compagnie", o.nom), el("span", "prix", euros(o.prix)));
+        c.append(hd, el("span", "note", o.lieu + (o.note ? " · " + o.note : "")));
+        const b = el("button", "bouton", "Copier : acheter"); b.type = "button";
+        b.addEventListener("click", () => copier("J'achète : " + o.nom + " (" + euros(o.prix) + ")" + (o.type === "itinerance" ? "" : " avec la Visa Debit")
+          + " [mobile: acheter option=" + o.id + (o.type === "itinerance" ? " carte=facture" : " carte=visa_debit") + "]", b, c));
+        c.append(b); main.append(c);
+      });
+    }
     if (!d) return main.append(el("p", "note", "Pas de devise étrangère utile ici."));
     main.append(el("h2", "sec", "Taux du jour"));
     const c = el("div", "carte");

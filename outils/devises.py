@@ -215,6 +215,9 @@ def donnees_telephone(t=None):
         noms = {i: l["nom"] for i, l in lieux.lire().items()}
         res["distributeurs"] = [{"id": d["id"], "banque": d["banque"], "lieu": noms.get(d["lieu"], d["lieu"]), "frais": frais_local(d),
                                  "plafond": plafond(d), "devise": d["devise"]} for d in distributeurs() if d["pays"] == pays]
+        if pays == "kr":  # R2 (22/10/2026) : forfaits mobiles en Corée
+            import mobile
+            res["mobile"] = mobile.donnees_telephone(t)
     return res
 
 

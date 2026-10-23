@@ -1,0 +1,6 @@
+id;type;nom;jours;donnees;prix;lieu;note
+esim_7j;esim;eSIM de voyage Corée du Sud (1 Go, 7 jours);7;1 Go;PX058;achat en ligne, installation par code QR (il faut du Wi-Fi);réseau coréen KT
+esim_30j_3go;esim;eSIM de voyage Corée du Sud (3 Go, 30 jours);30;3 Go;PX059;achat en ligne, installation par code QR (il faut du Wi-Fi);réseau coréen KT
+esim_30j_10go;esim;eSIM de voyage Corée du Sud (10 Go, 30 jours);30;10 Go;PX060;achat en ligne, installation par code QR (il faut du Wi-Fi);réseau coréen KT
+sim_aeroport;sim;SIM physique de l'aéroport (5 Go, 7 jours);7;5 Go;PX061;comptoirs des opérateurs du hall des arrivées du terminal 2;passeport demandé, numéro coréen
+passe_itinerance;itinerance;Pass journalier d'itinérance de ton opérateur (par jour);1;données limitées;PX062;activation par SMS ou dans l'application de l'opérateur;facturé sur la facture mensuelle

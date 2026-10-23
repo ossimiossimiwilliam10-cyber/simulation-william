@@ -4,6 +4,7 @@ chez William, à Audun-le-Tiche, à l'aéroport de Findel sans sa voiture). Calc
 dans la fiction.
 
     python outils/transports.py options --de AUD --vers FDL --quand "2040-07-18 12:00" [--arrivee]   # partir à / arriver avant
+    python outils/transports.py options --de ICN2 --vers HGU --quand "2041-07-22 09:30"             # Séoul (22/10/2026, R4)
     python outils/transports.py arrets | lignes | verifier
 
 Modèle (projection 2040) : chaque ligne a un premier et un dernier départ, une durée, et une fréquence selon le type de jour
@@ -47,13 +48,15 @@ def hhmm(n):
     return f"{(n // 60) % 24:02d}:{n % 60:02d}"
 
 
-def type_jour(d):
-    """semaine | vacances | samedi | dimanche (dimanches et fériés luxembourgeois)."""
+def type_jour(d, pays="lu"):
+    """semaine | vacances | samedi | dimanche (dimanches et fériés du pays : Luxembourg, ou Corée du Sud pour le réseau de Séoul)."""
     import calendrier_2040 as cal
-    if d.weekday() == 6 or d in cal.jours_feries(d.year, "lu"):
+    if d.weekday() == 6 or d in cal.jours_feries(d.year, "kr" if pays == "kr" else "lu"):
         return "dimanche"
     if d.weekday() == 5:
         return "samedi"
+    if pays == "kr":
+        return "semaine"  # réseau de Séoul : pas de calendrier scolaire
     p = cal.periode_scolaire(d, "lu")
     if p and (p["periode"].startswith("vacances") or p["periode"].startswith("conge")):
         return "vacances"
@@ -106,7 +109,7 @@ def options(de, vers, quand, arrivee=False):
     """Itinéraires de `de` à `vers` le jour de `quand` : partir à partir de `quand`, ou (arrivee=True) arriver au plus tard à `quand`.
     Renvoie au plus un résultat par itinéraire type, trié par heure d'arrivée (ou de départ décroissante pour « arriver avant »)."""
     L, A = lignes(), arrets()
-    typ = type_jour(quand.date())
+    typ = type_jour(quand.date(), A[de]["pays"])
     cible = quand.hour * 60 + quand.minute
     res = []
     for it in itineraires():
@@ -124,9 +127,15 @@ def options(de, vers, quand, arrivee=False):
                     break
         if tr:
             res.append({"itineraire": it["id"], "note": it["note"], "troncons": tr, "depart": tr[0]["depart"], "arrivee": tr[-1]["arrivee"],
-                        "duree": tr[-1]["arrivee"] - tr[0]["depart"], "prix": prix(route, L)})
+                        "duree": tr[-1]["arrivee"] - tr[0]["depart"], "prix": prix(route, L), "prix_krw": prix_krw(it)})
     res.sort(key=(lambda r: -r["depart"]) if arrivee else (lambda r: r["arrivee"]))
     return typ, res
+
+
+def prix_krw(it):
+    """Prix en wons d'un itinéraire de Séoul (colonne prix_krw_2026 de itineraires.csv × 1,35, arrondi à 50 KRW), sinon None."""
+    base = (it.get("prix_krw_2026") or "").strip()
+    return int(round(float(base) * 1.35 / 50) * 50) if base else None
 
 
 def prix(route, L=None):
@@ -147,11 +156,15 @@ def donnees_telephone(t=None):
     jour = t.date()
     L = lignes()
     jours = {(jour + dt.timedelta(days=i)).isoformat(): type_jour(jour + dt.timedelta(days=i)) for i in range(61)}
-    return {"aujourdhui": jour.isoformat(), "heure": f"{t:%H:%M}", "arrets": list(arrets().values()),
+    jours_kr = {(jour + dt.timedelta(days=i)).isoformat(): type_jour(jour + dt.timedelta(days=i), "kr") for i in range(61)}
+    import meteo
+    seoul = meteo.station_courante() == "seoul"
+    return {"aujourdhui": jour.isoformat(), "heure": f"{t:%H:%M}", "arrets": list(arrets().values()), "jours_kr": jours_kr,
+            "defaut": {"de": "ICN2", "vers": "HGU"} if seoul else {"de": "AUD", "vers": "FDL"},
             "lignes": [{k: l[k] for k in ("id", "mode", "nom", "de", "vers", "duree", "premier", "dernier", "freq_pointe", "freq_creuse",
                                           "freq_samedi", "freq_dimanche", "pointe", "tarif")} for l in L.values()],
-            "itineraires": [{"id": i["id"], "de": i["de"], "vers": i["vers"], "troncons": i["troncons"].split("|"), "note": i["note"]}
-                            for i in itineraires()],
+            "itineraires": [{"id": i["id"], "de": i["de"], "vers": i["vers"], "troncons": i["troncons"].split("|"), "note": i["note"],
+                             "prix_krw": prix_krw(i)} for i in itineraires()],
             "jours": jours, "prix_regiozone": prix(["B604-AE"], L)}
 
 
@@ -162,7 +175,7 @@ def verifier():
         for cote in ("de", "vers"):
             if l[cote] not in A:
                 erreurs.append(f"lignes.csv : arrêt inconnu {l[cote]} ({l['id']})")
-        if l["tarif"] not in ("gratuit", "regiozone"):
+        if l["tarif"] not in ("gratuit", "regiozone", "wons"):
             erreurs.append(f"lignes.csv : tarif inconnu ({l['id']})")
         try:
             minutes(l["premier"]), minutes(l["dernier"]), int(l["duree"])
@@ -201,7 +214,8 @@ def main():
         print(f"{A[args.de]['nom']} → {A[args.vers]['nom']}, {quand:%d/%m/%Y} ({typ}), "
               f"{'arrivée au plus tard à' if args.arrivee else 'départ à partir de'} {quand:%H:%M} :")
         for r in res:
-            prix_txt = "gratuit" if not r["prix"] else f"{r['prix']:.2f} €".replace(".", ",")
+            prix_txt = (f"{r['prix_krw']:,} KRW".replace(",", " ") if r["prix_krw"] else
+                        "gratuit" if not r["prix"] else f"{r['prix']:.2f} €".replace(".", ","))
             print(f"  {hhmm(r['depart'])} → {hhmm(r['arrivee'])} ({r['duree']} min, {prix_txt}) : " +
                   " ; ".join(f"{x['nom']} {hhmm(x['depart'])} {A[x['de']]['nom']} → {hhmm(x['arrivee'])} {A[x['vers']]['nom']}"
                              for x in r["troncons"]))

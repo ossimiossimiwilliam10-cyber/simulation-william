@@ -88,7 +88,16 @@ def froideur_recente(p, quand, jours=7):
     return False
 
 
-def mods_delai(p, quand, extra=()):
+def langue_scolaire(p):
+    """R5 (22/10/2026) : « anglais : scolaire » écrit dans les notes ou les traits du registre."""
+    return bool(re.search(r"anglais\s*:?\s*scolaire", (p.get("notes") or "") + " " + (p.get("traits") or ""), re.I))
+
+
+def message_complexe(acte):
+    return len(acte or "") > 200 or len(re.findall(r"[.!?…]+(?:\s|$)", acte or "")) > 3
+
+
+def mods_delai(p, quand, extra=(), acte=None):
     mods = []
     if routines.etat(p, quand) in ("sommeil", "travail", "trajet"):
         mods.append("M70")
@@ -96,6 +105,8 @@ def mods_delai(p, quand, extra=()):
         mods.append("M72")
     elif intention(p) in ARGENT:
         mods.append("M71")
+    if acte and langue_scolaire(p) and message_complexe(acte) and "M105" not in mods and len(mods) < 3:
+        mods.append("M105")  # R5 : friction de langue (jamais de refus, seulement un délai plus long)
     for m in extra:
         if m not in mods and len(mods) < 3:
             mods.append(m)
@@ -243,7 +254,7 @@ def message(nom, quand, acte, table="T21b", mods=(), canal="rencontres", simule=
         return res
     if r["issue"] in ("repond", "repond_tard"):
         if r["issue"] == "repond":
-            m10 = mods_delai(p, quand)
+            m10 = mods_delai(p, quand, acte=acte)
             d = jet.tirer("T10", m10, f"{p['nom']} : délai de sa réponse ({table} : repond)", pour=p["nom"])
             t = heure_apres_delai(p, quand, d["issue"])
             note = f"{table} : {r['issue']} (jet {r['jet']:.1f}{', ' + ', '.join(mods[:3]) if mods else ''}) · T10 : {d['issue']} (jet {d['jet']:.1f}{', ' + ', '.join(m10) if m10 else ''})"

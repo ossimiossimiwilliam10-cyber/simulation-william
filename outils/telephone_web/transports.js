@@ -9,14 +9,17 @@ appli({
     const A = Object.fromEntries(T.arrets.map(a => [a.id, a]));
     const L = Object.fromEntries(T.lignes.map(l => [l.id, l]));
     const dates = Object.keys(T.jours).sort();
-    const st = Object.assign({ de: "AUD", vers: "FDL", date: T.aujourdhui, heure: T.heure, sens: "depart" }, memoire.lire("transports", {}));
+    const st = Object.assign({ de: T.defaut.de, vers: T.defaut.vers, date: T.aujourdhui, heure: T.heure, sens: "depart" }, memoire.lire("transports", {}));
     if (!T.jours[st.date]) st.date = T.aujourdhui;
-    if (!A[st.de]) st.de = "AUD";
-    if (!A[st.vers]) st.vers = "FDL";
+    if (!A[st.de]) st.de = T.defaut.de;
+    if (!A[st.vers]) st.vers = T.defaut.vers;
+    const kr = () => A[st.de].pays === "kr";
+    const reseau = () => A[st.de].pays === "kr";
     const sauver = () => memoire.ecrire("transports", st);
     const min = s => { const [h, m] = s.split(":").map(Number); return h * 60 + m; };
     const hh = n => String(Math.floor(n / 60) % 24).padStart(2, "0") + ":" + String(n % 60).padStart(2, "0");
     const NOMS_JOURS = { semaine: "jour de semaine", vacances: "vacances scolaires", samedi: "samedi", dimanche: "dimanche ou jour férié" };
+    const tousArrets = () => T.arrets;
     function frequence(l, typ, m) {
       if (typ === "samedi") return Number(l.freq_samedi);
       if (typ === "dimanche") return Number(l.freq_dimanche);
@@ -42,14 +45,14 @@ appli({
       return tr;
     }
     function options() {
-      const typ = T.jours[st.date]; const cible = min(st.heure); const res = [];
+      const typ = (kr() ? T.jours_kr : T.jours)[st.date]; const cible = min(st.heure); const res = [];
       T.itineraires.filter(it => it.de === st.de && it.vers === st.vers).forEach(it => {
         let tr = null;
         if (st.sens === "depart") tr = suivre(it.troncons, cible, typ);
         else for (const d of departs(L[it.troncons[0]], typ).slice().reverse()) {
           const e = suivre(it.troncons, d, typ); if (e && e[e.length - 1].arrivee <= cible) { tr = e; break; }
         }
-        if (tr) res.push({ it, tr, depart: tr[0].depart, arrivee: tr[tr.length - 1].arrivee,
+        if (tr) res.push({ it, tr, depart: tr[0].depart, arrivee: tr[tr.length - 1].arrivee, krw: it.prix_krw,
           prix: it.troncons.some(x => L[x].tarif === "regiozone") ? T.prix_regiozone : 0 });
       });
       res.sort(st.sens === "depart" ? (a, b) => a.arrivee - b.arrivee : (a, b) => b.depart - a.depart);
@@ -57,13 +60,16 @@ appli({
     }
     function champ(label, input) { const c = el("div", "champ"); const id = "t-" + label.toLowerCase().replace(/[^a-z]/g, "");
       input.id = id; const lb = el("label", "", label); lb.htmlFor = id; c.append(lb, input); return c; }
+    const groupe = a => a.pays === "kr" ? "kr" : "eu";
     function selectArret(cle, label) {
-      const s = el("select"); T.arrets.forEach(a => { const o = el("option", "", a.nom); o.value = a.id; s.append(o); });
-      s.value = st[cle]; s.addEventListener("change", () => { st[cle] = s.value; sauver(); dessiner(); }); return champ(label, s);
+      const s = el("select"); T.arrets.filter(a => cle === "de" || groupe(a) === groupe(A[st.de])).forEach(a => { const o = el("option", "", a.nom); o.value = a.id; s.append(o); });
+      s.value = st[cle]; s.addEventListener("change", () => { st[cle] = s.value;
+        if (groupe(A[st.vers]) !== groupe(A[st.de])) st.vers = (T.arrets.find(a => a.id !== st.de && groupe(a) === groupe(A[st.de])) || {}).id;
+        sauver(); dessiner(); }); return champ(label, s);
     }
     function dessiner() {
       main.replaceChildren();
-      ui.titre("Transports", "Bus, train et tram");
+      ui.titre("Transports", kr() ? "Métro et AREX" : "Bus, train et tram");
       const f = el("div", "formulaire");
       const d = el("input"); d.type = "date"; d.min = dates[0]; d.max = dates[dates.length - 1]; d.value = st.date;
       d.addEventListener("change", () => { if (T.jours[d.value]) { st.date = d.value; sauver(); dessiner(); } });
@@ -78,7 +84,7 @@ appli({
       if (!res.length) return main.append(vide("Aucun trajet", "Pas de correspondance possible ce jour-là à cette heure."));
       res.forEach(r => {
         const c = el("div", "carte vol");
-        const hd = el("div", "haut"); hd.append(el("span", "compagnie", hh(r.depart) + " → " + hh(r.arrivee)), el("span", "prix", r.prix ? euros(r.prix) : "Gratuit"));
+        const hd = el("div", "haut"); hd.append(el("span", "compagnie", hh(r.depart) + " → " + hh(r.arrivee)), el("span", "prix", r.krw ? r.krw.toLocaleString("fr-FR") + " KRW" : r.prix ? euros(r.prix) : "Gratuit"));
         c.append(hd, el("span", "note", (r.arrivee - r.depart) + " min · " + r.tr.length + (r.tr.length > 1 ? " étapes" : " étape")));
         const t = el("div", "trajet");
         r.tr.forEach(x => {
@@ -86,7 +92,8 @@ appli({
         });
         c.append(t); main.append(c);
       });
-      main.append(el("p", "note", "Transports gratuits au Luxembourg. Partie française du trajet : billet RegioZone de 2 heures, à acheter dans l'application CFL go ou aux automates (plus de vente à bord). Horaires théoriques, sous réserve de perturbations."));
+      main.append(el("p", "note", kr() ? "Séoul : carte T-money (à recharger) ou billet à usage unique ; le métro se paie à la distance, correspondances comprises. Horaires théoriques, sous réserve de perturbations."
+        : "Transports gratuits au Luxembourg. Partie française du trajet : billet RegioZone de 2 heures, à acheter dans l'application CFL go ou aux automates (plus de vente à bord). Horaires théoriques, sous réserve de perturbations."));
     }
     dessiner();
   },
