@@ -273,6 +273,37 @@ def fiche_poste():
     pdf.sauver(chemin("documents_william", "2041-07-19_Fiche_de_poste_Directeur_général_Gérant.pdf"))
 
 
+def annonce_v3():
+    """Annonce version 3 de l'agent IA (19/07/2041, 12h32) : ouverte à la diaspora ivoirienne et au monde entier, bilingue."""
+    pdf = DocPDF("Annonce version 3 : diaspora et international", "Pôle ressources humaines (Claude) · vendredi 19 juillet 2041, 12h32", auteur="Claude (agent IA)",
+                 pied="Annonce version 3 — diaspora et international")
+    pdf.titre1("Version française")
+    pdf.para("Directeur Général / Gérant, partenaire opérationnel : solaire pour entreprises à Abidjan. Ouvert aux candidats de la diaspora ivoirienne et d'ailleurs dans le monde qui souhaitent rentrer en Côte d'Ivoire.", taille=11)
+    pdf.para("Un investisseur européen crée à Abidjan une société de droit OHADA dédiée à l'installation et à la maintenance de centrales solaires d'autoproduction sur toitures d'entreprises "
+             "(PME, cliniques, entrepôts, hôtels). Il recherche la personne qui la dirigera sur place, y compris depuis l'étranger pour une période de transition : relocalisation à Abidjan à discuter.")
+    pdf.puces([
+        "Investissement : 300 000 € (environ 196,8 millions FCFA) sur trois ans, en trois tranches conditionnelles : 60 000 €, 135 000 € et 105 000 €, chacune débloquée sur résultats vérifiés et bilan audité.",
+        "Structure : société de droit OHADA ; l'investisseur est associé non-gérant ; le dirigeant local détient seul la direction opérationnelle, encadrée par les statuts, un pacte d'associés, un audit annuel indépendant et des clauses de sortie.",
+        "Marché : croissance du PIB de 6 à 6,7 % par an, objectif de 45 % d'énergies renouvelables en 2030, franc CFA à parité fixe avec l'euro.",
+        "Rémunération : à définir ensemble selon le profil et l'apport du candidat. Aucune promesse de relocalisation ou de salaire à ce stade.",
+        "Profil : ingénieur en électricité ou en énergétique de préférence (ou dix ans de solaire en entreprise), dix ans d'expérience ou plus, vente en entreprises, direction d'équipe, références vérifiables.",
+    ], taille=9.5)
+    pdf.para("Pour répondre : parcours détaillé, trois références, lecture du marché. Aucune somme n'est demandée à qui répond.", taille=9.5)
+    pdf.titre1("English version")
+    pdf.para("General Manager / Managing Director, operating partner: solar power for businesses in Abidjan. Open to candidates from the Ivorian diaspora and from anywhere in the world who wish to return to Côte d'Ivoire.", taille=11)
+    pdf.para("A European investor is setting up an OHADA-law company in Abidjan to install and maintain self-generation solar plants on business rooftops (SMEs, clinics, warehouses, hotels). "
+             "The investor is looking for the person who will run it on the ground, possibly from abroad during a transition period; relocation to Abidjan to be discussed.")
+    pdf.puces([
+        "Investment: EUR 300,000 (about CFA 196.8 million) over three years in three conditional tranches of EUR 60,000, 135,000 and 105,000, each released on verified results and audited accounts.",
+        "Structure: OHADA-law company; the investor is a non-managing partner; the local manager holds sole operational management, framed by the articles, a shareholders' agreement, an annual independent audit and exit clauses.",
+        "Market: GDP growth of 6 to 6.7% a year, a 45% renewable-energy target for 2030, CFA franc pegged to the euro.",
+        "Pay: to be agreed according to the candidate's profile and contribution. No promise of relocation or salary at this stage.",
+        "Profile: electrical or energy engineer preferred (or ten years of solar experience in business), ten years or more of experience, B2B sales, team management, verifiable references.",
+    ], taille=9.5)
+    pdf.para("To apply: detailed background, three references, your view of the market. No payment is ever requested from applicants.", taille=9.5)
+    pdf.sauver(chemin("documents_william", "2041-07-19_Annonce_version_3_diaspora_et_international.pdf"))
+
+
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else ""
     if cmd in ("courriel-ministere", "tout"):
@@ -285,8 +316,10 @@ if __name__ == "__main__":
         regles_v2()
     if cmd == "regles-v3":
         regles_v3()
+    if cmd == "annonce-v3":
+        annonce_v3()
     if cmd == "poste":
         note_titre()
         fiche_poste()
-    if cmd not in ("courriel-ministere", "abonnement", "annonce", "regles-v2", "regles-v3", "poste", "tout"):
+    if cmd not in ("courriel-ministere", "abonnement", "annonce", "regles-v2", "regles-v3", "annonce-v3", "poste", "tout"):
         sys.exit(__doc__)

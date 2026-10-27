@@ -106,3 +106,66 @@
 - **Secret (moteur seulement)** : —
 - **Horaires** : règle « bureau », fuseau abidjan, décalage +24 min ; travail 09:24-17:54 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:54-07:24
 - **Derniers événements** : —
+
+### Jonathan Ouattara (répondant à l'annonce)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : acheter un logement (ou un plus grand) ; **souci** : un parent âgé dont la santé décline ; **foyer** : en couple, sans enfant
+- **Secret (moteur seulement)** : —
+- **Horaires** : règle « bureau », fuseau luxembourg, décalage +1 min ; travail 09:01-17:31 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:31-07:01
+- **Derniers événements** : —
+
+### Mohamed Coulibaly (répondant à l'annonce)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : acheter un logement (ou un plus grand) ; **souci** : contrat de travail qui se termine bientôt ; **foyer** : en couple, avec enfants
+- **Secret (moteur seulement)** : —
+- **Horaires** : règle « bureau », fuseau luxembourg, décalage -21 min ; travail 08:39-17:09 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:09-06:39
+- **Derniers événements** : —
+
+### Maïmouna Koné (répondant à l'annonce)
+- **Lien avec William** : contact_recent (whatsapp)
+- **Objectif** : obtenir une promotion ou un poste plus stable ; **souci** : voisin bruyant ; **foyer** : vit seul(e)
+- **Secret (moteur seulement)** : —
+- **Horaires** : règle « enseignant », fuseau luxembourg, décalage -15 min ; travail 07:45-15:45 (lun, mar, mer, jeu, ven), trajet 45 min ; sommeil 22:45-06:15
+- **Derniers événements** : —
+
+### Brice Tapé (répondant à l'annonce)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : passer plus de temps avec ses enfants ; **souci** : problème de santé qu'il refuse de faire examiner ; **foyer** : en couple, avec enfants
+- **Secret (moteur seulement)** : —
+- **Horaires** : règle « bureau », fuseau luxembourg, décalage -21 min ; travail 08:39-17:09 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:09-06:39
+- **Derniers événements** : —
+
+### Kader Assi (répondant à l'annonce)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : préparer une compétition ou un examen ; **souci** : loyer qui augmente ; **foyer** : vit seul(e)
+- **Secret (moteur seulement)** : —
+- **Horaires** : règle « bureau », fuseau luxembourg, décalage +30 min ; travail 09:30-18:00 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 00:00-07:30
+- **Derniers événements** : —
+
+### Boubacar Sylla (répondant à l'annonce)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : monter ou diriger une entreprise au pays ; **souci** : loyer qui augmente ; **foyer** : vit seul(e)
+- **Secret (moteur seulement)** : a menti sur son diplôme ou son expérience (gravité 2)
+- **Horaires** : règle « bureau », fuseau luxembourg, décalage +9 min ; travail 09:09-17:39 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:39-07:09
+- **Derniers événements** : —
+
+### Cédric Soro (répondant à l'annonce)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : changer de métier ; **souci** : contrat de travail qui se termine bientôt ; **foyer** : en couple, avec enfants
+- **Secret (moteur seulement)** : —
+- **Horaires** : règle « bureau », fuseau abidjan, décalage -5 min ; travail 08:55-17:25 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:25-06:55
+- **Derniers événements** : —
+
+### Landry Aka (répondant à l'annonce)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : préparer une compétition ou un examen ; **souci** : famille installée à l'étranger qui hésite à rentrer ; **foyer** : vit seul(e)
+- **Secret (moteur seulement)** : —
+- **Horaires** : règle « bureau », fuseau luxembourg, décalage +28 min ; travail 09:28-17:58 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:58-07:28
+- **Derniers événements** : —
+
+### Fabrice Koffi (répondant à l'annonce)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : mettre de l'argent de côté pour ses vieux jours ; **souci** : mal de dos chronique ; **foyer** : vit seul(e)
+- **Secret (moteur seulement)** : —
+- **Horaires** : règle « bureau », fuseau abidjan, décalage +12 min ; travail 09:12-17:42 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:42-07:12
+- **Derniers événements** : —

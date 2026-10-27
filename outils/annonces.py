@@ -36,14 +36,15 @@ REPONSES = ETAT / "reponses-annonce.csv"
 COL_A = ["id", "plateforme", "publiee_le", "etat", "traitee_jusqua", "note"]
 COL_R = ["id", "quand", "plateforme", "nom", "niveau", "profil", "signaux", "note"]
 TAUX = {"LinkedIn": 0.30, "Educarriere.ci": 0.55, "NovoJob": 0.50, "Indeed": 0.0, "Facebook": 0.70, "Instagram": 0.10, "Reddit": 0.10, "CoinAfrique": 0.35,
-        "Kosafi Annonce CI": 0.25}  # réponses attendues par heure juste après la publication (réseaux sociaux : plus de monde, moins de sérieux)
+        "Kosafi Annonce CI": 0.25, "LinkedIn international": 0.45, "Groupes de la diaspora": 0.50, "Anciens élèves et associations": 0.20}  # réponses attendues par heure juste après la publication (réseaux sociaux : plus de monde, moins de sérieux)
+DIASPORA = {"LinkedIn international", "Groupes de la diaspora", "Anciens élèves et associations"}  # répondants du monde entier : contexte « candidat_diaspora »
 ARNAQUE = {"Facebook": 22, "Instagram": 20, "Reddit": 15, "CoinAfrique": 20, "Kosafi Annonce CI": 20}  # part d'arnaques aux frais d'avance (défaut : 12 %)
 SEUIL_CONTACT = 70  # note sur 100 à partir de laquelle l'agent obtient le numéro du répondant pour William (18/07/2041 ; 60 à 69 : second entretien)
 DEROGATION = ("flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée "
               "(proposition à la revue du lundi 22/07/2041)")
 RESEAUX = ETAT / "reseaux-repondants.csv"
 COL_N = ["nom", "proprietaires", "decideurs_pct", "factures_pct", "intros", "motivation", "note", "detail"]
-PERTINENCE = [("ingénieur", 3), ("chercheur", 3), ("consultant", 2), ("cadre", 2), ("technicien", 2), ("immobilier", 1), ("comptable", 1),
+PERTINENCE = [("ingénieur", 3), ("chercheur", 3), ("consultant", 2), ("cadre", 2), ("technicien", 2), ("immobilier", 1), ("comptable", 1), ("commercial", 1), ("banquier", 1), ("financier", 1), ("juriste", 1), ("avocat", 1), ("entrepreneur", 1),
               ("commerçant", 1), ("fonctionnaire", 1), ("employé", 0), ("sans emploi", 0), ("étudiant", 0)]
 
 
@@ -64,9 +65,9 @@ def pertinence(metier):
     return next((v for k, v in PERTINENCE if k in m), 0)
 
 
-def creer_repondant(figurant, simule=False):
+def creer_repondant(figurant, simule=False, contexte="candidat_annonce_abidjan"):
     """Appelle le générateur (zone Abidjan) ; renvoie (nom, ligne de description)."""
-    cmd = [sys.executable, str(OUTILS / "personnage.py"), "nouveau", "--contexte", "candidat_annonce_abidjan", "--role", "répondant à l'annonce"]
+    cmd = [sys.executable, str(OUTILS / "personnage.py"), "nouveau", "--contexte", contexte, "--role", "répondant à l'annonce"]
     if figurant:
         cmd.append("--figurant")
     if simule:
@@ -111,7 +112,7 @@ def tirer(jusqua, simule=False):
     for a, quand in sorted(resultats, key=lambda x: x[1]):
         arnaque = jet.tirer_libre(f"Le répondant de {quand:%H:%M} ({a['plateforme']}) est une arnaque aux frais d'avance (profil créé pour l'occasion)", ARNAQUE.get(a["plateforme"], 12),
                                   derogation=DEROGATION, simule=simule)["oui"]
-        nom, desc = creer_repondant(figurant=arnaque, simule=simule)
+        nom, desc = creer_repondant(figurant=arnaque, simule=simule, contexte="candidat_diaspora" if a["plateforme"] in DIASPORA else "candidat_annonce_abidjan")
         lignes_desc = desc.splitlines()
         metier = lignes_desc[2].split(" ; ")[0].strip() if len(lignes_desc) > 2 else ""
         if arnaque:

@@ -1,11 +1,14 @@
 id;plateforme;publiee_le;etat;traitee_jusqua;note
-AN001;LinkedIn;2041-07-16 13:09;en_ligne;2041-07-19 18:00;publiée depuis le profil de William, sans son nom dans le texte · version 2 (Directeur Général ou Gérant, montants chiffrés) publiée le 19/07/2041 à 00h02
-AN002;Educarriere.ci;2041-07-16 13:31;en_ligne;2041-07-19 18:00;validée par la modération à 13h31 · version 2 validée à 00h09
-AN003;NovoJob;2041-07-17 09:12;en_ligne;2041-07-19 18:00;validée par la modération le 17/07 à 09h12 (agenda A008) · version 2 validée à 00h11
+AN001;LinkedIn;2041-07-16 13:09;en_ligne;2041-07-19 19:37;publiée depuis le profil de William, sans son nom dans le texte · version 2 (Directeur Général ou Gérant, montants chiffrés) publiée le 19/07/2041 à 00h02
+AN002;Educarriere.ci;2041-07-16 13:31;en_ligne;2041-07-19 19:37;validée par la modération à 13h31 · version 2 validée à 00h09
+AN003;NovoJob;2041-07-17 09:12;en_ligne;2041-07-19 19:37;validée par la modération le 17/07 à 09h12 (agenda A008) · version 2 validée à 00h11
 AN004;Indeed;;en_attente;;justificatif d'entreprise demandé avant publication
 AN005;Emploi.ci;;refusee;;société immatriculée en Côte d'Ivoire exigée
-AN006;Facebook;2041-07-19 17:23;en_ligne;2041-07-19 18:00;"compte du projet créé le 18/07/2041 ; publication envoyée dans des groupes d'entrepreneurs, d'ingénieurs et d'immobilier d'Abidjan : non approuvée dans la nuit (tirage), approbation des administrateurs attendue · publication remplacée par la version 2, toujours en attente des administrateurs · approuvée par les administrateurs le 19/07/2041 à 17h23 (tirage), en ligne"
+AN006;Facebook;2041-07-19 17:23;en_ligne;2041-07-19 19:37;"compte du projet créé le 18/07/2041 ; publication envoyée dans des groupes d'entrepreneurs, d'ingénieurs et d'immobilier d'Abidjan : non approuvée dans la nuit (tirage), approbation des administrateurs attendue · publication remplacée par la version 2, toujours en attente des administrateurs · approuvée par les administrateurs le 19/07/2041 à 17h23 (tirage), en ligne"
 AN007;Instagram;;moderation;;compte bloqué à la création : pièce d'identité et vidéo-selfie demandées (décision de William) · pièce d'identité et vidéo-selfie envoyées par William le 19/07/2041 à 00h40 : vérification acceptée (tirage), terminée le 19/07 à 20h28 (agenda A016, non connu)
 AN008;Reddit;;en_attente;;"compte du projet créé mais trop récent pour publier dans les communautés ivoiriennes ; nouvel essai dans quelques jours"
-AN009;CoinAfrique;2041-07-18 22:58;en_ligne;2041-07-19 18:00;annonce validée par la modération · version 2 validée à 00h06
-AN010;Kosafi Annonce CI;2041-07-18 22:51;en_ligne;2041-07-19 18:00;annonce validée par la modération · version 2 en modération, l'ancienne version reste en ligne
+AN009;CoinAfrique;2041-07-18 22:58;en_ligne;2041-07-19 19:37;annonce validée par la modération · version 2 validée à 00h06
+AN010;Kosafi Annonce CI;2041-07-18 22:51;en_ligne;2041-07-19 19:37;annonce validée par la modération · version 2 en modération, l'ancienne version reste en ligne
+AN011;LinkedIn international;2041-07-19 12:32;en_ligne;2041-07-19 19:37;version bilingue français-anglais ouverte à la diaspora ivoirienne et au monde entier, publiée depuis le profil de William
+AN012;Groupes de la diaspora;2041-07-19 13:36;en_ligne;2041-07-19 19:37;groupes Facebook de la diaspora ivoirienne : soumise à 12h48, approuvée par les administrateurs à 13h36 (tirage)
+AN013;Anciens élèves et associations;;en_attente;;réseaux d'anciens élèves d'écoles d'ingénieurs et associations de la diaspora : demande envoyée à 13h10, non acceptée avant 19h37 (tirage)

@@ -2800,3 +2800,163 @@ Effets à jouer : A23 (dimanche 21/07 (matin)) : Très courant ; William voit le
 - Tirage [T17] « Jean-Baptiste Tuo : réaction au message de William du 19/07 09:52 (abidjan) : « message de l'agent IA : sa note dépasse le seuil, il reçoit le numéro WhatsApp personnel d » » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  74.5 → **reciproque** (enregistré le 27/10/2026 15:48 heure machine)
 
 - Tirage [T10] « Jean-Baptiste Tuo : délai (premier message WhatsApp de Jean-Baptiste Tuo à William (T17 : reciproque = inté) » : immediat 7 / rapide 18 / dans_l_heure 15 / dans_la_journee 25 / le_soir_ou_lendemain 25 / plus_tard_ou_jamais 10 ; modificateurs : M70 ; jet  27.4 → **dans_l_heure** (enregistré le 27/10/2026 15:49 heure machine)
+
+- Jet « Groupes Facebook de la diaspora ivoirienne : la publication est approuvée par les administrateurs avant vendredi 19h37 » : probabilité 60 %, jet  33.8 → **OUI** [DÉROGATION : modération de groupes et de réseaux (administrateurs, pas des personnages) : proposition R6] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Groupes Facebook de la diaspora : heure d'approbation entre 12h48 et 19h37 (12h48 + jet × 6,82 h / 60) » : probabilité 60 %, jet   7.1 → **OUI** [DÉROGATION : modération de groupes et de réseaux (administrateurs, pas des personnages) : proposition R6] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Réseaux d'anciens élèves et associations de la diaspora : la publication est acceptée par les administrateurs avant vendredi 19h37 » : probabilité 35 %, jet  90.0 → **NON** [DÉROGATION : modération de groupes et de réseaux (administrateurs, pas des personnages) : proposition R6] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Réseaux d'anciens : heure d'acceptation entre 13h10 et 19h37 (13h10 + jet × 6,45 h / 35) » : probabilité 35 %, jet  25.0 → **OUI** [DÉROGATION : modération de groupes et de réseaux (administrateurs, pas des personnages) : proposition R6] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn entre 18:00 et 19:00 » : probabilité 0.000112971 %, jet  57.6 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn entre 19:00 et 19:37 » : probabilité 5.92155e-05 %, jet  53.3 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Educarriere.ci entre 18:00 et 19:00 » : probabilité 0.00021983 %, jet  21.1 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Educarriere.ci entre 19:00 et 19:37 » : probabilité 0.000115228 %, jet  90.0 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Une personne répond à l'annonce sur NovoJob entre 18:00 et 19:00 » : probabilité 0.00489739 %, jet  37.5 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Une personne répond à l'annonce sur NovoJob entre 19:00 et 19:37 » : probabilité 0.00256705 %, jet  93.7 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Facebook entre 18:00 et 19:00 » : probabilité 63.3247 %, jet  25.6 → **OUI** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Minute d'arrivée de la réponse (Facebook, 18:00-19:00) : minute = jet × durée / 100 » : probabilité 50 %, jet  34.5 → **OUI** [PROCÉDURE : minute dans une fenêtre d'une heure] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Facebook entre 19:00 et 19:37 » : probabilité 33.1927 %, jet  20.6 → **OUI** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Minute d'arrivée de la réponse (Facebook, 19:00-19:37) : minute = jet × durée / 100 » : probabilité 50 %, jet  37.1 → **OUI** [PROCÉDURE : minute dans une fenêtre d'une heure] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Une personne répond à l'annonce sur CoinAfrique entre 18:00 et 19:00 » : probabilité 1.58736 %, jet  76.8 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Une personne répond à l'annonce sur CoinAfrique entre 19:00 et 19:37 » : probabilité 0.83204 %, jet  18.6 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Kosafi Annonce CI entre 18:00 et 19:00 » : probabilité 1.11253 %, jet  81.3 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Kosafi Annonce CI entre 19:00 et 19:37 » : probabilité 0.583152 %, jet  65.4 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn international entre 12:32 et 13:32 » : probabilité 45 %, jet  28.4 → **OUI** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Minute d'arrivée de la réponse (LinkedIn international, 12:32-13:32) : minute = jet × durée / 100 » : probabilité 50 %, jet  20.4 → **OUI** [PROCÉDURE : minute dans une fenêtre d'une heure] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn international entre 13:32 et 14:32 » : probabilité 38.25 %, jet  74.4 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn international entre 14:32 et 15:32 » : probabilité 32.5125 %, jet  61.1 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn international entre 15:32 et 16:32 » : probabilité 27.6356 %, jet  18.0 → **OUI** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Minute d'arrivée de la réponse (LinkedIn international, 15:32-16:32) : minute = jet × durée / 100 » : probabilité 50 %, jet  97.4 → **NON** [PROCÉDURE : minute dans une fenêtre d'une heure] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn international entre 16:32 et 17:32 » : probabilité 23.4903 %, jet   9.1 → **OUI** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Minute d'arrivée de la réponse (LinkedIn international, 16:32-17:32) : minute = jet × durée / 100 » : probabilité 50 %, jet  28.2 → **OUI** [PROCÉDURE : minute dans une fenêtre d'une heure] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn international entre 17:32 et 18:32 » : probabilité 19.9667 %, jet   0.1 → **OUI** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Minute d'arrivée de la réponse (LinkedIn international, 17:32-18:32) : minute = jet × durée / 100 » : probabilité 50 %, jet  82.5 → **NON** [PROCÉDURE : minute dans une fenêtre d'une heure] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn international entre 18:32 et 19:32 » : probabilité 16.9717 %, jet  98.2 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn international entre 19:32 et 19:37 » : probabilité 1.20216 %, jet  89.1 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Groupes de la diaspora entre 13:36 et 14:36 » : probabilité 50 %, jet  22.5 → **OUI** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Minute d'arrivée de la réponse (Groupes de la diaspora, 13:36-14:36) : minute = jet × durée / 100 » : probabilité 50 %, jet  50.9 → **NON** [PROCÉDURE : minute dans une fenêtre d'une heure] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Groupes de la diaspora entre 14:36 et 15:36 » : probabilité 42.5 %, jet  14.8 → **OUI** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Minute d'arrivée de la réponse (Groupes de la diaspora, 14:36-15:36) : minute = jet × durée / 100 » : probabilité 50 %, jet  45.1 → **OUI** [PROCÉDURE : minute dans une fenêtre d'une heure] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Groupes de la diaspora entre 15:36 et 16:36 » : probabilité 36.125 %, jet  54.7 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Groupes de la diaspora entre 16:36 et 17:36 » : probabilité 30.7062 %, jet  17.3 → **OUI** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Minute d'arrivée de la réponse (Groupes de la diaspora, 16:36-17:36) : minute = jet × durée / 100 » : probabilité 50 %, jet  19.2 → **OUI** [PROCÉDURE : minute dans une fenêtre d'une heure] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Groupes de la diaspora entre 17:36 et 18:36 » : probabilité 26.1003 %, jet  86.4 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Groupes de la diaspora entre 18:36 et 19:36 » : probabilité 22.1853 %, jet  88.9 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Groupes de la diaspora entre 19:36 et 19:37 » : probabilité 0.314291 %, jet  74.0 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Le répondant de 12:44 (LinkedIn international) est une arnaque aux frais d'avance (profil créé pour l'occasion) » : probabilité 12 %, jet  57.5 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Années d'expérience de Jonathan Ouattara dans le domaine : 3 + jet × (âge − 25 − 3) / 100 » : probabilité 50 %, jet  88.7 → **NON** [PROCÉDURE : années d'expérience d'un répondant] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Les références de Jonathan Ouattara sont vérifiables » : probabilité 60 %, jet  40.1 → **OUI** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Le répondant de 14:07 (Groupes de la diaspora) est une arnaque aux frais d'avance (profil créé pour l'occasion) » : probabilité 12 %, jet  48.5 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Années d'expérience de Mohamed Coulibaly dans le domaine : 3 + jet × (âge − 25 − 3) / 100 » : probabilité 50 %, jet  45.8 → **OUI** [PROCÉDURE : années d'expérience d'un répondant] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Les références de Mohamed Coulibaly sont vérifiables » : probabilité 60 %, jet  51.7 → **OUI** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Le répondant de 15:03 (Groupes de la diaspora) est une arnaque aux frais d'avance (profil créé pour l'occasion) » : probabilité 12 %, jet  17.2 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Années d'expérience de Maïmouna Koné dans le domaine : 3 + jet × (âge − 25 − 3) / 100 » : probabilité 50 %, jet  97.4 → **NON** [PROCÉDURE : années d'expérience d'un répondant] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Les références de Maïmouna Koné sont vérifiables » : probabilité 60 %, jet  51.5 → **OUI** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Le répondant de 16:30 (LinkedIn international) est une arnaque aux frais d'avance (profil créé pour l'occasion) » : probabilité 12 %, jet  78.4 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Années d'expérience de Brice Tapé dans le domaine : 3 + jet × (âge − 25 − 3) / 100 » : probabilité 50 %, jet  43.8 → **OUI** [PROCÉDURE : années d'expérience d'un répondant] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Les références de Brice Tapé sont vérifiables » : probabilité 60 %, jet  23.9 → **OUI** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Le répondant de 16:47 (Groupes de la diaspora) est une arnaque aux frais d'avance (profil créé pour l'occasion) » : probabilité 12 %, jet  78.6 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Années d'expérience de Kader Assi dans le domaine : 3 + jet × (âge − 25 − 3) / 100 » : probabilité 50 %, jet  90.4 → **NON** [PROCÉDURE : années d'expérience d'un répondant] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Les références de Kader Assi sont vérifiables » : probabilité 60 %, jet  71.2 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Le répondant de 16:49 (LinkedIn international) est une arnaque aux frais d'avance (profil créé pour l'occasion) » : probabilité 12 %, jet   6.1 → **OUI** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Le répondant de 18:21 (Facebook) est une arnaque aux frais d'avance (profil créé pour l'occasion) » : probabilité 22 %, jet  50.8 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Années d'expérience de Cédric Soro dans le domaine : 3 + jet × (âge − 25 − 3) / 100 » : probabilité 50 %, jet  62.2 → **NON** [PROCÉDURE : années d'expérience d'un répondant] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Les références de Cédric Soro sont vérifiables » : probabilité 60 %, jet  92.3 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Le répondant de 18:22 (LinkedIn international) est une arnaque aux frais d'avance (profil créé pour l'occasion) » : probabilité 12 %, jet  78.8 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Années d'expérience de Landry Aka dans le domaine : 3 + jet × (âge − 25 − 3) / 100 » : probabilité 50 %, jet   3.3 → **OUI** [PROCÉDURE : années d'expérience d'un répondant] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Les références de Landry Aka sont vérifiables » : probabilité 60 %, jet  39.5 → **OUI** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Le répondant de 19:14 (Facebook) est une arnaque aux frais d'avance (profil créé pour l'occasion) » : probabilité 22 %, jet  37.0 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Années d'expérience de Fabrice Koffi dans le domaine : 3 + jet × (âge − 25 − 3) / 100 » : probabilité 50 %, jet  62.9 → **NON** [PROCÉDURE : années d'expérience d'un répondant] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Jet « Les références de Fabrice Koffi sont vérifiables » : probabilité 60 %, jet  53.5 → **OUI** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:54 heure machine)
+
+- Tirage [T17] « Maïmouna Koné : réaction au message de William du 19/07 15:10 (luxembourg) : « premier message de l'entretien de l'agent IA (poste de directeur général ou gérant) : parc » » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  37.2 → **conversation** (enregistré le 27/10/2026 15:55 heure machine)
+
+- Tirage [T17] « Brice Tapé : réaction au message de William du 19/07 16:36 (luxembourg) : « premier message de l'entretien de l'agent IA (poste de directeur général ou gérant) : parc » » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  25.8 → **poli_bref** (enregistré le 27/10/2026 15:55 heure machine)
+
+- Tirage [T10] « Maïmouna Koné : délai (réponse de Maïmouna Koné (profil A, enseignante-chercheuse, diaspora) au premier) » : immediat 7 / rapide 18 / dans_l_heure 15 / dans_la_journee 25 / le_soir_ou_lendemain 25 / plus_tard_ou_jamais 10 ; modificateurs : M70 ; jet  36.8 → **dans_l_heure** (enregistré le 27/10/2026 15:55 heure machine)
+
+- Tirage [T10] « Brice Tapé : délai (réponse de Brice Tapé (profil A, technicien supérieur, diaspora) au premier mess) » : immediat 7 / rapide 18 / dans_l_heure 15 / dans_la_journee 25 / le_soir_ou_lendemain 25 / plus_tard_ou_jamais 10 ; modificateurs : M70 ; jet  26.2 → **dans_l_heure** (enregistré le 27/10/2026 15:55 heure machine)
+
+- Jet « Arthur Kieffer vient au club vendredi après-midi (il a dit oui à tout, 70 %) » : probabilité 70 %, jet  47.0 → **OUI** [DÉROGATION : présence d'un figurant au club selon son défaut (annulation de dernière minute), pas une réaction à William] (enregistré le 27/10/2026 15:55 heure machine)
+
+- Jet « Maïmouna Koné vit en France (résidence du répondant de la diaspora, sinon pays suivant ; ordre France, Canada, États-Unis, Royaume-Uni, Belgique) » : probabilité 42 %, jet  22.5 → **OUI** (enregistré le 27/10/2026 16:00 heure machine)
+
+- Jet « Brice Tapé vit en France (résidence du répondant de la diaspora, sinon pays suivant ; ordre France, Canada, États-Unis, Royaume-Uni, Belgique) » : probabilité 42 %, jet  43.9 → **NON** (enregistré le 27/10/2026 16:00 heure machine)
+
+- Jet « Brice Tapé vit au Canada (Montréal ou Ottawa) (résidence du répondant de la diaspora, sinon pays suivant ; ordre France, Canada, États-Unis, Royaume-Uni, Belgique) » : probabilité 31 %, jet  70.7 → **NON** (enregistré le 27/10/2026 16:00 heure machine)
+
+- Jet « Brice Tapé vit aux États-Unis (côte est) (résidence du répondant de la diaspora, sinon pays suivant ; ordre France, Canada, États-Unis, Royaume-Uni, Belgique) » : probabilité 50 %, jet  42.3 → **OUI** (enregistré le 27/10/2026 16:00 heure machine)
+
+- Jet « Maïmouna Koné (France) habite en Île-de-France (sinon Lyon, Toulouse ou Lille, ville universitaire) » : probabilité 50 %, jet  78.6 → **NON** (enregistré le 27/10/2026 16:00 heure machine)
+
+- Jet « Maïmouna Koné, hors Île-de-France, habite Lyon (sinon Toulouse) » : probabilité 55 %, jet  77.4 → **NON** (enregistré le 27/10/2026 16:00 heure machine)
+
+- Jet « Brice Tapé (États-Unis, côte est) habite New York (sinon Atlanta ou Washington) » : probabilité 45 %, jet  55.9 → **NON** (enregistré le 27/10/2026 16:00 heure machine)
+
+- Jet « Brice Tapé, hors New York, habite Atlanta (sinon Washington) » : probabilité 55 %, jet  33.4 → **OUI** (enregistré le 27/10/2026 16:00 heure machine)
+
+- Tirage [T17] « Maïmouna Koné face au deuxième message de l'agent IA (entretien : réseau, références, date de retour possible) » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  76.5 → **mefiance** (enregistré le 27/10/2026 16:01 heure machine)
+
+- Tirage [T10] « Maïmouna Koné : délai (réponse de Maïmouna Koné (profil A, diaspora, Toulouse) au deuxième message de l) » : immediat 1 / rapide 11 / dans_l_heure 15 / dans_la_journee 25 / le_soir_ou_lendemain 30 / plus_tard_ou_jamais 18 ; modificateurs : M70, M72 ; jet  79.6 → **le_soir_ou_lendemain** (enregistré le 27/10/2026 16:01 heure machine)

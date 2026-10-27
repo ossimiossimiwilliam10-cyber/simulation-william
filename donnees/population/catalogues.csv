@@ -206,3 +206,13 @@ secret;envoie de l'argent à une famille élargie qui en demande toujours plus;1
 loisir;maquis et football entre amis le week-end;2;E+;;abidjan
 loisir;culte ou messe du dimanche puis repas en famille;2;A+;;abidjan
 loisir;marché de Treichville ou de Cocody le samedi;1;;;abidjan
+objectif;rentrer en Côte d'Ivoire après des années à l'étranger;3;;;diaspora,actif
+objectif;monter ou diriger une entreprise au pays;3;C+;;diaspora,actif
+objectif;faire profiter son pays de son expérience internationale;2;O+;;diaspora
+souci;famille installée à l'étranger qui hésite à rentrer;3;;;diaspora
+souci;épargne et retraite à reconstituer avant un retour;2;;;diaspora,actif
+souci;peur de perdre un poste stable pour un projet encore fragile;3;N+;;diaspora,actif
+secret;a quitté son dernier poste à l'amiable après un conflit;1;;2;diaspora,actif
+secret;a gonflé ses responsabilités ou son expérience sur son CV;1;;2;diaspora,actif
+loisir;réseaux d'anciens et associations de la diaspora;2;E+;;diaspora
+loisir;voyages au pays pour les fêtes de fin d'année;2;;;diaspora

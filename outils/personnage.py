@@ -67,6 +67,12 @@ METIERS_SEOUL = [("employé(e) de bureau (grande entreprise)", 18), ("étudiant(
                  ("fonctionnaire ou employé(e) d'administration", 6), ("enseignant(e) (collège, lycée ou hagwon)", 6),
                  ("infirmier(ère) ou aide-soignant(e)", 5), ("travailleur(se) indépendant(e) (design, contenu en ligne)", 8),
                  ("chauffeur (taxi, livraison)", 6), ("sans emploi", 5), ("cadre d'entreprise", 6), ("employé(e) d'hôtel ou de restauration", 4)]
+METIERS_DIASPORA = [("ingénieur(e) en énergie, électricité ou bâtiment", 16), ("consultant(e) ou chef de projet", 12), ("cadre dirigeant(e) d'entreprise", 12),
+                    ("enseignant(e)-chercheur(se) ou docteur(e)", 6), ("entrepreneur(se)", 10), ("banquier(ère) ou financier(ère)", 10), ("commercial(e) en entreprises", 8),
+                    ("juriste ou avocat(e)", 4), ("technicien(ne) supérieur(e)", 8), ("en reconversion ou en recherche d'opportunités", 8), ("employé(e) de bureau", 6)]
+VILLES_DIASPORA = [("Paris et sa banlieue (France)", 17), ("Lyon (France)", 5), ("Marseille (France)", 4), ("Toulouse (France)", 3), ("Lille (France)", 3),
+                   ("Bruxelles (Belgique)", 7), ("Montréal (Canada)", 10), ("Ottawa (Canada)", 4), ("New York (États-Unis)", 9), ("Atlanta (États-Unis)", 6),
+                   ("Washington (États-Unis)", 5), ("Londres (Royaume-Uni)", 8), ("Genève (Suisse)", 4), ("Dubaï (Émirats arabes unis)", 3), ("Dakar (Sénégal)", 3)]
 METIERS_BRESIL = [("ingénieur(e) ou technicien(ne) (énergie, industrie)", 10), ("employé(e) de bureau ou de banque", 14),
                   ("commerçant(e) ou vendeur(se)", 14), ("entrepreneur(se) ou indépendant(e)", 12), ("enseignant(e)", 8),
                   ("comptable ou conseiller(ère) financier(ère)", 8), ("infirmier(ère) ou aide-soignant(e)", 6),
@@ -155,7 +161,7 @@ def cohorte(annee):
 
 def tirer_prenom(rng, origine, sexe, annee, zone):
     prenoms = table("prenoms.csv")
-    hote = {"audun": "fr", "manille": "ph", "seoul": "kr", "bresil": "br", "abidjan": "ci"}.get(zone, "lu")
+    hote = {"audun": "fr", "manille": "ph", "seoul": "kr", "bresil": "br", "abidjan": "ci", "diaspora_ci": "fr"}.get(zone, "lu")
     if origine not in (hote, "lu", "fr") and rng.random() < 0.25:
         origine = hote  # descendants : prénom du pays d'accueil
     voulu = cohorte(annee)
@@ -219,7 +225,7 @@ def situation(a, metier, foyer, nationalite, zone):
             "non_lu": not nat.startswith("luxembourgeoise"),
             "reside_lu": zone in ("luxembourg_ville", "esch", "lycee", "club_mma"),
             "europe": zone not in ("manille", "seoul", "bresil", "abidjan"), "manille": zone == "manille",
-            "seoul": zone == "seoul", "bresil": zone == "bresil", "abidjan": zone == "abidjan"}
+            "seoul": zone == "seoul", "bresil": zone == "bresil", "abidjan": zone == "abidjan", "diaspora": zone == "diaspora_ci"}
 
 
 def convient(condition, s):
@@ -317,7 +323,7 @@ def tirer_metier(rng, ctx, role, a):
         return "retraité(e)", ""
     # pas de retraité avant 58 ans (départs anticipés pour carrière longue au plus tôt), pas d'étudiant après 30 ans (12/10/2026)
     liste = [(m, p) for m, p in (METIERS_AUDUN if ctx["zone"] == "audun" else METIERS_MANILLE if ctx["zone"] == "manille" else METIERS_SEOUL if ctx["zone"] == "seoul"
-             else METIERS_BRESIL if ctx["zone"] == "bresil" else METIERS_ABIDJAN if ctx["zone"] == "abidjan" else METIERS_REGION)
+             else METIERS_BRESIL if ctx["zone"] == "bresil" else METIERS_ABIDJAN if ctx["zone"] == "abidjan" else METIERS_DIASPORA if ctx["zone"] == "diaspora_ci" else METIERS_REGION)
              if not (("retraité" in m and a < 58) or ("étudiant" in m and a >= 30))]
     return pondere(rng, liste), ""
 
@@ -419,7 +425,7 @@ def tirer(contexte, role, sexe=None, ages=None, rng=None, existants=(), foyers=N
         "prenom": prenom, "nom_famille": nom, "nom": f"{prenom} {nom}", "sexe": sexe, "age": a, "naissance": naissance.isoformat(),
         "mineur": mineur, "origine": origine, "nationalite": nat, "langues": lang.get("langues", ""),
         "langue_avec_william": lang.get("langue_avec_william", "français"), "registre": tirer_registre(rng, ctx, a),
-        "commune": ctx["commune"], "metier": metier, "employeur": employeur, "role": role, "contexte": contexte,
+        "commune": pondere(rng, VILLES_DIASPORA) if zone == "diaspora_ci" else ctx["commune"], "metier": metier, "employeur": employeur, "role": role, "contexte": contexte,
         "traits": traits, "attachement": attachement, "defauts": defauts, "qualite": qualite, "contradiction": contradiction,
         "objectif": objectif, "souci": souci, "secret": secret, "gravite_secret": grav, "loisirs": loisirs, "oubli": oubli,
         "foyer": foyer, "taille": taille, "corpulence": corpulence, "signes": signes,

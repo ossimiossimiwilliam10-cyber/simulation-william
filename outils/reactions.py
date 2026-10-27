@@ -333,6 +333,9 @@ def delai(nom, quand, canal, resume, mods=(), programmer_ligne=True):
     return res
 
 
+CANAUX_AGENT = {"linkedin", "facebook", "novojob", "educarriere", "coinafrique", "kosafi", "instagram", "reddit", "indeed"}
+
+
 def jouer(aid, texte, quand=None):
     """Écrit le texte d'une réaction programmée : enregistre le message dans l'application, à l'heure prévue, et clôt l'agenda."""
     import subprocess
@@ -349,16 +352,20 @@ def jouer(aid, texte, quand=None):
         t = instant_txt(quand, horloge_fuseau())
     t_horloge = fuseaux.convertir(t, horloge_fuseau())
     texte_propre = texte.replace(";", ",")
-    if canal == "rencontres":
+    if canal in CANAUX_AGENT:
+        # canal lu par l'agent IA seul (annonces, LinkedIn, Facebook) : aucune conversation visible dans le téléphone de William (piège 95)
+        cmd = None
+    elif canal == "rencontres":
         cmd = [sys.executable, str(OUTILS / "rencontres.py"), "message", ident, "--auteur", "profil", "--texte", texte_propre,
                "--quand", f"{t_horloge:%Y-%m-%d %H:%M}"]
     else:
         p = routines.personnage(ident)
         cmd = [sys.executable, str(OUTILS / "whatsapp.py"), "message", "--avec", p["nom"], "--auteur", "contact", "--texte", texte_propre,
                "--quand", f"{t_horloge:%Y-%m-%d %H:%M}"]
-    r = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8", errors="replace")
-    if r.returncode:
-        sys.exit(r.stderr or r.stdout)
+    if cmd is not None:
+        r = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8", errors="replace")
+        if r.returncode:
+            sys.exit(r.stderr or r.stdout)
     l["statut"] = "fait"
     l["note"] = (l["note"] + f" | joué : « {texte_propre[:80]} »").replace(";", ",")
     agenda.ecrire(lignes)
