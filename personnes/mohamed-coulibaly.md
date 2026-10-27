@@ -11,8 +11,14 @@
 - Vit à : Bruxelles (Belgique) (avant : « France, Belgique, Canada, Royaume-Uni, États-Unis » → maintenant : résidence tirée le 19/07/2041) ; en couple, avec enfants.
 - Métier : banquier(ère) ou financier(ère).
 
-## Physique (graines tirées, à préciser dans la première scène)
-- 167 cm, corpulence mince, barbe.
+## Physique (vu en visioconférence le 26/07/2041 à 18h30)
+- Stature : 167 cm.
+- Corpulence : mince, silhouette longiligne, épaules étroites mais posture droite et élégante.
+- Visage et carnation : teint ébène profond et soigné, visage ovale aux pommettes dessinées, traits fins et harmonieux.
+- Regard : yeux en amande très sombres, vifs et posés, lunettes fines en métal sombre sans monture inférieure.
+- Bouche et pilosité : bouche nette, sourire poli et mesuré, barbe courte et soignée taillée au millimètre le long de la mâchoire.
+- Cheveux : coupés très ras, contours impeccables.
+- Style vestimentaire : chemise en popeline bleu ciel col italien ouverte au col, veste anthracite sur le dossier ; allure sobre, intellectuelle et professionnelle de cadre bancaire d'affaires.
 
 ## Caractère
 - très curieux, ouvert à la nouveauté ; assez sérieux ; sociable sans excès ; aimable ; calme, peu inquiet ; attachement sécure.

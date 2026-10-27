@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 27/10/2026 22:45 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 27/10/2026 22:59 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : vendredi 26/07/2041 10:30 (luxembourg, UTC+2)
+## Horloge : vendredi 26/07/2041 18:30 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 08:30 ; lisbonne 09:30 ; mindelo 07:30 ; casablanca 09:30 ; douala 09:30 ; addis 11:30 ; manille 16:30 ; paris 10:30 ; seoul 17:30 ; bresil 05:30
+- **Heure dans les autres lieux** : abidjan 16:30 ; lisbonne 17:30 ; mindelo 15:30 ; casablanca 17:30 ; douala 17:30 ; addis 19:30 ; manille 00:30 ; paris 18:30 ; seoul 01:30 ; bresil 13:30
 - **En attente de William** :
-  - Validation du déplacement à Abidjan (12-24 août), ciblage villa QG Cocody et avance rapide vers la séance de MMA ou l'entretien de 18h30
+  - Échanges d'ouverture et premières questions de l'entretien avec Mohamed Coulibaly (Direction Générale)
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 464,70 €**
@@ -37,8 +37,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-07-26.md, 6 dernières lignes)
-> # Vendredi 26 juillet 2041 — univers 3, onzième jour
-> - **00h00-08h00** (tour n° 53) : nuit paisible de 7h45 (23h30-07h15) ; réveil en pleine forme ; grand soleil (16 °C / 28 °C) ; programme du jour : MMA au Minett Combat Club l'après-midi (I1), entretien décisif en visio avec Mohamed Coulibaly à 18h30 (A091), 7e rapport quotidien à 20h00 (A092)
 > - Tour en cours à 08h00, en attente de William : **Déroulement de la matinée (détente, préparation) ou avance rapide vers la séance de combat au club / l'entretien avec Mohamed Coulibaly (18h30)**.
-> - **08h00-10h30** (tour n° 54) : consultation stratégique avec le DG virtuel sur le voyage à Abidjan et le QG ; note stratégique remise (D020) : déplacement recommandé du 12 au 24 août (fermeture du club de MMA), ciblage villa mixte à Cocody Deux-Plateaux, budget démarrage 25 155 € (16,5 M FCFA), rappel Article 14
-> - Tour en cours à 10h30, en attente de William : **Validation du déplacement à Abidjan (12-24 août), ciblage villa QG Cocody et avance rapide vers la séance de MMA ou l'entretien de 18h30**.
+> - **08h00-10h30** (tour n° 54) : consultation stratégique avec le DG virtuel sur le voyage à Abidjan et le QG ; note stratégique remise (D020) : déplacement recommandé du 12 au 25 août (fermeture du club de MMA), ciblage villa mixte à Cocody Deux-Plateaux, budget démarrage 25 155 € (16,5 M FCFA), rappel Article 14
+> - **10h30-18h30** (tour n° 55) : validation du séjour à Abidjan de 14 jours (12 au 25 août 2041) ; temporisation du QG et du budget de démarrage jusqu'à la fin de l'entretien et la nomination de Mohamed ; fixation de la règle de gouvernance post-nomination (Mohamed communique via le DG virtuel qui filtre/vérifie tout, secret absolu sur l'IA, I42) ; entraînement intense de MMA au Minett Combat Club
+> - Tour en cours à 18h30, en attente de William : **Échanges d'ouverture et premières questions de l'entretien avec Mohamed Coulibaly (Direction Générale)**.
+> - **10h30-18h30** (tour n° 55) : Validation du séjour de 14 jours à Abidjan (12-25 août 2041) ; temporisation du QG et du budget démarrage ; fixation de la gouvernance post-nomination (DG virtuel en filtre secret, I42) ; entraînement intense de MMA au Minett Combat Club (15h00-16h45, lutte contre cage et sol, 105 min) ; retour à Audun-le-Tiche ; connexion à 18h30 pour la visioconférence de sélecti
+> - Tour en cours à 18h30, en attente de William : **Échanges d'ouverture et premières questions de l'entretien avec Mohamed Coulibaly (Direction Générale)**.

@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-07-26 10:30
+horloge: 2041-07-26 18:30
 fuseau: luxembourg
 lieu: Audun-le-Tiche (Moselle), chez William
-tour: 54
-attente: Validation du déplacement à Abidjan (12-24 août), ciblage villa QG Cocody et avance rapide vers la séance de MMA ou l'entretien de 18h30
+tour: 55
+attente: Échanges d'ouverture et premières questions de l'entretien avec Mohamed Coulibaly (Direction Générale)

@@ -1,62 +1,44 @@
 # Dernier tour montré au joueur
 
-> Tour n° 54 ; horloge 26/07/2041 08:00 -> 26/07/2041 10:30 ; enregistré le 27/10/2026 22:45 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 55 ; horloge 26/07/2041 10:30 -> 26/07/2041 18:30 ; enregistré le 27/10/2026 22:59 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> D'ailleurs, je me pose de plus en plus la question, mais ce n'est pas sérieux que je ne débarque pas sur Abidjan, tu vois. Et donc, je me demande quelle serait la meilleure période pour moi pour que je puisse aller sur Abidjan et pour combien de temps. D'autant plus que là, si je nomme Mohamed, il faudrait qu'on trouve du coup un QG. Il faudrait qu'on loue, cherche une villa ou quelque chose comme ça pour le QG. Il faudrait qu'on achète les meubles, le matériel informatique. Toutes ces petits trucs-là, quoi. Je m'entretiens du coup avec mon directeur général virtuel pour essayer de répondre un peu à toutes ces questions.
+> Alors oui, je valide le principe d'un déplacement de 14 jours sur la fenêtre, là. Ça, c'est parfait. Mais concernant le QG, j'attends d'abord la nomination de Mohamed. Donc voilà, de finir l'entretien avec Mohamed, de le nominer, voilà. Pareil pour l'enveloppe de démarrage. J'ai d'abord envie de mettre quelques points avec lui. Ah oui. Et je tiens à mettre en avant quelque chose, c'est que... En fait, une fois que Mohamed aura pris, voilà quoi, aura pris ses fonctions, je lui dirais qu'il devra directement communiquer avec mon espace, voilà quoi, mon président, pardon, mon directeur général virtuel pour toutes les décisions. Voilà. Pourquoi je fais ça? Parce que, bah, en termes d'expertise, il est meilleur que moi. Et surtout qu'après, le directeur général virtuel, lui, me consulte en fait directement. Donc ça me permettrait de déjà faire un premier cri, de voir si Mohamed n'essaye pas de m'enturluper ou dit quelque chose de faux. Et voilà. Donc il y aura, en fait, on n'aura pas une communication directe, mais plutôt indirecte, on va dire. Dans le sens où Mohamed va communiquer avec le directeur général virtuel. Le directeur général virtuel, lui, m'expliquera ce que Mohamed lui a dit. Je prendrai une décision que le directeur général virtuel évaluera avant de la transmettre à Mohamed. Et voilà, pour que vraiment la prise de décision soit optimale, en fait. Et encore une fois, Mohamed ne doit absolument pas être tenu au courant de... Personne ne doit être tenu au courant que j'utilise autant l'IA dans mes prises de décision. Absolument personne. Go
 
 ## Texte envoyé au joueur
 
-**VENDREDI 26 JUILLET 2041 — 10h30 — Audun-le-Tiche, chez toi**
+**VENDREDI 26 JUILLET 2041 — 18h30 — Audun-le-Tiche, chez toi**
 
-Attablé dans la cuisine devant ton café noir, tu ouvres l'application Gestion et tu sollicites ton directeur général virtuel pour un entretien stratégique de fond. Tu poses clairement sur la table la question de ta présence physique à Abidjan, de la période idéale et de sa durée, ainsi que du déploiement logistique du futur QG : typologie des locaux (villa vs bureaux), quartier, mobilier, matériel informatique et enveloppe financière.
+Tu valides sans réserve sur l'application Gestion le principe du déplacement de quatorze jours à Abidjan, calé très exactement sur la fenêtre du lundi 12 août au dimanche 25 août 2041, période durant laquelle le Minett Combat Club sera fermé. En revanche, tu suspends immédiatement toute prospection active pour la villa du QG et gèles l'enveloppe de démarrage de 25 155 € : pas question de signer quoi que ce soit ni d'engager le moindre sou tant que tu n'as pas jaugé Mohamed Coulibaly les yeux dans les yeux, cadré les points essentiels avec lui et officialisé sa nomination.
 
-Après concertation avec le pôle juridique et analyse des coûts immobiliers abidjanais, le directeur général virtuel te remet une note stratégique détaillée, consultable sur ton application :
+Dans la foulée, tu verrouilles une règle de gouvernance cardinale dans les instructions permanentes du système. Dès que Mohamed aura pris ses fonctions, toute sa communication passera exclusivement par l'espace institutionnel de la direction, connecté à ton directeur général virtuel. Ce dernier analysera méthodiquement chaque rapport, proposition, chiffre ou compte rendu transmis par Mohamed pour repérer la moindre incohérence, omission ou tentative de manipulation, avant de t'en soumettre la synthèse. Tu prendras alors seul la décision, que le directeur général virtuel réévaluera et formalisera sous un angle exécutif irréprochable avant transmission. Et cette mécanique reste protégée par le secret le plus absolu : personne, et surtout pas Mohamed, ne doit jamais savoir que l'intelligence artificielle est au cœur de ton pilotage stratégique.
 
-1. **Opportunité et calendrier de ton déplacement à Abidjan** :
-   - Le principe de ta venue est jugé hautement stratégique par l'équipe virtuelle. Rencontrer Mohamed Coulibaly en face-à-face, instaurer une relation de confiance directe, visiter les toitures industrielles cibles et rencontrer Maître Gnamien pour acter la clôture du dossier d'immatriculation donneront une impulsion concrète au projet.
-   - La fenêtre temporelle idéale ressort avec netteté : **du lundi 12 août au dimanche 25 août 2041 (soit 14 jours sur place)**. Cette période coïncide au jour près avec la fermeture estivale de deux semaines du Minett Combat Club (du 12 au 25 août) : tu ne manqueras donc aucune séance de MMA au club. Sur le plan juridique, Me Gnamien aura bouclé les formalités CEPICI et le compte bancaire définitif d'ici la première quinzaine d'août : la société existera légalement à ton atterrissage.
-   - Le budget prévisionnel pour ce séjour personnel s'établit entre 3 000 et 3 800 € (vol direct A/R en classe confort, 12 nuits en résidence hôtelière sécurisée à Cocody, chauffeur et vie sur place), facilement financé sur ton budget vacances (833 €/mois, 10 000 €/an).
+Après un déjeuner léger et une bonne hydratation, tu prépares tes affaires de sport et quittes la maison sous une chaleur d'été qui atteint les 28 °C. Tu franchis la frontière vers Esch-sur-Alzette pour ta séance de combat de 15h00 au Minett Combat Club. L'entraînement est particulièrement rude et intense : durant cent cinq minutes, tu enchaînes le travail de lutte contre le grillage de la cage avec Arthur Kieffer, bloquant les changements de niveau et verrouillant les sous-aisselles avec tes 100 kg bien ancrés au sol, avant de basculer sur des phases de grappling au tempo élevé avec Thiago Alves. Les transitions au sol, les sorties de garde et le contrôle positionnel te font puiser dans tes réserves dans la moiteur de la salle, mais tes appuis sont nets et ton cardio répond parfaitement. 
 
-2. **Choix et localisation du QG opérationnel** :
-   - Le directeur général virtuel te recommande formellement une **villa individuelle à usage mixte (bureaux et cour/dépôt)** située à **Cocody Deux-Plateaux (secteur Vallons ou 7e/8e tranche)**.
-   - Contrairement à un simple plateau de bureaux, la villa offre un standing d'accueil pour les rendez-vous B2B (3 bureaux fermés pour le DG, la DAF et les réunions, plus un espace de travail commercial), mais surtout une cour fermée et sécurisée indispensable pour entreposer le matériel technique (onduleurs, outillages, harnais de sécurité toiture) et stationner un véhicule de service.
-   - Les loyers de marché pour ce type de villa s'établissent entre 1 200 000 et 1 800 000 FCFA par mois (soit environ 1 800 à 2 700 €/mois). Le quartier de Marcory/Zone 4, plus proche des usines de Vridi, présente des loyers plus élevés (2 300 à 3 350 €) et des axes saturés aux heures de pointe.
+À 16h45, rincé mais parfaitement lucide, tu prends une douche chaude dans les vestiaires, salues l'équipe et reprends la route vers la Moselle. De retour chez toi peu après 17h15, tu déposes ton sac de sport près de l'entrée, où flotte la légère odeur de cuir et de gants humides. La maison est silencieuse, les deux chambres fermées de l'étage gardent la fraîcheur matinale tandis que les murs de pierre du rez-de-chaussée commencent à tiédir sous le soleil déclinant. 
 
-3. **Budget d'installation et équipement initial** :
-   - Le pôle financier évalue l'enveloppe de démarrage du QG à environ **16 500 000 FCFA (soit 25 155 €)** :
-     - Caution et avance de loyer (3 mois) : 4 500 000 FCFA (6 860 €) ;
-     - Mobilier professionnel ergonomique (5 postes, salle de réunion 8 places) : 3 000 000 FCFA (4 570 €) ;
-     - Parc informatique et réseau (4 PC portables cadres/ingénieurs, multifonction A3/A4, routeur fibre) : 4 000 000 FCFA (6 100 €) ;
-     - Secours énergétique (onduleur puissant, batteries et parafoudres pour pallier les coupures réseau de la CIE) : 3 500 000 FCFA (5 335 €) ;
-     - Frais d'agence immobilière agréée : 1 500 000 FCFA (2 290 €).
-   - Ces 25 155 € s'imputent à 42 % sur la première tranche d'amorçage de 60 000 € prévue dans ton plan de financement (intention I6), laissant près de 35 000 € de trésorerie disponible pour le roulement initial.
+Tu t'accordes un grand verre d'eau fraîche, enfiles une chemise propre à manches courtes et col net, puis tu t'installes à la table de la salle à manger avec ton ordinateur portable. Tu ouvres l'application Gestion, vérifies la qualité du flux vidéo et gardes sous les yeux la trame d'entretien préparée par le pôle RH virtuel. 
 
-4. **Rappel impératif de gouvernance (Article 14)** :
-   - Le pôle juridique rappelle que pour préserver l'étanchéité absolue avec ton statut de fonctionnaire luxembourgeois, tu es exclusivement associé unique investisseur.
-   - **Tu ne dois signer ni le bail commercial ni les contrats d'achat**. C'est Mohamed Coulibaly, en qualité de Directeur Général mandataire social, qui signera les actes au nom de la société dès l'obtention du RCCM. Ton rôle sur place sera d'inspecter les lieux, de valider l'opportunité et d'autoriser le décaissement bancaire.
+À 18h30 précises, la notification de connexion retentit et l'écran s'illumine. Mohamed Coulibaly apparaît en visioconférence depuis son bureau à Bruxelles.
 
-L'échange s'achève à 10h30. Tu disposes de tous les éléments d'arbitrage avant ton après-midi sportif et ton grand entretien de 18h30 avec Mohamed Coulibaly.
+C'est un homme de 36 ans à la présence immédiate et posée. Assis le buste bien droit face à l'objectif, il mesure 167 cm et affiche une corpulence mince, une silhouette longiligne aux épaules étroites mais d'un maintien naturel et très soigné. Sa carnation est d'un ébène profond et uniforme, sa peau impeccablement entretenue. Il a le visage ovale, des pommettes délicatement saillantes et des traits fins, réguliers. Son regard, attentif et perçant, passe à travers des verres de lunettes fins en métal sombre sans monture inférieure, révélant des yeux très sombres, vifs, qui ne cillent presque pas. Sa bouche est bien dessinée, encadrée par une barbe courte, taillée au millimètre le long de la ligne de sa mâchoire et du menton, avec des contours d'une netteté chirurgicale. Ses cheveux sont coupés extrêmement ras, suivant une ligne frontale et des tempes nettes. Il porte une chemise en popeline de coton bleu ciel à col italien, ouverte au col sans cravate, tandis qu'une veste de costume gris anthracite est soigneusement posée sur le dossier de son fauteuil de travail en cuir. En arrière-plan, une pièce sobre et lumineuse laisse entrevoir quelques rangées d'ouvrages financiers et de dossiers reliés. L'allure générale dégage une retenue élégante, une grande discipline et les codes impeccables d'un cadre supérieur de la banque d'affaires.
+
+Un léger sourire poli et mesuré se dessine sur ses lèvres lorsqu'il te voit apparaître :
+
+« Bonjour Monsieur Ossimi. C'est un réel plaisir de faire votre connaissance et d'échanger directement avec vous aujourd'hui. »
 
 ---
 
-Il est 10h30.
+**Réponses attendues** :
+- Mohamed Coulibaly est en ligne et vient de te saluer. Il attend ton mot d'accueil et la manière dont tu souhaites ouvrir cet entretien de sélection pour la Direction Générale (introduction du projet solaire, questionnement sur son parcours entre la Belgique et Abidjan, motivation pour son retour au pays, vision du modèle B2B).
 
----
+**À faire / à fournir avant le tour suivant** :
+- Mener le premier échange avec Mohamed sur les fondamentaux de sa candidature, avant d'aborder les modalités contractuelles strictes (mandat social pur de DG, rémunération 2 M FCFA fixe + variable, caducité sur objectifs de performance trimestriels).
 
-**Réponses attendues**
-- **Déplacement à Abidjan** : Valides-tu le principe d'un déplacement de 14 jours sur la fenêtre du 12 au 25 août 2041 (pendant la fermeture estivale du club de MMA) ?
-- **Stratégie du QG** : Valides-tu le ciblage d'une villa à usage mixte à Cocody Deux-Plateaux et l'enveloppe d'équipement de démarrage d'environ 25 000 € (imputée sur la première tranche de 60 000 €) ?
-- **Suite de ta journée** : Souhaites-tu lancer une avance rapide vers ta séance de MMA de l'après-midi au Minett Combat Club (vers 15h00) ou directement vers l'entretien en visioconférence de 18h30 avec Mohamed Coulibaly ?
-
-**À faire / à fournir avant le tour suivant**
-- Valider tes orientations sur le voyage et le QG, et indiquer jusqu'où tu souhaites avancer ta journée.
-
-**Quêtes secondaires**
-- Séance de combat au Minett Combat Club cet après-midi (vers 15h00, intention I1).
-- Premier entretien de sélection en visioconférence avec Mohamed Coulibaly (91/100) à 18h30 (agenda A091).
-- Rapport quotidien n° 7 du directeur général virtuel ce soir à 20h00 (agenda A092).
-- Réception des projets de statuts SASU et mandat DG par Me Gnamien le lundi 29 juillet.
+**Quêtes secondaires** :
+- Mission de 14 jours à Abidjan validée pour la période du lundi 12 au dimanche 25 août 2041 (réservation des vols et hébergement en temps utile).
+- Rédaction des statuts de la SAS par le Cabinet de Me Ismaël Gnamien en cours (livraison des projets d'actes promise pour le lundi 29 juillet).
+- Rapport quotidien n° 7 du directeur général virtuel attendu ce soir à 20h00 (agenda A092).
 
 Que veux-tu faire ?

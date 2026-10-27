@@ -131,3 +131,4 @@ def generer_note_strategique_abidjan():
 
 if __name__ == "__main__":
     generer_note_strategique_abidjan()
+
