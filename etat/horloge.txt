@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-07-23 20:00
+horloge: 2041-07-24 08:00
 fuseau: luxembourg
 lieu: Audun-le-Tiche (Moselle), chez William
-tour: 46
-attente: Décisions sur le rapport du DG virtuel (A086), revue des maquettes de contrats ou suite du programme de soirée
+tour: 47
+attente: Programme de la matinée (dossiers, démarches, détente avant le MMA) ou avance rapide

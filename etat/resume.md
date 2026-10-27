@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 27/10/2026 20:46 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 27/10/2026 20:53 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mardi 23/07/2041 20:00 (luxembourg, UTC+2)
+## Horloge : mercredi 24/07/2041 08:00 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 18:00 ; lisbonne 19:00 ; mindelo 17:00 ; casablanca 19:00 ; douala 19:00 ; addis 21:00 ; manille 02:00 ; paris 20:00 ; seoul 03:00 ; bresil 15:00
+- **Heure dans les autres lieux** : abidjan 06:00 ; lisbonne 07:00 ; mindelo 05:00 ; casablanca 07:00 ; douala 07:00 ; addis 09:00 ; manille 14:00 ; paris 08:00 ; seoul 15:00 ; bresil 03:00
 - **En attente de William** :
-  - Décisions sur le rapport du DG virtuel (A086), revue des maquettes de contrats ou suite du programme de soirée
+  - Programme de la matinée (dossiers, démarches, détente avant le MMA) ou avance rapide
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **9 975,70 €**
@@ -35,10 +35,7 @@
 - Pendant : réactions et négociations par `jet.py --table Tn` (T1 à T14 ; `--pour` pour un personnage) ; personnages nouveaux par `personnage.py nouveau` ; faits et prix par `faits.py` et `prix.py` ; lieux par `lieux.py voir` ; révélations dans `savoir.py ajouter` ; argent dans `grand_livre.py ajouter`.
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
-## Fin du dernier journal (2041-07-23.md, 6 dernières lignes)
-> - **00h00-08h00** (tour n° 44) : 00h00-08h00 (tour n° 44) : réveil à 07h15 après une nuit de 7,5 h ; grand soleil (13 °C le matin, 24 °C l'après-midi) ; les deux PDF d'hier archivés sur le téléphone ; en attente du dossier de Me Gnamien et des retours de références du pôle RH
-> - Tour en cours à 08h00, en attente de William : **Programme de la matinée (dossiers, démarches, sport ou détente) ou avance rapide ; prochain rapport ce soir à 20h00**.
-> - **08h00-12h00** (tour n° 45) : 08h00-12h00 (tour n° 45) : William consacre 4 heures à recoder et perfectionner l'application Gestion (v1.0) ; restructuration en 4 onglets (Tableau, RH, Juridique, Documents), intégration et vérification des liens PDF physiques avec lecteur intégré
-> - Tour en cours à 12h00, en attente de William : **Programme de l'après-midi (dossiers, démarches, sortie ou repos) ou avance rapide ; prochain rapport ce soir à 20h00**.
-> - **12h00-20h00** (tour n° 46) : 12h00-20h00 (tour n° 46) : session de travail intensif avec tous les agents virtuels pour finaliser la pyramide contractuelle de l'entreprise ; 2 documents PDF exhaustifs générés dans documents_william/ couvrant les Niveaux 2, 3 et 4 selon le Code du travail ivoirien ; Tuo répond avec courtoisie sur WhatsApp à 19h35 ; quatrième rapport quotidien du DG virtuel remis
-> - Tour en cours à 20h00, en attente de William : **Décisions sur le rapport du DG virtuel (A086), revue des maquettes de contrats ou suite du programme de soirée**.
+## Fin du dernier journal (2041-07-24.md, 6 dernières lignes)
+> # Mercredi 24 juillet 2041 — univers 3, neuvième jour
+> - **00h00-08h00** (tour n° 47) : 00h00-08h00 (tour n° 47) : nuit paisible de 7,5 h (23h30-07h15) ; réveil en pleine forme ; grand soleil (13 °C / 21 °C) ; séance de MMA au Minett Combat Club cet après-midi (I1) ; attente des retours RH et du cabinet Me Gnamien
+> - Tour en cours à 08h00, en attente de William : **Programme de la matinée (dossiers, démarches, détente avant le MMA) ou avance rapide**.
