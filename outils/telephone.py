@@ -59,7 +59,7 @@ def fichiers_visibles(jour):
             m = re.match(r"(\d{4}-\d{2}-\d{2})_(.*)", p.stem)
             if not m or m.group(1) > jour.isoformat():
                 continue
-            objet = m.group(2).replace("_", " ")
+            objet = re.sub(r"\b([dl]) (?=[AEIOUÉÈÊÎÔÂaeiouéèêîôâh])", r"\1'", m.group(2).replace("_", " "))  # « d Ivoire » -> « d'Ivoire »
             res.append({"nom": objet[:1].upper() + objet[1:], "fichier": p.name, "dossier": libelle, "date": m.group(1),
                         "ko": max(1, round(p.stat().st_size / 1024)), "url": f"fichiers/{dossier}/{_nom_publie(p.name)}",
                         "source": f"{dossier}/{p.name}"})
