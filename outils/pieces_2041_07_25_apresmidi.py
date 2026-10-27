@@ -232,3 +232,4 @@ if __name__ == "__main__":
     generer_courriel_envoi_justificatif()
     generer_accuse_reception_gnamien()
     generer_rapport_dg_25_juillet()
+

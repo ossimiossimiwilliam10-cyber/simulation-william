@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 27/10/2026 22:32 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 27/10/2026 22:38 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : jeudi 25/07/2041 20:00 (luxembourg, UTC+2)
+## Horloge : vendredi 26/07/2041 08:00 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 18:00 ; lisbonne 19:00 ; mindelo 17:00 ; casablanca 19:00 ; douala 19:00 ; addis 21:00 ; manille 02:00 ; paris 20:00 ; seoul 03:00 ; bresil 15:00
+- **Heure dans les autres lieux** : abidjan 06:00 ; lisbonne 07:00 ; mindelo 05:00 ; casablanca 07:00 ; douala 07:00 ; addis 09:00 ; manille 14:00 ; paris 08:00 ; seoul 15:00 ; bresil 03:00
 - **En attente de William** :
-  - Programme de la soirée ou avance rapide vers le vendredi 26 juillet (sport l'après-midi, entretien Mohamed Coulibaly à 18h30)
+  - Déroulement de la matinée (détente, préparation) ou avance rapide vers la séance de combat au club / l'entretien avec Mohamed Coulibaly (18h30)
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 464,70 €**
@@ -36,10 +36,7 @@
 - Pendant : réactions et négociations par `jet.py --table Tn` (T1 à T14 ; `--pour` pour un personnage) ; personnages nouveaux par `personnage.py nouveau` ; faits et prix par `faits.py` et `prix.py` ; lieux par `lieux.py voir` ; révélations dans `savoir.py ajouter` ; argent dans `grand_livre.py ajouter`.
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
-## Fin du dernier journal (2041-07-25.md, 6 dernières lignes)
-> - **00h00-08h00** (tour n° 50) : 00h00-08h00 (tour n° 50) : nuit paisible de 7,5 h (23h30-07h15) marquée par un orage d'été (1,6 mm d'eau) ; réveil en forme ; ciel partagé et température fraîche (16 °C / 23 °C) ; récupération physique ; attente du RIB de Me Gnamien pour virement
-> - Tour en cours à 08h00, en attente de William : **Programme de la matinée (dossiers, détente) en attendant le RIB de Me Gnamien ou avance rapide**.
-> - **08h00-12h15** (tour n° 51) : matinée tranquille à Audun-le-Tiche (16 °C à 19 °C) ; dossier Mariam Brou (88/100, DAF) et trame d'entretien Mohamed Coulibaly (91/100) reçus du pôle RH (D015) ; courriel officiel de Me Gnamien avec accusé KYC et RIB BICICI Plateau reçu (D014, A090 clos) ; attente virement du premier acompte (1 511 €) et calage de l'entretien
-> - Tour en cours à 12h15, en attente de William : **Ordre de virement bancaire pour Me Gnamien (1 511 €), choix de date pour l'entretien avec Mohamed Coulibaly (91/100) et arbitrage Mariam Brou**.
-> - **12h15-20h00** (tour n° 52) : virement SWIFT de 1 511 € émis vers le Cabinet Gnamien (D016, D017) ; accusé de réception de Me Gnamien confirmant la rédaction des statuts pour le 29/07 (D018) ; Mohamed Coulibaly confirme l'entretien en visio pour le 26/07 à 18h30 (agenda A091) ; Mariam Brou réservée pour la DAF (temporisation) ; 6e rapport quotidien du DG virtuel (D019, A089 clos)
-> - Tour en cours à 20h00, en attente de William : **Programme de la soirée ou avance rapide vers le vendredi 26 juillet (sport l'après-midi, entretien Mohamed Coulibaly à 18h30)**.
+## Fin du dernier journal (2041-07-26.md, 6 dernières lignes)
+> # Vendredi 26 juillet 2041 — univers 3, onzième jour
+> - **00h00-08h00** (tour n° 53) : nuit paisible de 7h45 (23h30-07h15) ; réveil en pleine forme ; grand soleil (16 °C / 28 °C) ; programme du jour : MMA au Minett Combat Club l'après-midi (I1), entretien décisif en visio avec Mohamed Coulibaly à 18h30 (A091), 7e rapport quotidien à 20h00 (A092)
+> - Tour en cours à 08h00, en attente de William : **Déroulement de la matinée (détente, préparation) ou avance rapide vers la séance de combat au club / l'entretien avec Mohamed Coulibaly (18h30)**.
