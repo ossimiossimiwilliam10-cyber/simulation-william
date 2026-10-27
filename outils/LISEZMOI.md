@@ -141,7 +141,7 @@ souvent. La partie doit repartir sans perte ; Claude, à son retour, audite le t
      `tour.py fin … --enregistrer` (commit et fusion en avance rapide dans `master`) : l'état ne reste jamais seulement dans un worktree.
 4. **Dans la fiction, « Claude » est l'agent IA de William** (son pôle ressources humaines virtuel, abonnement Claude Pro, conversation
    épinglée `whatsapp/claude-agent-ia.md`, règles dans `documents_william/`) : le moteur, quel qu'il soit, joue ce personnage sous ce nom,
-   avec ses limites (il ne signe, ne paie et ne promet rien ; il ne donne jamais le nom de William sans sa décision ; au-dessus du seuil de 70 il
+   ainsi que l'« agent central » de Gestion (conversation `whatsapp/agent-central.md`, double IA du directeur général : avis et chiffres, jamais de décision à la place de William), avec leurs limites (ils ne signent, ne paient et ne promettent rien ; il ne donne jamais le nom de William sans sa décision ; au-dessus du seuil de 70 il
    fournit le numéro de William au candidat sans que le texte du tour en écrive un seul chiffre).
 5. **Téléphone** : `sorties/telephone/index.html` est publié par Claude (outil Artifact, adresse dans `etat/relais-config.json`). Sans Claude :
    `tour.py fin` régénère le fichier ; l'envoyer au joueur s'il le demande ; ne lancer `telephone.py --marquer-publie` qu'après une vraie publication.

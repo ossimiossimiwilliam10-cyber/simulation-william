@@ -1,55 +1,57 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 27/10/2026 16:18 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
+# Relais de la simulation — briefing généré le 27/10/2026 16:29 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : vendredi 19 juillet 2041, 18h03 (luxembourg) ; tour n° 21
+- Horloge : vendredi 19 juillet 2041, 18h20 (luxembourg) ; tour n° 22
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Entretiens de Claude avec les profils A et B de la diaspora ; message de Jean-Baptiste Tuo à William (WhatsApp) ; prochain rapport de Claude demain à 18h00 ; vérification Instagram sous 24 h
+- En attente de William : Décision de William sur la proposition de l'agent central (pôle RH concentré sur le seul poste de directeur général ; questions pour l'avocat d'Abidjan) ; entretiens de Claude avec les profils A et B ; message de Jean-Baptiste Tuo à William (WhatsApp) ; vérification Instagram sous 24 h
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 21 ; horloge 19/07/2041 16:46 -> 19/07/2041 18:03 ; enregistré le 27/10/2026 16:18 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 22 ; horloge 19/07/2041 18:03 -> 19/07/2041 18:20 ; enregistré le 27/10/2026 16:29 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Ok, je voulais juste te dire quelque chose, c'est qu'il y a de fortes chances que ma limite d'utilisation soit atteinte avec toi. Et quand ça arrive, en fait, pour continuer la simulation, je passe sur Gemini, notamment via Anti-Gravity. Le problème, c'est qu'il n'est pas aussi puissant que toi, donc il peut faire des erreurs et tout. C'est juste pour te prévenir, voilà, que quand ça va s'arrêter, quand ma limite sera atteinte, je passerai sur Anti-Gravity et il faut que lui, à ce moment-là, il soit capable de reprendre, en fait, la simulation le mieux que possible. Il faut vraiment, voilà, c'est juste pour préciser ça. Je crois qu'un système est déjà en place d'ailleurs pour cela. Mais bon, c'est juste pour que tu le notes. GO
+> Je décide maintenant d'activer l'agent Claude central. En fait, je ne sais pas si tu as compris, mais l'application gestion va un peu faire une sorte de parallèle entre eux. Ça va être un peu une version double avec l'IA. Dans son défaut, c'est qu'elle n'aura pas cet aspect humain. Mais cet aspect humain sera déjà pris en compte par l'équipe réelle. Donc, l'application gestion, elle aura l'aspect pragmatique et hyper... tu vois, cet aspect vraiment robotique, hyper intelligent, hyper rodé en fait. Donc bref, maintenant j'active du coup le deuxième agent qui aura donc lui, qui sera le parallèle du directeur général qui n'est pas encore en place. Je lui explique un peu, donc je lui explique le projet, je lui dis un peu c'est quoi notre budget, tout ça, tout ça. Je lui dis que c'est vers lui maintenant que je me tourne avant de prendre quelconque décision. Et aussi précision, je n'informerai jamais les personnes réelles de mon système que j'ai mis en place actuellement personnellement avec les IA, tout ça. Si jamais ils se posent des questions sur mon niveau d'expertise élevé, si jamais, je dis simplement que je suis un homme voilà, cultivé et que je prends mon projet au sérieux. Mais jamais, jamais, je ne mettrai en avant ma vie privée. Jamais au grand jamais. Aussi, je décide désormais que ce n'est plus mon numéro de téléphone qui sera fourni. Quoique non, non. Mon numéro de téléphone sera fourni ainsi que mon mail. Et mon mail est directement connecté à cet agent central. Donc voilà, ça au moins c'est déjà fait. Et donc la première question que je demande à cet agent central, c'est de savoir s'il faut, il vaut pas mieux déjà construire l'équipe maintenant, c'est-à-dire commencer à recruter pour les autres pôles, ou il faut d'abord se concentrer sur le recrutement du directeur général en premier.
 
 ## Texte envoyé au joueur
 
-📌 **Vraie vie** : noté. Si ta limite d'utilisation est atteinte, Gemini reprend dans Antigravity : la passation est prête (guide de reprise dans `outils/LISEZMOI.md` § 7, consigne dans `GEMINI.md`, note dans `etat/relais-notes.md`), et chaque tour est enregistré dans `master`.
+**VENDREDI 19 JUILLET 2041 — 18h20 — Audun-le-Tiche, chez William**
 
-**VENDREDI 19 JUILLET 2041 — 18h03 — Audun-le-Tiche, chez William**
+La pluie a faibli, il ne reste qu'un goutte-à-goutte régulier dans la gouttière. Assis au bord du canapé, le téléphone sur les genoux, tu ouvres l'application Gestion et tu actives l'agent central. Dans la section des agents, la ligne qui disait « à créer » passe à « connecté », 18h12.
 
-Tu laisses le sac de sport dans l'entrée, les gants à sécher sur le dossier d'une chaise, et tu bois un grand verre d'eau au robinet. La pluie frappe la fenêtre de la cuisine par rafales, et du linge mouillé monte une odeur de cave. Tu lances une machine avec le short, la serviette et le t-shirt trempé de sueur, puis tu t'allonges sur le canapé, les mollets lourds après les squats. Vers 17h30 tu sors de quoi préparer le repas du soir.
+Tu lui écris longuement. Le projet : le solaire pour entreprises à Abidjan, 300 000 € sur trois ans en trois tranches conditionnelles, le directeur général qui n'est pas encore en place, le plafond d'API de 1 000 € par mois. L'application Gestion sera le parallèle du directeur général : lui, l'aspect pragmatique, rodé, presque robotique ; l'aspect humain, c'est l'équipe réelle qui le portera. Désormais, c'est vers lui que tu te tournes avant toute décision. Jamais tu n'informeras les personnes réelles du système que tu as mis en place avec les IA, ni de ta vie privée : si on s'étonne de ton niveau d'expertise, tu es un homme cultivé qui prend son projet au sérieux. Ton numéro de téléphone et ton courriel sont fournis aux candidats, et ton courriel lui est connecté. Première question : vaut-il mieux construire l'équipe dès maintenant, en recrutant pour les autres pôles, ou d'abord recruter le directeur général ?
 
-À 18h00, le téléphone vibre sur l'accoudoir :
+À 18h19, sa réponse :
 
-« Rapport de 18h00.
-LinkedIn : 743 impressions, dont 296 pour la version internationale depuis 12h32. Educarriere.ci : 247 vues. NovoJob : 441 vues. CoinAfrique : 118 vues. Kosafi Annonce CI : 64 vues. Groupes Facebook d'Abidjan : approuvée à 17h23, 214 vues. Groupes de la diaspora : 389 vues depuis 13h36. Réseaux d'anciens et associations : demande envoyée à 13h10, pas encore acceptée. Instagram : vérification en cours. Indeed : le justificatif d'entreprise est toujours attendu.
-Sept réponses depuis hier à 18h00 : deux de niveau A, trois de niveau B, deux de niveau C. Au total depuis la publication : quatorze.
-Niveau A. Maïmouna Koné : pas de nouvelle depuis son message de 16h01 ; deuxième message envoyé à 16h08. Brice Tapé a répondu à 17h36, brièvement : technicien supérieur en électrotechnique, installé à Atlanta depuis 2012, il dirige depuis treize ans des équipes de pose de centrales photovoltaïques sur des toitures de commerces ; rentrer serait une décision de famille. Deuxième message envoyé à 17h42 : réseau d'entreprises en Côte d'Ivoire, références, date de retour envisageable.
-Niveau B, premier message d'entretien envoyé à 18h03. Jonathan Ouattara (LinkedIn international, 12h44) : 48 ans, commercial en entreprises à Paris, vingt ans d'expérience, références vérifiables. Mohamed Coulibaly (groupes de la diaspora, 14h07) : 40 ans, banquier à Bruxelles, huit ans d'expérience, références vérifiables. Kader Assi (groupes de la diaspora, 16h47) : 44 ans, ingénieur en énergie à Marseille, dix-sept ans d'expérience, références introuvables ou évasives.
-Niveau C. Solange Gnagne (Facebook, 17h51) : employée de bureau, 58 ans, quinze ans d'expérience, hors profil. Boubacar Sylla (LinkedIn international, 16h49) : profil récent, aucune référence joignable ; après mon accusé de réception, il a demandé 300 € de « frais de mise en relation ». Je n'ai pas répondu.
-Jean-Baptiste Tuo a ton numéro depuis 11h53 ; pas de message de sa part pour l'instant. Hervé Touré n'a pas répondu à mon deuxième message de 08h30.
-Je n'ai rien promis ni chiffré, et je n'ai donné ton nom à personne. Prochain rapport demain à 18h00. »
+« Agent central connecté à 18h12. J'ai le cadre : société de droit OHADA à Abidjan, solaire d'autoproduction pour entreprises, 300 000 € sur trois ans en trois tranches conditionnelles (60 000, 135 000 et 105 000 €), toi associé non-gérant, un directeur général à recruter, un pôle RH en route, un plafond d'API de 1 000 € par mois (7,54 € dépensés ce mois-ci). Je suis le double IA du directeur général : analyse, chiffres, vérification contre les textes. Je n'ai ni le terrain, ni la présence, ni l'autorité sur des salariés ; l'équipe réelle les portera. Avant toute décision, tu passes par moi ; la décision reste la tienne.
 
-Il est 18h03.
+Confidentialité : enregistrée. Dans ce que j'écris à des personnes réelles, aucun mot sur un système d'IA ni sur ta vie privée. Sur ton niveau d'expertise, ta formule seule. Ton numéro et ton courriel sont fournis aux candidats au-dessus du seuil ; ton courriel m'est connecté, je lis ce qui arrive et je te le résume. Un fait : avec ces deux éléments, un candidat peut remonter jusqu'à toi.
+
+Ta question : le directeur général d'abord. 1. Il n'existe pas encore de société : sans employeur immatriculé, pas de contrat de travail ; l'employeur s'immatricule à la CNPS et déclare chaque embauche. La forme sociale (SARL ou SAS) dépend du directeur général et de l'avocat. 2. La première tranche de 60 000 € ne se libère que sur des résultats vérifiés : recruter plusieurs postes avant qu'un responsable en réponde dépense cet argent sans personne pour le défendre. 3. Le directeur général choisira ses équipes ; lui imposer des collaborateurs fragilise son autorité dès le premier jour. 4. Une seule démarche ne dépend pas de lui et peut commencer maintenant, sans engagement salarial : un avocat d'Abidjan, pour la forme sociale et pour le point de l'autoproducteur, qui doit être propriétaire de son installation et qui conditionne le modèle d'affaires. Le comptable OHADA viendra à l'immatriculation.
+
+Pour les pôles technique et commercial : rien ne s'engage avant la signature du directeur général. Le pôle RH garde les dossiers de Jean-Baptiste Tuo et d'Hervé Touré pour les postes commerciaux.
+
+Si tu valides, je demande au pôle RH de se concentrer sur le seul poste de directeur général, et je prépare pour toi les questions à poser à l'avocat d'Abidjan. »
+
+Il est 18h20.
 
 ---
 
 **Réponses attendues**
-- **Claude** (ton agent IA, pôle ressources humaines) : les entretiens avec Maïmouna Koné (deuxième message envoyé à 16h08), Brice Tapé (deuxième message à 17h42) et, depuis 18h03, Jonathan Ouattara, Mohamed Coulibaly et Kader Assi ; prochain rapport demain à 18h00.
+- **Agent central** : il attend ta validation (pôle RH concentré sur le seul poste de directeur général ; questions pour l'avocat d'Abidjan).
+- **Claude** (pôle ressources humaines) : les entretiens avec Maïmouna Koné, Brice Tapé, Jonathan Ouattara, Mohamed Coulibaly et Kader Assi ; prochain rapport demain à 18h00.
 - **Jean-Baptiste Tuo** : il a ton numéro depuis 11h53 ; rien pour l'instant.
 - **Instagram** : la vérification de ton identité, sous 24 heures (envoyée à 00h40).
 - **Ministère de l'Éducation** (info@men.lu) : ton courriel de mardi à 12h14 n'a pas de réponse.
 
 **À faire / à fournir avant le tour suivant**
-- Aucune démarche en cours.
+- Ta décision sur la proposition de l'agent central.
 
 **Quêtes secondaires**
 - Rien en suspens en dehors de ce que tu as déjà noté.
@@ -57,9 +59,9 @@ Il est 18h03.
 Que veux-tu faire ?
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
-- A027 Fri 19/07 18:05 (luxembourg) | Kader Assi (facebook) : réponse de Kader Assi (profil B, ingénieur à Marseille) au premier message de l'entretien de l'agent IA (T17 : poli_bref) : réponse polie et brève sur son parcours · souci : loyer qui augmente · objectif : préparer une compétition ou un examen · foyer : vit seul(e) · défauts : dépense sans compter, puis se plaint d'être à découvert / susceptible, se vexe d'une remarque anodine [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : immediat (jet 4.4, M70) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=kader-assi canal=facebook]
-- A026 Fri 19/07 18:07 (luxembourg) | Mohamed Coulibaly (facebook) : réponse de Mohamed Coulibaly (profil B, banquier à Bruxelles) au premier message de l'entretien de l'agent IA (T17 : poli_bref) : réponse polie et brève sur son parcours · souci : contrat de travail qui se termine bientôt · objectif : acheter un logement (ou un plus grand) · foyer : en couple, avec enfants · défauts : mauvais conducteur qui se croit excellent / arrive souvent en retard et s'en excuse à peine [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : immediat (jet 3.0) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=mohamed-coulibaly canal=facebook]
-- A025 Fri 19/07 18:10 (luxembourg) | Brice Tapé (linkedin) : réponse de Brice Tapé (profil A, diaspora, Atlanta) au deuxième message de l'entretien de l'agent IA (T17 : mefiance) : prudent, il demande qui porte le projet, quelle société et quelles garanties avant de parler de réseau ou de retour · souci : problème de santé qu'il refuse de faire examiner · objectif : passer plus de temps avec ses enfants · foyer : en couple, avec enfants · défauts : aime les commérages et répète ce qu'on lui confie / passif-agressif quand il est contrarié [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : rapide (jet 4.3, M70, M72) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=brice-tape canal=linkedin]
+- A028 Fri 19/07 18:25 (luxembourg) | Claude (pôle RH) : Claude (pôle RH) répond à Brice Tapé (qui porte le projet, quelle société, quelles garanties) sans donner le nom de William, puis tire T17 (--pour "Brice Tapé") et reactions.py delai [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
+- A029 Fri 19/07 18:30 (luxembourg) | Claude (pôle RH) : Claude (pôle RH) envoie le deuxième message à Mohamed Coulibaly (réseau, financement, date de retour), puis tire T17 et reactions.py delai [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
+- A030 Fri 19/07 18:35 (luxembourg) | Claude (pôle RH) : Claude (pôle RH) envoie le deuxième message à Kader Assi (références, projets solaires menés, date de retour), puis tire T17 et reactions.py delai [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
 - A021 Fri 19/07 19:36 (luxembourg) | Jean-Baptiste Tuo (WhatsApp) : premier message WhatsApp de Jean-Baptiste Tuo à William (T17 : reciproque = intérêt réel, retour du contact) après réception de son numéro par l'agent IA : il se présente, remercie, propose un échange , ton de donneur de leçons mêlé de politesse , en français , son numéro apparaît dans la conversation · souci : dettes de jeu · objectif : obtenir un poste de direction dans une grande entreprise · foyer : en couple, enfants partis · défauts : donneur de leçons sur la santé, l'argent ou l'éducation / aime les commérages et répète ce qu'on lui confie [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : dans_l_heure (jet 27.4, M70) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=jean-baptiste-tuo canal=whatsapp]
 - A016 Fri 19/07 20:28 (luxembourg) | Instagram (vérification) : Instagram valide la vérification d'identité de William et le compte du projet : Claude publie l'annonce version 2 à 20h35 et le signale à William (tirage : vérification acceptée, terminée au bout de 19 h 48) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
 - A024 Sat 20/07 06:21 (luxembourg) | Maïmouna Koné (facebook) : réponse de Maïmouna Koné (profil A, diaspora, Toulouse) au deuxième message de l'entretien de l'agent IA (T17 : mefiance) : prudente, elle demande qui est le porteur du projet, quelle société, quelles garanties, et recule sur la suite tant qu'elle n'a rien de vérifiable · souci : voisin bruyant · objectif : obtenir une promotion ou un poste plus stable · foyer : vit seul(e) · défauts : dit oui à tout puis se désiste au dernier moment / jaloux du succès des autres, même de ses amis [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : le_soir_ou_lendemain (jet 79.6, M70, M72) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=maimouna-kone canal=facebook]
@@ -169,7 +171,7 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 6a6c34a ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 51d987b ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 21 fichier(s) modifié(s)

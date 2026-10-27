@@ -34,6 +34,7 @@ DOCUMENTS = ETAT / "gestion-documents.csv"
 CANDIDATS = ETAT / "gestion-candidats.csv"
 AGENTS = ETAT / "gestion-agents.csv"
 COUT_JOUR_RH = 0.9  # surveillance et rapport quotidien de l'agent du pôle RH (estimation)
+COUT_JOUR_CENTRAL = 0.7  # lecture de la messagerie de William et synthèse des pôles par l'agent central (estimation)
 COUT_REPONSE_RH = 0.8  # lecture et classement d'une réponse à une annonce (estimation)
 COL_B = ["date", "pole", "objet", "cout_eur"]
 COL_D = ["id", "date", "expediteur", "objet", "pole", "statut", "retour", "cout_eur"]
@@ -55,15 +56,20 @@ def _avant(date, t):
 
 
 def cout_auto(t):
-    """Consommation d'API ESTIMÉE du pôle RH depuis la connexion de son agent : 0,90 € par jour écoulé + 0,80 € par réponse à une annonce reçue depuis (même mois que `t`)."""
+    """Consommation d'API ESTIMÉE des agents depuis leur connexion : pôle RH (0,90 € par jour écoulé + 0,80 € par réponse à une annonce reçue depuis) et agent central (0,70 € par jour écoulé), dans le mois de `t`."""
+    total = 0.0
     rh = next((a for a in lire_csv(AGENTS) if a["pole"] == "rh" and a["statut"] == "connecté" and a["depuis"] and _avant(a["depuis"], t)), None)
-    if rh is None:
-        return 0.0
-    debut = max(dt.datetime.strptime(rh["depuis"], "%Y-%m-%d %H:%M"), dt.datetime(t.year, t.month, 1))
-    jours = max(0.0, (t - debut).total_seconds() / 86400)
-    import annonces
-    reponses = [r for r in annonces.reponses() if f"{debut:%Y-%m-%d %H:%M}" <= r["quand"] <= f"{t:%Y-%m-%d %H:%M}"]
-    return round(COUT_JOUR_RH * jours + COUT_REPONSE_RH * len(reponses), 2)
+    if rh is not None:
+        debut = max(dt.datetime.strptime(rh["depuis"], "%Y-%m-%d %H:%M"), dt.datetime(t.year, t.month, 1))
+        jours = max(0.0, (t - debut).total_seconds() / 86400)
+        import annonces
+        reponses = [r for r in annonces.reponses() if f"{debut:%Y-%m-%d %H:%M}" <= r["quand"] <= f"{t:%Y-%m-%d %H:%M}"]
+        total += COUT_JOUR_RH * jours + COUT_REPONSE_RH * len(reponses)
+    central = next((a for a in lire_csv(AGENTS) if a["pole"] == "central" and a["statut"] == "connecté" and a["depuis"] and _avant(a["depuis"], t)), None)
+    if central is not None:
+        debut_c = max(dt.datetime.strptime(central["depuis"], "%Y-%m-%d %H:%M"), dt.datetime(t.year, t.month, 1))
+        total += COUT_JOUR_CENTRAL * max(0.0, (t - debut_c).total_seconds() / 86400)
+    return round(total, 2)
 
 
 def depense_mois(t):

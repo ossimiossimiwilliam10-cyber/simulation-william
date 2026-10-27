@@ -32,3 +32,4 @@
 ## Historique
 - 19/07/2041 : fiche créée (tirage du générateur).
 - 19/07/2041, 18h03 : premier message d'entretien de l'agent IA (T17 : poli_bref, réponse prévue à 18h05, A027).
+- 19/07/2041, 18h05 : sa réponse polie et brève (T17 : poli_bref ; Facebook) : ingénieur électricien, dix-sept ans de métier dont dix en bureau d'études à Marseille (centrales photovoltaïques), missions en Afrique de l'Ouest ; ses références : plus tard, quand le projet sera mieux précisé.
