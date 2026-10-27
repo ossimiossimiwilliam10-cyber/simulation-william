@@ -44,13 +44,6 @@
 - **Horaires** : règle « etudiant », fuseau luxembourg, décalage +4 min ; travail 09:04-17:04 (lun, mar, mer, jeu, ven), trajet 30 min ; sommeil 00:34-08:34
 - **Derniers événements** : 05/07 sans_histoire; 12/07 coup_dur (malade (mal de dos)); 20/07 petit_evenement (chantier d'été qui bloque la rue); 15/07 sans_histoire; 28/07 coup_dur (prêt à un proche jamais rendu)
 
-### Claude Majerus (voisin mitoyen (côté droit))
-- **Lien avec William** : contact_recent (whatsapp)
-- **Objectif** : obtenir une promotion ou un poste plus stable ; **souci** : procédure de divorce ; **foyer** : vit seul(e)
-- **Secret (moteur seulement)** : a une condamnation ancienne (conduite en état d'ivresse) (gravité 2)
-- **Horaires** : règle « bureau », fuseau luxembourg, décalage -29 min ; travail 08:31-17:01 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:01-06:31
-- **Derniers événements** : 02/07 sans_histoire; 11/07 sans_histoire; 19/07 avancee_objectif (démarche pour son objectif : obtenir une promotion ou un poste plus stable); 18/07 tournant (proposition d'emploi ou de collaboration ailleurs); 22/07 petit_evenement (croisement, visite ou conversation de voisinage)
-
 ### Eugène Doumbia (répondant à l'annonce)
 - **Lien avec William** : aucun (whatsapp)
 - **Objectif** : faire croître son bureau d'études avec des clients internationaux ; **souci** : voisin bruyant ; **foyer** : en couple, avec enfants

@@ -192,3 +192,4 @@ def generer_courriel_mohamed_coulibaly():
 if __name__ == "__main__":
     generer_courriel_gnamien_parametres_dg()
     generer_courriel_mohamed_coulibaly()
+

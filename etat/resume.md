@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 27/10/2026 23:52 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 28/10/2026 00:04 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : vendredi 26/07/2041 20:30 (luxembourg, UTC+2)
+## Horloge : samedi 27/07/2041 08:45 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 18:30 ; lisbonne 19:30 ; mindelo 17:30 ; casablanca 19:30 ; douala 19:30 ; addis 21:30 ; manille 02:30 ; paris 20:30 ; seoul 03:30 ; bresil 15:30
+- **Heure dans les autres lieux** : abidjan 06:45 ; lisbonne 07:45 ; mindelo 05:45 ; casablanca 07:45 ; douala 07:45 ; addis 09:45 ; manille 14:45 ; paris 08:45 ; seoul 15:45 ; bresil 03:45
 - **En attente de William** :
-  - Arbitrage sur les options de vol/hébergement à Abidjan ou validation de l'avance rapide vers samedi matin (réponse de Mohamed Coulibaly)
+  - Arbitrage sur le règlement des billets d'avion / préparation du e-visa ou choix de l'avance rapide (ce soir 20h00, dimanche footing ou lundi statuts Me Gnamien)
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 464,70 €**
@@ -15,8 +15,7 @@
 - Patrimoine net de William : **851 472,92 €**
 - Prévu dans les 14 jours : 31/07 Traitement mensuel de William (9 320,00 €) ; 01/08 Minett Combat Club (-85,00 €) ; 01/08 Package bancaire Zebra Premium (-12,83 €) ; 02/08 Virement permanent vers le compte épargne (-732,00 €) ; 02/08 Virement permanent vers le compte épargne (732,00 €) ; 02/08 Virement permanent vers le compte-titres ETF (-5 755,00 €) ; 02/08 Virement permanent vers le compte-titres ETF (5 755,00 €) ; 05/08 Mensualité du prêt immobilier et assurance emprunteu (-949,28 €) ; 05/08 Prêt immobilier de la maison d'Audun-le-Tiche (-626,84 €) ; 05/08 Part nette du bien financé : + capital remboursé (626,84 €) ; 05/08 Assurance habitation (-45,00 €) ; 05/08 Voiture électrique : assurance tous risques (-107,00 €)
 
-## Agenda : dans les 24 heures (2)
-- A094 Sat 27/07 08:45 (luxembourg) | Mohamed Coulibaly (courriel) : Réponse de Mohamed Coulibaly au protocole de communication et à l'organigramme cible (T10 : le_soir_ou_lendemain, jet 79.25) : accusé formel, accord sur les règles de gouvernance écrite et feuille de route des recrutements [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
+## Agenda : dans les 24 heures (1)
 - A093 Sat 27/07 20:00 (luxembourg) | Directeur général virtuel : Rapport quotidien n° 8 à William (décisions fermées, affirmations vérifiées, état des pôles) [prevu]
 ## Agenda : de J+1 à J+7 (1)
 - A006 Mon 29/07 10:22 (luxembourg) | MENJE (info@men.lu) : Réponse au courriel de William du 16/07/2041 12h14 (demande d'autorisation, article 14) : orientation vers la voie hiérarchique (demande écrite par la direction du lycée au ministre du ressort, avis du ministre de la Fonction publique) et complément demandé (description de l'activité, volume horaire, absence de gestion, rémunération éventuelle) ; tirage : réponse au 9e jour ouvrable, friction administrative = oui ; PDF à générer par courriel.py au moment voulu [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
@@ -36,10 +35,7 @@
 - Pendant : réactions et négociations par `jet.py --table Tn` (T1 à T14 ; `--pour` pour un personnage) ; personnages nouveaux par `personnage.py nouveau` ; faits et prix par `faits.py` et `prix.py` ; lieux par `lieux.py voir` ; révélations dans `savoir.py ajouter` ; argent dans `grand_livre.py ajouter`.
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
-## Fin du dernier journal (2041-07-26.md, 6 dernières lignes)
-> - Tour en cours à 19h25, en attente de William : **Validation finale du compromis (10 mois de non-concurrence à 50 % du fixe, équipe mobilisée mi-septembre)**.
-> - **19h25-20h00** (tour n° 59) : Conclusion de l'entretien de sélection : William accepte les 12 mois de non-concurrence avec 50 % d'indemnité compensatrice ; accord d'honneur ferme scellé avec Mohamed Coulibaly pour le mandat de Directeur Général de la SAS ; rendez-vous pris à Abidjan pour la mission du 12 au 25 août ; fin de l'appel à 19h35. À 20h00, remise du rapport d'activité quotidien n° 7 d
-> - Tour en cours à 20h00, en attente de William : **Validation des 2 décisions du rapport quotidien n° 7 (transmission des termes DG à Me Gnamien et devis voyage Abidjan)**.
-> - **20h00-20h30** (tour n° 60) : William valide les deux décisions du rapport n° 7 (mandat DG transmis à Me Gnamien et devis voyage Abidjan) ; clarification sur le « pôle logistique » (module algorithmique de recherche de vols et hébergements) ; transmission officielle à Me Gnamien des stipulations du mandat DG de Mohamed Coulibaly (D022) pour intégration aux statuts du 29/07 ; notification offici
-> - Tirages du tour : T10 → le_soir_ou_lendemain (79,25).
-> - Tour en cours à 20h30, en attente de William : **Arbitrage sur les options de vol/hébergement à Abidjan ou validation de l'avance rapide vers samedi matin (réponse de Mohamed Coulibaly)**.
+## Fin du dernier journal (2041-07-27.md, 6 dernières lignes)
+> # Samedi 27 juillet 2041 — univers 3, douzième jour
+> - **00h00-08h45** (tour n° 61) : William valide les arbitrages de la mission d'Abidjan (vol Air France depuis Findel, option sur résidence sécurisée à Cocody Deux-Plateaux, vaccin fièvre jaune confirmé) ; consigne managériale verrouillée : recrutement de Mariam Brou confié à Mohamed Coulibaly après la signature de son contrat à Abidjan, et soumission systématique des directeurs proposés au simulat
+> - Tour en cours à 08h45, en attente de William : **Arbitrage sur le règlement des billets d'avion / préparation du e-visa ou choix de l'avance rapide (ce soir 20h00, dimanche footing ou lundi statuts Me Gnamien)**.
