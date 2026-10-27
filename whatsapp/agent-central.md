@@ -160,3 +160,15 @@ AFFIRMATIONS VÉRIFIÉES
 - Budget d'API : 33,80 € sur 1 000 € ce mois-ci.
 
 Prochain rapport : demain à 20h00. »
+
+**Lundi 22/07/2041, 20:02 — William**
+« Je valide le choix de Me Gnamien pour engager la mission. Concernant Kader Assi, on se présente sous le libellé Projet Solaire B2B Abidjan, sans mon nom.
+Par ailleurs, il est temps d'avancer sur le recrutement : choisis le meilleur candidat de niveau élite et présente-le-moi. Mohamed Coulibaly à 91 et Mariam Brou à 88 sont particulièrement intéressants. Vu qu'on a un avocat pour monter la structure, il faut commencer à choisir le directeur général. Pour les conditions salariales, on offrira un salaire avantageux, mais avec des exigences strictes de productivité et des conditions facilitant un licenciement éventuel en cas de sous-performance ; on en reparlera en détail. D'abord, trouvons le meilleur candidat possible.
+Concernant Jean-Baptiste Tuo, envoie-lui un message pour annuler le rendez-vous en lui expliquant qu'on a trouvé de bien meilleurs profils, en le remerciant pour sa démarche et en gardant son dossier si d'autres opportunités s'ouvrent. »
+
+**Lundi 22/07/2041, 20:05 — Directeur général virtuel**
+« C'est bien noté.
+1. Me Gnamien : confirmation de l'accord de principe transmise ce soir par courriel. Le cabinet prépare la lettre de mission détaillée pour la constitution de la SAS et le pacte d'associés protecteur. La procédure KYC d'identification formelle te sera soumise dès réception.
+2. Kader Assi : courriel officiel expédié au nom de l'équipe du projet sous le libellé « Projet Solaire B2B Abidjan », accusant réception des coordonnées de ses référents. Ton anonymat reste préservé.
+3. Jean-Baptiste Tuo : comme il t'avait écrit directement sur ton WhatsApp personnel le 19 juillet, le message de refus courtois et d'annulation de l'appel a été préparé pour ton WhatsApp et envoyé à 20h05. L'échéance de vendredi est retirée de l'agenda.
+4. Directeur Général réel (élite) : tes directives sont intégrées. Mohamed Coulibaly (91/100) et Mariam Brou (88/100) forment le duo de tête indiscutable. Leurs quatre référents professionnels ont été contactés ce matin par courriel officiel. Dès réception des retours écrits (attendus sous 24 à 48 heures), le pôle RH présentera un dossier comparatif d'aide à la décision pour organiser le premier entretien approfondi avec le candidat n° 1. Les critères de productivité et de flexibilité de rupture seront intégrés dans les clauses du mandat social avec Me Gnamien. »

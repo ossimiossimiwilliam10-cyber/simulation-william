@@ -4127,3 +4127,7 @@ Effets à jouer : A23 (lundi 22/07 (soir)) : Très courant ; William voit le mes
 - Message spontané d'un proche, semaine du 2041-07-22 : Lenny Nguyen (membre régulier du club (sparring)) écrira le 27/07/2041 vers 11:50 (heure de l'expéditeur) · tiré parmi 38 personnes de l'entourage, pondérées par proximité (enregistré le 27/10/2026 19:08 heure machine)
 
 - Jet « Kader Assi : respect de sa promesse de transmettre deux références » : probabilité 90 %, jet  81.5 → **OUI** (enregistré le 27/10/2026 19:10 heure machine)
+
+- Tirage [T17] « Jean-Baptiste Tuo : réaction au refus poli de William » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  16.9 → **poli_bref** (enregistré le 27/10/2026 19:24 heure machine)
+
+- Tirage [T10] « Jean-Baptiste Tuo : délai (répond au refus de William) » : immediat 9 / rapide 18 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 20 / plus_tard_ou_jamais 18 ; modificateurs : M72 ; jet  66.4 → **le_soir_ou_lendemain** (enregistré le 27/10/2026 19:24 heure machine)
