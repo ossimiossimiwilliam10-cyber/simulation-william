@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 27/10/2026 17:10 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 27/10/2026 17:17 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : vendredi 19/07/2041 20:00 (luxembourg, UTC+2)
+## Horloge : vendredi 19/07/2041 20:04 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 18:00 ; lisbonne 19:00 ; mindelo 17:00 ; casablanca 19:00 ; douala 19:00 ; addis 21:00 ; manille 02:00 ; paris 20:00 ; seoul 03:00 ; bresil 15:00
+- **Heure dans les autres lieux** : abidjan 18:04 ; lisbonne 19:04 ; mindelo 17:04 ; casablanca 19:04 ; douala 19:04 ; addis 21:04 ; manille 02:04 ; paris 20:04 ; seoul 03:04 ; bresil 15:04
 - **En attente de William** :
-  - Tes deux réponses au rapport de 20h00 (Kader Assi ; jours des rapports réels) ; liste restreinte d'avocats d'Abidjan demain 12h00 ; prochain rapport final demain 20h00 ; vérification Instagram sous 24 h
+  - Compte rendu du directeur général virtuel sur Kader Assi (vérification de deux références) ; liste restreinte d'avocats d'Abidjan demain 12h00 ; prochain rapport final demain 20h00 ; vérification Instagram sous 24 h
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **9 975,70 €**
@@ -49,9 +49,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-07-19.md, 6 dernières lignes)
-> - **19h36-19h57** (tour n° 26) : **19h36-19h57** (tour n° 26) : 19h44 : William répond lui-même à Jean-Baptiste Tuo (occupé, candidature pertinente, appel éventuel vendredi 26/07) ; T17 ignore : pas de réponse ; 19h47 : nouvelle règle de William (doubles virtuels : décision tant que le poste réel est vacant, puis évaluation et contre-expertise ; rapports réels vers les pôles virtuels) et consigne 
-> - Tirages du tour : T17 Jean-Baptiste → ignore (57,22).
 > - Tour en cours à 19h57, en attente de William : **Rapport final du directeur général virtuel ce soir à 20h00 ; ta réponse à la question de signature des messages (prénom d'assistant de projet ou l'équipe du projet) ; liste restreinte d'avocats d'Abidjan demain 12h00 ; vérification Instagram sous 24 h**.
 > - **19h57-20h00** (tour n° 27) : **19h57-20h00** (tour n° 27) : 19h58 : William choisit la signature « L'équipe du projet » (aucun nom inventé : risque juridique) et veut deux rapports hebdomadaires de chaque responsable réel au lieu d'un mensuel ; 19h59 : réponse du directeur général virtuel (jours proposés : mardi 17h00 et vendredi 12h00 ; registre version 8) ; 20h00 : premier rapport final (deu
 > - Hors de la vue de William : trois nouveaux profils B reçus depuis 18h00 (Cédric Soro 18h21, Landry Aka 18h22, Fabrice Koffi 19h14) ; premiers messages du pôle RH à jouer à 20h05, 20h07, 20h10 (A041 à A043)
 > - Tour en cours à 20h00, en attente de William : **Tes deux réponses au rapport de 20h00 (Kader Assi ; jours des rapports réels) ; liste restreinte d'avocats d'Abidjan demain 12h00 ; prochain rapport final demain 20h00 ; vérification Instagram sous 24 h**.
+> - **20h00-20h04** (tour n° 28) : **20h00-20h04** (tour n° 28) : 20h02 : William répond au rapport : Kader Assi, oui (poursuite par courriel jusqu'à la vérification de deux références, aucun échange avec lui avant) ; rapports réels validés (mardi 17h00 et vendredi 12h00, un de plus les jours importants) ; 20h04 : accusé du directeur général virtuel
+> - Tour en cours à 20h04, en attente de William : **Compte rendu du directeur général virtuel sur Kader Assi (vérification de deux références) ; liste restreinte d'avocats d'Abidjan demain 12h00 ; prochain rapport final demain 20h00 ; vérification Instagram sous 24 h**.

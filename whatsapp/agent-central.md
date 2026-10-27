@@ -61,3 +61,5 @@ DÉCISIONS
 - Budget d'API : 16,25 € sur 1 000 € ce mois-ci.
 
 Prochain rapport : demain à 20h00.
+**[19/07/2041 - 20:02 (Luxembourg)] William :** Kader Assi : j'approuve ta démarche, donc oui. Rapports réels : je valide également.
+**[19/07/2041 - 20:04 (Luxembourg)] Agent central :** Reçu à 20h02. Kader Assi : oui. Je poursuis par courriel jusqu'à la vérification de deux références, sans aucun échange avec toi avant ; je te rendrai compte dans un prochain rapport. Rapports réels : validés. Deux par semaine pour chaque responsable réel, le mardi à 17h00 et le vendredi à 12h00, un de plus les jours importants. Ils entrent à l'agenda à la prise de poste de chaque responsable ; tant qu'aucun poste réel n'est occupé, personne ne te remet de rapport hebdomadaire. Prochain rapport final : demain à 20h00.
