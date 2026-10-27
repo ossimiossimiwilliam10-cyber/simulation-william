@@ -2,10 +2,16 @@
    Deux modes (MODE_FICHIERS de telephone.py, D.fichiers_mode) : "direct" (un appui ouvre le fichier du PC par son adresse file:///) et "lecteur"
    (le PDF, publié avec la page par telephone.py --fichiers, est lu DANS la page par pdf.js ; un lien vers le fichier publié est refusé par le viewer). */
 const FICHIERS_DIRECT = D.fichiers_mode === "direct";
+/* Page servie par outils/telephone_serveur.py (PC ou telephone du joueur sur le meme Wi-Fi) : le lien file:/// du PC est remplace par l'adresse du serveur. */
+const SERVEUR_LOCAL = /^(localhost|127\.|10\.|192\.168\.|172\.(1[6-9]|2\d|3[01])\.)/.test(location.hostname);
+function adresseFichier(lien) {
+  const m = SERVEUR_LOCAL && /\/(documents_william|courriels)\/([^/]+)$/.exec(lien || "");
+  return m ? "/" + m[1] + "/" + m[2] : lien;
+}
 /* Ligne d'un fichier : un lien direct en mode "direct", un bouton qui ouvre le lecteur sinon. */
 function ligneFichier(f, contenu, ouvrirLecteur) {
   if (FICHIERS_DIRECT) {
-    const a = el("a", "ligne"); a.href = f.lien; a.target = "_blank"; a.rel = "noopener"; a.append(...contenu); return a;
+    const a = el("a", "ligne"); a.href = adresseFichier(f.lien); a.target = "_blank"; a.rel = "noopener"; a.append(...contenu); return a;
   }
   const b = el("button"); b.type = "button"; const g = el("div", "ligne"); g.append(...contenu); b.append(g); b.addEventListener("click", ouvrirLecteur); return b;
 }

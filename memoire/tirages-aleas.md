@@ -2974,3 +2974,15 @@ Effets à jouer : A23 (dimanche 21/07 (matin)) : Très courant ; William voit le
 - Tirage [T10] « Mohamed Coulibaly : délai (réponse de Mohamed Coulibaly (profil B, banquier à Bruxelles) au premier message) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet   3.1 → **immediat** (enregistré le 27/10/2026 16:16 heure machine)
 
 - Tirage [T10] « Kader Assi : délai (réponse de Kader Assi (profil B, ingénieur à Marseille) au premier message de l') » : immediat 7 / rapide 18 / dans_l_heure 15 / dans_la_journee 25 / le_soir_ou_lendemain 25 / plus_tard_ou_jamais 10 ; modificateurs : M70 ; jet   4.4 → **immediat** (enregistré le 27/10/2026 16:16 heure machine)
+
+- Tirage [T17] « Brice Tapé face à la réponse de l'agent IA à ses questions (porteur, société, garanties) et à la demande de réseau et de date de retour » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  45.9 → **conversation** (enregistré le 27/10/2026 16:37 heure machine)
+
+- Tirage [T17] « Mohamed Coulibaly face au deuxième message de l'agent IA (réseau en Côte d'Ivoire, financement de projets énergétiques, date de retour) » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  18.6 → **poli_bref** (enregistré le 27/10/2026 16:37 heure machine)
+
+- Tirage [T17] « Kader Assi face au deuxième message de l'agent IA (projets solaires menés, contacts, date de retour) » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  13.1 → **poli_bref** (enregistré le 27/10/2026 16:37 heure machine)
+
+- Tirage [T10] « Brice Tapé : délai (réponse de Brice Tapé (profil A, diaspora, Atlanta) au message de l'agent IA qui) » : immediat 9 / rapide 18 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 20 / plus_tard_ou_jamais 18 ; modificateurs : M72 ; jet  64.0 → **le_soir_ou_lendemain** (enregistré le 27/10/2026 16:37 heure machine)
+
+- Tirage [T10] « Mohamed Coulibaly : délai (réponse de Mohamed Coulibaly (profil B, banquier à Bruxelles) au deuxième messag) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  56.2 → **dans_la_journee** (enregistré le 27/10/2026 16:37 heure machine)
+
+- Tirage [T10] « Kader Assi : délai (réponse de Kader Assi (profil B, ingénieur à Marseille) au deuxième message de l) » : immediat 7 / rapide 18 / dans_l_heure 15 / dans_la_journee 25 / le_soir_ou_lendemain 25 / plus_tard_ou_jamais 10 ; modificateurs : M70 ; jet  30.3 → **dans_l_heure** (enregistré le 27/10/2026 16:37 heure machine)

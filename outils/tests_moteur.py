@@ -205,6 +205,7 @@ def main():
     e.lancer(o + "annonces.py", "verifier", contient="conforme", nom="annonces : fichier des annonces conforme")
     e.lancer(o + "annonces.py", "reseau", "Min-ji", "--simule", contient="note", nom="annonces : réseau d'un répondant noté sur 100 (essai)")
     e.lancer(o + "telephone.py", "--json", contient='"epingle"', nom="téléphone : conversations épinglées (etat/epingles.csv)")
+    e.lancer(o + "telephone_serveur.py", "--essai", contient="conforme", nom="téléphone : serveur local sans Claude (page, PDF, chemins interdits)")
     e.lancer(o + "telephone.py", "--fichiers", contient="[]",
              nom="téléphone : en mode direct, aucun PDF n'est publié avec la page")
 
