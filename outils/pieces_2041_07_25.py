@@ -81,7 +81,7 @@ def generer_courriel_gnamien_rib():
     pdf.puces([
         "Finalisation du projet des Statuts de la SASU selon les stipulations de l'Acte Uniforme OHADA révisé ;",
         "Rédaction du projet de Procès-Verbal des décisions de l'associé unique et de la Convention de Mandat Social du Directeur Général ;",
-        "Transmission de ces projets pour relecture et approbation formelle sous 48 heures ouvrées (au plus tard lundi 28 juillet 2041) ;",
+        "Transmission de ces projets pour relecture et approbation formelle sous 48 heures ouvrées (au plus tard lundi 29 juillet 2041) ;",
         "Réservation du certificat d'indisponibilité du capital social auprès de la banque partenaire BICICI en vue du dépôt des fonds."
     ])
     pdf.para(

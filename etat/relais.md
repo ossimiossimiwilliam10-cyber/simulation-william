@@ -49,7 +49,7 @@ L'avocat précise les coordonnées bancaires pour le versement du premier acompt
 - Code BIC / SWIFT : BICI CI AB ;
 - Référence obligatoire à faire figurer dans l'ordre de virement : `HONO-CI-2041-0722-OSSIMI`.
 
-Me Gnamien conclut qu'à réception de l'avis d'opéré bancaire ou du crédit des fonds, son cabinet finalisera et te soumettra pour approbation les projets définitifs des statuts de la SASU et de l'acte de nomination du Directeur Général sous un délai de 48 heures ouvrées (au plus tard lundi 28 juillet).
+Me Gnamien conclut qu'à réception de l'avis d'opéré bancaire ou du crédit des fonds, son cabinet finalisera et te soumettra pour approbation les projets définitifs des statuts de la SASU et de l'acte de nomination du Directeur Général sous un délai de 48 heures ouvrées (au plus tard lundi 29 juillet).
 
 ---
 
