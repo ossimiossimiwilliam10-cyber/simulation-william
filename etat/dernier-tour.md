@@ -1,35 +1,33 @@
 # Dernier tour montré au joueur
 
-> Tour n° 8 ; horloge 17/07/2041 18:03 -> 17/07/2041 18:12 ; enregistré le 27/10/2026 14:20 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 9 ; horloge 17/07/2041 18:12 -> 18/07/2041 18:03 ; enregistré le 27/10/2026 14:23 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je trouve le profil de Nadège Kwame intéressant, parce que je me demande pourquoi est-ce qu'une promotrice immobilière s'intéresse à ce domaine. Et je demande à Claude de lui envoyer un message comme quoi je voudrais son numéro personnel. Voilà, pour pouvoir directement entretenir avec elle depuis WhatsApp.
+> Go
 
 ## Texte envoyé au joueur
 
-📌 **Vraie vie** : interprété : « Nadège Kwame » = Nadège Kouamé.
+**JEUDI 18 JUILLET 2041 — 18h03 — Audun-le-Tiche, chez William**
 
----
+Mercredi soir, tu fais ton repas, le seul de la journée, et tu laisses la soirée filer au téléphone et sur le canapé. Tu te couches vers 23h40. Jeudi, la pluie tombe dès le matin, dense et tiède, et tu te lèves à 08h05 dans une maison sombre, volets mouillés, gouttières qui chantent. Tu restes chez toi. Un voisin traverse la rue en courant sous un parapluie retourné par le vent, la rue se vide, l'après-midi s'étire. Ton téléphone ne vibre pas : Claude ne t'a pas prévenu de la moindre réponse de Nadège Kouamé.
 
-**MERCREDI 17 JUILLET 2041 — 18h12 — Audun-le-Tiche, chez William**
+À 18h00, le rapport :
 
-À 18h05, tu écris à Claude. Le profil de Nadège Kouamé t'intrigue : tu veux savoir pourquoi une promotrice immobilière s'intéresse à un projet de solaire, et tu lui fais demander son numéro personnel pour lui parler directement sur WhatsApp. La réponse tombe à 18h07 :
+« Rapport de 18h00. LinkedIn : 581 impressions. Educarriere.ci : 213 vues. NovoJob : 380 vues. Indeed : le justificatif d'entreprise est toujours attendu.
 
-« Dans sa réponse d'hier à 18h00, elle écrit qu'elle veut se diversifier vers l'énergie et qu'elle connaît des propriétaires de bâtiments d'entreprises à Abidjan. Elle n'a pas encore répondu à mes questions complémentaires. Je lui écris maintenant sur Educarriere.ci. Je ne donne ni ton nom ni ton numéro tant que tu ne l'as pas décidé. »
+Une réponse depuis hier : Yannick N'Guessan (NovoJob, hier à 22h28), niveau C : sans emploi, trois ans d'expérience, références évasives, hors profil. Au total depuis la publication : sept réponses, aucune de niveau A, trois de niveau B, quatre de niveau C.
 
-À 18h09 :
+Niveau B : Jean-Baptiste Tuo a répondu aux questions complémentaires à 12h35, par un long message : onze ans dans le négoce et la distribution, deux références, un grossiste et un ancien associé, que je n'ai pas pu joindre, et une lecture du marché qui explique surtout comment un investisseur devrait gérer son argent. Je le laisse en B. Hervé Touré n'a pas répondu. Nadège Kouamé n'a répondu ni aux questions complémentaires ni à ta demande de numéro ; je te préviens dès qu'elle répond. Prochain rapport demain à 18h00. »
 
-« Message envoyé à Nadège Kouamé sur Educarriere.ci : « Bonjour Madame Kouamé, merci pour votre réponse. Le porteur du projet souhaite échanger directement avec vous. Pourriez-vous lui indiquer votre numéro personnel (WhatsApp) ? Cordialement. » Je te préviens dès qu'elle répond. »
-
-Il est 18h12. Rien ne revient de Nadège Kouamé.
+Il est 18h03.
 
 ---
 
 **Réponses attendues**
-- **Nadège Kouamé** (par Claude, Educarriere.ci) : ton message de 18h09 n'a pas de réponse pour l'instant.
+- **Nadège Kouamé** (par Claude, Educarriere.ci) : ton message d'hier à 18h09 n'a pas de réponse.
 - **Claude** (ton agent IA) : le prochain rapport, demain à 18h00.
-- **Ministère de l'Éducation** (info@men.lu) : ton courriel de 12h14 d'hier n'a pas de réponse pour l'instant.
+- **Ministère de l'Éducation** (info@men.lu) : ton courriel de mardi à 12h14 n'a pas de réponse.
 
 **À faire / à fournir avant le tour suivant**
 - Aucune démarche en cours.

@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 27/10/2026 14:20 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 27/10/2026 14:23 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mercredi 17/07/2041 18:12 (luxembourg, UTC+2)
+## Horloge : jeudi 18/07/2041 18:03 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 16:12 ; lisbonne 17:12 ; mindelo 15:12 ; casablanca 17:12 ; douala 17:12 ; addis 19:12 ; manille 00:12 ; paris 18:12 ; seoul 01:12 ; bresil 13:12
+- **Heure dans les autres lieux** : abidjan 16:03 ; lisbonne 17:03 ; mindelo 15:03 ; casablanca 17:03 ; douala 17:03 ; addis 19:03 ; manille 00:03 ; paris 18:03 ; seoul 01:03 ; bresil 13:03
 - **En attente de William** :
-  - Réponse de Nadège Kouamé à la demande de son numéro (Claude prévient) ; prochain rapport de Claude demain à 18h00 ; réponse du ministère attendue
+  - Réponse de Nadège Kouamé (Claude prévient) ; prochain rapport de Claude demain à 18h00 ; réponse du ministère attendue ; demain vendredi : club l'après-midi (I1)
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **9 975,70 €**
@@ -13,9 +13,10 @@
 - Prêt logement : solde restant dû (passif, déjà déduit de la part de maison) : **102 621,78 €**
 - Part nette de la maison d'Audun-le-Tiche : **97 378,22 €**
 - Patrimoine net de William : **852 983,92 €**
+- Prévu dans les 14 jours : 31/07 Traitement mensuel de William (9 320,00 €) ; 01/08 Minett Combat Club (-85,00 €) ; 01/08 Package bancaire Zebra Premium (-12,83 €)
 
 ## Agenda : dans les 24 heures (1)
-- A010 Thu 18/07 18:00 (luxembourg) | Claude (agent IA) : Rapport quotidien de l'agent IA à William : réponses à l'annonce (niveaux A, B, C), signaux d'alerte, état des plateformes [prevu]
+- A011 Fri 19/07 18:00 (luxembourg) | Claude (agent IA) : Rapport quotidien de l'agent IA à William : réponses à l'annonce (niveaux A, B, C), signaux d'alerte, état des plateformes [prevu]
 ## Agenda : de J+1 à J+7 (3)
 - A005 Sat 20/07 20:30 (luxembourg) | William (santé) : Aléa A31 (tirage réel du 16/07/2041) : diarrhée du voyageur ou intoxication alimentaire, seulement si William est à l'étranger ce jour-là ; sinon sans objet (à clore ainsi) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
 - A004 Sun 21/07 09:40 (luxembourg) | Inconnu (SMS) : Aléa A23 (tirage réel du 16/07/2041, semaine du 15/07) : tentative d'arnaque par SMS (faux colis ou faux conseiller bancaire) ; William voit le message et décide ; à jouer sans détail annoncé [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
@@ -36,10 +37,9 @@
 - Pendant : réactions et négociations par `jet.py --table Tn` (T1 à T14 ; `--pour` pour un personnage) ; personnages nouveaux par `personnage.py nouveau` ; faits et prix par `faits.py` et `prix.py` ; lieux par `lieux.py voir` ; révélations dans `savoir.py ajouter` ; argent dans `grand_livre.py ajouter`.
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
-## Fin du dernier journal (2041-07-17.md, 6 dernières lignes)
-> - 18h00 : rapport de Claude : 426 impressions LinkedIn, 192 vues Educarriere.ci, 175 vues NovoJob ; cinq réponses (annonces.py : RA002 à RA006) : aucune de niveau A, trois de niveau B (Nadège Kouamé, Jean-Baptiste Tuo, Hervé Touré : questions complémentaires envoyées), deux de niveau C (Sandrine Cissé : arnaque, 130 000 FCFA demandés ; Franck Konan : hors profil)
-> - Tirages du tour : jet « Une personne répond à l'annonce sur LinkedIn entre 18:00 et  » → NON (74,18) ; jet « Une personne répond à l'annonce sur LinkedIn entre 19:00 et  » → NON (81,73) ; jet « Une personne répond à l'annonce sur LinkedIn entre 20:00 et  » → NON (31,41) ; jet « Une personne répond à l'annonce sur LinkedIn entre 21:00 et  » → NON (88,96) ; jet « Une personne répond à l'annonce su
-> - Tour en cours à 18h03, en attente de William : **Prochain rapport de Claude demain à 18h00 ; réponses aux questions complémentaires attendues ; réponse du ministère attendue ; vendredi : club l'après-midi (I1)**.
-> - **18h03-18h12** (tour n° 8) : 18h05 : William demande à Claude pourquoi Nadège Kouamé (promotrice immobilière, niveau B) s'intéresse au projet et de lui demander son numéro personnel (WhatsApp) ; 18h07 : Claude répond (elle écrit vouloir se diversifier vers l'énergie, propriétaires de bâtiments d'entreprises à Abidjan) ; 18h09 : message envoyé sur Educarriere.ci ; réaction tirée en T17 : elle ne
-> - Tirages du tour : T17 Nadège → ignore (58,85).
-> - Tour en cours à 18h12, en attente de William : **Réponse de Nadège Kouamé à la demande de son numéro (Claude prévient) ; prochain rapport de Claude demain à 18h00 ; réponse du ministère attendue**.
+## Fin du dernier journal (2041-07-18.md, 6 dernières lignes)
+> # Jeudi 18 juillet 2041 — univers 3, troisième jour
+> - **00h00-18h03** (tour n° 9) : Soir du 17/07 : repas du soir, soirée à la maison, couché vers 23h40
+> - 18/07 : pluie (27 °C), lever à 08h05, journée à la maison ; 12h35 : Jean-Baptiste Tuo répond aux questions complémentaires (tirage) ; aucune réponse de Nadège Kouamé ni d'Hervé Touré ; RA007 (Yannick N'Guessan, niveau C) ; 18h00 : rapport de Claude : 581 impressions LinkedIn, 213 vues Educarriere.ci, 380 vues NovoJob ; sept réponses en tout (0 A, 3 B, 4 C)
+> - Tirages du tour : jet « Une personne répond à l'annonce sur LinkedIn entre 18:00 et  » → NON (82,8) ; jet « Une personne répond à l'annonce sur LinkedIn entre 19:00 et  » → NON (87,78) ; jet « Une personne répond à l'annonce sur LinkedIn entre 20:00 et  » → NON (80,71) ; jet « Une personne répond à l'annonce sur LinkedIn entre 21:00 et  » → NON (40,58) ; jet « Une personne répond à l'annonce sur
+> - Tour en cours à 18h03, en attente de William : **Réponse de Nadège Kouamé (Claude prévient) ; prochain rapport de Claude demain à 18h00 ; réponse du ministère attendue ; demain vendredi : club l'après-midi (I1)**.

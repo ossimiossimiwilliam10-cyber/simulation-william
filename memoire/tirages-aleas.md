@@ -2296,3 +2296,167 @@ Effets à jouer : A23 (dimanche 21/07 (matin)) : Très courant ; William voit le
 - Jet « Frais d'avance demandés par la répondante frauduleuse du 16/07 à 23h17 (100 000 + jet × 4 000 FCFA, arrondi à 10 000) » : probabilité 50 %, jet   6.6 → **OUI** [PROCÉDURE : chiffre d'audience ou montant d'une demande de frais d'avance] (enregistré le 27/10/2026 14:14 heure machine)
 
 - Tirage [T17] « Nadège Kouamé : réaction au message de William du 17/07 16:09 (abidjan) : « message de l'agent IA de William sur Educarriere.ci : le porteur du projet souhaite échang » » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  58.9 → **ignore** (enregistré le 27/10/2026 14:19 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn entre 18:00 et 19:00 » : probabilité 0.275967 %, jet  82.8 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn entre 19:00 et 20:00 » : probabilité 0.234572 %, jet  87.8 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn entre 20:00 et 21:00 » : probabilité 0.199386 %, jet  80.7 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn entre 21:00 et 22:00 » : probabilité 0.169478 %, jet  40.6 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn entre 22:00 et 23:00 » : probabilité 0.144057 %, jet  44.7 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn entre 23:00 et 00:00 » : probabilité 0.122448 %, jet  56.3 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn entre 00:00 et 01:00 » : probabilité 0.104081 %, jet  37.9 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn entre 01:00 et 02:00 » : probabilité 0.0176937 %, jet  15.7 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn entre 02:00 et 03:00 » : probabilité 0.0150397 %, jet  85.3 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn entre 03:00 et 04:00 » : probabilité 0.0127837 %, jet  50.4 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn entre 04:00 et 05:00 » : probabilité 0.0108662 %, jet  29.6 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn entre 05:00 et 06:00 » : probabilité 0.00923624 %, jet  61.8 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn entre 06:00 et 07:00 » : probabilité 0.00785081 %, jet  72.6 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn entre 07:00 et 08:00 » : probabilité 0.0333659 %, jet  18.5 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn entre 08:00 et 09:00 » : probabilité 0.028361 %, jet   3.1 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn entre 09:00 et 10:00 » : probabilité 0.0241069 %, jet  43.4 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn entre 10:00 et 11:00 » : probabilité 0.0204909 %, jet  84.4 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn entre 11:00 et 12:00 » : probabilité 0.0174172 %, jet  45.9 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn entre 12:00 et 13:00 » : probabilité 0.0148046 %, jet  39.6 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn entre 13:00 et 14:00 » : probabilité 0.0125839 %, jet   8.3 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn entre 14:00 et 15:00 » : probabilité 0.0106964 %, jet  35.6 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn entre 15:00 et 16:00 » : probabilité 0.0090919 %, jet  83.4 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn entre 16:00 et 17:00 » : probabilité 0.00772812 %, jet  85.0 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn entre 17:00 et 18:00 » : probabilité 0.0065689 %, jet  25.3 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Educarriere.ci entre 18:00 et 19:00 » : probabilité 0.537005 %, jet  97.9 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Educarriere.ci entre 19:00 et 20:00 » : probabilité 0.456454 %, jet  61.0 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Educarriere.ci entre 20:00 et 21:00 » : probabilité 0.387986 %, jet  63.2 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Educarriere.ci entre 21:00 et 22:00 » : probabilité 0.329788 %, jet  47.7 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Educarriere.ci entre 22:00 et 23:00 » : probabilité 0.28032 %, jet  53.3 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Educarriere.ci entre 23:00 et 00:00 » : probabilité 0.238272 %, jet  92.7 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Educarriere.ci entre 00:00 et 01:00 » : probabilité 0.202531 %, jet  88.9 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Educarriere.ci entre 01:00 et 02:00 » : probabilité 0.0344303 %, jet  45.1 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Educarriere.ci entre 02:00 et 03:00 » : probabilité 0.0292658 %, jet  58.5 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Educarriere.ci entre 03:00 et 04:00 » : probabilité 0.0248759 %, jet  78.5 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Educarriere.ci entre 04:00 et 05:00 » : probabilité 0.0211445 %, jet  94.4 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Educarriere.ci entre 05:00 et 06:00 » : probabilité 0.0179728 %, jet  43.8 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Educarriere.ci entre 06:00 et 07:00 » : probabilité 0.0152769 %, jet  28.7 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Educarriere.ci entre 07:00 et 08:00 » : probabilité 0.0649269 %, jet  72.3 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Educarriere.ci entre 08:00 et 09:00 » : probabilité 0.0551878 %, jet  45.0 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Educarriere.ci entre 09:00 et 10:00 » : probabilité 0.0469097 %, jet  81.8 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Educarriere.ci entre 10:00 et 11:00 » : probabilité 0.0398732 %, jet  69.9 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Educarriere.ci entre 11:00 et 12:00 » : probabilité 0.0338922 %, jet   6.7 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Educarriere.ci entre 12:00 et 13:00 » : probabilité 0.0288084 %, jet  79.2 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Educarriere.ci entre 13:00 et 14:00 » : probabilité 0.0244871 %, jet  84.6 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Educarriere.ci entre 14:00 et 15:00 » : probabilité 0.0208141 %, jet  41.6 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Educarriere.ci entre 15:00 et 16:00 » : probabilité 0.017692 %, jet  14.8 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Educarriere.ci entre 16:00 et 17:00 » : probabilité 0.0150382 %, jet  40.1 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Educarriere.ci entre 17:00 et 18:00 » : probabilité 0.0127824 %, jet  10.6 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur NovoJob entre 18:00 et 19:00 » : probabilité 11.9635 %, jet  89.9 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur NovoJob entre 19:00 et 20:00 » : probabilité 10.1689 %, jet  68.6 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur NovoJob entre 20:00 et 21:00 » : probabilité 8.64359 %, jet  18.9 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur NovoJob entre 21:00 et 22:00 » : probabilité 7.34706 %, jet  20.3 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur NovoJob entre 22:00 et 23:00 » : probabilité 6.245 %, jet   0.3 → **OUI** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Minute d'arrivée de la réponse (NovoJob, 22:00-23:00) : minute = jet × durée / 100 » : probabilité 50 %, jet  47.4 → **OUI** [PROCÉDURE : minute dans une fenêtre d'une heure] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur NovoJob entre 23:00 et 00:00 » : probabilité 5.30825 %, jet  61.9 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur NovoJob entre 00:00 et 01:00 » : probabilité 4.51201 %, jet  31.1 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur NovoJob entre 01:00 et 02:00 » : probabilité 0.767042 %, jet   6.0 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur NovoJob entre 02:00 et 03:00 » : probabilité 0.651986 %, jet  42.5 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur NovoJob entre 03:00 et 04:00 » : probabilité 0.554188 %, jet   6.5 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur NovoJob entre 04:00 et 05:00 » : probabilité 0.47106 %, jet  18.2 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur NovoJob entre 05:00 et 06:00 » : probabilité 0.400401 %, jet   8.1 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur NovoJob entre 06:00 et 07:00 » : probabilité 0.340341 %, jet  68.6 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur NovoJob entre 07:00 et 08:00 » : probabilité 1.44645 %, jet  84.8 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur NovoJob entre 08:00 et 09:00 » : probabilité 1.22948 %, jet   8.5 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur NovoJob entre 09:00 et 10:00 » : probabilité 1.04506 %, jet  77.5 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur NovoJob entre 10:00 et 11:00 » : probabilité 0.888299 %, jet  27.3 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur NovoJob entre 11:00 et 12:00 » : probabilité 0.755054 %, jet  43.3 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur NovoJob entre 12:00 et 13:00 » : probabilité 0.641796 %, jet  70.4 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur NovoJob entre 13:00 et 14:00 » : probabilité 0.545527 %, jet  88.1 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur NovoJob entre 14:00 et 15:00 » : probabilité 0.463698 %, jet   8.4 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur NovoJob entre 15:00 et 16:00 » : probabilité 0.394143 %, jet  50.7 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur NovoJob entre 16:00 et 17:00 » : probabilité 0.335022 %, jet  46.7 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Une personne répond à l'annonce sur NovoJob entre 17:00 et 18:00 » : probabilité 0.284768 %, jet  73.5 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Le répondant de 22:28 (NovoJob) est une arnaque aux frais d'avance (profil créé pour l'occasion) » : probabilité 12 %, jet  34.1 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Années d'expérience de Yannick N'Guessan dans le domaine : 3 + jet × (âge − 25 − 3) / 100 » : probabilité 50 %, jet   1.9 → **OUI** [PROCÉDURE : années d'expérience d'un répondant] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Les références de Yannick N'Guessan sont vérifiables » : probabilité 60 %, jet  91.4 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Nadège Kouamé répond aux questions complémentaires de l'agent IA avant jeudi 18h00 (55 % moins son taux d'oubli de 15 %) » : probabilité 40 %, jet  72.3 → **NON** [DÉROGATION : flux de réponses à une annonce publique, pas de table validée (proposition R6, revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Jean-Baptiste Tuo répond aux questions complémentaires de l'agent IA avant jeudi 18h00 (50 %) » : probabilité 50 %, jet  43.5 → **OUI** [DÉROGATION : flux de réponses à une annonce publique, pas de table validée (proposition R6, revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « Hervé Touré répond aux questions complémentaires de l'agent IA avant jeudi 18h00 (49 %) » : probabilité 49 %, jet  60.8 → **NON** [DÉROGATION : flux de réponses à une annonce publique, pas de table validée (proposition R6, revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:22 heure machine)
+
+- Jet « LinkedIn : impressions supplémentaires du 17/07 18h00 au 18/07 18h00 (20 + jet × 2) » : probabilité 50 %, jet  67.7 → **NON** [PROCÉDURE : chiffre d'audience d'une publication] (enregistré le 27/10/2026 14:23 heure machine)
+
+- Jet « Educarriere.ci : vues supplémentaires du 17/07 18h00 au 18/07 18h00 (20 + jet × 1,5) » : probabilité 50 %, jet   0.8 → **OUI** [PROCÉDURE : chiffre d'audience d'une publication] (enregistré le 27/10/2026 14:23 heure machine)
+
+- Jet « NovoJob : vues supplémentaires du 17/07 18h00 au 18/07 18h00 (30 + jet × 2,5) » : probabilité 50 %, jet  69.9 → **NON** [PROCÉDURE : chiffre d'audience d'une publication] (enregistré le 27/10/2026 14:23 heure machine)
