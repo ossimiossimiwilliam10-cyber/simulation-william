@@ -1,45 +1,58 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 27/10/2026 14:08 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
+# Relais de la simulation — briefing généré le 27/10/2026 14:15 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : mardi 16 juillet 2041, 18h02 (luxembourg) ; tour n° 6
+- Horloge : mercredi 17 juillet 2041, 18h03 (luxembourg) ; tour n° 7
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Prochain rapport de Claude demain à 18h00 ; réponse du ministère attendue ; soirée libre (le gros repas du soir)
+- En attente de William : Prochain rapport de Claude demain à 18h00 ; réponses aux questions complémentaires attendues ; réponse du ministère attendue ; vendredi : club l'après-midi (I1)
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 6 ; horloge 16/07/2041 13:44 -> 16/07/2041 18:02 ; enregistré le 27/10/2026 14:08 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 7 ; horloge 16/07/2041 18:02 -> 17/07/2041 18:03 ; enregistré le 27/10/2026 14:15 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Go
+> Go jusqu'à demain soir au prochain rapport ou à la réponse du ministère.
 
 ## Texte envoyé au joueur
 
-**MARDI 16 JUILLET 2041 — 18h02 — Audun-le-Tiche, chez William**
+**MERCREDI 17 JUILLET 2041 — 18h03 — Audun-le-Tiche, chez William**
 
-L'après-midi passe à la maison, sans appel ni visite. Vers 15h, un camion de livraison s'arrête devant la maison d'en face, le chauffeur sonne, personne n'ouvre, il repart avec son colis. La chaleur monte jusqu'à 28 °C, puis retombe avec le soir. Ton téléphone reste silencieux : aucune alerte de Claude.
+Le soir du mardi, tu prépares ton repas, le seul vrai de la journée, et tu le manges sans te presser. La soirée se passe à la maison, le téléphone silencieux. Tu te couches vers 23h30.
 
-À 18h00, le rapport arrive :
+Mercredi, tu te lèves à 07h50 dans une maison déjà tiède. À 09h15, un message de Claude : « NovoJob : annonce validée et en ligne. » Tu avales un petit repas léger vers midi. La chaleur pèse sur la rue vide, le ciel est blanc.
 
-« Rapport de 18h00. LinkedIn : 205 impressions, 1 réponse. Educarriere.ci : 128 vues, aucune réponse. NovoJob : toujours en modération. Indeed : le justificatif d'entreprise est toujours attendu.
+À 13h20, tu prends la voiture pour le Minett Combat Club. Quinze minutes de route jusqu'à Esch, volets de l'entrepôt grands ouverts, grands ventilateurs qui brassent un air déjà lourd. Thiago Alves, le coach de musculation, est au plateau de fonte, un geste de la tête, quelques mots d'un français qu'il pousse devant lui comme un chariot. Arthur Kieffer arrive avec vingt minutes de retard : sa voiture l'a lâché, il est venu en bus depuis Belval, il s'excuse trois fois. Une heure de fonte lourde, Thiago qui compte à voix basse derrière toi, puis une heure de sacs et de grappling avec Arthur, à bout de souffle dans la moiteur. Tu quittes le tapis à 16h10, douche brûlante puis froide, et tu rentres. À 16h45, tu poses ton sac de sport contre le mur de l'entrée.
 
-Réponse reçue à 14h32 sur LinkedIn : niveau C. Profil créé récemment, expérience annoncée très élevée, aucune référence joignable. Après mon accusé de réception, la personne a demandé 420 000 FCFA (environ 640 €) de « frais de dossier » avant d'aller plus loin. Je n'ai pas répondu, conformément à la règle C.
+À 18h00, le rapport :
 
-Aucun profil de niveau A ou B pour l'instant. Prochain rapport demain à 18h00. »
+« Rapport de 18h00. LinkedIn : 426 impressions. Educarriere.ci : 192 vues. NovoJob : 175 vues. Indeed : le justificatif d'entreprise est toujours attendu.
 
-Il est 18h02.
+Cinq réponses depuis le dernier rapport. Aucune de niveau A.
+
+Niveau B, questions complémentaires envoyées :
+Nadège Kouamé, 41 ans, promotrice immobilière, 14 ans d'expérience, références vérifiables (Educarriere.ci, hier à 18h00).
+Jean-Baptiste Tuo, 50 ans, commerçant et entrepreneur, 11 ans d'expérience, références évasives (Educarriere.ci, hier à 22h06).
+Hervé Touré, 38 ans, commerçant et entrepreneur, 12 ans d'expérience, références non vérifiables (NovoJob, ce matin à 11h26).
+
+Niveau C :
+Sandrine Cissé (LinkedIn, hier à 23h17) : profil récent, aucune référence joignable ; après mon accusé de réception, elle a demandé 130 000 FCFA (environ 198 €) de « frais de dossier ». Je n'ai pas répondu.
+Franck Konan (NovoJob, 16h27) : employé de bureau, trois ans d'expérience, hors profil.
+
+Je n'ai rien promis ni chiffré. Les réponses aux questions complémentaires sont attendues. Prochain rapport demain à 18h00. »
+
+Il est 18h03.
 
 ---
 
 **Réponses attendues**
 - **Claude** (ton agent IA) : le prochain rapport, demain à 18h00.
-- **Ministère de l'Éducation** (info@men.lu) : ton courriel de 12h14 n'a pas de réponse pour l'instant.
+- **Ministère de l'Éducation** (info@men.lu) : ton courriel de 12h14 d'hier n'a pas de réponse pour l'instant.
 
 **À faire / à fournir avant le tour suivant**
 - Aucune démarche en cours.
@@ -50,16 +63,15 @@ Il est 18h02.
 Que veux-tu faire ?
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
-- A008 Wed 17/07 09:12 (luxembourg) | NovoJob (modération) : L'annonce de William est validée par la modération de NovoJob et mise en ligne (tirage : validée dans les 24 heures) ; l'agent IA le signale à William [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
-- A009 Wed 17/07 18:00 (luxembourg) | Claude (agent IA) : Rapport quotidien de l'agent IA à William : réponses à l'annonce (niveaux A, B, C), signaux d'alerte, état des plateformes [prevu]
+- A010 Thu 18/07 18:00 (luxembourg) | Claude (agent IA) : Rapport quotidien de l'agent IA à William : réponses à l'annonce (niveaux A, B, C), signaux d'alerte, état des plateformes [prevu]
 
 ## Rituels du moteur dus (rituels.py)
 - rien
 
 ## Décisions en attente de William (etat/fils-ouverts.md, A)
 | 1 | **Organisation des vacances d'été 2041** | Premier jour des grandes vacances scolaires (du mardi 16/07/2041 au dimanche 15/09/2041). Choix des projets, voyages, rythme de vie ou déplacements estivaux. Budget vacances disponible : 833 €/mois (10 000 €/an). | Ouvert |
-| 2 | **Stratégie d'entrepreneuriat à distance** | Âge optimal atteint (36 ans). William a la liberté et la surface financière pour amorcer son projet business à distance tout en respectant l'Art. 14 du statut des fonctionnaires luxembourgeois (F083-F086). Choix du statut juridique et de l'axe business à mûrir. ; *(16/07 10h46) (16/07 10h46) deux rapports de l'agent IA reçus, Brésil (09h41) puis Côte d'Ivoire (10h34), PDF dans documents_william/ ; cadre article 14 rappelé (associé non-gérant admis, gérance non) ; rien d'engagé, suite à décider par William* ; *(16/07 11h55) (16/07 11h55) budget envisagé de 300 000 € sur 2 à 3 ans (I6) ; l'agent IA répond : Côte d'Ivoire, SAS OHADA, solaire B2B ; rien d'engagé, décision de William* ; *(16/07 13h06) (16/07 13h06) décision : Côte d'Ivoire (I7) ; courriel au ministère envoyé à 12h14 (réponse attendue, A006 non connu) ; annonce de recherche d'un contact prête, non publiée, feu vert attendu* ; *(16/07 13h44) (16/07 13h44) annonce publiée (LinkedIn 13h09, Educarriere.ci 13h31) ; rapport de Claude à 18h00 (A007) ; autorisation donnée (I9)* ; *(16/07 18h02) (16/07 18h02) rapport de 18h00 : 1 réponse, arnaque de niveau C ignorée ; aucun A ni B ; prochain rapport le 17/07 à 18h00 (A009)* | Ouvert |
-| 3 | **Entraînement sportif & préparation physique** | Entraînements au Minett Combat Club d'Esch-sur-Alzette (MMA, grappling, boxe thaïe, musculation). Cours d'été en place. Noter la fermeture annuelle du club du lundi 12/08/2041 au dimanche 25/08/2041 (agenda A003). ; *(16/07 10h46) (16/07) rythme de l'été fixé par William : lundi, mercredi, vendredi après-midi au club, course de 5 km le dimanche matin, rien le samedi ; voir A2 I1* | Ouvert |
+| 2 | **Stratégie d'entrepreneuriat à distance** | Âge optimal atteint (36 ans). William a la liberté et la surface financière pour amorcer son projet business à distance tout en respectant l'Art. 14 du statut des fonctionnaires luxembourgeois (F083-F086). Choix du statut juridique et de l'axe business à mûrir. ; *(16/07 10h46) (16/07 10h46) deux rapports de l'agent IA reçus, Brésil (09h41) puis Côte d'Ivoire (10h34), PDF dans documents_william/ ; cadre article 14 rappelé (associé non-gérant admis, gérance non) ; rien d'engagé, suite à décider par William* ; *(16/07 11h55) (16/07 11h55) budget envisagé de 300 000 € sur 2 à 3 ans (I6) ; l'agent IA répond : Côte d'Ivoire, SAS OHADA, solaire B2B ; rien d'engagé, décision de William* ; *(16/07 13h06) (16/07 13h06) décision : Côte d'Ivoire (I7) ; courriel au ministère envoyé à 12h14 (réponse attendue, A006 non connu) ; annonce de recherche d'un contact prête, non publiée, feu vert attendu* ; *(16/07 13h44) (16/07 13h44) annonce publiée (LinkedIn 13h09, Educarriere.ci 13h31) ; rapport de Claude à 18h00 (A007) ; autorisation donnée (I9)* ; *(16/07 18h02) (16/07 18h02) rapport de 18h00 : 1 réponse, arnaque de niveau C ignorée ; aucun A ni B ; prochain rapport le 17/07 à 18h00 (A009)* ; *(17/07 18h03) (17/07 18h03) rapport de 18h00 : trois profils B (Kouamé, Tuo, Touré), deux C (arnaque, hors profil), aucun A ; réponses aux questions complémentaires attendues ; prochain rapport le 18/07 à 18h00 (A010)* | Ouvert |
+| 3 | **Entraînement sportif & préparation physique** | Entraînements au Minett Combat Club d'Esch-sur-Alzette (MMA, grappling, boxe thaïe, musculation). Cours d'été en place. Noter la fermeture annuelle du club du lundi 12/08/2041 au dimanche 25/08/2041 (agenda A003). ; *(16/07 10h46) (16/07) rythme de l'été fixé par William : lundi, mercredi, vendredi après-midi au club, course de 5 km le dimanche matin, rien le samedi ; voir A2 I1* ; *(17/07 18h03) (17/07) séance du mercredi faite au club (2 h) avec Thiago Alves et Arthur Kieffer ; prochaine : vendredi 19/07 l'après-midi (I1)* | Ouvert |
 | 4 | **Logistique personnelle & maison** | Maison d'Audun-le-Tiche (charges à jour, voiture électrique chargée). Rien d'urgent en panne. ; *(16/07 13h06) (16/07 12h33) abonnement à l'agent IA : 24,30 €/mois sur la Visa Debit, engagement de 12 mois jusqu'au 15/07/2042 (E016)* | Ouvert |
 
 ## Notes de passation (etat/relais-notes.md)
@@ -157,10 +169,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 5b28a1e ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 83e882b ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 31 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 27 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

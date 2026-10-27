@@ -90,7 +90,8 @@ def tirer(jusqua, simule=False):
             suivant = min(cur + dt.timedelta(hours=1), fin)
             frac = (suivant - cur).total_seconds() / 3600
             heures = (cur - publiee).total_seconds() / 3600
-            p = min(0.95, TAUX.get(a["plateforme"], 0.2) * frac * (0.85 ** max(0, heures)))  # le flux décroît avec l'âge de l'annonce
+            nuit = 0.2 if 1 <= cur.hour < 7 else 1.0  # Abidjan a deux heures de moins qu'au Luxembourg : peu de monde entre 23 h et 5 h, heure d'Abidjan
+            p = min(0.95, TAUX.get(a["plateforme"], 0.2) * frac * nuit * (0.85 ** max(0, heures)))  # le flux décroît avec l'âge de l'annonce
             r = jet.tirer_libre(f"Une personne répond à l'annonce sur {a['plateforme']} entre {cur:%H:%M} et {suivant:%H:%M}", p * 100, derogation=DEROGATION, simule=simule)
             if r["oui"]:
                 minute = jet.tirer_libre(f"Minute d'arrivée de la réponse ({a['plateforme']}, {cur:%H:%M}-{suivant:%H:%M}) : minute = jet × durée / 100",

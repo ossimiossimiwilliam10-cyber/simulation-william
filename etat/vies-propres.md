@@ -23,23 +23,72 @@
 
 > Section RÉGÉNÉRÉE par `python outils/monde_vivant.py fiches` (appelé par `tour.py fin`) : ne pas éditer à la main ; les événements complets sont dans `etat/vies.csv`.
 
+### Thiago Alves (coach de musculation du club)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : voyager loin une fois dans sa vie ; **souci** : mal de dos chronique ; **foyer** : parent isolé
+- **Secret (moteur seulement)** : consulte un psychologue (gravité 1)
+- **Horaires** : règle « bureau », fuseau luxembourg, décalage +3 min ; travail 09:03-17:33 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:33-07:03
+- **Derniers événements** : 25/06 petit_evenement (nouvelle de la famille ou des amis); 02/07 petit_evenement (service rendu ou reçu); 08/07 sans_histoire; 20/07 petit_evenement (nouvelle de la famille ou des amis); 18/07 sans_histoire
+
 ### Clément Grandjean (membre régulier du club (sparring))
 - **Lien avec William** : aucun (whatsapp)
 - **Objectif** : finir de rénover sa maison ; **souci** : couple en crise ; **foyer** : en couple, sans enfant
 - **Secret (moteur seulement)** : se renseigne pour partir s'installer ailleurs (gravité 1)
 - **Horaires** : règle « etudiant », fuseau luxembourg, décalage +25 min ; travail 09:25-17:25 (lun, mar, mer, jeu, ven), trajet 30 min ; sommeil 00:55-08:55
-- **Derniers événements** : 20/06 sans_histoire; 26/06 tournant (naissance, mariage, décès ou retour d'un proche); 01/07 petit_evenement (dépense imprévue (cotisation imprévue)); 09/07 sans_histoire; 21/07 sans_histoire
+- **Derniers événements** : 26/06 tournant (naissance, mariage, décès ou retour d'un proche); 01/07 petit_evenement (dépense imprévue (cotisation imprévue)); 09/07 sans_histoire; 21/07 sans_histoire; 17/07 coup_dur (malade (mal de dos))
+
+### Arthur Kieffer (membre régulier du club (sparring))
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : trouver quelqu'un et se poser ; **souci** : voiture qui lâche, pas d'argent pour la remplacer ; **foyer** : vit seul(e)
+- **Secret (moteur seulement)** : prend des antidépresseurs (gravité 1)
+- **Horaires** : règle « etudiant », fuseau luxembourg, décalage +4 min ; travail 09:04-17:04 (lun, mar, mer, jeu, ven), trajet 30 min ; sommeil 00:34-08:34
+- **Derniers événements** : 30/06 sans_histoire; 05/07 sans_histoire; 12/07 coup_dur (malade (mal de dos)); 20/07 petit_evenement (chantier d'été qui bloque la rue); 15/07 sans_histoire
 
 ### Claude Majerus (voisin mitoyen (côté droit))
 - **Lien avec William** : contact_recent (whatsapp)
 - **Objectif** : obtenir une promotion ou un poste plus stable ; **souci** : procédure de divorce ; **foyer** : vit seul(e)
 - **Secret (moteur seulement)** : a une condamnation ancienne (conduite en état d'ivresse) (gravité 2)
 - **Horaires** : règle « bureau », fuseau luxembourg, décalage -29 min ; travail 08:31-17:01 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:01-06:31
-- **Derniers événements** : 20/06 petit_evenement (achat (petit électroménager)); 24/06 coup_dur (dispute sérieuse ou mauvaise nouvelle dans la famille); 02/07 sans_histoire; 11/07 sans_histoire; 19/07 avancee_objectif (démarche pour son objectif : obtenir une promotion ou un poste plus stable)
+- **Derniers événements** : 24/06 coup_dur (dispute sérieuse ou mauvaise nouvelle dans la famille); 02/07 sans_histoire; 11/07 sans_histoire; 19/07 avancee_objectif (démarche pour son objectif : obtenir une promotion ou un poste plus stable); 18/07 tournant (proposition d'emploi ou de collaboration ailleurs)
 
 ### Eugène Doumbia (répondant à l'annonce)
 - **Lien avec William** : aucun (whatsapp)
 - **Objectif** : faire croître son bureau d'études avec des clients internationaux ; **souci** : voisin bruyant ; **foyer** : en couple, avec enfants
 - **Secret (moteur seulement)** : cherche un autre travail en cachette (gravité 1)
 - **Horaires** : règle « bureau », fuseau abidjan, décalage +11 min ; travail 09:11-17:41 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:41-07:11
-- **Derniers événements** : —
+- **Derniers événements** : 19/07 petit_evenement (querelle courte)
+
+### Nadège Kouamé (répondant à l'annonce)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : changer de métier ; **souci** : burn-out qui couve ; **foyer** : en couple, sans enfant
+- **Secret (moteur seulement)** : —
+- **Horaires** : règle « bureau », fuseau abidjan, décalage +1 min ; travail 09:01-17:31 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:31-07:01
+- **Derniers événements** : 19/07 petit_evenement (dépense imprévue (réparation du téléphone))
+
+### Jean-Baptiste Tuo (répondant à l'annonce)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : obtenir un poste de direction dans une grande entreprise ; **souci** : dettes de jeu ; **foyer** : en couple, enfants partis
+- **Secret (moteur seulement)** : —
+- **Horaires** : règle « bureau », fuseau abidjan, décalage -7 min ; travail 08:53-17:23 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:23-06:53
+- **Derniers événements** : 20/07 sans_histoire
+
+### Sandrine Cissé (répondant à l'annonce)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : faire croître son bureau d'études avec des clients internationaux ; **souci** : un parent âgé dont la santé décline ; **foyer** : en couple, avec enfants
+- **Secret (moteur seulement)** : fume en cachette alors qu'il dit avoir arrêté (gravité 1)
+- **Horaires** : règle « bureau », fuseau abidjan, décalage -28 min ; travail 08:32-17:02 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:02-06:32
+- **Derniers événements** : 16/07 coup_dur (panne, coupure ou souci de logement)
+
+### Hervé Touré (répondant à l'annonce)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : se faire une place dans le milieu (club, lycée, quartier) ; **souci** : voiture qui lâche, pas d'argent pour la remplacer ; **foyer** : en couple, avec enfants
+- **Secret (moteur seulement)** : —
+- **Horaires** : règle « bureau », fuseau abidjan, décalage +18 min ; travail 09:18-17:48 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:48-07:18
+- **Derniers événements** : 15/07 sans_histoire
+
+### Franck Konan (répondant à l'annonce)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : acheter un terrain et construire sa maison à Abidjan ; **souci** : voiture qui lâche, pas d'argent pour la remplacer ; **foyer** : en couple, avec enfants
+- **Secret (moteur seulement)** : —
+- **Horaires** : règle « bureau », fuseau abidjan, décalage +14 min ; travail 09:14-17:44 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:44-07:14
+- **Derniers événements** : 16/07 sans_histoire

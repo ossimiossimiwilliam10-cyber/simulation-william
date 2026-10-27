@@ -27,3 +27,10 @@ Pour répondre : parcours, trois références et votre lecture du marché. Aucun
 LinkedIn : 205 impressions, 1 réponse. Educarriere.ci : 128 vues, aucune réponse. NovoJob : toujours en modération. Indeed : le justificatif d'entreprise est toujours attendu.
 Réponse reçue à 14h32 sur LinkedIn : niveau C. Profil créé récemment, expérience annoncée très élevée, aucune référence joignable. Après mon accusé de réception, la personne a demandé 420 000 FCFA (environ 640 €) de « frais de dossier » avant d'aller plus loin. Je n'ai pas répondu, conformément à la règle C.
 Aucun profil de niveau A ou B pour l'instant. Prochain rapport demain à 18h00.
+**[17/07/2041 - 09:15 (Audun-le-Tiche)] Claude :** NovoJob : annonce validée et en ligne.
+**[17/07/2041 - 18:00 (Audun-le-Tiche)] Claude :** Rapport de 18h00.
+LinkedIn : 426 impressions. Educarriere.ci : 192 vues. NovoJob : 175 vues. Indeed : le justificatif d'entreprise est toujours attendu.
+Cinq réponses depuis le dernier rapport. Aucune de niveau A.
+Niveau B, questions complémentaires envoyées : Nadège Kouamé, 41 ans, promotrice immobilière, 14 ans d'expérience, références vérifiables (Educarriere.ci, hier à 18h00). Jean-Baptiste Tuo, 50 ans, commerçant et entrepreneur, 11 ans d'expérience, références évasives (Educarriere.ci, hier à 22h06). Hervé Touré, 38 ans, commerçant et entrepreneur, 12 ans d'expérience, références non vérifiables (NovoJob, ce matin à 11h26).
+Niveau C : Sandrine Cissé (LinkedIn, hier à 23h17) : profil récent, aucune référence joignable ; après mon accusé de réception, elle a demandé 130 000 FCFA (environ 198 €) de « frais de dossier ». Je n'ai pas répondu. Franck Konan (NovoJob, 16h27) : employé de bureau, trois ans d'expérience, hors profil.
+Je n'ai rien promis ni chiffré. Les réponses aux questions complémentaires sont attendues. Prochain rapport demain à 18h00.
