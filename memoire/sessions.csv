@@ -17,3 +17,5 @@ debut;fin;agent;branche;worktree;horloge_debut;horloge_fin;tour_debut;tour_fin;c
 2026-10-22T22:04;;Claude;claude/eloquent-mirzakhani-73acb9;eloquent-mirzakhani-73acb9;2041-07-20 21:00;;9;;100a9c6;
 2026-10-27T12:04;;Claude;claude/eloquent-mirzakhani-73acb9;eloquent-mirzakhani-73acb9;2041-07-22 09:40;;13;;ee6ee62;
 2026-10-27T12:14;2026-10-27T18:06;Claude;claude/eloquent-mirzakhani-73acb9;eloquent-mirzakhani-73acb9;2041-07-16 08:37;2041-07-20 20:00;1;31;05d3b03;"PASSATION VERS GEMINI (limite hebdomadaire de l'utilisateur à 97 %). Partie au samedi 20/07/2041 20h00 (tour n° 31). Rapport final de 20h00 joué : DEUX décisions en attente de William (références des candidats au-dessus du seuil ; paramètres provisoires pour Me Gnamien), fil I39. Cachés à jouer ensuite : voir la dernière PASSATION de etat/relais-notes.md (A078, A064, A080, A070, A082, A048) et python outils/tour.py debut. Format de tour : message de reprise etat/message-reprise-gemini.md."
+2026-10-27T18:13;;Gemini;master;simulation-william;2041-07-20 20:00;;31;;88d9c71;
+2026-10-27T18:16;;Gemini;master;simulation-william;2041-07-20 20:00;;31;;88d9c71;

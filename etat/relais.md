@@ -1,68 +1,50 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 27/10/2026 18:06 (heure machine) pour Claude
+# Relais de la simulation — briefing généré le 27/10/2026 18:24 (heure machine) pour Gemini
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : samedi 20 juillet 2041, 20h00 (luxembourg) ; tour n° 31
+- Horloge : samedi 20 juillet 2041, 20h04 (luxembourg) ; tour n° 32
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Tes deux réponses au rapport de 20h00 (références des candidats au-dessus du seuil ; paramètres provisoires pour Me Gnamien) ; prochain rapport final demain 20h00
+- En attente de William : **Suivi des vérifications de références des candidats et devis de Me Gnamien attendu ; prochain rapport final demain 20h00**
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 31 ; horloge 20/07/2041 12:20 -> 20/07/2041 20:00 ; enregistré le 27/10/2026 17:58 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 32 ; horloge 20/07/2041 20:00 -> 20/07/2041 20:04 ; enregistré le 27/10/2026 18:24 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Go
+> Je réponds oui aux deux décisions.
 
 ## Texte envoyé au joueur
 
-**SAMEDI 20 JUILLET 2041 — 20h00 — Audun-le-Tiche, chez William**
+**SAMEDI 20 JUILLET 2041 — 20h04 — Audun-le-Tiche, chez William**
 
-Vers 13h tu avales deux tartines de pain complet et un yaourt, debout devant la fenêtre de la cuisine. L'après-midi s'étire sans rien te demander : tu fais un peu de ménage à l'étage, tu tries le courrier de la boîte, des prospectus surtout, et tu laisses la maison se remplir d'un silence tiède. L'orage arrive vers 17h20, avec un long grondement avant les premières gouttes ; la pluie tombe en rideau serré sur le jardin, une grêle fine tambourine un instant sur la véranda, puis le ciel se vide, laissant l'air frais et gorgé d'odeur d'herbe. À 19h tu mets une grande casserole d'eau à bouillir pour un plat de pâtes au thon et aux poivrons, ton repas du soir.
+L'air rafraîchi par l'averse de fin d'après-midi entre par l'entrebâillement de la fenêtre de la cuisine, mêlé à l'odeur des herbes mouillées du jardin et aux dernières vapeurs de ton repas. Assis devant ton assiette vide, ton verre d'eau terminé, tu saisis ton téléphone posé contre la table. À 20h02, tu tapes ta réponse à ton directeur général virtuel : oui aux deux décisions.
 
-À 20h00, le téléphone vibre contre le bord de l'assiette : le rapport final.
+À 20h04, sa réponse s'affiche :
 
-« Rapport final du samedi 20 juillet, 20h00. Relu par le pôle RH virtuel et le pôle juridique virtuel avant l'envoi : aucune réserve.
+« Reçu à 20h02. Deux décisions enregistrées et appliquées.
 
-DÉCISIONS
-1. Vérification des références avant tout échange avec toi, comme pour Kader Assi, étendue à tous les candidats au-dessus du seuil : Mohamed Coulibaly 91/100, Kader Assi 84, Maïmouna Koné 79, Brice Tapé 76, Fabrice Koffi 76. Oui ou non ?
-2. Me Gnamien (16h49) demande, pour établir son devis, la forme sociale, le capital, l'identité des associés (il doit identifier tout client) et la nature de la mission. Je lui réponds avec des paramètres provisoires, sans ton nom : société de droit OHADA, SARL ou SAS à trancher avec lui, capital d'un million de FCFA, un associé européen non-gérant dont l'identité sera donnée à la lettre de mission ; mission : statuts, pacte d'associés, contrat du dirigeant. Oui ou non ?
+1. Vérification des références : étendue à tous les candidats au-dessus du seuil de 70 (Mohamed Coulibaly 91, Kader Assi 84, Maïmouna Koné 79, Brice Tapé 76, Fabrice Koffi 76). Nous recueillons et vérifions deux références par courriel professionnel avant tout échange direct avec toi.
+2. Me Gnamien : courriel transmis avec les paramètres provisoires (société de droit OHADA, forme SARL ou SAS à trancher avec lui, capital d'un million de FCFA, un associé européen non-gérant dont l'identité sera communiquée à la lettre de mission ; mission : rédaction des statuts, pacte d'associés, contrat du dirigeant). Son devis chiffré est attendu en début de semaine.
 
-AFFIRMATIONS VÉRIFIÉES
-- « L'autoproducteur doit être propriétaire de son installation » (analyse d'un cabinet, puis Me Tano : « règle posée par la loi de 2014 ») : NON VÉRIFIÉE. Deux sources secondaires concordantes ; texte du Code de l'électricité de 2014 non lu ; question à poser aux deux avocats.
-- Décret sur la vente de l'excédent d'un autoproducteur : le numéro 2016-783 (12 octobre 2016) est confirmé par deux sources secondaires ; le numéro 2016-785 est CONTREDIT (aucune source). Texte officiel non lu.
-- « Une SARL se crée en 24 à 72 heures au guichet unique du CEPICI » : NON VÉRIFIÉE (guides non officiels).
-- Forfait de Me Tano : 2,5 millions de FCFA hors taxe (environ 3 810 €), contre 2,2 millions indicatifs, soit 14 % de plus ; consultation d'une heure : 120 000 FCFA hors taxe. NON VÉRIFIÉ contre un barème (il n'en existe pas d'officiel).
-- Parcours déclarés des candidats (projets de Kader Assi à Fos-sur-Mer et près de Montpellier, réseau de Mohamed Coulibaly, diplômes de Maïmouna Koné) : NON VÉRIFIÉS à ce jour.
+Prochain rapport final : demain à 20h00. »
 
-ÉTAT DES PÔLES
-- Pôle RH virtuel (poste vacant : il décide) : 21 réponses depuis la publication, dont 4 depuis hier 19h00 : Aboubacar Kouassi (19h41), Ousmane Yéo (20h02), Mariam Brou (21h34), Damien Yao (22h35), tous de niveau B. Correction : le rapport d'hier comptait 17 réponses et omettait Aboubacar Kouassi, reçu à 19h41 ; erreur de comptage de ma part.
-- Au-dessus du seuil de 70, le courriel professionnel a été fourni à Mohamed Coulibaly 91 (14h05), Kader Assi 84 (hier 19h25), Maïmouna Koné 79 (19h40), Brice Tapé 76 (14h40), Fabrice Koffi 76 (19h45). Aucun courriel reçu pour l'instant ; Kader Assi doit transmettre deux références en début de semaine. Jean-Baptiste Tuo (71) est traité par toi.
-- Sous le seuil : Cédric Soro 58, dossier gardé. Refus net : Hervé Touré (09h34). Sans réponse : Jonathan Ouattara, Landry Aka. En entretien : Ousmane Yéo, Mariam Brou, Damien Yao, Aboubacar Kouassi.
-- Instagram : vérification acceptée hier à 20h28, annonce version 2 publiée à 20h35. Reddit, Indeed et réseaux d'anciens : en attente.
-- Pôle juridique virtuel : Me Tano a répondu à 12h19, Me Gnamien à 16h49 ; Me Zadi n'est pas contacté.
-- Finance, technique, commercial : fermés jusqu'à la signature du directeur général.
-- Surveillance : vingt messages sortants relus depuis hier 18h25, tous conformes.
-- Budget d'API : 28,31 € sur 1 000 € ce mois-ci.
-
-Prochain rapport : demain à 20h00. »
-
-Il est 20h00.
+Il est 20h04.
 
 ---
 
 **Réponses attendues**
-- **Directeur général virtuel** : tes deux réponses à son rapport (vérification des références pour tous les candidats au-dessus du seuil ; réponse à Me Gnamien avec des paramètres provisoires) ; le prochain rapport final, demain à 20h00.
-- **Jean-Baptiste Tuo** : pas de réponse à ton message de 19h44.
+- **Directeur général virtuel** : devis de Me Gnamien (début de semaine) et suivi des vérifications de références des candidats au-dessus du seuil ; prochain rapport final demain à 20h00.
+- **Jean-Baptiste Tuo** : pas de réponse à ton message de vendredi à 19h44.
 - **Ministère de l'Éducation** (info@men.lu) : ton courriel de mardi à 12h14 n'a pas de réponse.
 
 **À faire / à fournir avant le tour suivant**
-- Tes deux réponses au rapport de 20h00.
+- Aucune démarche en cours.
 
 **Quêtes secondaires**
 - Rien en suspens en dehors de ce que tu as déjà noté.
@@ -181,10 +163,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 05d3b03 ; avance 0, retard 0
-- worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
+- branche courante : master ; master : 88d9c71 ; avance 0, retard 0
+- worktree simulation-william (ICI) : branche master ; 0 commit(s) absents de master ; 14 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 2 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

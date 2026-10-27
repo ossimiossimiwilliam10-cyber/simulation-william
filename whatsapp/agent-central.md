@@ -100,3 +100,10 @@ AFFIRMATIONS VÉRIFIÉES
 - Budget d'API : 28,31 € sur 1 000 € ce mois-ci.
 
 Prochain rapport : demain à 20h00.
+**[20/07/2041 - 20:02 (Luxembourg)] William :** Je réponds oui aux deux décisions.
+**[20/07/2041 - 20:04 (Luxembourg)] Agent central :** Reçu à 20h02. Deux décisions enregistrées et appliquées.
+
+1. Vérification des références : étendue à tous les candidats au-dessus du seuil de 70 (Mohamed Coulibaly 91, Kader Assi 84, Maïmouna Koné 79, Brice Tapé 76, Fabrice Koffi 76). Nous recueillons et vérifions deux références par courriel professionnel avant tout échange direct avec toi.
+2. Me Gnamien : courriel transmis avec les paramètres provisoires (société de droit OHADA, forme SARL ou SAS à trancher avec lui, capital d'un million de FCFA, un associé européen non-gérant dont l'identité sera communiquée à la lettre de mission ; mission : rédaction des statuts, pacte d'associés, contrat du dirigeant). Son devis chiffré est attendu en début de semaine.
+
+Prochain rapport final : demain à 20h00.
