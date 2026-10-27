@@ -1,59 +1,51 @@
 # Dernier tour montré au joueur
 
-> Tour n° 51 ; horloge 25/07/2041 08:00 -> 25/07/2041 12:15 ; enregistré le 27/10/2026 22:22 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 52 ; horloge 25/07/2041 12:15 -> 25/07/2041 20:00 ; enregistré le 27/10/2026 22:32 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Go
+> Ok, c'est parti pour un premier entretien en visioconférence le vendredi 26 juillet à 18h, à 18h30. Avec Mohamed Koulibaly. Et exactement, du coup, je positionne... comment elle s'appelle déjà? Je positionne Mariam, du coup, pour prendre la tête de la direction administrative et financière. Donc, elle aussi, je... Ouais, donc elle aussi, on temporise un peu. D'abord, on sécurise Mohamed, et après, quand on aura sécurisé Mohamed, on ira attaquer Mariam. Oui, je valide du coup le virement bancaire de la compte avec la référence. Voilà.
 
 ## Texte envoyé au joueur
 
-**JEUDI 25 JUILLET 2041 — 12h15 — Audun-le-Tiche, chez toi**
+**JEUDI 25 JUILLET 2041 — 20h00 — Audun-le-Tiche, chez toi**
 
-Tu passes la matinée chez toi, profitant d'un rythme tranquille propice à la réflexion et à la récupération physique. Après une douche tiède, tu parcours quelques articles d'actualité économique et technologique sur ta tablette tout en aérant la maison. Dehors, les traces de l'orage de la nuit s'effacent peu à peu : la chaussée a séché et la température est passée de 16 °C au lever du jour à 19 °C en milieu de matinée sous un ciel partagé entre éclaircies et passages nuageux.
+Dès 12h20, confortablement installé à la table de la salle à manger, tu ouvres l'application Spuerkeess sur ton téléphone. Tu saisis l'ordre de virement international SWIFT vers le compte séquestre CARPA du Cabinet d'Avocats Ismaël Gnamien & Associés domicilié à la BICICI d'Abidjan : 1 511,00 € (contrevaleur exacte de 991 200 FCFA TTC), avec la référence impérative `HONO-CI-2041-0722-OSSIMI`. L'opération est validée sans frais d'émission grâce à ton forfait Zebra Premium, et tu télécharges immédiatement l'avis d'opéré bancaire officiel au format PDF.
 
-À 11h30, ton téléphone vibre sur la table du salon. L'application Gestion t'indique le dépôt d'un nouveau livrable par ton équipe virtuelle : le dossier d'évaluation approfondie de Mariam Brou couplé au guide d'entretien de sélection pour Mohamed Coulibaly. 
+À 12h35, tu rédiges un courriel professionnel à l'attention de Maître Gnamien pour lui transmettre ce justificatif bancaire et lui signifier le démarrage officiel des diligences de constitution. Dans la foulée, sur l'application Gestion, tu transmets tes arbitrages à ton équipe virtuelle : tu sélectionnes le créneau du vendredi 26 juillet à 18h30 pour l'entretien avec Mohamed Coulibaly et tu consignes formellement la mise en réserve de Mariam Brou pour la future Direction Administrative et Financière, avec ordre de ne pas la solliciter avant la conclusion des démarches avec le candidat numéro un.
 
-Dans cette note de synthèse, le pôle RH confirme les excellents états de service de Madame Mariam Brou (note de 88 sur 100). Âgée de 43 ans et diplômée de l'INP-HB de Yamoussoukro, elle dispose de 16 ans d'expérience solide en gestion comptable et financière de PME industrielles à Abidjan et d'un carnet de 15 dirigeants d'entreprises. Toutefois, le pôle RH souligne qu'elle ne possède pas de bagage technique en électricité ni d'expérience en prospection commerciale agressive de toitures industrielles : l'équipe te recommande formellement de la préserver en réserve prioritaire pour lui confier ultérieurement la Direction Administrative et Financière (DAF) de la future société, plutôt que le mandat social de Directeur Général.
+Tu te prépares ensuite un déjeuner simple et léger avant de savourer un après-midi de détente intégrale. Le repos physique fait du bien à tes épaules et à tes adducteurs après l'intensité des sparrings de la veille au Minett Combat Club. Dehors, l'après-midi est lumineux et agréable, avec une température qui culmine à 23 °C sous une brise d'ouest légère. Vers 15h00, tu fais une courte promenade dans les rues calmes d'Audun-le-Tiche avant de rentrer te poser avec un livre.
 
-Pour Mohamed Coulibaly (note de 91 sur 100), ton choix prioritaire n° 1, le pôle RH a préparé la prise de contact officielle et te soumet trois créneaux pour organiser un premier entretien approfondi en visioconférence :
-1. Vendredi 26 juillet 2041 à 18h30 (heure de Luxembourg, soit 16h30 à Abidjan) ;
-2. Samedi 27 juillet 2041 à 10h00 (heure de Luxembourg, soit 08h00 à Abidjan) ;
-3. Lundi 29 juillet 2041 à 19h00 (heure de Luxembourg, soit 17h00 à Abidjan).
+À 15h45 (13h45 à Abidjan), la messagerie de ton projet reçoit la réponse de Maître Ismaël Gnamien :
 
-Une grille d'entretien structurée de 45 minutes est jointe au document, articulée en quatre phases : motivations et calendrier de relocalisation de Bruxelles vers Abidjan, déploiement commercial toiture B2B et mobilisation de son réseau de 40 dirigeants, adhésion sans réserve au mandat social pur révocable *ad nutum* avec clause de non-concurrence de 12 mois, et enfin échange sur la rémunération (fixe d'amorçage de 2 000 000 FCFA et intéressement sur marge nette).
+« Nous accusons formellement réception de votre avis d'opéré bancaire officiel pour le règlement du premier acompte sous la référence HONO-CI-2041-0722-OSSIMI. Notre cellule droit des sociétés est immédiatement mobilisée sur la rédaction des Statuts de votre SASU et de la Convention de Mandat Social du Directeur Général. L'ensemble des projets d'actes vous sera transmis pour relecture et approbation le lundi 29 juillet 2041 en milieu de journée. »
 
-À 12h15 (10h15 à Abidjan), la notification officielle de ta messagerie professionnelle retentit. Maître Ismaël Gnamien t'adresse son courriel officiel avec l'accusé de réception formel de ton dossier KYC et le relevé d'identité bancaire du cabinet.
+À 16h40, une notification du pôle RH apparaît sur ton téléphone : Monsieur Mohamed Coulibaly a formellement répondu au courriel officiel du projet. Le banquier de 40 ans confirme sa disponibilité pour le vendredi 26 juillet à 18h30 (heure de Bruxelles et Luxembourg) et indique se réjouir de cet échange approfondi sur le déploiement du projet photovoltaïque en Côte d'Ivoire. Le lien de visioconférence chiffré est d'ores et déjà actif sur ton application Gestion.
 
-Dans son courrier officiel, Me Gnamien t'écrit :
+À 20h00 précises, le directeur général virtuel dépose son 6e rapport quotidien d'activité :
+- Suivi juridique : la mission du Cabinet Gnamien est en cours d'exécution, la conformité KYC est actée et les statuts complets sont planifiés pour le lundi 29 juillet ;
+- Processus RH : l'entretien décisif de 45 minutes avec Mohamed Coulibaly est verrouillé pour demain vendredi à 18h30 ; la fiche de poste et le dossier de Mariam Brou sont archivés en attente pour la DAF ;
+- Affirmations vérifiées : les contrôles de conformité bancaire et la légalité des clauses de caducité du mandat social en droit OHADA ont été validés sans réserve par le pôle juridique ;
+- Budget informatique : les opérations du jour (synthèse RH, coordination et suivi) s'élèvent à 2,00 € HT, portant la consommation cumulée du mois de juillet à 41,56 € sur ton plafond alloué de 1 000,00 €.
 
-« Nous accusons formellement réception de votre accord ferme sur notre convention d'assistance juridique ainsi que des pièces justificatives transmises au titre de l'identification client (copie de votre passeport et justificatif de domicile). Notre cellule de conformité a validé l'ensemble de votre dossier sans aucune réserve au regard des exigences de l'Acte Uniforme OHADA et de la réglementation bancaire UEMOA. Le dossier permanent d'immatriculation de la société Projet Solaire B2B Abidjan SAS est ouvert sous la référence DOSSIER CI-2041-0722. »
-
-L'avocat précise les coordonnées bancaires pour le versement du premier acompte de 40 % (840 000 FCFA HT + 18 % de TVA, soit 991 200 FCFA TTC, représentant la contrevaleur légale exacte de 1 511,00 €) :
-- Établissement : BICICI (Banque Internationale pour le Commerce et l'Industrie de la Côte d'Ivoire), Agence Principale du Plateau, Avenue Delafosse à Abidjan ;
-- Titulaire : SELAS Cabinet d'Avocats Ismaël Gnamien & Associés — Compte CARPA / Débours ;
-- IBAN UEMOA : CI93 CI00 6010 0101 2345 6789 0145 ;
-- Code BIC / SWIFT : BICI CI AB ;
-- Référence obligatoire à faire figurer dans l'ordre de virement : `HONO-CI-2041-0722-OSSIMI`.
-
-Me Gnamien conclut qu'à réception de l'avis d'opéré bancaire ou du crédit des fonds, son cabinet finalisera et te soumettra pour approbation les projets définitifs des statuts de la SASU et de l'acte de nomination du Directeur Général sous un délai de 48 heures ouvrées (au plus tard lundi 29 juillet).
+Ton solde bancaire Spuerkeess s'établit désormais à 8 464,70 € sur ton compte courant, avec 75 250,00 € sur ton compte épargne.
 
 ---
 
-Il est 12h15.
+Il est 20h00.
 
 ---
 
 **Réponses attendues**
-- **Virement bancaire de l'acompte (1 511 €)** : Valides-tu l'émission immédiate du virement international SWIFT de 1 511,00 € depuis ton compte courant Spuerkeess vers le compte BICICI du Cabinet Gnamien & Associés avec la référence `HONO-CI-2041-0722-OSSIMI` ?
-- **Créneau d'entretien avec Mohamed Coulibaly (91/100)** : Quel créneau retiens-tu pour la visioconférence (vendredi 26/07 à 18h30, samedi 27/07 à 10h00, lundi 29/07 à 19h00, ou un autre horaire à ta convenance) ?
-- **Orientation de Mariam Brou (88/100)** : Valides-tu le maintien de son dossier en réserve active pour la future Direction Administrative et Financière (DAF) sans la solliciter pour le poste de Direction Générale ?
+- Aucune réponse urgente immédiate à 20h00.
 
 **À faire / à fournir avant le tour suivant**
-- Donner tes instructions pour l'émission du virement bancaire et la planification de l'entretien.
+- Définir le programme de ta soirée (dîner, détente) et de ton début de journée de vendredi avant la session de sport et l'entretien en visioconférence de 18h30, ou lancer une avance rapide vers le réveil de vendredi matin.
 
 **Quêtes secondaires**
-- Rapport quotidien n° 6 du directeur général virtuel ce soir à 20h00 (A089).
-- Suivi de la constitution de la SASU par Me Gnamien après réception du virement.
+- Séance de sport au Minett Combat Club prévue le vendredi 26 juillet dans l'après-midi (I1).
+- Premier entretien de sélection en visioconférence avec Mohamed Coulibaly (91/100) le vendredi 26 juillet à 18h30 (A091).
+- Rapport quotidien n° 7 du directeur général virtuel le vendredi 26 juillet à 20h00 (A092).
+- Réception des statuts de la SASU par Me Gnamien le lundi 29 juillet.
 
 Que veux-tu faire ?
