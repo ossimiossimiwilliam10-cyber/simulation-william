@@ -29,7 +29,7 @@ Après concertation avec le pôle juridique et analyse des coûts immobiliers ab
 
 1. **Opportunité et calendrier de ton déplacement à Abidjan** :
    - Le principe de ta venue est jugé hautement stratégique par l'équipe virtuelle. Rencontrer Mohamed Coulibaly en face-à-face, instaurer une relation de confiance directe, visiter les toitures industrielles cibles et rencontrer Maître Gnamien pour acter la clôture du dossier d'immatriculation donneront une impulsion concrète au projet.
-   - La fenêtre temporelle idéale ressort avec netteté : **du mardi 12 août au dimanche 24 août 2041 (soit 12 à 13 jours sur place)**. Cette période coïncide au jour près avec la fermeture estivale de deux semaines du Minett Combat Club (du 12 au 25 août) : tu ne manqueras donc aucune séance de MMA au club. Sur le plan juridique, Me Gnamien aura bouclé les formalités CEPICI et le compte bancaire définitif d'ici la première quinzaine d'août : la société existera légalement à ton atterrissage.
+   - La fenêtre temporelle idéale ressort avec netteté : **du lundi 12 août au dimanche 25 août 2041 (soit 14 jours sur place)**. Cette période coïncide au jour près avec la fermeture estivale de deux semaines du Minett Combat Club (du 12 au 25 août) : tu ne manqueras donc aucune séance de MMA au club. Sur le plan juridique, Me Gnamien aura bouclé les formalités CEPICI et le compte bancaire définitif d'ici la première quinzaine d'août : la société existera légalement à ton atterrissage.
    - Le budget prévisionnel pour ce séjour personnel s'établit entre 3 000 et 3 800 € (vol direct A/R en classe confort, 12 nuits en résidence hôtelière sécurisée à Cocody, chauffeur et vie sur place), facilement financé sur ton budget vacances (833 €/mois, 10 000 €/an).
 
 2. **Choix et localisation du QG opérationnel** :
@@ -59,7 +59,7 @@ Il est 10h30.
 ---
 
 **Réponses attendues**
-- **Déplacement à Abidjan** : Valides-tu le principe d'un déplacement de 12 à 13 jours sur la fenêtre du 12 au 24 août 2041 (pendant la fermeture estivale du club de MMA) ?
+- **Déplacement à Abidjan** : Valides-tu le principe d'un déplacement de 14 jours sur la fenêtre du 12 au 25 août 2041 (pendant la fermeture estivale du club de MMA) ?
 - **Stratégie du QG** : Valides-tu le ciblage d'une villa à usage mixte à Cocody Deux-Plateaux et l'enveloppe d'équipement de démarrage d'environ 25 000 € (imputée sur la première tranche de 60 000 €) ?
 - **Suite de ta journée** : Souhaites-tu lancer une avance rapide vers ta séance de MMA de l'après-midi au Minett Combat Club (vers 15h00) ou directement vers l'entretien en visioconférence de 18h30 avec Mohamed Coulibaly ?
 
