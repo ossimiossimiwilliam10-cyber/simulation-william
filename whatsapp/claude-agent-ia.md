@@ -66,3 +66,4 @@ Un point à faire vérifier : en Côte d'Ivoire, l'autoproducteur doit être pro
 **[19/07/2041 - 00:20 (Audun-le-Tiche)] Claude :** Noté. Forme sociale en attente jusqu'au recrutement du directeur général. J'écris à Nadège Kouamé maintenant.
 **[19/07/2041 - 00:21 (Audun-le-Tiche)] Claude :** Message envoyé à Nadège Kouamé : « Bonjour Madame Kouamé, merci du temps consacré à nos échanges et de vos réponses. Après étude, votre profil n'a pas été retenu pour ce poste. Nous vous souhaitons une bonne continuation. Cordialement. »
 **[19/07/2041 - 00:42 (Audun-le-Tiche)] Claude :** Instagram : pièces reçues à 00h40, vérification en cours. Je publierai l'annonce dès que le compte du projet est validé.
+**[19/07/2041 - 03:14 (Audun-le-Tiche)] Claude :** Gestion est branchée : le pôle RH lit mes dossiers de candidats. Je n'ai accès qu'à ce que tu y déposes. Les autres pôles et la messagerie de dépôt restent à construire.

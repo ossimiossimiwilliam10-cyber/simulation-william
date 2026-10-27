@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-07-19 00:52
+horloge: 2041-07-19 03:14
 fuseau: luxembourg
 lieu: Audun-le-Tiche (Moselle), chez William
-tour: 15
-attente: Vérification Instagram sous 24 h ; notes des profils selon le nouveau barème ; prochain rapport de Claude le 19/07 à 18h00 ; vendredi : club l'après-midi (I1)
+tour: 16
+attente: Suite à donner à l'application Gestion (messagerie de dépôt et pôles à construire) ; vérification Instagram sous 24 h ; prochain rapport de Claude le 19/07 à 18h00 ; vendredi : club l'après-midi (I1)

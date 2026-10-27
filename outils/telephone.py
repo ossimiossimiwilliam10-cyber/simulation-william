@@ -37,7 +37,7 @@ COMPTES_VISIBLES = {"courant": "Compte courant", "projet": "Compte épargne"}  #
 WEB = OUTILS / "telephone_web"
 # Applications de l'écran d'accueil, dans l'ordre : (nom du fichier JS dans telephone_web/, module Python qui fournit
 # D.applis[nom] par donnees_telephone(t), ou None si l'application se sert des données communes).
-APPLIS = [("messages", None), ("courriels", None), ("fichiers", None), ("banque", "banque"), ("portefeuille", "devises"), ("calendrier", "appli_calendrier"),
+APPLIS = [("messages", None), ("courriels", None), ("fichiers", None), ("gestion", "gestion"), ("banque", "banque"), ("portefeuille", "devises"), ("calendrier", "appli_calendrier"),
           ("meteo", None), ("voyages", "voyages"), ("transports", "transports"), ("courses", "courses"), ("rencontres", "rencontres"),
           ("sante", "corps")]  # 14/10/2026 : Portefeuille (devises.py) et Courses (courses.py) ; 27/10/2026 : Fichiers
 # Fichiers (27/10/2026, demande de l'utilisateur : « les fichiers directement accessibles depuis mon téléphone ») : les PDF de documents_william/ et de
@@ -197,11 +197,13 @@ def construire():
     for nom, module in APPLIS:
         if module:
             d["applis"][nom] = importlib.import_module(module).donnees_telephone(t)
+    # une application « pas encore installée » (gestion.py, installee = False) n'apparaît pas sur l'écran d'accueil
+    absentes = [n for n, _ in APPLIS if d["applis"].get(n, {}).get("installee") is False]
     brut = json.dumps(d, ensure_ascii=False)
     fautes = sorted(set(m.group(0) for m in INTERDITS.finditer(brut)))
     if fautes:
         sys.exit("REFUSÉ : la page montrerait des éléments du moteur au joueur : " + ", ".join(fautes[:10]))
-    scripts = "\n".join(lire_texte(WEB / f"{nom}.js") for nom in ["noyau"] + [n for n, _ in APPLIS])
+    scripts = "\n".join(lire_texte(WEB / f"{nom}.js") for nom in ["noyau"] + [n for n, _ in APPLIS if n not in absentes])
     html = lire_texte(WEB / "coque.html").replace("__SCRIPTS__", scripts.replace("</script", "<\\/script"))
     html = html.replace("__DONNEES__", brut.replace("</", "<\\/"))
     dossier = SORTIES / "telephone"

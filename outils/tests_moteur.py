@@ -192,8 +192,10 @@ def main():
     e.verifier((copie / "journal" / "tours" / f"{t1:%Y-%m-%d}.md").exists(), f"journal/tours/{t1:%Y-%m-%d}.md écrit")
     e.lancer(o + "horloge.py", contient=f"tour n° {n0 + 1}", nom="horloge : le compteur de tours avance d'un cran")
     e.lancer(o + "tour.py", "apercu", "--jusqua", f"{t1 + dt.timedelta(days=3):%Y-%m-%d} 08:00", contient="Aperçu de l'avance rapide")
-    e.lancer(o + "telephone.py", contient="12 applications",
-             nom="téléphone : écran d'accueil et douze applications (Fichiers : 27/10/2026)")
+    e.lancer(o + "telephone.py", contient="13 applications",
+             nom="téléphone : écran d'accueil et treize applications (Fichiers et Gestion : 27/10/2026)")
+    e.lancer(o + "gestion.py", "etat", contient="budget d'API", nom="gestion : budget d'API, pôles et candidats de l'application Gestion")
+    e.lancer(o + "gestion.py", "verifier", contient="conforme", nom="gestion : données de l'application conformes")
     e.lancer(o + "telephone.py", "--json", contient='"lien": "file:///',
              nom="téléphone : application Fichiers, adresse directe du fichier du PC (mode direct)")
     e.lancer(o + "annonces.py", "tirer", "--jusqua", "2041-07-17 12:00", "--simule", contient="réponse(s) tirée(s)",
