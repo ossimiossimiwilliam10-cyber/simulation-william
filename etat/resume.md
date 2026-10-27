@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 27/10/2026 20:59 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 27/10/2026 21:08 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mercredi 24/07/2041 20:00 (luxembourg, UTC+2)
+## Horloge : mercredi 24/07/2041 20:20 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 18:00 ; lisbonne 19:00 ; mindelo 17:00 ; casablanca 19:00 ; douala 19:00 ; addis 21:00 ; manille 02:00 ; paris 20:00 ; seoul 03:00 ; bresil 15:00
+- **Heure dans les autres lieux** : abidjan 18:20 ; lisbonne 19:20 ; mindelo 17:20 ; casablanca 19:20 ; douala 19:20 ; addis 21:20 ; manille 02:20 ; paris 20:20 ; seoul 03:20 ; bresil 15:20
 - **En attente de William** :
-  - Décision sur la convention d'avocat de Me Gnamien et transmission des pièces KYC, suite de soirée ou repos
+  - Dîner, détente en soirée ou nuit jusqu'à jeudi 08h00 (« Go ») ; prochain rapport demain à 20h00
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **9 975,70 €**
@@ -15,7 +15,8 @@
 - Patrimoine net de William : **852 983,92 €**
 - Prévu dans les 14 jours : 31/07 Traitement mensuel de William (9 320,00 €) ; 01/08 Minett Combat Club (-85,00 €) ; 01/08 Package bancaire Zebra Premium (-12,83 €) ; 02/08 Virement permanent vers le compte épargne (-732,00 €) ; 02/08 Virement permanent vers le compte épargne (732,00 €) ; 02/08 Virement permanent vers le compte-titres ETF (-5 755,00 €) ; 02/08 Virement permanent vers le compte-titres ETF (5 755,00 €) ; 05/08 Mensualité du prêt immobilier et assurance emprunteu (-949,28 €) ; 05/08 Prêt immobilier de la maison d'Audun-le-Tiche (-626,84 €) ; 05/08 Part nette du bien financé : + capital remboursé (626,84 €) ; 05/08 Assurance habitation (-45,00 €) ; 05/08 Voiture électrique : assurance tous risques (-107,00 €)
 
-## Agenda : dans les 24 heures (1)
+## Agenda : dans les 24 heures (2)
+- A090 Thu 25/07 12:15 (luxembourg) | Ismaël Gnamien (courriel) : Transmission du RIB officiel du Cabinet pour virement du premier acompte et accusé de réception du dossier KYC [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — Accusé de réception des pièces KYC de William et transmission du RIB CARPA/Cabinet pour virement de 991 200 FCFA TTC
 - A089 Thu 25/07 20:00 (luxembourg) | Directeur général virtuel : Rapport final de la journée à William (décisions en questions fermées, affirmations vérifiées, état des pôles) [prevu]  — I26 ; ajouter la ligne du lendemain après chaque rapport
 ## Agenda : de J+1 à J+7 (1)
 - A006 Mon 29/07 10:22 (luxembourg) | MENJE (info@men.lu) : Réponse au courriel de William du 16/07/2041 12h14 (demande d'autorisation, article 14) : orientation vers la voie hiérarchique (demande écrite par la direction du lycée au ministre du ressort, avis du ministre de la Fonction publique) et complément demandé (description de l'activité, volume horaire, absence de gestion, rémunération éventuelle) ; tirage : réponse au 9e jour ouvrable, friction administrative = oui ; PDF à générer par courriel.py au moment voulu [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
@@ -36,8 +37,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-07-24.md, 6 dernières lignes)
-> # Mercredi 24 juillet 2041 — univers 3, neuvième jour
 > - **00h00-08h00** (tour n° 47) : 00h00-08h00 (tour n° 47) : nuit paisible de 7,5 h (23h30-07h15) ; réveil en pleine forme ; grand soleil (13 °C / 21 °C) ; séance de MMA au Minett Combat Club cet après-midi (I1) ; attente des retours RH et du cabinet Me Gnamien
 > - Tour en cours à 08h00, en attente de William : **Programme de la matinée (dossiers, démarches, détente avant le MMA) ou avance rapide**.
 > - **08h00-20h00** (tour n° 48) : 08h00-20h00 (tour n° 48) : réception à 11h45 de la convention d'honoraires et du questionnaire KYC de Me Gnamien (2,1 M FCFA HT) ; analysée par le pôle juridique virtuel (D011) ; séance de MMA l'après-midi au Minett Combat Club (14h30-17h00) avec Thiago Alves et Arthur Kieffer ; cinquième rapport quotidien du DG virtuel remis à 20h00
 > - Tour en cours à 20h00, en attente de William : **Décision sur la convention d'avocat de Me Gnamien et transmission des pièces KYC, suite de soirée ou repos**.
+> - **20h00-20h20** (tour n° 49) : 20h00-20h20 (tour n° 49) : William valide la convention d'assistance juridique de Me Gnamien ; courriel officiel expédié à 20h08 avec pièces KYC et demande de RIB (D013) ; Mohamed Coulibaly (91/100) désigné choix n° 1 pour la DG, entretien en préparation par le pôle RH
+> - Tour en cours à 20h20, en attente de William : **Dîner, détente en soirée ou nuit jusqu'à jeudi 08h00 (« Go ») ; prochain rapport demain à 20h00**.

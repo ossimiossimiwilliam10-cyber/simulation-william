@@ -142,3 +142,4 @@ if __name__ == "__main__":
     f1 = generer_lettre_mission_gnamien()
     f2 = generer_rapport_quotidien_24()
     print("2 pièces générées avec succès.")
+
