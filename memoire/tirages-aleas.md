@@ -2664,3 +2664,11 @@ Effets à jouer : A23 (dimanche 21/07 (matin)) : Très courant ; William voit le
 - Jet « CoinAfrique : la version 2 de l'annonce est validée par la modération dans l'heure » : probabilité 80 %, jet  29.1 → **OUI** [DÉROGATION : modération d'une annonce modifiée par un site (pas un personnage) : proposition R6, revue du lundi 22/07/2041] (enregistré le 27/10/2026 15:11 heure machine)
 
 - Jet « Kosafi Annonce CI : la version 2 de l'annonce est validée par la modération dans l'heure » : probabilité 80 %, jet  92.0 → **NON** [DÉROGATION : modération d'une annonce modifiée par un site (pas un personnage) : proposition R6, revue du lundi 22/07/2041] (enregistré le 27/10/2026 15:11 heure machine)
+
+- Tirage [T17] « Nadège Kouamé : réaction au message de William du 18/07 22:21 (abidjan) : « message poli de l'agent IA de William : son profil n'a pas été retenu pour le poste, remer » » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  57.5 → **ignore** (enregistré le 27/10/2026 15:19 heure machine)
+
+- Jet « Instagram : la vérification d'identité (pièce et vidéo-selfie) du compte du projet est acceptée » : probabilité 80 %, jet  35.8 → **OUI** [DÉROGATION : vérification d'identité d'une plateforme (site, pas un personnage) : proposition R6] (enregistré le 27/10/2026 15:19 heure machine)
+
+- Jet « Instagram : la vérification est terminée dans l'heure (sinon dans les 24 heures) » : probabilité 50 %, jet  77.8 → **NON** [DÉROGATION : vérification d'identité d'une plateforme (site, pas un personnage) : proposition R6] (enregistré le 27/10/2026 15:19 heure machine)
+
+- Jet « Instagram : délai de la validation après l'envoi des pièces à 00h40 (1 h + jet × 0,23 h) » : probabilité 50 %, jet  81.8 → **NON** [PROCÉDURE : délai d'une vérification d'identité] (enregistré le 27/10/2026 15:19 heure machine)

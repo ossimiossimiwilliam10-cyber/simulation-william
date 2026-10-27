@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 27/10/2026 15:13 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 27/10/2026 15:20 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : vendredi 19/07/2041 00:14 (luxembourg, UTC+2)
+## Horloge : vendredi 19/07/2041 00:52 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 22:14 ; lisbonne 23:14 ; mindelo 21:14 ; casablanca 23:14 ; douala 23:14 ; addis 01:14 ; manille 06:14 ; paris 00:14 ; seoul 07:14 ; bresil 19:14
+- **Heure dans les autres lieux** : abidjan 22:52 ; lisbonne 23:52 ; mindelo 21:52 ; casablanca 23:52 ; douala 23:52 ; addis 01:52 ; manille 06:52 ; paris 00:52 ; seoul 07:52 ; bresil 19:52
 - **En attente de William** :
-  - Décisions de William : Instagram (identité), questions de Nadège Kouamé, forme sociale (SARL ou SAS) ; notes des profils selon le nouveau barème ; prochain rapport de Claude le 19/07 à 18h00 ; vendredi : club l'après-midi (I1)
+  - Vérification Instagram sous 24 h ; notes des profils selon le nouveau barème ; prochain rapport de Claude le 19/07 à 18h00 ; vendredi : club l'après-midi (I1)
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **9 975,70 €**
@@ -15,9 +15,10 @@
 - Patrimoine net de William : **852 983,92 €**
 - Prévu dans les 14 jours : 31/07 Traitement mensuel de William (9 320,00 €) ; 01/08 Minett Combat Club (-85,00 €) ; 01/08 Package bancaire Zebra Premium (-12,83 €)
 
-## Agenda : dans les 24 heures (2)
+## Agenda : dans les 24 heures (3)
 - A014 Fri 19/07 01:20 (luxembourg) | Jean-Baptiste Tuo (educarriere) : réponse de Jean-Baptiste Tuo au premier message de l'entretien de l'agent IA (T17 : poli_bref = réponse polie et brève) : quelques lignes sur son parcours, sans prolonger , donneur de leçons : ton sentencieux , réseau à tirer par annonces.py reseau au moment de la note · souci : dettes de jeu · objectif : obtenir un poste de direction dans une grande entreprise · foyer : en couple, enfants partis · défauts : donneur de leçons sur la santé, l'argent ou l'éducation / aime les commérages et répète ce qu'on lui confie [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : dans_la_journee (jet 69.8) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=jean-baptiste-tuo canal=educarriere]
 - A011 Fri 19/07 18:00 (luxembourg) | Claude (agent IA) : Rapport quotidien de l'agent IA à William : réponses à l'annonce (niveaux A, B, C), signaux d'alerte, état des plateformes [prevu]
+- A016 Fri 19/07 20:28 (luxembourg) | Instagram (vérification) : Instagram valide la vérification d'identité de William et le compte du projet : Claude publie l'annonce version 2 à 20h35 et le signale à William (tirage : vérification acceptée, terminée au bout de 19 h 48) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
 ## Agenda : de J+1 à J+7 (3)
 - A005 Sat 20/07 20:30 (luxembourg) | William (santé) : Aléa A31 (tirage réel du 16/07/2041) : diarrhée du voyageur ou intoxication alimentaire, seulement si William est à l'étranger ce jour-là ; sinon sans objet (à clore ainsi) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
 - A004 Sun 21/07 09:40 (luxembourg) | Inconnu (SMS) : Aléa A23 (tirage réel du 16/07/2041, semaine du 15/07) : tentative d'arnaque par SMS (faux colis ou faux conseiller bancaire) ; William voit le message et décide ; à jouer sans détail annoncé [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
@@ -39,8 +40,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-07-19.md, 6 dernières lignes)
-> # Vendredi 19 juillet 2041 — univers 3, quatrième jour
-> - **00h00-00h14** (tour n° 14) : 23h20 : William fait de Claude son pôle ressources humaines (jusqu'à nouvel ordre) et lui demande de modifier les annonces (montants chiffrés, Directeur Général ou Gérant), avec sa note sur le titre du dirigeant (SARL : gérant, SAS : DG) ; 23h24 : Claude choisit l'intitulé « Directeur Général / Gérant, partenaire opérationnel » et ne tranche pas la forme sociale
 > - 00h04 : fiche de poste de Claude (compétences, diplôme, barème sur 100, seuil 70, point à vérifier : l'autoproducteur doit être propriétaire de son installation) ; 00h02-00h11 : annonce version 2 en ligne sur LinkedIn, CoinAfrique, Educarriere.ci, NovoJob (tirages de modération) ; Kosafi : version 2 en modération ; Facebook : publication remplacée, en attente
 > - Tirages du tour : jet « Educarriere.ci : la version 2 de l'annonce (Directeur Généra » → OUI (20,07) ; jet « NovoJob : la version 2 de l'annonce est validée par la modér » → OUI (64,7) ; jet « CoinAfrique : la version 2 de l'annonce est validée par la m » → OUI (29,13) ; jet « Kosafi Annonce CI : la version 2 de l'annonce est validée pa » → NON (92,03).
 > - Tour en cours à 00h14, en attente de William : **Décisions de William : Instagram (identité), questions de Nadège Kouamé, forme sociale (SARL ou SAS) ; notes des profils selon le nouveau barème ; prochain rapport de Claude le 19/07 à 18h00 ; vendredi : club l'après-midi (I1)**.
+> - **00h14-00h52** (tour n° 15) : 00h18 : William règle Instagram lui-même (carte d'identité et vidéo-selfie), demande à Claude d'écarter poliment Nadège Kouamé et met la forme sociale en attente jusqu'au recrutement du directeur général ; 00h21 : message poli à Nadège Kouamé (T17 : ne répond pas) ; 00h40 : pièces envoyées à Instagram (vérification acceptée par tirage, terminée le 19/07 à 20h28, ag
+> - Tirages du tour : T17 Nadège → ignore (57,52) ; jet « Instagram : la vérification d'identité (pièce et vidéo-selfi » → OUI (35,76) ; jet « Instagram : la vérification est terminée dans l'heure (sinon » → NON (77,8) ; jet « Instagram : délai de la validation après l'envoi des pièces  » → NON (81,76).
+> - Tour en cours à 00h52, en attente de William : **Vérification Instagram sous 24 h ; notes des profils selon le nouveau barème ; prochain rapport de Claude le 19/07 à 18h00 ; vendredi : club l'après-midi (I1)**.
