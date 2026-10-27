@@ -1,53 +1,51 @@
 # Dernier tour montré au joueur
 
-> Tour n° 59 ; horloge 26/07/2041 19:25 -> 26/07/2041 20:00 ; enregistré le 27/10/2026 23:38 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 60 ; horloge 26/07/2041 20:00 -> 26/07/2041 20:30 ; enregistré le 27/10/2026 23:52 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je lui dis que c'est un très bon négociant également et que j'espère qu'il le sera également sur les futurs contrats commerciaux. Je lui dis que bon, on part sur 12 mois et 50% et on signe ce contrat. Enfin, ben voilà quoi, on avance quoi. Puisque le contrat doit être encore rédigé par le cabinet. Je lui demande si on part sur ça.
+> Validation des 2 décisions du rapport n° 7, clarification sur le pôle logistique, envoi du courriel à Me Gnamien pour les statuts et notification à Mohamed Coulibaly du protocole de communication institutionnelle et de l'organigramme cible à 6 pôles
 
 ## Texte envoyé au joueur
 
-**VENDREDI 26 JUILLET 2041 — 20h00 — Audun-le-Tiche, chez toi**
+*(Dictée vocale interprétée : « mandat sage valide » = « mandat, ça je valide »).*
 
-Tu accueilles la fermeté de Mohamed d'un sourire franc et appréciateur. Tu lui réponds qu'il fait preuve d'un sens aigu de la négociation, et que tu espères de tout cœur qu'il déploiera exactement cette même pugnacité et cette même intransigeance lors des futures négociations commerciales avec les grands comptes industriels de Côte d'Ivoire.
+**VENDREDI 26 JUILLET 2041 — 20h30 — Audun-le-Tiche, chez toi**
 
-Sans tergiverser davantage, tu tranches :
-« C'est d'accord, Mohamed. On part sur douze mois de non-concurrence et 50 % d'indemnité compensatrice mensuelle en cas de révocation à mon initiative, et nous signerons ce contrat. On avance. Le cabinet de Maître Gnamien va formaliser les actes définitifs sur cette base. Est-ce qu'on part sur ça ? »
+Installé à la table du rez-de-chaussée dans le calme du début de soirée, ton dîner terminé, tu souris devant l'écran de ton téléphone en découvrant la mention du « pôle logistique » dans le rapport quotidien. L'application Gestion t'apporte aussitôt la précision : cette dénomination ne désigne aucun bureau physique ni salarié supplémentaire, mais le module algorithmique de voyage et d'agrégation d'itinéraires intégré à ton segment virtuel, programmé pour scruter les vols, résidences et formalités sans prélever le moindre centime d'intermédiation. Tant que cela reste automatisé et virtuel, le cadre te convient parfaitement.
 
-En face de toi sur l'écran, Mohamed Coulibaly sourit avec un soulagement mesuré et une satisfaction évidente. Ses traits se détendent, son regard brille d'une détermination nouvelle :
+Tu valides donc sans attendre les deux décisions soumises au rapport quotidien n° 7 et donnes tes instructions d'arbitrage.
 
-« Absolument, Monsieur Ossimi. C'est un accord ferme et d'honneur. Vous avez ma parole et mon engagement plein et entier. Je vous remercie pour votre confiance et pour cet esprit de partenariat équilibré. Je me réjouis de bâtir cette entreprise à vos côtés. »
+À 20h15, le courriel officiel destiné au cabinet de Maître Ismaël Gnamien est généré et expédié sous forme de document scellé (`2041-07-26_Courriel_Cabinet_Gnamien_Transmission_parametres_mandat_DG.pdf`, consultable dans l'application Fichiers et `documents_william/`). Il transmet à l'avocat l'intégralité des termes négociés avec Mohamed Coulibaly : la qualification de mandat social pur d'une SAS régie par l'Acte uniforme OHADA révocable ad nutum, la rémunération de 2 000 000 FCFA net mensuel assortie de l'intéressement de 2,5 % du chiffre d'affaires encaissé et de la prime forfaitaire de 5 000 000 FCFA par palier de 500 kWc raccordé, la clause de caducité trimestrielle stricte, ainsi que la clause de non-concurrence de douze mois sur le Grand Abidjan prévoyant 50 % d'indemnité compensatrice mensuelle (1 000 000 FCFA/mois) en cas de révocation à ton initiative hors faute lourde. Le courriel acte également le rattachement hiérarchique direct de la DAF au Directeur Général au quotidien, assorti d'une clause statutaire de transparence financière et d'audit inconditionnel au bénéfice de l'associé unique. Ces dispositions doivent être directement insérées dans le projet complet de statuts constitutifs et la convention de mandat attendus pour le lundi 29 juillet.
 
-Vous mettez au point les prochaines démarches concrètes. Mohamed confirme qu'il pose ses congés dès ce soir pour être présent à Abidjan du 12 au 25 août : vous vous retrouverez sur place pour visiter ensemble les villas cibles à Cocody, rencontrer Maître Gnamien et co-signer les statuts de la SAS ainsi que la convention de mandat social. En parallèle, il commencera dès la semaine suivante, depuis Bruxelles, à activer ses réseaux professionnels pour présélectionner les candidats aux postes de Directeur Technique et Directeur Commercial, afin qu'ils soient opérationnels sur le terrain dès la mi-septembre.
+Dans la foulée, à 20h25, ton directeur général virtuel met en œuvre ton protocole de gouvernance et notifie Mohamed Coulibaly par voie officielle (`2041-07-26_Courriel_Mohamed_Coulibaly_Protocole_communication_et_Organigramme.pdf`, classé dans `documents_william/`). 
 
-Après un chaleureux échange de salutations et de félicitations mutuelles, la communication s'interrompt à 19h35.
+Le message confirme avec solennité l'accord de nomination et pose les règles de collaboration :
+1. **Canal écrit exclusif et institutionnel** : l'intégralité des rapports périodiques, propositions d'arbitrage et validations budgétaires doit obligatoirement transiter par l'adresse électronique officielle de la direction. Ce circuit garantit une traçabilité rigoureuse et permettra à ton directeur général virtuel d'analyser, recouper et préparer en coulisses des retours d'une précision chirurgicale avant que tu ne tranches — sans que Mohamed ni quiconque ne soupçonne jamais l'intervention de l'intelligence artificielle.
+2. **Réunions et visioconférences d'exception** : les échanges oraux et visioconférences sont strictement réservés aux comités stratégiques planifiés ou aux urgences opérationnelles majeures, avec ordre du jour préalablement arrêté.
+3. **Sessions en présentiel** : les séances de travail en vis-à-vis se tiendront lors de tes séjours sur le terrain, à commencer par la mission du 12 au 25 août à Abidjan.
+4. **Organigramme cible à six pôles** : le document formalise la structure de l'entreprise. Mohamed y retrouve sa Direction Générale pourvue, la Direction Administrative et Financière pré-positionnée pour être pourvue sous peu (Mariam Brou), le pôle RH et le pôle Juridique actifs. Il reçoit formellement le mandat d'activer ses réseaux dès les premiers jours d'août pour présélectionner les Directeurs Technique et Commercial, avec pour objectif de finaliser leurs entretiens lors de votre mission d'août et de les mobiliser sur le terrain dès la mi-septembre 2041.
 
-Tu refermes l'ordinateur portable. Le silence retombe dans la pièce. Tu mesures le chemin parcouru depuis le début des vacances : en dix jours, l'analyse stratégique a été verrouillée, le conseil juridique d'Abidjan a été mandaté et payé, et tu viens de recruter ton Directeur Général, un banquier d'affaires ivoirien d'élite, rigoureux et rompu aux montages d'infrastructures.
+En parallèle, le module de réservation a compilé les premières options concrètes pour ton déplacement à Abidjan du lundi 12 au dimanche 25 août 2041 (14 jours / 13 nuits) :
+- **Aérien** : vol aller-retour au départ de Luxembourg-Findel (via Paris Charles-de-Gaulle avec Air France, départ lun. 12/08 à 07h15, arrivée Abidjan 15h40 ; retour dim. 25/08 à 22h30, arrivée Luxembourg lun. 26/08 à 09h10) à 1 285 € en classe économique flexible avec deux bagages en soute ; ou départ via Bruxelles avec Brussels Airlines à 1 190 €.
+- **Hébergement** : résidence hôtelière haut de gamme et sécurisée à Cocody Deux-Plateaux (appartement F2 indépendant avec gardiennage 24/7, groupe électrogène industriel contre les délestages, Wi-Fi très haut débit et climatisation) à environ 85 000 FCFA/nuit (130 €), soit 1 690 € pour l'ensemble du séjour.
+- **Formalités sanitaires et administratives** : e-visa d'entrée en Côte d'Ivoire (73 €, formalité en ligne dix jours avant le départ) et carnet de vaccination international à jour (vaccin contre la fièvre jaune obligatoire pour entrer sur le territoire ivoirien).
 
-Tu descends à la cuisine te servir un grand verre d'eau fraîche et préparer ton dîner, tandis que la tiédeur de cet après-midi ensoleillé à 28 °C reste doucement prise dans les murs de pierre de la maison. 
+Le calme est total dans la maison. Les pièces officielles sont parties. Mohamed Coulibaly ayant reçu son dossier à 20h25 un vendredi soir depuis Bruxelles, son accusé de réception formel et son accord sur le protocole sont attendus pour demain matin, samedi 27 juillet.
 
-À 20h00 précises, la notification de l'application Gestion retentit sur ton téléphone : le **Rapport quotidien n° 7 du Directeur Général virtuel** vient d'être déposé dans l'espace documentaire (pièce officielle `2041-07-26_Rapport_quotidien_Directeur_General_virtuel.pdf` consultable dans l'application Fichiers et `documents_william/`).
+***
 
-Le rapport récapitule les faits majeurs de la journée :
-1. **Recrutement Direction Générale** : Accord verbal complet scellé avec Mohamed Coulibaly sur le mandat social pur de SAS (fixe 2 000 000 FCFA net, intéressement 2,5 % du CA HT encaissé, prime 5 000 000 FCFA / 500 kWc raccordée, clause de non-concurrence de 12 mois à 50 % d'indemnité compensatrice en cas de révocation à ton initiative, rattachement hiérarchique de la DAF au DG, prise de poste physique au 1er octobre avec présence à Abidjan du 12 au 25 août).
-2. **Cadrage de la mission d'août** : Déplacement à Abidjan calé du 12 au 25 août 2041 (14 jours) synchronisé sur la fermeture du club de combat. Gel temporaire de l'enveloppe de démarrage (25 155 €) dans l'attente des visites sur place.
-3. **Pôle Juridique** : Trois affirmations vérifiées (légalité OHADA de l'indemnité compensatrice de non-concurrence, conformité de la prise d'effet différée au RCCM, articulation de la double subordination de la DAF). Statuts de la SAS promis par Me Gnamien pour le lundi 29 juillet.
-4. **Budget informatique virtuel** : Consommation du jour de 1,70 € HT (cumul mensuel à 43,26 € sur le plafond de 1 000,00 €).
-5. **Situation financière personnelle** : Solde compte courant Spuerkeess à 8 464,70 €, versement du traitement net de juillet (+9 320,00 €) programmé pour le mercredi 31 juillet.
+**Réponses attendues :**
+- **Mohamed Coulibaly** : accusé de réception officiel de la notification de mandat, adhésion au protocole de communication écrit et confirmation de sa feuille de route de recrutement pour les directeurs technique et commercial (attendu samedi matin, 27 juillet).
+- **Cabinet Me Ismaël Gnamien** : accusé de réception des paramètres définitifs du mandat DG et livraison des projets complets de statuts et convention de mandat social (attendus pour le lundi 29 juillet).
 
----
+**À faire / à fournir avant le tour suivant :**
+- Vérifier ton carnet de vaccination international pour confirmer la validité du vaccin fièvre jaune (obligatoire pour Abidjan).
+- Arbitrer entre les options de vol (départ depuis Findel via Air France à 1 285 € ou via Brussels Airlines à 1 190 €) et poser l'option sur la résidence sécurisée à Cocody Deux-Plateaux.
 
-**Réponses attendues** :
-- Le directeur général virtuel te soumet deux décisions fermées en fin de rapport quotidien :
-  1. Valides-tu la transmission officielle des paramètres du mandat de Mohamed Coulibaly au Cabinet de Me Ismaël Gnamien pour intégration dans les statuts et actes constitutifs de la SAS ? (Oui / Non)
-  2. Autorises-tu le pôle logistique à préparer les devis et options de réservation pour ta mission à Abidjan du 12 au 25 août (vols et résidence hôtelière sécurisée à Cocody Deux-Plateaux) ? (Oui / Non)
-
-**À faire / à fournir avant le tour suivant** :
-- Valider ces deux décisions pour clore le programme de travail de la semaine.
-
-**Quêtes secondaires** :
-- Livraison des projets de statuts de la SAS par le Cabinet Me Gnamien attendue pour le lundi 29 juillet.
-- Séance de course à pied de 5 km prévue le dimanche matin (intention permanente I1).
+**Quêtes secondaires :**
+- **MENJE (Luxembourg)** : demande d'autorisation pour activité accessoire (article 14) transmise le 16/07 à 12h14 ; réponse attendue par la voie hiérarchique fin juillet.
+- **Mariam Brou (candidature DAF)** : dossier conservé en réserve au pôle RH pour activation de la négociation après sécurisation administrative de Mohamed.
 
 Que veux-tu faire ?
+*(Avance rapide possible vers samedi matin 27 juillet à 08h30 pour découvrir le réveil et la réponse formelle de Mohamed Coulibaly).*
