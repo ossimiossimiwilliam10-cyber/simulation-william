@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 27/10/2026 19:42 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 27/10/2026 19:48 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : lundi 22/07/2041 20:35 (luxembourg, UTC+2)
+## Horloge : lundi 22/07/2041 20:45 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 18:35 ; lisbonne 19:35 ; mindelo 17:35 ; casablanca 19:35 ; douala 19:35 ; addis 21:35 ; manille 02:35 ; paris 20:35 ; seoul 03:35 ; bresil 15:35
+- **Heure dans les autres lieux** : abidjan 18:45 ; lisbonne 19:45 ; mindelo 17:45 ; casablanca 19:45 ; douala 19:45 ; addis 21:45 ; manille 02:45 ; paris 20:45 ; seoul 03:45 ; bresil 15:45
 - **En attente de William** :
-  - Choix du Point 2 du contrat du DG (rémunération fixe/variable) ; prochain rapport demain à 20h00
+  - Choix du Point 3 du contrat du DG (période probatoire et révocation) ; prochain rapport demain à 20h00
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **9 975,70 €**
@@ -38,9 +38,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-07-22.md, 6 dernières lignes)
-> - Tirages du tour : T17 Jean-Baptiste → poli_bref (16,87) ; T10 Jean-Baptiste → le_soir_ou_lendemain (66,39).
-> - Tour en cours à 20h06, en attente de William : **Suivi des vérifications de références des candidats élite et lettre de mission de Me Gnamien ; prochain rapport demain à 20h00**.
 > - **20h06-20h25** (tour n° 38) : 20h06-20h25 (tour n° 38) : échange avec le DG virtuel sur le contrat du futur DG réel (Mohamed Coulibaly, Mariam Brou, Kader Assi) ; introduction de William à Me Gnamien comme associé majoritaire et investisseur unique (+352) ; Point 1 posé sur la nature juridique du contrat (mandat social pur, salariat cadre, ou mandat avec convention d'objectifs)
 > - Tour en cours à 20h25, en attente de William : **Choix du Point 1 du contrat du DG (mandat social vs salariat) ; courriel d'introduction à Me Gnamien ; prochain rapport demain à 20h00**.
 > - **20h25-20h35** (tour n° 39) : 20h25-20h35 (tour n° 39) : William valide le Point 1 (mandat social pur de Directeur Général de SAS, Option A) ; le DG virtuel pose le Point 2 sur la rémunération (Formule 1 forte incitation, Formule 2 senior sécurisé, ou Formule 3 évolutive)
 > - Tour en cours à 20h35, en attente de William : **Choix du Point 2 du contrat du DG (rémunération fixe/variable) ; prochain rapport demain à 20h00**.
+> - **20h35-20h45** (tour n° 40) : 20h35-20h45 (tour n° 40) : William valide le Point 2 (rémunération Formule 1 : fixe 2 M FCFA net/mois, variable 2,5 % CA encaissé, prime 5 M FCFA / 500 kWc) ; le DG virtuel pose le Point 3 sur la période probatoire et les clauses de révocation
+> - Tour en cours à 20h45, en attente de William : **Choix du Point 3 du contrat du DG (période probatoire et révocation) ; prochain rapport demain à 20h00**.

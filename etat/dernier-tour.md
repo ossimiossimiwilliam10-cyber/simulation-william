@@ -1,51 +1,53 @@
 # Dernier tour montré au joueur
 
-> Tour n° 39 ; horloge 22/07/2041 20:25 -> 22/07/2041 20:35 ; enregistré le 27/10/2026 19:42 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 40 ; horloge 22/07/2041 20:35 -> 22/07/2041 20:45 ; enregistré le 27/10/2026 19:48 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Alors, concernant le premier point, on part sur l'option A.
+> On part sur la formule 1.
 
 ## Texte envoyé au joueur
 
-**LUNDI 22 JUILLET 2041 — 20h35 — Audun-le-Tiche, chez toi**
+**LUNDI 22 JUILLET 2041 — 20h45 — Audun-le-Tiche, chez toi**
 
-Toujours installé à la table de la cuisine, ton téléphone en main, tu tranches sans hésiter sur le premier point : vous partez sur l'option A, le mandat social pur de Directeur Général de SAS, sans contrat de travail salarié.
+Toujours dans la cuisine, tu tapes ton choix sur l'application : vous retenez la formule 1 pour le volet financier. Un fixe contenu à deux millions de FCFA net par mois, complété par un intéressement vigoureux de 2,5 % sur les encaissements réels et une prime annuelle de cinq millions de FCFA au seuil des 500 kWc raccordés.
 
-Le directeur général virtuel intègre aussitôt ton arbitrage et te répond dans l'application à 20h30 :
+Le directeur général virtuel valide immédiatement ce cadrage et te soumet la suite à 20h40 :
 
-« C'est validé pour le **Point 1 : Mandat social pur de Directeur Général de SAS** (Option A).
-Ce choix sécurise ton autorité : aucune juridiction prud'homale ivoirienne compétente en cas de litige, révocation ad nutum par décision de l'associé unique, et absence d'indemnités légales de licenciement obligatoires. Me Gnamien inscrira cette modalité dans les projets de statuts et le mandat social.
+« C'est validé pour le **Point 2 : Rémunération selon la Formule 1** (Fixe de 2 000 000 FCFA net/mois, soit environ 3 050 €, + variable de 2,5 % du chiffre d'affaires HT encaissé sur les affaires installées + prime annuelle de 5 000 000 FCFA pour l'atteinte de 500 kWc raccordés). Ce montage préserve la trésorerie initiale tout en offrant un levier d'enrichissement direct sur les résultats commerciaux.
 
-Passons au **Point 2 : Structure et niveau de rémunération (Fixe + Variable axé productivité)**.
-Pour attirer un profil d'élite comme Mohamed Coulibaly (actuellement cadre supérieur chez un distributeur/fabricant) ou Mariam Brou tout en préservant ta trésorerie d'amorçage (60 000 € sur la première tranche), trois formules de mandat social sont concevables :
+Nous enchaînons sur le **Point 3 : Période probatoire initiale et clauses de révocation (sécurisation de la sortie)**.
+Conformément à ta volonté de faciliter une séparation rapide en cas de sous-performance, le mandat social offre une grande liberté de rédaction. Trois options sont envisageables pour encadrer la sortie :
 
-- **Formule 1 : Fixe modéré + Fort intéressement sur encaissements (Forte incitation commerciale)**
-  - Rémunération fixe : 2 000 000 FCFA net/mois (≈ 3 050 €).
-  - Variable : 2,5 % du chiffre d'affaires HT encaissé sur les projets signés et installés + prime de surperformance annuelle de 5 000 000 FCFA (≈ 7 600 €) en cas d'atteinte de 100 % de l'objectif annuel de puissance raccordée (ex. 500 kWc).
-  - *Avantage* : impact modéré sur le cash-flow mensuel ; potentiel de gain global très élevé pour le dirigeant (pouvant dépasser 4,5 M FCFA/mois s'il performe).
-- **Formule 2 : Fixe élevé + Variable modéré (Profil senior sécurisé)**
-  - Rémunération fixe : 3 000 000 FCFA net/mois (≈ 4 575 €).
-  - Variable : 1 % du chiffre d'affaires HT encaissé + bonus annuel équivalent à 2 mois de fixe conditionné à la marge nette globale.
-  - *Avantage* : attractivité immédiate maximale pour débaucher un cadre très établi, mais charge fixe lourde sur le budget de départ (36 M FCFA/an de fixe garanti).
-- **Formule 3 : Évolutive avec palier de démarrage (Formule de montée en puissance)**
-  - Période d'amorçage (mois 1 à 6) : 1 800 000 FCFA net/mois (≈ 2 745 €) + 3 % sur la marge brute des premières affaires.
-  - Période de croisière (dès le 7e mois, sous réserve d'atteinte des premiers jalons) : passage automatique à 2 500 000 FCFA net/mois (≈ 3 810 €) + 2 % sur le chiffre d'affaires HT encaissé.
-  - *Avantage* : minimise le risque financier sur la phase de prospection initiale et teste la motivation réelle du candidat avant d'engager le plein régime.
+- **Option A : Période probatoire de 3 mois (renouvelable 1 fois) + Révocation sans indemnité pour insuffisance d'objectifs**
+  - Durant les 3 premiers mois (renouvelables 3 mois si l'activité commerciale s'amorce) : fin du mandat avec un simple préavis de 15 jours, sans aucune indemnité de rupture.
+  - En phase de croisière : révocation immédiate et sans indemnité si les objectifs trimestriels minimaux (ex. 50 kWc signés par trimestre) ne sont pas atteints sur deux trimestres consécutifs.
+  - En cas de révocation discrétionnaire sans motif d'insuffisance : préavis de 1 mois et indemnité plafonnée à 1 mois de rémunération fixe.
+  - *Avantage* : flexibilité maximale pour l'associé unique, coût de sortie quasi nul en cas de contre-performance.
+- **Option B : Période probatoire de 6 mois ferme + Préavis de 2 mois et indemnité progressive**
+  - Période probatoire de 6 mois avec préavis de 15 jours.
+  - En régime établi : préavis de 2 mois, avec indemnité de départ égale à 1 mois de fixe par année de mandat (sauf faute lourde ou manquement grave).
+  - *Avantage* : plus rassurant pour un cadre en poste stable comme Mohamed Coulibaly, mais plus contraignant pour la trésorerie si la séparation intervient plus tard.
+- **Option C : Caducité automatique trimestrielle sur seuils stricts (« Pay for performance »)**
+  - Pas de période probatoire classique, mais des paliers trimestriels obligatoires gravés dans la convention :
+    - T1 : 2 premiers contrats B2B signés ;
+    - T2 et suivants : seuil minimum de 15 millions FCFA de marge brute encaissée par trimestre.
+    - Tout échec sur deux trimestres consécutifs entraîne la caducité automatique et de plein droit du mandat social, avec départ immédiat et sans indemnité.
+  - *Avantage* : mécanisme purement contractuel et arithmétique, éliminant toute contestation sur le motif de départ.
 
-Quelle formule de rémunération retiens-tu pour ce Point 2 ? (Dès ton retour, nous enchaînerons sur le Point 3 : période probatoire initiale et clauses de révocation). »
+Quelle option choisis-tu pour ce Point 3 ? (Dès ton arbitrage, nous terminerons par le Point 4 : clause de non-concurrence et protection du portefeuille clients). »
 
 ---
 
-Il est 20h35.
+Il est 20h45.
 
 ---
 
 **Réponses attendues**
-- **Directeur général virtuel** : ton choix sur le **Point 2** (structure et niveau de rémunération : Formule 1, Formule 2 ou Formule 3).
+- **Directeur général virtuel** : ton choix sur le **Point 3** (période probatoire et clauses de révocation : Option A, Option B ou Option C).
 
 **À faire / à fournir avant le tour suivant**
-- Trancher la formule de rémunération du Directeur Général réel.
+- Trancher les conditions de période probatoire et de révocation du Directeur Général réel.
 
 **Quêtes secondaires**
 - Retours des référents professionnels pour Mohamed Coulibaly et Mariam Brou par le pôle RH.

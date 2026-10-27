@@ -221,3 +221,30 @@ Pour attirer un profil d'élite comme Mohamed Coulibaly (actuellement cadre sup�
   - Avantage : minimise le risque financier sur la phase de prospection initiale et teste la motivation réelle du candidat avant d'engager le plein régime.
 
 Quelle formule de rémunération retiens-tu pour ce Point 2 ? (Dès ton retour, nous enchaînerons sur le Point 3 : période probatoire initiale et clauses de révocation). »
+
+**Lundi 22/07/2041, 20:36 — William**
+« On part sur la formule 1. »
+
+**Lundi 22/07/2041, 20:40 — Directeur général virtuel**
+« C'est validé pour le **Point 2 : Rémunération selon la Formule 1** (Fixe de 2 000 000 FCFA net/mois, soit environ 3 050 €, + variable de 2,5 % du chiffre d'affaires HT encaissé sur les affaires installées + prime annuelle de 5 000 000 FCFA pour l'atteinte de 500 kWc raccordés). Ce montage préserve la trésorerie initiale tout en offrant un levier d'enrichissement direct sur les résultats commerciaux.
+
+Nous enchaînons sur le **Point 3 : Période probatoire initiale et clauses de révocation (sécurisation de la sortie)**.
+Conformément à ta volonté de faciliter une séparation rapide en cas de sous-performance, le mandat social offre une grande liberté de rédaction. Trois options sont envisageables pour encadrer la sortie :
+
+- **Option A : Période probatoire de 3 mois (renouvelable 1 fois) + Révocation sans indemnité pour insuffisance d'objectifs**
+  - Durant les 3 premiers mois (renouvelables 3 mois si l'activité commerciale s'amorce) : fin du mandat avec un simple préavis de 15 jours, sans aucune indemnité de rupture.
+  - En phase de croisière : révocation immédiate et sans indemnité si les objectifs trimestriels minimaux (ex. 50 kWc signés par trimestre) ne sont pas atteints sur deux trimestres consécutifs.
+  - En cas de révocation discrétionnaire sans motif d'insuffisance : préavis de 1 mois et indemnité plafonnée à 1 mois de rémunération fixe.
+  - Avantage : flexibilité maximale pour l'associé unique, coût de sortie quasi nul en cas de contre-performance.
+- **Option B : Période probatoire de 6 mois ferme + Préavis de 2 mois et indemnité progressive**
+  - Période probatoire de 6 mois avec préavis de 15 jours.
+  - En régime établi : préavis de 2 mois, avec indemnité de départ égale à 1 mois de fixe par année de mandat (sauf faute lourde ou manquement grave).
+  - Avantage : plus rassurant pour un cadre en poste stable comme Mohamed Coulibaly, mais plus contraignant pour la trésorerie si la séparation intervient plus tard.
+- **Option C : Caducité automatique trimestrielle sur seuils stricts (« Pay for performance »)**
+  - Pas de période probatoire classique, mais des paliers trimestriels obligatoires gravés dans la convention :
+    - T1 : 2 premiers contrats B2B signés ;
+    - T2 et suivants : seuil minimum de 15 millions FCFA de marge brute encaissée par trimestre.
+    - Tout échec sur deux trimestres consécutifs entraîne la caducité automatique et de plein droit du mandat social, avec départ immédiat et sans indemnité.
+  - Avantage : mécanisme purement contractuel et arithmétique, éliminant toute contestation sur le motif de départ.
+
+Quelle option choisis-tu pour ce Point 3 ? (Dès ton arbitrage, nous terminerons par le Point 4 : clause de non-concurrence et protection du portefeuille clients). »
