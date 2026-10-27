@@ -1,8 +1,8 @@
-# Résumé d'état (généré le 27/10/2026 20:01 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 27/10/2026 20:14 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : lundi 22/07/2041 21:05 (luxembourg, UTC+2)
+## Horloge : lundi 22/07/2041 21:25 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 19:05 ; lisbonne 20:05 ; mindelo 18:05 ; casablanca 20:05 ; douala 20:05 ; addis 22:05 ; manille 03:05 ; paris 21:05 ; seoul 04:05 ; bresil 16:05
+- **Heure dans les autres lieux** : abidjan 19:25 ; lisbonne 20:25 ; mindelo 18:25 ; casablanca 20:25 ; douala 20:25 ; addis 22:25 ; manille 03:25 ; paris 21:25 ; seoul 04:25 ; bresil 16:25
 - **En attente de William** :
   - Choix pour la fin de soirée ou nuit jusqu'à mardi 08h00 (« Go ») ; prochain rapport demain à 20h00
 
@@ -38,9 +38,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-07-22.md, 6 dernières lignes)
-> - **20h35-20h45** (tour n° 40) : 20h35-20h45 (tour n° 40) : William valide le Point 2 (rémunération Formule 1 : fixe 2 M FCFA net/mois, variable 2,5 % CA encaissé, prime 5 M FCFA / 500 kWc) ; le DG virtuel pose le Point 3 sur la période probatoire et les clauses de révocation
-> - Tour en cours à 20h45, en attente de William : **Choix du Point 3 du contrat du DG (période probatoire et révocation) ; prochain rapport demain à 20h00**.
 > - **20h45-20h55** (tour n° 41) : 20h45-20h55 (tour n° 41) : William valide le Point 3 (caducité automatique sur seuils stricts, Option C) ; le DG virtuel pose le Point 4 sur la clause de non-concurrence et protection du portefeuille clients
 > - Tour en cours à 20h55, en attente de William : **Choix du Point 4 du contrat du DG (clause de non-concurrence) ; prochain rapport demain à 20h00**.
 > - **20h55-21h05** (tour n° 42) : 20h55-21h05 (tour n° 42) : William valide le Point 4 (protection clientèle et non-concurrence 12 mois sans indemnité + clause pénale, Option A) ; le DG virtuel synthétise l'architecture contractuelle complète pour Me Gnamien
 > - Tour en cours à 21h05, en attente de William : **Choix pour la fin de soirée ou nuit jusqu'à mardi 08h00 (« Go ») ; prochain rapport demain à 20h00**.
+> - **21h05-21h25** (tour n° 43) : 21h05-21h25 (tour n° 43) : William impose la preuve PDF obligatoire dans l'application Gestion et définit l'organisation pyramidale des 3 types de contrats ; transposition des 17 points de son contrat de référence ; maquette de convention de mandat social DG (19 articles) générée en PDF réel avec le rapport du jour
+> - Tour en cours à 21h25, en attente de William : **Choix pour la fin de soirée ou nuit jusqu'à mardi 08h00 (« Go ») ; prochain rapport demain à 20h00**.

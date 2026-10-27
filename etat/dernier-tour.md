@@ -1,42 +1,43 @@
 # Dernier tour montré au joueur
 
-> Tour n° 42 ; horloge 22/07/2041 20:55 -> 22/07/2041 21:05 ; enregistré le 27/10/2026 20:00 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 43 ; horloge 22/07/2041 21:05 -> 22/07/2041 21:25 ; enregistré le 27/10/2026 20:14 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> On part sur l'option A
+> Oui, et aussi à partir de maintenant, tout rapport, tout contrat signé doit être déposé sous format PDF. Je dois avoir le PDF quelque part, sur mon téléphone, dans l'application gestion...
 
 ## Texte envoyé au joueur
 
-**LUNDI 22 JUILLET 2041 — 21h05 — Audun-le-Tiche, chez toi**
+**LUNDI 22 JUILLET 2041 — 21h25 — Audun-le-Tiche, chez toi**
 
-Tu sélectionnes l'option A pour ce dernier point. Pas d'indemnité financière post-mandat à verser après un départ, une interdiction formelle d'exercer dans le solaire toiture sur le district d'Abidjan pendant un an, et une clause pénale dissuasive de douze mois de rémunération fixe pour bloquer toute tentation de détournement de clientèle.
+Tu poses tes règles avec netteté sur l'application : désormais, chaque livrable, rapport quotidien ou contrat formel doit systématiquement exister sous forme de véritable fichier PDF, accessible et vérifiable depuis ton téléphone dans l'application Gestion. Tu définis également la pyramide contractuelle de l'entreprise en trois niveaux : le contrat du Directeur Général que tu instaures toi-même en tant qu'associé unique (Niveau 1), les contrats des directeurs de pôle dont la maquette générale te sera présentée par le Directeur Général (Niveau 2), et enfin les contrats des techniciens et employés de terrain élaborés par chaque directeur de pôle respectif (Niveau 3). Tu lui transmets ensuite la structure en dix-sept points de ton contrat de référence pour t'assurer qu'aucun pan n'a été omis.
 
-Dans le silence de la cuisine où la chaleur du jour commence lentement à refluer et où le réfrigérateur se remet en route avec un claquement sec, l'application Gestion confirme la prise en compte de ton arbitrage. À 21h00, le directeur général virtuel valide l'ensemble de la grille contractuelle :
+Dans la maison d'Audun-le-Tiche, où la chaleur de la journée reste encore prise dans les murs de pierre de l'étage tandis que la pénombre s'installe dehors, le directeur général virtuel traite tes directives avec le pôle juridique. À 21h20, une notification signale le dépôt effectif des pièces :
 
-« C'est validé et consigné pour le **Point 4 : Protection du portefeuille clients, non-sollicitation et non-concurrence (Option A)**.
-La convention de mandat social intégrera une clause de non-concurrence stricte de 12 mois suivant la cessation des fonctions sur le district d'Abidjan pour le secteur solaire photovoltaïque B2B en toiture et l'efficacité énergétique, sans indemnité financière post-mandat (licite en droit OHADA pour un mandataire social pur), assortie d'une clause pénale fixant une indemnité forfaitaire immédiate de 12 mois de rémunération fixe en cas de violation, sans préjudice des dommages et intérêts.
+« C'est parfaitement clair et immédiatement acté sur les deux volets :
+
+1. **Règle absolue des livrables PDF** : À partir de ce soir, chaque rapport d'activité quotidien, chaque note officielle et chaque contrat ou maquette approuvée fait systématiquement l'objet d'un fichier PDF réel déposé dans `documents_william/` et consultable directement sur ton téléphone dans l'application Gestion (onglet Documents) et dans l'application Fichiers. Deux PDF officiels viennent d'être générés et versés à ton dossier :
+   - `2041-07-22_Rapport_quotidien_Directeur_General_virtuel.pdf` (rapport d'activité complet du 22 juillet) ;
+   - `2041-07-22_Maquette_Convention_Mandat_Social_Directeur_General.pdf` (la convention complète rédigée).
+
+2. **Organisation pyramidale des 3 types de contrats** :
+   - **Type 1 (Directeur Général)** : Mandat social pur de droit OHADA, rédigé et imposé par toi en qualité d'associé unique.
+   - **Type 2 (Directeurs de pôle — Technique, Commercial, Administratif & Financier)** : Contrats de travail de cadres dirigeants salariés (Code du travail ivoirien). Dès son entrée en fonction, le Directeur Général réel concevra la maquette générale et te la soumettra pour validation.
+   - **Type 3 (Salariés et techniciens sous les directeurs)** : Contrats de travail salariés adaptés à chaque métier (chantiers toiture, commerciaux terrain, etc.). Chaque directeur de pôle soumettra sa maquette sectorielle.
+
+3. **Transposition et blindage des 17 points de ton contrat de référence** :
+   Avec le pôle juridique virtuel, nous avons examiné les 17 clauses de ton contrat de référence pour aboutir à une convention de mandat social de 19 articles exhaustifs :
+   - *Transposition des clauses salariées incompatibles* : exclusion de la convention collective (Art. 4) et des 40h/semaine au profit d'une obligation d'exclusivité et de dévouement plein (Art. 6) ; le règlement intérieur est édicté par le DG sous ton contrôle (Art. 7) ; congés statutaires remplacés par 30 jours calendaires de repos rémunéré (Art. 8) ; médecine du travail remplacée par une couverture santé/prévoyance cadre haut de gamme (Art. 13) ; litiges attribués exclusivement au Tribunal de commerce d'Abidjan et non au Tribunal du travail (Art. 15).
+   - *Clauses d'autorité et de protection renforcées* : limitation stricte des pouvoirs du DG au-delà de 10 millions FCFA, baux et recrutements C-level requérant ton accord écrit préalable (Art. 1) ; mandat social pur sans lien de subordination et révocable ad nutum (Art. 2) ; rémunération Formule 1 (Art. 3) ; moyens de direction, véhicule et dotation chiffrée (Art. 9) ; cybersécurité et interdiction d'export des données (Art. 10) ; cession totale et exclusive des droits de propriété intellectuelle sur toutes les études et méthodes solaires (Art. 11) ; maintien des habilitations électriques (Art. 12) ; conformité loi données personnelles n° 2013-450 (Art. 16) ; devoir de loyauté renforcé, secret des affaires perpétuel et interdiction absolue de conflits d'intérêts (Art. 17).
+   - *Intégration de tes deux arbitrages fondamentaux* : Clause de caducité automatique sur seuils trimestriels stricts sans indemnité ni préavis (Art. 18) ; Clause de non-concurrence de 12 mois sur le Grand Abidjan sans contrepartie financière, assortie d'une clause pénale forfaitaire de 12 mois de rémunération fixe due immédiatement en cas de violation (Art. 19).
+
+La maquette est finalisée, gravée en PDF et prête pour transmission au cabinet de Me Gnamien. »
+
+En ouvrant l'application Gestion sur ton téléphone, l'onglet Documents affiche bien les deux pièces prêtes à être consultées ou téléchargées, confirmant le respect de ta nouvelle exigence de preuves documentaires.
 
 ---
 
-### Synthèse de l'architecture contractuelle du futur Directeur Général
-
-1. **Statut juridique (Point 1)** : Mandat social pur de Directeur Général de SAS (Option A). Aucun contrat de travail ni lien de subordination salarié. Révocation ad nutum par l'associé unique. Compétence juridictionnelle exclusive du Tribunal de commerce d'Abidjan.
-2. **Structure de rémunération (Point 2)** : Formule 1 incitative. Rémunération fixe mensuelle de 2 000 000 FCFA net (environ 3 050 €). Rémunération variable de 2,5 % du chiffre d'affaires HT effectivement encaissé sur les affaires raccordées. Prime annuelle de surperformance de 5 000 000 FCFA à l'atteinte du seuil de 500 kWc raccordés.
-3. **Cessation et rupture (Point 3)** : Caducité automatique sur seuils stricts (Option C). Réalisation obligatoire d'au moins 2 contrats B2B signés au premier trimestre, puis seuil minimal de 15 millions FCFA de marge brute encaissée par trimestre à compter du deuxième trimestre. Non-atteinte sur deux trimestres consécutifs entraînant la caducité automatique et de plein droit du mandat, sans préavis ni indemnité de départ.
-4. **Protection du portefeuille et concurrence (Point 4)** : Non-concurrence stricte de 12 mois sur le Grand Abidjan sans contrepartie financière + clause pénale forfaitaire de 12 mois de fixe (Option A).
-
-Le pôle juridique virtuel intègre l'ensemble de cette matrice dans les instructions destinées au cabinet de Me Gnamien pour la rédaction de la convention de mandat social, qui accompagnera les projets de statuts et le pacte d'associés.
-
-Côté candidats, le pôle RH poursuit le recueil des retours auprès des référents professionnels de Mohamed Coulibaly (91) et Mariam Brou (88). Dès réception des formulaires complétés, un dossier comparatif d'entretien te sera soumis.
-
-Prochain point de situation planifié à mon rapport quotidien de demain mardi 23 juillet à 20h00. »
-
-La feuille de route est désormais nette et calée. Tu as bouclé les quatre arbitrages structurants de la soirée, l'organisation virtuelle a toutes ses directives en main, et ton lundi s'achève.
-
----
-
-Il est 21h05.
+Il est 21h25.
 
 ---
 
