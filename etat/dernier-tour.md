@@ -1,47 +1,52 @@
 # Dernier tour montré au joueur
 
-> Tour n° 62 ; horloge 27/07/2041 08:45 -> 27/07/2041 20:00 ; enregistré le 28/10/2026 00:16 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 63 ; horloge 27/07/2041 20:00 -> 29/07/2041 09:00 ; enregistré le 28/10/2026 00:29 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Règlement effectif des billets Air France, e-visa SNEDAI géré immédiatement, notification à Mariam Brou avec maquette contrat Niveau 2, et avance rapide vers 20h00
+> Go pour lundi 9h
 
 ## Texte envoyé au joueur
 
-**SAMEDI 27 JUILLET 2041 — 20h00 — Audun-le-Tiche, chez toi**
+**LUNDI 29 JUILLET 2041 — 09h00 — Audun-le-Tiche, chez toi**
 
-Tu passes immédiatement à l'action pour verrouiller l'ensemble des dossiers en attente.
+Tu passes un week-end d'été calme, placé sous le signe du repos physique et de l'efficacité administrative.
 
-Depuis ton ordinateur, tu finalises en quelques clics la réservation de tes vols sur le portail Air France. Le paiement de 1 285,00 € est validé par ta carte Visa Premier (débit différé au 7 août, couvert par ton traitement luxembourgeois de fin juillet). Le reçu passager et le billet électronique officiel parviennent instantanément dans l'application Courriels de ton téléphone (`2041-07-27_Confirmation_billet_Air_France_Luxembourg_Abidjan.pdf`, consultable dans `courriels/`) : départ confirmé le lundi 12 août à 07h15 de Luxembourg-Findel via Paris-Charles-de-Gaulle pour une arrivée à Abidjan Port-Bouët à 15h40, et vol retour le dimanche 25 août à 22h30 avec atterrissage au Findel le lundi 26 août à 09h10. Tu bénéficies du tarif Economy Flex avec deux bagages en soute de 23 kg et des garanties d'assurance assistance-voyage de la carte Premier.
+Samedi soir, après avoir validé le paiement de tes billets Air France et le pré-enrôlement de ton e-visa biométrique, tu profites d'une soirée tranquille dans la maison en pierre. Tu te couches vers 23h30 pour une nuit profonde et ininterrompue de sept heures et demie.
 
-Dans la foulée, à 09h30, tu te connectes sur la plateforme officielle de la SNEDAI pour accomplir la formalité du e-visa biométrique d'entrée en Côte d'Ivoire. Tu renseignes tes coordonnées de passeport luxembourgeois, ton hébergement à Cocody Deux-Plateaux ainsi que les références de ta mission d'affaires. Tu règles les 73,00 € de frais consulaires avec ta Visa Premier. L'attestation officielle de pré-enrôlement biométrique est générée et déposée dans ton dossier (`2041-07-27_Confirmation_e-visa_SNEDAI_Cote_d_Ivoire.pdf`, pièce officielle classée dans `courriels/`, dossier n° CI-2041-88419B). Tout est prêt : à ton atterrissage à Abidjan, il te suffira de présenter ce document et ton carnet international de vaccination contre la fièvre jaune au guichet dédié pour la prise d'empreintes et l'apposition de la vignette visa.
+Le dimanche 28 juillet débute à 07h15 sous un soleil éclatant. L'air matinal est encore doux à 17 °C avant la forte chaleur annoncée à 31 °C pour l'après-midi. À 07h45, tu enfiles tes chaussures de running pour boucler ta course dominicale habituelle de 5 km (I1) sur les sentiers ombragés entre Audun-le-Tiche et la frontière luxembourgeoise. Le rythme est fluide, le cardio répond parfaitement et tes articulations récupèrent sans douleur des séances de combat de la semaine. De retour chez toi, tu prends une douche fraîche et un petit déjeuner consistant avant de t'accorder une après-midi de détente intégrale à l'abri de la chaleur extérieure. Tu passes quelques heures à lire et à te reposer en vue des sparrings de la semaine.
 
-À 09h45, ton équipe virtuelle exécute ta consigne managériale à l'attention de Mariam Brou. Une notification formelle et chaleureuse lui est adressée par courriel (`2041-07-27_Notification_selection_DAF_Mariam_Brou.pdf`, classée dans `documents_william/`, D025). Le message lui confirme que sa candidature a été formellement retenue comme premier choix pour la Direction Administrative et Financière, qu'elle fait désormais partie intégrante du projet, et que le Directeur Général prendra directement attache avec elle très prochainement en visioconférence pour conduire son entretien opérationnel d'intégration. En pièce jointe, l'équipe lui transmet la maquette contractuelle de Niveau 2 (contrat de travail Cadre dirigeant SYSCOHADA) afin qu'elle puisse étudier en toute sérénité le cadre d'exercice et préparer ses prétentions. À Abidjan, Mariam Brou prend acte de cette communication officielle : rassurée sur son positionnement et informée que le Directeur Général la contactera personnellement, elle garde le document pour l'analyser posément sans chercher à engager d'échange prématuré.
+À 20h00 précises, la notification du dimanche soir retentit : le **Rapport d'activité quotidien n° 9 du Directeur Général virtuel** est consultable dans ton application (`2041-07-28_Rapport_quotidien_Directeur_General_virtuel.pdf`, D027, classé dans `documents_william/`).
 
-La matinée s'achève dans un sentiment d'efficacité nette. Samedi étant ton jour de repos physique sans entraînement, tu prépares un déjeuner copieux avant de t'accorder une après-midi paisible. La chaleur monte doucement à travers la maison en pierre jusqu'à atteindre 30 °C à l'extérieur sous un ciel parfaitement bleu. Tu en profites pour lire, te détendre et laisser reposer tes articulations après les sparrings intensifs de la semaine.
+Le rapport dresse un état des lieux serein et parfaitement ordonné :
+1. **Gouvernance et Direction Générale** : l'accord formel avec Mohamed Coulibaly est totalement consolidé ; le futur dirigeant prépare activement ses pistes de sourcing pour les directions technique et commerciale en amont de son arrivée à Abidjan le 12 août.
+2. **Direction Administrative et Financière** : Mariam Brou a bien pris acte de la notification de sélection et de la maquette contractuelle Niveau 2 ; elle maintient une posture professionnelle d'attente disciplinée en vue de l'entretien opérationnel délégué à Mohamed.
+3. **Logistique mission Abidjan** : billets Air France confirmés (1 285 € sur Visa Premier), attestation e-visa SNEDAI archivée (73 €), option confirmée sur l'appartement F2 en résidence sécurisée à Cocody Deux-Plateaux (1 690 € pour 13 nuits).
+4. **Pôle Juridique virtuel** : veille active et préparation des grilles d'audit pour l'examen des projets d'actes constitutifs attendus du cabinet de Maître Ismaël Gnamien.
+5. **Budget informatique virtuel** : 0,80 € consommé pour la journée de dimanche (cumul mensuel : 44,86 € sur les 1 000,00 € de plafond alloué ; solde disponible : 955,14 €).
 
-À 20h00 précises, la notification rituelle retentit : le **Rapport d'activité quotidien n° 8 du Directeur Général virtuel** est déposé dans ton espace documentaire (`2041-07-27_Rapport_quotidien_Directeur_General_virtuel.pdf`, D026, classé dans `documents_william/`).
+La nuit de dimanche à lundi est tout aussi régulière : tu t'endors vers 23h30 pour te réveiller ce matin à 07h00, frais et reposé.
 
-Le rapport dresse un bilan impeccable de la journée :
-1. **Gouvernance et Direction Générale** : accord formel de Mohamed Coulibaly consolidé (D024) ; son arrivée à Abidjan est confirmée pour le lundi 12 août en fin d'après-midi, prêt pour les signatures notariées et visites terrain dès le mardi 13 août au matin.
-2. **Direction Administrative et Financière** : positionnement de Mariam Brou verrouillé (D025) ; maquette contractuelle transmise, dossier en attente de la prise de contact de Mohamed à Abidjan.
-3. **Logistique de mission Abidjan** : vols Air France confirmés (1 285 €), e-visa SNEDAI validé (73 €), option sur la résidence hôtelière sécurisée de Cocody Deux-Plateaux (1 690 € pour 13 nuits) active.
-4. **Affirmations vérifiées du Pôle Juridique** : conformité du contrat cadre Niveau 2 avec le droit social ivoirien, validité du pré-enrôlement e-visa pour l'embarquement, et activation des assurances voyage de la Visa Premier.
-5. **Budget informatique virtuel** : 0,80 € consommé ce jour (cumul mensuel : 44,06 € sur les 1 000,00 € alloués ; solde disponible : 955,94 €).
-6. **Prochaine échéance majeure** : lundi 29 juillet au matin pour la réception des projets de statuts et de mandat DG rédigés par le cabinet de Maître Ismaël Gnamien.
+Ce lundi 29 juillet s'ouvre sous un ciel bleu limpide. Le thermomètre affiche 16 °C dans l'air matinal et montera jusqu'à 29 °C dans l'après-midi. Dans la cuisine, en prenant ton café, tu découvres sur ton téléphone la **Revue du lundi n° 2** dressant la synthèse de la semaine W30 écoulée (accord DG conclu, DAF positionnée, mission d'Abidjan bouclée) et traçant la feuille de route de la semaine W31 (`memoire/revue-lundi-2041-07-29.md`).
+
+À 09h00 précises, la situation se présente de manière parfaitement alignée :
+- **Entraînement au Minett Combat Club** : la première séance de MMA et grappling de la semaine est programmée cet après-midi à 16h00 avec Thiago Alves et Arthur Kieffer (I1).
+- **Cabinet Me Ismaël Gnamien** : à Abidjan, les bureaux du Plateau ouvrent leurs portes à 08h00 GMT (10h00 heure de Luxembourg). Le pôle juridique virtuel est préconfiguré pour réceptionner et auditer dans la matinée les projets de statuts de la SASU Projet Solaire B2B Abidjan ainsi que la convention de mandat social du Directeur Général.
+- **Finances personnelles** : le traitement mensuel net d'enseignant de l'État luxembourgeois (+9 320,00 €) est prévu mercredi 31 juillet au soir, devançant les prélèvements et virements d'épargne du début de mois.
 
 ***
 
 **Réponses attendues :**
-- Aucune réponse en suspens ce soir. Tous les interlocuteurs sont synchronisés et informés.
+- Aucune réponse urgente en suspens ce matin. Tous les dossiers sont synchronisés.
 
 **À faire / à fournir avant le tour suivant :**
-- Rien d'urgent ce week-end. Les dossiers juridiques constitutifs de la SAS sont en cours de rédaction au cabinet de Maître Gnamien à Abidjan.
+- Réception et examen des projets de statuts constitutifs de la SAS et de la convention de mandat social rédigés par le cabinet de Maître Ismaël Gnamien (attendus dans la matinée).
 
 **Quêtes secondaires :**
-- **Minett Combat Club** : reprise de l'activité sportive demain matin, dimanche 28 juillet, avec ton footing habituel de 5 km (I1).
-- **Cabinet Me Ismaël Gnamien** : livraison des projets complets de statuts constitutifs et de convention de mandat social attendue lundi 29 juillet au matin.
-- **MENJE (Luxembourg)** : demande d'autorisation pour activité accessoire (article 14) transmise le 16/07 ; réponse de l'administration attendue fin juillet.
+- **Minett Combat Club** : reprise de l'entraînement de combat cet après-midi à 16h00 au club (MMA et travail contre cage, I1).
+- **Cabinet Me Ismaël Gnamien** : audit comparatif des clauses statutaires et du mandat DG dès transmission par le cabinet d'Abidjan.
+- **MENJE (Luxembourg)** : demande d'autorisation pour activité accessoire (article 14) en cours d'instruction administrative.
+- **Spuerkeess** : versement de fin de mois du traitement luxembourgeois programmé pour mercredi 31 juillet soir (+9 320,00 €).
 
 Que veux-tu faire ?
-*(Avance rapide possible vers demain matin dimanche 28 juillet pour le réveil et le footing de 5 km, ou directement vers lundi matin 29 juillet à 09h00 pour la livraison des statuts par Maître Gnamien).*
+*(Avance rapide possible vers la fin de matinée pour la réception des projets de statuts de Maître Gnamien, ou vers 16h00 pour la séance de combat au Minett Combat Club).*

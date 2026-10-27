@@ -4141,3 +4141,13 @@ Effets à jouer : A23 (lundi 22/07 (soir)) : Très courant ; William voit le mes
 - Tirage [T10] « Délai de réponse de Mohamed Coulibaly au protocole de communication et à l'organigramme » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  79.2 → **le_soir_ou_lendemain** (enregistré le 27/10/2026 23:45 heure machine)
 
 - Tirage [T17] « Reaction de Mariam Brou a la notification de pre-selection DAF et a la maquette de contrat » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  58.1 → **ignore** (enregistré le 28/10/2026 00:11 heure machine)
+
+- Tirage [T4] « affaire_projet_ci_annonce : escalade externe, semaine du 28/07 » : aucune 99.7 / frontal_escalade 0.3 ; modificateurs : aucun ; jet  52.7 → **aucune** (enregistré le 28/10/2026 00:23 heure machine)
+
+- Tirage [T5] « affaire_projet_ci_annonce : fuite, semaine du 28/07 » : fuite_externe 13 / fuite_interne 39 / aucune 48 ; modificateurs : aucun ; jet  28.1 → **fuite_interne** (enregistré le 28/10/2026 00:23 heure machine)
+
+- Tirage [T4] « affaire_projet_ci_art14 : escalade externe, semaine du 28/07 » : aucune 99.7 / frontal_escalade 0.3 ; modificateurs : aucun ; jet  11.4 → **aucune** (enregistré le 28/10/2026 00:23 heure machine)
+
+- Tirage [T5] « affaire_projet_ci_art14 : fuite, semaine du 28/07 » : fuite_externe 1 / fuite_interne 3 / aucune 96 ; modificateurs : aucun ; jet  52.1 → **aucune** (enregistré le 28/10/2026 00:23 heure machine)
+
+- Actualités de la semaine du 29/07/2041 : modèles LU01, LU03, FR02 [PROCÉDURE : outils/actualites.py] (enregistré le 28/10/2026 00:29 heure machine)
