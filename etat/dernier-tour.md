@@ -30,8 +30,8 @@ Conformément à ta volonté de faciliter une séparation rapide en cas de sous-
   - *Avantage* : plus rassurant pour un cadre en poste stable comme Mohamed Coulibaly, mais plus contraignant pour la trésorerie si la séparation intervient plus tard.
 - **Option C : Caducité automatique trimestrielle sur seuils stricts (« Pay for performance »)**
   - Pas de période probatoire classique, mais des paliers trimestriels obligatoires gravés dans la convention :
-    - T1 : 2 premiers contrats B2B signés ;
-    - T2 et suivants : seuil minimum de 15 millions FCFA de marge brute encaissée par trimestre.
+    - Trimestre 1 : 2 premiers contrats B2B signés ;
+    - Trimestre 2 et suivants : seuil minimum de 15 millions FCFA de marge brute encaissée par trimestre.
     - Tout échec sur deux trimestres consécutifs entraîne la caducité automatique et de plein droit du mandat social, avec départ immédiat et sans indemnité.
   - *Avantage* : mécanisme purement contractuel et arithmétique, éliminant toute contestation sur le motif de départ.
 
