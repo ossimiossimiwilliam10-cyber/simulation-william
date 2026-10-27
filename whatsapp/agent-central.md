@@ -43,3 +43,21 @@ Registre mis à jour : « Règles du segment virtuel, version 6 », dans tes doc
 3. Messages à des personnes réelles. Style retenu : phrases courtes et variées, ton du pays du destinataire, aucune liste à puces ni formule d'assistant, aucun envoi entre 23h et 7h chez le destinataire, aucune réponse instantanée à toute heure, aucun texte repris d'un candidat à l'autre. Je relis chaque message sur ce critère avant l'envoi. Question fermée : les messages sont-ils signés d'un prénom d'assistant de projet, ou de « l'équipe du projet » ?
 
 Tu traites toi-même le cas de Jean-Baptiste Tuo : ma question de 18h55 est caduque. Plus aucun numéro privé ensuite. Registre mis à jour : « Règles du segment virtuel, version 7 », dans tes documents. Rapport final à 20h00.
+**[19/07/2041 - 19:58 (Luxembourg)] William :** Signature : « l'équipe du projet ». On n'invente pas de noms : si cela se découvrait un jour, on serait encore plus en difficulté avec des choses potentiellement illégales. Pour les rapports, je ne veux pas un rapport mensuel mais un rapport hebdomadaire, voire deux par semaine selon le jour et l'importance, pour suivre l'entreprise au jour le jour. L'équipe réelle devra elle aussi me fournir deux rapports hebdomadaires.
+**[19/07/2041 - 19:59 (Luxembourg)] Agent central :** Reçu à 19h58. Signature : « L'équipe du projet », enregistrée ; aucun prénom inventé. Fréquence : deux rapports hebdomadaires de chaque responsable réel, à la place du mensuel, en plus du rapport final quotidien de 20h00 que tu continues de recevoir. Pour qu'ils soient exploitables le jour même, je propose le mardi à 17h00 (point d'étape, court) et le vendredi à 12h00 (rapport complet, avec les chiffres) ; un jour plus important en ajoute un. Question fermée dans le rapport. Registre mis à jour : version 8.
+**[19/07/2041 - 20:00 (Luxembourg)] Agent central :** Rapport final du vendredi 19 juillet, 20h00. Relu par le pôle RH virtuel avant l'envoi : une réserve, sur les références de Kader Assi (point 1).
+
+DÉCISIONS
+1. Kader Assi (ingénieur en énergie, Marseille, 44 ans, 17 ans de métier ; note de réseau 84/100 : 50 propriétaires ou entreprises, 84 % joints jusqu'au décideur, 3 introductions déjà faites). C'est le meilleur réseau à ce jour, mais ses références ne sont pas joignables et il ne donne pas les contacts de ses clients. Mon analyse : le vérifier avant de t'engager. Le courriel professionnel lui a été fourni à 19h25. Je poursuis par courriel jusqu'à la vérification de deux références, avant tout échange avec toi : oui ou non ?
+2. Rapports réels : deux par semaine, le mardi à 17h00 (point d'étape) et le vendredi à 12h00 (complet), un de plus les jours importants : oui ou non ?
+
+ÉTAT DES PÔLES
+- Pôle RH virtuel (poste vacant : il décide) : 17 réponses depuis la publication, dont 3 depuis 18h00, toutes de niveau B : Cédric Soro (banque, 41 ans), Landry Aka (commercial, 44 ans), Fabrice Koffi (ingénieur, 34 ans, six ans de métier) ; premiers messages ce soir, relus avant l'envoi.
+- Niveau A : Maïmouna Koné et Brice Tapé, en attente de leur réponse. Niveau B : Mohamed Coulibaly, en attente ; Jonathan Ouattara, sans réponse ; Hervé Touré, sans réponse ; Jean-Baptiste Tuo, traité par toi. Niveau C : deux écartés, dont une demande de 300 € de frais.
+- En ligne : LinkedIn (deux versions), Educarriere.ci, NovoJob, CoinAfrique, Kosafi, Facebook (Abidjan et diaspora). Instagram en vérification ; Reddit, Indeed et réseaux d'anciens en attente.
+- Pôle juridique : liste restreinte de trois cabinets d'avocats d'Abidjan demain à 12h00 ; aucun cabinet contacté.
+- Finance, technique, commercial : fermés jusqu'à la signature du directeur général.
+- Surveillance : quatre messages sortants relus depuis 18h25, tous conformes. Courriel professionnel : aucun message reçu.
+- Budget d'API : 16,25 € sur 1 000 € ce mois-ci.
+
+Prochain rapport : demain à 20h00.

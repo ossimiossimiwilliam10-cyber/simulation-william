@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-07-19 19:57
+horloge: 2041-07-19 20:00
 fuseau: luxembourg
 lieu: Audun-le-Tiche (Moselle), chez William
-tour: 26
-attente: Rapport final du directeur général virtuel ce soir à 20h00 ; ta réponse à la question de signature des messages (prénom d'assistant de projet ou l'équipe du projet) ; liste restreinte d'avocats d'Abidjan demain 12h00 ; vérification Instagram sous 24 h
+tour: 27
+attente: Tes deux réponses au rapport de 20h00 (Kader Assi ; jours des rapports réels) ; liste restreinte d'avocats d'Abidjan demain 12h00 ; prochain rapport final demain 20h00 ; vérification Instagram sous 24 h

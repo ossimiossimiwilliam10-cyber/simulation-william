@@ -366,6 +366,61 @@ def regles_v7():
     pdf.sauver(chemin("documents_william", "2041-07-19_Règles_du_segment_virtuel_version_7.pdf"))
 
 
+def regles_v8():
+    """Registre des règles du segment virtuel, version du 19/07/2041 (19h59) : signature « L'équipe du projet » et deux rapports hebdomadaires de chaque responsable réel."""
+    pdf = DocPDF("Règles du segment virtuel : version du 19 juillet 2041 (19h59)", "Directeur général virtuel · remplace la version 7 de 19h56", auteur="Claude (directeur général virtuel)",
+                 pied="Règles du segment virtuel — version 8")
+    pdf.titre1("1. Rôles")
+    pdf.puces([
+        "Le directeur général virtuel gère TOUS les pôles (RH, juridique, finance, technique, commercial) au fur et à mesure de leur ouverture ; William se tourne vers lui avant toute décision, et la décision reste celle de William.",
+        "Le pôle RH virtuel recrute : annonces, tri A, B, C, entretiens, notes sur 100. Les autres pôles s'ouvrent après la signature du directeur général réel.",
+        "Le segment virtuel apporte l'analyse, les chiffres et la vérification contre les textes ; le terrain, l'aspect humain et l'autorité sur des salariés appartiennent à l'équipe réelle.",
+    ], taille=9.5)
+    pdf.titre1("2. Rapport à William")
+    pdf.puces([
+        "William ne reçoit qu'UN rapport final par jour, à 20h00 (le premier : le 19/07/2041). Il remplace le rapport de 18h00 du pôle RH et les alertes immédiates de niveau A.",
+        "Contenu : les décisions que William seul peut prendre, chacune ramenée à une question fermée avec l'analyse en deux lignes ; puis l'état des pôles en dix lignes au plus. Sans décision à prendre, le rapport le dit.",
+        "Exceptions à l'attente de 20h00 : un candidat qui fixe un délai de réponse court, un document à signer, un paiement demandé.",
+        "Circuit : chaque agent adresse son rapport au directeur général virtuel ; les agents actifs relisent le rapport final avant l'envoi et leurs réserves sont jointes. Même circuit pour l'équipe réelle : ses rapports passent par le directeur général virtuel.",
+        "Le numéro de téléphone de William n'est plus fourni à personne (décision du 19/07/2041, 18h50). Le seul canal est le courriel professionnel du projet, connecté au directeur général virtuel, qui converse avec les candidats par ce courriel, analyse et prépare la décision que William prend (elle arrive dans le rapport de 20h00).",
+    ], taille=9.5)
+    pdf.titre1("3. Confidentialité (consigne de William, 19/07/2041, 18h12)")
+    pdf.puces([
+        "Aucune personne réelle n'est informée du système d'IA de William. Aucun élément de sa vie privée n'est mis en avant, jamais.",
+        "Si une personne s'étonne de son niveau d'expertise : « un homme cultivé qui prend son projet au sérieux » ; rien de plus.",
+        "Le nom de William n'est communiqué qu'avec sa décision.",
+    ], taille=9.5)
+    pdf.titre1("4. Contact avec les candidats et surveillance")
+    pdf.puces([
+        "Seuil de contact : 70 sur 100. Au-dessus du seuil : seul le courriel professionnel du projet est fourni au candidat ; le numéro de téléphone de William n'est jamais fourni. Un numéro déjà transmis (Jean-Baptiste Tuo, 19/07/2041, 11h53) ne se reprend pas.",
+        "Chaque message sortant d'un agent vers une personne réelle est relu par le directeur général virtuel avant l'envoi ; un écart est bloqué et signalé dans le rapport.",
+        "Contrôle : pas de nom de William, pas de mention d'un système d'IA, pas de vie privée, pas de promesse, pas de chiffre hors annonce, pas de somme demandée.",
+    ], taille=9.5)
+    pdf.titre1("5. Limites")
+    pdf.puces([
+        "Aucun agent ne signe, ne paie, ne promet ; jamais de frais d'avance demandés à un candidat.",
+        "Budget d'API de l'application Gestion : 1 000 € par mois au plus.",
+        "Aucun contact avec un avocat, un comptable ou une administration sans l'accord de William (des honoraires peuvent en découler).",
+    ], taille=9.5)
+    pdf.titre1("6. Doubles virtuels et pouvoirs (règle de William, 19/07/2041, 19h47)")
+    pdf.puces([
+        "Chaque pôle virtuel est le double du directeur du même pôle dans la vraie vie ; le directeur général virtuel est le double du directeur général réel.",
+        "Tant que le poste réel est vacant, le pôle virtuel DÉCIDE dans son périmètre (exemple : le pôle RH virtuel crée les offres d'emploi et les gère).",
+        "Dès qu'un responsable réel occupe le poste, le pôle virtuel ne décide plus : il ÉVALUE et CONTRE-EXPERTISE.",
+        "Les rapports des responsables réels atterrissent dans le pôle virtuel correspondant, qui les évalue ; le directeur général virtuel consolide dans le rapport final de 20h00.",
+        "Rapport du directeur général réel (proposition) : résultats contre jalons, trésorerie et engagements, risques et décisions demandées, appréciation courte de chaque membre de l'équipe, recoupée par le pôle RH virtuel. Il arrive en parallèle des rapports des pôles, pas à travers eux.",
+        "Fréquence (décision de William, 19/07/2041, 19h58) : DEUX rapports hebdomadaires de chaque responsable réel, à la place d'un rapport mensuel, en plus du rapport final quotidien de 20h00. Jours proposés par le directeur général virtuel : mardi 17h00 (point d'étape) et vendredi 12h00 (rapport complet) ; un rapport de plus les jours importants.",
+    ], taille=9.5)
+    pdf.titre1("7. Messages aux personnes réelles (règle de William, 19/07/2041, 19h47)")
+    pdf.puces([
+        "Aucune personne ne doit soupçonner qu'elle parle à une IA : messages humains, phrases courtes et variées, ton du pays du destinataire, ni liste à puces ni formule d'assistant.",
+        "Aucun envoi la nuit chez le destinataire (entre 23h et 7h), pas de réponse instantanée à toute heure, pas de texte répété d'un candidat à l'autre.",
+        "Le directeur général virtuel relit chaque message sur ce critère avant l'envoi. Signature : « L'équipe du projet » (décision de William, 19/07/2041, 19h58) ; aucun prénom ni nom inventé, car se faire passer pour une personne qui n'existe pas exposerait le projet à un risque juridique en cas de découverte.",
+        "Le numéro de téléphone privé de William n'est plus jamais fourni ; Jean-Baptiste Tuo est un cas exceptionnel que William traite lui-même.",
+    ], taille=9.5)
+    pdf.sauver(chemin("documents_william", "2041-07-19_Règles_du_segment_virtuel_version_8.pdf"))
+
+
 def note_titre():
     """Note de William sur le titre du dirigeant (SARL : gérant, SAS : directeur général), rédigée avec un autre agent IA ; remise à Claude le 18/07/2041 au soir."""
     pdf = DocPDF("Note : titre du dirigeant local (SARL ou SAS)", "Rapport de William Ossimi, établi avec un agent IA · jeudi 18 juillet 2041", auteur="William Ossimi",
@@ -500,10 +555,12 @@ if __name__ == "__main__":
         regles_v6()
     if cmd == "regles-v7":
         regles_v7()
+    if cmd == "regles-v8":
+        regles_v8()
     if cmd == "annonce-v3":
         annonce_v3()
     if cmd == "poste":
         note_titre()
         fiche_poste()
-    if cmd not in ("courriel-ministere", "abonnement", "annonce", "regles-v2", "regles-v3", "regles-v4", "regles-v5", "regles-v6", "regles-v7", "annonce-v3", "poste", "tout"):
+    if cmd not in ("courriel-ministere", "abonnement", "annonce", "regles-v2", "regles-v3", "regles-v4", "regles-v5", "regles-v6", "regles-v7", "regles-v8", "annonce-v3", "poste", "tout"):
         sys.exit(__doc__)

@@ -1,45 +1,52 @@
 # Dernier tour montré au joueur
 
-> Tour n° 26 ; horloge 19/07/2041 19:36 -> 19/07/2041 19:57 ; enregistré le 27/10/2026 17:02 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 27 ; horloge 19/07/2041 19:57 -> 19/07/2041 20:00 ; enregistré le 27/10/2026 17:10 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Ah oui, et voici une nouvelle règle. Lorsqu'en fait, dans la vraie vie, comment dire? Alors, actuellement, il faut s'imaginer en fait que chaque pôle virtuel est en fait le double du directeur dans la vraie vie. OK? Et que donc, le directeur général virtuel est donc le double du directeur général dans la vraie vie. Mais tant qu'il n'est pas encore présent dans l'entreprise, tant que le poste n'est pas encore occupé dans la vraie vie, il a un pouvoir décisionnel. C'est dans le sens, par exemple, que par exemple, le pôle RH virtuel pouvait créer des offres d'emploi, gérer tout ça, tu vois un peu. Mais une fois qu'on aura, par exemple, un vrai service RH, alors là, on passe d'un rôle décisionnel à uniquement un rôle d'évaluation et de contre-expertise, tu vois un peu. Et c'est justement pour cela que le rapport, et en fait je réfléchis même à demander à chaque pôle de me fournir un rapport, dans la vraie vie, hein, un rapport qui va atterrir dans les pôles virtuels respectifs pour évaluation et contre-expertise. Et ensuite, du coup, il y a le directeur général virtuel qui lui me fait donc le rapport final. Mais du coup, je ne sais pas qu'est-ce qu'on pourrait demander au directeur général dans la vraie vie. Est-ce qu'on lui demande aussi un rapport ou est-ce que ce serait superflu? Ou alors on lui demande plutôt un rapport d'évaluation des différents membres. Je réponds à Jean-Baptiste Thuot, en fait, en lui expliquant que on pourrait éventuellement passer un appel la semaine prochaine, vendredi. En lui disant que actuellement je suis assez occupé. Mais que voilà, que sa candidature était pertinente. Et également un message pour le pôle virtuel. Il faut que les messages, lorsqu'on communique avec des humains, soient les plus humains que possible. Il ne faut absolument pas que quelqu'un trame que c'est une IA avec laquelle il parle. Bon, et vu que Jean-Baptiste m'a déjà écrit sur WhatsApp, lui c'est un cas exceptionnel, je vais régler son cas. Mais pour le reste, plus jamais de numéro de téléphone privé.
+> Ouais, je pense que question de signature, ah, c'est mieux de mettre l'équipe du projet, hein, c'est mieux. On va pas inventer maintenant des noms, sinon là on va tomber dans des trucs potentiellement un peu illégaux. Si ça se découvre un jour, ça risque de nous mettre encore plus dans la merde. On va plutôt garder l'équipe du projet tout simplement. Et aussi, il y a un point qui m'a intéressé, c'est, attends, il y a juste un point, parce que je suis d'accord avec ce que mon directeur général virtuel m'a dit, mais c'est sur la fréquence des rapports où j'ai un doute. Attends un peu, j'essaie de retrouver la phrase. Alors, il me propose un seul rapport mensuel au début en quatre parties. Non, en fait, moi, je voudrais un rapport pas mensuel, mais hebdomadaire, pour vraiment plus avoir le contrôle sur ce qui se passe si jamais il se voilà quoi, pour voir comment l'entreprise évolue au jour le jour, voire même deux rapports hebdomadaires dépendamment du jour et de l'importance. Et donc, du coup, l'équipe réelle aussi devra me fournir deux rapports hebdomadaires. Donc, ces deux rapports hebdomadaires pour... Bref, voilà quoi.
 
 ## Texte envoyé au joueur
 
-📌 **Vraie vie** : « Jean-Baptiste Thuot » compris comme Jean-Baptiste Tuo.
+**VENDREDI 19 JUILLET 2041 — 20h00 — Audun-le-Tiche, chez William**
 
-**VENDREDI 19 JUILLET 2041 — 19h57 — Audun-le-Tiche, chez William**
+À 19h58, un doigt sur le bord de l'assiette vide, tu réponds à la question de signature : « l'équipe du projet ». Pas de noms inventés : si ça se découvrait un jour, on se mettrait encore plus dans la difficulté avec des choses potentiellement illégales. Sur la fréquence des rapports, tu es d'accord avec tout le reste, mais pas avec le mensuel : tu veux un rapport hebdomadaire, voire deux par semaine selon le jour et l'importance, pour suivre l'évolution de l'entreprise au jour le jour. L'équipe réelle devra elle aussi te fournir deux rapports hebdomadaires.
 
-Tu relis le message de Jean-Baptiste Tuo en finissant ton riz, la fourchette en l'air. À 19h44 tu lui réponds toi-même : « Bonsoir Monsieur Tuo, merci pour votre message. Je suis actuellement très occupé, mais votre candidature est pertinente. On pourrait éventuellement passer un appel la semaine prochaine, vendredi. Cordialement. » Pas de réponse pour l'instant.
+À 19h59, sa réponse :
 
-À 19h47, l'assiette repoussée, tu écris à ton directeur général virtuel. Une nouvelle règle : chaque pôle virtuel est le double du directeur du même pôle dans la vraie vie, et lui, le double du directeur général réel. Tant que le poste n'est pas occupé dans la vraie vie, le double a un pouvoir de décision, comme le pôle RH virtuel avec les offres d'emploi. Une fois le vrai service en place, il passe de la décision à l'évaluation et à la contre-expertise. Tu penses demander à chaque pôle réel un rapport qui atterrira dans le pôle virtuel correspondant, puis lui te fera le rapport final. Mais que demander au directeur général réel : un rapport aussi, ou serait-ce superflu ? Ou plutôt une évaluation des différents membres ? Et une consigne pour le segment virtuel : les messages aux humains doivent être aussi humains que possible, personne ne doit soupçonner qu'il parle à une IA. Quant au numéro de téléphone privé, plus jamais, Jean-Baptiste Tuo étant le seul cas exceptionnel, que tu règles toi-même.
+« Reçu à 19h58. Signature : « L'équipe du projet », enregistrée ; aucun prénom inventé. Fréquence : deux rapports hebdomadaires de chaque responsable réel, à la place du mensuel, en plus du rapport final quotidien de 20h00 que tu continues de recevoir. Pour qu'ils soient exploitables le jour même, je propose le mardi à 17h00 (point d'étape, court) et le vendredi à 12h00 (rapport complet, avec les chiffres) ; un jour plus important en ajoute un. Question fermée dans le rapport. Registre mis à jour : version 8. »
 
-À 19h56, sa réponse :
+À 20h00 pile, le premier rapport final :
 
-« Reçu à 19h47. Trois points.
+« Rapport final du vendredi 19 juillet, 20h00. Relu par le pôle RH virtuel avant l'envoi : une réserve, sur les références de Kader Assi (point 1).
 
-1. Doubles et pouvoirs. Règle enregistrée : chaque pôle virtuel est le double du directeur du même pôle dans la vraie vie, et moi celui du directeur général. Tant que le poste réel est vacant, le pôle virtuel décide dans son périmètre. Dès qu'un responsable réel l'occupe, le pôle virtuel passe à l'évaluation et à la contre-expertise : il ne décide plus.
+DÉCISIONS
+1. Kader Assi (ingénieur en énergie, Marseille, 44 ans, 17 ans de métier ; note de réseau 84/100 : 50 propriétaires ou entreprises, 84 % joints jusqu'au décideur, 3 introductions déjà faites). C'est le meilleur réseau à ce jour, mais ses références ne sont pas joignables et il ne donne pas les contacts de ses clients. Mon analyse : le vérifier avant de t'engager. Le courriel professionnel lui a été fourni à 19h25. Je poursuis par courriel jusqu'à la vérification de deux références, avant tout échange avec toi : oui ou non ?
+2. Rapports réels : deux par semaine, le mardi à 17h00 (point d'étape) et le vendredi à 12h00 (complet), un de plus les jours importants : oui ou non ?
 
-2. Tes rapports réels. Chaque responsable réel te remet son rapport ; il atterrit dans le pôle virtuel correspondant, qui l'évalue et le contre-expertise ; je consolide dans le rapport final de 20h00. Pour le directeur général réel, un rapport n'est pas superflu : c'est lui qui fonde le déblocage des tranches (résultats vérifiés, comptes audités). Je te propose un seul rapport, mensuel au début, en quatre parties : résultats contre jalons ; trésorerie et engagements ; risques et décisions demandées ; appréciation courte de chaque membre de l'équipe. Pour cette dernière partie, un seul avis ne suffit pas : un directeur évalue son équipe avec ses propres intérêts, donc le pôle RH virtuel la recoupe. Son rapport arrive en parallèle de ceux des pôles, pas à travers eux.
+ÉTAT DES PÔLES
+- Pôle RH virtuel (poste vacant : il décide) : 17 réponses depuis la publication, dont 3 depuis 18h00, toutes de niveau B : Cédric Soro (banque, 41 ans), Landry Aka (commercial, 44 ans), Fabrice Koffi (ingénieur, 34 ans, six ans de métier) ; premiers messages ce soir, relus avant l'envoi.
+- Niveau A : Maïmouna Koné et Brice Tapé, en attente de leur réponse. Niveau B : Mohamed Coulibaly, en attente ; Jonathan Ouattara, sans réponse ; Hervé Touré, sans réponse ; Jean-Baptiste Tuo, traité par toi. Niveau C : deux écartés, dont une demande de 300 € de frais.
+- En ligne : LinkedIn (deux versions), Educarriere.ci, NovoJob, CoinAfrique, Kosafi, Facebook (Abidjan et diaspora). Instagram en vérification ; Reddit, Indeed et réseaux d'anciens en attente.
+- Pôle juridique : liste restreinte de trois cabinets d'avocats d'Abidjan demain à 12h00 ; aucun cabinet contacté.
+- Finance, technique, commercial : fermés jusqu'à la signature du directeur général.
+- Surveillance : quatre messages sortants relus depuis 18h25, tous conformes. Courriel professionnel : aucun message reçu.
+- Budget d'API : 16,25 € sur 1 000 € ce mois-ci.
 
-3. Messages à des personnes réelles. Style retenu : phrases courtes et variées, ton du pays du destinataire, aucune liste à puces ni formule d'assistant, aucun envoi entre 23h et 7h chez le destinataire, aucune réponse instantanée à toute heure, aucun texte repris d'un candidat à l'autre. Je relis chaque message sur ce critère avant l'envoi. Question fermée : les messages sont-ils signés d'un prénom d'assistant de projet, ou de « l'équipe du projet » ?
+Prochain rapport : demain à 20h00. »
 
-Tu traites toi-même le cas de Jean-Baptiste Tuo : ma question de 18h55 est caduque. Plus aucun numéro privé ensuite. Registre mis à jour : « Règles du segment virtuel, version 7 », dans tes documents. Rapport final à 20h00. »
-
-Il est 19h57.
+Il est 20h00.
 
 ---
 
 **Réponses attendues**
-- **Directeur général virtuel** : le rapport final, ce soir à 20h00 ; ta réponse à sa question de signature (prénom d'assistant de projet ou « l'équipe du projet ») ; la liste restreinte d'avocats d'Abidjan, demain à 12h00.
+- **Directeur général virtuel** : tes deux réponses à son rapport (Kader Assi ; jours des rapports réels) ; la liste restreinte d'avocats d'Abidjan, demain à 12h00 ; le prochain rapport final, demain à 20h00.
 - **Jean-Baptiste Tuo** : pas de réponse à ton message de 19h44.
 - **Instagram** : la vérification de ton identité, sous 24 heures (envoyée à 00h40).
 - **Ministère de l'Éducation** (info@men.lu) : ton courriel de mardi à 12h14 n'a pas de réponse.
 
 **À faire / à fournir avant le tour suivant**
-- Ta réponse à la question de signature.
+- Tes deux réponses au rapport de 20h00.
 
 **Quêtes secondaires**
 - Rien en suspens en dehors de ce que tu as déjà noté.
