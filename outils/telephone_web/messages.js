@@ -12,7 +12,8 @@ appli({
       D.conversations.forEach((c, i) => {
         const dernier = c.messages[c.messages.length - 1];
         const b = el("button"); b.type = "button"; const g = el("div", "ligne");
-        g.append(el("span", "titre", c.nom), el("span", "quand", dateFr(dernier.date) + " " + dernier.heure),
+        const titre = el("span", "titre", c.nom); if (c.epingle) titre.append(" ", el("span", "puce", "Épinglée"));
+        g.append(titre, el("span", "quand", dateFr(dernier.date) + " " + dernier.heure),
           el("span", "sous", (dernier.moi ? "Vous : " : "") + dernier.texte.slice(0, 90)));
         b.append(g); b.addEventListener("click", () => fil(i)); l.append(b);
       });

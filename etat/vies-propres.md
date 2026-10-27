@@ -29,3 +29,10 @@
 - **Secret (moteur seulement)** : se renseigne pour partir s'installer ailleurs (gravité 1)
 - **Horaires** : règle « etudiant », fuseau luxembourg, décalage +25 min ; travail 09:25-17:25 (lun, mar, mer, jeu, ven), trajet 30 min ; sommeil 00:55-08:55
 - **Derniers événements** : 20/06 sans_histoire; 26/06 tournant (naissance, mariage, décès ou retour d'un proche); 01/07 petit_evenement (dépense imprévue (cotisation imprévue)); 09/07 sans_histoire; 21/07 sans_histoire
+
+### Claude Majerus (voisin mitoyen (côté droit))
+- **Lien avec William** : contact_recent (whatsapp)
+- **Objectif** : obtenir une promotion ou un poste plus stable ; **souci** : procédure de divorce ; **foyer** : vit seul(e)
+- **Secret (moteur seulement)** : a une condamnation ancienne (conduite en état d'ivresse) (gravité 2)
+- **Horaires** : règle « bureau », fuseau luxembourg, décalage -29 min ; travail 08:31-17:01 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:01-06:31
+- **Derniers événements** : 20/06 petit_evenement (achat (petit électroménager)); 24/06 coup_dur (dispute sérieuse ou mauvaise nouvelle dans la famille); 02/07 sans_histoire; 11/07 sans_histoire; 19/07 avancee_objectif (démarche pour son objectif : obtenir une promotion ou un poste plus stable)

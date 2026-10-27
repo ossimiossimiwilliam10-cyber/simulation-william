@@ -2080,3 +2080,23 @@ Toute réaction d'un personnage à un acte de William se tire avec `python outil
 | A36 | Malentendu de langue (adresse mal comprise, commande erronée, document en coréen) | 10 % |  36.2 | non |
 
 Effets à jouer : A23 (dimanche 21/07 (matin)) : Très courant ; William voit le message et décide ; A31 (samedi 20/07 (soir)) : Seulement les jours à l'étranger ; 14 % la première semaine, 10 % ensuite (cohorte de voyageurs en Thaïlande : 14 % à 7 jours, 23,5 % à 14 jours, 33 % à 28 jours) ; 1 à 3 jours diminué
+
+- Jet « William a déjà un profil LinkedIn à son nom, ouvert depuis des années (l agent peut s y connecter) » : probabilité 80 %, jet  78.6 → **OUI** (enregistré le 27/10/2026 13:44 heure machine)
+
+- Jet « Indeed : le compte recruteur de William est créé et validé sans pièce justificative d entreprise » : probabilité 70 %, jet  75.3 → **NON** (enregistré le 27/10/2026 13:44 heure machine)
+
+- Jet « Emploi.ci : le compte recruteur de William est accepté sans immatriculation d entreprise ivoirienne » : probabilité 40 %, jet  48.9 → **NON** (enregistré le 27/10/2026 13:44 heure machine)
+
+- Jet « Educarriere.ci : le compte recruteur de William est accepté sans justificatif d entreprise » : probabilité 50 %, jet  30.6 → **OUI** (enregistré le 27/10/2026 13:44 heure machine)
+
+- Jet « NovoJob : le compte recruteur de William est accepté sans justificatif d entreprise » : probabilité 55 %, jet   2.8 → **OUI** (enregistré le 27/10/2026 13:44 heure machine)
+
+- Jet « Ministère (courriel général info@men.lu) : réponse à la demande de William dans les 5 jours ouvrables » : probabilité 55 %, jet  58.4 → **NON** (enregistré le 27/10/2026 13:44 heure machine)
+
+- Jet « Friction administrative (economie.md, 30 %) : le ministère demande un complément ou un deuxième passage (voie hiérarchique, précisions sur l activité) » : probabilité 30 %, jet  26.9 → **OUI** (enregistré le 27/10/2026 13:44 heure machine)
+
+- Jet « Ministère (info@men.lu) : réponse à la demande de William entre le 6e et le 15e jour ouvrable (sinon pas avant la rentrée) » : probabilité 70 %, jet  41.7 → **OUI** (enregistré le 27/10/2026 13:44 heure machine)
+
+- Jet « Ministère : jour ouvrable de la réponse entre le 6e et le 15e (jour = 6 + jet/10, arrondi bas) » : probabilité 50 %, jet  32.8 → **OUI** (enregistré le 27/10/2026 13:44 heure machine)
+
+- Jet « Ministère : heure de la réponse dans la journée (heure = 9 + jet/12, arrondi bas) » : probabilité 50 %, jet  19.0 → **OUI** (enregistré le 27/10/2026 13:44 heure machine)

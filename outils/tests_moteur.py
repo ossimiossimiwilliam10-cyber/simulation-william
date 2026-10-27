@@ -196,6 +196,7 @@ def main():
              nom="téléphone : écran d'accueil et douze applications (Fichiers : 27/10/2026)")
     e.lancer(o + "telephone.py", "--json", contient='"lien": "file:///',
              nom="téléphone : application Fichiers, adresse directe du fichier du PC (mode direct)")
+    e.lancer(o + "telephone.py", "--json", contient='"epingle"', nom="téléphone : conversations épinglées (etat/epingles.csv)")
     e.lancer(o + "telephone.py", "--fichiers", contient="[]",
              nom="téléphone : en mode direct, aucun PDF n'est publié avec la page")
 

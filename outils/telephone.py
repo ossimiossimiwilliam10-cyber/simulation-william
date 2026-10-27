@@ -119,8 +119,10 @@ def donnees():
         autres = {m["auteur"] for m in messages if not m["moi"]}
         return autres.pop() if len(autres) == 1 else cle.replace("_", " ").replace("-", " ").title()
 
-    conversations = sorted(({"nom": nom_conversation(k, v), "messages": v} for k, v in convs.items()),
-                           key=lambda c: c["messages"][-1]["date"] + c["messages"][-1]["heure"], reverse=True)
+    # conversations épinglées par William (etat/epingles.csv, application « messages », élément = nom du fichier de whatsapp/ sans « .md »)
+    epingles = {l["element"] for l in lire_csv(ETAT / "epingles.csv") if l["application"] == "messages" and l["depuis"] <= f"{naif:%Y-%m-%d %H:%M}"}
+    conversations = sorted(({"nom": nom_conversation(k, v), "cle": k, "epingle": k in epingles, "messages": v} for k, v in convs.items()),
+                           key=lambda c: (c["epingle"], c["messages"][-1]["date"] + c["messages"][-1]["heure"]), reverse=True)
     # courriels
     fichiers = fichiers_visibles(jour)
     liens = {f["source"]: f for f in fichiers}

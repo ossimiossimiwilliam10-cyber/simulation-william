@@ -33,3 +33,58 @@ date;heure;compte;montant;type;libelle;reference
 2041-09-02;08:00;etf;5755.00;prevu;Virement permanent vers le compte-titres ETF (solde net après vacances et sécurité) (compte crédité);E014-20410902-C
 2041-08-01;06:00;courant;-12.83;prevu;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20410801
 2041-09-02;06:00;courant;-12.83;prevu;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20410902
+2041-07-16;12:33;courant;-24.30;mouvement;Visa Debit : Abonnement agent IA (formule Pro, engagement 12 mois);K001
+2041-09-30;20:00;courant;9320.00;prevu;Traitement mensuel de William (net, État luxembourgeois);E001-20410930
+2041-10-31;20:00;courant;9320.00;prevu;Traitement mensuel de William (net, État luxembourgeois);E001-20411031
+2041-11-29;20:00;courant;9320.00;prevu;Traitement mensuel de William (net, État luxembourgeois);E001-20411129
+2041-12-31;20:00;courant;9320.00;prevu;Traitement mensuel de William (net, État luxembourgeois);E001-20411231
+2041-10-07;06:00;courant;-949.28;prevu;Mensualité du prêt immobilier et assurance emprunteur (maison d'Audun-le-Tiche) (échéance n° 86 : capital 630.50 €, intérêts 295.65 €, assurance 23.13 €);E002-20411007
+2041-10-07;06:00;pret;-630.50;prevu;Prêt immobilier de la maison d'Audun-le-Tiche (taux fixe, amortissable) : capital remboursé (échéance n° 86);E002-20411007-K
+2041-10-07;06:00;maison_part;630.50;prevu;Part nette du bien financé : + capital remboursé (échéance n° 86 du prêt PR1);E002-20411007-M
+2041-11-05;06:00;courant;-949.28;prevu;Mensualité du prêt immobilier et assurance emprunteur (maison d'Audun-le-Tiche) (échéance n° 87 : capital 632.34 €, intérêts 293.81 €, assurance 23.13 €);E002-20411105
+2041-11-05;06:00;pret;-632.34;prevu;Prêt immobilier de la maison d'Audun-le-Tiche (taux fixe, amortissable) : capital remboursé (échéance n° 87);E002-20411105-K
+2041-11-05;06:00;maison_part;632.34;prevu;Part nette du bien financé : + capital remboursé (échéance n° 87 du prêt PR1);E002-20411105-M
+2041-12-05;06:00;courant;-949.28;prevu;Mensualité du prêt immobilier et assurance emprunteur (maison d'Audun-le-Tiche) (échéance n° 88 : capital 634.18 €, intérêts 291.97 €, assurance 23.13 €);E002-20411205
+2041-12-05;06:00;pret;-634.18;prevu;Prêt immobilier de la maison d'Audun-le-Tiche (taux fixe, amortissable) : capital remboursé (échéance n° 88);E002-20411205-K
+2041-12-05;06:00;maison_part;634.18;prevu;Part nette du bien financé : + capital remboursé (échéance n° 88 du prêt PR1);E002-20411205-M
+2041-10-10;06:00;courant;-132.00;prevu;Électricité (mensualisation · option heures creuses, 9 kVA · recharge de la voiture la nuit);E003-20411010
+2041-11-11;06:00;courant;-132.00;prevu;Électricité (mensualisation · option heures creuses, 9 kVA · recharge de la voiture la nuit);E003-20411111
+2041-12-10;06:00;courant;-132.00;prevu;Électricité (mensualisation · option heures creuses, 9 kVA · recharge de la voiture la nuit);E003-20411210
+2041-10-10;06:00;courant;-253.00;prevu;Gaz naturel (chauffage, eau chaude, cuisson) : mensualisation;E004-20411010
+2041-11-11;06:00;courant;-253.00;prevu;Gaz naturel (chauffage, eau chaude, cuisson) : mensualisation;E004-20411111
+2041-12-10;06:00;courant;-253.00;prevu;Gaz naturel (chauffage, eau chaude, cuisson) : mensualisation;E004-20411210
+2041-09-16;06:00;courant;-63.00;prevu;Box internet fibre et forfait mobile;E005-20410916
+2041-10-15;06:00;courant;-63.00;prevu;Box internet fibre et forfait mobile;E005-20411015
+2041-11-15;06:00;courant;-63.00;prevu;Box internet fibre et forfait mobile;E005-20411115
+2041-12-16;06:00;courant;-63.00;prevu;Box internet fibre et forfait mobile;E005-20411216
+2041-09-20;06:00;courant;-187.50;prevu;Eau et assainissement (Audun-le-Tiche);E006-20410920
+2041-10-07;06:00;courant;-45.00;prevu;Assurance habitation (maison, propriétaire occupant) : mensualisée;E007-20411007
+2041-11-05;06:00;courant;-45.00;prevu;Assurance habitation (maison, propriétaire occupant) : mensualisée;E007-20411105
+2041-12-05;06:00;courant;-45.00;prevu;Assurance habitation (maison, propriétaire occupant) : mensualisée;E007-20411205
+2041-10-01;06:00;courant;-85.00;prevu;Minett Combat Club (Esch-sur-Alzette) : accès complet;E008-20411001
+2041-11-04;06:00;courant;-85.00;prevu;Minett Combat Club (Esch-sur-Alzette) : accès complet;E008-20411104
+2041-12-02;06:00;courant;-85.00;prevu;Minett Combat Club (Esch-sur-Alzette) : accès complet;E008-20411202
+2041-10-15;06:00;courant;-1190.00;prevu;Taxe foncière (Audun-le-Tiche);E009-20411015
+2041-10-07;06:00;courant;-107.00;prevu;Voiture électrique : assurance tous risques (mensualisée);E010-20411007
+2041-11-05;06:00;courant;-107.00;prevu;Voiture électrique : assurance tous risques (mensualisée);E010-20411105
+2041-12-05;06:00;courant;-107.00;prevu;Voiture électrique : assurance tous risques (mensualisée);E010-20411205
+2041-10-02;08:00;courant;-732.00;prevu;Virement permanent vers le compte épargne (10 % de l'excédent net);E012-20411002
+2041-10-02;08:00;projet;732.00;prevu;Virement permanent vers le compte épargne (10 % de l'excédent net) (compte crédité);E012-20411002-C
+2041-11-04;08:00;courant;-732.00;prevu;Virement permanent vers le compte épargne (10 % de l'excédent net);E012-20411104
+2041-11-04;08:00;projet;732.00;prevu;Virement permanent vers le compte épargne (10 % de l'excédent net) (compte crédité);E012-20411104-C
+2041-12-02;08:00;courant;-732.00;prevu;Virement permanent vers le compte épargne (10 % de l'excédent net);E012-20411202
+2041-12-02;08:00;projet;732.00;prevu;Virement permanent vers le compte épargne (10 % de l'excédent net) (compte crédité);E012-20411202-C
+2041-10-02;08:00;courant;-5755.00;prevu;Virement permanent vers le compte-titres ETF (solde net après vacances et sécurité);E014-20411002
+2041-10-02;08:00;etf;5755.00;prevu;Virement permanent vers le compte-titres ETF (solde net après vacances et sécurité) (compte crédité);E014-20411002-C
+2041-11-04;08:00;courant;-5755.00;prevu;Virement permanent vers le compte-titres ETF (solde net après vacances et sécurité);E014-20411104
+2041-11-04;08:00;etf;5755.00;prevu;Virement permanent vers le compte-titres ETF (solde net après vacances et sécurité) (compte crédité);E014-20411104-C
+2041-12-02;08:00;courant;-5755.00;prevu;Virement permanent vers le compte-titres ETF (solde net après vacances et sécurité);E014-20411202
+2041-12-02;08:00;etf;5755.00;prevu;Virement permanent vers le compte-titres ETF (solde net après vacances et sécurité) (compte crédité);E014-20411202-C
+2041-10-01;06:00;courant;-12.83;prevu;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20411001
+2041-11-04;06:00;courant;-12.83;prevu;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20411104
+2041-12-02;06:00;courant;-12.83;prevu;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20411202
+2041-08-16;12:33;courant;-24.30;prevu;Abonnement à l'agent IA de William (formule Pro, engagement de 12 mois);E016-20410816
+2041-09-16;12:33;courant;-24.30;prevu;Abonnement à l'agent IA de William (formule Pro, engagement de 12 mois);E016-20410916
+2041-10-16;12:33;courant;-24.30;prevu;Abonnement à l'agent IA de William (formule Pro, engagement de 12 mois);E016-20411016
+2041-11-18;12:33;courant;-24.30;prevu;Abonnement à l'agent IA de William (formule Pro, engagement de 12 mois);E016-20411118
+2041-12-16;12:33;courant;-24.30;prevu;Abonnement à l'agent IA de William (formule Pro, engagement de 12 mois);E016-20411216

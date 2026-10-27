@@ -1,18 +1,18 @@
-# Résumé d'état (généré le 27/10/2026 13:36 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 27/10/2026 13:48 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mardi 16/07/2041 11:55 (luxembourg, UTC+2)
+## Horloge : mardi 16/07/2041 13:06 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 09:55 ; lisbonne 10:55 ; mindelo 08:55 ; casablanca 10:55 ; douala 10:55 ; addis 12:55 ; manille 17:55 ; paris 11:55 ; seoul 18:55 ; bresil 06:55
+- **Heure dans les autres lieux** : abidjan 11:06 ; lisbonne 12:06 ; mindelo 10:06 ; casablanca 12:06 ; douala 12:06 ; addis 14:06 ; manille 19:06 ; paris 13:06 ; seoul 20:06 ; bresil 08:06
 - **En attente de William** :
-  - Suite à donner à la réponse de l'agent IA (Côte d'Ivoire, SAS OHADA, solaire B2B) ; journée libre (pas d'entraînement le mardi)
+  - Feu vert de William pour publier l'annonce (annonce, règles de tri, réponse automatique, rapport de 18h00) ; réponse du ministère attendue ; journée libre (pas d'entraînement le mardi)
 
 ## Argent (grand livre, calculé)
-- Compte courant (Spuerkeess) : **10 000,00 €**
+- Compte courant (Spuerkeess) : **9 975,70 €**
 - Compte épargne (Spuerkeess) : **75 250,00 €**
 - ETF (valeur de marché : calages seulement) : **670 380,00 €**
 - Prêt logement : solde restant dû (passif, déjà déduit de la part de maison) : **102 621,78 €**
 - Part nette de la maison d'Audun-le-Tiche : **97 378,22 €**
-- Patrimoine net de William : **853 008,22 €**
+- Patrimoine net de William : **852 983,92 €**
 
 ## Agenda : dans les 24 heures (0)
 - rien
@@ -23,6 +23,7 @@
 (Les lignes « NON CONNU DE WILLIAM » servent au moteur : ne jamais les montrer au joueur avant le jour dit.)
 
 ## Affaires ouvertes (T4/T5 chaque dimanche soir)
+- affaire_projet_ci_art14 : 1 informé(s) hors William ; fuite interne 3 %, externe 1 %
 
 ## Fêtes et fériés dans les 30 jours
 - jeu 15/08/2041 FR Assomption
@@ -35,9 +36,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-07-16.md, 6 dernières lignes)
-> - Tour en cours à 08h37, en attente de William : **Premier jour des vacances d'été à 36 ans**.
-> - **08h37-10h46** (tour n° 2) : Lever à 08h50 ; rythme de l'été fixé (club lundi, mercredi, vendredi après-midi, course de 5 km le dimanche matin, pas de sparring le samedi) ; trois rappels enregistrés sur le téléphone (fermeture du club 12-25/08, rentrée du 16/09, prêt du 5 août et virements du 2 août) ; Claude désigné agent IA officiel, recherches lancées à 09h02 (Brésil, puis Côte d'Ivoire) ; r
-> - Aléas de la semaine du 15/07/2041 tirés (tirage réel, 27/10/2026) : A23 (arnaque par SMS) dimanche 21/07 au matin, agenda A004 ; A31 (santé en voyage) samedi 20/07 au soir, agenda A005, sans objet si William est en France ; non connus
-> - Tour en cours à 10h46, en attente de William : **Suite à donner aux deux rapports de l'agent IA (Brésil, Côte d'Ivoire) ; journée libre (pas d'entraînement le mardi)**.
-> - **10h46-11h55** (tour n° 3) : Une heure de travail avec un autre agent IA sur les deux rapports : budget arrêté de 300 000 € sur 2 à 3 ans (tranches 20 / 45 / 35 %, coussin de 25 250 €) ; à 11h52, analyse collée à Claude et question finale (une seule réponse) ; réponse : Côte d'Ivoire, SAS OHADA, William associé non-gérant, premier dossier solaire B2B sur toitures à Abidjan, avec une correction 
 > - Tour en cours à 11h55, en attente de William : **Suite à donner à la réponse de l'agent IA (Côte d'Ivoire, SAS OHADA, solaire B2B) ; journée libre (pas d'entraînement le mardi)**.
+> - **11h55-13h06** (tour n° 4) : Courriel à info@men.lu (ministère de l'Éducation) à 12h14 : demande d'avis et d'autorisation (article 14) pour une participation non exécutive en Côte d'Ivoire, avec ses questions (démarche, limites, faisabilité) et sa situation d'enseignant ; copie dans documents_william/ ; réponse du ministère tirée pour le 29/07/2041 à 10h22 (9e jour ouvrable, avec complément dem
+> - 12h16 : décision notée « c'est parti pour la Côte d'Ivoire » ; 12h20 : conversation avec Claude épinglée (etat/epingles.csv, whatsapp/claude-agent-ia.md) ; 12h33 : abonnement à l'agent IA, formule Pro avec engagement de 12 mois, 24,30 € par mois, Visa Debit (K001, échéancier E016, PX063), confirmation en PDF dans courriels/
+> - 12h41-13h04 : agent IA connecté à LinkedIn (profil trouvé, tirage), Educarriere.ci et NovoJob (comptes ouverts) ; Indeed : justificatif d'entreprise demandé ; Emploi.ci : refusé (société ivoirienne exigée) ; annonce, règles de tri, réponse automatique et rapport quotidien de 18h00 prêts dans documents_william/ ; rien n'est publié, feu vert de William attendu
+> - Tirages du tour : jet « William a déjà un profil LinkedIn à son nom, ouvert depuis d » → OUI (78,58) ; jet « Indeed : le compte recruteur de William est créé et validé s » → NON (75,31) ; jet « Emploi.ci : le compte recruteur de William est accepté sans  » → NON (48,92) ; jet « Educarriere.ci : le compte recruteur de William est accepté  » → OUI (30,59) ; jet « NovoJob : le compte recruteur de W
+> - Tour en cours à 13h06, en attente de William : **Feu vert de William pour publier l'annonce (annonce, règles de tri, réponse automatique, rapport de 18h00) ; réponse du ministère attendue ; journée libre (pas d'entraînement le mardi)**.

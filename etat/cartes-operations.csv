@@ -1,1 +1,2 @@
 id;date;heure;carte;montant;marchand;statut;periode;debit;reference;note
+K001;2041-07-16;12:33;visa_debit;24.30;Abonnement agent IA (formule Pro, engagement 12 mois);autorise;2041-07-01→2041-07-31;;AIA-001;
