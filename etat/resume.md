@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 27/10/2026 20:14 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 27/10/2026 20:22 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : lundi 22/07/2041 21:25 (luxembourg, UTC+2)
+## Horloge : mardi 23/07/2041 08:00 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 19:25 ; lisbonne 20:25 ; mindelo 18:25 ; casablanca 20:25 ; douala 20:25 ; addis 22:25 ; manille 03:25 ; paris 21:25 ; seoul 04:25 ; bresil 16:25
+- **Heure dans les autres lieux** : abidjan 06:00 ; lisbonne 07:00 ; mindelo 05:00 ; casablanca 07:00 ; douala 07:00 ; addis 09:00 ; manille 14:00 ; paris 08:00 ; seoul 15:00 ; bresil 03:00
 - **En attente de William** :
-  - Choix pour la fin de soirée ou nuit jusqu'à mardi 08h00 (« Go ») ; prochain rapport demain à 20h00
+  - Programme de la matinée (dossiers, démarches, sport ou détente) ou avance rapide ; prochain rapport ce soir à 20h00
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **9 975,70 €**
@@ -31,16 +31,12 @@
 - jeu 15/08/2041 LU Assomption
 
 ## Routine du tour
-- AUJOURD'HUI lundi : revue du lundi (audit_jets.py, tirage_aleas.py, vie hors de la scène principale, monde, idées)
 - Session : `python outils/relais.py entree --agent "<nom>"` au début ; `python outils/relais.py sortie --note … --commit … --fusionner` à la fin.
 - Début de tour : `python outils/tour.py debut` (résumé, échéances, météo, soleil, argent, corps, lieu, rituels), lecture des fichiers d'état concernés.
 - Pendant : réactions et négociations par `jet.py --table Tn` (T1 à T14 ; `--pour` pour un personnage) ; personnages nouveaux par `personnage.py nouveau` ; faits et prix par `faits.py` et `prix.py` ; lieux par `lieux.py voir` ; révélations dans `savoir.py ajouter` ; argent dans `grand_livre.py ajouter`.
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
-## Fin du dernier journal (2041-07-22.md, 6 dernières lignes)
-> - **20h45-20h55** (tour n° 41) : 20h45-20h55 (tour n° 41) : William valide le Point 3 (caducité automatique sur seuils stricts, Option C) ; le DG virtuel pose le Point 4 sur la clause de non-concurrence et protection du portefeuille clients
-> - Tour en cours à 20h55, en attente de William : **Choix du Point 4 du contrat du DG (clause de non-concurrence) ; prochain rapport demain à 20h00**.
-> - **20h55-21h05** (tour n° 42) : 20h55-21h05 (tour n° 42) : William valide le Point 4 (protection clientèle et non-concurrence 12 mois sans indemnité + clause pénale, Option A) ; le DG virtuel synthétise l'architecture contractuelle complète pour Me Gnamien
-> - Tour en cours à 21h05, en attente de William : **Choix pour la fin de soirée ou nuit jusqu'à mardi 08h00 (« Go ») ; prochain rapport demain à 20h00**.
-> - **21h05-21h25** (tour n° 43) : 21h05-21h25 (tour n° 43) : William impose la preuve PDF obligatoire dans l'application Gestion et définit l'organisation pyramidale des 3 types de contrats ; transposition des 17 points de son contrat de référence ; maquette de convention de mandat social DG (19 articles) générée en PDF réel avec le rapport du jour
-> - Tour en cours à 21h25, en attente de William : **Choix pour la fin de soirée ou nuit jusqu'à mardi 08h00 (« Go ») ; prochain rapport demain à 20h00**.
+## Fin du dernier journal (2041-07-23.md, 6 dernières lignes)
+> # Mardi 23 juillet 2041 — univers 3, huitième jour
+> - **00h00-08h00** (tour n° 44) : 00h00-08h00 (tour n° 44) : réveil à 07h15 après une nuit de 7,5 h ; grand soleil (13 °C le matin, 24 °C l'après-midi) ; les deux PDF d'hier archivés sur le téléphone ; en attente du dossier de Me Gnamien et des retours de références du pôle RH
+> - Tour en cours à 08h00, en attente de William : **Programme de la matinée (dossiers, démarches, sport ou détente) ou avance rapide ; prochain rapport ce soir à 20h00**.

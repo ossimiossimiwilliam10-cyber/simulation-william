@@ -284,3 +284,4 @@ if __name__ == "__main__":
     f1 = generer_rapport_quotidien()
     f2 = generer_maquette_mandat_dg()
     print("Génération terminée avec succès.")
+
