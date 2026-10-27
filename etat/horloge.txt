@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-07-22 09:40
-fuseau: seoul
-lieu: Aéroport international d'Incheon, terminal 2, hall des arrivées
-tour: 13
-attente: Choix de William : téléphone (forfait local, pass d'itinérance ou Wi-Fi seulement), argent (Global ATM), trajet jusqu'à l'officetel de Yeonnam-dong (accès dès 11h00)
+horloge: 2041-07-16 08:37
+fuseau: luxembourg
+lieu: Audun-le-Tiche (Moselle), chez William
+tour: 1
+attente: Premier jour des vacances d'été à 36 ans

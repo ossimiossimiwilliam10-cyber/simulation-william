@@ -33,12 +33,3 @@ date;heure;compte;montant;type;libelle;reference
 2041-09-02;08:00;etf;5755.00;prevu;Virement permanent vers le compte-titres ETF (solde net après vacances et sécurité) (compte crédité);E014-20410902-C
 2041-08-01;06:00;courant;-12.83;prevu;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20410801
 2041-09-02;06:00;courant;-12.83;prevu;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20410902
-2041-09-16;06:00;courant;-63.00;prevu;Box internet fibre et forfait mobile;E005-20410916
-2041-07-19;18:30;courant;-1680.00;retire;Billet d'avion A/R Paris CDG - Séoul Incheon (Korean Air, vol KE902 direct en Premium Economy, départ 21/07);VOL-ICN-204107
-2041-07-20;14:30;courant;-145.00;retire;Belval Plaza : achats de voyage (adaptateurs C/F, kit pharmacie/solaire, t-shirts);
-2041-07-20;18:30;courant;-2450.00;retire;Logement Séoul : Officetel meublé Mapo-gu Yeonnam-dong (6 sem., 22/07 au 02/09);
-2041-08-07;06:00;courant;-4130.00;prevu;Visa Premier : relevé clos le 30/07/2041, débit du solde (4 130,00 €);C-visa_premier-20410730
-2041-07-20;14:30;courant;-145.00;mouvement;Visa Debit : Belval Plaza (achats de voyage);K002
-2041-07-19;19:00;courant;-74.00;mouvement;Visa Debit : SNCF Connect (TGV INOUI Lorraine TGV - CDG, dimanche 21/07 à 09h15);K004
-2041-09-02;22:15;courant;-534.60;prevu;Parking de la gare Lorraine TGV : 44 jours de longue durée, à régler à la sortie (12,15 € par jour, PX057);P001
-2041-09-20;06:00;courant;-187.50;prevu;Eau et assainissement (Audun-le-Tiche);E006-20410920

@@ -1,0 +1,725 @@
+date;personnage;cadence;t11;categorie;detail;initiative;agenda;note
+2040-07-20;Julia Dimaculangan;jour;coup_dur;T13a:logement_transport;panne, coupure ou souci de logement;aucune;;T11 jet 94.2 · T13a jet 88.4
+2040-07-20;Kiara Reyes;jour;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;information à 16/07 19:35;A004;T11 jet 58.2 · T13c jet 74.4
+2040-07-21;Julia Dimaculangan;jour;sans_histoire;;;plainte_ou_tension (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 46.0
+2040-07-21;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 16:09;A005;T11 jet 7.4
+2040-07-22;Julia Dimaculangan;jour;tournant;T13b:offre_travail;proposition d'emploi ou de collaboration ailleurs;aucune;;T11 jet 99.6 · T13b jet 7.0
+2040-07-22;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 16:02;A006;T11 jet 3.2
+2040-07-23;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 48.5
+2040-07-23;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 33.8
+2040-07-24;Julia Dimaculangan;jour;avancee_objectif;T13d:demarche;démarche pour son objectif : acheter un logement (ou un plus grand);aucune;;T11 jet 84.0 · T13d jet 6.2
+2040-07-24;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 16:06;A007;T11 jet 27.4
+2040-07-25;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 43.6
+2040-07-25;Kiara Reyes;jour;sans_histoire;;;information à 16/07 16:03;A008;T11 jet 18.8
+2040-07-26;Julia Dimaculangan;jour;sans_histoire;;;information à 16/07 15:42;A009;T11 jet 1.0
+2040-07-26;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 24.9
+2040-07-27;Julia Dimaculangan;jour;coup_dur;T13a:sante_proche;maladie ou accident de sa mère;partage_personnel à 16/07 15:42;A010;T11 jet 93.8 · T13a jet 29.2
+2040-07-27;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 16:06;A011;T11 jet 19.9
+2040-07-28;Julia Dimaculangan;jour;petit_evenement;T13c:depense;dépense imprévue (facture d'électricité plus lourde);aucune;;T11 jet 67.9 · T13c jet 3.6
+2040-07-28;Kiara Reyes;jour;sans_histoire;;;message_routine à 16/07 16:12;A012;T11 jet 26.0
+2040-07-29;Julia Dimaculangan;jour;petit_evenement;T13c:service_rendu;service rendu ou reçu;aucune;;T11 jet 69.6 · T13c jet 51.0
+2040-07-29;Kiara Reyes;jour;petit_evenement;T13c:dispute_breve;querelle courte;aucune;;T11 jet 70.2 · T13c jet 57.2
+2040-07-30;Julia Dimaculangan;jour;sans_histoire;;;plainte_ou_tension à 16/07 16:22;A013;T11 jet 22.2
+2040-07-30;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 18.0
+2040-07-31;Julia Dimaculangan;jour;petit_evenement;T13c:service_rendu;service rendu ou reçu;aucune;;T11 jet 69.1 · T13c jet 41.8
+2040-07-31;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 35.2
+2040-08-01;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 28.4
+2040-08-01;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 15:59;A014;T11 jet 43.3
+2040-08-02;Julia Dimaculangan;jour;coup_dur;T13a:sante_proche;maladie ou accident de sa mère;aucune;;T11 jet 91.2 · T13a jet 41.4
+2040-08-02;Kiara Reyes;jour;avancee_objectif;T13d:decision;décision prise pour son objectif : décrocher un poste stable dans un centre d'appels;message_routine à 17/07 16:09;A015;T11 jet 75.5 · T13d jet 79.4
+2040-08-03;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 35.1
+2040-08-03;Kiara Reyes;jour;petit_evenement;T13c:service_rendu;service rendu ou reçu;partage_personnel à 16/07 15:59;A016;T11 jet 56.0 · T13c jet 43.5
+2040-08-04;Julia Dimaculangan;jour;coup_dur;T13a:argent;prêt à un proche jamais rendu;aucune;;T11 jet 94.9 · T13a jet 52.6
+2040-08-04;Kiara Reyes;jour;sans_histoire;;;message_routine à 16/07 15:59;A017;T11 jet 44.6
+2040-08-05;Julia Dimaculangan;jour;petit_evenement;T13c:rumeur;rumeur entendue ou colportée;aucune;;T11 jet 58.5 · T13c jet 99.2
+2040-08-05;Kiara Reyes;jour;coup_dur;T13a:sante_proche;maladie ou accident de son enfant;message_routine à 16/07 16:04;A018;T11 jet 93.4 · T13a jet 21.7
+2040-08-06;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 0.1
+2040-08-06;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 5.1
+2040-08-07;Julia Dimaculangan;jour;sans_histoire;;;information à 16/07 15:28;A019;T11 jet 20.9
+2040-08-07;Kiara Reyes;jour;tournant;T13b:famille;naissance, mariage, décès ou retour d'un proche;message_routine à 16/07 16:06;A020;T11 jet 96.8 · T13b jet 29.5
+2040-08-08;Julia Dimaculangan;jour;sans_histoire;;;information à 16/07 15:34;A021;T11 jet 20.1
+2040-08-08;Kiara Reyes;jour;petit_evenement;T13c:transport_meteo;rue inondée après l'averse;aucune;;T11 jet 56.3 · T13c jet 90.5
+2040-08-09;Julia Dimaculangan;jour;petit_evenement;T13c:service_rendu;service rendu ou reçu;aucune;;T11 jet 55.1 · T13c jet 37.5
+2040-08-09;Kiara Reyes;jour;petit_evenement;T13c:dispute_breve;querelle courte;aucune;;T11 jet 71.5 · T13c jet 60.0
+2040-08-10;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 36.3
+2040-08-10;Kiara Reyes;jour;sans_histoire;;;information à 16/07 20:04;A022;T11 jet 37.8
+2040-08-11;Julia Dimaculangan;jour;petit_evenement;T13c:depense;dépense imprévue (facture d'électricité plus lourde);aucune;;T11 jet 73.0 · T13c jet 8.5
+2040-08-11;Kiara Reyes;jour;petit_evenement;T13c:service_rendu;service rendu ou reçu;aucune;;T11 jet 73.5 · T13c jet 48.3
+2040-08-12;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 28.4
+2040-08-12;Kiara Reyes;jour;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;message_routine (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 71.6 · T13c jet 28.3
+2040-08-13;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 35.3
+2040-08-13;Kiara Reyes;jour;sans_histoire;;;message_routine (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 45.3
+2040-08-14;Julia Dimaculangan;jour;tournant;T13b:argent;rentrée ou perte d'argent importante;aucune;;T11 jet 98.1 · T13b jet 85.7
+2040-08-14;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 26.7
+2040-08-15;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 36.9
+2040-08-15;Kiara Reyes;jour;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;demande à 16/07 16:04;A023;T11 jet 58.8 · T13c jet 74.9
+2040-08-16;Julia Dimaculangan;jour;avancee_objectif;T13d:decision;décision prise pour son objectif : acheter un logement (ou un plus grand);message_routine (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 75.1 · T13d jet 75.1
+2040-08-16;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 41.1
+2040-08-17;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 41.1
+2040-08-17;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 16:01;A024;T11 jet 17.9
+2040-08-18;Julia Dimaculangan;jour;sans_histoire;;;demande à 16/07 15:45;A025;T11 jet 38.4
+2040-08-18;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 7.5
+2040-08-19;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 16.7
+2040-08-19;Kiara Reyes;jour;avancee_objectif;T13d:argent;somme reçue, économisée ou investie pour son objectif : décrocher un poste stable dans un centre d'appels;aucune;;T11 jet 76.5 · T13d jet 66.9
+2040-08-20;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 15.4
+2040-08-20;Kiara Reyes;jour;sans_histoire;;;message_routine à 16/07 16:03;A026;T11 jet 35.0
+2040-08-21;Julia Dimaculangan;jour;petit_evenement;T13c:transport_meteo;coupure de courant dans le quartier;aucune;;T11 jet 60.9 · T13c jet 81.4
+2040-08-21;Kiara Reyes;jour;coup_dur;T13a:sante;malade (gastro-entérite);aucune;;T11 jet 94.5 · T13a jet 11.8
+2040-08-22;Julia Dimaculangan;jour;tournant;T13b:famille;naissance, mariage, décès ou retour d'un proche;message_routine à 16/07 15:38;A027;T11 jet 99.9 · T13b jet 25.3
+2040-08-22;Kiara Reyes;jour;sans_histoire;;;message_routine à 16/07 16:11;A028;T11 jet 3.4
+2040-08-23;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 6.0
+2040-08-23;Kiara Reyes;jour;tournant;T13b:sante;diagnostic, guérison, grossesse ou opération;aucune;;T11 jet 97.6 · T13b jet 41.9
+2040-08-24;Julia Dimaculangan;jour;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;demande à 16/07 15:34;A029;T11 jet 64.3 · T13c jet 22.9
+2040-08-24;Kiara Reyes;jour;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;demande à 16/07 16:09;A030;T11 jet 69.5 · T13c jet 29.5
+2040-08-25;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 9.2
+2040-08-25;Kiara Reyes;jour;petit_evenement;T13c:dispute_breve;querelle courte;demande à 16/07 16:17;A031;T11 jet 72.3 · T13c jet 53.7
+2040-08-26;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 39.9
+2040-08-26;Kiara Reyes;jour;avancee_objectif;T13d:demarche;démarche pour son objectif : décrocher un poste stable dans un centre d'appels;information à 16/07 17:39;A032;T11 jet 80.6 · T13d jet 8.3
+2040-08-27;Julia Dimaculangan;jour;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;aucune;;T11 jet 51.9 · T13c jet 30.3
+2040-08-27;Kiara Reyes;jour;petit_evenement;T13c:service_rendu;service rendu ou reçu;message_routine (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 46.6 · T13c jet 42.0
+2040-08-28;Julia Dimaculangan;jour;petit_evenement;T13c:depense;dépense imprévue (facture d'électricité plus lourde);demande à 16/07 15:38;A033;T11 jet 58.9 · T13c jet 16.5
+2040-08-28;Kiara Reyes;jour;coup_dur;T13a:sante_proche;maladie ou accident de son enfant;demande à 16/07 16:07;A034;T11 jet 93.4 · T13a jet 29.3
+2040-08-29;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 32.7
+2040-08-29;Kiara Reyes;jour;sans_histoire;;;message_routine à 16/07 18:19;A035;T11 jet 46.7
+2040-08-30;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 43.0
+2040-08-30;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 16:20;A036;T11 jet 19.7
+2040-08-31;Julia Dimaculangan;jour;petit_evenement;T13c:dispute_breve;querelle courte;aucune;;T11 jet 52.6 · T13c jet 57.7
+2040-08-31;Kiara Reyes;jour;petit_evenement;T13c:transport_meteo;rue inondée après l'averse;aucune;;T11 jet 69.1 · T13c jet 88.1
+2040-09-01;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 45.7
+2040-09-01;Kiara Reyes;jour;sans_histoire;;;demande à 17/07 07:45;A037;T11 jet 32.4
+2040-09-02;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 33.2
+2040-09-02;Kiara Reyes;jour;sans_histoire;;;information à 16/07 16:00;A038;T11 jet 40.2
+2040-09-03;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 38.7
+2040-09-03;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 16:17;A039;T11 jet 34.8
+2040-09-04;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 28.3
+2040-09-04;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 20.8
+2040-09-05;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 38.5
+2040-09-05;Kiara Reyes;jour;coup_dur;T13a:sante_proche;maladie ou accident de son enfant;aucune;;T11 jet 91.9 · T13a jet 22.0
+2040-09-06;Julia Dimaculangan;jour;coup_dur;T13a:famille;dispute sérieuse ou mauvaise nouvelle dans la famille;aucune;;T11 jet 88.7 · T13a jet 67.6
+2040-09-06;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 23.9
+2040-09-07;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 38.3
+2040-09-07;Kiara Reyes;jour;petit_evenement;T13c:achat;achat (vêtements);partage_personnel à 16/07 16:09;A040;T11 jet 68.5 · T13c jet 97.1
+2040-09-08;Julia Dimaculangan;jour;tournant;T13b:rencontre;rencontre qui compte (amicale, amoureuse ou professionnelle);aucune;;T11 jet 96.7 · T13b jet 66.4
+2040-09-08;Kiara Reyes;jour;sans_histoire;;;demande (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 14.9
+2040-09-09;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 46.0
+2040-09-09;Kiara Reyes;jour;petit_evenement;T13c:depense;dépense imprévue (frais de scolarité);partage_personnel à 16/07 16:00;A041;T11 jet 58.0 · T13c jet 17.4
+2040-09-10;Julia Dimaculangan;jour;sans_histoire;;;demande à 16/07 15:47;A042;T11 jet 38.2
+2040-09-10;Kiara Reyes;jour;tournant;T13b:rencontre;rencontre qui compte (amicale, amoureuse ou professionnelle);aucune;;T11 jet 97.9 · T13b jet 73.9
+2040-09-11;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 6.9
+2040-09-11;Kiara Reyes;jour;petit_evenement;T13c:service_rendu;service rendu ou reçu;information à 16/07 19:01;A043;T11 jet 60.9 · T13c jet 44.7
+2040-09-12;Julia Dimaculangan;jour;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;aucune;;T11 jet 69.4 · T13c jet 23.5
+2040-09-12;Kiara Reyes;jour;sans_histoire;;;demande (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 37.7
+2040-09-13;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 32.3
+2040-09-13;Kiara Reyes;jour;sans_histoire;;;information à 16/07 16:17;A044;T11 jet 4.2
+2040-09-14;Julia Dimaculangan;jour;tournant;T13b:famille;naissance, mariage, décès ou retour d'un proche;aucune;;T11 jet 99.1 · T13b jet 37.7
+2040-09-14;Kiara Reyes;jour;sans_histoire;;;information à 16/07 20:22;A045;T11 jet 13.3
+2040-09-15;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 43.2
+2040-09-15;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 16:01;A046;T11 jet 13.3
+2040-09-16;Julia Dimaculangan;jour;petit_evenement;T13c:transport_meteo;rue inondée après l'averse;aucune;;T11 jet 70.7 · T13c jet 84.4
+2040-09-16;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 15:57;A047;T11 jet 49.9
+2040-09-17;Julia Dimaculangan;jour;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;aucune;;T11 jet 71.0 · T13c jet 28.6
+2040-09-17;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 2.0
+2040-09-18;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 39.2
+2040-09-18;Kiara Reyes;jour;sans_histoire;;;information à 16/07 16:17;A048;T11 jet 32.6
+2040-09-19;Julia Dimaculangan;jour;petit_evenement;T13c:depense;dépense imprévue (réparation du téléphone);aucune;;T11 jet 60.2 · T13c jet 5.9
+2040-09-19;Kiara Reyes;jour;avancee_objectif;T13d:decision;décision prise pour son objectif : décrocher un poste stable dans un centre d'appels;aucune;;T11 jet 78.4 · T13d jet 80.5
+2040-09-20;Julia Dimaculangan;jour;coup_dur;T13a:famille;dispute sérieuse ou mauvaise nouvelle dans la famille;aucune;;T11 jet 86.8 · T13a jet 73.2
+2040-09-20;Kiara Reyes;jour;sans_histoire;;;message_routine à 16/07 16:18;A049;T11 jet 29.1
+2040-09-21;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 39.1
+2040-09-21;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 32.2
+2040-09-22;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 22.9
+2040-09-22;Kiara Reyes;jour;sans_histoire;;;message_routine à 16/07 16:14;A050;T11 jet 47.3
+2040-09-23;Julia Dimaculangan;jour;avancee_objectif;T13d:apprentissage;formation, lecture ou conseil utile : acheter un logement (ou un plus grand);message_routine à 16/07 15:44;A051;T11 jet 79.7 · T13d jet 98.0
+2040-09-23;Kiara Reyes;jour;petit_evenement;T13c:transport_meteo;rue inondée après l'averse;message_routine à 16/07 19:38;A052;T11 jet 73.3 · T13c jet 77.8
+2040-09-24;Julia Dimaculangan;jour;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;aucune;;T11 jet 57.5 · T13c jet 22.1
+2040-09-24;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 16:11;A053;T11 jet 21.4
+2040-09-25;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 11.4
+2040-09-25;Kiara Reyes;jour;coup_dur;T13a:argent;dette auprès d'un prêteur au jour le jour (« 5-6 »);aucune;;T11 jet 88.9 · T13a jet 46.8
+2040-09-26;Julia Dimaculangan;jour;petit_evenement;T13c:service_rendu;service rendu ou reçu;aucune;;T11 jet 51.2 · T13c jet 51.7
+2040-09-26;Kiara Reyes;jour;petit_evenement;T13c:transport_meteo;coupure de courant dans le quartier;message_routine à 16/07 15:59;A054;T11 jet 59.9 · T13c jet 78.2
+2040-09-27;Julia Dimaculangan;jour;petit_evenement;T13c:service_rendu;service rendu ou reçu;aucune;;T11 jet 59.5 · T13c jet 49.4
+2040-09-27;Kiara Reyes;jour;sans_histoire;;;message_routine à 16/07 16:01;A055;T11 jet 17.9
+2040-09-28;Julia Dimaculangan;jour;sans_histoire;;;plainte_ou_tension à 16/07 15:40;A056;T11 jet 18.4
+2040-09-28;Kiara Reyes;jour;coup_dur;T13a:sante;malade (gastro-entérite);aucune;;T11 jet 94.2 · T13a jet 16.1
+2040-09-29;Julia Dimaculangan;jour;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;aucune;;T11 jet 60.6 · T13c jet 35.6
+2040-09-29;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 38.4
+2040-09-30;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 37.5
+2040-09-30;Kiara Reyes;jour;sans_histoire;;;information à 16/07 16:16;A057;T11 jet 30.9
+2040-10-01;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 33.3
+2040-10-01;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 12.1
+2040-10-02;Julia Dimaculangan;jour;petit_evenement;T13c:depense;dépense imprévue (frais de scolarité);aucune;;T11 jet 64.1 · T13c jet 16.4
+2040-10-02;Kiara Reyes;jour;avancee_objectif;T13d:demarche;démarche pour son objectif : décrocher un poste stable dans un centre d'appels;aucune;;T11 jet 77.4 · T13d jet 17.2
+2040-10-03;Julia Dimaculangan;jour;petit_evenement;T13c:transport_meteo;embouteillage monstre sur l'EDSA;demande à 16/07 15:42;A058;T11 jet 60.6 · T13c jet 93.5
+2040-10-03;Kiara Reyes;jour;petit_evenement;T13c:service_rendu;service rendu ou reçu;demande à 16/07 20:00;A059;T11 jet 58.9 · T13c jet 51.8
+2040-10-04;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 28.4
+2040-10-04;Kiara Reyes;jour;petit_evenement;T13c:depense;dépense imprévue (réparation du téléphone);aucune;;T11 jet 63.8 · T13c jet 21.3
+2040-10-05;Julia Dimaculangan;jour;tournant;T13b:offre_travail;proposition d'emploi ou de collaboration ailleurs;aucune;;T11 jet 99.4 · T13b jet 15.2
+2040-10-05;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 15.2
+2040-10-06;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 36.1
+2040-10-06;Kiara Reyes;jour;petit_evenement;T13c:dispute_breve;querelle courte;aucune;;T11 jet 60.9 · T13c jet 57.8
+2040-10-07;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 22.7
+2040-10-07;Kiara Reyes;jour;sans_histoire;;;information à 16/07 16:10;A060;T11 jet 43.2
+2040-10-08;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 26.8
+2040-10-08;Kiara Reyes;jour;sans_histoire;;;message_routine à 16/07 16:03;A061;T11 jet 35.0
+2040-10-09;Julia Dimaculangan;jour;sans_histoire;;;partage_personnel à 16/07 16:28;A062;T11 jet 14.0
+2040-10-09;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 49.3
+2040-10-10;Julia Dimaculangan;jour;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : acheter un logement (ou un plus grand);aucune;;T11 jet 84.7 · T13d jet 31.0
+2040-10-10;Kiara Reyes;jour;sans_histoire;;;message_routine à 16/07 22:04;A063;T11 jet 38.9
+2040-10-11;Julia Dimaculangan;jour;coup_dur;T13a:travail;ennui avec son employeur ou un client (contrat de six mois non renouvelé (« endo »));plainte_ou_tension à 16/07 15:39;A064;T11 jet 87.0 · T13a jet 78.5
+2040-10-11;Kiara Reyes;jour;petit_evenement;T13c:transport_meteo;panne du MRT-3, files au quai;demande à 16/07 21:08;A065;T11 jet 52.1 · T13c jet 80.3
+2040-10-12;Julia Dimaculangan;jour;coup_dur;T13a:argent;facture en retard;demande à 16/07 17:37;A066;T11 jet 87.8 · T13a jet 55.9
+2040-10-12;Kiara Reyes;jour;petit_evenement;T13c:transport_meteo;embouteillage monstre sur l'EDSA;message_routine à 16/07 20:06;A067;T11 jet 61.8 · T13c jet 84.0
+2040-10-13;Julia Dimaculangan;jour;tournant;T13b:famille;naissance, mariage, décès ou retour d'un proche;aucune;;T11 jet 99.8 · T13b jet 26.0
+2040-10-13;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 48.6
+2040-10-14;Julia Dimaculangan;jour;tournant;T13b:offre_travail;proposition d'emploi ou de collaboration ailleurs;aucune;;T11 jet 97.6 · T13b jet 2.8
+2040-10-14;Kiara Reyes;jour;avancee_objectif;T13d:apprentissage;formation, lecture ou conseil utile : décrocher un poste stable dans un centre d'appels;aucune;;T11 jet 82.8 · T13d jet 91.8
+2040-10-15;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 36.6
+2040-10-15;Kiara Reyes;jour;sans_histoire;;;message_routine (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 23.9
+2040-10-16;Julia Dimaculangan;jour;sans_histoire;;;demande à 16/07 15:37;A068;T11 jet 11.3
+2040-10-16;Kiara Reyes;jour;sans_histoire;;;information à 16/07 15:57;A069;T11 jet 44.0
+2040-10-17;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 22.8
+2040-10-17;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 49.1
+2040-10-18;Julia Dimaculangan;jour;petit_evenement;T13c:transport_meteo;coupure de courant dans le quartier;aucune;;T11 jet 54.0 · T13c jet 93.1
+2040-10-18;Kiara Reyes;jour;avancee_objectif;T13d:decision;décision prise pour son objectif : décrocher un poste stable dans un centre d'appels;plainte_ou_tension à 16/07 16:17;A070;T11 jet 85.0 · T13d jet 77.9
+2040-10-19;Julia Dimaculangan;jour;avancee_objectif;T13d:argent;somme reçue, économisée ou investie pour son objectif : acheter un logement (ou un plus grand);aucune;;T11 jet 76.3 · T13d jet 60.8
+2040-10-19;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 18.0
+2040-10-20;Julia Dimaculangan;jour;tournant;T13b:offre_travail;proposition d'emploi ou de collaboration ailleurs;aucune;;T11 jet 99.1 · T13b jet 3.1
+2040-10-20;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 21.3
+2040-10-21;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 22.7
+2040-10-21;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 1.6
+2040-10-22;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 21.0
+2040-10-22;Kiara Reyes;jour;sans_histoire;;;partage_personnel à 16/07 16:04;A071;T11 jet 16.6
+2040-10-23;Julia Dimaculangan;jour;coup_dur;T13a:travail;ennui avec son employeur ou un client (contrat de six mois non renouvelé (« endo »));aucune;;T11 jet 89.2 · T13a jet 85.9
+2040-10-23;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 16:08;A072;T11 jet 33.5
+2040-10-24;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 24.6
+2040-10-24;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 16:14;A073;T11 jet 40.4
+2040-10-25;Julia Dimaculangan;jour;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;aucune;;T11 jet 70.0 · T13c jet 69.1
+2040-10-25;Kiara Reyes;jour;sans_histoire;;;information à 16/07 16:16;A074;T11 jet 20.0
+2040-10-26;Julia Dimaculangan;jour;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : acheter un logement (ou un plus grand);aucune;;T11 jet 79.0 · T13d jet 35.2
+2040-10-26;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 16:02;A075;T11 jet 15.3
+2040-10-27;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 16.6
+2040-10-27;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 31.0
+2040-10-28;Julia Dimaculangan;jour;petit_evenement;T13c:depense;dépense imprévue (cotisation imprévue);aucune;;T11 jet 58.6 · T13c jet 14.3
+2040-10-28;Kiara Reyes;jour;petit_evenement;T13c:depense;dépense imprévue (frais de scolarité);message_routine à 16/07 18:38;A076;T11 jet 70.2 · T13c jet 13.8
+2040-10-29;Julia Dimaculangan;jour;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : acheter un logement (ou un plus grand);aucune;;T11 jet 79.8 · T13d jet 40.7
+2040-10-29;Kiara Reyes;jour;avancee_objectif;T13d:decision;décision prise pour son objectif : décrocher un poste stable dans un centre d'appels;message_routine à 16/07 16:09;A077;T11 jet 81.6 · T13d jet 75.2
+2040-10-30;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 22.1
+2040-10-30;Kiara Reyes;jour;sans_histoire;;;information à 16/07 15:59;A078;T11 jet 6.3
+2040-10-31;Julia Dimaculangan;jour;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;aucune;;T11 jet 68.5 · T13c jet 28.8
+2040-10-31;Kiara Reyes;jour;petit_evenement;T13c:depense;dépense imprévue (frais de scolarité);aucune;;T11 jet 71.3 · T13c jet 9.7
+2040-11-01;Julia Dimaculangan;jour;petit_evenement;T13c:transport_meteo;embouteillage monstre sur l'EDSA;plainte_ou_tension à 16/07 16:01;A079;T11 jet 45.5 · T13c jet 84.7
+2040-11-01;Kiara Reyes;jour;tournant;T13b:rencontre;rencontre qui compte (amicale, amoureuse ou professionnelle);partage_personnel (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 99.1 · T13b jet 78.7
+2040-11-02;Julia Dimaculangan;jour;petit_evenement;T13c:transport_meteo;embouteillage monstre sur l'EDSA;aucune;;T11 jet 65.3 · T13c jet 81.8
+2040-11-02;Kiara Reyes;jour;sans_histoire;;;message_routine à 16/07 15:57;A080;T11 jet 12.9
+2040-11-03;Julia Dimaculangan;jour;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : acheter un logement (ou un plus grand);demande à 16/07 15:30;A081;T11 jet 84.1 · T13d jet 41.8
+2040-11-03;Kiara Reyes;jour;sans_histoire;;;message_routine à 16/07 16:14;A082;T11 jet 25.6
+2040-11-04;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 0.4
+2040-11-04;Kiara Reyes;jour;sans_histoire;;;information à 16/07 22:25;A083;T11 jet 3.2
+2040-11-05;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 43.2
+2040-11-05;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 35.3
+2040-11-06;Julia Dimaculangan;jour;avancee_objectif;T13d:decision;décision prise pour son objectif : acheter un logement (ou un plus grand);aucune;;T11 jet 81.1 · T13d jet 76.2
+2040-11-06;Kiara Reyes;jour;petit_evenement;T13c:service_rendu;service rendu ou reçu;aucune;;T11 jet 66.5 · T13c jet 40.1
+2040-11-07;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 44.1
+2040-11-07;Kiara Reyes;jour;petit_evenement;T13c:service_rendu;service rendu ou reçu;partage_personnel à 16/07 17:54;A084;T11 jet 59.1 · T13c jet 38.8
+2040-11-08;Julia Dimaculangan;jour;petit_evenement;T13c:service_rendu;service rendu ou reçu;aucune;;T11 jet 70.3 · T13c jet 40.8
+2040-11-08;Kiara Reyes;jour;petit_evenement;T13c:depense;dépense imprévue (médicaments);message_routine à 16/07 16:03;A085;T11 jet 66.2 · T13c jet 6.1
+2040-11-09;Julia Dimaculangan;jour;sans_histoire;;;demande à 16/07 15:30;A086;T11 jet 31.0
+2040-11-09;Kiara Reyes;jour;petit_evenement;T13c:service_rendu;service rendu ou reçu;aucune;;T11 jet 71.1 · T13c jet 48.1
+2040-11-10;Julia Dimaculangan;jour;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : acheter un logement (ou un plus grand);aucune;;T11 jet 79.9 · T13d jet 53.6
+2040-11-10;Kiara Reyes;jour;avancee_objectif;T13d:demarche;démarche pour son objectif : décrocher un poste stable dans un centre d'appels;information à 16/07 18:21;A087;T11 jet 76.4 · T13d jet 17.2
+2040-11-11;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 14.0
+2040-11-11;Kiara Reyes;jour;sans_histoire;;;message_routine à 16/07 16:16;A088;T11 jet 7.2
+2040-11-12;Julia Dimaculangan;jour;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;demande à 16/07 15:31;A089;T11 jet 60.7 · T13c jet 71.9
+2040-11-12;Kiara Reyes;jour;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : décrocher un poste stable dans un centre d'appels;demande à 16/07 16:09;A090;T11 jet 82.0 · T13d jet 51.1
+2040-11-13;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 43.0
+2040-11-13;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 5.7
+2040-11-14;Julia Dimaculangan;jour;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;aucune;;T11 jet 57.2 · T13c jet 67.1
+2040-11-14;Kiara Reyes;jour;coup_dur;T13a:argent;dette auprès d'un prêteur au jour le jour (« 5-6 »);message_routine à 16/07 17:26;A091;T11 jet 90.5 · T13a jet 60.7
+2040-11-15;Julia Dimaculangan;jour;petit_evenement;T13c:transport_meteo;rue inondée après l'averse;aucune;;T11 jet 71.1 · T13c jet 84.5
+2040-11-15;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 36.8
+2040-11-16;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 21.4
+2040-11-16;Kiara Reyes;jour;avancee_objectif;T13d:demarche;démarche pour son objectif : décrocher un poste stable dans un centre d'appels;demande à 17/07 07:36;A092;T11 jet 82.4 · T13d jet 14.6
+2040-11-17;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 17.4
+2040-11-17;Kiara Reyes;jour;petit_evenement;T13c:depense;dépense imprévue (facture d'électricité plus lourde);message_routine à 16/07 15:58;A093;T11 jet 59.1 · T13c jet 6.3
+2040-11-18;Julia Dimaculangan;jour;sans_histoire;;;demande à 16/07 15:27;A094;T11 jet 29.4
+2040-11-18;Kiara Reyes;jour;avancee_objectif;T13d:argent;somme reçue, économisée ou investie pour son objectif : décrocher un poste stable dans un centre d'appels;partage_personnel à 16/07 16:07;A095;T11 jet 82.3 · T13d jet 74.6
+2040-11-19;Julia Dimaculangan;jour;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : acheter un logement (ou un plus grand);aucune;;T11 jet 83.2 · T13d jet 49.5
+2040-11-19;Kiara Reyes;jour;petit_evenement;T13c:service_rendu;service rendu ou reçu;information à 16/07 15:58;A096;T11 jet 64.8 · T13c jet 42.8
+2040-11-20;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 34.2
+2040-11-20;Kiara Reyes;jour;sans_histoire;;;message_routine à 17/07 16:05;A097;T11 jet 15.8
+2040-11-21;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 18.1
+2040-11-21;Kiara Reyes;jour;avancee_objectif;T13d:decision;décision prise pour son objectif : décrocher un poste stable dans un centre d'appels;demande à 16/07 16:06;A098;T11 jet 80.1 · T13d jet 81.7
+2040-11-22;Julia Dimaculangan;jour;tournant;T13b:offre_travail;proposition d'emploi ou de collaboration ailleurs;information à 16/07 15:51;A099;T11 jet 97.9 · T13b jet 18.6
+2040-11-22;Kiara Reyes;jour;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;aucune;;T11 jet 71.2 · T13c jet 71.2
+2040-11-23;Julia Dimaculangan;jour;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;aucune;;T11 jet 66.8 · T13c jet 68.8
+2040-11-23;Kiara Reyes;jour;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : décrocher un poste stable dans un centre d'appels;information à 17/07 15:56;A100;T11 jet 77.5 · T13d jet 55.0
+2040-11-24;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 39.3
+2040-11-24;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 31.7
+2040-11-25;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 5.8
+2040-11-25;Kiara Reyes;jour;petit_evenement;T13c:achat;achat (petit électroménager);aucune;;T11 jet 67.4 · T13c jet 88.2
+2040-11-26;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 24.2
+2040-11-26;Kiara Reyes;jour;sans_histoire;;;information à 16/07 16:08;A101;T11 jet 25.3
+2040-11-27;Julia Dimaculangan;jour;petit_evenement;T13c:depense;dépense imprévue (facture d'électricité plus lourde);aucune;;T11 jet 72.8 · T13c jet 13.2
+2040-11-27;Kiara Reyes;jour;petit_evenement;T13c:depense;dépense imprévue (cotisation imprévue);aucune;;T11 jet 66.0 · T13c jet 4.8
+2040-11-28;Julia Dimaculangan;jour;sans_histoire;;;demande à 17/07 15:32;A102;T11 jet 26.9
+2040-11-28;Kiara Reyes;jour;petit_evenement;T13c:transport_meteo;coupure de courant dans le quartier;aucune;;T11 jet 64.2 · T13c jet 86.6
+2040-11-29;Julia Dimaculangan;jour;petit_evenement;T13c:transport_meteo;coupure de courant dans le quartier;aucune;;T11 jet 52.7 · T13c jet 78.5
+2040-11-29;Kiara Reyes;jour;coup_dur;T13a:argent;dette auprès d'un prêteur au jour le jour (« 5-6 »);message_routine (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 95.0 · T13a jet 64.4
+2040-11-30;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 34.9
+2040-11-30;Kiara Reyes;jour;tournant;T13b:sante;diagnostic, guérison, grossesse ou opération;message_routine (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 96.3 · T13b jet 40.6
+2040-12-01;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 41.9
+2040-12-01;Kiara Reyes;jour;petit_evenement;T13c:depense;dépense imprévue (cotisation imprévue);information (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 73.6 · T13c jet 12.9
+2040-12-02;Julia Dimaculangan;jour;petit_evenement;T13c:depense;dépense imprévue (facture d'électricité plus lourde);information à 16/07 15:37;A103;T11 jet 61.3 · T13c jet 14.7
+2040-12-02;Kiara Reyes;jour;coup_dur;T13a:argent;dette auprès d'un prêteur au jour le jour (« 5-6 »);aucune;;T11 jet 88.5 · T13a jet 64.1
+2040-12-03;Julia Dimaculangan;jour;sans_histoire;;;information à 16/07 15:33;A104;T11 jet 44.9
+2040-12-03;Kiara Reyes;jour;avancee_objectif;T13d:apprentissage;formation, lecture ou conseil utile : décrocher un poste stable dans un centre d'appels;demande à 17/07 07:40;A105;T11 jet 78.2 · T13d jet 93.9
+2040-12-04;Julia Dimaculangan;jour;petit_evenement;T13c:service_rendu;service rendu ou reçu;message_routine (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 54.7 · T13c jet 41.1
+2040-12-04;Kiara Reyes;jour;coup_dur;T13a:argent;dette auprès d'un prêteur au jour le jour (« 5-6 »);information (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 90.1 · T13a jet 40.6
+2040-12-05;Julia Dimaculangan;jour;petit_evenement;T13c:transport_meteo;coupure de courant dans le quartier;aucune;;T11 jet 66.7 · T13c jet 76.1
+2040-12-05;Kiara Reyes;jour;avancee_objectif;T13d:argent;somme reçue, économisée ou investie pour son objectif : décrocher un poste stable dans un centre d'appels;demande à 16/07 16:03;A106;T11 jet 80.9 · T13d jet 55.0
+2040-12-06;Julia Dimaculangan;jour;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;aucune;;T11 jet 57.2 · T13c jet 30.8
+2040-12-06;Kiara Reyes;jour;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;aucune;;T11 jet 65.7 · T13c jet 65.4
+2040-12-07;Julia Dimaculangan;jour;coup_dur;T13a:famille;dispute sérieuse ou mauvaise nouvelle dans la famille;aucune;;T11 jet 92.0 · T13a jet 75.4
+2040-12-07;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 16:08;A107;T11 jet 32.5
+2040-12-08;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 38.6
+2040-12-08;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 28.8
+2040-12-09;Julia Dimaculangan;jour;petit_evenement;T13c:dispute_breve;querelle courte;aucune;;T11 jet 61.6 · T13c jet 60.1
+2040-12-09;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 16:06;A108;T11 jet 29.7
+2040-12-10;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 44.5
+2040-12-10;Kiara Reyes;jour;sans_histoire;;;message_routine à 16/07 16:14;A109;T11 jet 21.9
+2040-12-11;Julia Dimaculangan;jour;sans_histoire;;;plainte_ou_tension à 16/07 15:44;A110;T11 jet 40.3
+2040-12-11;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 37.0
+2040-12-12;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 40.7
+2040-12-12;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 15.1
+2040-12-13;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 26.8
+2040-12-13;Kiara Reyes;jour;petit_evenement;T13c:service_rendu;service rendu ou reçu;aucune;;T11 jet 65.8 · T13c jet 46.1
+2040-12-14;Julia Dimaculangan;jour;petit_evenement;T13c:achat;achat (petit électroménager);aucune;;T11 jet 72.9 · T13c jet 91.9
+2040-12-14;Kiara Reyes;jour;sans_histoire;;;message_routine à 17/07 07:42;A111;T11 jet 42.3
+2040-12-15;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 28.7
+2040-12-15;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 25.6
+2040-12-16;Julia Dimaculangan;jour;avancee_objectif;T13d:argent;somme reçue, économisée ou investie pour son objectif : acheter un logement (ou un plus grand);aucune;;T11 jet 84.4 · T13d jet 74.0
+2040-12-16;Kiara Reyes;jour;coup_dur;T13a:sante;malade (gastro-entérite);information à 16/07 16:05;A112;T11 jet 90.5 · T13a jet 1.4
+2040-12-17;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 12.2
+2040-12-17;Kiara Reyes;jour;petit_evenement;T13c:dispute_breve;querelle courte;aucune;;T11 jet 63.1 · T13c jet 52.4
+2040-12-18;Julia Dimaculangan;jour;avancee_objectif;T13d:demarche;démarche pour son objectif : acheter un logement (ou un plus grand);aucune;;T11 jet 75.2 · T13d jet 6.8
+2040-12-18;Kiara Reyes;jour;avancee_objectif;T13d:demarche;démarche pour son objectif : décrocher un poste stable dans un centre d'appels;aucune;;T11 jet 77.4 · T13d jet 8.6
+2040-12-19;Julia Dimaculangan;jour;coup_dur;T13a:sante_proche;maladie ou accident de un frère ou une sœur;aucune;;T11 jet 92.1 · T13a jet 26.4
+2040-12-19;Kiara Reyes;jour;sans_histoire;;;information à 16/07 16:12;A113;T11 jet 4.4
+2040-12-20;Julia Dimaculangan;jour;sans_histoire;;;plainte_ou_tension à 16/07 15:29;A114;T11 jet 9.5
+2040-12-20;Kiara Reyes;jour;avancee_objectif;T13d:decision;décision prise pour son objectif : décrocher un poste stable dans un centre d'appels;information à 16/07 16:15;A115;T11 jet 77.5 · T13d jet 87.7
+2040-12-21;Julia Dimaculangan;jour;petit_evenement;T13c:depense;dépense imprévue (médicaments);aucune;;T11 jet 64.3 · T13c jet 9.2
+2040-12-21;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 16:10;A116;T11 jet 45.1
+2040-12-22;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 5.1
+2040-12-22;Kiara Reyes;jour;sans_histoire;;;message_routine à 17/07 16:19;A117;T11 jet 36.6
+2040-12-23;Julia Dimaculangan;jour;petit_evenement;T13c:achat;achat (cadeau d'anniversaire);aucune;;T11 jet 60.7 · T13c jet 88.6
+2040-12-23;Kiara Reyes;jour;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : décrocher un poste stable dans un centre d'appels;aucune;;T11 jet 81.7 · T13d jet 53.1
+2040-12-24;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 21.4
+2040-12-24;Kiara Reyes;jour;avancee_objectif;T13d:decision;décision prise pour son objectif : décrocher un poste stable dans un centre d'appels;information à 16/07 18:32;A118;T11 jet 78.9 · T13d jet 88.1
+2040-12-25;Julia Dimaculangan;jour;petit_evenement;T13c:depense;dépense imprévue (cotisation imprévue);demande à 16/07 16:59;A119;T11 jet 67.6 · T13c jet 5.6
+2040-12-25;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 32.9
+2040-12-26;Julia Dimaculangan;jour;petit_evenement;T13c:achat;achat (vêtements);aucune;;T11 jet 68.4 · T13c jet 91.2
+2040-12-26;Kiara Reyes;jour;coup_dur;T13a:sante_proche;maladie ou accident de son enfant;demande à 17/07 16:09;A120;T11 jet 88.3 · T13a jet 18.4
+2040-12-27;Julia Dimaculangan;jour;coup_dur;T13a:relation;rupture, trahison d'un ami ou conflit de voisinage;plainte_ou_tension à 16/07 15:28;A121;T11 jet 93.0 · T13a jet 96.9
+2040-12-27;Kiara Reyes;jour;petit_evenement;T13c:rumeur;rumeur entendue ou colportée;aucune;;T11 jet 57.0 · T13c jet 97.5
+2040-12-28;Julia Dimaculangan;jour;petit_evenement;T13c:transport_meteo;rue inondée après l'averse;information à 16/07 15:26;A122;T11 jet 71.4 · T13c jet 83.2
+2040-12-28;Kiara Reyes;jour;petit_evenement;T13c:transport_meteo;embouteillage monstre sur l'EDSA;message_routine à 16/07 16:02;A123;T11 jet 54.1 · T13c jet 78.3
+2040-12-29;Julia Dimaculangan;jour;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;information à 16/07 15:24;A124;T11 jet 59.0 · T13c jet 32.9
+2040-12-29;Kiara Reyes;jour;tournant;T13b:sante;diagnostic, guérison, grossesse ou opération;message_routine à 16/07 16:05;A125;T11 jet 96.7 · T13b jet 43.3
+2040-12-30;Julia Dimaculangan;jour;coup_dur;T13a:argent;prêt à un proche jamais rendu;aucune;;T11 jet 88.8 · T13a jet 53.8
+2040-12-30;Kiara Reyes;jour;coup_dur;T13a:argent;dette auprès d'un prêteur au jour le jour (« 5-6 »);partage_personnel à 16/07 15:57;A126;T11 jet 93.6 · T13a jet 65.4
+2040-12-31;Julia Dimaculangan;jour;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : acheter un logement (ou un plus grand);aucune;;T11 jet 80.5 · T13d jet 48.8
+2040-12-31;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 15.7
+2041-01-01;Julia Dimaculangan;jour;coup_dur;T13a:argent;prêt à un proche jamais rendu;information à 16/07 15:25;A127;T11 jet 89.8 · T13a jet 48.0
+2041-01-01;Kiara Reyes;jour;sans_histoire;;;message_routine (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 15.5
+2041-01-02;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 22.3
+2041-01-02;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 14.4
+2041-01-03;Julia Dimaculangan;jour;coup_dur;T13a:logement_transport;panne, coupure ou souci de logement;aucune;;T11 jet 89.4 · T13a jet 91.0
+2041-01-03;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 42.4
+2041-01-04;Julia Dimaculangan;jour;avancee_objectif;T13d:apprentissage;formation, lecture ou conseil utile : acheter un logement (ou un plus grand);aucune;;T11 jet 83.5 · T13d jet 96.8
+2041-01-04;Kiara Reyes;jour;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;partage_personnel (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 56.2 · T13c jet 65.3
+2041-01-05;Julia Dimaculangan;jour;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;aucune;;T11 jet 53.1 · T13c jet 65.7
+2041-01-05;Kiara Reyes;jour;coup_dur;T13a:famille;dispute sérieuse ou mauvaise nouvelle dans la famille;information à 16/07 16:09;A128;T11 jet 95.0 · T13a jet 66.2
+2041-01-06;Julia Dimaculangan;jour;avancee_objectif;T13d:demarche;démarche pour son objectif : acheter un logement (ou un plus grand);aucune;;T11 jet 79.1 · T13d jet 27.2
+2041-01-06;Kiara Reyes;jour;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;message_routine à 16/07 16:15;A129;T11 jet 72.8 · T13c jet 73.6
+2041-01-07;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 40.4
+2041-01-07;Kiara Reyes;jour;petit_evenement;T13c:rumeur;rumeur entendue ou colportée;aucune;;T11 jet 70.5 · T13c jet 100.0
+2041-01-08;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 12.8
+2041-01-08;Kiara Reyes;jour;coup_dur;T13a:argent;dette auprès d'un prêteur au jour le jour (« 5-6 »);information à 16/07 16:03;A130;T11 jet 93.4 · T13a jet 59.3
+2041-01-09;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 28.5
+2041-01-09;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 17:11;A131;T11 jet 20.2
+2041-01-10;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 31.6
+2041-01-10;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 16:06;A132;T11 jet 20.6
+2041-01-11;Julia Dimaculangan;jour;petit_evenement;T13c:dispute_breve;querelle courte;aucune;;T11 jet 67.8 · T13c jet 53.9
+2041-01-11;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 16:11;A133;T11 jet 36.1
+2041-01-12;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 44.5
+2041-01-12;Kiara Reyes;jour;petit_evenement;T13c:transport_meteo;embouteillage monstre sur l'EDSA;information à 16/07 16:16;A134;T11 jet 60.6 · T13c jet 86.6
+2041-01-13;Julia Dimaculangan;jour;coup_dur;T13a:argent;vol ou arnaque;information à 16/07 15:45;A135;T11 jet 85.4 · T13a jet 50.1
+2041-01-13;Kiara Reyes;jour;tournant;T13b:logement;déménagement, bail ou proche hébergé;information à 16/07 16:02;A136;T11 jet 97.1 · T13b jet 60.2
+2041-01-14;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 28.2
+2041-01-14;Kiara Reyes;jour;petit_evenement;T13c:depense;dépense imprévue (facture d'électricité plus lourde);information à 16/07 16:10;A137;T11 jet 62.4 · T13c jet 4.8
+2041-01-15;Julia Dimaculangan;jour;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;aucune;;T11 jet 61.8 · T13c jet 68.8
+2041-01-15;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 16:08;A138;T11 jet 43.0
+2041-01-16;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 47.1
+2041-01-16;Kiara Reyes;jour;sans_histoire;;;information à 16/07 16:03;A139;T11 jet 38.6
+2041-01-17;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 34.8
+2041-01-17;Kiara Reyes;jour;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : décrocher un poste stable dans un centre d'appels;message_routine à 16/07 16:13;A140;T11 jet 84.2 · T13d jet 50.0
+2041-01-18;Julia Dimaculangan;jour;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;demande à 17/07 07:02;A141;T11 jet 67.4 · T13c jet 22.6
+2041-01-18;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 5.6
+2041-01-19;Julia Dimaculangan;jour;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;aucune;;T11 jet 70.4 · T13c jet 26.4
+2041-01-19;Kiara Reyes;jour;petit_evenement;T13c:transport_meteo;coupure de courant dans le quartier;information à 16/07 15:59;A142;T11 jet 54.4 · T13c jet 80.1
+2041-01-20;Julia Dimaculangan;jour;petit_evenement;T13c:depense;dépense imprévue (réparation de la moto);aucune;;T11 jet 63.2 · T13c jet 17.9
+2041-01-20;Kiara Reyes;jour;avancee_objectif;T13d:argent;somme reçue, économisée ou investie pour son objectif : décrocher un poste stable dans un centre d'appels;demande (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 75.1 · T13d jet 62.3
+2041-01-21;Julia Dimaculangan;jour;tournant;T13b:argent;rentrée ou perte d'argent importante;aucune;;T11 jet 98.4 · T13b jet 91.9
+2041-01-21;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 14.6
+2041-01-22;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 19.5
+2041-01-22;Kiara Reyes;jour;avancee_objectif;T13d:argent;somme reçue, économisée ou investie pour son objectif : décrocher un poste stable dans un centre d'appels;aucune;;T11 jet 75.8 · T13d jet 68.7
+2041-01-23;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 8.8
+2041-01-23;Kiara Reyes;jour;sans_histoire;;;information à 16/07 15:58;A143;T11 jet 41.5
+2041-01-24;Julia Dimaculangan;jour;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;aucune;;T11 jet 74.4 · T13c jet 68.5
+2041-01-24;Kiara Reyes;jour;sans_histoire;;;demande (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 27.4
+2041-01-25;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 45.3
+2041-01-25;Kiara Reyes;jour;sans_histoire;;;information à 17/07 16:04;A144;T11 jet 19.5
+2041-01-26;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 42.2
+2041-01-26;Kiara Reyes;jour;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;demande à 16/07 16:14;A145;T11 jet 62.7 · T13c jet 75.3
+2041-01-27;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 25.4
+2041-01-27;Kiara Reyes;jour;sans_histoire;;;partage_personnel à 16/07 20:37;A146;T11 jet 40.1
+2041-01-28;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 48.1
+2041-01-28;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 47.3
+2041-01-29;Julia Dimaculangan;jour;petit_evenement;T13c:depense;dépense imprévue (réparation du téléphone);aucune;;T11 jet 64.3 · T13c jet 6.9
+2041-01-29;Kiara Reyes;jour;tournant;T13b:voyage;départ, retour ou projet de voyage;aucune;;T11 jet 96.9 · T13b jet 93.9
+2041-01-30;Julia Dimaculangan;jour;sans_histoire;;;plainte_ou_tension à 16/07 15:27;A147;T11 jet 38.0
+2041-01-30;Kiara Reyes;jour;tournant;T13b:offre_travail;proposition d'emploi ou de collaboration ailleurs;aucune;;T11 jet 98.0 · T13b jet 16.0
+2041-01-31;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 30.6
+2041-01-31;Kiara Reyes;jour;petit_evenement;T13c:dispute_breve;querelle courte;aucune;;T11 jet 60.3 · T13c jet 55.9
+2041-02-01;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 28.0
+2041-02-01;Kiara Reyes;jour;coup_dur;T13a:argent;dette auprès d'un prêteur au jour le jour (« 5-6 »);aucune;;T11 jet 89.6 · T13a jet 47.2
+2041-02-02;Julia Dimaculangan;jour;petit_evenement;T13c:transport_meteo;panne du MRT-3, files au quai;aucune;;T11 jet 62.5 · T13c jet 84.2
+2041-02-02;Kiara Reyes;jour;petit_evenement;T13c:depense;dépense imprévue (cotisation imprévue);demande (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 56.6 · T13c jet 1.5
+2041-02-03;Julia Dimaculangan;jour;tournant;T13b:offre_travail;proposition d'emploi ou de collaboration ailleurs;aucune;;T11 jet 96.9 · T13b jet 7.7
+2041-02-03;Kiara Reyes;jour;sans_histoire;;;plainte_ou_tension à 16/07 16:14;A148;T11 jet 48.7
+2041-02-04;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 1.1
+2041-02-04;Kiara Reyes;jour;sans_histoire;;;message_routine à 16/07 16:02;A149;T11 jet 3.1
+2041-02-05;Julia Dimaculangan;jour;avancee_objectif;T13d:apprentissage;formation, lecture ou conseil utile : acheter un logement (ou un plus grand);aucune;;T11 jet 77.3 · T13d jet 93.6
+2041-02-05;Kiara Reyes;jour;coup_dur;T13a:famille;dispute sérieuse ou mauvaise nouvelle dans la famille;information à 16/07 18:41;A150;T11 jet 88.1 · T13a jet 66.2
+2041-02-06;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 8.2
+2041-02-06;Kiara Reyes;jour;coup_dur;T13a:sante;malade (mal de dos);information à 16/07 15:59;A151;T11 jet 85.4 · T13a jet 7.1
+2041-02-07;Julia Dimaculangan;jour;petit_evenement;T13c:depense;dépense imprévue (médicaments);message_routine (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 60.8 · T13c jet 17.8
+2041-02-07;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 45.3
+2041-02-08;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 11.4
+2041-02-08;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 36.8
+2041-02-09;Julia Dimaculangan;jour;coup_dur;T13a:sante;malade (grippe);aucune;;T11 jet 92.2 · T13a jet 12.5
+2041-02-09;Kiara Reyes;jour;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;message_routine à 16/07 16:02;A152;T11 jet 53.3 · T13c jet 72.2
+2041-02-10;Julia Dimaculangan;jour;coup_dur;T13a:logement_transport;panne, coupure ou souci de logement;aucune;;T11 jet 88.9 · T13a jet 93.3
+2041-02-10;Kiara Reyes;jour;avancee_objectif;T13d:demarche;démarche pour son objectif : décrocher un poste stable dans un centre d'appels;message_routine à 16/07 16:08;A153;T11 jet 79.2 · T13d jet 20.1
+2041-02-11;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 16.2
+2041-02-11;Kiara Reyes;jour;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : décrocher un poste stable dans un centre d'appels;aucune;;T11 jet 79.6 · T13d jet 39.8
+2041-02-12;Julia Dimaculangan;jour;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;aucune;;T11 jet 55.7 · T13c jet 74.8
+2041-02-12;Kiara Reyes;jour;sans_histoire;;;partage_personnel à 17/07 16:11;A154;T11 jet 33.8
+2041-02-13;Julia Dimaculangan;jour;avancee_objectif;T13d:demarche;démarche pour son objectif : acheter un logement (ou un plus grand);aucune;;T11 jet 84.7 · T13d jet 1.2
+2041-02-13;Kiara Reyes;jour;coup_dur;T13a:logement_transport;panne, coupure ou souci de logement;aucune;;T11 jet 95.8 · T13a jet 92.9
+2041-02-14;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 12.3
+2041-02-14;Kiara Reyes;jour;sans_histoire;;;information à 16/07 16:49;A155;T11 jet 21.7
+2041-02-15;Julia Dimaculangan;jour;tournant;T13b:argent;rentrée ou perte d'argent importante;message_routine (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 97.4 · T13b jet 86.2
+2041-02-15;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 19:27;A156;T11 jet 9.8
+2041-02-16;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 43.7
+2041-02-16;Kiara Reyes;jour;sans_histoire;;;information à 16/07 16:06;A157;T11 jet 37.4
+2041-02-17;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 22.1
+2041-02-17;Kiara Reyes;jour;tournant;T13b:voyage;départ, retour ou projet de voyage;aucune;;T11 jet 96.5 · T13b jet 93.0
+2041-02-18;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 1.8
+2041-02-18;Kiara Reyes;jour;sans_histoire;;;partage_personnel à 16/07 16:04;A158;T11 jet 13.6
+2041-02-19;Julia Dimaculangan;jour;avancee_objectif;T13d:argent;somme reçue, économisée ou investie pour son objectif : acheter un logement (ou un plus grand);aucune;;T11 jet 82.3 · T13d jet 74.6
+2041-02-19;Kiara Reyes;jour;sans_histoire;;;information à 16/07 16:03;A159;T11 jet 40.9
+2041-02-20;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 34.5
+2041-02-20;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 29.7
+2041-02-21;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 46.2
+2041-02-21;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 16:16;A160;T11 jet 17.9
+2041-02-22;Julia Dimaculangan;jour;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;aucune;;T11 jet 70.0 · T13c jet 72.8
+2041-02-22;Kiara Reyes;jour;tournant;T13b:famille;naissance, mariage, décès ou retour d'un proche;aucune;;T11 jet 97.6 · T13b jet 24.1
+2041-02-23;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 31.9
+2041-02-23;Kiara Reyes;jour;petit_evenement;T13c:depense;dépense imprévue (réparation de la moto);aucune;;T11 jet 57.3 · T13c jet 19.2
+2041-02-24;Julia Dimaculangan;jour;petit_evenement;T13c:depense;dépense imprévue (réparation du téléphone);aucune;;T11 jet 50.2 · T13c jet 9.2
+2041-02-24;Kiara Reyes;jour;coup_dur;T13a:sante_proche;maladie ou accident de son enfant;aucune;;T11 jet 85.5 · T13a jet 25.1
+2041-02-25;Julia Dimaculangan;jour;petit_evenement;T13c:dispute_breve;querelle courte;aucune;;T11 jet 71.8 · T13c jet 55.9
+2041-02-25;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 32.3
+2041-02-26;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 16.0
+2041-02-26;Kiara Reyes;jour;coup_dur;T13a:argent;dette auprès d'un prêteur au jour le jour (« 5-6 »);aucune;;T11 jet 93.6 · T13a jet 54.5
+2041-02-27;Julia Dimaculangan;jour;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;aucune;;T11 jet 73.7 · T13c jet 71.4
+2041-02-27;Kiara Reyes;jour;sans_histoire;;;partage_personnel à 16/07 16:09;A161;T11 jet 31.9
+2041-02-28;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 33.2
+2041-02-28;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 12.9
+2041-03-01;Julia Dimaculangan;jour;avancee_objectif;T13d:demarche;démarche pour son objectif : acheter un logement (ou un plus grand);information à 16/07 15:32;A162;T11 jet 84.8 · T13d jet 28.6
+2041-03-01;Kiara Reyes;jour;petit_evenement;T13c:depense;dépense imprévue (cotisation imprévue);information à 16/07 16:08;A163;T11 jet 66.3 · T13c jet 8.9
+2041-03-02;Julia Dimaculangan;jour;coup_dur;T13a:sante_proche;maladie ou accident de son père;aucune;;T11 jet 88.6 · T13a jet 36.5
+2041-03-02;Kiara Reyes;jour;petit_evenement;T13c:rumeur;rumeur entendue ou colportée;demande à 16/07 16:11;A164;T11 jet 70.1 · T13c jet 96.5
+2041-03-03;Julia Dimaculangan;jour;petit_evenement;T13c:rumeur;rumeur entendue ou colportée;aucune;;T11 jet 51.5 · T13c jet 95.2
+2041-03-03;Kiara Reyes;jour;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : décrocher un poste stable dans un centre d'appels;aucune;;T11 jet 81.0 · T13d jet 38.8
+2041-03-04;Julia Dimaculangan;jour;sans_histoire;;;message_routine à 16/07 15:31;A165;T11 jet 39.9
+2041-03-04;Kiara Reyes;jour;coup_dur;T13a:famille;dispute sérieuse ou mauvaise nouvelle dans la famille;aucune;;T11 jet 92.7 · T13a jet 72.5
+2041-03-05;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 3.0
+2041-03-05;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 4.6
+2041-03-06;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 46.2
+2041-03-06;Kiara Reyes;jour;avancee_objectif;T13d:apprentissage;formation, lecture ou conseil utile : décrocher un poste stable dans un centre d'appels;aucune;;T11 jet 79.7 · T13d jet 99.5
+2041-03-07;Julia Dimaculangan;jour;sans_histoire;;;message_routine à 17/07 06:58;A166;T11 jet 8.4
+2041-03-07;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 29.7
+2041-03-08;Julia Dimaculangan;jour;sans_histoire;;;partage_personnel à 16/07 20:18;A167;T11 jet 41.8
+2041-03-08;Kiara Reyes;jour;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : décrocher un poste stable dans un centre d'appels;aucune;;T11 jet 83.2 · T13d jet 40.2
+2041-03-09;Julia Dimaculangan;jour;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;aucune;;T11 jet 66.5 · T13c jet 28.1
+2041-03-09;Kiara Reyes;jour;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;message_routine à 16/07 16:12;A168;T11 jet 58.7 · T13c jet 70.5
+2041-03-10;Julia Dimaculangan;jour;coup_dur;T13a:sante;malade (grippe);aucune;;T11 jet 92.2 · T13a jet 9.2
+2041-03-10;Kiara Reyes;jour;petit_evenement;T13c:achat;achat (cadeau d'anniversaire);aucune;;T11 jet 69.3 · T13c jet 92.9
+2041-03-11;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 20.9
+2041-03-11;Kiara Reyes;jour;petit_evenement;T13c:service_rendu;service rendu ou reçu;aucune;;T11 jet 69.7 · T13c jet 48.4
+2041-03-12;Julia Dimaculangan;jour;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;aucune;;T11 jet 65.3 · T13c jet 30.6
+2041-03-12;Kiara Reyes;jour;coup_dur;T13a:sante_proche;maladie ou accident de son enfant;aucune;;T11 jet 90.3 · T13a jet 26.5
+2041-03-13;Julia Dimaculangan;jour;petit_evenement;T13c:transport_meteo;rue inondée après l'averse;aucune;;T11 jet 56.3 · T13c jet 78.7
+2041-03-13;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 4.6
+2041-03-14;Julia Dimaculangan;jour;sans_histoire;;;partage_personnel à 17/07 15:44;A169;T11 jet 38.9
+2041-03-14;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 30.6
+2041-03-15;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 3.5
+2041-03-15;Kiara Reyes;jour;coup_dur;T13a:travail;ennui avec son employeur ou un client;partage_personnel à 17/07 16:13;A170;T11 jet 89.3 · T13a jet 78.7
+2041-03-16;Julia Dimaculangan;jour;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;aucune;;T11 jet 73.8 · T13c jet 70.7
+2041-03-16;Kiara Reyes;jour;avancee_objectif;T13d:argent;somme reçue, économisée ou investie pour son objectif : décrocher un poste stable dans un centre d'appels;aucune;;T11 jet 81.7 · T13d jet 73.1
+2041-03-17;Julia Dimaculangan;jour;tournant;T13b:famille;naissance, mariage, décès ou retour d'un proche;aucune;;T11 jet 96.6 · T13b jet 39.0
+2041-03-17;Kiara Reyes;jour;sans_histoire;;;information à 16/07 16:18;A171;T11 jet 32.0
+2041-03-18;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 16.1
+2041-03-18;Kiara Reyes;jour;avancee_objectif;T13d:demarche;démarche pour son objectif : décrocher un poste stable dans un centre d'appels;information à 16/07 16:12;A172;T11 jet 84.1 · T13d jet 22.3
+2041-03-19;Julia Dimaculangan;jour;coup_dur;T13a:sante_proche;maladie ou accident de son père;aucune;;T11 jet 92.9 · T13a jet 25.4
+2041-03-19;Kiara Reyes;jour;petit_evenement;T13c:depense;dépense imprévue (réparation du téléphone);information à 16/07 16:14;A173;T11 jet 62.9 · T13c jet 0.9
+2041-03-20;Julia Dimaculangan;jour;sans_histoire;;;demande à 16/07 15:27;A174;T11 jet 18.3
+2041-03-20;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 10.0
+2041-03-21;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 18.5
+2041-03-21;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 16:07;A175;T11 jet 30.3
+2041-03-22;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 7.9
+2041-03-22;Kiara Reyes;jour;avancee_objectif;T13d:decision;décision prise pour son objectif : décrocher un poste stable dans un centre d'appels;demande à 17/07 15:59;A176;T11 jet 81.0 · T13d jet 85.1
+2041-03-23;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 36.0
+2041-03-23;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 16:05;A177;T11 jet 39.5
+2041-03-24;Julia Dimaculangan;jour;avancee_objectif;T13d:apprentissage;formation, lecture ou conseil utile : acheter un logement (ou un plus grand);aucune;;T11 jet 77.1 · T13d jet 93.2
+2041-03-24;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 11.1
+2041-03-25;Julia Dimaculangan;jour;coup_dur;T13a:logement_transport;panne, coupure ou souci de logement;message_routine à 16/07 19:14;A178;T11 jet 87.7 · T13a jet 93.4
+2041-03-25;Kiara Reyes;jour;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;aucune;;T11 jet 51.4 · T13c jet 72.3
+2041-03-26;Julia Dimaculangan;jour;sans_histoire;;;partage_personnel à 16/07 15:29;A179;T11 jet 17.7
+2041-03-26;Kiara Reyes;jour;petit_evenement;T13c:depense;dépense imprévue (frais de scolarité);aucune;;T11 jet 67.9 · T13c jet 18.2
+2041-03-27;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 7.0
+2041-03-27;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 16:01;A180;T11 jet 42.6
+2041-03-28;Julia Dimaculangan;jour;petit_evenement;T13c:depense;dépense imprévue (facture d'électricité plus lourde);aucune;;T11 jet 62.7 · T13c jet 18.9
+2041-03-28;Kiara Reyes;jour;petit_evenement;T13c:depense;dépense imprévue (frais de scolarité);demande à 16/07 16:11;A181;T11 jet 53.1 · T13c jet 9.0
+2041-03-29;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 42.3
+2041-03-29;Kiara Reyes;jour;coup_dur;T13a:sante_proche;maladie ou accident de son enfant;aucune;;T11 jet 90.4 · T13a jet 36.4
+2041-03-30;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 29.6
+2041-03-30;Kiara Reyes;jour;tournant;T13b:offre_travail;proposition d'emploi ou de collaboration ailleurs;demande à 16/07 16:06;A182;T11 jet 96.0 · T13b jet 19.6
+2041-03-31;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 39.2
+2041-03-31;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 6.9
+2041-04-01;Julia Dimaculangan;jour;coup_dur;T13a:sante_proche;maladie ou accident de sa mère;message_routine à 16/07 15:31;A183;T11 jet 85.9 · T13a jet 24.6
+2041-04-01;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 16:06;A184;T11 jet 13.2
+2041-04-02;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 44.2
+2041-04-02;Kiara Reyes;jour;coup_dur;T13a:relation;rupture, trahison d'un ami ou conflit de voisinage;information à 16/07 16:18;A185;T11 jet 87.6 · T13a jet 97.6
+2041-04-03;Julia Dimaculangan;jour;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : acheter un logement (ou un plus grand);aucune;;T11 jet 77.9 · T13d jet 53.0
+2041-04-03;Kiara Reyes;jour;sans_histoire;;;information à 16/07 16:13;A186;T11 jet 48.5
+2041-04-04;Julia Dimaculangan;jour;petit_evenement;T13c:service_rendu;service rendu ou reçu;aucune;;T11 jet 70.4 · T13c jet 51.8
+2041-04-04;Kiara Reyes;jour;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;aucune;;T11 jet 52.0 · T13c jet 75.1
+2041-04-05;Julia Dimaculangan;jour;sans_histoire;;;information à 17/07 15:32;A187;T11 jet 26.3
+2041-04-05;Kiara Reyes;jour;coup_dur;T13a:sante_proche;maladie ou accident de son enfant;information à 16/07 16:11;A188;T11 jet 90.5 · T13a jet 27.8
+2041-04-06;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 23.0
+2041-04-06;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 35.8
+2041-04-07;Julia Dimaculangan;jour;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;aucune;;T11 jet 53.0 · T13c jet 33.0
+2041-04-07;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 16:19;A189;T11 jet 7.0
+2041-04-08;Julia Dimaculangan;jour;avancee_objectif;T13d:argent;somme reçue, économisée ou investie pour son objectif : acheter un logement (ou un plus grand);aucune;;T11 jet 79.9 · T13d jet 74.7
+2041-04-08;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 29.3
+2041-04-09;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 0.5
+2041-04-09;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 42.2
+2041-04-10;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 36.0
+2041-04-10;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 4.6
+2041-04-11;Julia Dimaculangan;jour;coup_dur;T13a:argent;dépense imprévue;aucune;;T11 jet 85.8 · T13a jet 48.4
+2041-04-11;Kiara Reyes;jour;avancee_objectif;T13d:demarche;démarche pour son objectif : décrocher un poste stable dans un centre d'appels;demande à 16/07 16:00;A190;T11 jet 75.5 · T13d jet 18.2
+2041-04-12;Julia Dimaculangan;jour;petit_evenement;T13c:depense;dépense imprévue (réparation de la moto);aucune;;T11 jet 53.6 · T13c jet 15.4
+2041-04-12;Kiara Reyes;jour;sans_histoire;;;information à 16/07 16:59;A191;T11 jet 16.1
+2041-04-13;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 18.1
+2041-04-13;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 40.9
+2041-04-14;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 10.3
+2041-04-14;Kiara Reyes;jour;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;aucune;;T11 jet 58.4 · T13c jet 30.9
+2041-04-15;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 11.4
+2041-04-15;Kiara Reyes;jour;sans_histoire;;;information à 16/07 16:14;A192;T11 jet 6.5
+2041-04-16;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 13.7
+2041-04-16;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 22.4
+2041-04-17;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 38.9
+2041-04-17;Kiara Reyes;jour;tournant;T13b:rencontre;rencontre qui compte (amicale, amoureuse ou professionnelle);aucune;;T11 jet 96.1 · T13b jet 71.3
+2041-04-18;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 15.7
+2041-04-18;Kiara Reyes;jour;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;message_routine à 16/07 16:13;A193;T11 jet 73.6 · T13c jet 65.1
+2041-04-19;Julia Dimaculangan;jour;tournant;T13b:famille;naissance, mariage, décès ou retour d'un proche;aucune;;T11 jet 96.3 · T13b jet 30.9
+2041-04-19;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 39.2
+2041-04-20;Julia Dimaculangan;jour;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : acheter un logement (ou un plus grand);aucune;;T11 jet 81.6 · T13d jet 45.9
+2041-04-20;Kiara Reyes;jour;petit_evenement;T13c:transport_meteo;rue inondée après l'averse;aucune;;T11 jet 58.5 · T13c jet 78.5
+2041-04-21;Julia Dimaculangan;jour;petit_evenement;T13c:dispute_breve;querelle courte;aucune;;T11 jet 66.9 · T13c jet 52.3
+2041-04-21;Kiara Reyes;jour;petit_evenement;T13c:dispute_breve;querelle courte;information à 17/07 07:38;A194;T11 jet 62.4 · T13c jet 53.1
+2041-04-22;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 33.3
+2041-04-22;Kiara Reyes;jour;petit_evenement;T13c:depense;dépense imprévue (facture d'électricité plus lourde);aucune;;T11 jet 59.5 · T13c jet 19.7
+2041-04-23;Julia Dimaculangan;jour;sans_histoire;;;message_routine (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 33.4
+2041-04-23;Kiara Reyes;jour;coup_dur;T13a:argent;dette auprès d'un prêteur au jour le jour (« 5-6 »);aucune;;T11 jet 86.2 · T13a jet 44.5
+2041-04-24;Julia Dimaculangan;jour;sans_histoire;;;message_routine à 16/07 15:38;A195;T11 jet 0.6
+2041-04-24;Kiara Reyes;jour;avancee_objectif;T13d:apprentissage;formation, lecture ou conseil utile : décrocher un poste stable dans un centre d'appels;aucune;;T11 jet 82.8 · T13d jet 93.4
+2041-04-25;Julia Dimaculangan;jour;sans_histoire;;;demande à 16/07 15:38;A196;T11 jet 44.0
+2041-04-25;Kiara Reyes;jour;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;message_routine à 16/07 16:14;A197;T11 jet 54.4 · T13c jet 69.3
+2041-04-26;Julia Dimaculangan;jour;petit_evenement;T13c:achat;achat (matériel pour la maison);aucune;;T11 jet 59.6 · T13c jet 89.4
+2041-04-26;Kiara Reyes;jour;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : décrocher un poste stable dans un centre d'appels;demande à 16/07 18:33;A198;T11 jet 76.5 · T13d jet 36.8
+2041-04-27;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 45.6
+2041-04-27;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 5.4
+2041-04-28;Julia Dimaculangan;jour;petit_evenement;T13c:achat;achat (matériel pour la maison);aucune;;T11 jet 50.9 · T13c jet 88.3
+2041-04-28;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 19:18;A199;T11 jet 13.6
+2041-04-29;Julia Dimaculangan;jour;petit_evenement;T13c:dispute_breve;querelle courte;aucune;;T11 jet 54.6 · T13c jet 58.7
+2041-04-29;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 28.8
+2041-04-30;Julia Dimaculangan;jour;coup_dur;T13a:argent;dépense imprévue;partage_personnel à 16/07 16:20;A200;T11 jet 92.2 · T13a jet 53.7
+2041-04-30;Kiara Reyes;jour;petit_evenement;T13c:rumeur;rumeur entendue ou colportée;aucune;;T11 jet 58.9 · T13c jet 98.8
+2041-05-01;Julia Dimaculangan;jour;sans_histoire;;;demande à 16/07 15:27;A201;T11 jet 26.8
+2041-05-01;Kiara Reyes;jour;sans_histoire;;;information (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 41.9
+2041-05-02;Julia Dimaculangan;jour;petit_evenement;T13c:achat;achat (matériel pour la maison);aucune;;T11 jet 58.2 · T13c jet 92.7
+2041-05-02;Kiara Reyes;jour;avancee_objectif;T13d:argent;somme reçue, économisée ou investie pour son objectif : décrocher un poste stable dans un centre d'appels;information à 16/07 16:12;A202;T11 jet 83.5 · T13d jet 55.7
+2041-05-03;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 46.1
+2041-05-03;Kiara Reyes;jour;sans_histoire;;;message_routine à 16/07 18:43;A203;T11 jet 24.1
+2041-05-04;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 0.7
+2041-05-04;Kiara Reyes;jour;sans_histoire;;;information à 17/07 07:27;A204;T11 jet 20.9
+2041-05-05;Julia Dimaculangan;jour;petit_evenement;T13c:transport_meteo;rue inondée après l'averse;aucune;;T11 jet 50.5 · T13c jet 79.9
+2041-05-05;Kiara Reyes;jour;coup_dur;T13a:argent;dette auprès d'un prêteur au jour le jour (« 5-6 »);plainte_ou_tension à 16/07 16:18;A205;T11 jet 93.8 · T13a jet 62.9
+2041-05-06;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 28.9
+2041-05-06;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 16:10;A206;T11 jet 45.0
+2041-05-07;Julia Dimaculangan;jour;coup_dur;T13a:sante_proche;maladie ou accident de son père;aucune;;T11 jet 90.9 · T13a jet 30.9
+2041-05-07;Kiara Reyes;jour;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;aucune;;T11 jet 63.5 · T13c jet 22.2
+2041-05-08;Julia Dimaculangan;jour;petit_evenement;T13c:service_rendu;service rendu ou reçu;aucune;;T11 jet 72.9 · T13c jet 48.6
+2041-05-08;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 44.0
+2041-05-09;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 13.7
+2041-05-09;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 27.3
+2041-05-10;Julia Dimaculangan;jour;coup_dur;T13a:argent;prêt à un proche jamais rendu;aucune;;T11 jet 93.8 · T13a jet 44.6
+2041-05-10;Kiara Reyes;jour;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : décrocher un poste stable dans un centre d'appels;aucune;;T11 jet 81.3 · T13d jet 38.5
+2041-05-11;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 23.6
+2041-05-11;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 16:02;A207;T11 jet 36.2
+2041-05-12;Julia Dimaculangan;jour;tournant;T13b:offre_travail;proposition d'emploi ou de collaboration ailleurs;aucune;;T11 jet 98.0 · T13b jet 18.7
+2041-05-12;Kiara Reyes;jour;coup_dur;T13a:argent;dette auprès d'un prêteur au jour le jour (« 5-6 »);message_routine à 16/07 16:07;A208;T11 jet 90.1 · T13a jet 62.3
+2041-05-13;Julia Dimaculangan;jour;coup_dur;T13a:travail;ennui avec son employeur ou un client (contrat de six mois non renouvelé (« endo »));aucune;;T11 jet 90.2 · T13a jet 85.2
+2041-05-13;Kiara Reyes;jour;sans_histoire;;;demande à 17/07 16:06;A209;T11 jet 42.3
+2041-05-14;Julia Dimaculangan;jour;avancee_objectif;T13d:decision;décision prise pour son objectif : acheter un logement (ou un plus grand);aucune;;T11 jet 78.6 · T13d jet 82.0
+2041-05-14;Kiara Reyes;jour;sans_histoire;;;information à 17/07 16:00;A210;T11 jet 16.3
+2041-05-15;Julia Dimaculangan;jour;petit_evenement;T13c:dispute_breve;querelle courte;aucune;;T11 jet 51.6 · T13c jet 57.2
+2041-05-15;Kiara Reyes;jour;sans_histoire;;;partage_personnel (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 18.1
+2041-05-16;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 30.5
+2041-05-16;Kiara Reyes;jour;petit_evenement;T13c:dispute_breve;querelle courte;demande (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 65.6 · T13c jet 57.3
+2041-05-17;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 34.1
+2041-05-17;Kiara Reyes;jour;avancee_objectif;T13d:decision;décision prise pour son objectif : décrocher un poste stable dans un centre d'appels;message_routine (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 84.5 · T13d jet 82.0
+2041-05-18;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 7.3
+2041-05-18;Kiara Reyes;jour;sans_histoire;;;message_routine à 16/07 16:04;A211;T11 jet 4.3
+2041-05-19;Julia Dimaculangan;jour;petit_evenement;T13c:depense;dépense imprévue (cotisation imprévue);aucune;;T11 jet 74.8 · T13c jet 6.0
+2041-05-19;Kiara Reyes;jour;sans_histoire;;;message_routine à 16/07 16:05;A212;T11 jet 3.0
+2041-05-20;Julia Dimaculangan;jour;coup_dur;T13a:logement_transport;panne, coupure ou souci de logement;aucune;;T11 jet 87.0 · T13a jet 86.2
+2041-05-20;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 23.8
+2041-05-21;Julia Dimaculangan;jour;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;aucune;;T11 jet 66.6 · T13c jet 69.0
+2041-05-21;Kiara Reyes;jour;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;aucune;;T11 jet 66.2 · T13c jet 36.3
+2041-05-22;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 7.9
+2041-05-22;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 17.6
+2041-05-23;Julia Dimaculangan;jour;avancee_objectif;T13d:argent;somme reçue, économisée ou investie pour son objectif : acheter un logement (ou un plus grand);demande à 17/07 08:18;A213;T11 jet 83.1 · T13d jet 70.1
+2041-05-23;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 15.9
+2041-05-24;Julia Dimaculangan;jour;petit_evenement;T13c:depense;dépense imprévue (médicaments);aucune;;T11 jet 50.0 · T13c jet 7.9
+2041-05-24;Kiara Reyes;jour;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;information à 17/07 16:02;A214;T11 jet 72.4 · T13c jet 29.9
+2041-05-25;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 2.2
+2041-05-25;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 16:01;A215;T11 jet 43.9
+2041-05-26;Julia Dimaculangan;jour;petit_evenement;T13c:depense;dépense imprévue (frais de scolarité);aucune;;T11 jet 60.5 · T13c jet 12.5
+2041-05-26;Kiara Reyes;jour;avancee_objectif;T13d:decision;décision prise pour son objectif : décrocher un poste stable dans un centre d'appels;aucune;;T11 jet 80.3 · T13d jet 79.3
+2041-05-27;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 12.8
+2041-05-27;Kiara Reyes;jour;sans_histoire;;;information à 16/07 17:09;A216;T11 jet 45.3
+2041-05-28;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 12.2
+2041-05-28;Kiara Reyes;jour;sans_histoire;;;information à 16/07 15:59;A217;T11 jet 7.0
+2041-05-29;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 32.7
+2041-05-29;Kiara Reyes;jour;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;plainte_ou_tension à 16/07 16:04;A218;T11 jet 63.7 · T13c jet 29.6
+2041-05-30;Julia Dimaculangan;jour;sans_histoire;;;demande (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 2.5
+2041-05-30;Kiara Reyes;jour;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;aucune;;T11 jet 65.3 · T13c jet 70.1
+2041-05-31;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 39.5
+2041-05-31;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 26.3
+2041-06-01;Julia Dimaculangan;jour;petit_evenement;T13c:depense;dépense imprévue (frais de scolarité);aucune;;T11 jet 64.3 · T13c jet 8.0
+2041-06-01;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 7.3
+2041-06-02;Julia Dimaculangan;jour;avancee_objectif;T13d:decision;décision prise pour son objectif : acheter un logement (ou un plus grand);aucune;;T11 jet 78.4 · T13d jet 88.9
+2041-06-02;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 36.5
+2041-06-03;Julia Dimaculangan;jour;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : acheter un logement (ou un plus grand);aucune;;T11 jet 80.9 · T13d jet 45.2
+2041-06-03;Kiara Reyes;jour;tournant;T13b:famille;naissance, mariage, décès ou retour d'un proche;aucune;;T11 jet 96.1 · T13b jet 38.8
+2041-06-04;Julia Dimaculangan;jour;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : acheter un logement (ou un plus grand);aucune;;T11 jet 75.7 · T13d jet 45.6
+2041-06-04;Kiara Reyes;jour;petit_evenement;T13c:transport_meteo;coupure de courant dans le quartier;message_routine à 16/07 16:07;A219;T11 jet 58.7 · T13c jet 81.7
+2041-06-05;Julia Dimaculangan;jour;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;aucune;;T11 jet 50.8 · T13c jet 29.6
+2041-06-05;Kiara Reyes;jour;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : décrocher un poste stable dans un centre d'appels;aucune;;T11 jet 83.6 · T13d jet 35.5
+2041-06-06;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 7.6
+2041-06-06;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 13.8
+2041-06-07;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 1.8
+2041-06-07;Kiara Reyes;jour;sans_histoire;;;information à 16/07 16:01;A220;T11 jet 33.0
+2041-06-08;Julia Dimaculangan;jour;petit_evenement;T13c:transport_meteo;coupure de courant dans le quartier;aucune;;T11 jet 58.7 · T13c jet 90.7
+2041-06-08;Kiara Reyes;jour;sans_histoire;;;plainte_ou_tension à 16/07 16:01;A221;T11 jet 6.5
+2041-06-09;Julia Dimaculangan;jour;coup_dur;T13a:sante;malade (forte fièvre);aucune;;T11 jet 88.9 · T13a jet 14.2
+2041-06-09;Kiara Reyes;jour;coup_dur;T13a:argent;dette auprès d'un prêteur au jour le jour (« 5-6 »);demande à 16/07 16:04;A222;T11 jet 95.4 · T13a jet 38.1
+2041-06-10;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 8.3
+2041-06-10;Kiara Reyes;jour;petit_evenement;T13c:dispute_breve;querelle courte;aucune;;T11 jet 45.6 · T13c jet 58.5
+2041-06-11;Julia Dimaculangan;jour;sans_histoire;;;plainte_ou_tension (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 42.1
+2041-06-11;Kiara Reyes;jour;petit_evenement;T13c:depense;dépense imprévue (facture d'électricité plus lourde);aucune;;T11 jet 51.9 · T13c jet 3.3
+2041-06-12;Julia Dimaculangan;jour;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;aucune;;T11 jet 61.3 · T13c jet 29.5
+2041-06-12;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 40.1
+2041-06-13;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 9.2
+2041-06-13;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 12.5
+2041-06-14;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 24.5
+2041-06-14;Kiara Reyes;jour;sans_histoire;;;partage_personnel à 16/07 16:15;A223;T11 jet 14.3
+2041-06-15;Julia Dimaculangan;jour;sans_histoire;;;message_routine à 16/07 15:40;A224;T11 jet 48.0
+2041-06-15;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 37.0
+2041-06-16;Julia Dimaculangan;jour;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;aucune;;T11 jet 56.8 · T13c jet 28.9
+2041-06-16;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 39.8
+2041-06-17;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 43.2
+2041-06-17;Kiara Reyes;jour;sans_histoire;;;partage_personnel à 16/07 16:15;A225;T11 jet 20.1
+2041-06-18;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 1.9
+2041-06-18;Kiara Reyes;jour;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;message_routine à 16/07 16:19;A226;T11 jet 70.2 · T13c jet 35.5
+2041-06-19;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 46.1
+2041-06-19;Kiara Reyes;jour;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;demande à 16/07 16:13;A227;T11 jet 61.3 · T13c jet 70.0
+2041-06-20;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 15.5
+2041-06-20;Kiara Reyes;jour;avancee_objectif;T13d:demarche;démarche pour son objectif : décrocher un poste stable dans un centre d'appels;information à 16/07 16:03;A228;T11 jet 82.3 · T13d jet 9.7
+2041-06-21;Julia Dimaculangan;jour;petit_evenement;T13c:depense;dépense imprévue (facture d'électricité plus lourde);demande à 16/07 15:31;A229;T11 jet 50.1 · T13c jet 1.1
+2041-06-21;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 37.6
+2041-06-22;Julia Dimaculangan;jour;tournant;T13b:offre_travail;proposition d'emploi ou de collaboration ailleurs;aucune;;T11 jet 96.1 · T13b jet 16.8
+2041-06-22;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 1.7
+2041-06-23;Julia Dimaculangan;jour;coup_dur;T13a:argent;prêt à un proche jamais rendu;aucune;;T11 jet 92.5 · T13a jet 43.2
+2041-06-23;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 25.2
+2041-06-24;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 25.6
+2041-06-24;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 16:07;A230;T11 jet 48.7
+2041-06-25;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 18.5
+2041-06-25;Kiara Reyes;jour;coup_dur;T13a:travail;ennui avec son employeur ou un client;demande à 16/07 16:10;A231;T11 jet 93.8 · T13a jet 85.2
+2041-06-26;Julia Dimaculangan;jour;petit_evenement;T13c:depense;dépense imprévue (réparation du téléphone);aucune;;T11 jet 65.5 · T13c jet 5.0
+2041-06-26;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 0.4
+2041-06-27;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 42.5
+2041-06-27;Kiara Reyes;jour;sans_histoire;;;partage_personnel (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 11.3
+2041-06-28;Julia Dimaculangan;jour;coup_dur;T13a:argent;prêt à un proche jamais rendu;aucune;;T11 jet 87.3 · T13a jet 62.0
+2041-06-28;Kiara Reyes;jour;sans_histoire;;;message_routine (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 24.9
+2041-06-29;Julia Dimaculangan;jour;tournant;T13b:sante;diagnostic, guérison, grossesse ou opération;aucune;;T11 jet 99.5 · T13b jet 51.3
+2041-06-29;Kiara Reyes;jour;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : décrocher un poste stable dans un centre d'appels;message_routine à 16/07 16:03;A232;T11 jet 75.4 · T13d jet 37.1
+2041-06-30;Julia Dimaculangan;jour;petit_evenement;T13c:transport_meteo;embouteillage monstre sur l'EDSA;aucune;;T11 jet 57.7 · T13c jet 95.3
+2041-06-30;Kiara Reyes;jour;sans_histoire;;;message_routine à 16/07 16:09;A233;T11 jet 48.6
+2041-07-01;Julia Dimaculangan;jour;petit_evenement;T13c:service_rendu;service rendu ou reçu;information à 17/07 07:00;A234;T11 jet 66.6 · T13c jet 45.9
+2041-07-01;Kiara Reyes;jour;coup_dur;T13a:sante_proche;maladie ou accident de son enfant;aucune;;T11 jet 93.1 · T13a jet 25.2
+2041-07-02;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 12.3
+2041-07-02;Kiara Reyes;jour;coup_dur;T13a:logement_transport;panne, coupure ou souci de logement;information à 16/07 16:11;A235;T11 jet 85.6 · T13a jet 89.8
+2041-07-03;Julia Dimaculangan;jour;coup_dur;T13a:sante;malade (grippe);aucune;;T11 jet 95.5 · T13a jet 11.0
+2041-07-03;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 21.1
+2041-07-04;Julia Dimaculangan;jour;coup_dur;T13a:argent;facture en retard;aucune;;T11 jet 94.8 · T13a jet 62.0
+2041-07-04;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 16:00;A236;T11 jet 14.5
+2041-07-05;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 47.6
+2041-07-05;Kiara Reyes;jour;sans_histoire;;;information (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 10.9
+2041-07-06;Julia Dimaculangan;jour;petit_evenement;T13c:depense;dépense imprévue (facture d'électricité plus lourde);aucune;;T11 jet 56.7 · T13c jet 4.0
+2041-07-06;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 39.1
+2041-07-07;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 26.8
+2041-07-07;Kiara Reyes;jour;coup_dur;T13a:argent;dette auprès d'un prêteur au jour le jour (« 5-6 »);message_routine (pas aujourd'hui : T10 plus_tard_ou_jamais);;T11 jet 86.9 · T13a jet 59.4
+2041-07-08;Julia Dimaculangan;jour;sans_histoire;;;information à 16/07 15:45;A237;T11 jet 2.9
+2041-07-08;Kiara Reyes;jour;coup_dur;T13a:sante;malade (gastro-entérite);aucune;;T11 jet 85.2 · T13a jet 1.1
+2041-07-09;Julia Dimaculangan;jour;sans_histoire;;;aucune;;T11 jet 30.8
+2041-07-09;Kiara Reyes;jour;petit_evenement;T13c:service_rendu;service rendu ou reçu;aucune;;T11 jet 55.7 · T13c jet 47.7
+2041-07-10;Julia Dimaculangan;jour;avancee_objectif;T13d:decision;décision prise pour son objectif : acheter un logement (ou un plus grand);aucune;;T11 jet 79.1 · T13d jet 76.5
+2041-07-10;Kiara Reyes;jour;sans_histoire;;;demande à 16/07 16:08;A238;T11 jet 30.9
+2041-07-11;Julia Dimaculangan;jour;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;information à 16/07 15:46;A239;T11 jet 60.4 · T13c jet 26.5
+2041-07-11;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 44.0
+2041-07-12;Julia Dimaculangan;jour;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : acheter un logement (ou un plus grand);aucune;;T11 jet 79.2 · T13d jet 47.5
+2041-07-12;Kiara Reyes;jour;coup_dur;T13a:logement_transport;panne, coupure ou souci de logement;information à 16/07 16:09;A240;T11 jet 86.3 · T13a jet 92.8
+2041-07-13;Julia Dimaculangan;jour;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : acheter un logement (ou un plus grand);aucune;;T11 jet 77.8 · T13d jet 33.6
+2041-07-13;Kiara Reyes;jour;sans_histoire;;;aucune;;T11 jet 10.4
+2041-07-14;Julia Dimaculangan;jour;sans_histoire;;;;;T11 jet 12.1
+2041-07-14;Kiara Reyes;jour;coup_dur;T13a:argent;dette auprès d'un prêteur au jour le jour (« 5-6 »);;;T11 jet 87.2 · T13a jet 63.9
+2041-07-15;Julia Dimaculangan;jour;petit_evenement;T13c:depense;dépense imprévue (réparation de la moto);;;T11 jet 66.1 · T13c jet 6.3
+2041-07-15;Kiara Reyes;jour;sans_histoire;;;;;T11 jet 39.5
+2041-07-16;Julia Dimaculangan;jour;petit_evenement;T13c:transport_meteo;panne du MRT-3, files au quai;;;T11 jet 70.4 · T13c jet 91.3
+2041-07-16;Kiara Reyes;jour;petit_evenement;T13c:transport_meteo;embouteillage monstre sur l'EDSA;;;T11 jet 71.9 · T13c jet 84.7

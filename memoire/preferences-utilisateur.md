@@ -112,3 +112,4 @@
   17/07/2040, puis (même soir, après avoir évoqué le 1er juin) au **premier vrai jour de vacances : samedi 14/07/2040** ; demande
   d'un relais 100 % fluide entre agents et d'une simulation plus réaliste (base de données, outils, « apps »).
 - 21/10/2026 (réel) : validation de la maquette financière intégrale Solo sans enfant (Classe U, 410-625 pts, 8 980 € net à 35 ans) et du cadre d'entrepreneuriat à distance (art. 14) pour l'Univers 3.
+- 27/10/2026 (réel) : reboot de l'univers 3 « dès le premier jour » (16/07/2041, 08h37) ; il a choisi le « reboot propre » : état de départ, règles, tables et outils gardés, partie jouée archivée (Min-ji, Hye-won, Thiago, etc. ne sont pas gardés).

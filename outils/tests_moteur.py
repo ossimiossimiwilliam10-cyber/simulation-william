@@ -19,6 +19,9 @@ from pathlib import Path
 
 RACINE = Path(__file__).resolve().parent.parent
 IGNORES = shutil.ignore_patterns(".git", "archives", "sorties", ".claude", "__pycache__", "*.pyc")
+# État d'essai (27/10/2026) : les essais décrivent la fin de la première partie de l'univers 3 (Séoul, lundi 22/07/2041 09h40, tour n° 13), archivée au
+# reboot ; la copie de travail reçoit cet état par-dessus le dépôt, de sorte que les essais ne dépendent pas de la partie en cours.
+ETAT_ESSAIS = RACINE / "archives" / "univers-3-partie-1"
 
 
 class Essais:
@@ -62,6 +65,10 @@ def main():
     tmp = Path(tempfile.mkdtemp(prefix="simulation-essais-"))
     copie = tmp / "depot"
     shutil.copytree(RACINE, copie, ignore=IGNORES)
+    if ETAT_ESSAIS.exists():
+        shutil.copytree(ETAT_ESSAIS, copie, dirs_exist_ok=True, ignore=shutil.ignore_patterns("_hors-etat"))
+    else:
+        print(f"ATTENTION : état d'essai absent ({ETAT_ESSAIS}) : les essais décrivent Séoul et échoueront sur un état de départ")
     print(f"Copie de travail : {copie}")
     e = Essais(copie)
     o = "outils/"
@@ -263,7 +270,9 @@ def main():
     e.lancer(o + "reactions.py", "rencontre", "--pour", "Soo-jin", "--quand", "2041-07-23 15:00", "--lieu", "essai", "--simule",
              contient="T23", nom="réactions : rencontre en personne, puis T23")
     e.lancer(o + "courses.py", "commander", "--service", "taxi_ordinaire_seoul", "--de", "hongdae", "--vers", "seongsu",
-             "--quand", "2041-07-23 11:30", "--simule", contient="T24a", nom="courses : chauffeur de taxi tiré (aléa A33, T24a)")
+             "--quand", "2041-07-23 11:30", "--simule", nom="courses : chauffeur de taxi tiré (aléa A33, T24a)")
+    journal_sim = (e.copie / "memoire" / "simulations.jsonl").read_text(encoding="utf-8").splitlines()
+    e.verifier(any('"table": "T24a"' in l for l in journal_sim[-5:]), "courses : le tirage T24a est consigné (quelle que soit l'issue)")
     e.lancer(o + "courses.py", "annuler", "C999", attendu=1, contient="rien à annuler", nom="courses : annulation sans course")
     e.lancer(o + "controle_coherence.py", contient="RÉSULTAT")
 

@@ -1,0 +1,1 @@
+Fichiers de la première partie de l'univers 3 qui ne servent pas d'état d'essai (le reste de ce dossier recopie l'arborescence du dépôt et sert d'état d'essai à outils/tests_moteur.py) : brouillons des tours n° 2 à 9 et fin du journal des aléas ajoutée après le lancement.

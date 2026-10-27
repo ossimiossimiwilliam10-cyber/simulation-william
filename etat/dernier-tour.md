@@ -1,41 +1,26 @@
-# Dernier tour montré au joueur
+**MARDI 16 JUILLET 2041 — 08h37 — Audun-le-Tiche, chez William**
 
-> Tour n° 13 ; horloge 22/07/2041 08:42 -> 22/07/2041 09:40 ; enregistré le 23/10/2026 06:40 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+Les rayons de soleil traversent les fentes des volets de ta chambre et dessinent de fines lignes dorées sur le parquet. Aucun réveil n'a sonné. Tu ouvres les yeux naturellement, l'esprit clair et le corps parfaitement reposé après un sommeil profond de plus de neuf heures. La veille, lundi 15 juillet 2041, les dernières formalités administratives, la remise des dossiers scolaires et la clôture officielle de l'année au lycée de Luxembourg-Ville ont marqué le terme de l'année scolaire 2040-2041. Ce matin est le tout premier jour de tes grandes vacances d'été. Pas de trajet à planifier vers la frontière, pas de bouchons à anticiper sur l'autoroute vers Luxembourg-Ville, pas de leçons à dispenser avant deux mois complets.
 
-## Message du joueur
+Tu t'étires de tout ton long sur le lit. À 36 ans, ta carcasse d'un mètre quatre-vingt-seize et tes cent kilos de muscles façonnés par douze années régulières de musculation et de sports de combat ne ressentent aucune douleur parasite, simplement la détente d'un organisme qui relâche la pression du quotidien. Dans la maison, le calme est absolu. Au rez-de-chaussée, le compresseur du réfrigérateur se remet en route avec un claquement sec et régulier. Les deux chambres inutilisées de l'étage restent fermées, l'une d'elles servant de débarras bien ordonné. Près de la porte d'entrée, ton sac de sport est posé contre le mur, dégageant une discrète odeur de cuir et de protège-tibias aérés lors du dernier entraînement.
 
-> Je règle tout ça : [liste À faire du tour 12 : carte d'arrivée électronique, téléphone Wi-Fi seulement, aucun won, officetel à partir de 11h00]
+Sur le plan matériel, ta situation est d'une stabilité remarquable. Échelonné au Grade 14 (540 points indiciaires) avec tes trois leçons supplémentaires hebdomadaires en mathématiques et physique, ton traitement net mensuel lissé s'établit à 9 320 euros. Les virements permanents automatisés ont rodé la gestion de tes excédents : ton compte courant affiche 10 000 euros pour les dépenses de la vie courante, ton livret d'épargne de sécurité conserve 75 250 euros liquides, et ton portefeuille indiciel en ETF Monde atteint 670 380 euros. En ajoutant la part nette de ta maison d'Audun-le-Tiche — estimée à 200 000 euros, dont le capital restant dû sur ton crédit immobilier est descendu à 102 621,78 euros —, ton patrimoine net dépasse aujourd'hui 853 000 euros. 
 
-## Texte envoyé au joueur
+La journée s'annonce chaude et dégagée, avec 21 °C dès le lever du lit et un thermomètre qui grimpera jusqu'à 28 °C dans l'après-midi. Devant toi s'ouvrent deux mois de liberté totale jusqu'au lundi 16 septembre 2041. Cet été de tes 36 ans constitue également la période charnière idéale pour faire mûrir ton projet d'entrepreneuriat à distance, en exploitant ta liberté financière tout en calibrant le montage juridique adéquat vis-à-vis de l'article 14 du statut de la fonction publique grand-ducale. 
 
-📌 **Vraie vie** : « Je règle tout ça » est joué jusqu'à la sortie du hall : carte d'arrivée remplie dans la file (confirmation en PDF dans `courriels/`), immigration, bagages et douane passés. Je m'arrête à tes choix : téléphone, argent, trajet.
-
----
-
-**LUNDI 22 JUILLET 2041 — 09h40 — Aéroport international d'Incheon, terminal 2, hall des arrivées**
-
-Dans la file, tu scannes le code QR d'une affiche avec ton téléphone. Le Wi-Fi gratuit de l'aéroport te laisse passer après une page d'accueil en trois langues, et le formulaire de la carte d'arrivée s'ouvre en anglais : passeport, numéro de vol, adresse de l'officetel de Yeonnam-dong, six semaines de séjour, tourisme, aucun symptôme, rien à déclarer. Tu valides à 08h52. Une page de confirmation s'affiche avec un code QR plein écran, et le courriel de confirmation arrive dans la foulée, avec son PDF en pièce jointe. La file, elle, a avancé de quinze pas.
-
-Le plafond est bas, les rubans tendus en chicanes. Devant toi, une famille coréenne dont le plus petit dort sur un chariot ; derrière, deux voyageurs allemands qui comparent leurs écrans. Les annonces défilent en coréen, en anglais, en japonais, en chinois. À 09h12, tu arrives au guichet.
-
-L'agent pose la main ouverte sur ton passeport, scanne le code QR, te désigne la vitre du lecteur d'empreintes : elle est froide sous tes doigts. Il lève les yeux vers la caméra, puis vers ta taille, puis revient à l'écran. Il ne rend pas encore le passeport. Combien de temps ? Où dors-tu ? Un billet de sortie ? Il veut voir la réservation. Tu lui montres sur ton téléphone la confirmation de l'officetel et le billet retour du 2 septembre. Il tape longuement, relit la ligne de l'adresse, demande si tu travailles en Corée. Tu réponds. Il tamponne à 09h22 et glisse le passeport sous la vitre sans un mot de plus.
-
-Un escalator, un couloir de verre, puis la salle des bagages. Le carrousel du KE902 tourne à vide ; sur le côté, des valises déjà retirées attendent en rang le long du mur. La tienne est là, étiquette de Paris encore accrochée à la poignée, parmi les dernières sorties du tapis. Ton ventre gronde : il croit qu'il est deux heures et demie du matin et que le dîner n'est pas passé. Au passage de la douane, une agente jette un œil à ton écran, au code, à la valise, et fait un petit geste du menton : tu continues.
-
-Les portes coulissantes s'ouvrent à 09h40 sur le hall des arrivées : lumière blanche, comptoirs d'opérateurs mobiles alignés d'un côté, distributeurs de l'autre, une supérette tout au fond, les panneaux du train AREX en direction de Séoul. À chaque ouverture des portes extérieures, une bouffée de chaleur humide entre dans le hall.
+Ton téléphone, posé sur la table de chevet, ne signale aucun message urgent. La journée est entièrement vierge.
 
 ---
 
-**Réponses attendues**
-- **Hye-won** (WhatsApp) : tu lui as écrit à 08h14 ; pas de réponse pour l'instant.
+**Réponses attendues :**
+- Aucune pour le moment. Personne n'attend de réponse de ta part et aucune démarche immédiate n'est engagée.
 
-**À faire / à fournir avant le tour suivant**
-- **Téléphone** : Wi-Fi seulement ; les forfaits locaux (eSIM, SIM de l'aéroport) et le pass d'itinérance sont dans l'application Portefeuille.
-- **Argent** : aucun won en poche ; les distributeurs Global ATM sont dans le hall des arrivées.
-- **Trajet jusqu'à Yeonnam-dong** : train AREX (gare du terminal 2), taxi devant le hall ; l'application Kakao T n'est pas installée.
-- **Officetel de Yeonnam-dong** : accès à partir de 11h00 (convenu avec l'hôte).
+**À faire / à fournir avant le tour suivant :**
+- Choisir comment tu souhaites entamer cette première journée et organiser tes premières semaines d'été : rythme quotidien, entraînements au Minett Combat Club, démarches ou projets de voyages, et premières réflexions sur ton projet de business à distance.
 
-**Quêtes secondaires**
-- **Thiago Rocha** : la data room solaire est promise par courriel ce lundi matin, heure du Brésil (soit ce soir à Séoul).
+**Quêtes secondaires :**
+- **Minett Combat Club (Esch-sur-Alzette)** : Les entraînements estivaux suivent leur cours réduit (MMA les lundis et mercredis soirs à 19h00, sparring le samedi matin à 10h30). Fermeture annuelle programmée du lundi 12 au dimanche 25 août 2041.
+- **Rentrée scolaire 2041** : Reprise officielle des cours au lycée fixée au lundi 16 septembre 2041.
+- **Finances & virements** : Prochaine échéance du prêt PR1 (949,28 €) le lundi 5 août 2041 ; virements permanents vers la sécurité (732 €) et l'ETF Monde (5 755 €) le 2 août.
 
 Que veux-tu faire ?
