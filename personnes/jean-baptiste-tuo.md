@@ -38,4 +38,5 @@
 - 19/07/2041, 19h36 : premier message WhatsApp à William (sur le numéro reçu à 11h53 ; ton de donneur de leçons mêlé de politesse) : il se présente, remercie, propose un appel cette semaine de préférence le matin.
 - 19/07/2041, 19h44 : William lui répond lui-même (occupé, candidature pertinente, appel éventuel vendredi 26/07) ; T17 : ignore : pas de réponse.
 - 22/07/2041, 20h05 : message de refus de William sur WhatsApp (candidatures supérieures retenues, appel de vendredi annulé, remerciements, profil gardé en réserve) ; T17 : poli_bref ; T10 : le_soir_ou_lendemain : réponse brève prévue le 23/07 à 17h35 Abidjan (19h35 Luxembourg, A087).
+- 23/07/2041, 19h35 : réponse WhatsApp reçue (poli_bref) : prend acte de la décision avec courtoisie, salue la rapidité de décision et reste disponible. Dossier clos en réserve active.
 

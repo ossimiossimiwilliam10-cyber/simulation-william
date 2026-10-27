@@ -1,7 +1,7 @@
 pole;agent;statut;depuis;note
 rh;Claude (pôle RH virtuel);connecté;2041-07-19 04:02;"pôle RH virtuel de William : lit les dossiers de candidats et écrit ses notes dans l'application ; ses rapports passent par le directeur général virtuel"
 juridique;Claude (pôle juridique virtuel);connecté;2041-07-20 12:10;"compare les affirmations de tiers (avocats, administrations, candidats, documents) aux textes officiels ; décide dans son périmètre tant qu'il n'y a pas de responsable juridique réel"
-finance;;à créer;;
-technique;;à créer;;
-commercial;;à créer;;
+finance;Claude (pôle finance virtuel);connecté;2041-07-23 12:30;"modélisation financière, structure comptable OHADA, maquettes de contrats DAF et conformité fiscale"
+technique;Claude (pôle technique virtuel);connecté;2041-07-23 12:30;"spécifications d'ingénierie solaire, sécurité travaux en hauteur, habilitations et contrats d'installation toiture"
+commercial;Claude (pôle commercial virtuel);connecté;2041-07-23 12:30;"stratégie grands comptes B2B, barèmes de commissions et clauses de protection de clientèle"
 central;Claude (directeur général virtuel);connecté;2041-07-19 18:12;"double IA du directeur général : gère tous les pôles, lit la messagerie de William, relit chaque message sortant ; un seul rapport final à William chaque jour à 20h00"
