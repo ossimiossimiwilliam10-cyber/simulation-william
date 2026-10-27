@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 27/10/2026 23:09 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 27/10/2026 23:20 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : vendredi 26/07/2041 18:45 (luxembourg, UTC+2)
+## Horloge : vendredi 26/07/2041 19:10 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 16:45 ; lisbonne 17:45 ; mindelo 15:45 ; casablanca 17:45 ; douala 17:45 ; addis 19:45 ; manille 00:45 ; paris 18:45 ; seoul 01:45 ; bresil 13:45
+- **Heure dans les autres lieux** : abidjan 17:10 ; lisbonne 18:10 ; mindelo 16:10 ; casablanca 18:10 ; douala 18:10 ; addis 20:10 ; manille 01:10 ; paris 19:10 ; seoul 02:10 ; bresil 14:10
 - **En attente de William** :
-  - Réponses aux 3 questions de Mohamed Coulibaly (délégation opérationnelle, mandat social/rémunération et calendrier)
+  - Arbitrage sur les 3 conditions de Mohamed Coulibaly (clause non-concurrence, hiérarchie DAF et prise de poste au 1er octobre)
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 464,70 €**
@@ -36,9 +36,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-07-26.md, 6 dernières lignes)
-> - **08h00-10h30** (tour n° 54) : consultation stratégique avec le DG virtuel sur le voyage à Abidjan et le QG ; note stratégique remise (D020) : déplacement recommandé du 12 au 25 août (fermeture du club de MMA), ciblage villa mixte à Cocody Deux-Plateaux, budget démarrage 25 155 € (16,5 M FCFA), rappel Article 14
-> - **10h30-18h30** (tour n° 55) : validation du séjour à Abidjan de 14 jours (12 au 25 août 2041) ; temporisation du QG et du budget de démarrage jusqu'à la fin de l'entretien et la nomination de Mohamed ; fixation de la règle de gouvernance post-nomination (Mohamed communique via le DG virtuel qui filtre/vérifie tout, secret absolu sur l'IA, I42) ; entraînement intense de MMA au Minett Combat Club
-> - Tour en cours à 18h30, en attente de William : **Échanges d'ouverture et premières questions de l'entretien avec Mohamed Coulibaly (Direction Générale)**.
 > - **18h30-18h45** (tour n° 56) : Première phase de l'entretien en visio avec Mohamed Coulibaly (A091) : William présente le projet et pose les questions clés sur son retour au pays et le modèle B2B ; Mohamed répond avec clarté et mesure (T17 : poli_bref) : transition familiale progressive sur un an (fin de contrat à Bruxelles fin 2041, famille qui le rejoint à l'été 2042 à Cocody), focus B2B sur l
 > - Tirages du tour : T17 Mohamed → poli_bref (13,3).
 > - Tour en cours à 18h45, en attente de William : **Réponses aux 3 questions de Mohamed Coulibaly (délégation opérationnelle, mandat social/rémunération et calendrier)**.
+> - **18h45-19h10** (tour n° 57) : Deuxième phase de l'entretien avec Mohamed Coulibaly : William détaille le mandat social pur de DG, la rémunération Formule 1 (2 M FCFA fixe + 2,5 % CA + primes), la pyramide managériale (DAF réservée) et la mission du 12 au 25 août ; Mohamed maintient sa position (T12 : maintient_sa_position) avec accord global sous trois conditions d'arbitrage (indemnité compensa
+> - Tirages du tour : T12 → maintient_sa_position (11,99).
+> - Tour en cours à 19h10, en attente de William : **Arbitrage sur les 3 conditions de Mohamed Coulibaly (clause non-concurrence, hiérarchie DAF et prise de poste au 1er octobre)**.

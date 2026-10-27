@@ -4133,3 +4133,5 @@ Effets à jouer : A23 (lundi 22/07 (soir)) : Très courant ; William voit le mes
 - Tirage [T10] « Jean-Baptiste Tuo : délai (répond au refus de William) » : immediat 9 / rapide 18 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 20 / plus_tard_ou_jamais 18 ; modificateurs : M72 ; jet  66.4 → **le_soir_ou_lendemain** (enregistré le 27/10/2026 19:24 heure machine)
 
 - Tirage [T17] « Entretien visioconférence William et Mohamed Coulibaly » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  13.3 → **poli_bref** (enregistré le 27/10/2026 23:06 heure machine)
+
+- Tirage [T12] « Réaction de Mohamed Coulibaly à la proposition de mandat et d'organisation de William » : maintient_sa_position 42 / concede_un_peu 18 / concede_beaucoup 6 / contre_propose_avantage 12 / exige_ecrit_d_abord 10 / invoque_alternative 8 / temporise 3 / frontal_retrait 1 ; modificateurs : M94 ; jet  12.0 → **maintient_sa_position** (enregistré le 27/10/2026 23:18 heure machine)
