@@ -194,10 +194,10 @@ def main():
     e.lancer(o + "tour.py", "apercu", "--jusqua", f"{t1 + dt.timedelta(days=3):%Y-%m-%d} 08:00", contient="Aperçu de l'avance rapide")
     e.lancer(o + "telephone.py", contient="12 applications",
              nom="téléphone : écran d'accueil et douze applications (Fichiers : 27/10/2026)")
-    e.lancer(o + "telephone.py", "--fichiers", contient="fichiers/documents_william/",
-             nom="téléphone : liste des PDF à publier avec la page (application Fichiers)")
-    e.verifier((e.copie / "sorties" / "telephone" / "fichiers" / "documents_william").is_dir(),
-               "téléphone : les PDF visibles sont copiés à côté de la page")
+    e.lancer(o + "telephone.py", "--json", contient='"lien": "file:///',
+             nom="téléphone : application Fichiers, adresse directe du fichier du PC (mode direct)")
+    e.lancer(o + "telephone.py", "--fichiers", contient="[]",
+             nom="téléphone : en mode direct, aucun PDF n'est publié avec la page")
 
     print("\n[Applications du téléphone : voyages et calendrier]")
     e.lancer(o + "voyages.py", "verifier", contient="conforme")

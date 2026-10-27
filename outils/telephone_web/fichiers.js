@@ -1,6 +1,14 @@
-/* Fichiers : les PDF que William a en main (documents rédigés ou gardés, pièces reçues), classés par date ; un appui ouvre le PDF DANS la page
-   (lecteur pdf.js : le fichier publié avec la page est lu par la page, sans changer d'adresse). Les fichiers sont publiés avec la page
-   (telephone.py --fichiers) ; seuls ceux datés d'aujourd'hui ou d'avant sont listés. */
+/* Fichiers : les PDF que William a en main (documents rédigés ou gardés, pièces reçues), classés par date ; seuls ceux datés d'aujourd'hui ou d'avant sont listés.
+   Deux modes (MODE_FICHIERS de telephone.py, D.fichiers_mode) : "direct" (un appui ouvre le fichier du PC par son adresse file:///) et "lecteur"
+   (le PDF, publié avec la page par telephone.py --fichiers, est lu DANS la page par pdf.js ; un lien vers le fichier publié est refusé par le viewer). */
+const FICHIERS_DIRECT = D.fichiers_mode === "direct";
+/* Ligne d'un fichier : un lien direct en mode "direct", un bouton qui ouvre le lecteur sinon. */
+function ligneFichier(f, contenu, ouvrirLecteur) {
+  if (FICHIERS_DIRECT) {
+    const a = el("a", "ligne"); a.href = f.lien; a.target = "_blank"; a.rel = "noopener"; a.append(...contenu); return a;
+  }
+  const b = el("button"); b.type = "button"; const g = el("div", "ligne"); g.append(...contenu); b.append(g); b.addEventListener("click", ouvrirLecteur); return b;
+}
 function lecteurPdf(main, ui, f, retour, libelleRetour) {
   main.replaceChildren(); ui.titre(f.nom, f.dossier + " · " + dateFr(f.date));
   const r = el("button", "retour", "‹ " + libelleRetour); r.type = "button"; r.addEventListener("click", retour); main.append(r);
@@ -62,9 +70,8 @@ appli({
         if (!lignes.length) return zone.append(vide("Rien dans ce dossier", "Aucun fichier de ce type pour le moment."));
         const l = el("div", "liste");
         lignes.forEach(f => {
-          const b = el("button"); b.type = "button"; const g = el("div", "ligne");
-          g.append(el("span", "titre", f.nom), el("span", "quand", dateFr(f.date)), el("span", "sous", f.dossier + " · PDF · " + f.ko + " Ko"));
-          b.append(g); b.addEventListener("click", () => lecteurPdf(main, ui, f, liste, "Fichiers")); l.append(b);
+          l.append(ligneFichier(f, [el("span", "titre", f.nom), el("span", "quand", dateFr(f.date)), el("span", "sous", f.dossier + " · PDF · " + f.ko + " Ko")],
+            () => lecteurPdf(main, ui, f, liste, "Fichiers")));
         });
         zone.append(l);
       };

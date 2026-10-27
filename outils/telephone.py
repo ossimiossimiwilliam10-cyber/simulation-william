@@ -26,6 +26,7 @@ import re
 import shutil
 import sys
 import unicodedata
+from pathlib import Path
 
 from commun import ETAT, OUTILS, RACINE, SORTIES, JOURS, MOIS, ecrire_texte, lire_csv, lire_texte, maintenant_simule, utf8
 
@@ -43,6 +44,16 @@ APPLIS = [("messages", None), ("courriels", None), ("fichiers", None), ("banque"
 # courriels/ DATÉS d'un jour passé ou du jour même sont copiés dans sorties/telephone/fichiers/ et publiés avec la page (`--fichiers`).
 DOSSIERS_FICHIERS = ("documents_william", "Documents"), ("courriels", "Reçus")
 FICHIERS = SORTIES / "telephone" / "fichiers"
+# Mode de l'application Fichiers (demande de l'utilisateur, 27/10/2026, « pour l'instant, le lien direct ») :
+#   "direct"  : un appui ouvre le fichier du PC par son adresse file:/// (dossier principal du dépôt) ; rien n'est publié avec la page ;
+#   "lecteur" : le PDF est publié avec la page et lu dans la page (pdf.js) ; un lien vers le fichier publié est refusé par le viewer (constaté).
+MODE_FICHIERS = "direct"
+
+
+def racine_principale():
+    """Dossier principal du dépôt (celui qui porte `master`) : le dossier de travail d'un worktree peut disparaître, pas celui-ci."""
+    parties = RACINE.parts
+    return Path(*parties[:parties.index(".claude")]) if ".claude" in parties else RACINE
 
 
 def _nom_publie(nom):
@@ -62,6 +73,7 @@ def fichiers_visibles(jour):
             objet = re.sub(r"\b([dl]) (?=[AEIOUÉÈÊÎÔÂaeiouéèêîôâh])", r"\1'", m.group(2).replace("_", " "))  # « d Ivoire » -> « d'Ivoire »
             res.append({"nom": objet[:1].upper() + objet[1:], "fichier": p.name, "dossier": libelle, "date": m.group(1),
                         "ko": max(1, round(p.stat().st_size / 1024)), "url": f"fichiers/{dossier}/{_nom_publie(p.name)}",
+                        "lien": (racine_principale() / dossier / p.name).as_uri(),
                         "source": f"{dossier}/{p.name}"})
     res.sort(key=lambda f: (f["date"], f["nom"]), reverse=True)
     return res
@@ -111,9 +123,9 @@ def donnees():
                            key=lambda c: c["messages"][-1]["date"] + c["messages"][-1]["heure"], reverse=True)
     # courriels
     fichiers = fichiers_visibles(jour)
-    urls = {f["source"]: f["url"] for f in fichiers}
+    liens = {f["source"]: f for f in fichiers}
     courriels = [{"date": d["date"], "objet": d["objet"][:1].upper() + d["objet"][1:], "fichier": d["fichier"],
-                  "url": urls.get(f"courriels/{d['fichier']}", "")}
+                  "url": liens.get(f"courriels/{d['fichier']}", {}).get("url", ""), "lien": liens.get(f"courriels/{d['fichier']}", {}).get("lien", "")}
                  for d in base.lire_documents() if d["dossier"] == "courriels" and d["date"] <= jour.isoformat()]
     courriels.sort(key=lambda c: c["date"], reverse=True)
     # banque
@@ -158,7 +170,7 @@ def donnees():
         "reseau": reseau, "lieu": h["lieu"].split(",")[0].split(" (")[0],
         "meteo": {"maintenant": maintenant_c, "previsions": previsions, "lever": f"{lev:%H:%M}", "coucher": f"{cou:%H:%M}",
                   "alertes": alertes_meteo(jour)},
-        "conversations": conversations, "courriels": courriels, "fichiers": [{k: v for k, v in f.items() if k != "source"} for f in fichiers],
+        "conversations": conversations, "courriels": courriels, "fichiers": [{k: v for k, v in f.items() if k != "source"} for f in fichiers], "fichiers_mode": MODE_FICHIERS,
         "banque": banque, "agenda": evts[:40],
     }
 
@@ -193,7 +205,7 @@ def construire():
     dossier = SORTIES / "telephone"
     ecrire_texte(dossier / "index.html", html)
     ecrire_texte(dossier / "telephone.json", json.dumps(d, ensure_ascii=False, indent=1))
-    copier_fichiers(fichiers_visibles(t.date()))
+    copier_fichiers(fichiers_visibles(t.date()) if MODE_FICHIERS == "lecteur" else [])
     return dossier / "index.html", d
 
 
@@ -288,7 +300,7 @@ def main():
             print(l)
         return 0
     if args.fichiers:
-        print(json.dumps([{"path": f["url"]} for f in fichiers_visibles(maintenant_simule().date())], ensure_ascii=False))
+        print(json.dumps([{"path": f["url"]} for f in fichiers_visibles(maintenant_simule().date())] if MODE_FICHIERS == "lecteur" else [], ensure_ascii=False))
         return 0
     if args.marquer_publie:
         marquer_publie()

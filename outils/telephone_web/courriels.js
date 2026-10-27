@@ -7,11 +7,10 @@ appli({
     if (!D.courriels.length) return main.append(vide("Boîte de réception vide", "Les courriers et courriels reçus par William apparaîtront ici."));
     const l = el("div", "liste");
     D.courriels.forEach(c => {
-      const b = el("button"); b.type = "button"; const g = el("div", "ligne");
-      g.append(el("span", "titre", c.objet), el("span", "quand", dateFr(c.date)), el("span", "sous", "Pièce jointe : " + c.fichier));
-      b.append(g); l.append(b);
-      if (c.url) b.addEventListener("click", () => lecteurPdf(main, ui, { nom: c.objet, fichier: c.fichier, url: c.url, dossier: "Reçus", date: c.date },
-        () => ouvrir("courriels"), "Courriels"));
+      const contenu = [el("span", "titre", c.objet), el("span", "quand", dateFr(c.date)), el("span", "sous", "Pièce jointe : " + c.fichier)];
+      if (!c.lien) { const g = el("div", "ligne"); g.append(...contenu); l.append(g); return; }
+      l.append(ligneFichier({ lien: c.lien }, contenu, () => lecteurPdf(main, ui, { nom: c.objet, fichier: c.fichier, url: c.url, dossier: "Reçus", date: c.date },
+        () => ouvrir("courriels"), "Courriels")));
     });
     main.append(l);
   },
