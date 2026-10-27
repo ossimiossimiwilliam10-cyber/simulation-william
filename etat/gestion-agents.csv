@@ -1,7 +1,7 @@
 pole;agent;statut;depuis;note
-rh;Claude (pôle RH virtuel);connecté;2041-07-19 04:02;pôle RH virtuel de William : lit les dossiers de candidats et écrit ses notes dans l'application
+rh;Claude (pôle RH virtuel);connecté;2041-07-19 04:02;"pôle RH virtuel de William : lit les dossiers de candidats et écrit ses notes dans l'application ; ses rapports passent par le directeur général virtuel"
 juridique;;à créer;;
 finance;;à créer;;
 technique;;à créer;;
 commercial;;à créer;;
-central;Claude (directeur général virtuel);connecté;2041-07-19 18:12;double IA du directeur général : examine les réponses de tous les pôles avant qu'elles parviennent à William, lit sa messagerie, répond à ses questions avant toute décision
+central;Claude (directeur général virtuel);connecté;2041-07-19 18:12;"double IA du directeur général : gère tous les pôles, lit la messagerie de William, relit chaque message sortant ; un seul rapport final à William chaque jour à 20h00"
