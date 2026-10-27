@@ -4139,3 +4139,5 @@ Effets à jouer : A23 (lundi 22/07 (soir)) : Très courant ; William voit le mes
 - Tirage [T12] « Réaction de Mohamed Coulibaly à la contre-proposition de William sur les 10 mois à 40 % et l'équipe » : maintient_sa_position 34 / concede_un_peu 22 / concede_beaucoup 6 / contre_propose_avantage 14 / exige_ecrit_d_abord 10 / invoque_alternative 8 / temporise 5 / frontal_retrait 1 ; modificateurs : aucun ; jet  29.3 → **maintient_sa_position** (enregistré le 27/10/2026 23:29 heure machine)
 
 - Tirage [T10] « Délai de réponse de Mohamed Coulibaly au protocole de communication et à l'organigramme » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  79.2 → **le_soir_ou_lendemain** (enregistré le 27/10/2026 23:45 heure machine)
+
+- Tirage [T17] « Reaction de Mariam Brou a la notification de pre-selection DAF et a la maquette de contrat » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  58.1 → **ignore** (enregistré le 28/10/2026 00:11 heure machine)

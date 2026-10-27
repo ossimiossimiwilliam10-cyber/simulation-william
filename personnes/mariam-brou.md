@@ -37,3 +37,4 @@
 - 21/07/2041, 15:12 : note de réseau calculée (88/100, au-dessus du seuil de 70) ; message de l'agent IA lui fournissant l'adresse courriel professionnelle du projet pour transmettre son dossier et deux références professionnelles.
 - 25/07/2041, 11h30 : dossier d'évaluation complet finalisé par le pôle RH (D015, note 88/100).
 - 25/07/2041, 12h20 : William confirme son positionnement exclusif pour la Direction Administrative et Financière (DAF) ; temporisation validée (sécurisation préalable de Mohamed Coulibaly au poste de DG avant sa prise de contact pour la DAF).
+- 27/07/2041, 09h45 : message officiel du pôle RH l'informant de sa sélection formelle pour le poste de DAF, lui transmettant la maquette de contrat Niveau 2 (D025) et lui annonçant qu'elle sera contactée directement par le Directeur Général ; tirage T17 : ignore (jet 58,1) : Mariam prend acte sans urgence, étudie le contrat et attend la prise de contact du Directeur Général.

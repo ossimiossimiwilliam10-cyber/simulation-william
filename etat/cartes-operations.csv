@@ -1,2 +1,4 @@
 id;date;heure;carte;montant;marchand;statut;periode;debit;reference;note
 K001;2041-07-16;12:33;visa_debit;24.30;Abonnement agent IA (formule Pro, engagement 12 mois);autorise;2041-07-01→2041-07-31;;AIA-001;
+K002;2041-07-27;09:15;visa_premier;1285.00;Air France;autorise;2041-06-28→2041-07-30;2041-08-07;;
+K003;2041-07-27;09:30;visa_premier;73.00;SNEDAI Côte d'Ivoire (e-visa);autorise;2041-06-28→2041-07-30;2041-08-07;;
