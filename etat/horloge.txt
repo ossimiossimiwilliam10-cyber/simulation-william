@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-07-16 10:46
+horloge: 2041-07-16 11:55
 fuseau: luxembourg
 lieu: Audun-le-Tiche (Moselle), chez William
-tour: 2
-attente: Suite à donner aux deux rapports de l'agent IA (Brésil, Côte d'Ivoire) ; journée libre (pas d'entraînement le mardi)
+tour: 3
+attente: Suite à donner à la réponse de l'agent IA (Côte d'Ivoire, SAS OHADA, solaire B2B) ; journée libre (pas d'entraînement le mardi)

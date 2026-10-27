@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 27/10/2026 12:51 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 27/10/2026 13:36 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mardi 16/07/2041 10:46 (luxembourg, UTC+2)
+## Horloge : mardi 16/07/2041 11:55 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 08:46 ; lisbonne 09:46 ; mindelo 07:46 ; casablanca 09:46 ; douala 09:46 ; addis 11:46 ; manille 16:46 ; paris 10:46 ; seoul 17:46 ; bresil 05:46
+- **Heure dans les autres lieux** : abidjan 09:55 ; lisbonne 10:55 ; mindelo 08:55 ; casablanca 10:55 ; douala 10:55 ; addis 12:55 ; manille 17:55 ; paris 11:55 ; seoul 18:55 ; bresil 06:55
 - **En attente de William** :
-  - Suite à donner aux deux rapports de l'agent IA (Brésil, Côte d'Ivoire) ; journée libre (pas d'entraînement le mardi)
+  - Suite à donner à la réponse de l'agent IA (Côte d'Ivoire, SAS OHADA, solaire B2B) ; journée libre (pas d'entraînement le mardi)
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **10 000,00 €**
@@ -35,9 +35,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-07-16.md, 6 dernières lignes)
-> - Traitement net mensuel : 9 320,00 € (Gr. 14, 540 pts + 3 leçons sup). Répartition : socle vital 2 000 €, vacances 833 €, sécurité liquide 732 €, ETF Monde 5 755 €.
-> - **08h37-08h37** (tour n° 1) : Premier réveil des vacances d'été à 36 ans chez lui à Audun-le-Tiche (Moselle) après la clôture de l'année scolaire hier au Luxembourg.
 > - Tour en cours à 08h37, en attente de William : **Premier jour des vacances d'été à 36 ans**.
 > - **08h37-10h46** (tour n° 2) : Lever à 08h50 ; rythme de l'été fixé (club lundi, mercredi, vendredi après-midi, course de 5 km le dimanche matin, pas de sparring le samedi) ; trois rappels enregistrés sur le téléphone (fermeture du club 12-25/08, rentrée du 16/09, prêt du 5 août et virements du 2 août) ; Claude désigné agent IA officiel, recherches lancées à 09h02 (Brésil, puis Côte d'Ivoire) ; r
 > - Aléas de la semaine du 15/07/2041 tirés (tirage réel, 27/10/2026) : A23 (arnaque par SMS) dimanche 21/07 au matin, agenda A004 ; A31 (santé en voyage) samedi 20/07 au soir, agenda A005, sans objet si William est en France ; non connus
 > - Tour en cours à 10h46, en attente de William : **Suite à donner aux deux rapports de l'agent IA (Brésil, Côte d'Ivoire) ; journée libre (pas d'entraînement le mardi)**.
+> - **10h46-11h55** (tour n° 3) : Une heure de travail avec un autre agent IA sur les deux rapports : budget arrêté de 300 000 € sur 2 à 3 ans (tranches 20 / 45 / 35 %, coussin de 25 250 €) ; à 11h52, analyse collée à Claude et question finale (une seule réponse) ; réponse : Côte d'Ivoire, SAS OHADA, William associé non-gérant, premier dossier solaire B2B sur toitures à Abidjan, avec une correction 
+> - Tour en cours à 11h55, en attente de William : **Suite à donner à la réponse de l'agent IA (Côte d'Ivoire, SAS OHADA, solaire B2B) ; journée libre (pas d'entraînement le mardi)**.

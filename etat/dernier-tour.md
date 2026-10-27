@@ -1,38 +1,44 @@
 # Dernier tour montré au joueur
 
-> Tour n° 2 ; horloge 16/07/2041 08:37 -> 16/07/2041 10:46 ; enregistré le 27/10/2026 12:51 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 3 ; horloge 16/07/2041 10:46 -> 16/07/2041 11:55 ; enregistré le 27/10/2026 13:36 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Alors, comment est-ce que je souhaite entamer cette première journée? Déjà, il y a mes entraînements au Minute Club. Hein. Donc, en termes d'entraînement, globalement, je m'entraîne le lundi dans l'après-midi, le mercredi dans l'après-midi, le vendredi dans l'après-midi, et le dimanche, je vais parcourir le matin environ 5 km. Je vais garder ce rythme durant tout l'été, en tout cas. Voilà. Et tout de suite, je décide d'utiliser Claude, qui sera déjà bien boosté d'ici là, vu que là, on est en 2026, il fait déjà des trucs de fou, donc j'imagine pas comment ce sera dans 10 ans. Non, même pas dans 10 ans, c'est dans 15 ans. Et donc, je commence à faire des recherches avec Claude. Donc, Claude, ce sera mon agent IA officiel. Hein. Et là, je décide en fait de faire des recherches pour savoir quels sont les domaines les plus, comment dire, qui n'attendent qu'un investissement et qui sont les plus... En fait, où il y a une demande forte, en fait, où on peut lancer un business, un projet. Donc, dans un premier temps, au Brésil et dans un autre temps, en Côte d'Ivoire. Donc voilà, je lance les recherches et j'attends les résultats. Alors, concernant les quêtes secondaires, donc j'ai pris note, hein, du coup, justement, donc MML est lundi, donc ça correspond à ma séance du lundi et le mercredi aussi. Du coup, j'irai pas au sparring le samedi matin, donc au Minute Club, vu que je m'entraîne pas le samedi. Et j'ai également pris note de la fermeture qui est programmée. Je l'enregistre comme sur mon téléphone pour faire un rappel. J'ai pris note de la reprise officielle des cours au lycée luxembourgeois. Je fais également une note automatique sur mon téléphone pour le rappel. J'ai également pris note des prochaines échéances du prêt et des virements permanents vers la sécurité et le TF Monde.
+> Je fournis cette analyse à Claude que j'ai réalisée avec un autre agent et avec mes propres connaissances. Je lui pose donc la question finale, où est-ce qu'on va? Un seul choix possible, sans encre deux. Il faut une seule réponse.
+> 
+> [Analyse collée par le joueur (environ 3 000 mots), résumée ici ; texte intégral fourni dans la conversation du 27/10/2026] : budget de 300 000 € sur 2 à 3 ans ; arbitrage entre la maturité du modèle d'affaires (solaire distribué au Brésil, compatibilité 4/5) et la maîtrise du risque à distance (Côte d'Ivoire, compatibilité 3/5) ; patrimoine financier recensé de 745 630 € (épargne de sécurité 75 250 € et ETF 670 380 €), coussin de 25 250 € conservé, 50 000 € mobilisables sur l'épargne et 250 000 € à tirer des flux futurs ou de l'ETF (maximum 37,3 % de l'ETF) ; 300 000 € = 196 787 100 FCFA (parité fixe 655,957) ou environ 1,68 à 1,74 million de reais ; retenue de 10 % sur les dividendes au Brésil (loi 15.270/2025) ; « Choix n° 1 » proposé : Côte d'Ivoire en déploiement modulaire (autoproduction solaire B2B, logement abordable, coentreprise dans l'anacarde) ; « Choix n° 2 » : solaire distribué au Brésil ; trois phases conditionnelles : année 1, 20 % (60 000 €), année 2, 45 % (135 000 €), année 3, 35 % (105 000 €) ; plan chiffré : 25 250 € de coussin et 50 000 € isolés sous 30 jours, 5 000 € d'audit fiscal et statutaire, 5 000 € de mission et de vérification du partenaire, SAS ou LTDA avec pacte d'associés (audit annuel indépendant et autorisation préalable de l'investisseur pour toute dépense de plus de 5 000 €) ; l'analyse se termine par la question : approfondir en priorité la SAS en Côte d'Ivoire (solaire B2B ou immobilier résidentiel) ou la simulation d'un parc solaire distribué de 300 000 € au Brésil.
 
 ## Texte envoyé au joueur
 
-📌 **Vraie vie** : interprété : « Minute Club » = Minett Combat Club, « MML » = MMA, « TF Monde » = ETF Monde. Les deux rapports de ton agent IA sont de vrais PDF dans `documents_william/` (je peux te les envoyer) ; leurs chiffres sont des repères 2025-2026, le rapport le dit.
+📌 **Vraie vie** : interprété : « sans encre deux » = « sans encore deux ».
 
 ---
 
-**MARDI 16 JUILLET 2041 — 10h46 — Audun-le-Tiche, chez William**
+**MARDI 16 JUILLET 2041 — 11h55 — Audun-le-Tiche, chez William**
 
-Tu te lèves à 08h50. Douche, puis la cuisine : le café coule dans la machine pendant que tu fixes ton été. Salle le lundi, le mercredi et le vendredi l'après-midi, cinq kilomètres le dimanche matin, rien le samedi, donc pas de sparring. Les séances de MMA du club tombent sur ton lundi et ton mercredi, ça colle. Sur ton téléphone, tu enregistres trois rappels : la fermeture du club du 12 au 25 août, la rentrée du lundi 16 septembre, et les échéances du début d'août, le prélèvement du prêt le 5 et les virements permanents le 2.
+Tu passes l'heure suivante à croiser les deux rapports avec un autre agent IA et avec ce que tu sais déjà. Un budget ressort : 300 000 € sur deux à trois ans, un coussin de 25 250 € laissé sur l'épargne, trois tranches de 20, 45 et 35 %, la première plafonnée à 60 000 € tant que le partenaire local n'a pas fait ses preuves. Le dossier compare la Côte d'Ivoire et le solaire distribué au Brésil, chiffres à l'appui, et se termine par une question ouverte.
 
-À 09h02, ordinateur portable ouvert sur la table de la cuisine, tu lances Claude, ton agent IA officiel. Tu lui demandes de chercher les domaines où la demande est forte et où l'on peut lancer un projet ou placer de l'argent : le Brésil d'abord, la Côte d'Ivoire ensuite. La réponse tombe en quelques secondes : « Compris. Deux passes, dans cet ordre. Je te préviens dès que chaque rapport est prêt. » Un petit voyant de progression apparaît, et l'agent se met à lire.
+À 11h52, tu colles toute l'analyse dans la conversation avec Claude et tu poses la question finale : où est-ce qu'on va ? Une seule réponse, sans second choix.
 
-Tu rinces ta tasse, tu ouvres les volets du salon. Dehors, le ciel est dégagé, l'air déjà tiède, la rue vide. Tu fais le tour de la maison, tu vérifies que rien ne traîne, tu reviens t'asseoir avec un deuxième café. Le voyant tourne.
+La réponse apparaît en quelques secondes :
 
-À 09h41, ton téléphone vibre : « Rapport n° 1 — Brésil ». Quatre pages en PDF, rangées avec tes documents. Tu lis. Les secteurs où la demande est la mieux documentée sont l'énergie (le solaire distribué, passé de moins de 1 GW en 2018 à 40 GW en 2025), le stockage par batteries, les centres de données, l'eau et l'assainissement. Un tableau les classe selon ton profil : le solaire distribué en tête, les centres de données et l'assainissement hors de portée à ton échelle. Plus loin, le cadre : un associé étranger doit avoir un CPF, la société doit avoir un administrateur résident au Brésil, le capital étranger s'enregistre à la Banque centrale, et depuis 2026 une retenue de 10 % frappe les dividendes versés à un non-résident. Le crédit local tourne autour de 14 %, le change reste un risque. Une page entière rappelle ton statut : associé non-gérant sans mandat exécutif, c'est admis ; gérer toi-même, non, sans autorisation. L'agent signale lui-même deux trous : l'agro-industrie et l'assainissement n'ont pas de source récente exploitable.
+« Côte d'Ivoire. Une SAS de droit OHADA dont tu es associé non-gérant, un gérant local, et pour premier dossier l'autoproduction solaire B2B sur des toitures d'entreprises à Abidjan.
 
-L'agent enchaîne seul sur la seconde passe. À 10h34, nouveau message : « Rapport n° 2 — Côte d'Ivoire ». Quatre pages encore. Croissance de 6 à 6,7 % par an, inflation très basse, franc CFA à parité fixe avec l'euro : aucun risque de change pour toi. Les secteurs qui ressortent sont la transformation de l'anacarde (43 % transformé localement en 2025, contre 2 % en 2011), les grandes centrales solaires, le logement abordable (un déficit estimé à plus de 800 000 logements). Les paiements mobiles sont verrouillés par Orange, MTN et Wave. Le guichet unique du CEPICI annonce une société en 24 à 72 heures, mais les frais et les règles pour un associé étranger ne viennent que de sources non officielles. Un tableau compare les deux pays : change, langue, décalage horaire, procédure. Le message de fin est sec : « Rien n'est engagé. Ces rapports cartographient des secteurs, ils n'examinent aucun projet ni aucun partenaire. »
+Trois raisons. Aucun risque de change : 1 € = 655,957 FCFA. Tu lis toi-même tes contrats, en français, à deux heures du Luxembourg ; au Brésil tout se joue en portugais, à cinq heures, avec un administrateur résident à surveiller et 10 % retenus sur chaque dividende. Et la première tranche de 60 000 € limite ce que tu perds si le partenaire local ne tient pas.
 
-Il est 10h46. Les deux PDF sont rangés avec tes documents. Dans la cuisine, la machine à café refroidit.
+Ce que je ne sais pas : la demande réelle des entreprises ivoiriennes pour ce solaire. Mes deux rapports ne la documentent pas. La première tranche sert d'abord à le vérifier.
+
+Une correction au plan : exiger ton autorisation préalable pour toute dépense de plus de 5 000 € ressemble à un acte de gestion, que ton statut ne permet pas sans autorisation. Prévois à la place un droit d'information et un audit annuel indépendant, et fais valider la formulation par l'avocat. »
+
+Il est 11h55. L'analyse reste ouverte dans la conversation.
 
 ---
 
 **Réponses attendues**
-- **Claude** (ton agent IA) : les deux rapports sont livrés ; il attend tes consignes pour la suite.
+- **Claude** (ton agent IA) : a répondu à ta question ; il attend ta consigne.
 
 **À faire / à fournir avant le tour suivant**
-- Aucune démarche en cours : rien n'est engagé ni réservé.
+- Aucune démarche engagée : aucun argent n'a bougé, aucun contact n'est pris.
 
 **Quêtes secondaires**
 - Rien en suspens en dehors de ce que tu as déjà noté.
