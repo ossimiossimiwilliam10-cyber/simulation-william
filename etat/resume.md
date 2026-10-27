@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 27/10/2026 13:48 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 27/10/2026 13:57 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mardi 16/07/2041 13:06 (luxembourg, UTC+2)
+## Horloge : mardi 16/07/2041 13:44 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 11:06 ; lisbonne 12:06 ; mindelo 10:06 ; casablanca 12:06 ; douala 12:06 ; addis 14:06 ; manille 19:06 ; paris 13:06 ; seoul 20:06 ; bresil 08:06
+- **Heure dans les autres lieux** : abidjan 11:44 ; lisbonne 12:44 ; mindelo 10:44 ; casablanca 12:44 ; douala 12:44 ; addis 14:44 ; manille 19:44 ; paris 13:44 ; seoul 20:44 ; bresil 08:44
 - **En attente de William** :
-  - Feu vert de William pour publier l'annonce (annonce, règles de tri, réponse automatique, rapport de 18h00) ; réponse du ministère attendue ; journée libre (pas d'entraînement le mardi)
+  - Rapport de Claude à 18h00 ; réponse du ministère attendue ; journée libre (pas d'entraînement le mardi)
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **9 975,70 €**
@@ -14,8 +14,9 @@
 - Part nette de la maison d'Audun-le-Tiche : **97 378,22 €**
 - Patrimoine net de William : **852 983,92 €**
 
-## Agenda : dans les 24 heures (0)
-- rien
+## Agenda : dans les 24 heures (2)
+- A007 Tue 16/07 18:00 (luxembourg) | Claude (agent IA) : Rapport quotidien de l'agent IA à William : réponses à l'annonce (niveaux A, B, C), signaux d'alerte, état des plateformes [prevu]
+- A008 Wed 17/07 09:12 (luxembourg) | NovoJob (modération) : L'annonce de William est validée par la modération de NovoJob et mise en ligne (tirage : validée dans les 24 heures) ; l'agent IA le signale à William [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
 ## Agenda : de J+1 à J+7 (3)
 - A005 Sat 20/07 20:30 (luxembourg) | William (santé) : Aléa A31 (tirage réel du 16/07/2041) : diarrhée du voyageur ou intoxication alimentaire, seulement si William est à l'étranger ce jour-là ; sinon sans objet (à clore ainsi) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
 - A004 Sun 21/07 09:40 (luxembourg) | Inconnu (SMS) : Aléa A23 (tirage réel du 16/07/2041, semaine du 15/07) : tentative d'arnaque par SMS (faux colis ou faux conseiller bancaire) ; William voit le message et décide ; à jouer sans détail annoncé [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
@@ -23,6 +24,7 @@
 (Les lignes « NON CONNU DE WILLIAM » servent au moteur : ne jamais les montrer au joueur avant le jour dit.)
 
 ## Affaires ouvertes (T4/T5 chaque dimanche soir)
+- affaire_projet_ci_annonce : 2 informé(s) hors William ; fuite interne 6 %, externe 2 %
 - affaire_projet_ci_art14 : 1 informé(s) hors William ; fuite interne 3 %, externe 1 %
 
 ## Fêtes et fériés dans les 30 jours
@@ -36,9 +38,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-07-16.md, 6 dernières lignes)
-> - Tour en cours à 11h55, en attente de William : **Suite à donner à la réponse de l'agent IA (Côte d'Ivoire, SAS OHADA, solaire B2B) ; journée libre (pas d'entraînement le mardi)**.
-> - **11h55-13h06** (tour n° 4) : Courriel à info@men.lu (ministère de l'Éducation) à 12h14 : demande d'avis et d'autorisation (article 14) pour une participation non exécutive en Côte d'Ivoire, avec ses questions (démarche, limites, faisabilité) et sa situation d'enseignant ; copie dans documents_william/ ; réponse du ministère tirée pour le 29/07/2041 à 10h22 (9e jour ouvrable, avec complément dem
-> - 12h16 : décision notée « c'est parti pour la Côte d'Ivoire » ; 12h20 : conversation avec Claude épinglée (etat/epingles.csv, whatsapp/claude-agent-ia.md) ; 12h33 : abonnement à l'agent IA, formule Pro avec engagement de 12 mois, 24,30 € par mois, Visa Debit (K001, échéancier E016, PX063), confirmation en PDF dans courriels/
-> - 12h41-13h04 : agent IA connecté à LinkedIn (profil trouvé, tirage), Educarriere.ci et NovoJob (comptes ouverts) ; Indeed : justificatif d'entreprise demandé ; Emploi.ci : refusé (société ivoirienne exigée) ; annonce, règles de tri, réponse automatique et rapport quotidien de 18h00 prêts dans documents_william/ ; rien n'est publié, feu vert de William attendu
 > - Tirages du tour : jet « William a déjà un profil LinkedIn à son nom, ouvert depuis d » → OUI (78,58) ; jet « Indeed : le compte recruteur de William est créé et validé s » → NON (75,31) ; jet « Emploi.ci : le compte recruteur de William est accepté sans  » → NON (48,92) ; jet « Educarriere.ci : le compte recruteur de William est accepté  » → OUI (30,59) ; jet « NovoJob : le compte recruteur de W
 > - Tour en cours à 13h06, en attente de William : **Feu vert de William pour publier l'annonce (annonce, règles de tri, réponse automatique, rapport de 18h00) ; réponse du ministère attendue ; journée libre (pas d'entraînement le mardi)**.
+> - **13h06-13h44** (tour n° 5) : 13h07 : autorisation donnée à Claude (publier l'annonce, tri A/B/C, réponses automatiques, rapport de 18h00) ; 13h09 : annonce publiée sur LinkedIn depuis le profil de William ; Educarriere.ci : validée à 13h31 (tirage : dans l'heure) ; NovoJob : en modération (validation tirée pour le 17/07 à 09h12, agenda A008, non connu) ; Indeed et Emploi.ci : sans suite ; aucun
+> - 13h12-13h40 : omelette à 13h20 (petit repas, son seul gros repas est le soir) ; vaisselle rincée
+> - Tirages du tour : jet « Educarriere.ci : l annonce de William est validée par la mod » → OUI (38,07) ; jet « NovoJob : l annonce de William est validée par la modération » → NON (87,07) ; jet « NovoJob : l annonce de William est validée par la modération » → OUI (23,76).
+> - Tour en cours à 13h44, en attente de William : **Rapport de Claude à 18h00 ; réponse du ministère attendue ; journée libre (pas d'entraînement le mardi)**.

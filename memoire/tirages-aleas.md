@@ -2100,3 +2100,9 @@ Effets à jouer : A23 (dimanche 21/07 (matin)) : Très courant ; William voit le
 - Jet « Ministère : jour ouvrable de la réponse entre le 6e et le 15e (jour = 6 + jet/10, arrondi bas) » : probabilité 50 %, jet  32.8 → **OUI** (enregistré le 27/10/2026 13:44 heure machine)
 
 - Jet « Ministère : heure de la réponse dans la journée (heure = 9 + jet/12, arrondi bas) » : probabilité 50 %, jet  19.0 → **OUI** (enregistré le 27/10/2026 13:44 heure machine)
+
+- Jet « Educarriere.ci : l annonce de William est validée par la modération dans l heure » : probabilité 55 %, jet  38.1 → **OUI** (enregistré le 27/10/2026 13:56 heure machine)
+
+- Jet « NovoJob : l annonce de William est validée par la modération dans l heure » : probabilité 55 %, jet  87.1 → **NON** (enregistré le 27/10/2026 13:56 heure machine)
+
+- Jet « NovoJob : l annonce de William est validée par la modération dans les 24 heures (sinon refusée : ce n est pas une offre d emploi) » : probabilité 60 %, jet  23.8 → **OUI** (enregistré le 27/10/2026 13:56 heure machine)
