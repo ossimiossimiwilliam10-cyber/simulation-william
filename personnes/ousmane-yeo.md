@@ -33,3 +33,4 @@
 - 19/07/2041 : fiche créée (tirage du générateur).
 - 20/07/2041, 14:30 : message de l'agent IA (T17 : poli_bref) : « Bonjour Monsieur Yéo, merci d'avoir répondu à l'annonce. Vous êtes commerçant depuis vingt et un ans : dans quel domaine, et avec quels clients ? Connaissez-vous des chefs d'entreprise ou des propriétaires de bâtiments à Abidjan ? Cordialement, L'équipe du projet »
 - 20/07/2041, 12:34 : sa réponse à l'agent IA : « Bonjour. Je fais du négoce de matériaux de construction à Adjamé depuis vingt et un ans et j'ai un petit bureau d'études. Mes clients sont des entreprises de bâtiment et des propriétaires d'immeubles. Je connais des chefs d'entreprise au Plateau et à Marcory. Cordialement, Ousmane Yéo »
+- 21/07/2041, 14:45 : note de réseau calculée (56/100, sous le seuil de 70) ; dossier conservé pour un éventuel poste commercial.

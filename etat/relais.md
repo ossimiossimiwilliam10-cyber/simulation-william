@@ -1,52 +1,71 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 27/10/2026 18:30 (heure machine) pour Gemini
+# Relais de la simulation — briefing généré le 27/10/2026 18:40 (heure machine) pour Gemini
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : dimanche 21 juillet 2041, 09h40 (luxembourg) ; tour n° 33
+- Horloge : dimanche 21 juillet 2041, 20h00 (luxembourg) ; tour n° 34
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Décision sur le SMS d'arnaque reçu à 09h40 ; prochain rapport final ce soir à 20h00
+- En attente de William : **Devis de Me Gnamien attendu demain matin ; revue du lundi demain ; prochain rapport final demain 20h00**
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 33 ; horloge 20/07/2041 20:04 -> 21/07/2041 09:40 ; enregistré le 27/10/2026 18:30 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 34 ; horloge 21/07/2041 09:40 -> 21/07/2041 20:00 ; enregistré le 27/10/2026 18:40 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Go
+> J'ignore le message et je le supprime. Go
 
 ## Texte envoyé au joueur
 
-**DIMANCHE 21 JUILLET 2041 — 09h40 — Audun-le-Tiche, chez William**
+**DIMANCHE 21 JUILLET 2041 — 20h00 — Audun-le-Tiche, chez William**
 
-Après la brève confirmation de ton directeur général virtuel à 20h04, la soirée du samedi se termine dans le calme. L'air s'est bien rafraîchi après l'orage. Tu laves ta poêle et ton assiette, ranges la cuisine sous le murmure discret du réfrigérateur, puis tu montes lire un moment à l'étage avant d'éteindre vers 23h30. Tu passes une nuit complète d'un sommeil profond.
+À 09h41, tu fais glisser le message d'un coup de pouce, sélectionnes l'option de suppression et bloques le numéro. Tu n'as commandé aucun paquet : l'affaire est réglée en trois secondes, sans suite.
 
-Le dimanche matin, tu émerges vers 07h30. Dehors, le ciel est bas et gris, une bruine légère humidifie la rue et l'air reste frais, autour de 16 °C. Fidèle à ton rythme de l'été, tu enfiles ta tenue de sport et tes chaussures de course à 08h30 pour ta sortie dominicale de cinq kilomètres à travers Audun-le-Tiche. Le bitume mouillé défile sous tes pas réguliers, l'eau fine te fouette le visage et les épaules ; le souffle est bon, le corps bien disponible malgré les efforts de la semaine.
+Le reste de la matinée s'écoule dans une tranquillité sourde. La pluie reprend par intermittence, claquant contre le zinc des gouttières et mouillant les tuiles de la maison d'en face. Tu laisses le temps filer : un café léger, un coup d'œil distrait aux informations régionales, le silence feutré de la maison à peine troublé, vers midi, par la toux sèche du voisin derrière la cloison mitoyenne. L'après-midi reste frais et gris. Tu t'installes un moment au salon pour lire, tu t'occupes du linge sec étendu la veille et tu laisses tes muscles récupérer de la course matinale.
 
-De retour chez toi un peu avant 09h00, tu t'étires sur le perron, puis tu rentres pour une douche chaude. Tu enfiles un pantalon propre et un t-shirt sec, puis tu descends dans la cuisine te servir un grand verre d'eau.
+Vers 19h00, tu lances la préparation de ton vrai repas : du riz basmati qui gonfle à petit feu, des blancs de poulet revenus aux épices avec des courgettes émincées. L'odeur chaude embaume la cuisine et le rez-de-chaussée. Tu manges calmement, une grande carafe d'eau fraîche à portée de main.
 
-À 09h40, ton téléphone vibre sur le plan de travail. C'est un SMS reçu d'un numéro français inconnu (+33 6 41 82 59 14) :
+À 20h00 précises, ton téléphone vibre contre la nappe : le rapport final du soir.
 
-« INFO-LIVRAISON : Votre colis n° FR-94820 ne peut pas être distribué en raison d'une adresse incomplète. Veuillez mettre vos informations à jour sous 24h pour reprogrammer la livraison : https://suivi-distribution-fr.com/colis »
+« Rapport final du dimanche 21 juillet, 20h00. Relu par le pôle RH virtuel et le pôle juridique virtuel avant l'envoi : aucune réserve.
 
-Tu n'attends aucun colis à cette adresse.
+DÉCISIONS
+Aucune décision requise ce soir : nous attendons le devis de Me Gnamien demain matin pour comparer les propositions d'avocats, ainsi que les retours des candidats sur l'adresse professionnelle.
 
-Il est 09h40.
+AFFIRMATIONS VÉRIFIÉES
+- « L'autoproducteur doit être propriétaire de son installation » (analyse d'un cabinet, puis Me Tano : « règle posée par la loi de 2014 ») : NON VÉRIFIÉE. En attente de l'analyse et du devis de Me Gnamien demain.
+- Décret 2016-783 du 12 octobre 2016 (vente de l'excédent de l'autoproducteur) : VÉRIFIÉE (texte officiel existant ; conditions pratiques de rachat à approfondir avec le conseil).
+- Forfait de Me Tano (2,5 millions FCFA HT) : NON VÉRIFIÉ contre un barème officiel (il n'en existe pas) ; comparaison avec Me Gnamien demain.
+- Parcours et références déclarés des candidats au-dessus du seuil (Kader Assi 84, Mohamed Coulibaly 91, Mariam Brou 88, Maïmouna Koné 79, Brice Tapé 76, Fabrice Koffi 76) : NON VÉRIFIÉS à ce jour. Collecte de deux références en cours par courriel professionnel.
+
+ÉTAT DES PÔLES
+- Pôle RH virtuel (poste vacant : il décide) : 21 réponses cumulées (aucune nouvelle réponse aujourd'hui). Fin des entretiens du premier lot : Mariam Brou notée 88/100 (au-dessus du seuil de 70 : courriel professionnel fourni à 15h12) ; Damien Yao noté 66/100 (sous le seuil) ; Ousmane Yéo noté 56/100 (dossier gardé).
+- Candidats au-dessus du seuil (6 profils) : Mohamed Coulibaly (91), Mariam Brou (88), Kader Assi (84), Maïmouna Koné (79), Brice Tapé (76), Fabrice Koffi (76). Brice Tapé a confirmé préparer son dossier ; Mohamed Coulibaly et Maïmouna Koné ont accusé réception de l'adresse professionnelle. Kader Assi doit transmettre ses contacts demain matin. Deux références demandées à chacun avant tout échange avec toi. Jean-Baptiste Tuo (71) reste traité par toi.
+- Sous le seuil : Damien Yao (66), Cédric Soro (58), Ousmane Yéo (56). Refus net : Hervé Touré (09h34 hier). Sans réponse : Jonathan Ouattara, Landry Aka. En attente : Aboubacar Kouassi.
+- Plateformes : LinkedIn, Educarriere.ci, NovoJob, CoinAfrique, Kosafi, Facebook, Instagram actifs. Reddit et Indeed en attente.
+- Pôle juridique virtuel : devis de Me Gnamien attendu demain matin pour comparaison avec celui de Me Tano.
+- Finance, technique, commercial : fermés jusqu'à la signature du directeur général.
+- Surveillance : tous les messages sortants relus et conformes (signature « L'équipe du projet », aucun nom privé).
+- Budget d'API : 31,45 € sur 1 000 € ce mois-ci.
+
+Prochain rapport : demain à 20h00. »
+
+Il est 20h00.
 
 ---
 
 **Réponses attendues**
-- **Inconnu (SMS)** : message reçu à 09h40 prétendant qu'un colis est en attente avec un lien de mise à jour d'adresse.
-- **Directeur général virtuel** : prochain rapport final ce soir à 20h00 (avocats d'Abidjan, suivi des candidats).
+- **Directeur général virtuel** : devis de Me Gnamien demain matin ; prochain rapport final demain à 20h00.
 - **Jean-Baptiste Tuo** : pas de réponse à ton message de vendredi à 19h44.
 - **Ministère de l'Éducation** (info@men.lu) : ton courriel de mardi à 12h14 n'a pas de réponse.
 
 **À faire / à fournir avant le tour suivant**
-- Décider de ce que tu fais du SMS reçu (l'ignorer, le supprimer, vérifier ou autre).
+- Aucune démarche requise ce soir.
+- Demain matin : première « Revue du lundi » de l'univers 3 (CLAUDE.md §12).
 
 **Quêtes secondaires**
 - Rien en suspens en dehors de ce que tu as déjà noté.
@@ -54,11 +73,12 @@ Il est 09h40.
 Que veux-tu faire ?
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
-- A080 Sun 21/07 11:15 (luxembourg) | Maïmouna Koné (facebook) : réponse de Maïmouna Koné au message de l'agent du 2041-07-20 19:40 (T17 : conversation) : réponse détaillée qui engage la conversation · souci : voisin bruyant · objectif : obtenir une promotion ou un poste plus stable · foyer : vit seul(e) · défauts : dit oui à tout puis se désiste au dernier moment / jaloux du succès des autres, même de ses amis [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : le_soir_ou_lendemain (jet 81.6, M72) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=maimouna-kone canal=facebook]
-- A083 Sun 21/07 20:00 (luxembourg) | Directeur général virtuel : Rapport final de la journée à William (décisions en questions fermées, affirmations vérifiées, état des pôles) [prevu]  — I26 ; ajouter la ligne du lendemain après chaque rapport ; inclure : courriels reçus à l'adresse professionnelle, réponses des candidats, devis des avocats
 - A070 Sun 21/07 21:50 (luxembourg) | Aboubacar Kouassi (linkedin) : réponse de Aboubacar Kouassi au message de l'agent du 2041-07-20 14:20 (T17 : refus_net) : refus net, sans discours · souci : dettes de jeu · objectif : changer de métier · foyer : parent isolé · défauts : rancunier, n'oublie jamais un affront / oublie de répondre aux messages pendant des jours [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : plus_tard_ou_jamais (jet 88.0, M72) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=aboubacar-kouassi canal=linkedin]
 - A001 Mon 22/07 08:00 (luxembourg) | Moteur et utilisateur : Revue du lundi n° 1 de l'univers 3 (hors fiction, avant le premier tour du jour) ; adaptation des aléas et propositions [prevu]  — CLAUDE.md §12 | premier lundi de l'Univers 3 le 22/07/2041
 - A082 Mon 22/07 09:20 (luxembourg) | Fabrice Koffi (facebook) : réponse de Fabrice Koffi au message de l'agent du 2041-07-20 19:45 (T17 : reciproque) : réponse chaleureuse, intérêt réel, propose un échange · souci : mal de dos chronique · objectif : mettre de l'argent de côté pour ses vieux jours · foyer : vit seul(e) · défauts : jaloux du succès des autres, même de ses amis / mauvais conducteur qui se croit excellent [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : plus_tard_ou_jamais (jet 99.6) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=fabrice-koffi canal=facebook]
+- A048 Mon 22/07 10:00 (luxembourg) | Kader Assi (courriel) : Promesse de Kader Assi (23h24 le 19/07) : transmettre les coordonnées de deux références (ancien responsable de bureau d'études, directeur technique du client de Fos) en début de semaine ; tirer le respect de la promesse (fiabilité : voir sa fiche) ; il demande aussi qui porte le projet et sous quelle structure [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — I33 ; la réponse sur le porteur du projet passe par le directeur général virtuel et William (identité : décision de William)
+- A084 Mon 22/07 13:30 (luxembourg) | Ismaël Gnamien (courriel) : Devis et conditions d'accompagnement de Me Gnamien reçus par courriel professionnel (réponse aux paramètres provisoires) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — I38, I39
+- A085 Mon 22/07 20:00 (luxembourg) | Directeur général virtuel : Rapport final de la journée à William (décisions en questions fermées, affirmations vérifiées, état des pôles) [prevu]  — I26 ; ajouter la ligne du lendemain après chaque rapport
 
 ## Rituels du moteur dus (rituels.py)
 - [DÛ] synthese_semaine : ce soir : synthèse de la semaine, T4/T5 des affaires ouvertes -> python outils/savoir.py t5
@@ -164,8 +184,8 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : master ; master : 7e5e188 ; avance 0, retard 0
-- worktree simulation-william (ICI) : branche master ; 0 commit(s) absents de master ; 19 fichier(s) modifié(s)
+- branche courante : master ; master : acfba9a ; avance 0, retard 0
+- worktree simulation-william (ICI) : branche master ; 0 commit(s) absents de master ; 21 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree eloquent-mirzakhani-73acb9 : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)

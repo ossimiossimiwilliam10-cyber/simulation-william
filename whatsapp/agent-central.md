@@ -114,10 +114,26 @@ Prochain rapport : demain à 20h00.
 2. Me Gnamien : courriel transmis avec les paramètres provisoires (société de droit OHADA, forme SARL ou SAS à trancher avec lui, capital d'un million de FCFA, un associé européen non-gérant dont l'identité sera communiquée à la lettre de mission ; mission : rédaction des statuts, pacte d'associés, contrat du dirigeant). Son devis chiffré est attendu en début de semaine.
 
 Prochain rapport final : demain à 20h00.
-**[20/07/2041 - 20:02 (Luxembourg)] William :** Je réponds oui aux deux décisions.
-**[20/07/2041 - 20:04 (Luxembourg)] Agent central :** Reçu à 20h02. Deux décisions enregistrées et appliquées.
 
-1. Vérification des références : étendue à tous les candidats au-dessus du seuil de 70 (Mohamed Coulibaly 91, Kader Assi 84, Maïmouna Koné 79, Brice Tapé 76, Fabrice Koffi 76). Nous recueillons et vérifions deux références par courriel professionnel avant tout échange direct avec toi.
-2. Me Gnamien : courriel transmis avec les paramètres provisoires (société de droit OHADA, forme SARL ou SAS à trancher avec lui, capital d'un million de FCFA, un associé européen non-gérant dont l'identité sera communiquée à la lettre de mission ; mission : rédaction des statuts, pacte d'associés, contrat du dirigeant). Son devis chiffré est attendu en début de semaine.
+**[21/07/2041 - 20:00 (Luxembourg)] Agent central :** Rapport final du dimanche 21 juillet, 20h00. Relu par le pôle RH virtuel et le pôle juridique virtuel avant l'envoi : aucune réserve.
 
-Prochain rapport final : demain à 20h00.
+DÉCISIONS
+Aucune décision requise ce soir : nous attendons le devis de Me Gnamien demain matin pour comparer les propositions d'avocats, ainsi que les retours des candidats sur l'adresse professionnelle.
+
+AFFIRMATIONS VÉRIFIÉES
+- « L'autoproducteur doit être propriétaire de son installation » (analyse d'un cabinet, puis Me Tano : « règle posée par la loi de 2014 ») : NON VÉRIFIÉE. En attente de l'analyse et du devis de Me Gnamien demain.
+- Décret 2016-783 du 12 octobre 2016 (vente de l'excédent de l'autoproducteur) : VÉRIFIÉE (texte officiel existant ; conditions pratiques de rachat à approfondir avec le conseil).
+- Forfait de Me Tano (2,5 millions FCFA HT) : NON VÉRIFIÉ contre un barème officiel (il n'en existe pas) ; comparaison avec Me Gnamien demain.
+- Parcours et références déclarés des candidats au-dessus du seuil (Kader Assi 84, Mohamed Coulibaly 91, Mariam Brou 88, Maïmouna Koné 79, Brice Tapé 76, Fabrice Koffi 76) : NON VÉRIFIÉS à ce jour. Collecte de deux références en cours par courriel professionnel.
+
+ÉTAT DES PÔLES
+- Pôle RH virtuel (poste vacant : il décide) : 21 réponses cumulées (aucune nouvelle réponse aujourd'hui). Fin des entretiens du premier lot : Mariam Brou notée 88/100 (au-dessus du seuil de 70 : courriel professionnel fourni à 15h12) ; Damien Yao noté 66/100 (sous le seuil) ; Ousmane Yéo noté 56/100 (dossier gardé).
+- Candidats au-dessus du seuil (6 profils) : Mohamed Coulibaly (91), Mariam Brou (88), Kader Assi (84), Maïmouna Koné (79), Brice Tapé (76), Fabrice Koffi (76). Brice Tapé a confirmé préparer son dossier ; Mohamed Coulibaly et Maïmouna Koné ont accusé réception de l'adresse professionnelle. Kader Assi doit transmettre ses contacts demain matin. Deux références demandées à chacun avant tout échange avec toi. Jean-Baptiste Tuo (71) reste traité par toi.
+- Sous le seuil : Damien Yao (66), Cédric Soro (58), Ousmane Yéo (56). Refus net : Hervé Touré (09h34 hier). Sans réponse : Jonathan Ouattara, Landry Aka. En attente : Aboubacar Kouassi.
+- Plateformes : LinkedIn, Educarriere.ci, NovoJob, CoinAfrique, Kosafi, Facebook, Instagram actifs. Reddit et Indeed en attente.
+- Pôle juridique virtuel : devis de Me Gnamien attendu demain matin pour comparaison avec celui de Me Tano.
+- Finance, technique, commercial : fermés jusqu'à la signature du directeur général.
+- Surveillance : tous les messages sortants relus et conformes (signature « L'équipe du projet », aucun nom privé).
+- Budget d'API : 31,45 € sur 1 000 € ce mois-ci.
+
+Prochain rapport : demain à 20h00.
