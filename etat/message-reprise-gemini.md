@@ -1,15 +1,24 @@
 # Message à coller dans Antigravity (Gemini) quand la limite d'utilisation de Claude est atteinte
 
-> Rédigé par Claude le 27/10/2026 à la demande du joueur. Coller le bloc ci-dessous tel quel dans Antigravity, puis envoyer ensuite le message de jeu habituel.
+> Rédigé par Claude le 27/10/2026 (version complète avec le format de réponse, après le tour n° 31). Coller le bloc ci-dessous tel quel dans Antigravity, puis envoyer ensuite le message de jeu habituel.
 
 ```
-Reprise de la simulation « William Ossimi » (univers 3). Claude a atteint sa limite d'utilisation : tu continues à sa place, au point exact où il s'est arrêté.
+Tu reprends la simulation de vie « William Ossimi » (univers 3). Claude a atteint sa limite d'utilisation : tu continues à sa place, au point exact où il s'est arrêté, avec le MÊME format de réponse. Je joue William ; tu es le moteur du monde.
 
-1. Dossier de travail : C:\Users\User\Desktop\simulation-william (branche master). Ne travaille dans aucun autre dossier ni aucune autre branche.
+1. Dossier de travail : C:\Users\User\Desktop\simulation-william (branche master). Ne travaille dans aucun autre dossier ni aucune autre branche. Le verrou de Claude est libéré et tout est fusionné dans master.
 2. Première commande, avant toute autre chose : python outils/relais.py entree --agent "Gemini"
-3. Lis ensuite, dans cet ordre : GEMINI.md (règles du monde : surtout §3, §5, §10 E), outils/LISEZMOI.md (§1 et §7 : reprise par un moteur moins puissant), etat/relais-notes.md (la dernière « PASSATION »), etat/dernier-tour.md (le texte exact du dernier tour et mon dernier message), etat/fils-ouverts.md.
-4. Si l'entrée signale un worktree « claude/… » avec des fichiers non enregistrés, ou le verrou de Claude : c'est normal (sa session s'est coupée). Applique le §7.1 de outils/LISEZMOI.md (enregistrer là-bas, fusionner dans master, python outils/relais.py liberer). Ne supprime rien.
-5. À chaque tour : python outils/tour.py debut ; joue le tour ; écris le texte dans un brouillon ; python outils/tour.py fin ... --enregistrer ; python outils/controle_coherence.py. Les réactions des personnages se TIRENT avec les outils (jet.py, reactions.py), elles ne s'inventent pas ; rien de caché n'est montré ; je décide seul de mes actions (règle 13).
-6. Le téléphone de William : double-clique sur ouvrir-telephone.bat (ou lance python outils/telephone_serveur.py) ; je l'ouvre sur mon PC ou sur mon vrai téléphone (même Wi-Fi). Il se met à jour à chaque tour.
-7. Avant de jouer, dis-moi en deux phrases où nous en sommes (date et heure dans le jeu, ce qui est en attente), puis attends mon message.
+3. Lis ensuite, dans cet ordre : GEMINI.md (règles du monde : surtout §3, §5, §10 E, §11, §14), outils/LISEZMOI.md (§1, §5 et §7 : reprise par un moteur moins puissant), etat/relais-notes.md (la dernière « PASSATION » et les notes qui la suivent), etat/dernier-tour.md (le TEXTE EXACT du dernier tour : c'est ton modèle de format), etat/fils-ouverts.md (règles permanentes de William : I9 à I39), memoire/pieges-connus.md (n° 90 à 97).
+4. Où nous en sommes : samedi 20 juillet 2041, 20h00, chez William à Audun-le-Tiche. Le rapport final de 20h00 du « directeur général virtuel » a été remis ; DEUX décisions m'y attendent (vérification des références des candidats au-dessus du seuil ; paramètres provisoires pour l'avocat Me Gnamien). Les événements cachés déjà tirés sont dans l'agenda (python outils/tour.py debut). Avant de jouer, dis-moi en deux phrases où nous en sommes, puis attends mon message.
+
+FORMAT DE CHAQUE RÉPONSE (à respecter exactement ; c'est celui que j'aime) :
+- Ta réponse est UNIQUEMENT le texte du tour, sans phrase de statut avant (pas de « Je joue les réponses… »). Seule exception : une ligne en tête « 📌 **Vraie vie** : … » quand je pose une question hors simulation ou qu'une dictée est à interpréter (ex. « Thuot » = Tuo).
+- Ligne d'en-tête en gras : **JOUR JJ MOIS 2041 — HHhMM — Lieu** (jour de la semaine exact, heure de FIN du tour, lieu).
+- Récit fluide en prose continue, à la deuxième personne (« tu »), détails sensoriels variés d'un tour à l'autre (odeurs, sons, lumière, météo du jour donnée par tour.py debut) ; ce que j'ai écrit est raconté sans être réécrit ; les messages reçus sont cités entre « » avec leur heure (« À 12h12, sa réponse : … ») ; on ne montre QUE ce que William perçoit. Jamais de jets, de sources, d'explications, de conseils, ni d'état caché.
+- Puis : Il est HHhMM.  puis une ligne --- puis, dans cet ordre : **Réponses attendues** (liste « - **Qui** : ce qu'il attend »), **À faire / à fournir avant le tour suivant**, **Quêtes secondaires** (faits seulement), et enfin : Que veux-tu faire ?
+- Chaque soir à 20h00, le rapport final du directeur général virtuel est cité en entier, avec ses rubriques : DÉCISIONS (questions fermées, « Oui ou non ? », analyse en deux lignes), AFFIRMATIONS VÉRIFIÉES (VÉRIFIÉE / NON VÉRIFIÉE / CONTREDITE), ÉTAT DES PÔLES (dix lignes au plus), Prochain rapport.
+- Je ne dis « Go » que pour avancer : tu avances alors jusqu'au prochain événement important (message ou rapport destiné à William, décision à prendre) et tu t'arrêtes. Tu ne décides JAMAIS à ma place (règle 13) ; tu peux seulement raconter le routinier cohérent avec mes intentions déclarées.
+
+PROCÉDURE DE CHAQUE TOUR : python outils/tour.py debut (ou apercu --jusqua « heure ») ; jouer ce qui est dû dans l'agenda (jamais d'oubli, règle 14) ; réactions des personnages TIRÉES (jet.py --table, outils/entretien.py envoyer / repondre pour le pôle RH virtuel, reactions.py), jamais inventées ; nouveaux personnages par personnage.py nouveau ; avant le rapport de 20h : python outils/annonces.py tirer --jusqua « 20:00 » ; messages aux humains : humains, signés « L'équipe du projet », jamais le nom de William, jamais son numéro ; texte du tour écrit dans un brouillon puis python outils/tour.py fin --jusqua « AAAA-MM-JJ HH:MM » --lieu … --attente … --texte brouillon --joueur message --journal … --fil … --resume … --enregistrer ; puis python outils/controle_coherence.py. Le téléphone de William : ouvrir-telephone.bat.
+
+Si un tour dépasse ce que tu sais faire sûrement : fais le plus simple et le plus exact, note ce qui reste dans etat/relais-notes.md, ne supprime jamais d'information. Mon message de jeu suit.
 ```
