@@ -1,66 +1,65 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 27/10/2026 19:48 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
+# Relais de la simulation — briefing généré le 27/10/2026 19:54 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : lundi 22 juillet 2041, 20h45 (luxembourg) ; tour n° 40
+- Horloge : lundi 22 juillet 2041, 20h55 (luxembourg) ; tour n° 41
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Choix du Point 3 du contrat du DG (période probatoire et révocation) ; prochain rapport demain à 20h00
+- En attente de William : Choix du Point 4 du contrat du DG (clause de non-concurrence) ; prochain rapport demain à 20h00
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 40 ; horloge 22/07/2041 20:35 -> 22/07/2041 20:45 ; enregistré le 27/10/2026 19:48 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 41 ; horloge 22/07/2041 20:45 -> 22/07/2041 20:55 ; enregistré le 27/10/2026 19:54 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> On part sur la formule 1.
+> On part sur l'option C
 
 ## Texte envoyé au joueur
 
-**LUNDI 22 JUILLET 2041 — 20h45 — Audun-le-Tiche, chez toi**
+**LUNDI 22 JUILLET 2041 — 20h55 — Audun-le-Tiche, chez toi**
 
-Toujours dans la cuisine, tu tapes ton choix sur l'application : vous retenez la formule 1 pour le volet financier. Un fixe contenu à deux millions de FCFA net par mois, complété par un intéressement vigoureux de 2,5 % sur les encaissements réels et une prime annuelle de cinq millions de FCFA au seuil des 500 kWc raccordés.
+Tu sélectionnes l'option C pour le troisième point. Pas de période probatoire classique sujette à interprétation : tu choisis un mécanisme purement arithmétique de caducité automatique lié aux résultats trimestriels.
 
-Le directeur général virtuel valide immédiatement ce cadrage et te soumet la suite à 20h40 :
+Le directeur général virtuel enregistre ton arbitrage et formule le dernier volet du contrat à 20h50 :
 
-« C'est validé pour le **Point 2 : Rémunération selon la Formule 1** (Fixe de 2 000 000 FCFA net/mois, soit environ 3 050 €, + variable de 2,5 % du chiffre d'affaires HT encaissé sur les affaires installées + prime annuelle de 5 000 000 FCFA pour l'atteinte de 500 kWc raccordés). Ce montage préserve la trésorerie initiale tout en offrant un levier d'enrichissement direct sur les résultats commerciaux.
+« C'est validé pour le **Point 3 : Caducité automatique sur seuils stricts** (Option C).
+Le mandat social de Directeur Général intégrera cette clause de rupture mécanique : réalisation d'au moins 2 contrats B2B signés sur le premier trimestre, puis génération d'un seuil minimal de 15 millions FCFA de marge brute encaissée par trimestre à compter du deuxième trimestre. En cas de non-atteinte de ces paliers sur deux trimestres consécutifs, le mandat social sera caduc de plein droit, sans indemnité de rupture ni préavis. Ce mécanisme protège le capital et lie rigoureusement le maintien du dirigeant aux résultats économiques.
 
-Nous enchaînons sur le **Point 3 : Période probatoire initiale et clauses de révocation (sécurisation de la sortie)**.
-Conformément à ta volonté de faciliter une séparation rapide en cas de sous-performance, le mandat social offre une grande liberté de rédaction. Trois options sont envisageables pour encadrer la sortie :
+Nous abordons maintenant le **Point 4 (dernier point) : Protection du portefeuille clients, non-sollicitation et non-concurrence**.
+Pour empêcher qu'un cadre d'élite (comme Mohamed Coulibaly ou Mariam Brou) n'utilise la société pour capter des comptes stratégiques avant de partir s'installer à son compte ou chez un concurrent à Abidjan, trois options sont envisageables :
 
-- **Option A : Période probatoire de 3 mois (renouvelable 1 fois) + Révocation sans indemnité pour insuffisance d'objectifs**
-  - Durant les 3 premiers mois (renouvelables 3 mois si l'activité commerciale s'amorce) : fin du mandat avec un simple préavis de 15 jours, sans aucune indemnité de rupture.
-  - En phase de croisière : révocation immédiate et sans indemnité si les objectifs trimestriels minimaux (ex. 50 kWc signés par trimestre) ne sont pas atteints sur deux trimestres consécutifs.
-  - En cas de révocation discrétionnaire sans motif d'insuffisance : préavis de 1 mois et indemnité plafonnée à 1 mois de rémunération fixe.
-  - *Avantage* : flexibilité maximale pour l'associé unique, coût de sortie quasi nul en cas de contre-performance.
-- **Option B : Période probatoire de 6 mois ferme + Préavis de 2 mois et indemnité progressive**
-  - Période probatoire de 6 mois avec préavis de 15 jours.
-  - En régime établi : préavis de 2 mois, avec indemnité de départ égale à 1 mois de fixe par année de mandat (sauf faute lourde ou manquement grave).
-  - *Avantage* : plus rassurant pour un cadre en poste stable comme Mohamed Coulibaly, mais plus contraignant pour la trésorerie si la séparation intervient plus tard.
-- **Option C : Caducité automatique trimestrielle sur seuils stricts (« Pay for performance »)**
-  - Pas de période probatoire classique, mais des paliers trimestriels obligatoires gravés dans la convention :
-    - T1 : 2 premiers contrats B2B signés ;
-    - T2 et suivants : seuil minimum de 15 millions FCFA de marge brute encaissée par trimestre.
-    - Tout échec sur deux trimestres consécutifs entraîne la caducité automatique et de plein droit du mandat social, avec départ immédiat et sans indemnité.
-  - *Avantage* : mécanisme purement contractuel et arithmétique, éliminant toute contestation sur le motif de départ.
+- **Option A : Non-concurrence stricte de 12 mois sur le Grand Abidjan sans contrepartie financière + Clause pénale lourde**
+  - Interdiction formelle d'exercer dans le solaire photovoltaïque B2B en toiture et l'efficacité énergétique dans le district d'Abidjan pendant 12 mois suivant la fin du mandat.
+  - Aucune indemnité financière post-mandat (licite en droit OHADA pour un mandataire social pur).
+  - Clause pénale : pénalité forfaitaire égale à 12 mois de rémunération fixe due immédiatement en cas de violation, sans préjudice des dommages et intérêts.
+  - *Avantage* : protection forte sans coût financier après le départ du dirigeant.
+- **Option B : Non-sollicitation exclusive de clientèle et prospects (24 mois) sans blocage général d'exercice**
+  - Le dirigeant reste libre de travailler dans le secteur de l'énergie, mais interdiction absolue pendant 24 mois de démarcher, contracter ou conseiller tout client ou prospect ayant fait l'objet d'un audit ou d'une offre commerciale de la société durant les 12 derniers mois.
+  - Restitution immédiate de l'ensemble des études techniques, devis et bases de données.
+  - *Avantage* : clause parfaitement équilibrée, difficilement contestable devant le Tribunal de commerce d'Abidjan, très acceptable lors de l'entretien d'embauche.
+- **Option C : Non-concurrence totale de 12 mois avec indemnité modérée et faculté unilatérale de renonciation (Verrouillage maximal)**
+  - Interdiction totale d'exercice dans le secteur du solaire B2B en Côte d'Ivoire pendant 12 mois.
+  - Contrepartie financière : 30 % du fixe mensuel (600 000 FCFA/mois) versé pendant 12 mois, avec faculté unilatérale pour toi (associé unique) de renoncer à la clause au moment de son départ pour ne rien lui verser si son départ ne présente aucun risque.
+  - *Avantage* : verrouillage absolu et modulable selon la dangerosité concurrentielle du profil.
 
-Quelle option choisis-tu pour ce Point 3 ? (Dès ton arbitrage, nous terminerons par le Point 4 : clause de non-concurrence et protection du portefeuille clients). »
+Quelle option choisis-tu pour ce Point 4 ? Une fois ce dernier point fixé, l'architecture complète du contrat de mandat social sera finalisée et prête pour transmission à Me Gnamien. »
 
 ---
 
-Il est 20h45.
+Il est 20h55.
 
 ---
 
 **Réponses attendues**
-- **Directeur général virtuel** : ton choix sur le **Point 3** (période probatoire et clauses de révocation : Option A, Option B ou Option C).
+- **Directeur général virtuel** : ton choix sur le **Point 4** (protection du portefeuille clients et non-concurrence : Option A, Option B ou Option C).
 
 **À faire / à fournir avant le tour suivant**
-- Trancher les conditions de période probatoire et de révocation du Directeur Général réel.
+- Trancher la clause de non-concurrence et de protection de clientèle pour clore l'architecture du contrat.
 
 **Quêtes secondaires**
 - Retours des référents professionnels pour Mohamed Coulibaly et Mariam Brou par le pôle RH.
@@ -78,7 +77,7 @@ Que veux-tu faire ?
 
 ## Décisions en attente de William (etat/fils-ouverts.md, A)
 | 1 | **Organisation des vacances d'été 2041** | Premier jour des grandes vacances scolaires (du mardi 16/07/2041 au dimanche 15/09/2041). Choix des projets, voyages, rythme de vie ou déplacements estivaux. Budget vacances disponible : 833 €/mois (10 000 €/an). | Ouvert |
-| 2 | **Stratégie d'entrepreneuriat à distance** | Âge optimal atteint (36 ans). William a la liberté et la surface financière pour amorcer son projet business à distance tout en respectant l'Art. 14 du statut des fonctionnaires luxembourgeois (F083-F086). Choix du statut juridique et de l'axe business à mûrir. ; *(16/07 10h46) (16/07 10h46) deux rapports de l'agent IA reçus, Brésil (09h41) puis Côte d'Ivoire (10h34), PDF dans documents_william/ ; cadre article 14 rappelé (associé non-gérant admis, gérance non) ; rien d'engagé, suite à décider par William* ; *(16/07 11h55) (16/07 11h55) budget envisagé de 300 000 € sur 2 à 3 ans (I6) ; l'agent IA répond : Côte d'Ivoire, SAS OHADA, solaire B2B ; rien d'engagé, décision de William* ; *(16/07 13h06) (16/07 13h06) décision : Côte d'Ivoire (I7) ; courriel au ministère envoyé à 12h14 (réponse attendue, A006 non connu) ; annonce de recherche d'un contact prête, non publiée, feu vert attendu* ; *(16/07 13h44) (16/07 13h44) annonce publiée (LinkedIn 13h09, Educarriere.ci 13h31) ; rapport de Claude à 18h00 (A007) ; autorisation donnée (I9)* ; *(16/07 18h02) (16/07 18h02) rapport de 18h00 : 1 réponse, arnaque de niveau C ignorée ; aucun A ni B ; prochain rapport le 17/07 à 18h00 (A009)* ; *(17/07 18h03) (17/07 18h03) rapport de 18h00 : trois profils B (Kouamé, Tuo, Touré), deux C (arnaque, hors profil), aucun A ; réponses aux questions complémentaires attendues ; prochain rapport le 18/07 à 18h00 (A010)* ; *(17/07 18h12) (17/07 18h12) demande du numéro personnel de Nadège Kouamé envoyée par Claude à 18h09, pas de réponse (T17 : ignore) ; Claude prévient dès qu'elle répond (I11)* ; *(18/07 18h03) (18/07 18h03) rapport de 18h00 : sept réponses (0 A, 3 B, 4 C) ; Tuo répond (B), Touré et Kouamé non ; prochain rapport le 19/07 à 18h00 (A011)* ; *(18/07 20h47) (18/07 20h47) Nadège Kouamé répond aux questions complémentaires (B, références joignables, pas de solaire), pas au numéro ; Claude attend la réponse que William veut lui faire* ; *(18/07 21h27) (18/07 21h27) entretien de Claude avec Nadège Kouamé en cours : première réponse brève (environ 35 propriétaires et gérants), trois questions reposées ; note sur 100 à rendre, numéro si plus de 80 (I12)* ; *(18/07 22h09) (18/07 22h09) note de Nadège Kouamé : 53/100, sous le seuil de 80 (I12) ; ses questions (porteur, montant, calendrier, emploi) attendent la décision de William* ; *(18/07 23h10) (18/07 23h10) consigne permanente I13 (entretien des profils A et B, seuil 70, réseaux sociaux et sites locaux) ; CoinAfrique et Kosafi en ligne, Facebook en attente, Instagram bloqué (identité demandée à William), Reddit trop récent ; Hervé Touré a donné son numéro à Claude (non transmis)* ; *(19/07 00h14) (19/07 00h14) Claude = pôle RH (I14), premier poste Directeur Général / Gérant ; annonce version 2 avec montants ; fiche de poste ; à décider : forme sociale, Instagram (identité), questions de Nadège Kouamé* ; *(19/07 00h52) (19/07 00h52) Instagram : pièces envoyées, validation attendue sous 24 h (tirage : 20h28) ; Nadège Kouamé écartée (I16) ; forme sociale en attente (I15)* ; *(19/07 03h14) (19/07 03h14) application Gestion v0.1 installée (I17) : budget d'API plafonné à 1 000 € par mois, pôle RH actif ; messagerie de dépôt et autres pôles à construire* ; *(19/07 04h06) (19/07 04h06) Gestion v0.2 : Claude connecté au pôle RH, agents des autres pôles et agent central à créer (I18), budget d'API toujours plafonné à 1 000 € par mois* ; *(19/07 11h42) (19/07 11h42) Jean-Baptiste Tuo : note 71/100, numéro refusé poliment, Claude demande à William s'il peut proposer son numéro ou organiser un appel (I19)* ; *(19/07 11h58) (19/07 11h58) règle permanente I20 : l'agent fournit le numéro de William aux candidats au-dessus du seuil ; Jean-Baptiste Tuo l'a reçu à 11h53 ; son message WhatsApp est attendu* ; *(22/07 08h00) (22/07 08h00) semaine W30 amorcée ; revue du lundi n° 1 présentée (propositions R6, R7, pack aléas) ; devis de Me Gnamien attendu ce matin* ; *(22/07 20h00) (22/07 20h00) devis Me Gnamien reçu (2,1 M FCFA HT) comparé à Me Tano (2,5 M FCFA HT) ; 2 références reçues de Kader Assi ; 2 décisions en attente au rapport de 20h00* ; *(22/07 20h06) (22/07 20h06) Me Gnamien validé ; directives données pour sélectionner le DG réel élite parmi Coulibaly (91) et Brou (88) ; appel de Tuo annulé* ; *(22/07 20h25) (22/07 20h25) cadrage du contrat du DG réel initié point par point (Point 1 : mandat social vs salariat) ; William introduit auprès de Me Gnamien comme associé majoritaire* ; *(22/07 20h35) (22/07 20h35) contrat DG : Point 1 validé (mandat social pur) ; Point 2 soumis à William (formules de rémunération fixe/variable)* ; *(22/07 20h45) (22/07 20h45) contrat DG : Point 2 validé (rémunération Formule 1) ; Point 3 soumis à William (modalités de sortie et période probatoire)* | Ouvert |
+| 2 | **Stratégie d'entrepreneuriat à distance** | Âge optimal atteint (36 ans). William a la liberté et la surface financière pour amorcer son projet business à distance tout en respectant l'Art. 14 du statut des fonctionnaires luxembourgeois (F083-F086). Choix du statut juridique et de l'axe business à mûrir. ; *(16/07 10h46) (16/07 10h46) deux rapports de l'agent IA reçus, Brésil (09h41) puis Côte d'Ivoire (10h34), PDF dans documents_william/ ; cadre article 14 rappelé (associé non-gérant admis, gérance non) ; rien d'engagé, suite à décider par William* ; *(16/07 11h55) (16/07 11h55) budget envisagé de 300 000 € sur 2 à 3 ans (I6) ; l'agent IA répond : Côte d'Ivoire, SAS OHADA, solaire B2B ; rien d'engagé, décision de William* ; *(16/07 13h06) (16/07 13h06) décision : Côte d'Ivoire (I7) ; courriel au ministère envoyé à 12h14 (réponse attendue, A006 non connu) ; annonce de recherche d'un contact prête, non publiée, feu vert attendu* ; *(16/07 13h44) (16/07 13h44) annonce publiée (LinkedIn 13h09, Educarriere.ci 13h31) ; rapport de Claude à 18h00 (A007) ; autorisation donnée (I9)* ; *(16/07 18h02) (16/07 18h02) rapport de 18h00 : 1 réponse, arnaque de niveau C ignorée ; aucun A ni B ; prochain rapport le 17/07 à 18h00 (A009)* ; *(17/07 18h03) (17/07 18h03) rapport de 18h00 : trois profils B (Kouamé, Tuo, Touré), deux C (arnaque, hors profil), aucun A ; réponses aux questions complémentaires attendues ; prochain rapport le 18/07 à 18h00 (A010)* ; *(17/07 18h12) (17/07 18h12) demande du numéro personnel de Nadège Kouamé envoyée par Claude à 18h09, pas de réponse (T17 : ignore) ; Claude prévient dès qu'elle répond (I11)* ; *(18/07 18h03) (18/07 18h03) rapport de 18h00 : sept réponses (0 A, 3 B, 4 C) ; Tuo répond (B), Touré et Kouamé non ; prochain rapport le 19/07 à 18h00 (A011)* ; *(18/07 20h47) (18/07 20h47) Nadège Kouamé répond aux questions complémentaires (B, références joignables, pas de solaire), pas au numéro ; Claude attend la réponse que William veut lui faire* ; *(18/07 21h27) (18/07 21h27) entretien de Claude avec Nadège Kouamé en cours : première réponse brève (environ 35 propriétaires et gérants), trois questions reposées ; note sur 100 à rendre, numéro si plus de 80 (I12)* ; *(18/07 22h09) (18/07 22h09) note de Nadège Kouamé : 53/100, sous le seuil de 80 (I12) ; ses questions (porteur, montant, calendrier, emploi) attendent la décision de William* ; *(18/07 23h10) (18/07 23h10) consigne permanente I13 (entretien des profils A et B, seuil 70, réseaux sociaux et sites locaux) ; CoinAfrique et Kosafi en ligne, Facebook en attente, Instagram bloqué (identité demandée à William), Reddit trop récent ; Hervé Touré a donné son numéro à Claude (non transmis)* ; *(19/07 00h14) (19/07 00h14) Claude = pôle RH (I14), premier poste Directeur Général / Gérant ; annonce version 2 avec montants ; fiche de poste ; à décider : forme sociale, Instagram (identité), questions de Nadège Kouamé* ; *(19/07 00h52) (19/07 00h52) Instagram : pièces envoyées, validation attendue sous 24 h (tirage : 20h28) ; Nadège Kouamé écartée (I16) ; forme sociale en attente (I15)* ; *(19/07 03h14) (19/07 03h14) application Gestion v0.1 installée (I17) : budget d'API plafonné à 1 000 € par mois, pôle RH actif ; messagerie de dépôt et autres pôles à construire* ; *(19/07 04h06) (19/07 04h06) Gestion v0.2 : Claude connecté au pôle RH, agents des autres pôles et agent central à créer (I18), budget d'API toujours plafonné à 1 000 € par mois* ; *(19/07 11h42) (19/07 11h42) Jean-Baptiste Tuo : note 71/100, numéro refusé poliment, Claude demande à William s'il peut proposer son numéro ou organiser un appel (I19)* ; *(19/07 11h58) (19/07 11h58) règle permanente I20 : l'agent fournit le numéro de William aux candidats au-dessus du seuil ; Jean-Baptiste Tuo l'a reçu à 11h53 ; son message WhatsApp est attendu* ; *(22/07 08h00) (22/07 08h00) semaine W30 amorcée ; revue du lundi n° 1 présentée (propositions R6, R7, pack aléas) ; devis de Me Gnamien attendu ce matin* ; *(22/07 20h00) (22/07 20h00) devis Me Gnamien reçu (2,1 M FCFA HT) comparé à Me Tano (2,5 M FCFA HT) ; 2 références reçues de Kader Assi ; 2 décisions en attente au rapport de 20h00* ; *(22/07 20h06) (22/07 20h06) Me Gnamien validé ; directives données pour sélectionner le DG réel élite parmi Coulibaly (91) et Brou (88) ; appel de Tuo annulé* ; *(22/07 20h25) (22/07 20h25) cadrage du contrat du DG réel initié point par point (Point 1 : mandat social vs salariat) ; William introduit auprès de Me Gnamien comme associé majoritaire* ; *(22/07 20h35) (22/07 20h35) contrat DG : Point 1 validé (mandat social pur) ; Point 2 soumis à William (formules de rémunération fixe/variable)* ; *(22/07 20h45) (22/07 20h45) contrat DG : Point 2 validé (rémunération Formule 1) ; Point 3 soumis à William (modalités de sortie et période probatoire)* ; *(22/07 20h55) (22/07 20h55) contrat DG : Point 3 validé (caducité automatique) ; Point 4 soumis à William (protection de clientèle et non-concurrence)* | Ouvert |
 | 3 | **Entraînement sportif & préparation physique** | Entraînements au Minett Combat Club d'Esch-sur-Alzette (MMA, grappling, boxe thaïe, musculation). Cours d'été en place. Noter la fermeture annuelle du club du lundi 12/08/2041 au dimanche 25/08/2041 (agenda A003). ; *(16/07 10h46) (16/07) rythme de l'été fixé par William : lundi, mercredi, vendredi après-midi au club, course de 5 km le dimanche matin, rien le samedi ; voir A2 I1* ; *(17/07 18h03) (17/07) séance du mercredi faite au club (2 h) avec Thiago Alves et Arthur Kieffer ; prochaine : vendredi 19/07 l'après-midi (I1)* | Ouvert |
 | 4 | **Logistique personnelle & maison** | Maison d'Audun-le-Tiche (charges à jour, voiture électrique chargée). Rien d'urgent en panne. ; *(16/07 13h06) (16/07 12h33) abonnement à l'agent IA : 24,30 €/mois sur la Visa Debit, engagement de 12 mois jusqu'au 15/07/2042 (E016)* | Ouvert |
 
@@ -177,8 +176,8 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : master ; master : 9542cf1 ; avance 0, retard 0
-- worktree simulation-william (ICI) : branche master ; 0 commit(s) absents de master ; 12 fichier(s) modifié(s)
+- branche courante : master ; master : 193c9ce ; avance 0, retard 0
+- worktree simulation-william (ICI) : branche master ; 0 commit(s) absents de master ; 13 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree eloquent-mirzakhani-73acb9 : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
