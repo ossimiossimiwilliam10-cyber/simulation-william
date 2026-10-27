@@ -2796,3 +2796,7 @@ Effets à jouer : A23 (dimanche 21/07 (matin)) : Très courant ; William voit le
 - Tirage [T17] « Jean-Baptiste Tuo : réaction au message de William du 19/07 07:40 (abidjan) : « message de l'agent IA : sa note dépasse le seuil, le porteur du projet souhaite lui parler » » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  27.7 → **poli_bref** (enregistré le 27/10/2026 15:42 heure machine)
 
 - Tirage [T10] « Jean-Baptiste Tuo : délai (réponse de Jean-Baptiste Tuo à la demande de son numéro personnel (T17 : poli_br) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  36.3 → **rapide** (enregistré le 27/10/2026 15:42 heure machine)
+
+- Tirage [T17] « Jean-Baptiste Tuo : réaction au message de William du 19/07 09:52 (abidjan) : « message de l'agent IA : sa note dépasse le seuil, il reçoit le numéro WhatsApp personnel d » » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  74.5 → **reciproque** (enregistré le 27/10/2026 15:48 heure machine)
+
+- Tirage [T10] « Jean-Baptiste Tuo : délai (premier message WhatsApp de Jean-Baptiste Tuo à William (T17 : reciproque = inté) » : immediat 7 / rapide 18 / dans_l_heure 15 / dans_la_journee 25 / le_soir_ou_lendemain 25 / plus_tard_ou_jamais 10 ; modificateurs : M70 ; jet  27.4 → **dans_l_heure** (enregistré le 27/10/2026 15:49 heure machine)

@@ -1,47 +1,48 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 27/10/2026 15:43 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
+# Relais de la simulation — briefing généré le 27/10/2026 15:50 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : vendredi 19 juillet 2041, 11h42 (luxembourg) ; tour n° 18
+- Horloge : vendredi 19 juillet 2041, 11h58 (luxembourg) ; tour n° 19
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Décision de William sur le numéro de Jean-Baptiste Tuo (Claude attend) ; prochain rapport de Claude aujourd'hui à 18h00 ; vérification Instagram sous 24 h ; vendredi : club l'après-midi (I1)
+- En attente de William : Message de Jean-Baptiste Tuo à William (WhatsApp) ; prochain rapport de Claude aujourd'hui à 18h00 ; vérification Instagram sous 24 h ; vendredi : club l'après-midi (I1)
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 18 ; horloge 19/07/2041 04:06 -> 19/07/2041 11:42 ; enregistré le 27/10/2026 15:43 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 19 ; horloge 19/07/2041 11:42 -> 19/07/2041 11:58 ; enregistré le 27/10/2026 15:50 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je vais me coucher et puis go !
+> Je réponds du coup au pôle ressources humaines virtuelles. Donc c'est Claude, hein, c'est maintenant comme ça en fait que je vais désigner vu que j'ai une application gestion qui gère tout cela. Donc je dis au pôle ressources humaines virtuelles qu'à présent il faudra fournir plutôt mon numéro de téléphone et non pas demander le numéro de téléphone du candidat. En effet, ça fait un peu bizarre de demander. Donc plutôt de leur fournir mon numéro de téléphone et de leur dire de me contacter directement pour la suite des échanges. Et ça fera plus professionnel comme cela.
 
 ## Texte envoyé au joueur
 
-**VENDREDI 19 JUILLET 2041 — 11h42 — Audun-le-Tiche, chez William**
+**VENDREDI 19 JUILLET 2041 — 11h58 — Audun-le-Tiche, chez William**
 
-À 04h15, tu fermes l'ordinateur, tu éteins le téléphone côté écran et tu te couches ; le sommeil te prend presque aussitôt. Dehors, la lumière du matin gagne le toit, puis des averses courtes se mettent à crépiter sur les tuiles. Tu ne les entends pas.
+À 11h45, assis sur le bord du lit, le téléphone dans la main, tu réponds au pôle ressources humaines virtuel : c'est ainsi que tu désignes Claude désormais, puisque tu as une application Gestion qui gère tout cela. À présent, il faudra fournir ton numéro de téléphone aux candidats, et non plus demander le leur. Demander le numéro d'un candidat fait un peu bizarre ; leur donner le tien et leur dire de te contacter directement pour la suite des échanges, c'est plus professionnel. À 11h48 :
 
-Tu te réveilles à 11h40, la chambre tiède, les volets laissant passer un jour gris. Sur ton téléphone, un message de Claude arrivé à 09h55 :
+« Noté. Au-dessus du seuil, je fournis ton numéro et j'invite la personne à te contacter directement ; je ne demande plus le sien. Je l'applique à Jean-Baptiste Tuo maintenant. »
 
-« Jean-Baptiste Tuo : entretien terminé, note de réseau 71 sur 100, au-dessus du seuil de 70. Réseau utile : 27 sur 30. Environ trente-quatre propriétaires ou entreprises, près de six sur dix joints jusqu'au décideur, quatre sur dix à facture d'électricité élevée. Pertinence pour le solaire : 19 sur 25. Accès réel : 6 sur 20, aucune introduction déjà faite dans un projet comparable. Fiabilité : 12 sur 15, ses références restent difficiles à joindre. Disponibilité et motivation : 7 sur 10. Il se dit prêt à viser un jour un poste de direction et fait la leçon sur la manière de gérer l'argent d'un projet.
+À 11h53 :
 
-J'ai demandé son numéro personnel à 09h40. Il a répondu poliment à 09h51 qu'il préfère continuer par écrit sur la plateforme pour l'instant. Je ne force pas. Je peux lui proposer ton numéro ou un appel organisé par mes soins : cela touche ton identité, dis-moi. Hervé Touré : deuxième message envoyé à 08h30, pas encore de réponse. Facebook, Instagram et Reddit : rien de nouveau. »
+« Message envoyé à Jean-Baptiste Tuo sur Educarriere.ci : « Bonjour Monsieur Tuo, merci pour vos réponses. Le porteur du projet souhaite échanger directement avec vous. Voici son numéro WhatsApp : celui que je viens de vous transmettre. Merci de le contacter pour la suite des échanges. Cordialement. » Règles mises à jour : « Règles de l'agent IA, version 3 », dans tes documents. »
 
-Il est 11h42.
+Il est 11h58.
 
 ---
 
 **Réponses attendues**
-- **Claude** (ton agent IA, pôle ressources humaines) : ta décision sur le numéro de Jean-Baptiste Tuo ; sinon, le prochain rapport, aujourd'hui à 18h00.
+- **Jean-Baptiste Tuo** : il a ton numéro depuis 11h53 ; rien pour l'instant.
+- **Claude** (ton agent IA, pôle ressources humaines) : le prochain rapport, aujourd'hui à 18h00.
 - **Instagram** : la vérification de ton identité, sous 24 heures (envoyée à 00h40).
 - **Ministère de l'Éducation** (info@men.lu) : ton courriel de mardi à 12h14 n'a pas de réponse.
 
 **À faire / à fournir avant le tour suivant**
-- Dire à Claude s'il peut proposer ton numéro à Jean-Baptiste Tuo, ou organiser un appel à ta place.
+- Aucune démarche en cours.
 
 **Quêtes secondaires**
 - Rien en suspens en dehors de ce que tu as déjà noté.
@@ -51,6 +52,7 @@ Que veux-tu faire ?
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
 - A020 Fri 19/07 17:23 (luxembourg) | Facebook (administrateurs de groupes) : Les administrateurs de groupes d'Abidjan approuvent la publication du projet : l'annonce est en ligne sur Facebook (tirage : approuvée avant 18h00) ; Claude le signale à William au rapport de 18h00 ; première réponse RA008 à 17h51 (niveau C) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
 - A011 Fri 19/07 18:00 (luxembourg) | Claude (agent IA) : Rapport quotidien de l'agent IA à William : réponses à l'annonce (niveaux A, B, C), signaux d'alerte, état des plateformes [prevu]
+- A021 Fri 19/07 19:36 (luxembourg) | Jean-Baptiste Tuo (WhatsApp) : premier message WhatsApp de Jean-Baptiste Tuo à William (T17 : reciproque = intérêt réel, retour du contact) après réception de son numéro par l'agent IA : il se présente, remercie, propose un échange , ton de donneur de leçons mêlé de politesse , en français , son numéro apparaît dans la conversation · souci : dettes de jeu · objectif : obtenir un poste de direction dans une grande entreprise · foyer : en couple, enfants partis · défauts : donneur de leçons sur la santé, l'argent ou l'éducation / aime les commérages et répète ce qu'on lui confie [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : dans_l_heure (jet 27.4, M70) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=jean-baptiste-tuo canal=whatsapp]
 - A016 Fri 19/07 20:28 (luxembourg) | Instagram (vérification) : Instagram valide la vérification d'identité de William et le compte du projet : Claude publie l'annonce version 2 à 20h35 et le signale à William (tirage : vérification acceptée, terminée au bout de 19 h 48) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
 - A018 Sat 20/07 09:34 (luxembourg) | Hervé Touré (novojob) : réponse d'Hervé Touré au deuxième message de l'entretien de l'agent IA (T17 : refus_net) : il ne souhaite pas poursuivre, refus clair sans discours · souci : voiture qui lâche, pas d'argent pour la remplacer · objectif : se faire une place dans le milieu (club, lycée, quartier) · foyer : en couple, avec enfants · défauts : dépense sans compter, puis se plaint d'être à découvert / désordonné, perd ses clés et ses papiers [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : le_soir_ou_lendemain (jet 65.0, M70, M72) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=herve-toure canal=novojob]
 
@@ -59,7 +61,7 @@ Que veux-tu faire ?
 
 ## Décisions en attente de William (etat/fils-ouverts.md, A)
 | 1 | **Organisation des vacances d'été 2041** | Premier jour des grandes vacances scolaires (du mardi 16/07/2041 au dimanche 15/09/2041). Choix des projets, voyages, rythme de vie ou déplacements estivaux. Budget vacances disponible : 833 €/mois (10 000 €/an). | Ouvert |
-| 2 | **Stratégie d'entrepreneuriat à distance** | Âge optimal atteint (36 ans). William a la liberté et la surface financière pour amorcer son projet business à distance tout en respectant l'Art. 14 du statut des fonctionnaires luxembourgeois (F083-F086). Choix du statut juridique et de l'axe business à mûrir. ; *(16/07 10h46) (16/07 10h46) deux rapports de l'agent IA reçus, Brésil (09h41) puis Côte d'Ivoire (10h34), PDF dans documents_william/ ; cadre article 14 rappelé (associé non-gérant admis, gérance non) ; rien d'engagé, suite à décider par William* ; *(16/07 11h55) (16/07 11h55) budget envisagé de 300 000 € sur 2 à 3 ans (I6) ; l'agent IA répond : Côte d'Ivoire, SAS OHADA, solaire B2B ; rien d'engagé, décision de William* ; *(16/07 13h06) (16/07 13h06) décision : Côte d'Ivoire (I7) ; courriel au ministère envoyé à 12h14 (réponse attendue, A006 non connu) ; annonce de recherche d'un contact prête, non publiée, feu vert attendu* ; *(16/07 13h44) (16/07 13h44) annonce publiée (LinkedIn 13h09, Educarriere.ci 13h31) ; rapport de Claude à 18h00 (A007) ; autorisation donnée (I9)* ; *(16/07 18h02) (16/07 18h02) rapport de 18h00 : 1 réponse, arnaque de niveau C ignorée ; aucun A ni B ; prochain rapport le 17/07 à 18h00 (A009)* ; *(17/07 18h03) (17/07 18h03) rapport de 18h00 : trois profils B (Kouamé, Tuo, Touré), deux C (arnaque, hors profil), aucun A ; réponses aux questions complémentaires attendues ; prochain rapport le 18/07 à 18h00 (A010)* ; *(17/07 18h12) (17/07 18h12) demande du numéro personnel de Nadège Kouamé envoyée par Claude à 18h09, pas de réponse (T17 : ignore) ; Claude prévient dès qu'elle répond (I11)* ; *(18/07 18h03) (18/07 18h03) rapport de 18h00 : sept réponses (0 A, 3 B, 4 C) ; Tuo répond (B), Touré et Kouamé non ; prochain rapport le 19/07 à 18h00 (A011)* ; *(18/07 20h47) (18/07 20h47) Nadège Kouamé répond aux questions complémentaires (B, références joignables, pas de solaire), pas au numéro ; Claude attend la réponse que William veut lui faire* ; *(18/07 21h27) (18/07 21h27) entretien de Claude avec Nadège Kouamé en cours : première réponse brève (environ 35 propriétaires et gérants), trois questions reposées ; note sur 100 à rendre, numéro si plus de 80 (I12)* ; *(18/07 22h09) (18/07 22h09) note de Nadège Kouamé : 53/100, sous le seuil de 80 (I12) ; ses questions (porteur, montant, calendrier, emploi) attendent la décision de William* ; *(18/07 23h10) (18/07 23h10) consigne permanente I13 (entretien des profils A et B, seuil 70, réseaux sociaux et sites locaux) ; CoinAfrique et Kosafi en ligne, Facebook en attente, Instagram bloqué (identité demandée à William), Reddit trop récent ; Hervé Touré a donné son numéro à Claude (non transmis)* ; *(19/07 00h14) (19/07 00h14) Claude = pôle RH (I14), premier poste Directeur Général / Gérant ; annonce version 2 avec montants ; fiche de poste ; à décider : forme sociale, Instagram (identité), questions de Nadège Kouamé* ; *(19/07 00h52) (19/07 00h52) Instagram : pièces envoyées, validation attendue sous 24 h (tirage : 20h28) ; Nadège Kouamé écartée (I16) ; forme sociale en attente (I15)* ; *(19/07 03h14) (19/07 03h14) application Gestion v0.1 installée (I17) : budget d'API plafonné à 1 000 € par mois, pôle RH actif ; messagerie de dépôt et autres pôles à construire* ; *(19/07 04h06) (19/07 04h06) Gestion v0.2 : Claude connecté au pôle RH, agents des autres pôles et agent central à créer (I18), budget d'API toujours plafonné à 1 000 € par mois* ; *(19/07 11h42) (19/07 11h42) Jean-Baptiste Tuo : note 71/100, numéro refusé poliment, Claude demande à William s'il peut proposer son numéro ou organiser un appel (I19)* | Ouvert |
+| 2 | **Stratégie d'entrepreneuriat à distance** | Âge optimal atteint (36 ans). William a la liberté et la surface financière pour amorcer son projet business à distance tout en respectant l'Art. 14 du statut des fonctionnaires luxembourgeois (F083-F086). Choix du statut juridique et de l'axe business à mûrir. ; *(16/07 10h46) (16/07 10h46) deux rapports de l'agent IA reçus, Brésil (09h41) puis Côte d'Ivoire (10h34), PDF dans documents_william/ ; cadre article 14 rappelé (associé non-gérant admis, gérance non) ; rien d'engagé, suite à décider par William* ; *(16/07 11h55) (16/07 11h55) budget envisagé de 300 000 € sur 2 à 3 ans (I6) ; l'agent IA répond : Côte d'Ivoire, SAS OHADA, solaire B2B ; rien d'engagé, décision de William* ; *(16/07 13h06) (16/07 13h06) décision : Côte d'Ivoire (I7) ; courriel au ministère envoyé à 12h14 (réponse attendue, A006 non connu) ; annonce de recherche d'un contact prête, non publiée, feu vert attendu* ; *(16/07 13h44) (16/07 13h44) annonce publiée (LinkedIn 13h09, Educarriere.ci 13h31) ; rapport de Claude à 18h00 (A007) ; autorisation donnée (I9)* ; *(16/07 18h02) (16/07 18h02) rapport de 18h00 : 1 réponse, arnaque de niveau C ignorée ; aucun A ni B ; prochain rapport le 17/07 à 18h00 (A009)* ; *(17/07 18h03) (17/07 18h03) rapport de 18h00 : trois profils B (Kouamé, Tuo, Touré), deux C (arnaque, hors profil), aucun A ; réponses aux questions complémentaires attendues ; prochain rapport le 18/07 à 18h00 (A010)* ; *(17/07 18h12) (17/07 18h12) demande du numéro personnel de Nadège Kouamé envoyée par Claude à 18h09, pas de réponse (T17 : ignore) ; Claude prévient dès qu'elle répond (I11)* ; *(18/07 18h03) (18/07 18h03) rapport de 18h00 : sept réponses (0 A, 3 B, 4 C) ; Tuo répond (B), Touré et Kouamé non ; prochain rapport le 19/07 à 18h00 (A011)* ; *(18/07 20h47) (18/07 20h47) Nadège Kouamé répond aux questions complémentaires (B, références joignables, pas de solaire), pas au numéro ; Claude attend la réponse que William veut lui faire* ; *(18/07 21h27) (18/07 21h27) entretien de Claude avec Nadège Kouamé en cours : première réponse brève (environ 35 propriétaires et gérants), trois questions reposées ; note sur 100 à rendre, numéro si plus de 80 (I12)* ; *(18/07 22h09) (18/07 22h09) note de Nadège Kouamé : 53/100, sous le seuil de 80 (I12) ; ses questions (porteur, montant, calendrier, emploi) attendent la décision de William* ; *(18/07 23h10) (18/07 23h10) consigne permanente I13 (entretien des profils A et B, seuil 70, réseaux sociaux et sites locaux) ; CoinAfrique et Kosafi en ligne, Facebook en attente, Instagram bloqué (identité demandée à William), Reddit trop récent ; Hervé Touré a donné son numéro à Claude (non transmis)* ; *(19/07 00h14) (19/07 00h14) Claude = pôle RH (I14), premier poste Directeur Général / Gérant ; annonce version 2 avec montants ; fiche de poste ; à décider : forme sociale, Instagram (identité), questions de Nadège Kouamé* ; *(19/07 00h52) (19/07 00h52) Instagram : pièces envoyées, validation attendue sous 24 h (tirage : 20h28) ; Nadège Kouamé écartée (I16) ; forme sociale en attente (I15)* ; *(19/07 03h14) (19/07 03h14) application Gestion v0.1 installée (I17) : budget d'API plafonné à 1 000 € par mois, pôle RH actif ; messagerie de dépôt et autres pôles à construire* ; *(19/07 04h06) (19/07 04h06) Gestion v0.2 : Claude connecté au pôle RH, agents des autres pôles et agent central à créer (I18), budget d'API toujours plafonné à 1 000 € par mois* ; *(19/07 11h42) (19/07 11h42) Jean-Baptiste Tuo : note 71/100, numéro refusé poliment, Claude demande à William s'il peut proposer son numéro ou organiser un appel (I19)* ; *(19/07 11h58) (19/07 11h58) règle permanente I20 : l'agent fournit le numéro de William aux candidats au-dessus du seuil ; Jean-Baptiste Tuo l'a reçu à 11h53 ; son message WhatsApp est attendu* | Ouvert |
 | 3 | **Entraînement sportif & préparation physique** | Entraînements au Minett Combat Club d'Esch-sur-Alzette (MMA, grappling, boxe thaïe, musculation). Cours d'été en place. Noter la fermeture annuelle du club du lundi 12/08/2041 au dimanche 25/08/2041 (agenda A003). ; *(16/07 10h46) (16/07) rythme de l'été fixé par William : lundi, mercredi, vendredi après-midi au club, course de 5 km le dimanche matin, rien le samedi ; voir A2 I1* ; *(17/07 18h03) (17/07) séance du mercredi faite au club (2 h) avec Thiago Alves et Arthur Kieffer ; prochaine : vendredi 19/07 l'après-midi (I1)* | Ouvert |
 | 4 | **Logistique personnelle & maison** | Maison d'Audun-le-Tiche (charges à jour, voiture électrique chargée). Rien d'urgent en panne. ; *(16/07 13h06) (16/07 12h33) abonnement à l'agent IA : 24,30 €/mois sur la Visa Debit, engagement de 12 mois jusqu'au 15/07/2042 (E016)* | Ouvert |
 
@@ -158,10 +160,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : c85004f ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 23addad ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 25 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 20 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

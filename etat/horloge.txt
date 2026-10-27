@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-07-19 11:42
+horloge: 2041-07-19 11:58
 fuseau: luxembourg
 lieu: Audun-le-Tiche (Moselle), chez William
-tour: 18
-attente: Décision de William sur le numéro de Jean-Baptiste Tuo (Claude attend) ; prochain rapport de Claude aujourd'hui à 18h00 ; vérification Instagram sous 24 h ; vendredi : club l'après-midi (I1)
+tour: 19
+attente: Message de Jean-Baptiste Tuo à William (WhatsApp) ; prochain rapport de Claude aujourd'hui à 18h00 ; vérification Instagram sous 24 h ; vendredi : club l'après-midi (I1)
