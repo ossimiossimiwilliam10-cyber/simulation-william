@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 27/10/2026 19:26 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 27/10/2026 19:33 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : lundi 22/07/2041 20:06 (luxembourg, UTC+2)
+## Horloge : lundi 22/07/2041 20:25 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 18:06 ; lisbonne 19:06 ; mindelo 17:06 ; casablanca 19:06 ; douala 19:06 ; addis 21:06 ; manille 02:06 ; paris 20:06 ; seoul 03:06 ; bresil 15:06
+- **Heure dans les autres lieux** : abidjan 18:25 ; lisbonne 19:25 ; mindelo 17:25 ; casablanca 19:25 ; douala 19:25 ; addis 21:25 ; manille 02:25 ; paris 20:25 ; seoul 03:25 ; bresil 15:25
 - **En attente de William** :
-  - Suivi des vérifications de références des candidats élite et lettre de mission de Me Gnamien ; prochain rapport demain à 20h00
+  - Choix du Point 1 du contrat du DG (mandat social vs salariat) ; courriel d'introduction à Me Gnamien ; prochain rapport demain à 20h00
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **9 975,70 €**
@@ -38,9 +38,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-07-22.md, 6 dernières lignes)
-> - **08h00-20h00** (tour n° 36) : 08h00-20h00 (tour n° 36) : validation de la revue du lundi n° 1 par le joueur (R6, R7, aléas de la semaine) ; 09h20 réponse chaleureuse de Fabrice Koffi ; 10h00 Kader Assi transmet ses deux références ; 13h30 devis de Me Gnamien reçu (2,1 M FCFA HT) ; 15h00-16h30 entraînement MMA au Minett Combat Club ; 19h42 SMS de tentative d'arnaque faux colis (A23 déclenché) ; 
-> - Tirages du tour : jet « Kader Assi : respect de sa promesse de transmettre deux réfé » → OUI (81,54).
 > - Tour en cours à 20h00, en attente de William : **Tes deux réponses au rapport de 20h00 (choix de Me Gnamien ; présentation du projet à Kader Assi) ; SMS du 06 49 12 87 34 ; prochain rapport demain à 20h00**.
 > - **20h00-20h06** (tour n° 37) : 20h00-20h06 (tour n° 37) : William valide le choix de Me Gnamien (2,1 M FCFA HT) et la réponse à Kader Assi (Projet Solaire B2B Abidjan) ; SMS d'arnaque bloqué et supprimé ; directives au DG virtuel pour présenter le meilleur profil élite (Mohamed Coulibaly 91, Mariam Brou 88) avec conditions salariales attractives et facilités de rupture ; message de refus envoyé 
 > - Tirages du tour : T17 Jean-Baptiste → poli_bref (16,87) ; T10 Jean-Baptiste → le_soir_ou_lendemain (66,39).
 > - Tour en cours à 20h06, en attente de William : **Suivi des vérifications de références des candidats élite et lettre de mission de Me Gnamien ; prochain rapport demain à 20h00**.
+> - **20h06-20h25** (tour n° 38) : 20h06-20h25 (tour n° 38) : échange avec le DG virtuel sur le contrat du futur DG réel (Mohamed Coulibaly, Mariam Brou, Kader Assi) ; introduction de William à Me Gnamien comme associé majoritaire et investisseur unique (+352) ; Point 1 posé sur la nature juridique du contrat (mandat social pur, salariat cadre, ou mandat avec convention d'objectifs)
+> - Tour en cours à 20h25, en attente de William : **Choix du Point 1 du contrat du DG (mandat social vs salariat) ; courriel d'introduction à Me Gnamien ; prochain rapport demain à 20h00**.

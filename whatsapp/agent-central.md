@@ -172,3 +172,27 @@ Concernant Jean-Baptiste Tuo, envoie-lui un message pour annuler le rendez-vous 
 2. Kader Assi : courriel officiel expédié au nom de l'équipe du projet sous le libellé « Projet Solaire B2B Abidjan », accusant réception des coordonnées de ses référents. Ton anonymat reste préservé.
 3. Jean-Baptiste Tuo : comme il t'avait écrit directement sur ton WhatsApp personnel le 19 juillet, le message de refus courtois et d'annulation de l'appel a été préparé pour ton WhatsApp et envoyé à 20h05. L'échéance de vendredi est retirée de l'agenda.
 4. Directeur Général réel (élite) : tes directives sont intégrées. Mohamed Coulibaly (91/100) et Mariam Brou (88/100) forment le duo de tête indiscutable. Leurs quatre référents professionnels ont été contactés ce matin par courriel officiel. Dès réception des retours écrits (attendus sous 24 à 48 heures), le pôle RH présentera un dossier comparatif d'aide à la décision pour organiser le premier entretien approfondi avec le candidat n° 1. Les critères de productivité et de flexibilité de rupture seront intégrés dans les clauses du mandat social avec Me Gnamien. »
+
+**Lundi 22/07/2041, 20:08 — William**
+« Je prends un moment ce soir pour qu'on prépare le type de contrat qu'on va proposer à Mohamed Coulibaly ou à Mariam Brou, voire à Kader Assi. Bref, au candidat élite qui prendra le poste de directeur général. On va aborder chaque point un à un pour monter le cadre, puis on le soumettra au cabinet juridique pour validation.
+Par ailleurs, maintenant que c'est officiel avec Me Gnamien, je veux qu'on m'introduise directement auprès du cabinet : fournis-leur mon numéro personnel en leur précisant que c'est moi le propriétaire et le décisionnaire final derrière tout le projet, et qu'en cas de décision de la plus haute importance, c'est moi qu'il faut joindre. »
+
+**Lundi 22/07/2041, 20:12 — Directeur général virtuel**
+« C'est bien noté sur les deux aspects.
+
+Pour le cabinet Gnamien :
+Un courriel formel d'introduction est préparé à l'attention de Me Ismaël Gnamien. Conformément aux exigences de l'article 14 de ton statut luxembourgeois (interdiction de gestion et de direction effective), nous te présentons formellement comme l'investisseur unique et associé majoritaire du projet. Nous lui transmettons ton nom complet et ton numéro de téléphone direct (+352 ...), en lui précisant que tu détiens l'intégralité du pouvoir d'arbitrage financier et stratégique pour la signature des actes et la validation de la lettre de mission.
+
+Pour la contractualisation du futur Directeur Général réel (Mohamed Coulibaly ou Mariam Brou) :
+Comme demandé, nous procédons point par point pour bâtir un contrat rigoureux, axé sur la productivité et la facilité de séparation en cas d'insuffisance, avant de le faire valider par Me Gnamien.
+
+Voici le Point 1 : Nature juridique de la fonction (Mandat social pur vs Salariat).
+En droit ivoirien et sous le traité OHADA (actes uniformes sur les sociétés commerciales), deux statuts sont possibles pour un Directeur Général de SAS :
+- Option A : Mandat social pur (recommandée pour la flexibilité).
+  Le dirigeant n'est pas lié par un contrat de travail. Il est nommé mandataire social par l'associé unique (toi). Avantages majeurs : révocation ad nutum (ou selon les motifs précis fixés dans les statuts), aucune indemnité de licenciement légale obligatoire en dehors de ce qui est négocié, et compétence exclusive du Tribunal de commerce en cas de litige (aucun risque de blocage devant le Tribunal du travail / prud'hommes ivoiriens). Le dirigeant est payé par une rémunération de mandat.
+- Option B : Salariat cadre dirigeant (soumis au Code du travail ivoirien).
+  Le dirigeant bénéficie d'un contrat de travail à durée indéterminée. Inconvénients : procédure de licenciement lourde (obligation de motif personnel ou économique valable, préavis légal de 3 mois, indemnités de licenciement et risque de recours prud'homal pour licenciement abusif).
+- Option C : Mandat social assorti d'une convention de direction sur objectifs.
+  Statut de mandataire social pur (Option A), mais complété par une convention spécifique détaillant les objectifs de chiffre d'affaires, avec clause de rupture automatique du mandat sans indemnité en cas de non-atteinte des paliers sur deux trimestres consécutifs.
+
+Quel statut choisis-tu pour ce premier point ? »
