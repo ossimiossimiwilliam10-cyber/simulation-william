@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-07-17 18:03
+horloge: 2041-07-17 18:12
 fuseau: luxembourg
 lieu: Audun-le-Tiche (Moselle), chez William
-tour: 7
-attente: Prochain rapport de Claude demain à 18h00 ; réponses aux questions complémentaires attendues ; réponse du ministère attendue ; vendredi : club l'après-midi (I1)
+tour: 8
+attente: Réponse de Nadège Kouamé à la demande de son numéro (Claude prévient) ; prochain rapport de Claude demain à 18h00 ; réponse du ministère attendue

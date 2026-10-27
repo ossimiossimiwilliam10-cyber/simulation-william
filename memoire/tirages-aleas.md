@@ -2294,3 +2294,5 @@ Effets à jouer : A23 (dimanche 21/07 (matin)) : Très courant ; William voit le
 - Jet « NovoJob : vues de l'annonce du 17/07 09h12 à 18h00 (20 + jet × 3) » : probabilité 50 %, jet  51.8 → **NON** [PROCÉDURE : chiffre d'audience ou montant d'une demande de frais d'avance] (enregistré le 27/10/2026 14:14 heure machine)
 
 - Jet « Frais d'avance demandés par la répondante frauduleuse du 16/07 à 23h17 (100 000 + jet × 4 000 FCFA, arrondi à 10 000) » : probabilité 50 %, jet   6.6 → **OUI** [PROCÉDURE : chiffre d'audience ou montant d'une demande de frais d'avance] (enregistré le 27/10/2026 14:14 heure machine)
+
+- Tirage [T17] « Nadège Kouamé : réaction au message de William du 17/07 16:09 (abidjan) : « message de l'agent IA de William sur Educarriere.ci : le porteur du projet souhaite échang » » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  58.9 → **ignore** (enregistré le 27/10/2026 14:19 heure machine)

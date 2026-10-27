@@ -1,43 +1,33 @@
 # Dernier tour montré au joueur
 
-> Tour n° 7 ; horloge 16/07/2041 18:02 -> 17/07/2041 18:03 ; enregistré le 27/10/2026 14:15 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 8 ; horloge 17/07/2041 18:03 -> 17/07/2041 18:12 ; enregistré le 27/10/2026 14:20 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Go jusqu'à demain soir au prochain rapport ou à la réponse du ministère.
+> Je trouve le profil de Nadège Kwame intéressant, parce que je me demande pourquoi est-ce qu'une promotrice immobilière s'intéresse à ce domaine. Et je demande à Claude de lui envoyer un message comme quoi je voudrais son numéro personnel. Voilà, pour pouvoir directement entretenir avec elle depuis WhatsApp.
 
 ## Texte envoyé au joueur
 
-**MERCREDI 17 JUILLET 2041 — 18h03 — Audun-le-Tiche, chez William**
+📌 **Vraie vie** : interprété : « Nadège Kwame » = Nadège Kouamé.
 
-Le soir du mardi, tu prépares ton repas, le seul vrai de la journée, et tu le manges sans te presser. La soirée se passe à la maison, le téléphone silencieux. Tu te couches vers 23h30.
+---
 
-Mercredi, tu te lèves à 07h50 dans une maison déjà tiède. À 09h15, un message de Claude : « NovoJob : annonce validée et en ligne. » Tu avales un petit repas léger vers midi. La chaleur pèse sur la rue vide, le ciel est blanc.
+**MERCREDI 17 JUILLET 2041 — 18h12 — Audun-le-Tiche, chez William**
 
-À 13h20, tu prends la voiture pour le Minett Combat Club. Quinze minutes de route jusqu'à Esch, volets de l'entrepôt grands ouverts, grands ventilateurs qui brassent un air déjà lourd. Thiago Alves, le coach de musculation, est au plateau de fonte, un geste de la tête, quelques mots d'un français qu'il pousse devant lui comme un chariot. Arthur Kieffer arrive avec vingt minutes de retard : sa voiture l'a lâché, il est venu en bus depuis Belval, il s'excuse trois fois. Une heure de fonte lourde, Thiago qui compte à voix basse derrière toi, puis une heure de sacs et de grappling avec Arthur, à bout de souffle dans la moiteur. Tu quittes le tapis à 16h10, douche brûlante puis froide, et tu rentres. À 16h45, tu poses ton sac de sport contre le mur de l'entrée.
+À 18h05, tu écris à Claude. Le profil de Nadège Kouamé t'intrigue : tu veux savoir pourquoi une promotrice immobilière s'intéresse à un projet de solaire, et tu lui fais demander son numéro personnel pour lui parler directement sur WhatsApp. La réponse tombe à 18h07 :
 
-À 18h00, le rapport :
+« Dans sa réponse d'hier à 18h00, elle écrit qu'elle veut se diversifier vers l'énergie et qu'elle connaît des propriétaires de bâtiments d'entreprises à Abidjan. Elle n'a pas encore répondu à mes questions complémentaires. Je lui écris maintenant sur Educarriere.ci. Je ne donne ni ton nom ni ton numéro tant que tu ne l'as pas décidé. »
 
-« Rapport de 18h00. LinkedIn : 426 impressions. Educarriere.ci : 192 vues. NovoJob : 175 vues. Indeed : le justificatif d'entreprise est toujours attendu.
+À 18h09 :
 
-Cinq réponses depuis le dernier rapport. Aucune de niveau A.
+« Message envoyé à Nadège Kouamé sur Educarriere.ci : « Bonjour Madame Kouamé, merci pour votre réponse. Le porteur du projet souhaite échanger directement avec vous. Pourriez-vous lui indiquer votre numéro personnel (WhatsApp) ? Cordialement. » Je te préviens dès qu'elle répond. »
 
-Niveau B, questions complémentaires envoyées :
-Nadège Kouamé, 41 ans, promotrice immobilière, 14 ans d'expérience, références vérifiables (Educarriere.ci, hier à 18h00).
-Jean-Baptiste Tuo, 50 ans, commerçant et entrepreneur, 11 ans d'expérience, références évasives (Educarriere.ci, hier à 22h06).
-Hervé Touré, 38 ans, commerçant et entrepreneur, 12 ans d'expérience, références non vérifiables (NovoJob, ce matin à 11h26).
-
-Niveau C :
-Sandrine Cissé (LinkedIn, hier à 23h17) : profil récent, aucune référence joignable ; après mon accusé de réception, elle a demandé 130 000 FCFA (environ 198 €) de « frais de dossier ». Je n'ai pas répondu.
-Franck Konan (NovoJob, 16h27) : employé de bureau, trois ans d'expérience, hors profil.
-
-Je n'ai rien promis ni chiffré. Les réponses aux questions complémentaires sont attendues. Prochain rapport demain à 18h00. »
-
-Il est 18h03.
+Il est 18h12. Rien ne revient de Nadège Kouamé.
 
 ---
 
 **Réponses attendues**
+- **Nadège Kouamé** (par Claude, Educarriere.ci) : ton message de 18h09 n'a pas de réponse pour l'instant.
 - **Claude** (ton agent IA) : le prochain rapport, demain à 18h00.
 - **Ministère de l'Éducation** (info@men.lu) : ton courriel de 12h14 d'hier n'a pas de réponse pour l'instant.
 

@@ -31,3 +31,7 @@
 
 ## Historique
 - 16/07/2041 : fiche créée (tirage du générateur).
+
+## Historique avec William
+- 16/07/2041, 18h00 : répond à l'annonce (Educarriere.ci) : promotrice immobilière, veut se diversifier vers l'énergie (niveau B).
+- 17/07/2041, 18h09 : l'agent IA de William lui demande son numéro personnel (WhatsApp) ; réaction tirée en T17 : elle ne répond pas (« oublie de répondre aux messages pendant des jours »).
