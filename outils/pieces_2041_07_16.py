@@ -154,6 +154,89 @@ def regles_v2():
     pdf.sauver(chemin("documents_william", "2041-07-18_Règles_de_l_agent_IA_version_2.pdf"))
 
 
+def note_titre():
+    """Note de William sur le titre du dirigeant (SARL : gérant, SAS : directeur général), rédigée avec un autre agent IA ; remise à Claude le 18/07/2041 au soir."""
+    pdf = DocPDF("Note : titre du dirigeant local (SARL ou SAS)", "Rapport de William Ossimi, établi avec un agent IA · jeudi 18 juillet 2041", auteur="William Ossimi",
+                 pied="Note de William Ossimi — titre du dirigeant")
+    pdf.para("Le titre officiel de la personne placée au sommet de la structure dépend de la forme juridique de droit OHADA retenue en Côte d'Ivoire : une SARL ou une SAS "
+             "(acte uniforme sur les sociétés commerciales, révisé en 2014). Dans le cadre du statut de fonctionnaire luxembourgeois (article 14), William reste associé ou actionnaire "
+             "non-gérant, sans mandat exécutif, sans fonction de gérant, de gestionnaire ou d'administrateur : toute la direction opérationnelle est confiée à un dirigeant local.")
+    pdf.titre1("1. Quel titre selon la structure ?")
+    pdf.puces([
+        "SARL : « Gérant » (ou gérant statutaire). Une SARL est dirigée par un gérant, obligatoirement local puisque l'article 14 interdit ce poste à William, qui détient les parts comme associé non-gérant.",
+        "SAS : « Directeur Général (DG) » ou « Président », mandataire exécutif. William y est actionnaire non-gérant, sans mandat exécutif ni acte de gestion. "
+        "L'intitulé exact est à fixer dans les statuts par un avocat ou un notaire d'Abidjan.",
+        "Pas de « PDG » : ce titre suppose un conseil d'administration, propre aux sociétés anonymes, et créerait des mandats d'administrateur interdits à William sans autorisation ministérielle.",
+    ], taille=9.5)
+    pdf.tableau(["Forme sociale", "Titre du numéro 1 local", "Statut de William (article 14)"], [
+        ["SARL de droit OHADA", "Gérant (ou gérant local)", "Associé non-gérant, sans acte de gestion"],
+        ["SAS de droit OHADA", "Mandataire exécutif (Président ou DG, fixé dans les statuts)", "Actionnaire non-gérant, sans mandat exécutif"],
+    ], [44, 70, 60], taille=9)
+    pdf.titre1("2. Formuler la recherche")
+    pdf.puces([
+        "Intitulé conseillé dans l'annonce ou l'approche directe : « Gérant local / Directeur Général (partenaire opérationnel) », qui couvre la SARL (gérant) et le langage courant d'une SAS (DG).",
+        "Répartition des rôles : le candidat est seul détenteur du mandat exécutif et de la signature de gestion sur place ; son pouvoir est encadré par les statuts OHADA, un pacte d'associés et des clauses de sortie rédigés par l'avocat ou le notaire d'Abidjan.",
+        "Avant toute nomination : références, projets livrés, absence de litiges, antécédents et structure de capital envisagée s'il prend des parts.",
+    ], taille=9.5)
+    pdf.sauver(chemin("documents_william", "2041-07-18_Note_titre_du_dirigeant_SARL_SAS.pdf"))
+
+
+def fiche_poste():
+    """Fiche de poste et annonce version 2 de l'agent IA, pôle ressources humaines de William (19/07/2041, 00h04)."""
+    pdf = DocPDF("Fiche de poste et annonce : Directeur Général / Gérant", "Pôle ressources humaines (Claude) · version du vendredi 19 juillet 2041, 00h04", auteur="Claude (agent IA)",
+                 pied="Fiche de poste — Directeur Général / Gérant")
+    pdf.titre1("1. Intitulé et structure")
+    pdf.puces([
+        "Intitulé : « Directeur Général / Gérant, partenaire opérationnel ». Titre légal : Gérant si la société est une SARL, Directeur Général si c'est une SAS.",
+        "Le choix SARL ou SAS reste à trancher avec l'avocat ou le notaire d'Abidjan.",
+        "Rôle : seul détenteur du mandat exécutif sur place, sous les statuts OHADA, un pacte d'associés, un audit annuel indépendant et des clauses de sortie. William est associé non-gérant.",
+        "Rémunération : à discuter avec le candidat, selon ce qu'il apporte.",
+    ], taille=9.5)
+    pdf.titre1("2. Compétences requises")
+    pdf.tableau(["Domaine", "Ce qu'il faut maîtriser"], [
+        ["Solaire en toiture", "Dimensionner une centrale (outil de simulation de type PVSyst, plans), suivre le chantier, raccorder en basse et moyenne tension, normes de sécurité électrique, "
+                               "maintenance et supervision à distance, pilotage des sous-traitants."],
+        ["Régime ivoirien", "Code de l'électricité (loi 2014-132), régulateur ANARE-CI, distributeur, vente de l'excédent d'un autoproducteur (décret 2016-783), autorisations et raccordement."],
+        ["Commercial en entreprises", "Prospecter des PME, hôtels, cliniques et entrepôts ; chiffrer l'économie sur la facture d'électricité ; accompagner le financement du client."],
+        ["Gestion", "Diriger une petite équipe (techniciens, commercial, administratif) ; budget d'investissement et d'exploitation ; comptabilité OHADA ; achats et importation de matériel."],
+        ["Gouvernance", "Rendre compte à l'associé non-gérant ; audit annuel indépendant ; respecter les tranches conditionnelles et le pacte d'associés."],
+        ["Intégrité", "Références vérifiables, projets livrés, absence de litiges, antécédents nets."],
+    ], [38, 136], taille=9)
+    pdf.titre1("3. Diplôme et expérience")
+    pdf.puces([
+        "Diplôme : ingénieur en électricité ou en énergétique (bac + 5) de préférence ; à défaut, dix ans de pratique du solaire en entreprise. Une formation en gestion est un plus. "
+        "Un doctorat n'est pas exigé : utile seulement s'il touche à l'énergie.",
+        "Expérience : dix ans ou plus, dont cinq en direction de projets ou d'équipe.",
+    ], taille=9.5)
+    pdf.titre1("4. Barème de recrutement (100 points)")
+    pdf.tableau(["Critère", "Points"], [
+        ["Compétences techniques solaire", "25"], ["Régime ivoirien et autorisations", "15"], ["Expérience commerciale en entreprises", "15"],
+        ["Gestion d'équipe et de budget", "15"], ["Fiabilité et antécédents", "20"], ["Disponibilité et motivation", "10"],
+    ], [130, 44], taille=9)
+    pdf.para("Seuil de contact direct avec William : 70. De 60 à 69, second entretien. Sous 60, dossier gardé (postes commerciaux ou futurs).", taille=9, italique=True)
+    pdf.titre1("5. Points à vérifier")
+    pdf.puces([
+        "En Côte d'Ivoire, l'autoproducteur doit être propriétaire de son installation, selon une analyse de cabinet d'avocats : cela exclut la location de panneaux aux entreprises. "
+        "Le projet devrait vendre, installer et entretenir plutôt que louer. À faire confirmer par l'avocat d'Abidjan et par l'ANARE-CI (seuils et procédure non trouvés).",
+        "Forme sociale (SARL ou SAS), statuts, pacte d'associés : avocat ou notaire d'Abidjan.",
+    ], taille=9.5)
+    pdf.titre1("6. Annonce, version 2")
+    pdf.para("Directeur Général / Gérant, partenaire opérationnel : solaire pour entreprises à Abidjan", taille=11)
+    pdf.para("Un investisseur européen crée à Abidjan une société de droit OHADA dédiée à l'installation et à la maintenance de centrales solaires d'autoproduction sur toitures d'entreprises "
+             "(PME, cliniques, entrepôts, hôtels). Il recherche la personne qui la dirigera sur place : Directeur Général (Gérant si la société est une SARL), partenaire opérationnel.")
+    pdf.puces([
+        "Investissement : 300 000 € (environ 196,8 millions FCFA) sur trois ans, en trois tranches conditionnelles : 60 000 € la première année (société et pilote), 135 000 € la deuxième, 105 000 € la troisième, "
+        "chacune débloquée sur résultats vérifiés et bilan audité.",
+        "Structure : société de droit OHADA. L'investisseur est associé non-gérant. Le dirigeant local détient seul la direction opérationnelle, encadrée par les statuts, un pacte d'associés, un audit annuel indépendant et des clauses de sortie.",
+        "Marché : croissance du PIB de 6 à 6,7 % par an, objectif de 45 % d'énergies renouvelables en 2030, électrification d'environ 94 % en 2024, franc CFA à parité fixe avec l'euro.",
+        "Rémunération : à définir ensemble selon le profil et l'apport du candidat.",
+        "Profil : ingénieur en électricité ou en énergétique de préférence (ou dix ans de solaire en entreprise), dix ans d'expérience ou plus, connaissance du régime ivoirien de l'autoproduction, "
+        "expérience de vente en entreprises et de direction d'équipe, références vérifiables.",
+    ], taille=9.5)
+    pdf.para("Pour répondre : parcours détaillé, trois références, lecture du marché. Aucune somme n'est demandée à qui répond.", taille=9.5)
+    pdf.sauver(chemin("documents_william", "2041-07-19_Fiche_de_poste_Directeur_général_Gérant.pdf"))
+
+
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else ""
     if cmd in ("courriel-ministere", "tout"):
@@ -164,5 +247,8 @@ if __name__ == "__main__":
         annonce()
     if cmd == "regles-v2":
         regles_v2()
-    if cmd not in ("courriel-ministere", "abonnement", "annonce", "regles-v2", "tout"):
+    if cmd == "poste":
+        note_titre()
+        fiche_poste()
+    if cmd not in ("courriel-ministere", "abonnement", "annonce", "regles-v2", "poste", "tout"):
         sys.exit(__doc__)

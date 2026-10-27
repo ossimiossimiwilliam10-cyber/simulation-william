@@ -2656,3 +2656,11 @@ Effets à jouer : A23 (dimanche 21/07 (matin)) : Très courant ; William voit le
 - Tirage [T10] « Jean-Baptiste Tuo : délai (réponse de Jean-Baptiste Tuo au premier message de l'entretien de l'agent IA (T1) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  69.8 → **dans_la_journee** (enregistré le 27/10/2026 14:56 heure machine)
 
 - Tirage [T10] « Hervé Touré : délai (réponse d'Hervé Touré au premier message de l'entretien de l'agent IA (T17 : rec) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  15.0 → **immediat** (enregistré le 27/10/2026 14:56 heure machine)
+
+- Jet « Educarriere.ci : la version 2 de l'annonce (Directeur Général ou Gérant, montants chiffrés) est validée par la modération dans l'heure » : probabilité 70 %, jet  20.1 → **OUI** [DÉROGATION : modération d'une annonce modifiée par un site (pas un personnage) : proposition R6, revue du lundi 22/07/2041] (enregistré le 27/10/2026 15:11 heure machine)
+
+- Jet « NovoJob : la version 2 de l'annonce est validée par la modération dans l'heure » : probabilité 65 %, jet  64.7 → **OUI** [DÉROGATION : modération d'une annonce modifiée par un site (pas un personnage) : proposition R6, revue du lundi 22/07/2041] (enregistré le 27/10/2026 15:11 heure machine)
+
+- Jet « CoinAfrique : la version 2 de l'annonce est validée par la modération dans l'heure » : probabilité 80 %, jet  29.1 → **OUI** [DÉROGATION : modération d'une annonce modifiée par un site (pas un personnage) : proposition R6, revue du lundi 22/07/2041] (enregistré le 27/10/2026 15:11 heure machine)
+
+- Jet « Kosafi Annonce CI : la version 2 de l'annonce est validée par la modération dans l'heure » : probabilité 80 %, jet  92.0 → **NON** [DÉROGATION : modération d'une annonce modifiée par un site (pas un personnage) : proposition R6, revue du lundi 22/07/2041] (enregistré le 27/10/2026 15:11 heure machine)

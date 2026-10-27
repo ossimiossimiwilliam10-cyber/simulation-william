@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 27/10/2026 14:58 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 27/10/2026 15:13 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : jeudi 18/07/2041 23:10 (luxembourg, UTC+2)
+## Horloge : vendredi 19/07/2041 00:14 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 21:10 ; lisbonne 22:10 ; mindelo 20:10 ; casablanca 22:10 ; douala 22:10 ; addis 00:10 ; manille 05:10 ; paris 23:10 ; seoul 06:10 ; bresil 18:10
+- **Heure dans les autres lieux** : abidjan 22:14 ; lisbonne 23:14 ; mindelo 21:14 ; casablanca 23:14 ; douala 23:14 ; addis 01:14 ; manille 06:14 ; paris 00:14 ; seoul 07:14 ; bresil 19:14
 - **En attente de William** :
-  - Décisions de William sur Instagram (identité) et sur les questions de Nadège Kouamé ; notes des profils B à venir (seuil 70) ; prochain rapport de Claude demain à 18h00
+  - Décisions de William : Instagram (identité), questions de Nadège Kouamé, forme sociale (SARL ou SAS) ; notes des profils selon le nouveau barème ; prochain rapport de Claude le 19/07 à 18h00 ; vendredi : club l'après-midi (I1)
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **9 975,70 €**
@@ -38,10 +38,9 @@
 - Pendant : réactions et négociations par `jet.py --table Tn` (T1 à T14 ; `--pour` pour un personnage) ; personnages nouveaux par `personnage.py nouveau` ; faits et prix par `faits.py` et `prix.py` ; lieux par `lieux.py voir` ; révélations dans `savoir.py ajouter` ; argent dans `grand_livre.py ajouter`.
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
-## Fin du dernier journal (2041-07-18.md, 6 dernières lignes)
-> - Tirages du tour : T17 Nadège → conversation (33,93) ; T10 Nadège → rapide (20,2).
-> - Tour en cours à 22h09, en attente de William : **Ce que William répond aux questions de Nadège Kouamé (Claude attend) ; prochain rapport de Claude demain à 18h00 ; demain vendredi : club l'après-midi (I1)**.
-> - **22h09-23h10** (tour n° 13) : 22h15 : consigne permanente de William à Claude (entretien des profils A et B, seuil de contact, réseaux sociaux et sites locaux, autorisation permanente) ; 22h18 : réponse de Claude (seuil 70, 60-69 second entretien, sous 60 dossier gardé) ; 22h25 : entretiens lancés avec Jean-Baptiste Tuo (T17 : poli_bref, réponse le 19/07 à 01h20) et Hervé Touré (T17 : reciproqu
-> - 22h40-23h05 : Claude ouvre des comptes du projet : Facebook (groupes d'Abidjan, approbation attendue), CoinAfrique et Kosafi Annonce CI (annonces en ligne), Instagram (bloqué, identité demandée), Reddit (compte trop récent) ; 23h08 : point de Claude ; PDF des règles de l'agent (version 2) dans documents_william/
-> - Tirages du tour : T17 Nadège → conversation (33,93) ; T10 Nadège → rapide (20,2) ; jet « Facebook : le compte du projet est créé sans blocage (vérifi » → OUI (18,54) ; jet « Instagram : le compte du projet est créé sans blocage » → NON (80,64) ; jet « Reddit : le compte du projet est créé et autorisé à publier  » → NON (60,91) ; jet « CoinAfrique : le compte annonceur est créé sans justificatif 
-> - Tour en cours à 23h10, en attente de William : **Décisions de William sur Instagram (identité) et sur les questions de Nadège Kouamé ; notes des profils B à venir (seuil 70) ; prochain rapport de Claude demain à 18h00**.
+## Fin du dernier journal (2041-07-19.md, 6 dernières lignes)
+> # Vendredi 19 juillet 2041 — univers 3, quatrième jour
+> - **00h00-00h14** (tour n° 14) : 23h20 : William fait de Claude son pôle ressources humaines (jusqu'à nouvel ordre) et lui demande de modifier les annonces (montants chiffrés, Directeur Général ou Gérant), avec sa note sur le titre du dirigeant (SARL : gérant, SAS : DG) ; 23h24 : Claude choisit l'intitulé « Directeur Général / Gérant, partenaire opérationnel » et ne tranche pas la forme sociale
+> - 00h04 : fiche de poste de Claude (compétences, diplôme, barème sur 100, seuil 70, point à vérifier : l'autoproducteur doit être propriétaire de son installation) ; 00h02-00h11 : annonce version 2 en ligne sur LinkedIn, CoinAfrique, Educarriere.ci, NovoJob (tirages de modération) ; Kosafi : version 2 en modération ; Facebook : publication remplacée, en attente
+> - Tirages du tour : jet « Educarriere.ci : la version 2 de l'annonce (Directeur Généra » → OUI (20,07) ; jet « NovoJob : la version 2 de l'annonce est validée par la modér » → OUI (64,7) ; jet « CoinAfrique : la version 2 de l'annonce est validée par la m » → OUI (29,13) ; jet « Kosafi Annonce CI : la version 2 de l'annonce est validée pa » → NON (92,03).
+> - Tour en cours à 00h14, en attente de William : **Décisions de William : Instagram (identité), questions de Nadège Kouamé, forme sociale (SARL ou SAS) ; notes des profils selon le nouveau barème ; prochain rapport de Claude le 19/07 à 18h00 ; vendredi : club l'après-midi (I1)**.

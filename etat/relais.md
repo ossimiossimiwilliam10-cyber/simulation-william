@@ -1,55 +1,70 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 27/10/2026 14:58 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
+# Relais de la simulation — briefing généré le 27/10/2026 15:13 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : jeudi 18 juillet 2041, 23h10 (luxembourg) ; tour n° 13
+- Horloge : vendredi 19 juillet 2041, 00h14 (luxembourg) ; tour n° 14
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Décisions de William sur Instagram (identité) et sur les questions de Nadège Kouamé ; notes des profils B à venir (seuil 70) ; prochain rapport de Claude demain à 18h00
+- En attente de William : Décisions de William : Instagram (identité), questions de Nadège Kouamé, forme sociale (SARL ou SAS) ; notes des profils selon le nouveau barème ; prochain rapport de Claude le 19/07 à 18h00 ; vendredi : club l'après-midi (I1)
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 13 ; horloge 18/07/2041 22:09 -> 18/07/2041 23:10 ; enregistré le 27/10/2026 14:58 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 14 ; horloge 18/07/2041 23:10 -> 19/07/2041 00:14 ; enregistré le 27/10/2026 15:13 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je prends note des résultats de Claude et maintenant je décide d'améliorer encore plus le processus. C'est en fait, il devra, donc il garde son système de classement parmi les types C, type B, type A, ça c'est super. Mais lorsqu'il a des candidats de type B et de type A, il s'intéresse à leur parcours personnel et il mène un entretien avec eux pour voir personnellement ce qu'ils pourraient apporter à l'entreprise, potentiellement, au projet. Vu que Claude, il a déjà le projet en tête. Et si jamais il a la moindre question, il a qu'à me demander. Et c'est uniquement si on dépasse un certain barème, je reconnais peut-être que 80 c'est un peu trop haut, ou alors il peut même encore mettre plus haut au vu de l'ambition du projet ou quoi, que là, il doit faire tout pour avoir le numéro de la personne pour que la personne puisse s'entretenir avec moi directement. Comme ça, de cette manière, le processus sera extrêmement automatisé. Je lui demande également de ne pas se limiter uniquement à ses sites d'annonces, d'également aller sur les réseaux sociaux, c'est-à-dire Facebook, Instagram, Reddit, des trucs comme ça, ou même des trucs locaux, pour encore plus toucher des gens, faire des posts surtout. Je ne sais pas si c'est possible de faire cela ou s'il faut mon autorisation, mais je le donne systématiquement si jamais.
+> Je viens de me poser là et je me rends compte en fait finalement que Claude fait un excellent pôle ressources humaines et que donc jusqu'à nouvel ordre, c'est grâce à lui qu'on va recruter les nouveaux candidats. Je décide donc de lui expliquer de modifier en fait les annonces partout. On explique toujours le projet, sauf que cette fois-ci, on met des montants chiffrés, on est transparent. Et on dit en fait qu'on recherche plutôt un... Alors, j'hésite encore, soit c'est un gérant, soit c'est un directeur général. Mais je ne sais pas quelle est la structure la plus optimale. Je lui fournis également un rapport que j'ai fait avec, avec un agent IA et avec mes propres connaissances. Et voilà, donc je lui demande de choisir l'intitulé du poste. Je lui dis que alors concernant la partie salaire, voilà, on va discuter une fois avec le candidat. Ça dépendra du candidat et de ce qu'il peut vraiment apporter. Et je lui demande de lui-même en fait faire des recherches précises et ciblées en s'appuyant sur le projet pour vraiment lister les compétences nécessaires en fait pour le candidat. En termes de diplôme, diplôme, je le laisse regarder. Hein. Je laisse gérer ça en termes de diplôme. Donc, on part d'abord sur le recrutement de cet homme-là pour constituer la toute première équipe. Voilà. Donc, ça fait déjà un bon début. Donc, jusqu'à nouvel ordre, Claude, maintenant, c'est mon nouveau pôle ressources humaines. Et il fait entièrement partie de l'équipe. Voilà.
+> 
+> [Note collée par le joueur : titre du dirigeant local selon la forme sociale (SARL : gérant ; SAS : directeur général ou président), article 14, intitulé conseillé « Gérant local / Directeur Général (partenaire opérationnel) », vérifications avant nomination ; copie : documents_william/2041-07-18_Note_titre_du_dirigeant_SARL_SAS.pdf]
 
 ## Texte envoyé au joueur
 
-**JEUDI 18 JUILLET 2041 — 23h10 — Audun-le-Tiche, chez William**
+**VENDREDI 19 JUILLET 2041 — 00h14 — Audun-le-Tiche, chez William**
 
-À 22h15, tu écris à Claude. Tu gardes le classement A, B, C. Pour les profils A et B, il étudie leur parcours personnel et mène un entretien pour voir ce qu'ils pourraient apporter au projet, et s'il a la moindre question, il te la pose. Passé un barème, il fait tout pour obtenir le numéro de la personne afin qu'elle s'entretienne directement avec toi : 80 te paraît peut-être trop haut, ou à relever au contraire vu l'ambition du projet, tu lui laisses trancher. Enfin il ne se limite plus aux sites d'annonces : Facebook, Instagram, Reddit, des sites locaux, avec ton autorisation, que tu lui donnes d'avance chaque fois. À 22h18 :
+À 23h20, tu te poses sur le canapé et l'évidence te vient : Claude fait un excellent pôle ressources humaines. Tu lui écris que, jusqu'à nouvel ordre, c'est lui qui recrute et qu'il fait entièrement partie de l'équipe. Tu lui demandes de modifier les annonces partout : toujours le projet, mais avec des montants chiffrés, en toute transparence, et la recherche d'un gérant ou d'un directeur général, sans que tu saches encore laquelle des deux structures est la plus optimale. Tu lui fournis la note que tu as établie avec un autre agent IA et tes propres connaissances, et tu lui laisses choisir l'intitulé du poste. Pour le salaire, on en discutera avec le candidat, selon ce qu'il peut vraiment apporter. Tu lui demandes de chercher lui-même, précisément, les compétences nécessaires au regard du projet ; pour le diplôme, tu lui laisses la main. On part d'abord sur le recrutement de cet homme, pour constituer la toute première équipe.
 
-« Compris. Je garde le classement A, B, C. Pour chaque profil A ou B, j'étudie son parcours public, je mène l'entretien sur ce qu'il peut apporter au projet, puis je le note sur 100 selon les cinq critères.
+À 23h24, la réponse :
 
-Seuil pour te mettre en contact : 70. Les profils moyens que j'ai vus sont à 50 ou 60 ; 70 te garde du temps sans fermer la porte aux bons. De 60 à 69, un second entretien ; sous 60, le dossier est gardé. Au-dessus du seuil, j'obtiens le numéro et je te le transmets.
+« Compris : jusqu'à nouvel ordre, je suis ton pôle ressources humaines et je fais partie de l'équipe. Ta note est claire sur le titre légal. Pour l'annonce, je choisis « Directeur Général / Gérant, partenaire opérationnel » : Gérant si la société est une SARL, Directeur Général si c'est une SAS. La forme sociale reste à trancher avec l'avocat d'Abidjan, je ne la tranche pas. La rémunération se discutera avec le candidat. Je fais les recherches sur les compétences et je reviens avec la fiche de poste. »
 
-Je te pose une question seulement si elle touche au projet (montant, calendrier, rôle) ou à ton identité. J'ajoute les réseaux sociaux et les sites locaux avec ton autorisation permanente, sous un compte du projet, sans ton nom. »
+Tu éteins la lumière du salon et tu laisses l'ordinateur travailler. À 00h04, la fiche de poste arrive, dans tes documents :
 
-La pluie tapote encore les volets. À 22h28, une alerte discrète : Claude a reçu une première réponse d'Hervé Touré. Le reste du travail se fait sans toi.
+« Compétences : solaire en toiture (dimensionner, suivre le chantier, raccorder, maintenir) ; régime ivoirien de l'autoproduction et autorisations ; vente à des entreprises ; direction d'une petite équipe, budget et comptabilité OHADA ; gouvernance envers toi (rapport, audit annuel) ; références propres.
 
-À 23h08, le point de Claude :
+Diplôme : ingénieur en électricité ou en énergétique (bac + 5) de préférence, ou dix ans de pratique du solaire en entreprise. Un doctorat n'est pas exigé, utile seulement s'il touche à l'énergie. Dix ans d'expérience ou plus.
 
-« Réseaux sociaux et sites locaux. CoinAfrique : annonce validée à 22h58 et en ligne. Kosafi Annonce CI : validée à 22h51 et en ligne. Facebook : compte du projet créé, publication envoyée dans plusieurs groupes d'entrepreneurs, d'ingénieurs et d'immobilier d'Abidjan ; elle attend l'approbation des administrateurs. Instagram : compte bloqué à la création, la plateforme exige une pièce d'identité et une vidéo-selfie ; je ne les ai pas, dis-moi si tu veux le faire. Reddit : compte créé mais trop récent pour publier dans les communautés ivoiriennes ; je réessaie dans quelques jours.
+Barème sur 100 : technique solaire 25, régime ivoirien 15, vente en entreprises 15, équipe et budget 15, fiabilité et antécédents 20, disponibilité et motivation 10. Seuil de contact avec toi : 70. Hervé Touré, Jean-Baptiste Tuo et Nadège Kouamé sont reclassés pour des postes commerciaux ; leurs entretiens continuent.
 
-Entretiens. Hervé Touré (B), commerçant et entrepreneur, a répondu à 22h28 : douze ans dans le négoce de matériel électrique et de climatiseurs à Marcory, des clients boutiques et PME, des références que je n'arrive toujours pas à joindre. Il m'a donné spontanément son numéro WhatsApp ; je le garde, rien ne t'est transmis tant que sa note n'atteint pas 70. Jean-Baptiste Tuo (B) : contacté, pas encore de réponse. Règles mises à jour : « Règles de l'agent IA, version 2 », dans tes documents. »
+Un point à faire vérifier : en Côte d'Ivoire, l'autoproducteur doit être propriétaire de son installation, selon l'analyse d'un cabinet d'avocats. Cela exclut de louer des panneaux aux entreprises : le projet devrait vendre, installer et entretenir. Je n'ai trouvé ni les seuils ni la procédure ; l'avocat d'Abidjan et l'ANARE-CI doivent confirmer. L'annonce ne parle pas de location. »
 
-Il est 23h10.
+L'annonce, version 2, suit dans la foulée :
+
+« Directeur Général / Gérant, partenaire opérationnel : solaire pour entreprises à Abidjan. Un investisseur européen crée à Abidjan une société de droit OHADA dédiée à l'installation et à la maintenance de centrales solaires d'autoproduction sur toitures d'entreprises (PME, cliniques, entrepôts, hôtels). Il recherche la personne qui la dirigera sur place.
+
+Investissement : 300 000 € (environ 196,8 millions FCFA) sur trois ans, en trois tranches conditionnelles : 60 000 € la première année, 135 000 € la deuxième, 105 000 € la troisième, chacune débloquée sur résultats vérifiés et bilan audité. Structure : société de droit OHADA ; l'investisseur est associé non-gérant ; le dirigeant local détient seul la direction opérationnelle, encadrée par les statuts, un pacte d'associés, un audit annuel indépendant et des clauses de sortie. Marché : croissance du PIB de 6 à 6,7 % par an, objectif de 45 % d'énergies renouvelables en 2030, électrification d'environ 94 % en 2024, franc CFA à parité fixe avec l'euro. Rémunération : à définir ensemble selon le profil et l'apport du candidat.
+
+Profil : ingénieur en électricité ou en énergétique de préférence (ou dix ans de solaire en entreprise), dix ans d'expérience ou plus, connaissance du régime ivoirien de l'autoproduction, expérience de vente en entreprises et de direction d'équipe, références vérifiables. Pour répondre : parcours détaillé, trois références, lecture du marché. Aucune somme n'est demandée à qui répond. »
+
+À 00h14, le point sur les plateformes :
+
+« Version 2 en ligne : LinkedIn à 00h02, CoinAfrique à 00h06, Educarriere.ci à 00h09, NovoJob à 00h11. Kosafi Annonce CI : version 2 en modération, l'ancienne reste en ligne. Facebook : publication remplacée, toujours en attente des administrateurs. »
+
+Il est minuit passé. Dehors, la pluie a cessé.
 
 ---
 
 **Réponses attendues**
-- **Claude** (ton agent IA) : tes décisions sur Instagram et sur les questions de Nadège Kouamé ; sinon, le prochain rapport demain à 18h00 et la note de chaque profil A ou B dès la fin de son entretien.
+- **Claude** (ton agent IA, pôle ressources humaines) : tes décisions sur Instagram et sur les questions de Nadège Kouamé ; sinon, le prochain rapport demain à 18h00 et la note des profils selon le nouveau barème.
 - **Ministère de l'Éducation** (info@men.lu) : ton courriel de mardi à 12h14 n'a pas de réponse.
 
 **À faire / à fournir avant le tour suivant**
 - **Instagram** : la plateforme demande une pièce d'identité et une vidéo-selfie pour ouvrir le compte du projet.
 - **Nadège Kouamé** : ses questions (porteur du projet, montant, calendrier, possibilité d'un emploi) attendent toujours ta réponse.
+- **Forme sociale** : SARL ou SAS, à trancher avec l'avocat d'Abidjan ; aucun avocat n'est encore contacté.
 
 **Quêtes secondaires**
 - Rien en suspens en dehors de ce que tu as déjà noté.
@@ -65,7 +80,7 @@ Que veux-tu faire ?
 
 ## Décisions en attente de William (etat/fils-ouverts.md, A)
 | 1 | **Organisation des vacances d'été 2041** | Premier jour des grandes vacances scolaires (du mardi 16/07/2041 au dimanche 15/09/2041). Choix des projets, voyages, rythme de vie ou déplacements estivaux. Budget vacances disponible : 833 €/mois (10 000 €/an). | Ouvert |
-| 2 | **Stratégie d'entrepreneuriat à distance** | Âge optimal atteint (36 ans). William a la liberté et la surface financière pour amorcer son projet business à distance tout en respectant l'Art. 14 du statut des fonctionnaires luxembourgeois (F083-F086). Choix du statut juridique et de l'axe business à mûrir. ; *(16/07 10h46) (16/07 10h46) deux rapports de l'agent IA reçus, Brésil (09h41) puis Côte d'Ivoire (10h34), PDF dans documents_william/ ; cadre article 14 rappelé (associé non-gérant admis, gérance non) ; rien d'engagé, suite à décider par William* ; *(16/07 11h55) (16/07 11h55) budget envisagé de 300 000 € sur 2 à 3 ans (I6) ; l'agent IA répond : Côte d'Ivoire, SAS OHADA, solaire B2B ; rien d'engagé, décision de William* ; *(16/07 13h06) (16/07 13h06) décision : Côte d'Ivoire (I7) ; courriel au ministère envoyé à 12h14 (réponse attendue, A006 non connu) ; annonce de recherche d'un contact prête, non publiée, feu vert attendu* ; *(16/07 13h44) (16/07 13h44) annonce publiée (LinkedIn 13h09, Educarriere.ci 13h31) ; rapport de Claude à 18h00 (A007) ; autorisation donnée (I9)* ; *(16/07 18h02) (16/07 18h02) rapport de 18h00 : 1 réponse, arnaque de niveau C ignorée ; aucun A ni B ; prochain rapport le 17/07 à 18h00 (A009)* ; *(17/07 18h03) (17/07 18h03) rapport de 18h00 : trois profils B (Kouamé, Tuo, Touré), deux C (arnaque, hors profil), aucun A ; réponses aux questions complémentaires attendues ; prochain rapport le 18/07 à 18h00 (A010)* ; *(17/07 18h12) (17/07 18h12) demande du numéro personnel de Nadège Kouamé envoyée par Claude à 18h09, pas de réponse (T17 : ignore) ; Claude prévient dès qu'elle répond (I11)* ; *(18/07 18h03) (18/07 18h03) rapport de 18h00 : sept réponses (0 A, 3 B, 4 C) ; Tuo répond (B), Touré et Kouamé non ; prochain rapport le 19/07 à 18h00 (A011)* ; *(18/07 20h47) (18/07 20h47) Nadège Kouamé répond aux questions complémentaires (B, références joignables, pas de solaire), pas au numéro ; Claude attend la réponse que William veut lui faire* ; *(18/07 21h27) (18/07 21h27) entretien de Claude avec Nadège Kouamé en cours : première réponse brève (environ 35 propriétaires et gérants), trois questions reposées ; note sur 100 à rendre, numéro si plus de 80 (I12)* ; *(18/07 22h09) (18/07 22h09) note de Nadège Kouamé : 53/100, sous le seuil de 80 (I12) ; ses questions (porteur, montant, calendrier, emploi) attendent la décision de William* ; *(18/07 23h10) (18/07 23h10) consigne permanente I13 (entretien des profils A et B, seuil 70, réseaux sociaux et sites locaux) ; CoinAfrique et Kosafi en ligne, Facebook en attente, Instagram bloqué (identité demandée à William), Reddit trop récent ; Hervé Touré a donné son numéro à Claude (non transmis)* | Ouvert |
+| 2 | **Stratégie d'entrepreneuriat à distance** | Âge optimal atteint (36 ans). William a la liberté et la surface financière pour amorcer son projet business à distance tout en respectant l'Art. 14 du statut des fonctionnaires luxembourgeois (F083-F086). Choix du statut juridique et de l'axe business à mûrir. ; *(16/07 10h46) (16/07 10h46) deux rapports de l'agent IA reçus, Brésil (09h41) puis Côte d'Ivoire (10h34), PDF dans documents_william/ ; cadre article 14 rappelé (associé non-gérant admis, gérance non) ; rien d'engagé, suite à décider par William* ; *(16/07 11h55) (16/07 11h55) budget envisagé de 300 000 € sur 2 à 3 ans (I6) ; l'agent IA répond : Côte d'Ivoire, SAS OHADA, solaire B2B ; rien d'engagé, décision de William* ; *(16/07 13h06) (16/07 13h06) décision : Côte d'Ivoire (I7) ; courriel au ministère envoyé à 12h14 (réponse attendue, A006 non connu) ; annonce de recherche d'un contact prête, non publiée, feu vert attendu* ; *(16/07 13h44) (16/07 13h44) annonce publiée (LinkedIn 13h09, Educarriere.ci 13h31) ; rapport de Claude à 18h00 (A007) ; autorisation donnée (I9)* ; *(16/07 18h02) (16/07 18h02) rapport de 18h00 : 1 réponse, arnaque de niveau C ignorée ; aucun A ni B ; prochain rapport le 17/07 à 18h00 (A009)* ; *(17/07 18h03) (17/07 18h03) rapport de 18h00 : trois profils B (Kouamé, Tuo, Touré), deux C (arnaque, hors profil), aucun A ; réponses aux questions complémentaires attendues ; prochain rapport le 18/07 à 18h00 (A010)* ; *(17/07 18h12) (17/07 18h12) demande du numéro personnel de Nadège Kouamé envoyée par Claude à 18h09, pas de réponse (T17 : ignore) ; Claude prévient dès qu'elle répond (I11)* ; *(18/07 18h03) (18/07 18h03) rapport de 18h00 : sept réponses (0 A, 3 B, 4 C) ; Tuo répond (B), Touré et Kouamé non ; prochain rapport le 19/07 à 18h00 (A011)* ; *(18/07 20h47) (18/07 20h47) Nadège Kouamé répond aux questions complémentaires (B, références joignables, pas de solaire), pas au numéro ; Claude attend la réponse que William veut lui faire* ; *(18/07 21h27) (18/07 21h27) entretien de Claude avec Nadège Kouamé en cours : première réponse brève (environ 35 propriétaires et gérants), trois questions reposées ; note sur 100 à rendre, numéro si plus de 80 (I12)* ; *(18/07 22h09) (18/07 22h09) note de Nadège Kouamé : 53/100, sous le seuil de 80 (I12) ; ses questions (porteur, montant, calendrier, emploi) attendent la décision de William* ; *(18/07 23h10) (18/07 23h10) consigne permanente I13 (entretien des profils A et B, seuil 70, réseaux sociaux et sites locaux) ; CoinAfrique et Kosafi en ligne, Facebook en attente, Instagram bloqué (identité demandée à William), Reddit trop récent ; Hervé Touré a donné son numéro à Claude (non transmis)* ; *(19/07 00h14) (19/07 00h14) Claude = pôle RH (I14), premier poste Directeur Général / Gérant ; annonce version 2 avec montants ; fiche de poste ; à décider : forme sociale, Instagram (identité), questions de Nadège Kouamé* | Ouvert |
 | 3 | **Entraînement sportif & préparation physique** | Entraînements au Minett Combat Club d'Esch-sur-Alzette (MMA, grappling, boxe thaïe, musculation). Cours d'été en place. Noter la fermeture annuelle du club du lundi 12/08/2041 au dimanche 25/08/2041 (agenda A003). ; *(16/07 10h46) (16/07) rythme de l'été fixé par William : lundi, mercredi, vendredi après-midi au club, course de 5 km le dimanche matin, rien le samedi ; voir A2 I1* ; *(17/07 18h03) (17/07) séance du mercredi faite au club (2 h) avec Thiago Alves et Arthur Kieffer ; prochaine : vendredi 19/07 l'après-midi (I1)* | Ouvert |
 | 4 | **Logistique personnelle & maison** | Maison d'Audun-le-Tiche (charges à jour, voiture électrique chargée). Rien d'urgent en panne. ; *(16/07 13h06) (16/07 12h33) abonnement à l'agent IA : 24,30 €/mois sur la Visa Debit, engagement de 12 mois jusqu'au 15/07/2042 (E016)* | Ouvert |
 
@@ -164,10 +179,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : ed2cf17 ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 56f297a ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 22 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 21 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 
