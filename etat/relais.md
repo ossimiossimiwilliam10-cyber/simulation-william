@@ -1,43 +1,46 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 27/10/2026 14:30 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
+# Relais de la simulation — briefing généré le 27/10/2026 14:42 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : jeudi 18 juillet 2041, 20h47 (luxembourg) ; tour n° 10
+- Horloge : jeudi 18 juillet 2041, 21h27 (luxembourg) ; tour n° 11
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Ce que William répond à Nadège Kouamé (Claude attend) ; prochain rapport de Claude demain à 18h00 ; demain vendredi : club l'après-midi (I1)
+- En attente de William : Note de Nadège Kouamé par Claude (entretien en cours, I12) ; prochain rapport de Claude demain à 18h00 ; demain vendredi : club l'après-midi (I1)
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 10 ; horloge 18/07/2041 18:03 -> 18/07/2041 20:47 ; enregistré le 27/10/2026 14:30 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 11 ; horloge 18/07/2041 20:47 -> 18/07/2041 21:27 ; enregistré le 27/10/2026 14:42 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Go
+> Je demande à Claude de s'entretenir avec Nadège afin d'évaluer à quel point son réseau est élevé en termes de clients potentiels pour nous, vu que Claude il a conscience du projet. Et je lui demande de lui attribuer une note, et que si la note dépasse les 80, alors de faire tout pour que je puisse avoir son numéro, pour que je puisse m'entretenir personnellement avec elle.
 
 ## Texte envoyé au joueur
 
-**JEUDI 18 JUILLET 2041 — 20h47 — Audun-le-Tiche, chez William**
+**JEUDI 18 JUILLET 2041 — 21h27 — Audun-le-Tiche, chez William**
 
-Jeudi soir, la pluie s'essouffle vers sept heures et la rue sent la terre mouillée. Tu fais ton repas, le seul de la journée, et tu le manges vers 19h30, la fenêtre entrouverte sur le bruit des gouttes qui tombent des toits.
+À 20h50, tu écris à Claude : il s'entretient avec Nadège Kouamé pour évaluer l'ampleur de son réseau en clients potentiels pour le projet, il lui attribue une note, et si elle dépasse 80, il fait tout pour que tu aies son numéro et que tu puisses lui parler toi-même. La réponse arrive à 20h52 :
 
-À 20h47, ton téléphone vibre : Claude.
+« Compris. Je l'interroge sur son réseau et je la note sur 100 selon cinq critères : réseau utile en clients potentiels (30 points), pertinence pour le solaire : factures d'électricité élevées, bâtiments adaptés (25), accès réel : décideurs joints, introductions déjà faites (20), fiabilité : références, cohérence de ses réponses (15), disponibilité et motivation (10). Si la note dépasse 80, je fais le nécessaire pour que tu obtiennes son numéro et je te préviens aussitôt. Je ne donne ni ton nom ni ton numéro sans ton accord. »
 
-« Nadège Kouamé vient de répondre aux questions complémentaires (20h43, Educarriere.ci). Expérience : quatorze ans de promotion immobilière à Abidjan, surtout du résidentiel, quelques bâtiments commerciaux. Références : un notaire et deux clients, joignables ; je commence à vérifier. Lecture du marché : les propriétaires d'immeubles de bureaux et de commerces subissent des coupures et des factures élevées et demandent du solaire ; elle n'en a jamais installé elle-même et dit vouloir apprendre. Elle n'a pas parlé de ton numéro. Je la laisse en B : métier voisin, pas d'expérience du solaire. Dis-moi ce que tu veux que je lui réponde. »
+À 20h55, Claude lui écrit sur Educarriere.ci : « Bonsoir Madame Kouamé, merci pour vos réponses. Pour avancer, pouvez-vous m'indiquer approximativement : combien de propriétaires ou d'entreprises vous pourriez présenter au porteur du projet ; combien d'entre eux vous mettent en contact avec la personne qui décide ; si leurs factures d'électricité sont élevées ; et si vous avez déjà fait des introductions dans un projet comparable. Cordialement. »
+
+À 21h27, le point de Claude :
+
+« Réponse de Nadège Kouamé à 21h23, brève : elle dit connaître environ trente-cinq propriétaires et gérants d'immeubles de bureaux et de commerces à Abidjan, surtout au Plateau, à Marcory et à Cocody ; pas de noms avant d'en savoir plus sur le projet ; rien sur les décideurs, les factures ni les introductions déjà faites. Je lui repose ces trois points plus précisément. Note : trop tôt pour la donner. »
 
 ---
 
 **Réponses attendues**
-- **Claude** (ton agent IA) : ce que tu veux répondre à Nadège Kouamé ; sinon, le prochain rapport demain à 18h00.
-- **Nadège Kouamé** (par Claude, Educarriere.ci) : ta demande de numéro d'hier à 18h09 est toujours sans réponse.
+- **Claude** (ton agent IA) : la note de Nadège Kouamé une fois l'entretien terminé ; sinon, le prochain rapport demain à 18h00.
 - **Ministère de l'Éducation** (info@men.lu) : ton courriel de mardi à 12h14 n'a pas de réponse.
 
 **À faire / à fournir avant le tour suivant**
-- Dire à Claude quoi répondre à Nadège Kouamé (niveau B, références en cours de vérification).
+- Aucune démarche en cours.
 
 **Quêtes secondaires**
 - Rien en suspens en dehors de ce que tu as déjà noté.
@@ -52,7 +55,7 @@ Que veux-tu faire ?
 
 ## Décisions en attente de William (etat/fils-ouverts.md, A)
 | 1 | **Organisation des vacances d'été 2041** | Premier jour des grandes vacances scolaires (du mardi 16/07/2041 au dimanche 15/09/2041). Choix des projets, voyages, rythme de vie ou déplacements estivaux. Budget vacances disponible : 833 €/mois (10 000 €/an). | Ouvert |
-| 2 | **Stratégie d'entrepreneuriat à distance** | Âge optimal atteint (36 ans). William a la liberté et la surface financière pour amorcer son projet business à distance tout en respectant l'Art. 14 du statut des fonctionnaires luxembourgeois (F083-F086). Choix du statut juridique et de l'axe business à mûrir. ; *(16/07 10h46) (16/07 10h46) deux rapports de l'agent IA reçus, Brésil (09h41) puis Côte d'Ivoire (10h34), PDF dans documents_william/ ; cadre article 14 rappelé (associé non-gérant admis, gérance non) ; rien d'engagé, suite à décider par William* ; *(16/07 11h55) (16/07 11h55) budget envisagé de 300 000 € sur 2 à 3 ans (I6) ; l'agent IA répond : Côte d'Ivoire, SAS OHADA, solaire B2B ; rien d'engagé, décision de William* ; *(16/07 13h06) (16/07 13h06) décision : Côte d'Ivoire (I7) ; courriel au ministère envoyé à 12h14 (réponse attendue, A006 non connu) ; annonce de recherche d'un contact prête, non publiée, feu vert attendu* ; *(16/07 13h44) (16/07 13h44) annonce publiée (LinkedIn 13h09, Educarriere.ci 13h31) ; rapport de Claude à 18h00 (A007) ; autorisation donnée (I9)* ; *(16/07 18h02) (16/07 18h02) rapport de 18h00 : 1 réponse, arnaque de niveau C ignorée ; aucun A ni B ; prochain rapport le 17/07 à 18h00 (A009)* ; *(17/07 18h03) (17/07 18h03) rapport de 18h00 : trois profils B (Kouamé, Tuo, Touré), deux C (arnaque, hors profil), aucun A ; réponses aux questions complémentaires attendues ; prochain rapport le 18/07 à 18h00 (A010)* ; *(17/07 18h12) (17/07 18h12) demande du numéro personnel de Nadège Kouamé envoyée par Claude à 18h09, pas de réponse (T17 : ignore) ; Claude prévient dès qu'elle répond (I11)* ; *(18/07 18h03) (18/07 18h03) rapport de 18h00 : sept réponses (0 A, 3 B, 4 C) ; Tuo répond (B), Touré et Kouamé non ; prochain rapport le 19/07 à 18h00 (A011)* ; *(18/07 20h47) (18/07 20h47) Nadège Kouamé répond aux questions complémentaires (B, références joignables, pas de solaire), pas au numéro ; Claude attend la réponse que William veut lui faire* | Ouvert |
+| 2 | **Stratégie d'entrepreneuriat à distance** | Âge optimal atteint (36 ans). William a la liberté et la surface financière pour amorcer son projet business à distance tout en respectant l'Art. 14 du statut des fonctionnaires luxembourgeois (F083-F086). Choix du statut juridique et de l'axe business à mûrir. ; *(16/07 10h46) (16/07 10h46) deux rapports de l'agent IA reçus, Brésil (09h41) puis Côte d'Ivoire (10h34), PDF dans documents_william/ ; cadre article 14 rappelé (associé non-gérant admis, gérance non) ; rien d'engagé, suite à décider par William* ; *(16/07 11h55) (16/07 11h55) budget envisagé de 300 000 € sur 2 à 3 ans (I6) ; l'agent IA répond : Côte d'Ivoire, SAS OHADA, solaire B2B ; rien d'engagé, décision de William* ; *(16/07 13h06) (16/07 13h06) décision : Côte d'Ivoire (I7) ; courriel au ministère envoyé à 12h14 (réponse attendue, A006 non connu) ; annonce de recherche d'un contact prête, non publiée, feu vert attendu* ; *(16/07 13h44) (16/07 13h44) annonce publiée (LinkedIn 13h09, Educarriere.ci 13h31) ; rapport de Claude à 18h00 (A007) ; autorisation donnée (I9)* ; *(16/07 18h02) (16/07 18h02) rapport de 18h00 : 1 réponse, arnaque de niveau C ignorée ; aucun A ni B ; prochain rapport le 17/07 à 18h00 (A009)* ; *(17/07 18h03) (17/07 18h03) rapport de 18h00 : trois profils B (Kouamé, Tuo, Touré), deux C (arnaque, hors profil), aucun A ; réponses aux questions complémentaires attendues ; prochain rapport le 18/07 à 18h00 (A010)* ; *(17/07 18h12) (17/07 18h12) demande du numéro personnel de Nadège Kouamé envoyée par Claude à 18h09, pas de réponse (T17 : ignore) ; Claude prévient dès qu'elle répond (I11)* ; *(18/07 18h03) (18/07 18h03) rapport de 18h00 : sept réponses (0 A, 3 B, 4 C) ; Tuo répond (B), Touré et Kouamé non ; prochain rapport le 19/07 à 18h00 (A011)* ; *(18/07 20h47) (18/07 20h47) Nadège Kouamé répond aux questions complémentaires (B, références joignables, pas de solaire), pas au numéro ; Claude attend la réponse que William veut lui faire* ; *(18/07 21h27) (18/07 21h27) entretien de Claude avec Nadège Kouamé en cours : première réponse brève (environ 35 propriétaires et gérants), trois questions reposées ; note sur 100 à rendre, numéro si plus de 80 (I12)* | Ouvert |
 | 3 | **Entraînement sportif & préparation physique** | Entraînements au Minett Combat Club d'Esch-sur-Alzette (MMA, grappling, boxe thaïe, musculation). Cours d'été en place. Noter la fermeture annuelle du club du lundi 12/08/2041 au dimanche 25/08/2041 (agenda A003). ; *(16/07 10h46) (16/07) rythme de l'été fixé par William : lundi, mercredi, vendredi après-midi au club, course de 5 km le dimanche matin, rien le samedi ; voir A2 I1* ; *(17/07 18h03) (17/07) séance du mercredi faite au club (2 h) avec Thiago Alves et Arthur Kieffer ; prochaine : vendredi 19/07 l'après-midi (I1)* | Ouvert |
 | 4 | **Logistique personnelle & maison** | Maison d'Audun-le-Tiche (charges à jour, voiture électrique chargée). Rien d'urgent en panne. ; *(16/07 13h06) (16/07 12h33) abonnement à l'agent IA : 24,30 €/mois sur la Visa Debit, engagement de 12 mois jusqu'au 15/07/2042 (E016)* | Ouvert |
 
@@ -151,10 +154,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 9fcef12 ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 59e05b6 ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 14 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 17 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

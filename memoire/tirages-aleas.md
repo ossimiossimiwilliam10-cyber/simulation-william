@@ -2610,3 +2610,17 @@ Effets à jouer : A23 (dimanche 21/07 (matin)) : Très courant ; William voit le
 - Jet « Hervé Touré répond aux questions complémentaires de l'agent IA entre jeudi 18h00 et vendredi 18h00 (35 %) » : probabilité 35 %, jet  46.3 → **NON** [DÉROGATION : flux de réponses à une annonce publique, pas de table validée (proposition R6, revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:30 heure machine)
 
 - Jet « Nadège Kouamé : sa réponse du jeudi 18/07 à 20h43 montre une expérience pertinente du solaire ou du bâtiment technique (toitures, maîtrise d'ouvrage) : passage de B à A » : probabilité 25 %, jet  26.8 → **NON** [DÉROGATION : flux de réponses à une annonce publique, pas de table validée (proposition R6, revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:30 heure machine)
+
+- Tirage [T17] « Nadège Kouamé : réaction au message de William du 18/07 18:55 (abidjan) : « premier message de l'entretien de l'agent IA de William sur Educarriere.ci : questions sur » » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  22.4 → **poli_bref** (enregistré le 27/10/2026 14:39 heure machine)
+
+- Tirage [T10] « Nadège Kouamé : délai (réponse de Nadège Kouamé à l'entretien de l'agent IA de William sur son réseau d) » : immediat 9 / rapide 18 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 20 / plus_tard_ou_jamais 18 ; modificateurs : M72 ; jet  15.0 → **rapide** (enregistré le 27/10/2026 14:40 heure machine)
+
+- Jet « Nadège Kouamé : nombre de propriétaires ou d'entreprises qu'elle peut présenter (4 + jet × 0,36) » : probabilité 50 %, jet  87.5 → **NON** [PROCÉDURE : valeur d'un attribut de réseau (jet × 100)] (enregistré le 27/10/2026 14:41 heure machine)
+
+- Jet « Nadège Kouamé : part qu'elle joint jusqu'au décideur (30 + jet × 0,5 %) » : probabilité 50 %, jet  27.6 → **OUI** [PROCÉDURE : valeur d'un attribut de réseau (jet × 100)] (enregistré le 27/10/2026 14:41 heure machine)
+
+- Jet « Nadège Kouamé : part dont la facture d'électricité est élevée (20 + jet × 0,4 %) » : probabilité 50 %, jet  22.3 → **OUI** [PROCÉDURE : valeur d'un attribut de réseau (jet × 100)] (enregistré le 27/10/2026 14:41 heure machine)
+
+- Jet « Nadège Kouamé : introductions déjà faites dans un projet comparable (jet / 25) » : probabilité 50 %, jet  42.1 → **OUI** [PROCÉDURE : valeur d'un attribut de réseau (jet × 100)] (enregistré le 27/10/2026 14:41 heure machine)
+
+- Jet « Nadège Kouamé : motivation et disponibilité (0,5 + jet / 200) » : probabilité 50 %, jet  32.4 → **OUI** [PROCÉDURE : valeur d'un attribut de réseau (jet × 100)] (enregistré le 27/10/2026 14:41 heure machine)

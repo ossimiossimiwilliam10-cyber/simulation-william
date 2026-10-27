@@ -7,6 +7,7 @@ tout ; le moteur n'écrit ensuite que le rapport et les textes des messages.
     python outils/annonces.py liste                                        # annonces publiées (plateformes, état)
     python outils/annonces.py tirer --jusqua "2041-07-16 18:00" [--simule] # réponses arrivées depuis le dernier traitement
     python outils/annonces.py reponses [--depuis "AAAA-MM-JJ HH:MM"]       # réponses déjà tirées (moteur seul)
+    python outils/annonces.py reseau "Nom" [--simule]                      # réseau d'un répondant en clients potentiels, noté sur 100 (moteur seul)
     python outils/annonces.py verifier
 
 Fichiers : `etat/annonces.csv` (annonce, plateforme, publiée le, état, traitée jusqu'au), `etat/reponses-annonce.csv` (une ligne par réponse :
@@ -37,6 +38,8 @@ COL_R = ["id", "quand", "plateforme", "nom", "niveau", "profil", "signaux", "not
 TAUX = {"LinkedIn": 0.30, "Educarriere.ci": 0.55, "NovoJob": 0.50, "Indeed": 0.0}  # réponses attendues par heure juste après la publication
 DEROGATION = ("flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée "
               "(proposition à la revue du lundi 22/07/2041)")
+RESEAUX = ETAT / "reseaux-repondants.csv"
+COL_N = ["nom", "proprietaires", "decideurs_pct", "factures_pct", "intros", "motivation", "note", "detail"]
 PERTINENCE = [("ingénieur", 3), ("chercheur", 3), ("consultant", 2), ("cadre", 2), ("technicien", 2), ("immobilier", 1), ("comptable", 1),
               ("commerçant", 1), ("fonctionnaire", 1), ("employé", 0), ("sans emploi", 0), ("étudiant", 0)]
 
@@ -136,6 +139,37 @@ def tirer(jusqua, simule=False):
     return sortie
 
 
+def reseau(nom, simule=False):
+    """Réseau d'un répondant en clients potentiels (demande de William, 18/07/2041 : « évaluer à quel point son réseau est élevé en termes de clients potentiels,
+    lui attribuer une note »). Cinq critères de l'agent IA : taille utile du réseau (30), pertinence pour le solaire (25), accès réel (20), fiabilité (15),
+    disponibilité (10). Les valeurs se tirent une fois (jets libres avec dérogation consignée), puis le répondant les révèle par morceaux ; la note est celle de l'agent."""
+    import jet
+    import routines
+    p = routines.personnage(nom)
+    if any(l["nom"] == p["nom"] for l in lire_csv(RESEAUX)):
+        sys.exit(f"Le réseau de {p['nom']} est déjà tiré (jamais rejoué) : python outils/annonces.py voir-reseau \"{p['nom']}\"")
+    d = "réseau d'un répondant à une annonce publique : pas de table validée (proposition R6, revue du lundi 22/07/2041)"
+    j = lambda lib: jet.tirer_libre(lib, 50, procedure="valeur d'un attribut de réseau (jet × 100)", simule=simule)["jet"]
+    proprietaires = 4 + int(j(f"{p['nom']} : nombre de propriétaires ou d'entreprises qu'elle peut présenter (4 + jet × 0,36)") * 0.36)
+    decideurs = int(30 + j(f"{p['nom']} : part qu'elle joint jusqu'au décideur (30 + jet × 0,5 %)") * 0.5)
+    factures = int(20 + j(f"{p['nom']} : part dont la facture d'électricité est élevée (20 + jet × 0,4 %)") * 0.4)
+    intros = int(j(f"{p['nom']} : introductions déjà faites dans un projet comparable (jet / 25)") / 25)
+    motivation = round(0.5 + j(f"{p['nom']} : motivation et disponibilité (0,5 + jet / 200)") / 200, 2)
+    oubli = 0
+    m = re.search(r"oubli (\d+) %", p.get("traits", "")) 
+    if m:
+        oubli = int(m.group(1))
+    eff = proprietaires * decideurs / 100 * factures / 100
+    pts = {"réseau utile": 30 * min(1, eff / 10), "pertinence solaire": 25 * min(1, factures / 60), "accès réel": 20 * (0.3 + 0.7 * min(intros, 3) / 3),
+           "fiabilité": 15 * (1 - oubli / 100) * 0.9, "disponibilité": 10 * motivation}
+    note = int(round(sum(pts.values())))
+    ligne = {"nom": p["nom"], "proprietaires": proprietaires, "decideurs_pct": decideurs, "factures_pct": factures, "intros": intros, "motivation": motivation,
+             "note": note, "detail": " · ".join(f"{k} {v:.0f}" for k, v in pts.items())}
+    if not simule:
+        ecrire_csv(RESEAUX, lire_csv(RESEAUX) + [ligne], COL_N)
+    return ligne
+
+
 def main():
     utf8()
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -144,6 +178,11 @@ def main():
     p = sp.add_parser("tirer")
     p.add_argument("--jusqua", required=True)
     p.add_argument("--simule", action="store_true")
+    p = sp.add_parser("reseau")
+    p.add_argument("nom")
+    p.add_argument("--simule", action="store_true")
+    p = sp.add_parser("voir-reseau")
+    p.add_argument("nom")
     p = sp.add_parser("reponses")
     p.add_argument("--depuis")
     sp.add_parser("verifier")
@@ -156,6 +195,13 @@ def main():
         print(f"{len(sortie)} réponse(s) tirée(s) jusqu'au {args.jusqua}" + (" (essai : rien d'écrit)" if args.simule else ""))
         for l in sortie:
             print(f"  {l['id']} {l['quand']} {l['plateforme']:<15} {l['niveau']} {l['nom']} : {l['profil']}" + (f" · {l['signaux']}" if l["signaux"] else ""))
+    elif args.cmd == "reseau":
+        l = reseau(args.nom, args.simule)
+        print(f"{l['nom']} : {l['proprietaires']} propriétaires ou entreprises, {l['decideurs_pct']} % joints jusqu'au décideur, {l['factures_pct']} % à facture élevée, {l['intros']} introduction(s) déjà faite(s), motivation {l['motivation']} -> note {l['note']}/100 ({l['detail']})" + (" (essai : rien d'écrit)" if args.simule else ""))
+    elif args.cmd == "voir-reseau":
+        for l in lire_csv(RESEAUX):
+            if l["nom"] == args.nom:
+                print(l)
     elif args.cmd == "reponses":
         for l in reponses():
             if not args.depuis or l["quand"] >= args.depuis:

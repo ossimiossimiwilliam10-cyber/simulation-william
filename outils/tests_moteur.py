@@ -199,6 +199,7 @@ def main():
     e.lancer(o + "annonces.py", "tirer", "--jusqua", "2041-07-17 12:00", "--simule", contient="réponse(s) tirée(s)",
              nom="annonces : réponses à une annonce publique (essai : répondants d'Abidjan par le générateur, rien d'écrit)")
     e.lancer(o + "annonces.py", "verifier", contient="conforme", nom="annonces : fichier des annonces conforme")
+    e.lancer(o + "annonces.py", "reseau", "Min-ji", "--simule", contient="note", nom="annonces : réseau d'un répondant noté sur 100 (essai)")
     e.lancer(o + "telephone.py", "--json", contient='"epingle"', nom="téléphone : conversations épinglées (etat/epingles.csv)")
     e.lancer(o + "telephone.py", "--fichiers", contient="[]",
              nom="téléphone : en mode direct, aucun PDF n'est publié avec la page")
