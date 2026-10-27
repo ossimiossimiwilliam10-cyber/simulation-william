@@ -274,3 +274,25 @@ Pour empêcher qu'un cadre d'élite (comme Mohamed Coulibaly ou Mariam Brou) n'u
   - Avantage : verrouillage absolu et modulable selon la dangerosité concurrentielle du profil.
 
 Quelle option choisis-tu pour ce Point 4 ? Une fois ce dernier point fixé, l'architecture complète du contrat de mandat social sera finalisée et prête pour transmission à Me Gnamien. »
+
+**Lundi 22/07/2041, 20:56 — William**
+« On part sur l'option A »
+
+**Lundi 22/07/2041, 21:00 — Directeur général virtuel**
+« C'est validé et consigné pour le **Point 4 : Protection du portefeuille clients, non-sollicitation et non-concurrence (Option A)**.
+La convention de mandat social intégrera une clause de non-concurrence stricte de 12 mois suivant la cessation des fonctions sur le district d'Abidjan pour le secteur solaire photovoltaïque B2B en toiture et l'efficacité énergétique, sans indemnité financière post-mandat (licite en droit OHADA pour un mandataire social pur), assortie d'une clause pénale fixant une indemnité forfaitaire immédiate de 12 mois de rémunération fixe en cas de violation, sans préjudice des dommages et intérêts.
+
+---
+
+### Synthèse de l'architecture contractuelle du futur Directeur Général
+
+1. **Statut juridique (Point 1)** : Mandat social pur de Directeur Général de SAS (Option A). Aucun contrat de travail ni lien de subordination salarié. Révocation ad nutum par l'associé unique. Compétence juridictionnelle exclusive du Tribunal de commerce d'Abidjan.
+2. **Structure de rémunération (Point 2)** : Formule 1 incitative. Rémunération fixe mensuelle de 2 000 000 FCFA net (environ 3 050 €). Rémunération variable de 2,5 % du chiffre d'affaires HT effectivement encaissé sur les affaires raccordées. Prime annuelle de surperformance de 5 000 000 FCFA à l'atteinte du seuil de 500 kWc raccordés.
+3. **Cessation et rupture (Point 3)** : Caducité automatique sur seuils stricts (Option C). Réalisation obligatoire d'au moins 2 contrats B2B signés au premier trimestre, puis seuil minimal de 15 millions FCFA de marge brute encaissée par trimestre à compter du deuxième trimestre. Non-atteinte sur deux trimestres consécutifs entraînant la caducité automatique et de plein droit du mandat, sans préavis ni indemnité de départ.
+4. **Protection du portefeuille et concurrence (Point 4)** : Non-concurrence stricte de 12 mois sur le Grand Abidjan sans contrepartie financière + clause pénale forfaitaire de 12 mois de fixe (Option A).
+
+Le pôle juridique virtuel intègre l'ensemble de cette matrice dans les instructions destinées au cabinet de Me Gnamien pour la rédaction de la convention de mandat social, qui accompagnera les projets de statuts et le pacte d'associés.
+
+Côté candidats, le pôle RH poursuit le recueil des retours auprès des référents professionnels de Mohamed Coulibaly (91) et Mariam Brou (88). Dès réception des formulaires complétés, un dossier comparatif d'entretien te sera soumis.
+
+Prochain point de situation planifié à mon rapport quotidien de demain mardi 23 juillet à 20h00. »

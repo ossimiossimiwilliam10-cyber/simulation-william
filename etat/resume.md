@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 27/10/2026 19:54 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 27/10/2026 20:01 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : lundi 22/07/2041 20:55 (luxembourg, UTC+2)
+## Horloge : lundi 22/07/2041 21:05 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 18:55 ; lisbonne 19:55 ; mindelo 17:55 ; casablanca 19:55 ; douala 19:55 ; addis 21:55 ; manille 02:55 ; paris 20:55 ; seoul 03:55 ; bresil 15:55
+- **Heure dans les autres lieux** : abidjan 19:05 ; lisbonne 20:05 ; mindelo 18:05 ; casablanca 20:05 ; douala 20:05 ; addis 22:05 ; manille 03:05 ; paris 21:05 ; seoul 04:05 ; bresil 16:05
 - **En attente de William** :
-  - Choix du Point 4 du contrat du DG (clause de non-concurrence) ; prochain rapport demain à 20h00
+  - Choix pour la fin de soirée ou nuit jusqu'à mardi 08h00 (« Go ») ; prochain rapport demain à 20h00
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **9 975,70 €**
@@ -38,9 +38,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-07-22.md, 6 dernières lignes)
-> - **20h25-20h35** (tour n° 39) : 20h25-20h35 (tour n° 39) : William valide le Point 1 (mandat social pur de Directeur Général de SAS, Option A) ; le DG virtuel pose le Point 2 sur la rémunération (Formule 1 forte incitation, Formule 2 senior sécurisé, ou Formule 3 évolutive)
-> - Tour en cours à 20h35, en attente de William : **Choix du Point 2 du contrat du DG (rémunération fixe/variable) ; prochain rapport demain à 20h00**.
 > - **20h35-20h45** (tour n° 40) : 20h35-20h45 (tour n° 40) : William valide le Point 2 (rémunération Formule 1 : fixe 2 M FCFA net/mois, variable 2,5 % CA encaissé, prime 5 M FCFA / 500 kWc) ; le DG virtuel pose le Point 3 sur la période probatoire et les clauses de révocation
 > - Tour en cours à 20h45, en attente de William : **Choix du Point 3 du contrat du DG (période probatoire et révocation) ; prochain rapport demain à 20h00**.
 > - **20h45-20h55** (tour n° 41) : 20h45-20h55 (tour n° 41) : William valide le Point 3 (caducité automatique sur seuils stricts, Option C) ; le DG virtuel pose le Point 4 sur la clause de non-concurrence et protection du portefeuille clients
 > - Tour en cours à 20h55, en attente de William : **Choix du Point 4 du contrat du DG (clause de non-concurrence) ; prochain rapport demain à 20h00**.
+> - **20h55-21h05** (tour n° 42) : 20h55-21h05 (tour n° 42) : William valide le Point 4 (protection clientèle et non-concurrence 12 mois sans indemnité + clause pénale, Option A) ; le DG virtuel synthétise l'architecture contractuelle complète pour Me Gnamien
+> - Tour en cours à 21h05, en attente de William : **Choix pour la fin de soirée ou nuit jusqu'à mardi 08h00 (« Go ») ; prochain rapport demain à 20h00**.
