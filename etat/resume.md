@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 27/10/2026 16:54 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 27/10/2026 17:02 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : vendredi 19/07/2041 19:36 (luxembourg, UTC+2)
+## Horloge : vendredi 19/07/2041 19:57 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 17:36 ; lisbonne 18:36 ; mindelo 16:36 ; casablanca 18:36 ; douala 18:36 ; addis 20:36 ; manille 01:36 ; paris 19:36 ; seoul 02:36 ; bresil 14:36
+- **Heure dans les autres lieux** : abidjan 17:57 ; lisbonne 18:57 ; mindelo 16:57 ; casablanca 18:57 ; douala 18:57 ; addis 20:57 ; manille 01:57 ; paris 19:57 ; seoul 02:57 ; bresil 14:57
 - **En attente de William** :
-  - Réponse de William à Jean-Baptiste Tuo (message WhatsApp de 19h36) et à la question du directeur général virtuel (courriel professionnel pour Jean-Baptiste Tuo : oui ou non) ; rapport final du directeur général virtuel ce soir à 20h00 ; liste restreinte d'avocats d'Abidjan demain 12h00 ; vérification Instagram sous 24 h
+  - Rapport final du directeur général virtuel ce soir à 20h00 ; ta réponse à la question de signature des messages (prénom d'assistant de projet ou l'équipe du projet) ; liste restreinte d'avocats d'Abidjan demain 12h00 ; vérification Instagram sous 24 h
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **9 975,70 €**
@@ -24,10 +24,11 @@
 - A032 Sat 20/07 06:59 (luxembourg) | Mohamed Coulibaly (facebook) : réponse de Mohamed Coulibaly (profil B, banquier à Bruxelles) au deuxième message de l'agent IA (T17 : poli_bref) : réponse polie et brève sur son réseau et sa date de retour · souci : contrat de travail qui se termine bientôt · objectif : acheter un logement (ou un plus grand) · foyer : en couple, avec enfants · défauts : mauvais conducteur qui se croit excellent / arrive souvent en retard et s'en excuse à peine [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : dans_la_journee (jet 56.2) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=mohamed-coulibaly canal=facebook]
 - A018 Sat 20/07 09:34 (luxembourg) | Hervé Touré (novojob) : réponse d'Hervé Touré au deuxième message de l'entretien de l'agent IA (T17 : refus_net) : il ne souhaite pas poursuivre, refus clair sans discours · souci : voiture qui lâche, pas d'argent pour la remplacer · objectif : se faire une place dans le milieu (club, lycée, quartier) · foyer : en couple, avec enfants · défauts : dépense sans compter, puis se plaint d'être à découvert / désordonné, perd ses clés et ses papiers [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : le_soir_ou_lendemain (jet 65.0, M70, M72) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=herve-toure canal=novojob]
 - A034 Sat 20/07 12:00 (luxembourg) | Directeur général virtuel : Liste restreinte de trois cabinets d'avocats d'Abidjan (OHADA, électricité et autoproduction, investissements, travail) avec honoraires indicatifs, notés sur 100 ; aucun contact sans l'accord de William [prevu]  — promesse faite à William le 19/07/2041 à 18h27 ; trois cabinets à tirer avec personnage.py nouveau avant de les présenter
-## Agenda : de J+1 à J+7 (3)
+## Agenda : de J+1 à J+7 (4)
 - A005 Sat 20/07 20:30 (luxembourg) | William (santé) : Aléa A31 (tirage réel du 16/07/2041) : diarrhée du voyageur ou intoxication alimentaire, seulement si William est à l'étranger ce jour-là ; sinon sans objet (à clore ainsi) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
 - A004 Sun 21/07 09:40 (luxembourg) | Inconnu (SMS) : Aléa A23 (tirage réel du 16/07/2041, semaine du 15/07) : tentative d'arnaque par SMS (faux colis ou faux conseiller bancaire) ; William voit le message et décide ; à jouer sans détail annoncé [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
 - A001 Mon 22/07 08:00 (luxembourg) | Moteur et utilisateur : Revue du lundi n° 1 de l'univers 3 (hors fiction, avant le premier tour du jour) ; adaptation des aléas et propositions [prevu]  — CLAUDE.md §12 | premier lundi de l'Univers 3 le 22/07/2041
+- A039 Fri 26/07 10:00 (luxembourg) | William et Jean-Baptiste Tuo : Appel éventuel proposé par William à Jean-Baptiste Tuo (vendredi 26/07/2041, heure à convenir, de préférence le matin) : aucune confirmation de sa part [prevu]  — proposé par William le 19/07/2041 à 19h44 ; à confirmer ou à reporter avec une raison le jour dit (règle 14)
 (Les lignes « NON CONNU DE WILLIAM » servent au moteur : ne jamais les montrer au joueur avant le jour dit.)
 
 ## Affaires ouvertes (T4/T5 chaque dimanche soir)
@@ -45,9 +46,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-07-19.md, 6 dernières lignes)
-> - **18h37-18h47** (tour n° 24) : **18h37-18h47** (tour n° 24) : 18h41 : William confie TOUS les pôles à son directeur général virtuel et ne veut plus qu'un rapport final par jour, à 20h00 (réexaminé par toute l'équipe virtuelle ; même circuit pour l'équipe réelle) ; 18h46 : réponse du directeur général virtuel (rapport final remplaçant le rapport de 18h00 et les alertes immédiates, sauf urgence ; 
-> - Tour en cours à 18h47, en attente de William : **Rapport final du directeur général virtuel ce soir à 20h00 ; liste restreinte d'avocats d'Abidjan demain 12h00 ; message de Jean-Baptiste Tuo à William (WhatsApp) ; vérification Instagram sous 24 h**.
-> - **18h47-19h36** (tour n° 25) : **18h47-19h36** (tour n° 25) : 18h50 : William retire son numéro de toutes les communications : seul le courriel professionnel du projet, connecté au directeur général virtuel, est fourni aux candidats ; 18h55 : réponse du directeur général virtuel (aucune annonce ne contenait le numéro, transmis une seule fois à Jean-Baptiste Tuo à 11h53 ; question fermée sur Jean
 > - Hors de la vue de William : 19h15 réponse de Kader Assi (A033, poli_bref) ; 19h20 entretien terminé, note de réseau 84/100 ; 19h25 le courriel professionnel lui est fourni (T17 poli_bref, sa réponse par courriel à 22h27, A036)
 > - Tirages du tour : jet « Kader Assi : nombre de propriétaires ou d'entreprises qu'il  » → NON (94,88) ; jet « Kader Assi : part joignable jusqu'au décideur (30 + 5 × pert » → NON (78,28) ; jet « Kader Assi : part dont la facture d'électricité est élevée ( » → OUI (2,53) ; jet « Kader Assi : introductions déjà faites dans un projet compar » → NON (92,76) ; jet « Kader Assi : motivation et disponib
 > - Tour en cours à 19h36, en attente de William : **Réponse de William à Jean-Baptiste Tuo (message WhatsApp de 19h36) et à la question du directeur général virtuel (courriel professionnel pour Jean-Baptiste Tuo : oui ou non) ; rapport final du directeur général virtuel ce soir à 20h00 ; liste restreinte d'avocats d'Abidjan demain 12h00 ; vérification Instagram sous 24 h**.
+> - **19h36-19h57** (tour n° 26) : **19h36-19h57** (tour n° 26) : 19h44 : William répond lui-même à Jean-Baptiste Tuo (occupé, candidature pertinente, appel éventuel vendredi 26/07) ; T17 ignore : pas de réponse ; 19h47 : nouvelle règle de William (doubles virtuels : décision tant que le poste réel est vacant, puis évaluation et contre-expertise ; rapports réels vers les pôles virtuels) et consigne 
+> - Tirages du tour : T17 Jean-Baptiste → ignore (57,22).
+> - Tour en cours à 19h57, en attente de William : **Rapport final du directeur général virtuel ce soir à 20h00 ; ta réponse à la question de signature des messages (prénom d'assistant de projet ou l'équipe du projet) ; liste restreinte d'avocats d'Abidjan demain 12h00 ; vérification Instagram sous 24 h**.

@@ -3000,3 +3000,5 @@ Effets à jouer : A23 (dimanche 21/07 (matin)) : Très courant ; William voit le
 - Tirage [T17] « Kader Assi face au message de l'agent IA qui lui donne l'adresse courriel professionnelle du projet après une note de réseau de 84 sur 100 » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  23.9 → **poli_bref** (enregistré le 27/10/2026 16:52 heure machine)
 
 - Tirage [T10] « Kader Assi : délai (réponse de Kader Assi (profil B, note de réseau 84/100, ingénieur à Marseille) a) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  67.9 → **dans_la_journee** (enregistré le 27/10/2026 16:52 heure machine)
+
+- Tirage [T17] « Jean-Baptiste Tuo face à la réponse de William : appel possible vendredi prochain, William très occupé, sa candidature est pertinente » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  57.2 → **ignore** (enregistré le 27/10/2026 17:00 heure machine)

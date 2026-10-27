@@ -1,3 +1,4 @@
 # Conversation WhatsApp : William / Jean-Baptiste Tuo
 
 **[19/07/2041 - 19:36 (Luxembourg)] Jean-Baptiste Tuo :** Bonjour Monsieur. Jean-Baptiste Tuo, de la plateforme Educarriere. La personne qui m'a écrit pour le projet m'a transmis votre numéro et je l'en remercie : c'est ainsi que se traitent les affaires sérieuses, de personne à personne. Je suis commerçant et entrepreneur à Abidjan depuis onze ans. Un conseil d'ancien : un investisseur étranger qui ne vient pas voir sur place se fait avoir par ceux qui sourient le plus. Je suis disponible pour un appel cette semaine, de préférence le matin. Que Dieu bénisse votre projet.
+**[19/07/2041 - 19:44 (Luxembourg)] William :** Bonsoir Monsieur Tuo, merci pour votre message. Je suis actuellement très occupé, mais votre candidature est pertinente. On pourrait éventuellement passer un appel la semaine prochaine, vendredi. Cordialement.
