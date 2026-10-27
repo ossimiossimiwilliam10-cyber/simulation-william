@@ -66,7 +66,7 @@
 - **Derniers événements** : 19/07 petit_evenement (dépense imprévue (réparation du téléphone))
 
 ### Jean-Baptiste Tuo (répondant à l'annonce)
-- **Lien avec William** : aucun (whatsapp)
+- **Lien avec William** : contact_recent (whatsapp)
 - **Objectif** : obtenir un poste de direction dans une grande entreprise ; **souci** : dettes de jeu ; **foyer** : en couple, enfants partis
 - **Secret (moteur seulement)** : —
 - **Horaires** : règle « bureau », fuseau abidjan, décalage -7 min ; travail 08:53-17:23 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:23-06:53

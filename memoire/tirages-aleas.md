@@ -2986,3 +2986,17 @@ Effets à jouer : A23 (dimanche 21/07 (matin)) : Très courant ; William voit le
 - Tirage [T10] « Mohamed Coulibaly : délai (réponse de Mohamed Coulibaly (profil B, banquier à Bruxelles) au deuxième messag) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  56.2 → **dans_la_journee** (enregistré le 27/10/2026 16:37 heure machine)
 
 - Tirage [T10] « Kader Assi : délai (réponse de Kader Assi (profil B, ingénieur à Marseille) au deuxième message de l) » : immediat 7 / rapide 18 / dans_l_heure 15 / dans_la_journee 25 / le_soir_ou_lendemain 25 / plus_tard_ou_jamais 10 ; modificateurs : M70 ; jet  30.3 → **dans_l_heure** (enregistré le 27/10/2026 16:37 heure machine)
+
+- Jet « Kader Assi : nombre de propriétaires ou d'entreprises qu'il ou elle peut présenter (4 + 4 × pertinence du métier + jet × 0,36) » : probabilité 50 %, jet  94.9 → **NON** [PROCÉDURE : valeur d'un attribut de réseau (jet × 100)] (enregistré le 27/10/2026 16:52 heure machine)
+
+- Jet « Kader Assi : part joignable jusqu'au décideur (30 + 5 × pertinence + jet × 0,5 %) » : probabilité 50 %, jet  78.3 → **NON** [PROCÉDURE : valeur d'un attribut de réseau (jet × 100)] (enregistré le 27/10/2026 16:52 heure machine)
+
+- Jet « Kader Assi : part dont la facture d'électricité est élevée (20 + 5 × pertinence + jet × 0,4 %) » : probabilité 50 %, jet   2.5 → **OUI** [PROCÉDURE : valeur d'un attribut de réseau (jet × 100)] (enregistré le 27/10/2026 16:52 heure machine)
+
+- Jet « Kader Assi : introductions déjà faites dans un projet comparable (jet / 25) » : probabilité 50 %, jet  92.8 → **NON** [PROCÉDURE : valeur d'un attribut de réseau (jet × 100)] (enregistré le 27/10/2026 16:52 heure machine)
+
+- Jet « Kader Assi : motivation et disponibilité (0,5 + jet / 200) » : probabilité 50 %, jet  31.5 → **OUI** [PROCÉDURE : valeur d'un attribut de réseau (jet × 100)] (enregistré le 27/10/2026 16:52 heure machine)
+
+- Tirage [T17] « Kader Assi face au message de l'agent IA qui lui donne l'adresse courriel professionnelle du projet après une note de réseau de 84 sur 100 » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  23.9 → **poli_bref** (enregistré le 27/10/2026 16:52 heure machine)
+
+- Tirage [T10] « Kader Assi : délai (réponse de Kader Assi (profil B, note de réseau 84/100, ingénieur à Marseille) a) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  67.9 → **dans_la_journee** (enregistré le 27/10/2026 16:52 heure machine)

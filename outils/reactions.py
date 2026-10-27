@@ -333,7 +333,7 @@ def delai(nom, quand, canal, resume, mods=(), programmer_ligne=True):
     return res
 
 
-CANAUX_AGENT = {"linkedin", "facebook", "novojob", "educarriere", "coinafrique", "kosafi", "instagram", "reddit", "indeed"}
+CANAUX_AGENT = {"linkedin", "facebook", "novojob", "educarriere", "coinafrique", "kosafi", "instagram", "reddit", "indeed", "courriel"}  # "courriel" : la messagerie professionnelle du projet, lue par le directeur general virtuel seul
 
 
 def jouer(aid, texte, quand=None):

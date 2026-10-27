@@ -27,3 +27,9 @@ Circuit : chaque agent m'adresse son rapport ; les agents actifs relisent le rap
 Une limite du circuit : ce qui arrive directement sur ton numéro de téléphone ne passe pas par moi, puisque tu l'as fourni aux candidats. Ton courriel, lui, m'est connecté.
 
 Registre des règles mis à jour : « Règles du segment virtuel, version 5 », dans tes documents.
+**[19/07/2041 - 18:50 (Luxembourg)] William :** On rectifie quelque chose : mon numéro de téléphone n'apparaît plus sur les annonces, il ne doit plus apparaître nulle part. Seul sert le courriel professionnel mis en place, que tu possèdes et sur lequel tu es connecté. Tu peux converser directement par ce courriel, analyser ; c'est moi qui prends la décision ensuite.
+**[19/07/2041 - 18:55 (Luxembourg)] Agent central :** Reçu à 18h50. Règle enregistrée : ton numéro de téléphone n'est plus fourni à personne, ni dans une annonce ni dans un message ; seul le courriel professionnel du projet, connecté à moi, est donné aux candidats au-dessus du seuil de 70. Je converse avec eux par ce courriel, j'analyse, je prépare la décision, et tu la prends : elle arrive dans le rapport de 20h00.
+
+Constat à ton attention : aucune annonce publiée, en ligne ou en attente, ne contient ton numéro. Il a été transmis une seule fois, à Jean-Baptiste Tuo, le 19/07 à 11h53, sur ta décision de 11h45 ; un numéro transmis ne se reprend pas. Question fermée : veux-tu que je demande à Jean-Baptiste Tuo de poursuivre par le courriel professionnel ? Oui ou non.
+
+Registre mis à jour : « Règles du segment virtuel, version 6 », dans tes documents.
