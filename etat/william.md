@@ -67,7 +67,7 @@ Voir `etat/finances.md` et `etat/echeancier.csv`.
 
 ## Vie personnelle
 - Célibataire ; aucune relation en cours.
-- **Club : Minett Combat Club**, à Esch-sur-Alzette (quartier de Lallange), membre régulier depuis douze ans ; MMA, grappling, boxe thaïe, musculation ; cotisation 85 €/mois (E008). Cours d'été allégés, fermeture annuelle du 11 au 24/08/2041 (agenda A003).
+- **Club : Minett Combat Club**, à Esch-sur-Alzette (quartier de Lallange), membre régulier depuis douze ans ; MMA, grappling, boxe thaïe, musculation ; cotisation 85 €/mois (E008). Cours d'été allégés, fermeture annuelle du 12 au 25/08/2041 (agenda A003 ; avant : « 11 au 24/08 » → maintenant : 12 au 25/08, aligné sur le tour n° 1, 27/10/2026).
 - **Entourage pré-généré** : 43 personnes en coulisse dans `etat/personnages.csv` (collègues, club, voisins, commerçants), découvertes au fil du jeu via `personnage.py apparait`.
 
 ## Corps

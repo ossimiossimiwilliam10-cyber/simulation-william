@@ -2051,3 +2051,32 @@ Toute réaction d'un personnage à un acte de William se tire avec `python outil
 - Tirage [T14] « Initiative de Kiara Reyes envers William (13/07/2041) » : aucune 43 / message_routine 18 / demande 18 / information 14 / partage_personnel 4 / plainte_ou_tension 3 ; modificateurs : M84 ; jet  23.3 → **aucune** (enregistré le 21/10/2026 19:12 heure machine)
 
 - Actualités de la semaine du 15/07/2041 : modèles LU04, LU01, FR01 [PROCÉDURE : outils/actualites.py] (enregistré le 21/10/2026 19:12 heure machine)
+
+## Tirage de la semaine du 2041-07-15
+
+| ID | Événement | Probabilité | Jet (0-100) | Résultat |
+|---|---|---|---|---|
+| A02 | Problème de santé d'un proche d'un personnage (ex. mère d'Aïcha, tension) | 8 % |  77.0 | non |
+| A07 | Panne réseau (fibre, 4G) ou banque en ligne | 15 % |  88.9 | non |
+| A09 | Erreur administrative (virement mal affecté, pièce perdue, nom mal orthographié) | 10 % |  18.6 | non |
+| A12 | Fuite d'information (salaires, avances, statut de William) | 5 % |  47.9 | non |
+| A13 | Opportunité commerciale inattendue (recommandation, appel d'un prospect) | 10 % |  96.4 | non |
+| A17 | William lui-même malade ou épuisé (fatigue, gastro) | 5 % |  60.8 | non |
+| A18 | Incident de transport (taxi, panne, retard) | 15 % |  95.3 | non |
+| A19 | Rhume, angine ou gastro de William | 5 % |  69.8 | non |
+| A20 | Perturbation des trajets frontaliers (bus en retard, A4 ou N4 bouchée, travaux) | 20 % |  80.4 | non |
+| A21 | Panne domestique (chauffe-eau, électroménager, fuite) | 4 % |  84.6 | non |
+| A22 | Courrier administratif (impôts français ou luxembourgeois, CNS, mairie, banque) | 10 % |  16.8 | non |
+| A23 | Tentative d'arnaque (SMS de faux colis, faux conseiller bancaire, faux site) | 15 % |   1.9 | **DÉCLENCHÉ** — dimanche 21/07 (matin) |
+| A24 | Souci de voisinage (bruit, travaux, haie, stationnement) | 5 % |  24.8 | non |
+| A25 | Blessure légère à l'entraînement (entorse, côte, doigt) | 1 % |  40.5 | non |
+| A26 | Imprévu d'argent (amende, réparation, cadeau, cotisation) | 6 % |  22.1 | non |
+| A27 | Signe d'un ancien (collègue, élève devenu adulte, connaissance) | 8 % |  85.7 | non |
+| A28 | Courriel ou appel du lycée pendant les vacances (réunion de rentrée, ajournements, emploi du temps) | 10 % |  39.9 | non |
+| A29 | Contrôle routier ou radar | 3 % |  50.2 | non |
+| A30 | Occasion inattendue (proposition de cours particuliers, invitation, bon plan) | 8 % |  97.0 | non |
+| A31 | Diarrhée du voyageur ou intoxication alimentaire (à l'étranger) | 12 % |   7.8 | **DÉCLENCHÉ** — samedi 20/07 (soir) |
+| A35 | Surfacturation ou arnaque visant un touriste (taxi, boutique, bar) | 5 % |  18.7 | non |
+| A36 | Malentendu de langue (adresse mal comprise, commande erronée, document en coréen) | 10 % |  36.2 | non |
+
+Effets à jouer : A23 (dimanche 21/07 (matin)) : Très courant ; William voit le message et décide ; A31 (samedi 20/07 (soir)) : Seulement les jours à l'étranger ; 14 % la première semaine, 10 % ensuite (cohorte de voyageurs en Thaïlande : 14 % à 7 jours, 23,5 % à 14 jours, 33 % à 28 jours) ; 1 à 3 jours diminué

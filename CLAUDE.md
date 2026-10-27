@@ -215,6 +215,7 @@ Langue : **français**.
 > (Min-ji, Hye-won, Soo-jin, Thiago Rocha, Lucas Mendes, voyage à Séoul) dans `archives/univers-3-partie-1/` et sous le tag git
 > `univers-3-partie-1` ; leurs lignes du §9 : `memoire/archive-point-de-reprise-univers-3-partie-1.md`. Tirages neufs : aucun résultat de la
 > première partie n'est rejoué. Les essais du moteur utilisent l'archive comme état d'essai (`outils/tests_moteur.py`).
+**Mardi 16 juillet 2041, 10h46 — Audun-le-Tiche (Moselle), chez William : tour n° 2 joué (tour n° 2 joué (rythme d'été fixé, trois rappels notés, Claude agent IA officiel : rapports Brésil à 09h41 et Côte d'Ivoire à 10h34, PDF dans documents_william/ ; aléas de la semaine du 15/07 tirés, A004 et A005 cachés) ; en attente : **la suite que William donne aux deux rapports**) ; en attente : **Suite à donner aux deux rapports de l'agent IA (Brésil, Côte d'Ivoire) ; journée libre (pas d'entraînement le mardi)**.**
 **Mardi 16 juillet 2041, 08h37 — Audun-le-Tiche (Moselle), chez William : REBOOT de l'univers 3 (27/10/2026, demande de l'utilisateur) ; état ramené à celui du lancement (tour n° 1 déjà montré, tour n° 2 à jouer) ; partie des tours n° 2 à 13 archivée ; en attente : **le premier jour des vacances d'été à 36 ans**.**
 **Mardi 16 juillet 2041, 08h37 — Audun-le-Tiche (Moselle), chez William : tour n° 1 joué (William se réveille chez lui à Audun-le-Tiche au tout premier jour des vacances d'été à 36 ans : 9 320 € nets/mois, 853 008 € de patrimoine net, 2 mois de vacances devant lui) ; en attente : **Premier jour des vacances d'été à 36 ans**.**
 

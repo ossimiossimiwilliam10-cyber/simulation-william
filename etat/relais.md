@@ -1,73 +1,68 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 23/10/2026 06:40 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
+# Relais de la simulation — briefing généré le 27/10/2026 12:51 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : lundi 22 juillet 2041, 09h40 (seoul) ; tour n° 13
-- Lieu de William : Aéroport international d'Incheon, terminal 2, hall des arrivées
-- En attente de William : Choix de William : téléphone (forfait local, pass d'itinérance ou Wi-Fi seulement), argent (Global ATM), trajet jusqu'à l'officetel de Yeonnam-dong (accès dès 11h00)
+- Horloge : mardi 16 juillet 2041, 10h46 (luxembourg) ; tour n° 2
+- Lieu de William : Audun-le-Tiche (Moselle), chez William
+- En attente de William : Suite à donner aux deux rapports de l'agent IA (Brésil, Côte d'Ivoire) ; journée libre (pas d'entraînement le mardi)
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 13 ; horloge 22/07/2041 08:42 -> 22/07/2041 09:40 ; enregistré le 23/10/2026 06:40 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 2 ; horloge 16/07/2041 08:37 -> 16/07/2041 10:46 ; enregistré le 27/10/2026 12:51 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je règle tout ça : [liste À faire du tour 12 : carte d'arrivée électronique, téléphone Wi-Fi seulement, aucun won, officetel à partir de 11h00]
+> Alors, comment est-ce que je souhaite entamer cette première journée? Déjà, il y a mes entraînements au Minute Club. Hein. Donc, en termes d'entraînement, globalement, je m'entraîne le lundi dans l'après-midi, le mercredi dans l'après-midi, le vendredi dans l'après-midi, et le dimanche, je vais parcourir le matin environ 5 km. Je vais garder ce rythme durant tout l'été, en tout cas. Voilà. Et tout de suite, je décide d'utiliser Claude, qui sera déjà bien boosté d'ici là, vu que là, on est en 2026, il fait déjà des trucs de fou, donc j'imagine pas comment ce sera dans 10 ans. Non, même pas dans 10 ans, c'est dans 15 ans. Et donc, je commence à faire des recherches avec Claude. Donc, Claude, ce sera mon agent IA officiel. Hein. Et là, je décide en fait de faire des recherches pour savoir quels sont les domaines les plus, comment dire, qui n'attendent qu'un investissement et qui sont les plus... En fait, où il y a une demande forte, en fait, où on peut lancer un business, un projet. Donc, dans un premier temps, au Brésil et dans un autre temps, en Côte d'Ivoire. Donc voilà, je lance les recherches et j'attends les résultats. Alors, concernant les quêtes secondaires, donc j'ai pris note, hein, du coup, justement, donc MML est lundi, donc ça correspond à ma séance du lundi et le mercredi aussi. Du coup, j'irai pas au sparring le samedi matin, donc au Minute Club, vu que je m'entraîne pas le samedi. Et j'ai également pris note de la fermeture qui est programmée. Je l'enregistre comme sur mon téléphone pour faire un rappel. J'ai pris note de la reprise officielle des cours au lycée luxembourgeois. Je fais également une note automatique sur mon téléphone pour le rappel. J'ai également pris note des prochaines échéances du prêt et des virements permanents vers la sécurité et le TF Monde.
 
 ## Texte envoyé au joueur
 
-📌 **Vraie vie** : « Je règle tout ça » est joué jusqu'à la sortie du hall : carte d'arrivée remplie dans la file (confirmation en PDF dans `courriels/`), immigration, bagages et douane passés. Je m'arrête à tes choix : téléphone, argent, trajet.
+📌 **Vraie vie** : interprété : « Minute Club » = Minett Combat Club, « MML » = MMA, « TF Monde » = ETF Monde. Les deux rapports de ton agent IA sont de vrais PDF dans `documents_william/` (je peux te les envoyer) ; leurs chiffres sont des repères 2025-2026, le rapport le dit.
 
 ---
 
-**LUNDI 22 JUILLET 2041 — 09h40 — Aéroport international d'Incheon, terminal 2, hall des arrivées**
+**MARDI 16 JUILLET 2041 — 10h46 — Audun-le-Tiche, chez William**
 
-Dans la file, tu scannes le code QR d'une affiche avec ton téléphone. Le Wi-Fi gratuit de l'aéroport te laisse passer après une page d'accueil en trois langues, et le formulaire de la carte d'arrivée s'ouvre en anglais : passeport, numéro de vol, adresse de l'officetel de Yeonnam-dong, six semaines de séjour, tourisme, aucun symptôme, rien à déclarer. Tu valides à 08h52. Une page de confirmation s'affiche avec un code QR plein écran, et le courriel de confirmation arrive dans la foulée, avec son PDF en pièce jointe. La file, elle, a avancé de quinze pas.
+Tu te lèves à 08h50. Douche, puis la cuisine : le café coule dans la machine pendant que tu fixes ton été. Salle le lundi, le mercredi et le vendredi l'après-midi, cinq kilomètres le dimanche matin, rien le samedi, donc pas de sparring. Les séances de MMA du club tombent sur ton lundi et ton mercredi, ça colle. Sur ton téléphone, tu enregistres trois rappels : la fermeture du club du 12 au 25 août, la rentrée du lundi 16 septembre, et les échéances du début d'août, le prélèvement du prêt le 5 et les virements permanents le 2.
 
-Le plafond est bas, les rubans tendus en chicanes. Devant toi, une famille coréenne dont le plus petit dort sur un chariot ; derrière, deux voyageurs allemands qui comparent leurs écrans. Les annonces défilent en coréen, en anglais, en japonais, en chinois. À 09h12, tu arrives au guichet.
+À 09h02, ordinateur portable ouvert sur la table de la cuisine, tu lances Claude, ton agent IA officiel. Tu lui demandes de chercher les domaines où la demande est forte et où l'on peut lancer un projet ou placer de l'argent : le Brésil d'abord, la Côte d'Ivoire ensuite. La réponse tombe en quelques secondes : « Compris. Deux passes, dans cet ordre. Je te préviens dès que chaque rapport est prêt. » Un petit voyant de progression apparaît, et l'agent se met à lire.
 
-L'agent pose la main ouverte sur ton passeport, scanne le code QR, te désigne la vitre du lecteur d'empreintes : elle est froide sous tes doigts. Il lève les yeux vers la caméra, puis vers ta taille, puis revient à l'écran. Il ne rend pas encore le passeport. Combien de temps ? Où dors-tu ? Un billet de sortie ? Il veut voir la réservation. Tu lui montres sur ton téléphone la confirmation de l'officetel et le billet retour du 2 septembre. Il tape longuement, relit la ligne de l'adresse, demande si tu travailles en Corée. Tu réponds. Il tamponne à 09h22 et glisse le passeport sous la vitre sans un mot de plus.
+Tu rinces ta tasse, tu ouvres les volets du salon. Dehors, le ciel est dégagé, l'air déjà tiède, la rue vide. Tu fais le tour de la maison, tu vérifies que rien ne traîne, tu reviens t'asseoir avec un deuxième café. Le voyant tourne.
 
-Un escalator, un couloir de verre, puis la salle des bagages. Le carrousel du KE902 tourne à vide ; sur le côté, des valises déjà retirées attendent en rang le long du mur. La tienne est là, étiquette de Paris encore accrochée à la poignée, parmi les dernières sorties du tapis. Ton ventre gronde : il croit qu'il est deux heures et demie du matin et que le dîner n'est pas passé. Au passage de la douane, une agente jette un œil à ton écran, au code, à la valise, et fait un petit geste du menton : tu continues.
+À 09h41, ton téléphone vibre : « Rapport n° 1 — Brésil ». Quatre pages en PDF, rangées avec tes documents. Tu lis. Les secteurs où la demande est la mieux documentée sont l'énergie (le solaire distribué, passé de moins de 1 GW en 2018 à 40 GW en 2025), le stockage par batteries, les centres de données, l'eau et l'assainissement. Un tableau les classe selon ton profil : le solaire distribué en tête, les centres de données et l'assainissement hors de portée à ton échelle. Plus loin, le cadre : un associé étranger doit avoir un CPF, la société doit avoir un administrateur résident au Brésil, le capital étranger s'enregistre à la Banque centrale, et depuis 2026 une retenue de 10 % frappe les dividendes versés à un non-résident. Le crédit local tourne autour de 14 %, le change reste un risque. Une page entière rappelle ton statut : associé non-gérant sans mandat exécutif, c'est admis ; gérer toi-même, non, sans autorisation. L'agent signale lui-même deux trous : l'agro-industrie et l'assainissement n'ont pas de source récente exploitable.
 
-Les portes coulissantes s'ouvrent à 09h40 sur le hall des arrivées : lumière blanche, comptoirs d'opérateurs mobiles alignés d'un côté, distributeurs de l'autre, une supérette tout au fond, les panneaux du train AREX en direction de Séoul. À chaque ouverture des portes extérieures, une bouffée de chaleur humide entre dans le hall.
+L'agent enchaîne seul sur la seconde passe. À 10h34, nouveau message : « Rapport n° 2 — Côte d'Ivoire ». Quatre pages encore. Croissance de 6 à 6,7 % par an, inflation très basse, franc CFA à parité fixe avec l'euro : aucun risque de change pour toi. Les secteurs qui ressortent sont la transformation de l'anacarde (43 % transformé localement en 2025, contre 2 % en 2011), les grandes centrales solaires, le logement abordable (un déficit estimé à plus de 800 000 logements). Les paiements mobiles sont verrouillés par Orange, MTN et Wave. Le guichet unique du CEPICI annonce une société en 24 à 72 heures, mais les frais et les règles pour un associé étranger ne viennent que de sources non officielles. Un tableau compare les deux pays : change, langue, décalage horaire, procédure. Le message de fin est sec : « Rien n'est engagé. Ces rapports cartographient des secteurs, ils n'examinent aucun projet ni aucun partenaire. »
+
+Il est 10h46. Les deux PDF sont rangés avec tes documents. Dans la cuisine, la machine à café refroidit.
 
 ---
 
 **Réponses attendues**
-- **Hye-won** (WhatsApp) : tu lui as écrit à 08h14 ; pas de réponse pour l'instant.
+- **Claude** (ton agent IA) : les deux rapports sont livrés ; il attend tes consignes pour la suite.
 
 **À faire / à fournir avant le tour suivant**
-- **Téléphone** : Wi-Fi seulement ; les forfaits locaux (eSIM, SIM de l'aéroport) et le pass d'itinérance sont dans l'application Portefeuille.
-- **Argent** : aucun won en poche ; les distributeurs Global ATM sont dans le hall des arrivées.
-- **Trajet jusqu'à Yeonnam-dong** : train AREX (gare du terminal 2), taxi devant le hall ; l'application Kakao T n'est pas installée.
-- **Officetel de Yeonnam-dong** : accès à partir de 11h00 (convenu avec l'hôte).
+- Aucune démarche en cours : rien n'est engagé ni réservé.
 
 **Quêtes secondaires**
-- **Thiago Rocha** : la data room solaire est promise par courriel ce lundi matin, heure du Brésil (soit ce soir à Séoul).
+- Rien en suspens en dehors de ce que tu as déjà noté.
 
 Que veux-tu faire ?
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
-- A007 Mon 22/07 11:00 (seoul) | William : Installation et prise de possession de l'officetel meublé à Yeonnam-dong (Mapo-gu) [prevu]  — réservé le 20/07 (2 450 € pour 6 semaines du 22/07 au 02/09)
-- A013 Mon 22/07 12:23 (seoul) | Hye-won (WhatsApp) : Réponse de Hye-won au message de William du 22/07 à 08:14 (« Hi Hye-won! I just landed in Seoul 😊 ») · intention cachée : serieux · souci : solitude depuis un déménagement · objectif : réussir le concours de la fonction publique ou un examen de certification · foyer : vit chez ses parents · défauts : aime les commérages et répète ce qu'on lui confie / dit oui à tout puis se désiste au dernier moment [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T21b : repond (jet 40.1) · T10 : dans_la_journee (jet 42.4, M70, M72) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=hye-won canal=whatsapp]
-- A001 Mon 22/07 15:00 (seoul) | Moteur et utilisateur : Revue du lundi n° 1 de l'univers 3 (hors fiction, avant le premier tour du jour) ; adaptation des aléas et propositions [prevu]  — CLAUDE.md §12 | premier lundi de l'Univers 3 le 22/07/2041
-- A012 Mon 22/07 21:17 (seoul) | Thiago Rocha (courriel) : Thiago Rocha envoie la data room par courriel (promesse du vendredi 19/07 : lundi matin , SolarGIS, baux notariés, autorisations CEMIG : PDF à générer par courriel.py au moment voulu) · souci : mal de dos chronique · objectif : acheter un logement (ou un plus grand) · foyer : en couple, sans enfant · défauts : boit trop le week-end et le minimise / donneur de leçons sur la santé, l'argent ou l'éducation [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : dans_l_heure (jet 50.3) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=thiago-rocha-br canal=courriel]
+- rien
 
 ## Rituels du moteur dus (rituels.py)
 - rien
 
 ## Décisions en attente de William (etat/fils-ouverts.md, A)
-| 1 | **Voyage à Séoul (Corée du Sud)** | Séjour de 6 semaines (du 22/07 au 02/09, retour KE901 le 02/09 à 13h35). Vol KE902 (Premium Economy, 1 680 €, réservation XLGTS3, R001). Officetel de Yeonnam-dong (2 450 €). TGV pris à l'heure, enregistrement fait : William attend l'embarquement (12h35) au terminal 2E ; décollage 13h20, atterrissage lundi 22/07 à 07h50 (Séoul). Carte d'arrivée électronique (e-Arrival Card) pas faite. ; *(22/07 08h12) vol KE902 atterri à Incheon lundi 22/07 à 08h12 (22 minutes de retard) ; formalités d'arrivée à faire (e-Arrival Card, immigration, bagages), arrivée à l'officetel à partir de 11h00* ; *(22/07 09h40) (22/07 09h40) carte d'arrivée (e-Arrival Card) faite à 08h52, immigration et bagages passés, William dans le hall des arrivées du terminal 2 ; reste à décider : téléphone, argent, trajet vers l'officetel (accès dès 11h00)* | lun. 22/07/2041 |
-| 2 | **Solaire au Brésil (Geração Distribuída)** | Visioconférence menée avec succès avec Thiago Rocha. Audit technique des 12 points validé. Thiago envoie la data room complète (SolarGIS, baux notariés, protocoles CEMIG) par courriel lundi 22/07 matin. Décision : étude des pièces à réception. | lun. 22/07/2041 |
-| 3 | **Entraînement sportif & préparation physique** | Séance de 2 h effectuée au Minett Combat Club le samedi 20/07 matin (1 h musculation polyarticulaire + 1 h sacs de frappe et cardio). Corps affûté et détendu avant le long vol. Fermeture annuelle du club du lundi 12/08/2041 au dimanche 25/08/2041 (agenda A003). | Ouvert |
-| 4 | **Logistique personnelle & maison** | Maison d'Audun-le-Tiche sécurisée pour 6 semaines (eau coupée, chauffe-eau en mode absence, volets et portes verrouillés). Voiture électrique garée depuis dim. 21/07 à 08h46 au parking longue durée de la gare Lorraine TGV (batterie sous 40 %) : 44 jours à régler à la sortie le 02/09 (534,60 €, prévu P001). | lun. 02/09/2041 |
-| 5 | **Rencontres coréennes (Min-ji & Hye-won)** | Hye-won a écrit dim. 21/07 à 07h17 (infos sur l'arrivée : AREX jusqu'à Hongik University). Rappel de William : lui écrire lui-même à l'atterrissage (agenda A011). Barbecue avec Min-ji mardi 23/07 à 14h00 : NOTÉ par William, ne plus le rappeler (A006). ; *(22/07 08h42) Hye-won prévenue de l'atterrissage à 08h14 le lundi 22/07 ; sa réponse est programmée (agenda A013) ; anglais « scolaire » noté (M105)* | lun. 22/07/2041 |
+| 1 | **Organisation des vacances d'été 2041** | Premier jour des grandes vacances scolaires (du mardi 16/07/2041 au dimanche 15/09/2041). Choix des projets, voyages, rythme de vie ou déplacements estivaux. Budget vacances disponible : 833 €/mois (10 000 €/an). | Ouvert |
+| 2 | **Stratégie d'entrepreneuriat à distance** | Âge optimal atteint (36 ans). William a la liberté et la surface financière pour amorcer son projet business à distance tout en respectant l'Art. 14 du statut des fonctionnaires luxembourgeois (F083-F086). Choix du statut juridique et de l'axe business à mûrir. ; *(16/07 10h46) (16/07 10h46) deux rapports de l'agent IA reçus, Brésil (09h41) puis Côte d'Ivoire (10h34), PDF dans documents_william/ ; cadre article 14 rappelé (associé non-gérant admis, gérance non) ; rien d'engagé, suite à décider par William* | Ouvert |
+| 3 | **Entraînement sportif & préparation physique** | Entraînements au Minett Combat Club d'Esch-sur-Alzette (MMA, grappling, boxe thaïe, musculation). Cours d'été en place. Noter la fermeture annuelle du club du lundi 12/08/2041 au dimanche 25/08/2041 (agenda A003). ; *(16/07 10h46) (16/07) rythme de l'été fixé par William : lundi, mercredi, vendredi après-midi au club, course de 5 km le dimanche matin, rien le samedi ; voir A2 I1* | Ouvert |
+| 4 | **Logistique personnelle & maison** | Maison d'Audun-le-Tiche (charges à jour, voiture électrique chargée). Rien d'urgent en panne. | Ouvert |
 
 ## Notes de passation (etat/relais-notes.md)
 - ~~(11/10/2026 22:30, Claude Opus 5.5) Redémarrage de l'univers 2 redaté au samedi 14/07/2040, 08h37 (premier vrai jour de vacances,
@@ -164,10 +159,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 67c0fbd ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 28045d0 ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 14 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 19 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 
