@@ -62,7 +62,7 @@
 | `corps.py` | Sommeil, entraînements, repas, poids, maladies de William ; état à montrer | `nuit`, `seance`, `noter`, `etat` |
 | `fronts.py` | Menaces, occasions, projets en segments avec paliers écrits d'avance | `creer`, `avancer`, `liste`, `clore` |
 | `rituels.py` | Ce que le moteur doit faire (fiches, tour du monde, synthèses, revue, aléas) | `dus`, `liste` |
-| `telephone.py` | Page « téléphone de William » : écran d'accueil et applications (`telephone_web/` : coque, noyau, une feuille JS par application ; CLAUDE.md §14) ; différences avec la dernière page publiée | (sans argument) ; `--json` ; `--diff [--code]` ; `--marquer-publie` |
+| `telephone.py` | Page « téléphone de William » : écran d'accueil et applications (`telephone_web/` : coque, noyau, une feuille JS par application ; CLAUDE.md §14) ; différences avec la dernière page publiée ; application **Fichiers** (27/10/2026) : les PDF de `documents_william/` et `courriels/` datés d'aujourd'hui ou d'avant, copiés dans `sorties/telephone/fichiers/` et publiés avec la page | (sans argument) ; `--json` ; `--diff [--code]` ; `--fichiers` ; `--marquer-publie` |
 | `voyages.py` | Application Voyages : vols (calendrier des prix), hôtels, forfaits vol + hôtel, formalités ; calcul déterministe partagé avec la page | `vols`, `mois`, `hotels`, `forfait`, `formalites`, `verifier` |
 | `appli_calendrier.py` | Données de l'application Calendrier (fériés FR, LU, PH ; vacances, événements, rendez-vous connus, argent) | (sans argument : résumé) |
 | `banque.py` | Banque : virements ponctuels (entre comptes ou vers un tiers), ordres permanents (créer, modifier, suspendre, reprendre), liste ; prévus recalculés | `virement`, `ordre-modifier`, `ordre-creer`, `ordre-suspendre`, `ordre-reprendre`, `liste` |

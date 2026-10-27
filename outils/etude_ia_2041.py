@@ -148,7 +148,7 @@ def bresil():
         "Plusieurs sources sont des guides ou des blogs : le capital minimum, la retenue sur les dividendes et le traitement conventionnel sont à confirmer par un professionnel.",
         "Aucun partenaire, aucun projet, aucun prix de parc n'a été examiné : ce rapport cartographie des secteurs, pas des opportunités précises.",
     ])
-    pdf.sauver(chemin("documents_william", "2041-07-16_Etude_IA_Bresil_Opportunites.pdf"))
+    pdf.sauver(chemin("documents_william", "2041-07-16_Étude_IA_Brésil_Opportunités.pdf"))
 
 
 def cote_ivoire():
@@ -259,7 +259,7 @@ def cote_ivoire():
         "La fiscalité des dividendes, le coût du crédit et les exigences pour un associé étranger ne sont pas documentés par des sources officielles.",
         "Aucun partenaire, aucun projet, aucun prix d'usine ou de programme n'a été examiné : ce rapport cartographie des secteurs, pas des opportunités précises.",
     ])
-    pdf.sauver(chemin("documents_william", "2041-07-16_Etude_IA_Cote_d_Ivoire_Opportunites.pdf"))
+    pdf.sauver(chemin("documents_william", "2041-07-16_Étude_IA_Côte_d_Ivoire_Opportunités.pdf"))
 
 
 if __name__ == "__main__":

@@ -4,9 +4,10 @@ propre téléphone : il « ouvre son téléphone » au lieu de relire le récit 
 
     python outils/telephone.py                 # écrit sorties/telephone/index.html (+ telephone.json) et contrôle la page
     python outils/telephone.py --json          # affiche seulement les données
+    python outils/telephone.py --fichiers      # liste JSON des PDF à publier avec la page (application Fichiers)
 
 APPLICATIONS (demande de l'utilisateur, 12/10/2026 : « à chaque fois que j'ai un besoin […] crée l'application et rajoute-la dans
-le téléphone ») : Messages, Courriels, Banque, Calendrier, Météo, Voyages. Une application = un fichier JS dans
+le téléphone ») : Messages, Courriels, Fichiers, Banque, Calendrier, Météo, Voyages. Une application = un fichier JS dans
 `outils/telephone_web/` (qui appelle `appli({...})`), éventuellement un module Python qui fournit ses données
 (`donnees_telephone(t)`), et une ligne dans APPLIS ci-dessous. La coque (`coque.html`) et le noyau (`noyau.js`) gèrent l'écran
 d'accueil, l'ouverture des applications et les outils communs. Voir CLAUDE.md §14.
@@ -15,13 +16,16 @@ note du moteur, un fait caché ; seulement les mouvements d'argent déjà passé
 vue sous forme de PRÉVISION. Un contrôle automatique refuse d'écrire la page si un mot du moteur s'y glisse (tirage, jet,
 T1…T14, M01…, « non connu »…).
 Publication : Claude publie le fichier comme page privée (outil Artifact, toujours au même endroit : etat/relais-config.json) ;
-tout autre agent peut ouvrir le fichier localement ou l'envoyer au joueur. Aucun nom de marque (banque, messagerie) n'apparaît.
+tout autre agent peut ouvrir le fichier localement ou l'envoyer au joueur. Les PDF de l'application Fichiers se publient avec la page : outil
+Artifact, `file_path` sorties/telephone/index.html, `root` sorties/telephone et `files` = la sortie de `--fichiers`. Aucun nom de marque (banque, messagerie) n'apparaît.
 """
 import argparse
 import datetime as dt
 import json
 import re
+import shutil
 import sys
+import unicodedata
 
 from commun import ETAT, OUTILS, RACINE, SORTIES, JOURS, MOIS, ecrire_texte, lire_csv, lire_texte, maintenant_simule, utf8
 
@@ -32,9 +36,44 @@ COMPTES_VISIBLES = {"courant": "Compte courant", "projet": "Compte épargne"}  #
 WEB = OUTILS / "telephone_web"
 # Applications de l'écran d'accueil, dans l'ordre : (nom du fichier JS dans telephone_web/, module Python qui fournit
 # D.applis[nom] par donnees_telephone(t), ou None si l'application se sert des données communes).
-APPLIS = [("messages", None), ("courriels", None), ("banque", "banque"), ("portefeuille", "devises"), ("calendrier", "appli_calendrier"),
+APPLIS = [("messages", None), ("courriels", None), ("fichiers", None), ("banque", "banque"), ("portefeuille", "devises"), ("calendrier", "appli_calendrier"),
           ("meteo", None), ("voyages", "voyages"), ("transports", "transports"), ("courses", "courses"), ("rencontres", "rencontres"),
-          ("sante", "corps")]  # 14/10/2026 : Portefeuille (devises.py) et Courses (courses.py)
+          ("sante", "corps")]  # 14/10/2026 : Portefeuille (devises.py) et Courses (courses.py) ; 27/10/2026 : Fichiers
+# Fichiers (27/10/2026, demande de l'utilisateur : « les fichiers directement accessibles depuis mon téléphone ») : les PDF de documents_william/ et de
+# courriels/ DATÉS d'un jour passé ou du jour même sont copiés dans sorties/telephone/fichiers/ et publiés avec la page (`--fichiers`).
+DOSSIERS_FICHIERS = ("documents_william", "Documents"), ("courriels", "Reçus")
+FICHIERS = SORTIES / "telephone" / "fichiers"
+
+
+def _nom_publie(nom):
+    """Nom du fichier publié : sans accents ni espaces (les adresses de la page restent sûres)."""
+    s = unicodedata.normalize("NFKD", nom).encode("ascii", "ignore").decode()
+    return re.sub(r"[^A-Za-z0-9._-]+", "_", s)
+
+
+def fichiers_visibles(jour):
+    """PDF que William a en main à `jour` : date du nom (AAAA-MM-JJ_…) au plus égale au jour courant ; un fichier sans date n'est pas listé."""
+    res = []
+    for dossier, libelle in DOSSIERS_FICHIERS:
+        for p in sorted((RACINE / dossier).glob("*.pdf")):
+            m = re.match(r"(\d{4}-\d{2}-\d{2})_(.*)", p.stem)
+            if not m or m.group(1) > jour.isoformat():
+                continue
+            objet = m.group(2).replace("_", " ")
+            res.append({"nom": objet[:1].upper() + objet[1:], "fichier": p.name, "dossier": libelle, "date": m.group(1),
+                        "ko": max(1, round(p.stat().st_size / 1024)), "url": f"fichiers/{dossier}/{_nom_publie(p.name)}",
+                        "source": f"{dossier}/{p.name}"})
+    res.sort(key=lambda f: (f["date"], f["nom"]), reverse=True)
+    return res
+
+
+def copier_fichiers(fichiers):
+    """Recopie les fichiers visibles dans sorties/telephone/fichiers/ (le dossier est refait : un fichier pas encore reçu n'y reste jamais)."""
+    shutil.rmtree(FICHIERS, ignore_errors=True)
+    for f in fichiers:
+        cible = SORTIES / "telephone" / f["url"]
+        cible.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copyfile(RACINE / f["source"], cible)
 
 
 def jour_court(d):
@@ -71,7 +110,10 @@ def donnees():
     conversations = sorted(({"nom": nom_conversation(k, v), "messages": v} for k, v in convs.items()),
                            key=lambda c: c["messages"][-1]["date"] + c["messages"][-1]["heure"], reverse=True)
     # courriels
-    courriels = [{"date": d["date"], "objet": d["objet"][:1].upper() + d["objet"][1:], "fichier": d["fichier"]}
+    fichiers = fichiers_visibles(jour)
+    urls = {f["source"]: f["url"] for f in fichiers}
+    courriels = [{"date": d["date"], "objet": d["objet"][:1].upper() + d["objet"][1:], "fichier": d["fichier"],
+                  "url": urls.get(f"courriels/{d['fichier']}", "")}
                  for d in base.lire_documents() if d["dossier"] == "courriels" and d["date"] <= jour.isoformat()]
     courriels.sort(key=lambda c: c["date"], reverse=True)
     # banque
@@ -116,7 +158,8 @@ def donnees():
         "reseau": reseau, "lieu": h["lieu"].split(",")[0].split(" (")[0],
         "meteo": {"maintenant": maintenant_c, "previsions": previsions, "lever": f"{lev:%H:%M}", "coucher": f"{cou:%H:%M}",
                   "alertes": alertes_meteo(jour)},
-        "conversations": conversations, "courriels": courriels, "banque": banque, "agenda": evts[:40],
+        "conversations": conversations, "courriels": courriels, "fichiers": [{k: v for k, v in f.items() if k != "source"} for f in fichiers],
+        "banque": banque, "agenda": evts[:40],
     }
 
 
@@ -150,6 +193,7 @@ def construire():
     dossier = SORTIES / "telephone"
     ecrire_texte(dossier / "index.html", html)
     ecrire_texte(dossier / "telephone.json", json.dumps(d, ensure_ascii=False, indent=1))
+    copier_fichiers(fichiers_visibles(t.date()))
     return dossier / "index.html", d
 
 
@@ -236,11 +280,15 @@ def main():
     ap.add_argument("--json", action="store_true")
     ap.add_argument("--diff", action="store_true", help="changements depuis la dernière page publiée (code et données)")
     ap.add_argument("--code", action="store_true", help="avec --diff : les lignes de code modifiées")
+    ap.add_argument("--fichiers", action="store_true", help="liste JSON des fichiers à publier avec la page (paramètre `files` de l'outil Artifact, racine sorties/telephone)")
     ap.add_argument("--marquer-publie", action="store_true", help="la page courante vient d'être publiée : elle devient la référence")
     args = ap.parse_args()
     if args.diff:
         for l in (diff_code() if args.code else diff_publie()):
             print(l)
+        return 0
+    if args.fichiers:
+        print(json.dumps([{"path": f["url"]} for f in fichiers_visibles(maintenant_simule().date())], ensure_ascii=False))
         return 0
     if args.marquer_publie:
         marquer_publie()

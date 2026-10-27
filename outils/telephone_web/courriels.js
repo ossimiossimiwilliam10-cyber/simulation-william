@@ -7,8 +7,9 @@ appli({
     if (!D.courriels.length) return main.append(vide("Boîte de réception vide", "Les courriers et courriels reçus par William apparaîtront ici."));
     const l = el("div", "liste");
     D.courriels.forEach(c => {
-      const g = el("div", "ligne");
-      g.append(el("span", "titre", c.objet), el("span", "quand", dateFr(c.date)), el("span", "sous", "Pièce jointe : " + c.fichier));
+      const g = el(c.url ? "a" : "div", "ligne");
+      if (c.url) { g.href = c.url; g.target = "_blank"; g.rel = "noopener"; }
+      g.append(el("span", "titre", c.objet), el("span", "quand", dateFr(c.date)), el("span", "sous", "Pièce jointe : " + c.fichier + (c.url ? " · ouvrir" : "")));
       l.append(g);
     });
     main.append(l);

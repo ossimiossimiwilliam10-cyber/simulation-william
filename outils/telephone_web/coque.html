@@ -14,7 +14,7 @@
   --credit: #1c7a3c; --debit: #9a2b2b; --ferie: #8a5a00; --vacances: #e8f1fb; --vert: #1c7a3c; --orange: #a35a00; --rouge: #b42318;
   --vert-doux: #dff3e6; --orange-doux: #fdebd3; --rouge-doux: #fde2df;
   --app-messages: #2f8f5b; --app-courriels: #3b63c4; --app-banque: #0b6e6a; --app-calendrier: #c2410c; --app-meteo: #0e7490;
-  --app-voyages: #6d3fd1; --app-transports: #a3480c; --app-rencontres: #be185d; --app-sante: #15803d; --app-portefeuille: #475569; --app-courses: #a16207; --sur-app: #ffffff; --badge: #d92d20;
+  --app-voyages: #6d3fd1; --app-transports: #a3480c; --app-rencontres: #be185d; --app-sante: #15803d; --app-fichiers: #5b6b82; --app-portefeuille: #475569; --app-courses: #a16207; --sur-app: #ffffff; --badge: #d92d20;
   --ui: "Figtree", "Segoe UI", system-ui, -apple-system, sans-serif;
   --chiffres: "IBM Plex Mono", ui-monospace, "Cascadia Mono", Consolas, monospace;
 }
@@ -68,6 +68,7 @@ main { flex: 1; padding: 6px 16px 96px; display: grid; gap: 14px; align-content:
 .liste > * { border-bottom: 1px solid var(--trait); }
 .liste button { appearance: none; border: 0; background: none; text-align: left; width: 100%; cursor: pointer; padding: 0; }
 .ligne { display: grid; grid-template-columns: 1fr auto; gap: 2px 12px; padding: 12px 2px; min-width: 0; }
+.liste a.ligne { color: inherit; text-decoration: none; }
 .ligne .titre { font-weight: 600; overflow-wrap: anywhere; }
 .ligne .sous { color: var(--gris); font-size: 14px; grid-column: 1 / -1; overflow-wrap: anywhere; }
 .ligne .quand, .montant, .temp { font-family: var(--chiffres); font-variant-numeric: tabular-nums; font-size: 13px; color: var(--gris); white-space: nowrap; }

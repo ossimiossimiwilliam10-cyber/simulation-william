@@ -113,3 +113,4 @@
   d'un relais 100 % fluide entre agents et d'une simulation plus réaliste (base de données, outils, « apps »).
 - 21/10/2026 (réel) : validation de la maquette financière intégrale Solo sans enfant (Classe U, 410-625 pts, 8 980 € net à 35 ans) et du cadre d'entrepreneuriat à distance (art. 14) pour l'Univers 3.
 - 27/10/2026 (réel) : reboot de l'univers 3 « dès le premier jour » (16/07/2041, 08h37) ; il a choisi le « reboot propre » : état de départ, règles, tables et outils gardés, partie jouée archivée (Min-ji, Hye-won, Thiago, etc. ne sont pas gardés).
+- 27/10/2026 (réel) : il veut ses fichiers (PDF des documents et pièces reçues) accessibles directement depuis son téléphone, « avec une application fichier » : application Fichiers du téléphone (CLAUDE.md §14), publiée avec la page ; en plus, envoi dans la conversation des PDF produits à sa demande.
