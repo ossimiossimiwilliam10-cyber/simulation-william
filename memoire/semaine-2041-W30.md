@@ -28,3 +28,4 @@
 ## Profil de l'utilisateur (observations)
 - Sang-froid et maturité dans la négociation contractuelle : William sait céder sur des points secondaires logiques pour sécuriser l'engagement d'un dirigeant de haut calibre.
 - Rigueur opérationnelle : anticipation logistique sans faille (billets, visas, hébergement bouclés plus de deux semaines avant le départ) et étanchéité absolue de son dispositif technologique.
+

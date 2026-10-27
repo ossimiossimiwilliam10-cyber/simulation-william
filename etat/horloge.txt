@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-07-29 09:00
+horloge: 2041-07-29 11:15
 fuseau: luxembourg
 lieu: Audun-le-Tiche (Moselle), chez William
-tour: 63
-attente: Validation des points de la Revue du lundi n° 2 ou poursuite de la matinée (attente des statuts de Me Gnamien / séance de MMA de l'après-midi)
+tour: 64
+attente: Validation des statuts SASU / mandat DG (Cabinet Gnamien) et stratégie sur la saisine hiérarchique lycée (article 14 MENJE)

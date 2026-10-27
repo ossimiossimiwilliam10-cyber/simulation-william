@@ -1,52 +1,54 @@
 # Dernier tour montré au joueur
 
-> Tour n° 63 ; horloge 27/07/2041 20:00 -> 29/07/2041 09:00 ; enregistré le 28/10/2026 00:29 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 64 ; horloge 29/07/2041 09:00 -> 29/07/2041 11:15 ; enregistré le 28/10/2026 00:37 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Go pour lundi 9h
+> Go
 
 ## Texte envoyé au joueur
 
-**LUNDI 29 JUILLET 2041 — 09h00 — Audun-le-Tiche, chez toi**
+**LUNDI 29 JUILLET 2041 — 11h15 — Audun-le-Tiche, chez toi**
 
-Tu passes un week-end d'été calme, placé sous le signe du repos physique et de l'efficacité administrative.
+Entre 09h00 et 11h15, ta matinée s'accélère avec l'arrivée successive de deux courriels administratifs et juridiques décisifs dans l'application de ton téléphone.
 
-Samedi soir, après avoir validé le paiement de tes billets Air France et le pré-enrôlement de ton e-visa biométrique, tu profites d'une soirée tranquille dans la maison en pierre. Tu te couches vers 23h30 pour une nuit profonde et ininterrompue de sept heures et demie.
+À 10h22, une première notification officielle retentit : la réponse du **Ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse (MENJE)** vient de parvenir depuis Luxembourg (`2041-07-29_Courriel_MENJE_Reponse_demande_autorisation_article_14.pdf`, classée dans `courriels/`, A006 clos).
+La Division du personnel enseignant répond à ta demande du 16 juillet relative à l'article 14 du statut général des fonctionnaires de l'État :
+- **Orientation hiérarchique obligatoire** : le ministère indique qu'il ne peut instruire une demande directe adressée par courriel individuel. Conformément à la réglementation sur le cumul d'activités, toute demande d'autorisation d'activité accessoire ou de prise de participation doit **impérativement être introduite par la voie hiérarchique**, au moyen d'un courrier formel adressé à Monsieur le Directeur de ton lycée d'affectation. Ce dernier doit émettre un avis circonstancié avant de transmettre l'entier dossier à la Direction générale des ressources humaines du MENJE.
+- **Dossier descriptif en 4 points** : ton dossier hiérarchique devra comporter : (1) une note descriptive de l'activité solaire B2B à Abidjan ; (2) la preuve formelle de ta qualité d'associé non exécutif (absence formelle de tout mandat d'administration, de gérance ou de direction générale) ; (3) une déclaration sur l'honneur attestant qu'aucun temps de travail scolaire ne sera détourné ; (4) la confirmation que tes revenus proviendront exclusivement de dividendes de capital, sans salaire ni honoraires. Le dossier sera ensuite soumis pour avis préalable au ministre de la Fonction publique avant décision ministérielle.
 
-Le dimanche 28 juillet débute à 07h15 sous un soleil éclatant. L'air matinal est encore doux à 17 °C avant la forte chaleur annoncée à 31 °C pour l'après-midi. À 07h45, tu enfiles tes chaussures de running pour boucler ta course dominicale habituelle de 5 km (I1) sur les sentiers ombragés entre Audun-le-Tiche et la frontière luxembourgeoise. Le rythme est fluide, le cardio répond parfaitement et tes articulations récupèrent sans douleur des séances de combat de la semaine. De retour chez toi, tu prends une douche fraîche et un petit déjeuner consistant avant de t'accorder une après-midi de détente intégrale à l'abri de la chaleur extérieure. Tu passes quelques heures à lire et à te reposer en vue des sparrings de la semaine.
+À 11h00 précises (09h00 heure d'Abidjan), la seconde alerte attendue retentit : le courriel officiel de **Maître Ismaël Gnamien & Associés** arrive depuis Le Plateau (`2041-07-29_Cabinet_Gnamien_Transmission_projets_statuts_et_mandat_DG.pdf`, classée dans `courriels/`, A096 clos).
+L'avocat d'affaires ivoirien te transmet l'intégralité des projets d'actes constitutifs pour examen et validation :
+1. **Projet de Statuts constitutifs de la SASU « SOLEIL B2B CÔTE D'IVOIRE »** (`2041-07-29_Cabinet_Gnamien_Projet_Statuts_SASU_Projet_Solaire_B2B_Abidjan.pdf`, D028, classé dans `documents_william/`) :
+   - Forme juridique : Société par Actions Simplifiée Unipersonnelle de droit OHADA, au capital de 10 000 000 FCFA (1 000 actions de 10 000 FCFA) intégralement souscrit par William Ossimi, Associé Unique et Président fondateur (sans mandat de gestion exécutive courante).
+   - Siège social fixé à Abidjan, Commune de Cocody, Quartier Deux-Plateaux ; durée 99 ans ; objet social ciblé sur l'ingénierie, fourniture, installation et maintenance de centrales photovoltaïques en toiture d'entreprises.
+   - Direction Générale : nomination formelle de Mohamed Coulibaly prenant effet au 1er octobre 2041.
+   - Verrouillage patrimonial : compétence liée et autorisation écrite préalable obligatoire de l'Associé Unique pour tout engagement financier supérieur à 10 000 000 FCFA HT, tout emprunt bancaire, cautionnement ou cession d'actifs.
+   - Direction Administrative et Financière (DAF) : rattachée hiérarchiquement au DG au quotidien, avec obligation statutaire de transparence financière et droit de communication direct et permanent de tous les états bancaires et comptables au profit de l'Associé Unique.
+2. **Projet de Convention de Mandat Social du Directeur Général** (`2041-07-29_Cabinet_Gnamien_Projet_Convention_Mandat_Social_DG.pdf`, D029, classé dans `documents_william/`) :
+   - Qualification : mandat social pur d'organe de direction OHADA (art. 414 AUSCGIE), exclusion expresse de tout salariat.
+   - Rémunération Formule 1 : traitement fixe net de 2 000 000 FCFA/mois (environ 3 050 €), intéressement variable de 2,5 % du CA HT encaissé, prime d'infrastructure de 5 000 000 FCFA par tranche de 500 kWc raccordés, et seuils de performance trimestriels.
+   - Clause de non-concurrence : 12 mois sur le Grand Abidjan post-mandat dans le solaire B2B toiture.
+   - Indemnité compensatrice de non-concurrence : 50 % du traitement fixe (1 000 000 FCFA/mois pendant 12 mois), due **exclusivement** en cas de révocation à l'initiative discrétionnaire de la société hors faute de gestion ou violation des statuts.
+   - Clause pénale : 24 000 000 FCFA due de plein droit en cas d'infraction.
 
-À 20h00 précises, la notification du dimanche soir retentit : le **Rapport d'activité quotidien n° 9 du Directeur Général virtuel** est consultable dans ton application (`2041-07-28_Rapport_quotidien_Directeur_General_virtuel.pdf`, D027, classé dans `documents_william/`).
+Le pôle juridique virtuel de ton application Gestion a audité immédiatement les deux textes : l'ensemble des compromis arrêtés vendredi soir avec Mohamed Coulibaly (D022) est fidèlement intégré par le cabinet Gnamien, sans la moindre dérive.
 
-Le rapport dresse un état des lieux serein et parfaitement ordonné :
-1. **Gouvernance et Direction Générale** : l'accord formel avec Mohamed Coulibaly est totalement consolidé ; le futur dirigeant prépare activement ses pistes de sourcing pour les directions technique et commerciale en amont de son arrivée à Abidjan le 12 août.
-2. **Direction Administrative et Financière** : Mariam Brou a bien pris acte de la notification de sélection et de la maquette contractuelle Niveau 2 ; elle maintient une posture professionnelle d'attente disciplinée en vue de l'entretien opérationnel délégué à Mohamed.
-3. **Logistique mission Abidjan** : billets Air France confirmés (1 285 € sur Visa Premier), attestation e-visa SNEDAI archivée (73 €), option confirmée sur l'appartement F2 en résidence sécurisée à Cocody Deux-Plateaux (1 690 € pour 13 nuits).
-4. **Pôle Juridique virtuel** : veille active et préparation des grilles d'audit pour l'examen des projets d'actes constitutifs attendus du cabinet de Maître Ismaël Gnamien.
-5. **Budget informatique virtuel** : 0,80 € consommé pour la journée de dimanche (cumul mensuel : 44,86 € sur les 1 000,00 € de plafond alloué ; solde disponible : 955,14 €).
-
-La nuit de dimanche à lundi est tout aussi régulière : tu t'endors vers 23h30 pour te réveiller ce matin à 07h00, frais et reposé.
-
-Ce lundi 29 juillet s'ouvre sous un ciel bleu limpide. Le thermomètre affiche 16 °C dans l'air matinal et montera jusqu'à 29 °C dans l'après-midi. Dans la cuisine, en prenant ton café, tu découvres sur ton téléphone la **Revue du lundi n° 2** dressant la synthèse de la semaine W30 écoulée (accord DG conclu, DAF positionnée, mission d'Abidjan bouclée) et traçant la feuille de route de la semaine W31 (`memoire/revue-lundi-2041-07-29.md`).
-
-À 09h00 précises, la situation se présente de manière parfaitement alignée :
-- **Entraînement au Minett Combat Club** : la première séance de MMA et grappling de la semaine est programmée cet après-midi à 16h00 avec Thiago Alves et Arthur Kieffer (I1).
-- **Cabinet Me Ismaël Gnamien** : à Abidjan, les bureaux du Plateau ouvrent leurs portes à 08h00 GMT (10h00 heure de Luxembourg). Le pôle juridique virtuel est préconfiguré pour réceptionner et auditer dans la matinée les projets de statuts de la SASU Projet Solaire B2B Abidjan ainsi que la convention de mandat social du Directeur Général.
-- **Finances personnelles** : le traitement mensuel net d'enseignant de l'État luxembourgeois (+9 320,00 €) est prévu mercredi 31 juillet au soir, devançant les prélèvements et virements d'épargne du début de mois.
+Il est 11h15 sous un soleil généreux (24 °C). La balle est dans ton camp pour arbitrer ces deux dossiers.
 
 ***
 
 **Réponses attendues :**
-- Aucune réponse urgente en suspens ce matin. Tous les dossiers sont synchronisés.
+- **Cabinet Me Ismaël Gnamien** : validation des projets de statuts SASU (D028) et de la convention de mandat DG (D029) pour impression des actes officiels avant la séance de signature du mardi 13 août à Abidjan avec Mohamed Coulibaly, ou remarques éventuelles.
+- **MENJE (Luxembourg)** : stratégie pour l'article 14 (souhaites-tu que ton pôle juridique prépare la note formelle et le dossier en 4 points pour le Directeur de ton lycée, à transmettre à la rentrée ou par voie officielle cet été ?).
 
 **À faire / à fournir avant le tour suivant :**
-- Réception et examen des projets de statuts constitutifs de la SAS et de la convention de mandat social rédigés par le cabinet de Maître Ismaël Gnamien (attendus dans la matinée).
+- Arbitrage sur la validation des statuts de la SASU et du mandat social de Mohamed Coulibaly.
+- Arbitrage sur la saisine hiérarchique de la direction du lycée pour l'article 14.
 
 **Quêtes secondaires :**
-- **Minett Combat Club** : reprise de l'entraînement de combat cet après-midi à 16h00 au club (MMA et travail contre cage, I1).
-- **Cabinet Me Ismaël Gnamien** : audit comparatif des clauses statutaires et du mandat DG dès transmission par le cabinet d'Abidjan.
-- **MENJE (Luxembourg)** : demande d'autorisation pour activité accessoire (article 14) en cours d'instruction administrative.
-- **Spuerkeess** : versement de fin de mois du traitement luxembourgeois programmé pour mercredi 31 juillet soir (+9 320,00 €).
+- **Minett Combat Club** : séance d'entraînement de combat cet après-midi à 16h00 au club (MMA et lutte avec Thiago Alves et Arthur Kieffer, I1).
+- **Spuerkeess** : traitement mensuel de l'État luxembourgeois (+9 320,00 €) attendu mercredi 31 juillet soir.
 
 Que veux-tu faire ?
-*(Avance rapide possible vers la fin de matinée pour la réception des projets de statuts de Maître Gnamien, ou vers 16h00 pour la séance de combat au Minett Combat Club).*
+*(Avance rapide possible vers 16h00 pour la séance de combat au Minett Combat Club, ou traitement immédiat des dossiers juridiques et administratifs).*

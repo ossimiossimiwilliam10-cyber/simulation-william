@@ -84,3 +84,4 @@ def generer_rapport_dg_28_juillet():
 
 if __name__ == "__main__":
     generer_rapport_dg_28_juillet()
+
