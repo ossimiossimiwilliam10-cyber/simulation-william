@@ -227,3 +227,4 @@ def generer_mandat_dg():
 if __name__ == "__main__":
     generer_statuts_sasu()
     generer_mandat_dg()
+

@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 28/10/2026 00:37 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 28/10/2026 00:44 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : lundi 29/07/2041 11:15 (luxembourg, UTC+2)
+## Horloge : lundi 29/07/2041 20:00 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 09:15 ; lisbonne 10:15 ; mindelo 08:15 ; casablanca 10:15 ; douala 10:15 ; addis 12:15 ; manille 17:15 ; paris 11:15 ; seoul 18:15 ; bresil 06:15
+- **Heure dans les autres lieux** : abidjan 18:00 ; lisbonne 19:00 ; mindelo 17:00 ; casablanca 19:00 ; douala 19:00 ; addis 21:00 ; manille 02:00 ; paris 20:00 ; seoul 03:00 ; bresil 15:00
 - **En attente de William** :
-  - Validation des statuts SASU / mandat DG (Cabinet Gnamien) et stratégie sur la saisine hiérarchique lycée (article 14 MENJE)
+  - Arbitrage sur l'avance rapide (mardi 30/07 ou mercredi 31/07 salaire et Rapport n° 12)
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 464,70 €**
@@ -16,7 +16,7 @@
 - Prévu dans les 14 jours : 31/07 Traitement mensuel de William (9 320,00 €) ; 01/08 Minett Combat Club (-85,00 €) ; 01/08 Package bancaire Zebra Premium (-12,83 €) ; 02/08 Virement permanent vers le compte épargne (-732,00 €) ; 02/08 Virement permanent vers le compte épargne (732,00 €) ; 02/08 Virement permanent vers le compte-titres ETF (-5 755,00 €) ; 02/08 Virement permanent vers le compte-titres ETF (5 755,00 €) ; 05/08 Mensualité du prêt immobilier et assurance emprunteu (-949,28 €) ; 05/08 Prêt immobilier de la maison d'Audun-le-Tiche (-626,84 €) ; 05/08 Part nette du bien financé : + capital remboursé (626,84 €) ; 05/08 Assurance habitation (-45,00 €) ; 05/08 Voiture électrique : assurance tous risques (-107,00 €) ; 07/08 Visa Premier : relevé clos le 30/07/2041, débit du s (-1 358,00 €) ; 12/08 Électricité (-132,00 €) ; 12/08 Gaz naturel (-253,00 €)
 
 ## Agenda : dans les 24 heures (1)
-- A097 Mon 29/07 20:00 (luxembourg) | Directeur général virtuel : Rapport quotidien n° 10 à William (décisions fermées, affirmations vérifiées, état des pôles) [prevu]
+- A098 Tue 30/07 20:00 (luxembourg) | Directeur général virtuel : Rapport quotidien n° 11 à William (décisions fermées, affirmations vérifiées, état des pôles) [prevu]
 ## Agenda : de J+1 à J+7 (0)
 - rien
 (Les lignes « NON CONNU DE WILLIAM » servent au moteur : ne jamais les montrer au joueur avant le jour dit.)
@@ -38,9 +38,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-07-29.md, 6 dernières lignes)
-> - **00h00-09h00** (tour n° 63) : Nuit réparatrice de 7,2 h (23h30-07h00) ; réveil sous le soleil (16 °C / 29 °C) ; présentation de la Revue du lundi n° 2 (semaine W30 bouclée avec succès, semaine W31 ouverte) ; point de situation à 09h00 : séance de MMA cet après-midi (16h00, I1) ; le cabinet de Me Gnamien ouvre ses portes à 08h00 GMT à Abidjan (10h00 à Luxembourg), livraison des projets de statut
-> - Tirages du tour : T4 → aucune (52,66) ; T5 → fuite_interne (28,05) ; T4 → aucune (11,39) ; T5 → aucune (52,14) ; procédure : LU01, LU03, FR02.
-> - Tour en cours à 09h00, en attente de William : **Validation des points de la Revue du lundi n° 2 ou poursuite de la matinée (attente des statuts de Me Gnamien / séance de MMA de l'après-midi)**.
 > - **09h00-11h15** (tour n° 64) : Réception à 10h22 du courriel officiel du MENJE (A006 clos) : saisine par la voie hiérarchique (direction du lycée) requise et 4 éléments justificatifs demandés pour l'article 14 ; réception à 11h00 du courriel du Cabinet Gnamien (A096 clos) transmettant les projets de statuts de la SASU SOLEIL B2B CI (D028) et de la convention de mandat social du DG Mohamed Coulib
 > - Tirages du tour : procédure : LU01, LU03, FR02.
 > - Tour en cours à 11h15, en attente de William : **Validation des statuts SASU / mandat DG (Cabinet Gnamien) et stratégie sur la saisine hiérarchique lycée (article 14 MENJE)**.
+> - **11h15-20h00** (tour n° 65) : Validation définitive des statuts SASU et convention mandat DG notifiée à Me Gnamien (D030) ; accusé de réception de Me Gnamien confirmant l'impression des actes pour signature le 13/08 à 10h00 à Abidjan ; dossier formel MENJE Article 14 en 4 points finalisé par le pôle juridique pour la rentrée (D031) ; séance de combat intense de 105 min au Minett Combat Club (lu
+> - Tirages du tour : T10 → rapide (35,38).
+> - Tour en cours à 20h00, en attente de William : **Arbitrage sur l'avance rapide (mardi 30/07 ou mercredi 31/07 salaire et Rapport n° 12)**.

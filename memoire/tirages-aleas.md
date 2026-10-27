@@ -4151,3 +4151,5 @@ Effets à jouer : A23 (lundi 22/07 (soir)) : Très courant ; William voit le mes
 - Tirage [T5] « affaire_projet_ci_art14 : fuite, semaine du 28/07 » : fuite_externe 1 / fuite_interne 3 / aucune 96 ; modificateurs : aucun ; jet  52.1 → **aucune** (enregistré le 28/10/2026 00:23 heure machine)
 
 - Actualités de la semaine du 29/07/2041 : modèles LU01, LU03, FR02 [PROCÉDURE : outils/actualites.py] (enregistré le 28/10/2026 00:29 heure machine)
+
+- Tirage [T10] « Cabinet Gnamien : delai de reponse a la validation des statuts » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  35.4 → **rapide** (enregistré le 28/10/2026 00:42 heure machine)

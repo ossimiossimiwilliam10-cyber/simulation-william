@@ -1,0 +1,40 @@
+*(Dictée vocale interprétée : « Ismaël Niamien » = « Ismaël Gnamien »).*
+
+**LUNDI 29 JUILLET 2041 — 20h00 — Audun-le-Tiche, chez toi**
+
+Tu arbitres immédiatement les deux dossiers sur ton ordinateur, avec méthode et fermeté.
+
+À 11h45, tu valides l'ensemble des actes transmis par le cabinet d'Abidjan. Un courriel officiel d'approbation intégrale est adressé à Maître Ismaël Gnamien (`2041-07-29_Courriel_Cabinet_Gnamien_Validation_definitive_statuts_et_mandat_DG.pdf`, D030, classé dans `documents_william/`) : tu confirmes la dénomination sociale « SOLEIL B2B CÔTE D'IVOIRE » (SASU), le capital de 10 000 000 FCFA, la nomination de Mohamed Coulibaly au poste de Directeur Général à effet du 1er octobre 2041, les limitations statutaires de pouvoirs au-delà de 10 000 000 FCFA HT, ainsi que la clause de non-concurrence de 12 mois à 50 % d'indemnité compensatrice. Tu donnes ton accord formel pour la séance de signature en son étude le mardi 13 août à 10h00 à Abidjan.
+
+À 12h05 (10h05 heure d'Abidjan), la réponse de l'avocat te parvient par retour de courriel (`2041-07-29_Cabinet_Gnamien_Accuse_validation_statuts_et_rendez_vous_signature.pdf`, dans `courriels/`) : Maître Gnamien accuse réception de ton approbation sans réserve. Son étude lance l'impression des cinq originaux reliés sous chemise notariale et finalise les formulaires d'enregistrement du CEPICI pour un dépôt immédiat le 13 août au RCCM.
+
+Dans le même temps, ton pôle juridique virtuel achève la mise en forme du dossier administratif pour le Luxembourg (`2041-07-29_Dossier_MENJE_Article_14_Transmission_hierarchique_Lycee.pdf`, D031, classé dans `documents_william/`). Le document structure la demande selon la voie hiérarchique exigée par le MENJE : lettre de transmission adressée à Monsieur le Directeur du Lycée, accompagnée des quatre pièces requises (note descriptive de l'activité solaire B2B, justification statutaire de ton rôle d'associé non exécutif sans fonction de gestion, déclaration sur l'honneur du respect absolu de tes 25 leçons hebdomadaires, et attestation sur la nature exclusivement capitalistique des dividendes). Le dossier complet est classé dans tes archives, prêt à être remis en main propre à la direction dès la pré-rentrée de septembre.
+
+Après un déjeuner léger, tu te détends en début d'après-midi avant de prendre la route d'Esch-sur-Alzette à 15h30.
+
+À 16h00 précises, tu franchis les portes du Minett Combat Club pour ta première séance de la semaine (I1). L'entraînement est dense et intense : travail de cadrage et de contrôle contre la cage, lutte gréco-romaine et passages de garde au sol avec Arthur Kieffer, sous le regard attentif du coach Thiago Alves. Pendant près d'une heure quarante-cinq, tu enchaînes les rounds à haute intensité. À 100 kg pour 1,96 m, tes appuis sont stables, le souffle est régulier et tes défenses d'amenée au sol fonctionnent avec autorité. Tu termines la séance trempé de sueur mais parfaitement lucide. Après une bonne douche et quelques échanges cordiaux dans les vestiaires, tu reprends la route d'Audun-le-Tiche où tu arrives vers 18h30.
+
+À 20h00 précises, la notification du soir retentit : le **Rapport d'activité quotidien n° 10 du Directeur Général virtuel** est déposé dans ton espace documentaire (`2041-07-29_Rapport_quotidien_Directeur_General_virtuel.pdf`, D032, classé dans `documents_william/`, A097 clos).
+
+Le rapport confirme le verrouillage complet des jalons :
+1. **Actes constitutifs et immatriculation** : statuts SASU et convention de mandat DG définitivement approuvés (D030) ; accusé du Cabinet Gnamien reçu ; originaux sous chemise notariale en cours d'édition pour le 13 août à 10h00 à Abidjan.
+2. **Administration luxembourgeoise** : dossier complet de déclaration Article 14 finalisé en 4 pièces pour la direction du lycée (D031), en réserve sécurisée pour la rentrée scolaire.
+3. **Pôle Gouvernance et RH** : Mohamed Coulibaly prépare son plan de sourcing des cadres techniques et commerciaux ; Mariam Brou maintenue en réserve pour la DAF.
+4. **Logistique de mission Abidjan (12-25 août)** : dispositif entièrement validé (Air France, e-visa SNEDAI, résidence hôtelière Cocody Deux-Plateaux).
+5. **Budget informatique virtuel** : 1,20 € consommé ce jour (cumul mensuel : 46,06 € sur les 1 000,00 € alloués ; solde disponible : 953,94 €).
+
+***
+
+**Réponses attendues :**
+- Aucune réponse urgente en suspens ce soir. Tous les dossiers sont calés.
+
+**À faire / à fournir avant le tour suivant :**
+- Rien d'urgent ce soir ni demain. Les prochaines formalités juridiques se dérouleront sur place à Abidjan le 13 août.
+
+**Quêtes secondaires :**
+- **Minett Combat Club** : prochaine séance d'entraînement de combat programmée mercredi 31 juillet à 16h00 (I1).
+- **Spuerkeess** : versement de fin de mois de ton traitement luxembourgeois (+9 320,00 € net) prévu mercredi 31 juillet au soir.
+- **Dossier MENJE (Article 14)** : transmission à la direction du lycée à la rentrée de septembre.
+
+Que veux-tu faire ?
+*(Avance rapide possible vers demain mardi 30 juillet, ou directement vers mercredi 31 juillet soir pour le versement du salaire luxembourgeois et le Rapport quotidien n° 12).*
