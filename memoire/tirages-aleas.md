@@ -2672,3 +2672,127 @@ Effets à jouer : A23 (dimanche 21/07 (matin)) : Très courant ; William voit le
 - Jet « Instagram : la vérification est terminée dans l'heure (sinon dans les 24 heures) » : probabilité 50 %, jet  77.8 → **NON** [DÉROGATION : vérification d'identité d'une plateforme (site, pas un personnage) : proposition R6] (enregistré le 27/10/2026 15:19 heure machine)
 
 - Jet « Instagram : délai de la validation après l'envoi des pièces à 00h40 (1 h + jet × 0,23 h) » : probabilité 50 %, jet  81.8 → **NON** [PROCÉDURE : délai d'une vérification d'identité] (enregistré le 27/10/2026 15:19 heure machine)
+
+- Tirage [T17] « Jean-Baptiste Tuo : réaction au message de William du 19/07 06:30 (abidjan) : « deuxième message de l'entretien de l'agent IA (poste commercial) : questions plus précises » » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  49.8 → **conversation** (enregistré le 27/10/2026 15:41 heure machine)
+
+- Tirage [T17] « Hervé Touré : réaction au message de William du 19/07 06:30 (abidjan) : « deuxième message de l'entretien de l'agent IA (poste commercial) : questions plus précises » » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  93.9 → **refus_net** (enregistré le 27/10/2026 15:41 heure machine)
+
+- Tirage [T10] « Jean-Baptiste Tuo : délai (réponse de Jean-Baptiste Tuo au deuxième message de l'entretien de l'agent IA (T) » : immediat 7 / rapide 18 / dans_l_heure 15 / dans_la_journee 25 / le_soir_ou_lendemain 25 / plus_tard_ou_jamais 10 ; modificateurs : M70 ; jet  38.0 → **dans_l_heure** (enregistré le 27/10/2026 15:41 heure machine)
+
+- Tirage [T10] « Hervé Touré : délai (réponse d'Hervé Touré au deuxième message de l'entretien de l'agent IA (T17 : re) » : immediat 1 / rapide 11 / dans_l_heure 15 / dans_la_journee 25 / le_soir_ou_lendemain 30 / plus_tard_ou_jamais 18 ; modificateurs : M70, M72 ; jet  65.1 → **le_soir_ou_lendemain** (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur CoinAfrique entre 22:58 et 23:58 » : probabilité 35 %, jet  36.4 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur CoinAfrique entre 23:58 et 00:58 » : probabilité 29.75 %, jet  40.4 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur CoinAfrique entre 00:58 et 01:58 » : probabilité 25.2875 %, jet  31.1 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur CoinAfrique entre 01:58 et 02:58 » : probabilité 4.29887 %, jet  45.0 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur CoinAfrique entre 02:58 et 03:58 » : probabilité 3.65404 %, jet  24.6 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur CoinAfrique entre 03:58 et 04:58 » : probabilité 3.10594 %, jet  56.6 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur CoinAfrique entre 04:58 et 05:58 » : probabilité 2.64005 %, jet  19.9 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur CoinAfrique entre 05:58 et 06:58 » : probabilité 2.24404 %, jet  57.3 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur CoinAfrique entre 06:58 et 07:58 » : probabilité 1.90743 %, jet  87.3 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur CoinAfrique entre 07:58 et 08:58 » : probabilité 8.10659 %, jet  62.5 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur CoinAfrique entre 08:58 et 09:58 » : probabilité 6.8906 %, jet  50.4 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur CoinAfrique entre 09:58 et 10:58 » : probabilité 5.85701 %, jet  29.6 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur CoinAfrique entre 10:58 et 11:58 » : probabilité 4.97846 %, jet  64.9 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur CoinAfrique entre 11:58 et 12:58 » : probabilité 4.23169 %, jet  87.3 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur CoinAfrique entre 12:58 et 13:58 » : probabilité 3.59694 %, jet  11.5 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur CoinAfrique entre 13:58 et 14:58 » : probabilité 3.0574 %, jet  40.5 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur CoinAfrique entre 14:58 et 15:58 » : probabilité 2.59879 %, jet  34.9 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur CoinAfrique entre 15:58 et 16:58 » : probabilité 2.20897 %, jet  34.0 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur CoinAfrique entre 16:58 et 17:58 » : probabilité 1.87762 %, jet  79.5 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur CoinAfrique entre 17:58 et 18:00 » : probabilité 0.0531994 %, jet  64.4 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Kosafi Annonce CI entre 22:51 et 23:51 » : probabilité 25 %, jet  87.9 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Kosafi Annonce CI entre 23:51 et 00:51 » : probabilité 21.25 %, jet  83.1 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Kosafi Annonce CI entre 00:51 et 01:51 » : probabilité 18.0625 %, jet  42.2 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Kosafi Annonce CI entre 01:51 et 02:51 » : probabilité 3.07062 %, jet  49.2 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Kosafi Annonce CI entre 02:51 et 03:51 » : probabilité 2.61003 %, jet  61.2 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Kosafi Annonce CI entre 03:51 et 04:51 » : probabilité 2.21853 %, jet  22.6 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Kosafi Annonce CI entre 04:51 et 05:51 » : probabilité 1.88575 %, jet  43.3 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Kosafi Annonce CI entre 05:51 et 06:51 » : probabilité 1.60289 %, jet  84.2 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Kosafi Annonce CI entre 06:51 et 07:51 » : probabilité 1.36245 %, jet  47.6 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Kosafi Annonce CI entre 07:51 et 08:51 » : probabilité 5.79042 %, jet  15.0 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Kosafi Annonce CI entre 08:51 et 09:51 » : probabilité 4.92186 %, jet  28.4 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Kosafi Annonce CI entre 09:51 et 10:51 » : probabilité 4.18358 %, jet  55.9 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Kosafi Annonce CI entre 10:51 et 11:51 » : probabilité 3.55604 %, jet  93.9 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Kosafi Annonce CI entre 11:51 et 12:51 » : probabilité 3.02264 %, jet  38.7 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Kosafi Annonce CI entre 12:51 et 13:51 » : probabilité 2.56924 %, jet  58.5 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Kosafi Annonce CI entre 13:51 et 14:51 » : probabilité 2.18386 %, jet   7.9 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Kosafi Annonce CI entre 14:51 et 15:51 » : probabilité 1.85628 %, jet  15.8 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Kosafi Annonce CI entre 15:51 et 16:51 » : probabilité 1.57784 %, jet  48.7 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Kosafi Annonce CI entre 16:51 et 17:51 » : probabilité 1.34116 %, jet   3.2 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Kosafi Annonce CI entre 17:51 et 18:00 » : probabilité 0.170998 %, jet  45.7 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Facebook : les administrateurs de groupes d'Abidjan approuvent la publication du projet avant vendredi 18h00 » : probabilité 55 %, jet  52.5 → **OUI** [DÉROGATION : modération de groupes Facebook (administrateurs, pas des personnages) : proposition R6] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Facebook entre 17:23 et 18:00 » : probabilité 43.1667 %, jet   5.8 → **OUI** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Minute d'arrivée de la réponse (Facebook, 17:23-18:00) : minute = jet × durée / 100 » : probabilité 50 %, jet  74.6 → **NON** [PROCÉDURE : minute dans une fenêtre d'une heure] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Le répondant de 17:51 (Facebook) est une arnaque aux frais d'avance (profil créé pour l'occasion) » : probabilité 22 %, jet  79.7 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Années d'expérience de Solange Gnagne dans le domaine : 3 + jet × (âge − 25 − 3) / 100 » : probabilité 50 %, jet  40.4 → **OUI** [PROCÉDURE : années d'expérience d'un répondant] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Les références de Solange Gnagne sont vérifiables » : probabilité 60 %, jet   6.5 → **OUI** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Jean-Baptiste Tuo : nombre de propriétaires ou d'entreprises qu'il ou elle peut présenter (4 + 4 × pertinence du métier + jet × 0,36) » : probabilité 50 %, jet  73.5 → **NON** [PROCÉDURE : valeur d'un attribut de réseau (jet × 100)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Jean-Baptiste Tuo : part joignable jusqu'au décideur (30 + 5 × pertinence + jet × 0,5 %) » : probabilité 50 %, jet  48.0 → **OUI** [PROCÉDURE : valeur d'un attribut de réseau (jet × 100)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Jean-Baptiste Tuo : part dont la facture d'électricité est élevée (20 + 5 × pertinence + jet × 0,4 %) » : probabilité 50 %, jet  52.2 → **NON** [PROCÉDURE : valeur d'un attribut de réseau (jet × 100)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Jean-Baptiste Tuo : introductions déjà faites dans un projet comparable (jet / 25) » : probabilité 50 %, jet   0.6 → **OUI** [PROCÉDURE : valeur d'un attribut de réseau (jet × 100)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Jean-Baptiste Tuo : motivation et disponibilité (0,5 + jet / 200) » : probabilité 50 %, jet  36.8 → **OUI** [PROCÉDURE : valeur d'un attribut de réseau (jet × 100)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Hervé Touré : nombre de propriétaires ou d'entreprises qu'il ou elle peut présenter (4 + 4 × pertinence du métier + jet × 0,36) » : probabilité 50 %, jet  31.2 → **OUI** [PROCÉDURE : valeur d'un attribut de réseau (jet × 100)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Hervé Touré : part joignable jusqu'au décideur (30 + 5 × pertinence + jet × 0,5 %) » : probabilité 50 %, jet  25.0 → **OUI** [PROCÉDURE : valeur d'un attribut de réseau (jet × 100)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Hervé Touré : part dont la facture d'électricité est élevée (20 + 5 × pertinence + jet × 0,4 %) » : probabilité 50 %, jet  40.0 → **OUI** [PROCÉDURE : valeur d'un attribut de réseau (jet × 100)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Hervé Touré : introductions déjà faites dans un projet comparable (jet / 25) » : probabilité 50 %, jet  84.1 → **NON** [PROCÉDURE : valeur d'un attribut de réseau (jet × 100)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Jet « Hervé Touré : motivation et disponibilité (0,5 + jet / 200) » : probabilité 50 %, jet  71.4 → **NON** [PROCÉDURE : valeur d'un attribut de réseau (jet × 100)] (enregistré le 27/10/2026 15:41 heure machine)
+
+- Tirage [T17] « Jean-Baptiste Tuo : réaction au message de William du 19/07 07:40 (abidjan) : « message de l'agent IA : sa note dépasse le seuil, le porteur du projet souhaite lui parler » » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  27.7 → **poli_bref** (enregistré le 27/10/2026 15:42 heure machine)
+
+- Tirage [T10] « Jean-Baptiste Tuo : délai (réponse de Jean-Baptiste Tuo à la demande de son numéro personnel (T17 : poli_br) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  36.3 → **rapide** (enregistré le 27/10/2026 15:42 heure machine)

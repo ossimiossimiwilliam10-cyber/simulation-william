@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 27/10/2026 15:37 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 27/10/2026 15:43 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : vendredi 19/07/2041 04:06 (luxembourg, UTC+2)
+## Horloge : vendredi 19/07/2041 11:42 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 02:06 ; lisbonne 03:06 ; mindelo 01:06 ; casablanca 03:06 ; douala 03:06 ; addis 05:06 ; manille 10:06 ; paris 04:06 ; seoul 11:06 ; bresil 23:06
+- **Heure dans les autres lieux** : abidjan 09:42 ; lisbonne 10:42 ; mindelo 08:42 ; casablanca 10:42 ; douala 10:42 ; addis 12:42 ; manille 17:42 ; paris 11:42 ; seoul 18:42 ; bresil 06:42
 - **En attente de William** :
-  - Suite à donner à Gestion (agents des autres pôles, agent central, messagerie de dépôt) ; vérification Instagram sous 24 h ; prochain rapport de Claude le 19/07 à 18h00 ; vendredi : club l'après-midi (I1) ; William n'a pas dormi
+  - Décision de William sur le numéro de Jean-Baptiste Tuo (Claude attend) ; prochain rapport de Claude aujourd'hui à 18h00 ; vérification Instagram sous 24 h ; vendredi : club l'après-midi (I1)
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **9 975,70 €**
@@ -13,14 +13,13 @@
 - Prêt logement : solde restant dû (passif, déjà déduit de la part de maison) : **102 621,78 €**
 - Part nette de la maison d'Audun-le-Tiche : **97 378,22 €**
 - Patrimoine net de William : **852 983,92 €**
-- Prévu dans les 14 jours : 31/07 Traitement mensuel de William (9 320,00 €) ; 01/08 Minett Combat Club (-85,00 €) ; 01/08 Package bancaire Zebra Premium (-12,83 €)
+- Prévu dans les 14 jours : 31/07 Traitement mensuel de William (9 320,00 €) ; 01/08 Minett Combat Club (-85,00 €) ; 01/08 Package bancaire Zebra Premium (-12,83 €) ; 02/08 Virement permanent vers le compte épargne (-732,00 €) ; 02/08 Virement permanent vers le compte épargne (732,00 €) ; 02/08 Virement permanent vers le compte-titres ETF (-5 755,00 €) ; 02/08 Virement permanent vers le compte-titres ETF (5 755,00 €)
 
-## ÉCHÉANCES ÉCHUES NON CLOSES (jouer, reporter avec raison ou annuler : règle 14)
-- A014 Fri 19/07 01:20 (luxembourg) | Jean-Baptiste Tuo (educarriere) : réponse de Jean-Baptiste Tuo au premier message de l'entretien de l'agent IA (T17 : poli_bref = réponse polie et brève) : quelques lignes sur son parcours, sans prolonger , donneur de leçons : ton sentencieux , réseau à tirer par annonces.py reseau au moment de la note · souci : dettes de jeu · objectif : obtenir un poste de direction dans une grande entreprise · foyer : en couple, enfants partis · défauts : donneur de leçons sur la santé, l'argent ou l'éducation / aime les commérages et répète ce qu'on lui confie [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : dans_la_journee (jet 69.8) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=jean-baptiste-tuo canal=educarriere]
-
-## Agenda : dans les 24 heures (2)
+## Agenda : dans les 24 heures (4)
+- A020 Fri 19/07 17:23 (luxembourg) | Facebook (administrateurs de groupes) : Les administrateurs de groupes d'Abidjan approuvent la publication du projet : l'annonce est en ligne sur Facebook (tirage : approuvée avant 18h00) ; Claude le signale à William au rapport de 18h00 ; première réponse RA008 à 17h51 (niveau C) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
 - A011 Fri 19/07 18:00 (luxembourg) | Claude (agent IA) : Rapport quotidien de l'agent IA à William : réponses à l'annonce (niveaux A, B, C), signaux d'alerte, état des plateformes [prevu]
 - A016 Fri 19/07 20:28 (luxembourg) | Instagram (vérification) : Instagram valide la vérification d'identité de William et le compte du projet : Claude publie l'annonce version 2 à 20h35 et le signale à William (tirage : vérification acceptée, terminée au bout de 19 h 48) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
+- A018 Sat 20/07 09:34 (luxembourg) | Hervé Touré (novojob) : réponse d'Hervé Touré au deuxième message de l'entretien de l'agent IA (T17 : refus_net) : il ne souhaite pas poursuivre, refus clair sans discours · souci : voiture qui lâche, pas d'argent pour la remplacer · objectif : se faire une place dans le milieu (club, lycée, quartier) · foyer : en couple, avec enfants · défauts : dépense sans compter, puis se plaint d'être à découvert / désordonné, perd ses clés et ses papiers [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : le_soir_ou_lendemain (jet 65.0, M70, M72) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=herve-toure canal=novojob]
 ## Agenda : de J+1 à J+7 (3)
 - A005 Sat 20/07 20:30 (luxembourg) | William (santé) : Aléa A31 (tirage réel du 16/07/2041) : diarrhée du voyageur ou intoxication alimentaire, seulement si William est à l'étranger ce jour-là ; sinon sans objet (à clore ainsi) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
 - A004 Sun 21/07 09:40 (luxembourg) | Inconnu (SMS) : Aléa A23 (tirage réel du 16/07/2041, semaine du 15/07) : tentative d'arnaque par SMS (faux colis ou faux conseiller bancaire) ; William voit le message et décide ; à jouer sans détail annoncé [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
@@ -42,9 +41,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-07-19.md, 6 dernières lignes)
-> - Tour en cours à 00h52, en attente de William : **Vérification Instagram sous 24 h ; notes des profils selon le nouveau barème ; prochain rapport de Claude le 19/07 à 18h00 ; vendredi : club l'après-midi (I1)**.
-> - **00h52-03h14** (tour n° 16) : 00h58 : fulgurance de William : une application de gestion pilotée par l'IA, sur son téléphone, transparence totale (clé d'API du modèle le plus puissant, plafond de 1 000 € par mois, documents des collaborateurs routés vers des pôles qui les comparent aux sources officielles ; premier pôle : RH) ; 01h07 : compte développeur ouvert, plafond de 1 000 € par mois, Vis
-> - 01h10-03h12 : William code l'application ; 03h12 : version 0.1 installée sur son téléphone (outils/gestion.py : tableau, RH, documents) ; 03h14 : Claude signale que Gestion est branchée (le pôle RH lit ses dossiers de candidats) ; William n'a pas dormi
 > - Tour en cours à 03h14, en attente de William : **Suite à donner à l'application Gestion (messagerie de dépôt et pôles à construire) ; vérification Instagram sous 24 h ; prochain rapport de Claude le 19/07 à 18h00 ; vendredi : club l'après-midi (I1)**.
 > - **03h14-04h06** (tour n° 17) : 03h20 : William connecte Claude au pôle RH de Gestion, décide un agent par pôle et un agent central, toujours dans le budget d'API de 1 000 € par mois ; 03h24 : estimation de Claude (30 à 90 € par mois pour le pôle RH, 150 à 400 € avec cinq pôles et l'agent central) ; 04h02 : version 0.2 de Gestion installée (section Agents) ; 04h04 : Claude connecté au pôle RH ; W
 > - Tour en cours à 04h06, en attente de William : **Suite à donner à Gestion (agents des autres pôles, agent central, messagerie de dépôt) ; vérification Instagram sous 24 h ; prochain rapport de Claude le 19/07 à 18h00 ; vendredi : club l'après-midi (I1) ; William n'a pas dormi**.
+> - **04h06-11h42** (tour n° 18) : 04h15 : William se couche ; 09h22 : Jean-Baptiste Tuo répond au deuxième message de l'entretien ; 09h40 : demande de son numéro (T17 : poli_bref), 09h51 : il préfère écrire sur la plateforme ; note de réseau 71/100 (seuil 70) ; 09h55 : alerte de Claude à William (message en attente) ; Hervé Touré : deuxième message à 08h30 (T17 : refus_net), réponse prévue le 20/07
+> - Tirages du tour : T17 Jean-Baptiste → conversation (49,8) ; T17 Hervé → refus_net (93,93) ; T10 Jean-Baptiste → dans_l_heure (38,0) ; T10 Hervé → le_soir_ou_lendemain (65,05) ; jet « Une personne répond à l'annonce sur CoinAfrique entre 22:58  » → NON (36,43) ; jet « Une personne répond à l'annonce sur CoinAfrique entre 23:58  » → NON (40,37) ; jet « Une personne répond à l'annonce sur CoinAfriq
+> - Tour en cours à 11h42, en attente de William : **Décision de William sur le numéro de Jean-Baptiste Tuo (Claude attend) ; prochain rapport de Claude aujourd'hui à 18h00 ; vérification Instagram sous 24 h ; vendredi : club l'après-midi (I1)**.

@@ -99,3 +99,10 @@
 - **Secret (moteur seulement)** : —
 - **Horaires** : règle « sans_travail », fuseau abidjan, décalage -13 min ; pas d'horaires de travail ; sommeil 22:47-06:47
 - **Derniers événements** : —
+
+### Solange Gnagne (répondant à l'annonce)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : trouver quelqu'un et se poser ; **souci** : embouteillages et trajets de deux heures entre Abidjan et son travail ; **foyer** : vit seul(e)
+- **Secret (moteur seulement)** : —
+- **Horaires** : règle « bureau », fuseau abidjan, décalage +24 min ; travail 09:24-17:54 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:54-07:24
+- **Derniers événements** : —

@@ -88,7 +88,9 @@ def donnees_telephone(t):
     candidats = [{"nom": x["nom"], "niveau": x["niveau"], "note": x["note"], "etat": x["etat"], "resume": x["resume"], "plateforme": x["plateforme"], "date": x["date"][:10]}
                  for x in lire_csv(CANDIDATS) if _avant(x["date"], t)]
     import annonces
-    plateformes = [{"nom": a["plateforme"], "etat": ETATS_ANNONCES.get(a["etat"], a["etat"])} for a in annonces.annonces()]
+    # une annonce « en ligne » dont la date de publication est à venir (approbation tirée d'avance) n'est pas encore en ligne pour William
+    plateformes = [{"nom": a["plateforme"], "etat": ETATS_ANNONCES.get(a["etat"] if not (a["etat"] == "en_ligne" and not _avant(a["publiee_le"], t)) else "moderation", a["etat"])}
+                   for a in annonces.annonces()]
     noms_poles = {p["id"]: p["nom"] for p in lire_csv(POLES)}
     noms_poles["central"] = "Agent central"
     agents = [{"pole": noms_poles.get(a["pole"], a["pole"]), "agent": a["agent"], "statut": a["statut"], "note": a["note"]}

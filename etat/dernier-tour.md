@@ -1,34 +1,34 @@
 # Dernier tour montré au joueur
 
-> Tour n° 17 ; horloge 19/07/2041 03:14 -> 19/07/2041 04:06 ; enregistré le 27/10/2026 15:37 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 18 ; horloge 19/07/2041 04:06 -> 19/07/2041 11:42 ; enregistré le 27/10/2026 15:43 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Pour encore plus d'optimisation, je décide directement de connecter Claude, cet agent, au pôle ressources humaines de l'application gestion. Et je décide maintenant que chaque pôle aura son propre agent et en finalité, il y aura un agent central qui examinera toutes les réponses. Je suis prêt à mettre le prix toujours dans mon budget de 1000 euros mensuel maximum. Comme ça, au moins, tout passera par une seule et même application et ce sera beaucoup plus optimisé.
+> Je vais me coucher et puis go !
 
 ## Texte envoyé au joueur
 
-**VENDREDI 19 JUILLET 2041 — 04h06 — Audun-le-Tiche, chez William**
+**VENDREDI 19 JUILLET 2041 — 11h42 — Audun-le-Tiche, chez William**
 
-Tu ne dors toujours pas. À 03h20, tu écris à Claude : tu le connectes directement au pôle RH de Gestion, et chaque pôle aura son propre agent ; à la fin, un agent central examinera toutes les réponses. Tu es prêt à mettre le prix, toujours dans ton budget de 1 000 € par mois au maximum : tout passera par une seule application, ce sera beaucoup plus optimisé. À 03h24 :
+À 04h15, tu fermes l'ordinateur, tu éteins le téléphone côté écran et tu te couches ; le sommeil te prend presque aussitôt. Dehors, la lumière du matin gagne le toit, puis des averses courtes se mettent à crépiter sur les tuiles. Tu ne les entends pas.
 
-« Compris. Une fois connecté, j'écris mes dossiers et mes notes RH directement dans Gestion. Ce que je fais par l'application est facturé à l'usage sur le budget d'API ; l'abonnement Pro continue pour nos échanges directs. Estimation : 30 à 90 € par mois pour le seul pôle RH ; avec les cinq pôles et l'agent central, 150 à 400 € par mois, sous ton plafond de 1 000 €. »
+Tu te réveilles à 11h40, la chambre tiède, les volets laissant passer un jour gris. Sur ton téléphone, un message de Claude arrivé à 09h55 :
 
-Tu reprends le code. L'autorisation d'accès de Claude, l'écran des agents, le compteur de consommation. L'ordinateur est brûlant sous tes doigts, une lumière grise commence à monter derrière les volets. À 04h02, la version 0.2 s'installe. Dans le tableau, une nouvelle section « Agents » : Claude, connecté au pôle RH ; les agents des pôles juridique, finance, technique et commercial, à créer ; l'agent central, à créer, qui examinera les réponses de tous les pôles avant qu'elles te parviennent. À 04h04 :
+« Jean-Baptiste Tuo : entretien terminé, note de réseau 71 sur 100, au-dessus du seuil de 70. Réseau utile : 27 sur 30. Environ trente-quatre propriétaires ou entreprises, près de six sur dix joints jusqu'au décideur, quatre sur dix à facture d'électricité élevée. Pertinence pour le solaire : 19 sur 25. Accès réel : 6 sur 20, aucune introduction déjà faite dans un projet comparable. Fiabilité : 12 sur 15, ses références restent difficiles à joindre. Disponibilité et motivation : 7 sur 10. Il se dit prêt à viser un jour un poste de direction et fait la leçon sur la manière de gérer l'argent d'un projet.
 
-« Connecté au pôle RH de Gestion. Mes entretiens en cours continuent ; mes notes arriveront dans l'application. Les agents des quatre autres pôles et l'agent central restent à créer. »
+J'ai demandé son numéro personnel à 09h40. Il a répondu poliment à 09h51 qu'il préfère continuer par écrit sur la plateforme pour l'instant. Je ne force pas. Je peux lui proposer ton numéro ou un appel organisé par mes soins : cela touche ton identité, dis-moi. Hervé Touré : deuxième message envoyé à 08h30, pas encore de réponse. Facebook, Instagram et Reddit : rien de nouveau. »
 
-Il est 04h06. Tu es debout depuis jeudi matin : les paupières lourdes, les mains qui tapent un peu à côté des touches.
+Il est 11h42.
 
 ---
 
 **Réponses attendues**
-- **Claude** (ton agent IA, pôle ressources humaines) : le prochain rapport, demain à 18h00 ; la note des profils selon le nouveau barème.
-- **Instagram** : la vérification de ton identité, sous 24 heures.
+- **Claude** (ton agent IA, pôle ressources humaines) : ta décision sur le numéro de Jean-Baptiste Tuo ; sinon, le prochain rapport, aujourd'hui à 18h00.
+- **Instagram** : la vérification de ton identité, sous 24 heures (envoyée à 00h40).
 - **Ministère de l'Éducation** (info@men.lu) : ton courriel de mardi à 12h14 n'a pas de réponse.
 
 **À faire / à fournir avant le tour suivant**
-- **Gestion, version 0.2** : les agents des pôles juridique, finance, technique et commercial, l'agent central et la messagerie de dépôt restent à construire.
+- Dire à Claude s'il peut proposer ton numéro à Jean-Baptiste Tuo, ou organiser un appel à ta place.
 
 **Quêtes secondaires**
 - Rien en suspens en dehors de ce que tu as déjà noté.
