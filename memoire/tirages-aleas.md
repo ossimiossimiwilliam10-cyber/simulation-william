@@ -2960,3 +2960,17 @@ Effets à jouer : A23 (dimanche 21/07 (matin)) : Très courant ; William voit le
 - Tirage [T17] « Maïmouna Koné face au deuxième message de l'agent IA (entretien : réseau, références, date de retour possible) » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  76.5 → **mefiance** (enregistré le 27/10/2026 16:01 heure machine)
 
 - Tirage [T10] « Maïmouna Koné : délai (réponse de Maïmouna Koné (profil A, diaspora, Toulouse) au deuxième message de l) » : immediat 1 / rapide 11 / dans_l_heure 15 / dans_la_journee 25 / le_soir_ou_lendemain 30 / plus_tard_ou_jamais 18 ; modificateurs : M70, M72 ; jet  79.6 → **le_soir_ou_lendemain** (enregistré le 27/10/2026 16:01 heure machine)
+
+- Tirage [T17] « Brice Tapé face au deuxième message de l'agent IA (entretien : réseau, références, date de retour envisageable) » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  80.1 → **mefiance** (enregistré le 27/10/2026 16:16 heure machine)
+
+- Tirage [T17] « Jonathan Ouattara face au premier message d'entretien de l'agent IA (profil B, LinkedIn international) » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  64.8 → **ignore** (enregistré le 27/10/2026 16:16 heure machine)
+
+- Tirage [T17] « Mohamed Coulibaly face au premier message d'entretien de l'agent IA (profil B, groupes de la diaspora) » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet   4.6 → **poli_bref** (enregistré le 27/10/2026 16:16 heure machine)
+
+- Tirage [T17] « Kader Assi face au premier message d'entretien de l'agent IA (profil B, groupes de la diaspora) » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet   9.7 → **poli_bref** (enregistré le 27/10/2026 16:16 heure machine)
+
+- Tirage [T10] « Brice Tapé : délai (réponse de Brice Tapé (profil A, diaspora, Atlanta) au deuxième message de l'ent) » : immediat 1 / rapide 11 / dans_l_heure 15 / dans_la_journee 25 / le_soir_ou_lendemain 30 / plus_tard_ou_jamais 18 ; modificateurs : M70, M72 ; jet   4.3 → **rapide** (enregistré le 27/10/2026 16:16 heure machine)
+
+- Tirage [T10] « Mohamed Coulibaly : délai (réponse de Mohamed Coulibaly (profil B, banquier à Bruxelles) au premier message) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet   3.1 → **immediat** (enregistré le 27/10/2026 16:16 heure machine)
+
+- Tirage [T10] « Kader Assi : délai (réponse de Kader Assi (profil B, ingénieur à Marseille) au premier message de l') » : immediat 7 / rapide 18 / dans_l_heure 15 / dans_la_journee 25 / le_soir_ou_lendemain 25 / plus_tard_ou_jamais 10 ; modificateurs : M70 ; jet   4.4 → **immediat** (enregistré le 27/10/2026 16:16 heure machine)

@@ -31,3 +31,4 @@
 
 ## Historique
 - 19/07/2041 : fiche créée (tirage du générateur).
+- 19/07/2041, 18h03 : premier message d'entretien de l'agent IA (T17 : ignore : pas de réponse).

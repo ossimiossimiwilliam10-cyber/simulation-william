@@ -1,53 +1,36 @@
 # Dernier tour montré au joueur
 
-> Tour n° 20 ; horloge 19/07/2041 11:58 -> 19/07/2041 16:46 ; enregistré le 27/10/2026 16:06 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 21 ; horloge 19/07/2041 16:46 -> 19/07/2041 18:03 ; enregistré le 27/10/2026 16:18 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je m'assois là et je décide de donner une consigne au pôle ressources humaines virtuelles d'étendre encore plus la recherche. De maintenant s'intéresser aux profils qui souhaiteraient, genre, par exemple, des gens de la diaspora, qui souhaiteraient, genre, retourner en Côte d'Ivoire. Même pas avec la diaspora, mais partout dans le monde, en fait. et Go aussi
+> Ok, je voulais juste te dire quelque chose, c'est qu'il y a de fortes chances que ma limite d'utilisation soit atteinte avec toi. Et quand ça arrive, en fait, pour continuer la simulation, je passe sur Gemini, notamment via Anti-Gravity. Le problème, c'est qu'il n'est pas aussi puissant que toi, donc il peut faire des erreurs et tout. C'est juste pour te prévenir, voilà, que quand ça va s'arrêter, quand ma limite sera atteinte, je passerai sur Anti-Gravity et il faut que lui, à ce moment-là, il soit capable de reprendre, en fait, la simulation le mieux que possible. Il faut vraiment, voilà, c'est juste pour préciser ça. Je crois qu'un système est déjà en place d'ailleurs pour cela. Mais bon, c'est juste pour que tu le notes. GO
 
 ## Texte envoyé au joueur
 
-**VENDREDI 19 JUILLET 2041 — 16h46 — Audun-le-Tiche, chez William**
+📌 **Vraie vie** : noté. Si ta limite d'utilisation est atteinte, Gemini reprend dans Antigravity : la passation est prête (guide de reprise dans `outils/LISEZMOI.md` § 7, consigne dans `GEMINI.md`, note dans `etat/relais-notes.md`), et chaque tour est enregistré dans `master`.
 
-À midi, tu descends dans la cuisine pieds nus, le parquet de l'escalier craque à chaque marche, et tu t'assois devant le téléphone, un verre d'eau à côté. Tu donnes ta consigne au pôle ressources humaines : étendre encore la recherche. Les profils de la diaspora qui voudraient retourner en Côte d'Ivoire, et même au-delà de la diaspora : des gens partout dans le monde. Puis « Go ». À 12h04 :
+**VENDREDI 19 JUILLET 2041 — 18h03 — Audun-le-Tiche, chez William**
 
-« Compris. J'étends la recherche à la diaspora ivoirienne et au monde entier, par trois canaux : une version de l'annonce en français et en anglais sur LinkedIn, publiée depuis ton profil sans ton nom dans le texte ; les groupes Facebook de la diaspora ivoirienne ; les réseaux d'anciens d'écoles d'ingénieurs et d'associations. Je ne promets ni relocalisation ni salaire. Le barème sur 100 et le seuil de 70 ne changent pas ; pour un candidat de l'étranger, j'ajoute la question du retour : quand, avec quelle famille, sous quel statut. Je te préviens dès qu'un profil de niveau A arrive. »
+Tu laisses le sac de sport dans l'entrée, les gants à sécher sur le dossier d'une chaise, et tu bois un grand verre d'eau au robinet. La pluie frappe la fenêtre de la cuisine par rafales, et du linge mouillé monte une odeur de cave. Tu lances une machine avec le short, la serviette et le t-shirt trempé de sueur, puis tu t'allonges sur le canapé, les mollets lourds après les squats. Vers 17h30 tu sors de quoi préparer le repas du soir.
 
-À 12h32 :
+À 18h00, le téléphone vibre sur l'accoudoir :
 
-« Annonce version 3, en français et en anglais, ouverte à la diaspora et au monde entier : en ligne sur LinkedIn depuis 12h32. Le fichier est dans tes documents. »
+« Rapport de 18h00.
+LinkedIn : 743 impressions, dont 296 pour la version internationale depuis 12h32. Educarriere.ci : 247 vues. NovoJob : 441 vues. CoinAfrique : 118 vues. Kosafi Annonce CI : 64 vues. Groupes Facebook d'Abidjan : approuvée à 17h23, 214 vues. Groupes de la diaspora : 389 vues depuis 13h36. Réseaux d'anciens et associations : demande envoyée à 13h10, pas encore acceptée. Instagram : vérification en cours. Indeed : le justificatif d'entreprise est toujours attendu.
+Sept réponses depuis hier à 18h00 : deux de niveau A, trois de niveau B, deux de niveau C. Au total depuis la publication : quatorze.
+Niveau A. Maïmouna Koné : pas de nouvelle depuis son message de 16h01 ; deuxième message envoyé à 16h08. Brice Tapé a répondu à 17h36, brièvement : technicien supérieur en électrotechnique, installé à Atlanta depuis 2012, il dirige depuis treize ans des équipes de pose de centrales photovoltaïques sur des toitures de commerces ; rentrer serait une décision de famille. Deuxième message envoyé à 17h42 : réseau d'entreprises en Côte d'Ivoire, références, date de retour envisageable.
+Niveau B, premier message d'entretien envoyé à 18h03. Jonathan Ouattara (LinkedIn international, 12h44) : 48 ans, commercial en entreprises à Paris, vingt ans d'expérience, références vérifiables. Mohamed Coulibaly (groupes de la diaspora, 14h07) : 40 ans, banquier à Bruxelles, huit ans d'expérience, références vérifiables. Kader Assi (groupes de la diaspora, 16h47) : 44 ans, ingénieur en énergie à Marseille, dix-sept ans d'expérience, références introuvables ou évasives.
+Niveau C. Solange Gnagne (Facebook, 17h51) : employée de bureau, 58 ans, quinze ans d'expérience, hors profil. Boubacar Sylla (LinkedIn international, 16h49) : profil récent, aucune référence joignable ; après mon accusé de réception, il a demandé 300 € de « frais de mise en relation ». Je n'ai pas répondu.
+Jean-Baptiste Tuo a ton numéro depuis 11h53 ; pas de message de sa part pour l'instant. Hervé Touré n'a pas répondu à mon deuxième message de 08h30.
+Je n'ai rien promis ni chiffré, et je n'ai donné ton nom à personne. Prochain rapport demain à 18h00. »
 
-Tu manges vers 12h40 du riz de la veille réchauffé avec une boîte de maquereaux et une tomate coupée en quartiers, debout contre le plan de travail, puis tu rinces l'assiette et tu remplis le sac de sport : serviette, gants, short de rechange. À 13h12, pendant que tu lasses tes chaussures dans l'entrée :
-
-« Groupes Facebook de la diaspora ivoirienne : annonce soumise à 12h48, en attente des administrateurs. Réseaux d'anciens et associations : demande envoyée à 13h10. »
-
-Tu pars à 13h20. La pluie arrive avant Esch, des averses qui lavent le pare-brise puis s'arrêtent sans prévenir, l'asphalte fume. À 13h37, devant le club, tu coupes le moteur ; l'écran s'allume dans le support :
-
-« Groupes de la diaspora : approuvée par les administrateurs à 13h36, en ligne. »
-
-Dans la salle, le toit en tôle résonne sous les gouttes et les ventilateurs industriels brassent un air lourd. Le tableau blanc des cours d'été a la moitié de ses créneaux barrés ; il n'y a que deux types au plateau de musculation et le ring est bâché. Thiago Alves, le coach, te lance un « salut » sans lever la tête de son carnet. Tu mets le téléphone dans le casier avec le reste, et tu t'échauffes à partir de 13h50.
-
-Squats, puis soulevé de terre. Thiago vient corriger tes hanches ; il garde une main plaquée au bas du dos pendant qu'il parle, ne charge rien lui-même cette semaine et finit par lâcher un « devagar » quand tu rajoutes des disques. Arthur Kieffer arrive vers 14h20 en poussant son vélo, trempé, le casque à la main : sa voiture est toujours chez le garagiste, il attend la pièce. À partir de 14h50, sacs de frappe puis trois reprises de pattes d'ours avec lui, que tu prends lourdement dans les avant-bras. À 15h50 tu t'étires, les jambes sont lourdes, et tu files à la douche.
-
-À 16h12, assis sur le banc du vestiaire, la serviette sur les épaules, tu ouvres le casier. Il y a deux messages de Claude. À 15h07 :
-
-« Profil de niveau A via les groupes de la diaspora : Maïmouna Koné, 54 ans, docteure en génie électrique, enseignante-chercheuse à Toulouse depuis vingt-huit ans, références vérifiables. Premier message d'entretien envoyé à 15h07. Je n'ai pas donné ton nom. »
-
-Et à 16h08 :
-
-« Maïmouna Koné a répondu à 16h01. Installée en France depuis ses études, à 19 ans ; maîtresse de conférences, elle dirige une petite équipe de recherche sur le raccordement du photovoltaïque aux réseaux et conseille deux collectivités. Rentrer en Côte d'Ivoire lui trotte dans la tête depuis dix ans, mais elle cherche d'abord une évolution que son université ne lui offre pas. Elle demande si le poste serait salarié ou en parts ; j'ai répondu que cela se discute avec le porteur du projet après le tri. Deuxième message envoyé à 16h08 : réseau d'entreprises en Côte d'Ivoire, références, date de retour envisageable. Note de réseau à la fin de l'entretien. »
-
-Tu t'habilles, tu remets le sac sur l'épaule. Thiago a déjà quitté la salle, la main toujours posée sur le bas du dos. Dehors, la pluie a repris et tu roules vers Audun les essuie-glaces au maximum. À 16h34, l'écran s'allume dans le support ; tu ne lis pas en conduisant.
-
-Tu te gares devant chez toi à 16h46. Le message est toujours à l'écran :
-
-« Profil de niveau A via LinkedIn : Brice Tapé, 51 ans, technicien supérieur en électrotechnique installé à Atlanta, treize ans de métier dans l'installation de centrales photovoltaïques, références vérifiables. Premier message d'entretien envoyé à 16h34. Je n'ai pas donné ton nom. »
+Il est 18h03.
 
 ---
 
 **Réponses attendues**
-- **Claude** (ton agent IA, pôle ressources humaines) : les entretiens avec Maïmouna Koné (deuxième message envoyé à 16h08) et Brice Tapé (premier message à 16h34) ; prochain rapport aujourd'hui à 18h00.
+- **Claude** (ton agent IA, pôle ressources humaines) : les entretiens avec Maïmouna Koné (deuxième message envoyé à 16h08), Brice Tapé (deuxième message à 17h42) et, depuis 18h03, Jonathan Ouattara, Mohamed Coulibaly et Kader Assi ; prochain rapport demain à 18h00.
 - **Jean-Baptiste Tuo** : il a ton numéro depuis 11h53 ; rien pour l'instant.
 - **Instagram** : la vérification de ton identité, sous 24 heures (envoyée à 00h40).
 - **Ministère de l'Éducation** (info@men.lu) : ton courriel de mardi à 12h14 n'a pas de réponse.

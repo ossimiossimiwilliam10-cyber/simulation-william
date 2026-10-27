@@ -31,3 +31,4 @@
 
 ## Historique
 - 19/07/2041 : fiche créée (tirage du générateur).
+- 19/07/2041, 17h51 : répond à l'annonce sur Facebook ; niveau C, hors profil ; aucun message de l'agent.

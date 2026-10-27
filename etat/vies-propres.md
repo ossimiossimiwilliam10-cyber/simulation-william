@@ -122,7 +122,7 @@
 - **Derniers événements** : —
 
 ### Maïmouna Koné (répondant à l'annonce)
-- **Lien avec William** : contact_recent (whatsapp)
+- **Lien avec William** : aucun (whatsapp)
 - **Objectif** : obtenir une promotion ou un poste plus stable ; **souci** : voisin bruyant ; **foyer** : vit seul(e)
 - **Secret (moteur seulement)** : —
 - **Horaires** : règle « enseignant », fuseau luxembourg, décalage -15 min ; travail 07:45-15:45 (lun, mar, mer, jeu, ven), trajet 45 min ; sommeil 22:45-06:15
