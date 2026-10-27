@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 27/10/2026 22:38 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 27/10/2026 22:45 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : vendredi 26/07/2041 08:00 (luxembourg, UTC+2)
+## Horloge : vendredi 26/07/2041 10:30 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 06:00 ; lisbonne 07:00 ; mindelo 05:00 ; casablanca 07:00 ; douala 07:00 ; addis 09:00 ; manille 14:00 ; paris 08:00 ; seoul 15:00 ; bresil 03:00
+- **Heure dans les autres lieux** : abidjan 08:30 ; lisbonne 09:30 ; mindelo 07:30 ; casablanca 09:30 ; douala 09:30 ; addis 11:30 ; manille 16:30 ; paris 10:30 ; seoul 17:30 ; bresil 05:30
 - **En attente de William** :
-  - Déroulement de la matinée (détente, préparation) ou avance rapide vers la séance de combat au club / l'entretien avec Mohamed Coulibaly (18h30)
+  - Validation du déplacement à Abidjan (12-24 août), ciblage villa QG Cocody et avance rapide vers la séance de MMA ou l'entretien de 18h30
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 464,70 €**
@@ -40,3 +40,5 @@
 > # Vendredi 26 juillet 2041 — univers 3, onzième jour
 > - **00h00-08h00** (tour n° 53) : nuit paisible de 7h45 (23h30-07h15) ; réveil en pleine forme ; grand soleil (16 °C / 28 °C) ; programme du jour : MMA au Minett Combat Club l'après-midi (I1), entretien décisif en visio avec Mohamed Coulibaly à 18h30 (A091), 7e rapport quotidien à 20h00 (A092)
 > - Tour en cours à 08h00, en attente de William : **Déroulement de la matinée (détente, préparation) ou avance rapide vers la séance de combat au club / l'entretien avec Mohamed Coulibaly (18h30)**.
+> - **08h00-10h30** (tour n° 54) : consultation stratégique avec le DG virtuel sur le voyage à Abidjan et le QG ; note stratégique remise (D020) : déplacement recommandé du 12 au 24 août (fermeture du club de MMA), ciblage villa mixte à Cocody Deux-Plateaux, budget démarrage 25 155 € (16,5 M FCFA), rappel Article 14
+> - Tour en cours à 10h30, en attente de William : **Validation du déplacement à Abidjan (12-24 août), ciblage villa QG Cocody et avance rapide vers la séance de MMA ou l'entretien de 18h30**.
