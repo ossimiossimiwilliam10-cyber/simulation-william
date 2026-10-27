@@ -1,57 +1,55 @@
 # Dernier tour montré au joueur
 
-> Tour n° 38 ; horloge 22/07/2041 20:06 -> 22/07/2041 20:25 ; enregistré le 27/10/2026 19:33 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 39 ; horloge 22/07/2041 20:25 -> 22/07/2041 20:35 ; enregistré le 27/10/2026 19:42 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je décide maintenant de prendre un moment de ma soirée pour en fait m'entretenir avec mon directeur général virtuel sur le type de contrat qu'on va éventuellement proposer
+> Alors, concernant le premier point, on part sur l'option A.
 
 ## Texte envoyé au joueur
 
-📌 **Vraie vie** : « Koulibaly » = Coulibaly.
+**LUNDI 22 JUILLET 2041 — 20h35 — Audun-le-Tiche, chez toi**
 
-**LUNDI 22 JUILLET 2041 — 20h25 — Audun-le-Tiche, chez toi**
+Toujours installé à la table de la cuisine, ton téléphone en main, tu tranches sans hésiter sur le premier point : vous partez sur l'option A, le mandat social pur de Directeur Général de SAS, sans contrat de travail salarié.
 
-Tu t'installes à la table de la cuisine avec ton téléphone pour prolonger l'échange avec ton directeur général virtuel. La soirée est douce, l'air s'est apaisé à l'extérieur et la maison reste silencieuse.
+Le directeur général virtuel intègre aussitôt ton arbitrage et te répond dans l'application à 20h30 :
 
-Tu dictes tes instructions dans l'application Gestion : tu souhaites préparer dès maintenant le contrat du futur directeur général réel, en te concentrant sur le groupe de tête — Mohamed Coulibaly (91), Mariam Brou (88) et Kader Assi (84). Tu demandes d'aborder la construction de ce contrat point par point, en fixant un cadre exigeant orienté vers la productivité et permettant une séparation rapide sans lourdeurs en cas de sous-performance, avant de soumettre l'ensemble à l'équipe juridique. Dans le même temps, le choix du cabinet d'avocats étant acté, tu ordonnes de t'introduire directement auprès de Me Ismaël Gnamien en lui transmettant ton numéro de téléphone personnel, afin qu'il sache clairement qui est le décisionnaire final et le propriétaire derrière le projet.
+« C'est validé pour le **Point 1 : Mandat social pur de Directeur Général de SAS** (Option A).
+Ce choix sécurise ton autorité : aucune juridiction prud'homale ivoirienne compétente en cas de litige, révocation ad nutum par décision de l'associé unique, et absence d'indemnités légales de licenciement obligatoires. Me Gnamien inscrira cette modalité dans les projets de statuts et le mandat social.
 
-À 20h12, le directeur général virtuel te répond dans l'application :
+Passons au **Point 2 : Structure et niveau de rémunération (Fixe + Variable axé productivité)**.
+Pour attirer un profil d'élite comme Mohamed Coulibaly (actuellement cadre supérieur chez un distributeur/fabricant) ou Mariam Brou tout en préservant ta trésorerie d'amorçage (60 000 € sur la première tranche), trois formules de mandat social sont concevables :
 
-« C'est bien noté sur les deux aspects.
+- **Formule 1 : Fixe modéré + Fort intéressement sur encaissements (Forte incitation commerciale)**
+  - Rémunération fixe : 2 000 000 FCFA net/mois (≈ 3 050 €).
+  - Variable : 2,5 % du chiffre d'affaires HT encaissé sur les projets signés et installés + prime de surperformance annuelle de 5 000 000 FCFA (≈ 7 600 €) en cas d'atteinte de 100 % de l'objectif annuel de puissance raccordée (ex. 500 kWc).
+  - *Avantage* : impact modéré sur le cash-flow mensuel ; potentiel de gain global très élevé pour le dirigeant (pouvant dépasser 4,5 M FCFA/mois s'il performe).
+- **Formule 2 : Fixe élevé + Variable modéré (Profil senior sécurisé)**
+  - Rémunération fixe : 3 000 000 FCFA net/mois (≈ 4 575 €).
+  - Variable : 1 % du chiffre d'affaires HT encaissé + bonus annuel équivalent à 2 mois de fixe conditionné à la marge nette globale.
+  - *Avantage* : attractivité immédiate maximale pour débaucher un cadre très établi, mais charge fixe lourde sur le budget de départ (36 M FCFA/an de fixe garanti).
+- **Formule 3 : Évolutive avec palier de démarrage (Formule de montée en puissance)**
+  - Période d'amorçage (mois 1 à 6) : 1 800 000 FCFA net/mois (≈ 2 745 €) + 3 % sur la marge brute des premières affaires.
+  - Période de croisière (dès le 7e mois, sous réserve d'atteinte des premiers jalons) : passage automatique à 2 500 000 FCFA net/mois (≈ 3 810 €) + 2 % sur le chiffre d'affaires HT encaissé.
+  - *Avantage* : minimise le risque financier sur la phase de prospection initiale et teste la motivation réelle du candidat avant d'engager le plein régime.
 
-Pour le cabinet Gnamien :
-Un courriel formel d'introduction est préparé à l'attention de Me Ismaël Gnamien. Conformément aux exigences de l'article 14 de ton statut luxembourgeois (qui t'interdit toute fonction de gestion et d'administration effective), nous te présentons formellement comme **l'investisseur unique et associé majoritaire** du projet. Nous lui transmettons ton nom complet et ton numéro de téléphone direct (+352 ...), en lui précisant que tu détiens l'intégralité du pouvoir d'arbitrage financier et stratégique pour la validation de la lettre de mission et la signature des actes. Le cabinet sait ainsi qu'il traite directement avec le propriétaire du capital pour les décisions de haute importance, tout en respectant l'étanchéité réglementaire requise par ton ministère.
-
-Pour la contractualisation du futur Directeur Général réel :
-Comme demandé, nous procédons point par point pour bâtir un cadre solide, attractif mais protecteur de ton capital, avant de le transmettre à Me Gnamien.
-
-Voici le **Point 1 : Nature juridique de la fonction (Mandat social pur vs Salariat)**.
-Sous le traité OHADA régissant les SAS en Côte d'Ivoire, deux statuts juridiques principaux sont envisageables :
-- **Option A : Mandat social pur de Directeur Général (recommandée pour la flexibilité)**.
-  Le dirigeant n'est pas salarié. Il est nommé mandataire social par l'associé unique (toi). Avantages : révocation possible à tout moment (ad nutum ou selon les conditions statutaires), aucune indemnité de licenciement légale obligatoire en dehors de ce qui est expressément négocié, et compétence exclusive du Tribunal de commerce en cas de litige (aucun risque de blocage devant le Tribunal du travail ivoirien). Sa rémunération prend la forme d'une rémunération de mandat.
-- **Option B : Salariat cadre dirigeant (soumis au Code du travail ivoirien)**.
-  Le dirigeant bénéficie d'un contrat de travail salarié de droit ivoirien. Inconvénients majeurs : procédure de licenciement encadrée (motif économique ou personnel légitime obligatoire), préavis légal de trois mois, indemnités de licenciement et risque de recours devant les prud'hommes d'Abidjan pour rupture abusive.
-- **Option C : Mandat social assorti d'une convention de direction sur objectifs**.
-  Statut de mandataire social pur (Option A), complété par une convention bilatérale d'objectifs commerciaux : si les seuils minimaux de chiffre d'affaires ne sont pas atteints sur deux trimestres consécutifs, le mandat est révoqué automatiquement sans indemnité compensatoire.
-
-Quel statut choisis-tu pour ce premier point ? Dès ton arbitrage, nous aborderons le Point 2 (structure de rémunération fixe / variable). »
+Quelle formule de rémunération retiens-tu pour ce Point 2 ? (Dès ton retour, nous enchaînerons sur le Point 3 : période probatoire initiale et clauses de révocation). »
 
 ---
 
-Il est 20h25.
+Il est 20h35.
 
 ---
 
 **Réponses attendues**
-- **Directeur général virtuel** : ton choix sur le **Point 1** du contrat du futur directeur général (Option A : mandat social pur, Option B : salariat cadre dirigeant, ou Option C : mandat social avec convention d'objectifs de rupture).
+- **Directeur général virtuel** : ton choix sur le **Point 2** (structure et niveau de rémunération : Formule 1, Formule 2 ou Formule 3).
 
 **À faire / à fournir avant le tour suivant**
-- Trancher la nature juridique du contrat du directeur général réel.
+- Trancher la formule de rémunération du Directeur Général réel.
 
 **Quêtes secondaires**
-- Envoi du courriel d'introduction à Me Gnamien avec tes coordonnées directes d'associé majoritaire.
 - Retours des référents professionnels pour Mohamed Coulibaly et Mariam Brou par le pôle RH.
+- Préparation de la lettre de mission par le cabinet de Me Gnamien.
 - Prochain rapport quotidien du directeur général virtuel demain mardi 23 juillet à 20h00 (A086).
 
 Que veux-tu faire ?
