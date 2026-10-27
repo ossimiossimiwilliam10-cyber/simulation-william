@@ -36,5 +36,12 @@
 - **Lorraine (Audun-le-Tiche, Moselle)** : Ouverture d'un nouveau parc de covoiturage pour frontaliers par la communauté de communes du Pays-Haut.
 - **Météo** : Semaine ensoleillée et chaude, températures maximales entre 25 °C et 28 °C sur le bassin d'Esch-Belval / Audun-le-Tiche.
 
-## 5. Décisions de l'utilisateur (à compléter dès sa réponse)
-*(En attente de la réponse de William)*
+## 5. Décisions de l'utilisateur (validé le 27/10/2026 en date réelle)
+- **Validation intégrale** : « Je valide tout ! »
+- **R6 (Table T25 : Réponses à une annonce publique d'emploi)** : adoptée et active.
+- **R7 (Réponses de l'administration luxembourgeoise MENJE)** : adoptée et active.
+- **Pack d'aléas actifs** : pack luxembourgeois/européen confirmé actif. Tirage de la semaine du 22/07/2041 exécuté (A23 lundi soir, A25 mercredi matin).
+- **Idées I1 à I4** : prises en compte pour le déroulement de la semaine.
+- **Message spontané d'un proche** : Lenny Nguyen (Minett Combat Club) tiré pour le samedi 27/07 vers 11h50.
+
+

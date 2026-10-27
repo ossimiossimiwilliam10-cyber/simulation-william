@@ -4094,3 +4094,36 @@ Effets à jouer : A23 (dimanche 21/07 (matin)) : Très courant ; William voit le
 - Tirage [T5] « affaire_projet_ci_art14 : fuite, semaine du 15/07 (21/07) » : fuite_externe 1 / fuite_interne 3 / aucune 96 ; modificateurs : aucun ; jet  82.1 → **aucune** (enregistré le 27/10/2026 18:38 heure machine)
 
 - Actualités de la semaine du 22/07/2041 : modèles LU02, LU04, FR02 [PROCÉDURE : outils/actualites.py] (enregistré le 27/10/2026 18:59 heure machine)
+
+## Tirage de la semaine du 2041-07-22
+
+| ID | Événement | Probabilité | Jet (0-100) | Résultat |
+|---|---|---|---|---|
+| A02 | Problème de santé d'un proche d'un personnage (ex. mère d'Aïcha, tension) | 8 % |  19.1 | non |
+| A07 | Panne réseau (fibre, 4G) ou banque en ligne | 15 % |  69.2 | non |
+| A09 | Erreur administrative (virement mal affecté, pièce perdue, nom mal orthographié) | 10 % |  21.9 | non |
+| A12 | Fuite d'information (salaires, avances, statut de William) | 5 % |  41.4 | non |
+| A13 | Opportunité commerciale inattendue (recommandation, appel d'un prospect) | 10 % |  43.2 | non |
+| A17 | William lui-même malade ou épuisé (fatigue, gastro) | 5 % |  47.8 | non |
+| A18 | Incident de transport (taxi, panne, retard) | 15 % |  70.4 | non |
+| A19 | Rhume, angine ou gastro de William | 5 % |  30.1 | non |
+| A20 | Perturbation des trajets frontaliers (bus en retard, A4 ou N4 bouchée, travaux) | 20 % |  28.2 | non |
+| A21 | Panne domestique (chauffe-eau, électroménager, fuite) | 4 % |  29.9 | non |
+| A22 | Courrier administratif (impôts français ou luxembourgeois, CNS, mairie, banque) | 10 % |  68.3 | non |
+| A23 | Tentative d'arnaque (SMS de faux colis, faux conseiller bancaire, faux site) | 15 % |  15.0 | **DÉCLENCHÉ** — lundi 22/07 (soir) |
+| A24 | Souci de voisinage (bruit, travaux, haie, stationnement) | 5 % |  91.6 | non |
+| A25 | Blessure légère à l'entraînement (entorse, côte, doigt) | 1 % |   0.7 | **DÉCLENCHÉ** — mercredi 24/07 (matin) |
+| A26 | Imprévu d'argent (amende, réparation, cadeau, cotisation) | 6 % |  69.1 | non |
+| A27 | Signe d'un ancien (collègue, élève devenu adulte, connaissance) | 8 % |  73.3 | non |
+| A28 | Courriel ou appel du lycée pendant les vacances (réunion de rentrée, ajournements, emploi du temps) | 10 % |  40.4 | non |
+| A29 | Contrôle routier ou radar | 3 % |  42.3 | non |
+| A30 | Occasion inattendue (proposition de cours particuliers, invitation, bon plan) | 8 % |  32.4 | non |
+| A31 | Diarrhée du voyageur ou intoxication alimentaire (à l'étranger) | 12 % |  92.1 | non |
+| A35 | Surfacturation ou arnaque visant un touriste (taxi, boutique, bar) | 5 % |  69.4 | non |
+| A36 | Malentendu de langue (adresse mal comprise, commande erronée, document en coréen) | 10 % |  51.8 | non |
+
+Effets à jouer : A23 (lundi 22/07 (soir)) : Très courant ; William voit le message et décide ; A25 (mercredi 24/07 (matin)) : ≈ 1,4 blessure pour 1 000 h de MMA (étude de 2025) ; sans objet sans entraînement
+
+- Message spontané d'un proche, semaine du 2041-07-22 : Lenny Nguyen (membre régulier du club (sparring)) écrira le 27/07/2041 vers 11:50 (heure de l'expéditeur) · tiré parmi 38 personnes de l'entourage, pondérées par proximité (enregistré le 27/10/2026 19:08 heure machine)
+
+- Jet « Kader Assi : respect de sa promesse de transmettre deux références » : probabilité 90 %, jet  81.5 → **OUI** (enregistré le 27/10/2026 19:10 heure machine)

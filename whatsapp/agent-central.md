@@ -137,3 +137,26 @@ AFFIRMATIONS VÉRIFIÉES
 - Budget d'API : 31,45 € sur 1 000 € ce mois-ci.
 
 Prochain rapport : demain à 20h00.
+
+**Lundi 22/07/2041, 20:00 — Directeur général virtuel**
+« Rapport final de la journée du lundi 22 juillet 2041 (20h00).
+
+DÉCISIONS
+1. Choix du cabinet d'avocats pour la constitution de la société et la gouvernance : Me Ismaël Gnamien a transmis son devis détaillé ce matin (forfait de 2 100 000 FCFA HT, soit environ 3 200 €, incluant statuts SAS/SARL OHADA, pacte d'associés protégeant l'investisseur non-gérant étranger et contrat du directeur général, contre 2 500 000 FCFA HT pour Me Tano). Valides-tu le choix de Me Gnamien pour engager la mission sous condition suspensive d'identification préalable ? Oui ou non ?
+(Analyse : offre 400 000 FCFA moins chère que Me Tano, expérience confirmée avec des investisseurs étrangers non-gérants, honoraires cohérents avec le marché ; ton nom n'est transmis qu'à la formalisation de la lettre de mission).
+2. Réponse à Kader Assi sur l'identité du porteur du projet : Kader Assi a transmis les coordonnées de ses deux référents (M. Laurent, bureau d'études à Marseille, et M. Vidal, client à Fos), mais demande qui porte le projet et sous quelle forme. L'équipe du projet lui répond-elle en présentant l'initiative sous le libellé « Projet Solaire B2B Abidjan » sans divulguer ton identité personnelle à ce stade ? Oui ou non ?
+(Analyse : cela répond à son souci légitime de sérieux tout en préservant strictement ton anonymat conformément à la règle I30 jusqu'à la vérification concluante de ses références).
+
+AFFIRMATIONS VÉRIFIÉES
+- Me Ismaël Gnamien : « L'obligation d'identification du bénéficiaire effectif (KYC) avant l'ouverture de dossier est imposée aux avocats par la réglementation UEMOA sur la lutte contre le blanchiment (directive UEMOA 02/2015/CM et loi nationale). » → VÉRIFIÉE (art. 5 et 26 de la loi ivoirienne n° 2016-992).
+- Me Félix Tano : « La propriété exclusive de l'installation solaire en toiture reste attachée au propriétaire du bâtiment selon la loi de 2014. » → NON VÉRIFIÉE (le code de l'électricité de 2014 n'interdit pas le régime de tiers-investisseur sous réserve d'une convention de mise à disposition ou d'un bail civil).
+- Parcours et références déclarés : Kader Assi a fourni deux contacts vérifiables (bureau d'études et client industriel) ; Fabrice Koffi a transmis les coordonnées de son ancien responsable technique (M. Komenan). Vérification en cours par courriel officiel.
+
+ÉTAT DES PÔLES
+- Pôle RH virtuel (poste vacant : il décide) : 21 réponses cumulées (flux stabilisé, aucune nouvelle réponse aujourd'hui). Six profils au-dessus du seuil de 70 (Mohamed Coulibaly 91, Mariam Brou 88, Kader Assi 84, Maïmouna Koné 79, Brice Tapé 76, Fabrice Koffi 76). Vérifications des références en cours par courriel professionnel. Aboubacar Kouassi a décliné poliment hier soir (refus net archivé). Jean-Baptiste Tuo (71) reste géré en direct par toi.
+- Pôle juridique virtuel : devis comparatifs bouclés (Me Gnamien 2,1 M FCFA HT / Me Tano 2,5 M FCFA HT). En attente de ton arbitrage pour valider la lettre de mission.
+- Finance, technique, commercial : pôles en veille jusqu'à la signature du Directeur Général opérationnel.
+- Surveillance : tous les messages sortants relus et conformes (règle I30 respectée, signature « L'équipe du projet », aucun nom privé).
+- Budget d'API : 33,80 € sur 1 000 € ce mois-ci.
+
+Prochain rapport : demain à 20h00. »

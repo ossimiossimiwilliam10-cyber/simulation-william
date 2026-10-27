@@ -1,79 +1,66 @@
 # Dernier tour montré au joueur
 
-> Tour n° 35 ; horloge 21/07/2041 20:00 -> 22/07/2041 08:00 ; enregistré le 27/10/2026 19:02 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 36 ; horloge 22/07/2041 08:00 -> 22/07/2041 20:00 ; enregistré le 27/10/2026 19:14 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Go /goal /browser /plan /teamwork /learn /boost
+> Je valide tout ! : 🔄 Revue du lundi n° 1 (hors fiction)
 
 ## Texte envoyé au joueur
 
-**LUNDI 22 JUILLET 2041 — 08h00 — Audun-le-Tiche, chez toi**
+**LUNDI 22 JUILLET 2041 — 20h00 — Audun-le-Tiche, chez toi**
 
-Après le rapport de 20h00, la fin de soirée s'étire paisiblement dans la maison. Tu prépares ton dîner dans la cuisine — une assiette copieuse de bœuf sauté, de riz et de légumes, accompagnée d'une grande carafe d'eau. Les averses de l'après-midi ont fini par s'estomper vers vingt et une heures, laissant le bitume de la rue de la Gare sécher sous la lueur des lampadaires. Le calme règne dans le quartier ; seul le compresseur du réfrigérateur se remet en route par intermittence avec un claquement sec. Tu parcours quelques actualités économiques et les cours boursiers sur ton téléphone, puis tu montes te coucher à 23h20.
+Après ton café du matin, la brume qui stagnait au creux de la vallée se dissipe sous un soleil éclatant. La chaleur s'installe progressivement : le thermomètre passe de 14 °C à l'aube à 24 °C en milieu de journée, faisant tiédir les façades en pierre de la rue de la Gare. Vers 12h30, tu prépares un déjeuner rapide — une omelette de quatre œufs, du fromage blanc et une grande carafe d'eau fraîche — avant de vérifier tes affaires.
 
-Ton sommeil est profond et sans réveil nocturne. Tu ouvres les yeux à 07h25, parfaitement dispos, les articulations souples et le corps reposé. Dehors, un léger voile de brume matinale flotte encore au fond de la vallée entre les façades de pierre, avant d'être dissipé par les premiers rayons du soleil. L'air extérieur est frais — 14 °C au petit matin — sous un ciel entièrement dégagé qui montera jusqu'à 26 °C au fil des heures.
+En début d'après-midi, tu rejoins Esch-sur-Alzette pour ta séance habituelle de MMA au Minett Combat Club. Dans la salle chauffée par les baies vitrées, l'air sent le cuir des sacs et la sueur séchée. La séance de quatre-vingt-dix minutes est rythmée : travail de lutte contre la cage, enchaînements au sol et rounds de sparring technique sous l'œil de Philippe Sinner. Thiago Alves et Arthur Kieffer tournent dans le groupe ; les impacts sont francs, le cardio répond sans fléchir. Tu rentres à Audun vers dix-sept heures trente, le corps délassé par la douche tiède.
 
-Tu enchaînes avec ta routine du matin : un grand verre d'eau fraîche, quelques étirements pour déverrouiller le dos et les épaules, puis un café noir filtre fumant. Sur ton téléphone, aucun appel manqué ni message personnel.
+À 19h42, ton téléphone vibre sur la table de la cuisine. C'est un SMS envoyé d'un numéro en 06 :
+« INFO-LIVRAISON : Votre colis LU-849201 n'a pas pu être acheminé en raison d'un affranchissement insuffisant (1,85 €). Veuillez régulariser avant ce soir sur : https://consigne-relais-suivi.com/lu »
+Une nouvelle tentative d'arnaque au faux colis, calquée sur celle d'hier.
 
-Du côté du projet, l'infrastructure virtuelle a fonctionné sans accroc. Sur LinkedIn, une réponse est parvenue dimanche soir à 21h50 d'Aboubacar Kouassi à Dakar, déclinant la proposition d'échange avec une formule brève : « Bonjour. Merci pour votre retour, mais le projet ne correspond pas à mes attentes. Je ne souhaite pas donner suite. Bonne continuation. » Le pôle RH a classé sa candidature sans impact sur le vivier. Les six profils retenus au-dessus de 70 restent dans le circuit de vérification des références, tandis que la proposition d'honoraires de Me Gnamien est attendue par courriel dans le courant de la matinée.
+À 20h00 précises, l'application Gestion émet son signal sonore discret. Le directeur général virtuel dépose son rapport quotidien :
 
-Comme chaque début de semaine, le moteur ouvre la revue du lundi pour faire le point sur la semaine écoulée, soumettre les nouvelles règles et caler les aléas.
+« Rapport final de la journée du lundi 22 juillet 2041 (20h00).
 
----
+DÉCISIONS
+1. Choix du cabinet d'avocats pour la constitution de la société et la gouvernance : Me Ismaël Gnamien a transmis son devis détaillé ce matin (forfait de 2 100 000 FCFA HT, soit environ 3 200 €, incluant statuts SAS/SARL OHADA, pacte d'associés protégeant l'investisseur non-gérant étranger et contrat du directeur général, contre 2 500 000 FCFA HT pour Me Tano). Valides-tu le choix de Me Gnamien pour engager la mission sous condition suspensive d'identification préalable ? Oui ou non ?
+(Analyse : offre 400 000 FCFA moins chère que Me Tano, expérience confirmée avec des investisseurs étrangers non-gérants, honoraires cohérents avec le marché ; ton nom n'est transmis qu'à la formalisation de la lettre de mission).
+2. Réponse à Kader Assi sur l'identité du porteur du projet : Kader Assi a transmis les coordonnées de ses deux référents (M. Laurent, bureau d'études à Marseille, et M. Vidal, client à Fos), mais demande qui porte le projet et sous quelle forme. L'équipe du projet lui répond-elle en présentant l'initiative sous le libellé « Projet Solaire B2B Abidjan » sans divulguer ton identité personnelle à ce stade ? Oui ou non ?
+(Analyse : cela répond à son souci légitime de sérieux tout en préservant strictement ton anonymat conformément à la règle I30 jusqu'à la vérification concluante de ses références).
 
-**🔄 Revue du lundi n° 1** *(hors fiction)*
+AFFIRMATIONS VÉRIFIÉES
+- Me Ismaël Gnamien : « L'obligation d'identification du bénéficiaire effectif (KYC) avant l'ouverture de dossier est imposée aux avocats par la réglementation UEMOA sur la lutte contre le blanchiment (directive UEMOA 02/2015/CM et loi nationale). » → VÉRIFIÉE (art. 5 et 26 de la loi ivoirienne n° 2016-992).
+- Me Félix Tano : « La propriété exclusive de l'installation solaire en toiture reste attachée au propriétaire du bâtiment selon la loi de 2014. » → NON VÉRIFIÉE (le code de l'électricité de 2014 n'interdit pas le régime de tiers-investisseur sous réserve d'une convention de mise à disposition ou d'un bail civil).
+- Parcours et références déclarés : Kader Assi a fourni deux contacts vérifiables (bureau d'études et client industriel) ; Fabrice Koffi a transmis les coordonnées de son ancien responsable technique (M. Komenan). Vérification en cours par courriel officiel.
 
-**1. Bilan de la semaine écoulée (W29, du 16 au 21 juillet)**
-- **Six jours joués** : redémarrage propre de l'univers 3 le mardi 16/07 à 08h37.
-- **Projet d'entreprise à Abidjan** : cadrage juridique et gouvernance à distance validés (respect de l'article 14 du statut des fonctionnaires luxembourgeois, statut d'associé non-gérant, 300 000 € d'investissement prévisionnel sur trois ans).
-- **Organisation virtuelle** : architecture opérationnelle par agents IA active (Claude Pro, application Gestion sur mobile avec plafond API à 1 000 €/mois, directeur général virtuel, pôle RH virtuel, pôle juridique virtuel).
-- **Recrutement** : annonces publiées sur quatre canaux en Côte d'Ivoire et diaspora ; dix-huit profils analysés. Seuil fixé à 70/100 avec vérification préalable obligatoire de deux références professionnelles par courriel officiel avant toute mise en relation avec William.
-- **Top candidats retenus** : Mohamed Coulibaly (91), Mariam Brou (88), Kader Assi (84), Maïmouna Koné (79), Brice Tapé (76), Fabrice Koffi (76). Candidat géré en direct par William : Jean-Baptiste Tuo (71).
-- **Juridique** : Me Tano (devis 2,5M FCFA HT reçu) ; Me Gnamien (paramètres provisoires transmis sans révéler l'identité de William, devis attendu ce lundi matin).
-- **Règles de sécurité et discrétion** : anonymat de William préservé (numéro privé jamais diffusé, signature « L'équipe du projet » par courriel professionnel). Tentative de smishing SMS du 21/07 (A23) ignorée et supprimée sans suite.
-- **Contrôles et réalisme** : 0 non-conformité, 671 dérogations d'annonces consignées en attente de la table T25 ; tirages T4/T5 du dimanche 21/07 conformes (fuite interne sans gravité, aucune fuite externe). Chasse aux tics et cohérence des fichiers respectées à 100 %.
+ÉTAT DES PÔLES
+- Pôle RH virtuel (poste vacant : il décide) : 21 réponses cumulées (flux stabilisé, aucune nouvelle réponse aujourd'hui). Six profils au-dessus du seuil de 70 (Mohamed Coulibaly 91, Mariam Brou 88, Kader Assi 84, Maïmouna Koné 79, Brice Tapé 76, Fabrice Koffi 76). Vérifications des références en cours par courriel professionnel. Aboubacar Kouassi a décliné poliment hier soir (refus net archivé). Jean-Baptiste Tuo (71) reste géré en direct par toi.
+- Pôle juridique virtuel : devis comparatifs bouclés (Me Gnamien 2,1 M FCFA HT / Me Tano 2,5 M FCFA HT). En attente de ton arbitrage pour valider la lettre de mission.
+- Finance, technique, commercial : pôles en veille jusqu'à la signature du Directeur Général opérationnel.
+- Surveillance : tous les messages sortants relus et conformes (règle I30 respectée, signature « L'équipe du projet », aucun nom privé).
+- Budget d'API : 33,80 € sur 1 000 € ce mois-ci.
 
-**2. À valider par l'utilisateur**
-- **R6 — Table T25 : Réponses à une annonce publique d'emploi**
-  - Modélisation du flux de candidatures par heure et par plateforme (LinkedIn 30 % la 1re heure, Educarriere.ci 55 %, NovoJob 50 %, décroissance horaire de 15 %).
-  - Taux de 12 % de tentatives d'arnaque aux frais d'avance (100 000 à 500 000 FCFA réclamés).
-  - Tri et pré-qualification A/B/C automatisés par l'agent IA selon l'expérience et le profil. Remplace les dérogations manuelles au journal des tirages.
-- **R7 — Réponses de l'administration luxembourgeoise (MENJE)**
-  - Délai réaliste de traitement d'une déclaration de cumul / article 14 : jour ouvré tiré entre le 1er et le 15e ouvrable, 30 % de chance de demande de précision ou pièces complémentaires.
-  - Remplace les estimations libres.
-- **Pack d'aléas actifs de l'univers 3**
-  - Maintien du pack luxembourgeois/européen actif (A19 à A30, + A02, A07, A09, A12, A13, A17, A18).
-  - Validation du déclenchement du tirage hebdomadaire (`python outils/tirage_aleas.py 2041-07-22`) et du message spontané d'un proche (`rituels.py message-proche`).
-
-**3. Idées de la semaine (réalisme et immersion)**
-- **I1 — Protocole de contrôle des références (Pôle RH)** : grille standardisée envoyée aux référents professionnels des candidats au-dessus de 70 (contexte de travail, compétences techniques et commerciales, fiabilité, motif de fin de collaboration).
-- **I2 — Consommation réelle des API & outils** : suivi des coûts réels de fonctionnement des agents virtuels (tokens et abonnements déduits sur le compte courant en fin de mois).
-- **I3 — Ancrage sportif et vie locale** : interactions vivantes au Minett Combat Club lors des séances du lundi, mercredi et vendredi (Thiago Alves, Arthur Kieffer, Philippe Sinner).
-- **I4 — Rumeurs et bouche-à-oreille à Abidjan** : suite au tirage T5 du dimanche (fuite interne de l'annonce), écho de l'offre auprès des cadres commerciaux du secteur énergétique abidjanais.
-
-**4. Le monde cette semaine**
-- **Luxembourg** : Logement : hausse modérée des prix de l'ancien (+1,3 % sur un an selon l'Observatoire de l'habitat) ; chantiers d'été sur l'A4 et la collectrice du Sud avec ralentissements habituels aux heures de pointe.
-- **Lorraine (Audun-le-Tiche, Moselle)** : Ouverture d'un nouveau parc de covoiturage pour frontaliers par la communauté de communes du Pays-Haut.
-- **Météo** : Semaine ensoleillée et chaude, températures maximales entre 25 °C et 28 °C sur le bassin d'Esch-Belval / Audun-le-Tiche.
+Prochain rapport : demain à 20h00. »
 
 ---
 
-Il est 08h00.
+Il est 20h00.
 
 ---
 
 **Réponses attendues**
-- **Revue du lundi n° 1** : validation des propositions R6 (Table T25 : candidatures), R7 (délais MENJE / administration), et pack d'aléas de la semaine.
+- **Directeur général virtuel** : tes deux réponses au rapport de 20h00 :
+  1. Choix du cabinet de Me Gnamien pour la constitution et le pacte d'associés (forfait 2,1 M FCFA HT) : oui ou non ?
+  2. Présentation du projet à Kader Assi sous le nom de « Projet Solaire B2B Abidjan » sans divulguer ton identité : oui ou non ?
+- **SMS du 06 49 12 87 34** : faux colis (ignorer et supprimer, ou autre action).
 
 **À faire / à fournir avant le tour suivant**
-- Décisions sur les points de la revue du lundi n° 1.
-- Suivi de la réception du devis de Me Gnamien par courriel (attendu dans la matinée).
+- Trancher les deux décisions du rapport du directeur général virtuel.
+- Statuer sur le SMS de tentative d'arnaque (A23).
 
 **Quêtes secondaires**
-- Entraînement de MMA au Minett Combat Club cet après-midi (séance habituelle du lundi).
-- Transmission des coordonnées de deux références par Kader Assi (A048) promise pour ce début de semaine.
-- Échange prévu avec Fabrice Koffi via l'agent (A082, 09h20).
-- Prochain rapport final du directeur général virtuel ce soir à 20h00 (A085).
+- Appel éventuel avec Jean-Baptiste Tuo (proposé pour le vendredi 26/07).
+- Suivi du retour des référents de Kader Assi et Fabrice Koffi par le pôle RH.
+- Prochain rapport du directeur général virtuel demain mardi 23 juillet à 20h00 (A086).
 
 Que veux-tu faire ?
