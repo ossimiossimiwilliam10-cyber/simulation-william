@@ -1,50 +1,52 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 27/10/2026 18:24 (heure machine) pour Gemini
+# Relais de la simulation — briefing généré le 27/10/2026 18:30 (heure machine) pour Gemini
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : samedi 20 juillet 2041, 20h04 (luxembourg) ; tour n° 32
+- Horloge : dimanche 21 juillet 2041, 09h40 (luxembourg) ; tour n° 33
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : **Suivi des vérifications de références des candidats et devis de Me Gnamien attendu ; prochain rapport final demain 20h00**
+- En attente de William : Décision sur le SMS d'arnaque reçu à 09h40 ; prochain rapport final ce soir à 20h00
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 32 ; horloge 20/07/2041 20:00 -> 20/07/2041 20:04 ; enregistré le 27/10/2026 18:24 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 33 ; horloge 20/07/2041 20:04 -> 21/07/2041 09:40 ; enregistré le 27/10/2026 18:30 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je réponds oui aux deux décisions.
+> Go
 
 ## Texte envoyé au joueur
 
-**SAMEDI 20 JUILLET 2041 — 20h04 — Audun-le-Tiche, chez William**
+**DIMANCHE 21 JUILLET 2041 — 09h40 — Audun-le-Tiche, chez William**
 
-L'air rafraîchi par l'averse de fin d'après-midi entre par l'entrebâillement de la fenêtre de la cuisine, mêlé à l'odeur des herbes mouillées du jardin et aux dernières vapeurs de ton repas. Assis devant ton assiette vide, ton verre d'eau terminé, tu saisis ton téléphone posé contre la table. À 20h02, tu tapes ta réponse à ton directeur général virtuel : oui aux deux décisions.
+Après la brève confirmation de ton directeur général virtuel à 20h04, la soirée du samedi se termine dans le calme. L'air s'est bien rafraîchi après l'orage. Tu laves ta poêle et ton assiette, ranges la cuisine sous le murmure discret du réfrigérateur, puis tu montes lire un moment à l'étage avant d'éteindre vers 23h30. Tu passes une nuit complète d'un sommeil profond.
 
-À 20h04, sa réponse s'affiche :
+Le dimanche matin, tu émerges vers 07h30. Dehors, le ciel est bas et gris, une bruine légère humidifie la rue et l'air reste frais, autour de 16 °C. Fidèle à ton rythme de l'été, tu enfiles ta tenue de sport et tes chaussures de course à 08h30 pour ta sortie dominicale de cinq kilomètres à travers Audun-le-Tiche. Le bitume mouillé défile sous tes pas réguliers, l'eau fine te fouette le visage et les épaules ; le souffle est bon, le corps bien disponible malgré les efforts de la semaine.
 
-« Reçu à 20h02. Deux décisions enregistrées et appliquées.
+De retour chez toi un peu avant 09h00, tu t'étires sur le perron, puis tu rentres pour une douche chaude. Tu enfiles un pantalon propre et un t-shirt sec, puis tu descends dans la cuisine te servir un grand verre d'eau.
 
-1. Vérification des références : étendue à tous les candidats au-dessus du seuil de 70 (Mohamed Coulibaly 91, Kader Assi 84, Maïmouna Koné 79, Brice Tapé 76, Fabrice Koffi 76). Nous recueillons et vérifions deux références par courriel professionnel avant tout échange direct avec toi.
-2. Me Gnamien : courriel transmis avec les paramètres provisoires (société de droit OHADA, forme SARL ou SAS à trancher avec lui, capital d'un million de FCFA, un associé européen non-gérant dont l'identité sera communiquée à la lettre de mission ; mission : rédaction des statuts, pacte d'associés, contrat du dirigeant). Son devis chiffré est attendu en début de semaine.
+À 09h40, ton téléphone vibre sur le plan de travail. C'est un SMS reçu d'un numéro français inconnu (+33 6 41 82 59 14) :
 
-Prochain rapport final : demain à 20h00. »
+« INFO-LIVRAISON : Votre colis n° FR-94820 ne peut pas être distribué en raison d'une adresse incomplète. Veuillez mettre vos informations à jour sous 24h pour reprogrammer la livraison : https://suivi-distribution-fr.com/colis »
 
-Il est 20h04.
+Tu n'attends aucun colis à cette adresse.
+
+Il est 09h40.
 
 ---
 
 **Réponses attendues**
-- **Directeur général virtuel** : devis de Me Gnamien (début de semaine) et suivi des vérifications de références des candidats au-dessus du seuil ; prochain rapport final demain à 20h00.
+- **Inconnu (SMS)** : message reçu à 09h40 prétendant qu'un colis est en attente avec un lien de mise à jour d'adresse.
+- **Directeur général virtuel** : prochain rapport final ce soir à 20h00 (avocats d'Abidjan, suivi des candidats).
 - **Jean-Baptiste Tuo** : pas de réponse à ton message de vendredi à 19h44.
 - **Ministère de l'Éducation** (info@men.lu) : ton courriel de mardi à 12h14 n'a pas de réponse.
 
 **À faire / à fournir avant le tour suivant**
-- Aucune démarche en cours.
+- Décider de ce que tu fais du SMS reçu (l'ignorer, le supprimer, vérifier ou autre).
 
 **Quêtes secondaires**
 - Rien en suspens en dehors de ce que tu as déjà noté.
@@ -52,15 +54,14 @@ Il est 20h04.
 Que veux-tu faire ?
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
-- A005 Sat 20/07 20:30 (luxembourg) | William (santé) : Aléa A31 (tirage réel du 16/07/2041) : diarrhée du voyageur ou intoxication alimentaire, seulement si William est à l'étranger ce jour-là ; sinon sans objet (à clore ainsi) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
-- A078 Sat 20/07 21:05 (luxembourg) | Brice Tapé (linkedin) : réponse de Brice Tapé au message de l'agent du 2041-07-20 14:40 (T17 : reciproque) : réponse chaleureuse, intérêt réel, propose un échange · souci : problème de santé qu'il refuse de faire examiner · objectif : passer plus de temps avec ses enfants · foyer : en couple, avec enfants · défauts : aime les commérages et répète ce qu'on lui confie / passif-agressif quand il est contrarié [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : le_soir_ou_lendemain (jet 64.0, M72) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=brice-tape canal=linkedin]
-- A064 Sun 21/07 06:53 (luxembourg) | Mohamed Coulibaly (facebook) : réponse de Mohamed Coulibaly au message de l'agent du 2041-07-20 14:05 (T17 : conversation) : réponse détaillée qui engage la conversation · souci : contrat de travail qui se termine bientôt · objectif : acheter un logement (ou un plus grand) · foyer : en couple, avec enfants · défauts : mauvais conducteur qui se croit excellent / arrive souvent en retard et s'en excuse à peine [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : le_soir_ou_lendemain (jet 78.4) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=mohamed-coulibaly canal=facebook]
-- A004 Sun 21/07 09:40 (luxembourg) | Inconnu (SMS) : Aléa A23 (tirage réel du 16/07/2041, semaine du 15/07) : tentative d'arnaque par SMS (faux colis ou faux conseiller bancaire) ; William voit le message et décide ; à jouer sans détail annoncé [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
 - A080 Sun 21/07 11:15 (luxembourg) | Maïmouna Koné (facebook) : réponse de Maïmouna Koné au message de l'agent du 2041-07-20 19:40 (T17 : conversation) : réponse détaillée qui engage la conversation · souci : voisin bruyant · objectif : obtenir une promotion ou un poste plus stable · foyer : vit seul(e) · défauts : dit oui à tout puis se désiste au dernier moment / jaloux du succès des autres, même de ses amis [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : le_soir_ou_lendemain (jet 81.6, M72) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=maimouna-kone canal=facebook]
 - A083 Sun 21/07 20:00 (luxembourg) | Directeur général virtuel : Rapport final de la journée à William (décisions en questions fermées, affirmations vérifiées, état des pôles) [prevu]  — I26 ; ajouter la ligne du lendemain après chaque rapport ; inclure : courriels reçus à l'adresse professionnelle, réponses des candidats, devis des avocats
+- A070 Sun 21/07 21:50 (luxembourg) | Aboubacar Kouassi (linkedin) : réponse de Aboubacar Kouassi au message de l'agent du 2041-07-20 14:20 (T17 : refus_net) : refus net, sans discours · souci : dettes de jeu · objectif : changer de métier · foyer : parent isolé · défauts : rancunier, n'oublie jamais un affront / oublie de répondre aux messages pendant des jours [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : plus_tard_ou_jamais (jet 88.0, M72) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=aboubacar-kouassi canal=linkedin]
+- A001 Mon 22/07 08:00 (luxembourg) | Moteur et utilisateur : Revue du lundi n° 1 de l'univers 3 (hors fiction, avant le premier tour du jour) ; adaptation des aléas et propositions [prevu]  — CLAUDE.md §12 | premier lundi de l'Univers 3 le 22/07/2041
+- A082 Mon 22/07 09:20 (luxembourg) | Fabrice Koffi (facebook) : réponse de Fabrice Koffi au message de l'agent du 2041-07-20 19:45 (T17 : reciproque) : réponse chaleureuse, intérêt réel, propose un échange · souci : mal de dos chronique · objectif : mettre de l'argent de côté pour ses vieux jours · foyer : vit seul(e) · défauts : jaloux du succès des autres, même de ses amis / mauvais conducteur qui se croit excellent [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : plus_tard_ou_jamais (jet 99.6) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=fabrice-koffi canal=facebook]
 
 ## Rituels du moteur dus (rituels.py)
-- rien
+- [DÛ] synthese_semaine : ce soir : synthèse de la semaine, T4/T5 des affaires ouvertes -> python outils/savoir.py t5
 
 ## Décisions en attente de William (etat/fils-ouverts.md, A)
 | 1 | **Organisation des vacances d'été 2041** | Premier jour des grandes vacances scolaires (du mardi 16/07/2041 au dimanche 15/09/2041). Choix des projets, voyages, rythme de vie ou déplacements estivaux. Budget vacances disponible : 833 €/mois (10 000 €/an). | Ouvert |
@@ -163,8 +164,8 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : master ; master : 88d9c71 ; avance 0, retard 0
-- worktree simulation-william (ICI) : branche master ; 0 commit(s) absents de master ; 14 fichier(s) modifié(s)
+- branche courante : master ; master : 7e5e188 ; avance 0, retard 0
+- worktree simulation-william (ICI) : branche master ; 0 commit(s) absents de master ; 19 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree eloquent-mirzakhani-73acb9 : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)

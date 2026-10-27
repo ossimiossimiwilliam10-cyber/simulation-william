@@ -1,37 +1,39 @@
 # Dernier tour montré au joueur
 
-> Tour n° 32 ; horloge 20/07/2041 20:00 -> 20/07/2041 20:04 ; enregistré le 27/10/2026 18:24 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 33 ; horloge 20/07/2041 20:04 -> 21/07/2041 09:40 ; enregistré le 27/10/2026 18:30 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je réponds oui aux deux décisions.
+> Go
 
 ## Texte envoyé au joueur
 
-**SAMEDI 20 JUILLET 2041 — 20h04 — Audun-le-Tiche, chez William**
+**DIMANCHE 21 JUILLET 2041 — 09h40 — Audun-le-Tiche, chez William**
 
-L'air rafraîchi par l'averse de fin d'après-midi entre par l'entrebâillement de la fenêtre de la cuisine, mêlé à l'odeur des herbes mouillées du jardin et aux dernières vapeurs de ton repas. Assis devant ton assiette vide, ton verre d'eau terminé, tu saisis ton téléphone posé contre la table. À 20h02, tu tapes ta réponse à ton directeur général virtuel : oui aux deux décisions.
+Après la brève confirmation de ton directeur général virtuel à 20h04, la soirée du samedi se termine dans le calme. L'air s'est bien rafraîchi après l'orage. Tu laves ta poêle et ton assiette, ranges la cuisine sous le murmure discret du réfrigérateur, puis tu montes lire un moment à l'étage avant d'éteindre vers 23h30. Tu passes une nuit complète d'un sommeil profond.
 
-À 20h04, sa réponse s'affiche :
+Le dimanche matin, tu émerges vers 07h30. Dehors, le ciel est bas et gris, une bruine légère humidifie la rue et l'air reste frais, autour de 16 °C. Fidèle à ton rythme de l'été, tu enfiles ta tenue de sport et tes chaussures de course à 08h30 pour ta sortie dominicale de cinq kilomètres à travers Audun-le-Tiche. Le bitume mouillé défile sous tes pas réguliers, l'eau fine te fouette le visage et les épaules ; le souffle est bon, le corps bien disponible malgré les efforts de la semaine.
 
-« Reçu à 20h02. Deux décisions enregistrées et appliquées.
+De retour chez toi un peu avant 09h00, tu t'étires sur le perron, puis tu rentres pour une douche chaude. Tu enfiles un pantalon propre et un t-shirt sec, puis tu descends dans la cuisine te servir un grand verre d'eau.
 
-1. Vérification des références : étendue à tous les candidats au-dessus du seuil de 70 (Mohamed Coulibaly 91, Kader Assi 84, Maïmouna Koné 79, Brice Tapé 76, Fabrice Koffi 76). Nous recueillons et vérifions deux références par courriel professionnel avant tout échange direct avec toi.
-2. Me Gnamien : courriel transmis avec les paramètres provisoires (société de droit OHADA, forme SARL ou SAS à trancher avec lui, capital d'un million de FCFA, un associé européen non-gérant dont l'identité sera communiquée à la lettre de mission ; mission : rédaction des statuts, pacte d'associés, contrat du dirigeant). Son devis chiffré est attendu en début de semaine.
+À 09h40, ton téléphone vibre sur le plan de travail. C'est un SMS reçu d'un numéro français inconnu (+33 6 41 82 59 14) :
 
-Prochain rapport final : demain à 20h00. »
+« INFO-LIVRAISON : Votre colis n° FR-94820 ne peut pas être distribué en raison d'une adresse incomplète. Veuillez mettre vos informations à jour sous 24h pour reprogrammer la livraison : https://suivi-distribution-fr.com/colis »
 
-Il est 20h04.
+Tu n'attends aucun colis à cette adresse.
+
+Il est 09h40.
 
 ---
 
 **Réponses attendues**
-- **Directeur général virtuel** : devis de Me Gnamien (début de semaine) et suivi des vérifications de références des candidats au-dessus du seuil ; prochain rapport final demain à 20h00.
+- **Inconnu (SMS)** : message reçu à 09h40 prétendant qu'un colis est en attente avec un lien de mise à jour d'adresse.
+- **Directeur général virtuel** : prochain rapport final ce soir à 20h00 (avocats d'Abidjan, suivi des candidats).
 - **Jean-Baptiste Tuo** : pas de réponse à ton message de vendredi à 19h44.
 - **Ministère de l'Éducation** (info@men.lu) : ton courriel de mardi à 12h14 n'a pas de réponse.
 
 **À faire / à fournir avant le tour suivant**
-- Aucune démarche en cours.
+- Décider de ce que tu fais du SMS reçu (l'ignorer, le supprimer, vérifier ou autre).
 
 **Quêtes secondaires**
 - Rien en suspens en dehors de ce que tu as déjà noté.

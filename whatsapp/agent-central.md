@@ -61,6 +61,13 @@ DÉCISIONS
 - Budget d'API : 16,25 € sur 1 000 € ce mois-ci.
 
 Prochain rapport : demain à 20h00.
+**[20/07/2041 - 20:02 (Luxembourg)] William :** Je réponds oui aux deux décisions.
+**[20/07/2041 - 20:04 (Luxembourg)] Agent central :** Reçu à 20h02. Deux décisions enregistrées et appliquées.
+
+1. Vérification des références : étendue à tous les candidats au-dessus du seuil de 70 (Mohamed Coulibaly 91, Kader Assi 84, Maïmouna Koné 79, Brice Tapé 76, Fabrice Koffi 76). Nous recueillons et vérifions deux références par courriel professionnel avant tout échange direct avec toi.
+2. Me Gnamien : courriel transmis avec les paramètres provisoires (société de droit OHADA, forme SARL ou SAS à trancher avec lui, capital d'un million de FCFA, un associé européen non-gérant dont l'identité sera communiquée à la lettre de mission ; mission : rédaction des statuts, pacte d'associés, contrat du dirigeant). Son devis chiffré est attendu en début de semaine.
+
+Prochain rapport final : demain à 20h00.
 **[19/07/2041 - 20:02 (Luxembourg)] William :** Kader Assi : j'approuve ta démarche, donc oui. Rapports réels : je valide également.
 **[19/07/2041 - 20:04 (Luxembourg)] Agent central :** Reçu à 20h02. Kader Assi : oui. Je poursuis par courriel jusqu'à la vérification de deux références, sans aucun échange avec toi avant ; je te rendrai compte dans un prochain rapport. Rapports réels : validés. Deux par semaine pour chaque responsable réel, le mardi à 17h00 et le vendredi à 12h00, un de plus les jours importants. Ils entrent à l'agenda à la prise de poste de chaque responsable ; tant qu'aucun poste réel n'est occupé, personne ne te remet de rapport hebdomadaire. Prochain rapport final : demain à 20h00.
 **[20/07/2041 - 12:00 (Luxembourg)] Agent central :** Liste restreinte, samedi 20 juillet, 12h00. Trois cabinets d'avocats d'affaires d'Abidjan, triés sur les critères de 18h27, notés sur 100. Les honoraires sont indicatifs : je n'ai trouvé aucun barème officiel, seulement un repère pour le notaire (120 000 FCFA hors taxe pour une SARL au capital d'un million, convention entre le CEPICI et la chambre des notaires) ; un devis écrit sera nécessaire. Relu par le pôle RH virtuel : aucune réserve.
@@ -100,6 +107,13 @@ AFFIRMATIONS VÉRIFIÉES
 - Budget d'API : 28,31 € sur 1 000 € ce mois-ci.
 
 Prochain rapport : demain à 20h00.
+**[20/07/2041 - 20:02 (Luxembourg)] William :** Je réponds oui aux deux décisions.
+**[20/07/2041 - 20:04 (Luxembourg)] Agent central :** Reçu à 20h02. Deux décisions enregistrées et appliquées.
+
+1. Vérification des références : étendue à tous les candidats au-dessus du seuil de 70 (Mohamed Coulibaly 91, Kader Assi 84, Maïmouna Koné 79, Brice Tapé 76, Fabrice Koffi 76). Nous recueillons et vérifions deux références par courriel professionnel avant tout échange direct avec toi.
+2. Me Gnamien : courriel transmis avec les paramètres provisoires (société de droit OHADA, forme SARL ou SAS à trancher avec lui, capital d'un million de FCFA, un associé européen non-gérant dont l'identité sera communiquée à la lettre de mission ; mission : rédaction des statuts, pacte d'associés, contrat du dirigeant). Son devis chiffré est attendu en début de semaine.
+
+Prochain rapport final : demain à 20h00.
 **[20/07/2041 - 20:02 (Luxembourg)] William :** Je réponds oui aux deux décisions.
 **[20/07/2041 - 20:04 (Luxembourg)] Agent central :** Reçu à 20h02. Deux décisions enregistrées et appliquées.
 
