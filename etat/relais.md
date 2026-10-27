@@ -1,50 +1,68 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 27/10/2026 17:32 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
+# Relais de la simulation — briefing généré le 27/10/2026 17:58 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : samedi 20 juillet 2041, 12h20 (luxembourg) ; tour n° 30
+- Horloge : samedi 20 juillet 2041, 20h00 (luxembourg) ; tour n° 31
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Réponses de Me Gnamien et de Me Tano à la demande de devis (au directeur général virtuel) ; rapport final ce soir à 20h00 ; compte rendu sur Kader Assi ; vérification Instagram annoncée sous 24 h (pas de nouvelle)
+- En attente de William : Tes deux réponses au rapport de 20h00 (références des candidats au-dessus du seuil ; paramètres provisoires pour Me Gnamien) ; prochain rapport final demain 20h00
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 30 ; horloge 20/07/2041 12:00 -> 20/07/2041 12:20 ; enregistré le 27/10/2026 17:32 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 31 ; horloge 20/07/2041 12:20 -> 20/07/2041 20:00 ; enregistré le 27/10/2026 17:58 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Alors, je dis au directeur général, du coup, que oui, il peut les écrire. Et j'active immédiatement, du coup, le pôle juridique virtuel, vu que là, on va commencer à attaquer le domaine virtuel. Et donc, voilà, le directeur général virtuel devra l'utiliser pour systématiquement voir les affirmations avancées pour qu'on ne se fasse pas baiser.
+> Go
 
 ## Texte envoyé au joueur
 
-**SAMEDI 20 JUILLET 2041 — 12h20 — Audun-le-Tiche, chez William**
+**SAMEDI 20 JUILLET 2041 — 20h00 — Audun-le-Tiche, chez William**
 
-Le ciel s'est un peu levé au-dessus des toits d'en face, sans que la grisaille cède. À 12h08, le téléphone dans la main, tu réponds à ton directeur général virtuel : oui, il peut écrire aux deux cabinets. Tu actives aussitôt le pôle juridique virtuel, puisque vous attaquez maintenant le domaine juridique. Le directeur général virtuel devra l'utiliser systématiquement pour examiner les affirmations avancées par des tiers, afin qu'on ne se fasse pas avoir.
+Vers 13h tu avales deux tartines de pain complet et un yaourt, debout devant la fenêtre de la cuisine. L'après-midi s'étire sans rien te demander : tu fais un peu de ménage à l'étage, tu tries le courrier de la boîte, des prospectus surtout, et tu laisses la maison se remplir d'un silence tiède. L'orage arrive vers 17h20, avec un long grondement avant les premières gouttes ; la pluie tombe en rideau serré sur le jardin, une grêle fine tambourine un instant sur la véranda, puis le ciel se vide, laissant l'air frais et gorgé d'odeur d'herbe. À 19h tu mets une grande casserole d'eau à bouillir pour un plat de pâtes au thon et aux poivrons, ton repas du soir.
 
-À 12h12, sa réponse :
+À 20h00, le téléphone vibre contre le bord de l'assiette : le rapport final.
 
-« Reçu à 12h08. Oui : j'écris à Me Gnamien et à Me Tano, au nom de l'équipe du projet, sans ton nom ; les deux courriels partent à 12h15 et 12h18, relus avant l'envoi. Pôle juridique virtuel activé à 12h10. Le poste de responsable juridique réel n'existe pas encore : le pôle décide donc dans son périmètre, qui est de comparer les affirmations aux textes officiels, et je l'utilise désormais sur toute affirmation avancée par un tiers : avocat, administration, candidat, document. Chaque rapport portera une rubrique « affirmations vérifiées », avec trois états : vérifiée contre un texte officiel ; non vérifiée (source secondaire) ; contredite.
+« Rapport final du samedi 20 juillet, 20h00. Relu par le pôle RH virtuel et le pôle juridique virtuel avant l'envoi : aucune réserve.
 
-Premières passes, toutes NON VÉRIFIÉES à ce jour. 1. « L'autoproducteur doit être propriétaire de son installation » : analyse d'un cabinet, ni confirmée par un texte lu ni par l'ANARE-CI ; ce sera la première question aux avocats. 2. Le décret sur la vente de l'excédent d'un autoproducteur est cité sous le numéro 2016-783 dans une source et 2016-785 dans une autre : à confirmer au Journal officiel. 3. « Une SARL se crée en 24 à 72 heures au guichet unique du CEPICI » : guides non officiels, à confirmer auprès du CEPICI.
+DÉCISIONS
+1. Vérification des références avant tout échange avec toi, comme pour Kader Assi, étendue à tous les candidats au-dessus du seuil : Mohamed Coulibaly 91/100, Kader Assi 84, Maïmouna Koné 79, Brice Tapé 76, Fabrice Koffi 76. Oui ou non ?
+2. Me Gnamien (16h49) demande, pour établir son devis, la forme sociale, le capital, l'identité des associés (il doit identifier tout client) et la nature de la mission. Je lui réponds avec des paramètres provisoires, sans ton nom : société de droit OHADA, SARL ou SAS à trancher avec lui, capital d'un million de FCFA, un associé européen non-gérant dont l'identité sera donnée à la lettre de mission ; mission : statuts, pacte d'associés, contrat du dirigeant. Oui ou non ?
 
-Registre mis à jour : « Règles du segment virtuel, version 9 », dans tes documents. »
+AFFIRMATIONS VÉRIFIÉES
+- « L'autoproducteur doit être propriétaire de son installation » (analyse d'un cabinet, puis Me Tano : « règle posée par la loi de 2014 ») : NON VÉRIFIÉE. Deux sources secondaires concordantes ; texte du Code de l'électricité de 2014 non lu ; question à poser aux deux avocats.
+- Décret sur la vente de l'excédent d'un autoproducteur : le numéro 2016-783 (12 octobre 2016) est confirmé par deux sources secondaires ; le numéro 2016-785 est CONTREDIT (aucune source). Texte officiel non lu.
+- « Une SARL se crée en 24 à 72 heures au guichet unique du CEPICI » : NON VÉRIFIÉE (guides non officiels).
+- Forfait de Me Tano : 2,5 millions de FCFA hors taxe (environ 3 810 €), contre 2,2 millions indicatifs, soit 14 % de plus ; consultation d'une heure : 120 000 FCFA hors taxe. NON VÉRIFIÉ contre un barème (il n'en existe pas d'officiel).
+- Parcours déclarés des candidats (projets de Kader Assi à Fos-sur-Mer et près de Montpellier, réseau de Mohamed Coulibaly, diplômes de Maïmouna Koné) : NON VÉRIFIÉS à ce jour.
 
-Il est 12h20.
+ÉTAT DES PÔLES
+- Pôle RH virtuel (poste vacant : il décide) : 21 réponses depuis la publication, dont 4 depuis hier 19h00 : Aboubacar Kouassi (19h41), Ousmane Yéo (20h02), Mariam Brou (21h34), Damien Yao (22h35), tous de niveau B. Correction : le rapport d'hier comptait 17 réponses et omettait Aboubacar Kouassi, reçu à 19h41 ; erreur de comptage de ma part.
+- Au-dessus du seuil de 70, le courriel professionnel a été fourni à Mohamed Coulibaly 91 (14h05), Kader Assi 84 (hier 19h25), Maïmouna Koné 79 (19h40), Brice Tapé 76 (14h40), Fabrice Koffi 76 (19h45). Aucun courriel reçu pour l'instant ; Kader Assi doit transmettre deux références en début de semaine. Jean-Baptiste Tuo (71) est traité par toi.
+- Sous le seuil : Cédric Soro 58, dossier gardé. Refus net : Hervé Touré (09h34). Sans réponse : Jonathan Ouattara, Landry Aka. En entretien : Ousmane Yéo, Mariam Brou, Damien Yao, Aboubacar Kouassi.
+- Instagram : vérification acceptée hier à 20h28, annonce version 2 publiée à 20h35. Reddit, Indeed et réseaux d'anciens : en attente.
+- Pôle juridique virtuel : Me Tano a répondu à 12h19, Me Gnamien à 16h49 ; Me Zadi n'est pas contacté.
+- Finance, technique, commercial : fermés jusqu'à la signature du directeur général.
+- Surveillance : vingt messages sortants relus depuis hier 18h25, tous conformes.
+- Budget d'API : 28,31 € sur 1 000 € ce mois-ci.
+
+Prochain rapport : demain à 20h00. »
+
+Il est 20h00.
 
 ---
 
 **Réponses attendues**
-- **Directeur général virtuel** : les réponses de Me Gnamien et de Me Tano à la demande de devis ; le rapport final, ce soir à 20h00 ; le compte rendu sur Kader Assi dans un prochain rapport.
+- **Directeur général virtuel** : tes deux réponses à son rapport (vérification des références pour tous les candidats au-dessus du seuil ; réponse à Me Gnamien avec des paramètres provisoires) ; le prochain rapport final, demain à 20h00.
 - **Jean-Baptiste Tuo** : pas de réponse à ton message de 19h44.
-- **Instagram** : la vérification de ton identité, annoncée sous 24 heures (envoyée à 00h40) : pas de nouvelle.
 - **Ministère de l'Éducation** (info@men.lu) : ton courriel de mardi à 12h14 n'a pas de réponse.
 
 **À faire / à fournir avant le tour suivant**
-- Aucune démarche en cours.
+- Tes deux réponses au rapport de 20h00.
 
 **Quêtes secondaires**
 - Rien en suspens en dehors de ce que tu as déjà noté.
@@ -52,21 +70,12 @@ Il est 12h20.
 Que veux-tu faire ?
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
-- ⚠ 1 échéance(s) échue(s) non close(s) (règle 14)
-- A016 Fri 19/07 20:28 (luxembourg) | Instagram (vérification) : Instagram valide la vérification d'identité de William et le compte du projet : Claude publie l'annonce version 2 à 20h35 et le signale à William (tirage : vérification acceptée, terminée au bout de 19 h 48) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
-- A031 Sat 20/07 13:47 (luxembourg) | Brice Tapé (linkedin) : réponse de Brice Tapé (profil A, diaspora, Atlanta) au message de l'agent IA qui répond à ses questions (T17 : conversation) : il détaille son réseau d'entreprises en Côte d'Ivoire, ses références et une date de retour envisageable, sous réserve de sa famille · souci : problème de santé qu'il refuse de faire examiner · objectif : passer plus de temps avec ses enfants · foyer : en couple, avec enfants · défauts : aime les commérages et répète ce qu'on lui confie / passif-agressif quand il est contrarié [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : le_soir_ou_lendemain (jet 64.0, M72) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=brice-tape canal=linkedin] | reporté de 2041-07-20 06:47 : décalage horaire : Brice Tapé vit à Atlanta (UTC−4) ; 06h47 à Luxembourg serait 00h47 chez lui ; la réponse est replacée à 07h47 heure d'Atlanta, soit 13h47 à Luxembourg (la routine ne connaissait pas son fuseau)
-- A049 Sat 20/07 14:00 (luxembourg) | Claude (pôle RH virtuel) : Maïmouna Koné (facebook) : répondre à ses questions (porteur : un investisseur européen ; société de droit OHADA en cours de création à Abidjan ; garanties écrites : contrat, statuts, pacte d'associés, audit annuel ; aucune somme demandée ; identité communiquée si les échanges se poursuivent) et relancer sur son réseau et sa date de retour ; commande : python outils/entretien.py envoyer --pour "Maïmouna Koné" --canal facebook --quand "2041-07-20 14:00" --decalage 0 --texte "…" (texte humain, signé « L'équipe du projet », I30) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — lot du samedi (le pôle RH répond par lots le week-end) ; décalage = heures à retrancher de l'heure de Luxembourg pour le destinataire
-- A050 Sat 20/07 14:05 (luxembourg) | Claude (pôle RH virtuel) : Mohamed Coulibaly (facebook) : note de réseau 91/100 (au-dessus du seuil de 70) : fournir le courriel professionnel du projet (jamais le numéro de William), inviter à écrire à cette adresse ; commande : python outils/entretien.py envoyer --pour "Mohamed Coulibaly" --canal facebook --quand "2041-07-20 14:05" --decalage 0 --texte "…" (texte humain, signé « L'équipe du projet », I30) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — lot du samedi (le pôle RH répond par lots le week-end) ; décalage = heures à retrancher de l'heure de Luxembourg pour le destinataire
-- A051 Sat 20/07 14:10 (luxembourg) | Claude (pôle RH virtuel) : Cédric Soro (facebook) : deuxième message : réseau de dirigeants de PME (secteurs, décideurs joints), banque et projets énergétiques, date de retour ; commande : python outils/entretien.py envoyer --pour "Cédric Soro" --canal facebook --quand "2041-07-20 14:10" --decalage 2 --texte "…" (texte humain, signé « L'équipe du projet », I30) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — lot du samedi (le pôle RH répond par lots le week-end) ; décalage = heures à retrancher de l'heure de Luxembourg pour le destinataire
-- A052 Sat 20/07 14:15 (luxembourg) | Claude (pôle RH virtuel) : Fabrice Koffi (facebook) : deuxième message : un contact joignable par projet, puissance installée, outils de dimensionnement, expérience du raccordement ; commande : python outils/entretien.py envoyer --pour "Fabrice Koffi" --canal facebook --quand "2041-07-20 14:15" --decalage 2 --texte "…" (texte humain, signé « L'équipe du projet », I30) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — lot du samedi (le pôle RH répond par lots le week-end) ; décalage = heures à retrancher de l'heure de Luxembourg pour le destinataire
-- A053 Sat 20/07 14:20 (luxembourg) | Claude (pôle RH virtuel) : Aboubacar Kouassi (linkedin) : premier message d'entretien (commercial, 37 ans, 4 ans d'expérience, Dakar ; LinkedIn international, 19h41) ; commande : python outils/entretien.py envoyer --pour "Aboubacar Kouassi" --canal linkedin --quand "2041-07-20 14:20" --decalage 2 --texte "…" (texte humain, signé « L'équipe du projet », I30) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — lot du samedi (le pôle RH répond par lots le week-end) ; décalage = heures à retrancher de l'heure de Luxembourg pour le destinataire
-- A054 Sat 20/07 14:25 (luxembourg) | Claude (pôle RH virtuel) : Damien Yao (linkedin) : premier message d'entretien (banquier, 46 ans, 5 ans d'expérience, Marseille ; LinkedIn international, 22h35) ; commande : python outils/entretien.py envoyer --pour "Damien Yao" --canal linkedin --quand "2041-07-20 14:25" --decalage 0 --texte "…" (texte humain, signé « L'équipe du projet », I30) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — lot du samedi (le pôle RH répond par lots le week-end) ; décalage = heures à retrancher de l'heure de Luxembourg pour le destinataire
-- A055 Sat 20/07 14:30 (luxembourg) | Claude (pôle RH virtuel) : Ousmane Yéo (facebook) : premier message d'entretien (commerçant, 54 ans, 21 ans d'expérience, Abidjan ; Facebook, 20h02) ; commande : python outils/entretien.py envoyer --pour "Ousmane Yéo" --canal facebook --quand "2041-07-20 14:30" --decalage 2 --texte "…" (texte humain, signé « L'équipe du projet », I30) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — lot du samedi (le pôle RH répond par lots le week-end) ; décalage = heures à retrancher de l'heure de Luxembourg pour le destinataire
-- A056 Sat 20/07 14:35 (luxembourg) | Claude (pôle RH virtuel) : Mariam Brou (instagram) : premier message d'entretien (comptable, 43 ans, 5 ans d'expérience, Abidjan ; Instagram, 21h34) ; commande : python outils/entretien.py envoyer --pour "Mariam Brou" --canal instagram --quand "2041-07-20 14:35" --decalage 2 --texte "…" (texte humain, signé « L'équipe du projet », I30) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — lot du samedi (le pôle RH répond par lots le week-end) ; décalage = heures à retrancher de l'heure de Luxembourg pour le destinataire
-- A058 Sat 20/07 16:49 (luxembourg) | Ismaël Gnamien (courriel) : réponse de Ismaël Gnamien au message de l'agent du 2041-07-20 12:15 (T17 : poli_bref) : réponse polie et brève · souci : voisin bruyant · objectif : changer de métier · foyer : en couple, sans enfant · défauts : boit trop le week-end et le minimise / ne supporte pas d'avoir tort, s'enferre dans ses positions [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : dans_la_journee (jet 65.9) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=ismael-gnamien canal=courriel]
-- A040 Sat 20/07 20:00 (luxembourg) | Directeur général virtuel : Rapport final de la journée à William (décisions en questions fermées, état des pôles en dix lignes) [prevu]  — I26 ; ajouter la ligne du lendemain après chaque rapport ; inclure l'état caché du jour : réponses d'annonces, entretiens, courriels reçus à l'adresse professionnelle
 - A005 Sat 20/07 20:30 (luxembourg) | William (santé) : Aléa A31 (tirage réel du 16/07/2041) : diarrhée du voyageur ou intoxication alimentaire, seulement si William est à l'étranger ce jour-là ; sinon sans objet (à clore ainsi) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
+- A078 Sat 20/07 21:05 (luxembourg) | Brice Tapé (linkedin) : réponse de Brice Tapé au message de l'agent du 2041-07-20 14:40 (T17 : reciproque) : réponse chaleureuse, intérêt réel, propose un échange · souci : problème de santé qu'il refuse de faire examiner · objectif : passer plus de temps avec ses enfants · foyer : en couple, avec enfants · défauts : aime les commérages et répète ce qu'on lui confie / passif-agressif quand il est contrarié [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : le_soir_ou_lendemain (jet 64.0, M72) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=brice-tape canal=linkedin]
+- A064 Sun 21/07 06:53 (luxembourg) | Mohamed Coulibaly (facebook) : réponse de Mohamed Coulibaly au message de l'agent du 2041-07-20 14:05 (T17 : conversation) : réponse détaillée qui engage la conversation · souci : contrat de travail qui se termine bientôt · objectif : acheter un logement (ou un plus grand) · foyer : en couple, avec enfants · défauts : mauvais conducteur qui se croit excellent / arrive souvent en retard et s'en excuse à peine [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : le_soir_ou_lendemain (jet 78.4) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=mohamed-coulibaly canal=facebook]
 - A004 Sun 21/07 09:40 (luxembourg) | Inconnu (SMS) : Aléa A23 (tirage réel du 16/07/2041, semaine du 15/07) : tentative d'arnaque par SMS (faux colis ou faux conseiller bancaire) ; William voit le message et décide ; à jouer sans détail annoncé [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
+- A080 Sun 21/07 11:15 (luxembourg) | Maïmouna Koné (facebook) : réponse de Maïmouna Koné au message de l'agent du 2041-07-20 19:40 (T17 : conversation) : réponse détaillée qui engage la conversation · souci : voisin bruyant · objectif : obtenir une promotion ou un poste plus stable · foyer : vit seul(e) · défauts : dit oui à tout puis se désiste au dernier moment / jaloux du succès des autres, même de ses amis [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : le_soir_ou_lendemain (jet 81.6, M72) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=maimouna-kone canal=facebook]
+- A083 Sun 21/07 20:00 (luxembourg) | Directeur général virtuel : Rapport final de la journée à William (décisions en questions fermées, affirmations vérifiées, état des pôles) [prevu]  — I26 ; ajouter la ligne du lendemain après chaque rapport ; inclure : courriels reçus à l'adresse professionnelle, réponses des candidats, devis des avocats
 
 ## Rituels du moteur dus (rituels.py)
 - rien
@@ -172,10 +181,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 1d29121 ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 14b7767 ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 23 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 30 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

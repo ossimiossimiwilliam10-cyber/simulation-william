@@ -2,17 +2,21 @@ id;nom;niveau;note;etat;resume;plateforme;date
 C001;Eugène Doumbia;C;;écarté;profil récent, frais de dossier demandés (arnaque);LinkedIn;2041-07-16 18:00
 C002;Nadège Kouamé;B;53;écartée par William;"promotrice immobilière, 14 ans d'expérience, environ 35 contacts de propriétaires et gérants d'immeubles ; note de 53 sur 100";Educarriere.ci;2041-07-17 18:03
 C003;Jean-Baptiste Tuo;B;71;appel proposé par William pour le 26/07;"commerçant et entrepreneur, 11 ans d'expérience, réseau de 34 contacts dont 6 sur 10 joints jusqu'au décideur, références difficiles à joindre ; note 71 sur 100 (seuil 70)";Educarriere.ci;2041-07-17 18:03
-C004;Hervé Touré;B;;entretien en cours;commerçant et entrepreneur, 12 ans de négoce de matériel électrique et de climatiseurs à Marcory, références introuvables, numéro WhatsApp obtenu par l'agent (non transmis);NovoJob;2041-07-17 18:03
+C004;Hervé Touré;B;;refus net (20/07, 09h34);commerçant et entrepreneur, 12 ans de négoce de matériel électrique et de climatiseurs à Marcory, références introuvables, numéro WhatsApp obtenu par l'agent (non transmis);NovoJob;2041-07-17 18:03
 C005;Sandrine Cissé;C;;écartée;profil récent, 130 000 FCFA de frais de dossier demandés (arnaque);LinkedIn;2041-07-17 18:03
 C006;Franck Konan;C;;écarté;employé de bureau, 3 ans d'expérience, hors profil;NovoJob;2041-07-17 18:03
 C007;Yannick N'Guessan;C;;écarté;sans emploi, 3 ans d'expérience, hors profil;NovoJob;2041-07-18 18:03
-C008;Maïmouna Koné;A;;entretien en cours;"docteure en génie électrique, maîtresse de conférences à Toulouse, 28 ans d'expérience, 54 ans, références vérifiables ; a répondu au premier message, deuxième message envoyé à 16h08 ; veut une évolution que son université ne lui offre pas";Groupes de la diaspora;2041-07-19 15:07
-C009;Brice Tapé;A;;entretien en cours;"technicien supérieur en électrotechnique à Atlanta, 13 ans à diriger des équipes de pose de centrales photovoltaïques sur toitures de commerces, 51 ans, références vérifiables ; a répondu à 17h36 (rentrer serait une décision de famille), deuxième message envoyé à 17h42";LinkedIn international;2041-07-19 16:34
-C010;Jonathan Ouattara;B;;entretien lancé;"commercial en entreprises à Paris, 20 ans d'expérience, 48 ans, références vérifiables ; premier message envoyé à 18h03";LinkedIn international;2041-07-19 12:44
-C011;Mohamed Coulibaly;B;;entretien lancé;"banquier à Bruxelles, 8 ans d'expérience, 40 ans, références vérifiables ; premier message envoyé à 18h03";Groupes de la diaspora;2041-07-19 14:07
-C012;Kader Assi;B;84;"note 84/100 ; courriel professionnel fourni ; vérification de deux références en cours (validé par William à 20h02)";"ingénieur en énergie à Marseille, 17 ans d'expérience, 44 ans, références introuvables ou évasives ; premier message envoyé à 18h03";Groupes de la diaspora;2041-07-19 16:47
+C008;Maïmouna Koné;A;79;"note 79/100 ; courriel professionnel fourni (19h40)";"docteure en génie électrique, maîtresse de conférences à Toulouse, 28 ans d'expérience, 54 ans, références vérifiables ; a répondu au premier message, deuxième message envoyé à 16h08 ; veut une évolution que son université ne lui offre pas";Groupes de la diaspora;2041-07-19 15:07
+C009;Brice Tapé;A;76;"note 76/100 ; courriel professionnel fourni (14h40)";"technicien supérieur en électrotechnique à Atlanta, 13 ans à diriger des équipes de pose de centrales photovoltaïques sur toitures de commerces, 51 ans, références vérifiables ; a répondu à 17h36 (rentrer serait une décision de famille), deuxième message envoyé à 17h42";LinkedIn international;2041-07-19 16:34
+C010;Jonathan Ouattara;B;;sans réponse;"commercial en entreprises à Paris, 20 ans d'expérience, 48 ans, références vérifiables ; premier message envoyé à 18h03";LinkedIn international;2041-07-19 12:44
+C011;Mohamed Coulibaly;B;91;"note 91/100 ; courriel professionnel fourni (14h05)";"banquier à Bruxelles, 8 ans d'expérience, 40 ans, références vérifiables ; premier message envoyé à 18h03";Groupes de la diaspora;2041-07-19 14:07
+C012;Kader Assi;B;84;"note 84/100 ; courriel fourni (19/07), deux références promises en début de semaine";"ingénieur en énergie à Marseille, 17 ans d'expérience, 44 ans, références introuvables ou évasives ; premier message envoyé à 18h03";Groupes de la diaspora;2041-07-19 16:47
 C013;Solange Gnagne;C;;écartée;employée de bureau, 58 ans, 15 ans d'expérience, hors profil;Facebook;2041-07-19 17:51
 C014;Boubacar Sylla;C;;écarté;profil récent, 300 € de frais de mise en relation demandés après l'accusé de réception (arnaque);LinkedIn international;2041-07-19 16:49
-C015;Cédric Soro;B;;reçu à 18h21, premier message ce soir;cadre de banque, 41 ans, 11 ans d'expérience, références non vérifiables;Facebook;2041-07-19 18:21
-C016;Landry Aka;B;;reçu à 18h22, premier message ce soir;commercial en entreprises, 44 ans, 3 ans d'expérience, références vérifiables;LinkedIn international;2041-07-19 18:22
-C017;Fabrice Koffi;B;;reçu à 19h14, premier message ce soir;ingénieur en énergie, 34 ans, 6 ans d'expérience, références vérifiables;Facebook;2041-07-19 19:14
+C015;Cédric Soro;B;58;"note 58/100 ; dossier gardé";cadre de banque, 41 ans, 11 ans d'expérience, références non vérifiables;Facebook;2041-07-19 18:21
+C016;Landry Aka;B;;sans réponse;commercial en entreprises, 44 ans, 3 ans d'expérience, références vérifiables;LinkedIn international;2041-07-19 18:22
+C017;Fabrice Koffi;B;76;"note 76/100 ; courriel professionnel fourni (19h45)";ingénieur en énergie, 34 ans, 6 ans d'expérience, références vérifiables;Facebook;2041-07-19 19:14
+C018;Aboubacar Kouassi;B;;en entretien;commercial en entreprises, 37 ans, 4 ans d'expérience, Dakar, références non vérifiables;LinkedIn international;2041-07-19 19:41
+C019;Ousmane Yéo;B;;en entretien;commerçant, 54 ans, 21 ans d'expérience, Abidjan, références non vérifiables;Facebook;2041-07-19 20:02
+C020;Mariam Brou;B;;en entretien;comptable, 43 ans, 5 ans d'expérience, Abidjan, références vérifiables;Instagram;2041-07-19 21:34
+C021;Damien Yao;B;;en entretien;banquier, 46 ans, 5 ans d'expérience, Marseille, références vérifiables;LinkedIn international;2041-07-19 22:35

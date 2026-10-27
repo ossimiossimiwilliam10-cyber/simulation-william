@@ -32,3 +32,5 @@
 
 ## Historique
 - 19/07/2041 : fiche créée (tirage du générateur).
+- 20/07/2041, 14:35 : message de l'agent IA (T17 : reciproque) : « Bonjour Madame Brou, merci pour votre réponse à l'annonce. Vous êtes comptable depuis cinq ans : pour quels types d'entreprises, et connaissez-vous leurs dirigeants ? Qu'est-ce qui vous attire dans ce projet ? Cordialement, L'équipe du projet »
+- 20/07/2041, 13:04 : sa réponse à l'agent IA : « Bonjour, merci pour votre message. Je suis comptable de PME à Abidjan depuis cinq ans et je connais les dirigeants de mes clients : une quinzaine, dans le transport, la pharmacie et la restauration. Ce projet m'intéresse parce que beaucoup se plaignent de leurs factures d'électricité, et je voudrais changer de métier. Je suis disponible pour un échange quand vous voulez. Cordialement, Mariam Brou »

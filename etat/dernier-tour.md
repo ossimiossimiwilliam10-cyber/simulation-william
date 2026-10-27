@@ -1,37 +1,55 @@
 # Dernier tour montré au joueur
 
-> Tour n° 30 ; horloge 20/07/2041 12:00 -> 20/07/2041 12:20 ; enregistré le 27/10/2026 17:32 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 31 ; horloge 20/07/2041 12:20 -> 20/07/2041 20:00 ; enregistré le 27/10/2026 17:58 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Alors, je dis au directeur général, du coup, que oui, il peut les écrire. Et j'active immédiatement, du coup, le pôle juridique virtuel, vu que là, on va commencer à attaquer le domaine virtuel. Et donc, voilà, le directeur général virtuel devra l'utiliser pour systématiquement voir les affirmations avancées pour qu'on ne se fasse pas baiser.
+> Go
 
 ## Texte envoyé au joueur
 
-**SAMEDI 20 JUILLET 2041 — 12h20 — Audun-le-Tiche, chez William**
+**SAMEDI 20 JUILLET 2041 — 20h00 — Audun-le-Tiche, chez William**
 
-Le ciel s'est un peu levé au-dessus des toits d'en face, sans que la grisaille cède. À 12h08, le téléphone dans la main, tu réponds à ton directeur général virtuel : oui, il peut écrire aux deux cabinets. Tu actives aussitôt le pôle juridique virtuel, puisque vous attaquez maintenant le domaine juridique. Le directeur général virtuel devra l'utiliser systématiquement pour examiner les affirmations avancées par des tiers, afin qu'on ne se fasse pas avoir.
+Vers 13h tu avales deux tartines de pain complet et un yaourt, debout devant la fenêtre de la cuisine. L'après-midi s'étire sans rien te demander : tu fais un peu de ménage à l'étage, tu tries le courrier de la boîte, des prospectus surtout, et tu laisses la maison se remplir d'un silence tiède. L'orage arrive vers 17h20, avec un long grondement avant les premières gouttes ; la pluie tombe en rideau serré sur le jardin, une grêle fine tambourine un instant sur la véranda, puis le ciel se vide, laissant l'air frais et gorgé d'odeur d'herbe. À 19h tu mets une grande casserole d'eau à bouillir pour un plat de pâtes au thon et aux poivrons, ton repas du soir.
 
-À 12h12, sa réponse :
+À 20h00, le téléphone vibre contre le bord de l'assiette : le rapport final.
 
-« Reçu à 12h08. Oui : j'écris à Me Gnamien et à Me Tano, au nom de l'équipe du projet, sans ton nom ; les deux courriels partent à 12h15 et 12h18, relus avant l'envoi. Pôle juridique virtuel activé à 12h10. Le poste de responsable juridique réel n'existe pas encore : le pôle décide donc dans son périmètre, qui est de comparer les affirmations aux textes officiels, et je l'utilise désormais sur toute affirmation avancée par un tiers : avocat, administration, candidat, document. Chaque rapport portera une rubrique « affirmations vérifiées », avec trois états : vérifiée contre un texte officiel ; non vérifiée (source secondaire) ; contredite.
+« Rapport final du samedi 20 juillet, 20h00. Relu par le pôle RH virtuel et le pôle juridique virtuel avant l'envoi : aucune réserve.
 
-Premières passes, toutes NON VÉRIFIÉES à ce jour. 1. « L'autoproducteur doit être propriétaire de son installation » : analyse d'un cabinet, ni confirmée par un texte lu ni par l'ANARE-CI ; ce sera la première question aux avocats. 2. Le décret sur la vente de l'excédent d'un autoproducteur est cité sous le numéro 2016-783 dans une source et 2016-785 dans une autre : à confirmer au Journal officiel. 3. « Une SARL se crée en 24 à 72 heures au guichet unique du CEPICI » : guides non officiels, à confirmer auprès du CEPICI.
+DÉCISIONS
+1. Vérification des références avant tout échange avec toi, comme pour Kader Assi, étendue à tous les candidats au-dessus du seuil : Mohamed Coulibaly 91/100, Kader Assi 84, Maïmouna Koné 79, Brice Tapé 76, Fabrice Koffi 76. Oui ou non ?
+2. Me Gnamien (16h49) demande, pour établir son devis, la forme sociale, le capital, l'identité des associés (il doit identifier tout client) et la nature de la mission. Je lui réponds avec des paramètres provisoires, sans ton nom : société de droit OHADA, SARL ou SAS à trancher avec lui, capital d'un million de FCFA, un associé européen non-gérant dont l'identité sera donnée à la lettre de mission ; mission : statuts, pacte d'associés, contrat du dirigeant. Oui ou non ?
 
-Registre mis à jour : « Règles du segment virtuel, version 9 », dans tes documents. »
+AFFIRMATIONS VÉRIFIÉES
+- « L'autoproducteur doit être propriétaire de son installation » (analyse d'un cabinet, puis Me Tano : « règle posée par la loi de 2014 ») : NON VÉRIFIÉE. Deux sources secondaires concordantes ; texte du Code de l'électricité de 2014 non lu ; question à poser aux deux avocats.
+- Décret sur la vente de l'excédent d'un autoproducteur : le numéro 2016-783 (12 octobre 2016) est confirmé par deux sources secondaires ; le numéro 2016-785 est CONTREDIT (aucune source). Texte officiel non lu.
+- « Une SARL se crée en 24 à 72 heures au guichet unique du CEPICI » : NON VÉRIFIÉE (guides non officiels).
+- Forfait de Me Tano : 2,5 millions de FCFA hors taxe (environ 3 810 €), contre 2,2 millions indicatifs, soit 14 % de plus ; consultation d'une heure : 120 000 FCFA hors taxe. NON VÉRIFIÉ contre un barème (il n'en existe pas d'officiel).
+- Parcours déclarés des candidats (projets de Kader Assi à Fos-sur-Mer et près de Montpellier, réseau de Mohamed Coulibaly, diplômes de Maïmouna Koné) : NON VÉRIFIÉS à ce jour.
 
-Il est 12h20.
+ÉTAT DES PÔLES
+- Pôle RH virtuel (poste vacant : il décide) : 21 réponses depuis la publication, dont 4 depuis hier 19h00 : Aboubacar Kouassi (19h41), Ousmane Yéo (20h02), Mariam Brou (21h34), Damien Yao (22h35), tous de niveau B. Correction : le rapport d'hier comptait 17 réponses et omettait Aboubacar Kouassi, reçu à 19h41 ; erreur de comptage de ma part.
+- Au-dessus du seuil de 70, le courriel professionnel a été fourni à Mohamed Coulibaly 91 (14h05), Kader Assi 84 (hier 19h25), Maïmouna Koné 79 (19h40), Brice Tapé 76 (14h40), Fabrice Koffi 76 (19h45). Aucun courriel reçu pour l'instant ; Kader Assi doit transmettre deux références en début de semaine. Jean-Baptiste Tuo (71) est traité par toi.
+- Sous le seuil : Cédric Soro 58, dossier gardé. Refus net : Hervé Touré (09h34). Sans réponse : Jonathan Ouattara, Landry Aka. En entretien : Ousmane Yéo, Mariam Brou, Damien Yao, Aboubacar Kouassi.
+- Instagram : vérification acceptée hier à 20h28, annonce version 2 publiée à 20h35. Reddit, Indeed et réseaux d'anciens : en attente.
+- Pôle juridique virtuel : Me Tano a répondu à 12h19, Me Gnamien à 16h49 ; Me Zadi n'est pas contacté.
+- Finance, technique, commercial : fermés jusqu'à la signature du directeur général.
+- Surveillance : vingt messages sortants relus depuis hier 18h25, tous conformes.
+- Budget d'API : 28,31 € sur 1 000 € ce mois-ci.
+
+Prochain rapport : demain à 20h00. »
+
+Il est 20h00.
 
 ---
 
 **Réponses attendues**
-- **Directeur général virtuel** : les réponses de Me Gnamien et de Me Tano à la demande de devis ; le rapport final, ce soir à 20h00 ; le compte rendu sur Kader Assi dans un prochain rapport.
+- **Directeur général virtuel** : tes deux réponses à son rapport (vérification des références pour tous les candidats au-dessus du seuil ; réponse à Me Gnamien avec des paramètres provisoires) ; le prochain rapport final, demain à 20h00.
 - **Jean-Baptiste Tuo** : pas de réponse à ton message de 19h44.
-- **Instagram** : la vérification de ton identité, annoncée sous 24 heures (envoyée à 00h40) : pas de nouvelle.
 - **Ministère de l'Éducation** (info@men.lu) : ton courriel de mardi à 12h14 n'a pas de réponse.
 
 **À faire / à fournir avant le tour suivant**
-- Aucune démarche en cours.
+- Tes deux réponses au rapport de 20h00.
 
 **Quêtes secondaires**
 - Rien en suspens en dehors de ce que tu as déjà noté.

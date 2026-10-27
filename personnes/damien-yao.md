@@ -32,3 +32,5 @@
 
 ## Historique
 - 19/07/2041 : fiche créée (tirage du générateur).
+- 20/07/2041, 14:25 : message de l'agent IA (T17 : poli_bref) : « Bonjour Monsieur Yao, merci pour votre réponse à l'annonce. Vous êtes banquier depuis cinq ans : sur quels types de dossiers, et avez-vous des liens avec des entreprises ivoiriennes ? Un retour à Abidjan est-il envisageable, et pour quand ? Cordialement, L'équipe du projet »
+- 20/07/2041, 19:20 : sa réponse à l'agent IA : « Bonjour. J'ai cinq ans dans une banque à Marseille, surtout du crédit aux professionnels, et des liens avec des PME ivoiriennes par des proches à Abidjan. Un retour est envisageable, mais pas avant d'avoir reconstitué mon épargne : dans deux ans environ. Cordialement, Damien Yao »
