@@ -35,3 +35,4 @@
 ## Historique avec William
 - 16/07/2041, 18h00 : répond à l'annonce (Educarriere.ci) : promotrice immobilière, veut se diversifier vers l'énergie (niveau B).
 - 17/07/2041, 18h09 : l'agent IA de William lui demande son numéro personnel (WhatsApp) ; réaction tirée en T17 : elle ne répond pas (« oublie de répondre aux messages pendant des jours »).
+- 18/07/2041, 20h43 : répond aux questions complémentaires (tirage : réponse dans les 24 h, passage de B à A refusé de peu) : quatorze ans de promotion immobilière, trois références joignables, demande de solaire chez les propriétaires d'immeubles ; ne dit rien du numéro demandé.

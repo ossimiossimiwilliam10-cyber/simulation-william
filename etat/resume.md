@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 27/10/2026 14:23 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 27/10/2026 14:30 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : jeudi 18/07/2041 18:03 (luxembourg, UTC+2)
+## Horloge : jeudi 18/07/2041 20:47 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 16:03 ; lisbonne 17:03 ; mindelo 15:03 ; casablanca 17:03 ; douala 17:03 ; addis 19:03 ; manille 00:03 ; paris 18:03 ; seoul 01:03 ; bresil 13:03
+- **Heure dans les autres lieux** : abidjan 18:47 ; lisbonne 19:47 ; mindelo 17:47 ; casablanca 19:47 ; douala 19:47 ; addis 21:47 ; manille 02:47 ; paris 20:47 ; seoul 03:47 ; bresil 15:47
 - **En attente de William** :
-  - Réponse de Nadège Kouamé (Claude prévient) ; prochain rapport de Claude demain à 18h00 ; réponse du ministère attendue ; demain vendredi : club l'après-midi (I1)
+  - Ce que William répond à Nadège Kouamé (Claude attend) ; prochain rapport de Claude demain à 18h00 ; demain vendredi : club l'après-midi (I1)
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **9 975,70 €**
@@ -38,8 +38,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-07-18.md, 6 dernières lignes)
-> # Jeudi 18 juillet 2041 — univers 3, troisième jour
-> - **00h00-18h03** (tour n° 9) : Soir du 17/07 : repas du soir, soirée à la maison, couché vers 23h40
-> - 18/07 : pluie (27 °C), lever à 08h05, journée à la maison ; 12h35 : Jean-Baptiste Tuo répond aux questions complémentaires (tirage) ; aucune réponse de Nadège Kouamé ni d'Hervé Touré ; RA007 (Yannick N'Guessan, niveau C) ; 18h00 : rapport de Claude : 581 impressions LinkedIn, 213 vues Educarriere.ci, 380 vues NovoJob ; sept réponses en tout (0 A, 3 B, 4 C)
 > - Tirages du tour : jet « Une personne répond à l'annonce sur LinkedIn entre 18:00 et  » → NON (82,8) ; jet « Une personne répond à l'annonce sur LinkedIn entre 19:00 et  » → NON (87,78) ; jet « Une personne répond à l'annonce sur LinkedIn entre 20:00 et  » → NON (80,71) ; jet « Une personne répond à l'annonce sur LinkedIn entre 21:00 et  » → NON (40,58) ; jet « Une personne répond à l'annonce sur
 > - Tour en cours à 18h03, en attente de William : **Réponse de Nadège Kouamé (Claude prévient) ; prochain rapport de Claude demain à 18h00 ; réponse du ministère attendue ; demain vendredi : club l'après-midi (I1)**.
+> - **18h03-20h47** (tour n° 10) : Soir du 18/07 : repas du soir vers 19h30 ; la pluie s'arrête vers 19h
+> - 20h43 : Nadège Kouamé répond aux questions complémentaires (tirage : 24 h, passage à A refusé de peu) ; 20h47 : alerte de Claude à William (promesse de prévenir dès qu'elle répond) : l'avance rapide s'arrête ; aucune autre réponse à l'annonce tirée jusqu'au 19/07 18h00
+> - Tirages du tour : jet « LinkedIn : impressions supplémentaires du 17/07 18h00 au 18/ » → NON (67,71) ; jet « Educarriere.ci : vues supplémentaires du 17/07 18h00 au 18/0 » → OUI (0,79) ; jet « NovoJob : vues supplémentaires du 17/07 18h00 au 18/07 18h00 » → NON (69,88) ; jet « Une personne répond à l'annonce sur LinkedIn entre 18:00 et  » → NON (61,43) ; jet « Une personne répond à l'annonce sur
+> - Tour en cours à 20h47, en attente de William : **Ce que William répond à Nadège Kouamé (Claude attend) ; prochain rapport de Claude demain à 18h00 ; demain vendredi : club l'après-midi (I1)**.

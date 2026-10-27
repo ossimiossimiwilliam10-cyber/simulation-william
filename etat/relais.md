@@ -1,19 +1,19 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 27/10/2026 14:23 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
+# Relais de la simulation — briefing généré le 27/10/2026 14:30 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : jeudi 18 juillet 2041, 18h03 (luxembourg) ; tour n° 9
+- Horloge : jeudi 18 juillet 2041, 20h47 (luxembourg) ; tour n° 10
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Réponse de Nadège Kouamé (Claude prévient) ; prochain rapport de Claude demain à 18h00 ; réponse du ministère attendue ; demain vendredi : club l'après-midi (I1)
+- En attente de William : Ce que William répond à Nadège Kouamé (Claude attend) ; prochain rapport de Claude demain à 18h00 ; demain vendredi : club l'après-midi (I1)
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 9 ; horloge 17/07/2041 18:12 -> 18/07/2041 18:03 ; enregistré le 27/10/2026 14:23 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 10 ; horloge 18/07/2041 18:03 -> 18/07/2041 20:47 ; enregistré le 27/10/2026 14:30 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
@@ -21,29 +21,23 @@
 
 ## Texte envoyé au joueur
 
-**JEUDI 18 JUILLET 2041 — 18h03 — Audun-le-Tiche, chez William**
+**JEUDI 18 JUILLET 2041 — 20h47 — Audun-le-Tiche, chez William**
 
-Mercredi soir, tu fais ton repas, le seul de la journée, et tu laisses la soirée filer au téléphone et sur le canapé. Tu te couches vers 23h40. Jeudi, la pluie tombe dès le matin, dense et tiède, et tu te lèves à 08h05 dans une maison sombre, volets mouillés, gouttières qui chantent. Tu restes chez toi. Un voisin traverse la rue en courant sous un parapluie retourné par le vent, la rue se vide, l'après-midi s'étire. Ton téléphone ne vibre pas : Claude ne t'a pas prévenu de la moindre réponse de Nadège Kouamé.
+Jeudi soir, la pluie s'essouffle vers sept heures et la rue sent la terre mouillée. Tu fais ton repas, le seul de la journée, et tu le manges vers 19h30, la fenêtre entrouverte sur le bruit des gouttes qui tombent des toits.
 
-À 18h00, le rapport :
+À 20h47, ton téléphone vibre : Claude.
 
-« Rapport de 18h00. LinkedIn : 581 impressions. Educarriere.ci : 213 vues. NovoJob : 380 vues. Indeed : le justificatif d'entreprise est toujours attendu.
-
-Une réponse depuis hier : Yannick N'Guessan (NovoJob, hier à 22h28), niveau C : sans emploi, trois ans d'expérience, références évasives, hors profil. Au total depuis la publication : sept réponses, aucune de niveau A, trois de niveau B, quatre de niveau C.
-
-Niveau B : Jean-Baptiste Tuo a répondu aux questions complémentaires à 12h35, par un long message : onze ans dans le négoce et la distribution, deux références, un grossiste et un ancien associé, que je n'ai pas pu joindre, et une lecture du marché qui explique surtout comment un investisseur devrait gérer son argent. Je le laisse en B. Hervé Touré n'a pas répondu. Nadège Kouamé n'a répondu ni aux questions complémentaires ni à ta demande de numéro ; je te préviens dès qu'elle répond. Prochain rapport demain à 18h00. »
-
-Il est 18h03.
+« Nadège Kouamé vient de répondre aux questions complémentaires (20h43, Educarriere.ci). Expérience : quatorze ans de promotion immobilière à Abidjan, surtout du résidentiel, quelques bâtiments commerciaux. Références : un notaire et deux clients, joignables ; je commence à vérifier. Lecture du marché : les propriétaires d'immeubles de bureaux et de commerces subissent des coupures et des factures élevées et demandent du solaire ; elle n'en a jamais installé elle-même et dit vouloir apprendre. Elle n'a pas parlé de ton numéro. Je la laisse en B : métier voisin, pas d'expérience du solaire. Dis-moi ce que tu veux que je lui réponde. »
 
 ---
 
 **Réponses attendues**
-- **Nadège Kouamé** (par Claude, Educarriere.ci) : ton message d'hier à 18h09 n'a pas de réponse.
-- **Claude** (ton agent IA) : le prochain rapport, demain à 18h00.
+- **Claude** (ton agent IA) : ce que tu veux répondre à Nadège Kouamé ; sinon, le prochain rapport demain à 18h00.
+- **Nadège Kouamé** (par Claude, Educarriere.ci) : ta demande de numéro d'hier à 18h09 est toujours sans réponse.
 - **Ministère de l'Éducation** (info@men.lu) : ton courriel de mardi à 12h14 n'a pas de réponse.
 
 **À faire / à fournir avant le tour suivant**
-- Aucune démarche en cours.
+- Dire à Claude quoi répondre à Nadège Kouamé (niveau B, références en cours de vérification).
 
 **Quêtes secondaires**
 - Rien en suspens en dehors de ce que tu as déjà noté.
@@ -58,7 +52,7 @@ Que veux-tu faire ?
 
 ## Décisions en attente de William (etat/fils-ouverts.md, A)
 | 1 | **Organisation des vacances d'été 2041** | Premier jour des grandes vacances scolaires (du mardi 16/07/2041 au dimanche 15/09/2041). Choix des projets, voyages, rythme de vie ou déplacements estivaux. Budget vacances disponible : 833 €/mois (10 000 €/an). | Ouvert |
-| 2 | **Stratégie d'entrepreneuriat à distance** | Âge optimal atteint (36 ans). William a la liberté et la surface financière pour amorcer son projet business à distance tout en respectant l'Art. 14 du statut des fonctionnaires luxembourgeois (F083-F086). Choix du statut juridique et de l'axe business à mûrir. ; *(16/07 10h46) (16/07 10h46) deux rapports de l'agent IA reçus, Brésil (09h41) puis Côte d'Ivoire (10h34), PDF dans documents_william/ ; cadre article 14 rappelé (associé non-gérant admis, gérance non) ; rien d'engagé, suite à décider par William* ; *(16/07 11h55) (16/07 11h55) budget envisagé de 300 000 € sur 2 à 3 ans (I6) ; l'agent IA répond : Côte d'Ivoire, SAS OHADA, solaire B2B ; rien d'engagé, décision de William* ; *(16/07 13h06) (16/07 13h06) décision : Côte d'Ivoire (I7) ; courriel au ministère envoyé à 12h14 (réponse attendue, A006 non connu) ; annonce de recherche d'un contact prête, non publiée, feu vert attendu* ; *(16/07 13h44) (16/07 13h44) annonce publiée (LinkedIn 13h09, Educarriere.ci 13h31) ; rapport de Claude à 18h00 (A007) ; autorisation donnée (I9)* ; *(16/07 18h02) (16/07 18h02) rapport de 18h00 : 1 réponse, arnaque de niveau C ignorée ; aucun A ni B ; prochain rapport le 17/07 à 18h00 (A009)* ; *(17/07 18h03) (17/07 18h03) rapport de 18h00 : trois profils B (Kouamé, Tuo, Touré), deux C (arnaque, hors profil), aucun A ; réponses aux questions complémentaires attendues ; prochain rapport le 18/07 à 18h00 (A010)* ; *(17/07 18h12) (17/07 18h12) demande du numéro personnel de Nadège Kouamé envoyée par Claude à 18h09, pas de réponse (T17 : ignore) ; Claude prévient dès qu'elle répond (I11)* ; *(18/07 18h03) (18/07 18h03) rapport de 18h00 : sept réponses (0 A, 3 B, 4 C) ; Tuo répond (B), Touré et Kouamé non ; prochain rapport le 19/07 à 18h00 (A011)* | Ouvert |
+| 2 | **Stratégie d'entrepreneuriat à distance** | Âge optimal atteint (36 ans). William a la liberté et la surface financière pour amorcer son projet business à distance tout en respectant l'Art. 14 du statut des fonctionnaires luxembourgeois (F083-F086). Choix du statut juridique et de l'axe business à mûrir. ; *(16/07 10h46) (16/07 10h46) deux rapports de l'agent IA reçus, Brésil (09h41) puis Côte d'Ivoire (10h34), PDF dans documents_william/ ; cadre article 14 rappelé (associé non-gérant admis, gérance non) ; rien d'engagé, suite à décider par William* ; *(16/07 11h55) (16/07 11h55) budget envisagé de 300 000 € sur 2 à 3 ans (I6) ; l'agent IA répond : Côte d'Ivoire, SAS OHADA, solaire B2B ; rien d'engagé, décision de William* ; *(16/07 13h06) (16/07 13h06) décision : Côte d'Ivoire (I7) ; courriel au ministère envoyé à 12h14 (réponse attendue, A006 non connu) ; annonce de recherche d'un contact prête, non publiée, feu vert attendu* ; *(16/07 13h44) (16/07 13h44) annonce publiée (LinkedIn 13h09, Educarriere.ci 13h31) ; rapport de Claude à 18h00 (A007) ; autorisation donnée (I9)* ; *(16/07 18h02) (16/07 18h02) rapport de 18h00 : 1 réponse, arnaque de niveau C ignorée ; aucun A ni B ; prochain rapport le 17/07 à 18h00 (A009)* ; *(17/07 18h03) (17/07 18h03) rapport de 18h00 : trois profils B (Kouamé, Tuo, Touré), deux C (arnaque, hors profil), aucun A ; réponses aux questions complémentaires attendues ; prochain rapport le 18/07 à 18h00 (A010)* ; *(17/07 18h12) (17/07 18h12) demande du numéro personnel de Nadège Kouamé envoyée par Claude à 18h09, pas de réponse (T17 : ignore) ; Claude prévient dès qu'elle répond (I11)* ; *(18/07 18h03) (18/07 18h03) rapport de 18h00 : sept réponses (0 A, 3 B, 4 C) ; Tuo répond (B), Touré et Kouamé non ; prochain rapport le 19/07 à 18h00 (A011)* ; *(18/07 20h47) (18/07 20h47) Nadège Kouamé répond aux questions complémentaires (B, références joignables, pas de solaire), pas au numéro ; Claude attend la réponse que William veut lui faire* | Ouvert |
 | 3 | **Entraînement sportif & préparation physique** | Entraînements au Minett Combat Club d'Esch-sur-Alzette (MMA, grappling, boxe thaïe, musculation). Cours d'été en place. Noter la fermeture annuelle du club du lundi 12/08/2041 au dimanche 25/08/2041 (agenda A003). ; *(16/07 10h46) (16/07) rythme de l'été fixé par William : lundi, mercredi, vendredi après-midi au club, course de 5 km le dimanche matin, rien le samedi ; voir A2 I1* ; *(17/07 18h03) (17/07) séance du mercredi faite au club (2 h) avec Thiago Alves et Arthur Kieffer ; prochaine : vendredi 19/07 l'après-midi (I1)* | Ouvert |
 | 4 | **Logistique personnelle & maison** | Maison d'Audun-le-Tiche (charges à jour, voiture électrique chargée). Rien d'urgent en panne. ; *(16/07 13h06) (16/07 12h33) abonnement à l'agent IA : 24,30 €/mois sur la Visa Debit, engagement de 12 mois jusqu'au 15/07/2042 (E016)* | Ouvert |
 
@@ -157,10 +151,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 9529e1a ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 9fcef12 ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 22 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 14 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 
