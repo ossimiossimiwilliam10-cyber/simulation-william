@@ -42,7 +42,7 @@ def personnage(nom):
 
 def zone_de(p):
     c = p.get("contexte") or ""
-    for suffixe, z in (("_manille", "manille"), ("_seoul", "seoul"), ("_bresil", "bresil")):
+    for suffixe, z in (("_manille", "manille"), ("_seoul", "seoul"), ("_bresil", "bresil"), ("_abidjan", "abidjan")):
         if c.endswith(suffixe):
             return z
     return "luxembourg"
@@ -98,7 +98,7 @@ def _dans(m, plage):
 def en_vacances(p, jour):
     """Vacances scolaires (pays du personnage) pour les élèves, étudiants et enseignants."""
     import calendrier_2040 as cal
-    pays = {"manille": "ph", "seoul": "kr", "bresil": "br"}.get(zone_de(p), "lu")
+    pays = {"manille": "ph", "seoul": "kr", "bresil": "br", "abidjan": "ci"}.get(zone_de(p), "lu")
     for l in cal.lire_donnees("calendrier-scolaire.csv"):
         if l.get("pays") == pays and l["periode"].startswith(("vacances", "conge")) and l["debut"] <= jour.isoformat() <= l["fin"]:
             return True

@@ -2106,3 +2106,33 @@ Effets à jouer : A23 (dimanche 21/07 (matin)) : Très courant ; William voit le
 - Jet « NovoJob : l annonce de William est validée par la modération dans l heure » : probabilité 55 %, jet  87.1 → **NON** (enregistré le 27/10/2026 13:56 heure machine)
 
 - Jet « NovoJob : l annonce de William est validée par la modération dans les 24 heures (sinon refusée : ce n est pas une offre d emploi) » : probabilité 60 %, jet  23.8 → **OUI** (enregistré le 27/10/2026 13:56 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn entre 13:44 et 14:44 » : probabilité 27.2866 %, jet  16.5 → **OUI** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:06 heure machine)
+
+- Jet « Minute d'arrivée de la réponse (LinkedIn, 13:44-14:44) : minute = jet × durée / 100 » : probabilité 50 %, jet  79.3 → **NON** [PROCÉDURE : minute dans une fenêtre d'une heure] (enregistré le 27/10/2026 14:06 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn entre 14:44 et 15:44 » : probabilité 23.1936 %, jet  41.3 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:06 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn entre 15:44 et 16:44 » : probabilité 19.7145 %, jet  89.4 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:06 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn entre 16:44 et 17:44 » : probabilité 16.7574 %, jet  76.7 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:06 heure machine)
+
+- Jet « Une personne répond à l'annonce sur LinkedIn entre 17:44 et 18:00 » : probabilité 3.79834 %, jet  10.4 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:06 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Educarriere.ci entre 13:44 et 14:44 » : probabilité 53.097 %, jet  70.1 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:06 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Educarriere.ci entre 14:44 et 15:44 » : probabilité 45.1325 %, jet  77.6 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:06 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Educarriere.ci entre 15:44 et 16:44 » : probabilité 38.3626 %, jet  80.7 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:06 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Educarriere.ci entre 16:44 et 17:44 » : probabilité 32.6082 %, jet  86.4 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:06 heure machine)
+
+- Jet « Une personne répond à l'annonce sur Educarriere.ci entre 17:44 et 18:00 » : probabilité 7.39119 %, jet  68.0 → **NON** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:06 heure machine)
+
+- Jet « Le répondant de 14:32 (LinkedIn) est une arnaque aux frais d'avance (profil créé pour l'occasion) » : probabilité 12 %, jet   4.4 → **OUI** [DÉROGATION : flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée (proposition à la revue du lundi 22/07/2041)] (enregistré le 27/10/2026 14:06 heure machine)
+
+- Jet « LinkedIn : nombre d'impressions de l'annonce de William à 18h00 (150 + jet × 9) » : probabilité 50 %, jet   6.1 → **OUI** [PROCÉDURE : chiffre d'audience d'une publication] (enregistré le 27/10/2026 14:07 heure machine)
+
+- Jet « Educarriere.ci : nombre de vues de l'annonce à 18h00 (40 + jet × 3,5) » : probabilité 50 %, jet  25.1 → **OUI** [PROCÉDURE : chiffre d'audience d'une publication] (enregistré le 27/10/2026 14:07 heure machine)
+
+- Jet « Frais d'avance demandés par le répondant frauduleux de 14h32 (100 000 + jet × 4 000 FCFA, arrondi à 10 000) » : probabilité 50 %, jet  81.0 → **NON** [PROCÉDURE : montant d'une demande de frais d'avance] (enregistré le 27/10/2026 14:07 heure machine)

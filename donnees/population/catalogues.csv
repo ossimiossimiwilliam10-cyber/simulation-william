@@ -191,3 +191,18 @@ secret;a promis les mêmes contacts à plusieurs partenaires;1;;1;bresil,actif,a
 secret;a une relation en dehors de son couple;1;;2;bresil,en_couple
 loisir;churrasco en famille le dimanche;2;E+;;bresil
 loisir;plage, forró et sorties entre amis;2;E+;;bresil
+objectif;faire croître son bureau d'études avec des clients internationaux;3;C+;;abidjan,actif,age:30-60
+objectif;trouver un partenaire européen pour financer un projet;3;O+;;abidjan,actif
+objectif;acheter un terrain et construire sa maison à Abidjan;3;;;abidjan,age:28-55
+objectif;obtenir un poste de direction dans une grande entreprise;2;C+;;abidjan,actif,age:30-55
+souci;coupures de courant et facture d'électricité lourde pour son activité;3;;;abidjan,actif
+souci;embouteillages et trajets de deux heures entre Abidjan et son travail;3;;;abidjan,actif
+souci;loyer et frais de scolarité des enfants qui absorbent le salaire;3;;;abidjan,parent
+souci;clients qui paient avec des mois de retard;3;;;abidjan,actif
+secret;a accepté une commission non déclarée pour obtenir un marché;1;;2;abidjan,actif
+secret;a gonflé son expérience ou son diplôme sur son CV;1;;2;abidjan,actif
+secret;doit de l'argent à une tontine ou à un prêteur;1;;1;abidjan
+secret;envoie de l'argent à une famille élargie qui en demande toujours plus;1;;1;abidjan
+loisir;maquis et football entre amis le week-end;2;E+;;abidjan
+loisir;culte ou messe du dimanche puis repas en famille;2;A+;;abidjan
+loisir;marché de Treichville ou de Cocody le samedi;1;;;abidjan

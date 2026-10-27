@@ -36,3 +36,10 @@
 - **Secret (moteur seulement)** : a une condamnation ancienne (conduite en état d'ivresse) (gravité 2)
 - **Horaires** : règle « bureau », fuseau luxembourg, décalage -29 min ; travail 08:31-17:01 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:01-06:31
 - **Derniers événements** : 20/06 petit_evenement (achat (petit électroménager)); 24/06 coup_dur (dispute sérieuse ou mauvaise nouvelle dans la famille); 02/07 sans_histoire; 11/07 sans_histoire; 19/07 avancee_objectif (démarche pour son objectif : obtenir une promotion ou un poste plus stable)
+
+### Eugène Doumbia (répondant à l'annonce)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : faire croître son bureau d'études avec des clients internationaux ; **souci** : voisin bruyant ; **foyer** : en couple, avec enfants
+- **Secret (moteur seulement)** : cherche un autre travail en cachette (gravité 1)
+- **Horaires** : règle « bureau », fuseau abidjan, décalage +11 min ; travail 09:11-17:41 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:41-07:11
+- **Derniers événements** : —

@@ -20,3 +20,5 @@ rencontre_seoul;seoul;20;29;45;0.5;vous;Séoul;rencontre adulte à Séoul (café
 commerce_seoul;seoul;19;34;60;0.55;vous;Séoul;personnel d'hôtel, de commerce, de transport à Séoul (19 ans au moins, F087)
 voisin_officetel;seoul;19;31;65;0.5;vous;Séoul (Mapo-gu);voisins et gardiens de l'immeuble de William à Séoul (19 ans au moins, F087)
 business_bresil;bresil;25;42;62;0.25;vous;Brésil (Minas Gerais, São Paulo, Ceará);contacts d'affaires brésiliens (énergie solaire, finance)
+candidat_annonce_abidjan;abidjan;27;42;65;0.30;vous;Abidjan (Cocody, Plateau, Marcory, Riviera, Yopougon);personnes qui répondent à l'annonce de William (solaire, Côte d'Ivoire)
+business_abidjan;abidjan;28;44;65;0.25;vous;Abidjan;contacts d'affaires ivoiriens (énergie, immobilier, agro-industrie)

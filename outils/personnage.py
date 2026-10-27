@@ -72,7 +72,11 @@ METIERS_BRESIL = [("ingénieur(e) ou technicien(ne) (énergie, industrie)", 10),
                   ("comptable ou conseiller(ère) financier(ère)", 8), ("infirmier(ère) ou aide-soignant(e)", 6),
                   ("chauffeur (VTC, camion, livraison)", 8), ("agent immobilier ou courtier", 4), ("sans emploi", 7),
                   ("étudiant(e)", 6), ("fonctionnaire", 3)]
-LOCALES = {"audun": ("française",), "manille": ("philippine",), "seoul": ("sud-coréenne",), "bresil": ("brésilienne",)}  # nationalités « d'ici » par zone (défaut : Luxembourg)
+METIERS_ABIDJAN = [("ingénieur(e) en énergie, électricité ou bâtiment", 12), ("consultant(e) ou chef de projet", 10), ("enseignant(e)-chercheur(se) ou docteur(e)", 4),
+                   ("cadre de banque, d'assurance ou d'entreprise", 14), ("commerçant(e) ou entrepreneur(se)", 16), ("comptable ou gestionnaire", 9),
+                   ("technicien(ne) (installation, maintenance)", 8), ("agent immobilier ou promoteur", 4), ("employé(e) de bureau", 9),
+                   ("sans emploi ou en recherche d'opportunités", 8), ("étudiant(e)", 3), ("fonctionnaire", 3)]
+LOCALES = {"audun": ("française",), "manille": ("philippine",), "seoul": ("sud-coréenne",), "bresil": ("brésilienne",), "abidjan": ("ivoirienne",)}  # nationalités « d'ici » par zone (défaut : Luxembourg)
 ROLES_F = ("directrice", "voisine", "boulangère", "vendeuse", "serveuse", "infirmière", "caissière", "coiffeuse", "banquière",
            "conseillère", "professeure", "entraîneuse", "avocate", "policière", "pharmacienne", "secrétaire générale", "mère",
            "sœur", "tante", "cousine", "fille", "épouse", "femme", "patronne", "gérante", "élève (fille)", "collègue (femme)")
@@ -151,7 +155,7 @@ def cohorte(annee):
 
 def tirer_prenom(rng, origine, sexe, annee, zone):
     prenoms = table("prenoms.csv")
-    hote = {"audun": "fr", "manille": "ph", "seoul": "kr", "bresil": "br"}.get(zone, "lu")
+    hote = {"audun": "fr", "manille": "ph", "seoul": "kr", "bresil": "br", "abidjan": "ci"}.get(zone, "lu")
     if origine not in (hote, "lu", "fr") and rng.random() < 0.25:
         origine = hote  # descendants : prénom du pays d'accueil
     voulu = cohorte(annee)
@@ -211,11 +215,11 @@ def situation(a, metier, foyer, nationalite, zone):
             "en_couple": en_couple, "seul": not en_couple, "veuf": "veuf" in f,
             "parent": any(x in f for x in ("avec enfants", "enfants en bas âge", "parent isolé")),
             "immigre": not any(nat.startswith(x) for x in locales + ("luxembourgeoise",)
-                             if zone not in ("manille", "seoul", "bresil") or x in LOCALES.get(zone, ())),
+                             if zone not in ("manille", "seoul", "bresil", "abidjan") or x in LOCALES.get(zone, ())),
             "non_lu": not nat.startswith("luxembourgeoise"),
             "reside_lu": zone in ("luxembourg_ville", "esch", "lycee", "club_mma"),
-            "europe": zone not in ("manille", "seoul", "bresil"), "manille": zone == "manille",
-            "seoul": zone == "seoul", "bresil": zone == "bresil"}
+            "europe": zone not in ("manille", "seoul", "bresil", "abidjan"), "manille": zone == "manille",
+            "seoul": zone == "seoul", "bresil": zone == "bresil", "abidjan": zone == "abidjan"}
 
 
 def convient(condition, s):
@@ -313,7 +317,7 @@ def tirer_metier(rng, ctx, role, a):
         return "retraité(e)", ""
     # pas de retraité avant 58 ans (départs anticipés pour carrière longue au plus tôt), pas d'étudiant après 30 ans (12/10/2026)
     liste = [(m, p) for m, p in (METIERS_AUDUN if ctx["zone"] == "audun" else METIERS_MANILLE if ctx["zone"] == "manille" else METIERS_SEOUL if ctx["zone"] == "seoul"
-             else METIERS_BRESIL if ctx["zone"] == "bresil" else METIERS_REGION)
+             else METIERS_BRESIL if ctx["zone"] == "bresil" else METIERS_ABIDJAN if ctx["zone"] == "abidjan" else METIERS_REGION)
              if not (("retraité" in m and a < 58) or ("étudiant" in m and a >= 30))]
     return pondere(rng, liste), ""
 
@@ -707,7 +711,7 @@ def cmd_completer(args):
     ctx = contextes().get(cible["contexte"])
     zone = args.zone or (ctx["zone"] if ctx else None)
     if zone not in {z["zone"] for z in table("zones.csv")}:
-        sys.exit("Zone inconnue ou absente : préciser --zone (seoul, bresil, manille, audun…).")
+        sys.exit("Zone inconnue ou absente : préciser --zone (seoul, bresil, abidjan, manille, audun…).")
     a = age(cible["naissance"], aujourd_hui())
     if a < 18:
         sys.exit(f"{cible['nom']} a moins de 18 ans : aucun tirage relationnel.")

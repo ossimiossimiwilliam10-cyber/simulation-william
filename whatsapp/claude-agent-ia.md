@@ -23,3 +23,7 @@ Pour répondre : parcours, trois références et votre lecture du marché. Aucun
 **[16/07/2041 - 13:07 (Audun-le-Tiche)] William :** Je te donne mon autorisation : publie l'annonce, applique tes règles de tri, la réponse automatique et le rapport de 18h00.
 **[16/07/2041 - 13:11 (Audun-le-Tiche)] Claude :** C'est fait. LinkedIn : annonce publiée à 13h09, depuis ton profil. Educarriere.ci : en modération. NovoJob : en modération. Indeed : j'attends le justificatif d'entreprise. Aucun paiement n'a été demandé ni fait. Je trie et je réponds selon les règles, rien d'autre. Rapport à 18h00.
 **[16/07/2041 - 13:31 (Audun-le-Tiche)] Claude :** Educarriere.ci : annonce validée et en ligne. NovoJob est toujours en modération.
+**[16/07/2041 - 18:00 (Audun-le-Tiche)] Claude :** Rapport de 18h00.
+LinkedIn : 205 impressions, 1 réponse. Educarriere.ci : 128 vues, aucune réponse. NovoJob : toujours en modération. Indeed : le justificatif d'entreprise est toujours attendu.
+Réponse reçue à 14h32 sur LinkedIn : niveau C. Profil créé récemment, expérience annoncée très élevée, aucune référence joignable. Après mon accusé de réception, la personne a demandé 420 000 FCFA (environ 640 €) de « frais de dossier » avant d'aller plus loin. Je n'ai pas répondu, conformément à la règle C.
+Aucun profil de niveau A ou B pour l'instant. Prochain rapport demain à 18h00.

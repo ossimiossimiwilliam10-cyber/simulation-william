@@ -196,6 +196,9 @@ def main():
              nom="téléphone : écran d'accueil et douze applications (Fichiers : 27/10/2026)")
     e.lancer(o + "telephone.py", "--json", contient='"lien": "file:///',
              nom="téléphone : application Fichiers, adresse directe du fichier du PC (mode direct)")
+    e.lancer(o + "annonces.py", "tirer", "--jusqua", "2041-07-17 12:00", "--simule", contient="réponse(s) tirée(s)",
+             nom="annonces : réponses à une annonce publique (essai : répondants d'Abidjan par le générateur, rien d'écrit)")
+    e.lancer(o + "annonces.py", "verifier", contient="conforme", nom="annonces : fichier des annonces conforme")
     e.lancer(o + "telephone.py", "--json", contient='"epingle"', nom="téléphone : conversations épinglées (etat/epingles.csv)")
     e.lancer(o + "telephone.py", "--fichiers", contient="[]",
              nom="téléphone : en mode direct, aucun PDF n'est publié avec la page")

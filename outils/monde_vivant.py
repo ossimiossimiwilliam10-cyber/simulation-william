@@ -76,7 +76,9 @@ TRANSPORTS = {"manille": ["embouteillage monstre sur l'EDSA", "rue inondée apr�
               "seoul": ["métro bondé aux heures de pointe", "averse de mousson sans parapluie", "bus en retard sur la ligne de Mapo",
                         "chaleur écrasante dans les couloirs du métro"],
               "bresil": ["embouteillage sur la rodovia", "pluie torrentielle sur la ville", "vol intérieur retardé",
-                         "coupure d'électricité dans le quartier"]}
+                         "coupure d'électricité dans le quartier"],
+              "abidjan": ["embouteillage monstre au pont Houphouët-Boigny", "averse qui inonde la rue", "coupure de courant dans le quartier",
+                          "gbaka en panne sur le boulevard"]}
 
 
 # ---------------------------------------------------------------- personnages et liens
@@ -158,13 +160,13 @@ def etat_lien(p, jour, echanges=None, fixes=None):
 
 # ---------------------------------------------------------------- tirages
 def pays_de(p):
-    return {"manille": "ph", "seoul": "kr", "bresil": "br"}.get(routines.zone_de(p), "lu")  # Séoul et Brésil : 22/10/2026
+    return {"manille": "ph", "seoul": "kr", "bresil": "br", "abidjan": "ci"}.get(routines.zone_de(p), "lu")  # Séoul et Brésil : 22/10/2026 ; Abidjan : 27/10/2026
 
 
 def ferie_proche(p, jour):
     import calendrier_2040 as cal
     pays = pays_de(p)
-    pays_liste = {"ph": ("ph",), "kr": ("kr",), "br": ()}.get(pays, ("lu", "fr"))  # pas de fériés du Brésil dans calendrier_2040.py
+    pays_liste = {"ph": ("ph",), "kr": ("kr",), "br": (), "ci": ("ci",)}.get(pays, ("lu", "fr"))  # pas de fériés du Brésil dans calendrier_2040.py
     for pp in pays_liste:
         try:
             for d, nom, _ in cal.fetes(jour.year, pp):
