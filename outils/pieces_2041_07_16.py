@@ -119,6 +119,41 @@ def annonce():
     pdf.sauver(chemin("documents_william", "2041-07-16_Annonce_et_règles_de_l_agent_IA_Côte_d_Ivoire.pdf"))
 
 
+def regles_v2():
+    """Règles de l'agent IA, version du 18/07/2041 (consigne permanente de William, 22h15 : entretien des profils A et B, seuil de contact, réseaux sociaux)."""
+    pdf = DocPDF("Règles de l'agent IA : version du 18 juillet 2041", "Projet solaire en Côte d'Ivoire · remplace le brouillon du 16 juillet", auteur="Claude (agent IA)",
+                 pied="Règles de l'agent IA — version 2")
+    pdf.titre1("1. Tri et entretien")
+    pdf.puces([
+        "Le tri A, B, C ne change pas (dix ans d'expérience, références vérifiables, métier pertinent, absence de signal d'alerte).",
+        "Pour chaque profil A ou B : étude de son parcours public, puis entretien sur ce qu'il peut apporter au projet, puis note sur 100.",
+        "Cinq critères : réseau utile en clients potentiels (30 points), pertinence pour le solaire (25), accès réel aux décideurs et introductions déjà faites (20), "
+        "fiabilité (15), disponibilité et motivation (10).",
+        "Seuil de contact : 70 sur 100. De 60 à 69, second entretien. Sous 60, dossier gardé. Au-dessus du seuil, l'agent obtient le numéro de la personne et le transmet à William.",
+        "Une question qui touche au projet (montant, calendrier, rôle) ou à l'identité de William est posée à William avant toute réponse.",
+    ], taille=9.5)
+    pdf.titre1("2. Plateformes")
+    pdf.tableau(["Plateforme", "État au 18/07/2041, 23h08", "Détail"], [
+        ["LinkedIn", "En ligne", "Publication depuis le profil de William."],
+        ["Educarriere.ci", "En ligne", ""],
+        ["NovoJob", "En ligne", ""],
+        ["CoinAfrique", "En ligne", "Annonce validée à 22h58 (compte annonceur du projet)."],
+        ["Kosafi Annonce CI", "En ligne", "Annonce validée à 22h51 (compte annonceur du projet)."],
+        ["Facebook", "En attente", "Compte du projet créé ; publication envoyée dans des groupes d'entrepreneurs, d'ingénieurs et d'immobilier d'Abidjan, en attente de l'approbation des administrateurs."],
+        ["Instagram", "Bloqué", "Compte bloqué à la création : pièce d'identité et vidéo-selfie demandées. Décision de William."],
+        ["Reddit", "En attente", "Compte du projet créé, trop récent pour publier dans les communautés ivoiriennes ; nouvel essai dans quelques jours."],
+        ["Indeed", "En attente", "Justificatif d'entreprise demandé."],
+        ["Emploi.ci", "Refusé", "Société immatriculée en Côte d'Ivoire exigée."],
+    ], [32, 34, 108], taille=9)
+    pdf.titre1("3. Limites de l'agent")
+    pdf.puces([
+        "Autorisation permanente de William (18/07/2041) : publier sur les réseaux sociaux et les sites locaux, sous un compte du projet, sans le nom de William.",
+        "Aucune promesse, aucun engagement, aucun paiement, aucun document signé ; jamais de frais d'avance.",
+        "Le nom et le numéro de William ne sont donnés qu'avec sa décision.",
+    ], taille=9.5)
+    pdf.sauver(chemin("documents_william", "2041-07-18_Règles_de_l_agent_IA_version_2.pdf"))
+
+
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else ""
     if cmd in ("courriel-ministere", "tout"):
@@ -127,5 +162,7 @@ if __name__ == "__main__":
         abonnement()
     if cmd in ("annonce", "tout"):
         annonce()
-    if cmd not in ("courriel-ministere", "abonnement", "annonce", "tout"):
+    if cmd == "regles-v2":
+        regles_v2()
+    if cmd not in ("courriel-ministere", "abonnement", "annonce", "regles-v2", "tout"):
         sys.exit(__doc__)

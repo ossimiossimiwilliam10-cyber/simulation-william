@@ -32,3 +32,4 @@
 
 ## Historique
 - 16/07/2041 : fiche créée (tirage du générateur).
+- 18/07/2041, 22h25 : l'agent IA de William l'interroge (entretien des profils B) ; T17 : poli_bref ; T10 : dans la journée : réponse prévue le 19/07 à 01h20 (heure de Luxembourg).

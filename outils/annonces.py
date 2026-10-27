@@ -35,7 +35,10 @@ ANNONCES = ETAT / "annonces.csv"
 REPONSES = ETAT / "reponses-annonce.csv"
 COL_A = ["id", "plateforme", "publiee_le", "etat", "traitee_jusqua", "note"]
 COL_R = ["id", "quand", "plateforme", "nom", "niveau", "profil", "signaux", "note"]
-TAUX = {"LinkedIn": 0.30, "Educarriere.ci": 0.55, "NovoJob": 0.50, "Indeed": 0.0}  # réponses attendues par heure juste après la publication
+TAUX = {"LinkedIn": 0.30, "Educarriere.ci": 0.55, "NovoJob": 0.50, "Indeed": 0.0, "Facebook": 0.70, "Instagram": 0.10, "Reddit": 0.10, "CoinAfrique": 0.35,
+        "Kosafi Annonce CI": 0.25}  # réponses attendues par heure juste après la publication (réseaux sociaux : plus de monde, moins de sérieux)
+ARNAQUE = {"Facebook": 22, "Instagram": 20, "Reddit": 15, "CoinAfrique": 20, "Kosafi Annonce CI": 20}  # part d'arnaques aux frais d'avance (défaut : 12 %)
+SEUIL_CONTACT = 70  # note sur 100 à partir de laquelle l'agent obtient le numéro du répondant pour William (18/07/2041 ; 60 à 69 : second entretien)
 DEROGATION = ("flux d'arrivée de répondants à une annonce publique : aucun personnage n'existe avant sa réponse, pas de table validée "
               "(proposition à la revue du lundi 22/07/2041)")
 RESEAUX = ETAT / "reseaux-repondants.csv"
@@ -106,7 +109,7 @@ def tirer(jusqua, simule=False):
     sortie = []
     existants = reponses()
     for a, quand in sorted(resultats, key=lambda x: x[1]):
-        arnaque = jet.tirer_libre(f"Le répondant de {quand:%H:%M} ({a['plateforme']}) est une arnaque aux frais d'avance (profil créé pour l'occasion)", 12,
+        arnaque = jet.tirer_libre(f"Le répondant de {quand:%H:%M} ({a['plateforme']}) est une arnaque aux frais d'avance (profil créé pour l'occasion)", ARNAQUE.get(a["plateforme"], 12),
                                   derogation=DEROGATION, simule=simule)["oui"]
         nom, desc = creer_repondant(figurant=arnaque, simule=simule)
         lignes_desc = desc.splitlines()
@@ -150,9 +153,10 @@ def reseau(nom, simule=False):
         sys.exit(f"Le réseau de {p['nom']} est déjà tiré (jamais rejoué) : python outils/annonces.py voir-reseau \"{p['nom']}\"")
     d = "réseau d'un répondant à une annonce publique : pas de table validée (proposition R6, revue du lundi 22/07/2041)"
     j = lambda lib: jet.tirer_libre(lib, 50, procedure="valeur d'un attribut de réseau (jet × 100)", simule=simule)["jet"]
-    proprietaires = 4 + int(j(f"{p['nom']} : nombre de propriétaires ou d'entreprises qu'elle peut présenter (4 + jet × 0,36)") * 0.36)
-    decideurs = int(30 + j(f"{p['nom']} : part qu'elle joint jusqu'au décideur (30 + jet × 0,5 %)") * 0.5)
-    factures = int(20 + j(f"{p['nom']} : part dont la facture d'électricité est élevée (20 + jet × 0,4 %)") * 0.4)
+    pert = pertinence(p.get("metier", ""))
+    proprietaires = 4 + 4 * pert + int(j(f"{p['nom']} : nombre de propriétaires ou d'entreprises qu'il ou elle peut présenter (4 + 4 × pertinence du métier + jet × 0,36)") * 0.36)
+    decideurs = int(30 + 5 * pert + j(f"{p['nom']} : part joignable jusqu'au décideur (30 + 5 × pertinence + jet × 0,5 %)") * 0.5)
+    factures = int(20 + 5 * pert + j(f"{p['nom']} : part dont la facture d'électricité est élevée (20 + 5 × pertinence + jet × 0,4 %)") * 0.4)
     intros = int(j(f"{p['nom']} : introductions déjà faites dans un projet comparable (jet / 25)") / 25)
     motivation = round(0.5 + j(f"{p['nom']} : motivation et disponibilité (0,5 + jet / 200)") / 200, 2)
     oubli = 0
@@ -209,7 +213,7 @@ def main():
     else:
         ok = True
         for a in annonces():
-            if a["etat"] not in ("en_ligne", "moderation", "refusee", "en_attente"):
+            if a["etat"] not in ("en_ligne", "moderation", "refusee", "en_attente", "bloque"):
                 ok = False
                 print("état inconnu :", a)
         print("annonces.csv : conforme" if ok else "annonces.csv : à corriger")

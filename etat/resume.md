@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 27/10/2026 14:46 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 27/10/2026 14:58 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : jeudi 18/07/2041 22:09 (luxembourg, UTC+2)
+## Horloge : jeudi 18/07/2041 23:10 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 20:09 ; lisbonne 21:09 ; mindelo 19:09 ; casablanca 21:09 ; douala 21:09 ; addis 23:09 ; manille 04:09 ; paris 22:09 ; seoul 05:09 ; bresil 17:09
+- **Heure dans les autres lieux** : abidjan 21:10 ; lisbonne 22:10 ; mindelo 20:10 ; casablanca 22:10 ; douala 22:10 ; addis 00:10 ; manille 05:10 ; paris 23:10 ; seoul 06:10 ; bresil 18:10
 - **En attente de William** :
-  - Ce que William répond aux questions de Nadège Kouamé (Claude attend) ; prochain rapport de Claude demain à 18h00 ; demain vendredi : club l'après-midi (I1)
+  - Décisions de William sur Instagram (identité) et sur les questions de Nadège Kouamé ; notes des profils B à venir (seuil 70) ; prochain rapport de Claude demain à 18h00
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **9 975,70 €**
@@ -15,7 +15,8 @@
 - Patrimoine net de William : **852 983,92 €**
 - Prévu dans les 14 jours : 31/07 Traitement mensuel de William (9 320,00 €) ; 01/08 Minett Combat Club (-85,00 €) ; 01/08 Package bancaire Zebra Premium (-12,83 €)
 
-## Agenda : dans les 24 heures (1)
+## Agenda : dans les 24 heures (2)
+- A014 Fri 19/07 01:20 (luxembourg) | Jean-Baptiste Tuo (educarriere) : réponse de Jean-Baptiste Tuo au premier message de l'entretien de l'agent IA (T17 : poli_bref = réponse polie et brève) : quelques lignes sur son parcours, sans prolonger , donneur de leçons : ton sentencieux , réseau à tirer par annonces.py reseau au moment de la note · souci : dettes de jeu · objectif : obtenir un poste de direction dans une grande entreprise · foyer : en couple, enfants partis · défauts : donneur de leçons sur la santé, l'argent ou l'éducation / aime les commérages et répète ce qu'on lui confie [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : dans_la_journee (jet 69.8) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=jean-baptiste-tuo canal=educarriere]
 - A011 Fri 19/07 18:00 (luxembourg) | Claude (agent IA) : Rapport quotidien de l'agent IA à William : réponses à l'annonce (niveaux A, B, C), signaux d'alerte, état des plateformes [prevu]
 ## Agenda : de J+1 à J+7 (3)
 - A005 Sat 20/07 20:30 (luxembourg) | William (santé) : Aléa A31 (tirage réel du 16/07/2041) : diarrhée du voyageur ou intoxication alimentaire, seulement si William est à l'étranger ce jour-là ; sinon sans objet (à clore ainsi) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
@@ -24,7 +25,7 @@
 (Les lignes « NON CONNU DE WILLIAM » servent au moteur : ne jamais les montrer au joueur avant le jour dit.)
 
 ## Affaires ouvertes (T4/T5 chaque dimanche soir)
-- affaire_projet_ci_annonce : 3 informé(s) hors William ; fuite interne 9 %, externe 3 %
+- affaire_projet_ci_annonce : 5 informé(s) hors William ; fuite interne 15 %, externe 5 %
 - affaire_projet_ci_art14 : 1 informé(s) hors William ; fuite interne 3 %, externe 1 %
 
 ## Fêtes et fériés dans les 30 jours
@@ -38,9 +39,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-07-18.md, 6 dernières lignes)
-> - **20h47-21h27** (tour n° 11) : 20h50 : William charge Claude d'évaluer le réseau de Nadège Kouamé en clients potentiels et de la noter (numéro si plus de 80) ; 20h52 : grille de Claude (cinq critères sur 100) ; 20h55 : premier message de l'entretien sur Educarriere.ci (T17 : poli_bref, T10 : rapide) ; 21h23 : réponse brève (environ 35 propriétaires et gérants d'immeubles) ; 21h27 : point de Clau
-> - Tirages du tour : jet « Hervé Touré répond aux questions complémentaires de l'agent  » → NON (46,35) ; jet « Nadège Kouamé : sa réponse du jeudi 18/07 à 20h43 montre une » → NON (26,82) ; T17 Nadège → poli_bref (22,43) ; T10 Nadège → rapide (15,01) ; jet « Nadège Kouamé : nombre de propriétaires ou d'entreprises qu' » → NON (87,47) ; jet « Nadège Kouamé : part qu'elle joint jusqu'au décideur (30
-> - Tour en cours à 21h27, en attente de William : **Note de Nadège Kouamé par Claude (entretien en cours, I12) ; prochain rapport de Claude demain à 18h00 ; demain vendredi : club l'après-midi (I1)**.
-> - **21h27-22h09** (tour n° 12) : 21h30 : deuxième message de l'entretien (T17 : conversation, T10 : rapide) ; 21h55 : réponse détaillée de Nadège Kouamé et ses questions sur le projet ; 22h08 : Claude rend sa note à William : 53/100 (réseau utile 12,6 ; pertinence solaire 11,7 ; accès réel 10,7 ; fiabilité 11,5 ; disponibilité 6,6) ; sous le seuil de 80 : pas de recherche de son numéro ; Claude n'
 > - Tirages du tour : T17 Nadège → conversation (33,93) ; T10 Nadège → rapide (20,2).
 > - Tour en cours à 22h09, en attente de William : **Ce que William répond aux questions de Nadège Kouamé (Claude attend) ; prochain rapport de Claude demain à 18h00 ; demain vendredi : club l'après-midi (I1)**.
+> - **22h09-23h10** (tour n° 13) : 22h15 : consigne permanente de William à Claude (entretien des profils A et B, seuil de contact, réseaux sociaux et sites locaux, autorisation permanente) ; 22h18 : réponse de Claude (seuil 70, 60-69 second entretien, sous 60 dossier gardé) ; 22h25 : entretiens lancés avec Jean-Baptiste Tuo (T17 : poli_bref, réponse le 19/07 à 01h20) et Hervé Touré (T17 : reciproqu
+> - 22h40-23h05 : Claude ouvre des comptes du projet : Facebook (groupes d'Abidjan, approbation attendue), CoinAfrique et Kosafi Annonce CI (annonces en ligne), Instagram (bloqué, identité demandée), Reddit (compte trop récent) ; 23h08 : point de Claude ; PDF des règles de l'agent (version 2) dans documents_william/
+> - Tirages du tour : T17 Nadège → conversation (33,93) ; T10 Nadège → rapide (20,2) ; jet « Facebook : le compte du projet est créé sans blocage (vérifi » → OUI (18,54) ; jet « Instagram : le compte du projet est créé sans blocage » → NON (80,64) ; jet « Reddit : le compte du projet est créé et autorisé à publier  » → NON (60,91) ; jet « CoinAfrique : le compte annonceur est créé sans justificatif 
+> - Tour en cours à 23h10, en attente de William : **Décisions de William sur Instagram (identité) et sur les questions de Nadège Kouamé ; notes des profils B à venir (seuil 70) ; prochain rapport de Claude demain à 18h00**.

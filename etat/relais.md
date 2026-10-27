@@ -1,44 +1,55 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 27/10/2026 14:46 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
+# Relais de la simulation — briefing généré le 27/10/2026 14:58 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : jeudi 18 juillet 2041, 22h09 (luxembourg) ; tour n° 12
+- Horloge : jeudi 18 juillet 2041, 23h10 (luxembourg) ; tour n° 13
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Ce que William répond aux questions de Nadège Kouamé (Claude attend) ; prochain rapport de Claude demain à 18h00 ; demain vendredi : club l'après-midi (I1)
+- En attente de William : Décisions de William sur Instagram (identité) et sur les questions de Nadège Kouamé ; notes des profils B à venir (seuil 70) ; prochain rapport de Claude demain à 18h00
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 12 ; horloge 18/07/2041 21:27 -> 18/07/2041 22:09 ; enregistré le 27/10/2026 14:46 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 13 ; horloge 18/07/2041 22:09 -> 18/07/2041 23:10 ; enregistré le 27/10/2026 14:58 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Go
+> Je prends note des résultats de Claude et maintenant je décide d'améliorer encore plus le processus. C'est en fait, il devra, donc il garde son système de classement parmi les types C, type B, type A, ça c'est super. Mais lorsqu'il a des candidats de type B et de type A, il s'intéresse à leur parcours personnel et il mène un entretien avec eux pour voir personnellement ce qu'ils pourraient apporter à l'entreprise, potentiellement, au projet. Vu que Claude, il a déjà le projet en tête. Et si jamais il a la moindre question, il a qu'à me demander. Et c'est uniquement si on dépasse un certain barème, je reconnais peut-être que 80 c'est un peu trop haut, ou alors il peut même encore mettre plus haut au vu de l'ambition du projet ou quoi, que là, il doit faire tout pour avoir le numéro de la personne pour que la personne puisse s'entretenir avec moi directement. Comme ça, de cette manière, le processus sera extrêmement automatisé. Je lui demande également de ne pas se limiter uniquement à ses sites d'annonces, d'également aller sur les réseaux sociaux, c'est-à-dire Facebook, Instagram, Reddit, des trucs comme ça, ou même des trucs locaux, pour encore plus toucher des gens, faire des posts surtout. Je ne sais pas si c'est possible de faire cela ou s'il faut mon autorisation, mais je le donne systématiquement si jamais.
 
 ## Texte envoyé au joueur
 
-**JEUDI 18 JUILLET 2041 — 22h09 — Audun-le-Tiche, chez William**
+**JEUDI 18 JUILLET 2041 — 23h10 — Audun-le-Tiche, chez William**
 
-La soirée avance sur le canapé, la pluie reprend par à-coups contre les volets. Tu ne fais rien d'autre qu'attendre. À 22h08, Claude :
+À 22h15, tu écris à Claude. Tu gardes le classement A, B, C. Pour les profils A et B, il étudie leur parcours personnel et mène un entretien pour voir ce qu'ils pourraient apporter au projet, et s'il a la moindre question, il te la pose. Passé un barème, il fait tout pour obtenir le numéro de la personne afin qu'elle s'entretienne directement avec toi : 80 te paraît peut-être trop haut, ou à relever au contraire vu l'ambition du projet, tu lui laisses trancher. Enfin il ne se limite plus aux sites d'annonces : Facebook, Instagram, Reddit, des sites locaux, avec ton autorisation, que tu lui donnes d'avance chaque fois. À 22h18 :
 
-« Entretien terminé. Note de Nadège Kouamé : 53 sur 100.
+« Compris. Je garde le classement A, B, C. Pour chaque profil A ou B, j'étudie son parcours public, je mène l'entretien sur ce qu'il peut apporter au projet, puis je le note sur 100 selon les cinq critères.
 
-Réseau utile : 12,6 sur 30. Environ trente-cinq propriétaires et gérants d'immeubles, une quinzaine qu'elle joint jusqu'au décideur, une dizaine à facture d'électricité très lourde. Pertinence pour le solaire : 11,7 sur 25. Accès réel : 10,7 sur 20 : une seule introduction déjà faite, sans contrat à la clé. Fiabilité : 11,5 sur 15 : références joignables, réponses cohérentes ; elle a mis plus d'une journée à répondre à mes premières questions. Disponibilité et motivation : 6,6 sur 10.
+Seuil pour te mettre en contact : 70. Les profils moyens que j'ai vus sont à 50 ou 60 ; 70 te garde du temps sans fermer la porte aux bons. De 60 à 69, un second entretien ; sous 60, le dossier est gardé. Au-dessus du seuil, j'obtiens le numéro et je te le transmets.
 
-La note est sous 80 : je ne cherche pas son numéro. Elle me demande qui porte le projet, le montant et le calendrier, et si le projet pourrait l'employer plutôt que la payer à la commission. Elle préfère rester sur la plateforme tant qu'elle ne connaît pas le porteur. Je n'ai rien répondu à ces questions. Dis-moi ce que tu veux qu'elle sache. »
+Je te pose une question seulement si elle touche au projet (montant, calendrier, rôle) ou à ton identité. J'ajoute les réseaux sociaux et les sites locaux avec ton autorisation permanente, sous un compte du projet, sans ton nom. »
+
+La pluie tapote encore les volets. À 22h28, une alerte discrète : Claude a reçu une première réponse d'Hervé Touré. Le reste du travail se fait sans toi.
+
+À 23h08, le point de Claude :
+
+« Réseaux sociaux et sites locaux. CoinAfrique : annonce validée à 22h58 et en ligne. Kosafi Annonce CI : validée à 22h51 et en ligne. Facebook : compte du projet créé, publication envoyée dans plusieurs groupes d'entrepreneurs, d'ingénieurs et d'immobilier d'Abidjan ; elle attend l'approbation des administrateurs. Instagram : compte bloqué à la création, la plateforme exige une pièce d'identité et une vidéo-selfie ; je ne les ai pas, dis-moi si tu veux le faire. Reddit : compte créé mais trop récent pour publier dans les communautés ivoiriennes ; je réessaie dans quelques jours.
+
+Entretiens. Hervé Touré (B), commerçant et entrepreneur, a répondu à 22h28 : douze ans dans le négoce de matériel électrique et de climatiseurs à Marcory, des clients boutiques et PME, des références que je n'arrive toujours pas à joindre. Il m'a donné spontanément son numéro WhatsApp ; je le garde, rien ne t'est transmis tant que sa note n'atteint pas 70. Jean-Baptiste Tuo (B) : contacté, pas encore de réponse. Règles mises à jour : « Règles de l'agent IA, version 2 », dans tes documents. »
+
+Il est 23h10.
 
 ---
 
 **Réponses attendues**
-- **Claude** (ton agent IA) : ce que tu veux répondre à Nadège Kouamé ; sinon, le prochain rapport demain à 18h00.
+- **Claude** (ton agent IA) : tes décisions sur Instagram et sur les questions de Nadège Kouamé ; sinon, le prochain rapport demain à 18h00 et la note de chaque profil A ou B dès la fin de son entretien.
 - **Ministère de l'Éducation** (info@men.lu) : ton courriel de mardi à 12h14 n'a pas de réponse.
 
 **À faire / à fournir avant le tour suivant**
-- Dire à Claude quoi répondre aux questions de Nadège Kouamé (porteur du projet, montant, calendrier, possibilité d'un emploi).
+- **Instagram** : la plateforme demande une pièce d'identité et une vidéo-selfie pour ouvrir le compte du projet.
+- **Nadège Kouamé** : ses questions (porteur du projet, montant, calendrier, possibilité d'un emploi) attendent toujours ta réponse.
 
 **Quêtes secondaires**
 - Rien en suspens en dehors de ce que tu as déjà noté.
@@ -46,6 +57,7 @@ La note est sous 80 : je ne cherche pas son numéro. Elle me demande qui porte l
 Que veux-tu faire ?
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
+- A014 Fri 19/07 01:20 (luxembourg) | Jean-Baptiste Tuo (educarriere) : réponse de Jean-Baptiste Tuo au premier message de l'entretien de l'agent IA (T17 : poli_bref = réponse polie et brève) : quelques lignes sur son parcours, sans prolonger , donneur de leçons : ton sentencieux , réseau à tirer par annonces.py reseau au moment de la note · souci : dettes de jeu · objectif : obtenir un poste de direction dans une grande entreprise · foyer : en couple, enfants partis · défauts : donneur de leçons sur la santé, l'argent ou l'éducation / aime les commérages et répète ce qu'on lui confie [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : dans_la_journee (jet 69.8) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=jean-baptiste-tuo canal=educarriere]
 - A011 Fri 19/07 18:00 (luxembourg) | Claude (agent IA) : Rapport quotidien de l'agent IA à William : réponses à l'annonce (niveaux A, B, C), signaux d'alerte, état des plateformes [prevu]
 
 ## Rituels du moteur dus (rituels.py)
@@ -53,7 +65,7 @@ Que veux-tu faire ?
 
 ## Décisions en attente de William (etat/fils-ouverts.md, A)
 | 1 | **Organisation des vacances d'été 2041** | Premier jour des grandes vacances scolaires (du mardi 16/07/2041 au dimanche 15/09/2041). Choix des projets, voyages, rythme de vie ou déplacements estivaux. Budget vacances disponible : 833 €/mois (10 000 €/an). | Ouvert |
-| 2 | **Stratégie d'entrepreneuriat à distance** | Âge optimal atteint (36 ans). William a la liberté et la surface financière pour amorcer son projet business à distance tout en respectant l'Art. 14 du statut des fonctionnaires luxembourgeois (F083-F086). Choix du statut juridique et de l'axe business à mûrir. ; *(16/07 10h46) (16/07 10h46) deux rapports de l'agent IA reçus, Brésil (09h41) puis Côte d'Ivoire (10h34), PDF dans documents_william/ ; cadre article 14 rappelé (associé non-gérant admis, gérance non) ; rien d'engagé, suite à décider par William* ; *(16/07 11h55) (16/07 11h55) budget envisagé de 300 000 € sur 2 à 3 ans (I6) ; l'agent IA répond : Côte d'Ivoire, SAS OHADA, solaire B2B ; rien d'engagé, décision de William* ; *(16/07 13h06) (16/07 13h06) décision : Côte d'Ivoire (I7) ; courriel au ministère envoyé à 12h14 (réponse attendue, A006 non connu) ; annonce de recherche d'un contact prête, non publiée, feu vert attendu* ; *(16/07 13h44) (16/07 13h44) annonce publiée (LinkedIn 13h09, Educarriere.ci 13h31) ; rapport de Claude à 18h00 (A007) ; autorisation donnée (I9)* ; *(16/07 18h02) (16/07 18h02) rapport de 18h00 : 1 réponse, arnaque de niveau C ignorée ; aucun A ni B ; prochain rapport le 17/07 à 18h00 (A009)* ; *(17/07 18h03) (17/07 18h03) rapport de 18h00 : trois profils B (Kouamé, Tuo, Touré), deux C (arnaque, hors profil), aucun A ; réponses aux questions complémentaires attendues ; prochain rapport le 18/07 à 18h00 (A010)* ; *(17/07 18h12) (17/07 18h12) demande du numéro personnel de Nadège Kouamé envoyée par Claude à 18h09, pas de réponse (T17 : ignore) ; Claude prévient dès qu'elle répond (I11)* ; *(18/07 18h03) (18/07 18h03) rapport de 18h00 : sept réponses (0 A, 3 B, 4 C) ; Tuo répond (B), Touré et Kouamé non ; prochain rapport le 19/07 à 18h00 (A011)* ; *(18/07 20h47) (18/07 20h47) Nadège Kouamé répond aux questions complémentaires (B, références joignables, pas de solaire), pas au numéro ; Claude attend la réponse que William veut lui faire* ; *(18/07 21h27) (18/07 21h27) entretien de Claude avec Nadège Kouamé en cours : première réponse brève (environ 35 propriétaires et gérants), trois questions reposées ; note sur 100 à rendre, numéro si plus de 80 (I12)* ; *(18/07 22h09) (18/07 22h09) note de Nadège Kouamé : 53/100, sous le seuil de 80 (I12) ; ses questions (porteur, montant, calendrier, emploi) attendent la décision de William* | Ouvert |
+| 2 | **Stratégie d'entrepreneuriat à distance** | Âge optimal atteint (36 ans). William a la liberté et la surface financière pour amorcer son projet business à distance tout en respectant l'Art. 14 du statut des fonctionnaires luxembourgeois (F083-F086). Choix du statut juridique et de l'axe business à mûrir. ; *(16/07 10h46) (16/07 10h46) deux rapports de l'agent IA reçus, Brésil (09h41) puis Côte d'Ivoire (10h34), PDF dans documents_william/ ; cadre article 14 rappelé (associé non-gérant admis, gérance non) ; rien d'engagé, suite à décider par William* ; *(16/07 11h55) (16/07 11h55) budget envisagé de 300 000 € sur 2 à 3 ans (I6) ; l'agent IA répond : Côte d'Ivoire, SAS OHADA, solaire B2B ; rien d'engagé, décision de William* ; *(16/07 13h06) (16/07 13h06) décision : Côte d'Ivoire (I7) ; courriel au ministère envoyé à 12h14 (réponse attendue, A006 non connu) ; annonce de recherche d'un contact prête, non publiée, feu vert attendu* ; *(16/07 13h44) (16/07 13h44) annonce publiée (LinkedIn 13h09, Educarriere.ci 13h31) ; rapport de Claude à 18h00 (A007) ; autorisation donnée (I9)* ; *(16/07 18h02) (16/07 18h02) rapport de 18h00 : 1 réponse, arnaque de niveau C ignorée ; aucun A ni B ; prochain rapport le 17/07 à 18h00 (A009)* ; *(17/07 18h03) (17/07 18h03) rapport de 18h00 : trois profils B (Kouamé, Tuo, Touré), deux C (arnaque, hors profil), aucun A ; réponses aux questions complémentaires attendues ; prochain rapport le 18/07 à 18h00 (A010)* ; *(17/07 18h12) (17/07 18h12) demande du numéro personnel de Nadège Kouamé envoyée par Claude à 18h09, pas de réponse (T17 : ignore) ; Claude prévient dès qu'elle répond (I11)* ; *(18/07 18h03) (18/07 18h03) rapport de 18h00 : sept réponses (0 A, 3 B, 4 C) ; Tuo répond (B), Touré et Kouamé non ; prochain rapport le 19/07 à 18h00 (A011)* ; *(18/07 20h47) (18/07 20h47) Nadège Kouamé répond aux questions complémentaires (B, références joignables, pas de solaire), pas au numéro ; Claude attend la réponse que William veut lui faire* ; *(18/07 21h27) (18/07 21h27) entretien de Claude avec Nadège Kouamé en cours : première réponse brève (environ 35 propriétaires et gérants), trois questions reposées ; note sur 100 à rendre, numéro si plus de 80 (I12)* ; *(18/07 22h09) (18/07 22h09) note de Nadège Kouamé : 53/100, sous le seuil de 80 (I12) ; ses questions (porteur, montant, calendrier, emploi) attendent la décision de William* ; *(18/07 23h10) (18/07 23h10) consigne permanente I13 (entretien des profils A et B, seuil 70, réseaux sociaux et sites locaux) ; CoinAfrique et Kosafi en ligne, Facebook en attente, Instagram bloqué (identité demandée à William), Reddit trop récent ; Hervé Touré a donné son numéro à Claude (non transmis)* | Ouvert |
 | 3 | **Entraînement sportif & préparation physique** | Entraînements au Minett Combat Club d'Esch-sur-Alzette (MMA, grappling, boxe thaïe, musculation). Cours d'été en place. Noter la fermeture annuelle du club du lundi 12/08/2041 au dimanche 25/08/2041 (agenda A003). ; *(16/07 10h46) (16/07) rythme de l'été fixé par William : lundi, mercredi, vendredi après-midi au club, course de 5 km le dimanche matin, rien le samedi ; voir A2 I1* ; *(17/07 18h03) (17/07) séance du mercredi faite au club (2 h) avec Thiago Alves et Arthur Kieffer ; prochaine : vendredi 19/07 l'après-midi (I1)* | Ouvert |
 | 4 | **Logistique personnelle & maison** | Maison d'Audun-le-Tiche (charges à jour, voiture électrique chargée). Rien d'urgent en panne. ; *(16/07 13h06) (16/07 12h33) abonnement à l'agent IA : 24,30 €/mois sur la Visa Debit, engagement de 12 mois jusqu'au 15/07/2042 (E016)* | Ouvert |
 
@@ -152,10 +164,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 74b492f ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : ed2cf17 ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 15 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 22 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

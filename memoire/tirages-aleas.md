@@ -2628,3 +2628,31 @@ Effets à jouer : A23 (dimanche 21/07 (matin)) : Très courant ; William voit le
 - Tirage [T17] « Nadège Kouamé : réaction au message de William du 18/07 19:30 (abidjan) : « deuxième message de l'entretien de l'agent IA : il repose trois questions précises (part d » » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  33.9 → **conversation** (enregistré le 27/10/2026 14:46 heure machine)
 
 - Tirage [T10] « Nadège Kouamé : délai (réponse de Nadège Kouamé au deuxième message de l'entretien de l'agent IA (T17 :) » : immediat 9 / rapide 18 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 20 / plus_tard_ou_jamais 18 ; modificateurs : M72 ; jet  20.2 → **rapide** (enregistré le 27/10/2026 14:46 heure machine)
+
+- Jet « Facebook : le compte du projet est créé sans blocage (vérification par téléphone passée) » : probabilité 70 %, jet  18.5 → **OUI** [DÉROGATION : comptes et publications sur des plateformes (sites, pas des personnages) : pas de table, proposition R6] (enregistré le 27/10/2026 14:55 heure machine)
+
+- Jet « Instagram : le compte du projet est créé sans blocage » : probabilité 75 %, jet  80.6 → **NON** [DÉROGATION : comptes et publications sur des plateformes (sites, pas des personnages) : pas de table, proposition R6] (enregistré le 27/10/2026 14:55 heure machine)
+
+- Jet « Reddit : le compte du projet est créé et autorisé à publier (ancienneté et réputation suffisantes) » : probabilité 55 %, jet  60.9 → **NON** [DÉROGATION : comptes et publications sur des plateformes (sites, pas des personnages) : pas de table, proposition R6] (enregistré le 27/10/2026 14:55 heure machine)
+
+- Jet « CoinAfrique : le compte annonceur est créé sans justificatif » : probabilité 90 %, jet  84.0 → **OUI** [DÉROGATION : comptes et publications sur des plateformes (sites, pas des personnages) : pas de table, proposition R6] (enregistré le 27/10/2026 14:55 heure machine)
+
+- Jet « Kosafi Annonce CI : le compte annonceur est créé sans justificatif » : probabilité 90 %, jet   6.6 → **OUI** [DÉROGATION : comptes et publications sur des plateformes (sites, pas des personnages) : pas de table, proposition R6] (enregistré le 27/10/2026 14:55 heure machine)
+
+- Jet « Facebook : la publication dans les groupes d'entrepreneurs et d'ingénieurs d'Abidjan est approuvée par les administrateurs dans la nuit » : probabilité 60 %, jet  84.8 → **NON** [DÉROGATION : comptes et publications sur des plateformes (sites, pas des personnages) : pas de table, proposition R6] (enregistré le 27/10/2026 14:55 heure machine)
+
+- Jet « Instagram : la publication du compte du projet est mise en ligne sans retrait » : probabilité 90 %, jet  30.5 → **OUI** [DÉROGATION : comptes et publications sur des plateformes (sites, pas des personnages) : pas de table, proposition R6] (enregistré le 27/10/2026 14:55 heure machine)
+
+- Jet « Reddit : la publication dans les communautés ivoiriennes et africaines n'est pas retirée par les modérateurs (sollicitation) » : probabilité 55 %, jet  14.6 → **OUI** [DÉROGATION : comptes et publications sur des plateformes (sites, pas des personnages) : pas de table, proposition R6] (enregistré le 27/10/2026 14:55 heure machine)
+
+- Jet « CoinAfrique : l'annonce est validée par la modération du site dans l'heure » : probabilité 80 %, jet  77.3 → **OUI** [DÉROGATION : comptes et publications sur des plateformes (sites, pas des personnages) : pas de table, proposition R6] (enregistré le 27/10/2026 14:55 heure machine)
+
+- Jet « Kosafi Annonce CI : l'annonce est validée par la modération du site dans l'heure » : probabilité 80 %, jet  39.1 → **OUI** [DÉROGATION : comptes et publications sur des plateformes (sites, pas des personnages) : pas de table, proposition R6] (enregistré le 27/10/2026 14:55 heure machine)
+
+- Tirage [T17] « Jean-Baptiste Tuo : réaction au message de William du 18/07 20:25 (abidjan) : « premier message de l'entretien de l'agent IA de William : parcours, ce que le répondant po » » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet   9.6 → **poli_bref** (enregistré le 27/10/2026 14:56 heure machine)
+
+- Tirage [T17] « Hervé Touré : réaction au message de William du 18/07 20:25 (abidjan) : « premier message de l'entretien de l'agent IA de William : parcours, ce que le répondant po » » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  70.3 → **reciproque** (enregistré le 27/10/2026 14:56 heure machine)
+
+- Tirage [T10] « Jean-Baptiste Tuo : délai (réponse de Jean-Baptiste Tuo au premier message de l'entretien de l'agent IA (T1) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  69.8 → **dans_la_journee** (enregistré le 27/10/2026 14:56 heure machine)
+
+- Tirage [T10] « Hervé Touré : délai (réponse d'Hervé Touré au premier message de l'entretien de l'agent IA (T17 : rec) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  15.0 → **immediat** (enregistré le 27/10/2026 14:56 heure machine)

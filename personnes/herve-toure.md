@@ -31,3 +31,4 @@
 
 ## Historique
 - 16/07/2041 : fiche créée (tirage du générateur).
+- 18/07/2041, 22h25 : l'agent IA de William l'interroge (entretien des profils B, consigne permanente de William) ; T17 : reciproque ; T10 : immédiat ; 22h28 : répond sur son parcours (douze ans de négoce de matériel électrique et de climatiseurs à Marcory, clients boutiques et PME, références introuvables) et donne spontanément son numéro WhatsApp à l'agent.
