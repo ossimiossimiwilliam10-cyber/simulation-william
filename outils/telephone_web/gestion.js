@@ -6,7 +6,7 @@ appli({
     const G = D.applis.gestion;
     let onglet = memoire.lire("gestion-onglet", "tableau");
     if (!["tableau", "rh", "documents"].includes(onglet)) onglet = "tableau";
-    ui.titre("Gestion", "Version " + G.version + " · pôle RH actif");
+    ui.titre("Gestion", "Version " + G.version + (G.agents.length ? " · pôle RH connecté à Claude" : " · pôle RH actif"));
     const euro = n => n.toLocaleString("fr-FR", { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + " €";
     const chip = (txt, cls) => { const c = el("span", "puce" + (cls ? " " + cls : ""), txt); return c; };
     const ligne = (titre, quand, sous) => { const g = el("div", "ligne"); g.append(el("span", "titre", titre), el("span", "quand", quand || "")); if (sous) { const s = el("span", "sous", sous); s.style.whiteSpace = "pre-line"; g.append(s); } return g; };
@@ -17,11 +17,18 @@ appli({
         el("span", "chiffre", euro(G.depense) + " dépensés"));
       const barre = el("div", ""); barre.style.cssText = "height:8px;border-radius:4px;background:var(--accent-doux);overflow:hidden;margin-top:6px";
       const rempli = el("div", ""); rempli.style.cssText = "height:100%;background:var(--accent);width:" + part.toFixed(1) + "%";
-      barre.append(rempli); b.append(barre, el("span", "sous", "Reste " + euro(G.restant) + " · modèle : " + G.modele));
+      barre.append(rempli); b.append(barre, el("span", "sous", "Reste " + euro(G.restant) + (G.estimation ? " · dont " + euro(G.estimation) + " estimés (agents connectés)" : "") + " · modèle : " + G.modele));
       z.append(b, el("h2", "sec", "Pôles"));
       const l = el("div", "liste");
       G.poles.forEach(p => { const g = ligne(p.nom, p.statut === "actif" ? "Actif" : "À venir", p.description); l.append(g); });
-      z.append(l, el("h2", "sec", "Sources officielles"));
+      z.append(l);
+      if (G.agents.length) {
+        z.append(el("h2", "sec", "Agents"));
+        const ag = el("div", "liste");
+        G.agents.forEach(a => ag.append(ligne(a.pole, a.statut === "connecté" ? "Connecté" : "À créer", a.agent ? a.agent + (a.note ? " : " + a.note : "") : "Agent du pôle à créer")));
+        z.append(ag, el("p", "note", "Un agent par pôle ; l'agent central examine toutes les réponses avant qu'elles te parviennent."));
+      }
+      z.append(el("h2", "sec", "Sources officielles"));
       const s = el("div", "liste");
       G.sources.forEach(x => s.append(ligne(x.titre, "", x.reference)));
       z.append(s, el("p", "note", "Un document reçu est envoyé au pôle concerné, comparé à ces sources, puis résumé : est-ce clair, peut-on faire mieux, que répondre. Messagerie de dépôt et pôles à venir : prochaines versions."));

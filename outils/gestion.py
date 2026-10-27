@@ -5,8 +5,10 @@ envoyé par un collaborateur (avocat, comptable, ingénieur…) passe par la mes
 commercial), comparé aux sources officielles du pôle, puis résumé pour William : est-ce clair, peut-on faire mieux, que répondre. Elle fonctionne avec la clé d'API du
 modèle d'IA le plus puissant du marché ; budget mensuel plafonné à 1 000 € (la consommation réelle est le plus souvent bien plus basse).
 
-Version 0.1 : tableau de bord (budget d'API, pôles, sources), pôle RH actif (poste ouvert, annonces, candidats : ce que l'agent IA a rapporté à William), boîte de documents.
+Version 0.1 (19/07/2041, 03h12) : tableau de bord (budget d'API, pôles, sources), pôle RH actif (poste ouvert, annonces, candidats : ce que l'agent IA a rapporté à William), boîte de documents.
 Les autres pôles et la messagerie de dépôt sont annoncés « à venir ».
+Version 0.2 (19/07/2041, 04h02) : un agent par pôle et un agent central qui examine toutes les réponses (`etat/gestion-agents.csv`) ; Claude, l'agent de William, est
+connecté au pôle RH ; l'usage des agents consomme le budget d'API : coût ESTIMÉ automatiquement (voir `cout_auto`).
 
     python outils/gestion.py etat                                  # budget du mois, pôles, documents, candidats
     python outils/gestion.py recevoir --expediteur "Me Untel" --objet "Rapport sur les statuts" --pole juridique [--quand "2041-07-20 10:00"]
@@ -30,6 +32,9 @@ CONFIG = ETAT / "gestion-config.csv"
 BUDGET = ETAT / "gestion-budget.csv"
 DOCUMENTS = ETAT / "gestion-documents.csv"
 CANDIDATS = ETAT / "gestion-candidats.csv"
+AGENTS = ETAT / "gestion-agents.csv"
+COUT_JOUR_RH = 0.9  # surveillance et rapport quotidien de l'agent du pôle RH (estimation)
+COUT_REPONSE_RH = 0.8  # lecture et classement d'une réponse à une annonce (estimation)
 COL_B = ["date", "pole", "objet", "cout_eur"]
 COL_D = ["id", "date", "expediteur", "objet", "pole", "statut", "retour", "cout_eur"]
 COL_C = ["id", "nom", "niveau", "note", "etat", "resume", "plateforme", "date"]
@@ -49,9 +54,21 @@ def _avant(date, t):
     return (date or "") <= f"{t:%Y-%m-%d %H:%M}"
 
 
+def cout_auto(t):
+    """Consommation d'API ESTIMÉE du pôle RH depuis la connexion de son agent : 0,90 € par jour écoulé + 0,80 € par réponse à une annonce reçue depuis (même mois que `t`)."""
+    rh = next((a for a in lire_csv(AGENTS) if a["pole"] == "rh" and a["statut"] == "connecté" and a["depuis"] and _avant(a["depuis"], t)), None)
+    if rh is None:
+        return 0.0
+    debut = max(dt.datetime.strptime(rh["depuis"], "%Y-%m-%d %H:%M"), dt.datetime(t.year, t.month, 1))
+    jours = max(0.0, (t - debut).total_seconds() / 86400)
+    import annonces
+    reponses = [r for r in annonces.reponses() if f"{debut:%Y-%m-%d %H:%M}" <= r["quand"] <= f"{t:%Y-%m-%d %H:%M}"]
+    return round(COUT_JOUR_RH * jours + COUT_REPONSE_RH * len(reponses), 2)
+
+
 def depense_mois(t):
     mois = f"{t:%Y-%m}"
-    return round(sum(float(l["cout_eur"] or 0) for l in lire_csv(BUDGET) if l["date"].startswith(mois) and _avant(l["date"], t)), 2)
+    return round(sum(float(l["cout_eur"] or 0) for l in lire_csv(BUDGET) if l["date"].startswith(mois) and _avant(l["date"], t)) + cout_auto(t), 2)
 
 
 def donnees_telephone(t):
@@ -72,7 +89,14 @@ def donnees_telephone(t):
                  for x in lire_csv(CANDIDATS) if _avant(x["date"], t)]
     import annonces
     plateformes = [{"nom": a["plateforme"], "etat": ETATS_ANNONCES.get(a["etat"], a["etat"])} for a in annonces.annonces()]
-    return {"installee": True, "version": c.get("version", "0.1"), "plafond": plafond, "depense": dep, "restant": round(plafond - dep, 2),
+    noms_poles = {p["id"]: p["nom"] for p in lire_csv(POLES)}
+    noms_poles["central"] = "Agent central"
+    agents = [{"pole": noms_poles.get(a["pole"], a["pole"]), "agent": a["agent"], "statut": a["statut"], "note": a["note"]}
+              for a in lire_csv(AGENTS)]
+    version = "0.2" if _avant(c.get("version_0_2_le", "9999"), t) else c.get("version", "0.1")
+    if version == "0.1":
+        agents = []  # les agents apparaissent avec la version 0.2
+    return {"installee": True, "version": version, "agents": agents, "estimation": cout_auto(t), "plafond": plafond, "depense": dep, "restant": round(plafond - dep, 2),
             "modele": c.get("modele", ""), "poles": poles, "sources": sources, "documents": docs, "candidats": candidats, "annonces": plateformes,
             "poste": {"intitule": c.get("poste", ""), "forme": c.get("forme_sociale", "")}}
 

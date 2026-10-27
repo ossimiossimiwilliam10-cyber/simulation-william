@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 27/10/2026 15:30 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 27/10/2026 15:37 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : vendredi 19/07/2041 03:14 (luxembourg, UTC+2)
+## Horloge : vendredi 19/07/2041 04:06 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 01:14 ; lisbonne 02:14 ; mindelo 00:14 ; casablanca 02:14 ; douala 02:14 ; addis 04:14 ; manille 09:14 ; paris 03:14 ; seoul 10:14 ; bresil 22:14
+- **Heure dans les autres lieux** : abidjan 02:06 ; lisbonne 03:06 ; mindelo 01:06 ; casablanca 03:06 ; douala 03:06 ; addis 05:06 ; manille 10:06 ; paris 04:06 ; seoul 11:06 ; bresil 23:06
 - **En attente de William** :
-  - Suite à donner à l'application Gestion (messagerie de dépôt et pôles à construire) ; vérification Instagram sous 24 h ; prochain rapport de Claude le 19/07 à 18h00 ; vendredi : club l'après-midi (I1)
+  - Suite à donner à Gestion (agents des autres pôles, agent central, messagerie de dépôt) ; vérification Instagram sous 24 h ; prochain rapport de Claude le 19/07 à 18h00 ; vendredi : club l'après-midi (I1) ; William n'a pas dormi
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **9 975,70 €**
@@ -42,9 +42,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-07-19.md, 6 dernières lignes)
-> - **00h14-00h52** (tour n° 15) : 00h18 : William règle Instagram lui-même (carte d'identité et vidéo-selfie), demande à Claude d'écarter poliment Nadège Kouamé et met la forme sociale en attente jusqu'au recrutement du directeur général ; 00h21 : message poli à Nadège Kouamé (T17 : ne répond pas) ; 00h40 : pièces envoyées à Instagram (vérification acceptée par tirage, terminée le 19/07 à 20h28, ag
-> - Tirages du tour : T17 Nadège → ignore (57,52) ; jet « Instagram : la vérification d'identité (pièce et vidéo-selfi » → OUI (35,76) ; jet « Instagram : la vérification est terminée dans l'heure (sinon » → NON (77,8) ; jet « Instagram : délai de la validation après l'envoi des pièces  » → NON (81,76).
 > - Tour en cours à 00h52, en attente de William : **Vérification Instagram sous 24 h ; notes des profils selon le nouveau barème ; prochain rapport de Claude le 19/07 à 18h00 ; vendredi : club l'après-midi (I1)**.
 > - **00h52-03h14** (tour n° 16) : 00h58 : fulgurance de William : une application de gestion pilotée par l'IA, sur son téléphone, transparence totale (clé d'API du modèle le plus puissant, plafond de 1 000 € par mois, documents des collaborateurs routés vers des pôles qui les comparent aux sources officielles ; premier pôle : RH) ; 01h07 : compte développeur ouvert, plafond de 1 000 € par mois, Vis
 > - 01h10-03h12 : William code l'application ; 03h12 : version 0.1 installée sur son téléphone (outils/gestion.py : tableau, RH, documents) ; 03h14 : Claude signale que Gestion est branchée (le pôle RH lit ses dossiers de candidats) ; William n'a pas dormi
 > - Tour en cours à 03h14, en attente de William : **Suite à donner à l'application Gestion (messagerie de dépôt et pôles à construire) ; vérification Instagram sous 24 h ; prochain rapport de Claude le 19/07 à 18h00 ; vendredi : club l'après-midi (I1)**.
+> - **03h14-04h06** (tour n° 17) : 03h20 : William connecte Claude au pôle RH de Gestion, décide un agent par pôle et un agent central, toujours dans le budget d'API de 1 000 € par mois ; 03h24 : estimation de Claude (30 à 90 € par mois pour le pôle RH, 150 à 400 € avec cinq pôles et l'agent central) ; 04h02 : version 0.2 de Gestion installée (section Agents) ; 04h04 : Claude connecté au pôle RH ; W
+> - Tour en cours à 04h06, en attente de William : **Suite à donner à Gestion (agents des autres pôles, agent central, messagerie de dépôt) ; vérification Instagram sous 24 h ; prochain rapport de Claude le 19/07 à 18h00 ; vendredi : club l'après-midi (I1) ; William n'a pas dormi**.
