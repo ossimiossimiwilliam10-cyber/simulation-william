@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 27/10/2026 18:40 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 27/10/2026 19:02 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : dimanche 21/07/2041 20:00 (luxembourg, UTC+2)
+## Horloge : lundi 22/07/2041 08:00 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 18:00 ; lisbonne 19:00 ; mindelo 17:00 ; casablanca 19:00 ; douala 19:00 ; addis 21:00 ; manille 02:00 ; paris 20:00 ; seoul 03:00 ; bresil 15:00
+- **Heure dans les autres lieux** : abidjan 06:00 ; lisbonne 07:00 ; mindelo 05:00 ; casablanca 07:00 ; douala 07:00 ; addis 09:00 ; manille 14:00 ; paris 08:00 ; seoul 15:00 ; bresil 03:00
 - **En attente de William** :
-  - **Devis de Me Gnamien attendu demain matin ; revue du lundi demain ; prochain rapport final demain 20h00**
+  - Décisions de la revue du lundi n° 1 ; devis de Me Gnamien attendu ; prochain rapport final à 20h00
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **9 975,70 €**
@@ -13,11 +13,9 @@
 - Prêt logement : solde restant dû (passif, déjà déduit de la part de maison) : **102 621,78 €**
 - Part nette de la maison d'Audun-le-Tiche : **97 378,22 €**
 - Patrimoine net de William : **852 983,92 €**
-- Prévu dans les 14 jours : 31/07 Traitement mensuel de William (9 320,00 €) ; 01/08 Minett Combat Club (-85,00 €) ; 01/08 Package bancaire Zebra Premium (-12,83 €) ; 02/08 Virement permanent vers le compte épargne (-732,00 €) ; 02/08 Virement permanent vers le compte épargne (732,00 €) ; 02/08 Virement permanent vers le compte-titres ETF (-5 755,00 €) ; 02/08 Virement permanent vers le compte-titres ETF (5 755,00 €)
+- Prévu dans les 14 jours : 31/07 Traitement mensuel de William (9 320,00 €) ; 01/08 Minett Combat Club (-85,00 €) ; 01/08 Package bancaire Zebra Premium (-12,83 €) ; 02/08 Virement permanent vers le compte épargne (-732,00 €) ; 02/08 Virement permanent vers le compte épargne (732,00 €) ; 02/08 Virement permanent vers le compte-titres ETF (-5 755,00 €) ; 02/08 Virement permanent vers le compte-titres ETF (5 755,00 €) ; 05/08 Mensualité du prêt immobilier et assurance emprunteu (-949,28 €) ; 05/08 Prêt immobilier de la maison d'Audun-le-Tiche (-626,84 €) ; 05/08 Part nette du bien financé : + capital remboursé (626,84 €) ; 05/08 Assurance habitation (-45,00 €) ; 05/08 Voiture électrique : assurance tous risques (-107,00 €)
 
-## Agenda : dans les 24 heures (6)
-- A070 Sun 21/07 21:50 (luxembourg) | Aboubacar Kouassi (linkedin) : réponse de Aboubacar Kouassi au message de l'agent du 2041-07-20 14:20 (T17 : refus_net) : refus net, sans discours · souci : dettes de jeu · objectif : changer de métier · foyer : parent isolé · défauts : rancunier, n'oublie jamais un affront / oublie de répondre aux messages pendant des jours [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : plus_tard_ou_jamais (jet 88.0, M72) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=aboubacar-kouassi canal=linkedin]
-- A001 Mon 22/07 08:00 (luxembourg) | Moteur et utilisateur : Revue du lundi n° 1 de l'univers 3 (hors fiction, avant le premier tour du jour) ; adaptation des aléas et propositions [prevu]  — CLAUDE.md §12 | premier lundi de l'Univers 3 le 22/07/2041
+## Agenda : dans les 24 heures (4)
 - A082 Mon 22/07 09:20 (luxembourg) | Fabrice Koffi (facebook) : réponse de Fabrice Koffi au message de l'agent du 2041-07-20 19:45 (T17 : reciproque) : réponse chaleureuse, intérêt réel, propose un échange · souci : mal de dos chronique · objectif : mettre de l'argent de côté pour ses vieux jours · foyer : vit seul(e) · défauts : jaloux du succès des autres, même de ses amis / mauvais conducteur qui se croit excellent [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : plus_tard_ou_jamais (jet 99.6) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=fabrice-koffi canal=facebook]
 - A048 Mon 22/07 10:00 (luxembourg) | Kader Assi (courriel) : Promesse de Kader Assi (23h24 le 19/07) : transmettre les coordonnées de deux références (ancien responsable de bureau d'études, directeur technique du client de Fos) en début de semaine ; tirer le respect de la promesse (fiabilité : voir sa fiche) ; il demande aussi qui porte le projet et sous quelle structure [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — I33 ; la réponse sur le porteur du projet passe par le directeur général virtuel et William (identité : décision de William)
 - A084 Mon 22/07 13:30 (luxembourg) | Ismaël Gnamien (courriel) : Devis et conditions d'accompagnement de Me Gnamien reçus par courriel professionnel (réponse aux paramètres provisoires) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — I38, I39
@@ -35,16 +33,14 @@
 - jeu 15/08/2041 LU Assomption
 
 ## Routine du tour
-- lendemain = lundi : revue du lundi à présenter AVANT le reste (CLAUDE.md §12) ; dimanche soir : T4/T5 (savoir.py t5) et synthèse de semaine
+- AUJOURD'HUI lundi : revue du lundi (audit_jets.py, tirage_aleas.py, vie hors de la scène principale, monde, idées)
 - Session : `python outils/relais.py entree --agent "<nom>"` au début ; `python outils/relais.py sortie --note … --commit … --fusionner` à la fin.
 - Début de tour : `python outils/tour.py debut` (résumé, échéances, météo, soleil, argent, corps, lieu, rituels), lecture des fichiers d'état concernés.
 - Pendant : réactions et négociations par `jet.py --table Tn` (T1 à T14 ; `--pour` pour un personnage) ; personnages nouveaux par `personnage.py nouveau` ; faits et prix par `faits.py` et `prix.py` ; lieux par `lieux.py voir` ; révélations dans `savoir.py ajouter` ; argent dans `grand_livre.py ajouter`.
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
-## Fin du dernier journal (2041-07-21.md, 6 dernières lignes)
-> - **00h00-09h40** (tour n° 33) : - **samedi 20/07 (soir)** : fin de soirée calme, William se couche vers 23h30 ; 21h05 réponse de Brice Tapé sur LinkedIn (remercie pour l'adresse courriel, prépare son dossier) ; A005 (aléa A31) sans objet, clos ; **dimanche 21/07** : 06h53 réponse de Mohamed Coulibaly sur Facebook (note le courriel, enverra profil et disponibilités) ; 07h30 lever de William ; 08h3
-> - Tirages du tour : jet « Une personne répond à l'annonce sur LinkedIn entre 20:00 et  » → NON (56,8) ; jet « Une personne répond à l'annonce sur LinkedIn entre 21:00 et  » → NON (58,9) ; jet « Une personne répond à l'annonce sur LinkedIn entre 22:00 et  » → NON (24,99) ; jet « Une personne répond à l'annonce sur LinkedIn entre 23:00 et  » → NON (1,93) ; jet « Une personne répond à l'annonce sur L
-> - Tour en cours à 09h40, en attente de William : **Décision sur le SMS d'arnaque reçu à 09h40 ; prochain rapport final ce soir à 20h00**.
-> - **09h40-20h00** (tour n° 34) : - **09h40-20h00** (tour n° 34) : William supprime le SMS d'arnaque (aléa A23) ; journée calme à la maison ; 11h15 réponse de Maïmouna Koné sur Facebook (note l'adresse du projet) ; fin des entretiens RH : Mariam Brou notée 88/100 (courriel professionnel fourni à 15h12), Damien Yao 66/100, Ousmane Yéo 56/100 ; 20h00 : troisième rapport final (aucune décision requise
-> - Tirages du tour : jet « Une personne répond à l'annonce sur LinkedIn entre 09:40 et  » → NON (14,06) ; jet « Une personne répond à l'annonce sur LinkedIn entre 10:40 et  » → NON (71,62) ; jet « Une personne répond à l'annonce sur LinkedIn entre 11:40 et  » → NON (68,03) ; jet « Une personne répond à l'annonce sur LinkedIn entre 12:40 et  » → NON (8,71) ; jet « Une personne répond à l'annonce sur
-> - Tour en cours à 20h00, en attente de William : ****Devis de Me Gnamien attendu demain matin ; revue du lundi demain ; prochain rapport final demain 20h00****.
+## Fin du dernier journal (2041-07-22.md, 6 dernières lignes)
+> # Lundi 22 juillet 2041 — univers 3, septième jour
+> - **00h00-08h00** (tour n° 35) : 00h00-08h00 (tour n° 35) : réveil à 07h25 ; nuit de 7,8 h ; grand soleil, brume matinale (14 °C) ; revue du lundi n° 1 présentée ; devis de Me Gnamien attendu ce matin
+> - Tirages du tour : procédure : LU02, LU04, FR02.
+> - Tour en cours à 08h00, en attente de William : **Décisions de la revue du lundi n° 1 ; devis de Me Gnamien attendu ; prochain rapport final à 20h00**.

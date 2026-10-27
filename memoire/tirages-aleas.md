@@ -4092,3 +4092,5 @@ Effets à jouer : A23 (dimanche 21/07 (matin)) : Très courant ; William voit le
 - Tirage [T4] « affaire_projet_ci_art14 : escalade externe, semaine du 15/07 » : aucune 99.7 / frontal_escalade 0.3 ; modificateurs : aucun ; jet  34.6 → **aucune** (enregistré le 27/10/2026 18:38 heure machine)
 
 - Tirage [T5] « affaire_projet_ci_art14 : fuite, semaine du 15/07 » : fuite_externe 1 / fuite_interne 3 / aucune 96 ; modificateurs : aucun ; jet  82.1 → **aucune** (enregistré le 27/10/2026 18:38 heure machine)
+
+- Actualités de la semaine du 22/07/2041 : modèles LU02, LU04, FR02 [PROCÉDURE : outils/actualites.py] (enregistré le 27/10/2026 18:59 heure machine)

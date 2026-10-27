@@ -26,3 +26,4 @@
 ## Profil de l'utilisateur (observations)
 - Très grande rigueur méthodologique : délégation structurée aux IA avec contrôles stricts (registre de règles, vérification des affirmations, doubles virtuels, signature neutre, anonymat préservé).
 - Prudence accrue : refus de transmettre son numéro de téléphone, exigence de deux références préalables pour tout candidat avant rencontre.
+

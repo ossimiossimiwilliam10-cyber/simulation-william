@@ -1,60 +1,79 @@
 # Dernier tour montré au joueur
 
-> Tour n° 34 ; horloge 21/07/2041 09:40 -> 21/07/2041 20:00 ; enregistré le 27/10/2026 18:40 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 35 ; horloge 21/07/2041 20:00 -> 22/07/2041 08:00 ; enregistré le 27/10/2026 19:02 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> J'ignore le message et je le supprime. Go
+> Go /goal /browser /plan /teamwork /learn /boost
 
 ## Texte envoyé au joueur
 
-**DIMANCHE 21 JUILLET 2041 — 20h00 — Audun-le-Tiche, chez William**
+**LUNDI 22 JUILLET 2041 — 08h00 — Audun-le-Tiche, chez toi**
 
-À 09h41, tu fais glisser le message d'un coup de pouce, sélectionnes l'option de suppression et bloques le numéro. Tu n'as commandé aucun paquet : l'affaire est réglée en trois secondes, sans suite.
+Après le rapport de 20h00, la fin de soirée s'étire paisiblement dans la maison. Tu prépares ton dîner dans la cuisine — une assiette copieuse de bœuf sauté, de riz et de légumes, accompagnée d'une grande carafe d'eau. Les averses de l'après-midi ont fini par s'estomper vers vingt et une heures, laissant le bitume de la rue de la Gare sécher sous la lueur des lampadaires. Le calme règne dans le quartier ; seul le compresseur du réfrigérateur se remet en route par intermittence avec un claquement sec. Tu parcours quelques actualités économiques et les cours boursiers sur ton téléphone, puis tu montes te coucher à 23h20.
 
-Le reste de la matinée s'écoule dans une tranquillité sourde. La pluie reprend par intermittence, claquant contre le zinc des gouttières et mouillant les tuiles de la maison d'en face. Tu laisses le temps filer : un café léger, un coup d'œil distrait aux informations régionales, le silence feutré de la maison à peine troublé, vers midi, par la toux sèche du voisin derrière la cloison mitoyenne. L'après-midi reste frais et gris. Tu t'installes un moment au salon pour lire, tu t'occupes du linge sec étendu la veille et tu laisses tes muscles récupérer de la course matinale.
+Ton sommeil est profond et sans réveil nocturne. Tu ouvres les yeux à 07h25, parfaitement dispos, les articulations souples et le corps reposé. Dehors, un léger voile de brume matinale flotte encore au fond de la vallée entre les façades de pierre, avant d'être dissipé par les premiers rayons du soleil. L'air extérieur est frais — 14 °C au petit matin — sous un ciel entièrement dégagé qui montera jusqu'à 26 °C au fil des heures.
 
-Vers 19h00, tu lances la préparation de ton vrai repas : du riz basmati qui gonfle à petit feu, des blancs de poulet revenus aux épices avec des courgettes émincées. L'odeur chaude embaume la cuisine et le rez-de-chaussée. Tu manges calmement, une grande carafe d'eau fraîche à portée de main.
+Tu enchaînes avec ta routine du matin : un grand verre d'eau fraîche, quelques étirements pour déverrouiller le dos et les épaules, puis un café noir filtre fumant. Sur ton téléphone, aucun appel manqué ni message personnel.
 
-À 20h00 précises, ton téléphone vibre contre la nappe : le rapport final du soir.
+Du côté du projet, l'infrastructure virtuelle a fonctionné sans accroc. Sur LinkedIn, une réponse est parvenue dimanche soir à 21h50 d'Aboubacar Kouassi à Dakar, déclinant la proposition d'échange avec une formule brève : « Bonjour. Merci pour votre retour, mais le projet ne correspond pas à mes attentes. Je ne souhaite pas donner suite. Bonne continuation. » Le pôle RH a classé sa candidature sans impact sur le vivier. Les six profils retenus au-dessus de 70 restent dans le circuit de vérification des références, tandis que la proposition d'honoraires de Me Gnamien est attendue par courriel dans le courant de la matinée.
 
-« Rapport final du dimanche 21 juillet, 20h00. Relu par le pôle RH virtuel et le pôle juridique virtuel avant l'envoi : aucune réserve.
+Comme chaque début de semaine, le moteur ouvre la revue du lundi pour faire le point sur la semaine écoulée, soumettre les nouvelles règles et caler les aléas.
 
-DÉCISIONS
-Aucune décision requise ce soir : nous attendons le devis de Me Gnamien demain matin pour comparer les propositions d'avocats, ainsi que les retours des candidats sur l'adresse professionnelle.
+---
 
-AFFIRMATIONS VÉRIFIÉES
-- « L'autoproducteur doit être propriétaire de son installation » (analyse d'un cabinet, puis Me Tano : « règle posée par la loi de 2014 ») : NON VÉRIFIÉE. En attente de l'analyse et du devis de Me Gnamien demain.
-- Décret 2016-783 du 12 octobre 2016 (vente de l'excédent de l'autoproducteur) : VÉRIFIÉE (texte officiel existant ; conditions pratiques de rachat à approfondir avec le conseil).
-- Forfait de Me Tano (2,5 millions FCFA HT) : NON VÉRIFIÉ contre un barème officiel (il n'en existe pas) ; comparaison avec Me Gnamien demain.
-- Parcours et références déclarés des candidats au-dessus du seuil (Kader Assi 84, Mohamed Coulibaly 91, Mariam Brou 88, Maïmouna Koné 79, Brice Tapé 76, Fabrice Koffi 76) : NON VÉRIFIÉS à ce jour. Collecte de deux références en cours par courriel professionnel.
+**🔄 Revue du lundi n° 1** *(hors fiction)*
 
-ÉTAT DES PÔLES
-- Pôle RH virtuel (poste vacant : il décide) : 21 réponses cumulées (aucune nouvelle réponse aujourd'hui). Fin des entretiens du premier lot : Mariam Brou notée 88/100 (au-dessus du seuil de 70 : courriel professionnel fourni à 15h12) ; Damien Yao noté 66/100 (sous le seuil) ; Ousmane Yéo noté 56/100 (dossier gardé).
-- Candidats au-dessus du seuil (6 profils) : Mohamed Coulibaly (91), Mariam Brou (88), Kader Assi (84), Maïmouna Koné (79), Brice Tapé (76), Fabrice Koffi (76). Brice Tapé a confirmé préparer son dossier ; Mohamed Coulibaly et Maïmouna Koné ont accusé réception de l'adresse professionnelle. Kader Assi doit transmettre ses contacts demain matin. Deux références demandées à chacun avant tout échange avec toi. Jean-Baptiste Tuo (71) reste traité par toi.
-- Sous le seuil : Damien Yao (66), Cédric Soro (58), Ousmane Yéo (56). Refus net : Hervé Touré (09h34 hier). Sans réponse : Jonathan Ouattara, Landry Aka. En attente : Aboubacar Kouassi.
-- Plateformes : LinkedIn, Educarriere.ci, NovoJob, CoinAfrique, Kosafi, Facebook, Instagram actifs. Reddit et Indeed en attente.
-- Pôle juridique virtuel : devis de Me Gnamien attendu demain matin pour comparaison avec celui de Me Tano.
-- Finance, technique, commercial : fermés jusqu'à la signature du directeur général.
-- Surveillance : tous les messages sortants relus et conformes (signature « L'équipe du projet », aucun nom privé).
-- Budget d'API : 31,45 € sur 1 000 € ce mois-ci.
+**1. Bilan de la semaine écoulée (W29, du 16 au 21 juillet)**
+- **Six jours joués** : redémarrage propre de l'univers 3 le mardi 16/07 à 08h37.
+- **Projet d'entreprise à Abidjan** : cadrage juridique et gouvernance à distance validés (respect de l'article 14 du statut des fonctionnaires luxembourgeois, statut d'associé non-gérant, 300 000 € d'investissement prévisionnel sur trois ans).
+- **Organisation virtuelle** : architecture opérationnelle par agents IA active (Claude Pro, application Gestion sur mobile avec plafond API à 1 000 €/mois, directeur général virtuel, pôle RH virtuel, pôle juridique virtuel).
+- **Recrutement** : annonces publiées sur quatre canaux en Côte d'Ivoire et diaspora ; dix-huit profils analysés. Seuil fixé à 70/100 avec vérification préalable obligatoire de deux références professionnelles par courriel officiel avant toute mise en relation avec William.
+- **Top candidats retenus** : Mohamed Coulibaly (91), Mariam Brou (88), Kader Assi (84), Maïmouna Koné (79), Brice Tapé (76), Fabrice Koffi (76). Candidat géré en direct par William : Jean-Baptiste Tuo (71).
+- **Juridique** : Me Tano (devis 2,5M FCFA HT reçu) ; Me Gnamien (paramètres provisoires transmis sans révéler l'identité de William, devis attendu ce lundi matin).
+- **Règles de sécurité et discrétion** : anonymat de William préservé (numéro privé jamais diffusé, signature « L'équipe du projet » par courriel professionnel). Tentative de smishing SMS du 21/07 (A23) ignorée et supprimée sans suite.
+- **Contrôles et réalisme** : 0 non-conformité, 671 dérogations d'annonces consignées en attente de la table T25 ; tirages T4/T5 du dimanche 21/07 conformes (fuite interne sans gravité, aucune fuite externe). Chasse aux tics et cohérence des fichiers respectées à 100 %.
 
-Prochain rapport : demain à 20h00. »
+**2. À valider par l'utilisateur**
+- **R6 — Table T25 : Réponses à une annonce publique d'emploi**
+  - Modélisation du flux de candidatures par heure et par plateforme (LinkedIn 30 % la 1re heure, Educarriere.ci 55 %, NovoJob 50 %, décroissance horaire de 15 %).
+  - Taux de 12 % de tentatives d'arnaque aux frais d'avance (100 000 à 500 000 FCFA réclamés).
+  - Tri et pré-qualification A/B/C automatisés par l'agent IA selon l'expérience et le profil. Remplace les dérogations manuelles au journal des tirages.
+- **R7 — Réponses de l'administration luxembourgeoise (MENJE)**
+  - Délai réaliste de traitement d'une déclaration de cumul / article 14 : jour ouvré tiré entre le 1er et le 15e ouvrable, 30 % de chance de demande de précision ou pièces complémentaires.
+  - Remplace les estimations libres.
+- **Pack d'aléas actifs de l'univers 3**
+  - Maintien du pack luxembourgeois/européen actif (A19 à A30, + A02, A07, A09, A12, A13, A17, A18).
+  - Validation du déclenchement du tirage hebdomadaire (`python outils/tirage_aleas.py 2041-07-22`) et du message spontané d'un proche (`rituels.py message-proche`).
 
-Il est 20h00.
+**3. Idées de la semaine (réalisme et immersion)**
+- **I1 — Protocole de contrôle des références (Pôle RH)** : grille standardisée envoyée aux référents professionnels des candidats au-dessus de 70 (contexte de travail, compétences techniques et commerciales, fiabilité, motif de fin de collaboration).
+- **I2 — Consommation réelle des API & outils** : suivi des coûts réels de fonctionnement des agents virtuels (tokens et abonnements déduits sur le compte courant en fin de mois).
+- **I3 — Ancrage sportif et vie locale** : interactions vivantes au Minett Combat Club lors des séances du lundi, mercredi et vendredi (Thiago Alves, Arthur Kieffer, Philippe Sinner).
+- **I4 — Rumeurs et bouche-à-oreille à Abidjan** : suite au tirage T5 du dimanche (fuite interne de l'annonce), écho de l'offre auprès des cadres commerciaux du secteur énergétique abidjanais.
+
+**4. Le monde cette semaine**
+- **Luxembourg** : Logement : hausse modérée des prix de l'ancien (+1,3 % sur un an selon l'Observatoire de l'habitat) ; chantiers d'été sur l'A4 et la collectrice du Sud avec ralentissements habituels aux heures de pointe.
+- **Lorraine (Audun-le-Tiche, Moselle)** : Ouverture d'un nouveau parc de covoiturage pour frontaliers par la communauté de communes du Pays-Haut.
+- **Météo** : Semaine ensoleillée et chaude, températures maximales entre 25 °C et 28 °C sur le bassin d'Esch-Belval / Audun-le-Tiche.
+
+---
+
+Il est 08h00.
 
 ---
 
 **Réponses attendues**
-- **Directeur général virtuel** : devis de Me Gnamien demain matin ; prochain rapport final demain à 20h00.
-- **Jean-Baptiste Tuo** : pas de réponse à ton message de vendredi à 19h44.
-- **Ministère de l'Éducation** (info@men.lu) : ton courriel de mardi à 12h14 n'a pas de réponse.
+- **Revue du lundi n° 1** : validation des propositions R6 (Table T25 : candidatures), R7 (délais MENJE / administration), et pack d'aléas de la semaine.
 
 **À faire / à fournir avant le tour suivant**
-- Aucune démarche requise ce soir.
-- Demain matin : première « Revue du lundi » de l'univers 3 (CLAUDE.md §12).
+- Décisions sur les points de la revue du lundi n° 1.
+- Suivi de la réception du devis de Me Gnamien par courriel (attendu dans la matinée).
 
 **Quêtes secondaires**
-- Rien en suspens en dehors de ce que tu as déjà noté.
+- Entraînement de MMA au Minett Combat Club cet après-midi (séance habituelle du lundi).
+- Transmission des coordonnées de deux références par Kader Assi (A048) promise pour ce début de semaine.
+- Échange prévu avec Fabrice Koffi via l'agent (A082, 09h20).
+- Prochain rapport final du directeur général virtuel ce soir à 20h00 (A085).
 
 Que veux-tu faire ?

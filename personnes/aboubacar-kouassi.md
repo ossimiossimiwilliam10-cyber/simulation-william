@@ -33,3 +33,4 @@
 ## Historique
 - 19/07/2041 : fiche créée (tirage du générateur).
 - 20/07/2041, 14:20 : message de l'agent IA (T17 : refus_net) : « Bonjour Monsieur Kouassi, merci d'avoir répondu à l'annonce. Vous avez quatre ans dans la vente en entreprise : dans quel secteur, et avec quels types de clients ? Pensez-vous à Abidjan, ou le projet vous intéresse-t-il depuis Dakar ? Cordialement, L'équipe du projet »
+- 21/07/2041, 21:50 : sa réponse à l'agent IA : « Bonjour. Merci pour votre retour, mais le projet ne correspond pas à mes attentes. Je ne souhaite pas donner suite. Bonne continuation. »
