@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 27/10/2026 23:20 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 27/10/2026 23:30 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : vendredi 26/07/2041 19:10 (luxembourg, UTC+2)
+## Horloge : vendredi 26/07/2041 19:25 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 17:10 ; lisbonne 18:10 ; mindelo 16:10 ; casablanca 18:10 ; douala 18:10 ; addis 20:10 ; manille 01:10 ; paris 19:10 ; seoul 02:10 ; bresil 14:10
+- **Heure dans les autres lieux** : abidjan 17:25 ; lisbonne 18:25 ; mindelo 16:25 ; casablanca 18:25 ; douala 18:25 ; addis 20:25 ; manille 01:25 ; paris 19:25 ; seoul 02:25 ; bresil 14:25
 - **En attente de William** :
-  - Arbitrage sur les 3 conditions de Mohamed Coulibaly (clause non-concurrence, hiérarchie DAF et prise de poste au 1er octobre)
+  - Validation finale du compromis (10 mois de non-concurrence à 50 % du fixe, équipe mobilisée mi-septembre)
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 464,70 €**
@@ -36,9 +36,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-07-26.md, 6 dernières lignes)
-> - **18h30-18h45** (tour n° 56) : Première phase de l'entretien en visio avec Mohamed Coulibaly (A091) : William présente le projet et pose les questions clés sur son retour au pays et le modèle B2B ; Mohamed répond avec clarté et mesure (T17 : poli_bref) : transition familiale progressive sur un an (fin de contrat à Bruxelles fin 2041, famille qui le rejoint à l'été 2042 à Cocody), focus B2B sur l
-> - Tirages du tour : T17 Mohamed → poli_bref (13,3).
-> - Tour en cours à 18h45, en attente de William : **Réponses aux 3 questions de Mohamed Coulibaly (délégation opérationnelle, mandat social/rémunération et calendrier)**.
 > - **18h45-19h10** (tour n° 57) : Deuxième phase de l'entretien avec Mohamed Coulibaly : William détaille le mandat social pur de DG, la rémunération Formule 1 (2 M FCFA fixe + 2,5 % CA + primes), la pyramide managériale (DAF réservée) et la mission du 12 au 25 août ; Mohamed maintient sa position (T12 : maintient_sa_position) avec accord global sous trois conditions d'arbitrage (indemnité compensa
 > - Tirages du tour : T12 → maintient_sa_position (11,99).
 > - Tour en cours à 19h10, en attente de William : **Arbitrage sur les 3 conditions de Mohamed Coulibaly (clause non-concurrence, hiérarchie DAF et prise de poste au 1er octobre)**.
+> - **19h10-19h25** (tour n° 58) : Troisième phase de l'entretien avec Mohamed Coulibaly : William contre-propose une non-concurrence de 10 mois à 40 % de l'indemnité fixe, valide le rattachement de la DAF au DG et autorise la prise de poste au 1er octobre si l'équipe est mobilisée dès septembre ; Mohamed maintient sa position (T12 : maintient_sa_position) avec maintien ferme de l'indemnité à 50 % d
+> - Tirages du tour : T12 → maintient_sa_position (29,32).
+> - Tour en cours à 19h25, en attente de William : **Validation finale du compromis (10 mois de non-concurrence à 50 % du fixe, équipe mobilisée mi-septembre)**.
