@@ -113,3 +113,37 @@ Le programme fait avancer le monde ; le moteur interprète, vérifie et écrit. 
 ## 6. Ce que les outils ne font pas (et qui reste au moteur)
 Écrire le récit, le journal, les WhatsApp, les fiches et les fils ouverts ; tirer les réactions des personnages dans les tables ;
 vérifier sur le web un fait nouveau (puis l'ajouter avec `faits.py ajouter`) ; décider quoi que ce soit à la place de William.
+
+## 7. Reprise par un moteur moins puissant (Gemini / Antigravity quand la limite d'utilisation de Claude est atteinte, 27/10/2026)
+L'utilisateur l'a annoncé : quand Claude s'arrête (limite atteinte), il continue avec Gemini dans Antigravity, qui peut se tromper plus
+souvent. La partie doit repartir sans perte ; Claude, à son retour, audite le travail (CLAUDE.md §10 A).
+1. **Entrée** : `python outils/relais.py entree --agent "Gemini"`. Une alerte « session parallèle » ou « fichiers non enregistrés » au nom
+   d'un worktree `claude/…` est NORMALE (la session de Claude s'est coupée). Voir `git -C <worktree> status` : s'il reste des fichiers non
+   enregistrés, les enregistrer là-bas (`git add -A`, `git commit`), fusionner la branche en avance rapide dans `master`
+   (`git -C <dossier principal> merge --ff-only <branche>`), puis `python outils/relais.py liberer`. Ne rien supprimer.
+2. **Lire** : `etat/relais-notes.md` (la dernière « PASSATION »), `etat/dernier-tour.md` (texte exact du dernier tour et dernier message
+   du joueur), `etat/fils-ouverts.md`, puis `python outils/tour.py debut` (tout ce qui est dû, météo, argent, corps, lieu).
+3. **Les erreurs d'un moteur moins puissant, et le remède** :
+   - personnage nouveau : `personnage.py nouveau` (jamais écrit à la main) ; un figurant de l'entourage entre par `personnage.py apparait` ;
+   - réaction d'un personnage à William : `jet.py --table Tn --pour "Nom"` ou `reactions.py message / delai`, puis `reactions.py jouer Axxx --texte "…"` ;
+     jamais de probabilité choisie à la main (règle 17) ;
+   - **état caché** : les lignes d'agenda `connu=non`, `etat/reponses-annonce.csv`, `etat/reseaux-repondants.csv`, les secrets des fiches de
+     `personnes/` et `etat/savoir.csv` ne passent JAMAIS dans le texte du joueur ni dans `whatsapp/` ; après chaque réponse de candidat,
+     `python outils/telephone.py --json` ne doit lister que les conversations que William peut lire (aujourd'hui : `claude-agent-ia`) ;
+   - William décide seul (règle 13) : s'arrêter à la première vraie décision ou au premier message important ;
+   - format du tour §5 (récit en prose, puis réponses attendues, à faire, quêtes secondaires, « Que veux-tu faire ? ») ; aucun conseil, aucun jet,
+     aucune source montrés ; « 📌 Vraie vie » seulement pour un échange hors simulation ;
+   - dates et fuseaux : `fuseaux.py` et `calendrier_2040.py`, jamais de tête (le 19/07/2041 est un vendredi) ;
+   - fichiers CSV : jamais de « ; » dans un champ, fins de ligne CRLF conservées ;
+   - `tour.py fin` : ne pas régler l'horloge à la main avant ; `--fil` prend l'IDENTIFIANT d'un fil (« I21 »), pas un numéro ; si la commande
+     échoue en route, vérifier `etat/horloge.txt` avant de la relancer (sinon le compteur de tours avance deux fois) ;
+   - fin de chaque tour : `python outils/controle_coherence.py` (« aucune incohérence détectée »), `python outils/tests_moteur.py`, puis
+     `tour.py fin … --enregistrer` (commit et fusion en avance rapide dans `master`) : l'état ne reste jamais seulement dans un worktree.
+4. **Dans la fiction, « Claude » est l'agent IA de William** (son pôle ressources humaines virtuel, abonnement Claude Pro, conversation
+   épinglée `whatsapp/claude-agent-ia.md`, règles dans `documents_william/`) : le moteur, quel qu'il soit, joue ce personnage sous ce nom,
+   avec ses limites (il ne signe, ne paie et ne promet rien ; il ne donne jamais le nom de William sans sa décision ; au-dessus du seuil de 70 il
+   fournit le numéro de William au candidat sans que le texte du tour en écrive un seul chiffre).
+5. **Téléphone** : `sorties/telephone/index.html` est publié par Claude (outil Artifact, adresse dans `etat/relais-config.json`). Sans Claude :
+   `tour.py fin` régénère le fichier ; l'envoyer au joueur s'il le demande ; ne lancer `telephone.py --marquer-publie` qu'après une vraie publication.
+6. **Quand un tour dépasse ce que le moteur sait faire sûrement** : faire le plus simple et le plus exact, puis écrire une ligne datée dans
+   `etat/relais-notes.md` (ce qui reste, ce dont il doute) ; ne jamais effacer d'information (« avant → maintenant »). Claude corrigera.

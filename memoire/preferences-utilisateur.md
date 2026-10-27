@@ -106,6 +106,8 @@
 
 - **Visuels et planches photos des personnages (demande de l'utilisateur, 21/10/2026)** : toute planche visuelle, portrait ou composition de photos d'un personnage transmise ou créée est systématiquement archivée dans personnes/images/<prenom-nom>-planche.jpg et liée directement en tête de sa fiche markdown (personnes/<prenom-nom>.md). Le moteur s'appuie sur ces références graphiques pour préserver une cohérence absolue des scènes (traits, morphologie, tenues de travail, lieux habituels).
 
+- **Limite d'utilisation de Claude et relais vers Gemini** (27/10/2026) : « il y a de fortes chances que ma limite d'utilisation soit atteinte avec toi » ; il continue alors avec Gemini dans Antigravity, « pas aussi puissant », qui « peut faire des erreurs » : la reprise doit se faire « le mieux possible » (procédure : `outils/LISEZMOI.md` §7 ; note de passation : `etat/relais-notes.md`). À chaque tour, tout est enregistré dans `master`.
+
 ## Grandes décisions hors fiction (historique)
 - 25/07/2040 (simulé) : il a envisagé d'arrêter, puis a décidé de continuer avec tous les paramètres.
 - 11/10/2026 (réel) : redémarrage complet (univers 2) à 35 ans, argent initial, paramètres repris ; départ d'abord fixé au mardi

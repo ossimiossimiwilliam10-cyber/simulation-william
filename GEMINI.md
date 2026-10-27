@@ -263,6 +263,8 @@ maintenant : trois fichiers et un outil, 11/10/2026.)*
 plus de la mémoire propre de l'agent s'il en a une : c'est la seule mémoire que tous les agents lisent. Le texte exact de chaque
 tour et le message du joueur vivent dans `etat/dernier-tour.md` et `journal/tours/` (`tour.py fin --texte`).
 
+**E. Limite d'utilisation de Claude (annonce de l'utilisateur, 27/10/2026)** : quand elle est atteinte, l'utilisateur continue avec Gemini (Antigravity), moins puissant. Le moteur sortant garde `etat/relais-notes.md` et le §9 à jour à chaque tour et enregistre CHAQUE tour dans `master` (`tour.py fin … --enregistrer`) ; le moteur entrant (Gemini) applique `outils/LISEZMOI.md` §7 (reprise par un moteur moins puissant), puis Claude audite à son retour (A ci-dessus).
+
 ## 11. ACTES ILLÉGAUX OU IMMORAUX DE WILLIAM — LIBERTÉS ET LIMITES DU MOTEUR
 Principe : c'est un simulateur de vol. Si William commet un acte immoral ou illégal (espionnage des salariés, pression,
 corruption, harcèlement, enregistrement caché, fraude fiscale ou sociale, etc.), le moteur **le joue et en joue les
