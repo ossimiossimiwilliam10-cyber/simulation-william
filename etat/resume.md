@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 27/10/2026 21:08 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 27/10/2026 21:14 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mercredi 24/07/2041 20:20 (luxembourg, UTC+2)
+## Horloge : jeudi 25/07/2041 08:00 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 18:20 ; lisbonne 19:20 ; mindelo 17:20 ; casablanca 19:20 ; douala 19:20 ; addis 21:20 ; manille 02:20 ; paris 20:20 ; seoul 03:20 ; bresil 15:20
+- **Heure dans les autres lieux** : abidjan 06:00 ; lisbonne 07:00 ; mindelo 05:00 ; casablanca 07:00 ; douala 07:00 ; addis 09:00 ; manille 14:00 ; paris 08:00 ; seoul 15:00 ; bresil 03:00
 - **En attente de William** :
-  - Dîner, détente en soirée ou nuit jusqu'à jeudi 08h00 (« Go ») ; prochain rapport demain à 20h00
+  - Programme de la matinée (dossiers, détente) en attendant le RIB de Me Gnamien ou avance rapide
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **9 975,70 €**
@@ -36,10 +36,7 @@
 - Pendant : réactions et négociations par `jet.py --table Tn` (T1 à T14 ; `--pour` pour un personnage) ; personnages nouveaux par `personnage.py nouveau` ; faits et prix par `faits.py` et `prix.py` ; lieux par `lieux.py voir` ; révélations dans `savoir.py ajouter` ; argent dans `grand_livre.py ajouter`.
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
-## Fin du dernier journal (2041-07-24.md, 6 dernières lignes)
-> - **00h00-08h00** (tour n° 47) : 00h00-08h00 (tour n° 47) : nuit paisible de 7,5 h (23h30-07h15) ; réveil en pleine forme ; grand soleil (13 °C / 21 °C) ; séance de MMA au Minett Combat Club cet après-midi (I1) ; attente des retours RH et du cabinet Me Gnamien
-> - Tour en cours à 08h00, en attente de William : **Programme de la matinée (dossiers, démarches, détente avant le MMA) ou avance rapide**.
-> - **08h00-20h00** (tour n° 48) : 08h00-20h00 (tour n° 48) : réception à 11h45 de la convention d'honoraires et du questionnaire KYC de Me Gnamien (2,1 M FCFA HT) ; analysée par le pôle juridique virtuel (D011) ; séance de MMA l'après-midi au Minett Combat Club (14h30-17h00) avec Thiago Alves et Arthur Kieffer ; cinquième rapport quotidien du DG virtuel remis à 20h00
-> - Tour en cours à 20h00, en attente de William : **Décision sur la convention d'avocat de Me Gnamien et transmission des pièces KYC, suite de soirée ou repos**.
-> - **20h00-20h20** (tour n° 49) : 20h00-20h20 (tour n° 49) : William valide la convention d'assistance juridique de Me Gnamien ; courriel officiel expédié à 20h08 avec pièces KYC et demande de RIB (D013) ; Mohamed Coulibaly (91/100) désigné choix n° 1 pour la DG, entretien en préparation par le pôle RH
-> - Tour en cours à 20h20, en attente de William : **Dîner, détente en soirée ou nuit jusqu'à jeudi 08h00 (« Go ») ; prochain rapport demain à 20h00**.
+## Fin du dernier journal (2041-07-25.md, 6 dernières lignes)
+> # Jeudi 25 juillet 2041 — univers 3, dixième jour
+> - **00h00-08h00** (tour n° 50) : 00h00-08h00 (tour n° 50) : nuit paisible de 7,5 h (23h30-07h15) marquée par un orage d'été (1,6 mm d'eau) ; réveil en forme ; ciel partagé et température fraîche (16 °C / 23 °C) ; récupération physique ; attente du RIB de Me Gnamien pour virement
+> - Tour en cours à 08h00, en attente de William : **Programme de la matinée (dossiers, détente) en attendant le RIB de Me Gnamien ou avance rapide**.

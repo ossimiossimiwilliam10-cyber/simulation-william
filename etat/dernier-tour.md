@@ -1,43 +1,47 @@
 # Dernier tour montré au joueur
 
-> Tour n° 49 ; horloge 24/07/2041 20:00 -> 24/07/2041 20:20 ; enregistré le 27/10/2026 21:08 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 50 ; horloge 24/07/2041 20:20 -> 25/07/2041 08:00 ; enregistré le 27/10/2026 21:14 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Alors, je valide la convention d'honneur de monsieur Gnamien et je leur demande donc qu'ils me fournissent son RIB pour que je puisse procéder au virement. Alors, concernant le pôle RH. Ok. J'attends donc le rapport de, enfin, le dossier de Mariam Brou, mais dans mon cœur, c'est parti pour Mohamed Koulibaly parce que c'est juste un gars exceptionnel, hein. Franchement, avec sa note et les retours, c'est exceptionnel.
+> Go
 
 ## Texte envoyé au joueur
 
-**MERCREDI 24 JUILLET 2041 — 20h20 — Audun-le-Tiche, chez toi**
+**JEUDI 25 JUILLET 2041 — 08h00 — Audun-le-Tiche, chez toi**
 
-Installé à la table de la salle à manger avec ton téléphone et ton ordinateur portable, tu donnes immédiatement tes instructions à ton équipe virtuelle pour transformer les arbitrages de la soirée en actes concrets.
+Après avoir validé l'envoi de tes instructions à ton équipe virtuelle à 20h20, tu refermes ton ordinateur et tu te diriges vers la cuisine. Après la dépense énergétique de ta séance de MMA de l'après-midi, ton organisme réclame son dû. Tu te prépares un dîner substantiel, fidèle à ton habitude d'un seul repas copieux le soir : une assiette de pâtes complètes sautées avec un steak de bœuf poêlé, des courgettes à l'huile d'olive et un grand verre d'eau fraîche. Tu dînes tranquillement à la table de la salle à manger, laissant la fatigue musculaire s'installer de manière bienfaisante.
 
-Tu confirmes d'abord à ton directeur général virtuel et à ton pôle juridique la validation formelle de la convention d'assistance juridique de Me Ismaël Gnamien. Tu autorises la transmission numérique sous pli sécurisé des pièces d'identification exigées pour la conformité KYC — la copie certifiée conforme de ton passeport et un justificatif récent de domicile à Audun-le-Tiche —, tout en rappelant ton statut exclusif d'associé unique non-gérant et investisseur en fonds propres, en stricte conformité avec l'article 14 du statut de la fonction publique luxembourgeoise. Tu y ajoutes l'instruction expresse d'exiger le RIB officiel du cabinet (compte séquestre CARPA ou compte d'avocat auprès d'une banque partenaire d'Abidjan) afin de pouvoir exécuter le virement bancaire du premier acompte de 991 200 FCFA TTC (environ 1 511 €).
+La soirée s'étire dans le calme. Vers 22h00, l'air devient plus lourd et le ciel s'assombrit au-dessus de la vallée de l'Alzette. Vers 23h30, alors que les premiers éclairs lointains illuminent les crêtes boisées en direction d'Esch-sur-Alzette et qu'une pluie d'été se met à crépiter sur la chaussée, tu fermes les doubles vitrages et tu te couches. Un orage d'été traverse brièvement le secteur au milieu de la nuit, faisant chuter la température nocturne sans perturber ton repos.
 
-À 20h08, le courriel officiel d'acceptation et de transmission KYC est expédié au Cabinet Gnamien & Associés. La pièce correspondante est automatiquement archivée dans `documents_william/` (`2041-07-24_Courriel_Cabinet_Gnamien_Acceptation_mission_et_demande_RIB.pdf`) et répertoriée sous la référence D013 dans ton application Gestion. Les bureaux du cabinet étant fermés à cette heure à Abidjan, l'accusé de réception et le RIB officiel parviendront demain matin dès l'ouverture des banques et de l'étude.
+Tu te réveilles spontanément à 07h15, parfaitement reposé après sept heures et demie d'un sommeil profond. Les étirements de la veille ont porté leurs fruits : aucune raideur articulaire, une excellente tonicité musculaire et les idées particulièrement claires.
 
-Tu te tournes ensuite vers ton pôle Ressources Humaines pour cadrer la suite du recrutement. Tu confirmes que si tu attends la remise du dossier comparatif de Mariam Brou pour disposer d'une vue d'ensemble complète, ton choix de cœur et de raison est fermement fixé sur Mohamed Coulibaly : sa note de 91/100, son profil d'ingénieur financier rompu aux montages d'énergie, son réseau de quarante dirigeants de PME en Côte d'Ivoire et les retours d'évaluation très élogieux de ses pairs en font le candidat exceptionnel pour incarner la Direction Générale.
+En ouvrant les fenêtres de la chambre à l'étage, l'odeur d'ozone et de terre mouillée pénètre dans la pièce. La pluie nocturne (environ 1,6 mm tombés sous l'orage) a lavé l'atmosphère. Le ciel est partagé entre des voiles nuageux et des trouées de ciel bleu, avec un thermomètre qui affiche 16 °C au petit matin et devrait monter vers 23 °C au cours de l'après-midi.
 
-Le pôle RH enregistre l'instruction : Mohamed Coulibaly passe au statut de candidat prioritaire n° 1. L'équipe virtuelle engage la préparation du canevas de ton futur entretien approfondi avec lui — un échange en visioconférence entre Bruxelles et Audun-le-Tiche, facilité par le fait que vous partagez le même fuseau horaire. Le dossier de Mariam Brou (88/100) sera finalisé en parallèle pour servir d'étalon comparatif ou être conservé pour le pôle commercial.
+Tu descends dans la cuisine, bois un grand verre d'eau, prépares un café noir sans sucre et consultes l'état de tes dossiers sur ton téléphone.
 
-À 20h20, l'ensemble des consignes est parfaitement exécuté et sécurisé dans les systèmes. L'ordinateur refermé, il est temps de passer en cuisine pour préparer ton dîner réparateur après l'intensité de ta séance de MMA.
+Ce jeudi est une journée de récupération dans ton programme sportif estival, sans séance de combat au club avant la session de MMA de vendredi après-midi.
+
+Sur le front professionnel, la situation est parfaitement balisée :
+- Ton courriel officiel d'acceptation de mission avec tes pièces justificatives KYC est bien parvenu au Cabinet Gnamien & Associés à Abidjan. À huit heures du matin en Moselle, il n'est que six heures en Côte d'Ivoire : les bureaux du cabinet n'ouvriront que dans deux heures et demie. La transmission du RIB officiel pour le virement du premier acompte (991 200 FCFA TTC, soit environ 1 511 €) est attendue dans le courant de la matinée.
+- Le pôle RH finalise la synthèse de Mohamed Coulibaly (91/100) pour te proposer un créneau de visioconférence d'entretien d'embauche, tout en bouclant le dossier de Mariam Brou (88/100).
 
 ---
 
-Il est 20h20.
+Il est 08h00.
 
 ---
 
 **Réponses attendues**
-- Aucune réponse urgente immédiate à 20h20.
+- Aucune réponse urgente immédiate à 08h00.
 
 **À faire / à fournir avant le tour suivant**
-- Préparer et savourer ton dîner, profiter de ta soirée de détente et passer la nuit jusqu'à demain matin (« Go » pour lancer l'avance rapide jusqu'au jeudi 25 juillet 08h00).
+- Définir le programme de ta matinée (dossiers, démarches personnelles, lecture ou détente) en attendant la réception du RIB de Me Gnamien, ou lancer une nouvelle avance rapide.
 
 **Quêtes secondaires**
-- Réception du RIB officiel de Me Gnamien pour exécution du virement du premier acompte (A090, attendu jeudi matin).
-- Présentation de la trame d'entretien et proposition de créneau avec Mohamed Coulibaly (91/100) par le pôle RH.
-- Finalisation du dossier comparatif de Mariam Brou (88/100).
-- Rapport quotidien n° 6 du directeur général virtuel programmé pour demain jeudi 25 juillet à 20h00 (A089).
+- Réception du RIB officiel de Me Gnamien pour exécution du virement bancaire du premier acompte (A090, attendu dans la matinée).
+- Présentation de la trame d'entretien et calage de la visioconférence avec Mohamed Coulibaly (91/100) par le pôle RH.
+- Remise du dossier comparatif de Mariam Brou (88/100).
+- Rapport quotidien n° 6 du directeur général virtuel ce soir à 20h00 (A089).
 
 Que veux-tu faire ?

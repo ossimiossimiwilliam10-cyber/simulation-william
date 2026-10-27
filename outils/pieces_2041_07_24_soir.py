@@ -90,3 +90,4 @@ def generer_courriel_gnamien_acceptation():
 if __name__ == "__main__":
     f = generer_courriel_gnamien_acceptation()
     print("Courriel généré avec succès.")
+

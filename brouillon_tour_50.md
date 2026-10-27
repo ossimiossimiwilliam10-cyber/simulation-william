@@ -1,0 +1,37 @@
+**JEUDI 25 JUILLET 2041 — 08h00 — Audun-le-Tiche, chez toi**
+
+Après avoir validé l'envoi de tes instructions à ton équipe virtuelle à 20h20, tu refermes ton ordinateur et tu te diriges vers la cuisine. Après la dépense énergétique de ta séance de MMA de l'après-midi, ton organisme réclame son dû. Tu te prépares un dîner substantiel, fidèle à ton habitude d'un seul repas copieux le soir : une assiette de pâtes complètes sautées avec un steak de bœuf poêlé, des courgettes à l'huile d'olive et un grand verre d'eau fraîche. Tu dînes tranquillement à la table de la salle à manger, laissant la fatigue musculaire s'installer de manière bienfaisante.
+
+La soirée s'étire dans le calme. Vers 22h00, l'air devient plus lourd et le ciel s'assombrit au-dessus de la vallée de l'Alzette. Vers 23h30, alors que les premiers éclairs lointains illuminent les crêtes boisées en direction d'Esch-sur-Alzette et qu'une pluie d'été se met à crépiter sur la chaussée, tu fermes les doubles vitrages et tu te couches. Un orage d'été traverse brièvement le secteur au milieu de la nuit, faisant chuter la température nocturne sans perturber ton repos.
+
+Tu te réveilles spontanément à 07h15, parfaitement reposé après sept heures et demie d'un sommeil profond. Les étirements de la veille ont porté leurs fruits : aucune raideur articulaire, une excellente tonicité musculaire et les idées particulièrement claires.
+
+En ouvrant les fenêtres de la chambre à l'étage, l'odeur d'ozone et de terre mouillée pénètre dans la pièce. La pluie nocturne (environ 1,6 mm tombés sous l'orage) a lavé l'atmosphère. Le ciel est partagé entre des voiles nuageux et des trouées de ciel bleu, avec un thermomètre qui affiche 16 °C au petit matin et devrait monter vers 23 °C au cours de l'après-midi.
+
+Tu descends dans la cuisine, bois un grand verre d'eau, prépares un café noir sans sucre et consultes l'état de tes dossiers sur ton téléphone.
+
+Ce jeudi est une journée de récupération dans ton programme sportif estival, sans séance de combat au club avant la session de MMA de vendredi après-midi.
+
+Sur le front professionnel, la situation est parfaitement balisée :
+- Ton courriel officiel d'acceptation de mission avec tes pièces justificatives KYC est bien parvenu au Cabinet Gnamien & Associés à Abidjan. À huit heures du matin en Moselle, il n'est que six heures en Côte d'Ivoire : les bureaux du cabinet n'ouvriront que dans deux heures et demie. La transmission du RIB officiel pour le virement du premier acompte (991 200 FCFA TTC, soit environ 1 511 €) est attendue dans le courant de la matinée.
+- Le pôle RH finalise la synthèse de Mohamed Coulibaly (91/100) pour te proposer un créneau de visioconférence d'entretien d'embauche, tout en bouclant le dossier de Mariam Brou (88/100).
+
+---
+
+Il est 08h00.
+
+---
+
+**Réponses attendues**
+- Aucune réponse urgente immédiate à 08h00.
+
+**À faire / à fournir avant le tour suivant**
+- Définir le programme de ta matinée (dossiers, démarches personnelles, lecture ou détente) en attendant la réception du RIB de Me Gnamien, ou lancer une nouvelle avance rapide.
+
+**Quêtes secondaires**
+- Réception du RIB officiel de Me Gnamien pour exécution du virement bancaire du premier acompte (A090, attendu dans la matinée).
+- Présentation de la trame d'entretien et calage de la visioconférence avec Mohamed Coulibaly (91/100) par le pôle RH.
+- Remise du dossier comparatif de Mariam Brou (88/100).
+- Rapport quotidien n° 6 du directeur général virtuel ce soir à 20h00 (A089).
+
+Que veux-tu faire ?
