@@ -1,33 +1,31 @@
 # Dernier tour montré au joueur
 
-> Tour n° 11 ; horloge 18/07/2041 20:47 -> 18/07/2041 21:27 ; enregistré le 27/10/2026 14:42 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 12 ; horloge 18/07/2041 21:27 -> 18/07/2041 22:09 ; enregistré le 27/10/2026 14:46 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je demande à Claude de s'entretenir avec Nadège afin d'évaluer à quel point son réseau est élevé en termes de clients potentiels pour nous, vu que Claude il a conscience du projet. Et je lui demande de lui attribuer une note, et que si la note dépasse les 80, alors de faire tout pour que je puisse avoir son numéro, pour que je puisse m'entretenir personnellement avec elle.
+> Go
 
 ## Texte envoyé au joueur
 
-**JEUDI 18 JUILLET 2041 — 21h27 — Audun-le-Tiche, chez William**
+**JEUDI 18 JUILLET 2041 — 22h09 — Audun-le-Tiche, chez William**
 
-À 20h50, tu écris à Claude : il s'entretient avec Nadège Kouamé pour évaluer l'ampleur de son réseau en clients potentiels pour le projet, il lui attribue une note, et si elle dépasse 80, il fait tout pour que tu aies son numéro et que tu puisses lui parler toi-même. La réponse arrive à 20h52 :
+La soirée avance sur le canapé, la pluie reprend par à-coups contre les volets. Tu ne fais rien d'autre qu'attendre. À 22h08, Claude :
 
-« Compris. Je l'interroge sur son réseau et je la note sur 100 selon cinq critères : réseau utile en clients potentiels (30 points), pertinence pour le solaire : factures d'électricité élevées, bâtiments adaptés (25), accès réel : décideurs joints, introductions déjà faites (20), fiabilité : références, cohérence de ses réponses (15), disponibilité et motivation (10). Si la note dépasse 80, je fais le nécessaire pour que tu obtiennes son numéro et je te préviens aussitôt. Je ne donne ni ton nom ni ton numéro sans ton accord. »
+« Entretien terminé. Note de Nadège Kouamé : 53 sur 100.
 
-À 20h55, Claude lui écrit sur Educarriere.ci : « Bonsoir Madame Kouamé, merci pour vos réponses. Pour avancer, pouvez-vous m'indiquer approximativement : combien de propriétaires ou d'entreprises vous pourriez présenter au porteur du projet ; combien d'entre eux vous mettent en contact avec la personne qui décide ; si leurs factures d'électricité sont élevées ; et si vous avez déjà fait des introductions dans un projet comparable. Cordialement. »
+Réseau utile : 12,6 sur 30. Environ trente-cinq propriétaires et gérants d'immeubles, une quinzaine qu'elle joint jusqu'au décideur, une dizaine à facture d'électricité très lourde. Pertinence pour le solaire : 11,7 sur 25. Accès réel : 10,7 sur 20 : une seule introduction déjà faite, sans contrat à la clé. Fiabilité : 11,5 sur 15 : références joignables, réponses cohérentes ; elle a mis plus d'une journée à répondre à mes premières questions. Disponibilité et motivation : 6,6 sur 10.
 
-À 21h27, le point de Claude :
-
-« Réponse de Nadège Kouamé à 21h23, brève : elle dit connaître environ trente-cinq propriétaires et gérants d'immeubles de bureaux et de commerces à Abidjan, surtout au Plateau, à Marcory et à Cocody ; pas de noms avant d'en savoir plus sur le projet ; rien sur les décideurs, les factures ni les introductions déjà faites. Je lui repose ces trois points plus précisément. Note : trop tôt pour la donner. »
+La note est sous 80 : je ne cherche pas son numéro. Elle me demande qui porte le projet, le montant et le calendrier, et si le projet pourrait l'employer plutôt que la payer à la commission. Elle préfère rester sur la plateforme tant qu'elle ne connaît pas le porteur. Je n'ai rien répondu à ces questions. Dis-moi ce que tu veux qu'elle sache. »
 
 ---
 
 **Réponses attendues**
-- **Claude** (ton agent IA) : la note de Nadège Kouamé une fois l'entretien terminé ; sinon, le prochain rapport demain à 18h00.
+- **Claude** (ton agent IA) : ce que tu veux répondre à Nadège Kouamé ; sinon, le prochain rapport demain à 18h00.
 - **Ministère de l'Éducation** (info@men.lu) : ton courriel de mardi à 12h14 n'a pas de réponse.
 
 **À faire / à fournir avant le tour suivant**
-- Aucune démarche en cours.
+- Dire à Claude quoi répondre aux questions de Nadège Kouamé (porteur du projet, montant, calendrier, possibilité d'un emploi).
 
 **Quêtes secondaires**
 - Rien en suspens en dehors de ce que tu as déjà noté.

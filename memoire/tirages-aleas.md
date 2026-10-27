@@ -2624,3 +2624,7 @@ Effets à jouer : A23 (dimanche 21/07 (matin)) : Très courant ; William voit le
 - Jet « Nadège Kouamé : introductions déjà faites dans un projet comparable (jet / 25) » : probabilité 50 %, jet  42.1 → **OUI** [PROCÉDURE : valeur d'un attribut de réseau (jet × 100)] (enregistré le 27/10/2026 14:41 heure machine)
 
 - Jet « Nadège Kouamé : motivation et disponibilité (0,5 + jet / 200) » : probabilité 50 %, jet  32.4 → **OUI** [PROCÉDURE : valeur d'un attribut de réseau (jet × 100)] (enregistré le 27/10/2026 14:41 heure machine)
+
+- Tirage [T17] « Nadège Kouamé : réaction au message de William du 18/07 19:30 (abidjan) : « deuxième message de l'entretien de l'agent IA : il repose trois questions précises (part d » » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  33.9 → **conversation** (enregistré le 27/10/2026 14:46 heure machine)
+
+- Tirage [T10] « Nadège Kouamé : délai (réponse de Nadège Kouamé au deuxième message de l'entretien de l'agent IA (T17 :) » : immediat 9 / rapide 18 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 20 / plus_tard_ou_jamais 18 ; modificateurs : M72 ; jet  20.2 → **rapide** (enregistré le 27/10/2026 14:46 heure machine)

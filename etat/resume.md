@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 27/10/2026 14:42 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 27/10/2026 14:46 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : jeudi 18/07/2041 21:27 (luxembourg, UTC+2)
+## Horloge : jeudi 18/07/2041 22:09 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 19:27 ; lisbonne 20:27 ; mindelo 18:27 ; casablanca 20:27 ; douala 20:27 ; addis 22:27 ; manille 03:27 ; paris 21:27 ; seoul 04:27 ; bresil 16:27
+- **Heure dans les autres lieux** : abidjan 20:09 ; lisbonne 21:09 ; mindelo 19:09 ; casablanca 21:09 ; douala 21:09 ; addis 23:09 ; manille 04:09 ; paris 22:09 ; seoul 05:09 ; bresil 17:09
 - **En attente de William** :
-  - Note de Nadège Kouamé par Claude (entretien en cours, I12) ; prochain rapport de Claude demain à 18h00 ; demain vendredi : club l'après-midi (I1)
+  - Ce que William répond aux questions de Nadège Kouamé (Claude attend) ; prochain rapport de Claude demain à 18h00 ; demain vendredi : club l'après-midi (I1)
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **9 975,70 €**
@@ -38,9 +38,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-07-18.md, 6 dernières lignes)
-> - 20h43 : Nadège Kouamé répond aux questions complémentaires (tirage : 24 h, passage à A refusé de peu) ; 20h47 : alerte de Claude à William (promesse de prévenir dès qu'elle répond) : l'avance rapide s'arrête ; aucune autre réponse à l'annonce tirée jusqu'au 19/07 18h00
-> - Tirages du tour : jet « LinkedIn : impressions supplémentaires du 17/07 18h00 au 18/ » → NON (67,71) ; jet « Educarriere.ci : vues supplémentaires du 17/07 18h00 au 18/0 » → OUI (0,79) ; jet « NovoJob : vues supplémentaires du 17/07 18h00 au 18/07 18h00 » → NON (69,88) ; jet « Une personne répond à l'annonce sur LinkedIn entre 18:00 et  » → NON (61,43) ; jet « Une personne répond à l'annonce sur
-> - Tour en cours à 20h47, en attente de William : **Ce que William répond à Nadège Kouamé (Claude attend) ; prochain rapport de Claude demain à 18h00 ; demain vendredi : club l'après-midi (I1)**.
 > - **20h47-21h27** (tour n° 11) : 20h50 : William charge Claude d'évaluer le réseau de Nadège Kouamé en clients potentiels et de la noter (numéro si plus de 80) ; 20h52 : grille de Claude (cinq critères sur 100) ; 20h55 : premier message de l'entretien sur Educarriere.ci (T17 : poli_bref, T10 : rapide) ; 21h23 : réponse brève (environ 35 propriétaires et gérants d'immeubles) ; 21h27 : point de Clau
 > - Tirages du tour : jet « Hervé Touré répond aux questions complémentaires de l'agent  » → NON (46,35) ; jet « Nadège Kouamé : sa réponse du jeudi 18/07 à 20h43 montre une » → NON (26,82) ; T17 Nadège → poli_bref (22,43) ; T10 Nadège → rapide (15,01) ; jet « Nadège Kouamé : nombre de propriétaires ou d'entreprises qu' » → NON (87,47) ; jet « Nadège Kouamé : part qu'elle joint jusqu'au décideur (30
 > - Tour en cours à 21h27, en attente de William : **Note de Nadège Kouamé par Claude (entretien en cours, I12) ; prochain rapport de Claude demain à 18h00 ; demain vendredi : club l'après-midi (I1)**.
+> - **21h27-22h09** (tour n° 12) : 21h30 : deuxième message de l'entretien (T17 : conversation, T10 : rapide) ; 21h55 : réponse détaillée de Nadège Kouamé et ses questions sur le projet ; 22h08 : Claude rend sa note à William : 53/100 (réseau utile 12,6 ; pertinence solaire 11,7 ; accès réel 10,7 ; fiabilité 11,5 ; disponibilité 6,6) ; sous le seuil de 80 : pas de recherche de son numéro ; Claude n'
+> - Tirages du tour : T17 Nadège → conversation (33,93) ; T10 Nadège → rapide (20,2).
+> - Tour en cours à 22h09, en attente de William : **Ce que William répond aux questions de Nadège Kouamé (Claude attend) ; prochain rapport de Claude demain à 18h00 ; demain vendredi : club l'après-midi (I1)**.
