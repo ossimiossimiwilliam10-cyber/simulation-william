@@ -1,4 +1,5 @@
 id;nom;description;statut
+direction;Direction Générale;Pilotage global, gouvernance, validation des livrables et stratégie;actif
 rh;Ressources humaines;Recrutement, fiches de poste, entretiens, notation des candidats, droit du travail;actif
 juridique;Juridique;Statuts, contrats, avis d'avocats : comparaison avec les textes officiels;actif
 finance;Finance et comptabilité;Budgets, bilans, tranches d'investissement, comptabilité OHADA;à venir

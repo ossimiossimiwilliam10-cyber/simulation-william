@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 27/10/2026 20:22 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 27/10/2026 20:33 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mardi 23/07/2041 08:00 (luxembourg, UTC+2)
+## Horloge : mardi 23/07/2041 12:00 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 06:00 ; lisbonne 07:00 ; mindelo 05:00 ; casablanca 07:00 ; douala 07:00 ; addis 09:00 ; manille 14:00 ; paris 08:00 ; seoul 15:00 ; bresil 03:00
+- **Heure dans les autres lieux** : abidjan 10:00 ; lisbonne 11:00 ; mindelo 09:00 ; casablanca 11:00 ; douala 11:00 ; addis 13:00 ; manille 18:00 ; paris 12:00 ; seoul 19:00 ; bresil 07:00
 - **En attente de William** :
-  - Programme de la matinée (dossiers, démarches, sport ou détente) ou avance rapide ; prochain rapport ce soir à 20h00
+  - Programme de l'après-midi (dossiers, démarches, sortie ou repos) ou avance rapide ; prochain rapport ce soir à 20h00
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **9 975,70 €**
@@ -40,3 +40,5 @@
 > # Mardi 23 juillet 2041 — univers 3, huitième jour
 > - **00h00-08h00** (tour n° 44) : 00h00-08h00 (tour n° 44) : réveil à 07h15 après une nuit de 7,5 h ; grand soleil (13 °C le matin, 24 °C l'après-midi) ; les deux PDF d'hier archivés sur le téléphone ; en attente du dossier de Me Gnamien et des retours de références du pôle RH
 > - Tour en cours à 08h00, en attente de William : **Programme de la matinée (dossiers, démarches, sport ou détente) ou avance rapide ; prochain rapport ce soir à 20h00**.
+> - **08h00-12h00** (tour n° 45) : 08h00-12h00 (tour n° 45) : William consacre 4 heures à recoder et perfectionner l'application Gestion (v1.0) ; restructuration en 4 onglets (Tableau, RH, Juridique, Documents), intégration et vérification des liens PDF physiques avec lecteur intégré
+> - Tour en cours à 12h00, en attente de William : **Programme de l'après-midi (dossiers, démarches, sortie ou repos) ou avance rapide ; prochain rapport ce soir à 20h00**.

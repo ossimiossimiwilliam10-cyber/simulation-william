@@ -2,16 +2,18 @@
 
 William l'a imaginée et « codée » (tour n° 16) : une application de gestion pilotée par l'IA, sur son téléphone, avec la transparence totale sur l'entreprise. Un document
 envoyé par un collaborateur (avocat, comptable, ingénieur…) passe par la messagerie de l'application, est routé vers le bon PÔLE (RH, juridique, finance, technique,
-commercial), comparé aux sources officielles du pôle, puis résumé pour William : est-ce clair, peut-on faire mieux, que répondre. Elle fonctionne avec la clé d'API du
+commercial, direction), comparé aux sources officielles du pôle, puis résumé pour William : est-ce clair, peut-on faire mieux, que répondre. Elle fonctionne avec la clé d'API du
 modèle d'IA le plus puissant du marché ; budget mensuel plafonné à 1 000 € (la consommation réelle est le plus souvent bien plus basse).
 
 Version 0.1 (19/07/2041, 03h12) : tableau de bord (budget d'API, pôles, sources), pôle RH actif (poste ouvert, annonces, candidats : ce que l'agent IA a rapporté à William), boîte de documents.
 Les autres pôles et la messagerie de dépôt sont annoncés « à venir ».
 Version 0.2 (19/07/2041, 04h02) : un agent par pôle et un agent central qui examine toutes les réponses (`etat/gestion-agents.csv`) ; Claude, l'agent de William, est
 connecté au pôle RH ; l'usage des agents consomme le budget d'API : coût ESTIMÉ automatiquement (voir `cout_auto`).
+Version 1.0 (23/07/2041, 12h00) : refonte ergonomique complète par William (4 heures de dev). 4 onglets : Tableau, RH, Juridique, Documents.
+Intégration directe des PDF physiques téléchargeables et visualisables (fichiers réels, taille, lecteur intégré), organisation pyramidale des contrats et sources officielles.
 
     python outils/gestion.py etat                                  # budget du mois, pôles, documents, candidats
-    python outils/gestion.py recevoir --expediteur "Me Untel" --objet "Rapport sur les statuts" --pole juridique [--quand "2041-07-20 10:00"]
+    python outils/gestion.py recevoir --expediteur "Me Untel" --objet "Rapport sur les statuts" --pole juridique [--fichier "nom.pdf"] [--quand "2041-07-20 10:00"]
     python outils/gestion.py analyser D001 --retour "texte du retour du pôle" --cout 2.4 [--quand "…"]   # l'analyse du pôle : écrite par le moteur, coût au budget
     python outils/gestion.py candidat --nom "Hervé Touré" --niveau B --etat "entretien en cours" --resume "…" --plateforme NovoJob [--note 62] [--quand "…"]
     python outils/gestion.py verifier
@@ -38,7 +40,7 @@ COUT_JOUR_CENTRAL = 0.7  # lecture de la messagerie de William et synthèse des 
 COUT_JOUR_JURIDIQUE = 0.5  # vérification des affirmations de tiers contre les textes officiels par le pôle juridique virtuel (estimation)
 COUT_REPONSE_RH = 0.8  # lecture et classement d'une réponse à une annonce (estimation)
 COL_B = ["date", "pole", "objet", "cout_eur"]
-COL_D = ["id", "date", "expediteur", "objet", "pole", "statut", "retour", "cout_eur"]
+COL_D = ["id", "date", "expediteur", "objet", "pole", "statut", "retour", "cout_eur", "fichier"]
 COL_C = ["id", "nom", "niveau", "note", "etat", "resume", "plateforme", "date"]
 ETATS_ANNONCES = {"en_ligne": "En ligne", "moderation": "En attente", "en_attente": "En attente", "refusee": "Refusée", "bloque": "Bloquée"}
 
@@ -92,26 +94,51 @@ def donnees_telephone(t):
     dep = depense_mois(t)
     poles = [{"id": p["id"], "nom": p["nom"], "description": p["description"], "statut": p["statut"]} for p in lire_csv(POLES)]
     sources = [{"pole": s["pole"], "titre": s["titre"], "reference": s["reference"]} for s in lire_csv(SOURCES)]
-    docs = [{"id": d["id"], "date": d["date"][:10], "expediteur": d["expediteur"], "objet": d["objet"], "pole": d["pole"], "statut": d["statut"],
-             "retour": d["retour"] if d["statut"] == "analysé" else "", "cout": float(d["cout_eur"] or 0)}
-            for d in lire_csv(DOCUMENTS) if _avant(d["date"], t)]
+    
+    import telephone
+    fichiers_visibles = telephone.fichiers_visibles(t.date())
+    fichiers_dict = {f["fichier"]: f for f in fichiers_visibles}
+
+    docs = []
+    for d in lire_csv(DOCUMENTS):
+        if not _avant(d["date"], t):
+            continue
+        nom_fic = d.get("fichier", "")
+        f_info = fichiers_dict.get(nom_fic)
+        if not f_info and nom_fic:
+            f_info = next((f for f in fichiers_visibles if nom_fic.lower() in f["fichier"].lower()), None)
+        docs.append({
+            "id": d["id"], "date": d["date"][:10], "expediteur": d["expediteur"], "objet": d["objet"], "pole": d["pole"],
+            "statut": d["statut"], "retour": d["retour"] if d["statut"] == "analysé" else "", "cout": float(d["cout_eur"] or 0),
+            "fichier": f_info["fichier"] if f_info else nom_fic,
+            "lien": f_info["lien"] if f_info else "",
+            "url": f_info["url"] if f_info else "",
+            "ko": f_info["ko"] if f_info else 0,
+            "dossier": f_info["dossier"] if f_info else "Documents"
+        })
     docs.sort(key=lambda d: d["date"], reverse=True)
     candidats = [{"nom": x["nom"], "niveau": x["niveau"], "note": x["note"], "etat": x["etat"], "resume": x["resume"], "plateforme": x["plateforme"], "date": x["date"][:10]}
                  for x in lire_csv(CANDIDATS) if _avant(x["date"], t)]
     import annonces
-    # une annonce « en ligne » dont la date de publication est à venir (approbation tirée d'avance) n'est pas encore en ligne pour William
     plateformes = [{"nom": a["plateforme"], "etat": ETATS_ANNONCES.get(a["etat"] if not (a["etat"] == "en_ligne" and not _avant(a["publiee_le"], t)) else "moderation", a["etat"])}
                    for a in annonces.annonces()]
     noms_poles = {p["id"]: p["nom"] for p in lire_csv(POLES)}
-    noms_poles["central"] = "Agent central"
+    noms_poles["central"] = "Direction Générale"
     agents = [{"pole": noms_poles.get(a["pole"], a["pole"]), "agent": a["agent"], "statut": a["statut"], "note": a["note"]}
               for a in lire_csv(AGENTS)]
-    version = "0.2" if _avant(c.get("version_0_2_le", "9999"), t) else c.get("version", "0.1")
+    version = "1.0" if _avant(c.get("version_1_0_le", "9999"), t) else ("0.2" if _avant(c.get("version_0_2_le", "9999"), t) else c.get("version", "0.1"))
     if version == "0.1":
         agents = []  # les agents apparaissent avec la version 0.2
+    gouvernance = {
+        "forme_sociale": c.get("forme_sociale", "SAS"),
+        "avocat_conseil": c.get("avocat_conseil", "Cabinet Me Ismaël Gnamien (Abidjan)"),
+        "structure_contrats": c.get("structure_contrats", "3 niveaux (DG mandat social, Directeurs cadres, Techniciens salariés)"),
+        "associe_unique": "William Ossimi (Associé non-gérant / Investisseur unique, contact +352)",
+        "tribunal": "Tribunal de commerce d'Abidjan"
+    }
     return {"installee": True, "version": version, "agents": agents, "estimation": cout_auto(t), "plafond": plafond, "depense": dep, "restant": round(plafond - dep, 2),
             "modele": c.get("modele", ""), "poles": poles, "sources": sources, "documents": docs, "candidats": candidats, "annonces": plateformes,
-            "poste": {"intitule": c.get("poste", ""), "forme": c.get("forme_sociale", "")}}
+            "poste": {"intitule": c.get("poste", ""), "forme": c.get("forme_sociale", "")}, "gouvernance": gouvernance}
 
 
 def _quand(texte):
@@ -121,12 +148,12 @@ def _quand(texte):
     return horloge.lire()["instant"].replace(tzinfo=None)
 
 
-def recevoir(expediteur, objet, pole, quand):
+def recevoir(expediteur, objet, pole, quand, fichier=""):
     if pole not in {p["id"] for p in lire_csv(POLES)}:
         sys.exit("Pôle inconnu : " + pole)
     docs = lire_csv(DOCUMENTS)
     ident = f"D{len(docs) + 1:03d}"
-    docs.append({"id": ident, "date": f"{quand:%Y-%m-%d %H:%M}", "expediteur": expediteur, "objet": objet, "pole": pole, "statut": "reçu", "retour": "", "cout_eur": "0"})
+    docs.append({"id": ident, "date": f"{quand:%Y-%m-%d %H:%M}", "expediteur": expediteur, "objet": objet, "pole": pole, "statut": "reçu", "retour": "", "cout_eur": "0", "fichier": fichier or ""})
     ecrire_csv(DOCUMENTS, docs, COL_D)
     return ident
 
@@ -164,6 +191,7 @@ def main():
     p.add_argument("--expediteur", required=True)
     p.add_argument("--objet", required=True)
     p.add_argument("--pole", required=True)
+    p.add_argument("--fichier", default="")
     p.add_argument("--quand")
     p = sp.add_parser("analyser")
     p.add_argument("id")
@@ -189,7 +217,7 @@ def main():
         print(f"Poste : {d['poste']['intitule']} · forme sociale : {d['poste']['forme']}")
         print(f"{len(d['candidats'])} candidat(s) · {len(d['documents'])} document(s)")
     elif args.cmd == "recevoir":
-        print("Document reçu :", recevoir(args.expediteur, args.objet, args.pole, _quand(args.quand)))
+        print("Document reçu :", recevoir(args.expediteur, args.objet, args.pole, _quand(args.quand), args.fichier))
     elif args.cmd == "analyser":
         d = analyser(args.id, args.retour, args.cout, _quand(args.quand))
         print(f"{d['id']} analysé par le pôle {d['pole']} : coût {float(args.cout):.2f} €")

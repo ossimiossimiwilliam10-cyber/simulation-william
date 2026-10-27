@@ -1,41 +1,41 @@
 # Dernier tour montré au joueur
 
-> Tour n° 44 ; horloge 22/07/2041 21:25 -> 23/07/2041 08:00 ; enregistré le 27/10/2026 20:22 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 45 ; horloge 23/07/2041 08:00 -> 23/07/2041 12:00 ; enregistré le 27/10/2026 20:33 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Go
+> Au vu de comment a évolué l'application en gestion depuis le premier jour où je l'ai codée, je décide de prendre un bon 4 heures pour totalement améliorer l'ergonomie en fait de l'application...
 
 ## Texte envoyé au joueur
 
-**MARDI 23 JUILLET 2041 — 08h00 — Audun-le-Tiche, chez toi**
+**MARDI 23 JUILLET 2041 — 12h00 — Audun-le-Tiche, chez toi**
 
-Tu refermes l'application Gestion sur ton téléphone, satisfait d'avoir verrouillé l'ensemble des clauses du contrat de direction et imposé le dépôt systématique des livrables en PDF. Après avoir rangé la cuisine, tu montes à l'étage où la chaleur de la journée s'est enfin dissipée. Tu te couches vers 23h30.
+Tu t'installes à la table de la salle à manger avec ton ordinateur portable et ton téléphone posé à côté. Durant quatre heures d'affilée, de huit heures à midi, tu te plonges dans le code de ton application Gestion pour en refondre entièrement l'ergonomie, la structure et la navigation.
 
-La nuit est paisible et réparatrice. Tu te réveilles spontanément à 07h15, en pleine forme après sept heures et demie d'un sommeil profond. Dehors, un grand soleil d'été illumine déjà la rue d'Audun-le-Tiche ; l'air matinal est encore frais, autour de 13 °C, avant une montée prévue vers 24 °C au plus chaud de l'après-midi.
+Tu réorganises l'interface autour de quatre onglets clairs et étanches, éliminant les redondances et offrant une vue panoramique immédiate sur le projet :
+1. **Tableau** : une fiche d'identité synthétique de l'entreprise (Projet Solaire B2B Abidjan, SAS de droit OHADA au capital de 1 000 000 FCFA), la jauge de suivi du budget d'API (33,56 € consommés sur ton plafond mensuel de 1 000 €), l'état des six pôles d'activité et la cartographie des agents IA connectés sous la supervision de la direction générale virtuelle.
+2. **RH** : la fiche de mission du Directeur Général consolidée avec tes arbitrages (mandat social pur, rémunération selon la formule 1, clause de caducité automatique et non-concurrence de 12 mois), l'état des quatre canaux de diffusion d'annonces, et le vivier complet des 21 candidatures classé par ordre de note, mettant en tête Mohamed Coulibaly (91/100) et Mariam Brou (88/100) avec le suivi des vérifications de références.
+3. **Juridique** : la gouvernance d'entreprise (associé unique et investisseur, cabinet Me Gnamien, compétence exclusive du Tribunal de commerce d'Abidjan), la formalisation de la pyramide des contrats en trois niveaux (Niveau 1 DG mandat social, Niveau 2 Directeurs cadres salariés, Niveau 3 Salariés et techniciens de chantier), ainsi que la bibliothèque des textes officiels de référence (OHADA, Code du travail, Code des investissements, article 14 du statut luxembourgeois).
+4. **Documents** : un registre structuré de l'ensemble des sept pièces officielles produites et reçues depuis le démarrage, avec filtres par pôle. Tu as programmé deux modes de consultation pour chaque pièce : un bouton direct qui ouvre le fichier PDF physique dans un nouvel onglet, et un bouton d'aperçu qui charge le document page par page dans le lecteur intégré au téléphone.
 
-Après une douche et un petit-déjeuner copieux dans la cuisine baignée de lumière, tu consultes ton téléphone à 08h00. Les deux PDF de la veille — ton rapport quotidien et la maquette de la convention de mandat social du Directeur Général — sont bien archivés dans l'application Gestion et accessibles dans tes documents.
+Tu passes en revue chaque lien pour t'assurer de son bon fonctionnement : la maquette de la convention de mandat social du Directeur Général (19 articles rédigés), ton rapport quotidien d'activité de la veille, la fiche de poste, la note sur les statuts, l'étude d'opportunités solaires et ton courriel de déclaration d'intérêts au MENJE s'ouvrent tous instantanément et sans aucune anomalie d'affichage.
 
-Sur le plan professionnel et opérationnel, ce mardi 23 juillet s'ouvre avec plusieurs dossiers en attente de retours :
-- **Cabinet Me Gnamien** : la lettre de mission formalisée et les pièces de cadrage KYC pour la constitution de la SAS doivent parvenir au pôle juridique dans la matinée, suite à ton accord sur le devis de 2,1 millions de FCFA HT et ton introduction comme associé majoritaire et investisseur unique.
-- **Recrutement élite (Pôle RH)** : les prises de contact officielles avec les référents professionnels de Mohamed Coulibaly (91/100) et Mariam Brou (88/100) sont en cours. Dès retour des fiches d'évaluation, les dossiers comparatifs te seront présentés pour organiser les premiers entretiens.
-- **Jean-Baptiste Tuo** : suite au message de refus courtois envoyé hier soir sur WhatsApp pour annuler l'entretien du 26 juillet, son accusé de réception est en attente.
-- **Organisation personnelle** : aujourd'hui mardi, il n'y a pas de séance collective au Minett Combat Club (les entraînements ont lieu le lundi, le mercredi et le vendredi). Tu disposes de ta matinée et de ton après-midi.
+La version 1.0 de l'application est désormais compilée et active sur ton téléphone. À midi, la cloche de l'église d'Audun-le-Tiche sonne au loin, le soleil d'été inonde la cuisine et la température extérieure atteint déjà 21 °C.
 
 ---
 
-Il est 08h00.
+Il est 12h00.
 
 ---
 
 **Réponses attendues**
-- Aucune réponse urgente immédiate à 08h00.
+- Aucune réponse urgente immédiate à 12h00.
 
 **À faire / à fournir avant le tour suivant**
-- Définir ton programme pour cette matinée de mardi (dossiers, démarches, sport individuel ou détente), ou lancer l'avance rapide jusqu'au prochain jalon ou rapport d'étape.
+- Déjeuner et décider de tes activités pour l'après-midi (dossiers professionnels, démarches, sortie ou repos), ou lancer l'avance rapide.
 
 **Quêtes secondaires**
-- Réception de la lettre de mission et du dossier KYC de Me Gnamien.
+- Réception de la lettre de mission et du dossier KYC de Me Gnamien (Cabinet d'Abidjan).
 - Retours des formulaires de références pour Mohamed Coulibaly et Mariam Brou par le pôle RH.
 - Message WhatsApp de Jean-Baptiste Tuo (A087, prévu ce soir à 19h35).
 - Rapport quotidien du directeur général virtuel ce soir à 20h00 (A086).
