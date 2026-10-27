@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-07-25 08:00
+horloge: 2041-07-25 12:15
 fuseau: luxembourg
 lieu: Audun-le-Tiche (Moselle), chez William
-tour: 50
-attente: Programme de la matinée (dossiers, détente) en attendant le RIB de Me Gnamien ou avance rapide
+tour: 51
+attente: Ordre de virement bancaire pour Me Gnamien (1 511 €), choix de date pour l'entretien avec Mohamed Coulibaly (91/100) et arbitrage Mariam Brou

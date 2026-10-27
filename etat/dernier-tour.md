@@ -1,6 +1,6 @@
 # Dernier tour montré au joueur
 
-> Tour n° 50 ; horloge 24/07/2041 20:20 -> 25/07/2041 08:00 ; enregistré le 27/10/2026 21:14 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 51 ; horloge 25/07/2041 08:00 -> 25/07/2041 12:15 ; enregistré le 27/10/2026 22:22 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
@@ -8,40 +8,52 @@
 
 ## Texte envoyé au joueur
 
-**JEUDI 25 JUILLET 2041 — 08h00 — Audun-le-Tiche, chez toi**
+**JEUDI 25 JUILLET 2041 — 12h15 — Audun-le-Tiche, chez toi**
 
-Après avoir validé l'envoi de tes instructions à ton équipe virtuelle à 20h20, tu refermes ton ordinateur et tu te diriges vers la cuisine. Après la dépense énergétique de ta séance de MMA de l'après-midi, ton organisme réclame son dû. Tu te prépares un dîner substantiel, fidèle à ton habitude d'un seul repas copieux le soir : une assiette de pâtes complètes sautées avec un steak de bœuf poêlé, des courgettes à l'huile d'olive et un grand verre d'eau fraîche. Tu dînes tranquillement à la table de la salle à manger, laissant la fatigue musculaire s'installer de manière bienfaisante.
+Tu passes la matinée chez toi, profitant d'un rythme tranquille propice à la réflexion et à la récupération physique. Après une douche tiède, tu parcours quelques articles d'actualité économique et technologique sur ta tablette tout en aérant la maison. Dehors, les traces de l'orage de la nuit s'effacent peu à peu : la chaussée a séché et la température est passée de 16 °C au lever du jour à 19 °C en milieu de matinée sous un ciel partagé entre éclaircies et passages nuageux.
 
-La soirée s'étire dans le calme. Vers 22h00, l'air devient plus lourd et le ciel s'assombrit au-dessus de la vallée de l'Alzette. Vers 23h30, alors que les premiers éclairs lointains illuminent les crêtes boisées en direction d'Esch-sur-Alzette et qu'une pluie d'été se met à crépiter sur la chaussée, tu fermes les doubles vitrages et tu te couches. Un orage d'été traverse brièvement le secteur au milieu de la nuit, faisant chuter la température nocturne sans perturber ton repos.
+À 11h30, ton téléphone vibre sur la table du salon. L'application Gestion t'indique le dépôt d'un nouveau livrable par ton équipe virtuelle : le dossier d'évaluation approfondie de Mariam Brou couplé au guide d'entretien de sélection pour Mohamed Coulibaly. 
 
-Tu te réveilles spontanément à 07h15, parfaitement reposé après sept heures et demie d'un sommeil profond. Les étirements de la veille ont porté leurs fruits : aucune raideur articulaire, une excellente tonicité musculaire et les idées particulièrement claires.
+Dans cette note de synthèse, le pôle RH confirme les excellents états de service de Madame Mariam Brou (note de 88 sur 100). Âgée de 43 ans et diplômée de l'INP-HB de Yamoussoukro, elle dispose de 16 ans d'expérience solide en gestion comptable et financière de PME industrielles à Abidjan et d'un carnet de 15 dirigeants d'entreprises. Toutefois, le pôle RH souligne qu'elle ne possède pas de bagage technique en électricité ni d'expérience en prospection commerciale agressive de toitures industrielles : l'équipe te recommande formellement de la préserver en réserve prioritaire pour lui confier ultérieurement la Direction Administrative et Financière (DAF) de la future société, plutôt que le mandat social de Directeur Général.
 
-En ouvrant les fenêtres de la chambre à l'étage, l'odeur d'ozone et de terre mouillée pénètre dans la pièce. La pluie nocturne (environ 1,6 mm tombés sous l'orage) a lavé l'atmosphère. Le ciel est partagé entre des voiles nuageux et des trouées de ciel bleu, avec un thermomètre qui affiche 16 °C au petit matin et devrait monter vers 23 °C au cours de l'après-midi.
+Pour Mohamed Coulibaly (note de 91 sur 100), ton choix prioritaire n° 1, le pôle RH a préparé la prise de contact officielle et te soumet trois créneaux pour organiser un premier entretien approfondi en visioconférence :
+1. Vendredi 26 juillet 2041 à 18h30 (heure de Luxembourg, soit 16h30 à Abidjan) ;
+2. Samedi 27 juillet 2041 à 10h00 (heure de Luxembourg, soit 08h00 à Abidjan) ;
+3. Lundi 29 juillet 2041 à 19h00 (heure de Luxembourg, soit 17h00 à Abidjan).
 
-Tu descends dans la cuisine, bois un grand verre d'eau, prépares un café noir sans sucre et consultes l'état de tes dossiers sur ton téléphone.
+Une grille d'entretien structurée de 45 minutes est jointe au document, articulée en quatre phases : motivations et calendrier de relocalisation de Bruxelles vers Abidjan, déploiement commercial toiture B2B et mobilisation de son réseau de 40 dirigeants, adhésion sans réserve au mandat social pur révocable *ad nutum* avec clause de non-concurrence de 12 mois, et enfin échange sur la rémunération (fixe d'amorçage de 2 000 000 FCFA et intéressement sur marge nette).
 
-Ce jeudi est une journée de récupération dans ton programme sportif estival, sans séance de combat au club avant la session de MMA de vendredi après-midi.
+À 12h15 (10h15 à Abidjan), la notification officielle de ta messagerie professionnelle retentit. Maître Ismaël Gnamien t'adresse son courriel officiel avec l'accusé de réception formel de ton dossier KYC et le relevé d'identité bancaire du cabinet.
 
-Sur le front professionnel, la situation est parfaitement balisée :
-- Ton courriel officiel d'acceptation de mission avec tes pièces justificatives KYC est bien parvenu au Cabinet Gnamien & Associés à Abidjan. À huit heures du matin en Moselle, il n'est que six heures en Côte d'Ivoire : les bureaux du cabinet n'ouvriront que dans deux heures et demie. La transmission du RIB officiel pour le virement du premier acompte (991 200 FCFA TTC, soit environ 1 511 €) est attendue dans le courant de la matinée.
-- Le pôle RH finalise la synthèse de Mohamed Coulibaly (91/100) pour te proposer un créneau de visioconférence d'entretien d'embauche, tout en bouclant le dossier de Mariam Brou (88/100).
+Dans son courrier officiel, Me Gnamien t'écrit :
+
+« Nous accusons formellement réception de votre accord ferme sur notre convention d'assistance juridique ainsi que des pièces justificatives transmises au titre de l'identification client (copie de votre passeport et justificatif de domicile). Notre cellule de conformité a validé l'ensemble de votre dossier sans aucune réserve au regard des exigences de l'Acte Uniforme OHADA et de la réglementation bancaire UEMOA. Le dossier permanent d'immatriculation de la société Projet Solaire B2B Abidjan SAS est ouvert sous la référence DOSSIER CI-2041-0722. »
+
+L'avocat précise les coordonnées bancaires pour le versement du premier acompte de 40 % (840 000 FCFA HT + 18 % de TVA, soit 991 200 FCFA TTC, représentant la contrevaleur légale exacte de 1 511,00 €) :
+- Établissement : BICICI (Banque Internationale pour le Commerce et l'Industrie de la Côte d'Ivoire), Agence Principale du Plateau, Avenue Delafosse à Abidjan ;
+- Titulaire : SELAS Cabinet d'Avocats Ismaël Gnamien & Associés — Compte CARPA / Débours ;
+- IBAN UEMOA : CI93 CI00 6010 0101 2345 6789 0145 ;
+- Code BIC / SWIFT : BICI CI AB ;
+- Référence obligatoire à faire figurer dans l'ordre de virement : `HONO-CI-2041-0722-OSSIMI`.
+
+Me Gnamien conclut qu'à réception de l'avis d'opéré bancaire ou du crédit des fonds, son cabinet finalisera et te soumettra pour approbation les projets définitifs des statuts de la SASU et de l'acte de nomination du Directeur Général sous un délai de 48 heures ouvrées (au plus tard lundi 28 juillet).
 
 ---
 
-Il est 08h00.
+Il est 12h15.
 
 ---
 
 **Réponses attendues**
-- Aucune réponse urgente immédiate à 08h00.
+- **Virement bancaire de l'acompte (1 511 €)** : Valides-tu l'émission immédiate du virement international SWIFT de 1 511,00 € depuis ton compte courant Spuerkeess vers le compte BICICI du Cabinet Gnamien & Associés avec la référence `HONO-CI-2041-0722-OSSIMI` ?
+- **Créneau d'entretien avec Mohamed Coulibaly (91/100)** : Quel créneau retiens-tu pour la visioconférence (vendredi 26/07 à 18h30, samedi 27/07 à 10h00, lundi 29/07 à 19h00, ou un autre horaire à ta convenance) ?
+- **Orientation de Mariam Brou (88/100)** : Valides-tu le maintien de son dossier en réserve active pour la future Direction Administrative et Financière (DAF) sans la solliciter pour le poste de Direction Générale ?
 
 **À faire / à fournir avant le tour suivant**
-- Définir le programme de ta matinée (dossiers, démarches personnelles, lecture ou détente) en attendant la réception du RIB de Me Gnamien, ou lancer une nouvelle avance rapide.
+- Donner tes instructions pour l'émission du virement bancaire et la planification de l'entretien.
 
 **Quêtes secondaires**
-- Réception du RIB officiel de Me Gnamien pour exécution du virement bancaire du premier acompte (A090, attendu dans la matinée).
-- Présentation de la trame d'entretien et calage de la visioconférence avec Mohamed Coulibaly (91/100) par le pôle RH.
-- Remise du dossier comparatif de Mariam Brou (88/100).
 - Rapport quotidien n° 6 du directeur général virtuel ce soir à 20h00 (A089).
+- Suivi de la constitution de la SASU par Me Gnamien après réception du virement.
 
 Que veux-tu faire ?

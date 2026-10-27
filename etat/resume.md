@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 27/10/2026 21:14 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 27/10/2026 22:22 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : jeudi 25/07/2041 08:00 (luxembourg, UTC+2)
+## Horloge : jeudi 25/07/2041 12:15 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 06:00 ; lisbonne 07:00 ; mindelo 05:00 ; casablanca 07:00 ; douala 07:00 ; addis 09:00 ; manille 14:00 ; paris 08:00 ; seoul 15:00 ; bresil 03:00
+- **Heure dans les autres lieux** : abidjan 10:15 ; lisbonne 11:15 ; mindelo 09:15 ; casablanca 11:15 ; douala 11:15 ; addis 13:15 ; manille 18:15 ; paris 12:15 ; seoul 19:15 ; bresil 07:15
 - **En attente de William** :
-  - Programme de la matinée (dossiers, détente) en attendant le RIB de Me Gnamien ou avance rapide
+  - Ordre de virement bancaire pour Me Gnamien (1 511 €), choix de date pour l'entretien avec Mohamed Coulibaly (91/100) et arbitrage Mariam Brou
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **9 975,70 €**
@@ -15,8 +15,7 @@
 - Patrimoine net de William : **852 983,92 €**
 - Prévu dans les 14 jours : 31/07 Traitement mensuel de William (9 320,00 €) ; 01/08 Minett Combat Club (-85,00 €) ; 01/08 Package bancaire Zebra Premium (-12,83 €) ; 02/08 Virement permanent vers le compte épargne (-732,00 €) ; 02/08 Virement permanent vers le compte épargne (732,00 €) ; 02/08 Virement permanent vers le compte-titres ETF (-5 755,00 €) ; 02/08 Virement permanent vers le compte-titres ETF (5 755,00 €) ; 05/08 Mensualité du prêt immobilier et assurance emprunteu (-949,28 €) ; 05/08 Prêt immobilier de la maison d'Audun-le-Tiche (-626,84 €) ; 05/08 Part nette du bien financé : + capital remboursé (626,84 €) ; 05/08 Assurance habitation (-45,00 €) ; 05/08 Voiture électrique : assurance tous risques (-107,00 €)
 
-## Agenda : dans les 24 heures (2)
-- A090 Thu 25/07 12:15 (luxembourg) | Ismaël Gnamien (courriel) : Transmission du RIB officiel du Cabinet pour virement du premier acompte et accusé de réception du dossier KYC [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — Accusé de réception des pièces KYC de William et transmission du RIB CARPA/Cabinet pour virement de 991 200 FCFA TTC
+## Agenda : dans les 24 heures (1)
 - A089 Thu 25/07 20:00 (luxembourg) | Directeur général virtuel : Rapport final de la journée à William (décisions en questions fermées, affirmations vérifiées, état des pôles) [prevu]  — I26 ; ajouter la ligne du lendemain après chaque rapport
 ## Agenda : de J+1 à J+7 (1)
 - A006 Mon 29/07 10:22 (luxembourg) | MENJE (info@men.lu) : Réponse au courriel de William du 16/07/2041 12h14 (demande d'autorisation, article 14) : orientation vers la voie hiérarchique (demande écrite par la direction du lycée au ministre du ressort, avis du ministre de la Fonction publique) et complément demandé (description de l'activité, volume horaire, absence de gestion, rémunération éventuelle) ; tirage : réponse au 9e jour ouvrable, friction administrative = oui ; PDF à générer par courriel.py au moment voulu [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
@@ -40,3 +39,5 @@
 > # Jeudi 25 juillet 2041 — univers 3, dixième jour
 > - **00h00-08h00** (tour n° 50) : 00h00-08h00 (tour n° 50) : nuit paisible de 7,5 h (23h30-07h15) marquée par un orage d'été (1,6 mm d'eau) ; réveil en forme ; ciel partagé et température fraîche (16 °C / 23 °C) ; récupération physique ; attente du RIB de Me Gnamien pour virement
 > - Tour en cours à 08h00, en attente de William : **Programme de la matinée (dossiers, détente) en attendant le RIB de Me Gnamien ou avance rapide**.
+> - **08h00-12h15** (tour n° 51) : matinée tranquille à Audun-le-Tiche (16 °C à 19 °C) ; dossier Mariam Brou (88/100, DAF) et trame d'entretien Mohamed Coulibaly (91/100) reçus du pôle RH (D015) ; courriel officiel de Me Gnamien avec accusé KYC et RIB BICICI Plateau reçu (D014, A090 clos) ; attente virement du premier acompte (1 511 €) et calage de l'entretien
+> - Tour en cours à 12h15, en attente de William : **Ordre de virement bancaire pour Me Gnamien (1 511 €), choix de date pour l'entretien avec Mohamed Coulibaly (91/100) et arbitrage Mariam Brou**.
