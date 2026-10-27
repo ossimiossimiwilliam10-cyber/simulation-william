@@ -32,3 +32,5 @@
 
 ## Historique
 - 19/07/2041 : fiche créée (tirage du générateur).
+- 19/07/2041, 20h05 : premier message de l'agent IA (T17 : poli_bref) : parcours dans la banque, intérêt pour le solaire, connaissance de dirigeants de PME.
+- 19/07/2041, 18:06 : sa réponse à l'agent IA : « Bonsoir, merci pour votre message. J'ai onze ans dans la banque à Abidjan, surtout le crédit aux PME ; le solaire m'intéresse parce que mes clients se plaignent des coupures et des factures. Je connais plusieurs dirigeants de PME. Cordialement, Cédric Soro »

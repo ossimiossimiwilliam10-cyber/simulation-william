@@ -1,33 +1,41 @@
 # Dernier tour montré au joueur
 
-> Tour n° 28 ; horloge 19/07/2041 20:00 -> 19/07/2041 20:04 ; enregistré le 27/10/2026 17:17 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 29 ; horloge 19/07/2041 20:04 -> 20/07/2041 12:00 ; enregistré le 27/10/2026 17:25 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Concernant Assi, j'approuve sa démarche, donc je lui dis oui. Et concernant les rapports réels, je valide également cela.
+> Go
 
 ## Texte envoyé au joueur
 
-**VENDREDI 19 JUILLET 2041 — 20h04 — Audun-le-Tiche, chez William**
+**SAMEDI 20 JUILLET 2041 — 12h00 — Audun-le-Tiche, chez William**
 
-La pluie a cessé ; une lumière rasante traverse le jardin mouillé et dessine les gouttes qui pendent encore au fil à linge. Tu relis le rapport debout, l'assiette dans une main. À 20h02 tu réponds à ton directeur général virtuel : pour Kader Assi, tu approuves sa démarche, donc oui. Pour les rapports réels, tu valides aussi.
+Tu débarrasses la table, tu laves la poêle à l'eau très chaude, et le soir s'étire sans rien d'autre qu'un téléphone muet posé sur le canapé. Tu t'endors tard, avec la fenêtre entrouverte sur l'air frais qui sent la terre mouillée.
 
-À 20h04, sa réponse :
+Samedi, tu te lèves à 8h15 sous un ciel de laine grise. Le café coule pendant que tu étends sur le fil le linge de la veille, qu'une brise fraîche fait claquer contre la corde ; l'orage n'est annoncé que pour la fin d'après-midi. Le matin passe sans rien qui te réclame : ni message, ni appel.
 
-« Reçu à 20h02. Kader Assi : oui. Je poursuis par courriel jusqu'à la vérification de deux références, sans aucun échange avec toi avant ; je te rendrai compte dans un prochain rapport. Rapports réels : validés. Deux par semaine pour chaque responsable réel, le mardi à 17h00 et le vendredi à 12h00, un de plus les jours importants. Ils entrent à l'agenda à la prise de poste de chaque responsable ; tant qu'aucun poste réel n'est occupé, personne ne te remet de rapport hebdomadaire. Prochain rapport final : demain à 20h00. »
+À 12h00, le téléphone sonne une fois sur la table de la cuisine :
 
-Il est 20h04.
+« Liste restreinte, samedi 20 juillet, 12h00. Trois cabinets d'avocats d'affaires d'Abidjan, triés sur les critères de 18h27, notés sur 100. Les honoraires sont indicatifs : je n'ai trouvé aucun barème officiel, seulement un repère pour le notaire (120 000 FCFA hors taxe pour une SARL au capital d'un million, convention entre le CEPICI et la chambre des notaires) ; un devis écrit sera nécessaire. Relu par le pôle RH virtuel : aucune réserve.
+
+1. Cabinet Gnamien, Me Ismaël Gnamien, 47 ans : 89/100. Droit des sociétés OHADA et droit du travail ; une quinzaine de sociétés montées avec un investisseur étranger non-gérant ; pour l'électricité, il s'appuie sur un confrère. Forfait indicatif (statuts, pacte d'associés, contrat du dirigeant) : 1,6 million de FCFA, soit environ 2 440 € ; taux horaire : 90 000 FCFA, environ 137 €.
+2. Cabinet Tano, Me Issouf Tano, 62 ans : 75/100. Droit de l'énergie et de l'électricité, il a conseillé des producteurs indépendants ; cabinet chargé, délais plus longs. Forfait : 2,2 millions de FCFA, environ 3 350 € ; taux horaire : 120 000 FCFA, environ 183 €.
+3. Cabinet Zadi, Me Arsène Zadi, 61 ans : 68/100. Droit des investissements (agréments) et contentieux ; approche formelle, délais longs. Forfait : 3,5 millions de FCFA, environ 5 340 € ; taux horaire : 160 000 FCFA, environ 244 €.
+
+Décision pour toi : j'écris à Me Gnamien et à Me Tano, au nom de l'équipe du projet, pour une première demande de devis, sans engagement et sans ton nom : oui ou non ? Un cabinet n'engagera des honoraires qu'à ta signature d'une lettre de mission. »
+
+Il est 12h00.
 
 ---
 
 **Réponses attendues**
-- **Directeur général virtuel** : le compte rendu sur Kader Assi (vérification de deux références) ; la liste restreinte d'avocats d'Abidjan, demain à 12h00 ; le prochain rapport final, demain à 20h00.
+- **Directeur général virtuel** : ta réponse à sa question (demande de devis à Me Gnamien et à Me Tano : oui ou non) ; le rapport final, ce soir à 20h00 ; le compte rendu sur Kader Assi dans un prochain rapport.
 - **Jean-Baptiste Tuo** : pas de réponse à ton message de 19h44.
-- **Instagram** : la vérification de ton identité, sous 24 heures (envoyée à 00h40).
+- **Instagram** : la vérification de ton identité, annoncée sous 24 heures (envoyée à 00h40) : pas de nouvelle.
 - **Ministère de l'Éducation** (info@men.lu) : ton courriel de mardi à 12h14 n'a pas de réponse.
 
 **À faire / à fournir avant le tour suivant**
-- Aucune démarche en cours.
+- Ta réponse à la question du directeur général virtuel.
 
 **Quêtes secondaires**
 - Rien en suspens en dehors de ce que tu as déjà noté.

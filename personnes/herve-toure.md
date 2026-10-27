@@ -33,3 +33,4 @@
 - 16/07/2041 : fiche créée (tirage du générateur).
 - 18/07/2041, 22h25 : l'agent IA de William l'interroge (entretien des profils B, consigne permanente de William) ; T17 : reciproque ; T10 : immédiat ; 22h28 : répond sur son parcours (douze ans de négoce de matériel électrique et de climatiseurs à Marcory, clients boutiques et PME, références introuvables) et donne spontanément son numéro WhatsApp à l'agent.
 - 19/07/2041, 08h30 : deuxième message de l'entretien de l'agent IA (T17 : refus_net = il ne veut pas poursuivre) ; réponse prévue le 20/07 à 09h34 (T10 : le soir ou lendemain). Réseau tiré (moteur seul) : 19 propriétaires ou entreprises, 47 % joints jusqu'au décideur, 40 % à facture élevée, 3 introductions déjà faites, motivation 0,86 -> note 69/100 (second entretien).
+- 20/07/2041, 07:34 : sa réponse à l'agent IA : « Bonjour. Je ne souhaite pas poursuivre. Merci. Hervé Touré »

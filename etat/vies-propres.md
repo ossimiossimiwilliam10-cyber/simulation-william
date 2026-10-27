@@ -169,3 +169,52 @@
 - **Secret (moteur seulement)** : —
 - **Horaires** : règle « bureau », fuseau abidjan, décalage +12 min ; travail 09:12-17:42 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:42-07:12
 - **Derniers événements** : —
+
+### Aboubacar Kouassi (répondant à l'annonce)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : changer de métier ; **souci** : dettes de jeu ; **foyer** : parent isolé
+- **Secret (moteur seulement)** : —
+- **Horaires** : règle « bureau », fuseau luxembourg, décalage -19 min ; travail 08:41-17:11 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:11-06:41
+- **Derniers événements** : —
+
+### Ousmane Yéo (répondant à l'annonce)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : faire croître son bureau d'études avec des clients internationaux ; **souci** : coupures de courant et facture d'électricité lourde pour son activité ; **foyer** : en couple, avec enfants
+- **Secret (moteur seulement)** : —
+- **Horaires** : règle « bureau », fuseau abidjan, décalage +20 min ; travail 09:20-17:50 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:50-07:20
+- **Derniers événements** : —
+
+### Mariam Brou (répondant à l'annonce)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : changer de métier ; **souci** : embouteillages et trajets de deux heures entre Abidjan et son travail ; **foyer** : en couple, avec enfants
+- **Secret (moteur seulement)** : —
+- **Horaires** : règle « bureau », fuseau abidjan, décalage -26 min ; travail 08:34-17:04 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:04-06:34
+- **Derniers événements** : —
+
+### Damien Yao (répondant à l'annonce)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : rentrer en Côte d'Ivoire après des années à l'étranger ; **souci** : épargne et retraite à reconstituer avant un retour ; **foyer** : parent isolé
+- **Secret (moteur seulement)** : —
+- **Horaires** : règle « bureau », fuseau luxembourg, décalage +9 min ; travail 09:09-17:39 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:39-07:09
+- **Derniers événements** : —
+
+### Arsène Zadi (avocat(e) d'affaires à Abidjan (cabinet en liste restreinte))
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : passer plus de temps avec ses enfants ; **souci** : clients qui paient avec des mois de retard ; **foyer** : en couple, avec enfants
+- **Secret (moteur seulement)** : vote pour un parti qu'il n'avoue pas (gravité 1)
+- **Horaires** : règle « bureau », fuseau abidjan, décalage -9 min ; travail 08:51-17:21 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:21-06:51
+- **Derniers événements** : —
+
+### Issouf Tano (avocat(e) d'affaires à Abidjan (cabinet en liste restreinte))
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : trouver un partenaire européen pour financer un projet ; **souci** : tension avec la belle-famille ; **foyer** : en couple, enfants partis
+- **Secret (moteur seulement)** : doit de l'argent à une tontine ou à un prêteur (gravité 1)
+- **Horaires** : règle « bureau », fuseau abidjan, décalage -9 min ; travail 08:51-17:21 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:21-06:51
+- **Derniers événements** : —
+
+### Ismaël Gnamien (avocat(e) d'affaires à Abidjan (cabinet en liste restreinte))
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : changer de métier ; **souci** : voisin bruyant ; **foyer** : en couple, sans enfant
+- **Secret (moteur seulement)** : a fait une demande de crédit refusée (gravité 1)
+- **Horaires** : règle « bureau », fuseau abidjan, décalage +22 min ; travail 09:22-17:52 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:52-07:22
+- **Derniers événements** : —

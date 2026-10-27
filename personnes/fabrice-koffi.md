@@ -32,3 +32,5 @@
 
 ## Historique
 - 19/07/2041 : fiche créée (tirage du générateur).
+- 19/07/2041, 20h10 : premier message de l'agent IA (T17 : poli_bref) : projets d'installation ou de maintenance et rôle.
+- 19/07/2041, 19:29 : sa réponse à l'agent IA : « Bonsoir, merci. J'ai six ans d'expérience : installation de systèmes solaires sur des toitures de maisons et de petits commerces à Abidjan avec un bureau d'études, puis maintenance. J'étais technicien-ingénieur de chantier. Cordialement, Fabrice Koffi »

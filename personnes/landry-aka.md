@@ -31,3 +31,4 @@
 
 ## Historique
 - 19/07/2041 : fiche créée (tirage du générateur).
+- 19/07/2041, 20h07 : premier message de l'agent IA (T17 : ignore) : secteur et clients, date d'un retour à Abidjan ; aucune réponse.
