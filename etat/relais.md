@@ -1,54 +1,50 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 27/10/2026 17:25 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
+# Relais de la simulation — briefing généré le 27/10/2026 17:32 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : samedi 20 juillet 2041, 12h00 (luxembourg) ; tour n° 29
+- Horloge : samedi 20 juillet 2041, 12h20 (luxembourg) ; tour n° 30
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Ta réponse à la question du directeur général virtuel (devis à Me Gnamien et Me Tano : oui ou non) ; rapport final ce soir à 20h00 ; vérification Instagram annoncée sous 24 h (pas de nouvelle)
+- En attente de William : Réponses de Me Gnamien et de Me Tano à la demande de devis (au directeur général virtuel) ; rapport final ce soir à 20h00 ; compte rendu sur Kader Assi ; vérification Instagram annoncée sous 24 h (pas de nouvelle)
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 29 ; horloge 19/07/2041 20:04 -> 20/07/2041 12:00 ; enregistré le 27/10/2026 17:25 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 30 ; horloge 20/07/2041 12:00 -> 20/07/2041 12:20 ; enregistré le 27/10/2026 17:32 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Go
+> Alors, je dis au directeur général, du coup, que oui, il peut les écrire. Et j'active immédiatement, du coup, le pôle juridique virtuel, vu que là, on va commencer à attaquer le domaine virtuel. Et donc, voilà, le directeur général virtuel devra l'utiliser pour systématiquement voir les affirmations avancées pour qu'on ne se fasse pas baiser.
 
 ## Texte envoyé au joueur
 
-**SAMEDI 20 JUILLET 2041 — 12h00 — Audun-le-Tiche, chez William**
+**SAMEDI 20 JUILLET 2041 — 12h20 — Audun-le-Tiche, chez William**
 
-Tu débarrasses la table, tu laves la poêle à l'eau très chaude, et le soir s'étire sans rien d'autre qu'un téléphone muet posé sur le canapé. Tu t'endors tard, avec la fenêtre entrouverte sur l'air frais qui sent la terre mouillée.
+Le ciel s'est un peu levé au-dessus des toits d'en face, sans que la grisaille cède. À 12h08, le téléphone dans la main, tu réponds à ton directeur général virtuel : oui, il peut écrire aux deux cabinets. Tu actives aussitôt le pôle juridique virtuel, puisque vous attaquez maintenant le domaine juridique. Le directeur général virtuel devra l'utiliser systématiquement pour examiner les affirmations avancées par des tiers, afin qu'on ne se fasse pas avoir.
 
-Samedi, tu te lèves à 8h15 sous un ciel de laine grise. Le café coule pendant que tu étends sur le fil le linge de la veille, qu'une brise fraîche fait claquer contre la corde ; l'orage n'est annoncé que pour la fin d'après-midi. Le matin passe sans rien qui te réclame : ni message, ni appel.
+À 12h12, sa réponse :
 
-À 12h00, le téléphone sonne une fois sur la table de la cuisine :
+« Reçu à 12h08. Oui : j'écris à Me Gnamien et à Me Tano, au nom de l'équipe du projet, sans ton nom ; les deux courriels partent à 12h15 et 12h18, relus avant l'envoi. Pôle juridique virtuel activé à 12h10. Le poste de responsable juridique réel n'existe pas encore : le pôle décide donc dans son périmètre, qui est de comparer les affirmations aux textes officiels, et je l'utilise désormais sur toute affirmation avancée par un tiers : avocat, administration, candidat, document. Chaque rapport portera une rubrique « affirmations vérifiées », avec trois états : vérifiée contre un texte officiel ; non vérifiée (source secondaire) ; contredite.
 
-« Liste restreinte, samedi 20 juillet, 12h00. Trois cabinets d'avocats d'affaires d'Abidjan, triés sur les critères de 18h27, notés sur 100. Les honoraires sont indicatifs : je n'ai trouvé aucun barème officiel, seulement un repère pour le notaire (120 000 FCFA hors taxe pour une SARL au capital d'un million, convention entre le CEPICI et la chambre des notaires) ; un devis écrit sera nécessaire. Relu par le pôle RH virtuel : aucune réserve.
+Premières passes, toutes NON VÉRIFIÉES à ce jour. 1. « L'autoproducteur doit être propriétaire de son installation » : analyse d'un cabinet, ni confirmée par un texte lu ni par l'ANARE-CI ; ce sera la première question aux avocats. 2. Le décret sur la vente de l'excédent d'un autoproducteur est cité sous le numéro 2016-783 dans une source et 2016-785 dans une autre : à confirmer au Journal officiel. 3. « Une SARL se crée en 24 à 72 heures au guichet unique du CEPICI » : guides non officiels, à confirmer auprès du CEPICI.
 
-1. Cabinet Gnamien, Me Ismaël Gnamien, 47 ans : 89/100. Droit des sociétés OHADA et droit du travail ; une quinzaine de sociétés montées avec un investisseur étranger non-gérant ; pour l'électricité, il s'appuie sur un confrère. Forfait indicatif (statuts, pacte d'associés, contrat du dirigeant) : 1,6 million de FCFA, soit environ 2 440 € ; taux horaire : 90 000 FCFA, environ 137 €.
-2. Cabinet Tano, Me Issouf Tano, 62 ans : 75/100. Droit de l'énergie et de l'électricité, il a conseillé des producteurs indépendants ; cabinet chargé, délais plus longs. Forfait : 2,2 millions de FCFA, environ 3 350 € ; taux horaire : 120 000 FCFA, environ 183 €.
-3. Cabinet Zadi, Me Arsène Zadi, 61 ans : 68/100. Droit des investissements (agréments) et contentieux ; approche formelle, délais longs. Forfait : 3,5 millions de FCFA, environ 5 340 € ; taux horaire : 160 000 FCFA, environ 244 €.
+Registre mis à jour : « Règles du segment virtuel, version 9 », dans tes documents. »
 
-Décision pour toi : j'écris à Me Gnamien et à Me Tano, au nom de l'équipe du projet, pour une première demande de devis, sans engagement et sans ton nom : oui ou non ? Un cabinet n'engagera des honoraires qu'à ta signature d'une lettre de mission. »
-
-Il est 12h00.
+Il est 12h20.
 
 ---
 
 **Réponses attendues**
-- **Directeur général virtuel** : ta réponse à sa question (demande de devis à Me Gnamien et à Me Tano : oui ou non) ; le rapport final, ce soir à 20h00 ; le compte rendu sur Kader Assi dans un prochain rapport.
+- **Directeur général virtuel** : les réponses de Me Gnamien et de Me Tano à la demande de devis ; le rapport final, ce soir à 20h00 ; le compte rendu sur Kader Assi dans un prochain rapport.
 - **Jean-Baptiste Tuo** : pas de réponse à ton message de 19h44.
 - **Instagram** : la vérification de ton identité, annoncée sous 24 heures (envoyée à 00h40) : pas de nouvelle.
 - **Ministère de l'Éducation** (info@men.lu) : ton courriel de mardi à 12h14 n'a pas de réponse.
 
 **À faire / à fournir avant le tour suivant**
-- Ta réponse à la question du directeur général virtuel.
+- Aucune démarche en cours.
 
 **Quêtes secondaires**
 - Rien en suspens en dehors de ce que tu as déjà noté.
@@ -67,6 +63,7 @@ Que veux-tu faire ?
 - A054 Sat 20/07 14:25 (luxembourg) | Claude (pôle RH virtuel) : Damien Yao (linkedin) : premier message d'entretien (banquier, 46 ans, 5 ans d'expérience, Marseille ; LinkedIn international, 22h35) ; commande : python outils/entretien.py envoyer --pour "Damien Yao" --canal linkedin --quand "2041-07-20 14:25" --decalage 0 --texte "…" (texte humain, signé « L'équipe du projet », I30) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — lot du samedi (le pôle RH répond par lots le week-end) ; décalage = heures à retrancher de l'heure de Luxembourg pour le destinataire
 - A055 Sat 20/07 14:30 (luxembourg) | Claude (pôle RH virtuel) : Ousmane Yéo (facebook) : premier message d'entretien (commerçant, 54 ans, 21 ans d'expérience, Abidjan ; Facebook, 20h02) ; commande : python outils/entretien.py envoyer --pour "Ousmane Yéo" --canal facebook --quand "2041-07-20 14:30" --decalage 2 --texte "…" (texte humain, signé « L'équipe du projet », I30) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — lot du samedi (le pôle RH répond par lots le week-end) ; décalage = heures à retrancher de l'heure de Luxembourg pour le destinataire
 - A056 Sat 20/07 14:35 (luxembourg) | Claude (pôle RH virtuel) : Mariam Brou (instagram) : premier message d'entretien (comptable, 43 ans, 5 ans d'expérience, Abidjan ; Instagram, 21h34) ; commande : python outils/entretien.py envoyer --pour "Mariam Brou" --canal instagram --quand "2041-07-20 14:35" --decalage 2 --texte "…" (texte humain, signé « L'équipe du projet », I30) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — lot du samedi (le pôle RH répond par lots le week-end) ; décalage = heures à retrancher de l'heure de Luxembourg pour le destinataire
+- A058 Sat 20/07 16:49 (luxembourg) | Ismaël Gnamien (courriel) : réponse de Ismaël Gnamien au message de l'agent du 2041-07-20 12:15 (T17 : poli_bref) : réponse polie et brève · souci : voisin bruyant · objectif : changer de métier · foyer : en couple, sans enfant · défauts : boit trop le week-end et le minimise / ne supporte pas d'avoir tort, s'enferre dans ses positions [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : dans_la_journee (jet 65.9) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=ismael-gnamien canal=courriel]
 - A040 Sat 20/07 20:00 (luxembourg) | Directeur général virtuel : Rapport final de la journée à William (décisions en questions fermées, état des pôles en dix lignes) [prevu]  — I26 ; ajouter la ligne du lendemain après chaque rapport ; inclure l'état caché du jour : réponses d'annonces, entretiens, courriels reçus à l'adresse professionnelle
 - A005 Sat 20/07 20:30 (luxembourg) | William (santé) : Aléa A31 (tirage réel du 16/07/2041) : diarrhée du voyageur ou intoxication alimentaire, seulement si William est à l'étranger ce jour-là ; sinon sans objet (à clore ainsi) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
 - A004 Sun 21/07 09:40 (luxembourg) | Inconnu (SMS) : Aléa A23 (tirage réel du 16/07/2041, semaine du 15/07) : tentative d'arnaque par SMS (faux colis ou faux conseiller bancaire) ; William voit le message et décide ; à jouer sans détail annoncé [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]
@@ -175,10 +172,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 4405cab ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 1d29121 ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 42 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 23 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

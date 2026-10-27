@@ -3368,3 +3368,11 @@ Effets à jouer : A23 (dimanche 21/07 (matin)) : Très courant ; William voit le
 - Jet « Mohamed Coulibaly : introductions déjà faites dans un projet comparable (jet / 25) » : probabilité 50 %, jet  82.3 → **NON** [PROCÉDURE : valeur d'un attribut de réseau (jet × 100)] (enregistré le 27/10/2026 17:23 heure machine)
 
 - Jet « Mohamed Coulibaly : motivation et disponibilité (0,5 + jet / 200) » : probabilité 50 %, jet  15.5 → **OUI** [PROCÉDURE : valeur d'un attribut de réseau (jet × 100)] (enregistré le 27/10/2026 17:23 heure machine)
+
+- Tirage [T17] « Ismaël Gnamien face au message de l'agent IA du 2041-07-20 12:15 (Objet : demande de devis, création de société et accompagnem…) » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  22.2 → **poli_bref** (enregistré le 27/10/2026 17:31 heure machine)
+
+- Tirage [T10] « Ismaël Gnamien : délai (réponse de Ismaël Gnamien au message de l'agent du 2041-07-20 12:15 (T17 : poli_) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  65.9 → **dans_la_journee** (enregistré le 27/10/2026 17:31 heure machine)
+
+- Tirage [T17] « Issouf Tano face au message de l'agent IA du 2041-07-20 12:18 (Objet : demande de devis, droit de l'électricité et création…) » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  37.3 → **conversation** (enregistré le 27/10/2026 17:31 heure machine)
+
+- Tirage [T10] « Issouf Tano : délai (réponse de Issouf Tano au message de l'agent du 2041-07-20 12:18 (T17 : conversa) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet   0.2 → **immediat** (enregistré le 27/10/2026 17:31 heure machine)

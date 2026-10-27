@@ -35,6 +35,7 @@ CANDIDATS = ETAT / "gestion-candidats.csv"
 AGENTS = ETAT / "gestion-agents.csv"
 COUT_JOUR_RH = 0.9  # surveillance et rapport quotidien de l'agent du pôle RH (estimation)
 COUT_JOUR_CENTRAL = 0.7  # lecture de la messagerie de William et synthèse des pôles par l'agent central (estimation)
+COUT_JOUR_JURIDIQUE = 0.5  # vérification des affirmations de tiers contre les textes officiels par le pôle juridique virtuel (estimation)
 COUT_REPONSE_RH = 0.8  # lecture et classement d'une réponse à une annonce (estimation)
 COL_B = ["date", "pole", "objet", "cout_eur"]
 COL_D = ["id", "date", "expediteur", "objet", "pole", "statut", "retour", "cout_eur"]
@@ -69,6 +70,10 @@ def cout_auto(t):
     if central is not None:
         debut_c = max(dt.datetime.strptime(central["depuis"], "%Y-%m-%d %H:%M"), dt.datetime(t.year, t.month, 1))
         total += COUT_JOUR_CENTRAL * max(0.0, (t - debut_c).total_seconds() / 86400)
+    jur = next((a for a in lire_csv(AGENTS) if a["pole"] == "juridique" and a["statut"] == "connecté" and a["depuis"] and _avant(a["depuis"], t)), None)
+    if jur is not None:
+        debut_j = max(dt.datetime.strptime(jur["depuis"], "%Y-%m-%d %H:%M"), dt.datetime(t.year, t.month, 1))
+        total += COUT_JOUR_JURIDIQUE * max(0.0, (t - debut_j).total_seconds() / 86400)
     return round(total, 2)
 
 

@@ -1,6 +1,6 @@
 pole;agent;statut;depuis;note
 rh;Claude (pôle RH virtuel);connecté;2041-07-19 04:02;"pôle RH virtuel de William : lit les dossiers de candidats et écrit ses notes dans l'application ; ses rapports passent par le directeur général virtuel"
-juridique;;à créer;;
+juridique;Claude (pôle juridique virtuel);connecté;2041-07-20 12:10;"compare les affirmations de tiers (avocats, administrations, candidats, documents) aux textes officiels ; décide dans son périmètre tant qu'il n'y a pas de responsable juridique réel"
 finance;;à créer;;
 technique;;à créer;;
 commercial;;à créer;;
