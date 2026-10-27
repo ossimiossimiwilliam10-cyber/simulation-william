@@ -1,48 +1,53 @@
 # Dernier tour montré au joueur
 
-> Tour n° 58 ; horloge 26/07/2041 19:10 -> 26/07/2041 19:25 ; enregistré le 27/10/2026 23:30 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 59 ; horloge 26/07/2041 19:25 -> 26/07/2041 20:00 ; enregistré le 27/10/2026 23:38 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je remercie Mohamed pour sa transparence. Et du coup, alors concernant son premier point, l'aménagement de la clause non-concurrence de 12 mois. Alors, je lui dis que, pour négocier un peu, je lui dis que je suis éventuellement prêt à la ramener à 10 mois. Donc une clause de non-concurrence de 10 mois. Mais abaisser l'indemnité compensatrice à plutôt 40% du fixe en cas de révocation à mon initiative. Je lui ai dit que, alors, concernant le deuxième point, la confirmation du rattachement hiérarchique direct de la DAF, je lui ai dit qu'il n'y a absolument aucun souci, que c'est même hyper alors, cohérent et logique. Donc que là, il n'y a pas de problème. Par contre, je lui dis que concernant la validation du calendrier de prise de fonction, je lui dis que s'il peut m'assurer qu'il peut mettre en place une équipe opérationnelle sur place sans souci, alors ça me va, mais que voilà, que moi, dans ma tête, je pensais qu'il allait prendre, qu'il pouvait assurer une prise de poste définitive dès le mois suivant, mais que bon, c'est pas un si gros problème que ça. S'il est autant investi que je le suis à distance, ça peut parfaitement fonctionner. Et s'il a des personnes de confiance et s'il peut mettre en place une équipe sur place, alors là, il n'y a pas de problème. Mais que par contre, ça va être le seul membre de l'équipe à ne pouvoir assurer sa présence à temps plein physique au 1er octobre. Le reste de l'équipe doit se mobiliser assez rapidement, par contre.
+> Je lui dis que c'est un très bon négociant également et que j'espère qu'il le sera également sur les futurs contrats commerciaux. Je lui dis que bon, on part sur 12 mois et 50% et on signe ce contrat. Enfin, ben voilà quoi, on avance quoi. Puisque le contrat doit être encore rédigé par le cabinet. Je lui demande si on part sur ça.
 
 ## Texte envoyé au joueur
 
-**VENDREDI 26 JUILLET 2041 — 19h25 — Audun-le-Tiche, chez toi**
+**VENDREDI 26 JUILLET 2041 — 20h00 — Audun-le-Tiche, chez toi**
 
-Tu remercies Mohamed pour sa totale transparence et tu engages la négociation sur son premier point. Concernant la clause de non-concurrence, tu lui proposes un aménagement direct : tu es prêt à en réduire la durée de douze à dix mois, tout en calant l'indemnité compensatrice à 40 % de son fixe (soit 800 000 FCFA net par mois, ou 8 000 000 FCFA au total sur les dix mois) dans le cas d'une révocation intervenant à ton initiative.
+Tu accueilles la fermeté de Mohamed d'un sourire franc et appréciateur. Tu lui réponds qu'il fait preuve d'un sens aigu de la négociation, et que tu espères de tout cœur qu'il déploiera exactement cette même pugnacité et cette même intransigeance lors des futures négociations commerciales avec les grands comptes industriels de Côte d'Ivoire.
 
-Tu enchaînes immédiatement sur le second point relatif à la Direction Administrative et Financière : tu lui affirmes qu'il n'y a absolument aucun souci, que son raisonnement est parfaitement logique et cohérent pour la bonne marche des affaires. La future DAF sera bel et bien subordonnée hiérarchiquement au Directeur Général au quotidien, tout en conservant son devoir de transparence et de reporting périodique envers l'actionnaire majoritaire.
+Sans tergiverser davantage, tu tranches :
+« C'est d'accord, Mohamed. On part sur douze mois de non-concurrence et 50 % d'indemnité compensatrice mensuelle en cas de révocation à mon initiative, et nous signerons ce contrat. On avance. Le cabinet de Maître Gnamien va formaliser les actes définitifs sur cette base. Est-ce qu'on part sur ça ? »
 
-Puis tu abordes le calendrier de déploiement et sa prise de fonction. Tu lui confies avec franchise que tu envisageais initialement une présence définitive à temps plein dès le mois suivant. Toutefois, cela ne constitue pas un point de blocage rédhibitoire : s'il s'investit à distance avec la même intensité que toi et s'il s'appuie sur des personnes de confiance pour mettre en place une équipe opérationnelle sur place, le dispositif sera parfaitement viable. Tu poses néanmoins une condition stricte et non négociable : il sera le seul et unique membre de l'entreprise à ne pas être physiquement sur place à temps plein avant le 1er octobre. Le reste de l'équipe devra être mobilisé et opérationnel à Abidjan le plus rapidement possible.
+En face de toi sur l'écran, Mohamed Coulibaly sourit avec un soulagement mesuré et une satisfaction évidente. Ses traits se détendent, son regard brille d'une détermination nouvelle :
 
-Mohamed hoche la tête avec calme en t'écoutant, notant tes chiffres sur son carnet. Le frigo de la cuisine se relance avec un claquement sec au rez-de-chaussée tandis que la chaleur de l'après-midi commence à imprégner doucement les pierres de la pièce. 
+« Absolument, Monsieur Ossimi. C'est un accord ferme et d'honneur. Vous avez ma parole et mon engagement plein et entier. Je vous remercie pour votre confiance et pour cet esprit de partenariat équilibré. Je me réjouis de bâtir cette entreprise à vos côtés. »
 
-Après quelques secondes de réflexion, Mohamed reprend la parole d'un ton courtois mais parfaitement ferme, fidèle à sa posture de négociateur bancaire :
+Vous mettez au point les prochaines démarches concrètes. Mohamed confirme qu'il pose ses congés dès ce soir pour être présent à Abidjan du 12 au 25 août : vous vous retrouverez sur place pour visiter ensemble les villas cibles à Cocody, rencontrer Maître Gnamien et co-signer les statuts de la SAS ainsi que la convention de mandat social. En parallèle, il commencera dès la semaine suivante, depuis Bruxelles, à activer ses réseaux professionnels pour présélectionner les candidats aux postes de Directeur Technique et Directeur Commercial, afin qu'ils soient opérationnels sur le terrain dès la mi-septembre.
 
-« Sur la durée de la non-concurrence, je salue votre esprit d'ouverture : ramener la clause de douze à dix mois me convient tout à fait. C'est une durée raisonnable qui protège efficacement l'entreprise tout en me permettant de rebondir ensuite. 
+Après un chaleureux échange de salutations et de félicitations mutuelles, la communication s'interrompt à 19h35.
 
-En revanche, sur le montant de l'indemnité compensatrice, je maintiens mon chiffre de 50 % de mon fixe, soit 1 000 000 FCFA net par mois. À Abidjan, un dirigeant frappé d'une interdiction formelle d'exercer dans son secteur doit pouvoir subvenir aux besoins de sa famille et assumer ses charges de logement durant cette période d'inactivité forcée. Dix mois à 1 000 000 FCFA représentent un plafond de 10 000 000 FCFA pour votre société, uniquement si la révocation est de votre fait sans faute de ma part : c'est un montant tout à fait absorbable pour une entreprise en croissance, et c'est pour moi le seuil plancher de sécurité indispensable pour démissionner de mon poste à Bruxelles.
+Tu refermes l'ordinateur portable. Le silence retombe dans la pièce. Tu mesures le chemin parcouru depuis le début des vacances : en dix jours, l'analyse stratégique a été verrouillée, le conseil juridique d'Abidjan a été mandaté et payé, et tu viens de recruter ton Directeur Général, un banquier d'affaires ivoirien d'élite, rigoureux et rompu aux montages d'infrastructures.
 
-Concernant la DAF, je prends acte de votre accord clair sur le rattachement hiérarchique au Directeur Général, ce qui garantit l'unité du commandement opérationnel.
+Tu descends à la cuisine te servir un grand verre d'eau fraîche et préparer ton dîner, tandis que la tiédeur de cet après-midi ensoleillé à 28 °C reste doucement prise dans les murs de pierre de la maison. 
 
-Enfin, sur votre exigence de mobilisation rapide de l'équipe : j'y souscris sans réserve et je prends un engagement formel devant vous. Dès notre mission conjointe à Abidjan à la mi-août et tout au long du mois de septembre, j'activerai immédiatement mes relais pour sourcer, interviewer et contractualiser le Directeur Technique et le Directeur Commercial. Je m'engage à ce qu'ils soient installés et opérationnels au QG de Cocody au plus tard le 15 ou le 20 septembre, dès la remise des clés des locaux. Durant cette quinzaine de septembre, j'assurerai leur encadrement quotidien à distance par visioconférence et suivi de livrables. Ainsi, la machine tournera déjà sur le terrain avant même mon installation physique définitive au 1er octobre. »
+À 20h00 précises, la notification de l'application Gestion retentit sur ton téléphone : le **Rapport quotidien n° 7 du Directeur Général virtuel** vient d'être déposé dans l'espace documentaire (pièce officielle `2041-07-26_Rapport_quotidien_Directeur_General_virtuel.pdf` consultable dans l'application Fichiers et `documents_william/`).
 
-Mohamed referme son stylo et te regarde droit dans les yeux, avec un sourire serein :
-
-« Si nous actons ces dix mois à 50 %, soit 1 000 000 FCFA par mois en cas de rupture à votre initiative, nous avons un accord complet, Monsieur Ossimi. Tout est calé. »
+Le rapport récapitule les faits majeurs de la journée :
+1. **Recrutement Direction Générale** : Accord verbal complet scellé avec Mohamed Coulibaly sur le mandat social pur de SAS (fixe 2 000 000 FCFA net, intéressement 2,5 % du CA HT encaissé, prime 5 000 000 FCFA / 500 kWc raccordée, clause de non-concurrence de 12 mois à 50 % d'indemnité compensatrice en cas de révocation à ton initiative, rattachement hiérarchique de la DAF au DG, prise de poste physique au 1er octobre avec présence à Abidjan du 12 au 25 août).
+2. **Cadrage de la mission d'août** : Déplacement à Abidjan calé du 12 au 25 août 2041 (14 jours) synchronisé sur la fermeture du club de combat. Gel temporaire de l'enveloppe de démarrage (25 155 €) dans l'attente des visites sur place.
+3. **Pôle Juridique** : Trois affirmations vérifiées (légalité OHADA de l'indemnité compensatrice de non-concurrence, conformité de la prise d'effet différée au RCCM, articulation de la double subordination de la DAF). Statuts de la SAS promis par Me Gnamien pour le lundi 29 juillet.
+4. **Budget informatique virtuel** : Consommation du jour de 1,70 € HT (cumul mensuel à 43,26 € sur le plafond de 1 000,00 €).
+5. **Situation financière personnelle** : Solde compte courant Spuerkeess à 8 464,70 €, versement du traitement net de juillet (+9 320,00 €) programmé pour le mercredi 31 juillet.
 
 ---
 
 **Réponses attendues** :
-- Mohamed Coulibaly a fixé son arbitrage final : il accepte les 10 mois de non-concurrence et s'engage à mobiliser les directeurs sur place à Abidjan dès la mi-septembre, mais maintient l'indemnité compensatrice à 50 % du fixe (1 000 000 FCFA net/mois, soit 10 M FCFA au total en cas de révocation sans faute) au lieu de tes 40 % (800 000 FCFA). Il attend ton « top » définitif pour sceller l'accord et clore l'appel.
+- Le directeur général virtuel te soumet deux décisions fermées en fin de rapport quotidien :
+  1. Valides-tu la transmission officielle des paramètres du mandat de Mohamed Coulibaly au Cabinet de Me Ismaël Gnamien pour intégration dans les statuts et actes constitutifs de la SAS ? (Oui / Non)
+  2. Autorises-tu le pôle logistique à préparer les devis et options de réservation pour ta mission à Abidjan du 12 au 25 août (vols et résidence hôtelière sécurisée à Cocody Deux-Plateaux) ? (Oui / Non)
 
 **À faire / à fournir avant le tour suivant** :
-- Valider ou non ce dernier point (10 mois à 50 %) pour acter formellement la nomination de Mohamed Coulibaly comme Directeur Général.
+- Valider ces deux décisions pour clore le programme de travail de la semaine.
 
 **Quêtes secondaires** :
-- Rapport quotidien n° 7 du directeur général virtuel attendu à 20h00 ce soir (agenda A092).
-- Transmission des termes du mandat social convenus à Me Ismaël Gnamien pour intégration dans les actes de la SAS (statuts promis pour lundi 29 juillet).
-- Déplacement à Abidjan calé du 12 au 25 août 2041 (réservation des billets d'avion et du logement en résidence).
+- Livraison des projets de statuts de la SAS par le Cabinet Me Gnamien attendue pour le lundi 29 juillet.
+- Séance de course à pied de 5 km prévue le dimanche matin (intention permanente I1).
 
 Que veux-tu faire ?
