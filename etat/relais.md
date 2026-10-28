@@ -1,6 +1,6 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 28/10/2026 15:05 (heure machine) pour Gemini
+# Relais de la simulation — briefing généré le 28/10/2026 15:10 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
 
 ## Alertes
 - aucune
@@ -28,34 +28,33 @@ De retour dans la fraîcheur tempérée de ton salon aux Deux-Plateaux, tu te d�
 - Tu confirmes dans le module financier que ton virement d'associé de cinq millions deux cent cinquante mille francs CFA est prêt à être exécuté dès que les coordonnées bancaires de la société seront émises demain matin.
 - Concernant Fatoumata, tu décides de ne pas la relancer et de la laisser profiter de son après-midi de fête familiale à Marcory, préférant attendre qu'elle reprenne contact spontanément.
 
-Une fois les dossiers d'entreprise bouclés, l'excitation et la proximité corporelle partagées lors du déjeuner ravivent une vive tension physique. Résolu à ne pas passer la soirée dans l'abstinence, tu bascules ton navigateur en navigation privée pour explorer les plateformes locales d'annonces classées pour adultes à Abidjan.
+Une fois les dossiers d'entreprise bouclés, l'excitation et la proximité corporelle partagées lors du déjeuner ravivent une vive tension physique. Résolu à chercher une rencontre intime pour ta soirée sans t'engager dans une relation sentimentale longue, tu ouvres l'application de rencontre géolocalisée sur Abidjan.
 
-Tu appliques des critères stricts : femmes majeures âgées de dix-huit à dix-neuf ans révolus, de petite stature et à la silhouette mince. Après avoir écarté les annonces douteuses aux photos d'agences ou celles de rabatteurs exigeant des avances de transport par paiement mobile avant toute rencontre, deux profils indépendants vérifiés, basés à Cocody et disponibles pour des déplacements en résidence privée, retiennent ton attention :
+Tu configures des filtres précis : profils majeurs âgés de dix-huit à dix-neuf ans, de petite stature et à la silhouette mince, actuellement en ligne dans la zone de Cocody. Après avoir fait défiler quelques profils, deux jeunes femmes correspondant exactement à tes préférences retiennent ton attention :
 
-- **Mya (dix-neuf ans)** — *Annonce « Mya_Sweet »*  
-  Mya a dix-neuf ans révolus, mesure un mètre cinquante-trois et présente une silhouette très menue, gracile et légère, avoisinant quarante-cinq kilos. Ses proportions sont particulièrement fines, avec une taille de guêpe marquée d'à peine cinquante-huit centimètres, un bassin étroit et une poitrine menue et naturelle sous un bonnet 80B. Sa carnation est un café au lait uniforme et soyeux ; son visage triangulaire aux traits délicats est souligné par de grands yeux en amande bordés d'un trait d'eyeliner sombre, un petit nez droit et des lèvres ourlées mises en valeur par une touche de gloss transparent. Elle porte des cheveux lisses noirs coupés au carré juste au-dessus des épaules. Sur ses photographies de profil, elle pose dans une chambre sobre, vêtue d'une nuisette courte en satin beige champagne à fines bretelles, découvrant des cuisses fines et des jambes fuselées.  
-  *Conditions affichées* : Étudiante en première année d'anglais à Cocody Angré, elle propose des déplacements discrets en hôtel ou résidence sécurisée. Tarif de quarante mille francs CFA pour un créneau court d'une heure à une heure et demie, cent mille francs CFA pour la nuitée complète. Elle précise dans sa notice : pas de frais de transport préalable, règlement direct en espèces à l'arrivée dans la chambre, préservatif obligatoire. Numéro WhatsApp direct renseigné.
+- **Mya (dix-neuf ans)** — *Cocody Angré*  
+  Mya a dix-neuf ans révolus, mesure un mètre cinquante-trois et présente une silhouette très menue et gracile d'environ quarante-cinq kilos. Ses proportions sont particulièrement fines, avec une taille cintrée de cinquante-huit centimètres, un bassin étroit et une cambrure délicate. Sa carnation est un café au lait uniforme et lumineux ; son visage triangulaire aux traits fins est souligné par de grands yeux en amande maquillés avec soin, un petit nez droit et des lèvres bien ourlées au gloss discret. Elle porte des cheveux lisses noirs coupés au carré juste au-dessus des épaules. Sur ses photos, elle pose en tenue d'été sobre et élégante (robe courte en lin beige, sandales fines). Dans sa biographie, cette étudiante en langues indique chercher des échanges directs et des soirées intimes sans complication avec des personnes de passage ou installées à Cocody.
 
-- **Christelle (dix-huit ans)** — *Annonce « Princesse_Chris »*  
-  Christelle a dix-huit ans révolus, mesure un mètre cinquante-cinq et affiche une silhouette menue et tonique. Ses attaches aux poignets et aux chevilles sont particulièrement fines, son ventre est plat et ferme, ses hanches sont bien dessinées sans excès et sa poitrine est petite, ferme et ronde (bonnet 85A). Sa peau est d'un noir d'ébène profond, satiné et très lisse. Son visage juvénile est éclairé par des pommettes pleines, de grands yeux bruns pétillants au regard direct et mutin, et une bouche charnue aux lèvres pleines bien ourlées. Ses cheveux sont coiffés en de très fines micro-tresses retombant souplement dans le milieu du dos. Sur ses clichés, elle est assise sur un fauteuil club vêtue d'un ensemble de lingerie fine en dentelle noire deux pièces, mettant en valeur sa cambrure naturelle et son allure soignée.  
-  *Conditions affichées* : Basée aux Deux-Plateaux à une dizaine de minutes de ta résidence, elle se déplace rapidement. Tarif de trente-cinq mille francs CFA pour une passe d'une heure, quatre-vingt-dix mille francs CFA pour la nuit. Elle indique venir en taxi VTC dont la course (trois mille francs CFA) est réglée sur place avec la prestation, protection non négociable. Contact direct par WhatsApp.
+- **Christelle (dix-huit ans)** — *Cocody Deux-Plateaux*  
+  Christelle a dix-huit ans révolus, mesure un mètre cinquante-cinq et affiche une silhouette menue et tonique. Ses attaches aux poignets et aux chevilles sont fines, son ventre est plat et ferme, ses hanches sont harmonieusement dessinées et son port altier dégage une belle énergie. Sa peau est d'un noir d'ébène profond et satiné. Son visage juvénile est éclairé par des pommettes rebondies, de grands yeux bruns pétillants au regard direct et mutin, et une bouche charnue aux lèvres pleines bien dessinées. Ses cheveux sont coiffés en de très fines micro-tresses retombant souplement dans le milieu du dos. Sur ses clichés récents, elle apparaît souriante dans un café des Deux-Plateaux, vêtue d'un top noir ajusté et d'une jupe courte. Elle indique résider à moins de dix minutes des Vallons et être disponible ce jeudi soir pour partager un verre en toute décontraction et prolonger l'instant si le feeling est réciproque.
 
-Il est dix-sept heures quarante-cinq. Tu es confortablement installé dans ta suite, ton téléphone en main, avec les deux coordonnées directes enregistrées à l'écran.
+Il est dix-sept heures quarante-cinq. Tu es confortablement installé dans ta suite climatisée, ton téléphone en main, avec les deux profils actifs à l'écran.
 
 ---
 
 ### Réponses attendues
-- **Choix du contact** : souhaites-tu écrire à Mya (dix-neuf ans, teint café au lait, un mètre cinquante-trois, Cocody Angré) ou à Christelle (dix-huit ans, peau ébène, un mètre cinquante-cinq, Deux-Plateaux) ?
-- **Modalités de la rencontre** : quel créneau et quelle formule souhaites-tu leur proposer dans ton premier message (créneau court d'une heure à une heure et demie en début de soirée vers dix-huit heures trente / dix-neuf heures, ou formule pour passer la nuit après le dîner) ?
+- **Choix du contact** : souhaites-tu engager la conversation sur l'application avec Mya (dix-neuf ans, teint café au lait, un mètre cinquante-trois) ou avec Christelle (dix-huit ans, peau ébène, un mètre cinquante-cinq, Deux-Plateaux) ?
+- **Approche du message** : quel premier message souhaites-tu envoyer pour proposer une rencontre directe ce soir (invitation à prendre un verre détendu au lounge de ta résidence ou proposition directe de te rejoindre) ?
 
 ### À faire / à fournir avant le tour suivant
-- **Trésorerie liquide** : vérifier que tu disposes du montant convenu en espèces (francs CFA retirés ou à prévoir) pour régler la prestation et la course de transport à la porte de la chambre comme exigé par les annonces.
-- **Organisation de ta suite** : t'assurer que la chambre est prête pour recevoir une visiteuse extérieure en toute discrétion (climatisation, boissons fraîches, intimité).
+- **Préparation de la suite** : t'assurer que ton salon est prêt et accueillant pour recevoir une invitée ce soir en toute discrétion (climatisation, boissons fraîches).
+- **Trésorerie de démarrage** : confirmer la disponibilité de ton virement d'associé dès notification bancaire vendredi matin.
 
 ### Quêtes secondaires
 - **Préparation de vendredi** : Coulibaly a bien accusé réception de la grille d'évaluation en 5 questions pour les deux candidats de la Direction Commerciale.
 
 Que veux-tu faire ?
+
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
 - rien
@@ -165,8 +164,8 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : master ; master : f26949a ; avance 0, retard 0
-- worktree simulation-william (ICI) : branche master ; 0 commit(s) absents de master ; 18 fichier(s) modifié(s)
+- branche courante : master ; master : d6827bd ; avance 0, retard 0
+- worktree simulation-william (ICI) : branche master ; 0 commit(s) absents de master ; 3 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree eloquent-mirzakhani-73acb9 : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)

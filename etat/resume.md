@@ -1,4 +1,4 @@
-# Résumé d'état (généré le 28/10/2026 15:05 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 28/10/2026 15:10 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
 ## Horloge : jeudi 15/08/2041 17:45 (abidjan, UTC+0)
 - **Lieu de William** : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
@@ -38,7 +38,7 @@
 
 ## Fin du dernier journal (2041-08-15.md, 6 dernières lignes)
 > - Tirages du tour : T17 Fatoumata → reciproque (75,57) ; T10 → immediat (8,67) ; T17 Fatoumata → poli_bref (15,28).
-> - **16h30-17h45** (tour n° 89) : retour à la résidence hôtelière aux Deux-Plateaux ; transmission de la grille d'évaluation DC en 5 questions à Coulibaly via Gestion ; confirmation de la disponibilité du virement CCA vendredi matin ; décision d'attendre le retour spontané de Fatoumata sans relance ; recherche sur plateformes locales d'annonces classées pour adultes à Abidjan (BabiEscort / Locanto 
+> - **16h30-17h45** (tour n° 89) : retour à la résidence hôtelière aux Deux-Plateaux ; transmission de la grille d'évaluation DC en 5 questions à Coulibaly via Gestion ; confirmation de la disponibilité du virement CCA vendredi matin ; décision d'attendre le retour spontané de Fatoumata sans relance ; recherche d'une rencontre intime sans lendemain sur l'application de rencontre locale à Abidjan ave
 > - Tirages du tour : profils escort_abidjan (Mya Touré 19 ans et Christelle Kouamé 18 ans).
 > - Tour en cours à 17h45, en attente de William : **Choix du profil à contacter (Mya ou Christelle) et formule proposée (créneau court début de soirée ou nuitée)**.
 > - **16h30-17h45** (tour n° 89) : voir le texte exact du tour (journal/tours/).
