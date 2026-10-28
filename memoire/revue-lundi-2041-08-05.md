@@ -38,3 +38,4 @@
 
 ## 5. Décisions de l'utilisateur
 *(À compléter à la réception des directives de William).*
+

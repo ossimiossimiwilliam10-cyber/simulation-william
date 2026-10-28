@@ -28,3 +28,4 @@
 ## Profil de l'utilisateur (observations)
 - Rigueur managériale absolue : fidélité sans compromis aux règles d'évaluation fixées (seuil éliminatoire à 80/100 respecté pour Stéphane Bamba, malgré le besoin pressant d'un commercial).
 - Clarté d'arbitrage : réactivité immédiate sur la validation du profil technique tout en maintenant l'étanchéité des canaux institutionnels.
+
