@@ -1,60 +1,59 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 28/10/2026 15:10 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
+# Relais de la simulation — briefing généré le 28/10/2026 17:26 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : jeudi 15 août 2041, 17h45 (abidjan) ; tour n° 89
+- Horloge : jeudi 15 août 2041, 19h30 (abidjan) ; tour n° 90
 - Lieu de William : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-- En attente de William : Choix du profil à contacter (Mya ou Christelle) et formule proposée (créneau court début de soirée ou nuitée)
+- En attente de William : Choix pour la soirée du jeudi 15 août (dîner en suite ou sortie calme aux Vallons) et directives préalables pour vendredi matin
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 89 ; horloge 15/08/2041 16:30 -> 15/08/2041 17:45 ; enregistré le 28/10/2026 15:04 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 90 ; horloge 15/08/2041 17:45 -> 15/08/2041 19:30 ; enregistré le 28/10/2026 17:25 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Bon, je me rends sur un site d'escort girl ivoirienne pour voir un peu les profils. Il est hors de question que je passe ma soirée sans baiser. Pas aujourd'hui. Concernant Fatoumata, je préfère attendre son message de reprise de contact. Je n'ai pas de directive particulière à donner à Koulibaly. Donc j'ai évalué la grille d'évaluation en 5 questions formalisées et je demande à mon équipe virtuelle de l'envoyer à Koulibaly. Et je confirme la disponibilité de mon virement d'associé des notifications bancaires vendredi matin. Concernant le programme de vendredi, j'ai pas de programme particulier. Ouais, non. Et concernant le site d'Escort Girl, s'il y en a un en Côte d'Ivoire, je mets des filtres, je veux des filles âgées de moins de 19 ans, donc qui ont entre 18 ans et 19 ans. Et voilà. Je pars plutôt sur des filles courtes, minces. Voilà quoi. Mais à partir de maintenant, ralentis, ne va pas trop rapidement dans le futur, quoi. Ralentis pour que, voilà, s'il te plaît.
+> Après mûre réflexion, je décide de me dire que c'est ce genre de comportement qui avait failli me détruire au cours de ma jeunesse. Vouloir chercher la facilité. Je me dis que bon, c'est pas non plus comme si j'avais 76 ans. Que je préfère continuer à me développer dans ce que je sais faire de mieux. Et peut-être que, en me développant ainsi, quelqu'un de véritable s'intéressera à moi. Je ne préfère ne pas forcer les choses. Je décide donc de simplement m'asseoir, méditer et comprendre d'où vient ce sentiment de pulsion sexuelle directement comme cela. Si je n'arrive toujours pas à me contrôler, dans le pire des cas, je me masturberai. Mais non, je ne veux pas cette facilité à vouloir payer pour pouvoir baiser. Je confirme la disponibilité de mon virement d'associé des notifications bancaires vendredi matin. Et je prends note du fait que Koulibaly a bien accusé réception de la grille d'évaluation en 5 questions. Je pose ensuite une question à mon équipe virtuelle en leur demandant en fait de me projeter un peu, de se projeter un peu 5 ans dans l'avenir pour voir un peu combien j'aurai à ce moment-là dans mon compte bancaire, plutôt dans mon compte ETF vu que c'est vers là que vont tous les dividendes, si l'entreprise se développe dans un scénario pessimiste, probable et optimiste, et que voilà quoi, et qu'on continue de s'améliorer, et que je garde toujours ma note de supervision aussi haute, quoi. Et que je continue à embaucher ce genre de personnel. Bref, avec la tendance actuelle, en fait.
 
 ## Texte envoyé au joueur
 
-**JEUDI 15 AOÛT 2041 — 17h45 — Abidjan (Cocody Deux-Plateaux), résidence hôtelière**
+**JEUDI 15 AOÛT 2041 — 19h30 — Abidjan (Cocody Deux-Plateaux), résidence hôtelière**
 
-De retour dans la fraîcheur tempérée de ton salon aux Deux-Plateaux, tu te déchausses et t'installes confortablement dans le canapé. Tu commences par régler les affaires courantes sur ton téléphone sécurisé :
-- Tu ouvres l'application Gestion et valides la transmission de la grille d'évaluation en cinq questions à Mohamed Coulibaly, afin qu'il s'en imprègne avant la réception des dossiers de candidature de la Direction Commerciale prévue vendredi à midi.
-- Tu confirmes dans le module financier que ton virement d'associé de cinq millions deux cent cinquante mille francs CFA est prêt à être exécuté dès que les coordonnées bancaires de la société seront émises demain matin.
-- Concernant Fatoumata, tu décides de ne pas la relancer et de la laisser profiter de son après-midi de fête familiale à Marcory, préférant attendre qu'elle reprenne contact spontanément.
+Face aux deux profils lumineux qui clignotent sur l'écran de ton téléphone, un sursaut de lucidité te saisit. Un instant de recul suffit pour reconnaître le mécanisme : cette tentation de la facilité immédiate, ce réflexe d'acheter un exutoire pour court-circuiter le vide et la solitude, c'est exactement la dérive qui avait failli te détruire des années plus tôt. Tu as trente-six ans, un métier solide, une discipline éprouvée et un patrimoine en pleine construction ; céder à des expédients marchands n'apporterait qu'un soulagement éphémère suivi d'un goût amer. Tu verrouilles l'écran, poses ton appareil sur la table basse et choisis délibérément de ne rien forcer.
 
-Une fois les dossiers d'entreprise bouclés, l'excitation et la proximité corporelle partagées lors du déjeuner ravivent une vive tension physique. Résolu à chercher une rencontre intime pour ta soirée sans t'engager dans une relation sentimentale longue, tu ouvres l'application de rencontre géolocalisée sur Abidjan.
+Tu t'assieds en tailleur sur le tapis du salon, le dos bien droit face aux baies vitrées teintées, dans le silence feutré de la pièce rafraîchie par la climatisation. Tu fermes les yeux et entres en méditation. Durant de longues minutes, tu te concentres sur ta respiration lente et régulière, observant la pulsion sans la juger ni la nourrir. Tu en identifies les racines précises : le trouble sensoriel laissé par le déjeuner Chez Ambroise, le parfum et les regards complices de Fatoumata, mais aussi l'aiguillon plus profond d'un homme de trente-six ans sans compagne ni foyer, confronté à l'énergie sensuelle et enveloppante des nuits abidjanaises. En accueillant cette tension avec calme et maîtrise intérieure, le rythme cardiaque ralentit, la pression retombe et l'esprit retrouve sa pleine clarté. Ton équilibre et ta souveraineté restent intacts.
 
-Tu configures des filtres précis : profils majeurs âgés de dix-huit à dix-neuf ans, de petite stature et à la silhouette mince, actuellement en ligne dans la zone de Cocody. Après avoir fait défiler quelques profils, deux jeunes femmes correspondant exactement à tes préférences retiennent ton attention :
+L'esprit apaisé, tu reprends ton téléphone professionnel pour finaliser tes arbitrages avec l'équipe virtuelle sur l'application Gestion :
+- Tu confirmes la disponibilité immédiate du premier versement de ton prêt d'associé (huit mille euros, soit cinq millions deux cent cinquante mille francs CFA) pour couvrir le dépôt de garantie et les premiers loyers de la villa des Vallons dès la délivrance des coordonnées bancaires par le CEPICI et Me Gnamien vendredi matin.
+- Tu prends acte de la bonne réception par Mohamed Coulibaly de la grille d'évaluation en cinq questions pour départager les candidatures de Marc-Antoine Kouadio et Viviane Tanoh.
+- Tu soumets ensuite au pôle d'analyse financière une demande de modélisation patrimoniale à cinq ans (août 2041 – août 2046) centrée sur l'évolution de ton compte-titres ETF Monde, en y injectant cent pour cent des dividendes futurs de SOLEIL B2B CÔTE D'IVOIRE en sus de ton effort d'épargne luxembourgeois programmé (cinq mille sept cent cinquante-cinq euros par mois).
 
-- **Mya (dix-neuf ans)** — *Cocody Angré*  
-  Mya a dix-neuf ans révolus, mesure un mètre cinquante-trois et présente une silhouette très menue et gracile d'environ quarante-cinq kilos. Ses proportions sont particulièrement fines, avec une taille cintrée de cinquante-huit centimètres, un bassin étroit et une cambrure délicate. Sa carnation est un café au lait uniforme et lumineux ; son visage triangulaire aux traits fins est souligné par de grands yeux en amande maquillés avec soin, un petit nez droit et des lèvres bien ourlées au gloss discret. Elle porte des cheveux lisses noirs coupés au carré juste au-dessus des épaules. Sur ses photos, elle pose en tenue d'été sobre et élégante (robe courte en lin beige, sandales fines). Dans sa biographie, cette étudiante en langues indique chercher des échanges directs et des soirées intimes sans complication avec des personnes de passage ou installées à Cocody.
+L'application Gestion traite les flux et génère le rapport complet d'analyse prévisionnelle, classé sous le document PDF officiel `2041-08-15_Projection_Financiere_5_Ans_ETF_Soleil_B2B.pdf` dans tes dossiers :
+- **Hypothèse de base indépendante** : Même en faisant abstraction totale de la société ivoirienne, la seule poursuite de ton épargne mensuelle sur le traitement luxembourgeois (trois cent quarante-cinq mille trois cents euros versés sur cinq ans) capitalisée à sept pour cent l'an porte mécaniquement ton portefeuille ETF Monde de six cent soixante-seize mille cent trente-cinq euros à **un million trois cent soixante mille euros** en août 2046.
+- **Scénario Pessimiste** (croissance modérée, concurrence agressive, marges nettes réduites à onze virgule cinq pour cent, quatre-vingt-douze mille euros de dividendes cumulés après remboursement du prêt d'associé) : Le portefeuille ETF Monde atteint **un million quatre cent soixante-huit mille neuf cent cinquante euros** (patrimoine global consolidé avec l'entreprise à un million huit cent dix-huit mille euros).
+- **Scénario Probable / Médian** (trajectoire nominale, maintien d'une supervision rigoureuse, équipe commerciale performante, marge nette stabilisée à dix-neuf pour cent, trois cent quatre-vingt-quinze mille euros de dividendes réinvestis) : Le compte ETF Monde grimpe à **un million huit cent vingt-deux mille quatre cent cinquante euros** nets d'actifs liquides. En y ajoutant la valeur estimée de SOLEIL B2B CI (un million neuf cent mille euros), ton patrimoine professionnel et financier dépasse **trois millions sept cent vingt mille euros** à quarante et un ans.
+- **Scénario Optimiste** (leadership affirmé sur le solaire industriel à Abidjan et San Pedro, grands comptes agroalimentaires, huit cent quatre-vingt mille euros de dividendes cumulés réinvestis) : Le portefeuille ETF Monde atteint **deux millions trois cent quatre-vingt-quinze mille euros**, portant le patrimoine global au-delà de **six millions cinq cent mille euros**.
 
-- **Christelle (dix-huit ans)** — *Cocody Deux-Plateaux*  
-  Christelle a dix-huit ans révolus, mesure un mètre cinquante-cinq et affiche une silhouette menue et tonique. Ses attaches aux poignets et aux chevilles sont fines, son ventre est plat et ferme, ses hanches sont harmonieusement dessinées et son port altier dégage une belle énergie. Sa peau est d'un noir d'ébène profond et satiné. Son visage juvénile est éclairé par des pommettes rebondies, de grands yeux bruns pétillants au regard direct et mutin, et une bouche charnue aux lèvres pleines bien dessinées. Ses cheveux sont coiffés en de très fines micro-tresses retombant souplement dans le milieu du dos. Sur ses clichés récents, elle apparaît souriante dans un café des Deux-Plateaux, vêtue d'un top noir ajusté et d'une jupe courte. Elle indique résider à moins de dix minutes des Vallons et être disponible ce jeudi soir pour partager un verre en toute décontraction et prolonger l'instant si le feeling est réciproque.
-
-Il est dix-sept heures quarante-cinq. Tu es confortablement installé dans ta suite climatisée, ton téléphone en main, avec les deux profils actifs à l'écran.
+Il est dix-neuf heures trente. Dehors, la pénombre s'est installée sur Cocody, rythmée par les lueurs de la ville et les murmures de la fête de l'Assomption dans les maquis des Deux-Plateaux.
 
 ---
 
 ### Réponses attendues
-- **Choix du contact** : souhaites-tu engager la conversation sur l'application avec Mya (dix-neuf ans, teint café au lait, un mètre cinquante-trois) ou avec Christelle (dix-huit ans, peau ébène, un mètre cinquante-cinq, Deux-Plateaux) ?
-- **Approche du message** : quel premier message souhaites-tu envoyer pour proposer une rencontre directe ce soir (invitation à prendre un verre détendu au lounge de ta résidence ou proposition directe de te rejoindre) ?
+- **Soirée du jeudi 15 août** : souhaites-tu commander un dîner en room-service à la résidence pour continuer une soirée studieuse et reposante, ou sortir dîner tranquillement dans un restaurant ou lounge calme des Vallons ?
+- **Instruction complémentaire pour vendredi matin** : as-tu d'autres directives préalables à communiquer à l'équipe virtuelle avant l'ouverture du CEPICI à huit heures trente ?
 
 ### À faire / à fournir avant le tour suivant
-- **Préparation de la suite** : t'assurer que ton salon est prêt et accueillant pour recevoir une invitée ce soir en toute discrétion (climatisation, boissons fraîches).
-- **Trésorerie de démarrage** : confirmer la disponibilité de ton virement d'associé dès notification bancaire vendredi matin.
+- **Trésorerie d'associé** : valider l'ordre de virement des cinq millions deux cent cinquante mille francs CFA dès réception du RIB de SOLEIL B2B CI vendredi matin.
+- **Dossiers Direction Commerciale** : revue des candidatures et du plan de closing attendue vendredi à midi.
 
 ### Quêtes secondaires
-- **Préparation de vendredi** : Coulibaly a bien accusé réception de la grille d'évaluation en 5 questions pour les deux candidats de la Direction Commerciale.
+- **Fatoumata Gnagne** : son après-midi de fête familiale se poursuit à Marcory ; aucun message envoyé de part ni d'autre pour l'instant.
 
 Que veux-tu faire ?
-
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
 - rien
@@ -164,8 +163,8 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : master ; master : d6827bd ; avance 0, retard 0
-- worktree simulation-william (ICI) : branche master ; 0 commit(s) absents de master ; 3 fichier(s) modifié(s)
+- branche courante : master ; master : cbe83ab ; avance 0, retard 0
+- worktree simulation-william (ICI) : branche master ; 0 commit(s) absents de master ; 12 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree eloquent-mirzakhani-73acb9 : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)

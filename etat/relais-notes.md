@@ -138,3 +138,4 @@
 - (28/10/2026 14:55, Gemini) Tour 88 joué jusqu'au jeudi 15/08/2041 16h30. Déjeuner Chez Ambroise aux Vallons avec Fatoumata Gnagne (T17 réciproque puis poli_bref pour prolonger, fête de famille Assomption à Marcory). Grille DC générée en PDF (81/81 OK). Zéro erreur.
 - (28/10/2026 15:05, Gemini) Tour 89 joué jusqu'au jeudi 15/08/2041 17h45. Rythme temporel ralenti (1h15 de jeu). Grille DC transmise à Coulibaly, virement CCA confirmé, Fatoumata en attente. Consultation annonces adultes à Abidjan : 2 profils majeurs (18 et 19 ans) décrits selon la Règle 18.
 - (28/10/2026 15:10, agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)) Tour 89 presente au joueur, profils Mya et Christelle en attente de choix
+- (28/10/2026 17:26, agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)) Tour 90 joué : méditation, refus de la facilité marchande, projection financière à 5 ans livrée en PDF

@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 28/10/2026 15:10 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 28/10/2026 17:26 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : jeudi 15/08/2041 17:45 (abidjan, UTC+0)
+## Horloge : jeudi 15/08/2041 19:30 (abidjan, UTC+0)
 - **Lieu de William** : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-- **Heure dans les autres lieux** : lisbonne 18:45 ; luxembourg 19:45 ; mindelo 16:45 ; casablanca 18:45 ; douala 18:45 ; addis 20:45 ; manille 01:45 ; paris 19:45 ; seoul 02:45 ; bresil 14:45
+- **Heure dans les autres lieux** : lisbonne 20:30 ; luxembourg 21:30 ; mindelo 18:30 ; casablanca 20:30 ; douala 20:30 ; addis 22:30 ; manille 03:30 ; paris 21:30 ; seoul 04:30 ; bresil 16:30
 - **En attente de William** :
-  - Choix du profil à contacter (Mya ou Christelle) et formule proposée (créneau court début de soirée ou nuitée)
+  - Choix pour la soirée du jeudi 15 août (dîner en suite ou sortie calme aux Vallons) et directives préalables pour vendredi matin
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 355,59 €**
@@ -37,9 +37,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-08-15.md, 6 dernières lignes)
-> - Tirages du tour : T17 Fatoumata → reciproque (75,57) ; T10 → immediat (8,67) ; T17 Fatoumata → poli_bref (15,28).
-> - **16h30-17h45** (tour n° 89) : retour à la résidence hôtelière aux Deux-Plateaux ; transmission de la grille d'évaluation DC en 5 questions à Coulibaly via Gestion ; confirmation de la disponibilité du virement CCA vendredi matin ; décision d'attendre le retour spontané de Fatoumata sans relance ; recherche d'une rencontre intime sans lendemain sur l'application de rencontre locale à Abidjan ave
 > - Tirages du tour : profils escort_abidjan (Mya Touré 19 ans et Christelle Kouamé 18 ans).
 > - Tour en cours à 17h45, en attente de William : **Choix du profil à contacter (Mya ou Christelle) et formule proposée (créneau court début de soirée ou nuitée)**.
 > - **16h30-17h45** (tour n° 89) : voir le texte exact du tour (journal/tours/).
 > - Tour en cours à 17h45, en attente de William : **Choix du profil à contacter (Mya ou Christelle) et formule proposée (créneau court début de soirée ou nuitée)**.
+> - **17h45-19h30** (tour n° 90) : voir le texte exact du tour (journal/tours/).
+> - Tour en cours à 19h30, en attente de William : **Choix pour la soirée du jeudi 15 août (dîner en suite ou sortie calme aux Vallons) et directives préalables pour vendredi matin**.
