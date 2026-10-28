@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-08-15 16:30
+horloge: 2041-08-15 17:45
 fuseau: abidjan
 lieu: Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-tour: 88
-attente: Préparation de la journée clé de vendredi (RCCM, remise des clés villa Vallons, réception candidatures Direction Commerciale)
+tour: 89
+attente: Choix du profil à contacter (Mya ou Christelle) et formule proposée (créneau court début de soirée ou nuitée)

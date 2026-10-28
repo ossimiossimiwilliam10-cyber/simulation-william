@@ -232,3 +232,38 @@
 - **Secret (moteur seulement)** : cherche un autre travail en cachette (gravité 1)
 - **Horaires** : règle « etudiant », fuseau abidjan, décalage +28 min ; travail 09:28-17:28 (lun, mar, mer, jeu, ven), trajet 30 min ; sommeil 00:58-08:58
 - **Derniers événements** : —
+
+### Christelle Kouamé (escort indépendante (annonce BabiEscort))
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : se faire une place dans le milieu (club, lycée, quartier) ; **souci** : démarche administrative bloquée (titre de séjour, permis, impôts) ; **foyer** : vit seul(e)
+- **Secret (moteur seulement)** : a raté un examen important qu'il dit avoir réussi (gravité 2)
+- **Horaires** : règle « etudiant », fuseau abidjan, décalage -12 min ; travail 08:48-16:48 (lun, mar, mer, jeu, ven), trajet 30 min ; sommeil 00:18-08:18
+- **Derniers événements** : —
+
+### Kady Coulibaly (escort indépendante)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : rembourser ses dettes ; **souci** : burn-out qui couve ; **foyer** : vit chez ses parents
+- **Secret (moteur seulement)** : a menti sur son diplôme ou son expérience (gravité 2)
+- **Horaires** : règle « bureau », fuseau abidjan, décalage +0 min ; travail 09:00-17:30 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:30-07:00
+- **Derniers événements** : —
+
+### Nadège Kouassi (escort étudiante indépendante)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : trouver un partenaire européen pour financer un projet ; **souci** : voiture qui lâche, pas d'argent pour la remplacer ; **foyer** : en couple, sans enfant
+- **Secret (moteur seulement)** : cherche un autre travail en cachette (gravité 1)
+- **Horaires** : règle « etudiant », fuseau abidjan, décalage +11 min ; travail 09:11-17:11 (lun, mar, mer, jeu, ven), trajet 30 min ; sommeil 00:41-08:41
+- **Derniers événements** : —
+
+### Kady Konaté (escort indépendante étudiante)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : maigrir ou reprendre le sport ; **souci** : voiture qui lâche, pas d'argent pour la remplacer ; **foyer** : vit chez ses parents
+- **Secret (moteur seulement)** : prend des antidépresseurs (gravité 1)
+- **Horaires** : règle « etudiant », fuseau abidjan, décalage +25 min ; travail 09:25-17:25 (lun, mar, mer, jeu, ven), trajet 30 min ; sommeil 00:55-08:55
+- **Derniers événements** : —
+
+### Mya Touré (escort indépendante (annonce BabiEscort))
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : payer son année universitaire ; **souci** : — ; **foyer** : vit seule en studio
+- **Secret (moteur seulement)** : —
+- **Horaires** : règle « etudiant », fuseau abidjan, décalage +18 min ; travail 09:18-17:18 (lun, mar, mer, jeu, ven), trajet 30 min ; sommeil 00:48-08:48
+- **Derniers événements** : —

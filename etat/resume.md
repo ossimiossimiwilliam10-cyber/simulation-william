@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 28/10/2026 14:55 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 28/10/2026 15:05 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : jeudi 15/08/2041 16:30 (abidjan, UTC+0)
+## Horloge : jeudi 15/08/2041 17:45 (abidjan, UTC+0)
 - **Lieu de William** : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-- **Heure dans les autres lieux** : lisbonne 17:30 ; luxembourg 18:30 ; mindelo 15:30 ; casablanca 17:30 ; douala 17:30 ; addis 19:30 ; manille 00:30 ; paris 18:30 ; seoul 01:30 ; bresil 13:30
+- **Heure dans les autres lieux** : lisbonne 18:45 ; luxembourg 19:45 ; mindelo 16:45 ; casablanca 18:45 ; douala 18:45 ; addis 20:45 ; manille 01:45 ; paris 19:45 ; seoul 02:45 ; bresil 14:45
 - **En attente de William** :
-  - Préparation de la journée clé de vendredi (RCCM, remise des clés villa Vallons, réception candidatures Direction Commerciale)
+  - Choix du profil à contacter (Mya ou Christelle) et formule proposée (créneau court début de soirée ou nuitée)
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 355,59 €**
@@ -37,9 +37,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-08-15.md, 6 dernières lignes)
-> - **22h00-16h30** (tour n° 88) : 22h00 (mercredi 14/08) à 16h30 (jeudi 15/08) : directives transmises à l'équipe virtuelle et Coulibaly (délégation pleine de la signature du bail et visite contradictoire des Vallons vendredi après-midi ; clarification de l'emplacement des originaux scellés notariés ; validation du premier versement CCA 5,25 M FCFA) ; grille d'évaluation en 5 questions clés pour la
-> - Tirages du tour : T17 « invitation déjeuner jeudi Assomption » pour Fatoumata Gnagne → jet 75.6 : reciproque ; T10 « délai réponse Fatoumata » → jet 8.7 : immediat ; T17 « proposition prolonger après-midi résidence » pour Fatoumata Gnagne → jet 15.3 : poli_bref ; paiement K006 Visa Premier 41.10 € autorisé.
-> - Tour en cours à 16h30, en attente de William : **Préparation de la journée clé de vendredi (RCCM, remise des clés villa Vallons, réception candidatures Direction Commerciale)**.
-> - **00h00-16h30** (tour n° 88) : voir le texte exact du tour (journal/tours/).
 > - Tirages du tour : T17 Fatoumata → reciproque (75,57) ; T10 → immediat (8,67) ; T17 Fatoumata → poli_bref (15,28).
-> - Tour en cours à 16h30, en attente de William : **Préparation de la journée clé de vendredi (RCCM, remise des clés villa Vallons, réception candidatures Direction Commerciale)**.
+> - **16h30-17h45** (tour n° 89) : retour à la résidence hôtelière aux Deux-Plateaux ; transmission de la grille d'évaluation DC en 5 questions à Coulibaly via Gestion ; confirmation de la disponibilité du virement CCA vendredi matin ; décision d'attendre le retour spontané de Fatoumata sans relance ; recherche sur plateformes locales d'annonces classées pour adultes à Abidjan (BabiEscort / Locanto 
+> - Tirages du tour : profils escort_abidjan (Mya Touré 19 ans et Christelle Kouamé 18 ans).
+> - Tour en cours à 17h45, en attente de William : **Choix du profil à contacter (Mya ou Christelle) et formule proposée (créneau court début de soirée ou nuitée)**.
+> - **16h30-17h45** (tour n° 89) : voir le texte exact du tour (journal/tours/).
+> - Tour en cours à 17h45, en attente de William : **Choix du profil à contacter (Mya ou Christelle) et formule proposée (créneau court début de soirée ou nuitée)**.
