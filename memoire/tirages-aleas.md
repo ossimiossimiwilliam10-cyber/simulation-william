@@ -4294,3 +4294,5 @@ Effets à jouer : A07 (mercredi 14/08 (soir)) : Retard d'un virement, d'un envoi
 - Tirage [T5] « affaire_projet_ci_art14 : fuite, semaine du 11/08 » : fuite_externe 1 / fuite_interne 3 / aucune 96 ; modificateurs : aucun ; jet  30.4 → **aucune** (enregistré le 28/10/2026 13:23 heure machine)
 
 - Tirage [T17] « premier contact courtois campus UFHB » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  10.6 → **poli_bref** (enregistré le 28/10/2026 13:48 heure machine)
+
+- Jet « femme aborde William sur la plage » : probabilité 12 %, jet  88.2 → **NON** [DÉROGATION : aléa d'une rencontre spontanée sur la plage de Grand-Bassam] (enregistré le 28/10/2026 14:08 heure machine)
