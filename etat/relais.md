@@ -1,9 +1,9 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 28/10/2026 11:01 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
+# Relais de la simulation — briefing généré le 28/10/2026 11:02 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
 
-## Alertes
-- aucune
+## ALERTES (à régler avant de jouer)
+- ⚠ le worktree eloquent-mirzakhani-73acb9 a 1 fichier(s) modifié(s) non enregistrés : session interrompue ? Vérifier avant de jouer (ne rien supprimer)
 
 ## Où en est la partie
 - Horloge : lundi 5 août 2041, 23h30 (luxembourg) ; tour n° 69
@@ -176,10 +176,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : master ; master : ab1ea01 ; avance 0, retard 0
-- worktree simulation-william (ICI) : branche master ; 0 commit(s) absents de master ; 25 fichier(s) modifié(s)
+- branche courante : master ; master : fb63857 ; avance 0, retard 0
+- worktree simulation-william (ICI) : branche master ; 0 commit(s) absents de master ; 2 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 1 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 
