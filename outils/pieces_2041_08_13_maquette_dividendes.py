@@ -97,3 +97,4 @@ def generer_maquette_dividendes():
 
 if __name__ == "__main__":
     generer_maquette_dividendes()
+
