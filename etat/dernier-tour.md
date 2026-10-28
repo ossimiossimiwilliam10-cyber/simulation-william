@@ -1,50 +1,51 @@
 # Dernier tour montré au joueur
 
-> Tour n° 75 ; horloge 08/08/2041 20:00 -> 09/08/2041 10:00 ; enregistré le 28/10/2026 12:14 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 76 ; horloge 09/08/2041 10:00 -> 09/08/2041 16:00 ; enregistré le 28/10/2026 12:28 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Validation maquette anti-detournement, procurations Me Gnamien, reflexion quantitative analyst et alerte insolvabilite
+> Validation etude risques quantitatifs, connexion bancaire Spuerkeess Open Banking, finalisation bagages et maquette equipes operationnelles niveaux 3 et 4
 
 ## Texte envoyé au joueur
 
-**VENDREDI 9 AOÛT 2041 — 10h00 — Audun-le-Tiche, chez toi**
+**VENDREDI 9 AOÛT 2041 — 16h00 — Audun-le-Tiche, chez toi**
 
-*Dictée : « Maître Nyamia » = Maître Gnamien ; « Koulibaly » = Mohamed Coulibaly.*
+*Dictée : « Koulibaly » = Mohamed Coulibaly.*
 
-La nuit est réparatrice et tu te réveilles en pleine forme après près de huit heures de sommeil complet. En ce vendredi matin, le ciel lorrain est totalement dégagé, baigné d'un grand soleil d'été et d'une fraîcheur matinale vivifiante d'une douzaine de degrés qui grimpe doucement vers vingt et un degrés.
+L'après-midi se déroule sous une lumière éclatante et une température idéale de vingt et un degrés. Chez toi, dans le calme de ta maison, tu franchis une étape décisive dans le contrôle financier de tes activités : tu procèdes à la connexion immédiate de ton application bancaire Spuerkeess à ton application de gestion via le protocole sécurisé en lecture seule.
 
-Tu commences ta journée par un grand café en préparant méthodiquement tes valises. Le départ pour le Luxembourg-Findel et le vol vers Abidjan via Paris est prévu pour lundi matin à l'aube : nous sommes à trois jours de l'embarquement. Tu rassembles dans ta sacoche de voyage tes originaux d'état civil, tes attestations de pré-enrôlement de visa électronique avec le récépissé de paiement, ton passeport, ton carnet de vaccination international à jour contre la fièvre jaune, ainsi que les copies certifiées conformes de tes diplômes et relevés de notes.
+L'interfaçage est instantané. Ton tableau de bord affiche désormais en temps réel tes soldes consolidés : ton compte courant, ton livret projet de près de soixante-seize mille euros réservé au déploiement solaire et ton épargne de sécurité de vingt-cinq mille deux cent cinquante euros. Grâce à ce pont numérique, ton pôle financier virtuel peut simuler au centime près l'impact de chaque futur apport en compte courant d'associé vers Abidjan, sans aucune possibilité d'opération débitrice non sollicitée, préservant ainsi l'étanchéité totale de ton patrimoine privé.
 
-Tu intègres dans ton aide-mémoire personnel la maquette de contrôle interne et anti-détournement validée la veille : elle sera remise et expliquée directement à Mohamed Coulibaly dès ton arrivée en Côte d'Ivoire, dès que l'équipe de direction sera réunie au complet. Ces principes serviront également de trame de référence pour verrouiller les procurations et conventions d'ouverture de comptes bancaires lors de la séance solennelle de signature chez Maître Ismaël Gnamien.
+Dans la foulée, tu achèves méthodiquement le bouclage de tes bagages. Tes deux valises principales sont fermées, étiquetées et déposées dans l'entrée. Tu passes une dernière fois en revue ta sacoche de cabine : passeport biométrique, attestation officielle de pré-enrôlement pour le visa électronique avec son reçu de paiement, carnet de vaccination international jaune, ainsi que les originaux et copies certifiées conformes de tes diplômes et relevés de notes. Tout le volet matériel et administratif est verrouillé à trois jours du départ.
 
-Entre le pliage de tes vêtements et l'organisation de tes affaires, tu poursuis tes échanges confidentiels avec ton équipe virtuelle au sujet de ta préoccupation stratégique majeure : la survie et la solvabilité à long terme de l'entreprise, et la protection absolue de tes arrières financiers.
+Tu te consacres ensuite avec ton équipe virtuelle à la conception de la troisième maquette d'organisation : la structuration complète des équipes opérationnelles de terrain, les effectifs des niveaux 3 et 4, et la typologie des missions.
 
-À neuf heures et demie, une étude de cadrage complète et détaillée est déposée dans tes dossiers de travail sous format PDF.
+À quinze heures et demie, une nouvelle maquette formalisée sous format PDF est déposée dans tes dossiers de travail.
 
-L'analyse apporte des réponses précises et structurées à chacune de tes interrogations :
-- **Rattachement de l'Analyste Quantitatif (Risk Analyst)** : L'étude confirme la pertinence de ce profil pour modéliser le risque, mais tranche sans ambiguïté sur son positionnement. L'analyste du risque doit être rattaché impérativement au pôle Finance et Comptabilité, sous l'autorité directe de la directrice administrative et financière Mariam Brou, avec une ligne de reporting direct au président-directeur général. Le positionner au sein du pôle commercial créerait un conflit d'intérêts immédiat et dangereux : l'équipe commerciale a pour objectif de maximiser le volume de contrats et le chiffre d'affaires, tandis que l'analyste du risque a pour fonction d'évaluer froidement et objectivement la solidité des contreparties industrielles sur des baux de dix à quinze ans, le risque de change sur les équipements importés et le coût de revient actualisé de l'électricité.
-- **Double niveau de défense et contre-expertise virtuelle** : Pour que tu ne sois jamais dépendant de projections locales optimistes, un modèle de stress-test automatique et indépendant est mis en place par ton équipe virtuelle. À chaque rapport financier mensuel et avant chaque éventuelle injection de fonds depuis l'Europe, l'équipe virtuelle analyse les flux bruts, calcule le temps de survie résiduel en trésorerie disponible (le runway) et la vitesse de consommation du cash (le burn rate), et délivre une alerte immédiate en cas de risque de dérapage.
-- **Connexion bancaire et étanchéité patrimoniale** : L'interfaçage de tes comptes personnels Spuerkeess en consultation sécurisée (lecture seule par protocole bancaire) est techniquement validé pour te donner une vision consolidée de ton épargne et de tes disponibilités. Mais l'étude souligne surtout un point de droit capital : en tant qu'associé unique d'une SASU, ta responsabilité financière est strictement bornée au montant du capital social souscrit (dix millions de francs CFA, soit environ quinze mille deux cent quarante-cinq euros). Tant que tu ne signes aucun engagement de caution personnelle solidaire auprès des banques locales, ton patrimoine personnel de plus de huit cent cinquante mille euros (ta maison entièrement payée, ton portefeuille d'ETF Monde et tes liquidités luxembourgeoises) demeure juridiquement inattaquable et parfaitement étanche en cas de revers opérationnel à Abidjan.
+L'étude organisationnelle détaille l'architecture suivante :
+- **Typologie des missions à trois niveaux** : Le document officialise la distinction entre les missions continues (routines hebdomadaires et mensuelles de fond inscrites dans chaque fiche de poste), les missions de direction (directives et ordres d'exploitation courants émis par le président-directeur général et les directeurs de pôles), et les missions spéciales (ordres de mission ponctuels, audits ciblés ou vérifications confidentielles ordonnés directement par l'associé unique fondateur via son canal sécurisé).
+- **Direction Générale (PDG Mohamed Coulibaly — Niveau 1)** : Pour maîtriser la masse salariale fixe au lancement, le pôle virtuel préconise de ne pas recruter d'assistant de direction dédié en phase d'amorçage, l'accueil et le secrétariat léger pouvant être absorbés par la polyvalence du pôle administratif. Un poste d'assistant de direction générale et juridique pourra être ouvert en phase de montée en charge. La question sera posée à Mohamed pour recueillir son appréciation de charge.
+- **Direction Commerciale (Niveau 2)** : Aucun chef d'équipe intermédiaire n'est prévu au démarrage afin de garder une ligne managériale courte et réactive. L'équipe est composée de deux chargés d'affaires B2B grands comptes (Niveau 4), recrutés parmi de jeunes profils de moins de trente ans présentant un fort dynamisme, une note de sélection entre 75 et 85 sur 100 et un potentiel de progression élevé, pour prospecter les toitures industrielles de Vridi, Yopougon et PK24.
+- **Direction Technique (Directeur Technique Éric Koffi Yao — Niveau 2)** : Structuration avec un chef d'équipe travaux et chantiers (Niveau 3, profil expérimenté d'au moins cinq ans sur site industriel, note égale ou supérieure à 80 sur 100 avec un minimum de 85 sur le cœur de métier), encadrant une première équipe de terrain de deux à trois techniciens installateurs photovoltaïques et câbleurs électriciens (Niveau 4, jeunes de moins de trente ans, note entre 75 et 85 sur 100 avec indicateur de potentiel). Une seconde équipe travaux sera constituée dès que deux centrales seront en chantier simultané.
+- **Direction Administrative et Financière (DAF Mariam Brou — Niveau 2)** : Un analyste du risque quantitatif (Niveau 3 ou 4 spécialisé, un seul poste suffisant pour modéliser le portefeuille de contrats PPA, le risque de contrepartie et le rythme de consommation du cash) et un comptable général et paie (Niveau 4, jeune profil rigoureux, note 75 à 85 sur 100).
+- **Stratégie d'envoi des maquettes** : Avec désormais trois maquettes complètes prêtes (missions continues par direction, contrôle interne et anti-détournement, équipes opérationnelles), deux approches sont envisageables : soit une transmission par courriel officiel à Mohamed Coulibaly dès ce vendredi pour lui laisser le week-end d'appropriation avant ton vol, soit une conservation confidentielle pour une remise en main propre lors de la première séance de travail en tête-à-tête à Abidjan le mardi 13 août.
 
-Le document est archivé et disponible pour consultation dans tes pièces personnelles. 
-
-Il est 10h00.
+Il est 16h00.
 
 ---
 
 **Réponses attendues**
 
-- Confirmation de la prise en compte du positionnement de l'analyste du risque au pôle Finance (DAF) et du calendrier d'intégration (en phase de déploiement des centrales).
-- Validation de l'interfaçage de ton application bancaire en lecture seule pour le suivi consolidé de tes liquidités.
+- Choix sur le mode de transmission des 3 maquettes à Mohamed Coulibaly : envoi par courriel dès ce vendredi ou remise physique en main propre à Abidjan le 13 août.
+- Validation du calibrage des équipes opérationnelles (effectif initial de 7 à 9 personnes avec chefs d'équipe niveau 3 et jeunes niveau 4).
 
 **À faire / à fournir avant le tour suivant**
 
-- Poursuivre le bouclage des bagages et la vérification ultime des documents physiques avant le week-end pré-départ (départ lundi 12 août à 06h50).
-- Préparer les instructions de clôture de semaine pour l'équipe virtuelle avant l'embarquement.
+- Valider la consigne d'envoi ou de mise en réserve des 3 maquettes de gouvernance.
+- Profiter du week-end pré-départ pour le repos physique avant le voyage du lundi 12 août.
 
 **Quêtes secondaires**
 
-- Passer en revue la liste des contacts d'urgence et coordonnées abidjanaises (Cabinet Gnamien, Mohamed Coulibaly, hôtel Azalaï) avant le vol.
+- Consulter les prévisions météo du week-end sur Audun-le-Tiche (pluie annoncée samedi, embellie dimanche).
 
 Que veux-tu faire ?

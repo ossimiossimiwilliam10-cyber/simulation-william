@@ -86,3 +86,4 @@ def generer_etude_risques_quantitatifs():
 
 if __name__ == "__main__":
     generer_etude_risques_quantitatifs()
+

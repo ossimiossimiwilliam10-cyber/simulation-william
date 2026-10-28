@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 28/10/2026 12:17 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 28/10/2026 12:28 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : vendredi 09/08/2041 10:00 (luxembourg, UTC+2)
+## Horloge : vendredi 09/08/2041 16:00 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez toi
-- **Heure dans les autres lieux** : abidjan 08:00 ; lisbonne 09:00 ; mindelo 07:00 ; casablanca 09:00 ; douala 09:00 ; addis 11:00 ; manille 16:00 ; paris 10:00 ; seoul 17:00 ; bresil 05:00
+- **Heure dans les autres lieux** : abidjan 14:00 ; lisbonne 15:00 ; mindelo 13:00 ; casablanca 15:00 ; douala 15:00 ; addis 17:00 ; manille 22:00 ; paris 16:00 ; seoul 23:00 ; bresil 11:00
 - **En attente de William** :
-  - Arbitrage sur l'integration du risk analyst et validation finale des bagages avant le week-end pre-depart (J-3)
+  - Choix du mode de transmission des 3 maquettes a Mohamed Coulibaly (envoi vendredi ou remise mardi 13 a Abidjan)
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 740,59 €**
@@ -42,3 +42,5 @@
 > # Vendredi 9 août 2041 — univers 3, 25e jour
 > - **00h00-10h00** (tour n° 75) : voir le texte exact du tour (journal/tours/).
 > - Tour en cours à 10h00, en attente de William : **Arbitrage sur l'integration du risk analyst et validation finale des bagages avant le week-end pre-depart (J-3)**.
+> - **10h00-16h00** (tour n° 76) : voir le texte exact du tour (journal/tours/).
+> - Tour en cours à 16h00, en attente de William : **Choix du mode de transmission des 3 maquettes a Mohamed Coulibaly (envoi vendredi ou remise mardi 13 a Abidjan)**.
