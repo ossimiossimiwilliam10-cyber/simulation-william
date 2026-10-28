@@ -4304,3 +4304,7 @@ Effets à jouer : A07 (mercredi 14/08 (soir)) : Retard d'un virement, d'un envoi
 - Tirage [T10] « délai réponse Fatoumata » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet   8.7 → **immediat** (enregistré le 28/10/2026 14:50 heure machine)
 
 - Tirage [T17] « proposition de prolonger l'après-midi ensemble à la résidence hôtelière » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  15.3 → **poli_bref** (enregistré le 28/10/2026 14:50 heure machine)
+
+- Tirage [T14] « Fatoumata Gnagne : message en soirée du 15 août » : aucune 53 / message_routine 16 / demande 10 / information 8 / partage_personnel 10 / plainte_ou_tension 3 ; modificateurs : M86 ; jet  85.6 → **information** (enregistré le 28/10/2026 17:37 heure machine)
+
+- Tirage [T10] « Heure du message de Fatoumata » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  68.5 → **dans_la_journee** (enregistré le 28/10/2026 17:37 heure machine)

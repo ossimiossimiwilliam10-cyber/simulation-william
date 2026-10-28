@@ -139,3 +139,4 @@
 - (28/10/2026 15:05, Gemini) Tour 89 joué jusqu'au jeudi 15/08/2041 17h45. Rythme temporel ralenti (1h15 de jeu). Grille DC transmise à Coulibaly, virement CCA confirmé, Fatoumata en attente. Consultation annonces adultes à Abidjan : 2 profils majeurs (18 et 19 ans) décrits selon la Règle 18.
 - (28/10/2026 15:10, agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)) Tour 89 presente au joueur, profils Mya et Christelle en attente de choix
 - (28/10/2026 17:26, agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)) Tour 90 joué : méditation, refus de la facilité marchande, projection financière à 5 ans livrée en PDF
+- (28/10/2026 17:40, agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)) Tour 91 joué : dîner au tourne-dos aux Deux-Plateaux, immersion locale, message de Fatoumata reçu avec tuyau CEPICI, consignes à l'équipe virtuelle

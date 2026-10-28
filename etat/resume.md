@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 28/10/2026 17:26 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 28/10/2026 17:40 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : jeudi 15/08/2041 19:30 (abidjan, UTC+0)
+## Horloge : jeudi 15/08/2041 22:00 (abidjan, UTC+0)
 - **Lieu de William** : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-- **Heure dans les autres lieux** : lisbonne 20:30 ; luxembourg 21:30 ; mindelo 18:30 ; casablanca 20:30 ; douala 20:30 ; addis 22:30 ; manille 03:30 ; paris 21:30 ; seoul 04:30 ; bresil 16:30
+- **Heure dans les autres lieux** : lisbonne 23:00 ; luxembourg 00:00 ; mindelo 21:00 ; casablanca 23:00 ; douala 23:00 ; addis 01:00 ; manille 06:00 ; paris 00:00 ; seoul 07:00 ; bresil 19:00
 - **En attente de William** :
-  - Choix pour la soirée du jeudi 15 août (dîner en suite ou sortie calme aux Vallons) et directives préalables pour vendredi matin
+  - Réponse au message de Fatoumata et heure de rendez-vous CEPICI pour Coulibaly
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 355,59 €**
@@ -37,9 +37,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-08-15.md, 6 dernières lignes)
-> - Tirages du tour : profils escort_abidjan (Mya Touré 19 ans et Christelle Kouamé 18 ans).
-> - Tour en cours à 17h45, en attente de William : **Choix du profil à contacter (Mya ou Christelle) et formule proposée (créneau court début de soirée ou nuitée)**.
-> - **16h30-17h45** (tour n° 89) : voir le texte exact du tour (journal/tours/).
 > - Tour en cours à 17h45, en attente de William : **Choix du profil à contacter (Mya ou Christelle) et formule proposée (créneau court début de soirée ou nuitée)**.
 > - **17h45-19h30** (tour n° 90) : voir le texte exact du tour (journal/tours/).
 > - Tour en cours à 19h30, en attente de William : **Choix pour la soirée du jeudi 15 août (dîner en suite ou sortie calme aux Vallons) et directives préalables pour vendredi matin**.
+> - **19h30-22h00** (tour n° 91) : voir le texte exact du tour (journal/tours/).
+> - Tirages du tour : T14 → information (85,58) ; T10 → dans_la_journee (68,49).
+> - Tour en cours à 22h00, en attente de William : **Réponse au message de Fatoumata et heure de rendez-vous CEPICI pour Coulibaly**.

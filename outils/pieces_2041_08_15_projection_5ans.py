@@ -161,3 +161,4 @@ def generer_projection_financiere_5ans():
 
 if __name__ == "__main__":
     generer_projection_financiere_5ans()
+

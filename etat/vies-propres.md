@@ -227,7 +227,7 @@
 - **Derniers événements** : —
 
 ### Fatoumata Gnagne (étudiante en master d'économie UFHB)
-- **Lien avec William** : aucun (whatsapp)
+- **Lien avec William** : contact_recent (whatsapp)
 - **Objectif** : trouver quelqu'un et se poser ; **souci** : embouteillages et trajets de deux heures entre Abidjan et son travail ; **foyer** : vit seul(e)
 - **Secret (moteur seulement)** : cherche un autre travail en cachette (gravité 1)
 - **Horaires** : règle « etudiant », fuseau abidjan, décalage +28 min ; travail 09:28-17:28 (lun, mar, mer, jeu, ven), trajet 30 min ; sommeil 00:58-08:58
