@@ -1,47 +1,48 @@
 # Dernier tour montré au joueur
 
-> Tour n° 73 ; horloge 07/08/2041 21:00 -> 08/08/2041 10:00 ; enregistré le 28/10/2026 11:53 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 74 ; horloge 08/08/2041 10:00 -> 08/08/2041 20:00 ; enregistré le 28/10/2026 12:03 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Validation doctrine recrutement Coulibaly (80 general, 85 coeur de metier), maquette des missions continues par pole preparee en PDF par l'equipe virtuelle, pointage voyage
+> Reflexion sur la prevention des detournements de fonds, anti-fraude, concurrence loyale et faux rapports : demande de maquette de controle interne a l'equipe virtuelle
 
 ## Texte envoyé au joueur
 
-**JEUDI 8 AOÛT 2041 — 10h00 — Audun-le-Tiche, chez toi**
+**JEUDI 8 AOÛT 2041 — 20h00 — Audun-le-Tiche, chez toi**
 
-*Dictée : « Mohamed Koulibaly » = Mohamed Coulibaly.*
+*Dictée : « Koulibaly » = Mohamed Coulibaly.*
 
-Après une nuit paisible de près de huit heures, la journée commence sous un grand soleil d'été qui réchauffe rapidement l'air à vingt-six degrés. Tu descends prendre ton café dans la cuisine, les volets grand ouverts sur le jardin.
+La fin de matinée et l'après-midi se déroulent sous une chaleur agréable qui atteint vingt-six degrés. Tu passes une partie de la journée chez toi à approfondir tes réflexions sur la sécurisation absolue de l'entreprise. L'éloignement géographique et la délégation de la gestion opérationnelle à une équipe locale rendent indispensable un système de contrôle étanche, capable de prévenir les détournements de trésorerie, les fraudes sur factures, les faux rapports d'activité et tout risque de captation hostile de la clientèle par les dirigeants sur place.
 
-À neuf heures, une notification d'Air France apparaît sur ton téléphone : un message automatique du service d'enregistrement en ligne t'invite à vérifier l'orthographe de ton second prénom et la date d'expiration de ton passeport pour assurer la concordance exacte avec l'attestation de visa biométrique ivoirien. Tu ouvres l'application, vérifies les champs en deux minutes, confirmes la saisie, et le voyant vert de conformité s'affiche sans la moindre difficulté. Tout est en ordre pour l'embarquement de lundi matin.
+En toute confidentialité, sans en informer qui que ce soit d'autre, tu charges ton équipe virtuelle de concevoir une maquette complète dédiée au contrôle interne, à la conformité et à la sécurité financière.
 
-Dans la foulée de tes instructions d'hier soir, le pôle virtuel d'organisation et de ressources humaines a travaillé en toute confidentialité, sans rien divulguer à l'extérieur, pour concevoir la maquette complète des missions continues et des objectifs récurrents par direction.
+À dix-huit heures, après une séance d'étirements et de gainage au salon, tu découvres la synthèse détaillée et la maquette déposées dans tes dossiers personnels.
 
-Le document est déposé dans tes dossiers personnels sous format officiel. Il structure pour chaque pôle les routines hebdomadaires obligatoires et les seuils de performance mensuels et trimestriels qui serviront de base de cadrage lors de tes échanges en tête-à-tête avec Mohamed Coulibaly à Abidjan :
-- Direction Générale : animation hebdomadaire du comité de direction chaque lundi matin, accompagnement des closing grands comptes industriels, revue d'avancement des chantiers avec la direction technique, contrôle de trésorerie avec la finance, et respect du seuil d'autorisation préalable réservé à l'associé unique pour tout engagement supérieur à dix millions de francs CFA. Sur le plan récurrent, maintien d'une marge brute minimale de quinze millions de francs CFA par trimestre et livraison auditée d'au moins 500 kilowatts-crête par tranche.
-- Direction Commerciale : prospection active hebdomadaire d'au moins dix nouveaux comptes industriels ciblés sur les zones d'Abidjan, mise à jour rigoureuse du carnet d'opportunités, réalisation d'au moins trois visites préliminaires de toitures par semaine. Objectif mensuel : remise d'au moins deux offres dimensionnées et chiffrées, pour viser en vitesse de croisière la signature d'un à deux contrats fermes d'autoproduction par mois (puissance minimale unitaire de 150 kilowatts-crête), avec l'engagement impératif de conclure au moins deux premiers contrats au cours du premier trimestre d'activité.
-- Direction Technique : visites de préfaisabilité sous quarante-huit heures, études complètes de dimensionnement sur logiciel certifié, inspection quotidienne de la sécurité des chantiers (zéro accident avec arrêt toléré), conformité absolue aux normes électriques lors des réceptions CIE et télémonitoring systématique des centrales dès la mise sous tension.
-- Direction Administrative et Financière : rapprochement bancaire hebdomadaire, transmission directe et autonome du tableau de bord de trésorerie à l'associé unique, clôture comptable mensuelle à J+5 en système comptable ouest-africain, zéro retard dans les déclarations fiscales et sociales, et paiement des salaires le 28 du mois.
+Le document formalise une architecture de contrôle à cinq niveaux conçue pour fonctionner de manière autonome depuis l'Europe :
+- Verrouillage financier et zéro espèces : interdiction absolue de toute manipulation d'argent liquide (aucune caisse physique, règlements 100 % bancarisés par virement ou chèque barré). Les conventions de compte auprès des banques à Abidjan instaureront une double signature électronique obligatoire : le directeur général prépare les ordres, mais tout virement supérieur à dix millions de francs CFA ou vers un compte étranger requiert obligatoirement ta clé de validation token. Par ailleurs, tu disposes d'un accès bancaire administrateur en consultation directe 24h/24 pour suivre les soldes réels sans dépendre des relevés de l'équipe locale.
+- Séparation stricte des tâches : le processus de dépense est scindé en trois maillons indépendants. Le commercial et le directeur général négocient les devis, la direction technique valide la livraison physique et la pose du matériel par procès-verbal d'inspection, et la directrice administrative et financière ne libère le paiement qu'en présence de la facture et du procès-verbal signé. Aucun acteur ne peut initier, valider et payer une commande seul.
+- Protection contre la concurrence déloyale et le coup d'État : centralisation souveraine de la base clients et des études d'ingénierie sur un serveur sécurisé dont tu détiens seul les accès administrateur racine, avec alerte automatique en cas d'extraction suspecte. La convention de mandat du directeur général intègre déjà l'interdiction de concurrence de douze mois avec clause pénale de vingt-quatre millions de francs CFA et poursuites pénales immédiates en cas de manquement.
+- Détection des faux rapports par triple croisement : les rapports d'activité locaux seront confrontés automatiquement aux relevés bancaires bruts, aux déclarations fiscales de TVA déposées auprès des impôts ivoiriens, et surtout au télémonitoring direct des compteurs de production raccordés sur les toitures industrielles, qui transmettent la puissance réelle produite sans intervention humaine.
+- Pilotage du dispositif : le suivi quotidien et hebdomadaire est confié à ton pôle virtuel d'audit (au sein de ton application de gestion), qui effectue les réconciliations de données et t'alerte en cas d'anomalie. En appui, un commissaire aux comptes indépendant agréé à Abidjan sera mandaté pour réaliser un audit semestriel inopiné et l'inventaire physique annuel du matériel.
 
-La maquette intègre également la doctrine de sélection validée avec Mohamed : un plancher éliminatoire fixé à 80 sur 100 pour l'ensemble des postes, renforcé par une exigence minimale de 85 sur 100 sur la compétence cœur de métier.
+La maquette est archivée en format final dans tes pièces de travail, prête à servir de cadre pour paramétrer les accès bancaires et informatiques lors de ta mission.
 
-Il est 10h00.
+Il est 20h00.
 
 ---
 
 **Réponses attendues**
 
-- Retours ou ajustements sur la maquette des missions continues et objectifs de chaque pôle avant de la présenter à Mohamed Coulibaly lors de ta mission.
+- Avis sur l'architecture de contrôle proposée : ce dispositif de double signature, de télémonitoring direct et de séparation des trois tiers te convient-il pour verrouiller la gestion avant la signature des actes du 13 août ?
 
 **À faire / à fournir avant le tour suivant**
 
-- Valider la maquette organisationnelle ou formuler d'éventuelles modifications chiffrées sur les volumes d'activité attendus.
-- Poursuivre le pointage des effets personnels pour le vol de lundi 12 août (départ à 06h50, J-4).
+- Valider les principes de contrôle pour caler les procurations bancaires lors de la séance notariale chez Maître Gnamien.
+- Poursuivre la préparation des bagages (départ lundi 12 août à 06h50 de Findel, J-4).
 
 **Quêtes secondaires**
 
-- Les contrats de direction et la note de conformité juridique sont archivés et prêts pour la séance de signature notariée du 13 août au Plateau.
-- Le dossier pour le ministère luxembourgeois reste prêt pour la rentrée scolaire de septembre.
+- La maquette des missions continues et objectifs de chaque direction reste disponible pour ton entretien de cadrage avec Mohamed Coulibaly.
+- Le dossier pour le ministère luxembourgeois reste prêt pour la rentrée de septembre.
 
 Que veux-tu faire ?

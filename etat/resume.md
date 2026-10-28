@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 28/10/2026 11:54 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 28/10/2026 12:03 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : jeudi 08/08/2041 10:00 (luxembourg, UTC+2)
+## Horloge : jeudi 08/08/2041 20:00 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez toi
-- **Heure dans les autres lieux** : abidjan 08:00 ; lisbonne 09:00 ; mindelo 07:00 ; casablanca 09:00 ; douala 09:00 ; addis 11:00 ; manille 16:00 ; paris 10:00 ; seoul 17:00 ; bresil 05:00
+- **Heure dans les autres lieux** : abidjan 18:00 ; lisbonne 19:00 ; mindelo 17:00 ; casablanca 19:00 ; douala 19:00 ; addis 21:00 ; manille 02:00 ; paris 20:00 ; seoul 03:00 ; bresil 15:00
 - **En attente de William** :
-  - Retours ou ajustements sur la maquette des missions continues par pole et preparation voyage J-4
+  - Validation de l'architecture de controle interne et anti-detournement pour cadrage bancaire mission Abidjan
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 740,59 €**
@@ -42,3 +42,5 @@
 > # Jeudi 8 août 2041 — univers 3, 24e jour
 > - **00h00-10h00** (tour n° 73) : voir le texte exact du tour (journal/tours/).
 > - Tour en cours à 10h00, en attente de William : **Retours ou ajustements sur la maquette des missions continues par pole et preparation voyage J-4**.
+> - **10h00-20h00** (tour n° 74) : voir le texte exact du tour (journal/tours/).
+> - Tour en cours à 20h00, en attente de William : **Validation de l'architecture de controle interne et anti-detournement pour cadrage bancaire mission Abidjan**.

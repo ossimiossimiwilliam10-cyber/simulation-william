@@ -117,3 +117,4 @@ def generer_maquette_missions_poles():
 
 if __name__ == "__main__":
     generer_maquette_missions_poles()
+
