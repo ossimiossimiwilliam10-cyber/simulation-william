@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-08-13 12:45
+horloge: 2041-08-13 15:30
 fuseau: abidjan
-lieu: Abidjan (Le Plateau), lounge du Café de Rome
-tour: 81
-attente: Arbitrage sur le dejeuner de travail et le calendrier des visites de villas QG pour mercredi apres-midi
+lieu: Abidjan (Cocody Deux-Plateaux), résidence hôtelière
+tour: 82
+attente: Validation de l'étude de cadrage budgétaire d'installation (43 M FCFA) et attente du rapport d'étape de 17h00

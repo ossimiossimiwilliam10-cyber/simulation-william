@@ -38,3 +38,4 @@
 - 25/07/2041 : premier acompte SWIFT de 1 511 € (991 200 FCFA TTC) reçu à la BICICI Plateau.
 - 29/07/2041 : livraison des projets de statuts SASU et convention de mandat DG, validés définitivement par William.
 - 13/08/2041, 10h00 : séance solennelle de signature des actes en son cabinet au Plateau.
+

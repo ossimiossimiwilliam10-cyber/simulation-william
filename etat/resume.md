@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 28/10/2026 13:25 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 28/10/2026 13:37 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mardi 13/08/2041 12:45 (abidjan, UTC+0)
-- **Lieu de William** : Abidjan (Le Plateau), lounge du Café de Rome
-- **Heure dans les autres lieux** : lisbonne 13:45 ; luxembourg 14:45 ; mindelo 11:45 ; casablanca 13:45 ; douala 13:45 ; addis 15:45 ; manille 20:45 ; paris 14:45 ; seoul 21:45 ; bresil 09:45
+## Horloge : mardi 13/08/2041 15:30 (abidjan, UTC+0)
+- **Lieu de William** : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
+- **Heure dans les autres lieux** : lisbonne 16:30 ; luxembourg 17:30 ; mindelo 14:30 ; casablanca 16:30 ; douala 16:30 ; addis 18:30 ; manille 23:30 ; paris 17:30 ; seoul 00:30 ; bresil 12:30
 - **En attente de William** :
-  - Arbitrage sur le dejeuner de travail et le calendrier des visites de villas QG pour mercredi apres-midi
+  - Validation de l'étude de cadrage budgétaire d'installation (43 M FCFA) et attente du rapport d'étape de 17h00
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 355,59 €**
@@ -37,9 +37,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-08-13.md, 6 dernières lignes)
-> - **00h00-09h50** (tour n° 80) : voir le texte exact du tour (journal/tours/).
-> - Tirages du tour : procédure : LU01, LU02, FR02.
 > - Tour en cours à 09h50, en attente de William : **Séance solennelle de signature notariée des statuts et du mandat DG chez Me Gnamien à 10h00, et validation des propositions P27 à P31 de la Revue du lundi n° 4**.
 > - **09h50-12h45** (tour n° 81) : voir le texte exact du tour (journal/tours/).
 > - Tirages du tour : T4 → aucune (0,26) ; T5 → fuite_interne (27,92) ; T4 → aucune (2,36) ; T5 → aucune (30,43).
 > - Tour en cours à 12h45, en attente de William : **Arbitrage sur le dejeuner de travail et le calendrier des visites de villas QG pour mercredi apres-midi**.
+> - **12h45-15h30** (tour n° 82) : voir le texte exact du tour (journal/tours/).
+> - Tour en cours à 15h30, en attente de William : **Validation de l'étude de cadrage budgétaire d'installation (43 M FCFA) et attente du rapport d'étape de 17h00**.

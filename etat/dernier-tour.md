@@ -1,51 +1,50 @@
 # Dernier tour montré au joueur
 
-> Tour n° 81 ; horloge 13/08/2041 09:50 -> 13/08/2041 12:45 ; enregistré le 28/10/2026 13:25 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 82 ; horloge 13/08/2041 12:45 -> 13/08/2041 15:30 ; enregistré le 28/10/2026 13:37 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Signature solennelle des statuts SASU, mandat DG et contrat DAF chez Me Gnamien ; entretien au cafe avec Coulibaly et Brou sur la villa QG, le pret en compte courant et les dividendes
+> Directives complètes au Café de Rome (climatisation, cantine, intendance, pharmacie, véhicule technique, parc informatique, autonomie d'équipe) et cadrage budgétaire du pôle financier virtuel
 
 ## Texte envoyé au joueur
 
-**MARDI 13 AOÛT 2041 — 12h45 — Abidjan (Le Plateau), lounge du Café de Rome**
+**MARDI 13 AOÛT 2041 — 15h30 — Abidjan (Cocody Deux-Plateaux), résidence hôtelière**
 
-À dix heures précises, la porte à double battant s'ouvre sur la grande salle de signature du cabinet. Maître Ismaël Gnamien s'avance pour vous accueillir d'une poignée de main chaleureuse. L'homme de quarante-sept ans mesure un mètre soixante-douze, avec une silhouette enveloppée et corpulente, une carrure imposante et un ventre rond qui remplit avec aisance un costume trois-pièces bleu nuit sur mesure en drap léger d'Italie. Son teint chocolat au lait unifié, son visage plein et jovial aux joues rondes et sa barbe courte poivre et sel soigneusement taillée encadrent un regard observateur et perçant derrière d'épaisses lunettes en écaille. D'une voix de stentor posée et courtoise, il vous invite à prendre place autour de la vaste table en teck massif donnant sur les eaux calmes de la lagune Ébrié : « Bienvenue à vous tous. Nous voici réunis pour l'acte fondateur d'une grande entreprise industrielle ivoirienne. »
+Dans l'atmosphère feutrée du Café de Rome, tu développes en détail tes exigences organisationnelles et humaines devant Mohamed Coulibaly et Mariam Brou. Tes instructions sont nettes, pragmatiques et dénuées de toute ambiguïté.
 
-Tu prends la parole avec gravité et calme. Tu rappelles l'ambition directrice de SOLEIL B2B CÔTE D'IVOIRE : devenir le partenaire énergétique de référence des entreprises et industries du pays par une excellence technique irréprochable et une discipline de gestion absolue. Tu soulignes que la confiance accordée à Mohamed Coulibaly pour la Direction Générale et à Mariam Brou pour la Direction Administrative et Financière repose sur des principes d'exigence, de transparence et de rentabilité. Les deux collaborateurs écoutent dans une attitude recueillie et respectueuse, acquiesçant à chacune de tes orientations.
+Tu précises en premier lieu la configuration des locaux : chaque direction — Direction Générale, Commerciale, Technique et DAF — doit disposer de son propre bureau, largement dimensionné pour accueillir confortablement les futurs équipiers de niveaux 3 et 4. Tu exiges une climatisation réversible puissante dans toutes les pièces sans exception : tu refuses formellement que tes salariés travaillent dans la touffeur équatoriale, estimant que la productivité et la dignité exigent des conditions matérielles impeccables. À l'inverse, tu leur indiques expressément de ne prévoir aucun bureau privatif pour toi-même : présent à Abidjan par intermittence, tu refuses d'immobiliser inutilement des mètres carrés qui doivent demeurer au service direct de l'exploitation.
 
-Maître Gnamien procède ensuite au contrôle méticuleux des pièces d'identité et à la lecture méthodique des actes constitutifs. Tout est parfaitement conforme à tes arbitrages :
-Les statuts de la SASU SOLEIL B2B CÔTE D'IVOIRE, dotée d'un capital social d'un million de francs CFA entièrement souscrit, consacrent ta position d'Associé Unique Fondateur détenteur de l'intégralité des parts et des décisions souveraines, tandis que Mohamed Coulibaly est officiellement désigné Président et Directeur Général, investi des pouvoirs de représentation légale dans le strict cadre du veto écrit obligatoire pour tout engagement dépassant dix millions de francs CFA.
-La convention de mandat social de Direction Générale lie formellement Mohamed Coulibaly à la société selon la formule convenue, assortie de ses objectifs de performance et d'une clause de non-concurrence de douze mois.
-Le contrat de travail de cadre de Direction Administrative et Financière engage Mariam Brou, avec prise d'effet dès la finalisation du dépôt légal.
+Tu imposes ensuite la création d'un vaste espace réfectoire aménagé en cantine d'entreprise. Ton raisonnement est à la fois social et opérationnel : offrir un déjeuner complet et équilibré chaque midi sur place allège les charges quotidiennes des équipes, en particulier pour les jeunes diplômés et techniciens de niveau 4 qui débutent dans la vie active. Pour assurer le fonctionnement de ce dispositif, tu ordonnes le recrutement d'une employée d'intendance et d'entretien polyvalente chargée du ménage quotidien des bureaux et du ravitaillement de la cantine en plats sains et boissons fraîches, à l'exclusion stricte de tout alcool. Tu demandes également l'installation dans l'espace de vie d'une trousse médicale d'urgence garnie de soins de première nécessité et d'antalgiques de base (paracétamol, ibuprofène) en libre accès.
 
-Les paraphes se succèdent sur chaque feuillet avant les signatures solennelles des cinq exemplaires originaux. Maître Gnamien y appose son sceau notarial officiel sous une chemise cartonnée verte. Il transmet aussitôt le dossier complet à son premier clerc pour acheminer la liasse au Guichet Unique du CEPICI, situé à quelques centaines de mètres au Plateau, avec l'assurance d'obtenir le récépissé de dépôt d'ici la fin de journée et l'immatriculation définitive au registre de commerce sous vingt-quatre à quarante-huit heures ouvrées.
+Sur le volet logistique et sécurité, tu tranches les priorités de démarrage : l'acquisition d'un véhicule utilitaire robuste ou d'un pickup de fonction est réservée en priorité à la Direction Technique pour ses missions de relevés de toitures, ses chantiers et le transport de son matériel de pointe ; pour les autres directions, les déplacements s'effectueront pour l'heure au réel sur budget validé. La sécurité physique de la villa sera assurée par un gardien de site dédié, recruté à temps plein.
 
-La séance s'achève vers onze heures quinze. Sur le palier du cabinet, tu invites Mohamed Coulibaly et Mariam Brou à poursuivre l'échange dans un cadre plus détendu afin de poser les jalons concrets de l'installation. Mariam accepte avec enthousiasme : le temps de caler les dernières transmissions de pièces avec le clerc de l'étude, elle vous rejoint dix minutes plus tard dans le salon feutré et climatisé du Café de Rome, à proximité immédiate des berges lagunaires.
+Pour les équipements professionnels, tu demandes à Coulibaly et Mariam Brou de négocier des devis groupés auprès de grossistes informatiques et de distributeurs de mobilier d'Abidjan : bureaux ergonomiques, rangements, postes informatiques fixes et ordinateurs portables performants pour tous les collaborateurs dont la fonction le justifie. Tu insistes pour que les démarches d'ouverture du compte bancaire d'entreprise soient engagées immédiatement après la délivrance du récépissé du CEPICI, afin que tu puisses y virer les fonds nécessaires : tu leur précises de ne faire aucun compromis sur la qualité du matériel, ton apport en compte courant d'associé couvrant l'ensemble de ces frais d'amorçage avant d'être remboursé par la société dès ses premiers bénéfices.
 
-Autour de cafés serrés et de jus de fruits frais commandés par Coulibaly, qui insiste avec déférence pour régler la note d'accueil de son Associé Unique, tu exposes avec précision les directives pour l'implantation du quartier général :
-Pour la villa qui abritera le siège de l'entreprise, tu exiges un cadre sécurisé et accessible dans un secteur résidentiel d'affaires réputé, avec cour clôturée, poste de garde, accès aisé pour les véhicules techniques, bureaux séparés pour les directions, salle de réunion soignée, espace sécurisé pour l'outillage de précision solaire et possibilité d'équiper la toiture d'une installation photovoltaïque pilote servant de démonstrateur commercial pour les prospects industriels. Coulibaly note chaque point avec minutie : il indique avoir déjà présélectionné trois opportunités à Cocody Deux-Plateaux Vallons et à la Riviera, pour des loyers professionnels oscillant entre un million cinq cent mille et deux millions deux cent mille francs CFA par mois. Il propose d'organiser les premières visites dès demain mercredi après-midi.
-Concernant le budget d'aménagement (parc informatique sécurisé, serveurs locaux, liaisons télécoms à haut débit et mobilier de bureau ergonomique), l'enveloppe globale de démarrage est estimée entre douze et quinze millions de francs CFA.
-Tu leur exposes alors ton mécanisme de financement : pour doter la société d'un outil de premier ordre sans affaiblir son fonds de roulement d'exploitation, tu effectueras un prêt exceptionnel personnel à l'entreprise sous forme d'apport en compte courant d'associé conventionné. Ce prêt sera intégralement remboursé par la société dès qu'elle dégagera une rentabilité pérenne et des flux nets de trésorerie, en priorité absolue sur le prélèvement des dividendes, pour lesquels tu mettras en place un modèle de régulation financière automatisé.
-Mariam Brou valide immédiatement la pertinence de ce montage : elle confirme qu'en droit des affaires et en comptabilité SYSCOHADA, le remboursement d'un compte courant d'associé créditeur s'effectue sans aucune retenue fiscale pour l'entreprise, ce qui préserve la santé financière de la société par rapport à une remontée hâtive de dividendes. Mohamed Coulibaly salue la rigueur de cette vision patronale qui combine investissement massif et protection stricte de la trésorerie.
+Tu conclus en leur confiant l'entière autonomie opérationnelle pour concrétiser ces chantiers sans toi : cela te permettra d'évaluer leur capacité de pilotage en conditions réelles, tout en maintenant rigoureusement le canal de reporting écrit institutionnel (points d'étape du mardi à dix-sept heures et synthèses du vendredi à midi).
 
-Il est 12h45.
+Vers treize heures quarante-cinq, après avoir salué tes deux directeurs, tu prends un véhicule climatisé pour regagner Cocody Deux-Plateaux via le pont Henri Konan Bédié sous une belle lumière d'après-midi. À quatorze heures vingt, tu t'installes au calme dans ton appartement pour consigner ces directives dans ton outil de gestion et charger ton pôle financier virtuel d'établir une contre-expertise budgétaire indépendante.
+
+À quinze heures quinze, le rapport d'analyse budgétaire est formalisé par le pôle financier virtuel :
+L'enveloppe globale d'installation matérielle (CAPEX de démarrage) est modélisée à environ quarante-trois millions de francs CFA (soit environ soixante-cinq mille cinq cent soixante euros), répartie entre la garantie locative de la villa (neuf millions de francs CFA pour trois mois de caution et deux mois d'avance), la climatisation Inverter multi-split et les cloisons (six millions et demi de francs CFA), le mobilier de bureau et de cantine (quatre millions huit cent mille francs CFA), le parc informatique et les serveurs sécurisés (huit millions et demi de francs CFA), le pickup utilitaire révisé de la Direction Technique (onze millions de francs CFA) et l'outillage de précision solaire avec la pharmacie (trois millions deux cent mille francs CFA).
+Les charges d'exploitation récurrentes d'intendance (salaires de l'employée polyvalente et du gardien, approvisionnement des déjeuners sains de l'équipe) s'élèvent à environ neuf cent cinquante mille francs CFA par mois, constituant un levier de motivation remarquable pour un coût maîtrisé.
+Le document confirme que le remboursement intégral de ce prêt en compte courant d'associé constituera la priorité absolue dès l'apparition des premiers excédents de trésorerie, bénéficiant d'une neutralité fiscale totale en droit OHADA, avant toute mise en distribution de dividendes soumise au triple verrou de solvabilité modélisé par ton système.
+
+Il est 15h30.
 
 ---
 
 **Réponses attendues**
 
-- Arbitrage sur le planning de l'après-midi : déjeuner de travail avec Mohamed Coulibaly et Mariam Brou pour approfondir les profils de l'équipe technique, ou pause personnelle avant le point d'étape de fin de journée sur le récépissé du CEPICI.
-- Calendrier des visites de villas : valides-tu le créneau de demain mercredi après-midi proposé par Coulibaly pour inspecter les sites cibles à Cocody ?
+- Validation de l'étude de cadrage budgétaire d'installation (quarante-trois millions de francs CFA en compte courant d'associé) comme grille de référence pour analyser les futurs devis de Mohamed Coulibaly et Mariam Brou.
 
 **À faire / à fournir avant le tour suivant**
 
-- Suivi de la délivrance du récépissé de dépôt au CEPICI par le clerc de l'étude notariale.
-- Définition des montants exacts de l'apport en compte courant d'associé dès que les devis de mobilier et d'informatique seront chiffrés.
+- Attente du premier point d'étape officiel transmis par Mohamed Coulibaly à dix-sept heures (avancement du dépôt CEPICI et sélection des villas pour les visites de demain).
+- Repos ou séance d'entraînement physique d'entretien à la résidence avant la soirée.
 
 **Quêtes secondaires**
 
-- Poursuite de la réflexion sur le module de régulation financière et de distribution conditionnelle des dividendes dans l'application de gestion.
-- Sourcing de la Direction Commerciale toujours suivi par Coulibaly.
+- Suivi de la prise de contact de Mariam Brou avec les établissements bancaires de la place (BICICI, Société Générale, SIB) pour l'ouverture du compte institutionnel.
+- Recherche active de la Direction Commerciale par Coulibaly.
 
 Que veux-tu faire ?
