@@ -61,3 +61,6 @@
 - **Prix d'achat de la maison** : 180 000 € en 2034 pour trois chambres à Audun-le-Tiche, alors qu'une maison ancienne s'y vend
   ≈ 2 600 €/m² en 2026 (PX015) ; cohérent seulement pour une petite maison de mineur d'environ 75 m², achetée à rénover. Surface
   non fixée : question facultative (etat/fils-ouverts.md, C2).
+
+## Tour 69 � 28/10/2026
+- **Faux positifs controle_coherence.py (jours de la semaine)** : 4 alertes sur les dates 05/08, 07/08, 08/08 et 12/08 dans etat/relais.md et etat/relais-notes.md. Le verificateur interprete les dates JJ/MM sans annee et les compare a 2040 (annee par defaut). En 2041 : 05/08 = lundi, 07/08 = mercredi, 08/08 = jeudi, 12/08 = lundi � tous corrects. Faux positifs non bloquants, a ignorer. Meme comportement connu sur les journaux (20 avertissements recurrents depuis tours precedents).
