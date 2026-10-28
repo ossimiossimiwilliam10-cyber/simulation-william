@@ -55,7 +55,7 @@
 - **Lien avec William** : aucun (whatsapp)
 - **Objectif** : faire croître son bureau d'études avec des clients internationaux ; **souci** : voisin bruyant ; **foyer** : en couple, avec enfants
 - **Secret (moteur seulement)** : cherche un autre travail en cachette (gravité 1)
-- **Horaires** : règle « bureau », fuseau abidjan, décalage +11 min ; travail 09:11-17:41 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:41-07:11
+- **Horaires** : règle « commerce_abidjan », fuseau abidjan, décalage +11 min ; travail 08:41-19:11 (lun, mar, mer, jeu, ven, sam), trajet 30 min ; sommeil 23:11-06:11
 - **Derniers événements** : 19/07 petit_evenement (querelle courte); 24/07 sans_histoire; 02/08 sans_histoire; 11/08 sans_histoire; 18/08 sans_histoire
 
 ### Nadège Kouamé (répondant à l'annonce)
@@ -69,7 +69,7 @@
 - **Lien avec William** : aucun (whatsapp)
 - **Objectif** : obtenir un poste de direction dans une grande entreprise ; **souci** : dettes de jeu ; **foyer** : en couple, enfants partis
 - **Secret (moteur seulement)** : —
-- **Horaires** : règle « bureau », fuseau abidjan, décalage -7 min ; travail 08:53-17:23 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:23-06:53
+- **Horaires** : règle « commerce_abidjan », fuseau abidjan, décalage -7 min ; travail 08:23-18:53 (lun, mar, mer, jeu, sam, dim), trajet 30 min ; sommeil 22:53-05:53
 - **Derniers événements** : 20/07 sans_histoire; 26/07 petit_evenement (dépense imprévue (frais de scolarité)); 01/08 sans_histoire; 09/08 petit_evenement (querelle courte); 12/08 petit_evenement (croisement, visite ou conversation de voisinage)
 
 ### Sandrine Cissé (répondant à l'annonce)
@@ -83,7 +83,7 @@
 - **Lien avec William** : aucun (whatsapp)
 - **Objectif** : se faire une place dans le milieu (club, lycée, quartier) ; **souci** : voiture qui lâche, pas d'argent pour la remplacer ; **foyer** : en couple, avec enfants
 - **Secret (moteur seulement)** : —
-- **Horaires** : règle « bureau », fuseau abidjan, décalage +18 min ; travail 09:18-17:48 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:48-07:18
+- **Horaires** : règle « commerce_abidjan », fuseau abidjan, décalage +18 min ; travail 08:48-19:18 (lun, mar, mer, ven, sam, dim), trajet 30 min ; sommeil 23:18-06:18
 - **Derniers événements** : 15/07 sans_histoire; 25/07 coup_dur (maladie ou accident de son enfant); 01/08 sans_histoire; 07/08 sans_histoire; 16/08 petit_evenement (querelle courte)
 
 ### Franck Konan (répondant à l'annonce)
@@ -153,7 +153,7 @@
 - **Lien avec William** : aucun (whatsapp)
 - **Objectif** : changer de métier ; **souci** : contrat de travail qui se termine bientôt ; **foyer** : en couple, avec enfants
 - **Secret (moteur seulement)** : —
-- **Horaires** : règle « bureau », fuseau abidjan, décalage -5 min ; travail 08:55-17:25 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:25-06:55
+- **Horaires** : règle « bureau_abidjan », fuseau abidjan, décalage -5 min ; travail 07:55-17:25 (lun, mar, mer, jeu, ven), trajet 50 min ; sommeil 23:25-05:55
 - **Derniers événements** : 24/07 sans_histoire; 02/08 sans_histoire; 08/08 sans_histoire; 16/08 petit_evenement (service rendu ou reçu)
 
 ### Landry Aka (répondant à l'annonce)
@@ -167,7 +167,7 @@
 - **Lien avec William** : aucun (whatsapp)
 - **Objectif** : mettre de l'argent de côté pour ses vieux jours ; **souci** : mal de dos chronique ; **foyer** : vit seul(e)
 - **Secret (moteur seulement)** : —
-- **Horaires** : règle « bureau », fuseau abidjan, décalage +12 min ; travail 09:12-17:42 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:42-07:12
+- **Horaires** : règle « bureau_abidjan », fuseau abidjan, décalage +12 min ; travail 08:12-17:42 (lun, mar, mer, jeu, ven), trajet 50 min ; sommeil 23:42-06:12
 - **Derniers événements** : 26/07 petit_evenement (croisement, visite ou conversation de voisinage); 04/08 sans_histoire; 08/08 sans_histoire; 16/08 sans_histoire
 
 ### Aboubacar Kouassi (répondant à l'annonce)
@@ -181,14 +181,14 @@
 - **Lien avec William** : aucun (whatsapp)
 - **Objectif** : faire croître son bureau d'études avec des clients internationaux ; **souci** : coupures de courant et facture d'électricité lourde pour son activité ; **foyer** : en couple, avec enfants
 - **Secret (moteur seulement)** : —
-- **Horaires** : règle « bureau », fuseau abidjan, décalage +20 min ; travail 09:20-17:50 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:50-07:20
+- **Horaires** : règle « commerce_abidjan », fuseau abidjan, décalage +20 min ; travail 08:50-19:20 (lun, mer, jeu, ven, sam, dim), trajet 30 min ; sommeil 23:20-06:20
 - **Derniers événements** : 27/07 sans_histoire; 03/08 sans_histoire; 06/08 sans_histoire; 14/08 avancee_objectif (rendez-vous obtenu ou tenu pour son objectif : faire croître son bureau d'études avec des clients internationaux)
 
 ### Mariam Brou (répondant à l'annonce)
 - **Lien avec William** : aucun (whatsapp)
 - **Objectif** : changer de métier ; **souci** : embouteillages et trajets de deux heures entre Abidjan et son travail ; **foyer** : en couple, avec enfants
 - **Secret (moteur seulement)** : —
-- **Horaires** : règle « bureau », fuseau abidjan, décalage -26 min ; travail 08:34-17:04 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:04-06:34
+- **Horaires** : règle « bureau_abidjan », fuseau abidjan, décalage -26 min ; travail 07:34-17:04 (lun, mar, mer, jeu, ven), trajet 50 min ; sommeil 23:04-05:34
 - **Derniers événements** : 27/07 sans_histoire; 03/08 sans_histoire; 06/08 sans_histoire; 16/08 petit_evenement (nouvelle de la famille ou des amis)
 
 ### Damien Yao (répondant à l'annonce)
@@ -202,21 +202,21 @@
 - **Lien avec William** : aucun (whatsapp)
 - **Objectif** : passer plus de temps avec ses enfants ; **souci** : clients qui paient avec des mois de retard ; **foyer** : en couple, avec enfants
 - **Secret (moteur seulement)** : vote pour un parti qu'il n'avoue pas (gravité 1)
-- **Horaires** : règle « bureau », fuseau abidjan, décalage -9 min ; travail 08:51-17:21 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:21-06:51
+- **Horaires** : règle « bureau_abidjan », fuseau abidjan, décalage -9 min ; travail 07:51-17:21 (lun, mar, mer, jeu, ven), trajet 50 min ; sommeil 23:21-05:51
 - **Derniers événements** : 25/07 avancee_objectif (somme reçue, économisée ou investie pour son objectif : passer plus de temps avec ses enfants); 01/08 avancee_objectif (décision prise pour son objectif : passer plus de temps avec ses enfants); 09/08 sans_histoire; 17/08 sans_histoire
 
 ### Issouf Tano (avocat(e) d'affaires à Abidjan (cabinet en liste restreinte))
 - **Lien avec William** : aucun (whatsapp)
 - **Objectif** : trouver un partenaire européen pour financer un projet ; **souci** : tension avec la belle-famille ; **foyer** : en couple, enfants partis
 - **Secret (moteur seulement)** : doit de l'argent à une tontine ou à un prêteur (gravité 1)
-- **Horaires** : règle « bureau », fuseau abidjan, décalage -9 min ; travail 08:51-17:21 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:21-06:51
+- **Horaires** : règle « bureau_abidjan », fuseau abidjan, décalage -9 min ; travail 07:51-17:21 (lun, mar, mer, jeu, ven), trajet 50 min ; sommeil 23:21-05:51
 - **Derniers événements** : 26/07 coup_dur (maladie ou accident de son enfant); 04/08 sans_histoire; 07/08 sans_histoire; 15/08 petit_evenement (nouvelle de la famille ou des amis)
 
 ### Ismaël Gnamien (avocat(e) d'affaires à Abidjan (cabinet en liste restreinte))
 - **Lien avec William** : aucun (whatsapp)
 - **Objectif** : changer de métier ; **souci** : voisin bruyant ; **foyer** : en couple, sans enfant
 - **Secret (moteur seulement)** : a fait une demande de crédit refusée (gravité 1)
-- **Horaires** : règle « bureau », fuseau abidjan, décalage +22 min ; travail 09:22-17:52 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:52-07:22
+- **Horaires** : règle « bureau_abidjan », fuseau abidjan, décalage +22 min ; travail 08:22-17:52 (lun, mar, mer, jeu, ven), trajet 50 min ; sommeil 23:52-06:22
 - **Derniers événements** : 22/07 avancee_objectif (démarche pour son objectif : changer de métier); 01/08 sans_histoire; 07/08 sans_histoire; 13/08 petit_evenement (dépense imprévue (réparation du téléphone))
 
 ### Kady Kouadio (étudiante en master à l'UFHB)
@@ -224,4 +224,11 @@
 - **Objectif** : préparer une compétition ou un examen ; **souci** : contrat de travail qui se termine bientôt ; **foyer** : vit chez ses parents
 - **Secret (moteur seulement)** : —
 - **Horaires** : règle « etudiant », fuseau abidjan, décalage -6 min ; travail 08:54-16:54 (lun, mar, mer, jeu, ven), trajet 30 min ; sommeil 00:24-08:24
+- **Derniers événements** : —
+
+### Fatoumata Gnagne (étudiante en master d'économie UFHB)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : trouver quelqu'un et se poser ; **souci** : embouteillages et trajets de deux heures entre Abidjan et son travail ; **foyer** : vit seul(e)
+- **Secret (moteur seulement)** : cherche un autre travail en cachette (gravité 1)
+- **Horaires** : règle « etudiant », fuseau abidjan, décalage +28 min ; travail 09:28-17:28 (lun, mar, mer, jeu, ven), trajet 30 min ; sommeil 00:58-08:58
 - **Derniers événements** : —

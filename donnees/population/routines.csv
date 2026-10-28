@@ -16,4 +16,9 @@ enseignant;enseignant|professeur|instituteur|institutrice;luxembourg;lun,mar,mer
 aeroport;enregistrement|aéroport|bagagiste|steward|hôtesse|sûreté;luxembourg;5/7;05:00-13:30;30;21:30-04:00;;Postes du matin des agents d'escale (rotations matin et soir · matin retenu par défaut, estimation);
 sante_cabinet;médecin|pharmacien|kiné|dentiste;*;lun,mar,mer,jeu,ven;08:00-18:30;20;23:00-06:30;;Cabinets et officines (estimation);
 sans_travail;retraité|retraitée|sans emploi|au foyer|chômeu;*;;;0;23:00-07:00;;Pas d'horaires de travail (estimation);
+bureau_abidjan;cadre|directeu|avocat|notaire|comptable|ingénieur|banqu|consultant;abidjan;lun,mar,mer,jeu,ven;08:00-17:30;50;23:30-06:00;;Horaires de bureau d'affaires au Plateau et Cocody;
+solaire_technique_ci;technicien|ingénieur solaire|électricien|monteur|chantier;abidjan;lun,mar,mer,jeu,ven,sam;07:30-16:30;45;22:30-05:30;;Chantiers et installations industrielles de jour;
+commerce_abidjan;commerçant|vendeu|boutique|marché;abidjan;6/7;08:30-19:00;30;23:00-06:00;;Commerces et boutiques de quartier;
+etudiant_abidjan;étudiant|étudiante|master;abidjan;lun,mar,mer,jeu,ven;08:00-16:00;40;00:00-06:30;oui;Campus UFHB et grandes écoles;
+service_maquis_abidjan;serveu|cuisini|restaurat|gérant maquis;abidjan;6/7;11:00-23:30;30;01:00-08:30;;Restauration et maquis de Cocody et Yopougon;
 bureau;.*;*;lun,mar,mer,jeu,ven;09:00-17:30;40;23:30-07:00;;Horaires de bureau par défaut (estimation);

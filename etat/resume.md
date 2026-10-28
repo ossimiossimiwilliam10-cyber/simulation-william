@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 28/10/2026 14:12 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 28/10/2026 14:38 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mercredi 14/08/2041 12:30 (abidjan, UTC+0)
+## Horloge : mercredi 14/08/2041 18:30 (abidjan, UTC+0)
 - **Lieu de William** : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-- **Heure dans les autres lieux** : lisbonne 13:30 ; luxembourg 14:30 ; mindelo 11:30 ; casablanca 13:30 ; douala 13:30 ; addis 15:30 ; manille 20:30 ; paris 14:30 ; seoul 21:30 ; bresil 09:30
+- **Heure dans les autres lieux** : lisbonne 19:30 ; luxembourg 20:30 ; mindelo 17:30 ; casablanca 19:30 ; douala 19:30 ; addis 21:30 ; manille 02:30 ; paris 20:30 ; seoul 03:30 ; bresil 15:30
 - **En attente de William** :
-  - Validation du compte-rendu de visite de la villa des Vallons et orientation pour l'après-midi du mercredi 14 août
+  - Suite à donner au contact de Fatoumata Gnagne et confirmation des modalités de signature du bail vendredi
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 355,59 €**
@@ -37,7 +37,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-08-14.md, 6 dernières lignes)
-> # Mercredi 14 août 2041 — univers 3, 30e jour
-> - **00h00-12h30** (tour n° 85) : 21h30-12h30 (mercredi 14/08) : William délègue la visite de la villa des Vallons à Coulibaly et Mariam Brou ; expédition notariée certifiée conforme mise à disposition dans l'application Fichiers ; matinée à la plage océanique de Grand-Bassam (contemplation de l'horizon atlantique, lucidité face à sa solitude d'homme sans compagne ni famille à 36 ans, aucun abordag
-> - Tirages du tour : jet « femme aborde William sur la plage » → NON (88,18).
-> - Tour en cours à 12h30, en attente de William : **Validation du compte-rendu de visite de la villa des Vallons et orientation pour l'après-midi du mercredi 14 août**.
+> - **12h30-18h30** (tour n° 86) : validation formelle de la villa duplex des Vallons via l'application Gestion ; feu vert pour signer le bail dès délivrance du RCCM ; tableau de bord financier activé (CCA 65 560 €, trésorerie, suivi OPEX/CAPEX) ; veille économique : signaux faibles captés sur les coupures de courant CIE et la tension locative des bureaux à Cocody ; après-midi sportive au Sofitel Ab
+> - Tirages du tour : T17 « échange au club de sport Sofitel Hôtel Ivoire » pour Fatoumata Gnagne → jet 75.5 : reciproque (intérêt réel, numéro transmis) ; paiement K004 Visa Premier 61.00 € autorisé.
+> - Tour en cours à 18h30, en attente de William : **Suite à donner au contact de Fatoumata Gnagne et confirmation des modalités de signature du bail vendredi**.
+> - **12h30-18h30** (tour n° 86) : voir le texte exact du tour (journal/tours/).
+> - Tirages du tour : T17 Fatoumata → reciproque (75,54).
+> - Tour en cours à 18h30, en attente de William : **Suite à donner au contact de Fatoumata Gnagne et confirmation des modalités de signature du bail vendredi**.
