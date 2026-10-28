@@ -1,78 +1,75 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 28/10/2026 01:34 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
+# Relais de la simulation — briefing généré le 28/10/2026 11:01 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : lundi 5 août 2041, 09h00 (luxembourg) ; tour n° 68
+- Horloge : lundi 5 août 2041, 23h30 (luxembourg) ; tour n° 69
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Revue du lundi n° 3, directives pour la semaine et séance de 16h au Minett Combat Club
+- En attente de William : Decisions de la semaine avant mission Abidjan (J-7) ; eventuellement relancer Coulibaly sur DC
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 68 ; horloge 02/08/2041 20:00 -> 05/08/2041 09:00 ; enregistré le 28/10/2026 01:34 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 69 ; horloge 05/08/2041 23:30 -> 05/08/2041 23:30 ; enregistré le 28/10/2026 11:01 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Alors oui, je donne mon feu vert sur la candidature d'Eric Kofi Yao pour la direction technique. Donc on peut finaliser son recrutement. Et oui, je confirme son rejet pour concernant Stéphane Bamba. Mohamed doit donc chercher un autre profil. Bah, je réponds à Mariana que oui, bah, que je serai là. Et qu'on pourrait même se faire quelque chose après l'entraînement éventuellement. Si elle est libre, bien sûr.
+> Revue du lundi n3 confirmee, depart pour Esch-sur-Alzette a 15h30 derniere seance MMA, rassemblement documents, question monde vivant
 
 ## Texte envoyé au joueur
 
-**LUNDI 5 AOÛT 2041 — 09h00 — Audun-le-Tiche, chez toi**
+**LUNDI 5 AOÛT 2041 — 23h30 — Audun-le-Tiche, chez toi**
 
-Le premier week-end d'août consolide l'édifice opérationnel de Soleil B2B tout en maintenant ton rythme personnel et sportif.
+Dictée : « H sur AZ » = Esch-sur-Alzette ; « Mohamed Koulibaly » = Mohamed Coulibaly.
 
-Le vendredi 2 août à 20h05, posé dans ton salon à Audun-le-Tiche après ta séance de combat, tu réponds au message WhatsApp de Mariana Oliveira. Tu la remercies pour l'engagement du round de sol partagé dans l'après-midi, lui confirmes ta présence pour la séance du lundi 5 août à 16h00 et lui proposes d'aller boire un verre ou de manger quelque chose après l'entraînement si elle est libre. À 20h48, une notification vibre sur ton téléphone :
-« Pas de souci pour le message, c'était une bonne séance oui ! Ça marche pour lundi 16h, on se refera des rounds. Pour le verre je pourrai pas après l'entraînement, mon copain m'attend direct après le club, mais à lundi en tout cas ! »
-L'échange reste franc, direct et sans détour.
+La matinée commence sous un franc soleil, la lumière entrant en lames par les fentes du volet roulant. Café noir, flocons d'avoine, un rapide tour sur l'application Spuerkeess : tout est en ordre. Tu sors les documents de voyage un par un — passeport, attestation SNEDAI e-visa biométrique (réf. CI-2041-88419B), carnet de vaccination fièvre jaune, permis de conduire international, billets Air France AF1233/AF702 du 12 août, confirmation de la résidence Cocody Deux-Plateaux — et tu les glisses dans la pochette de voyage que tu poses sur le bureau. J-7. La liste est complète.
 
-Dix minutes plus tôt, à 20h15, le pôle virtuel de Direction Générale a formalisé tes arbitrages présidentiels dans un courriel officiel adressé à Mohamed Coulibaly (`2041-08-02_Courriel_Mohamed_Coulibaly_Validation_DT_Yao_et_rejet_DC_Bamba.pdf`, D038, classé dans `documents_william/`) :
-1. **Direction Technique** : Validation sans réserve de la candidature de Monsieur Éric Koffi Yao (note de 84/100, supérieure au seuil d'exigence de 80/100). Mandat est donné à Mohamed pour finaliser le contrat cadre Niveau 2 (rémunération nette de 1 600 000 FCFA par mois, prise de fonction début septembre et présence obligatoire à Abidjan durant la mission du 13 au 25 août pour les réunions de cadrage et visites de toitures industrielles).
-2. **Direction Commerciale** : Rejet ferme et définitif de la candidature de Monsieur Stéphane Bamba (note de 74/100, inférieure au seuil éliminatoire de 80/100), motivé par l'absence d'expertise démontrée sur les montages de contrats PPA solaires et les ventes d'autoproduction industrielle. Instruction expresse est donnée de relancer sans délai le sourcing sur ce poste stratégique.
+Le reste de la matinée passe entre un peu de lecture et quelques vérifications de dossiers sur l'ordinateur. Mohamed Coulibaly n'a rien transmis de nouveau pour la Direction Commerciale : le sourcing tourne, mais aucun profil n'a encore passé la barre. Tu déjeunes léger, pâtes froides et tomates, en regardant les informations.
 
-Le samedi 3 août débute sous un ciel ensoleillé à Audun-le-Tiche (25 °C au plus fort du jour). C'est une journée de repos complet sur le plan sportif (I1). À 09h30 (07h30 heure d'Abidjan), Mohamed Coulibaly accuse réception de tes instructions par courriel officiel (`2041-08-03_Courriel_Mohamed_Coulibaly_Accuse_instructions_DT_et_DC.pdf`, classé dans `courriels/`) :
-« Monsieur le Président,
-J'ai bien pris note de votre décision favorable concernant la candidature de Monsieur Éric Koffi Yao (note de 84/100). J'ai pris contact avec lui ce matin même afin de lui confirmer son admission et de caler les termes de son engagement. Il m'a réitéré son enthousiasme pour le projet et son parfait accord avec la grille salariale de Niveau 2 (1 600 000 FCFA net). Il confirme également sa présence assidue à nos côtés à Abidjan entre le 13 et le 25 août pour préparer la rentrée opérationnelle.
-Concernant la Direction Commerciale, je prends acte du rejet de Stéphane Bamba. Vos exigences sur la maîtrise contractuelle du modèle PPA sont parfaitement légitimes. J'ai immédiatement réactivé mes relais professionnels ainsi qu'un cabinet de chasse abidjanais pour cibler des profils issus de développeurs solaires reconnus. Je vous soumettrai de nouveaux dossiers dès qu'ils répondront rigoureusement à notre filtre supérieur à 80/100. »
+À 15h30 tu sors. Le soleil tape sur le capot de la voiture électrique. La route vers Esch-sur-Alzette est fluide, le chantier A4 déjà derrière toi. Tu gares la voiture un peu avant 16h00 et tu pousses la porte du Minett Combat Club pour la dernière fois avant la fermeture estivale.
 
-Tu consacres le reste de ton samedi à la lecture, à l'intendance de la maison et au pointage minutieux de tes affaires pour le voyage (J-9 avant le vol Air France). À 20h00, le **Rapport d'activité quotidien n° 15 du Directeur Général virtuel** est déposé dans ton espace documentaire (`2041-08-03_Rapport_quotidien_Directeur_General_virtuel.pdf`, D039, A106 clos), attestant de la parfaite conformité de la journée et d'une consommation API de 0,35 €.
+La salle est presque vide. Il y a Thiago Alves qui t'accueille en ajustant ses gants de focus, Arthur Kieffer qui finit d'enrouler ses poignets dans un coin, Mariana Oliveira déjà échauffée, qui frappe de petits jabs dans le vide en attendant que la séance commence. C'est une journée ordinaire pour elle — ni plus ni moins — et ça se voit dans sa façon de se préparer, efficace, concentrée, sans détour.
 
-Le dimanche 4 août, tu te lèves à 06h45. À 07h45, tu enfiles tes baskets pour ton footing d'entretien estival de 5 km sur les hauteurs boisées d'Audun-le-Tiche (I1, 26 minutes, rythme régulier, excellente aisance cardiorespiratoire). Après une bonne douche et un petit-déjeuner complet, tu vérifies une nouvelle fois tes pièces de voyage : passeport français en cours de validité, attestation de pré-enrôlement biométrique e-Visa SNEDAI rectifiée (dossier CI-2041-88419B), billets Air France AF1233/AF702 et réservation confirmée de la résidence F2 sécurisée à Cocody Deux-Plateaux avec groupe électrogène permanent (J-8). 
+La séance commence. Travail de pied, cage, grappling au sol. Mariana est sérieuse et rapide, elle tient les rounds sans se laisser faire. Arthur fait ce qu'il a à faire, ni plus ni moins. Thiago coache depuis le bord du tapis, il corrige une position de garde, indique une transition. À un moment, entre deux rounds, il s'approche de toi.
 
-À 20h00, le **Rapport d'activité quotidien n° 16 du Directeur Général virtuel** (`2041-08-04_Rapport_quotidien_Directeur_General_virtuel.pdf`, D040, A107 clos, consommation API de 0,25 €) clôture la semaine ISO 31, dont la synthèse détaillée est archivée (`memoire/semaine-2041-W31.md`). Les contrôles dominicaux confirment l'absence totale de fuite interne ou d'escalade externe.
+— T'as entendu pour Marco ? dit-il à voix basse, en regardant vers le couloir. Son contrat a été pas renouvelé. L'autre club de Differdange lui a proposé quelque chose mais il n'est pas sûr. Moi je m'en doutais, les derniers mois... Les heures avaient changé sans explication.
 
-Ce lundi 5 août, tes flux bancaires mensuels programmés s'exécutent dès 06h00 sur ton compte courant Spuerkeess Zebra Premium :
-- Échéance n° 84 du prêt immobilier PR1 de ta maison d'Audun-le-Tiche : -949,28 € (comprenant 626,84 € de capital remboursé, 299,31 € d'intérêts et 23,13 € d'assurance emprunteur). Le capital restant dû s'abaisse à 134 060,86 €, tandis que la part nette amortie de ta maison progresse à 47 433,48 € ;
-- Assurance habitation propriétaire occupant (E007) : -45,00 € ;
-- Assurance tous risques véhicule électrique (E010) : -107,00 €.
-Le montant total débité est de 1 101,28 €. Ton compte courant affiche désormais un solde net disponible de 10 098,59 €, garantissant une trésorerie confortable avant le débit différé de ta carte Visa Premier prévu le 7 août (1 358,00 € pour les billets et le visa).
+Il s'arrête là, hausse les épaules, reprend ses focus. Il n'en dit pas plus.
 
-À 09h00, la **🔄 Revue du lundi n° 3 de l'univers 3** est accessible dans ton espace de travail (`memoire/revue-lundi-2041-08-05.md`) :
-- **Bilan opérationnel W31** : Statuts SASU et convention de mandat DG verrouillés chez Me Gnamien pour la signature notariée du 13 août ; DAF Mariam Brou qualifiée ; Direction Technique attribuée à Éric Koffi Yao (1,6 M FCFA net) ; sourcing Direction Commerciale relancé sous filtre strict (> 80/100) ; logistique de mission parée ; budget API du mois d'août consommé à hauteur de 1,00 € sur 50,00 €.
-- **Aléas de la semaine** : Le tirage hebdomadaire signale un aléa administratif bénin (A09, coquille ou retard de traitement documentaire) programmé pour le jeudi 8 août au matin.
-- **Programme du jour** : Séance de 16h00 au Minett Combat Club avec Thiago Alves, Arthur Kieffer et Mariana Oliveira (ultime entraînement avant la fermeture annuelle du club du 6 au 20 août, A003).
+La séance se clôt à 17h45. Thiago ferme les lumières dans la grande salle, dit au revoir à tout le monde d'un signe de tête. Mariana enfile sa veste, lance un « Bonne mission si je vous vois pas avant ! » dans ta direction et part sans tarder — son copain l'attend. Arthur tord sa serviette, range son sac, te salue de la main en sortant. Tu es le dernier à sortir.
+
+Le retour est calme. À Audun-le-Tiche, tu manges rapidement, tu ranges les documents de voyage dans la pochette, et tu t'installes devant l'ordinateur.
+
+À 20h00, le Rapport d'activité quotidien n° 17 du Directeur Général virtuel atterrit dans ta messagerie. Il couvre la journée du lundi 5 août 2041 et fait le point sur les six pôles : RH (Éric Koffi Yao en cours de finalisation contractuelle, sourcing DC toujours en cours, Mariam Brou en attente du 13 août), logistique mission Abidjan (J-7, tout nominal), finances (compte courant 10 098,59 EUR, Visa Premier -1 358,00 EUR prévu le 07/08), juridique (Cabinet Gnamien prêt pour le 13 août, dossier MENJE prêt pour la rentrée), risques (contrôles négatifs, secret préservé) et consommation API (1,40 EUR cumulé sur plafond de 50,00 EUR). Rien qui appelle une réponse immédiate.
+
+La soirée s'achève sans bruit. Demain il pleuvra.
 
 ---
 
-### Réponses attendues
-- **Validation de la Revue du lundi n° 3** : Confirmer la prise de connaissance du bilan hebdomadaire, des débits bancaires du 5 août et des priorités de la semaine W32.
-- **Séance d'entraînement au Minett Combat Club (16h00)** : Confirmer ton départ pour Esch-sur-Alzette à 15h30 pour la dernière séance de MMA et grappling avant la fermeture annuelle estivale du club.
+**Réponses attendues**
 
-### À faire / à fournir avant le tour suivant
-- **Préparatifs ultimes de la mission d'Abidjan (J-7)** : Rassembler les documents physiques à emporter (passeport, imprimé SNEDAI, permis de conduire international, carnet de vaccination fièvre jaune).
-- **Suivi des candidatures commerciales** : Rester attentif aux transmissions de profils B2B qualifiés par Mohamed Coulibaly via le canal institutionnel.
+Aucune réponse urgente ce soir.
 
-### Quêtes secondaires
-- **MENJE (Article 14)** : Dossier de régularisation en quatre points finalisé, en attente de transmission hiérarchique au lycée de Dudelange à la rentrée scolaire.
-- **Échéancier bancaire** : Débit différé des dépenses de voyage sur la carte Visa Premier (1 358,00 €) programmé pour le mercredi 7 août.
+**À faire / à fournir avant le tour suivant**
+
+- Débit Visa Premier -1 358,00 EUR prévu le mercredi 7 août à 06h00.
+- Jeudi 8 août au matin : aléa administratif bénin prévu (non connu de toi).
+- Lundi 12 août 06h50 : départ Luxembourg-Findel vol AF1233. Documents prêts et rangés.
+- Décision ouverte : souhaites-tu relancer Mohamed Coulibaly sur la Direction Commerciale avant ton départ, ou attendre qu'il te transmette de lui-même de nouveaux profils ?
+
+**Quêtes secondaires**
+
+- Le dossier MENJE (article 14) est prêt pour la rentrée ; il n'a pas encore été transmis.
+- La réponse du MENJE à ton courriel du 16 juillet reste attendue (aucun signe à ce stade).
+- L'application Gestion et sa messagerie de dépôt sont notées comme « à faire vivre » dans les fils ouverts.
 
 Que veux-tu faire ?
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
-- A108 Mon 05/08 20:00 (luxembourg) | Directeur général virtuel : Rapport quotidien n° 17 à William [prevu]
+- rien
 
 ## Rituels du moteur dus (rituels.py)
 - rien
@@ -179,8 +176,8 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : master ; master : 0bc98c6 ; avance 0, retard 0
-- worktree simulation-william (ICI) : branche master ; 0 commit(s) absents de master ; 31 fichier(s) modifié(s)
+- branche courante : master ; master : ab1ea01 ; avance 0, retard 0
+- worktree simulation-william (ICI) : branche master ; 0 commit(s) absents de master ; 25 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree eloquent-mirzakhani-73acb9 : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)

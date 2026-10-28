@@ -198,3 +198,4 @@ if __name__ == "__main__":
     generer_courriel_mohamed_coulibaly_accuse()
     generer_rapport_quotidien_15()
     generer_rapport_quotidien_16()
+

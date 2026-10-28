@@ -4237,3 +4237,15 @@ Effets à jouer : A09 (jeudi 08/08 (matin)) : Correction longue, agacement
 - Tirage [T4] « affaire_projet_ci_art14 : escalade externe, semaine du 04/08 » : aucune 99.7 / frontal_escalade 0.3 ; modificateurs : aucun ; jet  44.1 → **aucune** (enregistré le 28/10/2026 01:27 heure machine)
 
 - Tirage [T5] « affaire_projet_ci_art14 : fuite, semaine du 04/08 » : fuite_externe 1 / fuite_interne 3 / aucune 96 ; modificateurs : aucun ; jet  77.8 → **aucune** (enregistré le 28/10/2026 01:27 heure machine)
+
+- Tirage [T11] « Journée d'Arthur Kieffer - lundi 05/08/2041 » : sans_histoire 55 / petit_evenement 25 / avancee_objectif 10 / coup_dur 7 / tournant 3 ; modificateurs : aucun ; jet  37.2 → **sans_histoire** (enregistré le 28/10/2026 10:58 heure machine)
+
+- Tirage [T11] « Journée de Thiago Alves - lundi 05/08/2041 » : sans_histoire 55 / petit_evenement 25 / avancee_objectif 10 / coup_dur 7 / tournant 3 ; modificateurs : aucun ; jet  75.2 → **petit_evenement** (enregistré le 28/10/2026 10:59 heure machine)
+
+- Tirage [T13a] « Contenu événement Thiago Alves 05/08 » : sante 22 / sante_proche 20 / argent 20 / famille 14 / travail 10 / logement_transport 10 / relation 4 ; modificateurs : aucun ; jet  80.6 → **travail** (enregistré le 28/10/2026 10:59 heure machine)
+
+- Tirage [T11] « Journée de Mariana Oliveira - lundi 05/08/2041 » : sans_histoire 55 / petit_evenement 25 / avancee_objectif 10 / coup_dur 7 / tournant 3 ; modificateurs : aucun ; jet  31.0 → **sans_histoire** (enregistré le 28/10/2026 10:59 heure machine)
+
+- Tirage [T14] « Initiative de Thiago Alves envers William - 05/08 » : aucune 63 / message_routine 12 / demande 10 / information 8 / partage_personnel 4 / plainte_ou_tension 3 ; modificateurs : aucun ; jet  96.4 → **partage_personnel** (enregistré le 28/10/2026 10:59 heure machine)
+
+- Tirage [T10] « Heure initiative partage_personnel Thiago Alves 05/08 » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  24.3 → **rapide** (enregistré le 28/10/2026 10:59 heure machine)
