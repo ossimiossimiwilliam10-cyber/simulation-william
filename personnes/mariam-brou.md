@@ -11,8 +11,13 @@
 - Vit à : Abidjan (Cocody, Plateau, Marcory, Riviera, Yopougon) ; en couple, avec enfants.
 - Métier : comptable ou gestionnaire.
 
-## Physique (graines tirées, à préciser dans la première scène)
-- 168 cm, corpulence moyenne.
+## Physique (vue en personne le 13/08/2041 à 09h50 chez Me Gnamien)
+- 168 cm, corpulence moyenne solide et posée, carrure posée, taille légèrement marquée et silhouette équilibrée aux hanches pleines.
+- Visage et carnation : teint caramel chaud lumineux, peau veloutée et unie, visage rond aux pommettes douces.
+- Regard : grands yeux noirs expressifs et très perçants, sourcils nets et arqués, regard scrutateur et concentré habitué aux bilans comptables.
+- Bouche : lèvres bien dessinées, rouge à lèvres mat discret terracotta, sourire réservé et courtois.
+- Cheveux : tresses très fines ramenées en un chignon bas raffiné sur la nuque.
+- Style vestimentaire : tailleur-pantalon en lin bleu nuit impeccablement ajusté, chemisier fluide blanc cassé à col lavallière, escarpins sobres à talons carrés moyens, petite sacoche porte-documents en cuir noir, discrètes créoles dorées. Allure professionnelle, rigoureuse et rassurante de directrice financière.
 
 ## Caractère
 - plutôt curieux ; assez sérieux ; sociable sans excès ; méfiant, peu conciliant ; émotif par moments ; attachement sécure.

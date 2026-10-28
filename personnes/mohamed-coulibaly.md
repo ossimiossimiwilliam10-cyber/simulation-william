@@ -11,7 +11,7 @@
 - Vit à : Bruxelles (Belgique) (avant : « France, Belgique, Canada, Royaume-Uni, États-Unis » → maintenant : résidence tirée le 19/07/2041) ; en couple, avec enfants.
 - Métier : banquier(ère) ou financier(ère).
 
-## Physique (vu en visioconférence le 26/07/2041 à 18h30)
+## Physique (vu en visioconférence le 26/07/2041, puis en personne le 13/08/2041 à Abidjan)
 - Stature : 167 cm.
 - Corpulence : mince, silhouette longiligne, épaules étroites mais posture droite et élégante.
 - Visage et carnation : teint ébène profond et soigné, visage ovale aux pommettes dessinées, traits fins et harmonieux.

@@ -1,59 +1,48 @@
 # Dernier tour montré au joueur
 
-> Tour n° 79 ; horloge 11/08/2041 21:30 -> 12/08/2041 21:00 ; enregistré le 28/10/2026 13:05 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 80 ; horloge 12/08/2041 21:00 -> 13/08/2041 09:50 ; enregistré le 28/10/2026 13:14 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Voyage Findel-CDG-Abidjan, formalités aéroport FHB et installation résidence hôtelière Cocody Deux-Plateaux
+> Validation du trajet en voiture avec Coulibaly, nuit de repos à Cocody, arrivée au cabinet de Me Gnamien au Plateau et question sur la Revue du lundi
 
 ## Texte envoyé au joueur
 
-**LUNDI 12 AOÛT 2041 — 21h00 — Abidjan (Cocody Deux-Plateaux), résidence hôtelière**
+📌 Vraie vie : Les revues du lundi hebdomadaires sont toujours actives ! Lors des précédents tours, l'enchaînement intensif des maquettes organisationnelles puis ton avance rapide directe (« Go jusqu'à l'hôtel en Côte d'Ivoire ») ont propulsé l'horloge directement du dimanche soir au lundi soir, sautant la matinée du lundi 12 août où la revue devait être présentée. Pour rétablir immédiatement le rituel, la Revue du lundi n° 4 a été formalisée dans memoire/revue-lundi-2041-08-12.md avec cinq nouvelles propositions d'immersion à Abidjan : P27 (friction et embouteillages du pont Henri Konan Bédié et du Plateau), P28 (choc thermique climatisation et humidité équatoriale), P29 (protocole et respect formel du Fondateur), P30 (dépenses liquides et menue monnaie en FCFA), et P31 (délais réels de 24 à 48 h du guichet unique du CEPICI). Tu pourras valider ces propositions à ton prochain message.
 
-La sonnerie feutrée de ton téléphone résonne dans la pénombre de ta chambre d'Audun-le-Tiche à quatre heures quinze précises. Malgré cette nuit écourtée de six heures, le repos régulier des jours précédents te permet d'émerger l'esprit clair et le corps dispos. Tu avales un grand café noir bien serré, vérifies une dernière fois les serrures de la maison et charges tes deux lourdes valises dans le coffre de ta voiture électrique, dont la batterie indique une charge pleine à cent pour cent. À quatre heures quarante-cinq, tu prends la route sous une pluie battante et un fond d'air frais à onze degrés typique des aubes humides lorraines.
+**MARDI 13 AOÛT 2041 — 09h50 — Abidjan (Le Plateau), Immeuble Le Bellerive, accueil du Cabinet Me Gnamien**
 
-Le trajet de trente-cinq kilomètres sur l'autoroute détrempée s'effectue sans encombre. Tu rejoins le parking couvert sécurisé de l'aéroport de Luxembourg-Findel à cinq heures un quart. En quelques minutes, tes bagages de soute sont étiquetés et enregistrés au comptoir prioritaire d'Air France, et les contrôles de sûreté sont franchis dans une aérogare encore paisible. Le vol court-courrier AF1233 décolle à six heures cinquante pour toucher le tarmac de Paris Charles-de-Gaulle à sept heures quarante-cinq. La correspondance s'avère d'une fluidité parfaite : le passage vers le terminal international 2E et les portes du satellite M s'opère sans attente grâce au sas biométrique de ton passeport européen. Tu t'installes confortablement dans l'espace d'attente pour prendre une collation légère, consulter tes notes d'affaires et vérifier le dossier juridique sur ton écran.
+Installé au bureau de ton salon climatisé de Cocody Deux-Plateaux, tu réponds aussitôt au courriel de Mohamed Coulibaly pour lui confirmer que tu acceptes avec plaisir sa proposition de transport et que tu l'attendras en bas de la résidence le lendemain matin à neuf heures quinze. Après avoir éteint ton ordinateur et vérifié la fermeture des baies vitrées, tu t'allonges dans le grand lit double vers vingt-deux heures. La nuit est paisible, rythmée par la brise marine dans les feuillages extérieurs et le souffle doux de la climatisation. Tu t'endors d'un sommeil profond et réparateur de neuf heures d'affilée, sans éprouver la moindre fatigue de décalage horaire.
 
-À onze heures vingt-cinq, l'embarquement du vol long-courrier AF702 débute. Le Boeing 777 s'élance sur la piste à midi passé de cinq minutes. Pendant les six heures et vingt minutes d'un vol direct particulièrement calme au-dessus de la Méditerranée et des immensités ocre du Sahara, tu savoures ton plateau-repas, revois les derniers arbitrages contractuels et profites d'un repos bienvenu.
+Le mardi matin, tu te réveilles à sept heures précises, l'esprit alerte et le corps parfaitement dispos. Après une douche fraîche et un rasage net, tu enfiles un costume sombre de coupe impeccable, une chemise blanche fraîchement repassée et des souliers cirés. Ta stature d'athlète d'un mètre quatre-vingt-seize pour cent kilos confère à ta tenue une autorité naturelle et imposante. Tu prends ton petit déjeuner sur la terrasse couverte de la résidence : un café noir corsé local et quelques fruits tropicaux bien frais, avant de vérifier méthodiquement ta sacoche de cuir contenant tes diplômes universitaires, tes relevés de notes certifiés, les tirages des projets de statuts et ton stylo de signature.
 
-L'appareil entame sa descente à travers la couverture nuageuse ivoirienne et pose ses roues sur la piste de l'aéroport international Félix Houphouët-Boigny de Port-Bouët à dix-huit heures vingt-cinq, heure locale d'Abidjan. Dès la passerelle vitrée, la morsure de l'air équatorial te saisit : vingt-six degrés au thermomètre, une humidité dense de près de quatre-vingt-dix pour cent et ce parfum familier mêlant terre rouge, végétation tropicale et embruns de l'océan Atlantique.
+À neuf heures dix, tu descends dans le hall d'accueil de la résidence hôtelière. À neuf heures quinze précises, une berline allemande noire étincelante franchit le portail de sécurité. Mohamed Coulibaly en descend d'un pas vif pour venir à ta rencontre, le visage fendu d'un sourire respectueux. En chair et en os, l'homme mesure un mètre soixante-sept, soit près de trente centimètres de moins que toi, avec une silhouette longiligne et mince d'une soixantaine de kilos, des épaules étroites mais une posture d'une remarquable élégance naturelle. Son teint ébène profond est soigné, son visage ovale bien dessiné arbore des traits fins et des yeux en amande très vifs derrière de fines lunettes en métal sombre sans monture inférieure. Sa barbe courte est taillée au millimètre le long de sa mâchoire, ses cheveux sont rasés de près, et son costume sombre ajusté sur mesure lui donne l'allure accomplie d'un banquier d'affaires rigoureux. Il s'incline légèrement en te tendant une poignée de main ferme : « Bonjour Monsieur Ossimi. Quel plaisir et quel honneur de vous accueillir enfin en terre ivoirienne. J'espère que votre première nuit à Cocody a été douce. »
 
-Dans le hall des arrivées, les formalités d'entrée s'enchaînent sans le moindre accroc. Au filtre sanitaire, les agents de l'Institut National d'Hygiène Publique examinent et tamponnent ton carnet jaune international de vaccination contre la fièvre jaune. Au guichet biométrique de la société de visa, tu présentes ton passeport et ton attestation de pré-enrôlement officiel : la prise d'empreintes digitales et la prise de vue s'effectuent en trois minutes, et la vignette sécurisée est immédiatement apposée sur ton passeport. Sur le tapis roulant, tes deux valises apparaissent rapidement, intactes. Le passage en douane est une simple formalité de routine.
+Tu prends place à l'avant du véhicule climatisé. La conduite de Coulibaly se révèle fidèle à son tempérament : convaincu d'être un as du volant, il s'insère avec une audace déconcertante dans le trafic abidjanais, frôlant avec une assurance imperturbable les minibus de transport et les taxis communaux, tout en commentant le dynamisme de la ville d'un ton posé et déférent. La descente vers le carrefour Duncan et la traversée de la lagune Ébrié sur le tablier monumental du pont Henri Konan Bédié s'opèrent sous une lumière matinale éclatante et une brise douce de vingt-cinq degrés. Le véhicule rejoint rapidement le quartier du Plateau, cœur financier et administratif du pays, hérissé de tours d'affaires et de ministères.
 
-À la sortie du terminal, le chauffeur privé envoyé par la résidence hôtelière t'attend avec une pancarte à ton nom. Tu prends place dans un SUV climatisé et quitte la zone aéroportuaire vers dix-neuf heures cinquante. Le trajet nocturne te mène à travers Port-Bouët puis sur le grand boulevard Valéry Giscard d'Estaing, bordé de néons, d'enseignes et d'une circulation animée. Le véhicule franchit la lagune Ébrié par le tablier éclairé du pont Henri Konan Bédié avant de remonter vers les quartiers arborés de Cocody et les Deux-Plateaux.
+À neuf heures quarante-cinq, vous garez le véhicule dans le parking de l'immeuble Le Bellerive et montez par l'ascenseur jusqu'au quatrième étage. À neuf heures cinquante, vous pénétrez dans l'accueil feutré et moderne du Cabinet de Maître Ismaël Gnamien.
 
-Tu parviens à destination vers vingt heures quarante-cinq. La résidence est entièrement clôturée et gardée en continu par une équipe de sécurité privée. Après un enregistrement rapide à la réception, on te conduit à ton appartement de deux pièces situé au premier étage. Le logement est spacieux, parfaitement propre et doté d'une climatisation silencieuse qui diffuse une fraîcheur bienvenue : un salon meublé avec soin, un bureau de travail dégagé, une cuisine équipée et une chambre avec un grand lit double. Le réseau sans fil haut débit fonctionne immédiatement.
+Dans la salle d'attente aux fauteuils de cuir noir, une femme se lève immédiatement à votre approche avec un classeur rigide sous le bras. Mariam Brou, âgée de quarante-trois ans, mesure un mètre soixante-huit, avec une corpulence moyenne solide et posée, une silhouette équilibrée aux hanches pleines et une allure d'une grande distinction professionnelle. Son teint caramel chaud est lumineux, son visage rond aux pommettes douces s'illumine d'un sourire mesuré, et ses grands yeux noirs très perçants reflètent une attention minutieuse de directrice financière habituée à scruter les bilans. Ses cheveux sont coiffés en tresses très fines ramenées en un chignon bas raffiné sur la nuque. Elle porte un tailleur-pantalon en lin bleu nuit impeccablement ajusté, un chemisier fluide blanc cassé à col lavallière et de discrètes créoles dorées. Elle s'avance avec déférence : « Bonjour Monsieur Ossimi. C'est un grand honneur de faire votre connaissance en personne. Tout le dossier préparatoire est ordonné. »
 
-Après une bonne douche délassante, tu allumes ton appareil et transmets un courriel concis à Mohamed Coulibaly pour l'informer de ton arrivée et de ta bonne installation. Moins de dix minutes plus tard, sa réponse officielle parvient sur ta messagerie :
+La secrétaire de direction du cabinet s'approche alors du groupe : « Maître Gnamien vous attend. Il achève la mise sous chemise notariale des cinq exemplaires originaux et va vous recevoir en salle de signature à dix heures précises. »
 
-« Bonsoir Monsieur Ossimi,
-J'accuse bonne réception de votre message et je suis ravi d'apprendre que votre voyage s'est déroulé dans d'excellentes conditions et que votre installation à Cocody Deux-Plateaux s'est faite sans encombre.
-Je vous souhaite très chaleureusement la bienvenue en Côte d'Ivoire.
-Je vous confirme que tout est parfaitement calé pour demain matin, mardi 13 août 2041, à 10h00, au Cabinet de Maître Ismaël Gnamien, situé au Plateau (Immeuble Le Bellerive, 4e étage).
-Maître Gnamien m'a confirmé en fin d'après-midi que l'ensemble des actes constitutifs — statuts définitifs de la SASU SOLEIL B2B CÔTE D'IVOIRE, procès-verbal de nomination du Directeur Général et convention de mandat social — sont imprimés sous chemise notariale officielle, prêts pour les paraphes et signatures solennelles. Madame Mariam Brou sera également présente dès 09h45 pour la signature de son contrat de direction administrative et financière ainsi que l'enclenchement des formalités de dépôt au CEPICI.
-Si vous le souhaitez, je peux passer vous prendre à votre résidence à Cocody vers 09h15 afin de vous éviter les embarras de circulation du matin vers le Plateau. Dans le cas contraire, nous nous retrouverons directement à l'accueil du cabinet à 09h50.
-Reposez-vous bien de votre long voyage. C'est un honneur de démarrer officiellement cette grande aventure industrielle à vos côtés.
-Excellente nuit,
-Bien à vous,
-Mohamed Coulibaly »
-
-Installé au calme dans ton salon d'Abidjan, les dossiers prêts dans ta sacoche, tu es parvenu au point de départ opérationnel de ton entreprise.
-
-Il est 21h00.
+Il est 09h50.
 
 ---
 
 **Réponses attendues**
 
-- Répondre à Mohamed Coulibaly concernant ton transport pour le rendez-vous de demain matin : accepter qu'il passe te chercher en voiture à ta résidence de Cocody à 09h15, ou lui indiquer que tu te rendras par tes propres moyens au cabinet de Maître Gnamien au Plateau pour 09h50.
+- Donner le top départ pour entrer dans la salle de signature de Maître Gnamien à 10h00, et préciser l'esprit dans lequel tu souhaites ouvrir la séance face au notaire, à Mohamed Coulibaly et à Mariam Brou.
 
 **À faire / à fournir avant le tour suivant**
 
-- Repos et nuit de sommeil complète à la résidence pour attaquer la journée de signature en pleine forme.
-- Présentation demain mardi à 10h00 au cabinet notarial de Maître Gnamien au Plateau pour la signature solennelle des statuts de la société et du mandat social de direction générale, en présence de Mohamed Coulibaly et Mariam Brou.
+- Signature notariale solennelle des statuts de la SASU SOLEIL B2B CÔTE D'IVOIRE (en qualité d'Associé Unique Fondateur) et de la convention de mandat social de Directeur Général de Mohamed Coulibaly.
+- Signature conjointe du contrat de travail cadre de Direction Administrative et Financière de Mariam Brou.
+- Validation des cinq propositions d'immersion P27 à P31 de la Revue du lundi n° 4.
 
 **Quêtes secondaires**
 
-- Caler après la signature notariale les modalités concrètes d'ouverture du compte bancaire d'entreprise et le suivi du récépissé de dépôt au CEPICI avec Mariam Brou.
+- Caler avec Mariam Brou le dépôt des actes au Guichet Unique du CEPICI dès la fin de la séance pour enclencher l'immatriculation RCCM sous 24 à 48 heures.
+- Organiser le déjeuner de travail de midi avec Mohamed Coulibaly.
 
 Que veux-tu faire ?

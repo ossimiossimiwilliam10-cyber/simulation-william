@@ -4253,3 +4253,34 @@ Effets à jouer : A09 (jeudi 08/08 (matin)) : Correction longue, agacement
 - Tirage [T10] « Delai reponse Coulibaly question seuil 80/100 (jour ferie 07/08) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  89.6 → **le_soir_ou_lendemain** (enregistré le 28/10/2026 11:43 heure machine)
 
 - Actualités de la semaine du 12/08/2041 : modèles LU01, LU02, FR02 [PROCÉDURE : outils/actualites.py] (enregistré le 28/10/2026 13:05 heure machine)
+
+## Tirage de la semaine du 2041-08-12
+
+| ID | Événement | Probabilité | Jet (0-100) | Résultat |
+|---|---|---|---|---|
+| A02 | Problème de santé d'un proche d'un personnage (ex. mère d'Aïcha, tension) | 8 % |  17.3 | non |
+| A07 | Panne réseau (fibre, 4G) ou banque en ligne | 15 % |  12.0 | **DÉCLENCHÉ** — mercredi 14/08 (soir) |
+| A09 | Erreur administrative (virement mal affecté, pièce perdue, nom mal orthographié) | 10 % |  78.3 | non |
+| A12 | Fuite d'information (salaires, avances, statut de William) | 5 % |  59.2 | non |
+| A13 | Opportunité commerciale inattendue (recommandation, appel d'un prospect) | 10 % |  11.5 | non |
+| A17 | William lui-même malade ou épuisé (fatigue, gastro) | 5 % |  94.8 | non |
+| A18 | Incident de transport (taxi, panne, retard) | 15 % |  40.9 | non |
+| A19 | Rhume, angine ou gastro de William | 5 % |  77.9 | non |
+| A20 | Perturbation des trajets frontaliers (bus en retard, A4 ou N4 bouchée, travaux) | 20 % |  79.4 | non |
+| A21 | Panne domestique (chauffe-eau, électroménager, fuite) | 4 % |   7.5 | non |
+| A22 | Courrier administratif (impôts français ou luxembourgeois, CNS, mairie, banque) | 10 % |  56.2 | non |
+| A23 | Tentative d'arnaque (SMS de faux colis, faux conseiller bancaire, faux site) | 15 % |   7.6 | **DÉCLENCHÉ** — samedi 17/08 (matin) |
+| A24 | Souci de voisinage (bruit, travaux, haie, stationnement) | 5 % |  68.5 | non |
+| A25 | Blessure légère à l'entraînement (entorse, côte, doigt) | 1 % |  21.5 | non |
+| A26 | Imprévu d'argent (amende, réparation, cadeau, cotisation) | 6 % |  88.9 | non |
+| A27 | Signe d'un ancien (collègue, élève devenu adulte, connaissance) | 8 % |  18.7 | non |
+| A28 | Courriel ou appel du lycée pendant les vacances (réunion de rentrée, ajournements, emploi du temps) | 10 % |  21.8 | non |
+| A29 | Contrôle routier ou radar | 3 % |  88.5 | non |
+| A30 | Occasion inattendue (proposition de cours particuliers, invitation, bon plan) | 8 % |  71.3 | non |
+| A31 | Diarrhée du voyageur ou intoxication alimentaire (à l'étranger) | 12 % |  53.5 | non |
+| A35 | Surfacturation ou arnaque visant un touriste (taxi, boutique, bar) | 5 % |  25.1 | non |
+| A36 | Malentendu de langue (adresse mal comprise, commande erronée, document en coréen) | 10 % |  92.2 | non |
+
+Effets à jouer : A07 (mercredi 14/08 (soir)) : Retard d'un virement, d'un envoi, d'un rapport ; A23 (samedi 17/08 (matin)) : Très courant ; William voit le message et décide
+
+- Message spontané d'un proche, semaine du 2041-08-12 : Sandy Lentz (professeure d'allemand) écrira le 12/08/2041 vers 18:05 (heure de l'expéditeur) · tiré parmi 38 personnes de l'entourage, pondérées par proximité (enregistré le 28/10/2026 13:14 heure machine)
