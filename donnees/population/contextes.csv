@@ -25,3 +25,8 @@ business_abidjan;abidjan;28;44;65;0.25;vous;Abidjan;contacts d'affaires ivoirien
 candidat_diaspora;diaspora_ci;30;44;62;0.30;vous;France, Belgique, Canada, Royaume-Uni, États-Unis;répondants de la diaspora ivoirienne ou d'ailleurs dans le monde à l'annonce de William
 
 etudiante_abidjan;abidjan;20;22;26;1.0;vous;Abidjan (Cocody UFHB);étudiante adulte à Abidjan (campus universitaire de Cocody)
+voisin_abidjan;abidjan;22;40;75;0.50;vous;Abidjan (Cocody, Deux-Plateaux, Vallons, Riviera);habitants et voisins des quartiers de Cocody et environs
+commerce_abidjan;abidjan;18;35;65;0.50;vous;Abidjan (Cocody, Plateau, Marcory);commerçants, restaurateurs, artisans, employés de commerce
+services_abidjan;abidjan;20;32;60;0.30;vous;Abidjan;chauffeurs de taxi/VTC, gardiens, sécurité, personnel d'entretien et intendance
+professionnel_plateau;abidjan;25;40;65;0.40;vous;Abidjan (Plateau);cadres, juristes, banquiers, clercs, agents administratifs du Plateau
+solaire_technique_ci;abidjan;22;35;58;0.20;vous;Abidjan;techniciens solaires, installateurs électriques, chefs d'équipe de chantier

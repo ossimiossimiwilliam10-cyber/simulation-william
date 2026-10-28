@@ -110,6 +110,8 @@
 
 - **Revues du lundi automatiques quoi qu'il arrive** (28/10/2026 réel ; 13/08/2041 simulé) : les revues du lundi doivent être présentées automatiquement chaque lundi matin, sans exception. Même en cas de « Go » ou d'avance rapide qui franchit un lundi, le moteur DOIT marquer impérativement un arrêt au lundi matin pour afficher la Revue du lundi (§12) et recueillir la validation des propositions et aléas avant de poursuivre.
 
+- **Génération systématique de population locale et monde vivant chaque lundi** (28/10/2026 réel ; 14/08/2041 simulé) : chaque lundi matin lors de la revue hebdomadaire, le moteur DOIT générer automatiquement un contingent de nouveaux personnages pré-générés (statut pre_genere, 20 à 50 personnages via outils/generer_population_locale.py) représentatifs du lieu où réside William (ex : Abidjan, Luxembourg, etc.), même s'il y réside depuis plusieurs semaines. Le moteur tisse et met à jour leurs interactions aléatoires (outils/interactions_sociales.py : liens de travail, voisinage, amitié, rumeurs), rendant l'univers social organique, réaliste et indépendant sans artifice de fiction télévisuelle.
+
 ## Grandes décisions hors fiction (historique)
 - 25/07/2040 (simulé) : il a envisagé d'arrêter, puis a décidé de continuer avec tous les paramètres.
 - 11/10/2026 (réel) : redémarrage complet (univers 2) à 35 ans, argent initial, paramètres repris ; départ d'abord fixé au mardi

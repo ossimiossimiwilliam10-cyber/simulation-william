@@ -78,3 +78,4 @@ def generer_expedition_notariee():
 
 if __name__ == "__main__":
     generer_expedition_notariee()
+
