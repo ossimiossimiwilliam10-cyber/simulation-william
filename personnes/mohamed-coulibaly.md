@@ -56,3 +56,5 @@
 - 29/07/2041, 20h55 : réponse rapide par courriel (T10 : rapide) confirmant sa présence le 13/08 à Abidjan, son adhésion totale au filtre éliminatoire de 80/100 et la prise de contact immédiate avec Mariam Brou pour son entretien.
 - 30/07/2041, 15h00-16h20 : conduite de l'entretien opérationnel avec Mariam Brou en visioconférence.
 - 30/07/2041, 19h30 : transmission du compte-rendu officiel d'entretien DAF recommandant formellement l'embauche de Mariam Brou au 13 août, et point d'étape sur la présélection des directeurs technique et commercial.
+- 01/08/2041 : finalisation des entretiens exploratoires et recoupement des références professionnelles pour la Direction Technique et la Direction Commerciale.
+- 02/08/2041, 19h15 : transmission par courriel officiel à la Direction Générale des dossiers complets de candidature de Monsieur Éric Koffi Yao (Directeur Technique) et Monsieur Stéphane Bamba (Directeur Commercial) pour notation et arbitrage selon la règle éliminatoire (> 80/100).

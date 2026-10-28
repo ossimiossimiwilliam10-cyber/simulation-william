@@ -19,19 +19,19 @@ date;heure;compte;montant;type;libelle;reference
 2041-08-16;06:00;courant;-63.00;prevu;Box internet fibre et forfait mobile;E005-20410816
 2041-08-05;06:00;courant;-45.00;prevu;Assurance habitation (maison, propriétaire occupant) : mensualisée;E007-20410805
 2041-09-05;06:00;courant;-45.00;prevu;Assurance habitation (maison, propriétaire occupant) : mensualisée;E007-20410905
-2041-08-01;06:00;courant;-85.00;prevu;Minett Combat Club (Esch-sur-Alzette) : accès complet;E008-20410801
+2041-08-01;06:00;courant;-85.00;prevu_realise;Minett Combat Club (Esch-sur-Alzette) : accès complet;E008-20410801
 2041-09-02;06:00;courant;-85.00;prevu;Minett Combat Club (Esch-sur-Alzette) : accès complet;E008-20410902
 2041-08-05;06:00;courant;-107.00;prevu;Voiture électrique : assurance tous risques (mensualisée);E010-20410805
 2041-09-05;06:00;courant;-107.00;prevu;Voiture électrique : assurance tous risques (mensualisée);E010-20410905
-2041-08-02;08:00;courant;-732.00;prevu;Virement permanent vers le compte épargne (10 % de l'excédent net);E012-20410802
-2041-08-02;08:00;projet;732.00;prevu;Virement permanent vers le compte épargne (10 % de l'excédent net) (compte crédité);E012-20410802-C
+2041-08-02;08:00;courant;-732.00;prevu_realise;Virement permanent vers le compte épargne (10 % de l'excédent net);E012-20410802
+2041-08-02;08:00;projet;732.00;prevu_realise;Virement permanent vers le compte épargne (10 % de l'excédent net) (compte crédité);E012-20410802-C
 2041-09-02;08:00;courant;-732.00;prevu;Virement permanent vers le compte épargne (10 % de l'excédent net);E012-20410902
 2041-09-02;08:00;projet;732.00;prevu;Virement permanent vers le compte épargne (10 % de l'excédent net) (compte crédité);E012-20410902-C
-2041-08-02;08:00;courant;-5755.00;prevu;Virement permanent vers le compte-titres ETF (solde net après vacances et sécurité);E014-20410802
-2041-08-02;08:00;etf;5755.00;prevu;Virement permanent vers le compte-titres ETF (solde net après vacances et sécurité) (compte crédité);E014-20410802-C
+2041-08-02;08:00;courant;-5755.00;prevu_realise;Virement permanent vers le compte-titres ETF (solde net après vacances et sécurité);E014-20410802
+2041-08-02;08:00;etf;5755.00;prevu_realise;Virement permanent vers le compte-titres ETF (solde net après vacances et sécurité) (compte crédité);E014-20410802-C
 2041-09-02;08:00;courant;-5755.00;prevu;Virement permanent vers le compte-titres ETF (solde net après vacances et sécurité);E014-20410902
 2041-09-02;08:00;etf;5755.00;prevu;Virement permanent vers le compte-titres ETF (solde net après vacances et sécurité) (compte crédité);E014-20410902-C
-2041-08-01;06:00;courant;-12.83;prevu;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20410801
+2041-08-01;06:00;courant;-12.83;prevu_realise;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20410801
 2041-09-02;06:00;courant;-12.83;prevu;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20410902
 2041-07-16;12:33;courant;-24.30;mouvement;Visa Debit : Abonnement agent IA (formule Pro, engagement 12 mois);K001
 2041-09-30;20:00;courant;9320.00;prevu;Traitement mensuel de William (net, État luxembourgeois);E001-20410930

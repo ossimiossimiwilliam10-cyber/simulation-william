@@ -4186,3 +4186,9 @@ Effets à jouer : A09 (mercredi 31/07 (matin)) : Correction longue, agacement
 - Message spontané d'un proche, semaine du 2041-07-29 : Mariana Oliveira (membre régulière du club (sparring)) écrira le 02/08/2041 vers 08:25 (heure de l'expéditeur) · tiré parmi 38 personnes de l'entourage, pondérées par proximité (enregistré le 28/10/2026 00:52 heure machine)
 
 - Tirage [T10] « Delai reponse Mohamed Coulibaly cadrage DAF et recrutement » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  37.2 → **rapide** (enregistré le 28/10/2026 00:53 heure machine)
+
+- Tirage [T14] « Initiative transmission dossiers DT et DC » : aucune 63 / message_routine 12 / demande 10 / information 8 / partage_personnel 4 / plainte_ou_tension 3 ; modificateurs : aucun ; jet  58.2 → **aucune** (enregistré le 28/10/2026 01:08 heure machine)
+
+- Tirage [T14] « Initiative transmission dossiers DT et DC vendredi 2 aout » : aucune 63 / message_routine 12 / demande 10 / information 8 / partage_personnel 4 / plainte_ou_tension 3 ; modificateurs : aucun ; jet  89.1 → **information** (enregistré le 28/10/2026 01:08 heure machine)
+
+- Tirage [T10] « Heure message information Mohamed Coulibaly vendredi 2 aout » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet   6.4 → **immediat** (enregistré le 28/10/2026 01:08 heure machine)

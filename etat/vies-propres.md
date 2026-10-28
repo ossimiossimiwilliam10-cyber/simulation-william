@@ -30,6 +30,13 @@
 - **Horaires** : règle « bureau », fuseau luxembourg, décalage +3 min ; travail 09:03-17:33 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:33-07:03
 - **Derniers événements** : 08/07 sans_histoire; 20/07 petit_evenement (nouvelle de la famille ou des amis); 18/07 sans_histoire; 22/07 petit_evenement (bouchons sur l'A4 et la frontière); 30/07 petit_evenement (achat (cadeau d'anniversaire))
 
+### Mariana Oliveira (membre régulière du club (sparring))
+- **Lien avec William** : contact_recent (whatsapp)
+- **Objectif** : obtenir la nationalité luxembourgeoise ; **souci** : contrat de travail qui se termine bientôt ; **foyer** : en couple, sans enfant
+- **Secret (moteur seulement)** : fume en cachette alors qu'il dit avoir arrêté (gravité 1)
+- **Horaires** : règle « bureau », fuseau luxembourg, décalage -17 min ; travail 08:43-17:13 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:13-06:43
+- **Derniers événements** : 09/07 sans_histoire; 18/07 petit_evenement (querelle courte); 21/07 petit_evenement (achat (vêtements)); 27/07 petit_evenement (querelle courte); 03/08 sans_histoire
+
 ### Clément Grandjean (membre régulier du club (sparring))
 - **Lien avec William** : aucun (whatsapp)
 - **Objectif** : finir de rénover sa maison ; **souci** : couple en crise ; **foyer** : en couple, sans enfant
