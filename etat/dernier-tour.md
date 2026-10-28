@@ -1,50 +1,48 @@
 # Dernier tour montré au joueur
 
-> Tour n° 65 ; horloge 29/07/2041 11:15 -> 29/07/2041 20:00 ; enregistré le 28/10/2026 00:44 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 66 ; horloge 29/07/2041 20:00 -> 31/07/2041 20:00 ; enregistré le 28/10/2026 01:01 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Validation de ce que le cabinet de Me Gnamien a envoyé, préparation par le pôle juridique de la note et du dossier en 4 points pour transmission au MENJE/lycée à la rentrée
+> Je demande à mon équipe virtuelle d'informer Koulibaly que c'est bon. Il peut commencer l'entretien avec, avec Mariam. Et il peut déjà commencer à recruter son équipe de direction. Mais que attention. Alors, je lui dis en fait que à chaque fois, il devra donc... quand il repère un candidat qui lui le semble intéressant, il doit me le communiquer. Et vu que c'est crété à intermédiaire par l'équipe virtuelle, elle doit noter le candidat. C'est seulement si sa note dépasse les 80 que là, moi, je valide le candidat. Et que là, il peut commencer les démarches pour le recruter et tout ça, quoi. Go pour 31/07
 
 ## Texte envoyé au joueur
 
-*(Dictée vocale interprétée : « Ismaël Niamien » = « Ismaël Gnamien »).*
+**MERCREDI 31 JUILLET 2041 — 20h00 — Audun-le-Tiche, chez toi**
 
-**LUNDI 29 JUILLET 2041 — 20h00 — Audun-le-Tiche, chez toi**
+Tu fais transmettre sans attendre les directives de gouvernance par le canal institutionnel.
 
-Tu arbitres immédiatement les deux dossiers sur ton ordinateur, avec méthode et fermeté.
+Le lundi 29 juillet à 20h30, un courriel officiel de la présidence est adressé à Mohamed Coulibaly (`2041-07-29_Courriel_Mohamed_Coulibaly_Feu_vert_DAF_et_protocole_recrutement_direction.pdf`, D033, classé dans `documents_william/`). Le message confirme la validation définitive des projets de statuts SASU et de convention de mandat social avec le Cabinet Ismaël Gnamien & Associés pour la signature physique à Abidjan le mardi 13 août à 10h00. Il lui donne le feu vert pour mener l'entretien d'évaluation opérationnelle avec Madame Mariam Brou (DAF) et amorcer le sourcing de terrain pour les postes de Directeur Technique et de Directeur Commercial. Le courriel verrouille surtout la règle d'arbitrage que tu as fixée : chaque profil retenu doit obligatoirement être transmis à l'adresse de la direction avec son dossier complet ; il est soumis au protocole de notation interne, et seuls les candidats obtenant une note strictement supérieure à 80 sur 100 recevront ton accord pour une embauche.
 
-À 11h45, tu valides l'ensemble des actes transmis par le cabinet d'Abidjan. Un courriel officiel d'approbation intégrale est adressé à Maître Ismaël Gnamien (`2041-07-29_Courriel_Cabinet_Gnamien_Validation_definitive_statuts_et_mandat_DG.pdf`, D030, classé dans `documents_william/`) : tu confirmes la dénomination sociale de la SASU Soleil B2B Côte d'Ivoire, le capital de 10 000 000 FCFA, la nomination de Mohamed Coulibaly au poste de Directeur Général à effet du 1er octobre 2041, les limitations statutaires de pouvoirs au-delà de 10 000 000 FCFA HT, ainsi que la clause de non-concurrence de 12 mois à 50 % d'indemnité compensatrice. Tu donnes ton accord formel pour la séance de signature en son étude le mardi 13 août à 10h00 à Abidjan.
+À 20h55, la réponse de Mohamed Coulibaly te parvient par retour de courriel (`2041-07-29_Courriel_Mohamed_Coulibaly_Accuse_et_lancement_recrutement.pdf`, dans `courriels/`). Il accuse réception avec empressement, confirme sa présence en personne à l'étude d'Abidjan le 13 août avec l'ensemble de ses pièces originales, et souscrit intégralement au seuil de sélection supérieur à 80/100. Il indique prendre immédiatement attache avec Mariam Brou pour convenir d'un créneau d'entretien approfondi dès le lendemain après-midi, et active ses réseaux professionnels dans l'énergie et auprès des anciens de l'INP-HB pour repérer les profils de directeurs technique et commercial.
 
-À 12h05 (10h05 heure d'Abidjan), la réponse de l'avocat te parvient par retour de courriel (`2041-07-29_Cabinet_Gnamien_Accuse_validation_statuts_et_rendez_vous_signature.pdf`, dans `courriels/`) : Maître Gnamien accuse réception de ton approbation sans réserve. Son étude lance l'impression des cinq originaux reliés sous chemise notariale et finalise les formulaires d'enregistrement du CEPICI pour un dépôt immédiat le 13 août au RCCM.
+Le mardi 30 juillet se déroule dans le calme à Audun-le-Tiche. C'est une journée de repos sportif complet conformément à ton rythme estival (I1). Tu profites d'une météo chaude et lumineuse pour lire, gérer quelques affaires courantes et te reposer.
 
-Dans le même temps, ton pôle juridique virtuel achève la mise en forme du dossier administratif pour le Luxembourg (`2041-07-29_Dossier_MENJE_Article_14_Transmission_hierarchique_Lycee.pdf`, D031, classé dans `documents_william/`). Le document structure la demande selon la voie hiérarchique exigée par le MENJE : lettre de transmission adressée à Monsieur le Directeur du Lycée, accompagnée des quatre pièces requises (note descriptive de l'activité solaire B2B, justification statutaire de ton rôle d'associé non exécutif sans fonction de gestion, déclaration sur l'honneur du respect absolu de tes 25 leçons hebdomadaires, et attestation sur la nature exclusivement capitalistique des dividendes). Le dossier complet est classé dans tes archives, prêt à être remis en main propre à la direction dès la pré-rentrée de septembre.
+À Abidjan, l'entretien opérationnel entre Mohamed Coulibaly et Mariam Brou se tient en visioconférence de 15h00 à 16h20 GMT. À 19h30, Mohamed transmet son compte-rendu officiel à la direction (`2041-07-30_Courriel_Mohamed_Coulibaly_Compte_rendu_entretien_DAF_Mariam_Brou.pdf`, dans `courriels/`). Son retour est particulièrement élogieux : il souligne la parfaite maîtrise du référentiel comptable SYSCOHADA, une solide habitude des négociations bancaires et des lignes d'escompte locales, ainsi qu'une adhésion totale à la maquette contractuelle Niveau 2 (1 200 000 FCFA net mensuel). Il insiste sur la lucidité de Madame Brou concernant le principe de double reporting et la remontée directe des états financiers vers le Président. Mohamed recommande formellement la signature de son contrat de travail dès l'immatriculation de la SASU au CEPICI le 13 août.
 
-Après un déjeuner léger, tu te détends en début d'après-midi avant de prendre la route d'Esch-sur-Alzette à 15h30.
+À 20h00, le **Rapport d'activité quotidien n° 11 du Directeur Général virtuel** est déposé dans ton espace (`2041-07-30_Rapport_quotidien_Directeur_General_virtuel.pdf`, D034, A098 clos). Il acte la sécurisation du pôle DAF, confirme la configuration des grilles de scoring à plus de 80/100 pour les futurs profils de directeurs, et relève une consommation API modérée de 0,80 € sur la journée (46,86 € cumulés).
 
-À 16h00 précises, tu franchis les portes du Minett Combat Club pour ta première séance de la semaine (I1). L'entraînement est dense et intense : travail de cadrage et de contrôle contre la cage, lutte gréco-romaine et passages de garde au sol avec Arthur Kieffer, sous le regard attentif du coach Thiago Alves. Pendant près d'une heure quarante-cinq, tu enchaînes les rounds à haute intensité. À 100 kg pour 1,96 m, tes appuis sont stables, le souffle est régulier et tes défenses d'amenée au sol fonctionnent avec autorité. Tu termines la séance trempé de sueur mais parfaitement lucide. Après une bonne douche et quelques échanges cordiaux dans les vestiaires, tu reprends la route d'Audun-le-Tiche où tu arrives vers 18h30.
+Ce mercredi 31 juillet débute sous un ciel voilé et une chaleur un peu lourde. Vers 09h15, un courriel automatique de la plateforme SNEDAI Côte d'Ivoire te signale un blocage administratif lors du contrôle optique de ton dossier d'e-visa : la lecture automatique de la bande de ton passeport a inversé l'ordre de tes prénoms par rapport au formulaire de pré-enrôlement initial. Tu te connectes sur le portail sécurisé, rectifies l'ordre de l'état civil pour calquer la mention exacte du passeport et téléverses à nouveau le document. Après une heure d'attente et de vérification en ligne, l'anomalie est levée : à 11h20, l'attestation officielle de pré-enrôlement biométrique rectifiée, munie de son code-barres 2D sécurisé pour l'entrée à l'aéroport Félix Houphouët-Boigny, est validée et téléchargée (`2041-07-31_SNEDAI_Attestation_pre_enrolement_e-visa_rectifiee.pdf`, dans `courriels/`).
 
-À 20h00 précises, la notification du soir retentit : le **Rapport d'activité quotidien n° 10 du Directeur Général virtuel** est déposé dans ton espace documentaire (`2041-07-29_Rapport_quotidien_Directeur_General_virtuel.pdf`, D032, classé dans `documents_william/`, A097 clos).
+Après un repas léger à midi, tu prends la route d'Esch-sur-Alzette à 15h30 pour ta deuxième séance de combat de la semaine au Minett Combat Club (I1). De 16h00 à 17h45, la séance de MMA dirigée par Thiago Alves est particulièrement intense : travail d'appuis et de liaisons debout-sol, blocages contre le grillage et sorties sous pression avec Arthur Kieffer. À 100 kg, tu imposes une pression constante sur les phases de contrôle et termines les rounds d'assaut avec une excellente lucidité. Après une douche froide et les étirements d'usage, tu rentres chez toi vers 18h30.
 
-Le rapport confirme le verrouillage complet des jalons :
-1. **Actes constitutifs et immatriculation** : statuts SASU et convention de mandat DG définitivement approuvés (D030) ; accusé du Cabinet Gnamien reçu ; originaux sous chemise notariale en cours d'édition pour le 13 août à 10h00 à Abidjan.
-2. **Administration luxembourgeoise** : dossier complet de déclaration Article 14 finalisé en 4 pièces pour la direction du lycée (D031), en réserve sécurisée pour la rentrée scolaire.
-3. **Pôle Gouvernance et RH** : Mohamed Coulibaly prépare son plan de sourcing des cadres techniques et commerciaux ; Mariam Brou maintenue en réserve pour la DAF.
-4. **Logistique de mission Abidjan (12-25 août)** : dispositif entièrement validé (Air France, e-visa SNEDAI, résidence hôtelière Cocody Deux-Plateaux).
-5. **Budget informatique virtuel** : 1,20 € consommé ce jour (cumul mensuel : 46,06 € sur les 1 000,00 € alloués ; solde disponible : 953,94 €).
+À 20h00 précises, la notification de ton application bancaire Spuerkeess retentit : le traitement mensuel de professeur payé par l'État luxembourgeois est crédité sur ton compte courant Zebra Premium, pour un montant net de 9 320,00 € (échéancier E001). Ton solde bancaire disponible clôture ainsi le mois de juillet à 17 784,70 €.
 
-***
+Dans la foulée, le **Rapport d'activité quotidien n° 12 du Directeur Général virtuel** est versé à tes dossiers (`2041-07-31_Rapport_quotidien_Directeur_General_virtuel.pdf`, D035, A099 clos). Le document dresse le bilan complet de la fin du mois de juillet 2041 :
+1. **Finances et trésorerie** : le traitement luxembourgeois (+9 320,00 €) porte la trésorerie courante à 17 784,70 €. L'ensemble des investissements initiaux engagés sur le mois (abonnement IA 24,30 €, acompte d'honoraires d'avocat 1 511,00 €, billets d'avion Air France 1 285,00 €, frais de visa 73,00 €) ont été intégralement absorbés sans toucher au coussin de réserve de 25 250,00 € conservé sur ton compte d'épargne. Les virements programmés du début de mois (épargne, ETF, prêt immobilier) sont sécurisés.
+2. **Gouvernance et recrutement** : le dossier de Mariam Brou pour la Direction Administrative et Financière est validé sans réserve par Mohamed Coulibaly, avec une prise de poste conjointe à Abidjan le 13 août. Mohamed poursuit ses démarches d'approche pour les postes de Directeur Technique et Directeur Commercial en intégrant le filtre strict à plus de 80/100.
+3. **Actes juridiques et mission** : les statuts de la SASU SOLEIL B2B CI sont prêts chez Maître Gnamien pour la signature du 13 août à 10h00. Le dossier Article 14 pour le lycée est classé pour septembre. Les formalités d'e-visa sont définitivement purgées.
+4. **Suivi technique** : consommation API du jour de 0,40 €, portant la facturation totale de juillet à 47,26 € (sous le plafond mensuel de 50,00 €).
 
-**Réponses attendues :**
-- Aucune réponse urgente en suspens ce soir. Tous les dossiers sont calés.
+**Réponses attendues**
+- Aucune réponse urgente n'est bloquante ce soir : Mohamed Coulibaly a ses instructions pour les directeurs de pôle et Mariam Brou, Maître Gnamien a calé la signature au 13 août, et ton dossier de visa est en règle.
 
-**À faire / à fournir avant le tour suivant :**
-- Rien d'urgent ce soir ni demain. Les prochaines formalités juridiques se dérouleront sur place à Abidjan le 13 août.
+**À faire / à fournir avant le tour suivant**
+- Valider le passage au mois d'août 2041 (échéances programmées du 1er au 5 août : Minett Combat Club 85 €, Zebra 12,83 €, épargne 732 €, ETF 5 755 €, prêt immobilier 949,28 € et assurances 152 €).
+- Arbitrer la prochaine étape de ton emploi du temps estival d'ici le départ pour Abidjan prévu le lundi 12 août au matin.
 
-**Quêtes secondaires :**
-- **Minett Combat Club** : prochaine séance d'entraînement de combat programmée mercredi 31 juillet à 16h00 (I1).
-- **Spuerkeess** : versement de fin de mois de ton traitement luxembourgeois (+9 320,00 € net) prévu mercredi 31 juillet au soir.
-- **Dossier MENJE (Article 14)** : transmission à la direction du lycée à la rentrée de septembre.
+**Quêtes secondaires**
+- Suivi des premiers dossiers de candidature que Mohamed Coulibaly doit soumettre pour la Direction Technique et la Direction Commerciale dès qu'il aura finalisé ses contacts.
+- Préparation matérielle de la mission d'Abidjan du 12 au 25 août 2041.
 
 Que veux-tu faire ?
-*(Avance rapide possible vers demain mardi 30 juillet, ou directement vers mercredi 31 juillet soir pour le versement du salaire luxembourgeois et le Rapport quotidien n° 12).*

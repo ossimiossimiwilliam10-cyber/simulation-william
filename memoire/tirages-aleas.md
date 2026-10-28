@@ -4153,3 +4153,36 @@ Effets à jouer : A23 (lundi 22/07 (soir)) : Très courant ; William voit le mes
 - Actualités de la semaine du 29/07/2041 : modèles LU01, LU03, FR02 [PROCÉDURE : outils/actualites.py] (enregistré le 28/10/2026 00:29 heure machine)
 
 - Tirage [T10] « Cabinet Gnamien : delai de reponse a la validation des statuts » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  35.4 → **rapide** (enregistré le 28/10/2026 00:42 heure machine)
+
+## Tirage de la semaine du 2041-07-29
+
+| ID | Événement | Probabilité | Jet (0-100) | Résultat |
+|---|---|---|---|---|
+| A02 | Problème de santé d'un proche d'un personnage (ex. mère d'Aïcha, tension) | 8 % |  13.6 | non |
+| A07 | Panne réseau (fibre, 4G) ou banque en ligne | 15 % |  46.0 | non |
+| A09 | Erreur administrative (virement mal affecté, pièce perdue, nom mal orthographié) | 10 % |   0.7 | **DÉCLENCHÉ** — mercredi 31/07 (matin) |
+| A12 | Fuite d'information (salaires, avances, statut de William) | 5 % |  54.1 | non |
+| A13 | Opportunité commerciale inattendue (recommandation, appel d'un prospect) | 10 % |  95.0 | non |
+| A17 | William lui-même malade ou épuisé (fatigue, gastro) | 5 % |  88.6 | non |
+| A18 | Incident de transport (taxi, panne, retard) | 15 % |  73.1 | non |
+| A19 | Rhume, angine ou gastro de William | 5 % |  87.1 | non |
+| A20 | Perturbation des trajets frontaliers (bus en retard, A4 ou N4 bouchée, travaux) | 20 % |  50.9 | non |
+| A21 | Panne domestique (chauffe-eau, électroménager, fuite) | 4 % |  46.2 | non |
+| A22 | Courrier administratif (impôts français ou luxembourgeois, CNS, mairie, banque) | 10 % |  73.5 | non |
+| A23 | Tentative d'arnaque (SMS de faux colis, faux conseiller bancaire, faux site) | 15 % |  88.5 | non |
+| A24 | Souci de voisinage (bruit, travaux, haie, stationnement) | 5 % |  36.1 | non |
+| A25 | Blessure légère à l'entraînement (entorse, côte, doigt) | 1 % |  87.7 | non |
+| A26 | Imprévu d'argent (amende, réparation, cadeau, cotisation) | 6 % |  81.6 | non |
+| A27 | Signe d'un ancien (collègue, élève devenu adulte, connaissance) | 8 % |  42.1 | non |
+| A28 | Courriel ou appel du lycée pendant les vacances (réunion de rentrée, ajournements, emploi du temps) | 10 % |  95.3 | non |
+| A29 | Contrôle routier ou radar | 3 % |   9.3 | non |
+| A30 | Occasion inattendue (proposition de cours particuliers, invitation, bon plan) | 8 % |  40.4 | non |
+| A31 | Diarrhée du voyageur ou intoxication alimentaire (à l'étranger) | 12 % |  26.3 | non |
+| A35 | Surfacturation ou arnaque visant un touriste (taxi, boutique, bar) | 5 % |  87.0 | non |
+| A36 | Malentendu de langue (adresse mal comprise, commande erronée, document en coréen) | 10 % |  32.9 | non |
+
+Effets à jouer : A09 (mercredi 31/07 (matin)) : Correction longue, agacement
+
+- Message spontané d'un proche, semaine du 2041-07-29 : Mariana Oliveira (membre régulière du club (sparring)) écrira le 02/08/2041 vers 08:25 (heure de l'expéditeur) · tiré parmi 38 personnes de l'entourage, pondérées par proximité (enregistré le 28/10/2026 00:52 heure machine)
+
+- Tirage [T10] « Delai reponse Mohamed Coulibaly cadrage DAF et recrutement » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  37.2 → **rapide** (enregistré le 28/10/2026 00:53 heure machine)

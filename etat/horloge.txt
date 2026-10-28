@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-07-29 20:00
+horloge: 2041-07-31 20:00
 fuseau: luxembourg
 lieu: Audun-le-Tiche (Moselle), chez William
-tour: 65
-attente: Arbitrage sur l'avance rapide (mardi 30/07 ou mercredi 31/07 salaire et Rapport n° 12)
+tour: 66
+attente: Arbitrage sur la poursuite des vacances d'été (programmation début août : virements mensuels épargne/ETF, séance du vendredi 02/08, attente dossiers DT/DC par Coulibaly)

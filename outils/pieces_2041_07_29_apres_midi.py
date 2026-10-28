@@ -211,3 +211,4 @@ if __name__ == "__main__":
     generer_courriel_validation_gnamien()
     generer_dossier_menje()
     generer_rapport_dg_29_juillet()
+
