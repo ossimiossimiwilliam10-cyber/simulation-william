@@ -287,6 +287,11 @@ def cmd_fin(args):
         avert = [l for l in r.stdout.splitlines() if l.strip().startswith(("TIC", "CASCADE", "RÉPÉTITION"))]
         for l in avert:
             print("  RELIRE (tic) :", l.strip())
+        r2 = lancer(OUTILS / "verifier_texte_joueur.py", "--texte", args.texte,
+                    "--avance-heures", f"{(apres['instant'] - avant['instant']).total_seconds() / 3600:.1f}")
+        for l in r2.stdout.splitlines():
+            if l.strip().startswith("RELIRE (texte joueur)"):
+                print(" ", l.strip())
     else:
         print("(pas de --texte : le texte du tour n'est pas enregistré ; le prochain agent ne le verra pas)")
     if args.resume:

@@ -142,6 +142,7 @@ et parfois peu morale exprès : ne l'en empêche pas, joue les conséquences.
    « la conciliation parfaite entre un effort suffisant, mais pas exagéré »). Le tour se termine par « Que veux-tu faire ? ».
    *(Avant : dernière ligne « 🎚️ Effort conseillé pour le prochain tour : Élevé, Extra ou Max », Max par défaut depuis le 24/07/2040
    → maintenant : supprimée ; réglage de l'utilisateur : Extra.)*
+8. **Texte du joueur propre (28/10/2026, après l'audit du travail de Gemini)** : le texte d'un tour ne contient jamais d'identifiant du moteur (D038, A106, « (I1) », « (A09) »), de mécanisme caché (tirages, fuite interne, escalade externe, tables), ni d'aléa annoncé d'avance ; un avancement de plusieurs jours se raconte en prose, pas en liste de jours ; les personnages ne tiennent pas de discours structurés. `outils/verifier_texte_joueur.py` le contrôle (lu par `tour.py fin` et `controle_coherence.py`).
 ## 6. FICHES
 - **Fiche courte** à la fin de chaque journée simulée (en fin de journal du jour).
 - **Fiche complète** tous les 3 jours simulés (finances, travail et projets, relations,

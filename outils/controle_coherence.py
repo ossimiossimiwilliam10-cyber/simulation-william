@@ -307,6 +307,12 @@ def main():
     print(f"[Tics d'écriture] {len(tics)} avertissement(s) sur les 3 derniers journaux (non bloquant)")
     for t in tics:
         print("  RELIRE", t)
+    import verifier_texte_joueur
+    dernier = RACINE / "etat" / "dernier-tour.md"
+    joueur = verifier_texte_joueur.controle(verifier_texte_joueur.texte_du_joueur(dernier.read_text(encoding="utf-8"))) if dernier.is_file() else []
+    print(f"[Texte du joueur] {len(joueur)} avertissement(s) sur le dernier tour (fuites du moteur, format, style ; non bloquant)")
+    for a in joueur:
+        print("  RELIRE (texte joueur)", a)
     r = subprocess.run([sys.executable, str(RACINE / "outils" / "verifier_pdf.py")], capture_output=True, text=True, encoding="utf-8")
     sortie = [l for l in r.stdout.splitlines() if l.strip() and not l.startswith("[INFO]")]
     mauvais = [l for l in sortie if not l.startswith("[ OK  ]")]
