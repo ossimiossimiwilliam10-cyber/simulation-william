@@ -1,48 +1,50 @@
 # Dernier tour montré au joueur
 
-> Tour n° 74 ; horloge 08/08/2041 10:00 -> 08/08/2041 20:00 ; enregistré le 28/10/2026 12:03 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 75 ; horloge 08/08/2041 20:00 -> 09/08/2041 10:00 ; enregistré le 28/10/2026 12:14 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Reflexion sur la prevention des detournements de fonds, anti-fraude, concurrence loyale et faux rapports : demande de maquette de controle interne a l'equipe virtuelle
+> Validation maquette anti-detournement, procurations Me Gnamien, reflexion quantitative analyst et alerte insolvabilite
 
 ## Texte envoyé au joueur
 
-**JEUDI 8 AOÛT 2041 — 20h00 — Audun-le-Tiche, chez toi**
+**VENDREDI 9 AOÛT 2041 — 10h00 — Audun-le-Tiche, chez toi**
 
-*Dictée : « Koulibaly » = Mohamed Coulibaly.*
+*Dictée : « Maître Nyamia » = Maître Gnamien ; « Koulibaly » = Mohamed Coulibaly.*
 
-La fin de matinée et l'après-midi se déroulent sous une chaleur agréable qui atteint vingt-six degrés. Tu passes une partie de la journée chez toi à approfondir tes réflexions sur la sécurisation absolue de l'entreprise. L'éloignement géographique et la délégation de la gestion opérationnelle à une équipe locale rendent indispensable un système de contrôle étanche, capable de prévenir les détournements de trésorerie, les fraudes sur factures, les faux rapports d'activité et tout risque de captation hostile de la clientèle par les dirigeants sur place.
+La nuit est réparatrice et tu te réveilles en pleine forme après près de huit heures de sommeil complet. En ce vendredi matin, le ciel lorrain est totalement dégagé, baigné d'un grand soleil d'été et d'une fraîcheur matinale vivifiante d'une douzaine de degrés qui grimpe doucement vers vingt et un degrés.
 
-En toute confidentialité, sans en informer qui que ce soit d'autre, tu charges ton équipe virtuelle de concevoir une maquette complète dédiée au contrôle interne, à la conformité et à la sécurité financière.
+Tu commences ta journée par un grand café en préparant méthodiquement tes valises. Le départ pour le Luxembourg-Findel et le vol vers Abidjan via Paris est prévu pour lundi matin à l'aube : nous sommes à trois jours de l'embarquement. Tu rassembles dans ta sacoche de voyage tes originaux d'état civil, tes attestations de pré-enrôlement de visa électronique avec le récépissé de paiement, ton passeport, ton carnet de vaccination international à jour contre la fièvre jaune, ainsi que les copies certifiées conformes de tes diplômes et relevés de notes.
 
-À dix-huit heures, après une séance d'étirements et de gainage au salon, tu découvres la synthèse détaillée et la maquette déposées dans tes dossiers personnels.
+Tu intègres dans ton aide-mémoire personnel la maquette de contrôle interne et anti-détournement validée la veille : elle sera remise et expliquée directement à Mohamed Coulibaly dès ton arrivée en Côte d'Ivoire, dès que l'équipe de direction sera réunie au complet. Ces principes serviront également de trame de référence pour verrouiller les procurations et conventions d'ouverture de comptes bancaires lors de la séance solennelle de signature chez Maître Ismaël Gnamien.
 
-Le document formalise une architecture de contrôle à cinq niveaux conçue pour fonctionner de manière autonome depuis l'Europe :
-- Verrouillage financier et zéro espèces : interdiction absolue de toute manipulation d'argent liquide (aucune caisse physique, règlements 100 % bancarisés par virement ou chèque barré). Les conventions de compte auprès des banques à Abidjan instaureront une double signature électronique obligatoire : le directeur général prépare les ordres, mais tout virement supérieur à dix millions de francs CFA ou vers un compte étranger requiert obligatoirement ta clé de validation token. Par ailleurs, tu disposes d'un accès bancaire administrateur en consultation directe 24h/24 pour suivre les soldes réels sans dépendre des relevés de l'équipe locale.
-- Séparation stricte des tâches : le processus de dépense est scindé en trois maillons indépendants. Le commercial et le directeur général négocient les devis, la direction technique valide la livraison physique et la pose du matériel par procès-verbal d'inspection, et la directrice administrative et financière ne libère le paiement qu'en présence de la facture et du procès-verbal signé. Aucun acteur ne peut initier, valider et payer une commande seul.
-- Protection contre la concurrence déloyale et le coup d'État : centralisation souveraine de la base clients et des études d'ingénierie sur un serveur sécurisé dont tu détiens seul les accès administrateur racine, avec alerte automatique en cas d'extraction suspecte. La convention de mandat du directeur général intègre déjà l'interdiction de concurrence de douze mois avec clause pénale de vingt-quatre millions de francs CFA et poursuites pénales immédiates en cas de manquement.
-- Détection des faux rapports par triple croisement : les rapports d'activité locaux seront confrontés automatiquement aux relevés bancaires bruts, aux déclarations fiscales de TVA déposées auprès des impôts ivoiriens, et surtout au télémonitoring direct des compteurs de production raccordés sur les toitures industrielles, qui transmettent la puissance réelle produite sans intervention humaine.
-- Pilotage du dispositif : le suivi quotidien et hebdomadaire est confié à ton pôle virtuel d'audit (au sein de ton application de gestion), qui effectue les réconciliations de données et t'alerte en cas d'anomalie. En appui, un commissaire aux comptes indépendant agréé à Abidjan sera mandaté pour réaliser un audit semestriel inopiné et l'inventaire physique annuel du matériel.
+Entre le pliage de tes vêtements et l'organisation de tes affaires, tu poursuis tes échanges confidentiels avec ton équipe virtuelle au sujet de ta préoccupation stratégique majeure : la survie et la solvabilité à long terme de l'entreprise, et la protection absolue de tes arrières financiers.
 
-La maquette est archivée en format final dans tes pièces de travail, prête à servir de cadre pour paramétrer les accès bancaires et informatiques lors de ta mission.
+À neuf heures et demie, une étude de cadrage complète et détaillée est déposée dans tes dossiers de travail sous format PDF.
 
-Il est 20h00.
+L'analyse apporte des réponses précises et structurées à chacune de tes interrogations :
+- **Rattachement de l'Analyste Quantitatif (Risk Analyst)** : L'étude confirme la pertinence de ce profil pour modéliser le risque, mais tranche sans ambiguïté sur son positionnement. L'analyste du risque doit être rattaché impérativement au pôle Finance et Comptabilité, sous l'autorité directe de la directrice administrative et financière Mariam Brou, avec une ligne de reporting direct au président-directeur général. Le positionner au sein du pôle commercial créerait un conflit d'intérêts immédiat et dangereux : l'équipe commerciale a pour objectif de maximiser le volume de contrats et le chiffre d'affaires, tandis que l'analyste du risque a pour fonction d'évaluer froidement et objectivement la solidité des contreparties industrielles sur des baux de dix à quinze ans, le risque de change sur les équipements importés et le coût de revient actualisé de l'électricité.
+- **Double niveau de défense et contre-expertise virtuelle** : Pour que tu ne sois jamais dépendant de projections locales optimistes, un modèle de stress-test automatique et indépendant est mis en place par ton équipe virtuelle. À chaque rapport financier mensuel et avant chaque éventuelle injection de fonds depuis l'Europe, l'équipe virtuelle analyse les flux bruts, calcule le temps de survie résiduel en trésorerie disponible (le runway) et la vitesse de consommation du cash (le burn rate), et délivre une alerte immédiate en cas de risque de dérapage.
+- **Connexion bancaire et étanchéité patrimoniale** : L'interfaçage de tes comptes personnels Spuerkeess en consultation sécurisée (lecture seule par protocole bancaire) est techniquement validé pour te donner une vision consolidée de ton épargne et de tes disponibilités. Mais l'étude souligne surtout un point de droit capital : en tant qu'associé unique d'une SASU, ta responsabilité financière est strictement bornée au montant du capital social souscrit (dix millions de francs CFA, soit environ quinze mille deux cent quarante-cinq euros). Tant que tu ne signes aucun engagement de caution personnelle solidaire auprès des banques locales, ton patrimoine personnel de plus de huit cent cinquante mille euros (ta maison entièrement payée, ton portefeuille d'ETF Monde et tes liquidités luxembourgeoises) demeure juridiquement inattaquable et parfaitement étanche en cas de revers opérationnel à Abidjan.
+
+Le document est archivé et disponible pour consultation dans tes pièces personnelles. 
+
+Il est 10h00.
 
 ---
 
 **Réponses attendues**
 
-- Avis sur l'architecture de contrôle proposée : ce dispositif de double signature, de télémonitoring direct et de séparation des trois tiers te convient-il pour verrouiller la gestion avant la signature des actes du 13 août ?
+- Confirmation de la prise en compte du positionnement de l'analyste du risque au pôle Finance (DAF) et du calendrier d'intégration (en phase de déploiement des centrales).
+- Validation de l'interfaçage de ton application bancaire en lecture seule pour le suivi consolidé de tes liquidités.
 
 **À faire / à fournir avant le tour suivant**
 
-- Valider les principes de contrôle pour caler les procurations bancaires lors de la séance notariale chez Maître Gnamien.
-- Poursuivre la préparation des bagages (départ lundi 12 août à 06h50 de Findel, J-4).
+- Poursuivre le bouclage des bagages et la vérification ultime des documents physiques avant le week-end pré-départ (départ lundi 12 août à 06h50).
+- Préparer les instructions de clôture de semaine pour l'équipe virtuelle avant l'embarquement.
 
 **Quêtes secondaires**
 
-- La maquette des missions continues et objectifs de chaque direction reste disponible pour ton entretien de cadrage avec Mohamed Coulibaly.
-- Le dossier pour le ministère luxembourgeois reste prêt pour la rentrée de septembre.
+- Passer en revue la liste des contacts d'urgence et coordonnées abidjanaises (Cabinet Gnamien, Mohamed Coulibaly, hôtel Azalaï) avant le vol.
 
 Que veux-tu faire ?

@@ -10,8 +10,8 @@ MISE À JOUR DE CONSIGNES (audit de Claude sur tes tours 32 à 68). Continue la 
 2. Ce qui n'allait pas, à ne plus faire :
 a) Identifiants du moteur dans le texte du joueur : D038, « A106 clos », « (I1) », « (A003) », « (E007) »… Cite les pièces par leur titre (« le rapport quotidien du 3 août »), jamais par un code.
 b) Mécanismes cachés : « tirage hebdomadaire », « fuite interne », « escalade externe », dérogations, tables… Jamais dans le texte du joueur.
-c) Aléas tirés annoncés d'avance (ex. « aléa A09 programmé jeudi 8 août ») : jamais ; un aléa se joue le jour dit, par surprise. La Revue du lundi ne les annonce pas non plus.
-d) Plusieurs jours avancés d'un coup, racontés en liste (« Le samedi 3 août… Le dimanche 4 août… ») : raconte d'un trait, en prose fluide ; n'avance pas de plus de 36 h dans un tour, et arrête-toi dès qu'un événement important arrive.
+c) Aléas tirés annoncés d'avance (ex. « aléa programmé jeudi 8 août 2041 ») : jamais ; un aléa se joue le jour dit, par surprise. La Revue du lundi ne les annonce pas non plus.
+d) Plusieurs jours avancés d'un coup, racontés en liste (« Le samedi 3 août 2041… Le dimanche 4 août 2041… ») : raconte d'un trait, en prose fluide ; n'avance pas de plus de 36 h dans un tour, et arrête-toi dès qu'un événement important arrive.
 e) Personnages trop lisses : pas de « Premièrement… Deuxièmement… », pas de flatterie (« Monsieur le Président »). Phrases courtes, hésitations, intérêts propres ; les défauts, soucis et secrets tirés de chaque fiche (personnes/<nom>.md) se voient dans les actes : retards, oublis, ton, argent.
 f) Revue du lundi : elle doit contenir 3 à 5 idées nouvelles de réalisme et d'immersion (à piocher d'abord dans etat/aleas.md, statut « proposé »), à faire valider par moi, pas seulement un bilan et un programme.
 
