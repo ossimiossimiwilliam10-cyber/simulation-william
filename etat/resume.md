@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 28/10/2026 12:29 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 28/10/2026 12:40 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : vendredi 09/08/2041 16:00 (luxembourg, UTC+2)
+## Horloge : samedi 10/08/2041 20:00 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez toi
-- **Heure dans les autres lieux** : abidjan 14:00 ; lisbonne 15:00 ; mindelo 13:00 ; casablanca 15:00 ; douala 15:00 ; addis 17:00 ; manille 22:00 ; paris 16:00 ; seoul 23:00 ; bresil 11:00
+- **Heure dans les autres lieux** : abidjan 18:00 ; lisbonne 19:00 ; mindelo 17:00 ; casablanca 19:00 ; douala 19:00 ; addis 21:00 ; manille 02:00 ; paris 20:00 ; seoul 03:00 ; bresil 15:00
 - **En attente de William** :
-  - Choix du mode de transmission des 3 maquettes a Mohamed Coulibaly (envoi vendredi ou remise mardi 13 a Abidjan)
+  - Prise d'acte de l'accord favorable de Coulibaly (report assistanat DG en phase 2) et validation de l'application de gestion actualisee avant le dimanche J-1
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 740,59 €**
@@ -38,9 +38,7 @@
 - Pendant : réactions et négociations par `jet.py --table Tn` (T1 à T14 ; `--pour` pour un personnage) ; personnages nouveaux par `personnage.py nouveau` ; faits et prix par `faits.py` et `prix.py` ; lieux par `lieux.py voir` ; révélations dans `savoir.py ajouter` ; argent dans `grand_livre.py ajouter`.
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
-## Fin du dernier journal (2041-08-09.md, 6 dernières lignes)
-> # Vendredi 9 août 2041 — univers 3, 25e jour
-> - **00h00-10h00** (tour n° 75) : voir le texte exact du tour (journal/tours/).
-> - Tour en cours à 10h00, en attente de William : **Arbitrage sur l'integration du risk analyst et validation finale des bagages avant le week-end pre-depart (J-3)**.
-> - **10h00-16h00** (tour n° 76) : voir le texte exact du tour (journal/tours/).
-> - Tour en cours à 16h00, en attente de William : **Choix du mode de transmission des 3 maquettes a Mohamed Coulibaly (envoi vendredi ou remise mardi 13 a Abidjan)**.
+## Fin du dernier journal (2041-08-10.md, 6 dernières lignes)
+> # Samedi 10 août 2041 — univers 3, 26e jour
+> - **00h00-20h00** (tour n° 77) : voir le texte exact du tour (journal/tours/).
+> - Tour en cours à 20h00, en attente de William : **Prise d'acte de l'accord favorable de Coulibaly (report assistanat DG en phase 2) et validation de l'application de gestion actualisee avant le dimanche J-1**.

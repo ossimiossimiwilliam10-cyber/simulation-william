@@ -1,51 +1,51 @@
 # Dernier tour montré au joueur
 
-> Tour n° 76 ; horloge 09/08/2041 10:00 -> 09/08/2041 16:00 ; enregistré le 28/10/2026 12:28 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 77 ; horloge 09/08/2041 16:00 -> 10/08/2041 20:00 ; enregistré le 28/10/2026 12:40 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Validation etude risques quantitatifs, connexion bancaire Spuerkeess Open Banking, finalisation bagages et maquette equipes operationnelles niveaux 3 et 4
+> Transmission des 3 maquettes a Coulibaly, validation calibrage equipes, mise en place des fiches d'evaluation collaborateurs et de l'auto-evaluation souveraine dans l'application de gestion
 
 ## Texte envoyé au joueur
 
-**VENDREDI 9 AOÛT 2041 — 16h00 — Audun-le-Tiche, chez toi**
+**SAMEDI 10 AOÛT 2041 — 20h00 — Audun-le-Tiche, chez toi**
 
-*Dictée : « Koulibaly » = Mohamed Coulibaly.*
+*Dictée : « les croix à maquette » = les trois maquettes ; « Koulibaly » = Mohamed Coulibaly ; « moindre associé » = chaque membre de l'entreprise.*
 
-L'après-midi se déroule sous une lumière éclatante et une température idéale de vingt et un degrés. Chez toi, dans le calme de ta maison, tu franchis une étape décisive dans le contrôle financier de tes activités : tu procèdes à la connexion immédiate de ton application bancaire Spuerkeess à ton application de gestion via le protocole sécurisé en lecture seule.
+Le vendredi en fin d'après-midi, tu valides l'ensemble des travaux de cadrage et tu donnes l'instruction de transmettre sans délai les trois maquettes d'organisation à Mohamed Coulibaly. Le courriel officiel lui est expédié par le canal institutionnel sécurisé avec les trois dossiers en pièces jointes : les missions continues par direction, le dispositif de contrôle interne et anti-détournement, ainsi que la structuration des équipes opérationnelles de terrain. Tu lui demandes d'engager le sourcing des profils sur ces bases dès validation, et tu le sollicites directement sur l'opportunité d'une assistance de direction générale dès le démarrage.
 
-L'interfaçage est instantané. Ton tableau de bord affiche désormais en temps réel tes soldes consolidés : ton compte courant, ton livret projet de près de soixante-seize mille euros réservé au déploiement solaire et ton épargne de sécurité de vingt-cinq mille deux cent cinquante euros. Grâce à ce pont numérique, ton pôle financier virtuel peut simuler au centime près l'impact de chaque futur apport en compte courant d'associé vers Abidjan, sans aucune possibilité d'opération débitrice non sollicitée, préservant ainsi l'étanchéité totale de ton patrimoine privé.
+Après une soirée tranquille et une nuit calme de près de huit heures de sommeil réparateur, la journée du samedi s'ouvre sous un ciel lorrain bas et gris. Des averses intermittentes et une température fraîche d'une quinzaine de degrés t'incitent naturellement à rester chez toi pour te consacrer à ton grand chantier du week-end : l'évolution de ton application de gestion.
 
-Dans la foulée, tu achèves méthodiquement le bouclage de tes bagages. Tes deux valises principales sont fermées, étiquetées et déposées dans l'entrée. Tu passes une dernière fois en revue ta sacoche de cabine : passeport biométrique, attestation officielle de pré-enrôlement pour le visa électronique avec son reçu de paiement, carnet de vaccination international jaune, ainsi que les originaux et copies certifiées conformes de tes diplômes et relevés de notes. Tout le volet matériel et administratif est verrouillé à trois jours du départ.
+En début d'après-midi, à treize heures dix-huit, la notification d'un nouveau courriel apparaît sur ton écran. Mohamed Coulibaly t'adresse une réponse complète et circonstanciée depuis Abidjan :
+- Il confirme son accord plein et sans réserve sur les trois maquettes de gouvernance. Il souligne en particulier que la dématérialisation intégrale des flux financiers, le principe du zéro espèces et la double signature sur tout virement supérieur à dix millions de francs CFA protègent l'entreprise autant qu'ils sécurisent sa propre responsabilité de mandataire social.
+- Il valide le calibrage des effectifs de terrain et la doctrine de recrutement : exigence de plus de quatre-vingts sur cent pour le chef d'équipe technique, priorité accordée aux jeunes de moins de trente ans à fort potentiel pour les installateurs et commerciaux, et création du poste d'analyste du risque au sein du pôle financier.
+- Concernant l'assistance de direction générale, son avis est net : il préconise formellement d'ajourner ce recrutement à la phase de croissance. En phase d'amorçage, ce poste alourdirait inutilement les charges fixes ; il prévoit d'assurer le secrétariat courant avec l'appui de Mariam Brou et les services mutualisés du centre d'affaires.
+- Il t'assure que les fiches de poste sont en cours de calibrage pour lancer les démarches dès la semaine prochaine, et réitère son impatience de t'accueillir mardi 13 août pour la signature solennelle chez Maître Ismaël Gnamien.
 
-Tu te consacres ensuite avec ton équipe virtuelle à la conception de la troisième maquette d'organisation : la structuration complète des équipes opérationnelles de terrain, les effectifs des niveaux 3 et 4, et la typologie des missions.
+Rassuré par cet alignement stratégique parfait, tu passes le reste de ton samedi à programmer et restructurer ton application de gestion pour lui apporter une ergonomie supérieure et de nouveaux modules d'analyse.
 
-À quinze heures et demie, une nouvelle maquette formalisée sous format PDF est déposée dans tes dossiers de travail.
+Au terme de plusieurs heures de code et de paramétrage, la version actualisée de ton outil de pilotage intègre deux systèmes majeurs :
+- **Module des fiches de collaborateurs** : Chaque cadre et futur salarié de la société dispose d'une page de profil dédiée. D'un simple clic sur le nom d'un collaborateur, tu visualises sa fiche complète : son historique de parcours, ses accomplissements marquants, ses points de vigilance ou manquements constatés, ainsi que sa note globale de performance sur cent. Ce barème sera alimenté de manière régulière par les données objectives des rapports d'étape du mardi et complets du vendredi. Un indicateur de variation temporelle te signale instantanément toute érosion de note, permettant d'identifier immédiatement un fléchissement de rigueur ou de productivité.
+- **Module souverain d'évaluation de l'Associé Unique** : Conçu dans une étanchéité absolue, ce tableau de bord privé est réservé à tes yeux seuls. L'équipe humaine à Abidjan ignore totalement son existence. Ton pôle virtuel, connecté en lecture seule à tes comptes bancaires personnels et destinataire direct de tes directives, évalue avec neutralité la portée de tes décisions managériales, le respect de tes équilibres patrimoniaux et la pertinence de tes arbitrages. Il t'attribue une note stratégique globale assortie d'une ligne de recommandation corrective pour perfectionner ta posture d'investisseur.
 
-L'étude organisationnelle détaille l'architecture suivante :
-- **Typologie des missions à trois niveaux** : Le document officialise la distinction entre les missions continues (routines hebdomadaires et mensuelles de fond inscrites dans chaque fiche de poste), les missions de direction (directives et ordres d'exploitation courants émis par le président-directeur général et les directeurs de pôles), et les missions spéciales (ordres de mission ponctuels, audits ciblés ou vérifications confidentielles ordonnés directement par l'associé unique fondateur via son canal sécurisé).
-- **Direction Générale (PDG Mohamed Coulibaly — Niveau 1)** : Pour maîtriser la masse salariale fixe au lancement, le pôle virtuel préconise de ne pas recruter d'assistant de direction dédié en phase d'amorçage, l'accueil et le secrétariat léger pouvant être absorbés par la polyvalence du pôle administratif. Un poste d'assistant de direction générale et juridique pourra être ouvert en phase de montée en charge. La question sera posée à Mohamed pour recueillir son appréciation de charge.
-- **Direction Commerciale (Niveau 2)** : Aucun chef d'équipe intermédiaire n'est prévu au démarrage afin de garder une ligne managériale courte et réactive. L'équipe est composée de deux chargés d'affaires B2B grands comptes (Niveau 4), recrutés parmi de jeunes profils de moins de trente ans présentant un fort dynamisme, une note de sélection entre 75 et 85 sur 100 et un potentiel de progression élevé, pour prospecter les toitures industrielles de Vridi, Yopougon et PK24.
-- **Direction Technique (Directeur Technique Éric Koffi Yao — Niveau 2)** : Structuration avec un chef d'équipe travaux et chantiers (Niveau 3, profil expérimenté d'au moins cinq ans sur site industriel, note égale ou supérieure à 80 sur 100 avec un minimum de 85 sur le cœur de métier), encadrant une première équipe de terrain de deux à trois techniciens installateurs photovoltaïques et câbleurs électriciens (Niveau 4, jeunes de moins de trente ans, note entre 75 et 85 sur 100 avec indicateur de potentiel). Une seconde équipe travaux sera constituée dès que deux centrales seront en chantier simultané.
-- **Direction Administrative et Financière (DAF Mariam Brou — Niveau 2)** : Un analyste du risque quantitatif (Niveau 3 ou 4 spécialisé, un seul poste suffisant pour modéliser le portefeuille de contrats PPA, le risque de contrepartie et le rythme de consommation du cash) et un comptable général et paie (Niveau 4, jeune profil rigoureux, note 75 à 85 sur 100).
-- **Stratégie d'envoi des maquettes** : Avec désormais trois maquettes complètes prêtes (missions continues par direction, contrôle interne et anti-détournement, équipes opérationnelles), deux approches sont envisageables : soit une transmission par courriel officiel à Mohamed Coulibaly dès ce vendredi pour lui laisser le week-end d'appropriation avant ton vol, soit une conservation confidentielle pour une remise en main propre lors de la première séance de travail en tête-à-tête à Abidjan le mardi 13 août.
+À vingt heures, le système est entièrement compilé, testé et déployé sur ton téléphone. À deux jours de ton départ pour l'aéroport de Luxembourg-Findel, tes bagages sont bouclés, l'équipe dirigeante locale est alignée sur ta doctrine et tes outils souverains de supervision sont opérationnels.
 
-Il est 16h00.
+Il est 20h00.
 
 ---
 
 **Réponses attendues**
 
-- Choix sur le mode de transmission des 3 maquettes à Mohamed Coulibaly : envoi par courriel dès ce vendredi ou remise physique en main propre à Abidjan le 13 août.
-- Validation du calibrage des équipes opérationnelles (effectif initial de 7 à 9 personnes avec chefs d'équipe niveau 3 et jeunes niveau 4).
+- Prise d'acte de l'accord favorable de Mohamed Coulibaly et de sa recommandation d'ajourner l'assistance de direction générale à la phase 2.
+- Validation des réglages de la version actualisée de ton application de gestion (fiches collaborateurs et module d'évaluation souveraine).
 
 **À faire / à fournir avant le tour suivant**
 
-- Valider la consigne d'envoi ou de mise en réserve des 3 maquettes de gouvernance.
-- Profiter du week-end pré-départ pour le repos physique avant le voyage du lundi 12 août.
+- Journée du dimanche 11 août (J-1 avant départ) : repos physique, footing dominical de 5 km et derniers préparatifs personnels.
+- Réveil programmé pour le départ matinal du lundi 12 août vers Findel (vol AF1233 à 06h50).
 
 **Quêtes secondaires**
 
-- Consulter les prévisions météo du week-end sur Audun-le-Tiche (pluie annoncée samedi, embellie dimanche).
+- Vérifier l'état de charge de ta voiture pour le trajet jusqu'à l'aéroport lundi à l'aube.
 
 Que veux-tu faire ?

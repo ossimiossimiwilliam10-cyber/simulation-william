@@ -31,7 +31,7 @@
 - **Derniers événements** : 20/07 petit_evenement (nouvelle de la famille ou des amis); 18/07 sans_histoire; 22/07 petit_evenement (bouchons sur l'A4 et la frontière); 30/07 petit_evenement (achat (cadeau d'anniversaire)); 07/08 sans_histoire
 
 ### Mariana Oliveira (membre régulière du club (sparring))
-- **Lien avec William** : contact_recent (whatsapp)
+- **Lien avec William** : aucun (whatsapp)
 - **Objectif** : obtenir la nationalité luxembourgeoise ; **souci** : contrat de travail qui se termine bientôt ; **foyer** : en couple, sans enfant
 - **Secret (moteur seulement)** : fume en cachette alors qu'il dit avoir arrêté (gravité 1)
 - **Horaires** : règle « bureau », fuseau luxembourg, décalage -17 min ; travail 08:43-17:13 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:13-06:43
