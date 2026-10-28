@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 28/10/2026 13:37 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 28/10/2026 13:50 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mardi 13/08/2041 15:30 (abidjan, UTC+0)
+## Horloge : mardi 13/08/2041 18:00 (abidjan, UTC+0)
 - **Lieu de William** : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-- **Heure dans les autres lieux** : lisbonne 16:30 ; luxembourg 17:30 ; mindelo 14:30 ; casablanca 16:30 ; douala 16:30 ; addis 18:30 ; manille 23:30 ; paris 17:30 ; seoul 00:30 ; bresil 12:30
+- **Heure dans les autres lieux** : lisbonne 19:00 ; luxembourg 20:00 ; mindelo 17:00 ; casablanca 19:00 ; douala 19:00 ; addis 21:00 ; manille 02:00 ; paris 20:00 ; seoul 03:00 ; bresil 15:00
 - **En attente de William** :
-  - Validation de l'étude de cadrage budgétaire d'installation (43 M FCFA) et attente du rapport d'étape de 17h00
+  - Validation de la maquette de distribution des dividendes et arbitrage sur les visites de villas pour le siège social
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 355,59 €**
@@ -37,9 +37,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-08-13.md, 6 dernières lignes)
-> - Tour en cours à 09h50, en attente de William : **Séance solennelle de signature notariée des statuts et du mandat DG chez Me Gnamien à 10h00, et validation des propositions P27 à P31 de la Revue du lundi n° 4**.
-> - **09h50-12h45** (tour n° 81) : voir le texte exact du tour (journal/tours/).
-> - Tirages du tour : T4 → aucune (0,26) ; T5 → fuite_interne (27,92) ; T4 → aucune (2,36) ; T5 → aucune (30,43).
 > - Tour en cours à 12h45, en attente de William : **Arbitrage sur le dejeuner de travail et le calendrier des visites de villas QG pour mercredi apres-midi**.
 > - **12h45-15h30** (tour n° 82) : voir le texte exact du tour (journal/tours/).
 > - Tour en cours à 15h30, en attente de William : **Validation de l'étude de cadrage budgétaire d'installation (43 M FCFA) et attente du rapport d'étape de 17h00**.
+> - **15h30-18h00** (tour n° 83) : 15h30-18h00 : arbitrage apport mixte 50/50 (épargne et ETF Monde) validé par le pôle financier virtuel ; maquette PDF officielle de politique de distribution des dividendes (40-50 % après apurement prioritaire CCA) générée ; balade au campus UFHB de Cocody, croisement et échange courtois avec Kady Kouadio (étudiante en master, 22 ans, description exhaustive Règle 1
+> - Tirages du tour : T17 Kady → poli_bref (10,65).
+> - Tour en cours à 18h00, en attente de William : **Validation de la maquette de distribution des dividendes et arbitrage sur les visites de villas pour le siège social**.

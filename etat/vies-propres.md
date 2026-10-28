@@ -218,3 +218,10 @@
 - **Secret (moteur seulement)** : a fait une demande de crédit refusée (gravité 1)
 - **Horaires** : règle « bureau », fuseau abidjan, décalage +22 min ; travail 09:22-17:52 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:52-07:22
 - **Derniers événements** : 22/07 avancee_objectif (démarche pour son objectif : changer de métier); 01/08 sans_histoire; 07/08 sans_histoire; 13/08 petit_evenement (dépense imprévue (réparation du téléphone))
+
+### Kady Kouadio (étudiante en master à l'UFHB)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : préparer une compétition ou un examen ; **souci** : contrat de travail qui se termine bientôt ; **foyer** : vit chez ses parents
+- **Secret (moteur seulement)** : —
+- **Horaires** : règle « etudiant », fuseau abidjan, décalage -6 min ; travail 08:54-16:54 (lun, mar, mer, jeu, ven), trajet 30 min ; sommeil 00:24-08:24
+- **Derniers événements** : —
