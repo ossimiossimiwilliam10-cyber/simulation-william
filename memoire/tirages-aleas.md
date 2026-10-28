@@ -4298,3 +4298,9 @@ Effets à jouer : A07 (mercredi 14/08 (soir)) : Retard d'un virement, d'un envoi
 - Jet « femme aborde William sur la plage » : probabilité 12 %, jet  88.2 → **NON** [DÉROGATION : aléa d'une rencontre spontanée sur la plage de Grand-Bassam] (enregistré le 28/10/2026 14:08 heure machine)
 
 - Tirage [T17] « échange poli au club de sport » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  75.5 → **reciproque** (enregistré le 28/10/2026 14:34 heure machine)
+
+- Tirage [T17] « invitation à déjeuner pour le jeudi férié de l'Assomption » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  75.6 → **reciproque** (enregistré le 28/10/2026 14:50 heure machine)
+
+- Tirage [T10] « délai réponse Fatoumata » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet   8.7 → **immediat** (enregistré le 28/10/2026 14:50 heure machine)
+
+- Tirage [T17] « proposition de prolonger l'après-midi ensemble à la résidence hôtelière » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  15.3 → **poli_bref** (enregistré le 28/10/2026 14:50 heure machine)

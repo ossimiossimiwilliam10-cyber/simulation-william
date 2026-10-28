@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-08-14 22:00
+horloge: 2041-08-15 16:30
 fuseau: abidjan
 lieu: Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-tour: 87
-attente: Message éventuel à Fatoumata Gnagne pour le jeudi férié et choix de participation à la signature du bail vendredi
+tour: 88
+attente: Préparation de la journée clé de vendredi (RCCM, remise des clés villa Vallons, réception candidatures Direction Commerciale)
