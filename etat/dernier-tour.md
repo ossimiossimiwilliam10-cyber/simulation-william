@@ -1,51 +1,44 @@
 # Dernier tour montré au joueur
 
-> Tour n° 77 ; horloge 09/08/2041 16:00 -> 10/08/2041 20:00 ; enregistré le 28/10/2026 12:40 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 78 ; horloge 10/08/2041 20:00 -> 11/08/2041 21:30 ; enregistré le 28/10/2026 12:56 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Transmission des 3 maquettes a Coulibaly, validation calibrage equipes, mise en place des fiches d'evaluation collaborateurs et de l'auto-evaluation souveraine dans l'application de gestion
+> Repos dominical, footing 5 km, charge voiture electrique a 100%, programmation reveil 04h15 pour vol Findel, et extension fiches d'evaluation a tout le personnel
 
 ## Texte envoyé au joueur
 
-**SAMEDI 10 AOÛT 2041 — 20h00 — Audun-le-Tiche, chez toi**
+**DIMANCHE 11 AOÛT 2041 — 21h30 — Audun-le-Tiche, chez toi**
 
-*Dictée : « les croix à maquette » = les trois maquettes ; « Koulibaly » = Mohamed Coulibaly ; « moindre associé » = chaque membre de l'entreprise.*
+La nuit de samedi à dimanche est paisible et réparatrice. Tu te réveilles au petit matin sous une lumière radieuse : après la grisaille de la veille, un grand soleil d'été illumine la Lorraine, avec une fraîcheur matinale d'une douzaine de degrés qui grimpe agréablement vers vingt et un degrés en milieu de journée.
 
-Le vendredi en fin d'après-midi, tu valides l'ensemble des travaux de cadrage et tu donnes l'instruction de transmettre sans délai les trois maquettes d'organisation à Mohamed Coulibaly. Le courriel officiel lui est expédié par le canal institutionnel sécurisé avec les trois dossiers en pièces jointes : les missions continues par direction, le dispositif de contrôle interne et anti-détournement, ainsi que la structuration des équipes opérationnelles de terrain. Tu lui demandes d'engager le sourcing des profils sur ces bases dès validation, et tu le sollicites directement sur l'opportunité d'une assistance de direction générale dès le démarrage.
+À huit heures et demie, tu enfiles ta tenue de course pour accomplir ton footing dominical habituel. Tu parcours tes cinq kilomètres d'une foulée souple et rythmée autour d'Audun-le-Tiche. Les sensations physiques sont excellentes : le repos du week-end a parfaitement régénéré tes articulations et ton souffle est fluide. Après une douche fraîche et une séance d'étirements complets, tu savoures un grand café dans ton salon.
 
-Après une soirée tranquille et une nuit calme de près de huit heures de sommeil réparateur, la journée du samedi s'ouvre sous un ciel lorrain bas et gris. Des averses intermittentes et une température fraîche d'une quinzaine de degrés t'incitent naturellement à rester chez toi pour te consacrer à ton grand chantier du week-end : l'évolution de ton application de gestion.
+Le reste de la journée est dédié au calme, à la détente et aux ultimes réglages logistiques. Tu branches ta voiture électrique sur ta borne à domicile : en milieu d'après-midi, la batterie affiche une charge complète à cent pour cent, soit plus de quatre cent cinquante kilomètres d'autonomie pour couvrir les trente-cinq kilomètres d'autoroute qui te séparent de l'aéroport de Luxembourg-Findel.
 
-En début d'après-midi, à treize heures dix-huit, la notification d'un nouveau courriel apparaît sur ton écran. Mohamed Coulibaly t'adresse une réponse complète et circonstanciée depuis Abidjan :
-- Il confirme son accord plein et sans réserve sur les trois maquettes de gouvernance. Il souligne en particulier que la dématérialisation intégrale des flux financiers, le principe du zéro espèces et la double signature sur tout virement supérieur à dix millions de francs CFA protègent l'entreprise autant qu'ils sécurisent sa propre responsabilité de mandataire social.
-- Il valide le calibrage des effectifs de terrain et la doctrine de recrutement : exigence de plus de quatre-vingts sur cent pour le chef d'équipe technique, priorité accordée aux jeunes de moins de trente ans à fort potentiel pour les installateurs et commerciaux, et création du poste d'analyste du risque au sein du pôle financier.
-- Concernant l'assistance de direction générale, son avis est net : il préconise formellement d'ajourner ce recrutement à la phase de croissance. En phase d'amorçage, ce poste alourdirait inutilement les charges fixes ; il prévoit d'assurer le secrétariat courant avec l'appui de Mariam Brou et les services mutualisés du centre d'affaires.
-- Il t'assure que les fiches de poste sont en cours de calibrage pour lancer les démarches dès la semaine prochaine, et réitère son impatience de t'accueillir mardi 13 août pour la signature solennelle chez Maître Ismaël Gnamien.
+Tu intègres également dans ton système de gestion ta doctrine managériale globale : chaque membre du personnel à temps plein sans exception, des directeurs jusqu'aux agents de sécurité et d'entretien, disposera de sa fiche nominative, de ses points d'évaluation et de sa note dynamique sur cent dans l'application dès son recrutement. Les profils de cadrage pour les postes de surveillance du quartier général et des services généraux sont d'ores et déjà paramétrés dans la base de données de l'application, prêts à être activés lors de l'installation physique des bureaux à Abidjan.
 
-Rassuré par cet alignement stratégique parfait, tu passes le reste de ton samedi à programmer et restructurer ton application de gestion pour lui apporter une ergonomie supérieure et de nouveaux modules d'analyse.
+En début de soirée, après un repas léger, tu procèdes à l'inspection finale de tes affaires. Tes deux valises principales sont alignées dans le couloir d'entrée, étiquetées et cadenassées. Tu ouvres une dernière fois ta sacoche de cabine pour t'assurer que rien ne manque : ton passeport biométrique, l'attestation de pré-enrôlement du visa électronique biométrique avec son récépissé officiel, ton carnet international de vaccination jaune à jour contre la fièvre jaune, ainsi que tes diplômes universitaires originaux accompagnés de leurs relevés de notes certifiés conformes. Tout est en ordre rigoureux.
 
-Au terme de plusieurs heures de code et de paramétrage, la version actualisée de ton outil de pilotage intègre deux systèmes majeurs :
-- **Module des fiches de collaborateurs** : Chaque cadre et futur salarié de la société dispose d'une page de profil dédiée. D'un simple clic sur le nom d'un collaborateur, tu visualises sa fiche complète : son historique de parcours, ses accomplissements marquants, ses points de vigilance ou manquements constatés, ainsi que sa note globale de performance sur cent. Ce barème sera alimenté de manière régulière par les données objectives des rapports d'étape du mardi et complets du vendredi. Un indicateur de variation temporelle te signale instantanément toute érosion de note, permettant d'identifier immédiatement un fléchissement de rigueur ou de productivité.
-- **Module souverain d'évaluation de l'Associé Unique** : Conçu dans une étanchéité absolue, ce tableau de bord privé est réservé à tes yeux seuls. L'équipe humaine à Abidjan ignore totalement son existence. Ton pôle virtuel, connecté en lecture seule à tes comptes bancaires personnels et destinataire direct de tes directives, évalue avec neutralité la portée de tes décisions managériales, le respect de tes équilibres patrimoniaux et la pertinence de tes arbitrages. Il t'attribue une note stratégique globale assortie d'une ligne de recommandation corrective pour perfectionner ta posture d'investisseur.
+Sur ton téléphone, tu programmes ton alarme principale pour quatre heures quinze du matin, doublée d'une sonnerie de secours à quatre heures vingt-cinq. Ce timing te permettra d'émerger sereinement, de prendre un café chaud, de charger tes valises dans le coffre et de prendre la route à quatre heures quarante-cinq pour arriver au terminal de Findel vers cinq heures et quart, soit une heure et demie avant le décollage du vol Air France AF1233 prévu à six heures cinquante.
 
-À vingt heures, le système est entièrement compilé, testé et déployé sur ton téléphone. À deux jours de ton départ pour l'aéroport de Luxembourg-Findel, tes bagages sont bouclés, l'équipe dirigeante locale est alignée sur ta doctrine et tes outils souverains de supervision sont opérationnels.
+La maison est propre, les volets sont vérifiés, la mission est minutieusement préparée et Mohamed Coulibaly t'attend mardi matin à Abidjan. Il est temps de t'endormir pour cette dernière nuit avant le grand départ.
 
-Il est 20h00.
+Il est 21h30.
 
 ---
 
 **Réponses attendues**
 
-- Prise d'acte de l'accord favorable de Mohamed Coulibaly et de sa recommandation d'ajourner l'assistance de direction générale à la phase 2.
-- Validation des réglages de la version actualisée de ton application de gestion (fiches collaborateurs et module d'évaluation souveraine).
+- Validation du réveil et du créneau de départ matinal pour Luxembourg-Findel.
 
 **À faire / à fournir avant le tour suivant**
 
-- Journée du dimanche 11 août (J-1 avant départ) : repos physique, footing dominical de 5 km et derniers préparatifs personnels.
-- Réveil programmé pour le départ matinal du lundi 12 août vers Findel (vol AF1233 à 06h50).
+- Coucher immédiat pour préserver un maximum d'heures de sommeil avant le réveil de 04h15.
+- Départ imminent pour l'embarquement à Findel (vol AF1233 via Paris Charles-de-Gaulle, atterrissage à Abidjan Félix Houphouët-Boigny lundi 12 août à 18h25 heure locale).
 
 **Quêtes secondaires**
 
-- Vérifier l'état de charge de ta voiture pour le trajet jusqu'à l'aéroport lundi à l'aube.
+- Aucune démarche en suspens : tout le volet juridique, financier et logistique est verrouillé.
 
 Que veux-tu faire ?
