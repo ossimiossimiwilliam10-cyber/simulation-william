@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-08-05 23:30
+horloge: 2041-08-06 20:00
 fuseau: luxembourg
-lieu: Audun-le-Tiche (Moselle), chez William
-tour: 69
-attente: Decisions de la semaine avant mission Abidjan (J-7) ; eventuellement relancer Coulibaly sur DC
+lieu: Audun-le-Tiche (Moselle), chez toi
+tour: 70
+attente: Arbitrage gouvernance SASU (qualite d'Associe Unique vs President pour respect article 14) et suivi sourcing DC

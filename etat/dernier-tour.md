@@ -1,56 +1,48 @@
 # Dernier tour montré au joueur
 
-> Tour n° 69 ; horloge 05/08/2041 23:30 -> 05/08/2041 23:30 ; enregistré le 28/10/2026 11:01 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 70 ; horloge 05/08/2041 23:30 -> 06/08/2041 20:00 ; enregistré le 28/10/2026 11:16 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Revue du lundi n3 confirmee, depart pour Esch-sur-Alzette a 15h30 derniere seance MMA, rassemblement documents, question monde vivant
+> On continue alors
 
 ## Texte envoyé au joueur
 
-**LUNDI 5 AOÛT 2041 — 23h30 — Audun-le-Tiche, chez toi**
+📌 Vraie vie : Le titre de « Président » et l'expression de « décision présidentielle » posent un risque juridique sérieux au regard de l'article 14 du statut des fonctionnaires luxembourgeois (qui interdit tout mandat de direction ou d'administration exécutive). En droit OHADA, le Président est obligatoirement le représentant légal de la société. Le pôle juridique virtuel a réexaminé ce point dans son rapport du jour et préconise d'attribuer la présidence formelle à Mohamed Coulibaly, afin que tu ne sois statutairement que l'associé unique fondateur.
 
-Dictée : « H sur AZ » = Esch-sur-Alzette ; « Mohamed Koulibaly » = Mohamed Coulibaly.
+**MARDI 6 AOÛT 2041 — 20h00 — Audun-le-Tiche, chez toi**
 
-La matinée commence sous un franc soleil, la lumière entrant en lames par les fentes du volet roulant. Café noir, flocons d'avoine, un rapide tour sur l'application Spuerkeess : tout est en ordre. Tu sors les documents de voyage un par un — passeport, attestation SNEDAI e-visa biométrique (réf. CI-2041-88419B), carnet de vaccination fièvre jaune, permis de conduire international, billets Air France AF1233/AF702 du 12 août, confirmation de la résidence Cocody Deux-Plateaux — et tu les glisses dans la pochette de voyage que tu poses sur le bureau. J-7. La liste est complète.
+La pluie bat contre les vitres de la chambre dès le lever du jour, sous un ciel bas et grisâtre. Après une nuit complète de sommeil, la fraîcheur matinale s'installe dans la maison. Un bol de café noir, quelques fruits secs, et tu descends dans la cuisine pendant que l'averse redouble.
 
-Le reste de la matinée passe entre un peu de lecture et quelques vérifications de dossiers sur l'ordinateur. Mohamed Coulibaly n'a rien transmis de nouveau pour la Direction Commerciale : le sourcing tourne, mais aucun profil n'a encore passé la barre. Tu déjeunes léger, pâtes froides et tomates, en regardant les informations.
+Aujourd'hui, le Minett Combat Club est fermé pour ses deux semaines de congés d'été. Pas de route vers Esch-sur-Alzette, pas de sac à préparer. Le silence de la salle fermée laisse place au bruit continu de la pluie sur les tuiles. Tu profites de cette matinée sans obligation pour faire un tour complet de la maison, ranger du linge et vérifier une nouvelle fois la pochette de voyage posée sur le bureau. Passeport, attestation de visa biométrique, billets d'avion, tout y est, bien ordonné.
 
-À 15h30 tu sors. Le soleil tape sur le capot de la voiture électrique. La route vers Esch-sur-Alzette est fluide, le chantier A4 déjà derrière toi. Tu gares la voiture un peu avant 16h00 et tu pousses la porte du Minett Combat Club pour la dernière fois avant la fermeture estivale.
+Vers midi, tu te prépares une assiette de riz complet et d'œufs brouillés tout en suivant les actualités régionales. La circulation reste compliquée autour de Thionville à cause des travaux, mais tu n'as pas à prendre l'autoroute aujourd'hui. Côté ivoirien, Mohamed Coulibaly n'a transmis aucun nouveau profil pour la Direction Commerciale. Ses prospections auprès de son réseau et du cabinet de recrutement abidjanais se poursuivent, mais le filtre d'exigence reste strict : aucun candidat ne sera proposé sans franchir le cap des qualifications attendues sur le modèle de vente d'autoproduction solaire.
 
-La salle est presque vide. Il y a Thiago Alves qui t'accueille en ajustant ses gants de focus, Arthur Kieffer qui finit d'enrouler ses poignets dans un coin, Mariana Oliveira déjà échauffée, qui frappe de petits jabs dans le vide en attendant que la séance commence. C'est une journée ordinaire pour elle — ni plus ni moins — et ça se voit dans sa façon de se préparer, efficace, concentrée, sans détour.
+En fin d'après-midi, alors que les nuages s'épaississent et qu'un grondement d'orage résonne au loin, tu pousses les meubles du salon pour t'aménager un espace sur le tapis. Une bonne heure de travail physique au poids du corps : pompes, gainage, mobilité articulaire et étirements appuyés pour dénouer les hanches et les épaules. Le corps répond bien, sans douleur ni raideur particulière.
 
-La séance commence. Travail de pied, cage, grappling au sol. Mariana est sérieuse et rapide, elle tient les rounds sans se laisser faire. Arthur fait ce qu'il a à faire, ni plus ni moins. Thiago coache depuis le bord du tapis, il corrige une position de garde, indique une transition. À un moment, entre deux rounds, il s'approche de toi.
+À 20h00, une notification signale l'arrivée du rapport quotidien du directeur général virtuel dans ta messagerie.
 
-— T'as entendu pour Marco ? dit-il à voix basse, en regardant vers le couloir. Son contrat a été pas renouvelé. L'autre club de Differdange lui a proposé quelque chose mais il n'est pas sûr. Moi je m'en doutais, les derniers mois... Les heures avaient changé sans explication.
+Ce document fait un point approfondi sur la question que tu as soulevée concernant ton rôle au sein de la société ivoirienne. L'analyse juridique confirme que l'article 853-1 du droit OHADA investit impérativement le Président de la représentation légale et de la gestion de la société. Si tu apparais comme Président dans les statuts, l'administration luxembourgeoise pourrait y voir un mandat exécutif incompatible avec l'article 14 de ton statut de fonctionnaire. Pour lever toute ambiguïté sans perdre le contrôle de ton investissement, le pôle juridique propose d'ajuster les statuts avant la signature du 13 août chez Maître Gnamien : Mohamed Coulibaly serait désigné Président et Directeur Général de la SASU, tandis que tu demeures exclusivement Associé Unique Fondateur. Ce statut d'actionnaire unique te garantit l'intégralité des pouvoirs souverains — nomination et révocation des dirigeants, approbation des comptes annuels, affectation des bénéfices, et droit de veto écrit obligatoire sur tout engagement supérieur à dix millions de francs CFA — tout en restant irréprochable vis-à-vis du ministère à Luxembourg.
 
-Il s'arrête là, hausse les épaules, reprend ses focus. Il n'en dit pas plus.
+Pour le reste, les préparatifs du voyage restent parfaitement calés. Le débit différé de ta carte bancaire passera demain matin à l'aube sur ton compte courant pour régler les dépenses du mois écoulé.
 
-La séance se clôt à 17h45. Thiago ferme les lumières dans la grande salle, dit au revoir à tout le monde d'un signe de tête. Mariana enfile sa veste, lance un « Bonne mission si je vous vois pas avant ! » dans ta direction et part sans tarder — son copain l'attend. Arthur tord sa serviette, range son sac, te salue de la main en sortant. Tu es le dernier à sortir.
-
-Le retour est calme. À Audun-le-Tiche, tu manges rapidement, tu ranges les documents de voyage dans la pochette, et tu t'installes devant l'ordinateur.
-
-À 20h00, le Rapport d'activité quotidien n° 17 du Directeur Général virtuel atterrit dans ta messagerie. Il couvre la journée du lundi 5 août 2041 et fait le point sur les six pôles : RH (Éric Koffi Yao en cours de finalisation contractuelle, sourcing DC toujours en cours, Mariam Brou en attente du 13 août), logistique mission Abidjan (J-7, tout nominal), finances (compte courant 10 098,59 EUR, Visa Premier -1 358,00 EUR prévu le 07/08), juridique (Cabinet Gnamien prêt pour le 13 août, dossier MENJE prêt pour la rentrée), risques (contrôles négatifs, secret préservé) et consommation API (1,40 EUR cumulé sur plafond de 50,00 EUR). Rien qui appelle une réponse immédiate.
-
-La soirée s'achève sans bruit. Demain il pleuvra.
+Il est 20h00.
 
 ---
 
 **Réponses attendues**
 
-Aucune réponse urgente ce soir.
+- Arbitrage sur la gouvernance de la SASU : valides-tu l'ajustement statutaire proposé par le pôle juridique (désigner Mohamed Coulibaly comme Président-Directeur Général et conserver pour toi la qualité exclusive d'Associé Unique Fondateur pour respecter l'article 14) ?
 
 **À faire / à fournir avant le tour suivant**
 
-- Débit Visa Premier -1 358,00 EUR prévu le mercredi 7 août à 06h00.
-- Jeudi 8 août au matin : aléa administratif bénin prévu (non connu de toi).
-- Lundi 12 août 06h50 : départ Luxembourg-Findel vol AF1233. Documents prêts et rangés.
-- Décision ouverte : souhaites-tu relancer Mohamed Coulibaly sur la Direction Commerciale avant ton départ, ou attendre qu'il te transmette de lui-même de nouveaux profils ?
+- Mercredi 7 août à 06h00 : exécution du prélèvement du solde de ta carte bancaire (1 358,00 EUR) sur ton compte courant Spuerkeess.
+- Sourcing Direction Commerciale : attendre les retours de Mohamed Coulibaly ou lui adresser une relance avant ton départ.
+- Lundi 12 août à 06h50 : vol au départ de Findel (J-6).
 
 **Quêtes secondaires**
 
-- Le dossier MENJE (article 14) est prêt pour la rentrée ; il n'a pas encore été transmis.
-- La réponse du MENJE à ton courriel du 16 juillet reste attendue (aucun signe à ce stade).
-- L'application Gestion et sa messagerie de dépôt sont notées comme « à faire vivre » dans les fils ouverts.
+- Le dossier pour le ministère luxembourgeois reste prêt pour la rentrée de septembre.
+- L'accusé de réception de ton courriel du 16 juillet envoyé au ministère est toujours en attente.
 
 Que veux-tu faire ?

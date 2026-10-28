@@ -92,3 +92,4 @@ def generer_rapport_quotidien_17():
 
 if __name__ == "__main__":
     generer_rapport_quotidien_17()
+

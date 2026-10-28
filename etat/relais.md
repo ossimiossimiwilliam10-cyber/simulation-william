@@ -1,70 +1,62 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 28/10/2026 11:02 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
+# Relais de la simulation — briefing généré le 28/10/2026 11:16 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
 
-## ALERTES (à régler avant de jouer)
-- ⚠ le worktree eloquent-mirzakhani-73acb9 a 1 fichier(s) modifié(s) non enregistrés : session interrompue ? Vérifier avant de jouer (ne rien supprimer)
+## Alertes
+- aucune
 
 ## Où en est la partie
-- Horloge : lundi 5 août 2041, 23h30 (luxembourg) ; tour n° 69
-- Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Decisions de la semaine avant mission Abidjan (J-7) ; eventuellement relancer Coulibaly sur DC
+- Horloge : mardi 6 août 2041, 20h00 (luxembourg) ; tour n° 70
+- Lieu de William : Audun-le-Tiche (Moselle), chez toi
+- En attente de William : Arbitrage gouvernance SASU (qualite d'Associe Unique vs President pour respect article 14) et suivi sourcing DC
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 69 ; horloge 05/08/2041 23:30 -> 05/08/2041 23:30 ; enregistré le 28/10/2026 11:01 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 70 ; horloge 05/08/2041 23:30 -> 06/08/2041 20:00 ; enregistré le 28/10/2026 11:16 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Revue du lundi n3 confirmee, depart pour Esch-sur-Alzette a 15h30 derniere seance MMA, rassemblement documents, question monde vivant
+> On continue alors
 
 ## Texte envoyé au joueur
 
-**LUNDI 5 AOÛT 2041 — 23h30 — Audun-le-Tiche, chez toi**
+📌 Vraie vie : Le titre de « Président » et l'expression de « décision présidentielle » posent un risque juridique sérieux au regard de l'article 14 du statut des fonctionnaires luxembourgeois (qui interdit tout mandat de direction ou d'administration exécutive). En droit OHADA, le Président est obligatoirement le représentant légal de la société. Le pôle juridique virtuel a réexaminé ce point dans son rapport du jour et préconise d'attribuer la présidence formelle à Mohamed Coulibaly, afin que tu ne sois statutairement que l'associé unique fondateur.
 
-Dictée : « H sur AZ » = Esch-sur-Alzette ; « Mohamed Koulibaly » = Mohamed Coulibaly.
+**MARDI 6 AOÛT 2041 — 20h00 — Audun-le-Tiche, chez toi**
 
-La matinée commence sous un franc soleil, la lumière entrant en lames par les fentes du volet roulant. Café noir, flocons d'avoine, un rapide tour sur l'application Spuerkeess : tout est en ordre. Tu sors les documents de voyage un par un — passeport, attestation SNEDAI e-visa biométrique (réf. CI-2041-88419B), carnet de vaccination fièvre jaune, permis de conduire international, billets Air France AF1233/AF702 du 12 août, confirmation de la résidence Cocody Deux-Plateaux — et tu les glisses dans la pochette de voyage que tu poses sur le bureau. J-7. La liste est complète.
+La pluie bat contre les vitres de la chambre dès le lever du jour, sous un ciel bas et grisâtre. Après une nuit complète de sommeil, la fraîcheur matinale s'installe dans la maison. Un bol de café noir, quelques fruits secs, et tu descends dans la cuisine pendant que l'averse redouble.
 
-Le reste de la matinée passe entre un peu de lecture et quelques vérifications de dossiers sur l'ordinateur. Mohamed Coulibaly n'a rien transmis de nouveau pour la Direction Commerciale : le sourcing tourne, mais aucun profil n'a encore passé la barre. Tu déjeunes léger, pâtes froides et tomates, en regardant les informations.
+Aujourd'hui, le Minett Combat Club est fermé pour ses deux semaines de congés d'été. Pas de route vers Esch-sur-Alzette, pas de sac à préparer. Le silence de la salle fermée laisse place au bruit continu de la pluie sur les tuiles. Tu profites de cette matinée sans obligation pour faire un tour complet de la maison, ranger du linge et vérifier une nouvelle fois la pochette de voyage posée sur le bureau. Passeport, attestation de visa biométrique, billets d'avion, tout y est, bien ordonné.
 
-À 15h30 tu sors. Le soleil tape sur le capot de la voiture électrique. La route vers Esch-sur-Alzette est fluide, le chantier A4 déjà derrière toi. Tu gares la voiture un peu avant 16h00 et tu pousses la porte du Minett Combat Club pour la dernière fois avant la fermeture estivale.
+Vers midi, tu te prépares une assiette de riz complet et d'œufs brouillés tout en suivant les actualités régionales. La circulation reste compliquée autour de Thionville à cause des travaux, mais tu n'as pas à prendre l'autoroute aujourd'hui. Côté ivoirien, Mohamed Coulibaly n'a transmis aucun nouveau profil pour la Direction Commerciale. Ses prospections auprès de son réseau et du cabinet de recrutement abidjanais se poursuivent, mais le filtre d'exigence reste strict : aucun candidat ne sera proposé sans franchir le cap des qualifications attendues sur le modèle de vente d'autoproduction solaire.
 
-La salle est presque vide. Il y a Thiago Alves qui t'accueille en ajustant ses gants de focus, Arthur Kieffer qui finit d'enrouler ses poignets dans un coin, Mariana Oliveira déjà échauffée, qui frappe de petits jabs dans le vide en attendant que la séance commence. C'est une journée ordinaire pour elle — ni plus ni moins — et ça se voit dans sa façon de se préparer, efficace, concentrée, sans détour.
+En fin d'après-midi, alors que les nuages s'épaississent et qu'un grondement d'orage résonne au loin, tu pousses les meubles du salon pour t'aménager un espace sur le tapis. Une bonne heure de travail physique au poids du corps : pompes, gainage, mobilité articulaire et étirements appuyés pour dénouer les hanches et les épaules. Le corps répond bien, sans douleur ni raideur particulière.
 
-La séance commence. Travail de pied, cage, grappling au sol. Mariana est sérieuse et rapide, elle tient les rounds sans se laisser faire. Arthur fait ce qu'il a à faire, ni plus ni moins. Thiago coache depuis le bord du tapis, il corrige une position de garde, indique une transition. À un moment, entre deux rounds, il s'approche de toi.
+À 20h00, une notification signale l'arrivée du rapport quotidien du directeur général virtuel dans ta messagerie.
 
-— T'as entendu pour Marco ? dit-il à voix basse, en regardant vers le couloir. Son contrat a été pas renouvelé. L'autre club de Differdange lui a proposé quelque chose mais il n'est pas sûr. Moi je m'en doutais, les derniers mois... Les heures avaient changé sans explication.
+Ce document fait un point approfondi sur la question que tu as soulevée concernant ton rôle au sein de la société ivoirienne. L'analyse juridique confirme que l'article 853-1 du droit OHADA investit impérativement le Président de la représentation légale et de la gestion de la société. Si tu apparais comme Président dans les statuts, l'administration luxembourgeoise pourrait y voir un mandat exécutif incompatible avec l'article 14 de ton statut de fonctionnaire. Pour lever toute ambiguïté sans perdre le contrôle de ton investissement, le pôle juridique propose d'ajuster les statuts avant la signature du 13 août chez Maître Gnamien : Mohamed Coulibaly serait désigné Président et Directeur Général de la SASU, tandis que tu demeures exclusivement Associé Unique Fondateur. Ce statut d'actionnaire unique te garantit l'intégralité des pouvoirs souverains — nomination et révocation des dirigeants, approbation des comptes annuels, affectation des bénéfices, et droit de veto écrit obligatoire sur tout engagement supérieur à dix millions de francs CFA — tout en restant irréprochable vis-à-vis du ministère à Luxembourg.
 
-Il s'arrête là, hausse les épaules, reprend ses focus. Il n'en dit pas plus.
+Pour le reste, les préparatifs du voyage restent parfaitement calés. Le débit différé de ta carte bancaire passera demain matin à l'aube sur ton compte courant pour régler les dépenses du mois écoulé.
 
-La séance se clôt à 17h45. Thiago ferme les lumières dans la grande salle, dit au revoir à tout le monde d'un signe de tête. Mariana enfile sa veste, lance un « Bonne mission si je vous vois pas avant ! » dans ta direction et part sans tarder — son copain l'attend. Arthur tord sa serviette, range son sac, te salue de la main en sortant. Tu es le dernier à sortir.
-
-Le retour est calme. À Audun-le-Tiche, tu manges rapidement, tu ranges les documents de voyage dans la pochette, et tu t'installes devant l'ordinateur.
-
-À 20h00, le Rapport d'activité quotidien n° 17 du Directeur Général virtuel atterrit dans ta messagerie. Il couvre la journée du lundi 5 août 2041 et fait le point sur les six pôles : RH (Éric Koffi Yao en cours de finalisation contractuelle, sourcing DC toujours en cours, Mariam Brou en attente du 13 août), logistique mission Abidjan (J-7, tout nominal), finances (compte courant 10 098,59 EUR, Visa Premier -1 358,00 EUR prévu le 07/08), juridique (Cabinet Gnamien prêt pour le 13 août, dossier MENJE prêt pour la rentrée), risques (contrôles négatifs, secret préservé) et consommation API (1,40 EUR cumulé sur plafond de 50,00 EUR). Rien qui appelle une réponse immédiate.
-
-La soirée s'achève sans bruit. Demain il pleuvra.
+Il est 20h00.
 
 ---
 
 **Réponses attendues**
 
-Aucune réponse urgente ce soir.
+- Arbitrage sur la gouvernance de la SASU : valides-tu l'ajustement statutaire proposé par le pôle juridique (désigner Mohamed Coulibaly comme Président-Directeur Général et conserver pour toi la qualité exclusive d'Associé Unique Fondateur pour respecter l'article 14) ?
 
 **À faire / à fournir avant le tour suivant**
 
-- Débit Visa Premier -1 358,00 EUR prévu le mercredi 7 août à 06h00.
-- Jeudi 8 août au matin : aléa administratif bénin prévu (non connu de toi).
-- Lundi 12 août 06h50 : départ Luxembourg-Findel vol AF1233. Documents prêts et rangés.
-- Décision ouverte : souhaites-tu relancer Mohamed Coulibaly sur la Direction Commerciale avant ton départ, ou attendre qu'il te transmette de lui-même de nouveaux profils ?
+- Mercredi 7 août à 06h00 : exécution du prélèvement du solde de ta carte bancaire (1 358,00 EUR) sur ton compte courant Spuerkeess.
+- Sourcing Direction Commerciale : attendre les retours de Mohamed Coulibaly ou lui adresser une relance avant ton départ.
+- Lundi 12 août à 06h50 : vol au départ de Findel (J-6).
 
 **Quêtes secondaires**
 
-- Le dossier MENJE (article 14) est prêt pour la rentrée ; il n'a pas encore été transmis.
-- La réponse du MENJE à ton courriel du 16 juillet reste attendue (aucun signe à ce stade).
-- L'application Gestion et sa messagerie de dépôt sont notées comme « à faire vivre » dans les fils ouverts.
+- Le dossier pour le ministère luxembourgeois reste prêt pour la rentrée de septembre.
+- L'accusé de réception de ton courriel du 16 juillet envoyé au ministère est toujours en attente.
 
 Que veux-tu faire ?
 
@@ -76,7 +68,7 @@ Que veux-tu faire ?
 
 ## Décisions en attente de William (etat/fils-ouverts.md, A)
 | 1 | **Organisation des vacances d'été 2041** | Premier jour des grandes vacances scolaires (du mardi 16/07/2041 au dimanche 15/09/2041). Choix des projets, voyages, rythme de vie ou déplacements estivaux. Budget vacances disponible : 833 €/mois (10 000 €/an). ; *(26/07 10h30) projet de mission à Abidjan à l'étude (fenêtre idéale : 12 au 25 août 2041, pendant la fermeture estivale du club de combat) pour rencontrer Mohamed Coulibaly, Me Gnamien et valider le QG* ; *(26/07 18h30) déplacement de 14 jours validé par William (du lundi 12 au dimanche 25 août 2041, pendant la fermeture annuelle du Minett Combat Club)* ; *(27/07 08h45) mission Abidjan calée du 12 au 25 août 2041 (14 jours) : vol Air France retenu depuis Luxembourg-Findel (1 285 € A/R), option confirmée sur résidence hôtelière F2 sécurisée à Cocody Deux-Plateaux (1 690 €), carnet international à jour (vaccin fièvre jaune confirmé par William)* ; *(27/07 20h00) vol Air France réglé (1 285 € sur Visa Premier, K002), pré-enrôlement e-visa SNEDAI payé et validé (73 € sur Visa Premier, K003), option résidence sécurisée Cocody active (1 690 €) ; logistique de mission Abidjan bouclée* ; *(31/07 11h20) aléa administratif A09 résolu : anomalie d'inversion des prénoms sur le portail SNEDAI rectifiée en ligne, attestation officielle de pré-enrôlement e-visa biométrique reçue (entrée FHB validée)* | Ouvert |
-| 2 | **Stratégie d'entrepreneuriat à distance** | Âge optimal atteint (36 ans). William a la liberté et la surface financière pour amorcer son projet business à distance tout en respectant l'Art. 14 du statut des fonctionnaires luxembourgeois (F083-F086). Choix du statut juridique et de l'axe business à mûrir. ; *(16/07 10h46) deux rapports de l'agent IA reçus, Brésil (09h41) puis Côte d'Ivoire (10h34), PDF dans documents_william/ ; cadre article 14 rappelé (associé non-gérant admis, gérance non) ; rien d'engagé, suite à décider par William* ; *(16/07 11h55) budget envisagé de 300 000 € sur 2 à 3 ans (I6) ; l'agent IA répond : Côte d'Ivoire, SAS OHADA, solaire B2B ; rien d'engagé, décision de William* ; *(16/07 13h06) décision : Côte d'Ivoire (I7) ; courriel au ministère envoyé à 12h14 (réponse attendue, A006 non connu) ; annonce de recherche d'un contact prête, non publiée, feu vert attendu* ; *(16/07 13h44) annonce publiée (LinkedIn 13h09, Educarriere.ci 13h31) ; rapport de Claude à 18h00 (A007) ; autorisation donnée (I9)* ; *(22/07 20h06) Me Gnamien validé ; directives données pour sélectionner le DG réel élite parmi Coulibaly (91) et Brou (88)* ; *(25/07 20h00) virement SWIFT de 1 511 € émis vers le Cabinet Gnamien (D016, D017) ; accusé de Me Gnamien reçu (D018)* ; *(26/07 20h00) accord ferme conclu avec Mohamed Coulibaly pour la Direction Générale (mandat social pur, 12 mois de non-concurrence à 50 %, DAF rattachée au DG, mission conjointe du 12 au 25 août, plein temps au 1er octobre)* ; *(27/07 08h45) Mohamed Coulibaly confirme par courriel officiel (D024) son accord plein et sans réserve sur le protocole de gouvernance écrit et l'organigramme cible* ; *(27/07 20h00) notification de sélection transmise à Mariam Brou avec maquette contrat Niveau 2 (D025)* ; *(29/07 11h45) validation définitive des statuts SASU et mandat DG transmise à Me Gnamien (D030) ; signature physique fixée le 13/08 à 10h00 à Abidjan ; dossier MENJE en 4 pièces prêt pour la rentrée (D031)* ; *(29/07 20h30) courriel officiel de la Direction Générale adressé à Mohamed Coulibaly (D033) donnant feu vert pour l'entretien DAF avec Mariam Brou, autorisant le sourcing DT/DC et imposant le filtre strict de notation > 80/100* ; *(30/07 19h30) compte-rendu d'entretien DAF transmis par Mohamed Coulibaly : Mariam Brou validée sans réserve, recommandée pour signature le 13 août ; sourcing DT/DC activé* ; *(31/07 20h00) traitement de juillet de l'État luxembourgeois encaissé (+9 320,00 € net sur Spuerkeess Zebra Premium), solde courant clôturé à 17 784,70 € ; Rapport quotidien n° 12 remis (D035)* ; *(01/08 20h00) prélèvements du 1er août passés (MCC 85 €, Zebra 12,83 €) ; prospection de Coulibaly pour DT et DC ; Rapport n° 13 remis (D036)* ; *(02/08 08h00) virements exécutés (+732 € épargne, +5 755 € ETF Monde, solde courant 11 199,87 €)* ; *(02/08 19h15) Mohamed Coulibaly transmet les dossiers de direction : Éric Koffi Yao (DT) et Stéphane Bamba (DC)* ; *(02/08 20h00) Rapport quotidien n° 14 remis (D037, A105 clos) avec scoring : DT Éric Yao validé (84/100 > 80), DC Stéphane Bamba recalé (74/100 <= 80)* ; *(02/08 20h15) décision présidentielle transmise à Coulibaly (D038) : recrutement DT Yao autorisé (Niveau 2, 1,6 M FCFA net), rejet DC Bamba confirmé et sourcing relancé* ; *(03/08 09h30) Coulibaly accuse réception : accord DT Yao acté pour mission août et rentrée septembre, sourcing DC réactivé ; Rapports quotidiens n° 15 (03/08, D039) et n° 16 (04/08, D040) reçus ; débits du 05/08 exécutés (solde courant 10 098,59 €)* | Ouvert |
+| 2 | **Stratégie d'entrepreneuriat à distance** | Âge optimal atteint (36 ans). William a la liberté et la surface financière pour amorcer son projet business à distance tout en respectant l'Art. 14 du statut des fonctionnaires luxembourgeois (F083-F086). Choix du statut juridique et de l'axe business à mûrir. ; *(16/07 10h46) deux rapports de l'agent IA reçus, Brésil (09h41) puis Côte d'Ivoire (10h34), PDF dans documents_william/ ; cadre article 14 rappelé (associé non-gérant admis, gérance non) ; rien d'engagé, suite à décider par William* ; *(16/07 11h55) budget envisagé de 300 000 € sur 2 à 3 ans (I6) ; l'agent IA répond : Côte d'Ivoire, SAS OHADA, solaire B2B ; rien d'engagé, décision de William* ; *(16/07 13h06) décision : Côte d'Ivoire (I7) ; courriel au ministère envoyé à 12h14 (réponse attendue, A006 non connu) ; annonce de recherche d'un contact prête, non publiée, feu vert attendu* ; *(16/07 13h44) annonce publiée (LinkedIn 13h09, Educarriere.ci 13h31) ; rapport de Claude à 18h00 (A007) ; autorisation donnée (I9)* ; *(22/07 20h06) Me Gnamien validé ; directives données pour sélectionner le DG réel élite parmi Coulibaly (91) et Brou (88)* ; *(25/07 20h00) virement SWIFT de 1 511 € émis vers le Cabinet Gnamien (D016, D017) ; accusé de Me Gnamien reçu (D018)* ; *(26/07 20h00) accord ferme conclu avec Mohamed Coulibaly pour la Direction Générale (mandat social pur, 12 mois de non-concurrence à 50 %, DAF rattachée au DG, mission conjointe du 12 au 25 août, plein temps au 1er octobre)* ; *(27/07 08h45) Mohamed Coulibaly confirme par courriel officiel (D024) son accord plein et sans réserve sur le protocole de gouvernance écrit et l'organigramme cible* ; *(27/07 20h00) notification de sélection transmise à Mariam Brou avec maquette contrat Niveau 2 (D025)* ; *(29/07 11h45) validation définitive des statuts SASU et mandat DG transmise à Me Gnamien (D030) ; signature physique fixée le 13/08 à 10h00 à Abidjan ; dossier MENJE en 4 pièces prêt pour la rentrée (D031)* ; *(29/07 20h30) courriel officiel de la Direction Générale adressé à Mohamed Coulibaly (D033) donnant feu vert pour l'entretien DAF avec Mariam Brou, autorisant le sourcing DT/DC et imposant le filtre strict de notation > 80/100* ; *(30/07 19h30) compte-rendu d'entretien DAF transmis par Mohamed Coulibaly : Mariam Brou validée sans réserve, recommandée pour signature le 13 août ; sourcing DT/DC activé* ; *(31/07 20h00) traitement de juillet de l'État luxembourgeois encaissé (+9 320,00 € net sur Spuerkeess Zebra Premium), solde courant clôturé à 17 784,70 € ; Rapport quotidien n° 12 remis (D035)* ; *(01/08 20h00) prélèvements du 1er août passés (MCC 85 €, Zebra 12,83 €) ; prospection de Coulibaly pour DT et DC ; Rapport n° 13 remis (D036)* ; *(02/08 08h00) virements exécutés (+732 € épargne, +5 755 € ETF Monde, solde courant 11 199,87 €)* ; *(02/08 19h15) Mohamed Coulibaly transmet les dossiers de direction : Éric Koffi Yao (DT) et Stéphane Bamba (DC)* ; *(02/08 20h00) Rapport quotidien n° 14 remis (D037, A105 clos) avec scoring : DT Éric Yao validé (84/100 > 80), DC Stéphane Bamba recalé (74/100 <= 80)* ; *(02/08 20h15) décision présidentielle transmise à Coulibaly (D038) : recrutement DT Yao autorisé (Niveau 2, 1,6 M FCFA net), rejet DC Bamba confirmé et sourcing relancé* ; *(03/08 09h30) Coulibaly accuse réception : accord DT Yao acté pour mission août et rentrée septembre, sourcing DC réactivé ; Rapports quotidiens n° 15 (03/08, D039) et n° 16 (04/08, D040) reçus ; débits du 05/08 exécutés (solde courant 10 098,59 €)* ; *(06/08 20h00) (06/08 20h00) Rapport quotidien n18 remis : analyse gouvernance SASU et article 14 recommandant d'attribuer la presidence a Coulibaly et cantonner William au statut d'associe unique ; sourcing DC en cours* | Ouvert |
 | 3 | **Entraînement sportif & préparation physique** | Entraînements au Minett Combat Club d'Esch-sur-Alzette (MMA, grappling, boxe thaïe, musculation). Cours d'été en place. Noter la fermeture annuelle du club du lundi 12/08/2041 au dimanche 25/08/2041 (agenda A003). ; *(16/07 10h46) (16/07) rythme de l'été fixé par William : lundi, mercredi, vendredi après-midi au club, course de 5 km le dimanche matin, rien le samedi ; voir A2 I1* ; *(17/07 18h03) (17/07) séance du mercredi faite au club (2 h) avec Thiago Alves et Arthur Kieffer ; prochaine : vendredi 19/07 l'après-midi (I1)* ; *(28/07 07h45) footing dominical de 5 km effectué (I1) ; repos estival ; séance de MMA au club ce lundi 29/07 après-midi* ; *(29/07 16h00) séance de combat intense de 105 min effectuée au club (lutte cage et sol avec Thiago Alves et Arthur Kieffer, I1)* ; *(31/07 16h00) séance de combat intense de 105 min au club (travail contre la cage, sol et frappes avec Thiago Alves et Arthur Kieffer, I1)* ; *(02/08 16h00) séance de combat intense de 105 min au club (transitions lutte cage, sol avec Arthur Kieffer et Mariana Oliveira, I1)* ; *(02/08 20h48) Mariana confirme sa présence pour lundi 16h mais décline un verre après séance (en couple)* ; *(04/08 08h00) footing de 5 km bouclé (I1) ; séance de MMA ce lundi 05/08 à 16h00 (dernière avant fermeture)* | Ouvert |
 | 4 | **Logistique personnelle & maison** | Maison d'Audun-le-Tiche (charges à jour, voiture électrique chargée). Rien d'urgent en panne. ; *(16/07 13h06) abonnement à l'agent IA : 24,30 €/mois sur la Visa Debit, engagement de 12 mois jusqu'au 15/07/2042 (E016)* ; *(05/08 06h00) mensualité prêt PR1 (949,28 €) et assurances (152,00 €) débitées* | Ouvert |
 | 5 | ~~Validation des recrutements de direction (DT & DC)~~ | **CLOS le 03/08 09h30** : DT Éric Koffi Yao validé (84/100, D038 émis le 02/08, accord pré-contrat confirmé le 03/08 par Coulibaly) ; DC Stéphane Bamba rejeté (74/100 <= 80), sourcing B2B relancé par Coulibaly. | Clos |
@@ -176,10 +168,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : master ; master : fb63857 ; avance 0, retard 0
-- worktree simulation-william (ICI) : branche master ; 0 commit(s) absents de master ; 2 fichier(s) modifié(s)
+- branche courante : master ; master : ba433dd ; avance 0, retard 0
+- worktree simulation-william (ICI) : branche master ; 0 commit(s) absents de master ; 19 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 1 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 
