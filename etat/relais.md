@@ -1,6 +1,6 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 28/10/2026 13:50 (heure machine) pour Gemini
+# Relais de la simulation — briefing généré le 28/10/2026 13:51 (heure machine) pour Gemini
 
 ## Alertes
 - aucune
@@ -176,8 +176,8 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : master ; master : 8126226 ; avance 0, retard 0
-- worktree simulation-william (ICI) : branche master ; 0 commit(s) absents de master ; 24 fichier(s) modifié(s)
+- branche courante : master ; master : ec05732 ; avance 0, retard 0
+- worktree simulation-william (ICI) : branche master ; 0 commit(s) absents de master ; 2 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree eloquent-mirzakhani-73acb9 : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
