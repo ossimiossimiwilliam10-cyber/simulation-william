@@ -271,3 +271,4 @@ if __name__ == "__main__":
     generer_contrat_daf_mariam_brou()
     generer_contrat_dt_eric_yao()
     generer_note_synthese_juridique()
+

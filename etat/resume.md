@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 28/10/2026 11:23 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 28/10/2026 11:45 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mercredi 07/08/2041 10:00 (luxembourg, UTC+2)
+## Horloge : mercredi 07/08/2041 21:00 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez toi
-- **Heure dans les autres lieux** : abidjan 08:00 ; lisbonne 09:00 ; mindelo 07:00 ; casablanca 09:00 ; douala 09:00 ; addis 11:00 ; manille 16:00 ; paris 10:00 ; seoul 17:00 ; bresil 05:00
+- **Heure dans les autres lieux** : abidjan 19:00 ; lisbonne 20:00 ; mindelo 18:00 ; casablanca 20:00 ; douala 20:00 ; addis 22:00 ; manille 03:00 ; paris 21:00 ; seoul 04:00 ; bresil 16:00
 - **En attente de William** :
-  - Verification des bagages mission Abidjan (J-5) et sourcing DC apres ferie ivoirien
+  - Arbitrage doctrine de recrutement (seuil 80 avec 85 coeur de metier vs relevement general)
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 740,59 €**
@@ -42,3 +42,6 @@
 > # Mercredi 7 août 2041 — univers 3, 23e jour
 > - **00h00-10h00** (tour n° 71) : voir le texte exact du tour (journal/tours/).
 > - Tour en cours à 10h00, en attente de William : **Verification des bagages mission Abidjan (J-5) et sourcing DC apres ferie ivoirien**.
+> - **10h00-21h00** (tour n° 72) : voir le texte exact du tour (journal/tours/).
+> - Tirages du tour : T10 → le_soir_ou_lendemain (89,6).
+> - Tour en cours à 21h00, en attente de William : **Arbitrage doctrine de recrutement (seuil 80 avec 85 coeur de metier vs relevement general)**.

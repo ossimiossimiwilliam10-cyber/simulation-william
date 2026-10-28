@@ -1,43 +1,47 @@
 # Dernier tour montré au joueur
 
-> Tour n° 71 ; horloge 06/08/2041 20:00 -> 07/08/2041 10:00 ; enregistré le 28/10/2026 11:23 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 72 ; horloge 07/08/2041 10:00 -> 07/08/2041 21:00 ; enregistré le 28/10/2026 11:45 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Validation ajustement statutaire SASU, demande statut redaction des contrats et stockage PDF, verification juridique
+> Interrogation sur le seuil de 80 sur 100 pour une equipe d'elite : consultation de Mohamed Coulibaly via l'equipe virtuelle
 
 ## Texte envoyé au joueur
 
-**MERCREDI 7 AOÛT 2041 — 10h00 — Audun-le-Tiche, chez toi**
+**MERCREDI 7 AOÛT 2041 — 21h00 — Audun-le-Tiche, chez toi**
 
-Le réveil se fait au calme vers sept heures, après une nuit longue et sans interruption. Dehors, une pluie fine arrose la rue et rafraîchit l'air à seize degrés. Tu te prépares un café noir et tu consultes l'application de la banque : comme prévu, le débit différé de ta carte bancaire est passé à six heures du matin pour un montant de 1 358 euros, soldant les dépenses du mois précédent. Le compte courant s'établit désormais à 8 740,59 euros.
+*Dictée : « Mohamed Koulibaly » = Mohamed Coulibaly.*
 
-Dès la fin de soirée hier, tu as transmis tes instructions au pôle virtuel concernant la validation de l'ajustement statutaire et la préparation rigoureuse des contrats. À huit heures et demie, la réponse formelle de ton équipe juridique arrive dans tes dossiers, accompagnée de l'ensemble des pièces finalisées.
+En milieu de matinée, alors que la pluie continue de tomber en averses intermittentes sur Audun-le-Tiche, tu transmets ton interrogation au pôle virtuel de direction générale : une note minimale de 80 sur 100 suffit-elle réellement à garantir une équipe de niveau élite, ou conviendrait-il de relever la barre pour s'assurer de ne recruter que des profils de tout premier plan ?
 
-Le pôle juridique virtuel a achevé sa contre-expertise complète au regard du droit des sociétés de l'OHADA et du Code du travail ivoirien. Les trois contrats de direction ainsi que la note de synthèse sont désormais convertis en documents finaux et classés :
-- La convention de mandat social de président et directeur général pour Mohamed Coulibaly : elle intègre formellement la présidence exécutive confiée à Mohamed pour sécuriser ta situation vis-à-vis de l'article 14, confirme la rémunération nette de deux millions de francs CFA par mois, l'intéressement commercial de 2,5 %, la prime de réalisation par tranche de 500 kilowatts-crête, et verrouille la clause de non-concurrence de douze mois indemnisée à 50 %. Les seuils de contrôle restent stricts : tout engagement supérieur à dix millions de francs CFA requiert obligatoirement ton accord écrit préalable en tant qu'associé unique.
-- Le contrat de travail de directrice administrative et financière pour Mariam Brou : contrat cadre à durée indéterminée basé sur une rémunération nette mensuelle de 1 600 000 francs CFA, avec prise d'effet au premier septembre et présence confirmée pendant la mission d'août. La clause de transparence directe et d'information permanente au bénéfice de l'associé unique y est expressément stipulée.
-- Le contrat de travail de directeur technique pour Éric Koffi Yao : contrat cadre à durée indéterminée à 1 600 000 francs CFA net, régissant la supervision des chantiers en toiture, le respect des normes électriques et les primes de mise en service sans réserve.
-- La note de synthèse juridique : elle certifie la conformité de chaque clause et atteste que les dossiers ont été transmis à l'étude de Maître Gnamien à Abidjan pour tirage sur papier officiel en vue de la signature le 13 août.
+Le message est relayé à Mohamed Coulibaly par le canal institutionnel sécurisé. La journée s'écoule paisiblement chez toi, rythmée par un déjeuner léger, un peu de lecture et une séance d'étirements et de gainage au salon en fin d'après-midi pour entretenir la condition physique pendant la fermeture estivale de la salle de combat. En Côte d'Ivoire, les festivités de la fête nationale battent leur plein et la plupart des bureaux sont fermés.
 
-Aujourd'hui, c'est la fête nationale en Côte d'Ivoire. Les administrations, les banques et les cabinets d'Abidjan sont fermés pour ce jour chômé célébrant l'indépendance. Aucun échange n'est attendu de leur côté avant demain.
+C'est finalement à vingt heures et demie que la réponse détaillée de Mohamed Coulibaly atterrit dans ta boîte de réception.
 
-Il est 10h00.
+Mohamed aborde ta réflexion avec le pragmatisme d'un ancien banquier d'affaires habitué aux grilles de notation et aux contraintes de terrain. Dans son courriel, il commence par rappeler qu'une note de 80 sur 100 sur votre référentiel n'a rien d'un niveau moyen : les critères pondérés sur l'ingénierie photovoltaïque, les contrats d'autoproduction et le carnet d'adresses industriel éliminent d'emblée plus de quatre candidats sur cinq. Le rejet de Stéphane Bamba, pourtant doté de quinze ans d'expérience dans l'énergie, en est la preuve directe.
+
+Il attire toutefois ton attention sur le revers d'un seuil plus élevé. Dans le secteur encore jeune du solaire industriel en toiture à Abidjan, les rares professionnels atteignant 85 ou 90 sur 100 occupent déjà des postes d'associés dans des multinationales. Selon lui, imposer un plancher global de 85 sur 100 pour la Direction Commerciale bloquerait les embauches pendant six à neuf mois ou obligerait à revoir la grille salariale à la hausse — au-delà de 2,5 à 3 millions de francs CFA net par mois —, ce qui alourdirait excessivement la trésorerie avant même le premier encaissement.
+
+Pour concilier ton exigence de champions et la réalité du marché, Mohamed soumet une recommandation concrète : maintenir le plancher de 80 sur 100 comme filtre éliminatoire strict pour fermer la porte à toute complaisance, mais exiger au moins 85 sur 100 spécifiquement sur le critère central du poste — la négociation et la signature de contrats d'autoproduction auprès de grands comptes industriels pour le directeur commercial. Il souligne également qu'une véritable équipe d'élite se valide à l'exécution : la période d'essai de trois mois et l'engagement ferme de signer deux contrats au premier trimestre permettront de remplacer sans délai quiconque ne tiendrait pas ses promesses sur le terrain.
+
+Il conclut en indiquant qu'il est prêt à affiner ces critères de vive voix lors de votre première réunion de cadrage à Abidjan.
+
+Il est 21h00.
 
 ---
 
 **Réponses attendues**
 
-Aucune réponse urgente. Les contrats sont sécurisés et en attente de la séance de signature à Abidjan.
+- Position sur la doctrine de recrutement : maintiens-tu le seuil éliminatoire à 80 sur 100 avec une exigence de 85 sur le critère cœur de métier comme le suggère Mohamed Coulibaly, ou souhaites-tu remonter la barre générale malgré le risque d'allonger les délais ?
 
 **À faire / à fournir avant le tour suivant**
 
-- Vérification des bagages et préparation des effets personnels pour la mission (départ lundi 12 août à 06h50 de Findel, J-5).
-- Sourcing Direction Commerciale : reprise des prospections par Mohamed Coulibaly après le jour férié ivoirien.
+- Valider la ligne directrice pour le recrutement du directeur commercial afin que le pôle virtuel et Mohamed puissent calibrer les prochaines évaluations.
+- Poursuivre le bouclage des préparatifs de voyage (départ lundi 12 août à 06h50, J-5).
 
 **Quêtes secondaires**
 
-- Le dossier pour le ministère luxembourgeois reste prêt pour la rentrée de septembre.
-- L'accusé de réception formel de ton courriel du 16 juillet au ministère est toujours en attente.
+- Les contrats finalisés et la note de synthèse juridique restent archivés et prêts pour la séance de signature du 13 août.
+- Le dossier pour le ministère luxembourgeois demeure prêt pour la rentrée de septembre.
 
 Que veux-tu faire ?
