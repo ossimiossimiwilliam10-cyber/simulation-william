@@ -108,6 +108,8 @@
 
 - **Limite d'utilisation de Claude et relais vers Gemini** (27/10/2026) : « il y a de fortes chances que ma limite d'utilisation soit atteinte avec toi » ; il continue alors avec Gemini dans Antigravity, « pas aussi puissant », qui « peut faire des erreurs » : la reprise doit se faire « le mieux possible » (procédure : `outils/LISEZMOI.md` §7 ; note de passation : `etat/relais-notes.md`). À chaque tour, tout est enregistré dans `master`.
 
+- **Revues du lundi automatiques quoi qu'il arrive** (28/10/2026 réel ; 13/08/2041 simulé) : les revues du lundi doivent être présentées automatiquement chaque lundi matin, sans exception. Même en cas de « Go » ou d'avance rapide qui franchit un lundi, le moteur DOIT marquer impérativement un arrêt au lundi matin pour afficher la Revue du lundi (§12) et recueillir la validation des propositions et aléas avant de poursuivre.
+
 ## Grandes décisions hors fiction (historique)
 - 25/07/2040 (simulé) : il a envisagé d'arrêter, puis a décidé de continuer avec tous les paramètres.
 - 11/10/2026 (réel) : redémarrage complet (univers 2) à 35 ans, argent initial, paramètres repris ; départ d'abord fixé au mardi

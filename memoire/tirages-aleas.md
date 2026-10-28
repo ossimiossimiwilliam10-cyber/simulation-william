@@ -4284,3 +4284,11 @@ Effets à jouer : A09 (jeudi 08/08 (matin)) : Correction longue, agacement
 Effets à jouer : A07 (mercredi 14/08 (soir)) : Retard d'un virement, d'un envoi, d'un rapport ; A23 (samedi 17/08 (matin)) : Très courant ; William voit le message et décide
 
 - Message spontané d'un proche, semaine du 2041-08-12 : Sandy Lentz (professeure d'allemand) écrira le 12/08/2041 vers 18:05 (heure de l'expéditeur) · tiré parmi 38 personnes de l'entourage, pondérées par proximité (enregistré le 28/10/2026 13:14 heure machine)
+
+- Tirage [T4] « affaire_projet_ci_annonce : escalade externe, semaine du 11/08 » : aucune 99.7 / frontal_escalade 0.3 ; modificateurs : aucun ; jet   0.3 → **aucune** (enregistré le 28/10/2026 13:23 heure machine)
+
+- Tirage [T5] « affaire_projet_ci_annonce : fuite, semaine du 11/08 » : fuite_externe 13 / fuite_interne 39 / aucune 48 ; modificateurs : aucun ; jet  27.9 → **fuite_interne** (enregistré le 28/10/2026 13:23 heure machine)
+
+- Tirage [T4] « affaire_projet_ci_art14 : escalade externe, semaine du 11/08 » : aucune 99.7 / frontal_escalade 0.3 ; modificateurs : aucun ; jet   2.4 → **aucune** (enregistré le 28/10/2026 13:23 heure machine)
+
+- Tirage [T5] « affaire_projet_ci_art14 : fuite, semaine du 11/08 » : fuite_externe 1 / fuite_interne 3 / aucune 96 ; modificateurs : aucun ; jet  30.4 → **aucune** (enregistré le 28/10/2026 13:23 heure machine)

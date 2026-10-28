@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 28/10/2026 13:15 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 28/10/2026 13:25 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mardi 13/08/2041 09:50 (abidjan, UTC+0)
-- **Lieu de William** : Abidjan (Le Plateau), Immeuble Le Bellerive, accueil du Cabinet Me Gnamien
-- **Heure dans les autres lieux** : lisbonne 10:50 ; luxembourg 11:50 ; mindelo 08:50 ; casablanca 10:50 ; douala 10:50 ; addis 12:50 ; manille 17:50 ; paris 11:50 ; seoul 18:50 ; bresil 06:50
+## Horloge : mardi 13/08/2041 12:45 (abidjan, UTC+0)
+- **Lieu de William** : Abidjan (Le Plateau), lounge du Café de Rome
+- **Heure dans les autres lieux** : lisbonne 13:45 ; luxembourg 14:45 ; mindelo 11:45 ; casablanca 13:45 ; douala 13:45 ; addis 15:45 ; manille 20:45 ; paris 14:45 ; seoul 21:45 ; bresil 09:45
 - **En attente de William** :
-  - Séance solennelle de signature notariée des statuts et du mandat DG chez Me Gnamien à 10h00, et validation des propositions P27 à P31 de la Revue du lundi n° 4
+  - Arbitrage sur le dejeuner de travail et le calendrier des visites de villas QG pour mercredi apres-midi
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 355,59 €**
@@ -15,8 +15,8 @@
 - Patrimoine net de William : **858 477,65 €**
 - Prévu dans les 14 jours : 16/08 Box internet fibre et forfait mobile (-63,00 €) ; 16/08 Abonnement à l'agent IA de William (-24,30 €)
 
-## Agenda : dans les 24 heures (1)
-- A102 Tue 13/08 10:00 (abidjan) | Cabinet Me Ismaël Gnamien : Séance solennelle de signature des statuts SASU et convention mandat DG avec Mohamed Coulibaly [prevu]  — Signature des 5 originaux sous chemise notariale et dépôt CEPICI pour immatriculation RCCM
+## Agenda : dans les 24 heures (0)
+- rien
 ## Agenda : de J+1 à J+7 (0)
 - rien
 (Les lignes « NON CONNU DE WILLIAM » servent au moteur : ne jamais les montrer au joueur avant le jour dit.)
@@ -37,7 +37,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-08-13.md, 6 dernières lignes)
-> # Mardi 13 août 2041 — univers 3, 29e jour
 > - **00h00-09h50** (tour n° 80) : voir le texte exact du tour (journal/tours/).
 > - Tirages du tour : procédure : LU01, LU02, FR02.
 > - Tour en cours à 09h50, en attente de William : **Séance solennelle de signature notariée des statuts et du mandat DG chez Me Gnamien à 10h00, et validation des propositions P27 à P31 de la Revue du lundi n° 4**.
+> - **09h50-12h45** (tour n° 81) : voir le texte exact du tour (journal/tours/).
+> - Tirages du tour : T4 → aucune (0,26) ; T5 → fuite_interne (27,92) ; T4 → aucune (2,36) ; T5 → aucune (30,43).
+> - Tour en cours à 12h45, en attente de William : **Arbitrage sur le dejeuner de travail et le calendrier des visites de villas QG pour mercredi apres-midi**.

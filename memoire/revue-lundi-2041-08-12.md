@@ -30,3 +30,8 @@
 ## 4. Le monde cette semaine
 - **Côte d'Ivoire (Abidjan)** : Ciel d'août souvent nuageux et doux (24-27 °C, brise lagunaire marine) ; activité économique intense au Plateau après les festivités nationales du 7 août. Les chantiers d'infrastructures se poursuivent sur le boulevard lagunaire.
 - **Luxembourg / Lorraine** : Temps perturbé et pluvieux en début de semaine (11-14 °C), rentrée scolaire en préparation administrative dans les lycées pour la mi-septembre.
+
+## 5. Décisions de l'utilisateur
+- Validé intégralement le 13/08/2041 (tour n° 81) : propositions P27 à P31 adoptées sans réserve.
+- Consigne impérative de l'utilisateur : les Revues du lundi doivent être présentées automatiquement chaque lundi quoi qu'il arrive (même en cas de « Go » ou d'avance rapide, arrêt obligatoire le lundi matin).
+
