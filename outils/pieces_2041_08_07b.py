@@ -80,3 +80,4 @@ def generer_courriel_coulibaly_seuil():
 
 if __name__ == "__main__":
     generer_courriel_coulibaly_seuil()
+

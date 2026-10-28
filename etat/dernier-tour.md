@@ -1,47 +1,47 @@
 # Dernier tour montré au joueur
 
-> Tour n° 72 ; horloge 07/08/2041 10:00 -> 07/08/2041 21:00 ; enregistré le 28/10/2026 11:45 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 73 ; horloge 07/08/2041 21:00 -> 08/08/2041 10:00 ; enregistré le 28/10/2026 11:53 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Interrogation sur le seuil de 80 sur 100 pour une equipe d'elite : consultation de Mohamed Coulibaly via l'equipe virtuelle
+> Validation doctrine recrutement Coulibaly (80 general, 85 coeur de metier), maquette des missions continues par pole preparee en PDF par l'equipe virtuelle, pointage voyage
 
 ## Texte envoyé au joueur
 
-**MERCREDI 7 AOÛT 2041 — 21h00 — Audun-le-Tiche, chez toi**
+**JEUDI 8 AOÛT 2041 — 10h00 — Audun-le-Tiche, chez toi**
 
 *Dictée : « Mohamed Koulibaly » = Mohamed Coulibaly.*
 
-En milieu de matinée, alors que la pluie continue de tomber en averses intermittentes sur Audun-le-Tiche, tu transmets ton interrogation au pôle virtuel de direction générale : une note minimale de 80 sur 100 suffit-elle réellement à garantir une équipe de niveau élite, ou conviendrait-il de relever la barre pour s'assurer de ne recruter que des profils de tout premier plan ?
+Après une nuit paisible de près de huit heures, la journée commence sous un grand soleil d'été qui réchauffe rapidement l'air à vingt-six degrés. Tu descends prendre ton café dans la cuisine, les volets grand ouverts sur le jardin.
 
-Le message est relayé à Mohamed Coulibaly par le canal institutionnel sécurisé. La journée s'écoule paisiblement chez toi, rythmée par un déjeuner léger, un peu de lecture et une séance d'étirements et de gainage au salon en fin d'après-midi pour entretenir la condition physique pendant la fermeture estivale de la salle de combat. En Côte d'Ivoire, les festivités de la fête nationale battent leur plein et la plupart des bureaux sont fermés.
+À neuf heures, une notification d'Air France apparaît sur ton téléphone : un message automatique du service d'enregistrement en ligne t'invite à vérifier l'orthographe de ton second prénom et la date d'expiration de ton passeport pour assurer la concordance exacte avec l'attestation de visa biométrique ivoirien. Tu ouvres l'application, vérifies les champs en deux minutes, confirmes la saisie, et le voyant vert de conformité s'affiche sans la moindre difficulté. Tout est en ordre pour l'embarquement de lundi matin.
 
-C'est finalement à vingt heures et demie que la réponse détaillée de Mohamed Coulibaly atterrit dans ta boîte de réception.
+Dans la foulée de tes instructions d'hier soir, le pôle virtuel d'organisation et de ressources humaines a travaillé en toute confidentialité, sans rien divulguer à l'extérieur, pour concevoir la maquette complète des missions continues et des objectifs récurrents par direction.
 
-Mohamed aborde ta réflexion avec le pragmatisme d'un ancien banquier d'affaires habitué aux grilles de notation et aux contraintes de terrain. Dans son courriel, il commence par rappeler qu'une note de 80 sur 100 sur votre référentiel n'a rien d'un niveau moyen : les critères pondérés sur l'ingénierie photovoltaïque, les contrats d'autoproduction et le carnet d'adresses industriel éliminent d'emblée plus de quatre candidats sur cinq. Le rejet de Stéphane Bamba, pourtant doté de quinze ans d'expérience dans l'énergie, en est la preuve directe.
+Le document est déposé dans tes dossiers personnels sous format officiel. Il structure pour chaque pôle les routines hebdomadaires obligatoires et les seuils de performance mensuels et trimestriels qui serviront de base de cadrage lors de tes échanges en tête-à-tête avec Mohamed Coulibaly à Abidjan :
+- Direction Générale : animation hebdomadaire du comité de direction chaque lundi matin, accompagnement des closing grands comptes industriels, revue d'avancement des chantiers avec la direction technique, contrôle de trésorerie avec la finance, et respect du seuil d'autorisation préalable réservé à l'associé unique pour tout engagement supérieur à dix millions de francs CFA. Sur le plan récurrent, maintien d'une marge brute minimale de quinze millions de francs CFA par trimestre et livraison auditée d'au moins 500 kilowatts-crête par tranche.
+- Direction Commerciale : prospection active hebdomadaire d'au moins dix nouveaux comptes industriels ciblés sur les zones d'Abidjan, mise à jour rigoureuse du carnet d'opportunités, réalisation d'au moins trois visites préliminaires de toitures par semaine. Objectif mensuel : remise d'au moins deux offres dimensionnées et chiffrées, pour viser en vitesse de croisière la signature d'un à deux contrats fermes d'autoproduction par mois (puissance minimale unitaire de 150 kilowatts-crête), avec l'engagement impératif de conclure au moins deux premiers contrats au cours du premier trimestre d'activité.
+- Direction Technique : visites de préfaisabilité sous quarante-huit heures, études complètes de dimensionnement sur logiciel certifié, inspection quotidienne de la sécurité des chantiers (zéro accident avec arrêt toléré), conformité absolue aux normes électriques lors des réceptions CIE et télémonitoring systématique des centrales dès la mise sous tension.
+- Direction Administrative et Financière : rapprochement bancaire hebdomadaire, transmission directe et autonome du tableau de bord de trésorerie à l'associé unique, clôture comptable mensuelle à J+5 en système comptable ouest-africain, zéro retard dans les déclarations fiscales et sociales, et paiement des salaires le 28 du mois.
 
-Il attire toutefois ton attention sur le revers d'un seuil plus élevé. Dans le secteur encore jeune du solaire industriel en toiture à Abidjan, les rares professionnels atteignant 85 ou 90 sur 100 occupent déjà des postes d'associés dans des multinationales. Selon lui, imposer un plancher global de 85 sur 100 pour la Direction Commerciale bloquerait les embauches pendant six à neuf mois ou obligerait à revoir la grille salariale à la hausse — au-delà de 2,5 à 3 millions de francs CFA net par mois —, ce qui alourdirait excessivement la trésorerie avant même le premier encaissement.
+La maquette intègre également la doctrine de sélection validée avec Mohamed : un plancher éliminatoire fixé à 80 sur 100 pour l'ensemble des postes, renforcé par une exigence minimale de 85 sur 100 sur la compétence cœur de métier.
 
-Pour concilier ton exigence de champions et la réalité du marché, Mohamed soumet une recommandation concrète : maintenir le plancher de 80 sur 100 comme filtre éliminatoire strict pour fermer la porte à toute complaisance, mais exiger au moins 85 sur 100 spécifiquement sur le critère central du poste — la négociation et la signature de contrats d'autoproduction auprès de grands comptes industriels pour le directeur commercial. Il souligne également qu'une véritable équipe d'élite se valide à l'exécution : la période d'essai de trois mois et l'engagement ferme de signer deux contrats au premier trimestre permettront de remplacer sans délai quiconque ne tiendrait pas ses promesses sur le terrain.
-
-Il conclut en indiquant qu'il est prêt à affiner ces critères de vive voix lors de votre première réunion de cadrage à Abidjan.
-
-Il est 21h00.
+Il est 10h00.
 
 ---
 
 **Réponses attendues**
 
-- Position sur la doctrine de recrutement : maintiens-tu le seuil éliminatoire à 80 sur 100 avec une exigence de 85 sur le critère cœur de métier comme le suggère Mohamed Coulibaly, ou souhaites-tu remonter la barre générale malgré le risque d'allonger les délais ?
+- Retours ou ajustements sur la maquette des missions continues et objectifs de chaque pôle avant de la présenter à Mohamed Coulibaly lors de ta mission.
 
 **À faire / à fournir avant le tour suivant**
 
-- Valider la ligne directrice pour le recrutement du directeur commercial afin que le pôle virtuel et Mohamed puissent calibrer les prochaines évaluations.
-- Poursuivre le bouclage des préparatifs de voyage (départ lundi 12 août à 06h50, J-5).
+- Valider la maquette organisationnelle ou formuler d'éventuelles modifications chiffrées sur les volumes d'activité attendus.
+- Poursuivre le pointage des effets personnels pour le vol de lundi 12 août (départ à 06h50, J-4).
 
 **Quêtes secondaires**
 
-- Les contrats finalisés et la note de synthèse juridique restent archivés et prêts pour la séance de signature du 13 août.
-- Le dossier pour le ministère luxembourgeois demeure prêt pour la rentrée de septembre.
+- Les contrats de direction et la note de conformité juridique sont archivés et prêts pour la séance de signature notariée du 13 août au Plateau.
+- Le dossier pour le ministère luxembourgeois reste prêt pour la rentrée scolaire de septembre.
 
 Que veux-tu faire ?
