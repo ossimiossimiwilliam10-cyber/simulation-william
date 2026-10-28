@@ -41,3 +41,4 @@
 - 31/07/2041 : fiche créée (tirage du générateur, statut promu en récurrent).
 - 02/08/2041, 08h25 : message spontané envoyé à William sur WhatsApp demandant s'il vient à la séance de 16h00 au Minett Combat Club avant la fermeture estuelle annuelle.
 - 02/08/2041, 16h00-17h45 : première apparition en scène au club ; participation à l'entraînement de MMA (transitions cage et grappling) sous la direction de Thiago Alves ; échange d'un round de sol technique avec William.
+- 02/08/2041, 20h05-20h48 : échange WhatsApp ; William lui propose un verre après l'entraînement du lundi 5 août ; réponse polie et brève de Mariana (T17 poli_bref) confirmant sa présence aux tatamis lundi mais déclinant le verre car son compagnon l'attend directement après le club.

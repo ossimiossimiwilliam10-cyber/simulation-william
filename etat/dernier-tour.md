@@ -1,51 +1,59 @@
 # Dernier tour montré au joueur
 
-> Tour n° 67 ; horloge 31/07/2041 20:00 -> 02/08/2041 20:00 ; enregistré le 28/10/2026 01:15 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 68 ; horloge 02/08/2041 20:00 -> 05/08/2041 09:00 ; enregistré le 28/10/2026 01:34 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Go jusqu'au prochain évènement vraiment important
+> Alors oui, je donne mon feu vert sur la candidature d'Eric Kofi Yao pour la direction technique. Donc on peut finaliser son recrutement. Et oui, je confirme son rejet pour concernant Stéphane Bamba. Mohamed doit donc chercher un autre profil. Bah, je réponds à Mariana que oui, bah, que je serai là. Et qu'on pourrait même se faire quelque chose après l'entraînement éventuellement. Si elle est libre, bien sûr.
 
 ## Texte envoyé au joueur
 
-**VENDREDI 2 AOÛT 2041 — 20h00 — Audun-le-Tiche, chez toi**
+**LUNDI 5 AOÛT 2041 — 09h00 — Audun-le-Tiche, chez toi**
 
-Le mois d'août s'ouvre sur un rythme régulier, entre gestion patrimoniale et déploiement opérationnel.
+Le premier week-end d'août consolide l'édifice opérationnel de Soleil B2B tout en maintenant ton rythme personnel et sportif.
 
-Le jeudi 1er août se déroule dans le calme à Audun-le-Tiche. C'est une journée de repos sportif conformément à ton protocole estival (I1). En consultant ton application bancaire Spuerkeess dans la matinée, tu constates les prélèvements automatiques de début de mois : la cotisation du Minett Combat Club (-85,00 €, échéancier E008) et le package Zebra Premium (-12,83 €, E015). Ton solde bancaire courant s'établit à 17 686,87 €. Tu profites de la journée pour lire, aérer la maison et vérifier tes préparatifs de voyage pour la Côte d'Ivoire. À Abidjan, Mohamed Coulibaly consacre sa journée à conduire des entretiens exploratoires avec les cadres de son réseau pour les postes de direction technique et commerciale. À 20h00, le **Rapport d'activité quotidien n° 13 du Directeur Général virtuel** est déposé dans ton espace (`2041-08-01_Rapport_quotidien_Directeur_General_virtuel.pdf`, D036, classé dans `documents_william/`, A100 clos), confirmant la conformité des démarches et une consommation API de 0,40 €.
+Le vendredi 2 août à 20h05, posé dans ton salon à Audun-le-Tiche après ta séance de combat, tu réponds au message WhatsApp de Mariana Oliveira. Tu la remercies pour l'engagement du round de sol partagé dans l'après-midi, lui confirmes ta présence pour la séance du lundi 5 août à 16h00 et lui proposes d'aller boire un verre ou de manger quelque chose après l'entraînement si elle est libre. À 20h48, une notification vibre sur ton téléphone :
+« Pas de souci pour le message, c'était une bonne séance oui ! Ça marche pour lundi 16h, on se refera des rounds. Pour le verre je pourrai pas après l'entraînement, mon copain m'attend direct après le club, mais à lundi en tout cas ! »
+L'échange reste franc, direct et sans détour.
 
-Ce vendredi 2 août, tes flux financiers programmés s'exécutent dès 08h00 : le virement permanent de 732,00 € vers ton livret d'épargne projet (E012) porte cette réserve liquide à 25 982,00 €, tandis que le virement de 5 755,00 € vers ton compte-titres ETF Monde (E014) porte ton portefeuille d'investissement à 184 205,00 €. Ton compte courant Spuerkeess affiche un solde disponible de 11 199,87 €, couvrant largement les prélèvements du prêt immobilier et des assurances prévus le 5 août.
+Dix minutes plus tôt, à 20h15, le pôle virtuel de Direction Générale a formalisé tes arbitrages présidentiels dans un courriel officiel adressé à Mohamed Coulibaly (`2041-08-02_Courriel_Mohamed_Coulibaly_Validation_DT_Yao_et_rejet_DC_Bamba.pdf`, D038, classé dans `documents_william/`) :
+1. **Direction Technique** : Validation sans réserve de la candidature de Monsieur Éric Koffi Yao (note de 84/100, supérieure au seuil d'exigence de 80/100). Mandat est donné à Mohamed pour finaliser le contrat cadre Niveau 2 (rémunération nette de 1 600 000 FCFA par mois, prise de fonction début septembre et présence obligatoire à Abidjan durant la mission du 13 au 25 août pour les réunions de cadrage et visites de toitures industrielles).
+2. **Direction Commerciale** : Rejet ferme et définitif de la candidature de Monsieur Stéphane Bamba (note de 74/100, inférieure au seuil éliminatoire de 80/100), motivé par l'absence d'expertise démontrée sur les montages de contrats PPA solaires et les ventes d'autoproduction industrielle. Instruction expresse est donnée de relancer sans délai le sourcing sur ce poste stratégique.
 
-À 08h25, une notification retentit sur ton téléphone : Mariana Oliveira, membre régulière du Minett Combat Club et partenaire d'entraînement habituelle, t'envoie un message sur WhatsApp :
-« Salut William ! Dis, tu seras au club cet aprèm pour la séance de 16h ? Thiago m'a dit qu'il faisait tourner la cage et du travail au sol, je voulais savoir si tu venais pour qu'on tourne un round ou deux avant la fermeture annuelle. À tout à l'heure peut-être ! »
+Le samedi 3 août débute sous un ciel ensoleillé à Audun-le-Tiche (25 °C au plus fort du jour). C'est une journée de repos complet sur le plan sportif (I1). À 09h30 (07h30 heure d'Abidjan), Mohamed Coulibaly accuse réception de tes instructions par courriel officiel (`2041-08-03_Courriel_Mohamed_Coulibaly_Accuse_instructions_DT_et_DC.pdf`, classé dans `courriels/`) :
+« Monsieur le Président,
+J'ai bien pris note de votre décision favorable concernant la candidature de Monsieur Éric Koffi Yao (note de 84/100). J'ai pris contact avec lui ce matin même afin de lui confirmer son admission et de caler les termes de son engagement. Il m'a réitéré son enthousiasme pour le projet et son parfait accord avec la grille salariale de Niveau 2 (1 600 000 FCFA net). Il confirme également sa présence assidue à nos côtés à Abidjan entre le 13 et le 25 août pour préparer la rentrée opérationnelle.
+Concernant la Direction Commerciale, je prends acte du rejet de Stéphane Bamba. Vos exigences sur la maîtrise contractuelle du modèle PPA sont parfaitement légitimes. J'ai immédiatement réactivé mes relais professionnels ainsi qu'un cabinet de chasse abidjanais pour cibler des profils issus de développeurs solaires reconnus. Je vous soumettrai de nouveaux dossiers dès qu'ils répondront rigoureusement à notre filtre supérieur à 80/100. »
 
-Après un déjeuner léger à midi et un peu de repos, tu prends la route d'Esch-sur-Alzette à 15h30 pour ta troisième séance de la semaine (I1). Lorsque tu pénètres dans la salle du Minett Combat Club à 16h00, l'atmosphère est déjà chaude. Mariana Oliveira est sur les tatamis en train de s'échauffer : âgée de 35 ans, mesurant 158 cm pour environ 56 kg, elle présente une silhouette compacte, musclée et très affûtée par des années de pratique martiale. Ses épaules sont découpées, sa taille est fine et ses appuis sont solides. D'origine portugaise, elle a un teint mat hâlé, un visage ovale expressif à la mâchoire nette, des yeux marron foncé très vifs et une bouche rieuse. Ses cheveux bruns sont tressés serrés en nappe de combat. Elle porte un rashguard noir ajusté aux coutures renforcées laissant apparaître un tatouage floral stylisé sur l'avant-bras gauche, ainsi que des spats de grappling anthracite. 
+Tu consacres le reste de ton samedi à la lecture, à l'intendance de la maison et au pointage minutieux de tes affaires pour le voyage (J-9 avant le vol Air France). À 20h00, le **Rapport d'activité quotidien n° 15 du Directeur Général virtuel** est déposé dans ton espace documentaire (`2041-08-03_Rapport_quotidien_Directeur_General_virtuel.pdf`, D039, A106 clos), attestant de la parfaite conformité de la journée et d'une consommation API de 0,35 €.
 
-La séance dirigée par le coach Thiago Alves est dense : travail d'enchaînements pieds-poings avec feintes de niveau, liaison vers la lutte gréco-romaine et contrôles le dos contre le grillage de la cage. Tu tournes des rounds de sparring appuyés avec Arthur Kieffer, où ta puissance et ton allonge de 1,96 m font la différence, avant d'enchaîner sur un round de sol technique avec Mariana. Malgré l'écart de gabarit, elle se montre vive et agressive sur les passages de garde, cherchant la vitesse et les inversions d'angle, tandis que tu contrôles son jeu avec lourdeur et précision sans forcer. La séance se termine par des étirements collectifs et des échanges cordiaux dans les vestiaires, avant ton retour à Audun-le-Tiche vers 18h30.
+Le dimanche 4 août, tu te lèves à 06h45. À 07h45, tu enfiles tes baskets pour ton footing d'entretien estival de 5 km sur les hauteurs boisées d'Audun-le-Tiche (I1, 26 minutes, rythme régulier, excellente aisance cardiorespiratoire). Après une bonne douche et un petit-déjeuner complet, tu vérifies une nouvelle fois tes pièces de voyage : passeport français en cours de validité, attestation de pré-enrôlement biométrique e-Visa SNEDAI rectifiée (dossier CI-2041-88419B), billets Air France AF1233/AF702 et réservation confirmée de la résidence F2 sécurisée à Cocody Deux-Plateaux avec groupe électrogène permanent (J-8). 
 
-À 19h15 (17h15 heure d'Abidjan), un courriel officiel de Mohamed Coulibaly te parvient sur l'adresse de la direction (`2041-08-02_Courriel_Mohamed_Coulibaly_Transmission_candidatures_DT_et_DC.pdf`, dans `courriels/`). Mohamed transmet les dossiers complets des deux candidats finalistes qu'il a sélectionnés sur le terrain :
-- **Directeur Technique** : Monsieur Éric Koffi Yao (41 ans), ingénieur diplômé de l'INP-HB Yamoussoukro (Génie Électrique), 14 ans d'expérience dans l'ingénierie solaire et les grands projets d'infrastructure en Afrique de l'Ouest, ancien chef de projet chez un grand constructeur EPC international et consultant raccordement auprès de la CIE. Deux références élogieuses de directeurs généraux vérifiées par Mohamed. Prétentions : 1 600 000 FCFA net mensuel avec intéressement sur tranches de 500 kWc.
-- **Directeur Commercial** : Monsieur Stéphane Bamba (38 ans), master en commerce international, 10 ans de vente B2B à Abidjan dans les équipements industriels et groupes électrogènes. Bon relationnel avec les patrons de PME de Vridi et Yopougon, mais maîtrise encore très parcellaire des contrats solaires complexes en tiers-financement (PPA). Prétentions : 1 400 000 FCFA net mensuel et fortes exigences de commissions.
+À 20h00, le **Rapport d'activité quotidien n° 16 du Directeur Général virtuel** (`2041-08-04_Rapport_quotidien_Directeur_General_virtuel.pdf`, D040, A107 clos, consommation API de 0,25 €) clôture la semaine ISO 31, dont la synthèse détaillée est archivée (`memoire/semaine-2041-W31.md`). Les contrôles dominicaux confirment l'absence totale de fuite interne ou d'escalade externe.
 
-Mohamed précise qu'il attend la notation du bureau de direction pour savoir si ces candidats dépassent le seuil éliminatoire de 80/100 avant d'engager toute démarche contractuelle.
+Ce lundi 5 août, tes flux bancaires mensuels programmés s'exécutent dès 06h00 sur ton compte courant Spuerkeess Zebra Premium :
+- Échéance n° 84 du prêt immobilier PR1 de ta maison d'Audun-le-Tiche : -949,28 € (comprenant 626,84 € de capital remboursé, 299,31 € d'intérêts et 23,13 € d'assurance emprunteur). Le capital restant dû s'abaisse à 134 060,86 €, tandis que la part nette amortie de ta maison progresse à 47 433,48 € ;
+- Assurance habitation propriétaire occupant (E007) : -45,00 € ;
+- Assurance tous risques véhicule électrique (E010) : -107,00 €.
+Le montant total débité est de 1 101,28 €. Ton compte courant affiche désormais un solde net disponible de 10 098,59 €, garantissant une trésorerie confortable avant le débit différé de ta carte Visa Premier prévu le 7 août (1 358,00 € pour les billets et le visa).
 
-À 20h00 précises, le **Rapport d'activité quotidien n° 14 du Directeur Général virtuel** est déposé dans ton espace (`2041-08-02_Rapport_quotidien_Directeur_General_virtuel.pdf`, D037, classé dans `documents_william/`, A105 clos). L'analyse multicritères automatisée a passé les deux profils au crible de la grille d'excellence :
-1. **Éric Koffi Yao (Direction Technique) : NOTE 84 / 100 — VALIDÉ (> 80/100)**. Expertise solaire toiture et MT (28/30), réglementation CIE/ANARE (20/20), management et sécurité chantier (17/20), références et probité (15/15), cohérence salariale (4/15). Le pôle RH et le DG virtuel recommandent formellement son approbation par William afin que Mohamed Coulibaly engage les négociations de recrutement pour une intégration opérationnelle en septembre.
-2. **Stéphane Bamba (Direction Commerciale) : NOTE 74 / 100 — NON VALIDÉ (≤ 80/100)**. Réseau industriel (22/30), maîtrise technique et financière PPA (12/25), rigueur méthodologique (13/20), références (14/15), prétentions commissions (13/10). Le dossier échoue sous le seuil éliminatoire de 80. Le segment virtuel recommande d'écarter ce profil et de demander à Mohamed de relancer son sourcing pour un commercial rompu aux modèles contractuels de l'énergie, ou d'imposer un second entretien approfondi.
+À 09h00, la **🔄 Revue du lundi n° 3 de l'univers 3** est accessible dans ton espace de travail (`memoire/revue-lundi-2041-08-05.md`) :
+- **Bilan opérationnel W31** : Statuts SASU et convention de mandat DG verrouillés chez Me Gnamien pour la signature notariée du 13 août ; DAF Mariam Brou qualifiée ; Direction Technique attribuée à Éric Koffi Yao (1,6 M FCFA net) ; sourcing Direction Commerciale relancé sous filtre strict (> 80/100) ; logistique de mission parée ; budget API du mois d'août consommé à hauteur de 1,00 € sur 50,00 €.
+- **Aléas de la semaine** : Le tirage hebdomadaire signale un aléa administratif bénin (A09, coquille ou retard de traitement documentaire) programmé pour le jeudi 8 août au matin.
+- **Programme du jour** : Séance de 16h00 au Minett Combat Club avec Thiago Alves, Arthur Kieffer et Mariana Oliveira (ultime entraînement avant la fermeture annuelle du club du 6 au 20 août, A003).
 
-Consommation API du jour : 1,20 € (scoring complet des deux cadres), portant le cumul d'août à 1,60 € sur le plafond de 50,00 €.
+---
 
-**Réponses attendues**
-- Arbitrage sur la candidature d'Éric Koffi Yao pour la Direction Technique (noté 84/100) : donnes-tu ton feu vert à Mohamed Coulibaly pour finaliser son recrutement ?
-- Arbitrage sur la candidature de Stéphane Bamba pour la Direction Commerciale (noté 74/100) : confirmes-tu son rejet selon ta règle des 80 points en demandant à Mohamed de chercher un autre profil, ou souhaites-tu une alternative ?
-- Réponse éventuelle au message WhatsApp de Mariana Oliveira du matin.
+### Réponses attendues
+- **Validation de la Revue du lundi n° 3** : Confirmer la prise de connaissance du bilan hebdomadaire, des débits bancaires du 5 août et des priorités de la semaine W32.
+- **Séance d'entraînement au Minett Combat Club (16h00)** : Confirmer ton départ pour Esch-sur-Alzette à 15h30 pour la dernière séance de MMA et grappling avant la fermeture annuelle estivale du club.
 
-**À faire / à fournir avant le tour suivant**
-- Transmettre tes directives de recrutement au DG virtuel pour instruction officielle à Mohamed Coulibaly.
-- Valider le planning du week-end (samedi 3 août repos, dimanche 4 août footing de 5 km conformément à I1) avant la dernière ligne droite avant le départ pour Abidjan le 12 août.
+### À faire / à fournir avant le tour suivant
+- **Préparatifs ultimes de la mission d'Abidjan (J-7)** : Rassembler les documents physiques à emporter (passeport, imprimé SNEDAI, permis de conduire international, carnet de vaccination fièvre jaune).
+- **Suivi des candidatures commerciales** : Rester attentif aux transmissions de profils B2B qualifiés par Mohamed Coulibaly via le canal institutionnel.
 
-**Quêtes secondaires**
-- Préparation de ta valise et de tes documents imprimés pour la mission d'Abidjan du 12 au 25 août 2041.
-- Suivi de la clôture des statuts chez Maître Gnamien pour la signature du 13 août.
+### Quêtes secondaires
+- **MENJE (Article 14)** : Dossier de régularisation en quatre points finalisé, en attente de transmission hiérarchique au lycée de Dudelange à la rentrée scolaire.
+- **Échéancier bancaire** : Débit différé des dépenses de voyage sur la carte Visa Premier (1 358,00 €) programmé pour le mercredi 7 août.
 
 Que veux-tu faire ?

@@ -6,9 +6,9 @@ date;heure;compte;montant;type;libelle;reference
 2041-07-16;07:00;maison_part;97378.22;valeur;Part nette de la maison d'Audun-le-Tiche (valeur estimée 200 000 € - CRD 102 621,78 €);
 2041-07-31;20:00;courant;9320.00;prevu_realise;Traitement mensuel de William (net, État luxembourgeois);E001-20410731
 2041-08-30;20:00;courant;9320.00;prevu;Traitement mensuel de William (net, État luxembourgeois);E001-20410830
-2041-08-05;06:00;courant;-949.28;prevu;Mensualité du prêt immobilier et assurance emprunteur (maison d'Audun-le-Tiche) (échéance n° 84 : capital 626.84 €, intérêts 299.31 €, assurance 23.13 €);E002-20410805
-2041-08-05;06:00;pret;-626.84;prevu;Prêt immobilier de la maison d'Audun-le-Tiche (taux fixe, amortissable) : capital remboursé (échéance n° 84);E002-20410805-K
-2041-08-05;06:00;maison_part;626.84;prevu;Part nette du bien financé : + capital remboursé (échéance n° 84 du prêt PR1);E002-20410805-M
+2041-08-05;06:00;courant;-949.28;prevu_realise;Mensualité du prêt immobilier et assurance emprunteur (maison d'Audun-le-Tiche) (échéance n° 84 : capital 626.84 €, intérêts 299.31 €, assurance 23.13 €);E002-20410805
+2041-08-05;06:00;pret;-626.84;prevu_realise;Prêt immobilier de la maison d'Audun-le-Tiche (taux fixe, amortissable) : capital remboursé (échéance n° 84);E002-20410805-K
+2041-08-05;06:00;maison_part;626.84;prevu_realise;Part nette du bien financé : + capital remboursé (échéance n° 84 du prêt PR1);E002-20410805-M
 2041-09-05;06:00;courant;-949.28;prevu;Mensualité du prêt immobilier et assurance emprunteur (maison d'Audun-le-Tiche) (échéance n° 85 : capital 628.66 €, intérêts 297.49 €, assurance 23.13 €);E002-20410905
 2041-09-05;06:00;pret;-628.66;prevu;Prêt immobilier de la maison d'Audun-le-Tiche (taux fixe, amortissable) : capital remboursé (échéance n° 85);E002-20410905-K
 2041-09-05;06:00;maison_part;628.66;prevu;Part nette du bien financé : + capital remboursé (échéance n° 85 du prêt PR1);E002-20410905-M
@@ -17,11 +17,11 @@ date;heure;compte;montant;type;libelle;reference
 2041-08-12;06:00;courant;-253.00;prevu;Gaz naturel (chauffage, eau chaude, cuisson) : mensualisation;E004-20410812
 2041-09-10;06:00;courant;-253.00;prevu;Gaz naturel (chauffage, eau chaude, cuisson) : mensualisation;E004-20410910
 2041-08-16;06:00;courant;-63.00;prevu;Box internet fibre et forfait mobile;E005-20410816
-2041-08-05;06:00;courant;-45.00;prevu;Assurance habitation (maison, propriétaire occupant) : mensualisée;E007-20410805
+2041-08-05;06:00;courant;-45.00;prevu_realise;Assurance habitation (maison, propriétaire occupant) : mensualisée;E007-20410805
 2041-09-05;06:00;courant;-45.00;prevu;Assurance habitation (maison, propriétaire occupant) : mensualisée;E007-20410905
 2041-08-01;06:00;courant;-85.00;prevu_realise;Minett Combat Club (Esch-sur-Alzette) : accès complet;E008-20410801
 2041-09-02;06:00;courant;-85.00;prevu;Minett Combat Club (Esch-sur-Alzette) : accès complet;E008-20410902
-2041-08-05;06:00;courant;-107.00;prevu;Voiture électrique : assurance tous risques (mensualisée);E010-20410805
+2041-08-05;06:00;courant;-107.00;prevu_realise;Voiture électrique : assurance tous risques (mensualisée);E010-20410805
 2041-09-05;06:00;courant;-107.00;prevu;Voiture électrique : assurance tous risques (mensualisée);E010-20410905
 2041-08-02;08:00;courant;-732.00;prevu_realise;Virement permanent vers le compte épargne (10 % de l'excédent net);E012-20410802
 2041-08-02;08:00;projet;732.00;prevu_realise;Virement permanent vers le compte épargne (10 % de l'excédent net) (compte crédité);E012-20410802-C

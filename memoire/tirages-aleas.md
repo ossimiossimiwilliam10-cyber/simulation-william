@@ -4192,3 +4192,48 @@ Effets à jouer : A09 (mercredi 31/07 (matin)) : Correction longue, agacement
 - Tirage [T14] « Initiative transmission dossiers DT et DC vendredi 2 aout » : aucune 63 / message_routine 12 / demande 10 / information 8 / partage_personnel 4 / plainte_ou_tension 3 ; modificateurs : aucun ; jet  89.1 → **information** (enregistré le 28/10/2026 01:08 heure machine)
 
 - Tirage [T10] « Heure message information Mohamed Coulibaly vendredi 2 aout » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet   6.4 → **immediat** (enregistré le 28/10/2026 01:08 heure machine)
+
+- Tirage [T10] « Delai reponse Mariana Oliveira a William » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  49.7 → **dans_l_heure** (enregistré le 28/10/2026 01:25 heure machine)
+
+- Tirage [T17] « Reaction Mariana Oliveira a invitation verre William » : poli_bref 27 / conversation 26 / ignore 10 / reciproque 13 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : M17 ; jet  21.9 → **poli_bref** (enregistré le 28/10/2026 01:25 heure machine)
+
+- Message spontané d'un proche, semaine du 2041-08-05 : Leo Horvat (membre régulier du club (sparring)) écrira le 07/08/2041 vers 12:15 (heure de l'expéditeur) · tiré parmi 38 personnes de l'entourage, pondérées par proximité (enregistré le 28/10/2026 01:27 heure machine)
+
+## Tirage de la semaine du 2041-08-05
+
+| ID | Événement | Probabilité | Jet (0-100) | Résultat |
+|---|---|---|---|---|
+| A02 | Problème de santé d'un proche d'un personnage (ex. mère d'Aïcha, tension) | 8 % |  70.7 | non |
+| A07 | Panne réseau (fibre, 4G) ou banque en ligne | 15 % |  31.7 | non |
+| A09 | Erreur administrative (virement mal affecté, pièce perdue, nom mal orthographié) | 10 % |   4.1 | **DÉCLENCHÉ** — jeudi 08/08 (matin) |
+| A12 | Fuite d'information (salaires, avances, statut de William) | 5 % |  71.1 | non |
+| A13 | Opportunité commerciale inattendue (recommandation, appel d'un prospect) | 10 % |  74.6 | non |
+| A17 | William lui-même malade ou épuisé (fatigue, gastro) | 5 % |  65.8 | non |
+| A18 | Incident de transport (taxi, panne, retard) | 15 % |  80.6 | non |
+| A19 | Rhume, angine ou gastro de William | 5 % |  56.5 | non |
+| A20 | Perturbation des trajets frontaliers (bus en retard, A4 ou N4 bouchée, travaux) | 20 % |  69.7 | non |
+| A21 | Panne domestique (chauffe-eau, électroménager, fuite) | 4 % |  59.3 | non |
+| A22 | Courrier administratif (impôts français ou luxembourgeois, CNS, mairie, banque) | 10 % |  19.7 | non |
+| A23 | Tentative d'arnaque (SMS de faux colis, faux conseiller bancaire, faux site) | 15 % |  64.9 | non |
+| A24 | Souci de voisinage (bruit, travaux, haie, stationnement) | 5 % |  93.6 | non |
+| A25 | Blessure légère à l'entraînement (entorse, côte, doigt) | 1 % |  53.7 | non |
+| A26 | Imprévu d'argent (amende, réparation, cadeau, cotisation) | 6 % |  80.0 | non |
+| A27 | Signe d'un ancien (collègue, élève devenu adulte, connaissance) | 8 % |  16.1 | non |
+| A28 | Courriel ou appel du lycée pendant les vacances (réunion de rentrée, ajournements, emploi du temps) | 10 % |  62.7 | non |
+| A29 | Contrôle routier ou radar | 3 % |  89.2 | non |
+| A30 | Occasion inattendue (proposition de cours particuliers, invitation, bon plan) | 8 % |  56.5 | non |
+| A31 | Diarrhée du voyageur ou intoxication alimentaire (à l'étranger) | 12 % |  84.8 | non |
+| A35 | Surfacturation ou arnaque visant un touriste (taxi, boutique, bar) | 5 % |  91.2 | non |
+| A36 | Malentendu de langue (adresse mal comprise, commande erronée, document en coréen) | 10 % |  42.6 | non |
+
+Effets à jouer : A09 (jeudi 08/08 (matin)) : Correction longue, agacement
+
+- Actualités de la semaine du 05/08/2041 : modèles LU02, LU04, FR01 [PROCÉDURE : outils/actualites.py] (enregistré le 28/10/2026 01:27 heure machine)
+
+- Tirage [T4] « affaire_projet_ci_annonce : escalade externe, semaine du 04/08 » : aucune 99.7 / frontal_escalade 0.3 ; modificateurs : aucun ; jet  59.2 → **aucune** (enregistré le 28/10/2026 01:27 heure machine)
+
+- Tirage [T5] « affaire_projet_ci_annonce : fuite, semaine du 04/08 » : fuite_externe 13 / fuite_interne 39 / aucune 48 ; modificateurs : aucun ; jet 100.0 → **aucune** (enregistré le 28/10/2026 01:27 heure machine)
+
+- Tirage [T4] « affaire_projet_ci_art14 : escalade externe, semaine du 04/08 » : aucune 99.7 / frontal_escalade 0.3 ; modificateurs : aucun ; jet  44.1 → **aucune** (enregistré le 28/10/2026 01:27 heure machine)
+
+- Tirage [T5] « affaire_projet_ci_art14 : fuite, semaine du 04/08 » : fuite_externe 1 / fuite_interne 3 / aucune 96 ; modificateurs : aucun ; jet  77.8 → **aucune** (enregistré le 28/10/2026 01:27 heure machine)
