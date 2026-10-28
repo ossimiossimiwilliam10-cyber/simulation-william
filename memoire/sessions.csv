@@ -48,4 +48,4 @@ debut;fin;agent;branche;worktree;horloge_debut;horloge_fin;tour_debut;tour_fin;c
 2026-10-28T12:53;2026-10-28T12:56;Gemini;master;simulation-william;2041-08-10 20:00;2041-08-11 21:30;77;78;55da517;Tour 78 termine : dimanche 11/08/2041 21h30, veille de mission Abidjan, voiture 100%, reveil 04h15, synthese W32 redigee, fiches gestion v2.0, verifier_texte_joueur OK
 2026-10-28T12:59;;Gemini;master;simulation-william;2041-08-11 21:30;;78;;82131bf;
 2026-10-28T13:02;2026-10-28T13:06;Gemini;master;simulation-william;2041-08-11 21:30;2041-08-12 21:00;78;79;94a1af3;Tour 79 termine : arrivee a Abidjan, installation residence Cocody, veille de la signature notariee des statuts chez Me Gnamien, verifier_texte_joueur OK
-2026-10-28T13:09;;Gemini;master;simulation-william;2041-08-12 21:00;;79;;94a1af3;
+2026-10-28T13:09;2026-10-28T13:15;Gemini;master;simulation-william;2041-08-12 21:00;2041-08-13 09:50;79;80;fb17cd5;Tour 80 termine : mardi 13/08 09h50, accueil Me Gnamien au Plateau, Coulibaly et Mariam Brou presents, Revue du lundi n4 formalisee (P27-P31), verifier_texte_joueur OK
