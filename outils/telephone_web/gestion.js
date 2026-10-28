@@ -1,16 +1,27 @@
-/* Gestion : l'application de gestion de William (outils/gestion.py) v1.0.
-   Refonte ergonomique complète : 4 onglets structurés (Tableau, RH, Juridique, Documents),
-   liens directs vers les PDF physiques (ouverture nouvel onglet / lecteur intégré),
-   gouvernance en 3 niveaux de contrats et suivi temps réel du budget et des candidatures. */
+/* Gestion : l'application de gestion de William (outils/gestion.py) v2.0.
+   Refonte ergonomique complète : 6 onglets structurés :
+   1. Tableau (Dashboard, budget API, pôles, Open Banking Spuerkeess)
+   2. Équipes & Notes (Fiches collaborateurs, suivi dynamique, historique et alertes d'érosion)
+   3. Évaluation William (Module souverain miroir, confidentiel, note globale et recommandations)
+   4. Candidatures (Vivier RH, annonces et candidats)
+   5. Juridique (Gouvernance, pyramide des 3 niveaux de contrats, conformité)
+   6. Documents (Preuves PDF physiques, visualiseur intégré et téléchargement) */
 appli({
   id: "gestion", nom: "Gestion", couleur: "var(--app-gestion)",
   icone: '<svg viewBox="0 0 24 24"><path d="M4 7h16v12H4z"/><path d="M9 7V5h6v2"/><path d="M4 12h16"/></svg>',
   ouvrir(main, ui) {
     const G = D.applis.gestion;
-    const choix = [["tableau", "Tableau"], ["rh", "RH"], ["juridique", "Juridique"], ["documents", "Documents"]];
+    const choix = [
+      ["tableau", "Tableau"],
+      ["collaborateurs", "Équipes & Notes"],
+      ["souverain", "Évaluation William"],
+      ["rh", "Candidatures"],
+      ["juridique", "Juridique"],
+      ["documents", "Documents"]
+    ];
     let onglet = memoire.lire("gestion-onglet", "tableau");
     if (!choix.some(c => c[0] === onglet)) onglet = "tableau";
-    ui.titre("Gestion", "Version " + G.version + " · Projet Solaire B2B Abidjan");
+    ui.titre("Gestion", "Version " + G.version + " · Pilotage Stratégique SOLEIL B2B CI");
     const euro = n => n.toLocaleString("fr-FR", { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + " €";
     const ligne = (titre, quand, sous) => {
       const g = el("div", "ligne");
@@ -25,10 +36,21 @@ appli({
       const idCard = el("div", "carte");
       idCard.append(
         el("span", "etiquette", "Entreprise en formation"),
-        el("span", "chiffre", "Projet Solaire B2B Abidjan"),
-        el("span", "sous", "SAS de droit OHADA · Capital 1 000 000 FCFA · Investissement 300 000 € sur 3 ans\nAssocié unique : William Ossimi (Associé non-gérant / Investisseur, +352)")
+        el("span", "chiffre", "SOLEIL B2B CÔTE D'IVOIRE SASU"),
+        el("span", "sous", "SASU de droit OHADA · Capital 10 000 000 FCFA (15 245 €)\nAssocié unique : William Ossimi (Associé non-gérant / Investisseur, +352)\nPrésident-Directeur Général : Mohamed Coulibaly")
       );
       z.append(idCard);
+
+      // Carte Open Banking Spuerkeess
+      if (G.open_banking) {
+        const obCard = el("div", "carte");
+        obCard.append(
+          el("span", "etiquette", "Supervision Financière & Open Banking"),
+          el("span", "chiffre", G.open_banking.statut),
+          el("span", "sous", "Mode : " + G.open_banking.mode + "\nComptes agrégés : Banque Spuerkeess (Zebra Premium & Livret Projet)\nSanctuarisation : Zéro cautionnement personnel · Responsabilité limitée à la souscription initiale")
+        );
+        z.append(obCard);
+      }
 
       // Carte de budget d'API
       const part = Math.min(100, 100 * G.depense / G.plafond);
@@ -55,7 +77,7 @@ appli({
       z.append(lp);
 
       // Section Agents IA connectés
-      if (G.agents.length) {
+      if (G.agents && G.agents.length) {
         z.append(el("h2", "sec", "Organisation virtuelle (Agents IA)"));
         const ag = el("div", "liste");
         G.agents.forEach(a => {
@@ -65,14 +87,152 @@ appli({
       }
     };
 
-    // TAB 2: RESSOURCES HUMAINES & RECRUTEMENT
+    // TAB 2: ÉQUIPES & FICHES COLLABORATEURS
+    const collaborateurs = z => {
+      const introCard = el("div", "carte");
+      introCard.append(
+        el("span", "etiquette", "Gouvernance des Talents & Performance"),
+        el("span", "chiffre", "Fiches Collaborateurs & Suivi Dynamique"),
+        el("span", "sous", "Actualisation hebdomadaire par les rapports de direction (mardi & vendredi)\nBarème sur 100 points · Alerte automatique en cas d'érosion de note")
+      );
+      z.append(introCard);
+
+      z.append(el("h2", "sec", "Membres de l'entreprise & Postes (" + (G.collaborateurs ? G.collaborateurs.length : 0) + ")"));
+      if (!G.collaborateurs || !G.collaborateurs.length) {
+        z.append(vide("Aucun collaborateur", "Les profils de direction et d'équipe apparaîtront ici."));
+        return;
+      }
+
+      const lc = el("div", "liste");
+      G.collaborateurs.forEach(col => {
+        const item = el("div", "carte");
+        item.style.cssText = "display:grid;gap:6px;cursor:pointer;margin-bottom:8px";
+
+        const haut = el("div", "ligne");
+        haut.style.padding = "0";
+
+        let noteBadge = "";
+        let badgeStyle = "padding:2px 8px;border-radius:10px;font-size:12px;font-weight:600;";
+        if (col.note > 0) {
+          if (col.variation === "baisse") {
+            badgeStyle += "background:#fee2e2;color:#b91c1c;";
+            noteBadge = " ▼ " + col.note + " / 100 [Alerte Érosion]";
+          } else if (col.variation === "hausse") {
+            badgeStyle += "background:#dcfce7;color:#15803d;";
+            noteBadge = " ▲ " + col.note + " / 100 [Progression]";
+          } else {
+            badgeStyle += "background:var(--accent-doux);color:var(--accent);";
+            noteBadge = " = " + col.note + " / 100 [Stable]";
+          }
+        } else {
+          badgeStyle += "background:#f1f5f9;color:#64748b;";
+          noteBadge = " [En sourcing]";
+        }
+
+        const bEl = el("span", "", noteBadge);
+        bEl.style.cssText = badgeStyle;
+
+        haut.append(
+          el("span", "titre", col.nom),
+          bEl
+        );
+        item.append(haut);
+
+        const sous = el("span", "sous", col.role + " · " + col.pole + " (" + col.niveau + ")\nStatut : " + col.statut);
+        item.append(sous);
+
+        // Section détaillée
+        const detailBox = el("div", "carte");
+        detailBox.style.cssText = "background:var(--fond);padding:10px;margin-top:4px;display:grid;gap:8px;font-size:13px;border-left:3px solid var(--accent);";
+
+        const accBox = el("div", "");
+        accBox.append(
+          el("strong", "", "Accomplissements récents : "),
+          el("span", "", col.accomplissements || "En cours de déploiement.")
+        );
+
+        const vigBox = el("div", "");
+        vigBox.append(
+          el("strong", "", "Points de vigilance & axes de progrès : "),
+          el("span", "", col.points_vigilance || "Aucun manquement signalé.")
+        );
+
+        const dateBox = el("div", "note", "Dernière révision : " + (col.date_maj || "Août 2041") + " · Source : direction & pôle virtuel");
+
+        detailBox.append(accBox, vigBox, dateBox);
+        item.append(detailBox);
+
+        lc.append(item);
+      });
+      z.append(lc);
+    };
+
+    // TAB 3: ÉVALUATION SOUVERAINE DE L'ASSOCIÉ UNIQUE (WILLIAM OSSIMI)
+    const souverain = z => {
+      const secCard = el("div", "carte");
+      secCard.style.cssText = "background:linear-gradient(135deg, rgba(20,83,45,0.08), rgba(30,58,138,0.08));border:1px solid var(--accent);";
+      secCard.append(
+        el("span", "etiquette", "Accès Exclusif & Confidentiel · Associé Unique"),
+        el("span", "chiffre", "Évaluation Miroir de la Gouvernance"),
+        el("span", "sous", "Système d'évaluation autonome piloté par le pôle virtuel souverain.\nDonnées strictement privées · Inaccessibles aux équipes d'Abidjan et aux tiers.")
+      );
+      z.append(secCard);
+
+      if (!G.evaluation_william) {
+        z.append(vide("Évaluation en cours", "Le pôle virtuel compile les premières métriques de gouvernance."));
+        return;
+      }
+
+      const ev = G.evaluation_william;
+
+      // Carte note globale
+      const noteCard = el("div", "carte solde");
+      noteCard.append(
+        el("span", "nom", "Note Stratégique Globale de William Ossimi"),
+        el("span", "chiffre", ev.note_globale + " / 100")
+      );
+
+      const barre = el("div", "");
+      barre.style.cssText = "height:10px;border-radius:5px;background:var(--accent-doux);overflow:hidden;margin-top:6px";
+      const rempli = el("div", "");
+      rempli.style.cssText = "height:100%;background:#16a34a;width:" + ev.note_globale + "%";
+      barre.append(rempli);
+      noteCard.append(barre, el("span", "sous", "Mention : Excellence Managériale & Rigueur Patrimoniale · Mise à jour le " + dateFr(ev.date)));
+      z.append(noteCard);
+
+      // Détail des sous-scores
+      z.append(el("h2", "sec", "Piliers d'évaluation du dirigeant-investisseur"));
+      const lScores = el("div", "liste");
+      lScores.append(
+        ligne("Gouvernance & Clarté des Ordres", ev.score_gouvernance + " / 100", "Qualité du cadrage des 3 maquettes, respect de l'autorité déléguée au PDG, absence d'immixtion fautive."),
+        ligne("Gestion Financière & Étanchéité", ev.score_finances + " / 100", "Liaison Open Banking Spuerkeess, plafonnement strict au capital de 10 M FCFA, zéro caution personnelle."),
+        ligne("Anticipation Stratégique & Risque", ev.score_strategie + " / 100", "Intégration d'un analyste quantitatif au pôle finance, scoring PPA, préparation de la mission terrain.")
+      );
+      z.append(lScores);
+
+      // Accomplissements
+      z.append(el("h2", "sec", "Accomplissements de l'Associé Unique"));
+      const accCard = el("div", "carte");
+      accCard.style.cssText = "border-left:3px solid #16a34a;background:var(--fond);";
+      accCard.append(el("span", "sous", ev.accomplissements));
+      z.append(accCard);
+
+      // Recommandation corrective
+      z.append(el("h2", "sec", "Recommandation stratégique corrective"));
+      const recCard = el("div", "carte");
+      recCard.style.cssText = "border-left:3px solid #f59e0b;background:var(--fond);";
+      recCard.append(el("span", "sous", ev.recommandation_corrective));
+      z.append(recCard);
+    };
+
+    // TAB 4: CANDIDATURES & RECRUTEMENT
     const rh = z => {
       // Carte du poste
       const postCard = el("div", "carte");
       postCard.append(
-        el("span", "etiquette", "Poste stratégique ouvert"),
+        el("span", "etiquette", "Poste stratégique pourvu"),
         el("span", "chiffre", G.poste.intitule),
-        el("span", "sous", "Forme : " + G.poste.forme + "\nRémunération : Formule 1 (Fixe 2 M FCFA net + variable 2,5 % CA encaissé + prime 5 M FCFA / 500 kWc)\nRévocation : Caducité automatique sur seuils trimestriels (Option C)\nProtection : Non-concurrence 12 mois sans indemnité + clause pénale 12 mois de fixe (Option A)")
+        el("span", "sous", "Forme : " + G.poste.forme + "\nTitulaire désigné : Mohamed Coulibaly (Signature notariée 13/08)\nRémunération : Formule 1 (Fixe 2 M FCFA net + variable 2,5 % CA encaissé + prime 5 M FCFA / 500 kWc)\nRévocation : Caducité automatique sur seuils trimestriels (Option C)\nProtection : Non-concurrence 12 mois sans indemnité + clause pénale 12 mois de fixe (Option A)")
       );
       z.append(postCard);
 
@@ -102,7 +262,7 @@ appli({
       }
     };
 
-    // TAB 3: JURIDIQUE, GOUVERNANCE & SOURCES
+    // TAB 5: JURIDIQUE, GOUVERNANCE & SOURCES
     const juridique = z => {
       // Carte Gouvernance
       const govCard = el("div", "carte");
@@ -117,9 +277,9 @@ appli({
       z.append(el("h2", "sec", "Architecture pyramidale des contrats"));
       const lContrats = el("div", "liste");
       lContrats.append(
-        ligne("Niveau 1 : Directeur Général", "Mandat social pur", "Convention de mandat social OHADA (19 articles rédigés). Révocabilité ad nutum, caducité sur objectifs stricts, clause de non-concurrence 12 mois sans indemnité. Mis en place directement par l'associé unique.\nMaquette PDF disponible dans l'onglet Documents."),
-        ligne("Niveau 2 : Directeurs de pôle", "Cadres dirigeants", "Directeur Technique, Directeur Commercial B2B, Responsable Financier. Contrats de travail de cadres salariés (Code du travail ivoirien). Maquette générale à soumettre par le Directeur Général recruté."),
-        ligne("Niveau 3 : Collaborateurs & Techniciens", "Salariés d'exécution", "Techniciens solaires toiture, monteurs électriciens, commerciaux terrain. Contrats de travail adaptés (sécurité toiture, commissions). Maquettes sectorielles élaborées par chaque directeur de pôle.")
+        ligne("Niveau 1 : Directeur Général", "Mandat social pur", "Convention de mandat social OHADA (19 articles rédigés). Révocabilité ad nutum, caducité sur objectifs stricts, clause de non-concurrence 12 mois sans indemnité. Mis en place directement par l'associé unique.\nPièce officielle signée chez Me Gnamien le 13/08."),
+        ligne("Niveau 2 : Directeurs de pôle", "Cadres dirigeants", "Directeur Technique (Éric Yao validé), Directrice Administrative et Financière (Mariam Brou validée), Directeur Commercial B2B (en sourcing > 80). Contrats de travail de cadres salariés (Code du travail ivoirien)."),
+        ligne("Niveau 3 : Collaborateurs & Techniciens", "Salariés d'exécution", "Chef d'équipe travaux (N3 >= 80), techniciens installateurs toiture et commerciaux juniors (N4 jeunes < 30 ans, 75-85 avec fort potentiel). Contrats de travail adaptés (sécurité toiture, commissions).")
       );
       z.append(lContrats);
 
@@ -130,7 +290,7 @@ appli({
       z.append(ls);
     };
 
-    // TAB 4: DOCUMENTS & PREUVES PDF
+    // TAB 6: DOCUMENTS & PREUVES PDF
     const documents = z => {
       z.append(el("h2", "sec", "Documents d'entreprise & Preuves PDF (" + G.documents.length + " pièces)"));
       if (!G.documents.length) {
@@ -255,7 +415,7 @@ appli({
       zone.replaceChildren();
       zone.style.display = "grid";
       zone.style.gap = "14px";
-      ({ tableau, rh, juridique, documents }[onglet])(zone);
+      ({ tableau, collaborateurs, souverain, rh, juridique, documents }[onglet])(zone);
     };
     main.append(tabs, zone);
     dessiner();

@@ -35,6 +35,8 @@ BUDGET = ETAT / "gestion-budget.csv"
 DOCUMENTS = ETAT / "gestion-documents.csv"
 CANDIDATS = ETAT / "gestion-candidats.csv"
 AGENTS = ETAT / "gestion-agents.csv"
+COLLABORATEURS = ETAT / "gestion-collaborateurs.csv"
+EVALUATION_WILLIAM = ETAT / "gestion-evaluation-william.csv"
 COUT_JOUR_RH = 0.9  # surveillance et rapport quotidien de l'agent du pôle RH (estimation)
 COUT_JOUR_CENTRAL = 0.7  # lecture de la messagerie de William et synthèse des pôles par l'agent central (estimation)
 COUT_JOUR_JURIDIQUE = 0.5  # vérification des affirmations de tiers contre les textes officiels par le pôle juridique virtuel (estimation)
@@ -126,9 +128,50 @@ def donnees_telephone(t):
     noms_poles["central"] = "Direction Générale"
     agents = [{"pole": noms_poles.get(a["pole"], a["pole"]), "agent": a["agent"], "statut": a["statut"], "note": a["note"]}
               for a in lire_csv(AGENTS)]
-    version = "1.0" if _avant(c.get("version_1_0_le", "9999"), t) else ("0.2" if _avant(c.get("version_0_2_le", "9999"), t) else c.get("version", "0.1"))
+    version = "2.0" if _avant(c.get("version_2_0_le", "9999"), t) else ("1.0" if _avant(c.get("version_1_0_le", "9999"), t) else ("0.2" if _avant(c.get("version_0_2_le", "9999"), t) else c.get("version", "0.1")))
     if version == "0.1":
         agents = []  # les agents apparaissent avec la version 0.2
+
+    collaborateurs = []
+    if COLLABORATEURS.exists():
+        for col in lire_csv(COLLABORATEURS):
+            if _avant(col.get("date_maj", ""), t):
+                collaborateurs.append({
+                    "id": col["id"],
+                    "nom": col["nom"],
+                    "role": col["role"],
+                    "pole": col["pole"],
+                    "niveau": col["niveau"],
+                    "statut": col["statut"],
+                    "note": float(col["note_actuelle"] or 0),
+                    "note_precedente": float(col["note_precedente"] or 0),
+                    "variation": col["variation"],
+                    "accomplissements": col["accomplissements"],
+                    "points_vigilance": col["points_vigilance"],
+                    "date_maj": col["date_maj"][:10]
+                })
+
+    eval_william = None
+    if EVALUATION_WILLIAM.exists():
+        evals = [e for e in lire_csv(EVALUATION_WILLIAM) if _avant(e.get("date", ""), t)]
+        if evals:
+            derniere = evals[-1]
+            eval_william = {
+                "id": derniere["id"],
+                "date": derniere["date"][:10],
+                "note_globale": float(derniere["note_globale"] or 0),
+                "score_gouvernance": float(derniere["score_gouvernance"] or 0),
+                "score_finances": float(derniere["score_finances"] or 0),
+                "score_strategie": float(derniere["score_strategie"] or 0),
+                "accomplissements": derniere["accomplissements"],
+                "recommandation_corrective": derniere["recommandation_corrective"]
+            }
+
+    open_banking = {
+        "statut": c.get("open_banking_statut", "Non connecté"),
+        "mode": c.get("open_banking_mode", "Lecture seule")
+    }
+
     gouvernance = {
         "forme_sociale": c.get("forme_sociale", "SAS"),
         "avocat_conseil": c.get("avocat_conseil", "Cabinet Me Ismaël Gnamien (Abidjan)"),
@@ -138,6 +181,7 @@ def donnees_telephone(t):
     }
     return {"installee": True, "version": version, "agents": agents, "estimation": cout_auto(t), "plafond": plafond, "depense": dep, "restant": round(plafond - dep, 2),
             "modele": c.get("modele", ""), "poles": poles, "sources": sources, "documents": docs, "candidats": candidats, "annonces": plateformes,
+            "collaborateurs": collaborateurs, "evaluation_william": eval_william, "open_banking": open_banking,
             "poste": {"intitule": c.get("poste", ""), "forme": c.get("forme_sociale", "")}, "gouvernance": gouvernance}
 
 

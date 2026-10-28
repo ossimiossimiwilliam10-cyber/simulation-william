@@ -1,11 +1,14 @@
 cle;valeur
 installee_le;2041-07-19 03:12
-version;1.0
+version;2.0
 plafond_api_eur;1000
 modele;Claude 3.7 Sonnet (modèle d'IA de pointe)
 poste;Directeur Général (Mandat social pur SAS)
 forme_sociale;SAS (Société par Actions Simplifiée de droit OHADA)
 version_0_2_le;2041-07-19 04:02
 version_1_0_le;2041-07-23 12:00
+version_2_0_le;2041-08-10 18:00
 avocat_conseil;Cabinet Me Ismaël Gnamien (Abidjan)
 structure_contrats;3 niveaux (DG mandat social, Directeurs cadres, Techniciens salariés)
+open_banking_statut;Connecté (Banque Spuerkeess Zebra Premium + Épargne Projet)
+open_banking_mode;Lecture seule sécurisée (DSP2 / API bancaire européenne)
