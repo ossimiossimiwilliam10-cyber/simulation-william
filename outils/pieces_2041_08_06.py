@@ -89,3 +89,4 @@ def generer_rapport_quotidien_18():
 
 if __name__ == "__main__":
     generer_rapport_quotidien_18()
+

@@ -1,48 +1,43 @@
 # Dernier tour montré au joueur
 
-> Tour n° 70 ; horloge 05/08/2041 23:30 -> 06/08/2041 20:00 ; enregistré le 28/10/2026 11:16 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 71 ; horloge 06/08/2041 20:00 -> 07/08/2041 10:00 ; enregistré le 28/10/2026 11:23 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> On continue alors
+> Validation ajustement statutaire SASU, demande statut redaction des contrats et stockage PDF, verification juridique
 
 ## Texte envoyé au joueur
 
-📌 Vraie vie : Le titre de « Président » et l'expression de « décision présidentielle » posent un risque juridique sérieux au regard de l'article 14 du statut des fonctionnaires luxembourgeois (qui interdit tout mandat de direction ou d'administration exécutive). En droit OHADA, le Président est obligatoirement le représentant légal de la société. Le pôle juridique virtuel a réexaminé ce point dans son rapport du jour et préconise d'attribuer la présidence formelle à Mohamed Coulibaly, afin que tu ne sois statutairement que l'associé unique fondateur.
+**MERCREDI 7 AOÛT 2041 — 10h00 — Audun-le-Tiche, chez toi**
 
-**MARDI 6 AOÛT 2041 — 20h00 — Audun-le-Tiche, chez toi**
+Le réveil se fait au calme vers sept heures, après une nuit longue et sans interruption. Dehors, une pluie fine arrose la rue et rafraîchit l'air à seize degrés. Tu te prépares un café noir et tu consultes l'application de la banque : comme prévu, le débit différé de ta carte bancaire est passé à six heures du matin pour un montant de 1 358 euros, soldant les dépenses du mois précédent. Le compte courant s'établit désormais à 8 740,59 euros.
 
-La pluie bat contre les vitres de la chambre dès le lever du jour, sous un ciel bas et grisâtre. Après une nuit complète de sommeil, la fraîcheur matinale s'installe dans la maison. Un bol de café noir, quelques fruits secs, et tu descends dans la cuisine pendant que l'averse redouble.
+Dès la fin de soirée hier, tu as transmis tes instructions au pôle virtuel concernant la validation de l'ajustement statutaire et la préparation rigoureuse des contrats. À huit heures et demie, la réponse formelle de ton équipe juridique arrive dans tes dossiers, accompagnée de l'ensemble des pièces finalisées.
 
-Aujourd'hui, le Minett Combat Club est fermé pour ses deux semaines de congés d'été. Pas de route vers Esch-sur-Alzette, pas de sac à préparer. Le silence de la salle fermée laisse place au bruit continu de la pluie sur les tuiles. Tu profites de cette matinée sans obligation pour faire un tour complet de la maison, ranger du linge et vérifier une nouvelle fois la pochette de voyage posée sur le bureau. Passeport, attestation de visa biométrique, billets d'avion, tout y est, bien ordonné.
+Le pôle juridique virtuel a achevé sa contre-expertise complète au regard du droit des sociétés de l'OHADA et du Code du travail ivoirien. Les trois contrats de direction ainsi que la note de synthèse sont désormais convertis en documents finaux et classés :
+- La convention de mandat social de président et directeur général pour Mohamed Coulibaly : elle intègre formellement la présidence exécutive confiée à Mohamed pour sécuriser ta situation vis-à-vis de l'article 14, confirme la rémunération nette de deux millions de francs CFA par mois, l'intéressement commercial de 2,5 %, la prime de réalisation par tranche de 500 kilowatts-crête, et verrouille la clause de non-concurrence de douze mois indemnisée à 50 %. Les seuils de contrôle restent stricts : tout engagement supérieur à dix millions de francs CFA requiert obligatoirement ton accord écrit préalable en tant qu'associé unique.
+- Le contrat de travail de directrice administrative et financière pour Mariam Brou : contrat cadre à durée indéterminée basé sur une rémunération nette mensuelle de 1 600 000 francs CFA, avec prise d'effet au premier septembre et présence confirmée pendant la mission d'août. La clause de transparence directe et d'information permanente au bénéfice de l'associé unique y est expressément stipulée.
+- Le contrat de travail de directeur technique pour Éric Koffi Yao : contrat cadre à durée indéterminée à 1 600 000 francs CFA net, régissant la supervision des chantiers en toiture, le respect des normes électriques et les primes de mise en service sans réserve.
+- La note de synthèse juridique : elle certifie la conformité de chaque clause et atteste que les dossiers ont été transmis à l'étude de Maître Gnamien à Abidjan pour tirage sur papier officiel en vue de la signature le 13 août.
 
-Vers midi, tu te prépares une assiette de riz complet et d'œufs brouillés tout en suivant les actualités régionales. La circulation reste compliquée autour de Thionville à cause des travaux, mais tu n'as pas à prendre l'autoroute aujourd'hui. Côté ivoirien, Mohamed Coulibaly n'a transmis aucun nouveau profil pour la Direction Commerciale. Ses prospections auprès de son réseau et du cabinet de recrutement abidjanais se poursuivent, mais le filtre d'exigence reste strict : aucun candidat ne sera proposé sans franchir le cap des qualifications attendues sur le modèle de vente d'autoproduction solaire.
+Aujourd'hui, c'est la fête nationale en Côte d'Ivoire. Les administrations, les banques et les cabinets d'Abidjan sont fermés pour ce jour chômé célébrant l'indépendance. Aucun échange n'est attendu de leur côté avant demain.
 
-En fin d'après-midi, alors que les nuages s'épaississent et qu'un grondement d'orage résonne au loin, tu pousses les meubles du salon pour t'aménager un espace sur le tapis. Une bonne heure de travail physique au poids du corps : pompes, gainage, mobilité articulaire et étirements appuyés pour dénouer les hanches et les épaules. Le corps répond bien, sans douleur ni raideur particulière.
-
-À 20h00, une notification signale l'arrivée du rapport quotidien du directeur général virtuel dans ta messagerie.
-
-Ce document fait un point approfondi sur la question que tu as soulevée concernant ton rôle au sein de la société ivoirienne. L'analyse juridique confirme que l'article 853-1 du droit OHADA investit impérativement le Président de la représentation légale et de la gestion de la société. Si tu apparais comme Président dans les statuts, l'administration luxembourgeoise pourrait y voir un mandat exécutif incompatible avec l'article 14 de ton statut de fonctionnaire. Pour lever toute ambiguïté sans perdre le contrôle de ton investissement, le pôle juridique propose d'ajuster les statuts avant la signature du 13 août chez Maître Gnamien : Mohamed Coulibaly serait désigné Président et Directeur Général de la SASU, tandis que tu demeures exclusivement Associé Unique Fondateur. Ce statut d'actionnaire unique te garantit l'intégralité des pouvoirs souverains — nomination et révocation des dirigeants, approbation des comptes annuels, affectation des bénéfices, et droit de veto écrit obligatoire sur tout engagement supérieur à dix millions de francs CFA — tout en restant irréprochable vis-à-vis du ministère à Luxembourg.
-
-Pour le reste, les préparatifs du voyage restent parfaitement calés. Le débit différé de ta carte bancaire passera demain matin à l'aube sur ton compte courant pour régler les dépenses du mois écoulé.
-
-Il est 20h00.
+Il est 10h00.
 
 ---
 
 **Réponses attendues**
 
-- Arbitrage sur la gouvernance de la SASU : valides-tu l'ajustement statutaire proposé par le pôle juridique (désigner Mohamed Coulibaly comme Président-Directeur Général et conserver pour toi la qualité exclusive d'Associé Unique Fondateur pour respecter l'article 14) ?
+Aucune réponse urgente. Les contrats sont sécurisés et en attente de la séance de signature à Abidjan.
 
 **À faire / à fournir avant le tour suivant**
 
-- Mercredi 7 août à 06h00 : exécution du prélèvement du solde de ta carte bancaire (1 358,00 EUR) sur ton compte courant Spuerkeess.
-- Sourcing Direction Commerciale : attendre les retours de Mohamed Coulibaly ou lui adresser une relance avant ton départ.
-- Lundi 12 août à 06h50 : vol au départ de Findel (J-6).
+- Vérification des bagages et préparation des effets personnels pour la mission (départ lundi 12 août à 06h50 de Findel, J-5).
+- Sourcing Direction Commerciale : reprise des prospections par Mohamed Coulibaly après le jour férié ivoirien.
 
 **Quêtes secondaires**
 
 - Le dossier pour le ministère luxembourgeois reste prêt pour la rentrée de septembre.
-- L'accusé de réception de ton courriel du 16 juillet envoyé au ministère est toujours en attente.
+- L'accusé de réception formel de ton courriel du 16 juillet au ministère est toujours en attente.
 
 Que veux-tu faire ?
