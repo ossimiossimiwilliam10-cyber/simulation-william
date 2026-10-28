@@ -30,3 +30,4 @@ date;type;tmin;tmax;pluie_mm;orage;soleil_h;brouillard;description;anomalie;tire
 2041-08-13;ensoleille;11.3;22.5;0.0;non;12.6;non;"Grand soleil ; 23 °C au plus chaud, 11 °C au petit matin";-4.00;2026-10-28T12:14
 2041-08-14;ensoleille;10.8;21.0;0.0;non;10.9;non;"Grand soleil ; 21 °C au plus chaud, 11 °C au petit matin";-5.47;2026-10-28T12:40
 2041-08-15;averses;10.8;14.8;3.0;non;2.8;non;"Averses ; 15 °C au plus chaud, 11 °C au petit matin ; 3 mm de pluie";-8.24;2026-10-28T12:56
+2041-08-16;orage;11.0;14.9;2.8;oui;5.2;non;"Orage en soirée ; 15 °C au plus chaud, 11 °C au petit matin ; 2,8 mm de pluie";-7.99;2026-10-28T13:05

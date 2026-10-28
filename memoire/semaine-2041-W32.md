@@ -34,3 +34,4 @@
 ## Profil de l'utilisateur (observations)
 - Rigueur technique et souci d'exhaustivité : volonté ferme d'appliquer un contrôle objectif et chiffré à l'ensemble des acteurs de l'organisation sans exception, tout en acceptant d'être lui-même évalué par son propre segment virtuel.
 - Prévoyance logistique irréprochable : anticipation méthodique des détails pratiques (documents, voiture, réveil) évitant tout aléa pré-départ.
+

@@ -12,9 +12,9 @@ date;heure;compte;montant;type;libelle;reference
 2041-09-05;06:00;courant;-949.28;prevu;Mensualité du prêt immobilier et assurance emprunteur (maison d'Audun-le-Tiche) (échéance n° 85 : capital 628.66 €, intérêts 297.49 €, assurance 23.13 €);E002-20410905
 2041-09-05;06:00;pret;-628.66;prevu;Prêt immobilier de la maison d'Audun-le-Tiche (taux fixe, amortissable) : capital remboursé (échéance n° 85);E002-20410905-K
 2041-09-05;06:00;maison_part;628.66;prevu;Part nette du bien financé : + capital remboursé (échéance n° 85 du prêt PR1);E002-20410905-M
-2041-08-12;06:00;courant;-132.00;prevu;Électricité (mensualisation · option heures creuses, 9 kVA · recharge de la voiture la nuit);E003-20410812
+2041-08-12;06:00;courant;-132.00;prevu_realise;Électricité (mensualisation · option heures creuses, 9 kVA · recharge de la voiture la nuit);E003-20410812
 2041-09-10;06:00;courant;-132.00;prevu;Électricité (mensualisation · option heures creuses, 9 kVA · recharge de la voiture la nuit);E003-20410910
-2041-08-12;06:00;courant;-253.00;prevu;Gaz naturel (chauffage, eau chaude, cuisson) : mensualisation;E004-20410812
+2041-08-12;06:00;courant;-253.00;prevu_realise;Gaz naturel (chauffage, eau chaude, cuisson) : mensualisation;E004-20410812
 2041-09-10;06:00;courant;-253.00;prevu;Gaz naturel (chauffage, eau chaude, cuisson) : mensualisation;E004-20410910
 2041-08-16;06:00;courant;-63.00;prevu;Box internet fibre et forfait mobile;E005-20410816
 2041-08-05;06:00;courant;-45.00;prevu_realise;Assurance habitation (maison, propriétaire occupant) : mensualisée;E007-20410805

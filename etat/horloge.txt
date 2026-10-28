@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-08-11 21:30
-fuseau: luxembourg
-lieu: Audun-le-Tiche (Moselle), chez toi
-tour: 78
-attente: Validation du depart matinal pour Findel (reveil 04h15, vol AF1233 a 06h50, atterrissage Abidjan 18h25)
+horloge: 2041-08-12 21:00
+fuseau: abidjan
+lieu: Abidjan (Cocody Deux-Plateaux), résidence hôtelière
+tour: 79
+attente: Organisation du trajet et présence à la séance de signature notariale des statuts et du mandat DG chez Me Gnamien (mardi 13 août à 10h00)

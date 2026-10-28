@@ -1,44 +1,59 @@
 # Dernier tour montré au joueur
 
-> Tour n° 78 ; horloge 10/08/2041 20:00 -> 11/08/2041 21:30 ; enregistré le 28/10/2026 12:56 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 79 ; horloge 11/08/2041 21:30 -> 12/08/2041 21:00 ; enregistré le 28/10/2026 13:05 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Repos dominical, footing 5 km, charge voiture electrique a 100%, programmation reveil 04h15 pour vol Findel, et extension fiches d'evaluation a tout le personnel
+> Voyage Findel-CDG-Abidjan, formalités aéroport FHB et installation résidence hôtelière Cocody Deux-Plateaux
 
 ## Texte envoyé au joueur
 
-**DIMANCHE 11 AOÛT 2041 — 21h30 — Audun-le-Tiche, chez toi**
+**LUNDI 12 AOÛT 2041 — 21h00 — Abidjan (Cocody Deux-Plateaux), résidence hôtelière**
 
-La nuit de samedi à dimanche est paisible et réparatrice. Tu te réveilles au petit matin sous une lumière radieuse : après la grisaille de la veille, un grand soleil d'été illumine la Lorraine, avec une fraîcheur matinale d'une douzaine de degrés qui grimpe agréablement vers vingt et un degrés en milieu de journée.
+La sonnerie feutrée de ton téléphone résonne dans la pénombre de ta chambre d'Audun-le-Tiche à quatre heures quinze précises. Malgré cette nuit écourtée de six heures, le repos régulier des jours précédents te permet d'émerger l'esprit clair et le corps dispos. Tu avales un grand café noir bien serré, vérifies une dernière fois les serrures de la maison et charges tes deux lourdes valises dans le coffre de ta voiture électrique, dont la batterie indique une charge pleine à cent pour cent. À quatre heures quarante-cinq, tu prends la route sous une pluie battante et un fond d'air frais à onze degrés typique des aubes humides lorraines.
 
-À huit heures et demie, tu enfiles ta tenue de course pour accomplir ton footing dominical habituel. Tu parcours tes cinq kilomètres d'une foulée souple et rythmée autour d'Audun-le-Tiche. Les sensations physiques sont excellentes : le repos du week-end a parfaitement régénéré tes articulations et ton souffle est fluide. Après une douche fraîche et une séance d'étirements complets, tu savoures un grand café dans ton salon.
+Le trajet de trente-cinq kilomètres sur l'autoroute détrempée s'effectue sans encombre. Tu rejoins le parking couvert sécurisé de l'aéroport de Luxembourg-Findel à cinq heures un quart. En quelques minutes, tes bagages de soute sont étiquetés et enregistrés au comptoir prioritaire d'Air France, et les contrôles de sûreté sont franchis dans une aérogare encore paisible. Le vol court-courrier AF1233 décolle à six heures cinquante pour toucher le tarmac de Paris Charles-de-Gaulle à sept heures quarante-cinq. La correspondance s'avère d'une fluidité parfaite : le passage vers le terminal international 2E et les portes du satellite M s'opère sans attente grâce au sas biométrique de ton passeport européen. Tu t'installes confortablement dans l'espace d'attente pour prendre une collation légère, consulter tes notes d'affaires et vérifier le dossier juridique sur ton écran.
 
-Le reste de la journée est dédié au calme, à la détente et aux ultimes réglages logistiques. Tu branches ta voiture électrique sur ta borne à domicile : en milieu d'après-midi, la batterie affiche une charge complète à cent pour cent, soit plus de quatre cent cinquante kilomètres d'autonomie pour couvrir les trente-cinq kilomètres d'autoroute qui te séparent de l'aéroport de Luxembourg-Findel.
+À onze heures vingt-cinq, l'embarquement du vol long-courrier AF702 débute. Le Boeing 777 s'élance sur la piste à midi passé de cinq minutes. Pendant les six heures et vingt minutes d'un vol direct particulièrement calme au-dessus de la Méditerranée et des immensités ocre du Sahara, tu savoures ton plateau-repas, revois les derniers arbitrages contractuels et profites d'un repos bienvenu.
 
-Tu intègres également dans ton système de gestion ta doctrine managériale globale : chaque membre du personnel à temps plein sans exception, des directeurs jusqu'aux agents de sécurité et d'entretien, disposera de sa fiche nominative, de ses points d'évaluation et de sa note dynamique sur cent dans l'application dès son recrutement. Les profils de cadrage pour les postes de surveillance du quartier général et des services généraux sont d'ores et déjà paramétrés dans la base de données de l'application, prêts à être activés lors de l'installation physique des bureaux à Abidjan.
+L'appareil entame sa descente à travers la couverture nuageuse ivoirienne et pose ses roues sur la piste de l'aéroport international Félix Houphouët-Boigny de Port-Bouët à dix-huit heures vingt-cinq, heure locale d'Abidjan. Dès la passerelle vitrée, la morsure de l'air équatorial te saisit : vingt-six degrés au thermomètre, une humidité dense de près de quatre-vingt-dix pour cent et ce parfum familier mêlant terre rouge, végétation tropicale et embruns de l'océan Atlantique.
 
-En début de soirée, après un repas léger, tu procèdes à l'inspection finale de tes affaires. Tes deux valises principales sont alignées dans le couloir d'entrée, étiquetées et cadenassées. Tu ouvres une dernière fois ta sacoche de cabine pour t'assurer que rien ne manque : ton passeport biométrique, l'attestation de pré-enrôlement du visa électronique biométrique avec son récépissé officiel, ton carnet international de vaccination jaune à jour contre la fièvre jaune, ainsi que tes diplômes universitaires originaux accompagnés de leurs relevés de notes certifiés conformes. Tout est en ordre rigoureux.
+Dans le hall des arrivées, les formalités d'entrée s'enchaînent sans le moindre accroc. Au filtre sanitaire, les agents de l'Institut National d'Hygiène Publique examinent et tamponnent ton carnet jaune international de vaccination contre la fièvre jaune. Au guichet biométrique de la société de visa, tu présentes ton passeport et ton attestation de pré-enrôlement officiel : la prise d'empreintes digitales et la prise de vue s'effectuent en trois minutes, et la vignette sécurisée est immédiatement apposée sur ton passeport. Sur le tapis roulant, tes deux valises apparaissent rapidement, intactes. Le passage en douane est une simple formalité de routine.
 
-Sur ton téléphone, tu programmes ton alarme principale pour quatre heures quinze du matin, doublée d'une sonnerie de secours à quatre heures vingt-cinq. Ce timing te permettra d'émerger sereinement, de prendre un café chaud, de charger tes valises dans le coffre et de prendre la route à quatre heures quarante-cinq pour arriver au terminal de Findel vers cinq heures et quart, soit une heure et demie avant le décollage du vol Air France AF1233 prévu à six heures cinquante.
+À la sortie du terminal, le chauffeur privé envoyé par la résidence hôtelière t'attend avec une pancarte à ton nom. Tu prends place dans un SUV climatisé et quitte la zone aéroportuaire vers dix-neuf heures cinquante. Le trajet nocturne te mène à travers Port-Bouët puis sur le grand boulevard Valéry Giscard d'Estaing, bordé de néons, d'enseignes et d'une circulation animée. Le véhicule franchit la lagune Ébrié par le tablier éclairé du pont Henri Konan Bédié avant de remonter vers les quartiers arborés de Cocody et les Deux-Plateaux.
 
-La maison est propre, les volets sont vérifiés, la mission est minutieusement préparée et Mohamed Coulibaly t'attend mardi matin à Abidjan. Il est temps de t'endormir pour cette dernière nuit avant le grand départ.
+Tu parviens à destination vers vingt heures quarante-cinq. La résidence est entièrement clôturée et gardée en continu par une équipe de sécurité privée. Après un enregistrement rapide à la réception, on te conduit à ton appartement de deux pièces situé au premier étage. Le logement est spacieux, parfaitement propre et doté d'une climatisation silencieuse qui diffuse une fraîcheur bienvenue : un salon meublé avec soin, un bureau de travail dégagé, une cuisine équipée et une chambre avec un grand lit double. Le réseau sans fil haut débit fonctionne immédiatement.
 
-Il est 21h30.
+Après une bonne douche délassante, tu allumes ton appareil et transmets un courriel concis à Mohamed Coulibaly pour l'informer de ton arrivée et de ta bonne installation. Moins de dix minutes plus tard, sa réponse officielle parvient sur ta messagerie :
+
+« Bonsoir Monsieur Ossimi,
+J'accuse bonne réception de votre message et je suis ravi d'apprendre que votre voyage s'est déroulé dans d'excellentes conditions et que votre installation à Cocody Deux-Plateaux s'est faite sans encombre.
+Je vous souhaite très chaleureusement la bienvenue en Côte d'Ivoire.
+Je vous confirme que tout est parfaitement calé pour demain matin, mardi 13 août 2041, à 10h00, au Cabinet de Maître Ismaël Gnamien, situé au Plateau (Immeuble Le Bellerive, 4e étage).
+Maître Gnamien m'a confirmé en fin d'après-midi que l'ensemble des actes constitutifs — statuts définitifs de la SASU SOLEIL B2B CÔTE D'IVOIRE, procès-verbal de nomination du Directeur Général et convention de mandat social — sont imprimés sous chemise notariale officielle, prêts pour les paraphes et signatures solennelles. Madame Mariam Brou sera également présente dès 09h45 pour la signature de son contrat de direction administrative et financière ainsi que l'enclenchement des formalités de dépôt au CEPICI.
+Si vous le souhaitez, je peux passer vous prendre à votre résidence à Cocody vers 09h15 afin de vous éviter les embarras de circulation du matin vers le Plateau. Dans le cas contraire, nous nous retrouverons directement à l'accueil du cabinet à 09h50.
+Reposez-vous bien de votre long voyage. C'est un honneur de démarrer officiellement cette grande aventure industrielle à vos côtés.
+Excellente nuit,
+Bien à vous,
+Mohamed Coulibaly »
+
+Installé au calme dans ton salon d'Abidjan, les dossiers prêts dans ta sacoche, tu es parvenu au point de départ opérationnel de ton entreprise.
+
+Il est 21h00.
 
 ---
 
 **Réponses attendues**
 
-- Validation du réveil et du créneau de départ matinal pour Luxembourg-Findel.
+- Répondre à Mohamed Coulibaly concernant ton transport pour le rendez-vous de demain matin : accepter qu'il passe te chercher en voiture à ta résidence de Cocody à 09h15, ou lui indiquer que tu te rendras par tes propres moyens au cabinet de Maître Gnamien au Plateau pour 09h50.
 
 **À faire / à fournir avant le tour suivant**
 
-- Coucher immédiat pour préserver un maximum d'heures de sommeil avant le réveil de 04h15.
-- Départ imminent pour l'embarquement à Findel (vol AF1233 via Paris Charles-de-Gaulle, atterrissage à Abidjan Félix Houphouët-Boigny lundi 12 août à 18h25 heure locale).
+- Repos et nuit de sommeil complète à la résidence pour attaquer la journée de signature en pleine forme.
+- Présentation demain mardi à 10h00 au cabinet notarial de Maître Gnamien au Plateau pour la signature solennelle des statuts de la société et du mandat social de direction générale, en présence de Mohamed Coulibaly et Mariam Brou.
 
 **Quêtes secondaires**
 
-- Aucune démarche en suspens : tout le volet juridique, financier et logistique est verrouillé.
+- Caler après la signature notariale les modalités concrètes d'ouverture du compte bancaire d'entreprise et le suivi du récépissé de dépôt au CEPICI avec Mariam Brou.
 
 Que veux-tu faire ?

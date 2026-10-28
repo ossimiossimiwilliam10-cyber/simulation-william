@@ -4251,3 +4251,5 @@ Effets à jouer : A09 (jeudi 08/08 (matin)) : Correction longue, agacement
 - Tirage [T10] « Heure initiative partage_personnel Thiago Alves 05/08 » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  24.3 → **rapide** (enregistré le 28/10/2026 10:59 heure machine)
 
 - Tirage [T10] « Delai reponse Coulibaly question seuil 80/100 (jour ferie 07/08) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  89.6 → **le_soir_ou_lendemain** (enregistré le 28/10/2026 11:43 heure machine)
+
+- Actualités de la semaine du 12/08/2041 : modèles LU01, LU02, FR02 [PROCÉDURE : outils/actualites.py] (enregistré le 28/10/2026 13:05 heure machine)
