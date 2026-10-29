@@ -1,54 +1,62 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 29/10/2026 20:06 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 29/10/2026 20:10 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : mercredi 21 août 2041, 21h00 (abidjan) ; tour n° 126
+- Horloge : mercredi 21 août 2041, 21h12 (abidjan) ; tour n° 127
 - Lieu de William : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-- En attente de William : Validation du calendrier de la première tranche (20 000 € le 26/08, 40 000 € le 25/09)
+- En attente de William : Consultation de Me Gnamien sur la révocation de Coulibaly : oui ou non
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 126 ; horloge 21/08/2041 20:00 -> 21/08/2041 21:00 ; enregistré le 29/10/2026 20:06 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 127 ; horloge 21/08/2041 21:00 -> 21/08/2041 21:12 ; enregistré le 29/10/2026 20:10 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je tiens déjà à souligner le fait que monsieur que Koulibaly en fait ne m'avait pas signalé cela lundi dans son rapport, ou alors je m'en souviens pas, j'ai pas mémoire de d'avoir lu ça, le fait que madame Tano n'avait pas pu signer. Donc ça c'est un premier point. Ah oui, et aussi à partir de maintenant, quand je m'adresserai concernant en fait l'entreprise, tu pourras de fait en fait supposer que je m'adresse d'abord à mon équipe virtuelle qui sont devenus qui est devenu en fait mon conseiller littéralement en fait. Systématiquement en fait quand je parle du coup concernant l'entreprise ou voilà quoi, ma vie professionnelle, c'est avec le conseiller que je m'entretiens d'abord et après lui il prend donc les décisions d'informer tel, de faire tel et ainsi de suite quoi. On interdit à Koulibaly toute commande et tout acompte avant l'accord écrit du bailleur. Et je me mets à préparer donc pour demain un calendrier de la première tranche de 60 000 euros avec mon équipe virtuelle.
+> Ok, je valide du coup le calendrier de paiement. Maintenant, je m'entretiens du coup avec mon conseiller pour lui demander en fait qu'est-ce qui constituerait un motif grave pour un renvoi en fait, éventuellement de Koulibaly. Non pas que je souhaite le renvoyer, mais voilà, je souhaite savoir un peu quel est mon champ de manœuvre en fait.
 
 ## Texte envoyé au joueur
 
-**MERCREDI 21 AOÛT 2041 — 21h00 — Abidjan, Cocody Deux-Plateaux, résidence hôtelière**
+**MERCREDI 21 AOÛT 2041 — 21h12 — Abidjan, Cocody Deux-Plateaux, résidence hôtelière**
 
-Tu écris à ton directeur général virtuel :
+Tu écris à ton conseiller :
 
-« Coulibaly ne m'avait pas signalé lundi que Mme Tanoh n'avait pas pu signer, ou alors je n'en ai pas le souvenir. Désormais, quand je parle de l'entreprise, c'est d'abord à toi que je m'adresse : tu es mon conseiller, et c'est toi qui décides ensuite d'informer untel ou de faire ceci. Décision 1 : oui, on interdit à Coulibaly toute commande et tout acompte avant l'accord écrit du bailleur. Décision 2 : oui, préparons maintenant le calendrier de la première tranche pour demain. »
+« Je valide le calendrier de paiement. Autre question, sans que je souhaite le renvoyer : qu'est-ce qui constituerait un motif grave pour renvoyer Coulibaly ? Je veux connaître mon champ de manœuvre. »
 
-Réponse à 20h20, avec un document dans tes fichiers, « Projet de calendrier de la première tranche » :
+Réponse à 21h12 :
 
-« Reçu à 20h11. Sur Mme Tanoh : rien dans ses messages ni ses courriels de lundi ; il ne l'a dit qu'aujourd'hui à 17h10, et seulement parce que je l'ai relancé deux fois. C'est noté dans l'évaluation du directeur général réel. Je ne le lui renvoie pas : il le verra dans la façon dont on le suivra. Ta nouvelle règle est notée : tu me parles d'abord, je décide qui informer et comment. Décision 1 : courriel envoyé à Coulibaly à 20h15, depuis ton adresse direction, signé William Ossimi : aucune commande ni aucun acompte avant l'accord écrit du bailleur, qu'il doit solliciter dès demain. Décision 2 : projet de calendrier déposé dans tes documents. Besoins de septembre et d'octobre : environ 29,9 millions de FCFA, soit 45 500 €. Je propose 20 000 € le lundi 26 août, puis 40 000 € le mercredi 25 septembre, depuis ton épargne Projet ; elle tomberait à environ 5 299 €. Il me faut ta validation sur les montants, les dates et la source. »
+« Calendrier validé à 21h05 : versement de 20 000 € le lundi 26 août, puis de 40 000 € le mercredi 25 septembre, tous deux à l'agenda. J'en informe Coulibaly demain matin, pour qu'il planifie l'acompte et les salaires.
 
-À 21h00 :
+Sur ta question, avec le pôle juridique virtuel :
 
-« Réponse de Coulibaly à 20h58 : « Bien noté. Je sollicite l'accord écrit du bailleur demain matin par l'agence. Je précise que Froid Lagune Services ne garantit son prix que jusqu'au mercredi 28 août. Cordialement, M. Coulibaly. » Je surveille la date du 28 août. »
+1. Coulibaly n'est pas salarié : il est mandataire social. Pas de licenciement, pas de Code du travail, pas d'inspection du travail. On parle de révocation.
+2. Dans une SAS, l'Acte uniforme OHADA laisse aux statuts le soin de fixer comment on révoque le président. Si les statuts signés le 13 août disent « à tout moment, sans motif », tu peux le révoquer par simple décision d'associé unique. S'ils exigent un juste motif, il te faudra un motif prouvé. Je n'ai que la maquette de juillet, pas l'exemplaire signé : il faut vérifier la clause sur l'expédition notariée que tu as reçue.
+3. Même sans motif exigé, une révocation brutale ou vexatoire (sans l'entendre, en public, avec des accusations non prouvées) peut lui ouvrir des dommages-intérêts.
+4. Ce qui serait sérieux, à condition de pouvoir le prouver : dépenser ou s'engager au-delà de 10 millions de FCFA sans ton accord écrit, ou signer un bail ou un recrutement de directeur sans toi ; utiliser l'argent de la société pour lui ou ses proches ; un conflit d'intérêts caché avec un fournisseur ; violer son exclusivité ; mentir sur un fait important ou cacher un risque grave.
+5. Ce qui ne suffit pas aujourd'hui : l'information sur Mme Tanoh donnée avec deux jours de retard, son « non » à l'ancienne adresse du projet, ou l'accord du bailleur pas encore demandé. Ce sont des faits à noter, pas des fautes graves.
+6. Sa convention prévoit aussi une sortie sans faute, la caducité si les seuils trimestriels ne sont pas atteints, et une non-concurrence de douze mois : je dois vérifier dans l'exemplaire signé si elle est indemnisée.
 
-La nuit est chaude, sans un souffle ; au loin, l'orage de l'après-midi s'est mué en éclairs muets au-dessus de la lagune.
+Si tu veux une réponse ferme sur les statuts signés, une consultation de Me Gnamien coûterait environ une heure d'honoraires. Je ne la lance pas sans ton accord. »
 
-Il est 21h00.
+Dans la chambre, le seul bruit est le ronron régulier du réfrigérateur du minibar ; dehors, un dernier woro-woro remonte la rue à vide.
+
+Il est 21h12.
 
 ---
 
 **Réponses attendues**
-- **Directeur général virtuel** : validation du calendrier de la première tranche : 20 000 € le lundi 26 août, puis 40 000 € le mercredi 25 septembre, depuis ton épargne Projet (il te resterait environ 5 299 €) ; montants, dates et source à confirmer.
+- **Directeur général virtuel** : lancer ou non une consultation de Me Gnamien (environ une heure d'honoraires) pour une réponse ferme, d'après les statuts signés, sur la révocation de Coulibaly.
 
 **À faire / à fournir avant le tour suivant**
-- Ta décision sur le calendrier (document dans tes fichiers).
+- Aucune démarche en cours.
 
 **Quêtes secondaires**
-- Accord écrit du bailleur pour les travaux : demandé demain matin ; le prix de Froid Lagune Services n'est garanti que jusqu'au mercredi 28 août.
+- Première tranche : versement de 20 000 € le lundi 26 août, puis de 40 000 € le mercredi 25 septembre, depuis ton épargne Projet.
+- Accord écrit du bailleur pour les travaux : demandé demain matin par Coulibaly ; le prix de Froid Lagune Services n'est garanti que jusqu'au mercredi 28 août.
 - Dépôt de garantie de 5 250 000 FCFA au plus tard vendredi 23 août ; ton complément de 2 683 € n'est pas encore crédité.
 - Signature du contrat de Viviane Tanoh : vendredi 23 août à 10h00, à la villa.
 - Prolongation du gardiennage : réponse de l'agence attendue jeudi.
@@ -167,10 +175,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : aea19ad ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 60a920d ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 14 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 13 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 
