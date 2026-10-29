@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 29/10/2026 10:25 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 29/10/2026 10:38 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : vendredi 16/08/2041 11:00 (abidjan, UTC+0)
+## Horloge : vendredi 16/08/2041 12:15 (abidjan, UTC+0)
 - **Lieu de William** : Abidjan (Cocody Deux-Plateaux), residence hoteliere
-- **Heure dans les autres lieux** : lisbonne 12:00 ; luxembourg 13:00 ; mindelo 10:00 ; casablanca 12:00 ; douala 12:00 ; addis 14:00 ; manille 19:00 ; paris 13:00 ; seoul 20:00 ; bresil 08:00
+- **Heure dans les autres lieux** : lisbonne 13:15 ; luxembourg 14:15 ; mindelo 11:15 ; casablanca 13:15 ; douala 13:15 ; addis 15:15 ; manille 20:15 ; paris 14:15 ; seoul 21:15 ; bresil 09:15
 - **En attente de William** :
-  - Dossiers DC (Kouadio + Tanoh) recus a midi ; RIB SOLEIL B2B CI en attente pour virement CCA ; bail villa Vallons a 14h00
+  - Scoring grille 5 questions pour Marc-Antoine Kouadio et Viviane Tanoh ; RIB SGCI a 13h30 pour virement CCA ; signature bail Vallons a 14h00
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 292,59 €**
@@ -35,9 +35,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-08-16.md, 6 dernières lignes)
-> # Vendredi 16 août 2041 — univers 3, 32e jour
-> - **00h00-08h00** (tour n° 92) : voir le texte exact du tour (journal/tours/).
 > - Tour en cours à 08h00, en attente de William : **Programme matinal (petit-déjeuner, sport) et validation du virement CCA à l'arrivée du RIB**.
 > - **11h00-11h00** (tour n° 93) : voir le texte exact du tour (journal/tours/).
 > - Tirages du tour : T14 → message_routine (48,18) ; T10 → rapide (30,75).
 > - Tour en cours à 11h00, en attente de William : **Dossiers DC (Kouadio + Tanoh) recus a midi ; RIB SOLEIL B2B CI en attente pour virement CCA ; bail villa Vallons a 14h00**.
+> - **12h15-12h15** (tour n° 94) : voir le texte exact du tour (journal/tours/).
+> - Tour en cours à 12h15, en attente de William : **Scoring grille 5 questions pour Marc-Antoine Kouadio et Viviane Tanoh ; RIB SGCI a 13h30 pour virement CCA ; signature bail Vallons a 14h00**.

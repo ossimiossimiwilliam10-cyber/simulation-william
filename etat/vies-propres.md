@@ -267,3 +267,17 @@
 - **Secret (moteur seulement)** : —
 - **Horaires** : règle « etudiant », fuseau abidjan, décalage +18 min ; travail 09:18-17:18 (lun, mar, mer, jeu, ven), trajet 30 min ; sommeil 00:48-08:48
 - **Derniers événements** : —
+
+### Marc-Antoine Kouadio (candidat Direction Commerciale)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : acheter un terrain et construire sa maison à Abidjan ; **souci** : contrat de travail qui se termine bientôt ; **foyer** : en couple, sans enfant
+- **Secret (moteur seulement)** : fume en cachette alors qu'il dit avoir arrêté (gravité 1)
+- **Horaires** : règle « bureau_abidjan », fuseau abidjan, décalage +21 min ; travail 08:21-17:51 (lun, mar, mer, jeu, ven), trajet 50 min ; sommeil 23:51-06:21
+- **Derniers événements** : —
+
+### Viviane Tanoh (candidate Direction Commerciale)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : changer de métier ; **souci** : un enfant qui décroche à l'école ; **foyer** : en couple, avec enfants
+- **Secret (moteur seulement)** : consulte un psychologue (gravité 1)
+- **Horaires** : règle « bureau », fuseau abidjan, décalage +26 min ; travail 09:26-17:56 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:56-07:26
+- **Derniers événements** : —
