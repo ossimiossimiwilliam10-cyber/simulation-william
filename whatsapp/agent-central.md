@@ -454,3 +454,23 @@ AFFIRMATIONS VÉRIFIÉES
 Prochain rapport : demain à 20h00.
 **[22/08/2041 - 20:06 (Abidjan)] William :** Pour l'acompte de Froid Lagune Services, voie B : j'avance le versement de 20 000 €. Et envoie un message à Coulibaly pour avoir plus d'informations sur les équipes de niveaux 3 et 4 : ça fait un moment que je n'ai pas eu de retour.
 **[22/08/2041 - 20:14 (Abidjan)] Agent central :** Reçu à 20h11. Ton ordre de 20 000 € apparaît dans S-Net, exécution demain vendredi, crédit attendu lundi ou mardi sur le compte de la société. J'en informe Coulibaly : il pourra confirmer Froid Lagune Services dès réception, avant le 28 août. Courriel envoyé à 20h12, depuis ton adresse direction : point demandé sur les recrutements de niveaux 3 et 4, profils retenus, calendrier des entretiens, et qui les mène, puisque Viviane Tanoh et Éric Koffi Yao ne prennent leurs fonctions que le 1er octobre. Je te transmets sa réponse dès qu'elle arrive.
+**[23/08/2041 - 06:14 (Abidjan)] Agent central :** Réponse de Coulibaly, reçue à 06h10 : « Monsieur Ossimi, pour les niveaux 3 et 4 : Mme Tanoh et M. Yao font la présélection depuis leurs postes actuels, le soir et le week-end, puisqu'ils ne prennent leurs fonctions que le 1er octobre. À ce jour, aucune fiche finale. Les premiers entretiens sont envisagés la semaine du 2 septembre, à la villa, avec moi. Je vous transmettrai les fiches retenues après ces entretiens. M. Coulibaly. » En clair : rien de concret avant début septembre. Je le note pour le rapport.
+**[23/08/2041 - 20:00 (Abidjan)] Agent central :** Rapport final de la journée du vendredi 23 août 2041 (20h00). PDF dans tes documents (application Fichiers).
+
+DÉCISIONS
+Aucune ce soir.
+
+AFFIRMATIONS VÉRIFIÉES
+- Coulibaly : « Contrat de Mme Tanoh signé ce matin. » → VÉRIFIÉE : copie signée reçue à 11h06 (1 600 000 FCFA nets, prise de fonction le 1er octobre, période d'essai de trois mois).
+- Coulibaly : « Dépôt de garantie viré au bailleur à 15h42. » → À CONFIRMER : le reçu de l'agence n'est pas encore arrivé.
+- Coulibaly : « Les directeurs font la présélection des niveaux 3 et 4 depuis leurs postes actuels. » → NON VÉRIFIABLE : aucune liste de candidats transmise.
+
+ÉTAT DES PÔLES
+- Direction générale (Coulibaly) : contrat de Viviane Tanoh signé ; dépôt de garantie payé le jour de l'échéance ; Froid Lagune Services sera confirmé à l'arrivée de ton versement de 20 000 €, exécuté aujourd'hui.
+- Recrutements de niveaux 3 et 4 : aucune fiche ; premiers entretiens envisagés la semaine du 2 septembre.
+- Administration et finance (Mariam Brou) : rien sur CIE et SODECI.
+- Pôle finance virtuel : ton complément de 2 683 € est arrivé à 15h00. Le compte de la société devrait garder environ 1,75 million de FCFA pour le loyer du 1er septembre, avant frais bancaires.
+- Veille « faute lourde » : rien à signaler.
+- Budget d'API : 45,87 € sur 1 000 € ce mois-ci.
+
+Prochain rapport : demain à 20h00.
