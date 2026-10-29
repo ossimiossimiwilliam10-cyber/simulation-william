@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-08-16 15:45
+horloge: 2041-08-16 18:30
 fuseau: abidjan
 lieu: Abidjan (Cocody Deux-Plateaux), residence hoteliere
-tour: 97
-attente: Instructions amenagement QG Vallons ; programme fin de journee / soiree vendredi (orage prevu)
+tour: 98
+attente: Organisation de la visite de la villa des Vallons ce week-end et programme de la soiree de vendredi

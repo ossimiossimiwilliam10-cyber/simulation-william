@@ -1,14 +1,14 @@
-# Résumé d'état (généré le 29/10/2026 11:03 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 29/10/2026 11:14 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : vendredi 16/08/2041 15:45 (abidjan, UTC+0)
+## Horloge : vendredi 16/08/2041 18:30 (abidjan, UTC+0)
 - **Lieu de William** : Abidjan (Cocody Deux-Plateaux), residence hoteliere
-- **Heure dans les autres lieux** : lisbonne 16:45 ; luxembourg 17:45 ; mindelo 14:45 ; casablanca 16:45 ; douala 16:45 ; addis 18:45 ; manille 23:45 ; paris 17:45 ; seoul 00:45 ; bresil 12:45
+- **Heure dans les autres lieux** : lisbonne 19:30 ; luxembourg 20:30 ; mindelo 17:30 ; casablanca 19:30 ; douala 19:30 ; addis 21:30 ; manille 02:30 ; paris 20:30 ; seoul 03:30 ; bresil 15:30
 - **En attente de William** :
-  - Instructions amenagement QG Vallons ; programme fin de journee / soiree vendredi (orage prevu)
+  - Organisation de la visite de la villa des Vallons ce week-end et programme de la soiree de vendredi
 
 ## Argent (grand livre, calculé)
-- Compte courant (Spuerkeess) : **243,99 €**
-- Compte épargne (Spuerkeess) : **75 982,00 €**
+- Compte courant (Spuerkeess) : **8 243,99 €**
+- Compte épargne (Spuerkeess) : **67 982,00 €**
 - ETF (valeur de marché : calages seulement) : **676 135,00 €**
 - Prêt logement : solde restant dû (passif, déjà déduit de la part de maison) : **101 994,94 €**
 - Part nette de la maison d'Audun-le-Tiche : **98 005,06 €**
@@ -34,9 +34,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-08-16.md, 6 dernières lignes)
-> - **13h00-13h00** (tour n° 95) : voir le texte exact du tour (journal/tours/).
-> - Tour en cours à 13h00, en attente de William : **Choix DC (Kouadio vs Tanoh) a notifier a Coulibaly ; RIB SGCI a 13h30 pour virement CCA ; signature bail Vallons a 14h00**.
-> - **13h45-13h45** (tour n° 96) : voir le texte exact du tour (journal/tours/).
-> - Tour en cours à 13h45, en attente de William : **Validation virement CCA 8 000 € via RIB SGCI ; signature bail villa Vallons a 14h00 par Coulibaly**.
-> - **15h45-15h45** (tour n° 97) : voir le texte exact du tour (journal/tours/).
-> - Tour en cours à 15h45, en attente de William : **Instructions amenagement QG Vallons ; programme fin de journee / soiree vendredi (orage prevu)**.
+> - **15h45-18h30** (tour n° 98) : voir le texte exact du tour (journal/tours/).
+> - Tirages du tour : T7c → execute_sans_discuter (65,1) ; T10 → dans_la_journee (73,9).
+> - Tour en cours à 18h30, en attente de William : **Organisation de la visite de la villa des Vallons ce week-end et programme de la soirée de vendredi**.
+> - **18h30-18h30** (tour n° 98) : voir le texte exact du tour (journal/tours/).
+> - Tirages du tour : T7c → execute_sans_discuter (65,06) ; T10 → dans_la_journee (73,88).
+> - Tour en cours à 18h30, en attente de William : **Organisation de la visite de la villa des Vallons ce week-end et programme de la soiree de vendredi**.

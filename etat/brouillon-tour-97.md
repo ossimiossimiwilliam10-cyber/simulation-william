@@ -29,3 +29,4 @@ Le compte-rendu complet et le contrat de bail sont archivés sous la référence
 - Fatoumata Gnagne : aucun message reçu de sa part aujourd'hui.
 
 Que veux-tu faire ?
+

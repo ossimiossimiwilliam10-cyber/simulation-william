@@ -4314,3 +4314,7 @@ Effets à jouer : A07 (mercredi 14/08 (soir)) : Retard d'un virement, d'un envoi
 - Tirage [T10] « Heure du message de routine de Coulibaly » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  30.7 → **rapide** (enregistré le 29/10/2026 10:22 heure machine)
 
 - Tirage [T14] « Initiative de Coulibaly : message à William (RIB disponible - après activation compte bancaire) » : aucune 43 / message_routine 18 / demande 18 / information 14 / partage_personnel 4 / plainte_ou_tension 3 ; modificateurs : M84 ; jet  10.5 → **aucune** (enregistré le 29/10/2026 10:23 heure machine)
+
+- Tirage [T7c] « Coulibaly recoit la demande d'avis personnel et de retour sur la charge de travail » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  65.1 → **execute_sans_discuter** (enregistré le 29/10/2026 11:09 heure machine)
+
+- Tirage [T10] « Heure de reponse de Coulibaly au message sur son sentiment et sa charge » : immediat 19 / rapide 33 / dans_l_heure 15 / dans_la_journee 14 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 4 ; modificateurs : M73 ; jet  73.9 → **dans_la_journee** (enregistré le 29/10/2026 11:09 heure machine)

@@ -130,3 +130,4 @@ def generer_courriel_signature_bail_coulibaly():
 if __name__ == "__main__":
     generer_avis_virement_spuerkeess()
     generer_courriel_signature_bail_coulibaly()
+
