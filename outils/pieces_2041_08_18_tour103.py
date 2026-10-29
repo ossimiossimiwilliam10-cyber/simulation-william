@@ -76,3 +76,4 @@ def generer_compte_rendu_enquete_terrain():
 
 if __name__ == "__main__":
     generer_compte_rendu_enquete_terrain()
+

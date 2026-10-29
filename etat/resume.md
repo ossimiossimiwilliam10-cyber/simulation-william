@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 29/10/2026 12:07 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 29/10/2026 12:19 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : dimanche 18/08/2041 16:30 (abidjan, UTC+0)
+## Horloge : dimanche 18/08/2041 21:30 (abidjan, UTC+0)
 - **Lieu de William** : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-- **Heure dans les autres lieux** : lisbonne 17:30 ; luxembourg 18:30 ; mindelo 15:30 ; casablanca 17:30 ; douala 17:30 ; addis 19:30 ; manille 00:30 ; paris 18:30 ; seoul 01:30 ; bresil 13:30
+- **Heure dans les autres lieux** : lisbonne 22:30 ; luxembourg 23:30 ; mindelo 20:30 ; casablanca 22:30 ; douala 22:30 ; addis 00:30 ; manille 05:30 ; paris 23:30 ; seoul 06:30 ; bresil 18:30
 - **En attente de William** :
-  - Programme de la soirée du dimanche 18 août et directives pour la semaine du lundi 19 août
+  - Revue du lundi 19 août au matin et validation du suivi des devis d'aménagement de la villa des Vallons
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 243,99 €**
@@ -36,7 +36,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-08-18.md, 6 dernières lignes)
-> # Dimanche 18 août 2041 — univers 3, 34e jour
 > - **00h00-16h30** (tour n° 103) : Footing dominical 5 km ; enquête terrain micro-commerces et délestage à Deux-Plateaux et Anono (Yéo méfiance, Camara conversation, Bamba poli_bref) ; note terrain PDF générée ; modèle B2B conforté
 > - Tirages du tour : T17 Wilfried → mefiance (82,55) ; T17 Safiatou → conversation (38,19) ; T17 Kader → poli_bref (17,13).
 > - Tour en cours à 16h30, en attente de William : **Programme de la soirée du dimanche 18 août et directives pour la semaine du lundi 19 août**.
+> - **16h30-21h30** (tour n° 104) : Rapport enquête terrain transmis à Coulibaly via Gestion ; réponse par courriel officiel de Coulibaly (orientation PAYG et microfinance à moyen terme, sanctuarisation B2B pour septembre, devis Vallons lancés lundi 08h00) ; dîner room-service K014 (20,50 €) ; synthèse semaine W33 rédigée
+> - Tirages du tour : T4 → aucune (33,5) ; T5 → fuite_interne (28,95) ; T4 → aucune (76,27) ; T5 → aucune (65,23) ; T7c → execute_sans_discuter (52,81) ; T10 → dans_la_journee (74,5).
+> - Tour en cours à 21h30, en attente de William : **Revue du lundi 19 août au matin et validation du suivi des devis d'aménagement de la villa des Vallons**.

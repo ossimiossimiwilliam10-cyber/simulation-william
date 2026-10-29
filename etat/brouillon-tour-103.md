@@ -41,3 +41,4 @@ L'analyse est sans équivoque : si le besoin de continuité électrique est imme
 - Revue du lundi n° 4 / semaine du 19 août : ouverture du chantier d'aménagement du QG et suivi du sourcing des équipes opérationnelles par Viviane Tanoh et Éric Yao.
 
 Que veux-tu faire ?
+

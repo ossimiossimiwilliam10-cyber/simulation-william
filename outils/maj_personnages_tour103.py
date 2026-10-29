@@ -73,3 +73,4 @@ new_hist_bamba = """- 17/08/2041 : fiche créée (tirage du générateur).
 content_bamba = content_bamba.replace(old_hist_bamba, new_hist_bamba)
 path_bamba.write_text(content_bamba, encoding="utf-8")
 print("kader-bamba.md mis à jour")
+

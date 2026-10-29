@@ -4340,3 +4340,15 @@ Effets à jouer : A07 (mercredi 14/08 (soir)) : Retard d'un virement, d'un envoi
 - Tirage [T17] « Safiatou Camara repond a l'approche de William au maquis » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  38.2 → **conversation** (enregistré le 29/10/2026 12:02 heure machine)
 
 - Tirage [T17] « Kader Bamba repond a William sur les delestages et le solaire residentiel » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  17.1 → **poli_bref** (enregistré le 29/10/2026 12:02 heure machine)
+
+- Tirage [T4] « affaire_projet_ci_annonce : escalade externe, semaine du 18/08 » : aucune 99.7 / frontal_escalade 0.3 ; modificateurs : aucun ; jet  33.5 → **aucune** (enregistré le 29/10/2026 12:15 heure machine)
+
+- Tirage [T5] « affaire_projet_ci_annonce : fuite, semaine du 18/08 » : fuite_externe 13 / fuite_interne 39 / aucune 48 ; modificateurs : aucun ; jet  29.0 → **fuite_interne** (enregistré le 29/10/2026 12:15 heure machine)
+
+- Tirage [T4] « affaire_projet_ci_art14 : escalade externe, semaine du 18/08 » : aucune 99.7 / frontal_escalade 0.3 ; modificateurs : aucun ; jet  76.3 → **aucune** (enregistré le 29/10/2026 12:16 heure machine)
+
+- Tirage [T5] « affaire_projet_ci_art14 : fuite, semaine du 18/08 » : fuite_externe 1 / fuite_interne 3 / aucune 96 ; modificateurs : aucun ; jet  65.2 → **aucune** (enregistré le 29/10/2026 12:16 heure machine)
+
+- Tirage [T7c] « Coulibaly recoit le rapport terrain et la directive de reflechir a une solution moyen long terme sur le micro retail » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  52.8 → **execute_sans_discuter** (enregistré le 29/10/2026 12:16 heure machine)
+
+- Tirage [T10] « Heure de reponse de Coulibaly au debrief terrain et directive R et D » : immediat 19 / rapide 33 / dans_l_heure 15 / dans_la_journee 14 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 4 ; modificateurs : M73 ; jet  74.5 → **dans_la_journee** (enregistré le 29/10/2026 12:16 heure machine)
