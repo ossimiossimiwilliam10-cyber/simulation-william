@@ -1,61 +1,62 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 29/10/2026 19:02 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 29/10/2026 19:06 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : lundi 19 août 2041, 20h17 (abidjan) ; tour n° 113
+- Horloge : mardi 20 août 2041, 09h55 (abidjan) ; tour n° 114
 - Lieu de William : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-- En attente de William : Taille de maillot attendue de Lenny Nguyen ; rapport final demain 20h00
+- En attente de William : Coulibaly demande une photo de William pour le cahier du poste ; annonce 7 M FCFA à régler au bailleur ; copie du bail à venir ; prolongation du gardiennage d'ici jeudi ; rapport final 20h00
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 113 ; horloge 19/08/2041 20:10 -> 19/08/2041 20:17 ; enregistré le 29/10/2026 19:02 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 114 ; horloge 19/08/2041 20:17 -> 20/08/2041 09:55 ; enregistré le 29/10/2026 19:05 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je réponds à Lening Nguyen qu'il ne s'en fasse pas, que je vais lui couver son maillot. Je vais me le noter officiellement. J'ai juste besoin de sa taille, en fait, en termes de maillot. Et qu'il ne s'en fasse pas également pour la boîte. J'ai toujours su monter des verrous et me faire conseiller au plus haut point pour ne pas me faire baiser, quoi. Donc, il n'y a pas de souci à ce niveau-là. Je décide d'oublier cette Fatoumata. De toute évidence, elle n'en a pas grand-chose à faire de moi si elle ne m'a pas écrit depuis. Peut-être éventuellement elle pourra m'écrire plus tard si j'ai besoin d'un service, mais je décide de l'oublier un peu. Pas qu'un peu, je l'oublie en fait.
+> Go
 
 ## Texte envoyé au joueur
 
-**LUNDI 19 AOÛT 2041 — 20h17 — Abidjan, Cocody Deux-Plateaux, résidence hôtelière**
+**MARDI 20 AOÛT 2041 — 09h55 — Abidjan, Cocody Deux-Plateaux, résidence hôtelière**
 
-Tu réponds à Lenny :
+La soirée s'étire sans rien de plus. Avec la sieste de l'après-midi, le sommeil tarde : tu éteins vers minuit et quart, et la climatisation de la chambre couvre bientôt les derniers bruits de la rue.
 
-« T'inquiète, je te trouve ton maillot, je le note officiellement. J'ai juste besoin de ta taille. Et t'inquiète pas non plus pour la boîte : j'ai toujours su mettre des verrous et me faire conseiller au plus haut niveau pour pas me faire avoir. Aucun souci de ce côté-là. »
+Tu te réveilles à 07h51, reposé, les pectoraux et les cuisses encore raides de la veille. Le ciel est gris perle, bas, sans pluie ; une lumière égale, sans ombre, tombe sur les toits de tôle et les antennes paraboliques des immeubles voisins.
 
-Le message passe à deux coches grises, puis reste là. En Lorraine, il est plus de vingt-deux heures.
+Un message de Lenny t'attend, arrivé à 05h21 :
 
-Tu fais défiler ta liste de conversations. Le nom de Fatoumata Gnagne glisse vers le bas, sous ceux de Coulibaly, de Lenny et de ton directeur général virtuel. Tu ne l'ouvres pas.
+« XL frère, les épaules ont pris cet été 💪 Le coach dit que je suis le plus épais du club maintenant, même devant les lourds. Merci t'es un vrai ! »
 
-Par la fenêtre, la rue s'est vidée ; un taxi orange passe au ralenti, compteur éteint, à la recherche d'un client. Un chien aboie deux fois, puis se tait.
+Le reste de la matinée passe à la résidence. À 09h55, Mohamed Coulibaly :
 
-Il est 20h17.
+« Bonjour Monsieur Ossimi. Je sors de l'agence de gardiennage : votre nom est inscrit sur la liste des personnes autorisées à la villa, il leur faut seulement une photo de vous pour le cahier du poste, vous pouvez me l'envoyer ici. Pour le bail, le bailleur attend le dépôt de garantie de trois mois, soit 5 250 000 FCFA, et le premier loyer de 1 750 000 FCFA au 1er septembre, total 7 000 000 FCFA. Je vous scanne la copie du bail dès que je repasse à la villa. Pour la prolongation du gardiennage, l'agence doit d'abord demander au bailleur, réponse d'ici jeudi. »
+
+Il est 09h55.
 
 ---
 
 **Réponses attendues**
-- **Lenny Nguyen** : tu attends sa taille de maillot.
-- **Directeur général virtuel** : suivi des deux demandes à Coulibaly au rapport de demain, 20h00.
+- **Mohamed Coulibaly** : il te demande une photo de toi pour le cahier du poste de garde ; il annonce 7 000 000 FCFA à régler au bailleur (dépôt de garantie de 5 250 000 FCFA et premier loyer de 1 750 000 FCFA au 1er septembre) ; la copie du bail suivra ; la réponse sur la prolongation du gardiennage est attendue d'ici jeudi.
+- **Lenny Nguyen** : taille XL pour le maillot.
+- **Directeur général virtuel** : rapport final ce soir à 20h00.
 
 **À faire / à fournir avant le tour suivant**
-- Aucune démarche en cours.
+- Photo de toi pour la liste des personnes autorisées à la villa (si tu l'envoies).
 
 **Quêtes secondaires**
-- Maillot des Éléphants pour Lenny, à acheter avant ton départ.
-- Mohamed Coulibaly passe demain matin à l'agence de gardiennage pour te faire inscrire.
-- Dépouillement des devis d'aménagement des Vallons : mercredi 21 août à 16h00.
+- Maillot des Éléphants pour Lenny, taille XL, à acheter avant ton départ.
+- Dépouillement des devis d'aménagement des Vallons : demain, mercredi 21 août à 16h00.
 - Départ d'Abidjan le dimanche 25 août : règlement de la résidence à midi (1 690 €, plus les extras portés sur ta note), vol Air France AF703 vers Paris à 22h15.
 - Réouverture du club : lundi 26 août, sparring à 18h00.
 
 Que veux-tu faire ?
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
-- A119 Tue 20/08 05:21 (abidjan) | Lenny Nguyen (WhatsApp) : donne sa taille de maillot · souci : dettes de jeu · objectif : rembourser ses dettes · foyer : vit seul(e) · défauts : rigide sur les horaires et les règles, au point d'agacer / exagère ses histoires jusqu'au mensonge [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : dans_la_journee (jet 74.2) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=lenny-nguyen canal=whatsapp]
-- A114 Tue 20/08 09:00 (abidjan) | Mohamed Coulibaly : Passe à l'agence de gardiennage du bailleur pour inscrire William sur la liste des personnes autorisées à la villa des Vallons (promesse du 19/08, 12h25) [prevu]  — promesse : lenteur.py promesse --pour "Mohamed Coulibaly" au moment dit (oubli 10 %), puis T18 si manquement
+- rien
 
 ## Rituels du moteur dus (rituels.py)
 - rien
@@ -165,10 +166,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : c5ecbcf ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : feb318e ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 13 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 18 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

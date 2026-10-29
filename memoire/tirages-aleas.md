@@ -4431,3 +4431,13 @@ Effets à jouer : A19 (dimanche 25/08 (soir)) : Un adulte attrape 2 à 4 rhumes 
 - Tirage [T10] « Lenny Nguyen : délai (répond aux félicitations et à la Côte d'Ivoire) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet   2.0 → **immediat** (enregistré le 29/10/2026 18:29 heure machine)
 
 - Tirage [T10] « Lenny Nguyen : délai (donne sa taille de maillot) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  74.2 → **dans_la_journee** (enregistré le 29/10/2026 19:01 heure machine)
+
+- Jet « Mohamed Coulibaly tient sa promesse : passe à l'agence de gardiennage du bailleur le 20/08 au matin pour inscrire William » : probabilité 90 %, jet  10.3 → **OUI** [PROCÉDURE : fiabilité tirée du personnage (lenteur.py)] (enregistré le 29/10/2026 19:05 heure machine)
+
+- Tirage [T7c] « Coulibaly face aux deux demandes relayées par le DGV (courriel du 19/08 20h08) : copie du bail et montant exact du dépôt avant tout apport ; prolongation du gardiennage du bailleur (20/08 matin) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  96.0 → **execute_partiellement** (enregistré le 29/10/2026 19:05 heure machine)
+
+- Tirage [T10] « Heure du compte rendu de Coulibaly à William après son passage à l'agence (20/08, à partir de 09h45) » : immediat 19 / rapide 33 / dans_l_heure 15 / dans_la_journee 14 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 4 ; modificateurs : M73 ; jet  39.6 → **rapide** (enregistré le 29/10/2026 19:05 heure machine)
+
+- Procédure « William : coucher et lever de la nuit du 19 au 20/08 (sieste jusqu'à 18h07) » : coucher 00:11, lever 07:51 [PROCÉDURE : coucher tiré entre 00h10 et 00h50 après la sieste ; sommeil 7 h à 8 h 30] (enregistré le 29/10/2026 19:05 heure machine)
+
+- Procédure « Mohamed Coulibaly : heure du compte rendu à William (T10 rapide) » : 09:55 [PROCÉDURE : T10 rapide : 5 à 30 min après la sortie de l'agence vers 09h50] (enregistré le 29/10/2026 19:05 heure machine)
