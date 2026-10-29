@@ -71,3 +71,9 @@
 - **Luxembourg** : Frontaliers : nouveau record du nombre de travailleurs frontaliers selon les chiffres trimestriels · la France fournit toujours plus de la moitié des entrants.
 - **Lorraine (Audun-le-Tiche, Moselle)** : Pays-Haut : un nouveau parc de covoiturage pour frontaliers ouvre près d'Audun-le-Tiche (projet de la communauté de communes).
 - *(écrit par outils/actualites.py le 29/10/2026 heure machine ; modèles tirés : LU02, LU04, FR02 ; une nouvelle datée n'est connue qu'à sa date)*
+
+## Semaine du 26/08 au 1/09/2041
+- **Luxembourg** : Logement : les prix des appartements anciens progressent de 0,7 % sur un an selon l'Observatoire de l'habitat.
+- **Luxembourg** : Frontaliers : nouveau record du nombre de travailleurs frontaliers selon les chiffres trimestriels · la France fournit toujours plus de la moitié des entrants.
+- **Lorraine (Audun-le-Tiche, Moselle)** : Moselle : travaux de nuit sur l'A31 entre Thionville et la frontière · bouchons le matin au passage de Zoufftgen.
+- *(écrit par outils/actualites.py le 29/10/2026 heure machine ; modèles tirés : LU03, LU04, FR01 ; une nouvelle datée n'est connue qu'à sa date)*

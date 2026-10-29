@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 29/10/2026 21:07 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 29/10/2026 21:11 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : dimanche 25/08/2041 17:12 (abidjan, UTC+0)
-- **Lieu de William** : Abidjan, aéroport Félix-Houphouët-Boigny (hall des départs)
-- **Heure dans les autres lieux** : lisbonne 18:12 ; luxembourg 19:12 ; mindelo 16:12 ; casablanca 17:12 ; douala 18:12 ; addis 20:12 ; manille 01:12 ; paris 19:12 ; seoul 02:12 ; bresil 14:12
+## Horloge : lundi 26/08/2041 05:52 (paris, UTC+2)
+- **Lieu de William** : Paris, aéroport Charles-de-Gaulle, terminal 2E (arrivée du vol AF703)
+- **Heure dans les autres lieux** : abidjan 03:52 ; lisbonne 04:52 ; luxembourg 05:52 ; mindelo 02:52 ; casablanca 03:52 ; douala 04:52 ; addis 06:52 ; manille 11:52 ; seoul 12:52 ; bresil 00:52
 - **En attente de William** :
-  - Rien ; enregistrement du vol AF703 en soirée
+  - Correspondance pour Luxembourg à 09h40 (terminal 2G) ; revue du lundi n° 6 : P42 à P44 à valider
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 268,29 €**
@@ -16,31 +16,29 @@
 - Prévu dans les 14 jours : 30/08 Traitement mensuel de William (9 320,00 €) ; 02/09 Minett Combat Club (-85,00 €) ; 02/09 Package bancaire Zebra Premium (-12,83 €) ; 02/09 Virement permanent vers le compte épargne (-1 487,00 €) ; 02/09 Virement permanent vers le compte épargne (1 487,00 €) ; 02/09 Virement permanent vers SOLEIL B2B CI (-5 000,00 €) ; 05/09 Mensualité du prêt immobilier et assurance emprunteu (-949,28 €) ; 05/09 Prêt immobilier de la maison d'Audun-le-Tiche (-628,66 €) ; 05/09 Part nette du bien financé : + capital remboursé (628,66 €) ; 05/09 Assurance habitation (-45,00 €) ; 05/09 Voiture électrique : assurance tous risques (-107,00 €)
 
 ## Agenda : dans les 24 heures (2)
-- A112 Sun 25/08 22:15 (abidjan) | Air France : Vol retour AF703 Abidjan (FHB) → Paris-CDG (arrivée le 26/08 vers 05h45), puis correspondance vers Luxembourg-Findel ; billet aller-retour réglé le 27/07 (1 285 €) [prevu]  — U3-19 : le retour n'était pas à l'agenda ; horaire d'après l'AF703 de 2026 (départ vers 22h15, F119) ; quitter la résidence vers 19h00 (trajet et contrôles)
-- A121 Mon 26/08 17:00 (abidjan) | Mohamed Coulibaly : Réponse de l'agence de gardiennage (via le bailleur) sur la prolongation du gardiennage de la villa en septembre ; copie du bail promise « dès qu'il repasse à la villa » [prevu]  — promesses du 20/08 09h55 ; T18 si manquement | reporté de 2041-08-22 17:00 : T12 temporise : le bailleur veut en parler en début de semaine prochaine (courrier de l'agence du 22/08) ; copie du bail déjà reçue le 21/08
+- A134 Mon 26/08 09:40 (paris) | Air France : Correspondance Paris-CDG (terminal 2G) → Luxembourg-Findel, arrivée vers 10h45 (billet aller-retour du 27/07) [prevu]  — horaire fixé au retour (la correspondance n'était pas détaillée dans le billet consigné)
+- A121 Mon 26/08 19:00 (paris) | Mohamed Coulibaly : Réponse de l'agence de gardiennage (via le bailleur) sur la prolongation du gardiennage de la villa en septembre ; copie du bail promise « dès qu'il repasse à la villa » [prevu]  — promesses du 20/08 09h55 ; T18 si manquement | reporté de 2041-08-22 17:00 : T12 temporise : le bailleur veut en parler en début de semaine prochaine (courrier de l'agence du 22/08) ; copie du bail déjà reçue le 21/08
 ## Agenda : de J+1 à J+7 (2)
-- A132 Wed 28/08 17:00 (abidjan) | Mohamed Coulibaly : Confirme seul Froid Lagune Services et verse l'acompte de 2 768 000 FCFA dès le crédit du versement de 20 000 € (prix garanti jusqu'au 28/08) [prevu]  — décision de William, séance du 25/08
-- A133 Fri 30/08 17:00 (abidjan) | Mohamed Coulibaly : Dépose lui-même les demandes d'abonnement CIE et SODECI de la villa (Mariam Brou n'arrive que le 1er octobre) [prevu]  — décision de William, séance du 25/08 ; fait avancer le front H002 quand c'est fait
+- A132 Wed 28/08 19:00 (paris) | Mohamed Coulibaly : Confirme seul Froid Lagune Services et verse l'acompte de 2 768 000 FCFA dès le crédit du versement de 20 000 € (prix garanti jusqu'au 28/08) [prevu]  — décision de William, séance du 25/08
+- A133 Fri 30/08 19:00 (paris) | Mohamed Coulibaly : Dépose lui-même les demandes d'abonnement CIE et SODECI de la villa (Mariam Brou n'arrive que le 1er octobre) [prevu]  — décision de William, séance du 25/08 ; fait avancer le front H002 quand c'est fait
 (Les lignes « NON CONNU DE WILLIAM » servent au moteur : ne jamais les montrer au joueur avant le jour dit.)
 
 ## Affaires ouvertes (T4/T5 chaque dimanche soir)
-- affaire_projet_ci_annonce : 13 informé(s) hors William ; fuite interne 39 %, externe 13 %
+- affaire_projet_ci_annonce : 14 informé(s) hors William ; fuite interne 40 %, externe 14 %
 - affaire_projet_ci_art14 : 1 informé(s) hors William ; fuite interne 3 %, externe 1 %
 
 ## Fêtes et fériés dans les 30 jours
 - mer 28/08/2041 -- ≈ début du Ramadan
 
 ## Routine du tour
-- lendemain = lundi : revue du lundi à présenter AVANT le reste (CLAUDE.md §12) ; dimanche soir : T4/T5 (savoir.py t5) et synthèse de semaine
+- AUJOURD'HUI lundi : revue du lundi (audit_jets.py, tirage_aleas.py, vie hors de la scène principale, monde, idées)
 - Session : `python outils/relais.py entree --agent "<nom>"` au début ; `python outils/relais.py sortie --note … --commit … --fusionner` à la fin.
 - Début de tour : `python outils/tour.py debut` (résumé, échéances, météo, soleil, argent, corps, lieu, rituels), lecture des fichiers d'état concernés.
 - Pendant : réactions et négociations par `jet.py --table Tn` (T1 à T14 ; `--pour` pour un personnage) ; personnages nouveaux par `personnage.py nouveau` ; faits et prix par `faits.py` et `prix.py` ; lieux par `lieux.py voir` ; révélations dans `savoir.py ajouter` ; argent dans `grand_livre.py ajouter`.
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
-## Fin du dernier journal (2041-08-25.md, 6 dernières lignes)
-> - **15h47-16h25** (tour n° 135) : Chiffrage des leviers 1-3 (PDF documents_william/2041-08-25_Chiffrage_Leviers_Tresorerie.pdf) : étalement du mobilier, location du pickup (≈ 700 000 FCFA/mois, estimation), crédit-bail informatique (apport 1,7 M, 272 000 FCFA/mois, garantie probablement exigée), jalons de 25 000 € sur la deuxième tranche. Caisse : mi-décembre (leviers 1-2), mi-février avec deux co
-> - Tour en cours à 16h25, en attente de William : **Lancer le plan des leviers 1-3 (oui ou non) ; garantie acceptée pour le crédit-bail**.
-> - **16h25-16h58** (tour n° 136) : William refuse de toucher à l'ETF et à la caution personnelle ; propose de rediriger ses ordres permanents (732 € épargne + 5 755 € ETF = 6 487 €/mois, échéancier) vers la société. Plan rectifié v2 (PDF) : informatique réduite à ≈ 3,5 M FCFA sans crédit-bail ; caisse jusqu'à mi-janvier sans contrat, mai avec deux contrats ; consommation nette ≈ 11 760 €/mois ; épa
-> - Tour en cours à 16h58, en attente de William : **Plan rectifié (oui ou non) ; redirection des ordres permanents (date, montant)**.
-> - **16h58-17h12** (tour n° 137) : Plan rectifié lancé (courriel du conseiller à Coulibaly, 17h10). Ordres permanents (banque.py) : E012 épargne 732 → 1 487 €, E014 ETF suspendu, E017 créé : 5 000 €/mois vers SOLEIL B2B CI dès le 02/09. Engagements : apport mensuel, mobilier étalé, informatique 3,5 M, pickup 700 000/mois ; tresorerie.py compte les apports mensuels. Caisse jusqu'à fin décembre sans 
-> - Tour en cours à 17h12, en attente de William : **Rien ; enregistrement du vol AF703 en soirée**.
+## Fin du dernier journal (2041-08-26.md, 6 dernières lignes)
+> # Lundi 26 août 2041 — univers 3, 42e jour
+> - **00h00-05h52** (tour n° 138) : Avance : rhume (A19, dimanche soir), enregistrement, vol AF703 à l'heure (A112 clos), nuit de 4 h en vol, arrivée à CDG à 05h41. Correspondance fixée à 09h40 (A134). Rituels : synthèse W34 (memoire/semaine-2041-W34.md) ; T4/T5 : fuite externe de affaire_projet_ci_annonce → H004 palier 2 (rumeur, caché) ; revue du lundi n° 6 (memoire/revue-lundi-2041-08-26.md, P42-
+> - Tirages du tour : T4 → aucune (19,97) ; T5 → fuite_externe (6,21) ; T4 → aucune (16,4) ; T5 → aucune (58,41) ; T22 → zero_segment (15,85) ; T22 → un_segment (55,42) ; T22 → zero_segment (29,76) ; T22 → zero_segment (8,69) ; procédure : LU03, LU04, FR01.
+> - Tour en cours à 05h52, en attente de William : **Correspondance pour Luxembourg à 09h40 (terminal 2G) ; revue du lundi n° 6 : P42 à P44 à valider**.

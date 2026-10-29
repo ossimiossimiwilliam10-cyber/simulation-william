@@ -4505,3 +4505,57 @@ Effets à jouer : A19 (dimanche 25/08 (soir)) : Un adulte attrape 2 à 4 rhumes 
 - Tirage [T24b] « Chauffeur Yango commandé par la réception (résidence → aéroport FHB, 25/08/2041 12h15) » : arrive 90 / annule 10 ; modificateurs : aucun ; jet  98.5 → **annule** (enregistré le 29/10/2026 20:39 heure machine)
 
 - Procédure « Course Yango résidence → aéroport (T24b annule) : annulation du premier chauffeur » : après 4 min [PROCÉDURE : T24b annule : délai entre 2 et 5 min] (enregistré le 29/10/2026 20:40 heure machine)
+
+## Tirage de la semaine du 2041-08-26
+
+| ID | Événement | Probabilité | Jet (0-100) | Résultat |
+|---|---|---|---|---|
+| A01 | Maladie d'un membre de l'équipe (paludisme, gastro, typhoïde) | 10 % |  88.0 | non |
+| A02 | Problème de santé d'un proche d'un personnage (ex. mère d'Aïcha, tension) | 8 % |  77.4 | non |
+| A04 | Délestage / coupure d'électricité prolongée | 25 % |  75.3 | non |
+| A05 | Fortes pluies / inondation | 15 % |  98.0 | non |
+| A06 | Retard fournisseur ou douane (NVR, onduleurs, batteries) | 30 % |  35.4 | non |
+| A07 | Panne réseau (fibre, 4G) ou banque en ligne | 15 % |  26.3 | non |
+| A09 | Erreur administrative (virement mal affecté, pièce perdue, nom mal orthographié) | 10 % |  98.3 | non |
+| A12 | Fuite d'information (salaires, avances, statut de William) | 5 % |  63.1 | non |
+| A13 | Opportunité commerciale inattendue (recommandation, appel d'un prospect) | 10 % |  78.8 | non |
+| A17 | William lui-même malade ou épuisé (fatigue, gastro) | 5 % |  62.0 | non |
+| A18 | Incident de transport (taxi, panne, retard) | 15 % |  59.9 | non |
+| A19 | Rhume, angine ou gastro de William | 5 % |  36.8 | non |
+| A20 | Perturbation des trajets frontaliers (bus en retard, A4 ou N4 bouchée, travaux) | 20 % |  45.8 | non |
+| A21 | Panne domestique (chauffe-eau, électroménager, fuite) | 4 % |  60.8 | non |
+| A22 | Courrier administratif (impôts français ou luxembourgeois, CNS, mairie, banque) | 10 % |  16.8 | non |
+| A23 | Tentative d'arnaque (SMS de faux colis, faux conseiller bancaire, faux site) | 15 % |  93.0 | non |
+| A24 | Souci de voisinage (bruit, travaux, haie, stationnement) | 5 % |  24.9 | non |
+| A25 | Blessure légère à l'entraînement (entorse, côte, doigt) | 1 % |  34.2 | non |
+| A26 | Imprévu d'argent (amende, réparation, cadeau, cotisation) | 6 % |  13.1 | non |
+| A27 | Signe d'un ancien (collègue, élève devenu adulte, connaissance) | 8 % |  85.5 | non |
+| A28 | Courriel ou appel du lycée pendant les vacances (réunion de rentrée, ajournements, emploi du temps) | 10 % |  72.7 | non |
+| A29 | Contrôle routier ou radar | 3 % |   8.0 | non |
+| A30 | Occasion inattendue (proposition de cours particuliers, invitation, bon plan) | 8 % |  32.3 | non |
+| A31 | Diarrhée du voyageur ou intoxication alimentaire (à l'étranger) | 12 % |  30.8 | non |
+| A35 | Surfacturation ou arnaque visant un touriste (taxi, boutique, bar) | 5 % |  74.7 | non |
+| A36 | Malentendu de langue (adresse mal comprise, commande erronée, document en coréen) | 10 % |  91.6 | non |
+| A37 | Embouteillage, pont saturé ou route coupée à Abidjan (un trajet de William ou de l'équipe prend une à deux heures de plus) | 30 % |  94.4 | non |
+| A38 | Contrôle routier ou guichet : un agent sollicite un « geste » (2 000 à 10 000 FCFA) | 10 % |  75.9 | non |
+| A39 | Paludisme de William (séjour en zone d'endémie) | 0.5 % |  86.7 | non |
+
+Aucun aléa déclenché cette semaine.
+
+- Tirage [T4] « affaire_projet_ci_annonce : escalade externe, semaine du 19/08 » : aucune 99.7 / frontal_escalade 0.3 ; modificateurs : aucun ; jet  20.0 → **aucune** (enregistré le 29/10/2026 21:09 heure machine)
+
+- Tirage [T5] « affaire_projet_ci_annonce : fuite, semaine du 19/08 » : fuite_externe 13 / fuite_interne 39 / aucune 48 ; modificateurs : aucun ; jet   6.2 → **fuite_externe** (enregistré le 29/10/2026 21:09 heure machine)
+
+- Tirage [T4] « affaire_projet_ci_art14 : escalade externe, semaine du 19/08 » : aucune 99.7 / frontal_escalade 0.3 ; modificateurs : aucun ; jet  16.4 → **aucune** (enregistré le 29/10/2026 21:09 heure machine)
+
+- Tirage [T5] « affaire_projet_ci_art14 : fuite, semaine du 19/08 » : fuite_externe 1 / fuite_interne 3 / aucune 96 ; modificateurs : aucun ; jet  58.4 → **aucune** (enregistré le 29/10/2026 21:09 heure machine)
+
+- Tirage [T22] « Front H002 « Abonnements CIE et SODECI de la villa des Vallons » : semaine du 26/08/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  15.8 → **zero_segment** (enregistré le 29/10/2026 21:11 heure machine)
+
+- Tirage [T22] « Front H004 « Lagune Kilowatt réagit à l'arrivée de SOLEIL B2B CI » : semaine du 26/08/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  55.4 → **un_segment** (enregistré le 29/10/2026 21:11 heure machine)
+
+- Tirage [T22] « Front H005 « Comoé Solaire Services tente de débaucher l'équipe » : semaine du 26/08/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  29.8 → **zero_segment** (enregistré le 29/10/2026 21:11 heure machine)
+
+- Tirage [T22] « Front H006 « Ébène Watt casse les prix chez les petits clients » : semaine du 26/08/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet   8.7 → **zero_segment** (enregistré le 29/10/2026 21:11 heure machine)
+
+- Actualités de la semaine du 26/08/2041 : modèles LU03, LU04, FR01 [PROCÉDURE : outils/actualites.py] (enregistré le 29/10/2026 21:11 heure machine)

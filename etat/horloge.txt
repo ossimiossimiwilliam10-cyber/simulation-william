@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-08-25 17:12
-fuseau: abidjan
-lieu: Abidjan, aéroport Félix-Houphouët-Boigny (hall des départs)
-tour: 137
-attente: Rien ; enregistrement du vol AF703 en soirée
+horloge: 2041-08-26 05:52
+fuseau: paris
+lieu: Paris, aéroport Charles-de-Gaulle, terminal 2E (arrivée du vol AF703)
+tour: 138
+attente: Correspondance pour Luxembourg à 09h40 (terminal 2G) ; revue du lundi n° 6 : P42 à P44 à valider
