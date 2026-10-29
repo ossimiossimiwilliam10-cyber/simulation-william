@@ -4453,3 +4453,7 @@ Effets à jouer : A19 (dimanche 25/08 (soir)) : Un adulte attrape 2 à 4 rhumes 
 - Tirage [T10] « Mohamed Coulibaly : délai (répond à la relance (copie du bail, contrat de Viviane Tanoh)) » : immediat 19 / rapide 33 / dans_l_heure 15 / dans_la_journee 14 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 4 ; modificateurs : M73 ; jet  73.7 → **dans_la_journee** (enregistré le 29/10/2026 19:40 heure machine)
 
 - Procédure « William : coucher et lever de la nuit du 20 au 21/08 » : coucher 23:06, lever 06:34 [PROCÉDURE : coucher tiré entre 22h45 et 23h45, sommeil 7 h à 8 h 30] (enregistré le 29/10/2026 19:47 heure machine)
+
+- Tirage [T7c] « Coulibaly : William lui demande directement d'envoyer la copie du bail sur direction@soleil-b2b.ci au plus vite (21/08/2041 06h40) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  32.1 → **execute_sans_discuter** (enregistré le 29/10/2026 19:50 heure machine)
+
+- Tirage [T10] « Mohamed Coulibaly : délai (répond à la demande du bail sur l'adresse direction) » : immediat 19 / rapide 33 / dans_l_heure 15 / dans_la_journee 14 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 4 ; modificateurs : M73 ; jet   2.4 → **immediat** (enregistré le 29/10/2026 19:50 heure machine)

@@ -45,3 +45,4 @@
 | 20/08/2041 10:01 | William envoie sa photo à Mohamed Coulibaly pour le cahier du poste de garde de la villa (transmise à l agence de gardiennage du bailleur) | photo | Mohamed Coulibaly | faible |
 | 20/08/2041 10h16 (Abidjan) | Message WhatsApp à Agent central : « Option A. Je fais le virement du complément depuis mon épargne. » | conversation WhatsApp | Agent central (captures possibles) | faible |
 | 20/08/2041 20h05 (Abidjan) | Message WhatsApp à Agent central : « Envoie un message à Coulibaly : il doit transmettre la copie du bail au plus vite, il faut qu'on l'ait. Relance-le aussi sur la signature du contrat de la direc » | conversation WhatsApp | Agent central (captures possibles) | faible |
+| 21/08/2041 06h40 (Abidjan) | Message WhatsApp à Mohamed Coulibaly : « Bonjour Mohamed. Envoyez-moi la copie du bail sur mon adresse direction@soleil-b2b.ci, au plus vite s'il vous plaît. » | conversation WhatsApp | Mohamed Coulibaly (captures possibles) | faible |

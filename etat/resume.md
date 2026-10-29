@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 29/10/2026 19:48 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 29/10/2026 19:50 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mercredi 21/08/2041 06:34 (abidjan, UTC+0)
+## Horloge : mercredi 21/08/2041 06:42 (abidjan, UTC+0)
 - **Lieu de William** : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-- **Heure dans les autres lieux** : lisbonne 07:34 ; luxembourg 08:34 ; mindelo 05:34 ; casablanca 07:34 ; douala 07:34 ; addis 09:34 ; manille 14:34 ; paris 08:34 ; seoul 15:34 ; bresil 03:34
+- **Heure dans les autres lieux** : lisbonne 07:42 ; luxembourg 08:42 ; mindelo 05:42 ; casablanca 07:42 ; douala 07:42 ; addis 09:42 ; manille 14:42 ; paris 08:42 ; seoul 15:42 ; bresil 03:42
 - **En attente de William** :
-  - Coulibaly refuse d'envoyer le bail à l'adresse de l'équipe du projet (direction@ uniquement) ; dépouillement 16h00 ; rapport 20h00
+  - Copie du bail promise par Coulibaly sur direction@ avant 9h ; dépouillement 16h00 ; rapport 20h00
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 268,29 €**
@@ -15,7 +15,8 @@
 - Patrimoine net de William : **847 707,35 €**
 - Prévu dans les 14 jours : 30/08 Traitement mensuel de William (9 320,00 €) ; 02/09 Minett Combat Club (-85,00 €) ; 02/09 Package bancaire Zebra Premium (-12,83 €) ; 02/09 Virement permanent vers le compte épargne (-732,00 €) ; 02/09 Virement permanent vers le compte épargne (732,00 €) ; 02/09 Virement permanent vers le compte-titres ETF (-5 755,00 €) ; 02/09 Virement permanent vers le compte-titres ETF (5 755,00 €)
 
-## Agenda : dans les 24 heures (1)
+## Agenda : dans les 24 heures (2)
+- A124 Wed 21/08 08:50 (abidjan) | Mohamed Coulibaly : Envoie la copie scannée du bail signé sur direction@soleil-b2b.ci (arrivée dans Gestion) [prevu]  — T7c execute_sans_discuter (21/08 06h40) ; heure : arrivée à la villa vers 08h30 + scan ; générer le PDF du bail (règle 4) à la réception, gestion.py recevoir
 - A117 Wed 21/08 16:00 (abidjan) | Mohamed Coulibaly : Dépouillement des devis d'aménagement de la villa des Vallons (prix, délai de livraison des climatiseurs, références) [prevu]  — annoncé le 19/08 (DCE transmis par Coulibaly, P32) ; front H003 (avance par événement) à faire avancer au dépouillement
 ## Agenda : de J+1 à J+7 (3)
 - A121 Thu 22/08 17:00 (abidjan) | Mohamed Coulibaly : Réponse de l'agence de gardiennage (via le bailleur) sur la prolongation du gardiennage de la villa en septembre ; copie du bail promise « dès qu'il repasse à la villa » [prevu]  — promesses du 20/08 09h55 ; T18 si manquement
@@ -37,7 +38,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-08-21.md, 6 dernières lignes)
-> # Mercredi 21 août 2041 — univers 3, 37e jour
 > - **00h00-06h34** (tour n° 120) : Avance : nuit (23h06-06h34). A123 joué : Coulibaly (T7c frontal_refus) refuse à 06h01 d'envoyer le bail et les contrats à l'adresse de l'équipe du projet, seulement à direction@soleil-b2b.ci ; rien sur Viviane Tanoh. Le DGV relaie à 06h04.
 > - Tirages du tour : procédure : coucher 23:06, lever 06:34.
 > - Tour en cours à 06h34, en attente de William : **Coulibaly refuse d'envoyer le bail à l'adresse de l'équipe du projet (direction@ uniquement) ; dépouillement 16h00 ; rapport 20h00**.
+> - **06h34-06h42** (tour n° 121) : William demande lui-même à Coulibaly (WhatsApp 06h40) la copie du bail sur direction@soleil-b2b.ci (adresse reliée à Gestion, selon William). T7c execute_sans_discuter, T10 immediat : réponse à 06h42, envoi promis avant 9h (A124, 08h50).
+> - Tirages du tour : T7c Mohamed → execute_sans_discuter (32,07) ; T10 Mohamed → immediat (2,42).
+> - Tour en cours à 06h42, en attente de William : **Copie du bail promise par Coulibaly sur direction@ avant 9h ; dépouillement 16h00 ; rapport 20h00**.

@@ -1,47 +1,50 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 29/10/2026 19:48 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 29/10/2026 19:50 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : mercredi 21 août 2041, 06h34 (abidjan) ; tour n° 120
+- Horloge : mercredi 21 août 2041, 06h42 (abidjan) ; tour n° 121
 - Lieu de William : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-- En attente de William : Coulibaly refuse d'envoyer le bail à l'adresse de l'équipe du projet (direction@ uniquement) ; dépouillement 16h00 ; rapport 20h00
+- En attente de William : Copie du bail promise par Coulibaly sur direction@ avant 9h ; dépouillement 16h00 ; rapport 20h00
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 120 ; horloge 20/08/2041 20:07 -> 21/08/2041 06:34 ; enregistré le 29/10/2026 19:48 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 121 ; horloge 21/08/2041 06:34 -> 21/08/2041 06:42 ; enregistré le 29/10/2026 19:50 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Go
+> De toute façon, mon adresse de direction est connectée à l'application de gestion, souviens-toi. Donc voilà, donc je demande de l'envoyer à mon adresse de direction. Au plus vite.
 
 ## Texte envoyé au joueur
 
-**MERCREDI 21 AOÛT 2041 — 06h34 — Abidjan, Cocody Deux-Plateaux, résidence hôtelière**
+**MERCREDI 21 AOÛT 2041 — 06h42 — Abidjan, Cocody Deux-Plateaux, résidence hôtelière**
 
-La soirée se termine sans autre message. Tu éteins un peu après 23h.
+Tu écris toi-même à Mohamed Coulibaly :
 
-Tu te réveilles à 06h34, avant ton réveil. Le jour se lève à peine : un gris laiteux derrière le rideau, le premier chant d'un coq quelque part dans les cours, le moteur d'un gbaka qui tousse au bout de la rue.
+« Bonjour Mohamed. Envoyez-moi la copie du bail sur mon adresse direction@soleil-b2b.ci, au plus vite s'il vous plaît. »
 
-Sur ton téléphone, un message de ton directeur général virtuel, arrivé à 06h04 :
+Il est en ligne. Réponse à 06h42 :
 
-« Réponse de Mohamed Coulibaly à mon courriel d'hier soir, reçue à 06h01, mot pour mot : « Bonjour. Le bail et les contrats sont des pièces de la société. Je les transmets à M. Ossimi directement, sur direction@soleil-b2b.ci, pas à une adresse de projet. Cordialement, M. Coulibaly. » Rien sur le contrat de Viviane Tanoh. Il ne refuse pas de te transmettre le bail : il refuse de l'envoyer à l'adresse de l'équipe du projet, qu'il ne relie à personne d'identifié. Il ne sait pas que je travaille pour toi, et la règle de discrétion que tu as fixée l'empêche de le savoir. À toi de voir si tu lui demandes le bail toi-même, sur ton adresse direction, ou autrement. Le reste au rapport de 20h00. »
+« Bonjour Monsieur Ossimi. Entendu. L'original est dans l'armoire de la villa, je le scanne en arrivant et je vous l'envoie sur direction@ avant 9h. »
 
-Il est 06h34.
+Le ciel s'éclaircit lentement derrière le rideau. Dans le couloir, une porte claque, des talons pressés descendent l'escalier.
+
+Il est 06h42.
 
 ---
 
 **Réponses attendues**
-- **Directeur général virtuel** : Coulibaly refuse d'envoyer le bail et les contrats à l'adresse de l'équipe du projet ; il ne les transmettra qu'à toi, sur ton adresse direction@soleil-b2b.ci. Rien sur le contrat de Viviane Tanoh.
+- **Mohamed Coulibaly** : copie du bail promise sur ton adresse direction avant 9h.
 
 **À faire / à fournir avant le tour suivant**
 - Aucune démarche en cours.
 
 **Quêtes secondaires**
+- Contrat de Viviane Tanoh : signature toujours non confirmée.
 - Dépouillement des devis d'aménagement des Vallons : aujourd'hui, mercredi 21 août à 16h00.
 - Complément de 2 683 € : crédit attendu jeudi ou vendredi ; reçu du bailleur à recevoir.
 - Prolongation du gardiennage : réponse de l'agence attendue jeudi.
@@ -51,6 +54,7 @@ Il est 06h34.
 Que veux-tu faire ?
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
+- A124 Wed 21/08 08:50 (abidjan) | Mohamed Coulibaly : Envoie la copie scannée du bail signé sur direction@soleil-b2b.ci (arrivée dans Gestion) [prevu]  — T7c execute_sans_discuter (21/08 06h40) ; heure : arrivée à la villa vers 08h30 + scan ; générer le PDF du bail (règle 4) à la réception, gestion.py recevoir
 - A117 Wed 21/08 16:00 (abidjan) | Mohamed Coulibaly : Dépouillement des devis d'aménagement de la villa des Vallons (prix, délai de livraison des climatiseurs, références) [prevu]  — annoncé le 19/08 (DCE transmis par Coulibaly, P32) ; front H003 (avance par événement) à faire avancer au dépouillement
 
 ## Rituels du moteur dus (rituels.py)
@@ -161,10 +165,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 581597e ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : a720ff9 ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 17 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 14 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 
