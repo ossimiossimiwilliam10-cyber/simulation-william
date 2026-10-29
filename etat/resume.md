@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 29/10/2026 21:17 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 29/10/2026 21:24 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : dimanche 01/09/2041 09:00 (luxembourg, UTC+2)
+## Horloge : dimanche 01/09/2041 09:18 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 07:00 ; lisbonne 08:00 ; mindelo 06:00 ; casablanca 07:00 ; douala 08:00 ; addis 10:00 ; manille 15:00 ; paris 09:00 ; seoul 16:00 ; bresil 04:00
+- **Heure dans les autres lieux** : abidjan 07:18 ; lisbonne 08:18 ; mindelo 06:18 ; casablanca 07:18 ; douala 08:18 ; addis 10:18 ; manille 15:18 ; paris 09:18 ; seoul 16:18 ; bresil 04:18
 - **En attente de William** :
-  - Séance du dimanche : trois décisions (gardiennage d'octobre, avenant des jalons, reçu du dépôt)
+  - Programme de la semaine du 2 au 8 septembre ; réponse à Lenny
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **17 236,67 €**
@@ -17,8 +17,8 @@
 
 ## Agenda : dans les 24 heures (0)
 - rien
-## Agenda : de J+1 à J+7 (0)
-- rien
+## Agenda : de J+1 à J+7 (1)
+- A135 Mon 02/09 10:00 (luxembourg) | Mohamed Coulibaly : Reçoit la relance du conseiller : reçu du dépôt de garantie à obtenir de l'agence avant le vendredi 6 septembre ; prolongation du gardiennage pour octobre ; consultation de Mariam Brou en octobre [prevu]  — séance du 01/09
 (Les lignes « NON CONNU DE WILLIAM » servent au moteur : ne jamais les montrer au joueur avant le jour dit.)
 
 ## Affaires ouvertes (T4/T5 chaque dimanche soir)
@@ -40,3 +40,5 @@
 > - **00h00-09h00** (tour n° 139) : P42-P44 validées et installées (Rapports archivés dans Gestion ; A40, A41). Règle : semaine programmée → avance hebdomadaire. Semaine du 26/08 : retour à Findel (parking 255,22 €), club lundi (Lenny, T15 en_parle_a_d_autres : maillot montré, Thiago Alves apprend le projet), mercredi, vendredi ; rhume fini mardi ; courses 96,40 €. Société : 20 000 € crédités lundi 
 > - Tirages du tour : T22 → zero_segment (15,85) ; T22 → un_segment (55,42) ; T22 → zero_segment (29,76) ; T22 → zero_segment (8,69) ; procédure : LU03, LU04, FR01 ; procédure : lundi 26/08 16:10 ; jet « Mohamed Coulibaly tient sa promesse : confirme Froid Lagune  » → OUI (35,94) ; jet « Mohamed Coulibaly tient sa promesse : dépose les demandes CI » → OUI (25,44) ; jet « Mohamed Coulibaly tient sa p
 > - Tour en cours à 09h00, en attente de William : **Séance du dimanche : trois décisions (gardiennage d'octobre, avenant des jalons, reçu du dépôt)**.
+> - **09h00-09h18** (tour n° 140) : Séance du 01/09 : gardiennage du bailleur prolongé pour octobre (prix jugé cher, consultation de Mariam Brou en octobre) ; avenant des jalons validé (envoi à Me Gnamien, devis avant signature) ; relance du reçu du dépôt (délai au 06/09, A135). William renonce à faire répondre le conseiller à Coulibaly. Règle : réponses automatiques en mode semaine (CLAUDE §5.9, pr
+> - Tour en cours à 09h18, en attente de William : **Programme de la semaine du 2 au 8 septembre ; réponse à Lenny**.

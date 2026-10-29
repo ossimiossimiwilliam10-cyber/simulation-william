@@ -1,64 +1,47 @@
 # Dernier tour montré au joueur
 
-> Tour n° 139 ; horloge 26/08/2041 05:52 -> 01/09/2041 09:00 ; enregistré le 29/10/2026 21:17 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 140 ; horloge 01/09/2041 09:00 -> 01/09/2041 09:18 ; enregistré le 29/10/2026 21:24 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je valide P42 à P44 et Go Bon, alors je planifie globalement ma semaine. Donc aujourd'hui, je vais rejoindre Lenny à 18h pour le sparring. Donc je ferai sport lundi, mercredi, vendredi, c'est tout. Donc les 3 jours, seulement 3 jours cette semaine. Toujours aller au club. Hein. Et dimanche, du coup, je prendrai un moment dimanche matin, du coup, pour bosser sur l'entreprise, comme je l'ai dit. Après tout le reste, bah, on passe en mode automatique. (… règle de l'avance hebdomadaire)
+> Concernant le gardiennage… (décisions de la séance du 01/09 ; règle des réponses automatiques en mode semaine)
 
 ## Texte envoyé au joueur
 
-**DIMANCHE 1er SEPTEMBRE 2041 — 09h00 — Audun-le-Tiche (Moselle), chez toi**
+**DIMANCHE 1er SEPTEMBRE 2041 — 09h18 — Audun-le-Tiche (Moselle), chez toi**
 
-La correspondance part à l'heure de Roissy ; à 10h50, tu poses le pied à Findel sous une petite pluie fine, quinze degrés, le ciel gris bas du Luxembourg qui te paraît presque froid. Au parking couvert, la borne réclame 255,22 € pour quatorze jours ; tu paies par carte, et ta voiture électrique te ramène à Audun-le-Tiche en vingt-cinq minutes, la tête lourde et le nez bouché. La maison sent le renfermé. Tu ouvres toutes les fenêtres, tu défais la valise et tu dors deux heures.
+Tu réponds à ton conseiller :
 
-À 18h00, au Minett Combat Club, la salle a gardé l'odeur des tapis et du désinfectant de la rentrée. Lenny t'attend déjà échauffé, à l'heure pile, en regardant ostensiblement l'horloge quand tu entres. C'est un grand gaillard d'un mètre quatre-vingt-trois, la trentaine, sec et musclé, les épaules larges et les avant-bras épais d'un ouvrier du bâtiment. Visage carré aux pommettes hautes, peau mate, yeux bridés et vifs, une barbe noire courte et bien taillée, des cheveux noirs rasés sur les côtés et plus longs sur le dessus, attachés en petit chignon. Short noir, t-shirt délavé d'un trail de 2039, bandes de boxe autour des mains. Quand tu sors le maillot orange du sac, il le déplie à bout de bras, siffle, l'enfile par-dessus son t-shirt et fait le tour du vestiaire pour le montrer : « Il revient d'Abidjan, les gars, William il monte une boîte là-bas, sérieux ! » Le sparring reste léger : ton rhume te coupe le souffle dès le deuxième round, et Lenny, pour une fois, ne force pas. À 22h14, il t'écrit : « Merci encore pour le maillot frère, il est trop propre 🔥 Tout le monde a kiffé au vestiaire. Mercredi même heure ? »
+« Gardiennage : 540 000 FCFA, c'est cher. On garde le prestataire du bailleur pour le premier mois, octobre, et Mariam Brou cherche mieux en rapport qualité-prix dès son arrivée. Je valide l'avenant sur les jalons tel quel. Et il faut absolument relancer Coulibaly sur le reçu du dépôt de garantie. Pour le reste, on garde le système actuel. »
 
-Le reste de la semaine passe sans heurt. Le rhume lâche prise dès mardi. Mercredi et vendredi, tu retournes au club, et tu retrouves ta respiration et tes appuis ; vendredi, tu enchaînes cinq rounds de sparring sans baisser les mains. Jeudi soir, les courses au supermarché d'Audun, 96,40 €. La maison reprend son rythme : le lave-linge, le jardin à tondre, le courrier entassé pendant deux semaines, sans rien d'urgent dedans. Ton conseiller ne t'écrit pas de la semaine.
+Un instant, tu te demandes s'il ne faudrait pas que ton conseiller réponde lui-même à Coulibaly en semaine, et ne te dérange que s'il bute sur une question. Tu laisses tomber l'idée.
 
-Ce dimanche, tu t'installes à la table de la cuisine avec un café. Le ciel est clair, frais ; un voisin passe la tondeuse de l'autre côté de la haie. À 08h55, ton conseiller :
+Réponse à 09h18 :
 
-« Séance du dimanche 1er septembre 2041, 09h00. Ordre du jour.
+« Reçu à 09h14. Je note :
+1. Gardiennage : prolongation d'octobre au même prix ; à son arrivée le 1er octobre, Mariam Brou lance une consultation de trois prestataires, avec réponse attendue avant le 20 octobre. Coulibaly en est informé demain matin.
+2. Avenant sur les jalons : validé tel quel. Je l'envoie demain à Me Gnamien pour la mise en forme et je te transmets son devis avant toute signature.
+3. Reçu du dépôt de garantie : relance de Coulibaly demain à 08h00, avec un délai écrit, vendredi 6 septembre.
 
-BILAN DE LA SEMAINE (26 août au 1er septembre)
-- Ton versement de 20 000 € est arrivé lundi à 16h10.
-- Froid Lagune Services : confirmé par Coulibaly mardi, acompte de 2 768 000 FCFA versé le jour même. Climatiseurs annoncés vers le 17 septembre.
-- Gardiennage : l'agence du bailleur n'a pas bougé sur son prix, 540 000 FCFA par mois pour deux agents, jour et nuit. Coulibaly a signé la prolongation pour septembre, comme tu l'avais décidé.
-- CIE et SODECI : demandes déposées par Coulibaly jeudi. Les avances sur consommation seront chiffrées par les deux sociétés ; il n'a pas encore les montants.
-- Comptes rendus de Coulibaly : reçus mardi à 17h00 et vendredi à 12h00, à l'heure. Archivés.
-- Pas avancé : devis informatiques (aucun reçu), location du pickup (non chiffrée), reçu du dépôt de garantie (toujours absent).
+Système inchangé : je traite ce qui arrive en semaine et je te garde le reste pour dimanche prochain. »
 
-TRÉSORERIE AU 1er SEPTEMBRE
-- Sur le compte de la société : environ 9,8 millions de FCFA (15 000 €) après le loyer et le gardiennage de septembre.
-- Demain, ton premier apport mensuel de 5 000 € ; le 25, le versement de 40 000 €.
-- Toujours sans recette : la caisse tient jusqu'à fin décembre.
+La tondeuse du voisin s'est tue. Le café a refroidi ; dehors, le soleil de septembre éclaire la haie sans la chauffer.
 
-DÉCISIONS À PRENDRE
-1. Gardiennage à partir d'octobre : on prolonge encore le prestataire du bailleur (540 000 FCFA par mois), ou Mariam Brou lance dès son arrivée, le 1er octobre, un appel d'offres pour notre propre contrat, avec prolongation d'un mois en attendant ?
-2. Avenant sur les jalons de la deuxième tranche (25 000 € au premier contrat client signé, 25 000 € au deuxième) : rédigé, prêt pour Me Gnamien. Tu valides le texte tel quel ? Oui ou non.
-3. Reçu du dépôt de garantie : 5,25 millions de FCFA payés le 23 août, toujours sans reçu. Je fais relancer l'agence par Coulibaly avec un délai écrit ? Oui ou non.
-
-POUR INFORMATION
-- Veille « faute lourde » : rien à signaler. Coulibaly a tenu tous ses engagements de la semaine. »
-
-Il est 09h00.
+Il est 09h18.
 
 ---
 
 **Réponses attendues**
-- **Ton conseiller (séance du dimanche)** : trois décisions :
-  1. gardiennage à partir d'octobre : prolonger encore le prestataire du bailleur, ou appel d'offres de Mariam Brou dès son arrivée, avec un mois de prolongation en attendant ;
-  2. avenant sur les jalons de la deuxième tranche : valider le texte tel quel ? Oui ou non ;
-  3. reçu du dépôt de garantie : relancer l'agence avec un délai écrit ? Oui ou non.
-- **Lenny Nguyen** : « Mercredi même heure ? » (lundi soir, resté sans réponse écrite).
+- **Lenny Nguyen** : son « Mercredi même heure ? » de lundi soir est toujours sans réponse écrite.
 
 **À faire / à fournir avant le tour suivant**
-- Tes décisions pour la séance.
+- Ton programme de la semaine du 2 au 8 septembre, pour l'avance automatique (sport, rendez-vous, séance du dimanche 8).
 
 **Quêtes secondaires**
 - Demain, lundi 2 septembre : premier apport mensuel de 5 000 € à la société, prélèvement du club (85 €).
-- Lundi 9 septembre : relevé de la Visa Premier (environ 2 500 €, le séjour à Abidjan).
+- Lundi 9 septembre : relevé de la Visa Premier (environ 2 500 €).
 - Mercredi 25 septembre : versement de 40 000 € (première tranche).
 - Climatiseurs de la villa annoncés vers le 17 septembre.
+- Rentrée scolaire après les vacances d'été, qui se terminent le dimanche 15 septembre.
 
 Que veux-tu faire ?

@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-09-01 09:00
+horloge: 2041-09-01 09:18
 fuseau: luxembourg
 lieu: Audun-le-Tiche (Moselle), chez William
-tour: 139
-attente: Séance du dimanche : trois décisions (gardiennage d'octobre, avenant des jalons, reçu du dépôt)
+tour: 140
+attente: Programme de la semaine du 2 au 8 septembre ; réponse à Lenny

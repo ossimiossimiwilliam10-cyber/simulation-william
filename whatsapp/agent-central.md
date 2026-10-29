@@ -592,3 +592,10 @@ DÉCISIONS À PRENDRE
 
 POUR INFORMATION
 - Veille « faute lourde » : rien à signaler. Coulibaly a tenu tous ses engagements de la semaine.
+**[01/09/2041 - 09:12 (Luxembourg)] William :** Gardiennage : 540 000 FCFA, c'est cher. On garde le prestataire du bailleur pour le premier mois, octobre, et Mariam Brou cherche mieux en rapport qualité-prix dès son arrivée. Je valide l'avenant sur les jalons tel quel. Et il faut absolument relancer Coulibaly sur le reçu du dépôt de garantie. Pour le reste, on garde le système actuel.
+**[01/09/2041 - 09:18 (Luxembourg)] Agent central :** Reçu à 09h14. Je note :
+1. Gardiennage : prolongation d'octobre au même prix ; à son arrivée le 1er octobre, Mariam Brou lance une consultation de trois prestataires, avec réponse attendue avant le 20 octobre. Coulibaly en est informé demain matin.
+2. Avenant sur les jalons : validé tel quel. Je l'envoie demain à Me Gnamien pour la mise en forme et je te transmets son devis avant toute signature.
+3. Reçu du dépôt de garantie : relance de Coulibaly demain à 08h00, avec un délai écrit, vendredi 6 septembre.
+
+Système inchangé : je traite ce qui arrive en semaine et je te garde le reste pour dimanche prochain.
