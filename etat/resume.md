@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 29/10/2026 21:02 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 29/10/2026 21:07 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : dimanche 25/08/2041 16:58 (abidjan, UTC+0)
+## Horloge : dimanche 25/08/2041 17:12 (abidjan, UTC+0)
 - **Lieu de William** : Abidjan, aéroport Félix-Houphouët-Boigny (hall des départs)
-- **Heure dans les autres lieux** : lisbonne 17:58 ; luxembourg 18:58 ; mindelo 15:58 ; casablanca 16:58 ; douala 17:58 ; addis 19:58 ; manille 00:58 ; paris 18:58 ; seoul 01:58 ; bresil 13:58
+- **Heure dans les autres lieux** : lisbonne 18:12 ; luxembourg 19:12 ; mindelo 16:12 ; casablanca 17:12 ; douala 18:12 ; addis 20:12 ; manille 01:12 ; paris 19:12 ; seoul 02:12 ; bresil 14:12
 - **En attente de William** :
-  - Plan rectifié (oui ou non) ; redirection des ordres permanents (date, montant)
+  - Rien ; enregistrement du vol AF703 en soirée
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 268,29 €**
@@ -13,12 +13,12 @@
 - Prêt logement : solde restant dû (passif, déjà déduit de la part de maison) : **101 994,94 €**
 - Part nette de la maison d'Audun-le-Tiche : **98 005,06 €**
 - Patrimoine net de William : **827 707,35 €**
-- Prévu dans les 14 jours : 30/08 Traitement mensuel de William (9 320,00 €) ; 02/09 Minett Combat Club (-85,00 €) ; 02/09 Package bancaire Zebra Premium (-12,83 €) ; 02/09 Virement permanent vers le compte épargne (-732,00 €) ; 02/09 Virement permanent vers le compte épargne (732,00 €) ; 02/09 Virement permanent vers le compte-titres ETF (-5 755,00 €) ; 02/09 Virement permanent vers le compte-titres ETF (5 755,00 €) ; 05/09 Mensualité du prêt immobilier et assurance emprunteu (-949,28 €) ; 05/09 Prêt immobilier de la maison d'Audun-le-Tiche (-628,66 €) ; 05/09 Part nette du bien financé : + capital remboursé (628,66 €) ; 05/09 Assurance habitation (-45,00 €) ; 05/09 Voiture électrique : assurance tous risques (-107,00 €)
+- Prévu dans les 14 jours : 30/08 Traitement mensuel de William (9 320,00 €) ; 02/09 Minett Combat Club (-85,00 €) ; 02/09 Package bancaire Zebra Premium (-12,83 €) ; 02/09 Virement permanent vers le compte épargne (-1 487,00 €) ; 02/09 Virement permanent vers le compte épargne (1 487,00 €) ; 02/09 Virement permanent vers SOLEIL B2B CI (-5 000,00 €) ; 05/09 Mensualité du prêt immobilier et assurance emprunteu (-949,28 €) ; 05/09 Prêt immobilier de la maison d'Audun-le-Tiche (-628,66 €) ; 05/09 Part nette du bien financé : + capital remboursé (628,66 €) ; 05/09 Assurance habitation (-45,00 €) ; 05/09 Voiture électrique : assurance tous risques (-107,00 €)
 
-## Agenda : dans les 24 heures (1)
+## Agenda : dans les 24 heures (2)
 - A112 Sun 25/08 22:15 (abidjan) | Air France : Vol retour AF703 Abidjan (FHB) → Paris-CDG (arrivée le 26/08 vers 05h45), puis correspondance vers Luxembourg-Findel ; billet aller-retour réglé le 27/07 (1 285 €) [prevu]  — U3-19 : le retour n'était pas à l'agenda ; horaire d'après l'AF703 de 2026 (départ vers 22h15, F119) ; quitter la résidence vers 19h00 (trajet et contrôles)
-## Agenda : de J+1 à J+7 (3)
 - A121 Mon 26/08 17:00 (abidjan) | Mohamed Coulibaly : Réponse de l'agence de gardiennage (via le bailleur) sur la prolongation du gardiennage de la villa en septembre ; copie du bail promise « dès qu'il repasse à la villa » [prevu]  — promesses du 20/08 09h55 ; T18 si manquement | reporté de 2041-08-22 17:00 : T12 temporise : le bailleur veut en parler en début de semaine prochaine (courrier de l'agence du 22/08) ; copie du bail déjà reçue le 21/08
+## Agenda : de J+1 à J+7 (2)
 - A132 Wed 28/08 17:00 (abidjan) | Mohamed Coulibaly : Confirme seul Froid Lagune Services et verse l'acompte de 2 768 000 FCFA dès le crédit du versement de 20 000 € (prix garanti jusqu'au 28/08) [prevu]  — décision de William, séance du 25/08
 - A133 Fri 30/08 17:00 (abidjan) | Mohamed Coulibaly : Dépose lui-même les demandes d'abonnement CIE et SODECI de la villa (Mariam Brou n'arrive que le 1er octobre) [prevu]  — décision de William, séance du 25/08 ; fait avancer le front H002 quand c'est fait
 (Les lignes « NON CONNU DE WILLIAM » servent au moteur : ne jamais les montrer au joueur avant le jour dit.)
@@ -38,9 +38,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-08-25.md, 6 dernières lignes)
-> - **15h00-15h47** (tour n° 134) : Séance du dimanche : trois décisions (prolonger le gardiennage du bailleur, prix à obtenir ; CIE-SODECI à la charge de Coulibaly cette semaine, A133 ; Coulibaly confirme seul Froid Lagune, A132) envoyées à 15h10. Analyse de trésorerie (PDF documents_william/2041-08-25_Analyse_Tresorerie_Soleil_B2B_CI.pdf) : charge fixe ≈ 17 200 €/mois (coût employeur ≈ 1,4 × net, 
-> - Tour en cours à 15h47, en attente de William : **Choix des leviers de trésorerie ; enregistrement du vol AF703 en soirée**.
 > - **15h47-16h25** (tour n° 135) : Chiffrage des leviers 1-3 (PDF documents_william/2041-08-25_Chiffrage_Leviers_Tresorerie.pdf) : étalement du mobilier, location du pickup (≈ 700 000 FCFA/mois, estimation), crédit-bail informatique (apport 1,7 M, 272 000 FCFA/mois, garantie probablement exigée), jalons de 25 000 € sur la deuxième tranche. Caisse : mi-décembre (leviers 1-2), mi-février avec deux co
 > - Tour en cours à 16h25, en attente de William : **Lancer le plan des leviers 1-3 (oui ou non) ; garantie acceptée pour le crédit-bail**.
 > - **16h25-16h58** (tour n° 136) : William refuse de toucher à l'ETF et à la caution personnelle ; propose de rediriger ses ordres permanents (732 € épargne + 5 755 € ETF = 6 487 €/mois, échéancier) vers la société. Plan rectifié v2 (PDF) : informatique réduite à ≈ 3,5 M FCFA sans crédit-bail ; caisse jusqu'à mi-janvier sans contrat, mai avec deux contrats ; consommation nette ≈ 11 760 €/mois ; épa
 > - Tour en cours à 16h58, en attente de William : **Plan rectifié (oui ou non) ; redirection des ordres permanents (date, montant)**.
+> - **16h58-17h12** (tour n° 137) : Plan rectifié lancé (courriel du conseiller à Coulibaly, 17h10). Ordres permanents (banque.py) : E012 épargne 732 → 1 487 €, E014 ETF suspendu, E017 créé : 5 000 €/mois vers SOLEIL B2B CI dès le 02/09. Engagements : apport mensuel, mobilier étalé, informatique 3,5 M, pickup 700 000/mois ; tresorerie.py compte les apports mensuels. Caisse jusqu'à fin décembre sans 
+> - Tour en cours à 17h12, en attente de William : **Rien ; enregistrement du vol AF703 en soirée**.

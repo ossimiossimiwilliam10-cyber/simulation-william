@@ -564,3 +564,9 @@ Résultat :
 Deux décisions :
 1. Je lance ce plan auprès de Coulibaly : devis informatique réduit, étalement du mobilier, location du pickup, et j'écris l'avenant sur les jalons. Oui ou non ?
 2. La redirection, c'est toi qui modifies tes deux ordres permanents dans S-Net, application Banque. Dès le 2 septembre, ou plus tard ? Pour les 6 487 €, ou une partie ?
+**[25/08/2041 - 17:08 (Abidjan)] William :** Oui, lance le plan auprès de Coulibaly. Je modifie mes ordres permanents dès le 2 septembre : 5 000 € par mois pour la société, le reste sur l'épargne. C'est l'ETF qui ne sera plus alimenté.
+**[25/08/2041 - 17:12 (Abidjan)] Agent central :** Reçu à 17h09. Plan lancé : courriel à Coulibaly à 17h10, depuis ton adresse direction. Il y trouve les devis informatiques à demander pour le strict nécessaire, le mobilier à 40 % en octobre, la location d'un pickup à chiffrer, et l'avenant sur les jalons de la deuxième tranche, que je rédige cette semaine.
+
+Je vois tes ordres dans l'application Banque : 5 000 € par mois vers la société à partir du 2 septembre, 1 487 € vers l'épargne, plus rien vers l'ETF.
+
+Avec 5 000 € au lieu de 6 487 €, la société consomme environ 13 250 € nets par mois. Sans contrat, la caisse tient jusqu'à fin décembre ; elle passe sous zéro début janvier. Le tableau à jour est dans l'application Gestion.

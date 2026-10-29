@@ -49,11 +49,16 @@ def situation(au):
             inconnus.append(f"{l['poste']} (compté : " + f"{montant:,.0f}".replace(",", " ") + " FCFA)")
         charge = montant * (1 + TAUX_CNPS) if l["sens"] == "salaire" else montant
         if l["periodicite"] == "mensuel":
+            signe = -1 if l["sens"] == "apport" else 1  # 25/08/2041 : un apport mensuel (ordre permanent de William) réduit la charge nette
             if debut and debut <= au:
                 fin = dt.date.fromisoformat(l["fin"]) if l["fin"] else au
-                depenses += charge * mois_entre(debut, min(fin, au))
+                n = mois_entre(debut, min(fin, au))
+                if signe < 0:
+                    apports += montant * n
+                else:
+                    depenses += charge * n
             if not l["fin"] or dt.date.fromisoformat(l["fin"]) >= au:
-                mensuel += charge
+                mensuel += signe * charge
         elif debut and debut <= au:
             if l["sens"] == "apport":
                 apports += montant
@@ -84,7 +89,7 @@ def main():
     print(f"  apports reçus : {fcfa(s['apports'])}")
     print(f"  dépenses engagées : {fcfa(s['depenses'])}")
     print(f"  reste : {fcfa(s['reste'])}")
-    print(f"  charge mensuelle (coût employeur des salaires nets × {1 + TAUX_CNPS:.2f}, estimation, et loyer) : {fcfa(s['mensuel'])}")
+    print(f"  charge mensuelle nette (coût employeur des salaires nets × {1 + TAUX_CNPS:.2f}, estimation, loyer, moins les apports mensuels) : {fcfa(s['mensuel'])}")
     if s["reste"] < 0:
         print(f"  autonomie : aucune (il manque {fcfa(-s['reste'])} pour couvrir ce qui est déjà engagé)")
     elif s["autonomie"] is not None:

@@ -1,74 +1,65 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 29/10/2026 21:02 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 29/10/2026 21:07 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : dimanche 25 août 2041, 16h58 (abidjan) ; tour n° 136
+- Horloge : dimanche 25 août 2041, 17h12 (abidjan) ; tour n° 137
 - Lieu de William : Abidjan, aéroport Félix-Houphouët-Boigny (hall des départs)
-- En attente de William : Plan rectifié (oui ou non) ; redirection des ordres permanents (date, montant)
+- En attente de William : Rien ; enregistrement du vol AF703 en soirée
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 136 ; horloge 25/08/2041 16:25 -> 25/08/2041 16:58 ; enregistré le 29/10/2026 21:02 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 137 ; horloge 25/08/2041 16:58 -> 25/08/2041 17:12 ; enregistré le 29/10/2026 21:07 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Bon, on va un peu rectifier le plan. J'ai juste quelques nouveaux points à ajouter. Parce que là, je pense que vraiment l'intérêt, c'est de ne pas toucher au compte ETF. Parce qu'il génère de l'argent à partir de l'argent. Alors, je me demandais, mais... Et si j'arrêtais du coup... Et si, en fait, la somme d'argent qui va tous les mois sur mon compte épargne et sur mon compte ETF, et si je le redirigeais pour aller vers le compte de l'entreprise tous les mois, ça ferait genre un montant régulier en attendant que l'entreprise ne dégage de réels bénéfices, de réels revenus. Comme ça, on ne toucherait pas au compte ETF et comme ça, le compte épargne se rapporterait également, servirait également pour le compte de l'entreprise, le cas échéant. Et en fait, concernant le crédit bail informatique, oui, ça va être bizarre, ça va être compliqué. Est-ce qu'il n'y a pas une autre solution? Je sais pas. Est-ce que ça va coûter si cher, les appareils informatiques? Oui, parce qu'il faut pas que je fasse une caution personnelle. Ça va pas être bon. Oui. On va voir s'il n'y a pas une autre solution. Ouais. Essayons de réfléchir sur ça avant de valider le plan. Éventuellement, on pourrait même faire un dépôt bloqué par la société, plutôt que de que je me porte caution personnellement.
+> Oui, tu peux lancer ce plan auprès de Koulibaly. Et oui, je modifie mes ordres permanents dans l'application bancaire. Dès le 2 septembre. Et pour les... Alors, du coup, je rectifie un peu. C'est plutôt 5000 euros qui vont tomber dans le compte de l'entreprise. Et le reste ira dans le compte épargne. Donc, c'est le compte ETF qui ne sera plus alimenté. Et là, je me pose et je me rends compte que peut-être que j'ai été beaucoup trop ambitieux dès le début à vouloir constituer toute une équipe. Après, je me dis peut-être que ça va peut-être porter ses fruits, que c'est peut-être un investissement. Et que voilà, à l'avenir, si je devais recommencer, peut-être que j'aurais dû attribuer genre plusieurs fonctions à la même personne, puis avec le temps essayer de départager un peu tout cela. Mais bon, je me dis que c'est pas grave. Peut-être que cette organisation hyper structurée portera ses fruits. Et qu'il s'agit au final que d'un investissement. Comme dans tous les domaines, au final, quoi.
 
 ## Texte envoyé au joueur
 
-**DIMANCHE 25 AOÛT 2041 — 16h58 — Abidjan, aéroport Félix-Houphouët-Boigny (Port-Bouët)**
+**DIMANCHE 25 AOÛT 2041 — 17h12 — Abidjan, aéroport Félix-Houphouët-Boigny (Port-Bouët)**
 
 Tu écris à ton conseiller :
 
-« On rectifie le plan. Je ne veux pas toucher au compte ETF : il fait de l'argent avec l'argent. Et si je redirigeais vers la société, tous les mois, ce qui part aujourd'hui sur mon épargne et sur l'ETF, en attendant qu'elle dégage de vrais revenus ? Pour le crédit-bail informatique, une caution personnelle, c'est non. Est-ce qu'il n'y a pas une autre solution ? Est-ce que l'informatique coûte vraiment si cher ? À la rigueur, un dépôt bloqué par la société plutôt qu'une caution de ma part. Réfléchissons avant de valider. »
+« Oui, lance le plan auprès de Coulibaly. Je modifie mes ordres permanents dès le 2 septembre : 5 000 € par mois pour la société, le reste sur l'épargne. C'est l'ETF qui ne sera plus alimenté. »
 
-Pendant qu'il travaille, tu changes de table pour te mettre près d'une prise et recharger le téléphone. Dehors, le ciel s'est voilé ; un orage court passe sur Port-Bouët, des trombes d'eau pendant dix minutes sur le tarmac, puis le soleil revient sur les flaques.
+Puis tu ouvres l'application Banque. Tu passes l'ordre permanent vers l'épargne de 732 € à 1 487 €, tu suspends celui de 5 755 € vers le compte-titres ETF, et tu crées un nouvel ordre : 5 000 € chaque 2 du mois vers le compte de SOLEIL B2B CI à la SGCI, à partir du 2 septembre. Trois confirmations par code, trois écrans verts.
 
-À 16h58, la réponse, avec un document dans tes fichiers, « Plan de trésorerie rectifié, version 2 » :
+Réponse de ton conseiller à 17h12 :
 
-« Plan rectifié déposé dans tes documents : « Plan de trésorerie rectifié, version 2 ».
+« Reçu à 17h09. Plan lancé : courriel à Coulibaly à 17h10, depuis ton adresse direction. Il y trouve les devis informatiques à demander pour le strict nécessaire, le mobilier à 40 % en octobre, la location d'un pickup à chiffrer, et l'avenant sur les jalons de la deuxième tranche, que je rédige cette semaine.
 
-1. Ta redirection. Chaque 2 du mois, tes ordres permanents envoient 732 € à l'épargne Projet et 5 755 € à l'ETF, soit 6 487 €. Redirigés vers la société, cela fait environ 4,26 millions de FCFA par mois. L'ETF n'est pas touché ; il cesse seulement d'être alimenté. Ton compte courant ne bouge pas.
-2. L'informatique. Les 8,5 millions venaient du cadrage, pour tout le parc. Pour démarrer, il suffit de quatre portables de direction, du réseau, du Wi-Fi et d'une imprimante : environ 3,5 millions de FCFA, à confirmer par devis. Le reste viendra à l'arrivée des niveaux 3 et 4. Sans crédit-bail, il n'y a ni garantie ni caution, et le dépôt bloqué devient inutile, d'autant que la société n'a pas l'argent pour le bloquer.
-3. Le reste ne change pas : mobilier étalé, pickup en location, jalons de 25 000 € aux deux premiers contrats.
+Je vois tes ordres dans l'application Banque : 5 000 € par mois vers la société à partir du 2 septembre, 1 487 € vers l'épargne, plus rien vers l'ETF.
 
-Résultat :
-- Sans aucun contrat, la caisse tient jusqu'à la mi-janvier au lieu de la mi-novembre.
-- Avec deux contrats d'ici janvier, elle tient au-delà de mars, vers mai.
-- Ce que la société consomme vraiment chaque mois, ton apport déduit : environ 11 760 €.
+Avec 5 000 € au lieu de 6 487 €, la société consomme environ 13 250 € nets par mois. Sans contrat, la caisse tient jusqu'à fin décembre ; elle passe sous zéro début janvier. Le tableau à jour est dans l'application Gestion. »
 
-À savoir pour toi : ton épargne Projet tombera à environ 5 300 € après le versement de septembre et ne sera plus réalimentée ; c'est ta seule réserve hors ETF.
+Tu poses le téléphone sur la table. Par la baie vitrée, un avion de ligne décolle, lentement, au-dessus de la lagune ; le bruit arrive un peu après l'image. Tu repenses à la semaine, à l'équipe montée d'un coup, quatre directeurs avant le premier client. Peut-être trop, trop tôt. Peut-être que c'est le prix d'une structure solide. Le café a refroidi dans ta tasse.
 
-Deux décisions :
-1. Je lance ce plan auprès de Coulibaly : devis informatique réduit, étalement du mobilier, location du pickup, et j'écris l'avenant sur les jalons. Oui ou non ?
-2. La redirection, c'est toi qui modifies tes deux ordres permanents dans S-Net, application Banque. Dès le 2 septembre, ou plus tard ? Pour les 6 487 €, ou une partie ? »
-
-Il est 16h58.
+Il est 17h12.
 
 ---
 
 **Réponses attendues**
-- **Ton conseiller** :
-  1. lancer ou non le plan rectifié auprès de Coulibaly ;
-  2. la redirection de tes ordres permanents : à partir de quand, et pour quel montant (les 6 487 € ou une partie). Tu la fais toi-même dans S-Net (application Banque).
+- Aucune.
 
 **À faire / à fournir avant le tour suivant**
 - Enregistrement du vol AF703 en début de soirée ; départ à 22h15.
 
 **Quêtes secondaires**
-- Coulibaly lira demain matin tes trois décisions de la séance.
+- Coulibaly lira demain matin tes décisions et le plan rectifié.
 - Versement de 20 000 € : crédit attendu mardi au plus tard.
+- Premier apport mensuel de 5 000 € à la société le 2 septembre.
 - Lenny : maillot XL dans ta valise ; réouverture du club demain, lundi 26 août, à 18h00.
 
 Que veux-tu faire ?
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
 - A112 Sun 25/08 22:15 (abidjan) | Air France : Vol retour AF703 Abidjan (FHB) → Paris-CDG (arrivée le 26/08 vers 05h45), puis correspondance vers Luxembourg-Findel ; billet aller-retour réglé le 27/07 (1 285 €) [prevu]  — U3-19 : le retour n'était pas à l'agenda ; horaire d'après l'AF703 de 2026 (départ vers 22h15, F119) ; quitter la résidence vers 19h00 (trajet et contrôles)
+- A121 Mon 26/08 17:00 (abidjan) | Mohamed Coulibaly : Réponse de l'agence de gardiennage (via le bailleur) sur la prolongation du gardiennage de la villa en septembre ; copie du bail promise « dès qu'il repasse à la villa » [prevu]  — promesses du 20/08 09h55 ; T18 si manquement | reporté de 2041-08-22 17:00 : T12 temporise : le bailleur veut en parler en début de semaine prochaine (courrier de l'agence du 22/08) ; copie du bail déjà reçue le 21/08
 
 ## Rituels du moteur dus (rituels.py)
 - [DÛ] synthese_semaine : ce soir : synthèse de la semaine, T4/T5 des affaires ouvertes -> python outils/savoir.py t5
@@ -178,10 +169,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 7f85fe8 ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 9cdd569 ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 11 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 14 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

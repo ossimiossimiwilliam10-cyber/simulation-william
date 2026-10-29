@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-08-25 16:58
+horloge: 2041-08-25 17:12
 fuseau: abidjan
 lieu: Abidjan, aéroport Félix-Houphouët-Boigny (hall des départs)
-tour: 136
-attente: Plan rectifié (oui ou non) ; redirection des ordres permanents (date, montant)
+tour: 137
+attente: Rien ; enregistrement du vol AF703 en soirée
