@@ -157,3 +157,4 @@ def generer_note_audit_strategique():
 if __name__ == "__main__":
     generer_courriel_coulibaly_partenariats()
     generer_note_audit_strategique()
+

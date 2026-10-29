@@ -32,3 +32,4 @@ Concernant Fatoumata Gnagne, ton téléphone reste silencieux. Sortie de ton esp
 - Intégration de la clause de réserve de propriété et des verrous anti-défaut dans les maquettes contractuelles de la Direction Commerciale.
 
 Que veux-tu faire ?
+

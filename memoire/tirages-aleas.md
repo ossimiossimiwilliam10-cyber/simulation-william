@@ -4322,3 +4322,7 @@ Effets à jouer : A07 (mercredi 14/08 (soir)) : Retard d'un virement, d'un envoi
 - Tirage [T7c] « Coulibaly repond a la proposition de William sur les partenariats techniques et l activation eventuelle d Eric Yao » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  97.7 → **frontal_refus** (enregistré le 29/10/2026 11:22 heure machine)
 
 - Tirage [T10] « Heure de reponse de Coulibaly au message de William sur les partenariats techniques » : immediat 19 / rapide 33 / dans_l_heure 15 / dans_la_journee 14 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 4 ; modificateurs : M73 ; jet  15.5 → **immediat** (enregistré le 29/10/2026 11:23 heure machine)
+
+- Tirage [T7c] « Coulibaly recoit les directives de securisation contractuelle B2B et l organisation de la visite du samedi » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  52.6 → **execute_sans_discuter** (enregistré le 29/10/2026 11:33 heure machine)
+
+- Tirage [T10] « Heure de reponse de Coulibaly au message du soir de William » : immediat 19 / rapide 33 / dans_l_heure 15 / dans_la_journee 14 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 4 ; modificateurs : M73 ; jet  42.8 → **rapide** (enregistré le 29/10/2026 11:34 heure machine)
