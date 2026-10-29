@@ -1,49 +1,40 @@
 # Dernier tour montré au joueur
 
-> Tour n° 95 ; horloge 16/08/2041 13:00 -> 16/08/2041 13:00 ; enregistré le 29/10/2026 10:46 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 96 ; horloge 16/08/2041 13:45 -> 16/08/2041 13:45 ; enregistré le 29/10/2026 10:56 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Alors, ce que je fais ensuite, c'est que avec mon équipe virtuelle, je me consulte et je fais le scoring et évaluation des candidatures grâce à mon équipe virtuelle, en étant le plus objectif que possible. Et après, uniquement après avoir fait cette évaluation, je vais de nouveau prendre un moment et informer Koulibaly de qui est mon candidat sélectionné.
+> Bon, alors, du coup, on choisit Viviane Tano. Donc, je demande à mon équipe virtuelle d'informer Mohamed Koulibaly qu'on choisit Viviane Tano, mais qu'il faut également garder le contact de Marc-Antoine Kouadjo, donc le mec dans une shortlist. Il pourrait éventuellement nous aider pour des missions ponctuelles ou des trucs comme ça, si jamais on a besoin d'un besoin spécifique, notamment parce que, surtout en termes d'offres anti-délestage, il a montré qu'il était vraiment bon, meilleur en termes d'offres anti-délestage et de conformité. Donc, du coup, ce qu'on va faire, c'est qu'on va garder son contact. Éventuellement, si on a besoin de lui pour une mission particulière, on le contactera. Oui, voilà. Donc, c'est parti. Et je lui demande, du coup, d'enchaîner avec le prochain poste de directeur. Je lui demande de me faire un peu un bilan de ce qui lui manque, alors. Et d'informer, du coup, les directeurs qui sont déjà en place, entre guillemets, de commencer à faire les recherches pour leur équipe, vu que le niveau 3 et le niveau 4 est recruté par le niveau 2. Donc, le niveau 1 recrute le niveau 2, et le niveau 2 recrute le niveau 3 et le niveau 4.
 
 ## Texte envoyé au joueur
 
-**VENDREDI 16 AOÛT 2041 — 13h00 — Abidjan (Cocody Deux-Plateaux), résidence hôtelière**
+**VENDREDI 16 AOÛT 2041 — 13h45 — Abidjan (Cocody Deux-Plateaux), résidence hôtelière**
 
-Durant quarante-cinq minutes, assis face à ton écran, tu mobilises le module d'intelligence RH et commerciale de l'application Gestion pour procéder à un dépouillement exhaustif et rigoureusement objectif des deux dossiers. Critère par critère, les cartographies clients, les modélisations financières, les cycles de vente, les dispositifs d'encadrement et les engagements de conformité sont passés au crible pour mesurer l'alignement réel avec les impératifs de trésorerie de SOLEIL B2B CÔTE D'IVOIRE.
+*(« Viviane Tano » interprété comme Viviane Tanoh ; « Marc-Antoine Kouadjo » interprété comme Marc-Antoine Kouadio).*
 
-À l'issue de cette session d'analyse assistée, le pôle virtuel consolide les résultats dans un rapport d'évaluation officiel et calcule les scores pondérés sur cent :
+À treize heures cinq, tes arbitrages sont saisis dans l'application Gestion. Tu y formalises la sélection de Viviane Tanoh pour prendre les rênes de la Direction Commerciale, tout en consignant la directive expresse de conserver le contact de Marc-Antoine Kouadio au sein d'un vivier d'experts stratégiques prioritaires en vue de futures missions d'ingénierie et de dimensionnement anti-délestage. Tu demandes également un point de situation exhaustif sur l'organigramme de direction et donnes instruction de faire cascader le recrutement opérationnel : le Niveau 1 ayant pourvu le Niveau 2, il appartient désormais aux directeurs de pôle d'engager les recherches pour structurer leurs effectifs de Niveaux 3 et 4.
 
-Pour **Marc-Antoine Kouadio** :
-- *Axe 1 — Accès au Portefeuille Clients (25 %)* : **88 / 100** (poids : 22,00). Cartographie solide de quatorze comptes industriels lourds à Vridi et San Pedro, avec neuf accès directs certifiés et un potentiel unitaire de 250 kWc à 1 MWc.
-- *Axe 2 — Offre Anti-Délestage CIE (25 %)* : **90 / 100** (poids : 22,50). Maîtrise financière remarquable comparant le coût du kWh thermique au solaire hybride avec stockage batteries LFP, amorti en 4,2 ans. Argumentaire taillé pour les comités d'audit et les DAF.
-- *Axe 3 — Vélocité du Cycle de Vente (20 %)* : **72 / 100** (poids : 14,40). Cycle de contractualisation estimé entre soixante-quinze et quatre-vingt-dix jours. La lourdeur des circuits de décision des multinationales constitue un risque évident de décalage des rentrées de trésorerie.
-- *Axe 4 — Management Équipe Terrain (15 %)* : **78 / 100** (poids : 11,70). Style directif très axé sur le reporting CRM et l'autonomie des juniors, risquant d'engendrer de la rigidité sur le terrain.
-- *Axe 5 — Conformité & Zéro Bakchich (15 %)* : **94 / 100** (poids : 14,10). Refus formel de tout intermédiaire officieux, audits de conformité bilatéraux stricts et standard éthique maximal.
-- **Score global pondéré : 84,7 / 100**. Éligible au regard du seuil de quatre-vingts sur cent.
+L'équipe virtuelle met en forme tes volontés et transmet la notification officielle à Mohamed Coulibaly.
 
-Pour **Viviane Tanoh** :
-- *Axe 1 — Accès au Portefeuille Clients (25 %)* : **86 / 100** (poids : 21,50). Liste qualifiée de dix-huit PME/PMI à Yopougon et Treichville avec contact direct des dirigeants et besoins immédiats de 100 à 400 kWc.
-- *Axe 2 — Offre Anti-Délestage CIE (25 %)* : **80 / 100** (poids : 20,00). Discours pragmatique axé sur l'arrêt des pertes de stock lors des délestages, mais s'appuie totalement sur la Direction Technique pour l'ingénierie du stockage.
-- *Axe 3 — Vélocité du Cycle de Vente (20 %)* : **94 / 100** (poids : 18,80). Closing offensif en quarante-cinq jours grâce à un partenariat de leasing bancaire à cent pour cent sur cinq ans, supprimant la barrière de l'investissement initial pour les PME.
-- *Axe 4 — Management Équipe Terrain (15 %)* : **92 / 100** (poids : 13,80). Leadership entraînant et structuré : simulations hebdomadaires, débriefings quotidiens et accompagnement direct des prospecteurs de Niveau 4.
-- *Axe 5 — Conformité & Zéro Bakchich (15 %)* : **82 / 100** (poids : 12,30). Répudiation de toute commission occulte, mais utilisation d'apporteurs d'affaires formels facturés imposant un suivi de conformité vigilant.
-- **Score global pondéré : 86,4 / 100**. Éligible au regard du seuil de quatre-vingts sur cent.
+À treize heures trente-cinq, alors qu'il quitte le Plateau, Coulibaly accuse réception de tes directives par une note circonstanciée doublée d'un courriel officiel :
+- **Sélection commerciale et vivier d'experts** : Il salue avec enthousiasme le choix de Viviane Tanoh, soulignant que sa réactivité à quarante-cinq jours et son mécanisme de leasing bancaire sont exactement les moteurs dont l'entreprise a besoin pour sécuriser ses premières rentrées de trésorerie sur le segment des PME. Il confirme avoir placé Marc-Antoine Kouadio en tête de liste de réserve, avec un mot courtois saluant son expertise et posant les bases de collaborations ponctuelles sur les dossiers industriels lourds de Vridi.
+- **Bilan de l'équipe de Direction (Niveau 2)** : Coulibaly t'adresse un état des lieux récapitulatif sans équivoque : avec la Direction Générale (Mohamed Coulibaly, mandat signé), la Direction Administrative et Financière (Mariam Brou, contrat signé), la Direction Technique (Éric Koffi Yao, contrat signé) et désormais la Direction Commerciale (Viviane Tanoh, contractualisation lancée pour signature lundi 19 août), **l'ensemble des postes de direction de Niveau 2 est intégralement pourvu**. L'organigramme managérial de tête est au complet pour une entrée en fonction générale au premier octobre.
+- **Déploiement en cascade des Niveaux 3 et 4** : Coulibaly a immédiatement répercuté la consigne à Brou, Yao et Tanoh. Chacun d'eux a reçu mandat de mobiliser ses réseaux pour identifier ses futurs collaborateurs : deux technico-commerciaux et trois prospecteurs juniors pour le pôle commercial ; deux chefs d'équipe photovoltaïques et quatre techniciens monteurs pour le pôle technique ; un comptable junior et le prestataire de sécurité-gardiennage pour le pôle administratif. Les entretiens et signatures interviendront au cours du mois de septembre.
+- **Transmission du RIB officiel SGCI** : Coulibaly t'adresse en pièce jointe l'attestation officielle de la Société Générale Côte d'Ivoire certifiant l'ouverture et l'activation immédiate du compte professionnel de SOLEIL B2B CÔTE D'IVOIRE SASU (compte numéro 0120 4589 7102, IBAN : CI93 CI00 8010 0501 2045 8971 0283, code SWIFT : SGCB CI AB), doté d'une double signature opérationnelle et d'un droit de regard et d'audit distant pour toi.
 
-Le rapport complet formalisant cette analyse comparative est généré et classé sous la référence `documents_william/2041-08-16_Rapport_Evaluation_et_Scoring_Direction_Commerciale.pdf`.
+Coulibaly t'indique enfin qu'il est en route en taxi VTC pour rejoindre la villa duplex des Deux-Plateaux Vallons, où le rendez-vous de signature du bail commercial et l'état des lieux contradictoire sont confirmés pour quatorze heures précises.
 
-Les deux candidats franchissent le seuil éliminatoire de quatre-vingts sur cent et satisfont aux critères d'excellence sur leur cœur de métier. L'arbitrage final repose désormais entre la sécurité technique et institutionnelle de Kouadio sur les grands comptes industriels, et la vélocité commerciale immédiate de Tanoh pour saturer rapidement le carnet de commandes des PME.
+Les pièces officielles transmises sont consultables sous les références [2041-08-16_Courriel_Mohamed_Coulibaly_Accuse_Selection_DC_Bilan_Direction_et_Transmission_RIB.pdf](file:///c:/Users/User/Desktop/simulation-william/courriels/2041-08-16_Courriel_Mohamed_Coulibaly_Accuse_Selection_DC_Bilan_Direction_et_Transmission_RIB.pdf) et [2041-08-16_SGCI_Attestation_Ouverture_Compte_et_RIB_Officiel_Soleil_B2B_CI.pdf](file:///c:/Users/User/Desktop/simulation-william/courriels/2041-08-16_SGCI_Attestation_Ouverture_Compte_et_RIB_Officiel_Soleil_B2B_CI.pdf).
 
 ---
 
 ### Réponses attendues
-- **Choix du candidat et message à Mohamed Coulibaly** : maintenant que l'évaluation objective est posée, quel candidat sélectionnes-tu pour prendre la Direction Commerciale (Marc-Antoine Kouadio avec 84,7/100 ou Viviane Tanoh avec 86,4/100), et quel message ou instruction transmets-tu à Coulibaly pour lui annoncer ton arbitrage et lancer la contractualisation ?
+- **Virement du compte courant d'associé (CCA)** : maintenant que le relevé d'identité bancaire officiel de SOLEIL B2B CI à la SGCI est entre tes mains, souhaites-tu exécuter immédiatement depuis ton interface Spuerkeess S-Net le virement de démarrage de huit mille euros (cinq millions deux cent cinquante mille francs CFA) ?
+- **Signature du bail de 14h00** : Mohamed Coulibaly entre en séance de signature et d'état des lieux à quatorze heures à la villa des Vallons ; souhaites-tu lui adresser une consigne de dernière minute ou le laisser opérer en totale autonomie ?
 
 ### À faire / à fournir avant le tour suivant
-- Notifier officiellement à Coulibaly ton choix pour la Direction Commerciale.
-- Réception de l'attestation de RIB officiel de la SGCI par Mohamed Coulibaly (promise vers 13h30).
-- Exécution de ton virement d'associé de huit mille euros (5,25 millions FCFA) sur S-Net dès réception du RIB.
-- Signature du bail commercial de la villa des Vallons à 14h00 par Mohamed Coulibaly.
+- Valider l'ordre de virement de huit mille euros vers le compte SGCI de SOLEIL B2B CI.
+- Dépouillement du compte-rendu de signature du bail commercial et de remise des clés par Mohamed Coulibaly (attendu vers quinze heures trente).
 
 ### Quêtes secondaires
 - Fatoumata Gnagne : aucun échange depuis ton message d'hier soir.

@@ -32,6 +32,8 @@
 - Secret : fume en cachette alors qu'il dit avoir arrêté (gravité 1).
 
 ## Lien avec William
-- Contexte : candidat_annonce_abidjan ; rôle : candidat Direction Commerciale.
+- Contexte : candidat_annonce_abidjan ; rôle : candidat Direction Commerciale / vivier d'experts grands comptes.
 - Candidature transmise par Mohamed Coulibaly le 16/08/2041 avec réponses à la grille en 5 questions.
+- 16/08/2041, 13h00 : Évaluation et scoring objectif (84,7/100, éligible) ; contact conservé en shortlist prioritaire par William pour des missions d'expertise et dimensionnement anti-délestage ponctuelles.
+
 

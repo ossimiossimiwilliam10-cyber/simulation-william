@@ -32,6 +32,8 @@
 - Secret : consulte un psychologue (gravité 1).
 
 ## Lien avec William
-- Contexte : candidat_annonce_abidjan ; rôle : candidate Direction Commerciale.
+- Contexte : candidat_annonce_abidjan ; rôle : Directrice Commerciale sélectionnée (Niveau 2).
 - Candidature transmise par Mohamed Coulibaly le 16/08/2041 avec réponses à la grille en 5 questions.
+- 16/08/2041, 13h00 : Évaluation et scoring objectif (86,4/100, 1ère place) ; sélectionnée par William Ossimi comme Directrice Commerciale de SOLEIL B2B CI ; prise de fonction au 1er octobre 2041.
+
 

@@ -95,3 +95,4 @@ def generer_rapport_scoring_dc():
 
 if __name__ == "__main__":
     generer_rapport_scoring_dc()
+

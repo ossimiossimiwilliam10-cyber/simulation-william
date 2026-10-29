@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 29/10/2026 10:46 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 29/10/2026 10:56 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : vendredi 16/08/2041 13:00 (abidjan, UTC+0)
+## Horloge : vendredi 16/08/2041 13:45 (abidjan, UTC+0)
 - **Lieu de William** : Abidjan (Cocody Deux-Plateaux), residence hoteliere
-- **Heure dans les autres lieux** : lisbonne 14:00 ; luxembourg 15:00 ; mindelo 12:00 ; casablanca 14:00 ; douala 14:00 ; addis 16:00 ; manille 21:00 ; paris 15:00 ; seoul 22:00 ; bresil 10:00
+- **Heure dans les autres lieux** : lisbonne 14:45 ; luxembourg 15:45 ; mindelo 12:45 ; casablanca 14:45 ; douala 14:45 ; addis 16:45 ; manille 21:45 ; paris 15:45 ; seoul 22:45 ; bresil 10:45
 - **En attente de William** :
-  - Choix DC (Kouadio vs Tanoh) a notifier a Coulibaly ; RIB SGCI a 13h30 pour virement CCA ; signature bail Vallons a 14h00
+  - Validation virement CCA 8 000 € via RIB SGCI ; signature bail villa Vallons a 14h00 par Coulibaly
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 243,99 €**
@@ -34,9 +34,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-08-16.md, 6 dernières lignes)
-> - Tirages du tour : T14 → message_routine (48,18) ; T10 → rapide (30,75).
-> - Tour en cours à 11h00, en attente de William : **Dossiers DC (Kouadio + Tanoh) recus a midi ; RIB SOLEIL B2B CI en attente pour virement CCA ; bail villa Vallons a 14h00**.
 > - **12h15-12h15** (tour n° 94) : voir le texte exact du tour (journal/tours/).
 > - Tour en cours à 12h15, en attente de William : **Scoring grille 5 questions pour Marc-Antoine Kouadio et Viviane Tanoh ; RIB SGCI a 13h30 pour virement CCA ; signature bail Vallons a 14h00**.
 > - **13h00-13h00** (tour n° 95) : voir le texte exact du tour (journal/tours/).
 > - Tour en cours à 13h00, en attente de William : **Choix DC (Kouadio vs Tanoh) a notifier a Coulibaly ; RIB SGCI a 13h30 pour virement CCA ; signature bail Vallons a 14h00**.
+> - **13h45-13h45** (tour n° 96) : voir le texte exact du tour (journal/tours/).
+> - Tour en cours à 13h45, en attente de William : **Validation virement CCA 8 000 € via RIB SGCI ; signature bail villa Vallons a 14h00 par Coulibaly**.
