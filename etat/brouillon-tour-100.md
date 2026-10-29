@@ -35,3 +35,4 @@ Durant trois quarts d'heure supplémentaires, tu arpentes la villa dans le calme
 - Préparation de l'intégration des clauses de caution et de télécoupure dans les maquettes contractuelles de la Direction Commerciale.
 
 Que veux-tu faire ?
+

@@ -135,3 +135,4 @@ def generer_rapport_inspection_villa():
 if __name__ == "__main__":
     generer_courriel_coulibaly_verrous()
     generer_rapport_inspection_villa()
+
