@@ -4467,3 +4467,7 @@ Effets à jouer : A19 (dimanche 25/08 (soir)) : Un adulte attrape 2 à 4 rhumes 
 - Tirage [T10] « Mohamed Coulibaly : délai (réponse sur la signature de Viviane Tanoh) » : immediat 11 / rapide 26 / dans_l_heure 15 / dans_la_journee 19 / le_soir_ou_lendemain 25 / plus_tard_ou_jamais 4 ; modificateurs : M70, M73 ; jet   7.1 → **immediat** (enregistré le 29/10/2026 19:55 heure machine)
 
 - Tirage [T10] « Mohamed Coulibaly : délai (compte rendu du dépouillement des devis d'aménagement à William (direction@)) » : immediat 11 / rapide 26 / dans_l_heure 15 / dans_la_journee 19 / le_soir_ou_lendemain 25 / plus_tard_ou_jamais 4 ; modificateurs : M70, M73 ; jet   3.4 → **immediat** (enregistré le 29/10/2026 19:59 heure machine)
+
+- Tirage [T7c] « Coulibaly reçoit de direction@ (signé William Ossimi) l'ordre de n'engager aucune commande ni acompte d'aménagement avant l'accord écrit du bailleur, et de solliciter cet accord (21/08/2041 20h15) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  75.2 → **execute_a_contrecoeur** (enregistré le 29/10/2026 20:05 heure machine)
+
+- Tirage [T10] « Mohamed Coulibaly : délai (accuse réception de l'interdiction de commande avant accord du bailleur) » : immediat 19 / rapide 33 / dans_l_heure 15 / dans_la_journee 14 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 4 ; modificateurs : M73 ; jet  65.4 → **dans_l_heure** (enregistré le 29/10/2026 20:05 heure machine)

@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 29/10/2026 20:00 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 29/10/2026 20:06 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mercredi 21/08/2041 20:00 (abidjan, UTC+0)
+## Horloge : mercredi 21/08/2041 21:00 (abidjan, UTC+0)
 - **Lieu de William** : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-- **Heure dans les autres lieux** : lisbonne 21:00 ; luxembourg 22:00 ; mindelo 19:00 ; casablanca 21:00 ; douala 21:00 ; addis 23:00 ; manille 04:00 ; paris 22:00 ; seoul 05:00 ; bresil 17:00
+- **Heure dans les autres lieux** : lisbonne 22:00 ; luxembourg 23:00 ; mindelo 20:00 ; casablanca 22:00 ; douala 22:00 ; addis 00:00 ; manille 05:00 ; paris 23:00 ; seoul 06:00 ; bresil 18:00
 - **En attente de William** :
-  - Deux décisions du rapport de 20h00 (accord écrit du bailleur avant commande ; calendrier de la première tranche)
+  - Validation du calendrier de la première tranche (20 000 € le 26/08, 40 000 € le 25/09)
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 268,29 €**
@@ -38,9 +38,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-08-21.md, 6 dernières lignes)
-> - **08h49-08h57** (tour n° 124) : Décision de William : tous les courriels de l'application partent désormais de direction@soleil-b2b.ci ; adresse du projet fermée (redirection 30 jours). Le DGV demande la signature (William Ossimi ou La Direction). CLAUDE.md §14 mis à jour et synchronisé. Note : la réponse de Coulibaly sur Viviane Tanoh (A126, 17h10) arrivera sur direction@.
-> - Tirages du tour : T7c Mohamed → execute_sans_discuter (5,93) ; T10 Mohamed → immediat (7,09).
-> - Tour en cours à 08h57, en attente de William : **Signature des courriels envoyés depuis direction@ à choisir ; réponse de Coulibaly sur Viviane Tanoh ; dépouillement 16h00 ; rapport 20h00**.
 > - **08h57-20h00** (tour n° 125) : Signature « William Ossimi » choisie. Déjeuner room service (19,06 €). Coulibaly (A126, 17h10) : signature de Viviane Tanoh reportée au 23/08 10h00 (préavis), A127. Dépouillement (A117) : compte rendu à 17h23 (D039, PDF courriels) : Froid Lagune Services 6,92 M FCFA proposé, accord écrit du bailleur non demandé (art. 7) ; front H003 palier 1. Rapport de 20h00 : de
 > - Tirages du tour : T10 Mohamed → immediat (3,38).
 > - Tour en cours à 20h00, en attente de William : **Deux décisions du rapport de 20h00 (accord écrit du bailleur avant commande ; calendrier de la première tranche)**.
+> - **20h00-21h00** (tour n° 126) : Remarque de William : Coulibaly n'avait pas signalé lundi la non-signature de Viviane Tanoh (vérifié : rien lundi) ; notée dans l'évaluation du DG réel. Règle durable : le conseiller d'abord (préférences + CLAUDE §14). Décision 1 : courriel à Coulibaly 20h15 (aucune commande avant accord écrit du bailleur) ; T7c execute_a_contrecoeur : accusé à 20h58, prix de Froi
+> - Tirages du tour : T7c Mohamed → execute_a_contrecoeur (75,18) ; T10 Mohamed → dans_l_heure (65,45).
+> - Tour en cours à 21h00, en attente de William : **Validation du calendrier de la première tranche (20 000 € le 26/08, 40 000 € le 25/09)**.
