@@ -694,3 +694,25 @@ DÉCISIONS À PRENDRE
 POUR INFORMATION
 - Mercredi 25 septembre : ton versement de 40 000 €. Trésorerie de la société avant ce versement : environ 12,7 millions de FCFA.
 - Veille « faute lourde » : rien à signaler.
+**[22/09/2041 - 09:08 (Luxembourg)] William :** Pour l'assurance et le cabinet comptable, c'est la première fois que je fais ça : je te laisse choisir et informer Coulibaly. Fais un choix vraiment logique, dans l'intérêt de l'entreprise. Et demande à Coulibaly d'organiser une réunion de toute l'équipe le 1er octobre, puisque tout le monde prend ses fonctions ce jour-là : situation de l'entreprise, consignes, surtout pour la direction commerciale. Il nous faut des clients.
+**[22/09/2041 - 09:12 (Luxembourg)] Agent central :** Reçu à 09h12. Mes deux choix, et pourquoi :
+1. Assurance : celle à 820 000 FCFA par an. 60 000 FCFA de plus par an, environ 90 €, pour une franchise plus basse, alors que la villa va recevoir huit climatiseurs, de l'informatique et du mobilier. Un seul sinistre rembourserait la différence de vingt ans.
+2. Cabinet comptable : celui à 180 000 FCFA par mois, paie comprise. Avec quatre salaires dès octobre, la paie seule, ailleurs, coûterait au moins la différence, et une erreur de déclaration CNPS ou d'impôt sur salaires coûte plus cher qu'un mois d'honoraires.
+Coulibaly reçoit les deux choix demain matin, avec ta demande de réunion : mardi 1er octobre, en visioconférence, à 15h30 à Abidjan, soit 17h30 pour toi, après tes cours. Ordre du jour : situation de l'entreprise, trésorerie, rôle de chacun, comptes rendus, et objectifs commerciaux (trente cibles, premiers rendez-vous, deux contrats au premier trimestre). Je te prépare tes notes pour la réunion.
+**[29/09/2041 - 08:55 (Luxembourg)] Agent central :** Séance du dimanche 29 septembre 2041, 09h00. Ordre du jour.
+
+BILAN DE LA SEMAINE (23 au 29 septembre)
+- Ton versement de 40 000 € : parti mercredi de ton épargne, crédité vendredi. Ton épargne Projet est à 6 786 €.
+- CIE et SODECI : compteurs posés mardi, contrats actifs. Dossier clos.
+- Prospection : Coulibaly a atteint ses trente cibles et trois rendez-vous, dont l'usine d'emballage de Vridi le jeudi 3 octobre. Dans son compte rendu de vendredi, il signale qu'un des industriels a cité un devis de Lagune Kilowatt « nettement plus bas que le marché ».
+- Coulibaly : gastro jeudi et vendredi ; il a tenu son compte rendu de vendredi depuis chez lui.
+- Assurance et cabinet comptable : contrats en signature pour le 1er octobre.
+- Réunion d'équipe : confirmée mardi 1er octobre, 15h30 à Abidjan (17h30 pour toi), en visioconférence. Tes notes sont dans tes documents.
+- Viviane Tanoh : rétablie ; elle confirme sa prise de fonction mardi.
+
+DÉCISIONS À PRENDRE
+1. Lagune Kilowatt casse ses prix sur les toitures industrielles. Pour la réunion de mardi, quelle consigne donnes-tu à Viviane Tanoh : s'aligner sur les prix, ou vendre autre chose que le prix (garantie de production, maintenance, financement) ?
+
+POUR INFORMATION
+- Trésorerie de la société : environ 39 millions de FCFA après ton versement ; lundi 30, l'indemnité de Coulibaly ; mardi 1er, loyer d'octobre, assurance, informatique et mobilier à suivre.
+- Veille « faute lourde » : rien à signaler.

@@ -33,3 +33,6 @@
 
 ## Revue n° 6 (26/08/2041) : P42 à P44
 - 29/10/2026 : « Je valide P42 à P44 » : rubrique « Rapports archivés » dans Gestion (P42), aléas A40 et A41 actifs (P43, P44).
+
+## Revue n° 7 (16/09/2041) : P45 à P47
+- 29/10/2026 : « Je valide les propositions de P45 à P47 » : calendrier du lycée joué en mode automatique (P45) ; fatigue de rentrée tirée (P46) ; tirage hebdomadaire T15 sur un collègue ou un élève qui évoque l'activité en Côte d'Ivoire (P47).

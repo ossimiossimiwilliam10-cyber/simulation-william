@@ -4775,3 +4775,71 @@ Effets à jouer : A01 (jeudi 19/09 (matin) ; touché : Grace) : (avant : « univ
 - Procédure « William : nuits du 15/09 au 22/09 (semaine de rentrée, lever 06h00-06h30 en semaine) » : 15/09 22:34-06:26 ; 16/09 22:34-06:28 ; 17/09 22:15-06:18 ; 18/09 23:07-06:19 ; 19/09 23:07-06:14 ; 20/09 22:44-06:18 ; 21/09 22:22-07:10 [PROCÉDURE : coucher 22h15-23h15 ; lever de semaine fixé par les cours] (enregistré le 29/10/2026 21:48 heure machine)
 
 - Actualités de la semaine du 16/09/2041 : modèles LU03, LU04, FR01 [PROCÉDURE : outils/actualites.py] (enregistré le 29/10/2026 21:49 heure machine)
+
+## Tirage de la semaine du 2041-09-23
+
+| ID | Événement | Probabilité | Jet (0-100) | Résultat |
+|---|---|---|---|---|
+| A01 | Maladie d'un membre de l'équipe (paludisme, gastro, typhoïde) | 10 % |   5.4 | **DÉCLENCHÉ** — jeudi 26/09 (après-midi) ; touché : Mariette |
+| A02 | Problème de santé d'un proche d'un personnage (ex. mère d'Aïcha, tension) | 8 % |  76.4 | non |
+| A04 | Délestage / coupure d'électricité prolongée | 25 % |  72.0 | non |
+| A05 | Fortes pluies / inondation | 15 % |  42.9 | non |
+| A06 | Retard fournisseur ou douane (NVR, onduleurs, batteries) | 30 % |  48.1 | non |
+| A07 | Panne réseau (fibre, 4G) ou banque en ligne | 15 % |  44.3 | non |
+| A09 | Erreur administrative (virement mal affecté, pièce perdue, nom mal orthographié) | 10 % |  43.2 | non |
+| A12 | Fuite d'information (salaires, avances, statut de William) | 5 % |  14.4 | non |
+| A13 | Opportunité commerciale inattendue (recommandation, appel d'un prospect) | 10 % |  17.4 | non |
+| A17 | William lui-même malade ou épuisé (fatigue, gastro) | 5 % |  68.8 | non |
+| A18 | Incident de transport (taxi, panne, retard) | 15 % |  60.0 | non |
+| A19 | Rhume, angine ou gastro de William | 5 % |  39.8 | non |
+| A20 | Perturbation des trajets frontaliers (bus en retard, A4 ou N4 bouchée, travaux) | 20 % |  39.2 | non |
+| A21 | Panne domestique (chauffe-eau, électroménager, fuite) | 4 % |  67.0 | non |
+| A22 | Courrier administratif (impôts français ou luxembourgeois, CNS, mairie, banque) | 10 % |  57.4 | non |
+| A23 | Tentative d'arnaque (SMS de faux colis, faux conseiller bancaire, faux site) | 15 % |  22.5 | non |
+| A24 | Souci de voisinage (bruit, travaux, haie, stationnement) | 5 % |  50.1 | non |
+| A25 | Blessure légère à l'entraînement (entorse, côte, doigt) | 1 % |  22.4 | non |
+| A26 | Imprévu d'argent (amende, réparation, cadeau, cotisation) | 6 % |  40.8 | non |
+| A27 | Signe d'un ancien (collègue, élève devenu adulte, connaissance) | 8 % |  75.3 | non |
+| A28 | Courriel ou appel du lycée pendant les vacances (réunion de rentrée, ajournements, emploi du temps) | 10 % |  94.9 | non |
+| A29 | Contrôle routier ou radar | 3 % |  73.7 | non |
+| A30 | Occasion inattendue (proposition de cours particuliers, invitation, bon plan) | 8 % |  79.5 | non |
+| A31 | Diarrhée du voyageur ou intoxication alimentaire (à l'étranger) | 12 % |   9.4 | **DÉCLENCHÉ** — dimanche 29/09 (soir) |
+| A35 | Surfacturation ou arnaque visant un touriste (taxi, boutique, bar) | 5 % |   9.9 | non |
+| A36 | Malentendu de langue (adresse mal comprise, commande erronée, document en coréen) | 10 % |  94.1 | non |
+| A37 | Embouteillage, pont saturé ou route coupée à Abidjan (un trajet de William ou de l'équipe prend une à deux heures de plus) | 30 % |  91.8 | non |
+| A38 | Contrôle routier ou guichet : un agent sollicite un « geste » (2 000 à 10 000 FCFA) | 10 % |  92.0 | non |
+| A39 | Paludisme de William (séjour en zone d'endémie) | 0.5 % |  44.6 | non |
+| A40 | Départ d'un directeur pendant sa période d'essai (préavis court, recrutement à refaire) | 5 % |  46.4 | non |
+| A41 | Retard de paiement d'un client (15 à 90 jours) | 30 % |   6.8 | **DÉCLENCHÉ** — samedi 28/09 (matin) |
+
+Effets à jouer : A01 (jeudi 26/09 (après-midi) ; touché : Mariette) : (avant : « univers 1 » → maintenant : actif à Abidjan, P39 validée le 29/10/2026)  Absence de 2 à 5 jours ; qui est touché : tirer parmi les salariés ; saison des pluies = plus fréquent ; A31 (dimanche 29/09 (soir)) : Seulement les jours à l'étranger ; 14 % la première semaine, 10 % ensuite (cohorte de voyageurs en Thaïlande : 14 % à 7 jours, 23,5 % à 14 jours, 33 % à 28 jours) ; 1 à 3 jours diminué ; A41 (samedi 28/09 (matin)) : Dès la première facture de SOLEIL B2B CI ; validé le 29/10/2026 (P44, revue n° 6)
+
+- Tirage [T22] « Front H002 « Abonnements CIE et SODECI de la villa des Vallons » : semaine du 23/09/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  84.3 → **un_segment** (enregistré le 29/10/2026 21:56 heure machine)
+
+- Tirage [T22] « Front H004 « Lagune Kilowatt réagit à l'arrivée de SOLEIL B2B CI » : semaine du 23/09/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  80.3 → **un_segment** (enregistré le 29/10/2026 21:56 heure machine)
+
+- Tirage [T22] « Front H005 « Comoé Solaire Services tente de débaucher l'équipe » : semaine du 23/09/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet   2.1 → **zero_segment** (enregistré le 29/10/2026 21:56 heure machine)
+
+- Tirage [T22] « Front H006 « Ébène Watt casse les prix chez les petits clients » : semaine du 23/09/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  24.7 → **zero_segment** (enregistré le 29/10/2026 21:56 heure machine)
+
+- Tirage [T15] « P47 : un collègue évoque-t-il l'activité de William en Côte d'Ivoire cette semaine (23-27/09) ? (Sam Ries, collègue de maths, jaloux du succès des autres) » : rien_laisse_passer 30 / accepte_volontiers 18 / garde_distance 14 / en_parle_a_d_autres 12 / rend_la_pareille 10 / demande_explication 8 / decline 6 / frontal_conflit 2 ; modificateurs : aucun ; jet  70.6 → **en_parle_a_d_autres** (enregistré le 29/10/2026 21:56 heure machine)
+
+- Procédure « Aléa A01 (jeudi 26/09) : membre de l'équipe touché » : Mohamed Coulibaly [PROCÉDURE : tirage uniforme parmi les quatre dirigeants] (enregistré le 29/10/2026 21:56 heure machine)
+
+- Jet « Mohamed Coulibaly tient sa promesse : atteint 30 cibles et 3 rendez-vous de prospection avant le 30/09 » : probabilité 90 %, jet  37.5 → **OUI** [PROCÉDURE : fiabilité tirée du personnage (lenteur.py)] (enregistré le 29/10/2026 21:56 heure machine)
+
+- Jet « Mohamed Coulibaly tient sa promesse : paie l'indemnité et reçoit le versement de 40 000 € sans incident (fin septembre) » : probabilité 90 %, jet  20.6 → **OUI** [PROCÉDURE : fiabilité tirée du personnage (lenteur.py)] (enregistré le 29/10/2026 21:56 heure machine)
+
+- Jet « Mohamed Coulibaly tient sa promesse : organise la réunion d'équipe du 01/10 demandée par William » : probabilité 90 %, jet  67.1 → **OUI** [PROCÉDURE : fiabilité tirée du personnage (lenteur.py)] (enregistré le 29/10/2026 21:56 heure machine)
+
+- Tirage [T4] « affaire_projet_ci_annonce : escalade externe, semaine du 23/09 » : aucune 99.7 / frontal_escalade 0.3 ; modificateurs : aucun ; jet  63.6 → **aucune** (enregistré le 29/10/2026 21:56 heure machine)
+
+- Tirage [T5] « affaire_projet_ci_annonce : fuite, semaine du 23/09 » : fuite_externe 14 / fuite_interne 40 / aucune 46 ; modificateurs : aucun ; jet  55.2 → **aucune** (enregistré le 29/10/2026 21:56 heure machine)
+
+- Tirage [T4] « affaire_projet_ci_art14 : escalade externe, semaine du 23/09 » : aucune 99.7 / frontal_escalade 0.3 ; modificateurs : aucun ; jet  86.1 → **aucune** (enregistré le 29/10/2026 21:56 heure machine)
+
+- Tirage [T5] « affaire_projet_ci_art14 : fuite, semaine du 23/09 » : fuite_externe 2 / fuite_interne 6 / aucune 92 ; modificateurs : aucun ; jet  44.6 → **aucune** (enregistré le 29/10/2026 21:56 heure machine)
+
+- Procédure « William : nuits du 22/09 au 29/09 (fatigue de rentrée, P46 : coucher plus tardif, lever 06h00-06h20) » : 22/09 22:52-06:04 ; 23/09 23:20-06:18 ; 24/09 22:31-06:01 ; 25/09 23:17-06:00 ; 26/09 23:23-06:20 ; 27/09 22:34-07:14 ; 28/09 23:12-07:27 [PROCÉDURE : coucher 22h30-23h45 ; P46 : sommeil un peu court en semaine] (enregistré le 29/10/2026 21:57 heure machine)
+
+- Actualités de la semaine du 23/09/2041 : modèles LU01, LU03, FR01 [PROCÉDURE : outils/actualites.py] (enregistré le 29/10/2026 21:58 heure machine)

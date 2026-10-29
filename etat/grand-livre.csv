@@ -117,3 +117,7 @@ date;heure;compte;montant;type;libelle;reference
 2041-11-04;08:00;courant;-5000.00;prevu;Virement permanent vers SOLEIL B2B CI (SGCI Plateau) : apport mensuel en compte courant d'associé;E017-20411104
 2041-09-12;18:30;courant;-94.10;mouvement;Visa Debit : Supermarché (Audun-le-Tiche) : courses de la semaine;K033
 2041-09-19;18:45;courant;-97.30;mouvement;Visa Debit : Supermarché (Audun-le-Tiche) : courses de la semaine;K034
+2041-09-25;07:30;projet;-40000.00;mouvement;Virement interne vers compte courant (première tranche, versement 2);VIR-INT-20410925-01
+2041-09-25;07:30;courant;40000.00;mouvement;Virement interne depuis compte épargne projet (première tranche, versement 2);VIR-INT-20410925-01
+2041-09-25;07:32;courant;-40000.00;mouvement;Virement apport SOLEIL B2B CI (SGCI Plateau) : première tranche, versement 2 (26 238 280 FCFA);TR1-20410925-02
+2041-09-26;18:40;courant;-99.60;mouvement;Visa Debit : Supermarché (Audun-le-Tiche) : courses de la semaine;K035
