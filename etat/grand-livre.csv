@@ -97,3 +97,6 @@ date;heure;compte;montant;type;libelle;reference
 2041-08-16;15:50;projet;-8000.00;mouvement;Virement interne vers compte courant (reconstitution liquidite);VIR-INT-20410816-01
 2041-08-16;15:50;courant;8000.00;mouvement;Virement interne depuis compte epargne projet (reconstitution liquidite);VIR-INT-20410816-01
 2041-08-16;12:34;courant;24.30;mouvement;Correction : abonnement à l'agent IA inscrit deux fois le 16/08 (échéancier + saisie manuelle), contre-passation (audit U3-19);CORR-E016-20410816
+2041-08-20;10:12;projet;-2683.00;mouvement;Virement interne vers compte courant (complément du dépôt de garantie de la villa des Vallons);VIR-INT-20410820-01
+2041-08-20;10:12;courant;2683.00;mouvement;Virement interne depuis compte épargne projet (complément du dépôt de garantie);VIR-INT-20410820-01
+2041-08-20;10:15;courant;-2683.00;mouvement;Virement prêt associé CCA SOLEIL B2B CI (SGCI Plateau) : complément dépôt de garantie et premier loyer (1 759 933 FCFA);CCA-20410820-02

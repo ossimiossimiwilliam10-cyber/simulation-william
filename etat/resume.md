@@ -1,18 +1,18 @@
-# Résumé d'état (généré le 29/10/2026 19:13 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 29/10/2026 19:20 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mardi 20/08/2041 10:06 (abidjan, UTC+0)
-- **Lieu de William** : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-- **Heure dans les autres lieux** : lisbonne 11:06 ; luxembourg 12:06 ; mindelo 09:06 ; casablanca 11:06 ; douala 11:06 ; addis 13:06 ; manille 18:06 ; paris 12:06 ; seoul 19:06 ; bresil 07:06
+## Horloge : mardi 20/08/2041 10:47 (abidjan, UTC+0)
+- **Lieu de William** : Abidjan (Cocody Riviera Palmeraie), centre commercial Playce, boutique de sport
+- **Heure dans les autres lieux** : lisbonne 11:47 ; luxembourg 12:47 ; mindelo 09:47 ; casablanca 11:47 ; douala 11:47 ; addis 13:47 ; manille 18:47 ; paris 12:47 ; seoul 19:47 ; bresil 07:47
 - **En attente de William** :
-  - Choix d'option du règlement (complément ≈ 1,76 M FCFA ou nouvel apport de 7 M FCFA), virement par William sur S-Net ; maillot de Lenny à acheter ; rapport 20h00
+  - Le vendeur attend : maillot officiel des Éléphants XL à 81 000 FCFA ; rapport 20h00
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 268,29 €**
-- Compte épargne (Spuerkeess) : **67 982,00 €**
+- Compte épargne (Spuerkeess) : **65 299,00 €**
 - ETF (valeur de marché : calages seulement) : **676 135,00 €**
 - Prêt logement : solde restant dû (passif, déjà déduit de la part de maison) : **101 994,94 €**
 - Part nette de la maison d'Audun-le-Tiche : **98 005,06 €**
-- Patrimoine net de William : **850 390,35 €**
+- Patrimoine net de William : **847 707,35 €**
 - Prévu dans les 14 jours : 30/08 Traitement mensuel de William (9 320,00 €) ; 02/09 Minett Combat Club (-85,00 €) ; 02/09 Package bancaire Zebra Premium (-12,83 €) ; 02/09 Virement permanent vers le compte épargne (-732,00 €) ; 02/09 Virement permanent vers le compte épargne (732,00 €) ; 02/09 Virement permanent vers le compte-titres ETF (-5 755,00 €) ; 02/09 Virement permanent vers le compte-titres ETF (5 755,00 €)
 
 ## Agenda : dans les 24 heures (1)
@@ -39,9 +39,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-08-20.md, 6 dernières lignes)
-> - **00h00-09h55** (tour n° 114) : Avance rapide : nuit (coucher 00h11, lever 07h51). Lenny donne sa taille (XL, A119). Coulibaly tient sa promesse (90 %) : William inscrit à l'agence de gardiennage, photo demandée ; T7c execute_partiellement sur les demandes du DGV : montant donné (7 M FCFA : dépôt 5,25 M + premier loyer 1,75 M au 01/09), copie du bail non envoyée, prolongation renvoyée à jeudi (A
-> - Tirages du tour : jet « Mohamed Coulibaly tient sa promesse : passe à l'agence de ga » → OUI (10,34) ; T7c Mohamed → execute_partiellement (95,98) ; T10 Mohamed → rapide (39,57) ; procédure : coucher 00:11, lever 07:51 ; procédure : 09:55.
-> - Tour en cours à 09h55, en attente de William : **Coulibaly demande une photo de William pour le cahier du poste ; annonce 7 M FCFA à régler au bailleur ; copie du bail à venir ; prolongation du gardiennage d'ici jeudi ; rapport final 20h00**.
 > - **09h55-10h06** (tour n° 115) : Photo envoyée à Coulibaly (accusé caché à 17h14, A122). William demande au DGV d'enclencher le règlement de 7 M FCFA : le DGV demande l'option (complément ≈ 1,76 M FCFA = 2 683 € ou nouvel apport 7 M = 10 671,46 €, courant 8 268,29 €), virement à faire par William sur S-Net ; copie du bail toujours absente. Maillot : William ira l'acheter après (décision en attent
 > - Tirages du tour : jet « Mohamed Coulibaly tient sa promesse : passe à l'agence de ga » → OUI (10,34) ; T7c Mohamed → execute_partiellement (95,98) ; T10 Mohamed → rapide (39,57) ; procédure : coucher 00:11, lever 07:51 ; procédure : 09:55 ; T10 Mohamed → dans_la_journee (69,1).
 > - Tour en cours à 10h06, en attente de William : **Choix d'option du règlement (complément ≈ 1,76 M FCFA ou nouvel apport de 7 M FCFA), virement par William sur S-Net ; maillot de Lenny à acheter ; rapport 20h00**.
+> - **10h06-10h47** (tour n° 116) : Option A : virement interne épargne → courant 2 683 € (10h12) puis SWIFT CCA 2 683 € vers SGCI (10h15, CCA-20410820-02, crédit attendu ~22/08) ; DGV écrit à Coulibaly (10h19). Yango vers Playce Palmeraie (T24b arrive, Fabrice Goulizan, 2 405 FCFA sur la note). Boutique : Landry Konan (tiré) propose le maillot officiel XL à 81 000 FCFA (PX066 ; copies 13 500 FCFA, 
+> - Tirages du tour : T24b → arrive (39,16).
+> - Tour en cours à 10h47, en attente de William : **Le vendeur attend : maillot officiel des Éléphants XL à 81 000 FCFA ; rapport 20h00**.

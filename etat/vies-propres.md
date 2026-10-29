@@ -379,3 +379,17 @@
 - **Secret (moteur seulement)** : a un problème d'alcool qu'il cache (gravité 2)
 - **Horaires** : règle « bureau », fuseau abidjan, décalage +14 min ; travail 09:14-17:44 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:44-07:14
 - **Derniers événements** : —
+
+### Fabrice Goulizan (chauffeur Yango (résidence → Playce Palmeraie))
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : acheter un logement (ou un plus grand) ; **souci** : voiture qui lâche, pas d'argent pour la remplacer ; **foyer** : parent isolé
+- **Secret (moteur seulement)** : fume en cachette alors qu'il dit avoir arrêté (gravité 1)
+- **Horaires** : règle « chauffeur », fuseau abidjan, décalage -8 min ; travail 05:52-17:52 (lun, mar, mer, jeu, ven, sam), trajet 20 min ; sommeil 21:52-04:52
+- **Derniers événements** : —
+
+### Landry Konan (vendeur de la boutique de sport du Playce Palmeraie)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : acheter un logement (ou un plus grand) ; **souci** : insomnies ; **foyer** : en couple, sans enfant
+- **Secret (moteur seulement)** : a gonflé son expérience ou son diplôme sur son CV (gravité 2)
+- **Horaires** : règle « commerce_abidjan », fuseau abidjan, décalage -7 min ; travail 08:23-18:53 (mar, mer, jeu, ven, sam, dim), trajet 30 min ; sommeil 22:53-05:53
+- **Derniers événements** : —

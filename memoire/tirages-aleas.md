@@ -4443,3 +4443,5 @@ Effets à jouer : A19 (dimanche 25/08 (soir)) : Un adulte attrape 2 à 4 rhumes 
 - Procédure « Mohamed Coulibaly : heure du compte rendu à William (T10 rapide) » : 09:55 [PROCÉDURE : T10 rapide : 5 à 30 min après la sortie de l'agence vers 09h50] (enregistré le 29/10/2026 19:05 heure machine)
 
 - Tirage [T10] « Mohamed Coulibaly : délai (accuse réception de la photo, transmise à l'agence) » : immediat 11 / rapide 26 / dans_l_heure 15 / dans_la_journee 19 / le_soir_ou_lendemain 25 / plus_tard_ou_jamais 4 ; modificateurs : M70, M73 ; jet  69.1 → **dans_la_journee** (enregistré le 29/10/2026 19:12 heure machine)
+
+- Tirage [T24b] « Chauffeur Yango commandé par la réception (résidence → Playce Palmeraie, 20/08/2041 10h25) » : arrive 90 / annule 10 ; modificateurs : aucun ; jet  39.2 → **arrive** (enregistré le 29/10/2026 19:18 heure machine)

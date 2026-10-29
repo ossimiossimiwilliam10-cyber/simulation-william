@@ -43,3 +43,4 @@
 | 20/08/2041 10h01 (Abidjan) | Message WhatsApp à Mohamed Coulibaly : « [Photo] Voici ma photo pour le cahier du poste. » | conversation WhatsApp | Mohamed Coulibaly (captures possibles) | faible |
 | 20/08/2041 10h03 (Abidjan) | Message WhatsApp à Agent central : « J'enclenche le règlement des 7 millions de FCFA pour le dépôt de garantie et le premier loyer de la villa. Contacte Coulibaly comme d'habitude. » | conversation WhatsApp | Agent central (captures possibles) | faible |
 | 20/08/2041 10:01 | William envoie sa photo à Mohamed Coulibaly pour le cahier du poste de garde de la villa (transmise à l agence de gardiennage du bailleur) | photo | Mohamed Coulibaly | faible |
+| 20/08/2041 10h16 (Abidjan) | Message WhatsApp à Agent central : « Option A. Je fais le virement du complément depuis mon épargne. » | conversation WhatsApp | Agent central (captures possibles) | faible |

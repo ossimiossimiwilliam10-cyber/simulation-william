@@ -1,41 +1,47 @@
 # Dernier tour montré au joueur
 
-> Tour n° 115 ; horloge 20/08/2041 09:55 -> 20/08/2041 10:06 ; enregistré le 29/10/2026 19:13 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 116 ; horloge 20/08/2041 10:06 -> 20/08/2041 10:47 ; enregistré le 29/10/2026 19:20 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Alors, du coup, j'envoie la photo à Koulibaly. Et j'enclenche, du coup, le dépôt de 7 millions de francs CFA équivalents pour le, voilà, quoi, pour le règlement. Donc, je passe par l'équipe virtuelle hein, pour qu'elle puisse contacter Koulibaly, comme d'habitude. Hein. Et ensuite, bah, j'irai acheter le maillot taille XL pour Guyenne.
+> Dans ce cas, parce que je crois que le montant qui est actuellement dans le compte de la société, c'était pour autre chose, je pense bien. Mais après, c'est pas non plus une bonne idée de tout confier comme ça dans la société, alors que la société n'a même pas, voilà, n'a même pas un mois. Donc, je pars sur l'option A, on va juste compléter avec un complément d'environ, 2683 €. Et du coup, ce montant va venir de mon épargne, du coup. Donc, j'effectue ce virement. Donc, c'est à partir de mon épargne, pas de mon compte courant. Après que ça s'est réglé, bah, je vais aller acheter le maillot de Guyane.
 
 ## Texte envoyé au joueur
 
-**MARDI 20 AOÛT 2041 — 10h06 — Abidjan, Cocody Deux-Plateaux, résidence hôtelière**
+**MARDI 20 AOÛT 2041 — 10h47 — Abidjan, Cocody Riviera Palmeraie, centre commercial Playce**
 
-Tu envoies ta photo à Mohamed Coulibaly à 10h01 : « Voici ma photo pour le cahier du poste. » Les deux coches apparaissent, il ne répond pas tout de suite.
+Tu ouvres S-Net. Il faut d'abord passer par ton compte courant : à 10h12, tu vires 2 683 € de ton épargne Projet vers le courant, puis, à 10h15, tu ordonnes le virement international de 2 683 € vers le compte SOLEIL B2B CI à la SGCI du Plateau, en apport en compte courant d'associé. L'application affiche « ordre transmis », sans date de crédit. Ton courant revient à 8 268,29 € ; l'épargne Projet passe à 65 299 €.
 
-Puis tu écris à ton directeur général virtuel : tu enclenches le règlement des 7 millions de FCFA pour le dépôt de garantie et le premier loyer de la villa, et il doit contacter Coulibaly comme d'habitude.
+Tu écris à ton directeur général virtuel : « Option A. Je fais le virement du complément depuis mon épargne. » Réponse à 10h19 :
 
-La réponse arrive à 10h06 :
+« Reçu à 10h16. Courriel envoyé à Mohamed Coulibaly : complément de 2 683 € ordonné ce matin depuis ton S-Net, soit environ 1 759 933 FCFA, crédit attendu sur le compte SGCI sous un à trois jours ouvrés ; dépôt de garantie à régler dès compensation, premier loyer au 1er septembre ; reçu du bailleur et copie du bail demandés en retour. Suivi au rapport de 20h00. »
 
-« Reçu à 10h03. Avant d'écrire à Coulibaly, un point de montant. Le compte de la société a déjà 5 247 656 FCFA de ton premier apport : il manque 2 344 FCFA pour le dépôt de garantie (5 250 000 FCFA), plus les frais bancaires, puis 1 750 000 FCFA pour le premier loyer, dû le 1er septembre. Deux possibilités : (a) un complément d'environ 1 760 000 FCFA, soit 2 683 € ; (b) un nouvel apport de 7 000 000 FCFA, soit 10 671,46 €, qui laisserait environ 5,25 millions de FCFA de marge sur le compte de la société. Ton compte courant est à 8 268,29 € : l'option b demande d'abord un virement depuis ton épargne Projet. Dans les deux cas, le virement part de ton S-Net, je ne peux pas l'exécuter à ta place. La copie du bail n'est toujours pas arrivée. Quelle option ? »
+La réception te commande un Yango pour la Riviera Palmeraie. À 10h27, une Kia Rio rouge s'arrête devant l'entrée. Le chauffeur, la quarantaine, est grand, autour d'un mètre quatre-vingt-deux, de corpulence moyenne, les épaules un peu voûtées pour tenir dans la petite voiture. Il a un visage long et anguleux, la peau d'un brun noir mat, des lunettes à grosse monture d'écaille, un regard qui va sans cesse du rétroviseur à toi, une bouche toujours prête à sourire. Ses cheveux sont ras, avec une raie tracée à la tondeuse sur le côté. Chemise bleu clair, manches retroussées, jean, baskets blanches. Il parle tout le trajet : des travaux sur la route de la Riviera, du prix des loyers à Cocody, de son fils qui passe le BAC l'année prochaine et dont il s'inquiète déjà. Treize minutes, et 2 405 FCFA de plus sur ta note.
 
-Dans le couloir, un chariot de ménage passe en grinçant ; quelqu'un frappe à la porte d'à côté en annonçant « Housekeeping ! ».
+Le centre commercial sent le pain chaud du supermarché et le désodorisant des galeries climatisées. La boutique de sport est au premier étage, entre une pharmacie et un vendeur de téléphones. Un mur entier est orange, blanc et vert.
 
-Il est 10h06.
+Le vendeur te rejoint devant le portant. Il a environ vingt-six ans, mesure à peu près un mètre soixante-quatre, de corpulence moyenne. Visage étroit, la peau brun foncé, une fine cicatrice claire qui barre son sourcil gauche, des yeux attentifs, une bouche sérieuse. Ses cheveux sont coupés court, en petites vagues brossées. Il porte le polo noir du magasin, un pantalon chino gris et des baskets propres.
+
+« Le domicile, en XL ? Il m'en reste deux. » Il décroche le maillot orange, l'étiquette de l'équipementier pendue au col. « Quatre-vingt-un mille. » Il voit ton regard sur l'étiquette et ajoute, sans baisser la voix : « Dehors, à Adjamé, vous en trouvez à treize, quinze mille. Mais c'est pas le même tissu, et la douane en saisit tous les mois. »
+
+Il tient le maillot sur son avant-bras et attend.
+
+Il est 10h47.
 
 ---
 
 **Réponses attendues**
-- **Directeur général virtuel** : quelle option pour le règlement, (a) un complément d'environ 1 760 000 FCFA (2 683 €) ou (b) un nouvel apport de 7 000 000 FCFA (10 671,46 €) ? Le virement se fait depuis ton S-Net.
-- **Mohamed Coulibaly** : il a reçu ta photo, pas encore de réponse.
+- **Le vendeur** : le maillot officiel des Éléphants, domicile, taille XL, coûte 81 000 FCFA (environ 123 €).
 
 **À faire / à fournir avant le tour suivant**
-- Ton choix d'option, puis le virement depuis S-Net (et, pour l'option b, un virement préalable depuis ton épargne Projet).
+- Aucune démarche en cours.
 
 **Quêtes secondaires**
-- Maillot des Éléphants pour Lenny, taille XL, à acheter avant ton départ.
+- Complément de 2 683 € en route vers le compte de la société : crédit attendu sous un à trois jours ouvrés ; Coulibaly doit transmettre le reçu du bailleur et la copie du bail.
+- Mohamed Coulibaly : pas encore de réponse à ta photo.
 - Dépouillement des devis d'aménagement des Vallons : demain, mercredi 21 août à 16h00.
-- Prolongation du gardiennage : réponse de l'agence attendue d'ici jeudi ; copie du bail promise par Coulibaly.
+- Prolongation du gardiennage : réponse de l'agence attendue d'ici jeudi.
 - Départ d'Abidjan le dimanche 25 août : règlement de la résidence à midi (1 690 €, plus les extras portés sur ta note), vol Air France AF703 vers Paris à 22h15.
-- Réouverture du club : lundi 26 août, sparring à 18h00.
+- Rapport du directeur général virtuel ce soir à 20h00.
 
 Que veux-tu faire ?
