@@ -1,77 +1,65 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 29/10/2026 20:48 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 29/10/2026 20:52 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : dimanche 25 août 2041, 15h47 (abidjan) ; tour n° 134
+- Horloge : dimanche 25 août 2041, 16h25 (abidjan) ; tour n° 135
 - Lieu de William : Abidjan, aéroport Félix-Houphouët-Boigny (hall des départs)
-- En attente de William : Choix des leviers de trésorerie ; enregistrement du vol AF703 en soirée
+- En attente de William : Lancer le plan des leviers 1-3 (oui ou non) ; garantie acceptée pour le crédit-bail
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 134 ; horloge 25/08/2041 15:00 -> 25/08/2041 15:47 ; enregistré le 29/10/2026 20:48 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 135 ; horloge 25/08/2041 15:47 -> 25/08/2041 16:25 ; enregistré le 29/10/2026 20:52 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Alors, concernant le gardiennage, en septembre, on prend l'option la plus simple, hein. On prolonge son prestataire. C'est plus simple, il nous faut juste un prix. Concernant les abonnements CIE et SODC, il vaut mieux que Koulibaly les prenne en charge lui-même dès cette semaine, hein, vu que Mariam ne revient que, commence que le 1er octobre. Concernant Froid Lagune Service, tu peux laisser Koulibaly confirmer seul. Alors, justement, je veux qu'on s'intéresse un peu à la trésorerie. Ça m'inquiète un peu. J'ai l'impression qu'on va largement dépasser le budget de 60 000 euros qu'on s'était imposé. Je sais pas, hein, j'ai envie d'une analyse un peu. Essayons de bosser un peu sur ce point pour tirer une conclusion. Pour voir si le modèle économique a été sous-évalué et pour voir s'il faut des rectifications. Et en parallèle, je continue du coup mon voyage. C'est une application mobile. Je peux faire les deux en même temps.
+> On part sur les leviers 1, 2 et 3, chiffre-les
 
 ## Texte envoyé au joueur
 
-**DIMANCHE 25 AOÛT 2041 — 15h47 — Abidjan, aéroport Félix-Houphouët-Boigny (Port-Bouët)**
+**DIMANCHE 25 AOÛT 2041 — 16h25 — Abidjan, aéroport Félix-Houphouët-Boigny (Port-Bouët)**
 
-Tu réponds à ton conseiller depuis ta table de café :
+Tu écris à ton conseiller : « On part sur les leviers 1, 2 et 3 : chiffre-les. »
 
-« Gardiennage en septembre : on prolonge le prestataire du bailleur, il nous faut juste un prix. CIE et SODECI : Coulibaly les prend en charge lui-même dès cette semaine. Froid Lagune Services : Coulibaly confirme seul. Et je veux qu'on travaille sur la trésorerie : j'ai l'impression qu'on va largement dépasser les 60 000 € qu'on s'était fixés. Analyse-moi ça : le modèle économique a-t-il été sous-évalué, faut-il rectifier ? »
+Une demi-heure passe. Un vol d'Ethiopian Airlines est annoncé, puis un autre pour Dakar ; un enfant traîne une valise à roulettes plus grande que lui en chantant. À 16h25, la réponse arrive, avec un nouveau document dans tes fichiers, « Chiffrage des leviers 1, 2 et 3 » :
 
-Réponse à 15h08 :
+« Chiffrage déposé dans tes documents : « Chiffrage des leviers 1, 2 et 3 ». En résumé :
 
-« Reçu à 15h06. Les trois décisions partent à Coulibaly par courriel à 15h10, depuis ton adresse direction ; il les lira demain matin. Je lance l'analyse de trésorerie ; compte une demi-heure. »
+1. Étaler et louer : mobilier à 40 % en octobre (1,92 million de FCFA), le reste en janvier ; pickup en location longue durée, environ 700 000 FCFA par mois, au lieu d'un achat qui n'était même pas compté.
+2. Crédit-bail informatique sur 36 mois : apport de 1,7 million de FCFA, puis environ 272 000 FCFA par mois. Point dur : une société de deux semaines n'a pas de bilan. La banque demandera presque sûrement une garantie, et une caution personnelle irait contre ta règle « zéro cautionnement personnel ». Délai probable : quatre à huit semaines.
+3. Deuxième tranche sur jalons : 25 000 € au premier contrat signé, 25 000 € au deuxième, pris sur les 135 000 €.
 
-Le temps de finir ton café, de faire un tour dans le hall et de regarder un avion d'Air Côte d'Ivoire rouler lentement vers la piste sous un ciel blanc de chaleur, la réponse tombe à 15h47, avec un document dans tes fichiers, « Analyse de trésorerie de SOLEIL B2B CI » :
+Résultat :
+- Avec les leviers 1 et 2 seuls, la caisse tient jusqu'à la mi-décembre au lieu de la mi-novembre ; elle est à − 11 600 € fin décembre.
+- Avec le levier 3, si le premier contrat tombe en novembre et le deuxième en janvier, on tient jusqu'à la mi-février.
+- Sans contrat, rien ne change au fond : la caisse est vide en décembre. La charge fixe de 17 200 € par mois reste le vrai sujet.
 
-« Analyse déposée dans tes documents : « Analyse de trésorerie de SOLEIL B2B CI ». L'essentiel :
+Deux choses à me dire :
+1. Je lance ce plan auprès de Coulibaly : étalement du mobilier, location du pickup, demande de crédit-bail, et je rédige l'avenant sur les jalons de la deuxième tranche. Oui ou non ?
+2. Si la banque exige une garantie pour le crédit-bail, laquelle acceptes-tu : aucune, un dépôt bloqué par la société, ou une caution personnelle ? »
 
-- Tes apports, avec les deux versements de la première tranche : 70 683 €.
-- L'installation (dépôt, aménagement, mobilier, informatique) coûte environ 38 800 €. Ça, la tranche le couvre.
-- Ce qu'elle ne couvre pas, c'est la masse salariale : quatre dirigeants démarrent le 1er octobre. Leur coût réel pour la société est d'environ 1,4 fois leur net, soit 9,5 millions de FCFA par mois ; avec le loyer, la charge fixe atteint 17 200 € par mois. Mon chiffre précédent, 11 900 €, sous-estimait les charges sociales.
-- Sans recette, le compte est à 12 000 € fin octobre, à zéro vers la mi-novembre, à − 22 400 € fin décembre et à − 73 900 € fin mars.
-
-Conclusion : le modèle n'est pas faux sur les marges, qu'on ne connaît pas encore, mais il est sous-évalué sur le calendrier. Il suppose des recettes rapides, alors que quatre salaires de direction tombent avant le premier contrat.
-
-Leviers, rien n'est engagé :
-1. louer ou étaler mobilier, informatique et véhicule (jusqu'à 13 millions de FCFA de moins en octobre) ;
-2. crédit-bail ou prêt d'équipement à la SGCI, au nom de la société ;
-3. avancer une partie de la deuxième tranche sur un jalon plus proche, par exemple les deux premiers contrats signés ;
-4. décaler la prise de fonction d'un directeur, à négocier, avec un coût humain et juridique ;
-5. accepter environ 75 000 € de plus jusqu'en mars, ce qui passerait par une vente d'ETF.
-
-Dis-moi quelle combinaison tu veux, et je la chiffre en détail. »
-
-Autour de toi, le hall se remplit ; un agent d'entretien pousse une machine à laver le sol entre les rangées de sièges, et l'odeur du produit citronné couvre un instant celle du café.
-
-Il est 15h47.
+Il est 16h25.
 
 ---
 
 **Réponses attendues**
-- **Ton conseiller** : quelle combinaison de leviers pour la trésorerie ?
-  1. louer ou étaler les équipements ;
-  2. crédit-bail ou prêt d'équipement à la SGCI ;
-  3. avancer une partie de la deuxième tranche sur un jalon plus proche ;
-  4. décaler la prise de fonction d'un directeur ;
-  5. financer environ 75 000 € de plus jusqu'en mars.
+- **Ton conseiller** :
+  1. lancer ou non le plan (étalement, location, crédit-bail, avenant sur les jalons de la deuxième tranche) ;
+  2. la garantie que tu acceptes pour le crédit-bail : aucune, un dépôt bloqué par la société, ou une caution personnelle.
 
 **À faire / à fournir avant le tour suivant**
 - Enregistrement du vol AF703 en début de soirée ; départ à 22h15.
 
 **Quêtes secondaires**
-- Coulibaly lira demain matin tes trois décisions : prolongation du gardiennage (un prix à obtenir), CIE et SODECI à sa charge cette semaine, confirmation de Froid Lagune Services.
+- Coulibaly lira demain matin tes trois décisions de la séance.
 - Versement de 20 000 € : crédit attendu mardi au plus tard.
-… (suite dans etat/dernier-tour.md, 63 lignes)
+- Lenny : maillot XL dans ta valise ; réouverture du club demain, lundi 26 août, à 18h00.
+
+Que veux-tu faire ?
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
 - A112 Sun 25/08 22:15 (abidjan) | Air France : Vol retour AF703 Abidjan (FHB) → Paris-CDG (arrivée le 26/08 vers 05h45), puis correspondance vers Luxembourg-Findel ; billet aller-retour réglé le 27/07 (1 285 €) [prevu]  — U3-19 : le retour n'était pas à l'agenda ; horaire d'après l'AF703 de 2026 (départ vers 22h15, F119) ; quitter la résidence vers 19h00 (trajet et contrôles)
@@ -184,10 +172,10 @@ Il est 15h47.
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 425c3ed ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 1fd0578 ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 14 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 11 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 
