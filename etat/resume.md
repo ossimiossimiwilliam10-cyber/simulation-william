@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 29/10/2026 19:55 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 29/10/2026 19:58 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mercredi 21/08/2041 08:49 (abidjan, UTC+0)
+## Horloge : mercredi 21/08/2041 08:57 (abidjan, UTC+0)
 - **Lieu de William** : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-- **Heure dans les autres lieux** : lisbonne 09:49 ; luxembourg 10:49 ; mindelo 07:49 ; casablanca 09:49 ; douala 09:49 ; addis 11:49 ; manille 16:49 ; paris 10:49 ; seoul 17:49 ; bresil 05:49
+- **Heure dans les autres lieux** : lisbonne 09:57 ; luxembourg 10:57 ; mindelo 07:57 ; casablanca 09:57 ; douala 09:57 ; addis 11:57 ; manille 16:57 ; paris 10:57 ; seoul 17:57 ; bresil 05:57
 - **En attente de William** :
-  - Réponse de Coulibaly sur la signature de Viviane Tanoh ; dépouillement 16h00 ; rapport 20h00
+  - Signature des courriels envoyés depuis direction@ à choisir ; réponse de Coulibaly sur Viviane Tanoh ; dépouillement 16h00 ; rapport 20h00
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 268,29 €**
@@ -39,9 +39,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-08-21.md, 6 dernières lignes)
-> - **06h42-08h41** (tour n° 122) : Petit-déjeuner room service (10,80 €). Coulibaly tient sa promesse (90 %) : copie du bail reçue à 08h41 sur direction@ (D038 dans Gestion ; courriels/2041-08-21_Bail_commercial_Villa_des_Vallons_copie.pdf). Bailleur tiré : Yannick Bamba. Clauses : dépôt de 5 250 000 FCFA au plus tard le 23/08 (agenda), travaux soumis à accord écrit, gardiennage du bailleur jusqu'a
-> - Tirages du tour : T7c Mohamed → execute_sans_discuter (32,07) ; T10 Mohamed → immediat (2,42) ; jet « Mohamed Coulibaly tient sa promesse : envoie la copie du bai » → OUI (47,79) ; procédure : 08:41.
-> - Tour en cours à 08h41, en attente de William : **Bail reçu (dépôt de garantie dû au plus tard le 23/08) ; dépouillement 16h00 ; rapport 20h00**.
 > - **08h41-08h49** (tour n° 123) : Nouveau courriel du DGV à Coulibaly (08h47) sur la signature de Viviane Tanoh. T7c execute_sans_discuter, T10 immediat calé à 17h10 (fin de travail) : réponse cachée A126.
 > - Tirages du tour : procédure : 08:41 ; T7c Mohamed → execute_sans_discuter (5,93) ; T10 Mohamed → immediat (7,09).
 > - Tour en cours à 08h49, en attente de William : **Réponse de Coulibaly sur la signature de Viviane Tanoh ; dépouillement 16h00 ; rapport 20h00**.
+> - **08h49-08h57** (tour n° 124) : Décision de William : tous les courriels de l'application partent désormais de direction@soleil-b2b.ci ; adresse du projet fermée (redirection 30 jours). Le DGV demande la signature (William Ossimi ou La Direction). CLAUDE.md §14 mis à jour et synchronisé. Note : la réponse de Coulibaly sur Viviane Tanoh (A126, 17h10) arrivera sur direction@.
+> - Tirages du tour : T7c Mohamed → execute_sans_discuter (5,93) ; T10 Mohamed → immediat (7,09).
+> - Tour en cours à 08h57, en attente de William : **Signature des courriels envoyés depuis direction@ à choisir ; réponse de Coulibaly sur Viviane Tanoh ; dépouillement 16h00 ; rapport 20h00**.

@@ -1,44 +1,45 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 29/10/2026 19:55 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 29/10/2026 19:58 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : mercredi 21 août 2041, 08h49 (abidjan) ; tour n° 123
+- Horloge : mercredi 21 août 2041, 08h57 (abidjan) ; tour n° 124
 - Lieu de William : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-- En attente de William : Réponse de Coulibaly sur la signature de Viviane Tanoh ; dépouillement 16h00 ; rapport 20h00
+- En attente de William : Signature des courriels envoyés depuis direction@ à choisir ; réponse de Coulibaly sur Viviane Tanoh ; dépouillement 16h00 ; rapport 20h00
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 123 ; horloge 21/08/2041 08:41 -> 21/08/2041 08:49 ; enregistré le 29/10/2026 19:55 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 124 ; horloge 21/08/2041 08:49 -> 21/08/2041 08:57 ; enregistré le 29/10/2026 19:58 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je demande à mon équipe virtuelle d'envoyer un nouveau mail concernant Viviane Talon. J'ai vraiment envie de savoir ce qui se passe avec sa signature.
+> Je décide également de faire quelque chose, c'est en fait de faire en sorte que désormais, quand l'application envoie un mail, elle utilise du coup l'adresse mail que Koulibaly reconnaît. Donc cette adresse mail ne fonctionnera plus, donc directement ce sera mon adresse mail professionnelle du coup qui expédiera tout. Comme ça, ce sera beaucoup plus clair que d'avoir 100 millions d'adresses mail un peu partout. Donc du coup, voilà. Enfin, j'essaie de régler ça.
 
 ## Texte envoyé au joueur
 
-**MERCREDI 21 AOÛT 2041 — 08h49 — Abidjan, Cocody Deux-Plateaux, résidence hôtelière**
+**MERCREDI 21 AOÛT 2041 — 08h57 — Abidjan, Cocody Deux-Plateaux, résidence hôtelière**
 
 Tu écris à ton directeur général virtuel :
 
-« Envoie un nouveau courriel à Coulibaly sur Viviane Tanoh : je veux savoir ce qui se passe avec la signature de son contrat. »
+« Désormais, quand l'application envoie un courriel, elle utilise mon adresse professionnelle direction@soleil-b2b.ci, celle que Coulibaly reconnaît. L'adresse du projet ne fonctionne plus. Une seule adresse, c'est plus clair. »
 
-Réponse à 08h49 :
+Réponse à 08h57 :
 
-« Reçu à 08h46. Courriel envoyé à Mohamed Coulibaly à 08h47 : point précis demandé sur la signature du contrat de Viviane Tanoh, prévue lundi, et la nouvelle date si elle a été reportée. Hier, il a refusé d'envoyer des pièces à cette adresse ; une question d'état devrait passer. Je te transmets sa réponse dès qu'elle arrive. »
+« Fait à 08h56. L'adresse du projet est fermée à l'envoi ; pendant trente jours, tout courriel qui y arrive est redirigé vers direction@soleil-b2b.ci, puis elle sera supprimée. À partir de maintenant, tout ce que j'envoie part de ton adresse direction. Conséquence directe : chaque destinataire, Coulibaly compris, lira ces courriels comme écrits par toi. Une question avant mon prochain envoi : je signe « William Ossimi » ou « La Direction — SOLEIL B2B CI » ? »
 
-En bas, dans la rue, une vendeuse ambulante passe en chantant le nom de ses beignets ; un klaxon lui répond.
+Le soleil tape maintenant franchement sur la vitre ; la tache de lumière avance sur le carrelage jusqu'au pied du lit.
 
-Il est 08h49.
+Il est 08h57.
 
 ---
 
 **Réponses attendues**
-- **Mohamed Coulibaly** : relancé par courriel à 08h47 sur la signature du contrat de Viviane Tanoh.
+- **Directeur général virtuel** : quelle signature pour les courriels envoyés depuis ton adresse direction, « William Ossimi » ou « La Direction — SOLEIL B2B CI » ?
+- **Mohamed Coulibaly** : relancé à 08h47 sur la signature du contrat de Viviane Tanoh.
 
 **À faire / à fournir avant le tour suivant**
 - Aucune démarche en cours.
@@ -164,10 +165,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 67d0a58 ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : ca20570 ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 13 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 10 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 
