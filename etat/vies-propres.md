@@ -393,3 +393,10 @@
 - **Secret (moteur seulement)** : a gonflé son expérience ou son diplôme sur son CV (gravité 2)
 - **Horaires** : règle « commerce_abidjan », fuseau abidjan, décalage -7 min ; travail 08:23-18:53 (mar, mer, jeu, ven, sam, dim), trajet 30 min ; sommeil 22:53-05:53
 - **Derniers événements** : —
+
+### Mariam Kra (chauffeur Yango (Playce Palmeraie → résidence))
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : acheter un logement (ou un plus grand) ; **souci** : loyer qui augmente ; **foyer** : en couple, sans enfant
+- **Secret (moteur seulement)** : a un enfant qu'il ne voit plus (gravité 3)
+- **Horaires** : règle « chauffeur », fuseau abidjan, décalage +19 min ; travail 06:19-18:19 (lun, mar, mer, jeu, ven, sam), trajet 20 min ; sommeil 22:19-05:19
+- **Derniers événements** : —
