@@ -1,45 +1,52 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 29/10/2026 20:32 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 29/10/2026 20:36 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : vendredi 23 août 2041, 23h40 (abidjan) ; tour n° 131
+- Horloge : dimanche 25 août 2041, 07h18 (abidjan) ; tour n° 132
 - Lieu de William : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-- En attente de William : Rien ; départ dimanche 25/08
+- En attente de William : Jour du départ : règlement de la résidence avant midi, vol AF703 à 22h15
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 131 ; horloge 23/08/2041 20:00 -> 23/08/2041 23:40 ; enregistré le 29/10/2026 20:32 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 132 ; horloge 23/08/2041 23:40 -> 25/08/2041 07:18 ; enregistré le 29/10/2026 20:36 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je décide de prendre ma soirée pour totalement améliorer encore l'ergonomie de l'application en gestion et de la connecter avec toutes les applications essentielles présentes sur le téléphone. Et donc, du coup, vraiment, je cherche à avoir une interface des plus simples. C'est-à-dire, des options que je n'utilise pas peuvent être cachées. Pas besoin de les afficher. Typiquement, genre une page avec simplement le conseiller, les documents et la situation financière de, comment dire, de l'entreprise, ce serait pas mal, ce serait parfait. Après, je ne sais pas s'il y a d'autres modèles, je vais réfléchir encore en utilisant l'IA. Donc là, je vais totalement refaire l'interface de l'application. Voilà. Et surtout la connecter avec le maximum d'applications de mon téléphone possible pour faciliter justement, pour la rendre plus fluide, quoi.
+> Go
 
 ## Texte envoyé au joueur
 
-**VENDREDI 23 AOÛT 2041 — 23h40 — Abidjan, Cocody Deux-Plateaux, résidence hôtelière**
+**DIMANCHE 25 AOÛT 2041 — 07h18 — Abidjan, Cocody Deux-Plateaux, résidence hôtelière**
 
-Tu t'installes au petit bureau de la chambre, l'ordinateur ouvert, le téléphone posé à côté, une bouteille d'eau fraîche montée par le room service. Tu passes la soirée sur l'application Gestion, avec l'IA comme copilote : tu démontes l'ancien écran à six onglets et tu reconstruis tout autour de ce dont tu te sers vraiment.
+Le samedi passe lentement. Tu te lèves tard, à 08h35, après une nuit commencée après minuit. Les trois repas montent par le room service. Le ciel reste partagé toute la journée, la chaleur supportable ; en fin d'après-midi, des enfants jouent au foot dans la rue avec un ballon dégonflé, et leurs cris montent jusqu'à ta fenêtre jusqu'à la nuit.
 
-Vers 23h30, la version 3.0 tourne sur ton téléphone. À l'ouverture, plus de tableau de bord chargé ni d'onglets : un seul écran, quatre blocs.
+À 20h00, ton conseiller :
 
-En haut, **Mon conseiller** : le dernier message reçu de ton directeur général virtuel, et un bouton « Écrire à mon conseiller » qui ouvre directement votre conversation dans Messages.
+« Rapport final de la journée du samedi 24 août 2041 (20h00). PDF dans tes documents (application Fichiers).
 
-Ensuite, **Situation financière de SOLEIL B2B CI** : ce qui reste sur le compte après les engagements connus, les apports reçus, les dépenses engagées, la charge mensuelle prévue une fois l'équipe en poste, tes deux versements à venir avec leur date, et la liste de ce qui reste à confirmer. Un bouton renvoie vers l'application Banque.
+DÉCISIONS
+Aucune ce soir.
 
-Puis **Derniers documents** : les cinq dernières pièces reçues dans Gestion, chacune ouvrable d'un geste, et un bouton vers l'application Fichiers.
+ÉTAT DES PÔLES
+- Direction générale (Coulibaly) : rien depuis hier, week-end. Le reçu du dépôt de garantie n'est pas encore arrivé.
+- Pôle finance virtuel : ton versement de 20 000 € est parti hier de la Spuerkeess ; crédit attendu mardi au plus tard. Froid Lagune Services doit être confirmé avant mercredi 28.
+- Veille « faute lourde » : rien à signaler.
+- Budget d'API : 50,05 € sur 1 000 € ce mois-ci.
 
-Enfin, **À venir** : tes prochains rendez-vous et échéances, tirés de ton calendrier, avec un bouton pour l'ouvrir.
+Demain : ton départ. Je reste joignable pendant le vol par Messages ; rien ne demande ta présence d'ici lundi.
 
-Tout le reste (équipes et notes, évaluation, candidatures, juridique, liste complète des documents) est rangé derrière un seul bouton discret, « Toutes les options ». L'écran tient sur un défilement.
+Prochain rapport : demain à 20h00. »
 
-Dehors, la rue s'est tue ; un générateur ronronne quelque part plus bas, puis s'éteint d'un coup quand le courant revient.
+Tu éteins vers 23h30.
 
-Il est 23h40.
+Dimanche, tu te réveilles à 07h18. Le jour du départ. La chambre est grise de lumière douce ; dans la rue, des familles endimanchées passent vers l'église du quartier, les femmes en pagnes brodés, les hommes en chemises repassées. Ta valise est ouverte au pied du lit, le sac orange du maillot posé dessus.
+
+Il est 07h18.
 
 ---
 
@@ -47,23 +54,23 @@ Il est 23h40.
 - Aucune.
 
 **À faire / à fournir avant le tour suivant**
-- Aucune démarche en cours.
+- Départ de la résidence avant midi : règlement du séjour (1 690 €) et des extras portés sur ta note (courses Yango) ; bagages gardés à la réception jusqu'au soir si besoin.
+- Vol Air France AF703, Abidjan → Paris-CDG, ce soir à 22h15.
 
 **Quêtes secondaires**
-- Versement de 20 000 € exécuté aujourd'hui : crédit attendu lundi ou mardi ; Froid Lagune Services à confirmer avant le 28 août.
+- Versement de 20 000 € : crédit attendu mardi au plus tard ; Froid Lagune Services à confirmer avant mercredi 28 août.
 - Reçu du dépôt de garantie : attendu de l'agence.
-- Gardiennage après le 31 août : le bailleur veut en parler lundi 26 août.
-- Départ d'Abidjan après-demain, dimanche 25 août : règlement de la résidence à midi (1 690 €, plus les extras portés sur ta note), vol Air France AF703 vers Paris à 22h15.
-- Lenny : maillot XL dans ta valise ; réouverture du club lundi 26 août à 18h00.
-- Rapport du directeur général virtuel demain à 20h00.
+- Gardiennage après le 31 août : le bailleur veut en parler demain, lundi 26 août.
+- Lenny : maillot XL dans ta valise ; réouverture du club demain, lundi 26 août, à 18h00.
 
 Que veux-tu faire ?
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
-- rien
+- A111 Sun 25/08 12:00 (abidjan) | Résidence hôtelière (Cocody Deux-Plateaux) : Départ de la résidence et règlement du séjour du 12 au 25 août : 1 690 € (empreinte de la Visa Premier prise à l'arrivée) ; bagages gardés à la réception jusqu'au soir [prevu]  — U3-19 : la résidence n'avait jamais été réglée ; le jour dit : python outils/cartes.py payer --carte visa_premier --montant 1690 --marchand "Résidence hôtelière Deux-Plateaux" --quand "2041-08-25 12:00"
+- A112 Sun 25/08 22:15 (abidjan) | Air France : Vol retour AF703 Abidjan (FHB) → Paris-CDG (arrivée le 26/08 vers 05h45), puis correspondance vers Luxembourg-Findel ; billet aller-retour réglé le 27/07 (1 285 €) [prevu]  — U3-19 : le retour n'était pas à l'agenda ; horaire d'après l'AF703 de 2026 (départ vers 22h15, F119) ; quitter la résidence vers 19h00 (trajet et contrôles)
 
 ## Rituels du moteur dus (rituels.py)
-- rien
+- [DÛ] synthese_semaine : ce soir : synthèse de la semaine, T4/T5 des affaires ouvertes -> python outils/savoir.py t5
 
 ## Décisions en attente de William (etat/fils-ouverts.md, A)
 | 1 | **Organisation des vacances d'été 2041** | Premier jour des grandes vacances scolaires (du mardi 16/07/2041 au dimanche 15/09/2041). Choix des projets, voyages, rythme de vie ou déplacements estivaux. Budget vacances disponible : 833 €/mois (10 000 €/an). ; *(26/07 10h30) projet de mission à Abidjan à l'étude (fenêtre idéale : 12 au 25 août 2041, pendant la fermeture estivale du club de combat) pour rencontrer Mohamed Coulibaly, Me Gnamien et valider le QG* ; *(26/07 18h30) déplacement de 14 jours validé par William (du lundi 12 au dimanche 25 août 2041, pendant la fermeture annuelle du Minett Combat Club)* ; *(27/07 08h45) mission Abidjan calée du 12 au 25 août 2041 (14 jours) : vol Air France retenu depuis Luxembourg-Findel (1 285 € A/R), option confirmée sur résidence hôtelière F2 sécurisée à Cocody Deux-Plateaux (1 690 €), carnet international à jour (vaccin fièvre jaune confirmé par William)* ; *(27/07 20h00) vol Air France réglé (1 285 € sur Visa Premier, K002), pré-enrôlement e-visa SNEDAI payé et validé (73 € sur Visa Premier, K003), option résidence sécurisée Cocody active (1 690 €) ; logistique de mission Abidjan bouclée* ; *(31/07 11h20) aléa administratif A09 résolu : anomalie d'inversion des prénoms sur le portail SNEDAI rectifiée en ligne, attestation officielle de pré-enrôlement e-visa biométrique reçue (entrée FHB validée)* ; *(11/08 21h30) (11/08 21h30) Preparatifs acheves la veille du depart : voiture chargee a 100 %, reveil regle a 04h15 pour vol AF1233 Findel-CDG-Abidjan du lundi 12 aout a 06h50 ; bagages et documents physiques prets* ; *(12/08 21h00) (12/08 21h00) Arrivée sans incident à Abidjan par le vol AF702 via Paris CDG ; formalités sanitaires et e-visa biométrique SNEDAI franchies avec succès à FHB ; installation dans l'appartement F2 climatisé de la résidence hôtelière à Cocody Deux-Plateaux ; prise de contact confirmée avec Mohamed Coulibaly pour la signature notariée des statuts et du mandat DG chez Me Gnamien mardi 13 août à 10h00* ; *(13/08 09h50) (13/08 09h50) Trajet matinal avec Mohamed Coulibaly via le pont HKB, arrivée au Cabinet de Me Gnamien au Plateau à 09h50, retrouvailles avec Mariam Brou à l'accueil, attente de l'entrée en salle de signature à 10h00 ; Revue du lundi n° 4 présentée au joueur (P27 à P31)* | Ouvert |
@@ -170,10 +177,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : dc8acda ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : a0fcfae ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 13 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 21 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

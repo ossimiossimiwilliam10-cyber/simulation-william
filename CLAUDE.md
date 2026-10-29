@@ -216,6 +216,7 @@ Langue : **français**.
 > (Min-ji, Hye-won, Soo-jin, Thiago Rocha, Lucas Mendes, voyage à Séoul) dans `archives/univers-3-partie-1/` et sous le tag git
 > `univers-3-partie-1` ; leurs lignes du §9 : `memoire/archive-point-de-reprise-univers-3-partie-1.md`. Tirages neufs : aucun résultat de la
 > première partie n'est rejoué. Les essais du moteur utilisent l'archive comme état d'essai (`outils/tests_moteur.py`).
+**Dimanche 25 août 2041, 07h18 (heure de Abidjan) — Abidjan (Cocody Deux-Plateaux), résidence hôtelière : tour n° 132 joué (Samedi calme, rapport sans décision ; dimanche matin, jour du départ) ; en attente : **Jour du départ : règlement de la résidence avant midi, vol AF703 à 22h15**.**
 **Vendredi 23 août 2041, 23h40 (heure de Abidjan) — Abidjan (Cocody Deux-Plateaux), résidence hôtelière : tour n° 131 joué (William refait l'application Gestion : version 3.0, un écran simple relié aux autres applications) ; en attente : **Rien ; départ dimanche 25/08**.**
 **Vendredi 23 août 2041, 20h00 (heure de Abidjan) — Abidjan (Cocody Deux-Plateaux), résidence hôtelière : tour n° 130 joué (Contrat de Viviane Tanoh signé, dépôt de garantie payé, recrutements de niveaux 3 et 4 pas avant septembre) ; en attente : **Rien ce soir ; départ dimanche 25/08**.**
 **Jeudi 22 août 2041, 20h14 (heure de Abidjan) — Abidjan (Cocody Deux-Plateaux), résidence hôtelière : tour n° 129 joué (Versement de 20 000 € avancé (voie B) ; point demandé à Coulibaly sur les recrutements de niveaux 3 et 4) ; en attente : **Réponse de Coulibaly sur les niveaux 3 et 4**.**

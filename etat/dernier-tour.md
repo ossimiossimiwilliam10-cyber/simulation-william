@@ -1,32 +1,39 @@
 # Dernier tour montré au joueur
 
-> Tour n° 131 ; horloge 23/08/2041 20:00 -> 23/08/2041 23:40 ; enregistré le 29/10/2026 20:32 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 132 ; horloge 23/08/2041 23:40 -> 25/08/2041 07:18 ; enregistré le 29/10/2026 20:36 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je décide de prendre ma soirée pour totalement améliorer encore l'ergonomie de l'application en gestion et de la connecter avec toutes les applications essentielles présentes sur le téléphone. Et donc, du coup, vraiment, je cherche à avoir une interface des plus simples. C'est-à-dire, des options que je n'utilise pas peuvent être cachées. Pas besoin de les afficher. Typiquement, genre une page avec simplement le conseiller, les documents et la situation financière de, comment dire, de l'entreprise, ce serait pas mal, ce serait parfait. Après, je ne sais pas s'il y a d'autres modèles, je vais réfléchir encore en utilisant l'IA. Donc là, je vais totalement refaire l'interface de l'application. Voilà. Et surtout la connecter avec le maximum d'applications de mon téléphone possible pour faciliter justement, pour la rendre plus fluide, quoi.
+> Go
 
 ## Texte envoyé au joueur
 
-**VENDREDI 23 AOÛT 2041 — 23h40 — Abidjan, Cocody Deux-Plateaux, résidence hôtelière**
+**DIMANCHE 25 AOÛT 2041 — 07h18 — Abidjan, Cocody Deux-Plateaux, résidence hôtelière**
 
-Tu t'installes au petit bureau de la chambre, l'ordinateur ouvert, le téléphone posé à côté, une bouteille d'eau fraîche montée par le room service. Tu passes la soirée sur l'application Gestion, avec l'IA comme copilote : tu démontes l'ancien écran à six onglets et tu reconstruis tout autour de ce dont tu te sers vraiment.
+Le samedi passe lentement. Tu te lèves tard, à 08h35, après une nuit commencée après minuit. Les trois repas montent par le room service. Le ciel reste partagé toute la journée, la chaleur supportable ; en fin d'après-midi, des enfants jouent au foot dans la rue avec un ballon dégonflé, et leurs cris montent jusqu'à ta fenêtre jusqu'à la nuit.
 
-Vers 23h30, la version 3.0 tourne sur ton téléphone. À l'ouverture, plus de tableau de bord chargé ni d'onglets : un seul écran, quatre blocs.
+À 20h00, ton conseiller :
 
-En haut, **Mon conseiller** : le dernier message reçu de ton directeur général virtuel, et un bouton « Écrire à mon conseiller » qui ouvre directement votre conversation dans Messages.
+« Rapport final de la journée du samedi 24 août 2041 (20h00). PDF dans tes documents (application Fichiers).
 
-Ensuite, **Situation financière de SOLEIL B2B CI** : ce qui reste sur le compte après les engagements connus, les apports reçus, les dépenses engagées, la charge mensuelle prévue une fois l'équipe en poste, tes deux versements à venir avec leur date, et la liste de ce qui reste à confirmer. Un bouton renvoie vers l'application Banque.
+DÉCISIONS
+Aucune ce soir.
 
-Puis **Derniers documents** : les cinq dernières pièces reçues dans Gestion, chacune ouvrable d'un geste, et un bouton vers l'application Fichiers.
+ÉTAT DES PÔLES
+- Direction générale (Coulibaly) : rien depuis hier, week-end. Le reçu du dépôt de garantie n'est pas encore arrivé.
+- Pôle finance virtuel : ton versement de 20 000 € est parti hier de la Spuerkeess ; crédit attendu mardi au plus tard. Froid Lagune Services doit être confirmé avant mercredi 28.
+- Veille « faute lourde » : rien à signaler.
+- Budget d'API : 50,05 € sur 1 000 € ce mois-ci.
 
-Enfin, **À venir** : tes prochains rendez-vous et échéances, tirés de ton calendrier, avec un bouton pour l'ouvrir.
+Demain : ton départ. Je reste joignable pendant le vol par Messages ; rien ne demande ta présence d'ici lundi.
 
-Tout le reste (équipes et notes, évaluation, candidatures, juridique, liste complète des documents) est rangé derrière un seul bouton discret, « Toutes les options ». L'écran tient sur un défilement.
+Prochain rapport : demain à 20h00. »
 
-Dehors, la rue s'est tue ; un générateur ronronne quelque part plus bas, puis s'éteint d'un coup quand le courant revient.
+Tu éteins vers 23h30.
 
-Il est 23h40.
+Dimanche, tu te réveilles à 07h18. Le jour du départ. La chambre est grise de lumière douce ; dans la rue, des familles endimanchées passent vers l'église du quartier, les femmes en pagnes brodés, les hommes en chemises repassées. Ta valise est ouverte au pied du lit, le sac orange du maillot posé dessus.
+
+Il est 07h18.
 
 ---
 
@@ -34,14 +41,13 @@ Il est 23h40.
 - Aucune.
 
 **À faire / à fournir avant le tour suivant**
-- Aucune démarche en cours.
+- Départ de la résidence avant midi : règlement du séjour (1 690 €) et des extras portés sur ta note (courses Yango) ; bagages gardés à la réception jusqu'au soir si besoin.
+- Vol Air France AF703, Abidjan → Paris-CDG, ce soir à 22h15.
 
 **Quêtes secondaires**
-- Versement de 20 000 € exécuté aujourd'hui : crédit attendu lundi ou mardi ; Froid Lagune Services à confirmer avant le 28 août.
+- Versement de 20 000 € : crédit attendu mardi au plus tard ; Froid Lagune Services à confirmer avant mercredi 28 août.
 - Reçu du dépôt de garantie : attendu de l'agence.
-- Gardiennage après le 31 août : le bailleur veut en parler lundi 26 août.
-- Départ d'Abidjan après-demain, dimanche 25 août : règlement de la résidence à midi (1 690 €, plus les extras portés sur ta note), vol Air France AF703 vers Paris à 22h15.
-- Lenny : maillot XL dans ta valise ; réouverture du club lundi 26 août à 18h00.
-- Rapport du directeur général virtuel demain à 20h00.
+- Gardiennage après le 31 août : le bailleur veut en parler demain, lundi 26 août.
+- Lenny : maillot XL dans ta valise ; réouverture du club demain, lundi 26 août, à 18h00.
 
 Que veux-tu faire ?

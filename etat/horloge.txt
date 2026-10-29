@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-08-23 23:40
+horloge: 2041-08-25 07:18
 fuseau: abidjan
 lieu: Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-tour: 131
-attente: Rien ; départ dimanche 25/08
+tour: 132
+attente: Jour du départ : règlement de la résidence avant midi, vol AF703 à 22h15

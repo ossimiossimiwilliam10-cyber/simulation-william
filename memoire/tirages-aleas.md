@@ -4497,3 +4497,7 @@ Effets à jouer : A19 (dimanche 25/08 (soir)) : Un adulte attrape 2 à 4 rhumes 
 - Jet « Mohamed Coulibaly tient sa promesse : paie le dépôt de garantie de 5 250 000 FCFA au bailleur le 23/08 dès le crédit du complément » : probabilité 90 %, jet   4.3 → **OUI** [PROCÉDURE : fiabilité tirée du personnage (lenteur.py)] (enregistré le 29/10/2026 20:24 heure machine)
 
 - Procédure « William : nuit du 22 au 23/08 » : coucher 23:26, lever 07:42 [PROCÉDURE : coucher 23h00-23h50, sommeil 7 h à 8 h 30] (enregistré le 29/10/2026 20:24 heure machine)
+
+- Procédure « William : nuit du 24/08 » : coucher 00:26, lever 08:35 [PROCÉDURE : coucher tiré dans une fenêtre de 45 min, sommeil 7 h à 8 h 30] (enregistré le 29/10/2026 20:35 heure machine)
+
+- Procédure « William : nuit du 24/08 » : coucher 23:29, lever 07:18 [PROCÉDURE : coucher tiré dans une fenêtre de 45 min, sommeil 7 h à 8 h 30] (enregistré le 29/10/2026 20:35 heure machine)

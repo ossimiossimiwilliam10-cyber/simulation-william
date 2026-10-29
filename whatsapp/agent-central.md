@@ -474,3 +474,17 @@ AFFIRMATIONS VÉRIFIÉES
 - Budget d'API : 45,87 € sur 1 000 € ce mois-ci.
 
 Prochain rapport : demain à 20h00.
+**[24/08/2041 - 20:00 (Abidjan)] Agent central :** Rapport final de la journée du samedi 24 août 2041 (20h00). PDF dans tes documents (application Fichiers).
+
+DÉCISIONS
+Aucune ce soir.
+
+ÉTAT DES PÔLES
+- Direction générale (Coulibaly) : rien depuis hier, week-end. Le reçu du dépôt de garantie n'est pas encore arrivé.
+- Pôle finance virtuel : ton versement de 20 000 € est parti hier de la Spuerkeess ; crédit attendu mardi au plus tard. Froid Lagune Services doit être confirmé avant mercredi 28.
+- Veille « faute lourde » : rien à signaler.
+- Budget d'API : 50,05 € sur 1 000 € ce mois-ci.
+
+Demain : ton départ. Je reste joignable pendant le vol par Messages ; rien ne demande ta présence d'ici lundi.
+
+Prochain rapport : demain à 20h00.
