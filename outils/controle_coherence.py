@@ -267,6 +267,17 @@ def controle_hygiene():
     for (d, compte, montant, ref), n in vus.items():
         if n > 1 and "CORR-" + ref not in refs:
             av.append(f"grand livre : {ref} inscrit {n} fois le {d} ({compte}, {montant} €) : contre-passer avec une ligne de référence CORR-{ref}")
+    sys.path.insert(0, str(RACINE / "outils"))
+    import lieux
+    tous = lieux.lire()
+    for lieu in (tous.values() if isinstance(tous, dict) else tous):
+        for j in range(1):
+            try:
+                for partie in [x.strip() for x in lieu["horaires"].split("/") if x.strip()]:
+                    lieux.jours_de(partie.split()[0])
+            except Exception:
+                av.append(f"lieu {lieu['id']} : horaires illisibles « {lieu['horaires']} » (format : lun-ven 08:00-18:00 / sam 09:00-12:00 ; jours lun mar mer jeu ven sam dim)")
+                break
     for dossier in ("etat", "outils"):
         for f in (RACINE / dossier).iterdir():
             if _re.search(r"brouillon|message-joueur|^msg\d", f.name, flags=_re.I):
