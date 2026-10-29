@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-08-16 12:15
+horloge: 2041-08-16 13:00
 fuseau: abidjan
 lieu: Abidjan (Cocody Deux-Plateaux), residence hoteliere
-tour: 94
-attente: Scoring grille 5 questions pour Marc-Antoine Kouadio et Viviane Tanoh ; RIB SGCI a 13h30 pour virement CCA ; signature bail Vallons a 14h00
+tour: 95
+attente: Choix DC (Kouadio vs Tanoh) a notifier a Coulibaly ; RIB SGCI a 13h30 pour virement CCA ; signature bail Vallons a 14h00

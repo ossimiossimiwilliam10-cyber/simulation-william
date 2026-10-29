@@ -83,7 +83,7 @@ date;heure;compte;montant;type;libelle;reference
 2041-10-01;06:00;courant;-12.83;prevu;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20411001
 2041-11-04;06:00;courant;-12.83;prevu;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20411104
 2041-12-02;06:00;courant;-12.83;prevu;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20411202
-2041-08-16;12:33;courant;-24.30;prevu;Abonnement à l'agent IA de William (formule Pro, engagement de 12 mois);E016-20410816
+2041-08-16;12:33;courant;-24.30;prevu_realise;Abonnement à l'agent IA de William (formule Pro, engagement de 12 mois);E016-20410816
 2041-09-16;12:33;courant;-24.30;prevu;Abonnement à l'agent IA de William (formule Pro, engagement de 12 mois);E016-20410916
 2041-10-16;12:33;courant;-24.30;prevu;Abonnement à l'agent IA de William (formule Pro, engagement de 12 mois);E016-20411016
 2041-11-18;12:33;courant;-24.30;prevu;Abonnement à l'agent IA de William (formule Pro, engagement de 12 mois);E016-20411118

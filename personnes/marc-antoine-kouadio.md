@@ -34,3 +34,4 @@
 ## Lien avec William
 - Contexte : candidat_annonce_abidjan ; rôle : candidat Direction Commerciale.
 - Candidature transmise par Mohamed Coulibaly le 16/08/2041 avec réponses à la grille en 5 questions.
+
