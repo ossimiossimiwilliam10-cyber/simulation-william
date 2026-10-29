@@ -4441,3 +4441,5 @@ Effets à jouer : A19 (dimanche 25/08 (soir)) : Un adulte attrape 2 à 4 rhumes 
 - Procédure « William : coucher et lever de la nuit du 19 au 20/08 (sieste jusqu'à 18h07) » : coucher 00:11, lever 07:51 [PROCÉDURE : coucher tiré entre 00h10 et 00h50 après la sieste ; sommeil 7 h à 8 h 30] (enregistré le 29/10/2026 19:05 heure machine)
 
 - Procédure « Mohamed Coulibaly : heure du compte rendu à William (T10 rapide) » : 09:55 [PROCÉDURE : T10 rapide : 5 à 30 min après la sortie de l'agence vers 09h50] (enregistré le 29/10/2026 19:05 heure machine)
+
+- Tirage [T10] « Mohamed Coulibaly : délai (accuse réception de la photo, transmise à l'agence) » : immediat 11 / rapide 26 / dans_l_heure 15 / dans_la_journee 19 / le_soir_ou_lendemain 25 / plus_tard_ou_jamais 4 ; modificateurs : M70, M73 ; jet  69.1 → **dans_la_journee** (enregistré le 29/10/2026 19:12 heure machine)

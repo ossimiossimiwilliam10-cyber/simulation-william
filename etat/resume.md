@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 29/10/2026 19:05 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 29/10/2026 19:13 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mardi 20/08/2041 09:55 (abidjan, UTC+0)
+## Horloge : mardi 20/08/2041 10:06 (abidjan, UTC+0)
 - **Lieu de William** : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-- **Heure dans les autres lieux** : lisbonne 10:55 ; luxembourg 11:55 ; mindelo 08:55 ; casablanca 10:55 ; douala 10:55 ; addis 12:55 ; manille 17:55 ; paris 11:55 ; seoul 18:55 ; bresil 06:55
+- **Heure dans les autres lieux** : lisbonne 11:06 ; luxembourg 12:06 ; mindelo 09:06 ; casablanca 11:06 ; douala 11:06 ; addis 13:06 ; manille 18:06 ; paris 12:06 ; seoul 19:06 ; bresil 07:06
 - **En attente de William** :
-  - Coulibaly demande une photo de William pour le cahier du poste ; annonce 7 M FCFA à régler au bailleur ; copie du bail à venir ; prolongation du gardiennage d'ici jeudi ; rapport final 20h00
+  - Choix d'option du règlement (complément ≈ 1,76 M FCFA ou nouvel apport de 7 M FCFA), virement par William sur S-Net ; maillot de Lenny à acheter ; rapport 20h00
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 268,29 €**
@@ -15,8 +15,8 @@
 - Patrimoine net de William : **850 390,35 €**
 - Prévu dans les 14 jours : 30/08 Traitement mensuel de William (9 320,00 €) ; 02/09 Minett Combat Club (-85,00 €) ; 02/09 Package bancaire Zebra Premium (-12,83 €) ; 02/09 Virement permanent vers le compte épargne (-732,00 €) ; 02/09 Virement permanent vers le compte épargne (732,00 €) ; 02/09 Virement permanent vers le compte-titres ETF (-5 755,00 €) ; 02/09 Virement permanent vers le compte-titres ETF (5 755,00 €)
 
-## Agenda : dans les 24 heures (0)
-- rien
+## Agenda : dans les 24 heures (1)
+- A122 Tue 20/08 17:14 (abidjan) | Mohamed Coulibaly (WhatsApp) : accuse réception de la photo, transmise à l'agence · souci : contrat de travail qui se termine bientôt · objectif : acheter un logement (ou un plus grand) · foyer : en couple, avec enfants · défauts : mauvais conducteur qui se croit excellent / arrive souvent en retard et s'en excuse à peine [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — NON CONNU DE WILLIAM avant l'heure · T10 : dans_la_journee (jet 69.1, M70, M73) · texte à écrire d'après la fiche (reactions.py jouer) [reaction pour=mohamed-coulibaly canal=whatsapp]
 ## Agenda : de J+1 à J+7 (5)
 - A117 Wed 21/08 16:00 (abidjan) | Mohamed Coulibaly : Dépouillement des devis d'aménagement de la villa des Vallons (prix, délai de livraison des climatiseurs, références) [prevu]  — annoncé le 19/08 (DCE transmis par Coulibaly, P32) ; front H003 (avance par événement) à faire avancer au dépouillement
 - A121 Thu 22/08 17:00 (abidjan) | Mohamed Coulibaly : Réponse de l'agence de gardiennage (via le bailleur) sur la prolongation du gardiennage de la villa en septembre ; copie du bail promise « dès qu'il repasse à la villa » [prevu]  — promesses du 20/08 09h55 ; T18 si manquement
@@ -39,7 +39,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-08-20.md, 6 dernières lignes)
-> # Mardi 20 août 2041 — univers 3, 36e jour
 > - **00h00-09h55** (tour n° 114) : Avance rapide : nuit (coucher 00h11, lever 07h51). Lenny donne sa taille (XL, A119). Coulibaly tient sa promesse (90 %) : William inscrit à l'agence de gardiennage, photo demandée ; T7c execute_partiellement sur les demandes du DGV : montant donné (7 M FCFA : dépôt 5,25 M + premier loyer 1,75 M au 01/09), copie du bail non envoyée, prolongation renvoyée à jeudi (A
 > - Tirages du tour : jet « Mohamed Coulibaly tient sa promesse : passe à l'agence de ga » → OUI (10,34) ; T7c Mohamed → execute_partiellement (95,98) ; T10 Mohamed → rapide (39,57) ; procédure : coucher 00:11, lever 07:51 ; procédure : 09:55.
 > - Tour en cours à 09h55, en attente de William : **Coulibaly demande une photo de William pour le cahier du poste ; annonce 7 M FCFA à régler au bailleur ; copie du bail à venir ; prolongation du gardiennage d'ici jeudi ; rapport final 20h00**.
+> - **09h55-10h06** (tour n° 115) : Photo envoyée à Coulibaly (accusé caché à 17h14, A122). William demande au DGV d'enclencher le règlement de 7 M FCFA : le DGV demande l'option (complément ≈ 1,76 M FCFA = 2 683 € ou nouvel apport 7 M = 10 671,46 €, courant 8 268,29 €), virement à faire par William sur S-Net ; copie du bail toujours absente. Maillot : William ira l'acheter après (décision en attent
+> - Tirages du tour : jet « Mohamed Coulibaly tient sa promesse : passe à l'agence de ga » → OUI (10,34) ; T7c Mohamed → execute_partiellement (95,98) ; T10 Mohamed → rapide (39,57) ; procédure : coucher 00:11, lever 07:51 ; procédure : 09:55 ; T10 Mohamed → dans_la_journee (69,1).
+> - Tour en cours à 10h06, en attente de William : **Choix d'option du règlement (complément ≈ 1,76 M FCFA ou nouvel apport de 7 M FCFA), virement par William sur S-Net ; maillot de Lenny à acheter ; rapport 20h00**.
