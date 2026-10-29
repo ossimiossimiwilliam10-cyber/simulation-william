@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 29/10/2026 15:40 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 29/10/2026 18:29 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : lundi 19/08/2041 20:00 (abidjan, UTC+0)
+## Horloge : lundi 19/08/2041 20:10 (abidjan, UTC+0)
 - **Lieu de William** : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-- **Heure dans les autres lieux** : lisbonne 21:00 ; luxembourg 22:00 ; mindelo 19:00 ; casablanca 21:00 ; douala 21:00 ; addis 23:00 ; manille 04:00 ; paris 22:00 ; seoul 05:00 ; bresil 17:00
+- **Heure dans les autres lieux** : lisbonne 21:10 ; luxembourg 22:10 ; mindelo 19:10 ; casablanca 21:10 ; douala 21:10 ; addis 23:10 ; manille 04:10 ; paris 22:10 ; seoul 05:10 ; bresil 17:10
 - **En attente de William** :
-  - Deux décisions du rapport de 20h00 (copie du bail et montant exact avant tout nouvel apport ; prolongation du gardiennage du bailleur) ; Lenny Nguyen demande où était William cet été
+  - Lenny Nguyen demande si William monte une boîte en Côte d'Ivoire ; suivi des demandes à Coulibaly au rapport de demain 20h00
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 268,29 €**
@@ -38,9 +38,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-08-19.md, 6 dernières lignes)
-> - **10h17-18h07** (tour n° 110) : Séance de 2 h au club du Sofitel Hôtel Ivoire (pass journée 61 €, Visa Premier, K016) ; aller en Yango (T24b arrive, Hervé Ouattara, 3 028 FCFA), retour (T24b annule puis Yannick Kouamé, 2 825 FCFA), sur la note. Rappel de Coulibaly à 12h22 manqué (téléphone au casier), WhatsApp 12h25 (T7c execute_a_contrecoeur : gardien de la société du bailleur jusqu'à fin août,
-> - Tirages du tour : T24b → arrive (24,66) ; T24b → annule (93,55) ; T7c Mohamed → execute_a_contrecoeur (79,78) ; procédure : après 4 min ; procédure : endormi 14:12, réveil 18:07 (235 min).
-> - Tour en cours à 18h07, en attente de William : **Message de Coulibaly (12h25 : gardien du bailleur, inscription demain matin) ; message de Lenny Nguyen (17h10 : retour au club) ; rapport final ce soir à 20h00**.
 > - **18h07-20h00** (tour n° 111) : Room service (Kader Konan, tiré ; 14 500 FCFA = 22,11 € Visa Premier, K017, livré à 19h02). William répond à Coulibaly (A115 : accusé immédiat, T10 immediat) et à Lenny (A116 : réponse immédiate, demande où il était). Rapport final de 20h00 joué (PDF documents_william/2041-08-19_Rapport_quotidien_Directeur_General_virtuel.pdf) : deux décisions (copie du bail et mo
 > - Tirages du tour : T10 Mohamed → immediat (0,32) ; T10 Lenny → immediat (1,04).
 > - Tour en cours à 20h00, en attente de William : **Deux décisions du rapport de 20h00 (copie du bail et montant exact avant tout nouvel apport ; prolongation du gardiennage du bailleur) ; Lenny Nguyen demande où était William cet été**.
+> - **20h00-20h10** (tour n° 112) : William valide les deux décisions du rapport (courriel du DGV à Coulibaly à 20h08 : copie du bail et montant exact ; prolongation du gardiennage). Message à Lenny (félicitations, projet en Côte d'Ivoire ; savoir : Lenny l'apprend) ; réponse immédiate de Lenny (A118).
+> - Tirages du tour : T10 Lenny → immediat (2,0).
+> - Tour en cours à 20h10, en attente de William : **Lenny Nguyen demande si William monte une boîte en Côte d'Ivoire ; suivi des demandes à Coulibaly au rapport de demain 20h00**.

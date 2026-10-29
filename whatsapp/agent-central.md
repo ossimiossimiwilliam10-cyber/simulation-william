@@ -348,3 +348,5 @@ AFFIRMATIONS VÉRIFIÉES
 - Budget d'API : 39,39 € sur 1 000 € ce mois-ci.
 
 Prochain rapport : demain à 20h00.
+**[19/08/2041 - 20:06 (Abidjan)] William :** Je valide les deux décisions.
+**[19/08/2041 - 20:08 (Abidjan)] Agent central :** Reçu à 20h06. Courriel envoyé à Mohamed Coulibaly à 20h08, depuis l'adresse du projet : copie du bail signé et montant exact du dépôt de garantie et du premier loyer, à transmettre avant tout nouvel apport ; prolongation du gardiennage du bailleur jusqu'à la signature de notre contrat, avec ton nom et ta photo sur la liste des personnes autorisées. Il les traitera demain matin avec son passage à l'agence. Suivi au rapport de demain, 20h00.
