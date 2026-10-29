@@ -128,7 +128,7 @@ def donnees_telephone(t):
     noms_poles["central"] = "Direction Générale"
     agents = [{"pole": noms_poles.get(a["pole"], a["pole"]), "agent": a["agent"], "statut": a["statut"], "note": a["note"]}
               for a in lire_csv(AGENTS)]
-    version = "2.0" if _avant(c.get("version_2_0_le", "9999"), t) else ("1.0" if _avant(c.get("version_1_0_le", "9999"), t) else ("0.2" if _avant(c.get("version_0_2_le", "9999"), t) else c.get("version", "0.1")))
+    version = "3.0" if _avant(c.get("version_3_0_le", "9999"), t) else "2.0" if _avant(c.get("version_2_0_le", "9999"), t) else ("1.0" if _avant(c.get("version_1_0_le", "9999"), t) else ("0.2" if _avant(c.get("version_0_2_le", "9999"), t) else c.get("version", "0.1")))
     if version == "0.1":
         agents = []  # les agents apparaissent avec la version 0.2
 
@@ -179,10 +179,35 @@ def donnees_telephone(t):
         "associe_unique": "William Ossimi (Associé non-gérant / Investisseur unique, contact +352)",
         "tribunal": "Tribunal de commerce d'Abidjan"
     }
-    return {"installee": True, "version": version, "agents": agents, "estimation": cout_auto(t), "plafond": plafond, "depense": dep, "restant": round(plafond - dep, 2),
+    return {"installee": True, "version": version, "simple": version == "3.0", "finances": finances_societe(t), "a_venir": a_venir(t),
+            "agents": agents, "estimation": cout_auto(t), "plafond": plafond, "depense": dep, "restant": round(plafond - dep, 2),
             "modele": c.get("modele", ""), "poles": poles, "sources": sources, "documents": docs, "candidats": candidats, "annonces": plateformes,
             "collaborateurs": collaborateurs, "evaluation_william": eval_william, "open_banking": open_banking,
             "poste": {"intitule": c.get("poste", ""), "forme": c.get("forme_sociale", "")}, "gouvernance": gouvernance}
+
+
+def finances_societe(t):
+    """Situation financière de la société (outils/tresorerie.py) et versements prévus, à la date de `t` (version 3.0, 23/08/2041)."""
+    try:
+        import tresorerie
+        s = tresorerie.situation(t.date())
+        prevus = [{"date": l["debut"], "poste": l["poste"], "montant": float(l["montant_fcfa"])}
+                  for l in tresorerie.lire() if l["sens"] == "apport" and l["montant_fcfa"] and l["debut"] and l["debut"] > t.date().isoformat()]
+        return {"apports": s["apports"], "depenses": s["depenses"], "reste": s["reste"], "mensuel": s["mensuel"],
+                "autonomie": s["autonomie"], "a_confirmer": s["inconnus"], "prevus": sorted(prevus, key=lambda x: x["date"]), "eur": tresorerie.EUR}
+    except Exception:  # noqa: BLE001 : l'application s'affiche même sans trésorerie
+        return None
+
+
+def a_venir(t, n=6):
+    """Prochains rendez-vous et échéances CONNUS de William (agenda, colonne connu = oui)."""
+    p = ETAT / "agenda.csv"
+    if not p.exists():
+        return []
+    res = [l for l in lire_csv(p) if l.get("connu", "oui") == "oui" and l.get("statut") == "prevu"
+           and f"{l['date']} {l.get('heure') or '00:00'}" >= f"{t:%Y-%m-%d %H:%M}"]
+    res.sort(key=lambda l: (l["date"], l.get("heure") or ""))
+    return [{"date": l["date"], "heure": l.get("heure", ""), "quoi": l["quoi"], "qui": l["qui"]} for l in res[:n]]
 
 
 def _quand(texte):

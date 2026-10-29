@@ -1,4 +1,6 @@
-/* Gestion : l'application de gestion de William (outils/gestion.py) v2.0.
+/* Gestion : l'application de gestion de William (outils/gestion.py) v3.0 (23/08/2041 : écran simple par défaut : conseiller, finances,
+   documents, à venir, avec liens vers Messages, Banque, Fichiers et Calendrier ; les onglets ci-dessous sont sous « Toutes les options »).
+   Avant : v2.0.
    Refonte ergonomique complète : 6 onglets structurés :
    1. Tableau (Dashboard, budget API, pôles, Open Banking Spuerkeess)
    2. Équipes & Notes (Fiches collaborateurs, suivi dynamique, historique et alertes d'érosion)
@@ -12,6 +14,7 @@ appli({
   ouvrir(main, ui) {
     const G = D.applis.gestion;
     const choix = [
+      ["simple", "Accueil"],
       ["tableau", "Tableau"],
       ["collaborateurs", "Équipes & Notes"],
       ["souverain", "Évaluation William"],
@@ -19,8 +22,8 @@ appli({
       ["juridique", "Juridique"],
       ["documents", "Documents"]
     ];
-    let onglet = memoire.lire("gestion-onglet", "tableau");
-    if (!choix.some(c => c[0] === onglet)) onglet = "tableau";
+    let onglet = memoire.lire("gestion-onglet", G.simple ? "simple" : "tableau");
+    if (!choix.some(c => c[0] === onglet) || (onglet === "simple" && !G.simple)) onglet = G.simple ? "simple" : "tableau";
     ui.titre("Gestion", "Version " + G.version + " · Pilotage Stratégique SOLEIL B2B CI");
     const euro = n => n.toLocaleString("fr-FR", { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + " €";
     const ligne = (titre, quand, sous) => {
@@ -28,6 +31,59 @@ appli({
       g.append(el("span", "titre", titre), el("span", "quand", quand || ""));
       if (sous) { const s = el("span", "sous", sous); s.style.whiteSpace = "pre-line"; g.append(s); }
       return g;
+    };
+
+    // ACCUEIL SIMPLE (version 3.0, 23/08/2041) : le conseiller, les documents, la situation financière, ce qui vient
+    const fcfa = n => Math.round(n).toLocaleString("fr-FR").replace(/[  ]/g, " ") + " FCFA";
+    const bouton = (texte, action) => { const b = el("button", "bouton", texte); b.type = "button"; b.addEventListener("click", action); return b; };
+    const simple = z => {
+      const conv = (D.conversations || []).find(c => c.nom === "Agent central");
+      const cc = el("div", "carte");
+      cc.append(el("span", "etiquette", "Mon conseiller"));
+      if (conv && conv.messages.length) {
+        const m = [...conv.messages].reverse().find(x => !x.moi) || conv.messages[conv.messages.length - 1];
+        cc.append(el("span", "quand", dateFr(m.date) + " " + m.heure), el("span", "sous", m.texte.length > 420 ? m.texte.slice(0, 420) + "…" : m.texte));
+      } else cc.append(el("span", "sous", "Aucun échange pour l'instant."));
+      cc.append(bouton("Écrire à mon conseiller", () => { memoire.ecrire("messages-ouvrir", "Agent central"); ouvrir("messages"); }));
+      z.append(cc);
+
+      const F = G.finances;
+      const cf = el("div", "carte solde");
+      cf.append(el("span", "etiquette", "Situation financière de SOLEIL B2B CI"));
+      if (F) {
+        cf.append(el("span", "chiffre", fcfa(F.reste)), el("span", "sous", "≈ " + euros(F.reste / F.eur, 0) + " disponibles après les engagements connus"));
+        const l = el("div", "liste");
+        l.append(ligne("Apports reçus", fcfa(F.apports)), ligne("Dépenses engagées", fcfa(F.depenses)),
+          ligne("Charge mensuelle prévue", fcfa(F.mensuel), "salaires chargés et loyer, une fois l'équipe en poste"));
+        F.prevus.forEach(p => l.append(ligne(p.poste, dateFr(p.date), fcfa(p.montant))));
+        if (F.a_confirmer.length) l.append(ligne("À confirmer", "", F.a_confirmer.join("\n")));
+        cf.append(l);
+      } else cf.append(el("span", "sous", "Situation indisponible."));
+      cf.append(bouton("Voir mes comptes (Banque)", () => ouvrir("banque")));
+      z.append(cf);
+
+      const cd = el("div", "carte");
+      cd.append(el("span", "etiquette", "Derniers documents"));
+      const ld = el("div", "liste");
+      (G.documents || []).slice(0, 5).forEach(d => {
+        const g = ligne(d.objet, d.date, d.expediteur);
+        if (d.url || d.lien) { const a = el("a"); a.href = d.url || d.lien; a.target = "_blank"; a.rel = "noopener"; a.append(g); ld.append(a); } else ld.append(g);
+      });
+      if (!(G.documents || []).length) ld.append(el("span", "sous", "Aucun document."));
+      cd.append(ld, bouton("Tous mes fichiers", () => ouvrir("fichiers")));
+      z.append(cd);
+
+      const cv = el("div", "carte");
+      cv.append(el("span", "etiquette", "À venir"));
+      const lv = el("div", "liste");
+      (G.a_venir || []).forEach(a => lv.append(ligne(a.quoi, dateFr(a.date) + (a.heure ? " " + a.heure : ""), a.qui)));
+      if (!(G.a_venir || []).length) lv.append(el("span", "sous", "Rien de prévu."));
+      cv.append(lv, bouton("Ouvrir le calendrier", () => ouvrir("calendrier")));
+      z.append(cv);
+
+      const plus = bouton("Toutes les options", () => { memoire.ecrire("gestion-onglet", "tableau"); onglet = "tableau"; dessiner(); });
+      plus.classList.add("discret");
+      z.append(plus);
     };
 
     // TAB 1: TABLEAU DE BORD & VUE D'ENSEMBLE
@@ -401,7 +457,7 @@ appli({
     const tabs = el("div", "onglets-appli"), zone = el("div", "");
     const dessiner = () => {
       tabs.replaceChildren();
-      choix.forEach(([id, nom]) => {
+      choix.filter(([id]) => id !== "simple" || G.simple).forEach(([id, nom]) => {
         const b = el("button", "", nom);
         b.type = "button";
         b.setAttribute("aria-selected", String(onglet === id));
@@ -415,7 +471,8 @@ appli({
       zone.replaceChildren();
       zone.style.display = "grid";
       zone.style.gap = "14px";
-      ({ tableau, collaborateurs, souverain, rh, juridique, documents }[onglet])(zone);
+      tabs.hidden = onglet === "simple";
+      ({ simple, tableau, collaborateurs, souverain, rh, juridique, documents }[onglet])(zone);
     };
     main.append(tabs, zone);
     dessiner();

@@ -29,6 +29,9 @@ appli({
       });
       main.append(f);
     };
-    liste();
+    const cible = memoire.lire("messages-ouvrir", "");  /* lien direct depuis une autre application (Gestion 3.0) */
+    memoire.ecrire("messages-ouvrir", "");
+    const i = cible ? D.conversations.findIndex(c => c.nom === cible) : -1;
+    if (i >= 0) fil(i); else liste();
   },
 });
