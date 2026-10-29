@@ -373,3 +373,5 @@ AFFIRMATIONS VÉRIFIÉES
 - Budget d'API : 40,88 € sur 1 000 € ce mois-ci.
 
 Prochain rapport : demain à 20h00.
+**[20/08/2041 - 20:05 (Abidjan)] William :** Envoie un message à Coulibaly : il doit transmettre la copie du bail au plus vite, il faut qu'on l'ait. Relance-le aussi sur la signature du contrat de la directrice commerciale.
+**[20/08/2041 - 20:07 (Abidjan)] Agent central :** Reçu à 20h05. Courriel envoyé à Mohamed Coulibaly à 20h06 : copie du bail signé à transmettre au plus vite ; point demandé sur la signature du contrat de Viviane Tanoh. Il est hors de ses heures de bureau ; je te transmets sa réponse dès qu'elle arrive, au plus tard au rapport de demain, 20h00.

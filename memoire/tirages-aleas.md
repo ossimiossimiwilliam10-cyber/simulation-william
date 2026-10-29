@@ -4447,3 +4447,7 @@ Effets à jouer : A19 (dimanche 25/08 (soir)) : Un adulte attrape 2 à 4 rhumes 
 - Tirage [T24b] « Chauffeur Yango commandé par la réception (résidence → Playce Palmeraie, 20/08/2041 10h25) » : arrive 90 / annule 10 ; modificateurs : aucun ; jet  39.2 → **arrive** (enregistré le 29/10/2026 19:18 heure machine)
 
 - Tirage [T24b] « Chauffeur Yango commandé par la réception (Playce Palmeraie → résidence, 20/08/2041 10h56) » : arrive 90 / annule 10 ; modificateurs : aucun ; jet  12.5 → **arrive** (enregistré le 29/10/2026 19:23 heure machine)
+
+- Tirage [T7c] « Coulibaly, relancé par le DGV à 20h06 sur demande de William : transmettre la copie du bail au plus vite ; point sur la signature du contrat de Viviane Tanoh (20/08/2041 soir) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  98.2 → **frontal_refus** (enregistré le 29/10/2026 19:40 heure machine)
+
+- Tirage [T10] « Mohamed Coulibaly : délai (répond à la relance (copie du bail, contrat de Viviane Tanoh)) » : immediat 19 / rapide 33 / dans_l_heure 15 / dans_la_journee 14 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 4 ; modificateurs : M73 ; jet  73.7 → **dans_la_journee** (enregistré le 29/10/2026 19:40 heure machine)
