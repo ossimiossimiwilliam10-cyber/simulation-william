@@ -1,39 +1,38 @@
 # Dernier tour montré au joueur
 
-> Tour n° 119 ; horloge 20/08/2041 20:00 -> 20/08/2041 20:07 ; enregistré le 29/10/2026 19:41 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 120 ; horloge 20/08/2041 20:07 -> 21/08/2041 06:34 ; enregistré le 29/10/2026 19:48 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Par contre, je demande à l'équipe virtuelle d'envoyer un message comme quoi il faut que Koulibaly transmette le bail au plus vite, la copie du bail au plus vite. Il faut qu'on puisse l'avoir. Il demande également de le relancer concernant la signature du contrat de la commerciale, de la directrice commerciale.
+> Go
 
 ## Texte envoyé au joueur
 
-**MARDI 20 AOÛT 2041 — 20h07 — Abidjan, Cocody Deux-Plateaux, résidence hôtelière**
+**MERCREDI 21 AOÛT 2041 — 06h34 — Abidjan, Cocody Deux-Plateaux, résidence hôtelière**
 
-Tu écris à ton directeur général virtuel :
+La soirée se termine sans autre message. Tu éteins un peu après 23h.
 
-« Envoie un message à Coulibaly : il doit transmettre la copie du bail au plus vite, il faut qu'on l'ait. Relance-le aussi sur la signature du contrat de la directrice commerciale. »
+Tu te réveilles à 06h34, avant ton réveil. Le jour se lève à peine : un gris laiteux derrière le rideau, le premier chant d'un coq quelque part dans les cours, le moteur d'un gbaka qui tousse au bout de la rue.
 
-Réponse à 20h07 :
+Sur ton téléphone, un message de ton directeur général virtuel, arrivé à 06h04 :
 
-« Reçu à 20h05. Courriel envoyé à Mohamed Coulibaly à 20h06 : copie du bail signé à transmettre au plus vite ; point demandé sur la signature du contrat de Viviane Tanoh. Il est hors de ses heures de bureau ; je te transmets sa réponse dès qu'elle arrive, au plus tard au rapport de demain, 20h00. »
+« Réponse de Mohamed Coulibaly à mon courriel d'hier soir, reçue à 06h01, mot pour mot : « Bonjour. Le bail et les contrats sont des pièces de la société. Je les transmets à M. Ossimi directement, sur direction@soleil-b2b.ci, pas à une adresse de projet. Cordialement, M. Coulibaly. » Rien sur le contrat de Viviane Tanoh. Il ne refuse pas de te transmettre le bail : il refuse de l'envoyer à l'adresse de l'équipe du projet, qu'il ne relie à personne d'identifié. Il ne sait pas que je travaille pour toi, et la règle de discrétion que tu as fixée l'empêche de le savoir. À toi de voir si tu lui demandes le bail toi-même, sur ton adresse direction, ou autrement. Le reste au rapport de 20h00. »
 
-Dehors, la nuit est tombée ; les phares des voitures balaient le plafond de la chambre à travers le rideau mal tiré.
-
-Il est 20h07.
+Il est 06h34.
 
 ---
 
 **Réponses attendues**
-- **Mohamed Coulibaly** : relancé à 20h06 (copie du bail, contrat de Viviane Tanoh) ; pas encore de réponse.
+- **Directeur général virtuel** : Coulibaly refuse d'envoyer le bail et les contrats à l'adresse de l'équipe du projet ; il ne les transmettra qu'à toi, sur ton adresse direction@soleil-b2b.ci. Rien sur le contrat de Viviane Tanoh.
 
 **À faire / à fournir avant le tour suivant**
 - Aucune démarche en cours.
 
 **Quêtes secondaires**
-- Dépouillement des devis d'aménagement des Vallons : demain, mercredi 21 août à 16h00.
+- Dépouillement des devis d'aménagement des Vallons : aujourd'hui, mercredi 21 août à 16h00.
 - Complément de 2 683 € : crédit attendu jeudi ou vendredi ; reçu du bailleur à recevoir.
 - Prolongation du gardiennage : réponse de l'agence attendue jeudi.
 - Départ d'Abidjan le dimanche 25 août : règlement de la résidence à midi (1 690 €, plus les extras portés sur ta note), vol Air France AF703 vers Paris à 22h15.
+- Rapport du directeur général virtuel ce soir à 20h00.
 
 Que veux-tu faire ?
