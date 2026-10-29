@@ -4559,3 +4559,19 @@ Aucun aléa déclenché cette semaine.
 - Tirage [T22] « Front H006 « Ébène Watt casse les prix chez les petits clients » : semaine du 26/08/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet   8.7 → **zero_segment** (enregistré le 29/10/2026 21:11 heure machine)
 
 - Actualités de la semaine du 26/08/2041 : modèles LU03, LU04, FR01 [PROCÉDURE : outils/actualites.py] (enregistré le 29/10/2026 21:11 heure machine)
+
+- Procédure « Crédit du versement 1 de la première tranche (20 000 €, exécuté le 23/08) sur le compte SGCI » : lundi 26/08 16:10 [PROCÉDURE : 1 à 3 jours ouvrés : lundi ou mardi] (enregistré le 29/10/2026 21:15 heure machine)
+
+- Jet « Mohamed Coulibaly tient sa promesse : confirme Froid Lagune Services et verse l'acompte avant le 28/08 » : probabilité 90 %, jet  35.9 → **OUI** [PROCÉDURE : fiabilité tirée du personnage (lenteur.py)] (enregistré le 29/10/2026 21:15 heure machine)
+
+- Jet « Mohamed Coulibaly tient sa promesse : dépose les demandes CIE et SODECI avant le 30/08 » : probabilité 90 %, jet  25.4 → **OUI** [PROCÉDURE : fiabilité tirée du personnage (lenteur.py)] (enregistré le 29/10/2026 21:15 heure machine)
+
+- Jet « Mohamed Coulibaly tient sa promesse : envoie son compte rendu du mardi 27/08 17h00 » : probabilité 90 %, jet  49.6 → **OUI** [PROCÉDURE : fiabilité tirée du personnage (lenteur.py)] (enregistré le 29/10/2026 21:15 heure machine)
+
+- Jet « Mohamed Coulibaly tient sa promesse : envoie son compte rendu du vendredi 30/08 12h00 » : probabilité 90 %, jet   6.9 → **OUI** [PROCÉDURE : fiabilité tirée du personnage (lenteur.py)] (enregistré le 29/10/2026 21:15 heure machine)
+
+- Tirage [T12] « Bailleur (via l'agence) : prix de la prolongation du gardiennage de la villa en septembre, rendez-vous du 26/08 avec Coulibaly » : maintient_sa_position 34 / concede_un_peu 22 / concede_beaucoup 6 / contre_propose_avantage 14 / exige_ecrit_d_abord 10 / invoque_alternative 8 / temporise 5 / frontal_retrait 1 ; modificateurs : aucun ; jet  29.8 → **maintient_sa_position** (enregistré le 29/10/2026 21:15 heure machine)
+
+- Tirage [T15] « Lenny reçoit de William le maillot officiel des Éléphants XL promis (club, 26/08/2041 18h00) » : rien_laisse_passer 30 / accepte_volontiers 18 / garde_distance 14 / en_parle_a_d_autres 12 / rend_la_pareille 10 / demande_explication 8 / decline 6 / frontal_conflit 2 ; modificateurs : aucun ; jet  66.2 → **en_parle_a_d_autres** (enregistré le 29/10/2026 21:15 heure machine)
+
+- Procédure « William : nuits du 26/08 au 01/09 (avance hebdomadaire) » : 26/08 22:36-07:03 ; 27/08 23:00-07:21 ; 28/08 22:41-05:42 ; 29/08 23:08-07:39 ; 30/08 23:18-06:20 ; 31/08 23:26-07:03 [PROCÉDURE : coucher 22h30-23h30 (samedi 23h-24h), sommeil 7 h à 8 h 40] (enregistré le 29/10/2026 21:16 heure machine)

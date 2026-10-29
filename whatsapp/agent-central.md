@@ -570,3 +570,25 @@ Deux décisions :
 Je vois tes ordres dans l'application Banque : 5 000 € par mois vers la société à partir du 2 septembre, 1 487 € vers l'épargne, plus rien vers l'ETF.
 
 Avec 5 000 € au lieu de 6 487 €, la société consomme environ 13 250 € nets par mois. Sans contrat, la caisse tient jusqu'à fin décembre ; elle passe sous zéro début janvier. Le tableau à jour est dans l'application Gestion.
+**[01/09/2041 - 08:55 (Paris)] Agent central :** Séance du dimanche 1er septembre 2041, 09h00. Ordre du jour.
+
+BILAN DE LA SEMAINE (26 août au 1er septembre)
+- Ton versement de 20 000 € est arrivé lundi à 16h10.
+- Froid Lagune Services : confirmé par Coulibaly mardi, acompte de 2 768 000 FCFA versé le jour même. Climatiseurs annoncés vers le 17 septembre.
+- Gardiennage : l'agence du bailleur n'a pas bougé sur son prix, 540 000 FCFA par mois pour deux agents, jour et nuit. Coulibaly a signé la prolongation pour septembre, comme tu l'avais décidé.
+- CIE et SODECI : demandes déposées par Coulibaly jeudi. Les avances sur consommation seront chiffrées par les deux sociétés ; il n'a pas encore les montants.
+- Comptes rendus de Coulibaly : reçus mardi à 17h00 et vendredi à 12h00, à l'heure. Archivés.
+- Pas avancé : devis informatiques (aucun reçu), location du pickup (non chiffrée), reçu du dépôt de garantie (toujours absent).
+
+TRÉSORERIE AU 1er SEPTEMBRE
+- Sur le compte de la société : environ 9,8 millions de FCFA (15 000 €) après le loyer et le gardiennage de septembre.
+- Demain, ton premier apport mensuel de 5 000 € ; le 25, le versement de 40 000 €.
+- Toujours sans recette : la caisse tient jusqu'à fin décembre.
+
+DÉCISIONS À PRENDRE
+1. Gardiennage à partir d'octobre : on prolonge encore le prestataire du bailleur (540 000 FCFA par mois), ou Mariam Brou lance dès son arrivée, le 1er octobre, un appel d'offres pour notre propre contrat, avec prolongation d'un mois en attendant ?
+2. Avenant sur les jalons de la deuxième tranche (25 000 € au premier contrat client signé, 25 000 € au deuxième) : rédigé, prêt pour Me Gnamien. Tu valides le texte tel quel ? Oui ou non.
+3. Reçu du dépôt de garantie : 5,25 millions de FCFA payés le 23 août, toujours sans reçu. Je fais relancer l'agence par Coulibaly avec un délai écrit ? Oui ou non.
+
+POUR INFORMATION
+- Veille « faute lourde » : rien à signaler. Coulibaly a tenu tous ses engagements de la semaine.

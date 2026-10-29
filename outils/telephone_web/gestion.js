@@ -20,7 +20,8 @@ appli({
       ["souverain", "Évaluation William"],
       ["rh", "Candidatures"],
       ["juridique", "Juridique"],
-      ["documents", "Documents"]
+      ["documents", "Documents"],
+      ["archives", "Rapports archivés"]
     ];
     let onglet = memoire.lire("gestion-onglet", G.simple ? "simple" : "tableau");
     if (!choix.some(c => c[0] === onglet) || (onglet === "simple" && !G.simple)) onglet = G.simple ? "simple" : "tableau";
@@ -84,6 +85,18 @@ appli({
       const plus = bouton("Toutes les options", () => { memoire.ecrire("gestion-onglet", "tableau"); onglet = "tableau"; dessiner(); });
       plus.classList.add("discret");
       z.append(plus);
+    };
+
+    // RAPPORTS ARCHIVÉS (P42, 26/08/2041) : les rapports de 20h00 du conseiller, consultables seulement si William les ouvre
+    const archives = z => {
+      const l = el("div", "liste");
+      const A = [...(G.archives || [])].sort((a, b) => (a.fichier < b.fichier ? 1 : -1));
+      A.forEach(a => {
+        const g = ligne(a.fichier.replace(/_/g, " ").replace(/\.pdf$/, ""), a.date || "");
+        if (a.url || a.lien) { const x = el("a"); x.href = a.url || a.lien; x.target = "_blank"; x.rel = "noopener"; x.append(g); l.append(x); } else l.append(g);
+      });
+      if (!A.length) l.append(el("span", "sous", "Aucun rapport archivé."));
+      z.append(l);
     };
 
     // TAB 1: TABLEAU DE BORD & VUE D'ENSEMBLE
@@ -472,7 +485,7 @@ appli({
       zone.style.display = "grid";
       zone.style.gap = "14px";
       tabs.hidden = onglet === "simple";
-      ({ simple, tableau, collaborateurs, souverain, rh, juridique, documents }[onglet])(zone);
+      ({ simple, tableau, collaborateurs, souverain, rh, juridique, documents, archives }[onglet])(zone);
     };
     main.append(tabs, zone);
     dessiner();

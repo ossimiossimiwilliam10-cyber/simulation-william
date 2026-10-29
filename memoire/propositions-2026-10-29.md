@@ -30,3 +30,6 @@
 
 ## Décision de l'utilisateur
 - 29/10/2026 : « Je valide P37 à P41 » (avant : en attente → maintenant : validées et installées le même jour ; voir `outils/LISEZMOI.md` §7, consigne 8).
+
+## Revue n° 6 (26/08/2041) : P42 à P44
+- 29/10/2026 : « Je valide P42 à P44 » : rubrique « Rapports archivés » dans Gestion (P42), aléas A40 et A41 actifs (P43, P44).

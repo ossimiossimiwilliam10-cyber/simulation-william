@@ -44,7 +44,7 @@ MECANISMES = [
 ]
 ALEA_ANNONCE = r"al[ée]as?[^.\n]{0,90}(?:programm|tir[ée]s?\b|d[ée]clench|pr[ée]vu)"
 JOURS = r"(?:lundi|mardi|mercredi|jeudi|vendredi|samedi|dimanche)"
-EN_TETE = re.compile(r"^\*\*[A-ZÉÛÈÔ]+ \d{1,2} [A-ZÉÛÈÔ]+ \d{4} — \d{2}h\d{2} — .+\*\*\s*$")
+EN_TETE = re.compile(r"^\*\*[A-ZÉÛÈÔ]+ \d{1,2}(?:er)? [A-ZÉÛÈÔ]+ \d{4} — \d{2}h\d{2} — .+\*\*\s*$")
 
 
 def controle(texte, avance_heures=None):

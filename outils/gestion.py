@@ -180,6 +180,7 @@ def donnees_telephone(t):
         "tribunal": "Tribunal de commerce d'Abidjan"
     }
     return {"installee": True, "version": version, "simple": version == "3.0", "finances": finances_societe(t), "a_venir": a_venir(t),
+            "archives": [{"fichier": f["fichier"], "lien": f.get("lien", ""), "url": f.get("url", ""), "date": f.get("date", "")} for f in fichiers_visibles if "Rapport_quotidien" in f["fichier"]],  # P42
             "agents": agents, "estimation": cout_auto(t), "plafond": plafond, "depense": dep, "restant": round(plafond - dep, 2),
             "modele": c.get("modele", ""), "poles": poles, "sources": sources, "documents": docs, "candidats": candidats, "annonces": plateformes,
             "collaborateurs": collaborateurs, "evaluation_william": eval_william, "open_banking": open_banking,

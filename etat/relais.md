@@ -1,64 +1,87 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 29/10/2026 21:11 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 29/10/2026 21:17 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : lundi 26 août 2041, 05h52 (paris) ; tour n° 138
-- Lieu de William : Paris, aéroport Charles-de-Gaulle, terminal 2E (arrivée du vol AF703)
-- En attente de William : Correspondance pour Luxembourg à 09h40 (terminal 2G) ; revue du lundi n° 6 : P42 à P44 à valider
+- Horloge : dimanche 1er septembre 2041, 09h00 (luxembourg) ; tour n° 139
+- Lieu de William : Audun-le-Tiche (Moselle), chez William
+- En attente de William : Séance du dimanche : trois décisions (gardiennage d'octobre, avenant des jalons, reçu du dépôt)
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 138 ; horloge 25/08/2041 17:12 -> 26/08/2041 05:52 ; enregistré le 29/10/2026 21:11 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 139 ; horloge 26/08/2041 05:52 -> 01/09/2041 09:00 ; enregistré le 29/10/2026 21:17 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Go
+> Je valide P42 à P44 et Go Bon, alors je planifie globalement ma semaine. Donc aujourd'hui, je vais rejoindre Lenny à 18h pour le sparring. Donc je ferai sport lundi, mercredi, vendredi, c'est tout. Donc les 3 jours, seulement 3 jours cette semaine. Toujours aller au club. Hein. Et dimanche, du coup, je prendrai un moment dimanche matin, du coup, pour bosser sur l'entreprise, comme je l'ai dit. Après tout le reste, bah, on passe en mode automatique. (… règle de l'avance hebdomadaire)
 
 ## Texte envoyé au joueur
 
-**LUNDI 26 AOÛT 2041 — 05h52 — Paris, aéroport Charles-de-Gaulle, terminal 2E**
+**DIMANCHE 1er SEPTEMBRE 2041 — 09h00 — Audun-le-Tiche (Moselle), chez toi**
 
-En début de soirée, ta gorge commence à gratter. Rien d'abord, puis un picotement à chaque déglutition, le nez qui coule, une petite douleur derrière les yeux. Tu mets ça sur le compte de la climatisation de la résidence et des courants d'air du hall.
+La correspondance part à l'heure de Roissy ; à 10h50, tu poses le pied à Findel sous une petite pluie fine, quinze degrés, le ciel gris bas du Luxembourg qui te paraît presque froid. Au parking couvert, la borne réclame 255,22 € pour quatorze jours ; tu paies par carte, et ta voiture électrique te ramène à Audun-le-Tiche en vingt-cinq minutes, la tête lourde et le nez bouché. La maison sent le renfermé. Tu ouvres toutes les fenêtres, tu défais la valise et tu dors deux heures.
 
-L'enregistrement ouvre à 19h15. La valise part sur le tapis, le maillot de Lenny dedans ; contrôle des passeports, puis le filtrage, ceinture et chaussures dans les bacs gris. En salle d'embarquement, des familles ivoiriennes de Paris rentrent de vacances avec des sacs de pagnes et des cartons de mangues ; un bébé pleure par vagues. L'avion décolle à l'heure, 22h15. Par le hublot, Abidjan s'étale en traînées de lumière orange le long de la lagune, puis disparaît sous les nuages.
+À 18h00, au Minett Combat Club, la salle a gardé l'odeur des tapis et du désinfectant de la rentrée. Lenny t'attend déjà échauffé, à l'heure pile, en regardant ostensiblement l'horloge quand tu entres. C'est un grand gaillard d'un mètre quatre-vingt-trois, la trentaine, sec et musclé, les épaules larges et les avant-bras épais d'un ouvrier du bâtiment. Visage carré aux pommettes hautes, peau mate, yeux bridés et vifs, une barbe noire courte et bien taillée, des cheveux noirs rasés sur les côtés et plus longs sur le dessus, attachés en petit chignon. Short noir, t-shirt délavé d'un trail de 2039, bandes de boxe autour des mains. Quand tu sors le maillot orange du sac, il le déplie à bout de bras, siffle, l'enfile par-dessus son t-shirt et fait le tour du vestiaire pour le montrer : « Il revient d'Abidjan, les gars, William il monte une boîte là-bas, sérieux ! » Le sparring reste léger : ton rhume te coupe le souffle dès le deuxième round, et Lenny, pour une fois, ne force pas. À 22h14, il t'écrit : « Merci encore pour le maillot frère, il est trop propre 🔥 Tout le monde a kiffé au vestiaire. Mercredi même heure ? »
 
-La nuit est mauvaise. Le siège ne s'incline pas assez pour tes un mètre quatre-vingt-seize, le rhume te bouche le nez, et tu ne dors que par morceaux, quatre heures en tout. Le petit-déjeuner passe à l'aube, au-dessus de l'Espagne : un café tiède, une viennoiserie que tu ne finis pas.
+Le reste de la semaine passe sans heurt. Le rhume lâche prise dès mardi. Mercredi et vendredi, tu retournes au club, et tu retrouves ta respiration et tes appuis ; vendredi, tu enchaînes cinq rounds de sparring sans baisser les mains. Jeudi soir, les courses au supermarché d'Audun, 96,40 €. La maison reprend son rythme : le lave-linge, le jardin à tondre, le courrier entassé pendant deux semaines, sans rien d'urgent dedans. Ton conseiller ne t'écrit pas de la semaine.
 
-À 05h41, heure de Paris, les roues touchent la piste de Roissy sous un ciel bas et gris. Dans la passerelle, l'air est frais, quinze degrés à peine ; après deux semaines à Abidjan, il te saisit aux bras. Ton téléphone se rallume et capte le réseau français. L'application Air France affiche ta correspondance pour Luxembourg : départ à 09h40 du terminal 2G, arrivée vers 10h45.
+Ce dimanche, tu t'installes à la table de la cuisine avec un café. Le ciel est clair, frais ; un voisin passe la tondeuse de l'autre côté de la haie. À 08h55, ton conseiller :
 
-Il est 05h52.
+« Séance du dimanche 1er septembre 2041, 09h00. Ordre du jour.
+
+BILAN DE LA SEMAINE (26 août au 1er septembre)
+- Ton versement de 20 000 € est arrivé lundi à 16h10.
+- Froid Lagune Services : confirmé par Coulibaly mardi, acompte de 2 768 000 FCFA versé le jour même. Climatiseurs annoncés vers le 17 septembre.
+- Gardiennage : l'agence du bailleur n'a pas bougé sur son prix, 540 000 FCFA par mois pour deux agents, jour et nuit. Coulibaly a signé la prolongation pour septembre, comme tu l'avais décidé.
+- CIE et SODECI : demandes déposées par Coulibaly jeudi. Les avances sur consommation seront chiffrées par les deux sociétés ; il n'a pas encore les montants.
+- Comptes rendus de Coulibaly : reçus mardi à 17h00 et vendredi à 12h00, à l'heure. Archivés.
+- Pas avancé : devis informatiques (aucun reçu), location du pickup (non chiffrée), reçu du dépôt de garantie (toujours absent).
+
+TRÉSORERIE AU 1er SEPTEMBRE
+- Sur le compte de la société : environ 9,8 millions de FCFA (15 000 €) après le loyer et le gardiennage de septembre.
+- Demain, ton premier apport mensuel de 5 000 € ; le 25, le versement de 40 000 €.
+- Toujours sans recette : la caisse tient jusqu'à fin décembre.
+
+DÉCISIONS À PRENDRE
+1. Gardiennage à partir d'octobre : on prolonge encore le prestataire du bailleur (540 000 FCFA par mois), ou Mariam Brou lance dès son arrivée, le 1er octobre, un appel d'offres pour notre propre contrat, avec prolongation d'un mois en attendant ?
+2. Avenant sur les jalons de la deuxième tranche (25 000 € au premier contrat client signé, 25 000 € au deuxième) : rédigé, prêt pour Me Gnamien. Tu valides le texte tel quel ? Oui ou non.
+3. Reçu du dépôt de garantie : 5,25 millions de FCFA payés le 23 août, toujours sans reçu. Je fais relancer l'agence par Coulibaly avec un délai écrit ? Oui ou non.
+
+POUR INFORMATION
+- Veille « faute lourde » : rien à signaler. Coulibaly a tenu tous ses engagements de la semaine. »
+
+Il est 09h00.
 
 ---
 
 **Réponses attendues**
-- Aucune.
+- **Ton conseiller (séance du dimanche)** : trois décisions :
+  1. gardiennage à partir d'octobre : prolonger encore le prestataire du bailleur, ou appel d'offres de Mariam Brou dès son arrivée, avec un mois de prolongation en attendant ;
+  2. avenant sur les jalons de la deuxième tranche : valider le texte tel quel ? Oui ou non ;
+  3. reçu du dépôt de garantie : relancer l'agence avec un délai écrit ? Oui ou non.
+- **Lenny Nguyen** : « Mercredi même heure ? » (lundi soir, resté sans réponse écrite).
 
 **À faire / à fournir avant le tour suivant**
-- Correspondance pour Luxembourg à 09h40, terminal 2G (navette depuis le 2E).
+- Tes décisions pour la séance.
 
 **Quêtes secondaires**
-- Réouverture du club ce soir à 18h00 : Lenny t'attend pour le sparring, avec son maillot.
-- Versement de 20 000 € : crédit attendu sur le compte de la société aujourd'hui ou demain ; Froid Lagune Services à confirmer au plus tard mercredi 28.
-- Coulibaly : CIE et SODECI à déposer cette semaine ; prix de la prolongation du gardiennage ; plan rectifié à mettre en œuvre.
-- Premier apport mensuel de 5 000 € à la société le lundi 2 septembre.
-- Prochaine séance avec ton conseiller : dimanche 1er septembre.
-
-Que veux-tu faire ?
+- Demain, lundi 2 septembre : premier apport mensuel de 5 000 € à la société, prélèvement du club (85 €).
+- Lundi 9 septembre : relevé de la Visa Premier (environ 2 500 €, le séjour à Abidjan).
+… (suite dans etat/dernier-tour.md, 64 lignes)
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
-- A134 Mon 26/08 09:40 (paris) | Air France : Correspondance Paris-CDG (terminal 2G) → Luxembourg-Findel, arrivée vers 10h45 (billet aller-retour du 27/07) [prevu]  — horaire fixé au retour (la correspondance n'était pas détaillée dans le billet consigné)
-- A121 Mon 26/08 19:00 (paris) | Mohamed Coulibaly : Réponse de l'agence de gardiennage (via le bailleur) sur la prolongation du gardiennage de la villa en septembre ; copie du bail promise « dès qu'il repasse à la villa » [prevu]  — promesses du 20/08 09h55 ; T18 si manquement | reporté de 2041-08-22 17:00 : T12 temporise : le bailleur veut en parler en début de semaine prochaine (courrier de l'agence du 22/08) ; copie du bail déjà reçue le 21/08
+- rien
 
 ## Rituels du moteur dus (rituels.py)
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_annonce : T4/T5 du dimanche 25/08 non trouvés -> python outils/savoir.py t5
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_art14 : T4/T5 du dimanche 25/08 non trouvés -> python outils/savoir.py t5
-- [DÛ] message_proche : message spontané d'un proche (semaine du 26/08) non tiré -> python outils/rituels.py message-proche --semaine 2041-08-26
-- [DÛ] monde_semaine : nouvelles du monde de la semaine du 26/08 absentes de etat/monde.md -> ## Semaine du 26 au 01/09/2041
+- [DÛ] synthese_semaine : ce soir : synthèse de la semaine, T4/T5 des affaires ouvertes -> python outils/savoir.py t5
+- [EN RETARD] message_proche : message spontané d'un proche (semaine du 26/08) non tiré -> python outils/rituels.py message-proche --semaine 2041-08-26
+- [EN RETARD] monde_semaine : nouvelles du monde de la semaine du 26/08 absentes de etat/monde.md -> ## Semaine du 26 au 01/09/2041
 
 ## Décisions en attente de William (etat/fils-ouverts.md, A)
 | 1 | **Organisation des vacances d'été 2041** | Premier jour des grandes vacances scolaires (du mardi 16/07/2041 au dimanche 15/09/2041). Choix des projets, voyages, rythme de vie ou déplacements estivaux. Budget vacances disponible : 833 €/mois (10 000 €/an). ; *(26/07 10h30) projet de mission à Abidjan à l'étude (fenêtre idéale : 12 au 25 août 2041, pendant la fermeture estivale du club de combat) pour rencontrer Mohamed Coulibaly, Me Gnamien et valider le QG* ; *(26/07 18h30) déplacement de 14 jours validé par William (du lundi 12 au dimanche 25 août 2041, pendant la fermeture annuelle du Minett Combat Club)* ; *(27/07 08h45) mission Abidjan calée du 12 au 25 août 2041 (14 jours) : vol Air France retenu depuis Luxembourg-Findel (1 285 € A/R), option confirmée sur résidence hôtelière F2 sécurisée à Cocody Deux-Plateaux (1 690 €), carnet international à jour (vaccin fièvre jaune confirmé par William)* ; *(27/07 20h00) vol Air France réglé (1 285 € sur Visa Premier, K002), pré-enrôlement e-visa SNEDAI payé et validé (73 € sur Visa Premier, K003), option résidence sécurisée Cocody active (1 690 €) ; logistique de mission Abidjan bouclée* ; *(31/07 11h20) aléa administratif A09 résolu : anomalie d'inversion des prénoms sur le portail SNEDAI rectifiée en ligne, attestation officielle de pré-enrôlement e-visa biométrique reçue (entrée FHB validée)* ; *(11/08 21h30) (11/08 21h30) Preparatifs acheves la veille du depart : voiture chargee a 100 %, reveil regle a 04h15 pour vol AF1233 Findel-CDG-Abidjan du lundi 12 aout a 06h50 ; bagages et documents physiques prets* ; *(12/08 21h00) (12/08 21h00) Arrivée sans incident à Abidjan par le vol AF702 via Paris CDG ; formalités sanitaires et e-visa biométrique SNEDAI franchies avec succès à FHB ; installation dans l'appartement F2 climatisé de la résidence hôtelière à Cocody Deux-Plateaux ; prise de contact confirmée avec Mohamed Coulibaly pour la signature notariée des statuts et du mandat DG chez Me Gnamien mardi 13 août à 10h00* ; *(13/08 09h50) (13/08 09h50) Trajet matinal avec Mohamed Coulibaly via le pont HKB, arrivée au Cabinet de Me Gnamien au Plateau à 09h50, retrouvailles avec Mariam Brou à l'accueil, attente de l'entrée en salle de signature à 10h00 ; Revue du lundi n° 4 présentée au joueur (P27 à P31)* | Ouvert |
@@ -165,10 +188,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 3fb1039 ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : ccda65d ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 24 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 38 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

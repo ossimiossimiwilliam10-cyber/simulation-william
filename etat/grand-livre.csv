@@ -5,7 +5,7 @@ date;heure;compte;montant;type;libelle;reference
 2041-07-16;07:00;pret;102621.78;calage;Prêt logement restant dû (départ de l'univers 3, capital restant dû au 16/07/2041 selon tableau PR1);
 2041-07-16;07:00;maison_part;97378.22;valeur;Part nette de la maison d'Audun-le-Tiche (valeur estimée 200 000 € - CRD 102 621,78 €);
 2041-07-31;20:00;courant;9320.00;prevu_realise;Traitement mensuel de William (net, État luxembourgeois);E001-20410731
-2041-08-30;20:00;courant;9320.00;prevu;Traitement mensuel de William (net, État luxembourgeois);E001-20410830
+2041-08-30;20:00;courant;9320.00;prevu_realise;Traitement mensuel de William (net, État luxembourgeois);E001-20410830
 2041-08-05;06:00;courant;-949.28;prevu_realise;Mensualité du prêt immobilier et assurance emprunteur (maison d'Audun-le-Tiche) (échéance n° 84 : capital 626.84 €, intérêts 299.31 €, assurance 23.13 €);E002-20410805
 2041-08-05;06:00;pret;-626.84;prevu_realise;Prêt immobilier de la maison d'Audun-le-Tiche (taux fixe, amortissable) : capital remboursé (échéance n° 84);E002-20410805-K
 2041-08-05;06:00;maison_part;626.84;prevu_realise;Part nette du bien financé : + capital remboursé (échéance n° 84 du prêt PR1);E002-20410805-M
@@ -109,3 +109,5 @@ date;heure;compte;montant;type;libelle;reference
 2041-10-02;08:00;projet;1487.00;prevu;Virement permanent vers le compte épargne (10 % de l'excédent net) (compte crédité);E012-20411002-C
 2041-09-02;08:00;courant;-5000.00;prevu;Virement permanent vers SOLEIL B2B CI (SGCI Plateau) : apport mensuel en compte courant d'associé;E017-20410902
 2041-10-02;08:00;courant;-5000.00;prevu;Virement permanent vers SOLEIL B2B CI (SGCI Plateau) : apport mensuel en compte courant d'associé;E017-20411002
+2041-08-26;11:05;courant;-255.22;mouvement;Visa Debit : Lux-Airport : parking couvert, 14 jours (12/08 au 26/08);K030
+2041-08-29;18:40;courant;-96.40;mouvement;Visa Debit : Supermarché (Audun-le-Tiche) : courses de la semaine;K031

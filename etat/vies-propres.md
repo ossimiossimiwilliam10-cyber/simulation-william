@@ -122,7 +122,7 @@
 - **Derniers événements** : 03/08 petit_evenement (service rendu ou reçu); 09/08 sans_histoire; 13/08 sans_histoire; 23/08 sans_histoire; 26/08 sans_histoire
 
 ### Mohamed Coulibaly (répondant à l'annonce)
-- **Lien avec William** : contact_recent (whatsapp)
+- **Lien avec William** : aucun (whatsapp)
 - **Objectif** : acheter un logement (ou un plus grand) ; **souci** : contrat de travail qui se termine bientôt ; **foyer** : en couple, avec enfants
 - **Secret (moteur seulement)** : —
 - **Horaires** : règle « bureau_abidjan », fuseau abidjan, décalage -21 min ; travail 07:39-17:09 (lun, mar, mer, jeu, ven), trajet 50 min ; sommeil 23:09-05:39
