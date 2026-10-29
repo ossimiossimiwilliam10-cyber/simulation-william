@@ -101,3 +101,9 @@
 - **Luxembourg** : Logement : les prix des appartements anciens reculent de 1,3 % sur un an selon l'Observatoire de l'habitat.
 - **Lorraine (Audun-le-Tiche, Moselle)** : Moselle : travaux de nuit sur l'A31 entre Thionville et la frontière · bouchons le matin au passage de Zoufftgen.
 - *(écrit par outils/actualites.py le 29/10/2026 heure machine ; modèles tirés : LU01, LU03, FR01 ; une nouvelle datée n'est connue qu'à sa date)*
+
+## Semaine du 30/09 au 6/10/2041
+- **Luxembourg** : Logement : les prix des appartements anciens reculent de 3,8 % sur un an selon l'Observatoire de l'habitat.
+- **Luxembourg** : Carburants : nouveaux prix maximums au Luxembourg à partir de mercredi · hausse d'environ 3 centimes le litre.
+- **Lorraine (Audun-le-Tiche, Moselle)** : Moselle : travaux de nuit sur l'A31 entre Thionville et la frontière · bouchons le matin au passage de Zoufftgen.
+- *(écrit par outils/actualites.py le 29/10/2026 heure machine ; modèles tirés : LU03, LU01, FR01 ; une nouvelle datée n'est connue qu'à sa date)*

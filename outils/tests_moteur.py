@@ -212,6 +212,7 @@ def main():
     e.lancer(o + "tresorerie.py", "--au", "2041-10-01", contient="Trésorerie de SOLEIL B2B CI",
              nom="trésorerie de la société : apports, charge mensuelle, autonomie (P41)")
     e.lancer(o + "courses.py", "--help", contient="", nom="courses : aide (Abidjan ajoutée, P40)")
+    e.lancer(o + "devis_solaire.py", "--kwc", "100", contient="Devis type", nom="devis solaire B2B (P48)")
     e.lancer(o + "annonces.py", "verifier", contient="conforme", nom="annonces : fichier des annonces conforme")
     e.lancer(o + "annonces.py", "reseau", "Min-ji", "--simule", contient="note", nom="annonces : réseau d'un répondant noté sur 100 (essai)")
     e.lancer(o + "telephone.py", "--json", contient='"epingle"', nom="téléphone : conversations épinglées (etat/epingles.csv)")

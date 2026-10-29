@@ -716,3 +716,5 @@ DÉCISIONS À PRENDRE
 POUR INFORMATION
 - Trésorerie de la société : environ 39 millions de FCFA après ton versement ; lundi 30, l'indemnité de Coulibaly ; mardi 1er, loyer d'octobre, assurance, informatique et mobilier à suivre.
 - Veille « faute lourde » : rien à signaler.
+**[29/09/2041 - 09:10 (Luxembourg)] William :** Pour Lagune Kilowatt : Viviane Tanoh vend autre chose que le prix. En tout dernier recours seulement, un ajustement de prix dans le sens du client. Je valide P48 à P50.
+**[29/09/2041 - 09:14 (Luxembourg)] Agent central :** Noté à 09h14. Je l'ajoute à tes notes pour mardi, en une phrase : « On vend la garantie de production, la maintenance et le financement ; un geste sur le prix seulement en tout dernier recours, avec l'accord de la direction générale. » J'ai aussi chiffré un devis type de 100 kWc avec le nouvel outil : environ 90 millions de FCFA pour le client, 25 % de marge, retour sur investissement en 5 ans et demi. Le devis de Lagune Kilowatt cité par l'industriel serait sous notre coût d'installation.

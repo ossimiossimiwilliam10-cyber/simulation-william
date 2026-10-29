@@ -1,65 +1,46 @@
 # Dernier tour montré au joueur
 
-> Tour n° 146 ; horloge 22/09/2041 09:00 -> 29/09/2041 09:00 ; enregistré le 29/10/2026 21:58 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 147 ; horloge 29/09/2041 09:00 -> 01/10/2041 17:30 ; enregistré le 29/10/2026 22:04 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Le conseiller choisit l'assurance et le comptable ; sport un après-midi libre en semaine et samedi ; même attitude au lycée ; P45 à P47 validées ; réunion de toute l'équipe le 1er octobre.
+> Viviane vend autre chose que le prix, ajustement en tout dernier recours ; même programme (après-midi libre, samedi), viser huit heures de sommeil ; P48 à P50 validées.
 
 ## Texte envoyé au joueur
 
-**DIMANCHE 29 SEPTEMBRE 2041 — 09h00 — Audun-le-Tiche (Moselle), chez toi**
+**MARDI 1er OCTOBRE 2041 — 17h30 — Luxembourg-Ville, parking du lycée, dans ta voiture**
 
-Dimanche dernier, tu écris à ton conseiller :
+Dimanche, tu écris à ton conseiller :
 
-« Pour l'assurance et le cabinet comptable, c'est la première fois que je fais ça : je te laisse choisir et informer Coulibaly. Fais un choix vraiment logique, dans l'intérêt de l'entreprise. Et demande à Coulibaly d'organiser une réunion de toute l'équipe le 1er octobre, puisque tout le monde prend ses fonctions ce jour-là : situation de l'entreprise, consignes, surtout pour la direction commerciale. Il nous faut des clients. »
+« Pour Lagune Kilowatt : Viviane Tanoh vend autre chose que le prix. En tout dernier recours seulement, un ajustement de prix dans le sens du client. Je valide P48 à P50. »
 
-Il répond à 09h12 :
+Réponse à 09h14 :
 
-« Reçu à 09h12. Mes deux choix, et pourquoi :
-1. Assurance : celle à 820 000 FCFA par an. 60 000 FCFA de plus par an, environ 90 €, pour une franchise plus basse, alors que la villa va recevoir huit climatiseurs, de l'informatique et du mobilier. Un seul sinistre rembourserait la différence de vingt ans.
-2. Cabinet comptable : celui à 180 000 FCFA par mois, paie comprise. Avec quatre salaires dès octobre, la paie seule, ailleurs, coûterait au moins la différence, et une erreur de déclaration CNPS ou d'impôt sur salaires coûte plus cher qu'un mois d'honoraires.
-Coulibaly reçoit les deux choix demain matin, avec ta demande de réunion : mardi 1er octobre, en visioconférence, à 15h30 à Abidjan, soit 17h30 pour toi, après tes cours. Ordre du jour : situation de l'entreprise, trésorerie, rôle de chacun, comptes rendus, et objectifs commerciaux (trente cibles, premiers rendez-vous, deux contrats au premier trimestre). Je te prépare tes notes pour la réunion. »
+« Noté à 09h14. Je l'ajoute à tes notes pour mardi, en une phrase : « On vend la garantie de production, la maintenance et le financement ; un geste sur le prix seulement en tout dernier recours, avec l'accord de la direction générale. » J'ai aussi chiffré un devis type de 100 kWc avec le nouvel outil : environ 90 millions de FCFA pour le client, 25 % de marge, retour sur investissement en 5 ans et demi. Le devis de Lagune Kilowatt cité par l'industriel serait sous notre coût d'installation. »
 
-La deuxième semaine de cours est plus lourde que la première. Les réveils à six heures pèsent, tu te couches un peu plus tard qu'il ne faudrait, et le mercredi soir tu sens la fatigue dans les épaules. Ton mercredi après-midi est libre : tu en profites pour une séance au club, puis une autre samedi matin. En salle des professeurs, jeudi, Sam Ries lance à la cantonade, en te regardant : « William, toujours bronzé fin septembre, il a passé l'été sous les tropiques, lui. » Deux collègues sourient. Tu laisses passer. En classe, même cadre que la semaine précédente.
+Tu tiens ta résolution : dimanche et lundi soir, extinction à vingt-deux heures, réveil à six heures, huit heures pleines. Lundi matin, tu te lèves sans le réveil pour la première fois depuis la rentrée. La journée de cours passe vite. À 16h40, un message de Coulibaly, sur ton téléphone : « Monsieur Ossimi, indemnité bien reçue, merci. Grosse pluie à Abidjan cet après-midi, la rue des Vallons est sous l'eau, mais la villa est au sec. À demain 15h30, le lien de la visioconférence est dans votre agenda. »
 
-Mercredi matin, comme prévu dans ton calendrier, tu vires 40 000 € de ton épargne Projet vers ton compte courant, puis vers la société : le second versement de la première tranche. Jeudi soir, les courses, 99,60 €. Ton conseiller ne t'écrit pas de la semaine.
+Mardi, dernier cours à 16h45. Pas question de faire ça dans le lycée : tu descends au parking, tu t'installes au volant de ta voiture, l'ordinateur calé contre le volant, tes notes sur le siège passager, un écouteur dans l'oreille. La pluie tapote sur le pare-brise. À 17h30 pile, tu ouvres le lien.
 
-Ce dimanche, il pleut fin. À 08h55, ton conseiller, avec un document dans tes fichiers, « Notes pour la réunion d'équipe du 1er octobre » :
+Les vignettes apparaissent une à une. Coulibaly d'abord, cravaté, dans ce qui doit être le bureau de la villa, un mur blanc nu, l'emplacement du climatiseur encore vide au-dessus de la fenêtre. Puis Mariam Brou, depuis la même pièce, un carnet ouvert devant elle. Éric Koffi Yao se connecte depuis son téléphone, l'image tremble un peu. Viviane Tanoh arrive la dernière, à 17h32, s'excuse d'un geste, le visage encore un peu tiré.
 
-« Séance du dimanche 29 septembre 2041, 09h00. Ordre du jour.
+Coulibaly ouvre : « Bonjour à tous, bonjour Monsieur Ossimi. C'est notre premier jour ensemble. Je vous propose de commencer par vous, Monsieur Ossimi. »
 
-BILAN DE LA SEMAINE (23 au 29 septembre)
-- Ton versement de 40 000 € : parti mercredi de ton épargne, crédité vendredi. Ton épargne Projet est à 6 786 €.
-- CIE et SODECI : compteurs posés mardi, contrats actifs. Dossier clos.
-- Prospection : Coulibaly a atteint ses trente cibles et trois rendez-vous, dont l'usine d'emballage de Vridi le jeudi 3 octobre. Dans son compte rendu de vendredi, il signale qu'un des industriels a cité un devis de Lagune Kilowatt « nettement plus bas que le marché ».
-- Coulibaly : gastro jeudi et vendredi ; il a tenu son compte rendu de vendredi depuis chez lui.
-- Assurance et cabinet comptable : contrats en signature pour le 1er octobre.
-- Réunion d'équipe : confirmée mardi 1er octobre, 15h30 à Abidjan (17h30 pour toi), en visioconférence. Tes notes sont dans tes documents.
-- Viviane Tanoh : rétablie ; elle confirme sa prise de fonction mardi.
+Quatre visages attendent.
 
-DÉCISIONS À PRENDRE
-1. Lagune Kilowatt casse ses prix sur les toitures industrielles. Pour la réunion de mardi, quelle consigne donnes-tu à Viviane Tanoh : s'aligner sur les prix, ou vendre autre chose que le prix (garantie de production, maintenance, financement) ?
-
-POUR INFORMATION
-- Trésorerie de la société : environ 39 millions de FCFA après ton versement ; lundi 30, l'indemnité de Coulibaly ; mardi 1er, loyer d'octobre, assurance, informatique et mobilier à suivre.
-- Veille « faute lourde » : rien à signaler. »
-
-Il est 09h00.
+Il est 17h30.
 
 ---
 
 **Réponses attendues**
-- **Ton conseiller (séance du dimanche)** : la consigne commerciale pour Viviane Tanoh face aux prix cassés de Lagune Kilowatt : s'aligner sur les prix, ou vendre autre chose que le prix (garantie de production, maintenance, financement).
+- **L'équipe en visioconférence** : Coulibaly te donne la parole pour ouvrir la réunion (situation de l'entreprise, rôles, consignes, priorité commerciale) ; tes notes sont ouvertes à côté.
 
 **À faire / à fournir avant le tour suivant**
-- Ta décision ; relis tes notes pour la réunion de mardi.
-- Ton programme de la semaine du 30 septembre au 6 octobre.
+- Ton intervention.
 
 **Quêtes secondaires**
-- Lundi 30 septembre : indemnité d'un million de FCFA à Coulibaly.
-- Mardi 1er octobre, 17h30 (15h30 à Abidjan) : réunion d'équipe en visioconférence, avec ton intervention ; prise de fonction de Mariam Brou, Viviane Tanoh et Éric Koffi Yao ; climatiseurs attendus.
 - Mercredi 2 octobre : deuxième apport mensuel de 5 000 €.
-- Jeudi 3 octobre : rendez-vous de prospection à Vridi.
+- Jeudi 3 octobre : rendez-vous de prospection à Vridi (Viviane Tanoh et Éric Koffi Yao).
+- Consultation de gardiennage de Mariam Brou : réponse avant le 20 octobre.
 
 Que veux-tu faire ?

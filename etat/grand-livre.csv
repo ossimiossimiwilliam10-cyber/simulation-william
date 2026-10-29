@@ -34,7 +34,7 @@ date;heure;compte;montant;type;libelle;reference
 2041-08-01;06:00;courant;-12.83;prevu_realise;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20410801
 2041-09-02;06:00;courant;-12.83;prevu_realise;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20410902
 2041-07-16;12:33;courant;-24.30;mouvement;Visa Debit : Abonnement agent IA (formule Pro, engagement 12 mois);K001
-2041-09-30;20:00;courant;9320.00;prevu;Traitement mensuel de William (net, État luxembourgeois);E001-20410930
+2041-09-30;20:00;courant;9320.00;prevu_realise;Traitement mensuel de William (net, État luxembourgeois);E001-20410930
 2041-10-31;20:00;courant;9320.00;prevu;Traitement mensuel de William (net, État luxembourgeois);E001-20411031
 2041-11-29;20:00;courant;9320.00;prevu;Traitement mensuel de William (net, État luxembourgeois);E001-20411129
 2041-12-31;20:00;courant;9320.00;prevu;Traitement mensuel de William (net, État luxembourgeois);E001-20411231
@@ -61,7 +61,7 @@ date;heure;compte;montant;type;libelle;reference
 2041-10-07;06:00;courant;-45.00;prevu;Assurance habitation (maison, propriétaire occupant) : mensualisée;E007-20411007
 2041-11-05;06:00;courant;-45.00;prevu;Assurance habitation (maison, propriétaire occupant) : mensualisée;E007-20411105
 2041-12-05;06:00;courant;-45.00;prevu;Assurance habitation (maison, propriétaire occupant) : mensualisée;E007-20411205
-2041-10-01;06:00;courant;-85.00;prevu;Minett Combat Club (Esch-sur-Alzette) : accès complet;E008-20411001
+2041-10-01;06:00;courant;-85.00;prevu_realise;Minett Combat Club (Esch-sur-Alzette) : accès complet;E008-20411001
 2041-11-04;06:00;courant;-85.00;prevu;Minett Combat Club (Esch-sur-Alzette) : accès complet;E008-20411104
 2041-12-02;06:00;courant;-85.00;prevu;Minett Combat Club (Esch-sur-Alzette) : accès complet;E008-20411202
 2041-10-15;06:00;courant;-1190.00;prevu;Taxe foncière (Audun-le-Tiche);E009-20411015
@@ -80,7 +80,7 @@ date;heure;compte;montant;type;libelle;reference
 2041-11-04;08:00;etf;5755.00;prevu_annule;Virement permanent vers le compte-titres ETF (solde net après vacances et sécurité) (compte crédité) [annulé : ordre suspendu le 25/08/2041];E014-20411104-C-x204108251705
 2041-12-02;08:00;courant;-5755.00;prevu_annule;Virement permanent vers le compte-titres ETF (solde net après vacances et sécurité) [annulé : ordre suspendu le 25/08/2041];E014-20411202-x204108251705
 2041-12-02;08:00;etf;5755.00;prevu_annule;Virement permanent vers le compte-titres ETF (solde net après vacances et sécurité) (compte crédité) [annulé : ordre suspendu le 25/08/2041];E014-20411202-C-x204108251705
-2041-10-01;06:00;courant;-12.83;prevu;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20411001
+2041-10-01;06:00;courant;-12.83;prevu_realise;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20411001
 2041-11-04;06:00;courant;-12.83;prevu;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20411104
 2041-12-02;06:00;courant;-12.83;prevu;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20411202
 2041-08-16;12:33;courant;-24.30;prevu_realise;Abonnement à l'agent IA de William (formule Pro, engagement de 12 mois);E016-20410816

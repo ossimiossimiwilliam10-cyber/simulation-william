@@ -36,3 +36,6 @@
 
 ## Revue n° 7 (16/09/2041) : P45 à P47
 - 29/10/2026 : « Je valide les propositions de P45 à P47 » : calendrier du lycée joué en mode automatique (P45) ; fatigue de rentrée tirée (P46) ; tirage hebdomadaire T15 sur un collègue ou un élève qui évoque l'activité en Côte d'Ivoire (P47).
+
+## Revue n° 8 (23/09/2041) : P48 à P50
+- 29/10/2026 : « je valide les propositions P48 à P50 » : devis_solaire.py (P48), calendrier fiscal et social à l'agenda (P49), etat/moral-equipe.csv (P50).

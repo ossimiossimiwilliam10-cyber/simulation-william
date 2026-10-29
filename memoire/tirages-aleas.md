@@ -4843,3 +4843,55 @@ Effets à jouer : A01 (jeudi 26/09 (après-midi) ; touché : Mariette) : (avant 
 - Procédure « William : nuits du 22/09 au 29/09 (fatigue de rentrée, P46 : coucher plus tardif, lever 06h00-06h20) » : 22/09 22:52-06:04 ; 23/09 23:20-06:18 ; 24/09 22:31-06:01 ; 25/09 23:17-06:00 ; 26/09 23:23-06:20 ; 27/09 22:34-07:14 ; 28/09 23:12-07:27 [PROCÉDURE : coucher 22h30-23h45 ; P46 : sommeil un peu court en semaine] (enregistré le 29/10/2026 21:57 heure machine)
 
 - Actualités de la semaine du 23/09/2041 : modèles LU01, LU03, FR01 [PROCÉDURE : outils/actualites.py] (enregistré le 29/10/2026 21:58 heure machine)
+
+## Tirage de la semaine du 2041-09-30
+
+| ID | Événement | Probabilité | Jet (0-100) | Résultat |
+|---|---|---|---|---|
+| A01 | Maladie d'un membre de l'équipe (paludisme, gastro, typhoïde) | 10 % |  52.0 | non |
+| A02 | Problème de santé d'un proche d'un personnage (ex. mère d'Aïcha, tension) | 8 % |  57.7 | non |
+| A04 | Délestage / coupure d'électricité prolongée | 25 % |  61.2 | non |
+| A05 | Fortes pluies / inondation | 15 % |   4.2 | **DÉCLENCHÉ** — lundi 30/09 (après-midi) |
+| A06 | Retard fournisseur ou douane (NVR, onduleurs, batteries) | 30 % |  84.3 | non |
+| A07 | Panne réseau (fibre, 4G) ou banque en ligne | 15 % |  21.0 | non |
+| A09 | Erreur administrative (virement mal affecté, pièce perdue, nom mal orthographié) | 10 % |  56.6 | non |
+| A12 | Fuite d'information (salaires, avances, statut de William) | 5 % |  50.5 | non |
+| A13 | Opportunité commerciale inattendue (recommandation, appel d'un prospect) | 10 % |  67.4 | non |
+| A17 | William lui-même malade ou épuisé (fatigue, gastro) | 5 % |  46.4 | non |
+| A18 | Incident de transport (taxi, panne, retard) | 15 % |  40.3 | non |
+| A19 | Rhume, angine ou gastro de William | 5 % |  84.2 | non |
+| A20 | Perturbation des trajets frontaliers (bus en retard, A4 ou N4 bouchée, travaux) | 20 % |   9.4 | **DÉCLENCHÉ** — dimanche 06/10 (matin) |
+| A21 | Panne domestique (chauffe-eau, électroménager, fuite) | 4 % |  55.0 | non |
+| A22 | Courrier administratif (impôts français ou luxembourgeois, CNS, mairie, banque) | 10 % |  70.6 | non |
+| A23 | Tentative d'arnaque (SMS de faux colis, faux conseiller bancaire, faux site) | 15 % |  79.8 | non |
+| A24 | Souci de voisinage (bruit, travaux, haie, stationnement) | 5 % |  32.7 | non |
+| A25 | Blessure légère à l'entraînement (entorse, côte, doigt) | 1 % |  86.1 | non |
+| A26 | Imprévu d'argent (amende, réparation, cadeau, cotisation) | 6 % |  40.6 | non |
+| A27 | Signe d'un ancien (collègue, élève devenu adulte, connaissance) | 8 % |  51.4 | non |
+| A28 | Courriel ou appel du lycée pendant les vacances (réunion de rentrée, ajournements, emploi du temps) | 10 % |  72.1 | non |
+| A29 | Contrôle routier ou radar | 3 % |  11.1 | non |
+| A30 | Occasion inattendue (proposition de cours particuliers, invitation, bon plan) | 8 % |  80.3 | non |
+| A31 | Diarrhée du voyageur ou intoxication alimentaire (à l'étranger) | 12 % |  37.3 | non |
+| A35 | Surfacturation ou arnaque visant un touriste (taxi, boutique, bar) | 5 % |  82.7 | non |
+| A36 | Malentendu de langue (adresse mal comprise, commande erronée, document en coréen) | 10 % |  14.4 | non |
+| A37 | Embouteillage, pont saturé ou route coupée à Abidjan (un trajet de William ou de l'équipe prend une à deux heures de plus) | 30 % |  59.5 | non |
+| A38 | Contrôle routier ou guichet : un agent sollicite un « geste » (2 000 à 10 000 FCFA) | 10 % |  91.0 | non |
+| A39 | Paludisme de William (séjour en zone d'endémie) | 0.5 % |  73.7 | non |
+| A40 | Départ d'un directeur pendant sa période d'essai (préavis court, recrutement à refaire) | 5 % |  24.8 | non |
+| A41 | Retard de paiement d'un client (15 à 90 jours) | 30 % |  97.0 | non |
+
+Effets à jouer : A05 (lundi 30/09 (après-midi)) : (avant : « univers 1 » → maintenant : actif à Abidjan, P39 validée le 29/10/2026)  Transports et chantiers retardés (Abidjan, saison des pluies) ; A20 (dimanche 06/10 (matin)) : Semaines de travail (F029) ; sans objet pendant les vacances ou à l'étranger
+
+- Tirage [T22] « Front H004 « Lagune Kilowatt réagit à l'arrivée de SOLEIL B2B CI » : semaine du 30/09/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  77.6 → **un_segment** (enregistré le 29/10/2026 22:03 heure machine)
+
+- Tirage [T22] « Front H005 « Comoé Solaire Services tente de débaucher l'équipe » : semaine du 30/09/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  19.4 → **zero_segment** (enregistré le 29/10/2026 22:03 heure machine)
+
+- Tirage [T22] « Front H006 « Ébène Watt casse les prix chez les petits clients » : semaine du 30/09/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  69.7 → **un_segment** (enregistré le 29/10/2026 22:03 heure machine)
+
+- Tirage [T15] « P47 : un collègue ou un élève évoque-t-il l'activité de William en Côte d'Ivoire (semaine du 30/09) ? » : rien_laisse_passer 30 / accepte_volontiers 18 / garde_distance 14 / en_parle_a_d_autres 12 / rend_la_pareille 10 / demande_explication 8 / decline 6 / frontal_conflit 2 ; modificateurs : aucun ; jet  93.3 → **decline** (enregistré le 29/10/2026 22:03 heure machine)
+
+- Procédure « Livraison des climatiseurs de Froid Lagune Services (annoncée « vers le 1er octobre ») » : mercredi 02/10 [PROCÉDURE : jour tiré entre le 1er et le 3 octobre] (enregistré le 29/10/2026 22:03 heure machine)
+
+- Procédure « William : nuits du 29 et du 30/09 (objectif de huit heures) » : 29/09 22:05-06:06 ; 30/09 21:54-06:07 [PROCÉDURE : coucher 21h50-22h15, lever 06h00-06h10] (enregistré le 29/10/2026 22:04 heure machine)
+
+- Actualités de la semaine du 30/09/2041 : modèles LU03, LU01, FR01 [PROCÉDURE : outils/actualites.py] (enregistré le 29/10/2026 22:04 heure machine)
