@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 29/10/2026 21:28 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 29/10/2026 21:33 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : dimanche 08/09/2041 09:00 (luxembourg, UTC+2)
+## Horloge : dimanche 08/09/2041 09:52 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 07:00 ; lisbonne 08:00 ; mindelo 06:00 ; casablanca 07:00 ; douala 08:00 ; addis 10:00 ; manille 15:00 ; paris 09:00 ; seoul 16:00 ; bresil 04:00
+- **Heure dans les autres lieux** : abidjan 07:52 ; lisbonne 08:52 ; mindelo 06:52 ; casablanca 07:52 ; douala 08:52 ; addis 10:52 ; manille 15:52 ; paris 09:52 ; seoul 16:52 ; bresil 04:52
 - **En attente de William** :
-  - Séance du dimanche : devis de Me Gnamien (295 000 FCFA TTC) ; devis informatique (3,9 M FCFA ou attendre)
+  - Tâches à confier à Coulibaly ; indemnité de septembre ; programme de la semaine
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **9 458,76 €**
@@ -36,7 +36,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-09-08.md, 6 dernières lignes)
-> # Dimanche 8 septembre 2041 — univers 3, 55e jour
 > - **00h00-09h00** (tour n° 141) : Avance hebdomadaire 02-08/09 : Lenny (A136) ; club lundi, mercredi, vendredi (raillerie au vestiaire après les confidences de Lenny) ; préparation des cours mardi et jeudi ; apport de 5 000 € parti le 02/09 ; courses 91,80 €. Société : reçu du dépôt obtenu le 05/09 (PDF courriels) ; T22 : H002 palier 2 (visite CIE reportée) ; monde social : tensions Mariam Brou/Co
 > - Tirages du tour : T22 → un_segment (64,8) ; T22 → zero_segment (4,81) ; T22 → zero_segment (7,37) ; T22 → zero_segment (39,35) ; T10 Lenny → dans_la_journee (63,35) ; jet « Mohamed Coulibaly tient sa promesse : obtient le reçu du dép » → OUI (12,89) ; jet « Mohamed Coulibaly tient sa promesse : envoie son compte rend » → OUI (63,51) ; jet « Mohamed Coulibaly tient sa promesse : envoie son compte
 > - Tour en cours à 09h00, en attente de William : **Séance du dimanche : devis de Me Gnamien (295 000 FCFA TTC) ; devis informatique (3,9 M FCFA ou attendre)**.
+> - **09h00-09h52** (tour n° 142) : Devis acceptés : Me Gnamien (295 000 FCFA TTC) et informatique (3,9 M FCFA) ; engagements mis à jour. Rapport « Charge et tâches du directeur général » (PDF) : en suspens les conditions du bailleur, mobilier, pickup, niveaux 3-4 ; personne ne porte assurance, comptabilité, prospection, moyens de paiement SGCI ; Coulibaly non rémunéré depuis le 26/08 (convention, a
+> - Tirages du tour : procédure : 01/09 22:34-07:10 ; 02/09 22:50-05:52 ; 03/09 22:32-06:10 ; 04/09 22:53-06:52 ; 05/09 22:44-06:04 ; 06/09 23:26-06:34 ; 07/09 23:26-07:45 ; procédure : LU04, LU01, FR01.
+> - Tour en cours à 09h52, en attente de William : **Tâches à confier à Coulibaly ; indemnité de septembre ; programme de la semaine**.

@@ -616,3 +616,21 @@ DÉCISIONS À PRENDRE
 POUR INFORMATION
 - Trésorerie : environ 13 millions de FCFA sur le compte de la société après ton apport de septembre ; caisse toujours jusqu'à fin décembre sans recette.
 - Veille « faute lourde » : rien à signaler.
+**[08/09/2041 - 09:05 (Luxembourg)] William :** J'accepte le devis de Me Gnamien. J'accepte aussi le devis informatique, on part là-dessus. Et je veux qu'on fasse le point sur Coulibaly : ce qu'il fait actuellement, ce qu'on pourrait lui confier en plus, et ce que j'aurais oublié, les trucs en suspens. Dresse-moi un rapport.
+**[08/09/2041 - 09:52 (Luxembourg)] Agent central :** Reçu à 09h07. Les deux devis sont acceptés ; Coulibaly et Me Gnamien sont prévenus demain matin. Rapport déposé dans tes documents : « Charge et tâches du directeur général ». L'essentiel :
+
+CE QU'IL MÈNE : aménagement (climatiseurs vers le 17), CIE et SODECI (visite CIE manquée), gardiennage prolongé, informatique à commander. Ses comptes rendus sont à l'heure.
+
+CE QUI TRAÎNE CHEZ LUI : les conditions du bailleur (attestation d'assurance de l'entreprise et plan des cloisons, à remettre avant la pose), le mobilier et le pickup (aucun devis), et les niveaux 3 et 4, dont les entretiens annoncés pour la semaine du 2 septembre n'apparaissent nulle part.
+
+CE QUE PERSONNE NE PORTE :
+- aucune assurance de la société ;
+- aucun cabinet comptable, alors que les premières déclarations tombent avec les salaires d'octobre ;
+- aucune prospection : pas de fichier clients, pas un rendez-vous, alors que la caisse dépend des deux premiers contrats ;
+- les moyens de paiement de la SGCI, sans suite connue depuis le 19 août.
+
+UN POINT À NE PAS OUBLIER : sa convention ne le rémunère qu'à partir du 1er octobre, et sa présence n'était obligatoire que du 12 au 25 août. Depuis le 26 août, il travaille sans y être tenu et sans être payé.
+
+DEUX DÉCISIONS :
+1. Je lui confie les six tâches du rapport : conditions du bailleur, deux assureurs, deux cabinets comptables, trente cibles industrielles et cinq rendez-vous d'ici fin octobre, date et liste pour les niveaux 3 et 4, moyens de paiement SGCI. Toutes, ou lesquelles ?
+2. Septembre sans rémunération : on ne fait rien, ou une indemnité forfaitaire, à chiffrer ?

@@ -1,52 +1,50 @@
 # Dernier tour montré au joueur
 
-> Tour n° 141 ; horloge 01/09/2041 09:18 -> 08/09/2041 09:00 ; enregistré le 29/10/2026 21:28 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 142 ; horloge 08/09/2041 09:00 -> 08/09/2041 09:52 ; enregistré le 29/10/2026 21:33 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Club lundi, mercredi, vendredi, séance dimanche matin, et Go (message à Lenny ; préparation des cours mardi et jeudi)
+> J'accepte le défi de Gnamien. Bon, ok, j'accepte ce devis concernant l'informatique. On part sur ça. je décide un peu de faire une analyse sur ce que fait actuellement, du coup, quelles sont les tâches actuellement à poser à Koulibaly pour voir un peu ce qu'il est en train de faire actuellement, pour voir si on pourrait pas lui confier d'autres tâches, aussi pour voir si j'ai pas oublié des choses, des trucs en suspens. Voilà, je fais ça avec mon conseiller. J'essaie de dresser un rapport un peu à ce niveau-là.
 
 ## Texte envoyé au joueur
 
-**DIMANCHE 8 SEPTEMBRE 2041 — 09h00 — Audun-le-Tiche (Moselle), chez toi**
+**DIMANCHE 8 SEPTEMBRE 2041 — 09h52 — Audun-le-Tiche (Moselle), chez toi**
 
-Dimanche dernier, tu écris à Lenny : « Désolé pour mercredi dernier, j'ai pas répondu. Cette semaine je suis à 100 % dispo pour les entraînements : lundi, mercredi et vendredi. » Il répond à 13h04 : « Top ! Lundi 18h alors 💪 Et ramène ton cardio, vendredi on fait 6 rounds. » Tu lui confirmes lundi 18h.
+Tu écris à ton conseiller :
 
-La semaine suit son programme. Lundi, mercredi et vendredi, le Minett Combat Club. Lenny tient parole et te fait enchaîner six rounds vendredi ; tu finis le dernier les bras lourds, mais debout. Au vestiaire, quelqu'un te lance en passant : « Alors, l'Africain, ça avance ta boîte ? », et Lenny rit plus fort que les autres.
+« J'accepte le devis de Me Gnamien. J'accepte aussi le devis informatique, on part là-dessus. Et je veux qu'on fasse le point sur Coulibaly : ce qu'il fait actuellement, ce qu'on pourrait lui confier en plus, et ce que j'aurais oublié, les trucs en suspens. Dresse-moi un rapport. »
 
-Mardi et jeudi, tu t'installes au bureau pour préparer l'année. Ton système est déjà rodé : les progressions sont prêtes, les fiches générées, les contrôles calibrés. Tu relis, tu ajustes deux chapitres de première, tu vérifies que tout est à portée de clic pour le jour de la rentrée. Le lundi, l'application Banque affiche le départ de ton premier virement de 5 000 € vers la société ; jeudi soir, les courses, 91,80 €. Ton conseiller ne t'écrit pas de la semaine.
+Pendant qu'il travaille, tu te ressers un café et tu regardes la pluie reprendre doucement sur le jardin. À 09h52, la réponse, avec un document dans tes fichiers, « Charge et tâches du directeur général » :
 
-Ce dimanche, l'air est plus frais ; il a plu dans la nuit et le jardin sent la terre mouillée. À 08h55, ton conseiller :
+« Reçu à 09h07. Les deux devis sont acceptés ; Coulibaly et Me Gnamien sont prévenus demain matin. Rapport déposé dans tes documents : « Charge et tâches du directeur général ». L'essentiel :
 
-« Séance du dimanche 8 septembre 2041, 09h00. Ordre du jour.
+CE QU'IL MÈNE : aménagement (climatiseurs vers le 17), CIE et SODECI (visite CIE manquée), gardiennage prolongé, informatique à commander. Ses comptes rendus sont à l'heure.
 
-BILAN DE LA SEMAINE (2 au 8 septembre)
-- Ton premier apport mensuel de 5 000 € est parti lundi ; crédité mercredi sur le compte de la société.
-- Reçu du dépôt de garantie : obtenu par Coulibaly jeudi, avant le délai. Archivé dans tes documents.
-- CIE : la visite technique prévue jeudi n'a pas eu lieu, l'agent ne s'est pas présenté ; nouvelle date annoncée « la semaine prochaine », sans jour précis. SODECI : dossier en cours.
-- Gardiennage d'octobre : prolongation confirmée au même prix. Mariam Brou, prévenue par Coulibaly, a répondu qu'elle ne pourrait s'en occuper qu'à partir de sa prise de fonction ; Coulibaly note dans son compte rendu de vendredi « quelques frottements » sur la répartition des tâches avant le 1er octobre.
-- Comptes rendus de Coulibaly : mardi 17h00 et vendredi 12h00, à l'heure.
-- Pas avancé : devis informatiques (un seul reçu, 3,9 millions de FCFA, je demande un deuxième), location du pickup (aucune offre).
+CE QUI TRAÎNE CHEZ LUI : les conditions du bailleur (attestation d'assurance de l'entreprise et plan des cloisons, à remettre avant la pose), le mobilier et le pickup (aucun devis), et les niveaux 3 et 4, dont les entretiens annoncés pour la semaine du 2 septembre n'apparaissent nulle part.
 
-DÉCISIONS À PRENDRE
-1. Avenant sur les jalons : Me Gnamien a envoyé son devis lundi soir, 250 000 FCFA hors taxes, 295 000 FCFA TTC (environ 450 €), à la charge de la société. Tu acceptes ? Oui ou non.
-2. Informatique : le premier devis (3,9 millions de FCFA pour quatre portables, réseau, Wi-Fi et imprimante) dépasse de 400 000 FCFA l'enveloppe du plan. On attend un deuxième devis, ou tu acceptes celui-là pour gagner du temps ?
+CE QUE PERSONNE NE PORTE :
+- aucune assurance de la société ;
+- aucun cabinet comptable, alors que les premières déclarations tombent avec les salaires d'octobre ;
+- aucune prospection : pas de fichier clients, pas un rendez-vous, alors que la caisse dépend des deux premiers contrats ;
+- les moyens de paiement de la SGCI, sans suite connue depuis le 19 août.
 
-POUR INFORMATION
-- Trésorerie : environ 13 millions de FCFA sur le compte de la société après ton apport de septembre ; caisse toujours jusqu'à fin décembre sans recette.
-- Veille « faute lourde » : rien à signaler. »
+UN POINT À NE PAS OUBLIER : sa convention ne le rémunère qu'à partir du 1er octobre, et sa présence n'était obligatoire que du 12 au 25 août. Depuis le 26 août, il travaille sans y être tenu et sans être payé.
 
-Il est 09h00.
+DEUX DÉCISIONS :
+1. Je lui confie les six tâches du rapport : conditions du bailleur, deux assureurs, deux cabinets comptables, trente cibles industrielles et cinq rendez-vous d'ici fin octobre, date et liste pour les niveaux 3 et 4, moyens de paiement SGCI. Toutes, ou lesquelles ?
+2. Septembre sans rémunération : on ne fait rien, ou une indemnité forfaitaire, à chiffrer ? »
+
+Il est 09h52.
 
 ---
 
 **Réponses attendues**
-- **Ton conseiller (séance du dimanche)** : deux décisions :
-  1. accepter le devis de Me Gnamien pour l'avenant sur les jalons, 295 000 FCFA TTC (environ 450 €), à la charge de la société ? Oui ou non ;
-  2. informatique : attendre un deuxième devis, ou accepter le premier, 3,9 millions de FCFA ?
+- **Ton conseiller** :
+  1. confier à Coulibaly les six tâches du rapport, toutes ou lesquelles ;
+  2. son mois de septembre sans rémunération : ne rien faire, ou une indemnité forfaitaire à chiffrer.
 
 **À faire / à fournir avant le tour suivant**
-- Tes décisions pour la séance, et ton programme de la semaine du 9 au 15 septembre si tu veux l'avance automatique.
+- Ton programme de la semaine du 9 au 15 septembre, si tu veux l'avance automatique.
 
 **Quêtes secondaires**
 - Demain, lundi 9 septembre : relevé de la Visa Premier (environ 2 500 €).
