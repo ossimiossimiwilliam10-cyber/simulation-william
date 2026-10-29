@@ -1,47 +1,50 @@
 # Dernier tour montré au joueur
 
-> Tour n° 142 ; horloge 08/09/2041 09:00 -> 08/09/2041 09:52 ; enregistré le 29/10/2026 21:33 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 143 ; horloge 08/09/2041 09:52 -> 08/09/2041 10:21 ; enregistré le 29/10/2026 21:37 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> J'accepte le défi de Gnamien. Bon, ok, j'accepte ce devis concernant l'informatique. On part sur ça. je décide un peu de faire une analyse sur ce que fait actuellement, du coup, quelles sont les tâches actuellement à poser à Koulibaly pour voir un peu ce qu'il est en train de faire actuellement, pour voir si on pourrait pas lui confier d'autres tâches, aussi pour voir si j'ai pas oublié des choses, des trucs en suspens. Voilà, je fais ça avec mon conseiller. J'essaie de dresser un rapport un peu à ce niveau-là.
+> Je lui confie les six tâches Donc je compte lui confier les 6 tâches, mais avant de valider ça, je tiens d'abord à clarifier cet aspect sans rémunération. Est-ce que jamais plus tard, il pourrait nous faire quelque chose de légal contre nous parce qu'on ne l'a pas rémunéré malgré ses trucs? Est-ce qu'il ne vaut pas le rémunérer? Quelle est la meilleure décision à prendre?
 
 ## Texte envoyé au joueur
 
-**DIMANCHE 8 SEPTEMBRE 2041 — 09h52 — Audun-le-Tiche (Moselle), chez toi**
+**DIMANCHE 8 SEPTEMBRE 2041 — 10h21 — Audun-le-Tiche (Moselle), chez toi**
 
 Tu écris à ton conseiller :
 
-« J'accepte le devis de Me Gnamien. J'accepte aussi le devis informatique, on part là-dessus. Et je veux qu'on fasse le point sur Coulibaly : ce qu'il fait actuellement, ce qu'on pourrait lui confier en plus, et ce que j'aurais oublié, les trucs en suspens. Dresse-moi un rapport. »
+« Je compte lui confier les six tâches, mais avant de valider, je veux clarifier la question de la rémunération. Est-ce qu'il pourrait un jour se retourner contre nous en justice parce qu'on ne l'a pas payé malgré son travail ? Est-ce qu'il ne vaut pas mieux le rémunérer ? Quelle est la meilleure décision ? »
 
-Pendant qu'il travaille, tu te ressers un café et tu regardes la pluie reprendre doucement sur le jardin. À 09h52, la réponse, avec un document dans tes fichiers, « Charge et tâches du directeur général » :
+Réponse à 10h21 :
 
-« Reçu à 09h07. Les deux devis sont acceptés ; Coulibaly et Me Gnamien sont prévenus demain matin. Rapport déposé dans tes documents : « Charge et tâches du directeur général ». L'essentiel :
+« Avec le pôle juridique virtuel, voici ce que je vois. Je donne un avis, tu décides.
 
-CE QU'IL MÈNE : aménagement (climatiseurs vers le 17), CIE et SODECI (visite CIE manquée), gardiennage prolongé, informatique à commander. Ses comptes rendus sont à l'heure.
+LE RISQUE JURIDIQUE
+- Il a signé une convention qui fixe sa rémunération au 1er octobre. Un mandat social peut être gratuit pendant une période convenue : septembre non payé, c'est ce qu'il a accepté par écrit.
+- Le risque vient d'ailleurs : plus on lui confie de tâches précises, avec des délais, des comptes rendus deux fois par semaine et des instructions venues de ton adresse, plus il pourrait soutenir qu'il travaillait en réalité comme un salarié, sous ta direction, sans contrat ni salaire. Le Code du travail ivoirien définit le travailleur par une activité exercée moyennant rémunération, sous la direction d'une autre personne. Un juge pourrait lui accorder un rappel de salaire pour septembre, et la société paierait aussi les cotisations sociales en retard.
+- En montant, c'est limité : un mois, de l'ordre de 2 à 3 millions de FCFA tout compris. La vraie perte serait ailleurs : un procès avec ton propre directeur général, dans sa première année.
 
-CE QUI TRAÎNE CHEZ LUI : les conditions du bailleur (attestation d'assurance de l'entreprise et plan des cloisons, à remettre avant la pose), le mobilier et le pickup (aucun devis), et les niveaux 3 et 4, dont les entretiens annoncés pour la semaine du 2 septembre n'apparaissent nulle part.
+TROIS OPTIONS
+1. Ne rien faire. Coût immédiat nul. Le risque est faible aujourd'hui, mais il augmente si tu lui confies les six tâches. Sa bonne volonté s'use aussi.
+2. Une indemnité forfaitaire pour la période du 26 août au 30 septembre, par décision d'associé unique, par exemple 1 000 000 FCFA (environ 1 525 €), la moitié de son fixe mensuel, avec une phrase par laquelle il reconnaît être rempli de ses droits pour cette période. Ça ferme la porte pour un coût modeste.
+3. Avancer la prise d'effet de son mandat au 1er septembre, avec son plein fixe de 2 000 000 FCFA nets, soit environ 2,8 millions de FCFA de coût pour la société (environ 4 270 €). C'est la solution la plus propre et la plus motivante, mais la plus chère, et la caisse perd environ dix jours d'autonomie.
 
-CE QUE PERSONNE NE PORTE :
-- aucune assurance de la société ;
-- aucun cabinet comptable, alors que les premières déclarations tombent avec les salaires d'octobre ;
-- aucune prospection : pas de fichier clients, pas un rendez-vous, alors que la caisse dépend des deux premiers contrats ;
-- les moyens de paiement de la SGCI, sans suite connue depuis le 19 août.
+MON AVIS : l'option 2, signée avant de lui confier les six tâches. Me Gnamien peut l'ajouter à l'avenant déjà en cours, pour un supplément d'honoraires faible, à confirmer.
 
-UN POINT À NE PAS OUBLIER : sa convention ne le rémunère qu'à partir du 1er octobre, et sa présence n'était obligatoire que du 12 au 25 août. Depuis le 26 août, il travaille sans y être tenu et sans être payé.
+Laquelle retiens-tu ? »
 
-DEUX DÉCISIONS :
-1. Je lui confie les six tâches du rapport : conditions du bailleur, deux assureurs, deux cabinets comptables, trente cibles industrielles et cinq rendez-vous d'ici fin octobre, date et liste pour les niveaux 3 et 4, moyens de paiement SGCI. Toutes, ou lesquelles ?
-2. Septembre sans rémunération : on ne fait rien, ou une indemnité forfaitaire, à chiffrer ? »
+La pluie s'est arrêtée ; une pie se pose sur la haie mouillée, s'ébroue, repart.
 
-Il est 09h52.
+Il est 10h21.
 
 ---
 
 **Réponses attendues**
-- **Ton conseiller** :
-  1. confier à Coulibaly les six tâches du rapport, toutes ou lesquelles ;
-  2. son mois de septembre sans rémunération : ne rien faire, ou une indemnité forfaitaire à chiffrer.
+- **Ton conseiller** : quelle option pour le mois non rémunéré de Coulibaly ?
+  1. ne rien faire ;
+  2. une indemnité forfaitaire d'environ 1 000 000 FCFA (1 525 €) contre une reconnaissance écrite, avant les six tâches ;
+  3. avancer son mandat au 1er septembre, avec son plein fixe (environ 4 270 € de coût).
+
+  Les six tâches attendent ta validation finale.
 
 **À faire / à fournir avant le tour suivant**
 - Ton programme de la semaine du 9 au 15 septembre, si tu veux l'avance automatique.
@@ -49,7 +52,7 @@ Il est 09h52.
 **Quêtes secondaires**
 - Demain, lundi 9 septembre : relevé de la Visa Premier (environ 2 500 €).
 - Dimanche 15 septembre : fin des vacances d'été, rentrée le lundi 16.
-- Climatiseurs de la villa annoncés vers le 17 septembre ; visite technique de la CIE à refixer.
+- Climatiseurs de la villa annoncés vers le 17 septembre.
 - Mercredi 25 septembre : versement de 40 000 € (première tranche).
 
 Que veux-tu faire ?

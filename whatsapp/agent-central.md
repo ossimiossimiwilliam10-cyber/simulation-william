@@ -634,3 +634,19 @@ UN POINT À NE PAS OUBLIER : sa convention ne le rémunère qu'à partir du 1er 
 DEUX DÉCISIONS :
 1. Je lui confie les six tâches du rapport : conditions du bailleur, deux assureurs, deux cabinets comptables, trente cibles industrielles et cinq rendez-vous d'ici fin octobre, date et liste pour les niveaux 3 et 4, moyens de paiement SGCI. Toutes, ou lesquelles ?
 2. Septembre sans rémunération : on ne fait rien, ou une indemnité forfaitaire, à chiffrer ?
+**[08/09/2041 - 10:02 (Luxembourg)] William :** Je compte lui confier les six tâches, mais avant de valider, je veux clarifier la question de la rémunération. Est-ce qu'il pourrait un jour se retourner contre nous en justice parce qu'on ne l'a pas payé malgré son travail ? Est-ce qu'il ne vaut pas mieux le rémunérer ? Quelle est la meilleure décision ?
+**[08/09/2041 - 10:21 (Luxembourg)] Agent central :** Avec le pôle juridique virtuel, voici ce que je vois. Je donne un avis, tu décides.
+
+LE RISQUE JURIDIQUE
+- Il a signé une convention qui fixe sa rémunération au 1er octobre. Un mandat social peut être gratuit pendant une période convenue : septembre non payé, c'est ce qu'il a accepté par écrit.
+- Le risque vient d'ailleurs : plus on lui confie de tâches précises, avec des délais, des comptes rendus deux fois par semaine et des instructions venues de ton adresse, plus il pourrait soutenir qu'il travaillait en réalité comme un salarié, sous ta direction, sans contrat ni salaire. Le Code du travail ivoirien définit le travailleur par une activité exercée moyennant rémunération, sous la direction d'une autre personne. Un juge pourrait lui accorder un rappel de salaire pour septembre, et la société paierait aussi les cotisations sociales en retard.
+- En montant, c'est limité : un mois, de l'ordre de 2 à 3 millions de FCFA tout compris. La vraie perte serait ailleurs : un procès avec ton propre directeur général, dans sa première année.
+
+TROIS OPTIONS
+1. Ne rien faire. Coût immédiat nul. Le risque est faible aujourd'hui, mais il augmente si tu lui confies les six tâches. Sa bonne volonté s'use aussi.
+2. Une indemnité forfaitaire pour la période du 26 août au 30 septembre, par décision d'associé unique, par exemple 1 000 000 FCFA (environ 1 525 €), la moitié de son fixe mensuel, avec une phrase par laquelle il reconnaît être rempli de ses droits pour cette période. Ça ferme la porte pour un coût modeste.
+3. Avancer la prise d'effet de son mandat au 1er septembre, avec son plein fixe de 2 000 000 FCFA nets, soit environ 2,8 millions de FCFA de coût pour la société (environ 4 270 €). C'est la solution la plus propre et la plus motivante, mais la plus chère, et la caisse perd environ dix jours d'autonomie.
+
+MON AVIS : l'option 2, signée avant de lui confier les six tâches. Me Gnamien peut l'ajouter à l'avenant déjà en cours, pour un supplément d'honoraires faible, à confirmer.
+
+Laquelle retiens-tu ?

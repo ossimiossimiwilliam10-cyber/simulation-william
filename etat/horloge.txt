@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-09-08 09:52
+horloge: 2041-09-08 10:21
 fuseau: luxembourg
 lieu: Audun-le-Tiche (Moselle), chez William
-tour: 142
-attente: Tâches à confier à Coulibaly ; indemnité de septembre ; programme de la semaine
+tour: 143
+attente: Option pour le mois non rémunéré de Coulibaly ; validation des six tâches ; programme de la semaine
