@@ -30,3 +30,4 @@
 ## Profil de l'utilisateur (observations)
 - Capacité d'écoute et pragmatisme managérial : sait reconnaître les arguments pertinents de son directeur général de terrain sans céder sur la rigueur du contrôle de fond.
 - Goût prononcé pour la confrontation directe avec la réalité économique (volonté de sonder lui-même les boutiques d'Abidjan) couplé à une grande lucidité sur les risques d'impayés du secteur informel.
+

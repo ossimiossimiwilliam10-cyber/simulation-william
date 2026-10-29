@@ -90,3 +90,4 @@ def generer_courriel_reponse_coulibaly_micro_retail():
 
 if __name__ == "__main__":
     generer_courriel_reponse_coulibaly_micro_retail()
+

@@ -29,3 +29,4 @@ Tu consacres le reste de ta soirée à une séance d'étirements doux et à la r
 - Calendrier de la semaine du 19 août : dépouillement des devis d'aménagement des Vallons mercredi 21 août et suivi du sourcing des équipes opérationnelles par Viviane Tanoh et Éric Yao.
 
 Que veux-tu faire ?
+

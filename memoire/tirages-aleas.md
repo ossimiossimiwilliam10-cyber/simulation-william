@@ -4352,3 +4352,36 @@ Effets à jouer : A07 (mercredi 14/08 (soir)) : Retard d'un virement, d'un envoi
 - Tirage [T7c] « Coulibaly recoit le rapport terrain et la directive de reflechir a une solution moyen long terme sur le micro retail » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  52.8 → **execute_sans_discuter** (enregistré le 29/10/2026 12:16 heure machine)
 
 - Tirage [T10] « Heure de reponse de Coulibaly au debrief terrain et directive R et D » : immediat 19 / rapide 33 / dans_l_heure 15 / dans_la_journee 14 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 4 ; modificateurs : M73 ; jet  74.5 → **dans_la_journee** (enregistré le 29/10/2026 12:16 heure machine)
+
+## Tirage de la semaine du 2041-08-19
+
+| ID | Événement | Probabilité | Jet (0-100) | Résultat |
+|---|---|---|---|---|
+| A02 | Problème de santé d'un proche d'un personnage (ex. mère d'Aïcha, tension) | 8 % |  97.1 | non |
+| A07 | Panne réseau (fibre, 4G) ou banque en ligne | 15 % |  15.2 | non |
+| A09 | Erreur administrative (virement mal affecté, pièce perdue, nom mal orthographié) | 10 % |  14.8 | non |
+| A12 | Fuite d'information (salaires, avances, statut de William) | 5 % |   5.2 | non |
+| A13 | Opportunité commerciale inattendue (recommandation, appel d'un prospect) | 10 % |  90.1 | non |
+| A17 | William lui-même malade ou épuisé (fatigue, gastro) | 5 % |  80.1 | non |
+| A18 | Incident de transport (taxi, panne, retard) | 15 % |  93.3 | non |
+| A19 | Rhume, angine ou gastro de William | 5 % |   1.5 | **DÉCLENCHÉ** — dimanche 25/08 (soir) |
+| A20 | Perturbation des trajets frontaliers (bus en retard, A4 ou N4 bouchée, travaux) | 20 % |  84.4 | non |
+| A21 | Panne domestique (chauffe-eau, électroménager, fuite) | 4 % |  79.4 | non |
+| A22 | Courrier administratif (impôts français ou luxembourgeois, CNS, mairie, banque) | 10 % |  52.9 | non |
+| A23 | Tentative d'arnaque (SMS de faux colis, faux conseiller bancaire, faux site) | 15 % |  66.0 | non |
+| A24 | Souci de voisinage (bruit, travaux, haie, stationnement) | 5 % |  35.2 | non |
+| A25 | Blessure légère à l'entraînement (entorse, côte, doigt) | 1 % |  74.6 | non |
+| A26 | Imprévu d'argent (amende, réparation, cadeau, cotisation) | 6 % |  34.3 | non |
+| A27 | Signe d'un ancien (collègue, élève devenu adulte, connaissance) | 8 % |  13.5 | non |
+| A28 | Courriel ou appel du lycée pendant les vacances (réunion de rentrée, ajournements, emploi du temps) | 10 % |  78.1 | non |
+| A29 | Contrôle routier ou radar | 3 % |  37.7 | non |
+| A30 | Occasion inattendue (proposition de cours particuliers, invitation, bon plan) | 8 % |  81.5 | non |
+| A31 | Diarrhée du voyageur ou intoxication alimentaire (à l'étranger) | 12 % |  69.3 | non |
+| A35 | Surfacturation ou arnaque visant un touriste (taxi, boutique, bar) | 5 % |  25.8 | non |
+| A36 | Malentendu de langue (adresse mal comprise, commande erronée, document en coréen) | 10 % |  21.7 | non |
+
+Effets à jouer : A19 (dimanche 25/08 (soir)) : Un adulte attrape 2 à 4 rhumes par an ; 1 à 4 jours diminué (corps.py noter --type malade)
+
+- Tirage [T14] « Initiative d'un proche envers William pour la semaine du 19 aout » : aucune 63 / message_routine 12 / demande 10 / information 8 / partage_personnel 4 / plainte_ou_tension 3 ; modificateurs : aucun ; jet  81.5 → **demande** (enregistré le 29/10/2026 12:38 heure machine)
+
+- Actualités de la semaine du 19/08/2041 : modèles LU02, LU04, FR02 [PROCÉDURE : outils/actualites.py] (enregistré le 29/10/2026 12:40 heure machine)
