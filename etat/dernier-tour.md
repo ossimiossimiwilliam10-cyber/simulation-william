@@ -1,40 +1,57 @@
 # Dernier tour montré au joueur
 
-> Tour n° 117 ; horloge 20/08/2041 10:47 -> 20/08/2041 11:11 ; enregistré le 29/10/2026 19:23 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 118 ; horloge 20/08/2041 11:11 -> 20/08/2041 20:00 ; enregistré le 29/10/2026 19:29 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> J'achète le maillot officiel et je rentre à la résidence.
+> J'attends du coup le rapport du directeur général ce soir. Directeur général virtuel, hein, pour ce soir. Et après, oui, bof. Après, bah, fin de journée, hein, donc c'est un Go.
 
 ## Texte envoyé au joueur
 
-**MARDI 20 AOÛT 2041 — 11h11 — Abidjan, Cocody Deux-Plateaux, résidence hôtelière**
+**MARDI 20 AOÛT 2041 — 20h00 — Abidjan, Cocody Deux-Plateaux, résidence hôtelière**
 
-Tu prends le maillot. Le vendeur le plie en trois sur le comptoir, glisse l'étiquette à l'intérieur et le met dans un sac en papier orange. Paiement par Visa Premier : 81 000 FCFA. Le reçu de la banque tombe sur ton téléphone dans la foulée : 127,12 €, dont 3,39 € de frais hors zone euro. « Bonne journée, monsieur », dit le vendeur, déjà tourné vers un couple qui hésite devant les crampons.
+La journée passe à la résidence. Vers 13h, un room service : un capitaine braisé, de l'attiéké, de l'eau, 12 000 FCFA sur ta Visa Premier. Le ciel reste gris tout l'après-midi, lourd, sans une goutte ; dans la cour voisine, quelqu'un écoute du coupé-décalé en boucle jusqu'à ce qu'une voix de femme crie de baisser.
 
-Tu appelles la réception pour un Yango de retour. Il arrive à 10h58 : une Suzuki Dzire blanche, propre, un petit sapin parfumé au rétroviseur. Au volant, une femme d'environ trente-trois ans. Elle mesure un mètre soixante-huit à peu près ; sa silhouette est athlétique, les épaules et les bras fermes, la poitrine menue sous un tee-shirt noir ajusté, la taille fine, les hanches droites dans un jean bleu foncé. Visage ovale aux pommettes marquées, peau brun caramel, des yeux noirs légèrement étirés, attentifs dans le rétroviseur, une bouche fine, sans maquillage. Ses cheveux sont tressés en nattes collées qui finissent en chignon bas. Sur l'avant-bras droit, un tatouage d'écriture cursive, une date et un prénom. Elle te salue d'un « Bonjour » bref, vérifie ta destination sur l'écran et démarre.
+À 17h14, Mohamed Coulibaly : « Bien reçu, Monsieur Ossimi. Photo transmise à l'agence, elle sera au poste dès ce soir. »
 
-Elle ne parle presque pas. Une seule fois, au feu de la Riviera, elle soupire en regardant une grosse berline noire griller le rouge : « Eux, ils paient jamais rien, hein. » Puis plus rien jusqu'à la résidence, la radio réglée bas sur une station de zouglou. À 11h11, elle te dépose devant l'entrée. 2 207 FCFA de plus sur ta note.
+À 20h00, ton directeur général virtuel :
 
-Dans le hall, l'agent d'entretien passe la serpillière ; le carrelage mouillé sent l'eau de Javel et le citron.
+« Rapport final de la journée du mardi 20 août 2041 (20h00). PDF dans tes documents (application Fichiers).
 
-Il est 11h11.
+DÉCISIONS
+Aucune ce soir.
+
+AFFIRMATIONS VÉRIFIÉES
+- Coulibaly (09h55) : « Le bailleur attend un dépôt de garantie de trois mois, 5 250 000 FCFA, et le premier loyer de 1 750 000 FCFA au 1er septembre. » → COHÉRENTE avec un loyer de 1 750 000 FCFA ; NON VÉRIFIÉE sur pièce : la copie du bail n'est toujours pas arrivée.
+- Coulibaly (09h55) : « Votre nom est inscrit sur la liste des personnes autorisées. » → NON VÉRIFIABLE sans pièce de l'agence ; il confirme à 17h14 que ta photo a été transmise.
+
+ÉTAT DES PÔLES
+- Direction générale (Coulibaly) : inscription faite selon lui ; complément de 2 683 € annoncé à la SGCI, crédit attendu jeudi ou vendredi ; dépôt de garantie à régler dès compensation ; prolongation du gardiennage : réponse de l'agence attendue jeudi ; copie du bail : relancée ce soir par courriel ; dépouillement des devis d'aménagement demain, mercredi 21 août, à 16h00.
+- Administration et finance (Mariam Brou, prise de fonction le 1er octobre) : rien reçu sur les abonnements CIE et SODECI.
+- Commercial (Viviane Tanoh) : signature de son contrat, prévue hier, toujours pas confirmée ; question posée à Coulibaly dans le même courriel.
+- Technique (Éric Koffi Yao) : rien de nouveau.
+- Pôle finance virtuel : compte de la société à 5 247 656 FCFA ; avec ton complément, environ 7 007 600 FCFA, de quoi couvrir le dépôt et le premier loyer, avec une marge d'environ 7 600 FCFA avant frais bancaires.
+- Surveillance : deux courriels sortants aujourd'hui (10h19, 20h00), relus et conformes.
+- Budget d'API : 40,88 € sur 1 000 € ce mois-ci.
+
+Prochain rapport : demain à 20h00. »
+
+Il est 20h00.
 
 ---
 
 **Réponses attendues**
-- Aucune.
+- Aucune ce soir.
 
 **À faire / à fournir avant le tour suivant**
 - Aucune démarche en cours.
 
 **Quêtes secondaires**
-- Maillot des Éléphants XL pour Lenny : acheté, dans ta valise pour le retour.
-- Complément de 2 683 € en route vers le compte de la société (crédit attendu sous un à trois jours ouvrés) ; Coulibaly doit transmettre le reçu du bailleur et la copie du bail.
-- Mohamed Coulibaly : pas encore de réponse à ta photo.
 - Dépouillement des devis d'aménagement des Vallons : demain, mercredi 21 août à 16h00.
-- Prolongation du gardiennage : réponse de l'agence attendue d'ici jeudi.
+- Complément de 2 683 € : crédit attendu jeudi ou vendredi ; copie du bail et reçu du bailleur à recevoir.
+- Prolongation du gardiennage : réponse de l'agence attendue jeudi.
+- Contrat de Viviane Tanoh : signature non confirmée.
+- Maillot de Lenny : dans ta valise.
 - Départ d'Abidjan le dimanche 25 août : règlement de la résidence à midi (1 690 €, plus les extras portés sur ta note), vol Air France AF703 vers Paris à 22h15.
-- Rapport du directeur général virtuel ce soir à 20h00.
 
 Que veux-tu faire ?

@@ -354,3 +354,22 @@ Prochain rapport : demain à 20h00.
 **[20/08/2041 - 10:06 (Abidjan)] Agent central :** Reçu à 10h03. Avant d'écrire à Coulibaly, un point de montant. Le compte de la société a déjà 5 247 656 FCFA de ton premier apport : il manque 2 344 FCFA pour le dépôt de garantie (5 250 000 FCFA), plus les frais bancaires, puis 1 750 000 FCFA pour le premier loyer, dû le 1er septembre. Deux possibilités : (a) un complément d'environ 1 760 000 FCFA, soit 2 683 € ; (b) un nouvel apport de 7 000 000 FCFA, soit 10 671,46 €, qui laisserait environ 5,25 millions de FCFA de marge sur le compte de la société. Ton compte courant est à 8 268,29 € : l'option b demande d'abord un virement depuis ton épargne Projet. Dans les deux cas, le virement part de ton S-Net, je ne peux pas l'exécuter à ta place. La copie du bail n'est toujours pas arrivée. Quelle option ?
 **[20/08/2041 - 10:16 (Abidjan)] William :** Option A. Je fais le virement du complément depuis mon épargne.
 **[20/08/2041 - 10:19 (Abidjan)] Agent central :** Reçu à 10h16. Courriel envoyé à Mohamed Coulibaly : complément de 2 683 € ordonné ce matin depuis ton S-Net, soit environ 1 759 933 FCFA, crédit attendu sur le compte SGCI sous un à trois jours ouvrés ; dépôt de garantie à régler dès compensation, premier loyer au 1er septembre ; reçu du bailleur et copie du bail demandés en retour. Suivi au rapport de 20h00.
+**[20/08/2041 - 20:00 (Abidjan)] Agent central :** Rapport final de la journée du mardi 20 août 2041 (20h00). PDF dans tes documents (application Fichiers).
+
+DÉCISIONS
+Aucune ce soir.
+
+AFFIRMATIONS VÉRIFIÉES
+- Coulibaly (09h55) : « Le bailleur attend un dépôt de garantie de trois mois, 5 250 000 FCFA, et le premier loyer de 1 750 000 FCFA au 1er septembre. » → COHÉRENTE avec un loyer de 1 750 000 FCFA ; NON VÉRIFIÉE sur pièce : la copie du bail n'est toujours pas arrivée.
+- Coulibaly (09h55) : « Votre nom est inscrit sur la liste des personnes autorisées. » → NON VÉRIFIABLE sans pièce de l'agence ; il confirme à 17h14 que ta photo a été transmise.
+
+ÉTAT DES PÔLES
+- Direction générale (Coulibaly) : inscription faite selon lui ; complément de 2 683 € annoncé à la SGCI, crédit attendu jeudi ou vendredi ; dépôt de garantie à régler dès compensation ; prolongation du gardiennage : réponse de l'agence attendue jeudi ; copie du bail : relancée ce soir par courriel ; dépouillement des devis d'aménagement demain, mercredi 21 août, à 16h00.
+- Administration et finance (Mariam Brou, prise de fonction le 1er octobre) : rien reçu sur les abonnements CIE et SODECI.
+- Commercial (Viviane Tanoh) : signature de son contrat, prévue hier, toujours pas confirmée ; question posée à Coulibaly dans le même courriel.
+- Technique (Éric Koffi Yao) : rien de nouveau.
+- Pôle finance virtuel : compte de la société à 5 247 656 FCFA ; avec ton complément, environ 7 007 600 FCFA, de quoi couvrir le dépôt et le premier loyer, avec une marge d'environ 7 600 FCFA avant frais bancaires.
+- Surveillance : deux courriels sortants aujourd'hui (10h19, 20h00), relus et conformes.
+- Budget d'API : 40,88 € sur 1 000 € ce mois-ci.
+
+Prochain rapport : demain à 20h00.
