@@ -452,3 +452,5 @@ AFFIRMATIONS VÉRIFIÉES
 - Budget d'API : 43,86 € sur 1 000 € ce mois-ci.
 
 Prochain rapport : demain à 20h00.
+**[22/08/2041 - 20:06 (Abidjan)] William :** Pour l'acompte de Froid Lagune Services, voie B : j'avance le versement de 20 000 €. Et envoie un message à Coulibaly pour avoir plus d'informations sur les équipes de niveaux 3 et 4 : ça fait un moment que je n'ai pas eu de retour.
+**[22/08/2041 - 20:14 (Abidjan)] Agent central :** Reçu à 20h11. Ton ordre de 20 000 € apparaît dans S-Net, exécution demain vendredi, crédit attendu lundi ou mardi sur le compte de la société. J'en informe Coulibaly : il pourra confirmer Froid Lagune Services dès réception, avant le 28 août. Courriel envoyé à 20h12, depuis ton adresse direction : point demandé sur les recrutements de niveaux 3 et 4, profils retenus, calendrier des entretiens, et qui les mène, puisque Viviane Tanoh et Éric Koffi Yao ne prennent leurs fonctions que le 1er octobre. Je te transmets sa réponse dès qu'elle arrive.

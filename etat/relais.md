@@ -1,80 +1,64 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 29/10/2026 20:17 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 29/10/2026 20:21 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : jeudi 22 août 2041, 20h00 (abidjan) ; tour n° 128
+- Horloge : jeudi 22 août 2041, 20h14 (abidjan) ; tour n° 129
 - Lieu de William : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-- En attente de William : Décision sur l'acompte de Froid Lagune Services (prolongation du prix ou versement 1 avancé)
+- En attente de William : Réponse de Coulibaly sur les niveaux 3 et 4
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 128 ; horloge 21/08/2041 21:12 -> 22/08/2041 20:00 ; enregistré le 29/10/2026 20:17 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 129 ; horloge 22/08/2041 20:00 -> 22/08/2041 20:14 ; enregistré le 29/10/2026 20:21 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Non, pas de consultation pour l'instant, et Go Ah oui, et aussi, s'il te plaît, dès qu'une opportunité se présentera pour un renvoi pour motif grave, signale-le-moi, s'il te plaît, au cours des mois ou des années futures. Qu'est-ce que je voulais dire d'autre? Oui, il faut les contrats. Ils sont où les contrats? Est-ce que c'est à moi qui... C'est ça, en fait. Parce qu'en fait, il faudrait que je te transmette les contrats. Donc, essaye d'envoyer un message à Koulibaly pour qu'il nous envoie tous les contrats signés. Donc, du coup, sur l'adresse mail actuelle.
+> Concernant la compte de Froid Lagune Service, on part sur la voie B. Essayez également d'envoyer un message à Koulibaly pour lui demander plus d'informations sur les équipes de niveau 3 et niveau 4. Ça fait un moment que j'ai pas eu de retour.
 
 ## Texte envoyé au joueur
 
-**JEUDI 22 AOÛT 2041 — 20h00 — Abidjan, Cocody Deux-Plateaux, résidence hôtelière**
+**JEUDI 22 AOÛT 2041 — 20h14 — Abidjan, Cocody Deux-Plateaux, résidence hôtelière**
 
 Tu écris à ton conseiller :
 
-« Pas de consultation pour l'instant. Et désormais, dès qu'une occasion de renvoi pour motif grave se présente, dans les mois ou les années à venir, signale-la-moi. Autre chose : il faut les contrats. Où sont-ils ? Demande à Coulibaly de nous envoyer tous les contrats signés, sur l'adresse actuelle. »
+« Pour l'acompte de Froid Lagune Services, voie B : j'avance le versement de 20 000 €. Et envoie un message à Coulibaly pour avoir plus d'informations sur les équipes de niveaux 3 et 4 : ça fait un moment que je n'ai pas eu de retour. »
 
-Réponse à 21h24 :
+Puis tu ouvres S-Net. À 20h08, tu vires 20 000 € de ton épargne Projet vers ton compte courant ; à 20h10, tu ordonnes le virement international de 20 000 € vers le compte de SOLEIL B2B CI à la SGCI, au titre de la première tranche. L'application affiche « exécution le 23/08/2041 ». Ton épargne Projet passe à 45 299 €.
 
-« Reçu à 21h17. Pas de consultation. Veille notée : je te signalerai tout fait qui pourrait constituer une faute lourde, avec la pièce qui le prouve.
+Réponse de ton conseiller à 20h14 :
 
-Pour les contrats, je n'envoie pas de courriel à Coulibaly : ils sont déjà dans tes documents, et je me suis trompé tout à l'heure en disant n'avoir que la maquette. Tu as : la convention de mandat social de Coulibaly, signée le 7 août ; les contrats de Mariam Brou et d'Éric Koffi Yao, signés le 7 août ; l'expédition notariée des actes signés le 13 août ; le bail, reçu ce matin. Manque seulement le contrat de Viviane Tanoh, qui sera signé vendredi : je le demanderai à Coulibaly ce jour-là.
+« Reçu à 20h11. Ton ordre de 20 000 € apparaît dans S-Net, exécution demain vendredi, crédit attendu lundi ou mardi sur le compte de la société. J'en informe Coulibaly : il pourra confirmer Froid Lagune Services dès réception, avant le 28 août. Courriel envoyé à 20h12, depuis ton adresse direction : point demandé sur les recrutements de niveaux 3 et 4, profils retenus, calendrier des entretiens, et qui les mène, puisque Viviane Tanoh et Éric Koffi Yao ne prennent leurs fonctions que le 1er octobre. Je te transmets sa réponse dès qu'elle arrive. »
 
-Ce que disent les pièces signées :
-1. Les statuts ne disent rien de la révocation du président ; la convention renvoie aux statuts et à l'Acte uniforme. Tu peux donc le révoquer par décision d'associé unique, sans motif exigé.
-2. Article 5 de sa convention : s'il est révoqué à l'initiative de la société, hors faute lourde, la non-concurrence de douze mois lui est payée à 50 % de son fixe, soit 1 000 000 FCFA par mois, environ 12 millions de FCFA (18 300 €) en tout. Le vrai seuil de ton champ de manœuvre, c'est donc la faute lourde.
-3. Article 4 : objectif minimal de deux contrats clients au premier trimestre d'activité.
-4. Article 6 : son mandat à plein temps, et donc sa rémunération, prend effet le 1er octobre, pas en septembre. J'ai corrigé le calendrier : les besoins de septembre baissent d'environ 2,3 millions de FCFA. »
+Le volet de l'étage du dessus a fini par se taire ; le vent est tombé avec la nuit.
 
-Tu t'endors vers 23h20 et te réveilles à 07h41. Petit-déjeuner monté à 08h ; la matinée est claire, le premier vrai soleil depuis trois jours, et la rue sent la poussière chaude dès neuf heures.
+Il est 20h14.
 
-À 10h41, Mohamed Coulibaly, avec en pièce jointe un courrier de l'agence immobilière des Vallons :
+---
 
-« Monsieur Ossimi, le bailleur donne son accord écrit pour les travaux, sous trois conditions : attestation d'assurance de l'entreprise, plan des cloisons, cloisons démontables. Courrier de l'agence en pièce jointe. Pour le gardiennage, M. Bamba veut en parler lundi. Je confirme Froid Lagune Services dès que l'acompte est disponible. M. Coulibaly. »
+**Réponses attendues**
+- **Mohamed Coulibaly** : point demandé à 20h12 sur les recrutements de niveaux 3 et 4 ; pas encore de réponse.
 
-Le courrier de l'agence, daté de 10h12, pose les conditions : attestation d'assurance de l'entreprise avant le début des travaux, plan d'implantation des cloisons, cloisons démontables reprises par la société en fin de bail ; les climatiseurs restent au bailleur, comme le dit le bail.
+**À faire / à fournir avant le tour suivant**
+- Aucune démarche en cours.
 
-Le déjeuner monte à 13h. L'après-midi s'écoule sans rien de plus ; vers 17h, un vent tiède se lève et fait claquer un volet mal fermé à l'étage au-dessus.
+**Quêtes secondaires**
+- Versement de 20 000 € : exécution demain, crédit attendu lundi ou mardi ; le prix de Froid Lagune Services est garanti jusqu'au 28 août.
+- Versement de 40 000 € : mercredi 25 septembre.
+- Dépôt de garantie de 5 250 000 FCFA au plus tard demain, vendredi 23 août ; ton complément de 2 683 € n'est pas encore crédité.
+- Signature du contrat de Viviane Tanoh : demain, vendredi 23 août à 10h00, à la villa.
+- Gardiennage après le 31 août : le bailleur veut en parler lundi 26 août.
+- Départ d'Abidjan le dimanche 25 août : règlement de la résidence à midi (1 690 €, plus les extras portés sur ta note), vol Air France AF703 vers Paris à 22h15.
 
-À 20h00, ton conseiller :
-
-« Rapport final de la journée du jeudi 22 août 2041 (20h00). PDF dans tes documents (application Fichiers).
-
-DÉCISIONS
-1. Acompte de Froid Lagune Services. Le bailleur a donné son accord écrit ce matin. L'acompte de 2 768 000 FCFA dépend de ton versement de lundi 26 août, qui arrivera sur le compte de la société au mieux mercredi 28 ou jeudi 29. Or le prix de Froid Lagune Services n'est garanti que jusqu'au mercredi 28 août. Deux voies : (a) je demande à Coulibaly d'obtenir de Froid Lagune Services une prolongation de prix de quinze jours, par écrit ; (b) tu avances le versement 1 à demain vendredi, pour un crédit en début de semaine prochaine. Laquelle ?
-(Analyse : la voie a ne coûte rien mais peut échouer ; la voie b sort l'argent de ton épargne trois jours plus tôt.)
-
-AFFIRMATIONS VÉRIFIÉES
-- Coulibaly : « Le bailleur donne son accord écrit pour les travaux. » → VÉRIFIÉE : courrier de l'agence immobilière des Vallons du 22 août, 10h12, trois conditions.
-- Article 6 de la convention de mandat : rémunération de Coulibaly à partir du 1er octobre → VÉRIFIÉE sur l'exemplaire signé.
-
-ÉTAT DES PÔLES
-- Direction générale (Coulibaly) : accord du bailleur obtenu en moins d'une heure ; calendrier de la première tranche transmis ce matin ; gardiennage : le bailleur veut en parler lundi 26 août.
-- Commercial (Viviane Tanoh) : signature de son contrat demain vendredi à 10h00, à la villa.
-- Administration et finance (Mariam Brou) : rien sur CIE et SODECI.
-- Technique (Éric Koffi Yao) : rien de nouveau.
-- Pôle finance virtuel : ton complément de 2 683 € n'est toujours pas crédité ; le dépôt de garantie est dû demain au plus tard.
-- Veille « faute lourde » : rien à signaler.
-- Budget d'API : 43,86 € sur 1 000 € ce mois-ci.
-
-Prochain rapport : demain à 20h00. »
-… (suite dans etat/dernier-tour.md, 80 lignes)
+Que veux-tu faire ?
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
+- A131 Fri 23/08 06:10 (abidjan) | Mohamed Coulibaly : Répond sur direction@ au point demandé sur les recrutements de niveaux 3 et 4 [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — T7c execute_sans_discuter, T10 le_soir_ou_lendemain : sourcing délégué à Viviane Tanoh et Éric Koffi Yao (P34), qui ne sont pas encore en poste (1er octobre) ; présélection en cours, aucune fiche finale ; entretiens envisagés début septembre ; transmission des fiches promise après les entretiens
 - A127 Fri 23/08 10:00 (abidjan) | Viviane Tanoh · Mohamed Coulibaly : Signature du contrat de niveau 2 de Viviane Tanoh à la villa des Vallons (reportée du lundi 19/08 : préavis chez son employeur actuel) [prevu]  — annoncé par Coulibaly le 21/08 17h10
+- A130 Fri 23/08 15:00 (abidjan) | SGCI : Crédit du complément CCA de 2 683 € (1 759 933 FCFA) sur le compte de SOLEIL B2B CI [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — procédure du 22/08 : vendredi 15h00 ; Coulibaly peut alors payer le dépôt de garantie (échéance le jour même)
 
 ## Rituels du moteur dus (rituels.py)
 - rien
@@ -184,10 +168,10 @@ Prochain rapport : demain à 20h00. »
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 133f9dc ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : f5b15ae ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 25 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 15 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

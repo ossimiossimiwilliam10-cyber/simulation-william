@@ -4487,3 +4487,7 @@ Effets à jouer : A19 (dimanche 25/08 (soir)) : Un adulte attrape 2 à 4 rhumes 
 - Procédure « William : nuit du 21 au 22/08 » : coucher 23:19, lever 07:41 [PROCÉDURE : coucher 23h00-23h50, sommeil 7 h à 8 h 30] (enregistré le 29/10/2026 20:16 heure machine)
 
 - Procédure « Demande de contrats à Coulibaly (T7c execute_sans_discuter tiré à 21h18) » : sans objet [PROCÉDURE : le conseiller constate que les contrats signés sont déjà dans les documents de William et n'envoie pas le courriel] (enregistré le 29/10/2026 20:16 heure machine)
+
+- Tirage [T7c] « Coulibaly : courriel de direction@ (signé William Ossimi) demandant un point sur le recrutement des équipes de niveaux 3 et 4 (22/08/2041 20h12) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  20.5 → **execute_sans_discuter** (enregistré le 29/10/2026 20:21 heure machine)
+
+- Tirage [T10] « Mohamed Coulibaly : délai (point sur les niveaux 3 et 4) » : immediat 19 / rapide 33 / dans_l_heure 15 / dans_la_journee 14 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 4 ; modificateurs : M73 ; jet  84.9 → **le_soir_ou_lendemain** (enregistré le 29/10/2026 20:21 heure machine)
