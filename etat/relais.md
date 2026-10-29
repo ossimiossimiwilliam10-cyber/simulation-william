@@ -1,61 +1,71 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 29/10/2026 21:24 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 29/10/2026 21:28 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : dimanche 1er septembre 2041, 09h18 (luxembourg) ; tour n° 140
+- Horloge : dimanche 8 septembre 2041, 09h00 (luxembourg) ; tour n° 141
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Programme de la semaine du 2 au 8 septembre ; réponse à Lenny
+- En attente de William : Séance du dimanche : devis de Me Gnamien (295 000 FCFA TTC) ; devis informatique (3,9 M FCFA ou attendre)
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 140 ; horloge 01/09/2041 09:00 -> 01/09/2041 09:18 ; enregistré le 29/10/2026 21:24 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 141 ; horloge 01/09/2041 09:18 -> 08/09/2041 09:00 ; enregistré le 29/10/2026 21:28 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Concernant le gardiennage… (décisions de la séance du 01/09 ; règle des réponses automatiques en mode semaine)
+> Club lundi, mercredi, vendredi, séance dimanche matin, et Go (message à Lenny ; préparation des cours mardi et jeudi)
 
 ## Texte envoyé au joueur
 
-**DIMANCHE 1er SEPTEMBRE 2041 — 09h18 — Audun-le-Tiche (Moselle), chez toi**
+**DIMANCHE 8 SEPTEMBRE 2041 — 09h00 — Audun-le-Tiche (Moselle), chez toi**
 
-Tu réponds à ton conseiller :
+Dimanche dernier, tu écris à Lenny : « Désolé pour mercredi dernier, j'ai pas répondu. Cette semaine je suis à 100 % dispo pour les entraînements : lundi, mercredi et vendredi. » Il répond à 13h04 : « Top ! Lundi 18h alors 💪 Et ramène ton cardio, vendredi on fait 6 rounds. » Tu lui confirmes lundi 18h.
 
-« Gardiennage : 540 000 FCFA, c'est cher. On garde le prestataire du bailleur pour le premier mois, octobre, et Mariam Brou cherche mieux en rapport qualité-prix dès son arrivée. Je valide l'avenant sur les jalons tel quel. Et il faut absolument relancer Coulibaly sur le reçu du dépôt de garantie. Pour le reste, on garde le système actuel. »
+La semaine suit son programme. Lundi, mercredi et vendredi, le Minett Combat Club. Lenny tient parole et te fait enchaîner six rounds vendredi ; tu finis le dernier les bras lourds, mais debout. Au vestiaire, quelqu'un te lance en passant : « Alors, l'Africain, ça avance ta boîte ? », et Lenny rit plus fort que les autres.
 
-Un instant, tu te demandes s'il ne faudrait pas que ton conseiller réponde lui-même à Coulibaly en semaine, et ne te dérange que s'il bute sur une question. Tu laisses tomber l'idée.
+Mardi et jeudi, tu t'installes au bureau pour préparer l'année. Ton système est déjà rodé : les progressions sont prêtes, les fiches générées, les contrôles calibrés. Tu relis, tu ajustes deux chapitres de première, tu vérifies que tout est à portée de clic pour le jour de la rentrée. Le lundi, l'application Banque affiche le départ de ton premier virement de 5 000 € vers la société ; jeudi soir, les courses, 91,80 €. Ton conseiller ne t'écrit pas de la semaine.
 
-Réponse à 09h18 :
+Ce dimanche, l'air est plus frais ; il a plu dans la nuit et le jardin sent la terre mouillée. À 08h55, ton conseiller :
 
-« Reçu à 09h14. Je note :
-1. Gardiennage : prolongation d'octobre au même prix ; à son arrivée le 1er octobre, Mariam Brou lance une consultation de trois prestataires, avec réponse attendue avant le 20 octobre. Coulibaly en est informé demain matin.
-2. Avenant sur les jalons : validé tel quel. Je l'envoie demain à Me Gnamien pour la mise en forme et je te transmets son devis avant toute signature.
-3. Reçu du dépôt de garantie : relance de Coulibaly demain à 08h00, avec un délai écrit, vendredi 6 septembre.
+« Séance du dimanche 8 septembre 2041, 09h00. Ordre du jour.
 
-Système inchangé : je traite ce qui arrive en semaine et je te garde le reste pour dimanche prochain. »
+BILAN DE LA SEMAINE (2 au 8 septembre)
+- Ton premier apport mensuel de 5 000 € est parti lundi ; crédité mercredi sur le compte de la société.
+- Reçu du dépôt de garantie : obtenu par Coulibaly jeudi, avant le délai. Archivé dans tes documents.
+- CIE : la visite technique prévue jeudi n'a pas eu lieu, l'agent ne s'est pas présenté ; nouvelle date annoncée « la semaine prochaine », sans jour précis. SODECI : dossier en cours.
+- Gardiennage d'octobre : prolongation confirmée au même prix. Mariam Brou, prévenue par Coulibaly, a répondu qu'elle ne pourrait s'en occuper qu'à partir de sa prise de fonction ; Coulibaly note dans son compte rendu de vendredi « quelques frottements » sur la répartition des tâches avant le 1er octobre.
+- Comptes rendus de Coulibaly : mardi 17h00 et vendredi 12h00, à l'heure.
+- Pas avancé : devis informatiques (un seul reçu, 3,9 millions de FCFA, je demande un deuxième), location du pickup (aucune offre).
 
-La tondeuse du voisin s'est tue. Le café a refroidi ; dehors, le soleil de septembre éclaire la haie sans la chauffer.
+DÉCISIONS À PRENDRE
+1. Avenant sur les jalons : Me Gnamien a envoyé son devis lundi soir, 250 000 FCFA hors taxes, 295 000 FCFA TTC (environ 450 €), à la charge de la société. Tu acceptes ? Oui ou non.
+2. Informatique : le premier devis (3,9 millions de FCFA pour quatre portables, réseau, Wi-Fi et imprimante) dépasse de 400 000 FCFA l'enveloppe du plan. On attend un deuxième devis, ou tu acceptes celui-là pour gagner du temps ?
 
-Il est 09h18.
+POUR INFORMATION
+- Trésorerie : environ 13 millions de FCFA sur le compte de la société après ton apport de septembre ; caisse toujours jusqu'à fin décembre sans recette.
+- Veille « faute lourde » : rien à signaler. »
+
+Il est 09h00.
 
 ---
 
 **Réponses attendues**
-- **Lenny Nguyen** : son « Mercredi même heure ? » de lundi soir est toujours sans réponse écrite.
+- **Ton conseiller (séance du dimanche)** : deux décisions :
+  1. accepter le devis de Me Gnamien pour l'avenant sur les jalons, 295 000 FCFA TTC (environ 450 €), à la charge de la société ? Oui ou non ;
+  2. informatique : attendre un deuxième devis, ou accepter le premier, 3,9 millions de FCFA ?
 
 **À faire / à fournir avant le tour suivant**
-- Ton programme de la semaine du 2 au 8 septembre, pour l'avance automatique (sport, rendez-vous, séance du dimanche 8).
+- Tes décisions pour la séance, et ton programme de la semaine du 9 au 15 septembre si tu veux l'avance automatique.
 
 **Quêtes secondaires**
-- Demain, lundi 2 septembre : premier apport mensuel de 5 000 € à la société, prélèvement du club (85 €).
-- Lundi 9 septembre : relevé de la Visa Premier (environ 2 500 €).
+- Demain, lundi 9 septembre : relevé de la Visa Premier (environ 2 500 €).
+- Dimanche 15 septembre : fin des vacances d'été, rentrée le lundi 16.
+- Climatiseurs de la villa annoncés vers le 17 septembre ; visite technique de la CIE à refixer.
 - Mercredi 25 septembre : versement de 40 000 € (première tranche).
-- Climatiseurs de la villa annoncés vers le 17 septembre.
-- Rentrée scolaire après les vacances d'été, qui se terminent le dimanche 15 septembre.
 
 Que veux-tu faire ?
 
@@ -65,9 +75,15 @@ Que veux-tu faire ?
 ## Rituels du moteur dus (rituels.py)
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_annonce : T4/T5 du dimanche 25/08 non trouvés -> python outils/savoir.py t5
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_art14 : T4/T5 du dimanche 25/08 non trouvés -> python outils/savoir.py t5
+- [EN RETARD] synthese_semaine : memoire/semaine-2041-W35.md absent (semaine close le 01/09/2041) -> écrire memoire/semaine-2041-W35.md
+- [EN RETARD] t4_t5_dimanche : affaire_projet_ci_annonce : T4/T5 du dimanche 01/09 non trouvés -> python outils/savoir.py t5
+- [EN RETARD] t4_t5_dimanche : affaire_projet_ci_art14 : T4/T5 du dimanche 01/09 non trouvés -> python outils/savoir.py t5
 - [DÛ] synthese_semaine : ce soir : synthèse de la semaine, T4/T5 des affaires ouvertes -> python outils/savoir.py t5
 - [EN RETARD] message_proche : message spontané d'un proche (semaine du 26/08) non tiré -> python outils/rituels.py message-proche --semaine 2041-08-26
 - [EN RETARD] monde_semaine : nouvelles du monde de la semaine du 26/08 absentes de etat/monde.md -> ## Semaine du 26 au 01/09/2041
+- [EN RETARD] revue_lundi : revue du lundi 02/09/2041 absente -> memoire/revue-lundi-2041-09-02.md
+- [EN RETARD] tirage_aleas : aléas de la semaine du 02/09/2041 non tirés -> python outils/tirage_aleas.py 2041-09-02
+- [EN RETARD] message_proche : message spontané d'un proche (semaine du 02/09) non tiré -> python outils/rituels.py message-proche --semaine 2041-09-02
 
 ## Décisions en attente de William (etat/fils-ouverts.md, A)
 | 1 | **Organisation des vacances d'été 2041** | Premier jour des grandes vacances scolaires (du mardi 16/07/2041 au dimanche 15/09/2041). Choix des projets, voyages, rythme de vie ou déplacements estivaux. Budget vacances disponible : 833 €/mois (10 000 €/an). ; *(26/07 10h30) projet de mission à Abidjan à l'étude (fenêtre idéale : 12 au 25 août 2041, pendant la fermeture estivale du club de combat) pour rencontrer Mohamed Coulibaly, Me Gnamien et valider le QG* ; *(26/07 18h30) déplacement de 14 jours validé par William (du lundi 12 au dimanche 25 août 2041, pendant la fermeture annuelle du Minett Combat Club)* ; *(27/07 08h45) mission Abidjan calée du 12 au 25 août 2041 (14 jours) : vol Air France retenu depuis Luxembourg-Findel (1 285 € A/R), option confirmée sur résidence hôtelière F2 sécurisée à Cocody Deux-Plateaux (1 690 €), carnet international à jour (vaccin fièvre jaune confirmé par William)* ; *(27/07 20h00) vol Air France réglé (1 285 € sur Visa Premier, K002), pré-enrôlement e-visa SNEDAI payé et validé (73 € sur Visa Premier, K003), option résidence sécurisée Cocody active (1 690 €) ; logistique de mission Abidjan bouclée* ; *(31/07 11h20) aléa administratif A09 résolu : anomalie d'inversion des prénoms sur le portail SNEDAI rectifiée en ligne, attestation officielle de pré-enrôlement e-visa biométrique reçue (entrée FHB validée)* ; *(11/08 21h30) (11/08 21h30) Preparatifs acheves la veille du depart : voiture chargee a 100 %, reveil regle a 04h15 pour vol AF1233 Findel-CDG-Abidjan du lundi 12 aout a 06h50 ; bagages et documents physiques prets* ; *(12/08 21h00) (12/08 21h00) Arrivée sans incident à Abidjan par le vol AF702 via Paris CDG ; formalités sanitaires et e-visa biométrique SNEDAI franchies avec succès à FHB ; installation dans l'appartement F2 climatisé de la résidence hôtelière à Cocody Deux-Plateaux ; prise de contact confirmée avec Mohamed Coulibaly pour la signature notariée des statuts et du mandat DG chez Me Gnamien mardi 13 août à 10h00* ; *(13/08 09h50) (13/08 09h50) Trajet matinal avec Mohamed Coulibaly via le pont HKB, arrivée au Cabinet de Me Gnamien au Plateau à 09h50, retrouvailles avec Mariam Brou à l'accueil, attente de l'entrée en salle de signature à 10h00 ; Revue du lundi n° 4 présentée au joueur (P27 à P31)* | Ouvert |
@@ -174,10 +190,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 1902543 ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : c9620a0 ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 13 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 33 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

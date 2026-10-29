@@ -9,20 +9,20 @@ date;heure;compte;montant;type;libelle;reference
 2041-08-05;06:00;courant;-949.28;prevu_realise;Mensualité du prêt immobilier et assurance emprunteur (maison d'Audun-le-Tiche) (échéance n° 84 : capital 626.84 €, intérêts 299.31 €, assurance 23.13 €);E002-20410805
 2041-08-05;06:00;pret;-626.84;prevu_realise;Prêt immobilier de la maison d'Audun-le-Tiche (taux fixe, amortissable) : capital remboursé (échéance n° 84);E002-20410805-K
 2041-08-05;06:00;maison_part;626.84;prevu_realise;Part nette du bien financé : + capital remboursé (échéance n° 84 du prêt PR1);E002-20410805-M
-2041-09-05;06:00;courant;-949.28;prevu;Mensualité du prêt immobilier et assurance emprunteur (maison d'Audun-le-Tiche) (échéance n° 85 : capital 628.66 €, intérêts 297.49 €, assurance 23.13 €);E002-20410905
-2041-09-05;06:00;pret;-628.66;prevu;Prêt immobilier de la maison d'Audun-le-Tiche (taux fixe, amortissable) : capital remboursé (échéance n° 85);E002-20410905-K
-2041-09-05;06:00;maison_part;628.66;prevu;Part nette du bien financé : + capital remboursé (échéance n° 85 du prêt PR1);E002-20410905-M
+2041-09-05;06:00;courant;-949.28;prevu_realise;Mensualité du prêt immobilier et assurance emprunteur (maison d'Audun-le-Tiche) (échéance n° 85 : capital 628.66 €, intérêts 297.49 €, assurance 23.13 €);E002-20410905
+2041-09-05;06:00;pret;-628.66;prevu_realise;Prêt immobilier de la maison d'Audun-le-Tiche (taux fixe, amortissable) : capital remboursé (échéance n° 85);E002-20410905-K
+2041-09-05;06:00;maison_part;628.66;prevu_realise;Part nette du bien financé : + capital remboursé (échéance n° 85 du prêt PR1);E002-20410905-M
 2041-08-12;06:00;courant;-132.00;prevu_realise;Électricité (mensualisation · option heures creuses, 9 kVA · recharge de la voiture la nuit);E003-20410812
 2041-09-10;06:00;courant;-132.00;prevu;Électricité (mensualisation · option heures creuses, 9 kVA · recharge de la voiture la nuit);E003-20410910
 2041-08-12;06:00;courant;-253.00;prevu_realise;Gaz naturel (chauffage, eau chaude, cuisson) : mensualisation;E004-20410812
 2041-09-10;06:00;courant;-253.00;prevu;Gaz naturel (chauffage, eau chaude, cuisson) : mensualisation;E004-20410910
 2041-08-16;06:00;courant;-63.00;prevu_realise;Box internet fibre et forfait mobile;E005-20410816
 2041-08-05;06:00;courant;-45.00;prevu_realise;Assurance habitation (maison, propriétaire occupant) : mensualisée;E007-20410805
-2041-09-05;06:00;courant;-45.00;prevu;Assurance habitation (maison, propriétaire occupant) : mensualisée;E007-20410905
+2041-09-05;06:00;courant;-45.00;prevu_realise;Assurance habitation (maison, propriétaire occupant) : mensualisée;E007-20410905
 2041-08-01;06:00;courant;-85.00;prevu_realise;Minett Combat Club (Esch-sur-Alzette) : accès complet;E008-20410801
-2041-09-02;06:00;courant;-85.00;prevu;Minett Combat Club (Esch-sur-Alzette) : accès complet;E008-20410902
+2041-09-02;06:00;courant;-85.00;prevu_realise;Minett Combat Club (Esch-sur-Alzette) : accès complet;E008-20410902
 2041-08-05;06:00;courant;-107.00;prevu_realise;Voiture électrique : assurance tous risques (mensualisée);E010-20410805
-2041-09-05;06:00;courant;-107.00;prevu;Voiture électrique : assurance tous risques (mensualisée);E010-20410905
+2041-09-05;06:00;courant;-107.00;prevu_realise;Voiture électrique : assurance tous risques (mensualisée);E010-20410905
 2041-08-02;08:00;courant;-732.00;prevu_realise;Virement permanent vers le compte épargne (10 % de l'excédent net);E012-20410802
 2041-08-02;08:00;projet;732.00;prevu_realise;Virement permanent vers le compte épargne (10 % de l'excédent net) (compte crédité);E012-20410802-C
 2041-09-02;08:00;courant;-732.00;prevu_annule;Virement permanent vers le compte épargne (10 % de l'excédent net) [annulé : ordre modifié le 25/08/2041];E012-20410902-x204108251704
@@ -32,7 +32,7 @@ date;heure;compte;montant;type;libelle;reference
 2041-09-02;08:00;courant;-5755.00;prevu_annule;Virement permanent vers le compte-titres ETF (solde net après vacances et sécurité) [annulé : ordre suspendu le 25/08/2041];E014-20410902-x204108251705
 2041-09-02;08:00;etf;5755.00;prevu_annule;Virement permanent vers le compte-titres ETF (solde net après vacances et sécurité) (compte crédité) [annulé : ordre suspendu le 25/08/2041];E014-20410902-C-x204108251705
 2041-08-01;06:00;courant;-12.83;prevu_realise;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20410801
-2041-09-02;06:00;courant;-12.83;prevu;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20410902
+2041-09-02;06:00;courant;-12.83;prevu_realise;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20410902
 2041-07-16;12:33;courant;-24.30;mouvement;Visa Debit : Abonnement agent IA (formule Pro, engagement 12 mois);K001
 2041-09-30;20:00;courant;9320.00;prevu;Traitement mensuel de William (net, État luxembourgeois);E001-20410930
 2041-10-31;20:00;courant;9320.00;prevu;Traitement mensuel de William (net, État luxembourgeois);E001-20411031
@@ -103,11 +103,15 @@ date;heure;compte;montant;type;libelle;reference
 2041-08-22;20:08;projet;-20000.00;mouvement;Virement interne vers compte courant (première tranche, versement 1 avancé);VIR-INT-20410822-01
 2041-08-22;20:08;courant;20000.00;mouvement;Virement interne depuis compte épargne projet (première tranche, versement 1);VIR-INT-20410822-01
 2041-08-22;20:10;courant;-20000.00;mouvement;Virement apport SOLEIL B2B CI (SGCI Plateau) : première tranche, versement 1 (13 119 140 FCFA), exécution le 23/08;TR1-20410822-01
-2041-09-02;08:00;courant;-1487.00;prevu;Virement permanent vers le compte épargne (10 % de l'excédent net);E012-20410902
-2041-09-02;08:00;projet;1487.00;prevu;Virement permanent vers le compte épargne (10 % de l'excédent net) (compte crédité);E012-20410902-C
+2041-09-02;08:00;courant;-1487.00;prevu_realise;Virement permanent vers le compte épargne (10 % de l'excédent net);E012-20410902
+2041-09-02;08:00;projet;1487.00;prevu_realise;Virement permanent vers le compte épargne (10 % de l'excédent net) (compte crédité);E012-20410902-C
 2041-10-02;08:00;courant;-1487.00;prevu;Virement permanent vers le compte épargne (10 % de l'excédent net);E012-20411002
 2041-10-02;08:00;projet;1487.00;prevu;Virement permanent vers le compte épargne (10 % de l'excédent net) (compte crédité);E012-20411002-C
-2041-09-02;08:00;courant;-5000.00;prevu;Virement permanent vers SOLEIL B2B CI (SGCI Plateau) : apport mensuel en compte courant d'associé;E017-20410902
+2041-09-02;08:00;courant;-5000.00;prevu_realise;Virement permanent vers SOLEIL B2B CI (SGCI Plateau) : apport mensuel en compte courant d'associé;E017-20410902
 2041-10-02;08:00;courant;-5000.00;prevu;Virement permanent vers SOLEIL B2B CI (SGCI Plateau) : apport mensuel en compte courant d'associé;E017-20411002
 2041-08-26;11:05;courant;-255.22;mouvement;Visa Debit : Lux-Airport : parking couvert, 14 jours (12/08 au 26/08);K030
 2041-08-29;18:40;courant;-96.40;mouvement;Visa Debit : Supermarché (Audun-le-Tiche) : courses de la semaine;K031
+2041-09-05;18:30;courant;-91.80;mouvement;Visa Debit : Supermarché (Audun-le-Tiche) : courses de la semaine;K032
+2041-11-04;08:00;courant;-1487.00;prevu;Virement permanent vers le compte épargne (10 % de l'excédent net);E012-20411104
+2041-11-04;08:00;projet;1487.00;prevu;Virement permanent vers le compte épargne (10 % de l'excédent net) (compte crédité);E012-20411104-C
+2041-11-04;08:00;courant;-5000.00;prevu;Virement permanent vers SOLEIL B2B CI (SGCI Plateau) : apport mensuel en compte courant d'associé;E017-20411104

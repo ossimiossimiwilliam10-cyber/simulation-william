@@ -599,3 +599,20 @@ POUR INFORMATION
 3. Reçu du dépôt de garantie : relance de Coulibaly demain à 08h00, avec un délai écrit, vendredi 6 septembre.
 
 Système inchangé : je traite ce qui arrive en semaine et je te garde le reste pour dimanche prochain.
+**[08/09/2041 - 08:55 (Luxembourg)] Agent central :** Séance du dimanche 8 septembre 2041, 09h00. Ordre du jour.
+
+BILAN DE LA SEMAINE (2 au 8 septembre)
+- Ton premier apport mensuel de 5 000 € est parti lundi ; crédité mercredi sur le compte de la société.
+- Reçu du dépôt de garantie : obtenu par Coulibaly jeudi, avant le délai. Archivé dans tes documents.
+- CIE : la visite technique prévue jeudi n'a pas eu lieu, l'agent ne s'est pas présenté ; nouvelle date annoncée « la semaine prochaine », sans jour précis. SODECI : dossier en cours.
+- Gardiennage d'octobre : prolongation confirmée au même prix. Mariam Brou, prévenue par Coulibaly, a répondu qu'elle ne pourrait s'en occuper qu'à partir de sa prise de fonction ; Coulibaly note dans son compte rendu de vendredi « quelques frottements » sur la répartition des tâches avant le 1er octobre.
+- Comptes rendus de Coulibaly : mardi 17h00 et vendredi 12h00, à l'heure.
+- Pas avancé : devis informatiques (un seul reçu, 3,9 millions de FCFA, je demande un deuxième), location du pickup (aucune offre).
+
+DÉCISIONS À PRENDRE
+1. Avenant sur les jalons : Me Gnamien a envoyé son devis lundi soir, 250 000 FCFA hors taxes, 295 000 FCFA TTC (environ 450 €), à la charge de la société. Tu acceptes ? Oui ou non.
+2. Informatique : le premier devis (3,9 millions de FCFA pour quatre portables, réseau, Wi-Fi et imprimante) dépasse de 400 000 FCFA l'enveloppe du plan. On attend un deuxième devis, ou tu acceptes celui-là pour gagner du temps ?
+
+POUR INFORMATION
+- Trésorerie : environ 13 millions de FCFA sur le compte de la société après ton apport de septembre ; caisse toujours jusqu'à fin décembre sans recette.
+- Veille « faute lourde » : rien à signaler.

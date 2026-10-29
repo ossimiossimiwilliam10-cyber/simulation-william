@@ -1,47 +1,57 @@
 # Dernier tour montré au joueur
 
-> Tour n° 140 ; horloge 01/09/2041 09:00 -> 01/09/2041 09:18 ; enregistré le 29/10/2026 21:24 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 141 ; horloge 01/09/2041 09:18 -> 08/09/2041 09:00 ; enregistré le 29/10/2026 21:28 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Concernant le gardiennage… (décisions de la séance du 01/09 ; règle des réponses automatiques en mode semaine)
+> Club lundi, mercredi, vendredi, séance dimanche matin, et Go (message à Lenny ; préparation des cours mardi et jeudi)
 
 ## Texte envoyé au joueur
 
-**DIMANCHE 1er SEPTEMBRE 2041 — 09h18 — Audun-le-Tiche (Moselle), chez toi**
+**DIMANCHE 8 SEPTEMBRE 2041 — 09h00 — Audun-le-Tiche (Moselle), chez toi**
 
-Tu réponds à ton conseiller :
+Dimanche dernier, tu écris à Lenny : « Désolé pour mercredi dernier, j'ai pas répondu. Cette semaine je suis à 100 % dispo pour les entraînements : lundi, mercredi et vendredi. » Il répond à 13h04 : « Top ! Lundi 18h alors 💪 Et ramène ton cardio, vendredi on fait 6 rounds. » Tu lui confirmes lundi 18h.
 
-« Gardiennage : 540 000 FCFA, c'est cher. On garde le prestataire du bailleur pour le premier mois, octobre, et Mariam Brou cherche mieux en rapport qualité-prix dès son arrivée. Je valide l'avenant sur les jalons tel quel. Et il faut absolument relancer Coulibaly sur le reçu du dépôt de garantie. Pour le reste, on garde le système actuel. »
+La semaine suit son programme. Lundi, mercredi et vendredi, le Minett Combat Club. Lenny tient parole et te fait enchaîner six rounds vendredi ; tu finis le dernier les bras lourds, mais debout. Au vestiaire, quelqu'un te lance en passant : « Alors, l'Africain, ça avance ta boîte ? », et Lenny rit plus fort que les autres.
 
-Un instant, tu te demandes s'il ne faudrait pas que ton conseiller réponde lui-même à Coulibaly en semaine, et ne te dérange que s'il bute sur une question. Tu laisses tomber l'idée.
+Mardi et jeudi, tu t'installes au bureau pour préparer l'année. Ton système est déjà rodé : les progressions sont prêtes, les fiches générées, les contrôles calibrés. Tu relis, tu ajustes deux chapitres de première, tu vérifies que tout est à portée de clic pour le jour de la rentrée. Le lundi, l'application Banque affiche le départ de ton premier virement de 5 000 € vers la société ; jeudi soir, les courses, 91,80 €. Ton conseiller ne t'écrit pas de la semaine.
 
-Réponse à 09h18 :
+Ce dimanche, l'air est plus frais ; il a plu dans la nuit et le jardin sent la terre mouillée. À 08h55, ton conseiller :
 
-« Reçu à 09h14. Je note :
-1. Gardiennage : prolongation d'octobre au même prix ; à son arrivée le 1er octobre, Mariam Brou lance une consultation de trois prestataires, avec réponse attendue avant le 20 octobre. Coulibaly en est informé demain matin.
-2. Avenant sur les jalons : validé tel quel. Je l'envoie demain à Me Gnamien pour la mise en forme et je te transmets son devis avant toute signature.
-3. Reçu du dépôt de garantie : relance de Coulibaly demain à 08h00, avec un délai écrit, vendredi 6 septembre.
+« Séance du dimanche 8 septembre 2041, 09h00. Ordre du jour.
 
-Système inchangé : je traite ce qui arrive en semaine et je te garde le reste pour dimanche prochain. »
+BILAN DE LA SEMAINE (2 au 8 septembre)
+- Ton premier apport mensuel de 5 000 € est parti lundi ; crédité mercredi sur le compte de la société.
+- Reçu du dépôt de garantie : obtenu par Coulibaly jeudi, avant le délai. Archivé dans tes documents.
+- CIE : la visite technique prévue jeudi n'a pas eu lieu, l'agent ne s'est pas présenté ; nouvelle date annoncée « la semaine prochaine », sans jour précis. SODECI : dossier en cours.
+- Gardiennage d'octobre : prolongation confirmée au même prix. Mariam Brou, prévenue par Coulibaly, a répondu qu'elle ne pourrait s'en occuper qu'à partir de sa prise de fonction ; Coulibaly note dans son compte rendu de vendredi « quelques frottements » sur la répartition des tâches avant le 1er octobre.
+- Comptes rendus de Coulibaly : mardi 17h00 et vendredi 12h00, à l'heure.
+- Pas avancé : devis informatiques (un seul reçu, 3,9 millions de FCFA, je demande un deuxième), location du pickup (aucune offre).
 
-La tondeuse du voisin s'est tue. Le café a refroidi ; dehors, le soleil de septembre éclaire la haie sans la chauffer.
+DÉCISIONS À PRENDRE
+1. Avenant sur les jalons : Me Gnamien a envoyé son devis lundi soir, 250 000 FCFA hors taxes, 295 000 FCFA TTC (environ 450 €), à la charge de la société. Tu acceptes ? Oui ou non.
+2. Informatique : le premier devis (3,9 millions de FCFA pour quatre portables, réseau, Wi-Fi et imprimante) dépasse de 400 000 FCFA l'enveloppe du plan. On attend un deuxième devis, ou tu acceptes celui-là pour gagner du temps ?
 
-Il est 09h18.
+POUR INFORMATION
+- Trésorerie : environ 13 millions de FCFA sur le compte de la société après ton apport de septembre ; caisse toujours jusqu'à fin décembre sans recette.
+- Veille « faute lourde » : rien à signaler. »
+
+Il est 09h00.
 
 ---
 
 **Réponses attendues**
-- **Lenny Nguyen** : son « Mercredi même heure ? » de lundi soir est toujours sans réponse écrite.
+- **Ton conseiller (séance du dimanche)** : deux décisions :
+  1. accepter le devis de Me Gnamien pour l'avenant sur les jalons, 295 000 FCFA TTC (environ 450 €), à la charge de la société ? Oui ou non ;
+  2. informatique : attendre un deuxième devis, ou accepter le premier, 3,9 millions de FCFA ?
 
 **À faire / à fournir avant le tour suivant**
-- Ton programme de la semaine du 2 au 8 septembre, pour l'avance automatique (sport, rendez-vous, séance du dimanche 8).
+- Tes décisions pour la séance, et ton programme de la semaine du 9 au 15 septembre si tu veux l'avance automatique.
 
 **Quêtes secondaires**
-- Demain, lundi 2 septembre : premier apport mensuel de 5 000 € à la société, prélèvement du club (85 €).
-- Lundi 9 septembre : relevé de la Visa Premier (environ 2 500 €).
+- Demain, lundi 9 septembre : relevé de la Visa Premier (environ 2 500 €).
+- Dimanche 15 septembre : fin des vacances d'été, rentrée le lundi 16.
+- Climatiseurs de la villa annoncés vers le 17 septembre ; visite technique de la CIE à refixer.
 - Mercredi 25 septembre : versement de 40 000 € (première tranche).
-- Climatiseurs de la villa annoncés vers le 17 septembre.
-- Rentrée scolaire après les vacances d'été, qui se terminent le dimanche 15 septembre.
 
 Que veux-tu faire ?

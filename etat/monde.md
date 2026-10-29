@@ -77,3 +77,9 @@
 - **Luxembourg** : Frontaliers : nouveau record du nombre de travailleurs frontaliers selon les chiffres trimestriels · la France fournit toujours plus de la moitié des entrants.
 - **Lorraine (Audun-le-Tiche, Moselle)** : Moselle : travaux de nuit sur l'A31 entre Thionville et la frontière · bouchons le matin au passage de Zoufftgen.
 - *(écrit par outils/actualites.py le 29/10/2026 heure machine ; modèles tirés : LU03, LU04, FR01 ; une nouvelle datée n'est connue qu'à sa date)*
+
+## Semaine du 2 au 8/09/2041
+- **Luxembourg** : Frontaliers : nouveau record du nombre de travailleurs frontaliers selon les chiffres trimestriels · la France fournit toujours plus de la moitié des entrants.
+- **Luxembourg** : Carburants : nouveaux prix maximums au Luxembourg à partir de mercredi · hausse d'environ 2 centimes le litre.
+- **Lorraine (Audun-le-Tiche, Moselle)** : Moselle : travaux de nuit sur l'A31 entre Thionville et la frontière · bouchons le matin au passage de Zoufftgen.
+- *(écrit par outils/actualites.py le 29/10/2026 heure machine ; modèles tirés : LU04, LU01, FR01 ; une nouvelle datée n'est connue qu'à sa date)*

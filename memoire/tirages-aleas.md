@@ -4575,3 +4575,25 @@ Aucun aléa déclenché cette semaine.
 - Tirage [T15] « Lenny reçoit de William le maillot officiel des Éléphants XL promis (club, 26/08/2041 18h00) » : rien_laisse_passer 30 / accepte_volontiers 18 / garde_distance 14 / en_parle_a_d_autres 12 / rend_la_pareille 10 / demande_explication 8 / decline 6 / frontal_conflit 2 ; modificateurs : aucun ; jet  66.2 → **en_parle_a_d_autres** (enregistré le 29/10/2026 21:15 heure machine)
 
 - Procédure « William : nuits du 26/08 au 01/09 (avance hebdomadaire) » : 26/08 22:36-07:03 ; 27/08 23:00-07:21 ; 28/08 22:41-05:42 ; 29/08 23:08-07:39 ; 30/08 23:18-06:20 ; 31/08 23:26-07:03 [PROCÉDURE : coucher 22h30-23h30 (samedi 23h-24h), sommeil 7 h à 8 h 40] (enregistré le 29/10/2026 21:16 heure machine)
+
+- Tirage [T22] « Front H002 « Abonnements CIE et SODECI de la villa des Vallons » : semaine du 02/09/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  64.8 → **un_segment** (enregistré le 29/10/2026 21:27 heure machine)
+
+- Tirage [T22] « Front H004 « Lagune Kilowatt réagit à l'arrivée de SOLEIL B2B CI » : semaine du 02/09/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet   4.8 → **zero_segment** (enregistré le 29/10/2026 21:27 heure machine)
+
+- Tirage [T22] « Front H005 « Comoé Solaire Services tente de débaucher l'équipe » : semaine du 02/09/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet   7.4 → **zero_segment** (enregistré le 29/10/2026 21:27 heure machine)
+
+- Tirage [T22] « Front H006 « Ébène Watt casse les prix chez les petits clients » : semaine du 02/09/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  39.4 → **zero_segment** (enregistré le 29/10/2026 21:27 heure machine)
+
+- Tirage [T10] « Lenny Nguyen : délai (répond aux disponibilités de William) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  63.4 → **dans_la_journee** (enregistré le 29/10/2026 21:27 heure machine)
+
+- Jet « Mohamed Coulibaly tient sa promesse : obtient le reçu du dépôt de garantie avant le 06/09 » : probabilité 90 %, jet  12.9 → **OUI** [PROCÉDURE : fiabilité tirée du personnage (lenteur.py)] (enregistré le 29/10/2026 21:27 heure machine)
+
+- Jet « Mohamed Coulibaly tient sa promesse : envoie son compte rendu du mardi 03/09 17h00 » : probabilité 90 %, jet  63.5 → **OUI** [PROCÉDURE : fiabilité tirée du personnage (lenteur.py)] (enregistré le 29/10/2026 21:27 heure machine)
+
+- Jet « Mohamed Coulibaly tient sa promesse : envoie son compte rendu du vendredi 06/09 12h00 » : probabilité 90 %, jet  71.8 → **OUI** [PROCÉDURE : fiabilité tirée du personnage (lenteur.py)] (enregistré le 29/10/2026 21:27 heure machine)
+
+- Tirage [T10] « Me Gnamien : réponse (devis) à la demande de mise en forme de l'avenant sur les jalons de la deuxième tranche, envoyée le 02/09 à 09h00 » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  58.6 → **dans_la_journee** (enregistré le 29/10/2026 21:27 heure machine)
+
+- Procédure « William : nuits du 01/09 au 08/09 (avance hebdomadaire) » : 01/09 22:34-07:10 ; 02/09 22:50-05:52 ; 03/09 22:32-06:10 ; 04/09 22:53-06:52 ; 05/09 22:44-06:04 ; 06/09 23:26-06:34 ; 07/09 23:26-07:45 [PROCÉDURE : coucher 22h30-23h30, sommeil 7 h à 8 h 40] (enregistré le 29/10/2026 21:28 heure machine)
+
+- Actualités de la semaine du 02/09/2041 : modèles LU04, LU01, FR01 [PROCÉDURE : outils/actualites.py] (enregistré le 29/10/2026 21:28 heure machine)
