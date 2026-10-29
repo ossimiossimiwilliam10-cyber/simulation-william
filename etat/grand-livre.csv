@@ -96,3 +96,4 @@ date;heure;compte;montant;type;libelle;reference
 2041-08-16;13:55;courant;-8000.00;mouvement;Virement pret associe CCA SOLEIL B2B CI (SGCI Plateau);CCA-20410816-01
 2041-08-16;15:50;projet;-8000.00;mouvement;Virement interne vers compte courant (reconstitution liquidite);VIR-INT-20410816-01
 2041-08-16;15:50;courant;8000.00;mouvement;Virement interne depuis compte epargne projet (reconstitution liquidite);VIR-INT-20410816-01
+2041-08-16;12:34;courant;24.30;mouvement;Correction : abonnement à l'agent IA inscrit deux fois le 16/08 (échéancier + saisie manuelle), contre-passation (audit U3-19);CORR-E016-20410816

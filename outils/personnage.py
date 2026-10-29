@@ -553,6 +553,9 @@ def consigner(p, statut):
 def cmd_nouveau(args):
     existants = [l["nom"] for l in lire()]
     p = tirer(args.contexte, args.role, args.sexe, args.age, existants=existants)
+    if getattr(args, "nom", None):  # personnage déjà nommé en jeu sans tirage : le nom est imposé, tout le reste est tiré
+        morceaux = args.nom.split()
+        p["prenom"], p["nom_famille"], p["nom"] = morceaux[0], " ".join(morceaux[1:]), args.nom
     statut = "figurant" if args.figurant else "recurrent"
     print(resume(p))
     if p["mineur"]:
@@ -837,6 +840,7 @@ def main():
     p.add_argument("--sexe", choices=("H", "F"))
     p.add_argument("--age", help="fourchette, ex. 30-40 (sinon : tirée selon le contexte)")
     p.add_argument("--figurant", action="store_true", help="registre seulement (pas de fiche ni de vie propre)")
+    p.add_argument("--nom", help="nom déjà employé en jeu (régularisation d'un personnage créé sans tirage) : le reste est tiré")
     p.add_argument("--simule", action="store_true")
     p.set_defaults(f=cmd_nouveau)
     p = sp.add_parser("promouvoir")

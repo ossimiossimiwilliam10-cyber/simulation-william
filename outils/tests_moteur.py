@@ -204,6 +204,7 @@ def main():
              nom="annonces : répondant de la diaspora tiré par le générateur (essai, rien d'écrit)")
     e.lancer(o + "entretien.py", "--help", contient="envoyer", nom="entretien : message de l'agent à un candidat (aide)")
     e.lancer(o + "verifier_texte_joueur.py", "--essai", contient="conforme", nom="texte du joueur : fuites du moteur, format et style repérés (essai)")
+    e.lancer(o + "piece.py", "donnees/exemples/piece-exemple.txt", "--simule", contient="(essai)", nom="pièce PDF à partir d'un texte simple (essai, rien d'écrit)")
     e.lancer(o + "annonces.py", "verifier", contient="conforme", nom="annonces : fichier des annonces conforme")
     e.lancer(o + "annonces.py", "reseau", "Min-ji", "--simule", contient="note", nom="annonces : réseau d'un répondant noté sur 100 (essai)")
     e.lancer(o + "telephone.py", "--json", contient='"epingle"', nom="téléphone : conversations épinglées (etat/epingles.csv)")

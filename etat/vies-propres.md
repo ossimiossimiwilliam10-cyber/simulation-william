@@ -302,3 +302,14 @@
 - **Secret (moteur seulement)** : —
 - **Horaires** : règle « bureau », fuseau abidjan, décalage -23 min ; travail 08:37-17:07 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:07-06:37
 - **Derniers événements** : 23/08 sans_histoire
+
+### Éric Koffi Yao (directeur technique de Soleil B2B CI (ingénieur, recruté le 02/08/2041))
+- **Objectif du moment** : passer plus de temps avec ses enfants.
+- **Souci en cours** : procédure de divorce.
+- **Alliés et tensions** : à établir au fil du jeu.
+- **Agenda de la semaine** : à établir.
+- **Secret** : a une condamnation ancienne (conduite en état d'ivresse) (tiré à la création).
+- **Modificateurs T11** : aucun
+- **Modificateurs T13** : —
+- **Modificateurs T14** : —
+

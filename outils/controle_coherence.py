@@ -251,6 +251,29 @@ def controle_donnees():
     return erreurs, aver, resume
 
 
+def controle_hygiene():
+    """Avertissements : une même opération inscrite deux fois au grand livre (sans contre-passation CORR-…), un brouillon rangé dans etat/ ou outils/."""
+    import csv
+    import re as _re
+    av = []
+    lignes = list(csv.DictReader(open(RACINE / "etat" / "grand-livre.csv", encoding="utf-8"), delimiter=";"))
+    refs = {l["reference"] for l in lignes}
+    vus = {}
+    for l in lignes:
+        if not l["reference"]:
+            continue
+        cle = (l["date"], l["compte"], l["montant"], l["reference"])
+        vus[cle] = vus.get(cle, 0) + 1
+    for (d, compte, montant, ref), n in vus.items():
+        if n > 1 and "CORR-" + ref not in refs:
+            av.append(f"grand livre : {ref} inscrit {n} fois le {d} ({compte}, {montant} €) : contre-passer avec une ligne de référence CORR-{ref}")
+    for dossier in ("etat", "outils"):
+        for f in (RACINE / dossier).iterdir():
+            if _re.search(r"brouillon|message-joueur|^msg\d", f.name, flags=_re.I):
+                av.append(f"brouillon dans {dossier}/ : {f.name} (les brouillons vont dans sorties/brouillons/, ignoré par git)")
+    return av
+
+
 def controle_tics():
     sys.path.insert(0, str(RACINE / "outils"))
     import chasse_tics
@@ -313,6 +336,10 @@ def main():
     print(f"[Texte du joueur] {len(joueur)} avertissement(s) sur le dernier tour (fuites du moteur, format, style ; non bloquant)")
     for a in joueur:
         print("  RELIRE (texte joueur)", a)
+    hyg = controle_hygiene()
+    print(f"[Hygiène] {len(hyg)} avertissement(s) (doublons du grand livre, brouillons mal rangés ; non bloquant)")
+    for a in hyg:
+        print("  RELIRE (hygiène)", a)
     r = subprocess.run([sys.executable, str(RACINE / "outils" / "verifier_pdf.py")], capture_output=True, text=True, encoding="utf-8")
     sortie = [l for l in r.stdout.splitlines() if l.strip() and not l.startswith("[INFO]")]
     mauvais = [l for l in sortie if not l.startswith("[ OK  ]")]

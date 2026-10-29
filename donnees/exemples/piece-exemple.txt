@@ -1,0 +1,18 @@
+titre: Courriel d'exemple : accusé de réception
+sous-titre: Abidjan, lundi 19 août 2041, 08h15
+auteur: L'équipe du projet
+pied: Exemple de pièce — outils/piece.py
+dossier: courriels
+fichier: 2041-08-19_Exemple_piece.pdf
+meta: De | L'équipe du projet
+meta: À | William
+
+# Objet
+Un paragraphe d'exemple, avec des accents : é, è, à, ç, ô.
+
+- première puce
+- deuxième puce
+
+| Poste | Montant |
+| --- | --- |
+| Forfait | 1 600 000 FCFA |
