@@ -4501,3 +4501,7 @@ Effets à jouer : A19 (dimanche 25/08 (soir)) : Un adulte attrape 2 à 4 rhumes 
 - Procédure « William : nuit du 24/08 » : coucher 00:26, lever 08:35 [PROCÉDURE : coucher tiré dans une fenêtre de 45 min, sommeil 7 h à 8 h 30] (enregistré le 29/10/2026 20:35 heure machine)
 
 - Procédure « William : nuit du 24/08 » : coucher 23:29, lever 07:18 [PROCÉDURE : coucher tiré dans une fenêtre de 45 min, sommeil 7 h à 8 h 30] (enregistré le 29/10/2026 20:35 heure machine)
+
+- Tirage [T24b] « Chauffeur Yango commandé par la réception (résidence → aéroport FHB, 25/08/2041 12h15) » : arrive 90 / annule 10 ; modificateurs : aucun ; jet  98.5 → **annule** (enregistré le 29/10/2026 20:39 heure machine)
+
+- Procédure « Course Yango résidence → aéroport (T24b annule) : annulation du premier chauffeur » : après 4 min [PROCÉDURE : T24b annule : délai entre 2 et 5 min] (enregistré le 29/10/2026 20:40 heure machine)

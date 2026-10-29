@@ -488,3 +488,28 @@ Aucune ce soir.
 Demain : ton départ. Je reste joignable pendant le vol par Messages ; rien ne demande ta présence d'ici lundi.
 
 Prochain rapport : demain à 20h00.
+**[25/08/2041 - 07:38 (Abidjan)] William :** Nouvelle instruction. Tu continues ton rapport de 20h00 avec ton analyse, mais tu ne me l'envoies plus : tu le gardes en archive. Le dimanche devient notre journée de travail : analyse globale de la semaine, et je prends les grandes décisions. En cas d'urgence, tu m'appelles, comme prévu. Informe Coulibaly et les membres de l'équipe si c'est nécessaire : eux aussi doivent fournir leurs rapports.
+**[25/08/2041 - 07:46 (Abidjan)] Agent central :** Reçu à 07h40. C'est en place à partir de maintenant :
+- Chaque soir à 20h00, j'écris le rapport et l'analyse, je les archive dans tes documents, et je ne t'envoie rien.
+- Le dimanche, séance de travail avec toi : bilan de la semaine, points en suspens, décisions à prendre. Rien n'est tranché sans toi.
+- Entre deux dimanches, je ne t'écris que pour une urgence : de l'argent à engager sous 48 heures, un risque juridique, une sécurité, ou un fait qui pourrait relever de la faute lourde.
+- Je réponds toujours quand tu m'écris.
+
+J'informe Coulibaly demain lundi, depuis ton adresse direction : les comptes rendus des responsables restent dus le mardi à 17h00 et le vendredi à 12h00 ; pour Mariam Brou, Viviane Tanoh et Éric Koffi Yao, à partir de leur prise de fonction, le 1er octobre. Je ne lui parle pas de moi.
+
+Aujourd'hui, c'est dimanche : je te propose notre première séance cet après-midi à 15h00, pendant ton attente à l'aéroport. L'ordre du jour sera prêt à 14h55.
+**[25/08/2041 - 14:55 (Abidjan)] Agent central :** Séance du dimanche 25 août 2041, 15h00. Ordre du jour.
+
+BILAN DE LA SEMAINE (19 au 25 août)
+- Acquis : copie du bail obtenue (article 6 vérifié) ; dépôt de garantie payé le vendredi 23, jour de l'échéance ; accord écrit du bailleur pour les travaux ; contrat de Viviane Tanoh signé ; première tranche lancée (20 000 € partis vendredi, 40 000 € le 25 septembre).
+- Pas avancé : abonnements CIE et SODECI (aucune pièce) ; recrutements de niveaux 3 et 4 (aucune fiche, entretiens envisagés la semaine du 2 septembre) ; reçu du dépôt de garantie toujours absent.
+- Coulibaly : exécute, mais l'information remonte tard (Viviane Tanoh : deux jours de retard, deux relances) ; il refuse les demandes venant d'une adresse qu'il ne connaît pas, ce que ta bascule sur l'adresse direction a réglé.
+
+DÉCISIONS À PRENDRE
+1. Gardiennage en septembre : demain, le bailleur en parle avec Coulibaly. Soit on prolonge son prestataire (le plus simple, le prix reste à connaître), soit Coulibaly signe dès maintenant notre propre contrat, sans attendre Mariam Brou. Laquelle ?
+2. Abonnements CIE et SODECI : Mariam Brou n'arrive que le 1er octobre, et les travaux de climatisation commencent dans trois semaines. Est-ce que Coulibaly les prend en charge lui-même dès cette semaine ? Oui ou non ?
+3. Froid Lagune Services : confirmation dès l'arrivée de ton versement, au plus tard mercredi 28. Je laisse Coulibaly confirmer seul (c'est dans ses pouvoirs) ou tu veux valider avant ? Laisser faire ou valider ?
+
+POUR INFORMATION
+- Trésorerie : environ 1,76 million de FCFA sur le compte de la société, réservés au loyer du 1er septembre ; plus les 20 000 € attendus mardi.
+- Veille « faute lourde » : rien à signaler.

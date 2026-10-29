@@ -407,3 +407,10 @@
 - **Secret (moteur seulement)** : doit de l'argent à un proche (gravité 1)
 - **Horaires** : règle « bureau_abidjan », fuseau abidjan, décalage -25 min ; travail 07:35-17:05 (lun, mar, mer, jeu, ven), trajet 50 min ; sommeil 23:05-05:35
 - **Derniers événements** : —
+
+### Daniel Öztürk (chauffeur Yango (résidence → aéroport Félix-Houphouët-Boigny))
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : préparer une compétition ou un examen ; **souci** : fin de mois difficile, découvert bancaire ; **foyer** : en colocation
+- **Secret (moteur seulement)** : se renseigne pour partir s'installer ailleurs (gravité 1)
+- **Horaires** : règle « chauffeur », fuseau abidjan, décalage +24 min ; travail 06:24-18:24 (lun, mar, mer, jeu, sam, dim), trajet 20 min ; sommeil 22:24-05:24
+- **Derniers événements** : —

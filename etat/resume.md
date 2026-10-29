@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 29/10/2026 20:36 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 29/10/2026 20:41 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : dimanche 25/08/2041 07:18 (abidjan, UTC+0)
-- **Lieu de William** : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-- **Heure dans les autres lieux** : lisbonne 08:18 ; luxembourg 09:18 ; mindelo 06:18 ; casablanca 07:18 ; douala 08:18 ; addis 10:18 ; manille 15:18 ; paris 09:18 ; seoul 16:18 ; bresil 04:18
+## Horloge : dimanche 25/08/2041 15:00 (abidjan, UTC+0)
+- **Lieu de William** : Abidjan, aéroport Félix-Houphouët-Boigny (hall des départs)
+- **Heure dans les autres lieux** : lisbonne 16:00 ; luxembourg 17:00 ; mindelo 14:00 ; casablanca 15:00 ; douala 16:00 ; addis 18:00 ; manille 23:00 ; paris 17:00 ; seoul 00:00 ; bresil 12:00
 - **En attente de William** :
-  - Jour du départ : règlement de la résidence avant midi, vol AF703 à 22h15
+  - Séance du dimanche avec le conseiller : trois décisions (gardiennage, CIE-SODECI, Froid Lagune) ; vol AF703 22h15
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 268,29 €**
@@ -15,8 +15,7 @@
 - Patrimoine net de William : **827 707,35 €**
 - Prévu dans les 14 jours : 30/08 Traitement mensuel de William (9 320,00 €) ; 02/09 Minett Combat Club (-85,00 €) ; 02/09 Package bancaire Zebra Premium (-12,83 €) ; 02/09 Virement permanent vers le compte épargne (-732,00 €) ; 02/09 Virement permanent vers le compte épargne (732,00 €) ; 02/09 Virement permanent vers le compte-titres ETF (-5 755,00 €) ; 02/09 Virement permanent vers le compte-titres ETF (5 755,00 €) ; 05/09 Mensualité du prêt immobilier et assurance emprunteu (-949,28 €) ; 05/09 Prêt immobilier de la maison d'Audun-le-Tiche (-628,66 €) ; 05/09 Part nette du bien financé : + capital remboursé (628,66 €) ; 05/09 Assurance habitation (-45,00 €) ; 05/09 Voiture électrique : assurance tous risques (-107,00 €)
 
-## Agenda : dans les 24 heures (2)
-- A111 Sun 25/08 12:00 (abidjan) | Résidence hôtelière (Cocody Deux-Plateaux) : Départ de la résidence et règlement du séjour du 12 au 25 août : 1 690 € (empreinte de la Visa Premier prise à l'arrivée) ; bagages gardés à la réception jusqu'au soir [prevu]  — U3-19 : la résidence n'avait jamais été réglée ; le jour dit : python outils/cartes.py payer --carte visa_premier --montant 1690 --marchand "Résidence hôtelière Deux-Plateaux" --quand "2041-08-25 12:00"
+## Agenda : dans les 24 heures (1)
 - A112 Sun 25/08 22:15 (abidjan) | Air France : Vol retour AF703 Abidjan (FHB) → Paris-CDG (arrivée le 26/08 vers 05h45), puis correspondance vers Luxembourg-Findel ; billet aller-retour réglé le 27/07 (1 285 €) [prevu]  — U3-19 : le retour n'était pas à l'agenda ; horaire d'après l'AF703 de 2026 (départ vers 22h15, F119) ; quitter la résidence vers 19h00 (trajet et contrôles)
 ## Agenda : de J+1 à J+7 (1)
 - A121 Mon 26/08 17:00 (abidjan) | Mohamed Coulibaly : Réponse de l'agence de gardiennage (via le bailleur) sur la prolongation du gardiennage de la villa en septembre ; copie du bail promise « dès qu'il repasse à la villa » [prevu]  — promesses du 20/08 09h55 ; T18 si manquement | reporté de 2041-08-22 17:00 : T12 temporise : le bailleur veut en parler en début de semaine prochaine (courrier de l'agence du 22/08) ; copie du bail déjà reçue le 21/08
@@ -37,7 +36,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-08-25.md, 6 dernières lignes)
-> # Dimanche 25 août 2041 — univers 3, 41e jour
 > - **00h00-07h18** (tour n° 132) : Avance : samedi calme à la résidence (lever 08h35, trois repas room service K026-K028), rapport de 20h00 sans décision (PDF). Nuit 23h29-07h18. Dimanche 25/08 : jour du départ.
 > - Tirages du tour : procédure : coucher 00:26, lever 08:35 ; procédure : coucher 23:29, lever 07:18.
 > - Tour en cours à 07h18, en attente de William : **Jour du départ : règlement de la résidence avant midi, vol AF703 à 22h15**.
+> - **07h18-15h00** (tour n° 133) : Nouvelle règle de William (07h38) : rapport de 20h00 archivé et non envoyé ; séance de travail le dimanche ; urgences seulement (CLAUDE §14, préférences, mémoire). Résidence réglée à 12h05 : 1 720,06 € Visa Premier (K029 : séjour 1 690 € + 19 716 FCFA d'extras ; A111 clos, fil 8 clos). Yango vers l'aéroport (T24b annule, puis Daniel Öztürk, tiré). Arrivée au termi
+> - Tirages du tour : T24b → annule (98,49) ; procédure : après 4 min.
+> - Tour en cours à 15h00, en attente de William : **Séance du dimanche avec le conseiller : trois décisions (gardiennage, CIE-SODECI, Froid Lagune) ; vol AF703 22h15**.

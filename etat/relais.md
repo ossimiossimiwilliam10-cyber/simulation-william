@@ -1,72 +1,79 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 29/10/2026 20:36 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 29/10/2026 20:41 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : dimanche 25 août 2041, 07h18 (abidjan) ; tour n° 132
-- Lieu de William : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-- En attente de William : Jour du départ : règlement de la résidence avant midi, vol AF703 à 22h15
+- Horloge : dimanche 25 août 2041, 15h00 (abidjan) ; tour n° 133
+- Lieu de William : Abidjan, aéroport Félix-Houphouët-Boigny (hall des départs)
+- En attente de William : Séance du dimanche avec le conseiller : trois décisions (gardiennage, CIE-SODECI, Froid Lagune) ; vol AF703 22h15
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 132 ; horloge 23/08/2041 23:40 -> 25/08/2041 07:18 ; enregistré le 29/10/2026 20:36 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 133 ; horloge 25/08/2041 07:18 -> 25/08/2041 15:00 ; enregistré le 29/10/2026 20:41 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Go
+> Je règle la résidence et je pars à l'aéroport, Go Mais avant, je modifie une instruction, c'est que, en fait, du coup, le conseiller, en fait, il fait toujours son rapport à 20h, mais en plus de son rapport, il fait une analyse. Il ne doit pas me fournir un rapport journalier. Il doit juste le garder en archive. Pourquoi? Parce que maintenant, je fixe la journée du dimanche comme journée où il doit me fournir, on doit vraiment bosser lui et moi, genre. On fait une analyse globale de la semaine, je prends les décisions, les grandes décisions. Bref, le système que j'ai déjà mis en place tout à l'heure, comme quoi, en cas d'urgence, on m'appelle, blablabla, je crois que j'ai déjà parlé de ça. Donc, maintenant, on met en place ce système-là. Il doit, du coup, informer Koulibaly, il doit informer les membres, si c'est nécessaire, parce qu'eux aussi, je crois, dans le système que j'avais mis en place, ils devaient également fournir des rapports. Donc, voilà.
 
 ## Texte envoyé au joueur
 
-**DIMANCHE 25 AOÛT 2041 — 07h18 — Abidjan, Cocody Deux-Plateaux, résidence hôtelière**
+**DIMANCHE 25 AOÛT 2041 — 15h00 — Abidjan, aéroport Félix-Houphouët-Boigny (Port-Bouët)**
 
-Le samedi passe lentement. Tu te lèves tard, à 08h35, après une nuit commencée après minuit. Les trois repas montent par le room service. Le ciel reste partagé toute la journée, la chaleur supportable ; en fin d'après-midi, des enfants jouent au foot dans la rue avec un ballon dégonflé, et leurs cris montent jusqu'à ta fenêtre jusqu'à la nuit.
+À 07h38, avant de descendre, tu écris à ton conseiller :
 
-À 20h00, ton conseiller :
+« Nouvelle instruction. Tu continues ton rapport de 20h00 avec ton analyse, mais tu ne me l'envoies plus : tu le gardes en archive. Le dimanche devient notre journée de travail : analyse globale de la semaine, et je prends les grandes décisions. En cas d'urgence, tu m'appelles, comme prévu. Informe Coulibaly et les membres de l'équipe si c'est nécessaire : eux aussi doivent fournir leurs rapports. »
 
-« Rapport final de la journée du samedi 24 août 2041 (20h00). PDF dans tes documents (application Fichiers).
+Réponse à 07h46 :
 
-DÉCISIONS
-Aucune ce soir.
+« Reçu à 07h40. C'est en place à partir de maintenant :
+- Chaque soir à 20h00, j'écris le rapport et l'analyse, je les archive dans tes documents, et je ne t'envoie rien.
+- Le dimanche, séance de travail avec toi : bilan de la semaine, points en suspens, décisions à prendre. Rien n'est tranché sans toi.
+- Entre deux dimanches, je ne t'écris que pour une urgence : de l'argent à engager sous 48 heures, un risque juridique, une sécurité, ou un fait qui pourrait relever de la faute lourde.
+- Je réponds toujours quand tu m'écris.
 
-ÉTAT DES PÔLES
-- Direction générale (Coulibaly) : rien depuis hier, week-end. Le reçu du dépôt de garantie n'est pas encore arrivé.
-- Pôle finance virtuel : ton versement de 20 000 € est parti hier de la Spuerkeess ; crédit attendu mardi au plus tard. Froid Lagune Services doit être confirmé avant mercredi 28.
-- Veille « faute lourde » : rien à signaler.
-- Budget d'API : 50,05 € sur 1 000 € ce mois-ci.
+J'informe Coulibaly demain lundi, depuis ton adresse direction : les comptes rendus des responsables restent dus le mardi à 17h00 et le vendredi à 12h00 ; pour Mariam Brou, Viviane Tanoh et Éric Koffi Yao, à partir de leur prise de fonction, le 1er octobre. Je ne lui parle pas de moi.
 
-Demain : ton départ. Je reste joignable pendant le vol par Messages ; rien ne demande ta présence d'ici lundi.
+Aujourd'hui, c'est dimanche : je te propose notre première séance cet après-midi à 15h00, pendant ton attente à l'aéroport. L'ordre du jour sera prêt à 14h55. »
 
-Prochain rapport : demain à 20h00. »
+Tu boucles ta valise, le maillot de Lenny roulé entre deux chemises. À 12h05, à la réception, tu règles le séjour : 1 690 €, plus 19 716 FCFA d'extras, les six courses Yango de la semaine, dont celle de l'aéroport, que la réceptionniste a commandée en même temps. Total sur ta Visa Premier : 1 720,06 €. Elle te tend la facture imprimée et te souhaite bon voyage.
 
-Tu éteins vers 23h30.
+Le premier chauffeur annule au bout de quatre minutes ; un second arrive à 12h17, une Peugeot 301 grise. C'est un jeune homme d'environ vingt-quatre ans, un mètre soixante-douze, mince, presque frêle dans un tee-shirt blanc trop large. Visage fin aux pommettes saillantes, teint olive clair, petites lunettes rondes cerclées de métal derrière lesquelles le regard rit facilement, une barbe de trois jours, des cheveux noirs bouclés coupés court. Jean noir, baskets. Il charge ta valise en plaisantant sur son poids, puis parle tout le trajet : il est né à Abidjan, son père est turc, il passe du français au dioula au téléphone sans transition ; il conduit le week-end pour payer ses cours et passe un concours de la fonction publique en octobre, « si Dieu veut ». Le pont, le boulevard VGE, la lagune à droite, les hangars de Port-Bouët. À 12h45, il te dépose devant le terminal.
 
-Dimanche, tu te réveilles à 07h18. Le jour du départ. La chambre est grise de lumière douce ; dans la rue, des familles endimanchées passent vers l'église du quartier, les femmes en pagnes brodés, les hommes en chemises repassées. Ta valise est ouverte au pied du lit, le sac orange du maillot posé dessus.
+L'enregistrement du vol de 22h15 n'ouvre qu'en début de soirée. Tu t'installes dans le hall des départs, à une table de café près des baies vitrées. Ça sent le café réchauffé et le kérosène quand les portes s'ouvrent. Des familles campent sur leurs valises, un groupe de pèlerins en boubous blancs attend un vol pour Djeddah, une annonce en français puis en anglais appelle un passager retardataire pour Casablanca.
 
-Il est 07h18.
+À 14h55, ton conseiller :
+
+« Séance du dimanche 25 août 2041, 15h00. Ordre du jour.
+
+BILAN DE LA SEMAINE (19 au 25 août)
+- Acquis : copie du bail obtenue (article 6 vérifié) ; dépôt de garantie payé le vendredi 23, jour de l'échéance ; accord écrit du bailleur pour les travaux ; contrat de Viviane Tanoh signé ; première tranche lancée (20 000 € partis vendredi, 40 000 € le 25 septembre).
+- Pas avancé : abonnements CIE et SODECI (aucune pièce) ; recrutements de niveaux 3 et 4 (aucune fiche, entretiens envisagés la semaine du 2 septembre) ; reçu du dépôt de garantie toujours absent.
+- Coulibaly : exécute, mais l'information remonte tard (Viviane Tanoh : deux jours de retard, deux relances) ; il refuse les demandes venant d'une adresse qu'il ne connaît pas, ce que ta bascule sur l'adresse direction a réglé.
+
+DÉCISIONS À PRENDRE
+1. Gardiennage en septembre : demain, le bailleur en parle avec Coulibaly. Soit on prolonge son prestataire (le plus simple, le prix reste à connaître), soit Coulibaly signe dès maintenant notre propre contrat, sans attendre Mariam Brou. Laquelle ?
+2. Abonnements CIE et SODECI : Mariam Brou n'arrive que le 1er octobre, et les travaux de climatisation commencent dans trois semaines. Est-ce que Coulibaly les prend en charge lui-même dès cette semaine ? Oui ou non ?
+3. Froid Lagune Services : confirmation dès l'arrivée de ton versement, au plus tard mercredi 28. Je laisse Coulibaly confirmer seul (c'est dans ses pouvoirs) ou tu veux valider avant ? Laisser faire ou valider ?
+
+POUR INFORMATION
+- Trésorerie : environ 1,76 million de FCFA sur le compte de la société, réservés au loyer du 1er septembre ; plus les 20 000 € attendus mardi.
+- Veille « faute lourde » : rien à signaler. »
+
+Il est 15h00.
 
 ---
 
 **Réponses attendues**
-- Aucune.
-
-**À faire / à fournir avant le tour suivant**
-- Départ de la résidence avant midi : règlement du séjour (1 690 €) et des extras portés sur ta note (courses Yango) ; bagages gardés à la réception jusqu'au soir si besoin.
-- Vol Air France AF703, Abidjan → Paris-CDG, ce soir à 22h15.
-
-**Quêtes secondaires**
-- Versement de 20 000 € : crédit attendu mardi au plus tard ; Froid Lagune Services à confirmer avant mercredi 28 août.
-- Reçu du dépôt de garantie : attendu de l'agence.
-- Gardiennage après le 31 août : le bailleur veut en parler demain, lundi 26 août.
-- Lenny : maillot XL dans ta valise ; réouverture du club demain, lundi 26 août, à 18h00.
-
-Que veux-tu faire ?
+- **Ton conseiller (séance du dimanche)** : trois décisions :
+  1. le gardiennage en septembre : prolonger le prestataire du bailleur, ou faire signer dès maintenant votre propre contrat par Coulibaly ;
+  2. les abonnements CIE et SODECI : Coulibaly les prend-il en charge dès cette semaine ? Oui ou non ;
+… (suite dans etat/dernier-tour.md, 71 lignes)
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
-- A111 Sun 25/08 12:00 (abidjan) | Résidence hôtelière (Cocody Deux-Plateaux) : Départ de la résidence et règlement du séjour du 12 au 25 août : 1 690 € (empreinte de la Visa Premier prise à l'arrivée) ; bagages gardés à la réception jusqu'au soir [prevu]  — U3-19 : la résidence n'avait jamais été réglée ; le jour dit : python outils/cartes.py payer --carte visa_premier --montant 1690 --marchand "Résidence hôtelière Deux-Plateaux" --quand "2041-08-25 12:00"
 - A112 Sun 25/08 22:15 (abidjan) | Air France : Vol retour AF703 Abidjan (FHB) → Paris-CDG (arrivée le 26/08 vers 05h45), puis correspondance vers Luxembourg-Findel ; billet aller-retour réglé le 27/07 (1 285 €) [prevu]  — U3-19 : le retour n'était pas à l'agenda ; horaire d'après l'AF703 de 2026 (départ vers 22h15, F119) ; quitter la résidence vers 19h00 (trajet et contrôles)
 
 ## Rituels du moteur dus (rituels.py)
@@ -80,7 +87,7 @@ Que veux-tu faire ?
 | 5 | ~~Validation des recrutements de direction (DT & DC)~~ | **CLOS le 03/08 09h30** : DT Éric Koffi Yao validé (84/100, D038 émis le 02/08, accord pré-contrat confirmé le 03/08 par Coulibaly) ; DC Stéphane Bamba rejeté (74/100 <= 80), sourcing B2B relancé par Coulibaly. | Clos |
 | 6 | ~~**Statuts de la SASU : William « Associé Unique / Président » (audit du 29/10/2026)** (19/08 09h00)~~ **CLOS le 19/08 09h00** : SANS OBJET (vérifié le 29/10/2026) : les actes signés le 13/08/2041 chez Me Gnamien nomment Mohamed Coulibaly Président-Directeur Général ; William est seulement associé unique fondateur. L'alerte de l'audit reposait sur le projet de statuts du 29/07 (piège 101). | Les statuts préparés par Me Gnamien (29/07/2041) font de William l'associé unique ET le Président de la SASU. Or F084 : un fonctionnaire luxembourgeois peut détenir des parts sans demande préalable tant qu'il n'exerce AUCUN mandat exécutif ; la présidence d'une SAS en est un. À jouer au prochain tour : le pôle juridique virtuel le signale dans la rubrique « affirmations vérifiées » du rapport (contredit F084 et le principe d'associé non-gérant, dossier article 14 en cours au MENJE) et pose une question fermée à William (garder la présidence et la déclarer au MENJE, ou confier la présidence à un tiers, par exemple Mohamed Coulibaly, par modification des statuts : coût et délai chez Me Gnamien). William décide ; rien n'est changé à sa place | prochain rapport de 20h00 |
 | 7 | **Revue du lundi n° 5 : P32 à P36 sont des décisions d'affaires, pas des mécanismes du simulateur** (19/08 09h00) | Audit du 29/10/2026 : la revue doit proposer des améliorations du SIMULATEUR (aléas, règles, outils, immersion) que l'utilisateur valide ; P32 à P36 décrivent des actions de l'entreprise (devis, abonnements CIE et SODECI, recrutements, rumeurs, cellule d'étude). Les présenter à William comme décisions d'affaires ; à la prochaine revue, 3 à 5 vraies propositions de mécanismes | revue du lundi 26/08 |
-| 8 | **Note de la résidence d'Abidjan (extras à régler au départ)** (19/08 09h00) | Course Yango du 19/08/2041 (résidence → villa des Vallons, 1 600 FCFA ≈ 2,44 €) commandée par la réception et portée sur la note ; à ajouter au règlement du 25/08 à 12h00 (A111), avec cartes.py payer ; *(19/08 10h17) (19/08 10h17) deuxième course Yango (villa des Vallons → résidence, 1 279 FCFA ≈ 1,95 €) commandée par la réception et portée sur la note ; total des extras Yango du jour : 2 879 FCFA* ; *(19/08 18h07) (19/08 13h41) courses Yango résidence → Sofitel (3 028 FCFA) et Sofitel → résidence (2 825 FCFA) portées sur la note ; total des extras Yango du jour : 8 732 FCFA (≈ 13,31 €)* ; *(20/08 10h47) (20/08 10h40) course Yango résidence → Playce Palmeraie, 2 405 FCFA, portée sur la note* ; *(20/08 11h11) (20/08 11h11) course Yango Playce Palmeraie → résidence, 2 207 FCFA, portée sur la note* | 25/08/2041 12h00 |
+| 8 | ~~**Note de la résidence d'Abidjan (extras à régler au départ)** (19/08 09h00)~~ **CLOS le 25/08 07h18** : réglé le 25/08 à 12h05 avec le séjour : 19 716 FCFA d'extras Yango (dont la course vers l'aéroport), 1 720,06 € au total sur la Visa Premier | Course Yango du 19/08/2041 (résidence → villa des Vallons, 1 600 FCFA ≈ 2,44 €) commandée par la réception et portée sur la note ; à ajouter au règlement du 25/08 à 12h00 (A111), avec cartes.py payer ; *(19/08 10h17) (19/08 10h17) deuxième course Yango (villa des Vallons → résidence, 1 279 FCFA ≈ 1,95 €) commandée par la réception et portée sur la note ; total des extras Yango du jour : 2 879 FCFA* ; *(19/08 18h07) (19/08 13h41) courses Yango résidence → Sofitel (3 028 FCFA) et Sofitel → résidence (2 825 FCFA) portées sur la note ; total des extras Yango du jour : 8 732 FCFA (≈ 13,31 €)* ; *(20/08 10h47) (20/08 10h40) course Yango résidence → Playce Palmeraie, 2 405 FCFA, portée sur la note* ; *(20/08 11h11) (20/08 11h11) course Yango Playce Palmeraie → résidence, 2 207 FCFA, portée sur la note* | 25/08/2041 12h00 |
 
 ## Notes de passation (etat/relais-notes.md)
 - ~~(11/10/2026 22:30, Claude Opus 5.5) Redémarrage de l'univers 2 redaté au samedi 14/07/2040, 08h37 (premier vrai jour de vacances,
@@ -177,10 +184,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : a0fcfae ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 325c600 ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 21 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 20 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 
