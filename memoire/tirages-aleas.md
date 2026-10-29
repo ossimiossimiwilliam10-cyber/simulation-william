@@ -4334,3 +4334,9 @@ Effets à jouer : A07 (mercredi 14/08 (soir)) : Retard d'un virement, d'un envoi
 - Tirage [T7c] « Coulibaly recoit la validation de son format de reporting agile par KPIs » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  61.4 → **execute_sans_discuter** (enregistré le 29/10/2026 11:51 heure machine)
 
 - Tirage [T10] « Heure de reponse de Coulibaly a la validation du reporting KPIs » : immediat 19 / rapide 33 / dans_l_heure 15 / dans_la_journee 14 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 4 ; modificateurs : M73 ; jet  96.3 → **plus_tard_ou_jamais** (enregistré le 29/10/2026 11:51 heure machine)
+
+- Tirage [T17] « Wilfried Yeo repond a l'approche de William sur les factures et le solaire » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  82.6 → **mefiance** (enregistré le 29/10/2026 12:01 heure machine)
+
+- Tirage [T17] « Safiatou Camara repond a l'approche de William au maquis » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  38.2 → **conversation** (enregistré le 29/10/2026 12:02 heure machine)
+
+- Tirage [T17] « Kader Bamba repond a William sur les delestages et le solaire residentiel » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  17.1 → **poli_bref** (enregistré le 29/10/2026 12:02 heure machine)

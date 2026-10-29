@@ -226,11 +226,25 @@
 - **Horaires** : règle « etudiant », fuseau abidjan, décalage -6 min ; travail 08:54-16:54 (lun, mar, mer, jeu, ven), trajet 30 min ; sommeil 00:24-08:24
 - **Derniers événements** : —
 
+### Safiatou Camara (restaurateur de maquis)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : obtenir un poste de direction dans une grande entreprise ; **souci** : chef difficile ; **foyer** : vit seul(e)
+- **Secret (moteur seulement)** : envoie de l'argent à une famille élargie qui en demande toujours plus (gravité 1)
+- **Horaires** : règle « bureau_abidjan », fuseau abidjan, décalage -18 min ; travail 07:42-17:12 (lun, mar, mer, jeu, ven), trajet 50 min ; sommeil 23:12-05:42
+- **Derniers événements** : —
+
 ### Fatoumata Gnagne (étudiante en master d'économie UFHB)
 - **Lien avec William** : contact_recent (whatsapp)
 - **Objectif** : trouver quelqu'un et se poser ; **souci** : embouteillages et trajets de deux heures entre Abidjan et son travail ; **foyer** : vit seul(e)
 - **Secret (moteur seulement)** : cherche un autre travail en cachette (gravité 1)
 - **Horaires** : règle « etudiant », fuseau abidjan, décalage +28 min ; travail 09:28-17:28 (lun, mar, mer, jeu, ven), trajet 30 min ; sommeil 00:58-08:58
+- **Derniers événements** : —
+
+### Kader Bamba (habitant des Deux-Plateaux)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : voyager loin une fois dans sa vie ; **souci** : fin de mois difficile, découvert bancaire ; **foyer** : en couple, sans enfant
+- **Secret (moteur seulement)** : vote pour un parti qu'il n'avoue pas (gravité 1)
+- **Horaires** : règle « commerce_abidjan », fuseau abidjan, décalage -9 min ; travail 08:21-18:51 (lun, mar, mer, jeu, sam, dim), trajet 30 min ; sommeil 22:51-05:51
 - **Derniers événements** : —
 
 ### Christelle Kouamé (escort indépendante (annonce BabiEscort))
@@ -280,4 +294,11 @@
 - **Objectif** : changer de métier ; **souci** : un enfant qui décroche à l'école ; **foyer** : en couple, avec enfants
 - **Secret (moteur seulement)** : consulte un psychologue (gravité 1)
 - **Horaires** : règle « bureau », fuseau abidjan, décalage +26 min ; travail 09:26-17:56 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:56-07:26
+- **Derniers événements** : —
+
+### Wilfried Yéo (gérant d'alimentation générale)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : faire croître son bureau d'études avec des clients internationaux ; **souci** : tension avec la belle-famille ; **foyer** : en couple, avec enfants
+- **Secret (moteur seulement)** : —
+- **Horaires** : règle « bureau », fuseau abidjan, décalage -23 min ; travail 08:37-17:07 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:07-06:37
 - **Derniers événements** : —

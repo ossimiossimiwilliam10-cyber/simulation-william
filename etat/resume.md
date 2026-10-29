@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 29/10/2026 11:54 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 29/10/2026 12:07 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : samedi 17/08/2041 22:30 (abidjan, UTC+0)
+## Horloge : dimanche 18/08/2041 16:30 (abidjan, UTC+0)
 - **Lieu de William** : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-- **Heure dans les autres lieux** : lisbonne 23:30 ; luxembourg 00:30 ; mindelo 21:30 ; casablanca 23:30 ; douala 23:30 ; addis 01:30 ; manille 06:30 ; paris 00:30 ; seoul 07:30 ; bresil 19:30
+- **Heure dans les autres lieux** : lisbonne 17:30 ; luxembourg 18:30 ; mindelo 15:30 ; casablanca 17:30 ; douala 17:30 ; addis 19:30 ; manille 00:30 ; paris 18:30 ; seoul 01:30 ; bresil 13:30
 - **En attente de William** :
-  - Programme du dimanche 18 août (repos, sport, reprise contact)
+  - Programme de la soirée du dimanche 18 août et directives pour la semaine du lundi 19 août
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 243,99 €**
@@ -29,15 +29,14 @@
 - mer 28/08/2041 -- ≈ début du Ramadan
 
 ## Routine du tour
+- lendemain = lundi : revue du lundi à présenter AVANT le reste (CLAUDE.md §12) ; dimanche soir : T4/T5 (savoir.py t5) et synthèse de semaine
 - Session : `python outils/relais.py entree --agent "<nom>"` au début ; `python outils/relais.py sortie --note … --commit … --fusionner` à la fin.
 - Début de tour : `python outils/tour.py debut` (résumé, échéances, météo, soleil, argent, corps, lieu, rituels), lecture des fichiers d'état concernés.
 - Pendant : réactions et négociations par `jet.py --table Tn` (T1 à T14 ; `--pour` pour un personnage) ; personnages nouveaux par `personnage.py nouveau` ; faits et prix par `faits.py` et `prix.py` ; lieux par `lieux.py voir` ; révélations dans `savoir.py ajouter` ; argent dans `grand_livre.py ajouter`.
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
-## Fin du dernier journal (2041-08-17.md, 6 dernières lignes)
-> - **12h30-18h30** (tour n° 101) : voir le texte exact du tour (journal/tours/).
-> - Tirages du tour : T7c → execute_a_contrecoeur (86,52) ; T10 → rapide (43,0).
-> - Tour en cours à 18h30, en attente de William : **Arbitrage sur le format de reporting quotidien (KPIs vs litteraire) et programme de la soiree du samedi**.
-> - **18h30-22h30** (tour n° 102) : Arbitrage format reporting KPIs validé pour Coulibaly ; dîner room-service K011 (19,50 €) ; soirée calme
-> - Tirages du tour : T7c → execute_sans_discuter (61,35) ; T10 → plus_tard_ou_jamais (96,26).
-> - Tour en cours à 22h30, en attente de William : **Programme du dimanche 18 août (repos, sport, reprise contact)**.
+## Fin du dernier journal (2041-08-18.md, 6 dernières lignes)
+> # Dimanche 18 août 2041 — univers 3, 34e jour
+> - **00h00-16h30** (tour n° 103) : Footing dominical 5 km ; enquête terrain micro-commerces et délestage à Deux-Plateaux et Anono (Yéo méfiance, Camara conversation, Bamba poli_bref) ; note terrain PDF générée ; modèle B2B conforté
+> - Tirages du tour : T17 Wilfried → mefiance (82,55) ; T17 Safiatou → conversation (38,19) ; T17 Kader → poli_bref (17,13).
+> - Tour en cours à 16h30, en attente de William : **Programme de la soirée du dimanche 18 août et directives pour la semaine du lundi 19 août**.

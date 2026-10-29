@@ -31,3 +31,4 @@ Sur ton téléphone, aucun message n'est parvenu de Fatoumata Gnagne. Fidèle à
 - Préparation de la semaine du 19 août : Mohamed Coulibaly engagera la consultation des artisans pour les devis d'aménagement de la villa des Vallons dès lundi matin.
 
 Que veux-tu faire ?
+
