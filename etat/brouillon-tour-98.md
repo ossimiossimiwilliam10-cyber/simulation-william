@@ -27,3 +27,4 @@ Tu regagnes la résidence hôtelière vers dix-sept heures quarante-cinq. Le gar
 - Avancement du sourcing opérationnel Niveaux 3 et 4 délégué aux directeurs (notamment l'Analyste Quantitatif sous la supervision de Mariam Brou).
 
 Que veux-tu faire ?
+

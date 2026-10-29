@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 29/10/2026 11:14 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 29/10/2026 11:26 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : vendredi 16/08/2041 18:30 (abidjan, UTC+0)
+## Horloge : vendredi 16/08/2041 22:30 (abidjan, UTC+0)
 - **Lieu de William** : Abidjan (Cocody Deux-Plateaux), residence hoteliere
-- **Heure dans les autres lieux** : lisbonne 19:30 ; luxembourg 20:30 ; mindelo 17:30 ; casablanca 19:30 ; douala 19:30 ; addis 21:30 ; manille 02:30 ; paris 20:30 ; seoul 03:30 ; bresil 15:30
+- **Heure dans les autres lieux** : lisbonne 23:30 ; luxembourg 00:30 ; mindelo 21:30 ; casablanca 23:30 ; douala 23:30 ; addis 01:30 ; manille 06:30 ; paris 00:30 ; seoul 07:30 ; bresil 19:30
 - **En attente de William** :
-  - Organisation de la visite de la villa des Vallons ce week-end et programme de la soiree de vendredi
+  - Confirmation depart 09h40 pour visite villa Vallons a 10h00 avec Coulibaly
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 243,99 €**
@@ -13,6 +13,7 @@
 - Prêt logement : solde restant dû (passif, déjà déduit de la part de maison) : **101 994,94 €**
 - Part nette de la maison d'Audun-le-Tiche : **98 005,06 €**
 - Patrimoine net de William : **850 366,05 €**
+- Prévu dans les 14 jours : 30/08 Traitement mensuel de William (9 320,00 €)
 
 ## Agenda : dans les 24 heures (0)
 - rien
@@ -34,9 +35,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-08-16.md, 6 dernières lignes)
-> - **15h45-18h30** (tour n° 98) : voir le texte exact du tour (journal/tours/).
-> - Tirages du tour : T7c → execute_sans_discuter (65,1) ; T10 → dans_la_journee (73,9).
-> - Tour en cours à 18h30, en attente de William : **Organisation de la visite de la villa des Vallons ce week-end et programme de la soirée de vendredi**.
-> - **18h30-18h30** (tour n° 98) : voir le texte exact du tour (journal/tours/).
-> - Tirages du tour : T7c → execute_sans_discuter (65,06) ; T10 → dans_la_journee (73,88).
-> - Tour en cours à 18h30, en attente de William : **Organisation de la visite de la villa des Vallons ce week-end et programme de la soiree de vendredi**.
+> - **18h30-22h30** (tour n° 99) : voir le texte exact du tour (journal/tours/).
+> - Tirages du tour : T7c → frontal_refus (97,7) ; T10 → immediat (15,5).
+> - Tour en cours à 22h30, en attente de William : **Confirmation départ 09h40 pour visite villa Vallons à 10h00 avec Coulibaly**.
+> - **18h30-22h30** (tour n° 99) : voir le texte exact du tour (journal/tours/).
+> - Tirages du tour : T7c → frontal_refus (97,68) ; T10 → immediat (15,52).
+> - Tour en cours à 22h30, en attente de William : **Confirmation depart 09h40 pour visite villa Vallons a 10h00 avec Coulibaly**.

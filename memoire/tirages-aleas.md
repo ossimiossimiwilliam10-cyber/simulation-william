@@ -4318,3 +4318,7 @@ Effets à jouer : A07 (mercredi 14/08 (soir)) : Retard d'un virement, d'un envoi
 - Tirage [T7c] « Coulibaly recoit la demande d'avis personnel et de retour sur la charge de travail » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  65.1 → **execute_sans_discuter** (enregistré le 29/10/2026 11:09 heure machine)
 
 - Tirage [T10] « Heure de reponse de Coulibaly au message sur son sentiment et sa charge » : immediat 19 / rapide 33 / dans_l_heure 15 / dans_la_journee 14 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 4 ; modificateurs : M73 ; jet  73.9 → **dans_la_journee** (enregistré le 29/10/2026 11:09 heure machine)
+
+- Tirage [T7c] « Coulibaly repond a la proposition de William sur les partenariats techniques et l activation eventuelle d Eric Yao » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  97.7 → **frontal_refus** (enregistré le 29/10/2026 11:22 heure machine)
+
+- Tirage [T10] « Heure de reponse de Coulibaly au message de William sur les partenariats techniques » : immediat 19 / rapide 33 / dans_l_heure 15 / dans_la_journee 14 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 4 ; modificateurs : M73 ; jet  15.5 → **immediat** (enregistré le 29/10/2026 11:23 heure machine)

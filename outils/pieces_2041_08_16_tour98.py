@@ -126,3 +126,4 @@ def generer_courriel_sentiment_coulibaly():
 if __name__ == "__main__":
     generer_avis_virement_interne()
     generer_courriel_sentiment_coulibaly()
+
