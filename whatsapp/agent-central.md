@@ -513,3 +513,22 @@ DÉCISIONS À PRENDRE
 POUR INFORMATION
 - Trésorerie : environ 1,76 million de FCFA sur le compte de la société, réservés au loyer du 1er septembre ; plus les 20 000 € attendus mardi.
 - Veille « faute lourde » : rien à signaler.
+**[25/08/2041 - 15:05 (Abidjan)] William :** Gardiennage en septembre : on prolonge le prestataire du bailleur, il nous faut juste un prix. CIE et SODECI : Coulibaly les prend en charge lui-même dès cette semaine. Froid Lagune Services : Coulibaly confirme seul. Et je veux qu'on travaille sur la trésorerie : j'ai l'impression qu'on va largement dépasser les 60 000 € qu'on s'était fixés. Analyse-moi ça : le modèle économique a-t-il été sous-évalué, faut-il rectifier ?
+**[25/08/2041 - 15:08 (Abidjan)] Agent central :** Reçu à 15h06. Les trois décisions partent à Coulibaly par courriel à 15h10, depuis ton adresse direction ; il les lira demain matin. Je lance l'analyse de trésorerie ; compte une demi-heure.
+**[25/08/2041 - 15:47 (Abidjan)] Agent central :** Analyse déposée dans tes documents : « Analyse de trésorerie de SOLEIL B2B CI ». L'essentiel :
+
+- Tes apports, avec les deux versements de la première tranche : 70 683 €.
+- L'installation (dépôt, aménagement, mobilier, informatique) coûte environ 38 800 €. Ça, la tranche le couvre.
+- Ce qu'elle ne couvre pas, c'est la masse salariale : quatre dirigeants démarrent le 1er octobre. Leur coût réel pour la société est d'environ 1,4 fois leur net, soit 9,5 millions de FCFA par mois ; avec le loyer, la charge fixe atteint 17 200 € par mois. Mon chiffre précédent, 11 900 €, sous-estimait les charges sociales.
+- Sans recette, le compte est à 12 000 € fin octobre, à zéro vers la mi-novembre, à − 22 400 € fin décembre et à − 73 900 € fin mars.
+
+Conclusion : le modèle n'est pas faux sur les marges, qu'on ne connaît pas encore, mais il est sous-évalué sur le calendrier. Il suppose des recettes rapides, alors que quatre salaires de direction tombent avant le premier contrat.
+
+Leviers, rien n'est engagé :
+1. louer ou étaler mobilier, informatique et véhicule (jusqu'à 13 millions de FCFA de moins en octobre) ;
+2. crédit-bail ou prêt d'équipement à la SGCI, au nom de la société ;
+3. avancer une partie de la deuxième tranche sur un jalon plus proche, par exemple les deux premiers contrats signés ;
+4. décaler la prise de fonction d'un directeur, à négocier, avec un coût humain et juridique ;
+5. accepter environ 75 000 € de plus jusqu'en mars, ce qui passerait par une vente d'ETF.
+
+Dis-moi quelle combinaison tu veux, et je la chiffre en détail.

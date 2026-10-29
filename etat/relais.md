@@ -1,77 +1,77 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 29/10/2026 20:41 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 29/10/2026 20:48 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : dimanche 25 août 2041, 15h00 (abidjan) ; tour n° 133
+- Horloge : dimanche 25 août 2041, 15h47 (abidjan) ; tour n° 134
 - Lieu de William : Abidjan, aéroport Félix-Houphouët-Boigny (hall des départs)
-- En attente de William : Séance du dimanche avec le conseiller : trois décisions (gardiennage, CIE-SODECI, Froid Lagune) ; vol AF703 22h15
+- En attente de William : Choix des leviers de trésorerie ; enregistrement du vol AF703 en soirée
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 133 ; horloge 25/08/2041 07:18 -> 25/08/2041 15:00 ; enregistré le 29/10/2026 20:41 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 134 ; horloge 25/08/2041 15:00 -> 25/08/2041 15:47 ; enregistré le 29/10/2026 20:48 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je règle la résidence et je pars à l'aéroport, Go Mais avant, je modifie une instruction, c'est que, en fait, du coup, le conseiller, en fait, il fait toujours son rapport à 20h, mais en plus de son rapport, il fait une analyse. Il ne doit pas me fournir un rapport journalier. Il doit juste le garder en archive. Pourquoi? Parce que maintenant, je fixe la journée du dimanche comme journée où il doit me fournir, on doit vraiment bosser lui et moi, genre. On fait une analyse globale de la semaine, je prends les décisions, les grandes décisions. Bref, le système que j'ai déjà mis en place tout à l'heure, comme quoi, en cas d'urgence, on m'appelle, blablabla, je crois que j'ai déjà parlé de ça. Donc, maintenant, on met en place ce système-là. Il doit, du coup, informer Koulibaly, il doit informer les membres, si c'est nécessaire, parce qu'eux aussi, je crois, dans le système que j'avais mis en place, ils devaient également fournir des rapports. Donc, voilà.
+> Alors, concernant le gardiennage, en septembre, on prend l'option la plus simple, hein. On prolonge son prestataire. C'est plus simple, il nous faut juste un prix. Concernant les abonnements CIE et SODC, il vaut mieux que Koulibaly les prenne en charge lui-même dès cette semaine, hein, vu que Mariam ne revient que, commence que le 1er octobre. Concernant Froid Lagune Service, tu peux laisser Koulibaly confirmer seul. Alors, justement, je veux qu'on s'intéresse un peu à la trésorerie. Ça m'inquiète un peu. J'ai l'impression qu'on va largement dépasser le budget de 60 000 euros qu'on s'était imposé. Je sais pas, hein, j'ai envie d'une analyse un peu. Essayons de bosser un peu sur ce point pour tirer une conclusion. Pour voir si le modèle économique a été sous-évalué et pour voir s'il faut des rectifications. Et en parallèle, je continue du coup mon voyage. C'est une application mobile. Je peux faire les deux en même temps.
 
 ## Texte envoyé au joueur
 
-**DIMANCHE 25 AOÛT 2041 — 15h00 — Abidjan, aéroport Félix-Houphouët-Boigny (Port-Bouët)**
+**DIMANCHE 25 AOÛT 2041 — 15h47 — Abidjan, aéroport Félix-Houphouët-Boigny (Port-Bouët)**
 
-À 07h38, avant de descendre, tu écris à ton conseiller :
+Tu réponds à ton conseiller depuis ta table de café :
 
-« Nouvelle instruction. Tu continues ton rapport de 20h00 avec ton analyse, mais tu ne me l'envoies plus : tu le gardes en archive. Le dimanche devient notre journée de travail : analyse globale de la semaine, et je prends les grandes décisions. En cas d'urgence, tu m'appelles, comme prévu. Informe Coulibaly et les membres de l'équipe si c'est nécessaire : eux aussi doivent fournir leurs rapports. »
+« Gardiennage en septembre : on prolonge le prestataire du bailleur, il nous faut juste un prix. CIE et SODECI : Coulibaly les prend en charge lui-même dès cette semaine. Froid Lagune Services : Coulibaly confirme seul. Et je veux qu'on travaille sur la trésorerie : j'ai l'impression qu'on va largement dépasser les 60 000 € qu'on s'était fixés. Analyse-moi ça : le modèle économique a-t-il été sous-évalué, faut-il rectifier ? »
 
-Réponse à 07h46 :
+Réponse à 15h08 :
 
-« Reçu à 07h40. C'est en place à partir de maintenant :
-- Chaque soir à 20h00, j'écris le rapport et l'analyse, je les archive dans tes documents, et je ne t'envoie rien.
-- Le dimanche, séance de travail avec toi : bilan de la semaine, points en suspens, décisions à prendre. Rien n'est tranché sans toi.
-- Entre deux dimanches, je ne t'écris que pour une urgence : de l'argent à engager sous 48 heures, un risque juridique, une sécurité, ou un fait qui pourrait relever de la faute lourde.
-- Je réponds toujours quand tu m'écris.
+« Reçu à 15h06. Les trois décisions partent à Coulibaly par courriel à 15h10, depuis ton adresse direction ; il les lira demain matin. Je lance l'analyse de trésorerie ; compte une demi-heure. »
 
-J'informe Coulibaly demain lundi, depuis ton adresse direction : les comptes rendus des responsables restent dus le mardi à 17h00 et le vendredi à 12h00 ; pour Mariam Brou, Viviane Tanoh et Éric Koffi Yao, à partir de leur prise de fonction, le 1er octobre. Je ne lui parle pas de moi.
+Le temps de finir ton café, de faire un tour dans le hall et de regarder un avion d'Air Côte d'Ivoire rouler lentement vers la piste sous un ciel blanc de chaleur, la réponse tombe à 15h47, avec un document dans tes fichiers, « Analyse de trésorerie de SOLEIL B2B CI » :
 
-Aujourd'hui, c'est dimanche : je te propose notre première séance cet après-midi à 15h00, pendant ton attente à l'aéroport. L'ordre du jour sera prêt à 14h55. »
+« Analyse déposée dans tes documents : « Analyse de trésorerie de SOLEIL B2B CI ». L'essentiel :
 
-Tu boucles ta valise, le maillot de Lenny roulé entre deux chemises. À 12h05, à la réception, tu règles le séjour : 1 690 €, plus 19 716 FCFA d'extras, les six courses Yango de la semaine, dont celle de l'aéroport, que la réceptionniste a commandée en même temps. Total sur ta Visa Premier : 1 720,06 €. Elle te tend la facture imprimée et te souhaite bon voyage.
+- Tes apports, avec les deux versements de la première tranche : 70 683 €.
+- L'installation (dépôt, aménagement, mobilier, informatique) coûte environ 38 800 €. Ça, la tranche le couvre.
+- Ce qu'elle ne couvre pas, c'est la masse salariale : quatre dirigeants démarrent le 1er octobre. Leur coût réel pour la société est d'environ 1,4 fois leur net, soit 9,5 millions de FCFA par mois ; avec le loyer, la charge fixe atteint 17 200 € par mois. Mon chiffre précédent, 11 900 €, sous-estimait les charges sociales.
+- Sans recette, le compte est à 12 000 € fin octobre, à zéro vers la mi-novembre, à − 22 400 € fin décembre et à − 73 900 € fin mars.
 
-Le premier chauffeur annule au bout de quatre minutes ; un second arrive à 12h17, une Peugeot 301 grise. C'est un jeune homme d'environ vingt-quatre ans, un mètre soixante-douze, mince, presque frêle dans un tee-shirt blanc trop large. Visage fin aux pommettes saillantes, teint olive clair, petites lunettes rondes cerclées de métal derrière lesquelles le regard rit facilement, une barbe de trois jours, des cheveux noirs bouclés coupés court. Jean noir, baskets. Il charge ta valise en plaisantant sur son poids, puis parle tout le trajet : il est né à Abidjan, son père est turc, il passe du français au dioula au téléphone sans transition ; il conduit le week-end pour payer ses cours et passe un concours de la fonction publique en octobre, « si Dieu veut ». Le pont, le boulevard VGE, la lagune à droite, les hangars de Port-Bouët. À 12h45, il te dépose devant le terminal.
+Conclusion : le modèle n'est pas faux sur les marges, qu'on ne connaît pas encore, mais il est sous-évalué sur le calendrier. Il suppose des recettes rapides, alors que quatre salaires de direction tombent avant le premier contrat.
 
-L'enregistrement du vol de 22h15 n'ouvre qu'en début de soirée. Tu t'installes dans le hall des départs, à une table de café près des baies vitrées. Ça sent le café réchauffé et le kérosène quand les portes s'ouvrent. Des familles campent sur leurs valises, un groupe de pèlerins en boubous blancs attend un vol pour Djeddah, une annonce en français puis en anglais appelle un passager retardataire pour Casablanca.
+Leviers, rien n'est engagé :
+1. louer ou étaler mobilier, informatique et véhicule (jusqu'à 13 millions de FCFA de moins en octobre) ;
+2. crédit-bail ou prêt d'équipement à la SGCI, au nom de la société ;
+3. avancer une partie de la deuxième tranche sur un jalon plus proche, par exemple les deux premiers contrats signés ;
+4. décaler la prise de fonction d'un directeur, à négocier, avec un coût humain et juridique ;
+5. accepter environ 75 000 € de plus jusqu'en mars, ce qui passerait par une vente d'ETF.
 
-À 14h55, ton conseiller :
+Dis-moi quelle combinaison tu veux, et je la chiffre en détail. »
 
-« Séance du dimanche 25 août 2041, 15h00. Ordre du jour.
+Autour de toi, le hall se remplit ; un agent d'entretien pousse une machine à laver le sol entre les rangées de sièges, et l'odeur du produit citronné couvre un instant celle du café.
 
-BILAN DE LA SEMAINE (19 au 25 août)
-- Acquis : copie du bail obtenue (article 6 vérifié) ; dépôt de garantie payé le vendredi 23, jour de l'échéance ; accord écrit du bailleur pour les travaux ; contrat de Viviane Tanoh signé ; première tranche lancée (20 000 € partis vendredi, 40 000 € le 25 septembre).
-- Pas avancé : abonnements CIE et SODECI (aucune pièce) ; recrutements de niveaux 3 et 4 (aucune fiche, entretiens envisagés la semaine du 2 septembre) ; reçu du dépôt de garantie toujours absent.
-- Coulibaly : exécute, mais l'information remonte tard (Viviane Tanoh : deux jours de retard, deux relances) ; il refuse les demandes venant d'une adresse qu'il ne connaît pas, ce que ta bascule sur l'adresse direction a réglé.
-
-DÉCISIONS À PRENDRE
-1. Gardiennage en septembre : demain, le bailleur en parle avec Coulibaly. Soit on prolonge son prestataire (le plus simple, le prix reste à connaître), soit Coulibaly signe dès maintenant notre propre contrat, sans attendre Mariam Brou. Laquelle ?
-2. Abonnements CIE et SODECI : Mariam Brou n'arrive que le 1er octobre, et les travaux de climatisation commencent dans trois semaines. Est-ce que Coulibaly les prend en charge lui-même dès cette semaine ? Oui ou non ?
-3. Froid Lagune Services : confirmation dès l'arrivée de ton versement, au plus tard mercredi 28. Je laisse Coulibaly confirmer seul (c'est dans ses pouvoirs) ou tu veux valider avant ? Laisser faire ou valider ?
-
-POUR INFORMATION
-- Trésorerie : environ 1,76 million de FCFA sur le compte de la société, réservés au loyer du 1er septembre ; plus les 20 000 € attendus mardi.
-- Veille « faute lourde » : rien à signaler. »
-
-Il est 15h00.
+Il est 15h47.
 
 ---
 
 **Réponses attendues**
-- **Ton conseiller (séance du dimanche)** : trois décisions :
-  1. le gardiennage en septembre : prolonger le prestataire du bailleur, ou faire signer dès maintenant votre propre contrat par Coulibaly ;
-  2. les abonnements CIE et SODECI : Coulibaly les prend-il en charge dès cette semaine ? Oui ou non ;
-… (suite dans etat/dernier-tour.md, 71 lignes)
+- **Ton conseiller** : quelle combinaison de leviers pour la trésorerie ?
+  1. louer ou étaler les équipements ;
+  2. crédit-bail ou prêt d'équipement à la SGCI ;
+  3. avancer une partie de la deuxième tranche sur un jalon plus proche ;
+  4. décaler la prise de fonction d'un directeur ;
+  5. financer environ 75 000 € de plus jusqu'en mars.
+
+**À faire / à fournir avant le tour suivant**
+- Enregistrement du vol AF703 en début de soirée ; départ à 22h15.
+
+**Quêtes secondaires**
+- Coulibaly lira demain matin tes trois décisions : prolongation du gardiennage (un prix à obtenir), CIE et SODECI à sa charge cette semaine, confirmation de Froid Lagune Services.
+- Versement de 20 000 € : crédit attendu mardi au plus tard.
+… (suite dans etat/dernier-tour.md, 63 lignes)
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
 - A112 Sun 25/08 22:15 (abidjan) | Air France : Vol retour AF703 Abidjan (FHB) → Paris-CDG (arrivée le 26/08 vers 05h45), puis correspondance vers Luxembourg-Findel ; billet aller-retour réglé le 27/07 (1 285 €) [prevu]  — U3-19 : le retour n'était pas à l'agenda ; horaire d'après l'AF703 de 2026 (départ vers 22h15, F119) ; quitter la résidence vers 19h00 (trajet et contrôles)
@@ -184,10 +184,10 @@ Il est 15h00.
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 325c600 ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 425c3ed ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 20 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 14 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

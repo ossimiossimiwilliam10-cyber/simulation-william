@@ -20,7 +20,9 @@ if hasattr(sys.stdout, "reconfigure"):
 RACINE = Path(__file__).resolve().parent.parent
 FICHIER = RACINE / "etat" / "societe-engagements.csv"
 EUR = 655.957
-TAUX_CNPS = 0.16  # estimation du moteur (retraite, prestations familiales, accidents du travail) : à confirmer auprès de la CNPS
+TAUX_CNPS = 0.40  # coût employeur / salaire NET (25/08/2041, estimation du moteur) : net → brut ≈ × 1,28 (CNPS salarié 6,3 %, ITS),
+# puis charges patronales ≈ 10 % du brut (retraite 7,7 % ; prestations familiales, maternité, accidents plafonnés à 70 000 FCFA ;
+# impôt employeur, FDFP) : afrotools.com, cleiss.fr, africarrieres.com (2025-2026) ; avant : 0,16 (CNPS seule, appliquée au net)
 
 
 def lire():
@@ -82,7 +84,7 @@ def main():
     print(f"  apports reçus : {fcfa(s['apports'])}")
     print(f"  dépenses engagées : {fcfa(s['depenses'])}")
     print(f"  reste : {fcfa(s['reste'])}")
-    print(f"  charge mensuelle (salaires chargés à {TAUX_CNPS:.0%} de CNPS estimée, loyer) : {fcfa(s['mensuel'])}")
+    print(f"  charge mensuelle (coût employeur des salaires nets × {1 + TAUX_CNPS:.2f}, estimation, et loyer) : {fcfa(s['mensuel'])}")
     if s["reste"] < 0:
         print(f"  autonomie : aucune (il manque {fcfa(-s['reste'])} pour couvrir ce qui est déjà engagé)")
     elif s["autonomie"] is not None:
