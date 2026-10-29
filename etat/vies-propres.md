@@ -372,3 +372,10 @@
 - **Secret (moteur seulement)** : a une liaison (gravité 3)
 - **Horaires** : règle « chauffeur », fuseau abidjan, décalage +9 min ; travail 06:09-18:09 (lun, mar, mer, ven, sam, dim), trajet 20 min ; sommeil 22:09-05:09
 - **Derniers événements** : —
+
+### Kader Konan (employé du room service de la résidence hôtelière (Deux-Plateaux))
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : finir de rénover sa maison ; **souci** : fin de mois difficile, découvert bancaire ; **foyer** : vit seul(e)
+- **Secret (moteur seulement)** : a un problème d'alcool qu'il cache (gravité 2)
+- **Horaires** : règle « bureau », fuseau abidjan, décalage +14 min ; travail 09:14-17:44 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:44-07:14
+- **Derniers événements** : —

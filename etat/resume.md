@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 29/10/2026 15:31 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 29/10/2026 15:40 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : lundi 19/08/2041 18:07 (abidjan, UTC+0)
-- **Lieu de William** : Abidjan (Cocody Deux-Plateaux), résidence hôtelière (chambre, réveil de la sieste)
-- **Heure dans les autres lieux** : lisbonne 19:07 ; luxembourg 20:07 ; mindelo 17:07 ; casablanca 19:07 ; douala 19:07 ; addis 21:07 ; manille 02:07 ; paris 20:07 ; seoul 03:07 ; bresil 15:07
+## Horloge : lundi 19/08/2041 20:00 (abidjan, UTC+0)
+- **Lieu de William** : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
+- **Heure dans les autres lieux** : lisbonne 21:00 ; luxembourg 22:00 ; mindelo 19:00 ; casablanca 21:00 ; douala 21:00 ; addis 23:00 ; manille 04:00 ; paris 22:00 ; seoul 05:00 ; bresil 17:00
 - **En attente de William** :
-  - Message de Coulibaly (12h25 : gardien du bailleur, inscription demain matin) ; message de Lenny Nguyen (17h10 : retour au club) ; rapport final ce soir à 20h00
+  - Deux décisions du rapport de 20h00 (copie du bail et montant exact avant tout nouvel apport ; prolongation du gardiennage du bailleur) ; Lenny Nguyen demande où était William cet été
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 268,29 €**
@@ -17,7 +17,8 @@
 
 ## Agenda : dans les 24 heures (1)
 - A114 Tue 20/08 09:00 (abidjan) | Mohamed Coulibaly : Passe à l'agence de gardiennage du bailleur pour inscrire William sur la liste des personnes autorisées à la villa des Vallons (promesse du 19/08, 12h25) [prevu]  — promesse : lenteur.py promesse --pour "Mohamed Coulibaly" au moment dit (oubli 10 %), puis T18 si manquement
-## Agenda : de J+1 à J+7 (2)
+## Agenda : de J+1 à J+7 (3)
+- A117 Wed 21/08 16:00 (abidjan) | Mohamed Coulibaly : Dépouillement des devis d'aménagement de la villa des Vallons (prix, délai de livraison des climatiseurs, références) [prevu]  — annoncé le 19/08 (DCE transmis par Coulibaly, P32) ; front H003 (avance par événement) à faire avancer au dépouillement
 - A111 Sun 25/08 12:00 (abidjan) | Résidence hôtelière (Cocody Deux-Plateaux) : Départ de la résidence et règlement du séjour du 12 au 25 août : 1 690 € (empreinte de la Visa Premier prise à l'arrivée) ; bagages gardés à la réception jusqu'au soir [prevu]  — U3-19 : la résidence n'avait jamais été réglée ; le jour dit : python outils/cartes.py payer --carte visa_premier --montant 1690 --marchand "Résidence hôtelière Deux-Plateaux" --quand "2041-08-25 12:00"
 - A112 Sun 25/08 22:15 (abidjan) | Air France : Vol retour AF703 Abidjan (FHB) → Paris-CDG (arrivée le 26/08 vers 05h45), puis correspondance vers Luxembourg-Findel ; billet aller-retour réglé le 27/07 (1 285 €) [prevu]  — U3-19 : le retour n'était pas à l'agenda ; horaire d'après l'AF703 de 2026 (départ vers 22h15, F119) ; quitter la résidence vers 19h00 (trajet et contrôles)
 (Les lignes « NON CONNU DE WILLIAM » servent au moteur : ne jamais les montrer au joueur avant le jour dit.)
@@ -37,9 +38,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-08-19.md, 6 dernières lignes)
-> - **10h05-10h17** (tour n° 109) : William félicite le gardien (T17 ignore : à peine un « mm ») et rentre en Yango commandé par la réception (T24b arrive ; Wilfried Boni, tiré ; 1 279 FCFA sur la note). Message au directeur général virtuel : informer Coulibaly, intermédiaires qui ne le connaissent pas ; courriel du projet à Coulibaly à 10h11 (accès, liste des personnes autorisées, clés, qui paie le
-> - Tirages du tour : T17 Brice → ignore (52,6) ; T24b → arrive (33,37).
-> - Tour en cours à 10h17, en attente de William : **Mohamed Coulibaly n'a pas répondu (courriel du directeur général virtuel à 10h11) ; rapport final ce soir à 20h00**.
 > - **10h17-18h07** (tour n° 110) : Séance de 2 h au club du Sofitel Hôtel Ivoire (pass journée 61 €, Visa Premier, K016) ; aller en Yango (T24b arrive, Hervé Ouattara, 3 028 FCFA), retour (T24b annule puis Yannick Kouamé, 2 825 FCFA), sur la note. Rappel de Coulibaly à 12h22 manqué (téléphone au casier), WhatsApp 12h25 (T7c execute_a_contrecoeur : gardien de la société du bailleur jusqu'à fin août,
 > - Tirages du tour : T24b → arrive (24,66) ; T24b → annule (93,55) ; T7c Mohamed → execute_a_contrecoeur (79,78) ; procédure : après 4 min ; procédure : endormi 14:12, réveil 18:07 (235 min).
 > - Tour en cours à 18h07, en attente de William : **Message de Coulibaly (12h25 : gardien du bailleur, inscription demain matin) ; message de Lenny Nguyen (17h10 : retour au club) ; rapport final ce soir à 20h00**.
+> - **18h07-20h00** (tour n° 111) : Room service (Kader Konan, tiré ; 14 500 FCFA = 22,11 € Visa Premier, K017, livré à 19h02). William répond à Coulibaly (A115 : accusé immédiat, T10 immediat) et à Lenny (A116 : réponse immédiate, demande où il était). Rapport final de 20h00 joué (PDF documents_william/2041-08-19_Rapport_quotidien_Directeur_General_virtuel.pdf) : deux décisions (copie du bail et mo
+> - Tirages du tour : T10 Mohamed → immediat (0,32) ; T10 Lenny → immediat (1,04).
+> - Tour en cours à 20h00, en attente de William : **Deux décisions du rapport de 20h00 (copie du bail et montant exact avant tout nouvel apport ; prolongation du gardiennage du bailleur) ; Lenny Nguyen demande où était William cet été**.

@@ -324,3 +324,27 @@ La maquette est finalisée, gravée en PDF et prête pour le cabinet de Me Gnami
 **[19/08/2041 - 10:08 (Abidjan)] William :** Je suis passé à la villa des Vallons : le gardien n'a pas voulu m'ouvrir sans la confirmation de Coulibaly, et Coulibaly ne décroche pas. Informe-le de la situation et qu'il règle ça. Même si je ne m'étais pas annoncé, je ne trouve pas normal que les intermédiaires comme le gardien ne me connaissent pas : si j'avais eu quelque chose d'urgent à faire à la villa, j'aurais été retardé. Dis-lui aussi que ça ne me dérange absolument pas, que je comprends la situation et que c'est même logique.
 **[19/08/2041 - 10:13 (Abidjan)] Agent central :** Reçu à 10h08. J'ai écrit à Mohamed Coulibaly à 10h11, depuis l'adresse du projet : ton passage aux Vallons, la grille fermée, ton appel resté sans réponse. Je lui demande trois choses : confirmer ton accès au gardien et à sa société de gardiennage ; t'inscrire en tête de la liste des personnes autorisées, avec une photo ; te dire qui détient les clés de la villa. J'ai gardé ton ton : aucun reproche au gardien, il a appliqué sa consigne. Un point que je ne peux pas trancher seul : aucun contrat de gardiennage n'est passé par moi, je ne sais pas si l'agent est payé par le bailleur ou par la société. Je pose la question dans le même courriel. Je te préviens dès qu'il répond ; sinon, ce sera dans le rapport de 20h00.
 **[19/08/2041 - 12:44 (Abidjan)] Agent central :** Mohamed Coulibaly a répondu à mon courriel à 12h38, en deux lignes : « Bien reçu. Je m'en occupe demain matin auprès de l'agence de gardiennage du bailleur. » Rien sur la photo ni sur la liste des personnes autorisées ; il dit avoir les clés. Je note sa promesse pour demain matin et je le relance à midi si je n'ai pas de confirmation. Détail au rapport de 20h00.
+**[19/08/2041 - 20:00 (Abidjan)] Agent central :** Rapport final de la journée du lundi 19 août 2041 (20h00). PDF dans tes documents (application Fichiers).
+
+DÉCISIONS
+1. Dépôt de garantie et premier loyer de la villa des Vallons. Le compte rendu de signature du 16 août prévoit leur règlement « en début de semaine », dès que ton virement d'associé est crédité. Le compte de la société a reçu 5 247 656 FCFA (8 000 €). Le cadrage du 13 août chiffrait la garantie locative à 9 000 000 FCFA (trois mois de caution et deux mois d'avance, sur un loyer estimé à 1,8 million) ; le bail signé fixe le loyer à 1 750 000 FCFA, mais ni le bail ni le montant exact à verser ne m'ont été transmis. Valides-tu que je demande demain à Mohamed Coulibaly la copie du bail signé et le montant exact à régler, avant tout nouvel apport de ta part ? Oui ou non ?
+(Analyse : selon le montant réel, il manquerait entre 1,75 et 3,75 millions de FCFA, environ 2 670 à 5 720 € ; un apport décidé sans le bail sous les yeux serait calculé à l'aveugle.)
+2. Gardiennage de la villa en septembre. D'après Coulibaly (message de 12h25), le gardien dépend de la société de gardiennage du bailleur « jusqu'à la fin du mois », le temps que Mariam Brou signe notre propre contrat ; or Mariam Brou prend ses fonctions le 1er octobre. Valides-tu que je demande à Coulibaly de faire prolonger ce gardiennage jusqu'à la signature de notre contrat, avec ton nom et ta photo sur la liste des personnes autorisées ? Oui ou non ?
+(Analyse : sans prolongation, la villa risque de rester sans gardien en septembre, au moment où du matériel pourrait y être livré après le dépouillement du 21 août.)
+
+AFFIRMATIONS VÉRIFIÉES
+- Coulibaly : « Le gardien est l'agent de la société de gardiennage du bailleur, qui garde la villa jusqu'à la fin du mois. » → NON VÉRIFIÉE : le compte rendu de signature du 16 août ne parle pas de gardiennage ; aucune pièce reçue.
+- Coulibaly : « Les clés sont avec moi. » → CONFORME au compte rendu du 16 août (trousseau complet et télécommandes du portail remis à 15h25).
+- Coulibaly (16 août) : « Dépôt de garantie et premier loyer : règlement différé en début de semaine prochaine. » → À SUIVRE : aucune preuve de règlement à ce jour.
+
+ÉTAT DES PÔLES
+- Direction générale (Coulibaly, en exercice ; le pôle virtuel évalue) : rendez-vous à la SGCI ce matin pour les moyens de paiement de la société ; ton inscription auprès de l'agence de gardiennage promise pour demain matin, relance à midi sans confirmation ; dépouillement des devis d'aménagement mercredi 21 août à 16h00.
+- Administration et finance (Mariam Brou, prise de fonction le 1er octobre) : aucune pièce de dépôt des demandes CIE et SODECI reçue à ce jour.
+- Commercial (Viviane Tanoh, prise de fonction le 1er octobre) : signature de son contrat prévue aujourd'hui ; aucune confirmation reçue.
+- Technique (Éric Koffi Yao, prise de fonction le 1er octobre) : rien de nouveau.
+- Pôle finance virtuel : apports reçus 5 247 656 FCFA ; charges mensuelles prévues une fois l'équipe en poste (salaires chargés d'environ 16 % de cotisations CNPS, estimation à confirmer, et loyer) : environ 7,8 millions de FCFA, soit 11 900 € par mois ; première tranche de 60 000 € non datée ; inconnus : véhicule utilitaire, rémunération de Viviane Tanoh.
+- Pôle juridique virtuel : copie du bail signé à obtenir (décision 1).
+- Surveillance : un message sortant aujourd'hui (courriel à Coulibaly, 10h11), relu et conforme.
+- Budget d'API : 39,39 € sur 1 000 € ce mois-ci.
+
+Prochain rapport : demain à 20h00.

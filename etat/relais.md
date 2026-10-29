@@ -1,70 +1,77 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 29/10/2026 15:32 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 29/10/2026 15:40 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : lundi 19 août 2041, 18h07 (abidjan) ; tour n° 110
-- Lieu de William : Abidjan (Cocody Deux-Plateaux), résidence hôtelière (chambre, réveil de la sieste)
-- En attente de William : Message de Coulibaly (12h25 : gardien du bailleur, inscription demain matin) ; message de Lenny Nguyen (17h10 : retour au club) ; rapport final ce soir à 20h00
+- Horloge : lundi 19 août 2041, 20h00 (abidjan) ; tour n° 111
+- Lieu de William : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
+- En attente de William : Deux décisions du rapport de 20h00 (copie du bail et montant exact avant tout nouvel apport ; prolongation du gardiennage du bailleur) ; Lenny Nguyen demande où était William cet été
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 110 ; horloge 19/08/2041 10:17 -> 19/08/2041 18:07 ; enregistré le 29/10/2026 15:31 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 111 ; horloge 19/08/2041 18:07 -> 19/08/2041 20:00 ; enregistré le 29/10/2026 15:40 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je décide ensuite d'aller faire du sport. Et ensuite, ouais, je vais juste aller faire une sieste, me réveiller. Donc faire du sport, je vais essayer de faire du sport pendant 2 heures, c'est-à-dire cardio et musculation. Ensuite, je vais me reposer environ 3 à 4 heures. Et la simulation continue quand je me réveille.
+> Je commande un room service et j'attends le rapport de 20h. Je dis à Koulibaly que, ok, c'est bon. Qu'il n'y a pas de souci. Il faut qu'il règle cette situation, il n'y a pas de problème. Je réponds à Lenny Guyen. Je lui dis que le 25. Et que normalement, je devrais être présent pour la réouverture, sauf grosse fatigue. Et j'attends le rapport virtuel le rapport du directeur général virtuel.
 
 ## Texte envoyé au joueur
 
-**LUNDI 19 AOÛT 2041 — 18h07 — Abidjan, Cocody Deux-Plateaux, résidence hôtelière**
+**LUNDI 19 AOÛT 2041 — 20h00 — Abidjan, Cocody Deux-Plateaux, résidence hôtelière**
 
-Tu montes te changer, puis tu demandes à la réception un Yango pour le Sofitel Hôtel Ivoire. À 10h34, une Hyundai Accent grise t'attend devant l'entrée. Le chauffeur a une quarantaine d'années, un mètre soixante et un environ, une corpulence moyenne et le dos très droit. Il a un visage carré à la peau d'un brun profond, une barbe courte grisonnante au menton, des lunettes fines à monture dorée derrière lesquelles le regard reste posé, presque méfiant. Sa bouche est mince, peu pressée de sourire, ses cheveux coupés à ras. Chemise blanche à manches courtes rentrée dans un pantalon de toile beige, mocassins cirés : il a l'allure d'un employé de bureau plus que d'un chauffeur. Il te salue d'un « Bonjour monsieur » et ne dit plus rien jusqu'à Cocody, la radio éteinte, les deux mains sur le volant. Dix-sept minutes de boulevard, de feux et de taxis orange.
+Tu appelles le room service à 18h10. Une voix d'homme, un peu trop forte dans le combiné, prend ta commande : poulet braisé, attiéké, alloco, une salade, une grande bouteille d'eau et un jus de bissap. « Quarante-cinq minutes, patron, on fait vite. »
 
-À l'accueil du club, une jeune femme d'une trentaine d'années prend ta carte pour le pass à la journée : 61 €, Visa Premier. Elle mesure environ un mètre soixante-treize, une silhouette moyenne et droite, la poitrine discrète sous le polo blanc brodé du logo de l'hôtel, la taille marquée par une ceinture fine, les hanches un peu plus larges que les épaules dans un pantalon noir ajusté. Son visage est allongé, la peau d'un brun chaud et lisse, des pommettes hautes, des sourcils dessinés au crayon, des yeux en amande qui te détaillent une seconde de trop avant de revenir à l'écran. Sa bouche est pleine, avec un rouge à lèvres prune très sobre. Ses cheveux sont tirés en un chignon serré sur la nuque. Elle te tend un bracelet et la clé d'un casier sans un mot de plus que nécessaire. Ton téléphone reste dans le casier.
+En attendant, tu réponds à Mohamed Coulibaly :
 
-Tu commences par quarante minutes de cardio, tapis puis rameur, face aux baies vitrées qui donnent sur la lagune : l'eau est d'un gris vert, le Plateau et ses tours se découpent de l'autre côté dans une brume de chaleur. Puis la musculation : développé couché, squats, tirages, presse, en séries lourdes, jusqu'à ce que tes avant-bras tremblent sur la barre. La salle sent le caoutchouc des tapis et, quand la porte du spa s'ouvre, l'eucalyptus. Deux expatriés discutent en anglais près des haltères ; une femme âgée marche lentement sur un tapis, un journal plié sur le pupitre. Tu finis vers 12h55, trempé, et tu passes sous la douche.
+« Ok, c'est bon, pas de souci. Il faut que vous régliez cette situation, mais il n'y a pas de problème. »
 
-À 13h10, en reprenant ton téléphone, tu trouves un appel manqué de Mohamed Coulibaly à 12h22, puis son message, à 12h25 :
+Puis à Lenny :
 
-« Bonjour Monsieur Ossimi, je viens de voir votre appel, j'étais en rendez-vous à la SGCI pour les moyens de paiement de la société, téléphone en silencieux. Je vous ai rappelé à l'instant. Le gardien n'est pas à nous : c'est l'agent de la société de gardiennage du bailleur, qui garde la villa jusqu'à la fin du mois, le temps que Mme Brou signe notre propre contrat. Il n'avait aucune consigne vous concernant, donc il a appliqué la règle. Je passe demain matin à leur agence pour vous faire inscrire. Les clés sont avec moi. »
+« Je rentre le 25. Normalement je serai là pour la réouverture, sauf grosse fatigue. »
 
-Juste en dessous, ton directeur général virtuel, à 12h44 :
+Les deux réponses tombent presque aussitôt. Coulibaly, à 18h13 :
 
-« Mohamed Coulibaly a répondu à mon courriel à 12h38, en deux lignes : « Bien reçu. Je m'en occupe demain matin auprès de l'agence de gardiennage du bailleur. » Rien sur la photo ni sur la liste des personnes autorisées ; il dit avoir les clés. Je note sa promesse pour demain matin et je le relance à midi si je n'ai pas de confirmation. Détail au rapport de 20h00. »
+« Bien noté, Monsieur Ossimi. Ce sera réglé demain matin à l'agence. Bonne soirée. »
 
-Tu fais rappeler un Yango par ta résidence. À 13h19, la réception te rappelle : le premier chauffeur a annulé, un autre arrive. C'est une Toyota Corolla bleu nuit, à 13h24. Le chauffeur, la cinquantaine, mesure environ un mètre soixante-seize. Il est massif, le ventre tendu sous une chemise à carreaux, les épaules tombantes. Visage rond et lourd, la peau brun moyen luisante de chaleur, des lunettes épaisses à monture noire, un regard inquiet qui consulte l'heure sur le tableau de bord toutes les minutes, une bouche qui retombe aux commissures. Ses cheveux sont courts, blanchis aux tempes. Il démarre en s'excusant du retard « du collègue » comme s'il en était responsable, puis il se plaint sans s'arrêter : les embouteillages de Yopougon, deux heures chaque matin pour aller travailler, l'essence, les impôts qui « montent pour les petits et jamais pour les gros ». À 13h41, il te dépose devant la résidence. Les deux courses du jour sont portées sur ta note : 3 028 FCFA à l'aller, 2 825 FCFA au retour.
+Lenny, à 18h14 :
 
-Tu montes, tu tires les rideaux et tu t'allonges. Le sommeil met un moment à venir, les jambes encore chaudes de la séance, puis il t'emporte.
+« Ok cool. 18h pile hein, pas 18h05 😏 Je te garde pour le sparring, les autres sont trop légers. T'étais où d'ailleurs ? »
 
-Tu te réveilles à 18h07. La lumière qui filtre entre les rideaux est déjà dorée, presque orange : le soleil se couche dans vingt minutes. Ton corps est lourd, les pectoraux et les cuisses raides, la bouche sèche, et ton estomac te rappelle que tu n'as pas déjeuné. Dehors, un klaxon, puis des cris d'enfants qui jouent au ballon dans la rue.
+Le soleil se couche derrière les immeubles de Cocody. En vingt minutes, la lumière orange vire au mauve puis au bleu sombre, et les lampadaires de la rue s'allument un à un. Des odeurs de grillade et de charbon montent d'une cour voisine.
 
-Sur ton téléphone, un message de Lenny Nguyen, à 17h10 :
+On frappe à 19h02, un peu après l'heure annoncée. L'employé du room service a la quarantaine, un mètre soixante-cinq environ, une corpulence moyenne. Il a un visage rond et souriant, la peau brun foncé, une barbe courte taillée en collier, des yeux vifs sous des sourcils épais, une bouche large qui parle avant d'être sollicitée. Ses cheveux sont courts, avec une calvitie naissante sur le dessus. Il porte une veste blanche de service boutonnée de travers, un pantalon noir et des chaussures fatiguées. Il pose le plateau sur la table en annonçant chaque plat à voix haute, comme s'il les présentait à toute une salle, s'excuse du retard en riant (« le cuisinier voulait que le poulet soit parfait, patron ») et te tend le terminal de paiement : 14 500 FCFA, soit 22,11 € sur ta Visa Premier. Il repart en sifflotant dans le couloir.
 
-« Yo William ! T'es passé où cet été ? On te voit plus. Le club rouvre lundi 26, 18h pile pour le sparring, coach a dit que ceux qui arrivent en retard font les burpees devant tout le monde 😂 J'ai besoin d'un gros gabarit, les autres me lâchent tous. Tu rentres quand ? Au fait j'ai couru un semi dimanche, 1h28, à 10 secondes du podium de ma catégorie, je te jure. »
+Le poulet est fumé, la peau croustillante, l'attiéké tiède et légèrement acide, l'alloco encore huileux. Tu manges tout. La fatigue de la séance descend dans tes jambes à mesure que tu te remplis.
 
-Il est 18h07.
+À 20h00 pile, ton directeur général virtuel :
 
----
+« Rapport final de la journée du lundi 19 août 2041 (20h00). PDF dans tes documents (application Fichiers).
 
-**Réponses attendues**
-- **Mohamed Coulibaly** : il t'a rappelé à 12h22 et t'a écrit à 12h25 ; il passe demain matin à l'agence de gardiennage du bailleur pour te faire inscrire.
-- **Lenny Nguyen** : il te demande quand tu rentres ; le club rouvre lundi 26 août, sparring à 18h00.
-- **Directeur général virtuel** : le rapport final, ce soir à 20h00.
+DÉCISIONS
+1. Dépôt de garantie et premier loyer de la villa des Vallons. Le compte rendu de signature du 16 août prévoit leur règlement « en début de semaine », dès que ton virement d'associé est crédité. Le compte de la société a reçu 5 247 656 FCFA (8 000 €). Le cadrage du 13 août chiffrait la garantie locative à 9 000 000 FCFA (trois mois de caution et deux mois d'avance, sur un loyer estimé à 1,8 million) ; le bail signé fixe le loyer à 1 750 000 FCFA, mais ni le bail ni le montant exact à verser ne m'ont été transmis. Valides-tu que je demande demain à Mohamed Coulibaly la copie du bail signé et le montant exact à régler, avant tout nouvel apport de ta part ? Oui ou non ?
+(Analyse : selon le montant réel, il manquerait entre 1,75 et 3,75 millions de FCFA, environ 2 670 à 5 720 € ; un apport décidé sans le bail sous les yeux serait calculé à l'aveugle.)
+2. Gardiennage de la villa en septembre. D'après Coulibaly (message de 12h25), le gardien dépend de la société de gardiennage du bailleur « jusqu'à la fin du mois », le temps que Mariam Brou signe notre propre contrat ; or Mariam Brou prend ses fonctions le 1er octobre. Valides-tu que je demande à Coulibaly de faire prolonger ce gardiennage jusqu'à la signature de notre contrat, avec ton nom et ta photo sur la liste des personnes autorisées ? Oui ou non ?
+(Analyse : sans prolongation, la villa risque de rester sans gardien en septembre, au moment où du matériel pourrait y être livré après le dépouillement du 21 août.)
 
-**À faire / à fournir avant le tour suivant**
-- Aucune démarche en cours.
+AFFIRMATIONS VÉRIFIÉES
+- Coulibaly : « Le gardien est l'agent de la société de gardiennage du bailleur, qui garde la villa jusqu'à la fin du mois. » → NON VÉRIFIÉE : le compte rendu de signature du 16 août ne parle pas de gardiennage ; aucune pièce reçue.
+- Coulibaly : « Les clés sont avec moi. » → CONFORME au compte rendu du 16 août (trousseau complet et télécommandes du portail remis à 15h25).
+- Coulibaly (16 août) : « Dépôt de garantie et premier loyer : règlement différé en début de semaine prochaine. » → À SUIVRE : aucune preuve de règlement à ce jour.
 
-**Quêtes secondaires**
-- Dépouillement des devis d'aménagement des Vallons : mercredi 21 août à 16h00.
-- Départ d'Abidjan le dimanche 25 août : règlement de la résidence à midi (1 690 €, plus les extras portés sur ta note : quatre courses Yango ce jour), vol Air France AF703 vers Paris à 22h15.
-- Fatoumata Gnagne : rien de nouveau depuis le déjeuner de l'Assomption.
-
-Que veux-tu faire ?
+ÉTAT DES PÔLES
+- Direction générale (Coulibaly, en exercice ; le pôle virtuel évalue) : rendez-vous à la SGCI ce matin pour les moyens de paiement de la société ; ton inscription auprès de l'agence de gardiennage promise pour demain matin, relance à midi sans confirmation ; dépouillement des devis d'aménagement mercredi 21 août à 16h00.
+- Administration et finance (Mariam Brou, prise de fonction le 1er octobre) : aucune pièce de dépôt des demandes CIE et SODECI reçue à ce jour.
+- Commercial (Viviane Tanoh, prise de fonction le 1er octobre) : signature de son contrat prévue aujourd'hui ; aucune confirmation reçue.
+- Technique (Éric Koffi Yao, prise de fonction le 1er octobre) : rien de nouveau.
+- Pôle finance virtuel : apports reçus 5 247 656 FCFA ; charges mensuelles prévues une fois l'équipe en poste (salaires chargés d'environ 16 % de cotisations CNPS, estimation à confirmer, et loyer) : environ 7,8 millions de FCFA, soit 11 900 € par mois ; première tranche de 60 000 € non datée ; inconnus : véhicule utilitaire, rémunération de Viviane Tanoh.
+- Pôle juridique virtuel : copie du bail signé à obtenir (décision 1).
+- Surveillance : un message sortant aujourd'hui (courriel à Coulibaly, 10h11), relu et conforme.
+- Budget d'API : 39,39 € sur 1 000 € ce mois-ci.
+… (suite dans etat/dernier-tour.md, 81 lignes)
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
 - A114 Tue 20/08 09:00 (abidjan) | Mohamed Coulibaly : Passe à l'agence de gardiennage du bailleur pour inscrire William sur la liste des personnes autorisées à la villa des Vallons (promesse du 19/08, 12h25) [prevu]  — promesse : lenteur.py promesse --pour "Mohamed Coulibaly" au moment dit (oubli 10 %), puis T18 si manquement
@@ -177,10 +184,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 10c4716 ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 43b3555 ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 21 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 22 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

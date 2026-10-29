@@ -91,7 +91,7 @@ date;heure;compte;montant;type;libelle;reference
 2041-07-25;12:30;courant;-1511.00;mouvement;Virement SWIFT Cabinet Gnamien : 1er acompte mission SAS (991 200 FCFA TTC);HONO-CI-2041-0722-OSSIMI
 2041-08-07;06:00;courant;-1358.00;prevu_realise;Visa Premier : relevé clos le 30/07/2041, débit du solde (1 358,00 €);C-visa_premier-20410730
 2041-08-05;09:00;courant;0.00;mouvement;Rapport quotidien n17 genere (D041, aucun mouvement financier);
-2041-09-09;06:00;courant;-314.20;prevu;Visa Premier : relevé clos le 29/08/2041, débit du solde (314,20 €);C-visa_premier-20410829
+2041-09-09;06:00;courant;-336.31;prevu;Visa Premier : relevé clos le 29/08/2041, débit du solde (336,31 €);C-visa_premier-20410829
 2041-08-16;12:33;courant;-24.30;mouvement;Abonnement agent IA William formule Pro 12 mois;E016-20410816
 2041-08-16;13:55;courant;-8000.00;mouvement;Virement pret associe CCA SOLEIL B2B CI (SGCI Plateau);CCA-20410816-01
 2041-08-16;15:50;projet;-8000.00;mouvement;Virement interne vers compte courant (reconstitution liquidite);VIR-INT-20410816-01

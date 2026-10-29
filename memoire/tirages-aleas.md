@@ -4423,3 +4423,7 @@ Effets à jouer : A19 (dimanche 25/08 (soir)) : Un adulte attrape 2 à 4 rhumes 
 - Procédure « Course Yango de retour (Sofitel → résidence, 13h15) : annulation du premier chauffeur (T24b annule) » : après 4 min [PROCÉDURE : T24b annule : délai tiré entre 2 min et l'attente estimée (5 min), comme courses.py] (enregistré le 29/10/2026 15:29 heure machine)
 
 - Procédure « William : réveil de la sieste annoncée (« environ 3 à 4 heures ») » : endormi 14:12, réveil 18:07 (235 min) [PROCÉDURE : latence d'endormissement 8 à 20 min ; durée tirée uniformément entre 3 et 4 heures (intention déclarée du joueur)] (enregistré le 29/10/2026 15:29 heure machine)
+
+- Tirage [T10] « Mohamed Coulibaly : délai (accuse réception du message de William (ok, pas de souci, régler la situation du) » : immediat 19 / rapide 33 / dans_l_heure 15 / dans_la_journee 14 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 4 ; modificateurs : M73 ; jet   0.3 → **immediat** (enregistré le 29/10/2026 15:37 heure machine)
+
+- Tirage [T10] « Lenny Nguyen : délai (répond à William (retour le 25, présent à la réouverture sauf grosse fatigue)) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet   1.0 → **immediat** (enregistré le 29/10/2026 15:37 heure machine)
