@@ -41,6 +41,8 @@ def personnage(nom):
 
 
 def zone_de(p):
+    if (p.get("commune") or "").lower().startswith("abidjan"):  # 29/10/2026 : un candidat de la diaspora installé à Abidjan vit à l'heure d'Abidjan
+        return "abidjan"
     c = p.get("contexte") or ""
     for suffixe, z in (("_manille", "manille"), ("_seoul", "seoul"), ("_bresil", "bresil"), ("_abidjan", "abidjan")):
         if c.endswith(suffixe):

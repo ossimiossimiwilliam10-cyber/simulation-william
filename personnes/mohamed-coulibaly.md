@@ -8,7 +8,7 @@
 - Homme, né le 2000-10-26 (40 ans).
 - Origine familiale : ci ; nationalité : ivoirienne.
 - Langues : français (langue officielle), dioula, baoulé, bété, sénoufo ou une autre langue locale ; avec William : français, registre « vous ».
-- Vit à : Bruxelles (Belgique) (avant : « France, Belgique, Canada, Royaume-Uni, États-Unis » → maintenant : résidence tirée le 19/07/2041) ; en couple, avec enfants.
+- Vit à : Abidjan depuis sa prise de fonction en août 2041 (vu en personne à Abidjan dès le 13/08/2041 ; avant : Bruxelles (Belgique), correction du 29/10/2026) (avant : « France, Belgique, Canada, Royaume-Uni, États-Unis » → maintenant : résidence tirée le 19/07/2041) ; en couple, avec enfants.
 - Métier : banquier(ère) ou financier(ère).
 
 ## Physique (vu en visioconférence le 26/07/2041, puis en personne le 13/08/2041 à Abidjan)

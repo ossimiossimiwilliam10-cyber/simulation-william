@@ -32,3 +32,4 @@
 | 19/07/2041 20h02 | Message WhatsApp à Agent central : « Kader Assi : j'approuve ta démarche, donc oui. Rapports réels : je valide également. » | conversation WhatsApp | Agent central (captures possibles) | faible |
 | 20/07/2041 12h08 | Message WhatsApp à Agent central : « Oui, tu peux écrire aux deux cabinets. J'active immédiatement le pôle juridique virtuel, puisque nous attaquons le domaine juridique. Tu devras l'utiliser systé » | conversation WhatsApp | Agent central (captures possibles) | faible |
 | 19/08/2041 09h02 (Abidjan) | Message WhatsApp à Agent central : « Je valide les propositions P32 à P36. » | conversation WhatsApp | Agent central (captures possibles) | faible |
+| 19/08/2041 10:03 | William se présente au gardien de la villa des Vallons comme le fondateur de la société, de bonne humeur, et appelle Mohamed Coulibaly devant lui (appel sans réponse) | oral | Brice Yao | faible |

@@ -118,7 +118,7 @@
 - **Lien avec William** : aucun (whatsapp)
 - **Objectif** : acheter un logement (ou un plus grand) ; **souci** : contrat de travail qui se termine bientôt ; **foyer** : en couple, avec enfants
 - **Secret (moteur seulement)** : —
-- **Horaires** : règle « bureau », fuseau luxembourg, décalage -21 min ; travail 08:39-17:09 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:09-06:39
+- **Horaires** : règle « bureau_abidjan », fuseau abidjan, décalage -21 min ; travail 07:39-17:09 (lun, mar, mer, jeu, ven), trajet 50 min ; sommeil 23:09-05:39
 - **Derniers événements** : 23/07 sans_histoire; 04/08 sans_histoire; 05/08 sans_histoire; 18/08 petit_evenement (dépense imprévue (frais de scolarité)); 20/08 sans_histoire
 
 ### Maïmouna Koné (répondant à l'annonce)
