@@ -1,41 +1,36 @@
 # Dernier tour montré au joueur
 
-> Tour n° 92 ; horloge 15/08/2041 22:00 -> 16/08/2041 08:00 ; enregistré le 28/10/2026 18:10 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 93 ; horloge 16/08/2041 11:00 -> 16/08/2041 11:00 ; enregistré le 29/10/2026 10:25 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je remercie Tomata pour le message et pour le conseil pratique. Je lui souhaite une bonne soirée. Je demande à mon équipe virtuelle d'en informer Mohamed Koulibaly. Comme ça, il pourra être là dès le plus tôt possible, quoi. Bon, après ça, je pense que je vais me coucher. Je ne mettrai pas de réveil pour demain. Comme ça, je vais bien dormir, bien récupérer.
+> Alors, j'en profite pour commander un petit dejeuner complet a la residence. Ensuite, j'irai faire un peu de sport. Et des que je recevrai le RIB, je ferai le virement. Non, je ne donne pas d'instructions complementaires pour Koulibaly.
 
 ## Texte envoyé au joueur
 
-**VENDREDI 16 AOÛT 2041 — 08h00 — Abidjan (Cocody Deux-Plateaux), résidence hôtelière**
+**VENDREDI 16 AOÛT 2041 — 11h00 — Abidjan (Cocody Deux-Plateaux), résidence hôtelière**
 
-*(« Tomata » interprété comme Fatoumata Gnagne).*
+Tu n'as pas eu à attendre longtemps pour savoir à quoi ressemblerait ta matinée. Vers huit heures dix, depuis l'application Gestion, un message bref de Mohamed Coulibaly est remonté : il était positionné devant le guichet du CEPICI, documents en main, et procédait au retrait physique du RCCM et de l'IDU. Pas de problème signalé. Un point de situation, rien de plus.
 
-Installé sur ton lit dans la fraîcheur tempérée de ta suite, tu réponds chaleureusement à Fatoumata sur WhatsApp : tu la remercies pour son attention, lui dis combien tu as apprécié la franchise et la vivacité de votre déjeuner Chez Ambroise, et salues son précieux tuyau concernant les guichets du CEPICI. Tu lui souhaites une excellente fin de soirée avant de verrouiller la messagerie.
+Tu as commandé ton petit-déjeuner par téléphone — plateau complet, œufs, pain de mie, fruit de saison, café — livré une vingtaine de minutes plus tard dans ta suite. La cafetière fumait encore. En contrebas, le groupe électrogène tournait à mi-régime, et c'est ce bourdonnement sourd qui accompagnait les coups discrets du serveur à ta porte. Tu as mangé assis au bord du lit, en parcourant rapidement tes notifications.
 
-Dans la foulée, tu transmets tes instructions opérationnelles à l'équipe virtuelle sur l'application Gestion. La consigne est répercutée sans délai à Mohamed Coulibaly : profitant de cette information de première main, il est invité à avancer son arrivée au guichet unique du CEPICI au Plateau dès l'ouverture de huit heures afin de devancer l'afflux des dossiers accumulés pendant le jour férié. En fin de soirée, Coulibaly confirme la réception de la consigne et réajuste son organisation pour être devant les portes avant huit heures.
+À neuf heures passées, tu as filé à la petite salle de sport de la résidence. Quarante-cinq minutes de cardio et quelques séries sur les machines : le corps a bien répondu, aucune courbature résiduelle après la marche de la veille. Tu en es ressorti en nage, l'esprit bien éveillé, et tu as pris une douche rapide avant de te réinstaller dans ta suite.
 
-Tes affaires étant calées, tu coupes les alertes de ton téléphone et décides de ne programmer aucun réveil. Tu t'endors d'un trait vers vingt-deux heures trente. Porté par le calme de la chambre, la digestion légère du dîner au maquis et le soulagement d'avoir gardé le cap sans compromission, ton sommeil est d'une grande profondeur. Tu dors plus de neuf heures d'un repos réparateur et te réveilles tout naturellement à sept heures quarante-cinq au son feutré de la ville qui s'éveille. Tu te sens pleinement dispos, l'esprit vif et les muscles détendus.
-
-Après quelques étirements au sol et un grand verre d'eau fraîche, tu consultes tes notifications à huit heures précises :
-- Sur ton compte bancaire personnel à la Spuerkeess, le prélèvement mensuel automatique de ton forfait mobile et de ta box fibre (soixante-trois euros) a été exécuté à six heures du matin.
-- Sur le canal professionnel de Gestion, un message court de Mohamed Coulibaly a été émis à sept heures cinquante-cinq : parti de Cocody à sept heures quinze, il est déjà positionné dans le hall du CEPICI au Plateau, ticket numéro trois en main, alors que les premiers agents ouvrent les guichets sous le regard d'une file d'attente grandissante. Il t'informe qu'il procède au retrait des attestations physiques du RCCM et de l'IDU pour SOLEIL B2B CI, avant de filer directement vers l'agence bancaire partenaire pour activer le compte professionnel et émettre le relevé d'identité bancaire de la société.
-
-Le ciel d'Abidjan est légèrement voilé par les brumes matinales et la température s'élève doucement vers vingt-cinq degrés, annonçant une atmosphère lourde et orageuse pour la fin de journée.
+À midi passé de douze minutes, un prélèvement automatique de vingt-quatre euros trente a été exécuté sur ton compte courant à la Spuerkeess — l'abonnement mensuel à la formule Pro de ton agent IA.
 
 ---
 
 ### Réponses attendues
-- **Matinée de vendredi** : souhaites-tu profiter de ton réveil pour commander un petit-déjeuner complet à la résidence, faire une séance matinale de sport, ou te tenir prêt pour valider le virement du prêt d'associé dès réception du RIB de l'entreprise ?
-- **Instruction complémentaire pour Mohamed Coulibaly** : souhaites-tu lui donner une directive particulière pendant qu'il finalise le compte bancaire, ou le laisser te notifier dès l'obtention du RIB ?
+- **RIB de SOLEIL B2B CI** : Coulibaly est passé du CEPICI à l'agence bancaire partenaire pour activer le compte professionnel et émettre le RIB. Aucun envoi à cette heure. Dès réception, tu dois valider le virement de huit mille euros (cinq millions deux cent cinquante mille FCFA) depuis S-Net Spuerkeess.
+- **Dossiers Direction Commerciale** : Marc-Antoine Kouadio et Viviane Tanoh devaient remettre leurs dossiers complets à midi. Veux-tu les consulter maintenant ?
 
 ### À faire / à fournir avant le tour suivant
-- **Trésorerie de démarrage** : valider le virement de huit mille euros (cinq millions deux cent cinquante mille francs CFA) dès transmission du RIB officiel de SOLEIL B2B CI par Coulibaly.
-- **Direction Commerciale** : réception des dossiers et des propositions de Marc-Antoine Kouadio et Viviane Tanoh attendue à midi.
-- **Villa des Vallons** : signature du bail et état des lieux contradictoire prévus à quatorze heures par Coulibaly.
+- Valider le virement du prêt d'associé CCA dès réception du RIB.
+- Consulter et évaluer les dossiers DC (scoring grille 5 questions).
+- À 14h00 : Coulibaly signe le bail commercial de la villa des Vallons et procède à l'état des lieux contradictoire.
 
 ### Quêtes secondaires
-- **Fatoumata Gnagne** : le message de remerciement a été bien envoyé ; aucune relance nécessaire pour l'instant.
+- Fatoumata Gnagne n'a pas répondu à ton message de la veille au soir.
+- La direction commerciale : deux candidats en lice (Kouadio et Tanoh) ; décision finale toujours en attente (règle de filtrage : note > 80/100).
 
 Que veux-tu faire ?

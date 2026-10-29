@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 28/10/2026 18:12 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 29/10/2026 10:25 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : vendredi 16/08/2041 08:00 (abidjan, UTC+0)
-- **Lieu de William** : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-- **Heure dans les autres lieux** : lisbonne 09:00 ; luxembourg 10:00 ; mindelo 07:00 ; casablanca 09:00 ; douala 09:00 ; addis 11:00 ; manille 16:00 ; paris 10:00 ; seoul 17:00 ; bresil 05:00
+## Horloge : vendredi 16/08/2041 11:00 (abidjan, UTC+0)
+- **Lieu de William** : Abidjan (Cocody Deux-Plateaux), residence hoteliere
+- **Heure dans les autres lieux** : lisbonne 12:00 ; luxembourg 13:00 ; mindelo 10:00 ; casablanca 12:00 ; douala 12:00 ; addis 14:00 ; manille 19:00 ; paris 13:00 ; seoul 20:00 ; bresil 08:00
 - **En attente de William** :
-  - Programme matinal (petit-déjeuner, sport) et validation du virement CCA à l'arrivée du RIB
+  - Dossiers DC (Kouadio + Tanoh) recus a midi ; RIB SOLEIL B2B CI en attente pour virement CCA ; bail villa Vallons a 14h00
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 292,59 €**
@@ -38,3 +38,6 @@
 > # Vendredi 16 août 2041 — univers 3, 32e jour
 > - **00h00-08h00** (tour n° 92) : voir le texte exact du tour (journal/tours/).
 > - Tour en cours à 08h00, en attente de William : **Programme matinal (petit-déjeuner, sport) et validation du virement CCA à l'arrivée du RIB**.
+> - **11h00-11h00** (tour n° 93) : voir le texte exact du tour (journal/tours/).
+> - Tirages du tour : T14 → message_routine (48,18) ; T10 → rapide (30,75).
+> - Tour en cours à 11h00, en attente de William : **Dossiers DC (Kouadio + Tanoh) recus a midi ; RIB SOLEIL B2B CI en attente pour virement CCA ; bail villa Vallons a 14h00**.
