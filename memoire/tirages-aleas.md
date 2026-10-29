@@ -4597,3 +4597,21 @@ Aucun aléa déclenché cette semaine.
 - Procédure « William : nuits du 01/09 au 08/09 (avance hebdomadaire) » : 01/09 22:34-07:10 ; 02/09 22:50-05:52 ; 03/09 22:32-06:10 ; 04/09 22:53-06:52 ; 05/09 22:44-06:04 ; 06/09 23:26-06:34 ; 07/09 23:26-07:45 [PROCÉDURE : coucher 22h30-23h30, sommeil 7 h à 8 h 40] (enregistré le 29/10/2026 21:28 heure machine)
 
 - Actualités de la semaine du 02/09/2041 : modèles LU04, LU01, FR01 [PROCÉDURE : outils/actualites.py] (enregistré le 29/10/2026 21:28 heure machine)
+
+- Tirage [T22] « Front H002 « Abonnements CIE et SODECI de la villa des Vallons » : semaine du 09/09/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  36.7 → **zero_segment** (enregistré le 29/10/2026 21:40 heure machine)
+
+- Tirage [T22] « Front H004 « Lagune Kilowatt réagit à l'arrivée de SOLEIL B2B CI » : semaine du 09/09/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  30.4 → **zero_segment** (enregistré le 29/10/2026 21:40 heure machine)
+
+- Tirage [T22] « Front H005 « Comoé Solaire Services tente de débaucher l'équipe » : semaine du 09/09/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  16.5 → **zero_segment** (enregistré le 29/10/2026 21:40 heure machine)
+
+- Tirage [T22] « Front H006 « Ébène Watt casse les prix chez les petits clients » : semaine du 09/09/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  38.2 → **zero_segment** (enregistré le 29/10/2026 21:40 heure machine)
+
+- Tirage [T7c] « Coulibaly reçoit les six tâches (conditions du bailleur, assureurs, cabinets comptables, 30 cibles et 5 rendez-vous, niveaux 3-4, moyens de paiement SGCI), courriel du 09/09/2041 » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  78.7 → **execute_a_contrecoeur** (enregistré le 29/10/2026 21:40 heure machine)
+
+- Tirage [T12] « Coulibaly face à l'offre d'une indemnité forfaitaire de 1 000 000 FCFA pour la période du 26/08 au 30/09, contre reconnaissance d'être rempli de ses droits (09/09/2041) » : maintient_sa_position 34 / concede_un_peu 22 / concede_beaucoup 6 / contre_propose_avantage 14 / exige_ecrit_d_abord 10 / invoque_alternative 8 / temporise 5 / frontal_retrait 1 ; modificateurs : aucun ; jet  57.9 → **concede_beaucoup** (enregistré le 29/10/2026 21:40 heure machine)
+
+- Tirage [T10] « Me Gnamien : projet d'avenant (jalons) et de décision d'indemnité, demandé le 09/09 » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  28.6 → **rapide** (enregistré le 29/10/2026 21:40 heure machine)
+
+- Procédure « William : nuits du 08/09 au 15/09 (avance hebdomadaire) » : 08/09 23:24-06:27 ; 09/09 22:58-07:27 ; 10/09 23:14-07:53 ; 11/09 22:35-05:40 ; 12/09 22:51-07:20 ; 13/09 22:42-06:19 ; 14/09 23:02-06:08 [PROCÉDURE : coucher 22h30-23h30, sommeil 7 h à 8 h 40] (enregistré le 29/10/2026 21:41 heure machine)
+
+- Actualités de la semaine du 09/09/2041 : modèles LU01, LU03, FR01 [PROCÉDURE : outils/actualites.py] (enregistré le 29/10/2026 21:41 heure machine)

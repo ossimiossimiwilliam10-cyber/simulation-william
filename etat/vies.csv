@@ -5113,3 +5113,168 @@ date;personnage;cadence;t11;categorie;detail;initiative;agenda;note
 2041-09-06;Mariam Kra;semaine;sans_histoire;;;;;T11 jet 29.3
 2041-09-02;Yannick Bamba;semaine;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : rembourser ses dettes;;;T11 jet 86.2 · T13d jet 36.2
 2041-09-02;Daniel Öztürk;semaine;sans_histoire;;;;;T11 jet 11.6
+2041-09-15;Max Rocha;semaine;sans_histoire;;;;;T11 jet 27.1
+2041-09-11;Georges Muller;semaine;sans_histoire;;;;;T11 jet 43.8
+2041-09-12;Benjamin Hennequin;semaine;sans_histoire;;;;;T11 jet 14.8
+2041-09-14;Camille Simon;semaine;sans_histoire;;;;;T11 jet 44.9
+2041-09-09;Emma Gómez;semaine;sans_histoire;;;;;T11 jet 7.6
+2041-09-13;Claire Zhao;semaine;coup_dur;T13a:sante_proche;maladie ou accident de son enfant;;;T11 jet 96.5 · T13a jet 41.0
+2041-09-10;Sarah Lanners;semaine;sans_histoire;;;;;T11 jet 7.4
+2041-09-14;Anne Kremer;semaine;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;;;T11 jet 55.3 · T13c jet 35.6
+2041-09-09;Tom Goergen;semaine;avancee_objectif;T13d:argent;somme reçue, économisée ou investie pour son objectif : partir vivre au soleil (Portugal, Espagne, Sud);;;T11 jet 89.1 · T13d jet 71.3
+2041-09-12;Michèle Wagner;semaine;sans_histoire;;;;;T11 jet 38.1
+2041-09-13;Jil Wolff;semaine;avancee_objectif;T13d:apprentissage;formation, lecture ou conseil utile : rembourser ses dettes;;;T11 jet 89.2 · T13d jet 98.0
+2041-09-09;Sam Ries;semaine;sans_histoire;;;;;T11 jet 36.9
+2041-09-11;Pit Thill;semaine;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;;;T11 jet 62.8 · T13c jet 65.2
+2041-09-09;Mélanie Blanc;semaine;coup_dur;T13a:argent;dépense imprévue;;;T11 jet 96.1 · T13a jet 56.3
+2041-09-11;Kim Schmitz;semaine;sans_histoire;;;;;T11 jet 33.2
+2041-09-14;Steve Klein;semaine;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;;;T11 jet 62.3 · T13c jet 75.3
+2041-09-15;Caroline Ewen;semaine;petit_evenement;T13c:service_rendu;service rendu ou reçu;;;T11 jet 59.8 · T13c jet 50.3
+2041-09-09;Martina Ceccarelli;semaine;sans_histoire;;;;;T11 jet 10.9
+2041-09-10;Elsa Blanchard;semaine;tournant;T13b:rencontre;rencontre qui compte (amicale, amoureuse ou professionnelle);;;T11 jet 98.6 · T13b jet 73.7
+2041-09-13;Sandy Lentz;semaine;avancee_objectif;T13d:decision;décision prise pour son objectif : rembourser ses dettes;;;T11 jet 89.2 · T13d jet 81.8
+2041-09-15;Cláudia Almeida;semaine;sans_histoire;;;;;T11 jet 49.7
+2041-09-11;Luc Biver;semaine;sans_histoire;;;;;T11 jet 52.1
+2041-09-13;Philippe Sinner;semaine;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;;;T11 jet 70.3 · T13c jet 69.9
+2041-09-15;Ruben Gomes;semaine;sans_histoire;;;;;T11 jet 18.1
+2041-09-14;Thiago Alves;semaine;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;;;T11 jet 55.8 · T13c jet 36.6
+2041-09-12;Lenny Nguyen;semaine;sans_histoire;;;;;T11 jet 0.4
+2041-09-12;Raphaël Jacquot;semaine;petit_evenement;T13c:service_rendu;service rendu ou reçu;;;T11 jet 79.2 · T13c jet 48.6
+2041-09-12;Mariana Oliveira;semaine;sans_histoire;;;;;T11 jet 3.9
+2041-09-12;Clément Grandjean;semaine;petit_evenement;T13c:transport_meteo;bus en retard;;;T11 jet 54.5 · T13c jet 81.4
+2041-09-10;Yann Diederich;semaine;petit_evenement;T13c:rumeur;rumeur entendue ou colportée;;;T11 jet 58.1 · T13c jet 98.0
+2041-09-13;Arthur Kieffer;semaine;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;;;T11 jet 70.3 · T13c jet 31.0
+2041-09-11;Leo Horvat;semaine;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;;;T11 jet 63.0 · T13c jet 67.3
+2041-09-09;Olivier Schneider;semaine;petit_evenement;T13c:depense;dépense imprévue (médicaments);;;T11 jet 78.6 · T13c jet 18.5
+2041-09-15;Claude Majerus;semaine;sans_histoire;;;;;T11 jet 33.3
+2041-09-12;Christophe Thomas;semaine;coup_dur;T13a:argent;dépense imprévue;;;T11 jet 93.7 · T13a jet 61.6
+2041-09-15;Corinne Dubois;semaine;coup_dur;T13a:famille;dispute sérieuse ou mauvaise nouvelle dans la famille;;;T11 jet 85.1 · T13a jet 70.7
+2041-09-13;Jérôme Rizzo;semaine;petit_evenement;T13c:depense;dépense imprévue (frais de scolarité);;;T11 jet 75.2 · T13c jet 19.9
+2041-09-15;Aurélie Martin;semaine;petit_evenement;T13c:service_rendu;service rendu ou reçu;;;T11 jet 61.1 · T13c jet 37.5
+2041-09-13;Émilie Lefebvre;semaine;coup_dur;T13a:famille;dispute sérieuse ou mauvaise nouvelle dans la famille;;;T11 jet 90.0 · T13a jet 74.3
+2041-09-15;Amandine Didier;semaine;sans_histoire;;;;;T11 jet 22.7
+2041-09-09;Charlotte Laurent;semaine;sans_histoire;;;;;T11 jet 41.0
+2041-09-10;Bruno Lopes;semaine;sans_histoire;;;;;T11 jet 35.5
+2041-09-14;Lynn Traoré;semaine;petit_evenement;T13c:service_rendu;service rendu ou reçu;;;T11 jet 79.9 · T13c jet 43.0
+2041-09-10;Eugène Doumbia;semaine;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;;;T11 jet 58.5 · T13c jet 34.6
+2041-09-14;Nadège Kouamé;semaine;sans_histoire;;;;;T11 jet 38.9
+2041-09-13;Jean-Baptiste Tuo;semaine;petit_evenement;T13c:achat;achat (matériel pour la maison);;;T11 jet 72.7 · T13c jet 88.7
+2041-09-12;Sandrine Cissé;semaine;sans_histoire;;;;;T11 jet 0.7
+2041-09-14;Hervé Touré;semaine;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;;;T11 jet 67.0 · T13c jet 75.8
+2041-09-12;Franck Konan;semaine;avancee_objectif;T13d:decision;décision prise pour son objectif : acheter un terrain et construire sa maison à Abidjan;;;T11 jet 88.3 · T13d jet 84.0
+2041-09-10;Yannick N'Guessan;semaine;coup_dur;T13a:argent;dépense imprévue;;;T11 jet 91.5 · T13a jet 53.6
+2041-09-09;Solange Gnagne;semaine;sans_histoire;;;;;T11 jet 42.7
+2041-09-11;Jonathan Ouattara;semaine;sans_histoire;;;;;T11 jet 0.7
+2041-09-13;Mohamed Coulibaly;semaine;sans_histoire;;;;;T11 jet 12.1
+2041-09-13;Maïmouna Koné;semaine;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;;;T11 jet 63.8 · T13c jet 69.2
+2041-09-11;Brice Tapé;semaine;petit_evenement;T13c:dispute_breve;querelle courte;;;T11 jet 63.6 · T13c jet 57.5
+2041-09-09;Kader Assi;semaine;petit_evenement;T13c:depense;dépense imprévue (cotisation imprévue);;;T11 jet 73.9 · T13c jet 21.6
+2041-09-12;Boubacar Sylla;semaine;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : monter ou diriger une entreprise au pays;;;T11 jet 86.1 · T13d jet 44.8
+2041-09-10;Cédric Soro;semaine;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;;;T11 jet 70.1 · T13c jet 28.2
+2041-09-12;Landry Aka;semaine;avancee_objectif;T13d:decision;décision prise pour son objectif : préparer une compétition ou un examen;;;T11 jet 82.6 · T13d jet 88.0
+2041-09-11;Fabrice Koffi;semaine;coup_dur;T13a:famille;dispute sérieuse ou mauvaise nouvelle dans la famille;;;T11 jet 94.6 · T13a jet 64.7
+2041-09-12;Aboubacar Kouassi;semaine;sans_histoire;;;;;T11 jet 8.7
+2041-09-10;Ousmane Yéo;semaine;sans_histoire;;;;;T11 jet 15.6
+2041-09-12;Mariam Brou;semaine;sans_histoire;;;;;T11 jet 13.3
+2041-09-09;Damien Yao;semaine;sans_histoire;;;;;T11 jet 52.9
+2041-09-11;Arsène Zadi;semaine;sans_histoire;;;;;T11 jet 52.6
+2041-09-13;Issouf Tano;semaine;sans_histoire;;;;;T11 jet 31.5
+2041-09-12;Ismaël Gnamien;semaine;avancee_objectif;T13d:argent;somme reçue, économisée ou investie pour son objectif : changer de métier;;;T11 jet 87.4 · T13d jet 58.2
+2041-09-11;Kady Kouadio;semaine;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : préparer une compétition ou un examen;;;T11 jet 81.1 · T13d jet 50.1
+2041-09-13;Junior Goulizan;semaine;sans_histoire;;;;;T11 jet 22.1
+2041-09-14;Flora Zézé;semaine;petit_evenement;T13c:dispute_breve;querelle courte;;;T11 jet 69.3 · T13c jet 54.2
+2041-09-15;Prisca Zahui;semaine;sans_histoire;;;;;T11 jet 50.6
+2041-09-10;Nathalie Bahi;semaine;sans_histoire;;;;;T11 jet 20.1
+2041-09-15;Ruth Konaté;semaine;petit_evenement;T13c:service_rendu;service rendu ou reçu;;;T11 jet 58.9 · T13c jet 52.0
+2041-09-12;Gloire Boni;semaine;petit_evenement;T13c:dispute_breve;querelle courte;;;T11 jet 75.8 · T13c jet 60.0
+2041-09-11;Yannick Ouattara;semaine;sans_histoire;;;;;T11 jet 14.9
+2041-09-13;Wilfried Bamba;semaine;petit_evenement;T13c:dispute_breve;querelle courte;;;T11 jet 62.0 · T13c jet 53.9
+2041-09-15;Victor Kim;semaine;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;;;T11 jet 73.9 · T13c jet 66.6
+2041-09-15;Ismaël Kouadio;semaine;sans_histoire;;;;;T11 jet 44.6
+2041-09-10;Christelle Sangaré;semaine;sans_histoire;;;;;T11 jet 52.4
+2041-09-09;Safiatou Camara;semaine;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;;;T11 jet 65.4 · T13c jet 36.9
+2041-09-13;Rachelle Fofana;semaine;petit_evenement;T13c:depense;dépense imprévue (médicaments);;;T11 jet 75.0 · T13c jet 20.0
+2041-09-09;Aboubacar Camara;semaine;sans_histoire;;;;;T11 jet 12.7
+2041-09-14;Sandrine Coulibaly;semaine;sans_histoire;;;;;T11 jet 36.4
+2041-09-13;Fatoumata Gnagne;semaine;sans_histoire;;;;;T11 jet 25.4
+2041-09-12;Estelle Ahoussou;semaine;sans_histoire;;;;;T11 jet 27.2
+2041-09-15;Yannick Diomandé;semaine;avancee_objectif;T13d:decision;décision prise pour son objectif : se faire une place dans le milieu (club, lycée, quartier);;;T11 jet 85.1 · T13d jet 87.0
+2041-09-10;Mohamed Ahoussou;semaine;coup_dur;T13a:famille;dispute sérieuse ou mauvaise nouvelle dans la famille;;;T11 jet 96.3 · T13a jet 72.3
+2041-09-10;Junior Yao;semaine;sans_histoire;;;;;T11 jet 10.1
+2041-09-13;Jean-Baptiste Boni;semaine;sans_histoire;;;;;T11 jet 44.0
+2041-09-11;Franck Soro;semaine;sans_histoire;;;;;T11 jet 54.2
+2041-09-11;Mariam Konaté;semaine;petit_evenement;T13c:service_rendu;service rendu ou reçu;;;T11 jet 55.5 · T13c jet 44.2
+2041-09-12;Gloire Kouassi;semaine;sans_histoire;;;;;T11 jet 45.5
+2041-09-14;Kader Bamba;semaine;petit_evenement;T13c:dispute_breve;querelle courte;;;T11 jet 71.8 · T13c jet 60.3
+2041-09-14;Ousmane Camara;semaine;coup_dur;T13a:sante;malade (dengue légère);;;T11 jet 95.6 · T13a jet 16.2
+2041-09-14;Ruth Coulibaly;semaine;sans_histoire;;;;;T11 jet 46.4
+2041-09-11;Hervé Coulibaly;semaine;sans_histoire;;;;;T11 jet 43.9
+2041-09-09;Rachelle Tuo;semaine;sans_histoire;;;;;T11 jet 42.2
+2041-09-12;Lea Kaya;semaine;coup_dur;T13a:sante;malade (forte fièvre);;;T11 jet 95.9 · T13a jet 14.9
+2041-09-14;Flora Ouattara;semaine;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;;;T11 jet 65.5 · T13c jet 33.9
+2041-09-11;Cédric Tapé;semaine;sans_histoire;;;;;T11 jet 17.0
+2041-09-14;Hana Sato;semaine;sans_histoire;;;;;T11 jet 15.1
+2041-09-09;Béatrice Diabaté;semaine;petit_evenement;T13c:transport_meteo;embouteillage monstre au pont Houphouët-Boigny;;;T11 jet 72.6 · T13c jet 79.6
+2041-09-11;Wilfried Sylla;semaine;avancee_objectif;T13d:demarche;démarche pour son objectif : préparer une compétition ou un examen;;;T11 jet 88.0 · T13d jet 1.0
+2041-09-15;Nina Rahman;semaine;coup_dur;T13a:sante;malade (dengue légère);;;T11 jet 86.1 · T13a jet 5.8
+2041-09-09;Gloire Goulizan;semaine;sans_histoire;;;;;T11 jet 54.9
+2041-09-10;Ousmane Konan;semaine;petit_evenement;T13c:rumeur;rumeur entendue ou colportée;;;T11 jet 68.0 · T13c jet 98.2
+2041-09-10;Mohamed Sangaré;semaine;sans_histoire;;;;;T11 jet 18.5
+2041-09-10;Nathalie Ahoussou;semaine;petit_evenement;T13c:nouvelle_famille;nouvelle de la famille ou des amis;;;T11 jet 61.3 · T13c jet 70.0
+2041-09-11;Yannick Kouassi;semaine;avancee_objectif;T13d:demarche;démarche pour son objectif : mettre de l'argent de côté pour ses vieux jours;;;T11 jet 84.1 · T13d jet 28.7
+2041-09-11;Prisca Silué;semaine;petit_evenement;T13c:depense;dépense imprévue (réparation du téléphone);;;T11 jet 76.3 · T13c jet 20.0
+2041-09-13;Natalia Okafor;semaine;sans_histoire;;;;;T11 jet 9.5
+2041-09-09;Ismaël Kouassi;semaine;tournant;T13b:argent;rentrée ou perte d'argent importante;;;T11 jet 98.8 · T13b jet 91.6
+2041-09-11;Brice Yéo;semaine;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;;;T11 jet 63.0 · T13c jet 33.0
+2041-09-15;Estelle Brou;semaine;sans_histoire;;;;;T11 jet 47.3
+2041-09-12;Kady Fofana;semaine;sans_histoire;;;;;T11 jet 25.2
+2041-09-14;Brice Yao;semaine;coup_dur;T13a:famille;dispute sérieuse ou mauvaise nouvelle dans la famille;;;T11 jet 95.9 · T13a jet 67.6
+2041-09-09;Jean-Baptiste Cissé;semaine;petit_evenement;T13c:depense;dépense imprévue (réparation de la moto);;;T11 jet 72.0 · T13c jet 5.2
+2041-09-09;Ruth Ahoussou;semaine;petit_evenement;T13c:service_rendu;service rendu ou reçu;;;T11 jet 72.7 · T13c jet 37.7
+2041-09-09;Christelle Kouamé;semaine;tournant;T13b:famille;naissance, mariage, décès ou retour d'un proche;;;T11 jet 97.0 · T13b jet 27.3
+2041-09-10;Kady Coulibaly;semaine;sans_histoire;;;;;T11 jet 22.1
+2041-09-11;Nadège Kouassi;semaine;petit_evenement;T13c:transport_meteo;coupure de courant dans le quartier;;;T11 jet 77.7 · T13c jet 77.5
+2041-09-09;Kady Konaté;semaine;petit_evenement;T13c:dispute_breve;querelle courte;;;T11 jet 77.4 · T13c jet 59.7
+2041-09-13;Mya Touré;semaine;sans_histoire;;;;;T11 jet 9.3
+2041-09-12;Marc-Antoine Kouadio;semaine;petit_evenement;T13c:dispute_breve;querelle courte;;;T11 jet 55.2 · T13c jet 61.7
+2041-09-09;Viviane Tanoh;semaine;petit_evenement;T13c:achat;achat (cadeau d'anniversaire);;;T11 jet 73.0 · T13c jet 91.8
+2041-09-13;Wilfried Yéo;semaine;sans_histoire;;;;;T11 jet 30.8
+2041-09-12;Ousmane Diomandé;semaine;sans_histoire;;;;;T11 jet 21.8
+2041-09-09;Kader Camara;semaine;coup_dur;T13a:sante_proche;maladie ou accident de un frère ou une sœur;;;T11 jet 91.4 · T13a jet 31.3
+2041-09-11;Christelle Ouattara;semaine;sans_histoire;;;;;T11 jet 11.5
+2041-09-13;Ismaël Cissé;semaine;sans_histoire;;;;;T11 jet 0.0
+2041-09-15;Yannick Doumbia;semaine;tournant;T13b:offre_travail;proposition d'emploi ou de collaboration ailleurs;;;T11 jet 99.6 · T13b jet 16.1
+2041-09-13;Prisca Touré;semaine;sans_histoire;;;;;T11 jet 38.7
+2041-09-10;Mohamed Tuo;semaine;petit_evenement;T13c:dispute_breve;querelle courte;;;T11 jet 51.8 · T13c jet 62.0
+2041-09-09;Nathalie Coulibaly;semaine;sans_histoire;;;;;T11 jet 37.2
+2041-09-13;Sandrine Soro;semaine;coup_dur;T13a:sante;malade (mal de dos);;;T11 jet 91.0 · T13a jet 17.9
+2041-09-13;Mariam Cissé;semaine;sans_histoire;;;;;T11 jet 27.1
+2041-09-13;Mohamed Diomandé;semaine;sans_histoire;;;;;T11 jet 35.7
+2041-09-14;Flora Kouassi;semaine;sans_histoire;;;;;T11 jet 17.9
+2041-09-09;Lina Kovács;semaine;sans_histoire;;;;;T11 jet 49.9
+2041-09-11;Fatoumata Zadi;semaine;sans_histoire;;;;;T11 jet 25.0
+2041-09-11;Marcel Gbané;semaine;sans_histoire;;;;;T11 jet 23.4
+2041-09-15;Yannick Yéo;semaine;petit_evenement;T13c:depense;dépense imprévue (réparation de la moto);;;T11 jet 77.1 · T13c jet 7.0
+2041-09-15;Flora Diomandé;semaine;petit_evenement;T13c:dispute_breve;querelle courte;;;T11 jet 65.2 · T13c jet 59.3
+2041-09-09;Nathalie Sylla;semaine;avancee_objectif;T13d:decision;décision prise pour son objectif : finir de rénover sa maison;;;T11 jet 88.9 · T13d jet 76.8
+2041-09-13;Jean-Baptiste Kra;semaine;petit_evenement;T13c:depense;dépense imprévue (médicaments);;;T11 jet 57.6 · T13c jet 8.3
+2041-09-15;Sandrine Traoré;semaine;sans_histoire;;;;;T11 jet 31.0
+2041-09-13;Wilfried Cissé;semaine;sans_histoire;;;;;T11 jet 32.0
+2041-09-11;Fabrice Doumbia;semaine;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : acheter un terrain et construire sa maison à Abidjan;;;T11 jet 81.9 · T13d jet 52.5
+2041-09-12;Cédric Yéo;semaine;avancee_objectif;T13d:rendez_vous;rendez-vous obtenu ou tenu pour son objectif : passer plus de temps avec ses enfants;;;T11 jet 88.4 · T13d jet 42.7
+2041-09-11;Cédric N'Guessan;semaine;sans_histoire;;;;;T11 jet 19.4
+2041-09-14;Maïmouna Kouamé;semaine;sans_histoire;;;;;T11 jet 3.8
+2041-09-14;Éric Koffi Yao;semaine;sans_histoire;;;;;T11 jet 12.7
+2041-09-15;Luca Singh;semaine;sans_histoire;;;;;T11 jet 45.1
+2041-09-11;Lukas Diallo;semaine;petit_evenement;T13c:transport_meteo;averse qui inonde la rue;;;T11 jet 65.7 · T13c jet 85.4
+2041-09-10;Brice N'Guessan;semaine;petit_evenement;T13c:depense;dépense imprévue (cotisation imprévue);;;T11 jet 69.0 · T13c jet 16.7
+2041-09-13;Wilfried Boni;semaine;coup_dur;T13a:famille;dispute sérieuse ou mauvaise nouvelle dans la famille;;;T11 jet 92.1 · T13a jet 67.1
+2041-09-12;Hervé Ouattara;semaine;sans_histoire;;;;;T11 jet 37.8
+2041-09-15;Nathalie Cissé;semaine;sans_histoire;;;;;T11 jet 23.4
+2041-09-13;Yannick Kouamé;semaine;sans_histoire;;;;;T11 jet 11.4
+2041-09-15;Kader Konan;semaine;avancee_objectif;T13d:demarche;démarche pour son objectif : finir de rénover sa maison;;;T11 jet 81.9 · T13d jet 28.7
+2041-09-13;Fabrice Goulizan;semaine;sans_histoire;;;;;T11 jet 31.3
+2041-09-15;Landry Konan;semaine;petit_evenement;T13c:rencontre;croisement, visite ou conversation de voisinage;;;T11 jet 78.3 · T13c jet 23.3
+2041-09-12;Mariam Kra;semaine;petit_evenement;T13c:depense;dépense imprévue (facture d'électricité plus lourde);;;T11 jet 73.7 · T13c jet 11.8
+2041-09-13;Yannick Bamba;semaine;sans_histoire;;;;;T11 jet 13.1
+2041-09-09;Daniel Öztürk;semaine;coup_dur;T13a:travail;ennui avec son employeur ou un client;;;T11 jet 96.3 · T13a jet 80.9

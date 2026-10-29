@@ -1,77 +1,80 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 29/10/2026 21:37 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 29/10/2026 21:41 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : dimanche 8 septembre 2041, 10h21 (luxembourg) ; tour n° 143
+- Horloge : dimanche 15 septembre 2041, 09h00 (luxembourg) ; tour n° 144
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Option pour le mois non rémunéré de Coulibaly ; validation des six tâches ; programme de la semaine
+- En attente de William : Séance du dimanche : signature des actes, report des niveaux 3-4, prospection ; entraînement du dimanche ; programme de la rentrée
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 143 ; horloge 08/09/2041 09:52 -> 08/09/2041 10:21 ; enregistré le 29/10/2026 21:37 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 144 ; horloge 08/09/2041 10:21 -> 15/09/2041 09:00 ; enregistré le 29/10/2026 21:41 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je lui confie les six tâches Donc je compte lui confier les 6 tâches, mais avant de valider ça, je tiens d'abord à clarifier cet aspect sans rémunération. Est-ce que jamais plus tard, il pourrait nous faire quelque chose de légal contre nous parce qu'on ne l'a pas rémunéré malgré ses trucs? Est-ce qu'il ne vaut pas le rémunérer? Quelle est la meilleure décision à prendre?
+> Option 2, et je lui confie les six tâches. Programme : entraînement lundi, mercredi, vendredi et dimanche ; pour la rentrée, comme d'habitude (irréprochable, pas de relations personnelles avec les élèves, pas de vie privée au travail, image clean).
 
 ## Texte envoyé au joueur
 
-**DIMANCHE 8 SEPTEMBRE 2041 — 10h21 — Audun-le-Tiche (Moselle), chez toi**
+**DIMANCHE 15 SEPTEMBRE 2041 — 09h00 — Audun-le-Tiche (Moselle), chez toi**
 
-Tu écris à ton conseiller :
+Dimanche dernier, à 10h30, tu réponds à ton conseiller : option 2, et les six tâches pour Coulibaly. Il confirme trois minutes plus tard : l'offre d'indemnité part le lendemain matin, avant les tâches.
 
-« Je compte lui confier les six tâches, mais avant de valider, je veux clarifier la question de la rémunération. Est-ce qu'il pourrait un jour se retourner contre nous en justice parce qu'on ne l'a pas payé malgré son travail ? Est-ce qu'il ne vaut pas mieux le rémunérer ? Quelle est la meilleure décision ? »
+La dernière semaine de vacances passe vite. Lundi, mercredi et vendredi, le club ; Lenny te réclame à chaque fois « un round de plus », et tu le lui donnes. Lundi, l'application Banque affiche le débit du relevé de ta Visa Premier : le séjour à Abidjan est soldé. Entre deux entraînements, tu ouvres une dernière fois tes progressions : tout est prêt pour lundi, les listes de classes chargées, le premier cours de chaque niveau imprimé et rangé dans le cartable. Jeudi soir, les courses, 94,10 €. Le reste du temps, la maison, le jardin, des soirées tranquilles. Ton conseiller ne t'écrit pas de la semaine.
 
-Réponse à 10h21 :
+Ce dimanche matin, le ciel est clair et froid, onze degrés à peine ; les feuilles du cerisier commencent à jaunir. Demain, c'est la rentrée. À 08h55, ton conseiller :
 
-« Avec le pôle juridique virtuel, voici ce que je vois. Je donne un avis, tu décides.
+« Séance du dimanche 15 septembre 2041, 09h00. Ordre du jour.
 
-LE RISQUE JURIDIQUE
-- Il a signé une convention qui fixe sa rémunération au 1er octobre. Un mandat social peut être gratuit pendant une période convenue : septembre non payé, c'est ce qu'il a accepté par écrit.
-- Le risque vient d'ailleurs : plus on lui confie de tâches précises, avec des délais, des comptes rendus deux fois par semaine et des instructions venues de ton adresse, plus il pourrait soutenir qu'il travaillait en réalité comme un salarié, sous ta direction, sans contrat ni salaire. Le Code du travail ivoirien définit le travailleur par une activité exercée moyennant rémunération, sous la direction d'une autre personne. Un juge pourrait lui accorder un rappel de salaire pour septembre, et la société paierait aussi les cotisations sociales en retard.
-- En montant, c'est limité : un mois, de l'ordre de 2 à 3 millions de FCFA tout compris. La vraie perte serait ailleurs : un procès avec ton propre directeur général, dans sa première année.
+BILAN DE LA SEMAINE (9 au 15 septembre)
+- Indemnité de septembre : Coulibaly a accepté mardi sans discuter le million de FCFA et la reconnaissance d'être rempli de ses droits ; il a écrit qu'il « appréciait le geste ». Me Gnamien a rédigé jeudi l'avenant sur les jalons et la décision d'indemnité, pour un supplément de 50 000 FCFA hors taxes. Les deux actes sont dans tes documents, à signer.
+- Les six tâches : il les a prises, mais lentement, et son compte rendu de vendredi parle d'une « charge qui augmente avant ma prise de fonction ». Où il en est :
+  1. Conditions du bailleur : attestation d'assurance de Froid Lagune Services et plan des cloisons remis jeudi. Fait.
+  2. Assureurs : un devis sur deux, 820 000 FCFA par an pour la multirisque et la responsabilité civile.
+  3. Cabinets comptables : un devis sur deux, 180 000 FCFA par mois.
+  4. Prospection : douze entreprises cibles sur trente, aucun rendez-vous.
+  5. Niveaux 3 et 4 : il propose de reporter les entretiens à octobre, une fois Viviane Tanoh et Éric Koffi Yao en poste.
+  6. Moyens de paiement : carte de la société commandée à la SGCI, banque en ligne ouverte, double signature au-delà de 5 millions de FCFA.
+- CIE : toujours pas de visite technique. SODECI : rien.
+- Climatiseurs : livraison toujours annoncée pour mardi 17.
 
-TROIS OPTIONS
-1. Ne rien faire. Coût immédiat nul. Le risque est faible aujourd'hui, mais il augmente si tu lui confies les six tâches. Sa bonne volonté s'use aussi.
-2. Une indemnité forfaitaire pour la période du 26 août au 30 septembre, par décision d'associé unique, par exemple 1 000 000 FCFA (environ 1 525 €), la moitié de son fixe mensuel, avec une phrase par laquelle il reconnaît être rempli de ses droits pour cette période. Ça ferme la porte pour un coût modeste.
-3. Avancer la prise d'effet de son mandat au 1er septembre, avec son plein fixe de 2 000 000 FCFA nets, soit environ 2,8 millions de FCFA de coût pour la société (environ 4 270 €). C'est la solution la plus propre et la plus motivante, mais la plus chère, et la caisse perd environ dix jours d'autonomie.
+DÉCISIONS À PRENDRE
+1. Signer l'avenant et la décision d'indemnité (signature électronique, depuis Fichiers) ? Oui ou non.
+2. Niveaux 3 et 4 : accepter le report des entretiens à octobre ? Oui ou non.
+3. Prospection : douze cibles, aucun rendez-vous. On lui laisse jusqu'à fin septembre pour les trente cibles et trois rendez-vous, ou on attend l'arrivée de Viviane Tanoh ?
 
-MON AVIS : l'option 2, signée avant de lui confier les six tâches. Me Gnamien peut l'ajouter à l'avenant déjà en cours, pour un supplément d'honoraires faible, à confirmer.
+POUR INFORMATION
+- Ton relevé Visa Premier a été débité lundi.
+- Trésorerie de la société : environ 12,8 millions de FCFA ; le versement de 40 000 € arrive le 25.
+- Veille « faute lourde » : rien à signaler. »
 
-Laquelle retiens-tu ? »
-
-La pluie s'est arrêtée ; une pie se pose sur la haie mouillée, s'ébroue, repart.
-
-Il est 10h21.
+Il est 09h00.
 
 ---
 
 **Réponses attendues**
-- **Ton conseiller** : quelle option pour le mois non rémunéré de Coulibaly ?
-  1. ne rien faire ;
-  2. une indemnité forfaitaire d'environ 1 000 000 FCFA (1 525 €) contre une reconnaissance écrite, avant les six tâches ;
-  3. avancer son mandat au 1er septembre, avec son plein fixe (environ 4 270 € de coût).
-
-  Les six tâches attendent ta validation finale.
+- **Ton conseiller (séance du dimanche)** : trois décisions :
+  1. signer l'avenant et la décision d'indemnité ? Oui ou non ;
+  2. reporter les entretiens des niveaux 3 et 4 à octobre ? Oui ou non ;
+  3. prospection : laisser Coulibaly finir d'ici fin septembre (trente cibles, trois rendez-vous), ou attendre l'arrivée de Viviane Tanoh.
 
 **À faire / à fournir avant le tour suivant**
-- Ton programme de la semaine du 9 au 15 septembre, si tu veux l'avance automatique.
+- Tes décisions pour la séance ; entraînement prévu aujourd'hui (club, le dimanche de 09h00 à 13h00).
+- Ton programme de la semaine du 16 au 22 septembre (rentrée), si tu veux l'avance automatique.
 
 **Quêtes secondaires**
-- Demain, lundi 9 septembre : relevé de la Visa Premier (environ 2 500 €).
-- Dimanche 15 septembre : fin des vacances d'été, rentrée le lundi 16.
-- Climatiseurs de la villa annoncés vers le 17 septembre.
+- Demain, lundi 16 septembre : rentrée scolaire.
+- Mardi 17 septembre : livraison des climatiseurs de la villa.
 - Mercredi 25 septembre : versement de 40 000 € (première tranche).
-
-Que veux-tu faire ?
+… (suite dans etat/dernier-tour.md, 63 lignes)
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
-- rien
+- A002 Mon 16/09 08:00 (luxembourg) | Lycée de William : Rentrée scolaire 2041-2042 (reprise des cours, 22 leçons normales + 3 leçons sup) [latent]  — rentrée officielle fixée au lundi 16 septembre 2041 (MENJE)
 
 ## Rituels du moteur dus (rituels.py)
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_annonce : T4/T5 du dimanche 25/08 non trouvés -> python outils/savoir.py t5
@@ -79,12 +82,18 @@ Que veux-tu faire ?
 - [EN RETARD] synthese_semaine : memoire/semaine-2041-W35.md absent (semaine close le 01/09/2041) -> écrire memoire/semaine-2041-W35.md
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_annonce : T4/T5 du dimanche 01/09 non trouvés -> python outils/savoir.py t5
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_art14 : T4/T5 du dimanche 01/09 non trouvés -> python outils/savoir.py t5
+- [EN RETARD] synthese_semaine : memoire/semaine-2041-W36.md absent (semaine close le 08/09/2041) -> écrire memoire/semaine-2041-W36.md
+- [EN RETARD] t4_t5_dimanche : affaire_projet_ci_annonce : T4/T5 du dimanche 08/09 non trouvés -> python outils/savoir.py t5
+- [EN RETARD] t4_t5_dimanche : affaire_projet_ci_art14 : T4/T5 du dimanche 08/09 non trouvés -> python outils/savoir.py t5
 - [DÛ] synthese_semaine : ce soir : synthèse de la semaine, T4/T5 des affaires ouvertes -> python outils/savoir.py t5
 - [EN RETARD] message_proche : message spontané d'un proche (semaine du 26/08) non tiré -> python outils/rituels.py message-proche --semaine 2041-08-26
 - [EN RETARD] monde_semaine : nouvelles du monde de la semaine du 26/08 absentes de etat/monde.md -> ## Semaine du 26 au 01/09/2041
 - [EN RETARD] revue_lundi : revue du lundi 02/09/2041 absente -> memoire/revue-lundi-2041-09-02.md
 - [EN RETARD] tirage_aleas : aléas de la semaine du 02/09/2041 non tirés -> python outils/tirage_aleas.py 2041-09-02
 - [EN RETARD] message_proche : message spontané d'un proche (semaine du 02/09) non tiré -> python outils/rituels.py message-proche --semaine 2041-09-02
+- [EN RETARD] revue_lundi : revue du lundi 09/09/2041 absente -> memoire/revue-lundi-2041-09-09.md
+- [EN RETARD] tirage_aleas : aléas de la semaine du 09/09/2041 non tirés -> python outils/tirage_aleas.py 2041-09-09
+- [EN RETARD] message_proche : message spontané d'un proche (semaine du 09/09) non tiré -> python outils/rituels.py message-proche --semaine 2041-09-09
 
 ## Décisions en attente de William (etat/fils-ouverts.md, A)
 | 1 | **Organisation des vacances d'été 2041** | Premier jour des grandes vacances scolaires (du mardi 16/07/2041 au dimanche 15/09/2041). Choix des projets, voyages, rythme de vie ou déplacements estivaux. Budget vacances disponible : 833 €/mois (10 000 €/an). ; *(26/07 10h30) projet de mission à Abidjan à l'étude (fenêtre idéale : 12 au 25 août 2041, pendant la fermeture estivale du club de combat) pour rencontrer Mohamed Coulibaly, Me Gnamien et valider le QG* ; *(26/07 18h30) déplacement de 14 jours validé par William (du lundi 12 au dimanche 25 août 2041, pendant la fermeture annuelle du Minett Combat Club)* ; *(27/07 08h45) mission Abidjan calée du 12 au 25 août 2041 (14 jours) : vol Air France retenu depuis Luxembourg-Findel (1 285 € A/R), option confirmée sur résidence hôtelière F2 sécurisée à Cocody Deux-Plateaux (1 690 €), carnet international à jour (vaccin fièvre jaune confirmé par William)* ; *(27/07 20h00) vol Air France réglé (1 285 € sur Visa Premier, K002), pré-enrôlement e-visa SNEDAI payé et validé (73 € sur Visa Premier, K003), option résidence sécurisée Cocody active (1 690 €) ; logistique de mission Abidjan bouclée* ; *(31/07 11h20) aléa administratif A09 résolu : anomalie d'inversion des prénoms sur le portail SNEDAI rectifiée en ligne, attestation officielle de pré-enrôlement e-visa biométrique reçue (entrée FHB validée)* ; *(11/08 21h30) (11/08 21h30) Preparatifs acheves la veille du depart : voiture chargee a 100 %, reveil regle a 04h15 pour vol AF1233 Findel-CDG-Abidjan du lundi 12 aout a 06h50 ; bagages et documents physiques prets* ; *(12/08 21h00) (12/08 21h00) Arrivée sans incident à Abidjan par le vol AF702 via Paris CDG ; formalités sanitaires et e-visa biométrique SNEDAI franchies avec succès à FHB ; installation dans l'appartement F2 climatisé de la résidence hôtelière à Cocody Deux-Plateaux ; prise de contact confirmée avec Mohamed Coulibaly pour la signature notariée des statuts et du mandat DG chez Me Gnamien mardi 13 août à 10h00* ; *(13/08 09h50) (13/08 09h50) Trajet matinal avec Mohamed Coulibaly via le pont HKB, arrivée au Cabinet de Me Gnamien au Plateau à 09h50, retrouvailles avec Mariam Brou à l'accueil, attente de l'entrée en salle de signature à 10h00 ; Revue du lundi n° 4 présentée au joueur (P27 à P31)* | Ouvert |
@@ -191,10 +200,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : d7270ad ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : e910d3b ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 10 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 32 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

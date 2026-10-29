@@ -83,3 +83,9 @@
 - **Luxembourg** : Carburants : nouveaux prix maximums au Luxembourg à partir de mercredi · hausse d'environ 2 centimes le litre.
 - **Lorraine (Audun-le-Tiche, Moselle)** : Moselle : travaux de nuit sur l'A31 entre Thionville et la frontière · bouchons le matin au passage de Zoufftgen.
 - *(écrit par outils/actualites.py le 29/10/2026 heure machine ; modèles tirés : LU04, LU01, FR01 ; une nouvelle datée n'est connue qu'à sa date)*
+
+## Semaine du 9 au 15/09/2041
+- **Luxembourg** : Carburants : nouveaux prix maximums au Luxembourg à partir de mercredi · hausse d'environ 4 centimes le litre.
+- **Luxembourg** : Logement : les prix des appartements anciens reculent de 3,3 % sur un an selon l'Observatoire de l'habitat.
+- **Lorraine (Audun-le-Tiche, Moselle)** : Moselle : travaux de nuit sur l'A31 entre Thionville et la frontière · bouchons le matin au passage de Zoufftgen.
+- *(écrit par outils/actualites.py le 29/10/2026 heure machine ; modèles tirés : LU01, LU03, FR01 ; une nouvelle datée n'est connue qu'à sa date)*

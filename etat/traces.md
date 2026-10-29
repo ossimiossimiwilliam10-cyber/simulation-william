@@ -64,3 +64,4 @@
 | 01/09/2041 13h10 | Message WhatsApp à Lenny Nguyen : « Ça marche, lundi 18h 👊 » | conversation WhatsApp | Lenny Nguyen (captures possibles) | faible |
 | 08/09/2041 09h05 | Message WhatsApp à Agent central : « J'accepte le devis de Me Gnamien. J'accepte aussi le devis informatique, on part là-dessus. Et je veux qu'on fasse le point sur Coulibaly : ce qu'il fait actuel » | conversation WhatsApp | Agent central (captures possibles) | faible |
 | 08/09/2041 10h02 | Message WhatsApp à Agent central : « Je compte lui confier les six tâches, mais avant de valider, je veux clarifier la question de la rémunération. Est-ce qu'il pourrait un jour se retourner contre » | conversation WhatsApp | Agent central (captures possibles) | faible |
+| 08/09/2041 10h30 | Message WhatsApp à Agent central : « Option 2. Et je lui confie les six tâches. » | conversation WhatsApp | Agent central (captures possibles) | faible |

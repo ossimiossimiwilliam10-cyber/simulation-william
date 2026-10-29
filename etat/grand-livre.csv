@@ -13,9 +13,9 @@ date;heure;compte;montant;type;libelle;reference
 2041-09-05;06:00;pret;-628.66;prevu_realise;Prêt immobilier de la maison d'Audun-le-Tiche (taux fixe, amortissable) : capital remboursé (échéance n° 85);E002-20410905-K
 2041-09-05;06:00;maison_part;628.66;prevu_realise;Part nette du bien financé : + capital remboursé (échéance n° 85 du prêt PR1);E002-20410905-M
 2041-08-12;06:00;courant;-132.00;prevu_realise;Électricité (mensualisation · option heures creuses, 9 kVA · recharge de la voiture la nuit);E003-20410812
-2041-09-10;06:00;courant;-132.00;prevu;Électricité (mensualisation · option heures creuses, 9 kVA · recharge de la voiture la nuit);E003-20410910
+2041-09-10;06:00;courant;-132.00;prevu_realise;Électricité (mensualisation · option heures creuses, 9 kVA · recharge de la voiture la nuit);E003-20410910
 2041-08-12;06:00;courant;-253.00;prevu_realise;Gaz naturel (chauffage, eau chaude, cuisson) : mensualisation;E004-20410812
-2041-09-10;06:00;courant;-253.00;prevu;Gaz naturel (chauffage, eau chaude, cuisson) : mensualisation;E004-20410910
+2041-09-10;06:00;courant;-253.00;prevu_realise;Gaz naturel (chauffage, eau chaude, cuisson) : mensualisation;E004-20410910
 2041-08-16;06:00;courant;-63.00;prevu_realise;Box internet fibre et forfait mobile;E005-20410816
 2041-08-05;06:00;courant;-45.00;prevu_realise;Assurance habitation (maison, propriétaire occupant) : mensualisée;E007-20410805
 2041-09-05;06:00;courant;-45.00;prevu_realise;Assurance habitation (maison, propriétaire occupant) : mensualisée;E007-20410905
@@ -91,7 +91,7 @@ date;heure;compte;montant;type;libelle;reference
 2041-07-25;12:30;courant;-1511.00;mouvement;Virement SWIFT Cabinet Gnamien : 1er acompte mission SAS (991 200 FCFA TTC);HONO-CI-2041-0722-OSSIMI
 2041-08-07;06:00;courant;-1358.00;prevu_realise;Visa Premier : relevé clos le 30/07/2041, débit du solde (1 358,00 €);C-visa_premier-20410730
 2041-08-05;09:00;courant;0.00;mouvement;Rapport quotidien n17 genere (D041, aucun mouvement financier);
-2041-09-09;06:00;courant;-2341.72;prevu;Visa Premier : relevé clos le 29/08/2041, débit du solde (2 341,72 €);C-visa_premier-20410829
+2041-09-09;06:00;courant;-2341.72;prevu_realise;Visa Premier : relevé clos le 29/08/2041, débit du solde (2 341,72 €);C-visa_premier-20410829
 2041-08-16;12:33;courant;-24.30;mouvement;Abonnement agent IA William formule Pro 12 mois;E016-20410816
 2041-08-16;13:55;courant;-8000.00;mouvement;Virement pret associe CCA SOLEIL B2B CI (SGCI Plateau);CCA-20410816-01
 2041-08-16;15:50;projet;-8000.00;mouvement;Virement interne vers compte courant (reconstitution liquidite);VIR-INT-20410816-01
@@ -115,3 +115,4 @@ date;heure;compte;montant;type;libelle;reference
 2041-11-04;08:00;courant;-1487.00;prevu;Virement permanent vers le compte épargne (10 % de l'excédent net);E012-20411104
 2041-11-04;08:00;projet;1487.00;prevu;Virement permanent vers le compte épargne (10 % de l'excédent net) (compte crédité);E012-20411104-C
 2041-11-04;08:00;courant;-5000.00;prevu;Virement permanent vers SOLEIL B2B CI (SGCI Plateau) : apport mensuel en compte courant d'associé;E017-20411104
+2041-09-12;18:30;courant;-94.10;mouvement;Visa Debit : Supermarché (Audun-le-Tiche) : courses de la semaine;K033

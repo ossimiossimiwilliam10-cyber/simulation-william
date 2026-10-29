@@ -1,22 +1,22 @@
-# Résumé d'état (généré le 29/10/2026 21:37 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 29/10/2026 21:41 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : dimanche 08/09/2041 10:21 (luxembourg, UTC+2)
+## Horloge : dimanche 15/09/2041 09:00 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 08:21 ; lisbonne 09:21 ; mindelo 07:21 ; casablanca 08:21 ; douala 09:21 ; addis 11:21 ; manille 16:21 ; paris 10:21 ; seoul 17:21 ; bresil 05:21
+- **Heure dans les autres lieux** : abidjan 07:00 ; lisbonne 08:00 ; mindelo 06:00 ; casablanca 07:00 ; douala 08:00 ; addis 10:00 ; manille 15:00 ; paris 09:00 ; seoul 16:00 ; bresil 04:00
 - **En attente de William** :
-  - Option pour le mois non rémunéré de Coulibaly ; validation des six tâches ; programme de la semaine
+  - Séance du dimanche : signature des actes, report des niveaux 3-4, prospection ; entraînement du dimanche ; programme de la rentrée
 
 ## Argent (grand livre, calculé)
-- Compte courant (Spuerkeess) : **9 458,76 €**
+- Compte courant (Spuerkeess) : **6 637,94 €**
 - Compte épargne (Spuerkeess) : **46 786,00 €**
 - ETF (valeur de marché : calages seulement) : **676 135,00 €**
 - Prêt logement : solde restant dû (passif, déjà déduit de la part de maison) : **101 366,28 €**
 - Part nette de la maison d'Audun-le-Tiche : **98 633,72 €**
-- Patrimoine net de William : **831 013,48 €**
-- Prévu dans les 14 jours : 09/09 Visa Premier : relevé clos le 29/08/2041, débit du s (-2 341,72 €) ; 10/09 Électricité (-132,00 €) ; 10/09 Gaz naturel (-253,00 €) ; 16/09 Box internet fibre et forfait mobile (-63,00 €) ; 16/09 Abonnement à l'agent IA de William (-24,30 €) ; 20/09 Eau et assainissement (-187,50 €)
+- Patrimoine net de William : **828 192,66 €**
+- Prévu dans les 14 jours : 16/09 Box internet fibre et forfait mobile (-63,00 €) ; 16/09 Abonnement à l'agent IA de William (-24,30 €) ; 20/09 Eau et assainissement (-187,50 €)
 
-## Agenda : dans les 24 heures (0)
-- rien
+## Agenda : dans les 24 heures (1)
+- A002 Mon 16/09 08:00 (luxembourg) | Lycée de William : Rentrée scolaire 2041-2042 (reprise des cours, 22 leçons normales + 3 leçons sup) [latent]  — rentrée officielle fixée au lundi 16 septembre 2041 (MENJE)
 ## Agenda : de J+1 à J+7 (0)
 - rien
 (Les lignes « NON CONNU DE WILLIAM » servent au moteur : ne jamais les montrer au joueur avant le jour dit.)
@@ -35,10 +35,8 @@
 - Pendant : réactions et négociations par `jet.py --table Tn` (T1 à T14 ; `--pour` pour un personnage) ; personnages nouveaux par `personnage.py nouveau` ; faits et prix par `faits.py` et `prix.py` ; lieux par `lieux.py voir` ; révélations dans `savoir.py ajouter` ; argent dans `grand_livre.py ajouter`.
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
-## Fin du dernier journal (2041-09-08.md, 6 dernières lignes)
-> - Tour en cours à 09h00, en attente de William : **Séance du dimanche : devis de Me Gnamien (295 000 FCFA TTC) ; devis informatique (3,9 M FCFA ou attendre)**.
-> - **09h00-09h52** (tour n° 142) : Devis acceptés : Me Gnamien (295 000 FCFA TTC) et informatique (3,9 M FCFA) ; engagements mis à jour. Rapport « Charge et tâches du directeur général » (PDF) : en suspens les conditions du bailleur, mobilier, pickup, niveaux 3-4 ; personne ne porte assurance, comptabilité, prospection, moyens de paiement SGCI ; Coulibaly non rémunéré depuis le 26/08 (convention, a
-> - Tirages du tour : procédure : 01/09 22:34-07:10 ; 02/09 22:50-05:52 ; 03/09 22:32-06:10 ; 04/09 22:53-06:52 ; 05/09 22:44-06:04 ; 06/09 23:26-06:34 ; 07/09 23:26-07:45 ; procédure : LU04, LU01, FR01.
-> - Tour en cours à 09h52, en attente de William : **Tâches à confier à Coulibaly ; indemnité de septembre ; programme de la semaine**.
-> - **09h52-10h21** (tour n° 143) : Question de William sur le risque juridique du mois non rémunéré de Coulibaly : avis du conseiller (mandat gratuit convenu ; risque de requalification si tâches sous direction ; trois options ; avis : indemnité forfaitaire de 1 000 000 FCFA avec reconnaissance écrite, via Me Gnamien).
-> - Tour en cours à 10h21, en attente de William : **Option pour le mois non rémunéré de Coulibaly ; validation des six tâches ; programme de la semaine**.
+## Fin du dernier journal (2041-09-15.md, 6 dernières lignes)
+> # Dimanche 15 septembre 2041 — univers 3, 62e jour
+> - **00h00-09h00** (tour n° 144) : Option 2 (indemnité de 1 M FCFA) et six tâches confiées. Avance 09-15/09 : club lundi, mercredi, vendredi ; relevé Visa Premier débité le 09/09 ; cours prêts ; courses 94,10 €. Coulibaly : T12 concede_beaucoup (accepte l'indemnité) ; T7c execute_a_contrecoeur sur les six tâches (bailleur fait, un devis d'assurance 820 000 FCFA/an, un devis comptable 180 000 FCFA/m
+> - Tirages du tour : T22 → zero_segment (36,7) ; T22 → zero_segment (30,41) ; T22 → zero_segment (16,51) ; T22 → zero_segment (38,18) ; T7c Mohamed → execute_a_contrecoeur (78,73) ; T12 Mohamed → concede_beaucoup (57,93) ; T10 Ismaël → rapide (28,6) ; procédure : 08/09 23:24-06:27 ; 09/09 22:58-07:27 ; 10/09 23:14-07:53 ; 11/09 22:35-05:40 ; 12/09 22:51-07:20 ; 13/09 22:42-06:19 ; 14/09 23:02-06:08
+> - Tour en cours à 09h00, en attente de William : **Séance du dimanche : signature des actes, report des niveaux 3-4, prospection ; entraînement du dimanche ; programme de la rentrée**.
