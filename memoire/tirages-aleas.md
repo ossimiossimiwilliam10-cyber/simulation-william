@@ -4413,3 +4413,13 @@ Effets à jouer : A19 (dimanche 25/08 (soir)) : Un adulte attrape 2 à 4 rhumes 
 - Tirage [T17] « Brice Yao, gardien de la villa des Vallons, quand William le félicite pour son travail, lui dit qu'il joue le jeu et s'en va, de bonne humeur (19/08/2041, 10h06) » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  52.6 → **ignore** (enregistré le 29/10/2026 15:22 heure machine)
 
 - Tirage [T24b] « Chauffeur Yango commandé par la réception de la résidence pour William (villa des Vallons → résidence, 19/08/2041 10h08) » : arrive 90 / annule 10 ; modificateurs : aucun ; jet  33.4 → **arrive** (enregistré le 29/10/2026 15:22 heure machine)
+
+- Tirage [T24b] « Chauffeur Yango commandé par la réception pour William (résidence → Sofitel Hôtel Ivoire, 19/08/2041 10h34) » : arrive 90 / annule 10 ; modificateurs : aucun ; jet  24.7 → **arrive** (enregistré le 29/10/2026 15:28 heure machine)
+
+- Tirage [T24b] « Chauffeur Yango commandé par l'accueil du club pour William (Sofitel Hôtel Ivoire → résidence, 19/08/2041 13h20) » : arrive 90 / annule 10 ; modificateurs : aucun ; jet  93.5 → **annule** (enregistré le 29/10/2026 15:28 heure machine)
+
+- Tirage [T7c] « Mohamed Coulibaly, à qui le directeur général virtuel relaie (courriel du projet, 10h11) la demande de William : régler l'accès de William à la villa des Vallons auprès du gardien et de sa société, liste des personnes autorisées, clés (19/08/2041, lu vers 12h20) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  79.8 → **execute_a_contrecoeur** (enregistré le 29/10/2026 15:28 heure machine)
+
+- Procédure « Course Yango de retour (Sofitel → résidence, 13h15) : annulation du premier chauffeur (T24b annule) » : après 4 min [PROCÉDURE : T24b annule : délai tiré entre 2 min et l'attente estimée (5 min), comme courses.py] (enregistré le 29/10/2026 15:29 heure machine)
+
+- Procédure « William : réveil de la sieste annoncée (« environ 3 à 4 heures ») » : endormi 14:12, réveil 18:07 (235 min) [PROCÉDURE : latence d'endormissement 8 à 20 min ; durée tirée uniformément entre 3 et 4 heures (intention déclarée du joueur)] (enregistré le 29/10/2026 15:29 heure machine)

@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-08-19 10:17
+horloge: 2041-08-19 18:07
 fuseau: abidjan
-lieu: Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-tour: 109
-attente: Mohamed Coulibaly n'a pas répondu (courriel du directeur général virtuel à 10h11) ; rapport final ce soir à 20h00
+lieu: Abidjan (Cocody Deux-Plateaux), résidence hôtelière (chambre, réveil de la sieste)
+tour: 110
+attente: Message de Coulibaly (12h25 : gardien du bailleur, inscription demain matin) ; message de Lenny Nguyen (17h10 : retour au club) ; rapport final ce soir à 20h00

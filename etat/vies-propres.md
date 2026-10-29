@@ -30,6 +30,13 @@
 - **Horaires** : règle « bureau », fuseau luxembourg, décalage +3 min ; travail 09:03-17:33 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:33-07:03
 - **Derniers événements** : 22/07 petit_evenement (bouchons sur l'A4 et la frontière); 30/07 petit_evenement (achat (cadeau d'anniversaire)); 07/08 sans_histoire; 18/08 sans_histoire; 23/08 sans_histoire
 
+### Lenny Nguyen (membre régulier du club (sparring))
+- **Lien avec William** : contact_recent (whatsapp)
+- **Objectif** : rembourser ses dettes ; **souci** : dettes de jeu ; **foyer** : vit seul(e)
+- **Secret (moteur seulement)** : a un problème d'alcool qu'il cache (gravité 2)
+- **Horaires** : règle « bureau », fuseau luxembourg, décalage +18 min ; travail 09:18-17:48 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:48-07:18
+- **Derniers événements** : 27/07 sans_histoire; 04/08 sans_histoire; 06/08 sans_histoire; 15/08 coup_dur (dettes de jeu); 23/08 coup_dur (panne, coupure ou souci de logement)
+
 ### Mariana Oliveira (membre régulière du club (sparring))
 - **Lien avec William** : aucun (whatsapp)
 - **Objectif** : obtenir la nationalité luxembourgeoise ; **souci** : contrat de travail qui se termine bientôt ; **foyer** : en couple, sans enfant
@@ -115,7 +122,7 @@
 - **Derniers événements** : 24/07 coup_dur (malade (grippe)); 03/08 petit_evenement (service rendu ou reçu); 09/08 sans_histoire; 13/08 sans_histoire; 23/08 sans_histoire
 
 ### Mohamed Coulibaly (répondant à l'annonce)
-- **Lien avec William** : aucun (whatsapp)
+- **Lien avec William** : contact_recent (whatsapp)
 - **Objectif** : acheter un logement (ou un plus grand) ; **souci** : contrat de travail qui se termine bientôt ; **foyer** : en couple, avec enfants
 - **Secret (moteur seulement)** : —
 - **Horaires** : règle « bureau_abidjan », fuseau abidjan, décalage -21 min ; travail 07:39-17:09 (lun, mar, mer, jeu, ven), trajet 50 min ; sommeil 23:09-05:39
@@ -343,4 +350,25 @@
 - **Objectif** : se faire une place dans le milieu (club, lycée, quartier) ; **souci** : fin de mois difficile, découvert bancaire ; **foyer** : en couple, sans enfant
 - **Secret (moteur seulement)** : a fait une demande de crédit refusée (gravité 1)
 - **Horaires** : règle « chauffeur », fuseau abidjan, décalage +10 min ; travail 06:10-18:10 (lun, mar, mer, jeu, ven, dim), trajet 20 min ; sommeil 22:10-05:10
+- **Derniers événements** : —
+
+### Hervé Ouattara (chauffeur Yango (résidence → Sofitel Hôtel Ivoire))
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : finir de rénover sa maison ; **souci** : coupures de courant et facture d'électricité lourde pour son activité ; **foyer** : vit seul(e)
+- **Secret (moteur seulement)** : a menti sur son diplôme ou son expérience (gravité 2)
+- **Horaires** : règle « chauffeur », fuseau abidjan, décalage -5 min ; travail 05:55-17:55 (lun, mar, jeu, ven, sam, dim), trajet 20 min ; sommeil 21:55-04:55
+- **Derniers événements** : —
+
+### Nathalie Cissé (hôtesse d'accueil du club de sport du Sofitel Hôtel Ivoire)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : avoir un enfant ; **souci** : loyer qui augmente ; **foyer** : en couple, enfants en bas âge
+- **Secret (moteur seulement)** : se renseigne pour partir s'installer ailleurs (gravité 1)
+- **Horaires** : règle « bureau_abidjan », fuseau abidjan, décalage +10 min ; travail 08:10-17:40 (lun, mar, mer, jeu, ven), trajet 50 min ; sommeil 23:40-06:10
+- **Derniers événements** : —
+
+### Yannick Kouamé (chauffeur Yango (Sofitel Hôtel Ivoire → résidence))
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : acheter un logement (ou un plus grand) ; **souci** : embouteillages et trajets de deux heures entre Abidjan et son travail ; **foyer** : en couple, avec enfants
+- **Secret (moteur seulement)** : a une liaison (gravité 3)
+- **Horaires** : règle « chauffeur », fuseau abidjan, décalage +9 min ; travail 06:09-18:09 (lun, mar, mer, ven, sam, dim), trajet 20 min ; sommeil 22:09-05:09
 - **Derniers événements** : —
