@@ -58,42 +58,75 @@ def fichiers_md():
             yield p
 
 
+def annee_proche(ligne, pos):
+    """Année (204x) d'une date écrite sans année : la dernière écrite AVANT elle sur la ligne, sinon une écrite juste après (80 caractères)."""
+    avant = re.findall(r"\b(204[0-9])\b", ligne[:pos])
+    if avant:
+        return int(avant[-1])
+    apres = re.search(r"\b(204[0-9])\b", ligne[pos:pos + 80])
+    return int(apres.group(1)) if apres else None
+
+
+def annee_horloge():
+    try:
+        m = re.search(r"horloge:\s*(\d{4})", (RACINE / "etat" / "horloge.txt").read_text(encoding="utf-8"))
+        return int(m.group(1)) if m else None
+    except OSError:
+        return None
+
+
+def verifier_date(jour_semaine, j, mois, annees):
+    """-> (None, date) si le jour de la semaine colle avec l'une des années candidates ; sinon (message, date de la première)."""
+    premiere = None
+    for an in annees:
+        try:
+            d = dt.date(an, mois, j)
+        except ValueError:
+            continue
+        premiere = premiere or d
+        if d.weekday() == jour_semaine:
+            return None, d
+    if premiere is None:
+        return "date impossible", None
+    return "jour faux", premiere
+
+
 def controle_jours():
+    """Jours de la semaine. Une date écrite AVEC son année (ou une année juste avant ou après sur la ligne) est vérifiée contre cette année ;
+    sans année, elle est acceptée si elle colle avec l'une des années plausibles (nom du fichier, ligne, début du fichier, horloge) :
+    29/10/2026, faux positifs « mercredi 21 août … premier trimestre 2042 »."""
     erreurs, total = [], 0
+    an_horloge = annee_horloge()
     for p in fichiers_md():
         if any(x.startswith("conception-") for x in p.parts):
             continue  # notes de recherche du 11/10/2026 : dates réelles de 2026, pas des dates du monde
         contenu = p.read_text(encoding="utf-8")
         m_an = re.search(r"\b(204[0-9])\b", p.name) or re.search(r"\b(204[0-9])\b", contenu[:500])
         annee_fichier = int(m_an.group(1)) if m_an else 2040
+        m_nom = re.search(r"\b(204[0-9])\b", p.name)
+        annee_nom = int(m_nom.group(1)) if m_nom else None
         for n, ligne in enumerate(contenu.splitlines(), 1):
             if ligne.lstrip().startswith(">"):
                 continue  # citation (message dicté du joueur, extrait) : pas un fait du moteur
             m_ligne_an = re.search(r"\b(204[0-9])\b", ligne)
             annee_contexte = int(m_ligne_an.group(1)) if m_ligne_an else annee_fichier
+            plausibles = [a for a in dict.fromkeys((annee_nom, annee_contexte, annee_fichier, an_horloge)) if a]
+            dates = []
             for m in MOTIF_LETTRES.finditer(ligne):
-                jour_l, j_l, mois_l, annee_l = m.group(1).lower(), m.group(2).lower(), m.group(3).lower(), m.group(4)
-                try:
-                    d = dt.date(int(annee_l or annee_contexte), MOIS_NOMS[mois_l], 1 if j_l == "1er" else int(j_l))
-                except ValueError:
-                    erreurs.append(f"{p.relative_to(RACINE)}:{n} date impossible « {m.group(0)} »")
-                    continue
-                total += 1
-                if JOURS[jour_l[:3]] != d.weekday():
-                    erreurs.append(f"{p.relative_to(RACINE)}:{n} « {m.group(0)} » : {d:%d/%m/%Y} est un {NOMS[d.weekday()]}")
+                j_l, mois_l = m.group(2).lower(), m.group(3).lower()
+                dates.append((m, JOURS[m.group(1).lower()[:3]], 1 if j_l == "1er" else int(j_l), MOIS_NOMS[mois_l], m.group(4)))
             for m in MOTIF.finditer(ligne):
-                jour, j, mois, annee = m.group(1).lower(), int(m.group(2)), int(m.group(3)), int(m.group(4) or annee_contexte)
-                try:
-                    d = dt.date(annee, mois, j)
-                except ValueError:
+                dates.append((m, JOURS[m.group(1).lower()[:3]], int(m.group(2)), int(m.group(3)), m.group(4)))
+            for m, js, j, mois, an_ecrit in dates:
+                proche = int(an_ecrit) if an_ecrit else annee_proche(ligne, m.start())
+                annees = [proche] if proche else plausibles
+                probleme, d = verifier_date(js, j, mois, annees)
+                if probleme == "date impossible":
                     erreurs.append(f"{p.relative_to(RACINE)}:{n} date impossible « {m.group(0)} »")
                     continue
                 total += 1
-                attendu = d.weekday()
-                lu = JOURS[jour[:3]]
-                # « mar. » est ambigu avec « mars » mais le motif exige une date derrière : on le garde
-                if lu != attendu:
-                    erreurs.append(f"{p.relative_to(RACINE)}:{n} « {m.group(0)} » : {d:%d/%m/%Y} est un {NOMS[attendu]}")
+                if probleme:
+                    erreurs.append(f"{p.relative_to(RACINE)}:{n} « {m.group(0)} » : {d:%d/%m/%Y} est un {NOMS[d.weekday()]}")
     return erreurs, total
 
 
