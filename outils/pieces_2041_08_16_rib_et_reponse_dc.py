@@ -159,3 +159,4 @@ def generer_courriel_reponse_coulibaly():
 if __name__ == "__main__":
     generer_attestation_rib_sgci()
     generer_courriel_reponse_coulibaly()
+

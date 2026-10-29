@@ -93,3 +93,4 @@ date;heure;compte;montant;type;libelle;reference
 2041-08-05;09:00;courant;0.00;mouvement;Rapport quotidien n17 genere (D041, aucun mouvement financier);
 2041-09-09;06:00;courant;-137.40;prevu;Visa Premier : relevé clos le 29/08/2041, débit du solde (137,40 €);C-visa_premier-20410829
 2041-08-16;12:33;courant;-24.30;mouvement;Abonnement agent IA William formule Pro 12 mois;E016-20410816
+2041-08-16;13:55;courant;-8000.00;mouvement;Virement pret associe CCA SOLEIL B2B CI (SGCI Plateau);CCA-20410816-01
