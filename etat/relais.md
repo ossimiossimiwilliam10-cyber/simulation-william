@@ -1,55 +1,62 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 29/10/2026 15:18 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 29/10/2026 15:24 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : lundi 19 août 2041, 10h05 (abidjan) ; tour n° 108
-- Lieu de William : Abidjan (Cocody Deux-Plateaux), devant la villa QG des Vallons
-- En attente de William : Le gardien n'ouvrira que sur confirmation de Mohamed Coulibaly ; appel de William à Coulibaly tombé sur la messagerie ; rapport final ce soir à 20h00
+- Horloge : lundi 19 août 2041, 10h17 (abidjan) ; tour n° 109
+- Lieu de William : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
+- En attente de William : Mohamed Coulibaly n'a pas répondu (courriel du directeur général virtuel à 10h11) ; rapport final ce soir à 20h00
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 108 ; horloge 19/08/2041 10:02 -> 19/08/2041 10:05 ; enregistré le 29/10/2026 15:18 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 109 ; horloge 19/08/2041 10:05 -> 19/08/2041 10:17 ; enregistré le 29/10/2026 15:24 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je suis William Ossimi, le fondateur de la société. J'imagine que Koulibaly ne vous a pas parlé de moi. Je peux l'appeler pour qu'il vous explique la situation. Et je téléphone du coup à Koulibaly pour qu'il puisse expliquer la situation du coup au gardien. Mais je prends bien la situation, hein. Ça me dérange absolument pas. Toujours dans la bonne humeur.
+> Je félicite le gardien en lui disant qu'il fait du bon boulot. Je lui dis que bon, ok, je joue le jeu. Vu qu'il n'a pas décroché, bah, je vais rentrer. Je retourne à l'hôtel. Mais je décide de... J'écris à mon équipe virtuelle pour qu'elle informe Koulibaly de la situation et qu'il règle cela. Et que je trouve pas normal que... Bien que je ne me sois pas présenté, je trouve pas normal que des intermédiaires comme cela ne me connaissent pas. Parce que si j'avais un truc d'urgent à faire à la villa, là, j'aurais été retardé. Je lui dis que ça me dérange absolument pas, que je comprends la situation et que c'est même logique.
 
 ## Texte envoyé au joueur
 
-**LUNDI 19 AOÛT 2041 — 10h05 — Abidjan, Cocody Deux-Plateaux, devant la villa des Vallons**
+**LUNDI 19 AOÛT 2041 — 10h17 — Abidjan, Cocody Deux-Plateaux, résidence hôtelière**
 
-Tu lui dis qui tu es, en souriant, sur le ton de quelqu'un que la situation amuse plus qu'elle ne l'agace.
+Tu t'approches de la grille et tu lances au gardien qu'il fait du bon boulot, que tu joues le jeu et que tu rentres.
 
-Le gardien t'écoute jusqu'au bout sans t'interrompre. Ses yeux passent de ton visage au téléphone que tu sors de ta poche, puis reviennent sur toi. Il hoche la tête une fois.
+Il lève à peine les yeux du cahier rouge. Un « mm » du bout des lèvres, un demi-hochement de tête, et le stylo reprend sa ligne. Le talkie-walkie grésille de nouveau à sa ceinture ; il ne le touche pas.
 
-« D'accord, monsieur. » Il ne bouge pas la main vers le cadenas. « Si lui il me dit, j'ouvre. Appelez-le, y a pas de problème. »
+Tu appelles la réception de la résidence. La même voix que ce matin te répond, note l'adresse des Vallons et te rappelle trente secondes plus tard : un Yango arrive dans quatre minutes, la course sera ajoutée à ta note.
 
-Tu composes le numéro de Mohamed Coulibaly. Ça sonne, une fois, deux fois, longuement. Le gardien attend de l'autre côté des barreaux, les mains toujours croisées dans le dos, le regard posé sur un point de la rue derrière toi. Au bout de la rue, un gamin en short passe sur un vélo trop grand pour lui, une boule de pain sous le bras, et fait tinter sa sonnette pour rien. Le soleil perce entre deux nuages et la tôle du portail commence à chauffer.
+En attendant sous le manguier, tu écris à ton directeur général virtuel :
 
-Après une longue série de sonneries, une voix enregistrée t'annonce en français que ton correspondant ne répond pas et te propose de laisser un message.
+« Je suis passé à la villa des Vallons : le gardien n'a pas voulu m'ouvrir sans la confirmation de Coulibaly, et Coulibaly ne décroche pas. Informe-le de la situation et qu'il règle ça. Même si je ne m'étais pas annoncé, je ne trouve pas normal que les intermédiaires comme le gardien ne me connaissent pas : si j'avais eu quelque chose d'urgent à faire à la villa, j'aurais été retardé. Dis-lui aussi que ça ne me dérange absolument pas, que je comprends la situation et que c'est même logique. »
 
-Le gardien a entendu. Il ne dit rien. Il fait un petit geste du menton vers l'ombre d'un manguier qui déborde du mur, à deux mètres du portail, puis il retourne s'asseoir sous l'auvent de la guérite, à portée de voix. Il ne reprend pas son téléphone : il ouvre le cahier rouge sur ses genoux et y note quelque chose, en jetant de temps en temps un regard vers toi.
+La voiture tourne au coin de la rue à 10h11 : une Toyota Yaris blanche, l'aile avant droite éraflée, le téléphone du chauffeur fixé sur le tableau de bord avec l'application ouverte. Le chauffeur se penche par la vitre baissée pour vérifier ton prénom. Un jeune homme d'environ vingt-cinq ans, un mètre soixante-quatre à peu près, de corpulence moyenne, un peu enfoncé dans son siège. Visage ovale aux joues pleines, peau brun foncé, des lunettes à monture noire rectangulaire qui glissent sur son nez et qu'il remonte d'un doigt toutes les trente secondes. Une fine moustache, les cheveux ras, dégradés sur les côtés. Il porte un polo jaune délavé par les lessives, un jean et des sandales en plastique ; ses mains restent posées sur le volant même à l'arrêt.
 
-Il est 10h05.
+Il n'a pas attendu que tu sois assis pour parler. La chaleur qui revient « déjà, à dix heures », le carburant qui a « encore pris » à la pompe, la commission de l'application qui lui mange la course, le client de sept heures qui l'a fait attendre un quart d'heure au Plateau sans s'excuser. Il conduit vite et freine tard. Sur le boulevard Latrille, il double un gbaka bondé par la droite en marmonnant contre son chauffeur. L'habitacle sent le désodorisant à la vanille et le plastique chauffé.
+
+À 10h13, ton téléphone vibre. Ton directeur général virtuel :
+
+« Reçu à 10h08. J'ai écrit à Mohamed Coulibaly à 10h11, depuis l'adresse du projet : ton passage aux Vallons, la grille fermée, ton appel resté sans réponse. Je lui demande trois choses : confirmer ton accès au gardien et à sa société de gardiennage ; t'inscrire en tête de la liste des personnes autorisées, avec une photo ; te dire qui détient les clés de la villa. J'ai gardé ton ton : aucun reproche au gardien, il a appliqué sa consigne. Un point que je ne peux pas trancher seul : aucun contrat de gardiennage n'est passé par moi, je ne sais pas si l'agent est payé par le bailleur ou par la société. Je pose la question dans le même courriel. Je te préviens dès qu'il répond ; sinon, ce sera dans le rapport de 20h00. »
+
+La Yaris s'arrête devant l'entrée de la résidence à 10h17. Le chauffeur te lance « Bonne journée, patron ! », puis file à la réception se faire régler. La course, 1 279 FCFA, rejoint celle de ce matin sur ta note. Dans le hall, la fraîcheur du carrelage tombe d'un coup sur tes épaules ; le groupe électrogène s'est tu, le courant est revenu.
+
+Il est 10h17.
 
 ---
 
 **Réponses attendues**
-- **Le gardien de la villa** : il n'ouvrira que si Mohamed Coulibaly le lui confirme ; il est retourné s'asseoir près de la grille.
-- **Mohamed Coulibaly** : ton appel est tombé sur sa messagerie.
-- **Directeur général virtuel** : le rapport final, ce soir à 20h00.
+- **Mohamed Coulibaly** : ton appel est resté sans réponse ; ton directeur général virtuel lui a écrit à 10h11.
+- **Directeur général virtuel** : il te prévient dès que Coulibaly répond ; sinon, le rapport final ce soir à 20h00.
 
 **À faire / à fournir avant le tour suivant**
 - Aucune démarche en cours.
 
 **Quêtes secondaires**
 - Dépouillement des devis d'aménagement des Vallons : mercredi 21 août à 16h00.
-- Départ d'Abidjan le dimanche 25 août : règlement de la résidence à midi (1 690 €, plus les extras portés sur ta note), vol Air France AF703 vers Paris à 22h15.
+- Départ d'Abidjan le dimanche 25 août : règlement de la résidence à midi (1 690 €, plus les extras portés sur ta note : deux courses Yango ce jour), vol Air France AF703 vers Paris à 22h15.
 - Fatoumata Gnagne : rien de nouveau depuis le déjeuner de l'Assomption.
 
 Que veux-tu faire ?
@@ -68,7 +75,7 @@ Que veux-tu faire ?
 | 5 | ~~Validation des recrutements de direction (DT & DC)~~ | **CLOS le 03/08 09h30** : DT Éric Koffi Yao validé (84/100, D038 émis le 02/08, accord pré-contrat confirmé le 03/08 par Coulibaly) ; DC Stéphane Bamba rejeté (74/100 <= 80), sourcing B2B relancé par Coulibaly. | Clos |
 | 6 | ~~**Statuts de la SASU : William « Associé Unique / Président » (audit du 29/10/2026)** (19/08 09h00)~~ **CLOS le 19/08 09h00** : SANS OBJET (vérifié le 29/10/2026) : les actes signés le 13/08/2041 chez Me Gnamien nomment Mohamed Coulibaly Président-Directeur Général ; William est seulement associé unique fondateur. L'alerte de l'audit reposait sur le projet de statuts du 29/07 (piège 101). | Les statuts préparés par Me Gnamien (29/07/2041) font de William l'associé unique ET le Président de la SASU. Or F084 : un fonctionnaire luxembourgeois peut détenir des parts sans demande préalable tant qu'il n'exerce AUCUN mandat exécutif ; la présidence d'une SAS en est un. À jouer au prochain tour : le pôle juridique virtuel le signale dans la rubrique « affirmations vérifiées » du rapport (contredit F084 et le principe d'associé non-gérant, dossier article 14 en cours au MENJE) et pose une question fermée à William (garder la présidence et la déclarer au MENJE, ou confier la présidence à un tiers, par exemple Mohamed Coulibaly, par modification des statuts : coût et délai chez Me Gnamien). William décide ; rien n'est changé à sa place | prochain rapport de 20h00 |
 | 7 | **Revue du lundi n° 5 : P32 à P36 sont des décisions d'affaires, pas des mécanismes du simulateur** (19/08 09h00) | Audit du 29/10/2026 : la revue doit proposer des améliorations du SIMULATEUR (aléas, règles, outils, immersion) que l'utilisateur valide ; P32 à P36 décrivent des actions de l'entreprise (devis, abonnements CIE et SODECI, recrutements, rumeurs, cellule d'étude). Les présenter à William comme décisions d'affaires ; à la prochaine revue, 3 à 5 vraies propositions de mécanismes | revue du lundi 26/08 |
-| 8 | **Note de la résidence d'Abidjan (extras à régler au départ)** (19/08 09h00) | Course Yango du 19/08/2041 (résidence → villa des Vallons, 1 600 FCFA ≈ 2,44 €) commandée par la réception et portée sur la note ; à ajouter au règlement du 25/08 à 12h00 (A111), avec cartes.py payer | 25/08/2041 12h00 |
+| 8 | **Note de la résidence d'Abidjan (extras à régler au départ)** (19/08 09h00) | Course Yango du 19/08/2041 (résidence → villa des Vallons, 1 600 FCFA ≈ 2,44 €) commandée par la réception et portée sur la note ; à ajouter au règlement du 25/08 à 12h00 (A111), avec cartes.py payer ; *(19/08 10h17) (19/08 10h17) deuxième course Yango (villa des Vallons → résidence, 1 279 FCFA ≈ 1,95 €) commandée par la réception et portée sur la note ; total des extras Yango du jour : 2 879 FCFA* | 25/08/2041 12h00 |
 
 ## Notes de passation (etat/relais-notes.md)
 - ~~(11/10/2026 22:30, Claude Opus 5.5) Redémarrage de l'univers 2 redaté au samedi 14/07/2040, 08h37 (premier vrai jour de vacances,
@@ -165,7 +172,7 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 2dfe6a5 ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : bbcfc64 ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 16 fichier(s) modifié(s)

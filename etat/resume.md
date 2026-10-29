@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 29/10/2026 15:18 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 29/10/2026 15:24 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : lundi 19/08/2041 10:05 (abidjan, UTC+0)
-- **Lieu de William** : Abidjan (Cocody Deux-Plateaux), devant la villa QG des Vallons
-- **Heure dans les autres lieux** : lisbonne 11:05 ; luxembourg 12:05 ; mindelo 09:05 ; casablanca 11:05 ; douala 11:05 ; addis 13:05 ; manille 18:05 ; paris 12:05 ; seoul 19:05 ; bresil 07:05
+## Horloge : lundi 19/08/2041 10:17 (abidjan, UTC+0)
+- **Lieu de William** : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
+- **Heure dans les autres lieux** : lisbonne 11:17 ; luxembourg 12:17 ; mindelo 09:17 ; casablanca 11:17 ; douala 11:17 ; addis 13:17 ; manille 18:17 ; paris 12:17 ; seoul 19:17 ; bresil 07:17
 - **En attente de William** :
-  - Le gardien n'ouvrira que sur confirmation de Mohamed Coulibaly ; appel de William à Coulibaly tombé sur la messagerie ; rapport final ce soir à 20h00
+  - Mohamed Coulibaly n'a pas répondu (courriel du directeur général virtuel à 10h11) ; rapport final ce soir à 20h00
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 268,29 €**
@@ -37,9 +37,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-08-19.md, 6 dernières lignes)
-> - **10h00-10h02** (tour n° 107) : William appelle le gardien à travers la grille ; Brice Yao (T17 poli_bref) vient au portail sans l'ouvrir et lui demande qui il vient voir. Hors fiction : P37 à P41 validées par l'utilisateur et installées (monde_social, lenteur, trésorerie, concurrents tirés, courses et FCFA à Abidjan, aléas A01, A04-A06, A37-A39 ; correction U3-23).
-> - Tirages du tour : T17 Brice → poli_bref (15,75) ; T22 → zero_segment (31,94) ; T22 → un_segment (62,53) ; T22 → un_segment (60,57) ; T22 → un_segment (75,63).
-> - Tour en cours à 10h02, en attente de William : **Le gardien de la villa des Vallons attend derrière le portail fermé que William dise qui il vient voir ; rapport final ce soir à 20h00**.
 > - **10h02-10h05** (tour n° 108) : William se présente au gardien comme le fondateur (T17 poli_bref : il ouvrira si Coulibaly confirme) ; appel à Mohamed Coulibaly sans réponse (T10 dans_la_journee, rappel caché A113 à 12h22). Hors fiction : résidence de Coulibaly recalée sur Abidjan (routines à l'heure d'Abidjan).
 > - Tirages du tour : T22 → zero_segment (31,94) ; T22 → un_segment (62,53) ; T22 → un_segment (60,57) ; T22 → un_segment (75,63) ; T17 Brice → poli_bref (17,32) ; T10 Mohamed → dans_la_journee (75,31) ; procédure Mohamed : 19/08 12:22 (abidjan).
 > - Tour en cours à 10h05, en attente de William : **Le gardien n'ouvrira que sur confirmation de Mohamed Coulibaly ; appel de William à Coulibaly tombé sur la messagerie ; rapport final ce soir à 20h00**.
+> - **10h05-10h17** (tour n° 109) : William félicite le gardien (T17 ignore : à peine un « mm ») et rentre en Yango commandé par la réception (T24b arrive ; Wilfried Boni, tiré ; 1 279 FCFA sur la note). Message au directeur général virtuel : informer Coulibaly, intermédiaires qui ne le connaissent pas ; courriel du projet à Coulibaly à 10h11 (accès, liste des personnes autorisées, clés, qui paie le
+> - Tirages du tour : T17 Brice → ignore (52,6) ; T24b → arrive (33,37).
+> - Tour en cours à 10h17, en attente de William : **Mohamed Coulibaly n'a pas répondu (courriel du directeur général virtuel à 10h11) ; rapport final ce soir à 20h00**.

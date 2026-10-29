@@ -337,3 +337,10 @@
 - **Secret (moteur seulement)** : doit de l'argent à un proche (gravité 1)
 - **Horaires** : règle « sans_travail », fuseau abidjan, décalage +14 min ; pas d'horaires de travail ; sommeil 23:14-07:14
 - **Derniers événements** : —
+
+### Wilfried Boni (chauffeur Yango (course commandée par la résidence))
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : se faire une place dans le milieu (club, lycée, quartier) ; **souci** : fin de mois difficile, découvert bancaire ; **foyer** : en couple, sans enfant
+- **Secret (moteur seulement)** : a fait une demande de crédit refusée (gravité 1)
+- **Horaires** : règle « chauffeur », fuseau abidjan, décalage +10 min ; travail 06:10-18:10 (lun, mar, mer, jeu, ven, dim), trajet 20 min ; sommeil 22:10-05:10
+- **Derniers événements** : —

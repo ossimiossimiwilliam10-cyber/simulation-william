@@ -4409,3 +4409,7 @@ Effets à jouer : A19 (dimanche 25/08 (soir)) : Un adulte attrape 2 à 4 rhumes 
 - Tirage [T10] « Mohamed Coulibaly décroche (ou rappelle) quand William l'appelle depuis le portail de la villa des Vallons (19/08/2041, 10h04 ; au travail, patron en attente devant le siège) » : immediat 19 / rapide 33 / dans_l_heure 15 / dans_la_journee 12 / le_soir_ou_lendemain 20 / plus_tard_ou_jamais 1 ; modificateurs : M70, M71, M73 ; jet  75.3 → **dans_la_journee** (enregistré le 29/10/2026 15:16 heure machine)
 
 - Procédure « Mohamed Coulibaly : heure du rappel après l'appel manqué de William (T10 dans_la_journee, 1 à 6 h, au travail) » : 19/08 12:22 (abidjan) [PROCÉDURE : T10 dans_la_journee : minute tirée uniformément dans la fenêtre de 1 à 6 heures] (enregistré le 29/10/2026 15:17 heure machine)
+
+- Tirage [T17] « Brice Yao, gardien de la villa des Vallons, quand William le félicite pour son travail, lui dit qu'il joue le jeu et s'en va, de bonne humeur (19/08/2041, 10h06) » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  52.6 → **ignore** (enregistré le 29/10/2026 15:22 heure machine)
+
+- Tirage [T24b] « Chauffeur Yango commandé par la réception de la résidence pour William (villa des Vallons → résidence, 19/08/2041 10h08) » : arrive 90 / annule 10 ; modificateurs : aucun ; jet  33.4 → **arrive** (enregistré le 29/10/2026 15:22 heure machine)
