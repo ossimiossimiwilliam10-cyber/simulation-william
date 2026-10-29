@@ -247,6 +247,13 @@
 - **Horaires** : règle « commerce_abidjan », fuseau abidjan, décalage -9 min ; travail 08:21-18:51 (lun, mar, mer, jeu, sam, dim), trajet 30 min ; sommeil 22:51-05:51
 - **Derniers événements** : 22/08 avancee_objectif (démarche pour son objectif : voyager loin une fois dans sa vie)
 
+### Brice Yao (agent de sécurité privée)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : préparer une compétition ou un examen ; **souci** : clients qui paient avec des mois de retard ; **foyer** : en couple, sans enfant
+- **Secret (moteur seulement)** : a gonflé son expérience ou son diplôme sur son CV (gravité 2)
+- **Horaires** : règle « bureau », fuseau abidjan, décalage +16 min ; travail 09:16-17:46 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:46-07:16
+- **Derniers événements** : 23/08 avancee_objectif (rendez-vous obtenu ou tenu pour son objectif : préparer une compétition ou un examen)
+
 ### Christelle Kouamé (escort indépendante (annonce BabiEscort))
 - **Lien avec William** : aucun (whatsapp)
 - **Objectif** : se faire une place dans le milieu (club, lycée, quartier) ; **souci** : démarche administrative bloquée (titre de séjour, permis, impôts) ; **foyer** : vit seul(e)
@@ -304,12 +311,8 @@
 - **Derniers événements** : 23/08 sans_histoire
 
 ### Éric Koffi Yao (directeur technique de Soleil B2B CI (ingénieur, recruté le 02/08/2041))
-- **Objectif du moment** : passer plus de temps avec ses enfants.
-- **Souci en cours** : procédure de divorce.
-- **Alliés et tensions** : à établir au fil du jeu.
-- **Agenda de la semaine** : à établir.
-- **Secret** : a une condamnation ancienne (conduite en état d'ivresse) (tiré à la création).
-- **Modificateurs T11** : aucun
-- **Modificateurs T13** : —
-- **Modificateurs T14** : —
-
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : passer plus de temps avec ses enfants ; **souci** : procédure de divorce ; **foyer** : parent isolé
+- **Secret (moteur seulement)** : —
+- **Horaires** : règle « bureau_abidjan », fuseau abidjan, décalage +12 min ; travail 08:12-17:42 (lun, mar, mer, jeu, ven), trajet 50 min ; sommeil 23:42-06:12
+- **Derniers événements** : —

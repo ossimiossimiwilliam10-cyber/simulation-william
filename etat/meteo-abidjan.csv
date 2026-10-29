@@ -1,0 +1,6 @@
+date;type;tmin;tmax;pluie_mm;orage;soleil_h;brouillard;description;anomalie;tire_le
+2041-08-19;nuageux;23.1;29.1;0.0;non;4.7;non;"Ciel partagé ; 29 °C au plus chaud, 23 °C au petit matin";0.02;2026-10-29T14:25
+2041-08-20;nuageux;23.0;27.5;0.0;non;5.1;non;"Ciel partagé ; 27 °C au plus chaud, 23 °C au petit matin";-1.61;2026-10-29T14:25
+2041-08-21;nuageux;21.2;27.8;0.0;non;5.1;non;"Ciel partagé ; 28 °C au plus chaud, 21 °C au petit matin";-1.32;2026-10-29T14:25
+2041-08-22;nuageux;20.4;26.2;0.0;non;4.8;non;"Ciel partagé ; 26 °C au plus chaud, 20 °C au petit matin";-2.89;2026-10-29T14:25
+2041-08-23;nuageux;24.0;27.6;0.0;non;5.4;non;"Ciel partagé ; 28 °C au plus chaud, 24 °C au petit matin";-1.59;2026-10-29T14:28

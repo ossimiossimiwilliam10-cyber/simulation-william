@@ -2,3 +2,4 @@ station;nom;fuseaux;climat;parametres;etat;lieu_soleil;lieu_affichage;source
 findel;Luxembourg-Findel;luxembourg,paris;climat-findel.csv;meteo-parametres.csv;meteo.csv;luxembourg;audun;MeteoLux, normales 1991-2020
 manille;Manille (Port Area);manille;climat-manille.csv;meteo-parametres-manille.csv;meteo-manille.csv;manille;manille;PAGASA, normales 1991-2020 (pluies) · autres paramètres : estimation (voir climat-manille.csv)
 seoul;Séoul;seoul;climat-seoul.csv;meteo-parametres-seoul.csv;meteo-seoul.csv;seoul;seoul;KMA, normales 1991-2020 de la station de Séoul : valeurs approchées (voir climat-seoul.csv)
+abidjan;Abidjan (Port-Bouët);abidjan;climat-abidjan.csv;meteo-parametres-abidjan.csv;meteo-abidjan.csv;abidjan;abidjan;SODEXAM : valeurs approchées (voir climat-abidjan.csv)

@@ -4385,3 +4385,11 @@ Effets à jouer : A19 (dimanche 25/08 (soir)) : Un adulte attrape 2 à 4 rhumes 
 - Tirage [T14] « Initiative d'un proche envers William pour la semaine du 19 aout » : aucune 63 / message_routine 12 / demande 10 / information 8 / partage_personnel 4 / plainte_ou_tension 3 ; modificateurs : aucun ; jet  81.5 → **demande** (enregistré le 29/10/2026 12:38 heure machine)
 
 - Actualités de la semaine du 19/08/2041 : modèles LU02, LU04, FR02 [PROCÉDURE : outils/actualites.py] (enregistré le 29/10/2026 12:40 heure machine)
+
+- Tirage [T24b] « Chauffeur Yango commandé par la réception : résidence de Cocody Deux-Plateaux → villa des Vallons (A33) » : arrive 90 / annule 10 ; modificateurs : aucun ; jet  41.9 → **arrive** (enregistré le 29/10/2026 14:26 heure machine)
+
+- Jet « Mohamed Coulibaly se trouve à la villa des Vallons ce lundi vers 10h (sans rendez-vous prévu ; il prépare le dépouillement des devis) » : probabilité 30 %, jet  72.9 → **NON** (enregistré le 29/10/2026 14:26 heure machine)
+
+- Message spontané d'un proche, semaine du 2041-08-19 : Lenny Nguyen (membre régulier du club (sparring)) écrira le 19/08/2041 vers 19:10 (heure de l'expéditeur) · tiré parmi 38 personnes de l'entourage, pondérées par proximité (enregistré le 29/10/2026 14:26 heure machine)
+
+- Tirage [T17] « Brice Yao, gardien de la villa des Vallons, voit arriver un inconnu (William) à la grille sans consigne reçue à son sujet » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  61.3 → **ignore** (enregistré le 29/10/2026 14:27 heure machine)

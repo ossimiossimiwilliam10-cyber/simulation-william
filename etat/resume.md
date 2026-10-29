@@ -1,24 +1,25 @@
-# Résumé d'état (généré le 29/10/2026 12:43 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 29/10/2026 14:28 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : lundi 19/08/2041 09:00 (abidjan, UTC+0)
-- **Lieu de William** : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-- **Heure dans les autres lieux** : lisbonne 10:00 ; luxembourg 11:00 ; mindelo 08:00 ; casablanca 10:00 ; douala 10:00 ; addis 12:00 ; manille 17:00 ; paris 11:00 ; seoul 18:00 ; bresil 06:00
+## Horloge : lundi 19/08/2041 10:00 (abidjan, UTC+0)
+- **Lieu de William** : Abidjan (Cocody Deux-Plateaux), devant la villa QG des Vallons
+- **Heure dans les autres lieux** : lisbonne 11:00 ; luxembourg 12:00 ; mindelo 09:00 ; casablanca 11:00 ; douala 11:00 ; addis 13:00 ; manille 18:00 ; paris 12:00 ; seoul 19:00 ; bresil 07:00
 - **En attente de William** :
-  - Validation des propositions P32 à P36 de la Revue du lundi n° 5 et programme du lundi 19 août
+  - Le gardien de la villa des Vallons reste assis derrière le portail fermé ; rapport final ce soir à 20h00 ; propositions P37 à P41 (univers plus vivant) en attente de l'utilisateur
 
 ## Argent (grand livre, calculé)
-- Compte courant (Spuerkeess) : **8 243,99 €**
+- Compte courant (Spuerkeess) : **8 268,29 €**
 - Compte épargne (Spuerkeess) : **67 982,00 €**
 - ETF (valeur de marché : calages seulement) : **676 135,00 €**
 - Prêt logement : solde restant dû (passif, déjà déduit de la part de maison) : **101 994,94 €**
 - Part nette de la maison d'Audun-le-Tiche : **98 005,06 €**
-- Patrimoine net de William : **850 366,05 €**
+- Patrimoine net de William : **850 390,35 €**
 - Prévu dans les 14 jours : 30/08 Traitement mensuel de William (9 320,00 €) ; 02/09 Minett Combat Club (-85,00 €) ; 02/09 Package bancaire Zebra Premium (-12,83 €) ; 02/09 Virement permanent vers le compte épargne (-732,00 €) ; 02/09 Virement permanent vers le compte épargne (732,00 €) ; 02/09 Virement permanent vers le compte-titres ETF (-5 755,00 €) ; 02/09 Virement permanent vers le compte-titres ETF (5 755,00 €)
 
 ## Agenda : dans les 24 heures (0)
 - rien
-## Agenda : de J+1 à J+7 (0)
-- rien
+## Agenda : de J+1 à J+7 (2)
+- A111 Sun 25/08 12:00 (abidjan) | Résidence hôtelière (Cocody Deux-Plateaux) : Départ de la résidence et règlement du séjour du 12 au 25 août : 1 690 € (empreinte de la Visa Premier prise à l'arrivée) ; bagages gardés à la réception jusqu'au soir [prevu]  — U3-19 : la résidence n'avait jamais été réglée ; le jour dit : python outils/cartes.py payer --carte visa_premier --montant 1690 --marchand "Résidence hôtelière Deux-Plateaux" --quand "2041-08-25 12:00"
+- A112 Sun 25/08 22:15 (abidjan) | Air France : Vol retour AF703 Abidjan (FHB) → Paris-CDG (arrivée le 26/08 vers 05h45), puis correspondance vers Luxembourg-Findel ; billet aller-retour réglé le 27/07 (1 285 €) [prevu]  — U3-19 : le retour n'était pas à l'agenda ; horaire d'après l'AF703 de 2026 (départ vers 22h15, F119) ; quitter la résidence vers 19h00 (trajet et contrôles)
 (Les lignes « NON CONNU DE WILLIAM » servent au moteur : ne jamais les montrer au joueur avant le jour dit.)
 
 ## Affaires ouvertes (T4/T5 chaque dimanche soir)
@@ -36,7 +37,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-08-19.md, 6 dernières lignes)
-> # Lundi 19 août 2041 — univers 3, 35e jour
-> - **00h00-09h00** (tour n° 105) : Ouverture de la semaine ISO 34 ; DCE aménagement villa des Vallons envoyés à 08h00 par Coulibaly à 3 entreprises ; sourcing Niveaux 3 et 4 activé par Tanoh et Yao ; Revue du lundi n° 5 présentée (P32-P36)
 > - Tirages du tour : T14 → demande (81,55) ; procédure : LU02, LU04, FR02.
 > - Tour en cours à 09h00, en attente de William : **Validation des propositions P32 à P36 de la Revue du lundi n° 5 et programme du lundi 19 août**.
+> - **09h00-10h00** (tour n° 106) : **09h00-10h00** (tour n° 106, reprise par Claude) : 09h02 : William valide P32 à P36 ; 09h06 : accusé du directeur général virtuel (dépouillement des devis maintenu le 21/08 à 16h00) ; 09h44 : Yango commandé par la réception (1 600 FCFA portés sur la note, T24b arrive) ; 09h56 : villa des Vallons, portail fermé ; le gardien Brice Yao (figurant, apparu) l'ignore (T
+> - Hors fiction : audit d'entrée de Claude (U3-19 à U3-21), station météo d'Abidjan, propositions P37 à P41 ; caché : message de Lenny Nguyen le 19/08 vers 19h10 (heure de Luxembourg)
+> - Tirages du tour : procédure : LU02, LU04, FR02 ; T24b → arrive (41,95) ; jet « Mohamed Coulibaly se trouve à la villa des Vallons ce lundi  » → NON (72,9) ; T17 Brice → ignore (61,27).
+> - Tour en cours à 10h00, en attente de William : **Le gardien de la villa des Vallons reste assis derrière le portail fermé ; rapport final ce soir à 20h00 ; propositions P37 à P41 (univers plus vivant) en attente de l'utilisateur**.

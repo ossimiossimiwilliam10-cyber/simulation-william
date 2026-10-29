@@ -1,63 +1,53 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 29/10/2026 12:43 (heure machine) pour Antigravity
+# Relais de la simulation — briefing généré le 29/10/2026 14:28 (heure machine) pour agent inconnu (préciser --agent ou la variable SIMULATION_AGENT)
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : lundi 19 août 2041, 09h00 (abidjan) ; tour n° 105
-- Lieu de William : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-- En attente de William : Validation des propositions P32 à P36 de la Revue du lundi n° 5 et programme du lundi 19 août
+- Horloge : lundi 19 août 2041, 10h00 (abidjan) ; tour n° 106
+- Lieu de William : Abidjan (Cocody Deux-Plateaux), devant la villa QG des Vallons
+- En attente de William : Le gardien de la villa des Vallons reste assis derrière le portail fermé ; rapport final ce soir à 20h00 ; propositions P37 à P41 (univers plus vivant) en attente de l'utilisateur
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 105 ; horloge 18/08/2041 21:30 -> 19/08/2041 09:00 ; enregistré le 29/10/2026 12:40 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 106 ; horloge 19/08/2041 09:00 -> 19/08/2041 10:00 ; enregistré le 29/10/2026 14:28 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Go  /goal /browser /plan /grill-me /teamwork /learn /boost
+> Je valide P32 à P36 et je pars au QG des Vallons. Et aussi, puisqu'on en est là, est-ce qu'il n'y a pas un moyen pour voir encore l'univers davantage réaliste et la simulation encore meilleure, en fait? Genre, je sais pas, créer éventuellement un script de Python qui fait interagir tous les personnages qui doivent... Bon, c'est aussi ça le problème. Si on force une interaction, ça ne va pas être réaliste. Donc, je sais pas s'il y a des moyens de rendre l'univers encore plus vivant, encore plus réaliste. Ou alors, tu penses que c'est déjà pas mal, là, actuellement? (Ah oui et reconnecte le téléphone en artefact dans la conversation stp)
 
 ## Texte envoyé au joueur
 
-**LUNDI 19 AOÛT 2041 — 09h00 — Abidjan (Cocody Deux-Plateaux), résidence hôtelière**
+**LUNDI 19 AOÛT 2041 — 10h00 — Abidjan, Cocody Deux-Plateaux, devant la villa des Vallons**
 
-Après une nuit paisible de plus de huit heures dans le confort climatisé de ton appartement, tu te réveilles à sept heures du matin parfaitement dispos. Le début de cette deuxième semaine sur le sol ivoirien s'ouvre sous un ciel voilé typique d'Abidjan en août, avec une température matinale de vingt-quatre degrés.
+À 09h02, depuis le petit salon de ta résidence, tu valides les cinq propositions de la revue dans l'application Gestion. La réponse de ton directeur général virtuel tombe à 09h06 :
 
-À sept heures quarante-cinq, le room-service te monte un petit-déjeuner complet : café noir serré, omelette aux herbes, pain grillé et jus d'orange pressé, réglé dix euros quatre-vingts centimes sur ta carte Visa Premier. 
+« Reçu à 09h02. P32 à P36 validées. P32 : les devis d'aménagement des Vallons seront comparés sur le prix, le délai de livraison des climatiseurs et les références ; dépouillement maintenu mercredi 21 août à 16h00. P33 : Mariam Brou dépose cette semaine les demandes d'abonnement CIE et SODECI au nom de la société ; les avances sur consommation seront chiffrées dans le rapport. P34 : Viviane Tanoh et Éric Koffi Yao présélectionnent leurs équipes ; tu ne verras que les fiches finales. P35 : noté. P36 : cellule d'étude inscrite au premier trimestre 2042, sans fonds propres engagés. Rapport final ce soir à 20h00. »
 
-À huit heures quinze, Mohamed Coulibaly te fait parvenir son courriel officiel [2041-08-19_Courriel_Mohamed_Coulibaly_Lancement_Appel_Offres_Amenagement_QG_Vallons.pdf](file:///c:/Users/User/Desktop/simulation-william/courriels/2041-08-19_Courriel_Mohamed_Coulibaly_Lancement_Appel_Offres_Amenagement_QG_Vallons.pdf). Le directeur général confirme que les dossiers de consultation des entreprises (DCE) ont été formellement transmis à huit heures précises aux trois entreprises générales présélectionnées pour l'aménagement du siège des Deux-Plateaux Vallons : BTP & Climatisation Ivoire, Bâtir Pro CI et Ivoire Réseaux & Énergie. L'appel d'offres couvre les quatre lots stratégiques arrêtés lors de ta visite : climatisation Inverter, câblage réseau Catégorie 6A avec fibre optique, cloisons amovibles semi-vitrées pour les bureaux de direction, et révision complète avec inverseur automatique pour le groupe électrogène de quarante-cinq kVA. Les offres chiffrées sont attendues pour le mercredi 21 août à seize heures, en vue d'une attribution le jeudi 22 et d'une livraison clé en main le samedi 31 août. En parallèle, Viviane Tanoh et Éric Koffi Yao ont activé ce matin leurs réseaux respectifs pour sourcer les techniciens photovoltaïques et commerciaux juniors de Niveau 3 et 4 selon les critères d'excellence retenus.
+Tu descends à la réception vers 09h35. Le hall carrelé garde la fraîcheur de la nuit, le groupe électrogène ronfle à peine derrière le mur. La réceptionniste commande un Yango pour les Vallons et te prévient que la course sera ajoutée à ta note : 1 600 FCFA. La voiture, une Toyota grise aux vitres teintées, se gare devant l'entrée à 09h44 ; le chauffeur coupe la radio sans un mot quand tu montes.
 
-Comme chaque lundi matin, ton équipe virtuelle met à ta disposition le bilan hebdomadaire et soumet à ton arbitrage souverain la **Revue du lundi n° 5** [revue-lundi-2041-08-19.md](file:///c:/Users/User/Desktop/simulation-william/memoire/revue-lundi-2041-08-19.md) :
+Le trajet ne dure qu'une douzaine de minutes. Le ciel est partagé, l'air déjà moite autour de vingt-six degrés. Sur le boulevard Latrille, les woro-woro verts se faufilent en klaxonnant, une vendeuse traverse avec une bassine de mangues sur la tête, puis la voiture quitte le goudron pour une rue des Vallons plus calme, bordée de murs crème, de bougainvillées et de manguiers dont les feuilles gouttent encore de l'averse de la nuit. Une odeur de terre rouge mouillée entre par la vitre entrouverte.
 
-**1. Bilan de la semaine écoulée (Semaine ISO 33 : 12 au 18 août 2041)**
-- Fondation notariale de la société chez Me Gnamien, mandat PDG de Mohamed Coulibaly et contrat DAF de Mariam Brou signés, dépôt au guichet unique du CEPICI effectué.
-- Siège des Deux-Plateaux Vallons sécurisé par bail commercial, compte bancaire d'exploitation ouvert à la SGCI Plateau et premier apport en compte courant d'associé de huit mille euros décaissé.
-- Direction commerciale complétée avec le recrutement de Viviane Tanoh, protocole de reporting agile à cinq indicateurs par pôle validé, et enquête terrain dominicale ayant confirmé la pertinence absolue du modèle B2B industriel.
-- Cent documents PDF officiels vérifiés et validés dans l'espace de travail.
+À 09h56, le chauffeur s'arrête devant un haut portail métallique peint en vert foncé, fermé. Derrière les barreaux, sous l'auvent d'une petite guérite, un agent de sécurité est assis sur une chaise en plastique bleue, le téléphone à la main. Un homme d'environ vingt-sept ans, d'un mètre soixante-trois, de corpulence moyenne, les épaules carrées d'un habitué de la salle de sport. Visage rond à la peau très foncée et mate, pommettes hautes, une barbe courte et soignée qui suit la mâchoire, des yeux sombres légèrement tombants, une bouche pleine fermée sur un cure-dent. Cheveux ras sous une casquette bleu marine. Il porte l'uniforme d'une société de gardiennage : chemise bleu ciel à manches courtes avec un écusson brodé à l'épaule, pantalon bleu marine, rangers poussiéreuses, un talkie-walkie accroché à la ceinture. Il lève les yeux quand la voiture s'arrête, te regarde descendre, puis les rabaisse sur son écran sans se lever ni bouger vers le portail.
 
-**2. Nouvelles propositions de réalisme et d'immersion (P32 à P36) soumises à ta validation**
-- **P32 — Cadence et sélection des devis d'aménagement à Abidjan** : Application d'un filtre rigoureux face aux fortes disparités du second œuvre local (devis variant du simple au double, délais d'approvisionnement critiques sur les climatiseurs Inverter et baies informatiques), avec engagement contractuel de livraison avant le 31 août.
-- **P33 — Formalités d'abonnements professionnels CIE et SODECI** : Souscription des contrats au nom de la société pour la villa des Vallons (basse tension triphasée de 36 à 45 kVA et compteur d'eau), avec régularisation des avances sur consommation par la DAF Mariam Brou.
-- **P34 — Sourcing opérationnel décentralisé (Niveaux 3 et 4)** : Autonomie complète accordée à Viviane Tanoh et Éric Yao pour présélectionner leurs techniciens et commerciaux juniors (profils de moins de trente ans à fort potentiel, notés entre 75 et 85 sur 100), sans intervention de ta part avant la remise des fiches finales.
-- **P35 — Écosystème relationnel et bruits de marché à Cocody** : Prise en compte du bouche-à-oreille professionnel discret généré à Cocody et au Plateau par l'implantation de la société et ses consultations de chantiers.
-- **P36 — Cellule prospective PAYG & Microfinance (Phase 2)** : Sanctuarisation totale du B2B industriel pour la rentrée de septembre, avec inscription d'un groupe d'étude R&D au premier trimestre 2042 pour étudier le modèle Pay-As-You-Go sécurisé par des tiers-financeurs sans mobiliser les fonds propres de la société.
+La voiture repart. Tu es seul devant la grille close, et il est 10h00.
 
-À neuf heures, les dossiers de la semaine sont ouverts et le cap opérationnel est clairement tracé.
-
-***
+---
 
 **Réponses attendues**
-- Validation formelle des propositions de réalisme P32 à P36 de la Revue du lundi n° 5.
-- Validation du calendrier de dépouillement des devis d'aménagement des Vallons prévu pour mercredi 21 août à seize heures.
+- **Le gardien de la villa** : il t'a vu arriver, mais il reste assis derrière le portail fermé.
+- **Directeur général virtuel** : le rapport final, ce soir à 20h00.
+- **Fatoumata Gnagne** : rien de nouveau ; tu as choisi d'attendre.
 
 **À faire / à fournir avant le tour suivant**
-- Programme de ta journée du lundi 19 août à Abidjan (travail de supervision sur Gestion, détente, ou déplacements éventuels).
+- Aucune démarche en cours.
 
 **Quêtes secondaires**
-- Suivi de la relation avec Fatoumata Gnagne : maintien de l'attente passive.
-- Calendrier de la semaine : réception et dépouillement des devis des Vallons mercredi 21 août, suivi du sourcing Niveaux 3 et 4 par Tanoh et Yao.
+- Dépouillement des devis d'aménagement des Vallons : mercredi 21 août à 16h00.
+- Départ d'Abidjan le dimanche 25 août : règlement de la résidence à midi (1 690 €, plus les extras portés sur ta note), vol Air France AF703 vers Paris à 22h15.
 
 Que veux-tu faire ?
 
@@ -65,7 +55,7 @@ Que veux-tu faire ?
 - rien
 
 ## Rituels du moteur dus (rituels.py)
-- [DÛ] message_proche : message spontané d'un proche (semaine du 19/08) non tiré -> python outils/rituels.py message-proche --semaine 2041-08-19
+- rien
 
 ## Décisions en attente de William (etat/fils-ouverts.md, A)
 | 1 | **Organisation des vacances d'été 2041** | Premier jour des grandes vacances scolaires (du mardi 16/07/2041 au dimanche 15/09/2041). Choix des projets, voyages, rythme de vie ou déplacements estivaux. Budget vacances disponible : 833 €/mois (10 000 €/an). ; *(26/07 10h30) projet de mission à Abidjan à l'étude (fenêtre idéale : 12 au 25 août 2041, pendant la fermeture estivale du club de combat) pour rencontrer Mohamed Coulibaly, Me Gnamien et valider le QG* ; *(26/07 18h30) déplacement de 14 jours validé par William (du lundi 12 au dimanche 25 août 2041, pendant la fermeture annuelle du Minett Combat Club)* ; *(27/07 08h45) mission Abidjan calée du 12 au 25 août 2041 (14 jours) : vol Air France retenu depuis Luxembourg-Findel (1 285 € A/R), option confirmée sur résidence hôtelière F2 sécurisée à Cocody Deux-Plateaux (1 690 €), carnet international à jour (vaccin fièvre jaune confirmé par William)* ; *(27/07 20h00) vol Air France réglé (1 285 € sur Visa Premier, K002), pré-enrôlement e-visa SNEDAI payé et validé (73 € sur Visa Premier, K003), option résidence sécurisée Cocody active (1 690 €) ; logistique de mission Abidjan bouclée* ; *(31/07 11h20) aléa administratif A09 résolu : anomalie d'inversion des prénoms sur le portail SNEDAI rectifiée en ligne, attestation officielle de pré-enrôlement e-visa biométrique reçue (entrée FHB validée)* ; *(11/08 21h30) (11/08 21h30) Preparatifs acheves la veille du depart : voiture chargee a 100 %, reveil regle a 04h15 pour vol AF1233 Findel-CDG-Abidjan du lundi 12 aout a 06h50 ; bagages et documents physiques prets* ; *(12/08 21h00) (12/08 21h00) Arrivée sans incident à Abidjan par le vol AF702 via Paris CDG ; formalités sanitaires et e-visa biométrique SNEDAI franchies avec succès à FHB ; installation dans l'appartement F2 climatisé de la résidence hôtelière à Cocody Deux-Plateaux ; prise de contact confirmée avec Mohamed Coulibaly pour la signature notariée des statuts et du mandat DG chez Me Gnamien mardi 13 août à 10h00* ; *(13/08 09h50) (13/08 09h50) Trajet matinal avec Mohamed Coulibaly via le pont HKB, arrivée au Cabinet de Me Gnamien au Plateau à 09h50, retrouvailles avec Mariam Brou à l'accueil, attente de l'entrée en salle de signature à 10h00 ; Revue du lundi n° 4 présentée au joueur (P27 à P31)* | Ouvert |
@@ -73,6 +63,9 @@ Que veux-tu faire ?
 | 3 | **Entraînement sportif & préparation physique** | Entraînements au Minett Combat Club d'Esch-sur-Alzette (MMA, grappling, boxe thaïe, musculation). Cours d'été en place. Noter la fermeture annuelle du club du lundi 12/08/2041 au dimanche 25/08/2041 (agenda A003). ; *(16/07 10h46) (16/07) rythme de l'été fixé par William : lundi, mercredi, vendredi après-midi au club, course de 5 km le dimanche matin, rien le samedi ; voir A2 I1* ; *(17/07 18h03) (17/07) séance du mercredi faite au club (2 h) avec Thiago Alves et Arthur Kieffer ; prochaine : vendredi 19/07 l'après-midi (I1)* ; *(28/07 07h45) footing dominical de 5 km effectué (I1) ; repos estival ; séance de MMA au club ce lundi 29/07 après-midi* ; *(29/07 16h00) séance de combat intense de 105 min effectuée au club (lutte cage et sol avec Thiago Alves et Arthur Kieffer, I1)* ; *(31/07 16h00) séance de combat intense de 105 min au club (travail contre la cage, sol et frappes avec Thiago Alves et Arthur Kieffer, I1)* ; *(02/08 16h00) séance de combat intense de 105 min au club (transitions lutte cage, sol avec Arthur Kieffer et Mariana Oliveira, I1)* ; *(02/08 20h48) Mariana confirme sa présence pour lundi 16h mais décline un verre après séance (en couple)* ; *(04/08 08h00) footing de 5 km bouclé (I1) ; séance de MMA ce lundi 05/08 à 16h00 (dernière avant fermeture)* | Ouvert |
 | 4 | **Logistique personnelle & maison** | Maison d'Audun-le-Tiche (charges à jour, voiture électrique chargée). Rien d'urgent en panne. ; *(16/07 13h06) abonnement à l'agent IA : 24,30 €/mois sur la Visa Debit, engagement de 12 mois jusqu'au 15/07/2042 (E016)* ; *(05/08 06h00) mensualité prêt PR1 (949,28 €) et assurances (152,00 €) débitées* | Ouvert |
 | 5 | ~~Validation des recrutements de direction (DT & DC)~~ | **CLOS le 03/08 09h30** : DT Éric Koffi Yao validé (84/100, D038 émis le 02/08, accord pré-contrat confirmé le 03/08 par Coulibaly) ; DC Stéphane Bamba rejeté (74/100 <= 80), sourcing B2B relancé par Coulibaly. | Clos |
+| 6 | ~~**Statuts de la SASU : William « Associé Unique / Président » (audit du 29/10/2026)** (19/08 09h00)~~ **CLOS le 19/08 09h00** : SANS OBJET (vérifié le 29/10/2026) : les actes signés le 13/08/2041 chez Me Gnamien nomment Mohamed Coulibaly Président-Directeur Général ; William est seulement associé unique fondateur. L'alerte de l'audit reposait sur le projet de statuts du 29/07 (piège 101). | Les statuts préparés par Me Gnamien (29/07/2041) font de William l'associé unique ET le Président de la SASU. Or F084 : un fonctionnaire luxembourgeois peut détenir des parts sans demande préalable tant qu'il n'exerce AUCUN mandat exécutif ; la présidence d'une SAS en est un. À jouer au prochain tour : le pôle juridique virtuel le signale dans la rubrique « affirmations vérifiées » du rapport (contredit F084 et le principe d'associé non-gérant, dossier article 14 en cours au MENJE) et pose une question fermée à William (garder la présidence et la déclarer au MENJE, ou confier la présidence à un tiers, par exemple Mohamed Coulibaly, par modification des statuts : coût et délai chez Me Gnamien). William décide ; rien n'est changé à sa place | prochain rapport de 20h00 |
+| 7 | **Revue du lundi n° 5 : P32 à P36 sont des décisions d'affaires, pas des mécanismes du simulateur** (19/08 09h00) | Audit du 29/10/2026 : la revue doit proposer des améliorations du SIMULATEUR (aléas, règles, outils, immersion) que l'utilisateur valide ; P32 à P36 décrivent des actions de l'entreprise (devis, abonnements CIE et SODECI, recrutements, rumeurs, cellule d'étude). Les présenter à William comme décisions d'affaires ; à la prochaine revue, 3 à 5 vraies propositions de mécanismes | revue du lundi 26/08 |
+| 8 | **Note de la résidence d'Abidjan (extras à régler au départ)** (19/08 09h00) | Course Yango du 19/08/2041 (résidence → villa des Vallons, 1 600 FCFA ≈ 2,44 €) commandée par la réception et portée sur la note ; à ajouter au règlement du 25/08 à 12h00 (A111), avec cartes.py payer | 25/08/2041 12h00 |
 
 ## Notes de passation (etat/relais-notes.md)
 - ~~(11/10/2026 22:30, Claude Opus 5.5) Redémarrage de l'univers 2 redaté au samedi 14/07/2040, 08h37 (premier vrai jour de vacances,
@@ -169,10 +162,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : master ; master : 7f43ece ; avance 0, retard 0
-- worktree simulation-william (ICI) : branche master ; 0 commit(s) absents de master ; 3 fichier(s) modifié(s)
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 3e6947c ; avance 0, retard 0
+- worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 24 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

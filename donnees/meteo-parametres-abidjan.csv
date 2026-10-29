@@ -1,0 +1,9 @@
+cle;valeur;description;source
+decalage_2040;1.0;écart de température (°C) ajouté aux normales 1991-2020 pour 2040;projection du moteur : réchauffement tropical ≈ +0,3 °C par décennie depuis ≈ 2005
+persistance_pluie;0.70;probabilité qu'un jour de pluie suive un jour de pluie;choix du moteur (saisons des pluies d'Abidjan (mai-juillet, octobre-novembre), épisodes de plusieurs jours)
+phi_temperature;0.6;persistance de l'anomalie de température;choix du moteur
+sigma_tmax;1.0;écart-type de l'anomalie du maximum (°C), d'octobre à avril;choix du moteur (climat tropical, faible variabilité)
+sigma_tmax_ete;1.2;écart-type de l'anomalie du maximum (°C), de mai à septembre;choix du moteur
+effet_pluie_tmax;-0.8;effet d'un jour de pluie sur le maximum (°C);choix du moteur · avant : -2,2 → maintenant : -0,8 (14/10/2026, U2-24) : avec -2,2, le centrage donnait aux rares jours secs de la saison des pluies jusqu'à +5 à +9 °C (36-37 °C les 18 et 19/07) · avec -0,8 : jour sec ≈ 33-34 °C, jour de pluie ≈ 31 °C en juillet
+forme_gamma_pluie;0.6;forme de la loi gamma des hauteurs de pluie (queues plus lourdes : pluies torrentielles);choix du moteur · record PAGASA en 24 h à Port Area : 403,1 mm (01/09/1970)
+seuil_chaleur;33;maximum (°C) à partir duquel la description signale une chaleur écrasante;choix du moteur

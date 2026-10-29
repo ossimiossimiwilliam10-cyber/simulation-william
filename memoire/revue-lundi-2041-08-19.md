@@ -27,5 +27,5 @@
 - **Luxembourg / Lorraine** : Climat doux de fin d'été (15-20 °C), derniers préparatifs de rentrée dans les établissements scolaires grand-ducaux.
 
 ## 5. Décisions de l'utilisateur
-- En attente de validation : propositions P32 à P36.
+- Propositions P32 à P36 VALIDÉES par William le 19/08/2041 à 09h02 (décisions d'affaires de la société, audit du 29/10/2026 : ce ne sont pas des mécanismes du simulateur ; voir memoire/propositions-2026-10-29.md pour P37 à P41).
 

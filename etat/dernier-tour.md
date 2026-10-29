@@ -1,49 +1,39 @@
 # Dernier tour montré au joueur
 
-> Tour n° 105 ; horloge 18/08/2041 21:30 -> 19/08/2041 09:00 ; enregistré le 29/10/2026 12:40 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 106 ; horloge 19/08/2041 09:00 -> 19/08/2041 10:00 ; enregistré le 29/10/2026 14:28 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Go  /goal /browser /plan /grill-me /teamwork /learn /boost
+> Je valide P32 à P36 et je pars au QG des Vallons. Et aussi, puisqu'on en est là, est-ce qu'il n'y a pas un moyen pour voir encore l'univers davantage réaliste et la simulation encore meilleure, en fait? Genre, je sais pas, créer éventuellement un script de Python qui fait interagir tous les personnages qui doivent... Bon, c'est aussi ça le problème. Si on force une interaction, ça ne va pas être réaliste. Donc, je sais pas s'il y a des moyens de rendre l'univers encore plus vivant, encore plus réaliste. Ou alors, tu penses que c'est déjà pas mal, là, actuellement? (Ah oui et reconnecte le téléphone en artefact dans la conversation stp)
 
 ## Texte envoyé au joueur
 
-**LUNDI 19 AOÛT 2041 — 09h00 — Abidjan (Cocody Deux-Plateaux), résidence hôtelière**
+**LUNDI 19 AOÛT 2041 — 10h00 — Abidjan, Cocody Deux-Plateaux, devant la villa des Vallons**
 
-Après une nuit paisible de plus de huit heures dans le confort climatisé de ton appartement, tu te réveilles à sept heures du matin parfaitement dispos. Le début de cette deuxième semaine sur le sol ivoirien s'ouvre sous un ciel voilé typique d'Abidjan en août, avec une température matinale de vingt-quatre degrés.
+À 09h02, depuis le petit salon de ta résidence, tu valides les cinq propositions de la revue dans l'application Gestion. La réponse de ton directeur général virtuel tombe à 09h06 :
 
-À sept heures quarante-cinq, le room-service te monte un petit-déjeuner complet : café noir serré, omelette aux herbes, pain grillé et jus d'orange pressé, réglé dix euros quatre-vingts centimes sur ta carte Visa Premier. 
+« Reçu à 09h02. P32 à P36 validées. P32 : les devis d'aménagement des Vallons seront comparés sur le prix, le délai de livraison des climatiseurs et les références ; dépouillement maintenu mercredi 21 août à 16h00. P33 : Mariam Brou dépose cette semaine les demandes d'abonnement CIE et SODECI au nom de la société ; les avances sur consommation seront chiffrées dans le rapport. P34 : Viviane Tanoh et Éric Koffi Yao présélectionnent leurs équipes ; tu ne verras que les fiches finales. P35 : noté. P36 : cellule d'étude inscrite au premier trimestre 2042, sans fonds propres engagés. Rapport final ce soir à 20h00. »
 
-À huit heures quinze, Mohamed Coulibaly te fait parvenir son courriel officiel [2041-08-19_Courriel_Mohamed_Coulibaly_Lancement_Appel_Offres_Amenagement_QG_Vallons.pdf](file:///c:/Users/User/Desktop/simulation-william/courriels/2041-08-19_Courriel_Mohamed_Coulibaly_Lancement_Appel_Offres_Amenagement_QG_Vallons.pdf). Le directeur général confirme que les dossiers de consultation des entreprises (DCE) ont été formellement transmis à huit heures précises aux trois entreprises générales présélectionnées pour l'aménagement du siège des Deux-Plateaux Vallons : BTP & Climatisation Ivoire, Bâtir Pro CI et Ivoire Réseaux & Énergie. L'appel d'offres couvre les quatre lots stratégiques arrêtés lors de ta visite : climatisation Inverter, câblage réseau Catégorie 6A avec fibre optique, cloisons amovibles semi-vitrées pour les bureaux de direction, et révision complète avec inverseur automatique pour le groupe électrogène de quarante-cinq kVA. Les offres chiffrées sont attendues pour le mercredi 21 août à seize heures, en vue d'une attribution le jeudi 22 et d'une livraison clé en main le samedi 31 août. En parallèle, Viviane Tanoh et Éric Koffi Yao ont activé ce matin leurs réseaux respectifs pour sourcer les techniciens photovoltaïques et commerciaux juniors de Niveau 3 et 4 selon les critères d'excellence retenus.
+Tu descends à la réception vers 09h35. Le hall carrelé garde la fraîcheur de la nuit, le groupe électrogène ronfle à peine derrière le mur. La réceptionniste commande un Yango pour les Vallons et te prévient que la course sera ajoutée à ta note : 1 600 FCFA. La voiture, une Toyota grise aux vitres teintées, se gare devant l'entrée à 09h44 ; le chauffeur coupe la radio sans un mot quand tu montes.
 
-Comme chaque lundi matin, ton équipe virtuelle met à ta disposition le bilan hebdomadaire et soumet à ton arbitrage souverain la **Revue du lundi n° 5** [revue-lundi-2041-08-19.md](file:///c:/Users/User/Desktop/simulation-william/memoire/revue-lundi-2041-08-19.md) :
+Le trajet ne dure qu'une douzaine de minutes. Le ciel est partagé, l'air déjà moite autour de vingt-six degrés. Sur le boulevard Latrille, les woro-woro verts se faufilent en klaxonnant, une vendeuse traverse avec une bassine de mangues sur la tête, puis la voiture quitte le goudron pour une rue des Vallons plus calme, bordée de murs crème, de bougainvillées et de manguiers dont les feuilles gouttent encore de l'averse de la nuit. Une odeur de terre rouge mouillée entre par la vitre entrouverte.
 
-**1. Bilan de la semaine écoulée (Semaine ISO 33 : 12 au 18 août 2041)**
-- Fondation notariale de la société chez Me Gnamien, mandat PDG de Mohamed Coulibaly et contrat DAF de Mariam Brou signés, dépôt au guichet unique du CEPICI effectué.
-- Siège des Deux-Plateaux Vallons sécurisé par bail commercial, compte bancaire d'exploitation ouvert à la SGCI Plateau et premier apport en compte courant d'associé de huit mille euros décaissé.
-- Direction commerciale complétée avec le recrutement de Viviane Tanoh, protocole de reporting agile à cinq indicateurs par pôle validé, et enquête terrain dominicale ayant confirmé la pertinence absolue du modèle B2B industriel.
-- Cent documents PDF officiels vérifiés et validés dans l'espace de travail.
+À 09h56, le chauffeur s'arrête devant un haut portail métallique peint en vert foncé, fermé. Derrière les barreaux, sous l'auvent d'une petite guérite, un agent de sécurité est assis sur une chaise en plastique bleue, le téléphone à la main. Un homme d'environ vingt-sept ans, d'un mètre soixante-trois, de corpulence moyenne, les épaules carrées d'un habitué de la salle de sport. Visage rond à la peau très foncée et mate, pommettes hautes, une barbe courte et soignée qui suit la mâchoire, des yeux sombres légèrement tombants, une bouche pleine fermée sur un cure-dent. Cheveux ras sous une casquette bleu marine. Il porte l'uniforme d'une société de gardiennage : chemise bleu ciel à manches courtes avec un écusson brodé à l'épaule, pantalon bleu marine, rangers poussiéreuses, un talkie-walkie accroché à la ceinture. Il lève les yeux quand la voiture s'arrête, te regarde descendre, puis les rabaisse sur son écran sans se lever ni bouger vers le portail.
 
-**2. Nouvelles propositions de réalisme et d'immersion (P32 à P36) soumises à ta validation**
-- **P32 — Cadence et sélection des devis d'aménagement à Abidjan** : Application d'un filtre rigoureux face aux fortes disparités du second œuvre local (devis variant du simple au double, délais d'approvisionnement critiques sur les climatiseurs Inverter et baies informatiques), avec engagement contractuel de livraison avant le 31 août.
-- **P33 — Formalités d'abonnements professionnels CIE et SODECI** : Souscription des contrats au nom de la société pour la villa des Vallons (basse tension triphasée de 36 à 45 kVA et compteur d'eau), avec régularisation des avances sur consommation par la DAF Mariam Brou.
-- **P34 — Sourcing opérationnel décentralisé (Niveaux 3 et 4)** : Autonomie complète accordée à Viviane Tanoh et Éric Yao pour présélectionner leurs techniciens et commerciaux juniors (profils de moins de trente ans à fort potentiel, notés entre 75 et 85 sur 100), sans intervention de ta part avant la remise des fiches finales.
-- **P35 — Écosystème relationnel et bruits de marché à Cocody** : Prise en compte du bouche-à-oreille professionnel discret généré à Cocody et au Plateau par l'implantation de la société et ses consultations de chantiers.
-- **P36 — Cellule prospective PAYG & Microfinance (Phase 2)** : Sanctuarisation totale du B2B industriel pour la rentrée de septembre, avec inscription d'un groupe d'étude R&D au premier trimestre 2042 pour étudier le modèle Pay-As-You-Go sécurisé par des tiers-financeurs sans mobiliser les fonds propres de la société.
+La voiture repart. Tu es seul devant la grille close, et il est 10h00.
 
-À neuf heures, les dossiers de la semaine sont ouverts et le cap opérationnel est clairement tracé.
-
-***
+---
 
 **Réponses attendues**
-- Validation formelle des propositions de réalisme P32 à P36 de la Revue du lundi n° 5.
-- Validation du calendrier de dépouillement des devis d'aménagement des Vallons prévu pour mercredi 21 août à seize heures.
+- **Le gardien de la villa** : il t'a vu arriver, mais il reste assis derrière le portail fermé.
+- **Directeur général virtuel** : le rapport final, ce soir à 20h00.
+- **Fatoumata Gnagne** : rien de nouveau ; tu as choisi d'attendre.
 
 **À faire / à fournir avant le tour suivant**
-- Programme de ta journée du lundi 19 août à Abidjan (travail de supervision sur Gestion, détente, ou déplacements éventuels).
+- Aucune démarche en cours.
 
 **Quêtes secondaires**
-- Suivi de la relation avec Fatoumata Gnagne : maintien de l'attente passive.
-- Calendrier de la semaine : réception et dépouillement des devis des Vallons mercredi 21 août, suivi du sourcing Niveaux 3 et 4 par Tanoh et Yao.
+- Dépouillement des devis d'aménagement des Vallons : mercredi 21 août à 16h00.
+- Départ d'Abidjan le dimanche 25 août : règlement de la résidence à midi (1 690 €, plus les extras portés sur ta note), vol Air France AF703 vers Paris à 22h15.
 
 Que veux-tu faire ?
