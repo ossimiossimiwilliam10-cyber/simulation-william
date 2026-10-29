@@ -400,3 +400,10 @@
 - **Secret (moteur seulement)** : a un enfant qu'il ne voit plus (gravité 3)
 - **Horaires** : règle « chauffeur », fuseau abidjan, décalage +19 min ; travail 06:19-18:19 (lun, mar, mer, jeu, ven, sam), trajet 20 min ; sommeil 22:19-05:19
 - **Derniers événements** : —
+
+### Yannick Bamba (propriétaire bailleur de la villa des Vallons)
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : rembourser ses dettes ; **souci** : fin de mois difficile, découvert bancaire ; **foyer** : vit seul(e)
+- **Secret (moteur seulement)** : doit de l'argent à un proche (gravité 1)
+- **Horaires** : règle « bureau_abidjan », fuseau abidjan, décalage -25 min ; travail 07:35-17:05 (lun, mar, mer, jeu, ven), trajet 50 min ; sommeil 23:05-05:35
+- **Derniers événements** : —

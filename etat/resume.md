@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 29/10/2026 19:50 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 29/10/2026 19:52 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mercredi 21/08/2041 06:42 (abidjan, UTC+0)
+## Horloge : mercredi 21/08/2041 08:41 (abidjan, UTC+0)
 - **Lieu de William** : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-- **Heure dans les autres lieux** : lisbonne 07:42 ; luxembourg 08:42 ; mindelo 05:42 ; casablanca 07:42 ; douala 07:42 ; addis 09:42 ; manille 14:42 ; paris 08:42 ; seoul 15:42 ; bresil 03:42
+- **Heure dans les autres lieux** : lisbonne 09:41 ; luxembourg 10:41 ; mindelo 07:41 ; casablanca 09:41 ; douala 09:41 ; addis 11:41 ; manille 16:41 ; paris 10:41 ; seoul 17:41 ; bresil 05:41
 - **En attente de William** :
-  - Copie du bail promise par Coulibaly sur direction@ avant 9h ; dépouillement 16h00 ; rapport 20h00
+  - Bail reçu (dépôt de garantie dû au plus tard le 23/08) ; dépouillement 16h00 ; rapport 20h00
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 268,29 €**
@@ -15,11 +15,11 @@
 - Patrimoine net de William : **847 707,35 €**
 - Prévu dans les 14 jours : 30/08 Traitement mensuel de William (9 320,00 €) ; 02/09 Minett Combat Club (-85,00 €) ; 02/09 Package bancaire Zebra Premium (-12,83 €) ; 02/09 Virement permanent vers le compte épargne (-732,00 €) ; 02/09 Virement permanent vers le compte épargne (732,00 €) ; 02/09 Virement permanent vers le compte-titres ETF (-5 755,00 €) ; 02/09 Virement permanent vers le compte-titres ETF (5 755,00 €)
 
-## Agenda : dans les 24 heures (2)
-- A124 Wed 21/08 08:50 (abidjan) | Mohamed Coulibaly : Envoie la copie scannée du bail signé sur direction@soleil-b2b.ci (arrivée dans Gestion) [prevu]  — T7c execute_sans_discuter (21/08 06h40) ; heure : arrivée à la villa vers 08h30 + scan ; générer le PDF du bail (règle 4) à la réception, gestion.py recevoir
+## Agenda : dans les 24 heures (1)
 - A117 Wed 21/08 16:00 (abidjan) | Mohamed Coulibaly : Dépouillement des devis d'aménagement de la villa des Vallons (prix, délai de livraison des climatiseurs, références) [prevu]  — annoncé le 19/08 (DCE transmis par Coulibaly, P32) ; front H003 (avance par événement) à faire avancer au dépouillement
-## Agenda : de J+1 à J+7 (3)
+## Agenda : de J+1 à J+7 (4)
 - A121 Thu 22/08 17:00 (abidjan) | Mohamed Coulibaly : Réponse de l'agence de gardiennage (via le bailleur) sur la prolongation du gardiennage de la villa en septembre ; copie du bail promise « dès qu'il repasse à la villa » [prevu]  — promesses du 20/08 09h55 ; T18 si manquement
+- A125 Fri 23/08 23:59 (abidjan) | SOLEIL B2B CI (Mohamed Coulibaly) : Échéance du dépôt de garantie de 5 250 000 FCFA au bailleur (article 6 du bail) [prevu]  — bail signé le 16/08, copie reçue le 21/08 ; à défaut, suspension possible de la remise des lieux
 - A111 Sun 25/08 12:00 (abidjan) | Résidence hôtelière (Cocody Deux-Plateaux) : Départ de la résidence et règlement du séjour du 12 au 25 août : 1 690 € (empreinte de la Visa Premier prise à l'arrivée) ; bagages gardés à la réception jusqu'au soir [prevu]  — U3-19 : la résidence n'avait jamais été réglée ; le jour dit : python outils/cartes.py payer --carte visa_premier --montant 1690 --marchand "Résidence hôtelière Deux-Plateaux" --quand "2041-08-25 12:00"
 - A112 Sun 25/08 22:15 (abidjan) | Air France : Vol retour AF703 Abidjan (FHB) → Paris-CDG (arrivée le 26/08 vers 05h45), puis correspondance vers Luxembourg-Findel ; billet aller-retour réglé le 27/07 (1 285 €) [prevu]  — U3-19 : le retour n'était pas à l'agenda ; horaire d'après l'AF703 de 2026 (départ vers 22h15, F119) ; quitter la résidence vers 19h00 (trajet et contrôles)
 (Les lignes « NON CONNU DE WILLIAM » servent au moteur : ne jamais les montrer au joueur avant le jour dit.)
@@ -38,9 +38,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-08-21.md, 6 dernières lignes)
-> - **00h00-06h34** (tour n° 120) : Avance : nuit (23h06-06h34). A123 joué : Coulibaly (T7c frontal_refus) refuse à 06h01 d'envoyer le bail et les contrats à l'adresse de l'équipe du projet, seulement à direction@soleil-b2b.ci ; rien sur Viviane Tanoh. Le DGV relaie à 06h04.
-> - Tirages du tour : procédure : coucher 23:06, lever 06:34.
-> - Tour en cours à 06h34, en attente de William : **Coulibaly refuse d'envoyer le bail à l'adresse de l'équipe du projet (direction@ uniquement) ; dépouillement 16h00 ; rapport 20h00**.
 > - **06h34-06h42** (tour n° 121) : William demande lui-même à Coulibaly (WhatsApp 06h40) la copie du bail sur direction@soleil-b2b.ci (adresse reliée à Gestion, selon William). T7c execute_sans_discuter, T10 immediat : réponse à 06h42, envoi promis avant 9h (A124, 08h50).
 > - Tirages du tour : T7c Mohamed → execute_sans_discuter (32,07) ; T10 Mohamed → immediat (2,42).
 > - Tour en cours à 06h42, en attente de William : **Copie du bail promise par Coulibaly sur direction@ avant 9h ; dépouillement 16h00 ; rapport 20h00**.
+> - **06h42-08h41** (tour n° 122) : Petit-déjeuner room service (10,80 €). Coulibaly tient sa promesse (90 %) : copie du bail reçue à 08h41 sur direction@ (D038 dans Gestion ; courriels/2041-08-21_Bail_commercial_Villa_des_Vallons_copie.pdf). Bailleur tiré : Yannick Bamba. Clauses : dépôt de 5 250 000 FCFA au plus tard le 23/08 (agenda), travaux soumis à accord écrit, gardiennage du bailleur jusqu'a
+> - Tirages du tour : T7c Mohamed → execute_sans_discuter (32,07) ; T10 Mohamed → immediat (2,42) ; jet « Mohamed Coulibaly tient sa promesse : envoie la copie du bai » → OUI (47,79) ; procédure : 08:41.
+> - Tour en cours à 08h41, en attente de William : **Bail reçu (dépôt de garantie dû au plus tard le 23/08) ; dépouillement 16h00 ; rapport 20h00**.

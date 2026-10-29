@@ -1,39 +1,37 @@
 # Dernier tour montré au joueur
 
-> Tour n° 121 ; horloge 21/08/2041 06:34 -> 21/08/2041 06:42 ; enregistré le 29/10/2026 19:50 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 122 ; horloge 21/08/2041 06:42 -> 21/08/2041 08:41 ; enregistré le 29/10/2026 19:52 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> De toute façon, mon adresse de direction est connectée à l'application de gestion, souviens-toi. Donc voilà, donc je demande de l'envoyer à mon adresse de direction. Au plus vite.
+> Go
 
 ## Texte envoyé au joueur
 
-**MERCREDI 21 AOÛT 2041 — 06h42 — Abidjan, Cocody Deux-Plateaux, résidence hôtelière**
+**MERCREDI 21 AOÛT 2041 — 08h41 — Abidjan, Cocody Deux-Plateaux, résidence hôtelière**
 
-Tu écris toi-même à Mohamed Coulibaly :
+Le petit-déjeuner monte à 07h45 : omelette, pain, fruits coupés, café noir, 10,80 € sur ta Visa Premier. Le soleil perce enfin entre deux bandes de nuages, et la chambre se réchauffe d'un coup.
 
-« Bonjour Mohamed. Envoyez-moi la copie du bail sur mon adresse direction@soleil-b2b.ci, au plus vite s'il vous plaît. »
+À 08h41, une notification de l'application Gestion : un courriel de Mohamed Coulibaly sur ton adresse direction, « Copie du bail — Villa des Vallons », avec une pièce jointe de deux pages.
 
-Il est en ligne. Réponse à 06h42 :
+Le bail est un scan un peu de travers, le cachet bleu de l'agence immobilière des Vallons à moitié sur la marge. Le bailleur est un certain Yannick Bamba, représenté par l'agence ; le preneur, SOLEIL B2B CÔTE D'IVOIRE, représentée par Mohamed Coulibaly. Tu lis : durée de trois ans à compter du 1er septembre ; loyer de 1 750 000 FCFA par mois, payable d'avance avant le 5 ; franchise du 16 au 31 août. L'article 6 : dépôt de garantie de trois mois, 5 250 000 FCFA, « à verser au plus tard le vendredi 23 août 2041 » ; à défaut, le bailleur peut suspendre la remise des lieux. L'article 7 : les travaux d'aménagement, climatisation, cloisons, câblage, sont soumis à l'accord écrit préalable du bailleur et lui restent acquis en fin de bail. L'article 8 : le gardiennage du bailleur est maintenu jusqu'au 31 août inclus, puis il passe à la charge du preneur. L'article 9 : abonnements, entretien courant et frais d'enregistrement du bail à la charge de la société.
 
-« Bonjour Monsieur Ossimi. Entendu. L'original est dans l'armoire de la villa, je le scanne en arrivant et je vous l'envoie sur direction@ avant 9h. »
+Sous la pièce jointe, deux lignes de Coulibaly : « Comme convenu. Je reste disponible. »
 
-Le ciel s'éclaircit lentement derrière le rideau. Dans le couloir, une porte claque, des talons pressés descendent l'escalier.
-
-Il est 06h42.
+Il est 08h41.
 
 ---
 
 **Réponses attendues**
-- **Mohamed Coulibaly** : copie du bail promise sur ton adresse direction avant 9h.
+- Aucune.
 
 **À faire / à fournir avant le tour suivant**
 - Aucune démarche en cours.
 
 **Quêtes secondaires**
+- Dépôt de garantie de 5 250 000 FCFA à verser au bailleur au plus tard vendredi 23 août ; ton complément de 2 683 € est attendu sur le compte de la société jeudi ou vendredi.
 - Contrat de Viviane Tanoh : signature toujours non confirmée.
 - Dépouillement des devis d'aménagement des Vallons : aujourd'hui, mercredi 21 août à 16h00.
-- Complément de 2 683 € : crédit attendu jeudi ou vendredi ; reçu du bailleur à recevoir.
 - Prolongation du gardiennage : réponse de l'agence attendue jeudi.
 - Départ d'Abidjan le dimanche 25 août : règlement de la résidence à midi (1 690 €, plus les extras portés sur ta note), vol Air France AF703 vers Paris à 22h15.
 - Rapport du directeur général virtuel ce soir à 20h00.
