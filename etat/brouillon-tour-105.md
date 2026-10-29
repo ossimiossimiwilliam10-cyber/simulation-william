@@ -37,3 +37,4 @@ Comme chaque lundi matin, ton équipe virtuelle met à ta disposition le bilan h
 - Calendrier de la semaine : réception et dépouillement des devis des Vallons mercredi 21 août, suivi du sourcing Niveaux 3 et 4 par Tanoh et Yao.
 
 Que veux-tu faire ?
+
