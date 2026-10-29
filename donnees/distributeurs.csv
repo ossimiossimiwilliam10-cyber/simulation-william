@@ -8,3 +8,5 @@ hsbc_ayala;HSBC;greenbelt;ph;0;PHP;40000;100;guides de voyage (HSBC ne facture p
 woori_icn_t2;Woori Bank (Global ATM);icn_t2;kr;4000;KRW;1000000;10000;You.co et Wise (guides sur les distributeurs de Corée du Sud, 2026) : retrait de 400 000 à 1 000 000 KRW au plus selon la banque · frais de l'exploitant non établis (estimation 4 000 KRW) · F092;estimation;hall des arrivées du terminal 2 · choisir la facturation en wons
 kb_icn_t2;KB Kookmin Bank (Global ATM);icn_t2;kr;4000;KRW;600000;10000;même source;estimation;hall des arrivées du terminal 2
 gs25_hongdae;GS25 (Global ATM de supérette);hongdae;kr;4000;KRW;400000;10000;même source;estimation;supérette ouverte 24 h sur 24 près de la station Hongik University
+sgci_deux_plateaux;Société Générale Côte d'Ivoire;residence_deux_plateaux;ci;0;XOF;200000;5000;estimation du moteur (aucun frais local publié pour une carte étrangère, plafond courant par retrait) · à vérifier;estimation;frais de la banque de la carte en plus (Spuerkeess)
+ecobank_fhb;Ecobank;aeroport_fhb;ci;0;XOF;200000;5000;estimation du moteur · à vérifier;estimation;hall des arrivées de l'aéroport

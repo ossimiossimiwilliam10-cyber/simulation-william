@@ -316,3 +316,24 @@
 - **Secret (moteur seulement)** : —
 - **Horaires** : règle « bureau_abidjan », fuseau abidjan, décalage +12 min ; travail 08:12-17:42 (lun, mar, mer, jeu, ven), trajet 50 min ; sommeil 23:42-06:12
 - **Derniers événements** : —
+
+### Luca Singh (dirigeant de Lagune Kilowatt (grosse PME d'installation solaire, prix agressifs), installateur solaire concurrent (société fictive))
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : mettre de l'argent de côté pour ses vieux jours ; **souci** : coupures de courant et facture d'électricité lourde pour son activité ; **foyer** : en couple, enfants en bas âge
+- **Secret (moteur seulement)** : a un enfant qu'il ne voit plus (gravité 3)
+- **Horaires** : règle « commerce_abidjan », fuseau abidjan, décalage +5 min ; travail 08:35-19:05 (lun, mar, mer, jeu, ven, dim), trajet 30 min ; sommeil 23:05-06:05
+- **Derniers événements** : —
+
+### Lukas Diallo (dirigeant de Comoé Solaire Services (PME relationnelle, recrute chez les concurrents), installateur solaire concurrent (société fictive))
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : obtenir un poste de direction dans une grande entreprise ; **souci** : démarche administrative bloquée (titre de séjour, permis, impôts) ; **foyer** : vit seul(e)
+- **Secret (moteur seulement)** : a fait une demande de crédit refusée (gravité 1)
+- **Horaires** : règle « bureau_abidjan », fuseau abidjan, décalage -8 min ; travail 07:52-17:22 (lun, mar, mer, jeu, ven), trajet 50 min ; sommeil 23:22-05:52
+- **Derniers événements** : —
+
+### Brice N'Guessan (dirigeant de Ébène Watt (petite structure informelle, matériel d'entrée de gamme), installateur solaire concurrent (société fictive))
+- **Lien avec William** : aucun (whatsapp)
+- **Objectif** : acheter un logement (ou un plus grand) ; **souci** : loyer qui augmente ; **foyer** : en couple, enfants en bas âge
+- **Secret (moteur seulement)** : doit de l'argent à un proche (gravité 1)
+- **Horaires** : règle « sans_travail », fuseau abidjan, décalage +14 min ; pas d'horaires de travail ; sommeil 23:14-07:14
+- **Derniers événements** : —

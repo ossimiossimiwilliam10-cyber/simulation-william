@@ -29,4 +29,4 @@
   face à la première tranche de 60 000 €.
 
 ## Décision de l'utilisateur
-- En attente.
+- 29/10/2026 : « Je valide P37 à P41 » (avant : en attente → maintenant : validées et installées le même jour ; voir `outils/LISEZMOI.md` §7, consigne 8).

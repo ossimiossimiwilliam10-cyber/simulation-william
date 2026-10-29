@@ -4393,3 +4393,13 @@ Effets à jouer : A19 (dimanche 25/08 (soir)) : Un adulte attrape 2 à 4 rhumes 
 - Message spontané d'un proche, semaine du 2041-08-19 : Lenny Nguyen (membre régulier du club (sparring)) écrira le 19/08/2041 vers 19:10 (heure de l'expéditeur) · tiré parmi 38 personnes de l'entourage, pondérées par proximité (enregistré le 29/10/2026 14:26 heure machine)
 
 - Tirage [T17] « Brice Yao, gardien de la villa des Vallons, voit arriver un inconnu (William) à la grille sans consigne reçue à son sujet » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  61.3 → **ignore** (enregistré le 29/10/2026 14:27 heure machine)
+
+- Tirage [T17] « Brice Yao, gardien de la villa des Vallons, quand William l'appelle depuis le portail fermé (lundi 19/08/2041, 10h00) » : poli_bref 30 / conversation 22 / ignore 14 / reciproque 10 / mefiance 10 / refus_net 9 / calcul 5 ; modificateurs : aucun ; jet  15.7 → **poli_bref** (enregistré le 29/10/2026 15:08 heure machine)
+
+- Tirage [T22] « Front H002 « Abonnements CIE et SODECI de la villa des Vallons » : semaine du 19/08/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  31.9 → **zero_segment** (enregistré le 29/10/2026 15:10 heure machine)
+
+- Tirage [T22] « Front H004 « Lagune Kilowatt réagit à l'arrivée de SOLEIL B2B CI » : semaine du 19/08/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  62.5 → **un_segment** (enregistré le 29/10/2026 15:10 heure machine)
+
+- Tirage [T22] « Front H005 « Comoé Solaire Services tente de débaucher l'équipe » : semaine du 19/08/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  60.6 → **un_segment** (enregistré le 29/10/2026 15:10 heure machine)
+
+- Tirage [T22] « Front H006 « Ébène Watt casse les prix chez les petits clients » : semaine du 19/08/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  75.6 → **un_segment** (enregistré le 29/10/2026 15:10 heure machine)

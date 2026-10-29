@@ -254,6 +254,19 @@ def cmd_fin(args):
             print(f"  monde vivant : {len(vie)} événement(s) de vie tiré(s)" + (" ; " + " ; ".join(notables) if notables else ""))
     except SystemExit as exc:
         print(f"  RELIRE monde vivant : {exc}")
+    try:  # 29/10/2026 (P37) : contacts tirés entre membres d'un même groupe ; William n'en voit que des traces
+        import monde_social
+        contacts = monde_social.avancer(apres["instant"].date())
+        if contacts:
+            print(f"  monde social : {len(contacts)} contact(s) notable(s) entre personnages (etat/monde-social.csv)")
+    except SystemExit as exc:
+        print(f"  RELIRE monde social : {exc}")
+    try:  # 29/10/2026 (P38) : chaque lundi, T22 fait avancer (ou non) chaque front « temps »
+        import lenteur
+        for l in lenteur.semaine(apres["instant"].date()):
+            print(f"  lenteur : {l}")
+    except SystemExit as exc:
+        print(f"  RELIRE lenteur : {exc}")
     try:  # 14/10/2026 : nouvelles du monde de la semaine, écrites une fois dès que l'horloge passe le lundi
         import actualites
         for l in actualites.assurer(apres["instant"].date()):

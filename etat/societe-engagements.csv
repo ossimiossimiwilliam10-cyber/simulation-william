@@ -1,0 +1,13 @@
+sens;poste;montant_fcfa;periodicite;debut;fin;statut;source
+apport;Avance en compte courant d'associé de William (8 000 €, SGCI Plateau);5247656;unique;2041-08-16;;fait;grand livre CCA-20410816-01 (5,25 M FCFA)
+apport;Première tranche de l'investissement (60 000 €, sur résultats vérifiés);39357420;unique;;;prevu;annonce et plan d'investissement (tranches 20/45/35 %) : date à fixer par William
+depense;Caution et avance du bail de la villa des Vallons;9000000;unique;2041-08-16;;a_confirmer;bail signé le 16/08/2041 : 9 M FCFA dus au bailleur (relevé bancaire du propriétaire transmis par Mohamed Coulibaly) ; paiement non relevé dans les fichiers
+depense;Climatisation et aménagement de la villa (8 climatiseurs, cloisons, câblage);6500000;unique;;;prevu;cadrage budgétaire du 13/08/2041 (estimation, avant devis)
+depense;Mobilier de bureau et cantine;4800000;unique;;;prevu;cadrage budgétaire du 13/08/2041 (estimation)
+depense;Parc informatique et réseau;8500000;unique;;;prevu;cadrage budgétaire du 13/08/2041 (estimation)
+depense;Véhicule utilitaire (pickup d'occasion récente);;unique;;;a_confirmer;cadrage budgétaire du 13/08/2041 : montant non relevé
+depense;Loyer de la villa des Vallons;1750000;mensuel;2041-09-01;;prevu;bail commercial 3/6/9 signé le 16/08/2041 par Mohamed Coulibaly (1 750 000 FCFA par mois, franchise de 15 jours) ; avant : 1,8 M FCFA du cadrage du 13/08
+salaire;Mohamed Coulibaly, Président-Directeur Général (net mensuel fixe);2000000;mensuel;2041-09-01;;prevu;mandat social transmis le 29/07/2041 (2 000 000 FCFA nets) : date de début à confirmer
+salaire;Mariam Brou, directrice administrative et financière (niveau 2);1600000;mensuel;2041-09-01;;a_confirmer;contrat de niveau 2 (grille du 23/07/2041, 1 600 000 FCFA nets) : à confirmer
+salaire;Éric Koffi Yao, directeur technique (niveau 2);1600000;mensuel;2041-09-01;;prevu;validation de William du 02/08/2041 (1 600 000 FCFA nets, prise de fonction début septembre)
+salaire;Viviane Tanoh, directrice commerciale;;mensuel;2041-09-01;;a_confirmer;recrutement du 16/08/2041 : rémunération non relevée dans les fichiers

@@ -202,7 +202,7 @@ def donnees_telephone(t=None):
     naif = t.replace(tzinfo=None)
     import meteo
     ville = meteo.station_courante()
-    pays, code = {"manille": ("ph", "PHP"), "seoul": ("kr", "KRW")}.get(ville, ("", ""))  # 22/10/2026 : Séoul
+    pays, code = {"manille": ("ph", "PHP"), "seoul": ("kr", "KRW"), "abidjan": ("ci", "XOF")}.get(ville, ("", ""))  # 22/10/2026 : Séoul
     poche = especes(naif)
     res = {"especes": poche, "devises": [], "code": code}
     if pays:

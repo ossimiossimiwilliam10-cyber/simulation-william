@@ -38,7 +38,8 @@ COL_JOURNAL = ["id", "demande", "service", "de", "vers", "km", "minutes", "atten
 COEF = 1.35
 DETOUR = 1.35  # distance par la route ≈ distance à vol d'oiseau × 1,35 à Séoul (estimation), sauf ligne de distances.csv ; avant : 1,45 (Metro Manila)
 VILLES = {"manille": {"pays": "ph", "devise": "PHP", "meteo": ETAT / "meteo-manille.csv", "appli": "Grab"},
-          "seoul": {"pays": "kr", "devise": "KRW", "meteo": ETAT / "meteo-seoul.csv", "appli": "Kakao T"}}
+          "seoul": {"pays": "kr", "devise": "KRW", "meteo": ETAT / "meteo-seoul.csv", "appli": "Kakao T"},
+          "abidjan": {"pays": "ci", "devise": "XOF", "meteo": ETAT / "meteo-abidjan.csv", "appli": "Yango"}}  # 29/10/2026 : P40
 # km/h de porte à porte selon l'heure, en semaine (estimation : Metro Manila, parmi les circulations les plus lentes d'Asie)
 VITESSES = [(0, 45), (5, 36), (7, 19), (10, 27), (16, 21), (20, 30), (22, 42)]  # Séoul (estimation du moteur : vitesse moyenne en ville ≈ 25 km/h) ; avant : Metro Manila
 
@@ -52,7 +53,18 @@ def maintenant_naif():
     return maintenant_simule().replace(tzinfo=None)
 
 
-def lieux(ville="seoul"):
+def ville_courante():
+    """Ville des courses : celle de la station météo du lieu de William (fuseau de l'horloge), Séoul sinon (29/10/2026 : Abidjan, P40)."""
+    try:
+        import meteo
+        v = meteo.station_courante()
+    except Exception:  # noqa: BLE001
+        v = "seoul"
+    return v if v in VILLES else "seoul"
+
+
+def lieux(ville=None):
+    ville = ville or ville_courante()
     import lieux as L
     noms = L.lire()
     return {c["lieu"]: {"id": c["lieu"], "nom": noms.get(c["lieu"], {}).get("nom", c["lieu"]), "lat": float(c["lat"]), "lon": float(c["lon"]),
@@ -60,7 +72,7 @@ def lieux(ville="seoul"):
             for c in lire_csv(COORD) if c["lieu"] in noms and noms[c["lieu"]]["fuseau"] == ville}
 
 
-def ici(ville="seoul"):
+def ici(ville=None):
     """Lieu connu où se trouve William (d'après le lieu de l'horloge), ou None."""
     import horloge
     texte = horloge.lire()["lieu"].lower()
@@ -83,8 +95,9 @@ def distance_km(a, b, L=None):
     return round(2 * r * math.asin(math.sqrt(h)) * DETOUR, 1)
 
 
-def pluie(quand, ville="seoul"):
+def pluie(quand, ville=None):
     """0 sec, 1 pluie, 2 forte pluie ou rues inondées, à cette heure (fixe pour la journée et l'heure)."""
+    ville = ville or ville_courante()
     ligne = next((l for l in lire_csv(VILLES[ville]["meteo"]) if l["date"] == quand.date().isoformat()), None)
     if not ligne:
         return 0
@@ -97,7 +110,8 @@ def pluie(quand, ville="seoul"):
     return 2 if mm >= 30 or "inond" in (ligne.get("description") or "").lower() else 1
 
 
-def type_jour(jour, pays="kr"):
+def type_jour(jour, pays=None):
+    pays = pays or VILLES[ville_courante()]["pays"]
     import calendrier_2040 as cal
     if jour.weekday() == 6 or jour in cal.jours_feries(jour.year, pays):
         return "dimanche"
@@ -175,13 +189,13 @@ def disponible(t, de, L):
 
 def estimer(ident, de, vers, quand, L=None):
     """Prix, durée et attente d'une course (aucune écriture)."""
-    L = L or lieux()
     t = tarif(ident)
+    L = L or lieux(t["ville"])
     if de not in L or vers not in L:
         sys.exit(f"Lieu inconnu : {de if de not in L else vers} (donnees/coordonnees.csv)")
     if not disponible(t, de, L):
         return None
-    np_ = pluie(quand)
+    np_ = pluie(quand, t["ville"])
     km = distance_km(de, vers, L)
     att = attente(t, de, quand, np_, L)
     depart = quand + dt.timedelta(minutes=att)
@@ -204,9 +218,10 @@ def estimer(ident, de, vers, quand, L=None):
             "depart": f"{depart:%Y-%m-%d %H:%M}", "arrivee": f"{depart + dt.timedelta(minutes=minutes):%Y-%m-%d %H:%M}"}
 
 
-def options(de, vers, quand):
-    L = lieux()
-    res = [estimer(t["id"], de, vers, quand, L) for t in lire_csv(TARIFS) if t["ville"] == "seoul" and disponible(t, de, L)]
+def options(de, vers, quand, ville=None):
+    ville = ville or ville_courante()
+    L = lieux(ville)
+    res = [estimer(t["id"], de, vers, quand, L) for t in lire_csv(TARIFS) if t["ville"] == ville and disponible(t, de, L)]
     return sorted([r for r in res if r], key=lambda r: r["prix"])
 
 
@@ -220,21 +235,32 @@ def _regler(cle, valeur, quand):
     ecrire_csv(COMPTE, lignes, ["cle", "valeur", "depuis"])
 
 
+def appli(ville=None):
+    return VILLES[ville or ville_courante()]["appli"]
+
+
+def cle_installe(ville=None):
+    """Clé du compte : « installe » pour Kakao T (Séoul, historique), « installe_<appli> » pour les autres (29/10/2026)."""
+    a = appli(ville)
+    return "installe" if a == "Kakao T" else f"installe_{a.lower().replace(' ', '_')}"
+
+
 def installer(quand):
-    if compte().get("installe") == "oui":
-        return "Kakao T est déjà installé."
-    _regler("installe", "oui", quand)
+    a = appli()
+    if compte().get(cle_installe()) == "oui":
+        return f"{a} est déjà installé."
+    _regler(cle_installe(), "oui", quand)
     import traces
-    traces.ajouter(f"{quand:%d/%m/%Y %H:%M}", "Inscription à l'application Kakao T (numéro de téléphone de William vérifié par SMS)", "application",
-                   "Kakao T", "faible")
-    return "Kakao T installé ; numéro vérifié par SMS ; aucune carte enregistrée (paiement en espèces par défaut)."
+    traces.ajouter(f"{quand:%d/%m/%Y %H:%M}", f"Inscription à l'application {a} (numéro de téléphone de William vérifié par SMS)", "application",
+                   a, "faible")
+    return f"{a} installé ; numéro vérifié par SMS ; aucune carte enregistrée (paiement en espèces par défaut)."
 
 
 def enregistrer_carte(carte, quand):
     import cartes
     cartes.carte(carte)
     _regler("carte", carte, quand)
-    return f"Carte enregistrée dans Kakao T : {carte}."
+    return f"Carte enregistrée dans {appli()} : {carte}."
 
 
 def _journal_ajouter(course):
@@ -254,7 +280,7 @@ def _payer(course, t, L, carte, simule):
     arrivee = dt.datetime.fromisoformat(course["arrivee"])
     prix = float(course["prix"])
     if course["paiement"] == "carte":
-        ok, x = devises.payer(carte, prix, course["devise"], f"Kakao T : {L[course['de']]['nom'][:30]} → {L[course['vers']]['nom'][:30]}",
+        ok, x = devises.payer(carte, prix, course["devise"], f"{appli()} : {L[course['de']]['nom'][:30]} → {L[course['vers']]['nom'][:30]}",
                               arrivee, reference=course["id"], simule=simule)
         course["statut"] = "payee" if ok else "carte_refusee"
         course["note"] = (course["note"] + " · " if course["note"] else "") + x["note"]
@@ -270,16 +296,16 @@ def commander(ident, de, vers, quand, paiement="especes", simule=False):
     compteur (compteur, prix fixe demandé, détour), T24b pour un VTC (arrive, annule) ; le taxi à coupon n'a pas d'aléa."""
     import devises
     import jet
-    L = lieux()
     t = tarif(ident)
+    L = lieux(t["ville"])
     c = compte()
-    if t["type"] == "vtc" and c.get("installe") != "oui":
-        return False, "Kakao T n'est pas installé sur le téléphone de William.", None
+    if t["type"] == "vtc" and c.get(cle_installe(t["ville"])) != "oui":
+        return False, f"{appli(t['ville'])} n'est pas installé sur le téléphone de William.", None
     if paiement == "carte":
         if t["type"] != "vtc":
             return False, "Ce taxi se paie en espèces.", None
         if not c.get("carte"):
-            return False, "Aucune carte enregistrée dans Kakao T.", None
+            return False, f"Aucune carte enregistrée dans {appli(t['ville'])}.", None
     e = estimer(ident, de, vers, quand, L)
     if e is None:
         return False, f"{t['nom']} : pas de départ depuis {L[de]['nom']}.", None
@@ -289,7 +315,7 @@ def commander(ident, de, vers, quand, paiement="especes", simule=False):
               "paiement": "carte" if paiement == "carte" else "especes", "statut": "", "arrivee": e["arrivee"], "note": ""}
     trajet = f"de {L[de]['nom'][:40]} à {L[vers]['nom'][:40]}, {quand:%d/%m %H:%M}"
     if t["type"] == "vtc":
-        r = jet.tirer("T24b", [], f"Chauffeur Kakao T ({trajet})", simule=simule, texte=False)
+        r = jet.tirer("T24b", [], f"Chauffeur {appli(t['ville'])} ({trajet})", simule=simule, texte=False)
         course["note"] = f"T24b : {r['issue']} (jet {r['jet']:.1f})"
         if r["issue"] == "annule":
             apres = rng.randint(2, max(3, e["attente"]))
@@ -339,8 +365,8 @@ def accepter(cid, quand, simule=False):
     course = next((x for x in journal if x["id"] == cid), None)
     if course is None or course["statut"] != "prix_fixe_propose":
         return False, f"{cid} : aucune course en attente d'un accord sur le prix"
-    L = lieux()
     t = tarif(course["service"])
+    L = lieux(t["ville"])
     arrivee = quand + dt.timedelta(minutes=int(course["minutes"]))
     course["arrivee"] = f"{arrivee:%Y-%m-%d %H:%M}"
     course["note"] += f" · prix fixe accepté à {quand:%H:%M}"
@@ -386,7 +412,7 @@ def donnees_telephone(t=None):
 
 def verifier():
     erreurs = []
-    L = {**lieux("manille"), **lieux("seoul")}
+    L = {k: v for ville in VILLES for k, v in lieux(ville).items()}
     for t in lire_csv(TARIFS):
         if t["type"] not in ("vtc", "taxi"):
             erreurs.append(f"courses.csv : type inconnu ({t['id']})")

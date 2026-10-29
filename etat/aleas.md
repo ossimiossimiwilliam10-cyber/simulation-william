@@ -27,12 +27,12 @@
 
 | ID | Événement | Probabilité par semaine | Statut | Effets / conditions |
 |---|---|---|---|---|
-| A01 | Maladie d'un membre de l'équipe (paludisme, gastro, typhoïde) | 10 % | univers 1 | Absence de 2 à 5 jours ; qui est touché : tirer parmi les salariés ; saison des pluies = plus fréquent |
+| A01 | Maladie d'un membre de l'équipe (paludisme, gastro, typhoïde) | 10 % | actif | (avant : « univers 1 » → maintenant : actif à Abidjan, P39 validée le 29/10/2026)  Absence de 2 à 5 jours ; qui est touché : tirer parmi les salariés ; saison des pluies = plus fréquent |
 | A02 | Problème de santé d'un proche d'un personnage (ex. mère d'Aïcha, tension) | 8 % | actif | Personnage moins disponible, humeur, demande d'absence ou d'avance |
 | A03 | Maladie ou accident d'un des enfants de Sandra | 8 % | univers 1 | Sandra indisponible, échange d'argent ou d'aide possible, test pour William |
-| A04 | Délestage / coupure d'électricité prolongée | 25 % | univers 1 | QG sans groupe électrogène (hors service) ; chantiers et visites perturbés |
-| A05 | Fortes pluies / inondation | 15 % | univers 1 | Transports et chantiers retardés (Abidjan, saison des pluies) |
-| A06 | Retard fournisseur ou douane (NVR, onduleurs, batteries) | 30 % | univers 1 | Délai supplémentaire ; l'excuse du fournisseur est plausible mais pas toujours vraie |
+| A04 | Délestage / coupure d'électricité prolongée | 25 % | actif | (avant : « univers 1 » → maintenant : actif à Abidjan, P39 validée le 29/10/2026)  QG sans groupe électrogène (hors service) ; chantiers et visites perturbés |
+| A05 | Fortes pluies / inondation | 15 % | actif | (avant : « univers 1 » → maintenant : actif à Abidjan, P39 validée le 29/10/2026)  Transports et chantiers retardés (Abidjan, saison des pluies) |
+| A06 | Retard fournisseur ou douane (NVR, onduleurs, batteries) | 30 % | actif | (avant : « univers 1 » → maintenant : actif à Abidjan, P39 validée le 29/10/2026)  Délai supplémentaire ; l'excuse du fournisseur est plausible mais pas toujours vraie |
 | A07 | Panne réseau (fibre, 4G) ou banque en ligne | 15 % | actif | Retard d'un virement, d'un envoi, d'un rapport |
 | A08 | Contrôle ou courrier administratif (Inspection du travail, CNPS, impôts) | 5 % | proposé | Dossiers incomplets (CNPS, salaires de juin) ressortent |
 | A09 | Erreur administrative (virement mal affecté, pièce perdue, nom mal orthographié) | 10 % | actif | Correction longue, agacement |
@@ -63,3 +63,6 @@
 | A34 | Coup de chaleur ou déshydratation de William (un jour d'effort quand le maximum dépasse 35 °C) | 6 % par jour concerné | par jour de chaleur | Validé par l'utilisateur le 22/10/2026 (R3, revue n° 1 de l'univers 3) ; tiré chaque jour où le maximum de Séoul dépasse 35 °C (aussi le jour de l'arrivée) par `tour.py fin`, jamais par `tirage_aleas.py` ; malaise léger, une demi-journée perdue |
 | A35 | Surfacturation ou arnaque visant un touriste (taxi, boutique, bar) | 5 % par semaine à l'étranger | actif | Validé le 22/10/2026 (R3) ; montant tiré dans une fourchette réaliste (prix.py) ; le contrôle des taxis de Séoul existe (F093) |
 | A36 | Malentendu de langue (adresse mal comprise, commande erronée, document en coréen) | 10 % par semaine à l'étranger | actif | Validé le 22/10/2026 (R3) ; jamais de refus, un détour ou un retard |
+| A37 | Embouteillage, pont saturé ou route coupée à Abidjan (un trajet de William ou de l'équipe prend une à deux heures de plus) | 30 % | actif | Seulement quand William ou l'équipe circule à Abidjan ; ajouté le 29/10/2026 (P39, validée par l'utilisateur) |
+| A38 | Contrôle routier ou guichet : un agent sollicite un « geste » (2 000 à 10 000 FCFA) | 10 % | actif | Seulement à Abidjan ; William peut refuser (délai, paperasse, ton qui se durcit) ; jamais de mode d'emploi réel |
+| A39 | Paludisme de William (séjour en zone d'endémie) | 0,5 % | actif | Par semaine passée à Abidjan sans traitement préventif (divisé par dix avec) ; incubation de 7 à 30 jours : les premiers symptômes peuvent survenir APRÈS le retour (fièvre, frissons) ; consultation, test, traitement |

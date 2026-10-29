@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 29/10/2026 14:28 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 29/10/2026 15:10 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : lundi 19/08/2041 10:00 (abidjan, UTC+0)
+## Horloge : lundi 19/08/2041 10:02 (abidjan, UTC+0)
 - **Lieu de William** : Abidjan (Cocody Deux-Plateaux), devant la villa QG des Vallons
-- **Heure dans les autres lieux** : lisbonne 11:00 ; luxembourg 12:00 ; mindelo 09:00 ; casablanca 11:00 ; douala 11:00 ; addis 13:00 ; manille 18:00 ; paris 12:00 ; seoul 19:00 ; bresil 07:00
+- **Heure dans les autres lieux** : lisbonne 11:02 ; luxembourg 12:02 ; mindelo 09:02 ; casablanca 11:02 ; douala 11:02 ; addis 13:02 ; manille 18:02 ; paris 12:02 ; seoul 19:02 ; bresil 07:02
 - **En attente de William** :
-  - Le gardien de la villa des Vallons reste assis derrière le portail fermé ; rapport final ce soir à 20h00 ; propositions P37 à P41 (univers plus vivant) en attente de l'utilisateur
+  - Le gardien de la villa des Vallons attend derrière le portail fermé que William dise qui il vient voir ; rapport final ce soir à 20h00
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 268,29 €**
@@ -37,9 +37,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-08-19.md, 6 dernières lignes)
-> - Tirages du tour : T14 → demande (81,55) ; procédure : LU02, LU04, FR02.
-> - Tour en cours à 09h00, en attente de William : **Validation des propositions P32 à P36 de la Revue du lundi n° 5 et programme du lundi 19 août**.
-> - **09h00-10h00** (tour n° 106) : **09h00-10h00** (tour n° 106, reprise par Claude) : 09h02 : William valide P32 à P36 ; 09h06 : accusé du directeur général virtuel (dépouillement des devis maintenu le 21/08 à 16h00) ; 09h44 : Yango commandé par la réception (1 600 FCFA portés sur la note, T24b arrive) ; 09h56 : villa des Vallons, portail fermé ; le gardien Brice Yao (figurant, apparu) l'ignore (T
 > - Hors fiction : audit d'entrée de Claude (U3-19 à U3-21), station météo d'Abidjan, propositions P37 à P41 ; caché : message de Lenny Nguyen le 19/08 vers 19h10 (heure de Luxembourg)
 > - Tirages du tour : procédure : LU02, LU04, FR02 ; T24b → arrive (41,95) ; jet « Mohamed Coulibaly se trouve à la villa des Vallons ce lundi  » → NON (72,9) ; T17 Brice → ignore (61,27).
 > - Tour en cours à 10h00, en attente de William : **Le gardien de la villa des Vallons reste assis derrière le portail fermé ; rapport final ce soir à 20h00 ; propositions P37 à P41 (univers plus vivant) en attente de l'utilisateur**.
+> - **10h00-10h02** (tour n° 107) : William appelle le gardien à travers la grille ; Brice Yao (T17 poli_bref) vient au portail sans l'ouvrir et lui demande qui il vient voir. Hors fiction : P37 à P41 validées par l'utilisateur et installées (monde_social, lenteur, trésorerie, concurrents tirés, courses et FCFA à Abidjan, aléas A01, A04-A06, A37-A39 ; correction U3-23).
+> - Tirages du tour : T17 Brice → poli_bref (15,75) ; T22 → zero_segment (31,94) ; T22 → un_segment (62,53) ; T22 → un_segment (60,57) ; T22 → un_segment (75,63).
+> - Tour en cours à 10h02, en attente de William : **Le gardien de la villa des Vallons attend derrière le portail fermé que William dise qui il vient voir ; rapport final ce soir à 20h00**.

@@ -17,6 +17,7 @@ f) Revue du lundi : elle doit contenir 3 à 5 idées nouvelles de réalisme et d
 
 g) Hygiène et argent (audit du 29/10/2026) : brouillons dans sorties/brouillons/ uniquement ; PDF avec python outils/piece.py <texte> (exemple : donnees/exemples/piece-exemple.txt) ; ne ressaisis jamais une échéance de l'échéancier ; inscris CHAQUE dépense le jour même (cartes.py payer : hôtel, repas, taxis) ; tout départ, retour ou règlement prévu va à l'agenda.
 h) Revue du lundi : des propositions sur le SIMULATEUR (aléas, règles, outils, immersion), pas des décisions d'affaires.
+i) Univers vivant (P37 à P41, validées le 29/10/2026) : tour.py fin fait vivre les groupes et avancer le lundi les démarches lentes ; un palier « DÛ » de fronts.py liste se joue au tour suivant, sans l'annoncer ; les concurrents (etat/concurrents.csv) n'apparaissent que par leurs effets ; à Abidjan, prix des courses avec python outils/courses.py options --de … --vers … ; trésorerie de la société : python outils/tresorerie.py.
 
 3. Point que tu NE tranches PAS toi-même : tu m'appelles « Président » et tu parles de « décision présidentielle ». Si cela veut dire que j'exerce la présidence de la SASU (mandat exécutif), cela contredit l'article 14 (associé non-gérant). Signale-le-moi en une ligne « 📌 Vraie vie » au prochain tour et demande au pôle juridique virtuel de vérifier ce point dans son prochain rapport.
 

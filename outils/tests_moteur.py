@@ -115,7 +115,7 @@ def main():
     print("\n[Corps, fronts, rituels]")
     e.lancer(o + "corps.py", "seance", "--duree", "90", "--note", "essai", "--quand", "2040-07-13 18:00", contient="Corps :")
     e.lancer(o + "fronts.py", "creer", "--nom", "Essai de front", "--type", "menace", "--segments", "4",
-             "--paliers", "2:premier palier|4:dernier palier", contient="H001")
+             "--paliers", "2:premier palier|4:dernier palier", contient="Créé : H0")
     e.lancer(o + "fronts.py", "avancer", "H001", "--de", "2", "--raison", "essai", contient="PALIER 2 ATTEINT")
     e.lancer(o + "rituels.py", "dus", contient="Rituels du moteur")
 
@@ -205,6 +205,13 @@ def main():
     e.lancer(o + "entretien.py", "--help", contient="envoyer", nom="entretien : message de l'agent à un candidat (aide)")
     e.lancer(o + "verifier_texte_joueur.py", "--essai", contient="conforme", nom="texte du joueur : fuites du moteur, format et style repérés (essai)")
     e.lancer(o + "piece.py", "donnees/exemples/piece-exemple.txt", "--simule", contient="(essai)", nom="pièce PDF à partir d'un texte simple (essai, rien d'écrit)")
+    e.lancer(o + "monde_social.py", "avancer", "--jusqua", "2041-07-20", "--simule", contient="monde social",
+             nom="monde social : contacts tirés entre membres d'un groupe (essai, rien d'écrit ; P37)")
+    e.lancer(o + "lenteur.py", "semaine", "--jusqua", "2041-07-22", "--simule", contient="",
+             nom="lenteur : fronts « temps » à faire avancer le lundi par T22 (essai, rien d'écrit ; P38)")
+    e.lancer(o + "tresorerie.py", "--au", "2041-10-01", contient="Trésorerie de SOLEIL B2B CI",
+             nom="trésorerie de la société : apports, charge mensuelle, autonomie (P41)")
+    e.lancer(o + "courses.py", "--help", contient="", nom="courses : aide (Abidjan ajoutée, P40)")
     e.lancer(o + "annonces.py", "verifier", contient="conforme", nom="annonces : fichier des annonces conforme")
     e.lancer(o + "annonces.py", "reseau", "Min-ji", "--simule", contient="note", nom="annonces : réseau d'un répondant noté sur 100 (essai)")
     e.lancer(o + "telephone.py", "--json", contient='"epingle"', nom="téléphone : conversations épinglées (etat/epingles.csv)")
