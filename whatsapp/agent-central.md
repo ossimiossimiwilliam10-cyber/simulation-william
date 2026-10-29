@@ -422,3 +422,33 @@ Sur ta question, avec le pôle juridique virtuel :
 6. Sa convention prévoit aussi une sortie sans faute, la caducité si les seuils trimestriels ne sont pas atteints, et une non-concurrence de douze mois : je dois vérifier dans l'exemplaire signé si elle est indemnisée.
 
 Si tu veux une réponse ferme sur les statuts signés, une consultation de Me Gnamien coûterait environ une heure d'honoraires. Je ne la lance pas sans ton accord.
+**[21/08/2041 - 21:15 (Abidjan)] William :** Pas de consultation pour l'instant. Et désormais, dès qu'une occasion de renvoi pour motif grave se présente, dans les mois ou les années à venir, signale-la-moi. Autre chose : il faut les contrats. Où sont-ils ? Demande à Coulibaly de nous envoyer tous les contrats signés, sur l'adresse actuelle.
+**[21/08/2041 - 21:24 (Abidjan)] Agent central :** Reçu à 21h17. Pas de consultation. Veille notée : je te signalerai tout fait qui pourrait constituer une faute lourde, avec la pièce qui le prouve.
+
+Pour les contrats, je n'envoie pas de courriel à Coulibaly : ils sont déjà dans tes documents, et je me suis trompé tout à l'heure en disant n'avoir que la maquette. Tu as : la convention de mandat social de Coulibaly, signée le 7 août ; les contrats de Mariam Brou et d'Éric Koffi Yao, signés le 7 août ; l'expédition notariée des actes signés le 13 août ; le bail, reçu ce matin. Manque seulement le contrat de Viviane Tanoh, qui sera signé vendredi : je le demanderai à Coulibaly ce jour-là.
+
+Ce que disent les pièces signées :
+1. Les statuts ne disent rien de la révocation du président ; la convention renvoie aux statuts et à l'Acte uniforme. Tu peux donc le révoquer par décision d'associé unique, sans motif exigé.
+2. Article 5 de sa convention : s'il est révoqué à l'initiative de la société, hors faute lourde, la non-concurrence de douze mois lui est payée à 50 % de son fixe, soit 1 000 000 FCFA par mois, environ 12 millions de FCFA (18 300 €) en tout. Le vrai seuil de ton champ de manœuvre, c'est donc la faute lourde.
+3. Article 4 : objectif minimal de deux contrats clients au premier trimestre d'activité.
+4. Article 6 : son mandat à plein temps, et donc sa rémunération, prend effet le 1er octobre, pas en septembre. J'ai corrigé le calendrier : les besoins de septembre baissent d'environ 2,3 millions de FCFA.
+**[22/08/2041 - 20:00 (Abidjan)] Agent central :** Rapport final de la journée du jeudi 22 août 2041 (20h00). PDF dans tes documents (application Fichiers).
+
+DÉCISIONS
+1. Acompte de Froid Lagune Services. Le bailleur a donné son accord écrit ce matin. L'acompte de 2 768 000 FCFA dépend de ton versement de lundi 26 août, qui arrivera sur le compte de la société au mieux mercredi 28 ou jeudi 29. Or le prix de Froid Lagune Services n'est garanti que jusqu'au mercredi 28 août. Deux voies : (a) je demande à Coulibaly d'obtenir de Froid Lagune Services une prolongation de prix de quinze jours, par écrit ; (b) tu avances le versement 1 à demain vendredi, pour un crédit en début de semaine prochaine. Laquelle ?
+(Analyse : la voie a ne coûte rien mais peut échouer ; la voie b sort l'argent de ton épargne trois jours plus tôt.)
+
+AFFIRMATIONS VÉRIFIÉES
+- Coulibaly : « Le bailleur donne son accord écrit pour les travaux. » → VÉRIFIÉE : courrier de l'agence immobilière des Vallons du 22 août, 10h12, trois conditions.
+- Article 6 de la convention de mandat : rémunération de Coulibaly à partir du 1er octobre → VÉRIFIÉE sur l'exemplaire signé.
+
+ÉTAT DES PÔLES
+- Direction générale (Coulibaly) : accord du bailleur obtenu en moins d'une heure ; calendrier de la première tranche transmis ce matin ; gardiennage : le bailleur veut en parler lundi 26 août.
+- Commercial (Viviane Tanoh) : signature de son contrat demain vendredi à 10h00, à la villa.
+- Administration et finance (Mariam Brou) : rien sur CIE et SODECI.
+- Technique (Éric Koffi Yao) : rien de nouveau.
+- Pôle finance virtuel : ton complément de 2 683 € n'est toujours pas crédité ; le dépôt de garantie est dû demain au plus tard.
+- Veille « faute lourde » : rien à signaler.
+- Budget d'API : 43,86 € sur 1 000 € ce mois-ci.
+
+Prochain rapport : demain à 20h00.

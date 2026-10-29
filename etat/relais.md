@@ -1,71 +1,80 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 29/10/2026 20:10 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 29/10/2026 20:17 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : mercredi 21 août 2041, 21h12 (abidjan) ; tour n° 127
+- Horloge : jeudi 22 août 2041, 20h00 (abidjan) ; tour n° 128
 - Lieu de William : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-- En attente de William : Consultation de Me Gnamien sur la révocation de Coulibaly : oui ou non
+- En attente de William : Décision sur l'acompte de Froid Lagune Services (prolongation du prix ou versement 1 avancé)
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 127 ; horloge 21/08/2041 21:00 -> 21/08/2041 21:12 ; enregistré le 29/10/2026 20:10 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 128 ; horloge 21/08/2041 21:12 -> 22/08/2041 20:00 ; enregistré le 29/10/2026 20:17 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Ok, je valide du coup le calendrier de paiement. Maintenant, je m'entretiens du coup avec mon conseiller pour lui demander en fait qu'est-ce qui constituerait un motif grave pour un renvoi en fait, éventuellement de Koulibaly. Non pas que je souhaite le renvoyer, mais voilà, je souhaite savoir un peu quel est mon champ de manœuvre en fait.
+> Non, pas de consultation pour l'instant, et Go Ah oui, et aussi, s'il te plaît, dès qu'une opportunité se présentera pour un renvoi pour motif grave, signale-le-moi, s'il te plaît, au cours des mois ou des années futures. Qu'est-ce que je voulais dire d'autre? Oui, il faut les contrats. Ils sont où les contrats? Est-ce que c'est à moi qui... C'est ça, en fait. Parce qu'en fait, il faudrait que je te transmette les contrats. Donc, essaye d'envoyer un message à Koulibaly pour qu'il nous envoie tous les contrats signés. Donc, du coup, sur l'adresse mail actuelle.
 
 ## Texte envoyé au joueur
 
-**MERCREDI 21 AOÛT 2041 — 21h12 — Abidjan, Cocody Deux-Plateaux, résidence hôtelière**
+**JEUDI 22 AOÛT 2041 — 20h00 — Abidjan, Cocody Deux-Plateaux, résidence hôtelière**
 
 Tu écris à ton conseiller :
 
-« Je valide le calendrier de paiement. Autre question, sans que je souhaite le renvoyer : qu'est-ce qui constituerait un motif grave pour renvoyer Coulibaly ? Je veux connaître mon champ de manœuvre. »
+« Pas de consultation pour l'instant. Et désormais, dès qu'une occasion de renvoi pour motif grave se présente, dans les mois ou les années à venir, signale-la-moi. Autre chose : il faut les contrats. Où sont-ils ? Demande à Coulibaly de nous envoyer tous les contrats signés, sur l'adresse actuelle. »
 
-Réponse à 21h12 :
+Réponse à 21h24 :
 
-« Calendrier validé à 21h05 : versement de 20 000 € le lundi 26 août, puis de 40 000 € le mercredi 25 septembre, tous deux à l'agenda. J'en informe Coulibaly demain matin, pour qu'il planifie l'acompte et les salaires.
+« Reçu à 21h17. Pas de consultation. Veille notée : je te signalerai tout fait qui pourrait constituer une faute lourde, avec la pièce qui le prouve.
 
-Sur ta question, avec le pôle juridique virtuel :
+Pour les contrats, je n'envoie pas de courriel à Coulibaly : ils sont déjà dans tes documents, et je me suis trompé tout à l'heure en disant n'avoir que la maquette. Tu as : la convention de mandat social de Coulibaly, signée le 7 août ; les contrats de Mariam Brou et d'Éric Koffi Yao, signés le 7 août ; l'expédition notariée des actes signés le 13 août ; le bail, reçu ce matin. Manque seulement le contrat de Viviane Tanoh, qui sera signé vendredi : je le demanderai à Coulibaly ce jour-là.
 
-1. Coulibaly n'est pas salarié : il est mandataire social. Pas de licenciement, pas de Code du travail, pas d'inspection du travail. On parle de révocation.
-2. Dans une SAS, l'Acte uniforme OHADA laisse aux statuts le soin de fixer comment on révoque le président. Si les statuts signés le 13 août disent « à tout moment, sans motif », tu peux le révoquer par simple décision d'associé unique. S'ils exigent un juste motif, il te faudra un motif prouvé. Je n'ai que la maquette de juillet, pas l'exemplaire signé : il faut vérifier la clause sur l'expédition notariée que tu as reçue.
-3. Même sans motif exigé, une révocation brutale ou vexatoire (sans l'entendre, en public, avec des accusations non prouvées) peut lui ouvrir des dommages-intérêts.
-4. Ce qui serait sérieux, à condition de pouvoir le prouver : dépenser ou s'engager au-delà de 10 millions de FCFA sans ton accord écrit, ou signer un bail ou un recrutement de directeur sans toi ; utiliser l'argent de la société pour lui ou ses proches ; un conflit d'intérêts caché avec un fournisseur ; violer son exclusivité ; mentir sur un fait important ou cacher un risque grave.
-5. Ce qui ne suffit pas aujourd'hui : l'information sur Mme Tanoh donnée avec deux jours de retard, son « non » à l'ancienne adresse du projet, ou l'accord du bailleur pas encore demandé. Ce sont des faits à noter, pas des fautes graves.
-6. Sa convention prévoit aussi une sortie sans faute, la caducité si les seuils trimestriels ne sont pas atteints, et une non-concurrence de douze mois : je dois vérifier dans l'exemplaire signé si elle est indemnisée.
+Ce que disent les pièces signées :
+1. Les statuts ne disent rien de la révocation du président ; la convention renvoie aux statuts et à l'Acte uniforme. Tu peux donc le révoquer par décision d'associé unique, sans motif exigé.
+2. Article 5 de sa convention : s'il est révoqué à l'initiative de la société, hors faute lourde, la non-concurrence de douze mois lui est payée à 50 % de son fixe, soit 1 000 000 FCFA par mois, environ 12 millions de FCFA (18 300 €) en tout. Le vrai seuil de ton champ de manœuvre, c'est donc la faute lourde.
+3. Article 4 : objectif minimal de deux contrats clients au premier trimestre d'activité.
+4. Article 6 : son mandat à plein temps, et donc sa rémunération, prend effet le 1er octobre, pas en septembre. J'ai corrigé le calendrier : les besoins de septembre baissent d'environ 2,3 millions de FCFA. »
 
-Si tu veux une réponse ferme sur les statuts signés, une consultation de Me Gnamien coûterait environ une heure d'honoraires. Je ne la lance pas sans ton accord. »
+Tu t'endors vers 23h20 et te réveilles à 07h41. Petit-déjeuner monté à 08h ; la matinée est claire, le premier vrai soleil depuis trois jours, et la rue sent la poussière chaude dès neuf heures.
 
-Dans la chambre, le seul bruit est le ronron régulier du réfrigérateur du minibar ; dehors, un dernier woro-woro remonte la rue à vide.
+À 10h41, Mohamed Coulibaly, avec en pièce jointe un courrier de l'agence immobilière des Vallons :
 
-Il est 21h12.
+« Monsieur Ossimi, le bailleur donne son accord écrit pour les travaux, sous trois conditions : attestation d'assurance de l'entreprise, plan des cloisons, cloisons démontables. Courrier de l'agence en pièce jointe. Pour le gardiennage, M. Bamba veut en parler lundi. Je confirme Froid Lagune Services dès que l'acompte est disponible. M. Coulibaly. »
 
----
+Le courrier de l'agence, daté de 10h12, pose les conditions : attestation d'assurance de l'entreprise avant le début des travaux, plan d'implantation des cloisons, cloisons démontables reprises par la société en fin de bail ; les climatiseurs restent au bailleur, comme le dit le bail.
 
-**Réponses attendues**
-- **Directeur général virtuel** : lancer ou non une consultation de Me Gnamien (environ une heure d'honoraires) pour une réponse ferme, d'après les statuts signés, sur la révocation de Coulibaly.
+Le déjeuner monte à 13h. L'après-midi s'écoule sans rien de plus ; vers 17h, un vent tiède se lève et fait claquer un volet mal fermé à l'étage au-dessus.
 
-**À faire / à fournir avant le tour suivant**
-- Aucune démarche en cours.
+À 20h00, ton conseiller :
 
-**Quêtes secondaires**
-- Première tranche : versement de 20 000 € le lundi 26 août, puis de 40 000 € le mercredi 25 septembre, depuis ton épargne Projet.
-- Accord écrit du bailleur pour les travaux : demandé demain matin par Coulibaly ; le prix de Froid Lagune Services n'est garanti que jusqu'au mercredi 28 août.
-- Dépôt de garantie de 5 250 000 FCFA au plus tard vendredi 23 août ; ton complément de 2 683 € n'est pas encore crédité.
-- Signature du contrat de Viviane Tanoh : vendredi 23 août à 10h00, à la villa.
-- Prolongation du gardiennage : réponse de l'agence attendue jeudi.
-- Départ d'Abidjan le dimanche 25 août : règlement de la résidence à midi (1 690 €, plus les extras portés sur ta note), vol Air France AF703 vers Paris à 22h15.
+« Rapport final de la journée du jeudi 22 août 2041 (20h00). PDF dans tes documents (application Fichiers).
 
-Que veux-tu faire ?
+DÉCISIONS
+1. Acompte de Froid Lagune Services. Le bailleur a donné son accord écrit ce matin. L'acompte de 2 768 000 FCFA dépend de ton versement de lundi 26 août, qui arrivera sur le compte de la société au mieux mercredi 28 ou jeudi 29. Or le prix de Froid Lagune Services n'est garanti que jusqu'au mercredi 28 août. Deux voies : (a) je demande à Coulibaly d'obtenir de Froid Lagune Services une prolongation de prix de quinze jours, par écrit ; (b) tu avances le versement 1 à demain vendredi, pour un crédit en début de semaine prochaine. Laquelle ?
+(Analyse : la voie a ne coûte rien mais peut échouer ; la voie b sort l'argent de ton épargne trois jours plus tôt.)
+
+AFFIRMATIONS VÉRIFIÉES
+- Coulibaly : « Le bailleur donne son accord écrit pour les travaux. » → VÉRIFIÉE : courrier de l'agence immobilière des Vallons du 22 août, 10h12, trois conditions.
+- Article 6 de la convention de mandat : rémunération de Coulibaly à partir du 1er octobre → VÉRIFIÉE sur l'exemplaire signé.
+
+ÉTAT DES PÔLES
+- Direction générale (Coulibaly) : accord du bailleur obtenu en moins d'une heure ; calendrier de la première tranche transmis ce matin ; gardiennage : le bailleur veut en parler lundi 26 août.
+- Commercial (Viviane Tanoh) : signature de son contrat demain vendredi à 10h00, à la villa.
+- Administration et finance (Mariam Brou) : rien sur CIE et SODECI.
+- Technique (Éric Koffi Yao) : rien de nouveau.
+- Pôle finance virtuel : ton complément de 2 683 € n'est toujours pas crédité ; le dépôt de garantie est dû demain au plus tard.
+- Veille « faute lourde » : rien à signaler.
+- Budget d'API : 43,86 € sur 1 000 € ce mois-ci.
+
+Prochain rapport : demain à 20h00. »
+… (suite dans etat/dernier-tour.md, 80 lignes)
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
-- A121 Thu 22/08 17:00 (abidjan) | Mohamed Coulibaly : Réponse de l'agence de gardiennage (via le bailleur) sur la prolongation du gardiennage de la villa en septembre ; copie du bail promise « dès qu'il repasse à la villa » [prevu]  — promesses du 20/08 09h55 ; T18 si manquement
+- A127 Fri 23/08 10:00 (abidjan) | Viviane Tanoh · Mohamed Coulibaly : Signature du contrat de niveau 2 de Viviane Tanoh à la villa des Vallons (reportée du lundi 19/08 : préavis chez son employeur actuel) [prevu]  — annoncé par Coulibaly le 21/08 17h10
 
 ## Rituels du moteur dus (rituels.py)
 - rien
@@ -175,10 +184,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 60a920d ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 133f9dc ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 13 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 25 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

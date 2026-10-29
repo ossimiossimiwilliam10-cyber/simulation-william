@@ -8,3 +8,4 @@
 **[20/08/2041 - 17:14 (Abidjan)] Mohamed Coulibaly :** Bien reçu, Monsieur Ossimi. Photo transmise à l'agence, elle sera au poste dès ce soir.
 **[21/08/2041 - 06:40 (Abidjan)] William :** Bonjour Mohamed. Envoyez-moi la copie du bail sur mon adresse direction@soleil-b2b.ci, au plus vite s'il vous plaît.
 **[21/08/2041 - 06:42 (Abidjan)] Mohamed Coulibaly :** Bonjour Monsieur Ossimi. Entendu. L'original est dans l'armoire de la villa, je le scanne en arrivant et je vous l'envoie sur direction@ avant 9h.
+**[22/08/2041 - 10:41 (Abidjan)] Mohamed Coulibaly :** Monsieur Ossimi, le bailleur donne son accord écrit pour les travaux, sous trois conditions : attestation d'assurance de l'entreprise, plan des cloisons, cloisons démontables. Courrier de l'agence en pièce jointe. Pour le gardiennage, M. Bamba veut en parler lundi. Je confirme Froid Lagune Services dès que l'acompte est disponible. M. Coulibaly.

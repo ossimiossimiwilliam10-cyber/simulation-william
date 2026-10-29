@@ -4471,3 +4471,19 @@ Effets à jouer : A19 (dimanche 25/08 (soir)) : Un adulte attrape 2 à 4 rhumes 
 - Tirage [T7c] « Coulibaly reçoit de direction@ (signé William Ossimi) l'ordre de n'engager aucune commande ni acompte d'aménagement avant l'accord écrit du bailleur, et de solliciter cet accord (21/08/2041 20h15) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  75.2 → **execute_a_contrecoeur** (enregistré le 29/10/2026 20:05 heure machine)
 
 - Tirage [T10] « Mohamed Coulibaly : délai (accuse réception de l'interdiction de commande avant accord du bailleur) » : immediat 19 / rapide 33 / dans_l_heure 15 / dans_la_journee 14 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 4 ; modificateurs : M73 ; jet  65.4 → **dans_l_heure** (enregistré le 29/10/2026 20:05 heure machine)
+
+- Tirage [T7c] « Coulibaly reçoit de direction@ (signé William Ossimi) la demande de transmettre tous les contrats signés (statuts, convention de mandat, contrats des directeurs) (21/08/2041 21h18) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  17.4 → **execute_sans_discuter** (enregistré le 29/10/2026 20:14 heure machine)
+
+- Tirage [T10] « Mohamed Coulibaly : délai (transmet (ou non) les contrats signés) » : immediat 19 / rapide 33 / dans_l_heure 15 / dans_la_journee 14 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 4 ; modificateurs : M73 ; jet   8.0 → **immediat** (enregistré le 29/10/2026 20:14 heure machine)
+
+- Tirage [T12] « Bailleur (via l'agence) : demande de SOLEIL B2B CI de prolonger le gardiennage du bailleur au-delà du 31/08 jusqu'à la signature du contrat de la société (22/08/2041) » : maintient_sa_position 34 / concede_un_peu 22 / concede_beaucoup 6 / contre_propose_avantage 14 / exige_ecrit_d_abord 10 / invoque_alternative 8 / temporise 5 / frontal_retrait 1 ; modificateurs : aucun ; jet  96.2 → **temporise** (enregistré le 29/10/2026 20:15 heure machine)
+
+- Tirage [T10] « Bailleur (via l'agence) : réponse à la demande d'accord écrit pour les travaux d'aménagement (art. 7), demande faite le 22/08 vers 09h30 » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  53.5 → **dans_l_heure** (enregistré le 29/10/2026 20:15 heure machine)
+
+- Procédure « Crédit du complément CCA de 2 683 € (ordre SWIFT du 20/08 10h15) sur le compte SGCI » : vendredi 23/08 15:00 [PROCÉDURE : 1 à 3 jours ouvrés annoncés : jour tiré entre jeudi et vendredi] (enregistré le 29/10/2026 20:15 heure machine)
+
+- Tirage [T12] « Bailleur (via l'agence) : demande d'accord écrit pour les travaux de climatisation, cloisons et câblage (art. 7 du bail), 22/08/2041 » : maintient_sa_position 34 / concede_un_peu 22 / concede_beaucoup 6 / contre_propose_avantage 14 / exige_ecrit_d_abord 10 / invoque_alternative 8 / temporise 5 / frontal_retrait 1 ; modificateurs : aucun ; jet  36.6 → **concede_un_peu** (enregistré le 29/10/2026 20:15 heure machine)
+
+- Procédure « William : nuit du 21 au 22/08 » : coucher 23:19, lever 07:41 [PROCÉDURE : coucher 23h00-23h50, sommeil 7 h à 8 h 30] (enregistré le 29/10/2026 20:16 heure machine)
+
+- Procédure « Demande de contrats à Coulibaly (T7c execute_sans_discuter tiré à 21h18) » : sans objet [PROCÉDURE : le conseiller constate que les contrats signés sont déjà dans les documents de William et n'envoie pas le courriel] (enregistré le 29/10/2026 20:16 heure machine)
