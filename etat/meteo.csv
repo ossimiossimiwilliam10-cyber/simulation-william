@@ -65,3 +65,10 @@ date;type;tmin;tmax;pluie_mm;orage;soleil_h;brouillard;description;anomalie;tire
 2041-09-17;orage;16.7;21.1;1.2;oui;2.1;non;"Orage en fin d'après-midi ; 21 °C au plus chaud, 17 °C au petit matin ; 1,2 mm de pluie";2.99;2026-10-29T21:41
 2041-09-18;pluie;13.2;20.5;10.7;non;3.9;non;"Pluie ; 20 °C au plus chaud, 13 °C au petit matin ; 10,7 mm de pluie";2.55;2026-10-29T21:41
 2041-09-19;averses;14.1;22.0;2.2;non;1.0;non;"Averses ; 22 °C au plus chaud, 14 °C au petit matin ; 2,2 mm de pluie";4.22;2026-10-29T21:41
+2041-09-20;averses;13.7;19.7;1.0;non;1.2;non;"Averses ; 20 °C au plus chaud, 14 °C au petit matin ; 1 mm de pluie";2.11;2026-10-29T21:49
+2041-09-21;ensoleille;10.7;20.6;0.0;non;8.8;non;"Grand soleil ; 21 °C au plus chaud, 11 °C au petit matin";-0.30;2026-10-29T21:49
+2041-09-22;ensoleille;11.7;20.0;0.0;non;7.9;non;"Grand soleil ; 20 °C au plus chaud, 12 °C au petit matin";-0.74;2026-10-29T21:49
+2041-09-23;ensoleille;8.9;16.9;0.0;non;8.0;non;"Grand soleil ; 17 °C au plus chaud, 9 °C au petit matin";-3.64;2026-10-29T21:49
+2041-09-24;peu_nuageux;9.5;20.5;0.0;non;6.7;oui;"Soleil et quelques nuages ; brouillard au lever du jour ; 20 °C au plus chaud, 10 °C au petit matin";0.11;2026-10-29T21:49
+2041-09-25;averses;9.5;16.3;2.2;non;2.4;non;"Averses ; 16 °C au plus chaud, 9 °C au petit matin ; 2,2 mm de pluie";-0.34;2026-10-29T21:49
+2041-09-26;averses;10.2;16.5;2.9;non;1.7;non;"Averses ; 17 °C au plus chaud, 10 °C au petit matin ; 2,9 mm de pluie";0.06;2026-10-29T21:49

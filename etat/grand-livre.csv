@@ -53,11 +53,11 @@ date;heure;compte;montant;type;libelle;reference
 2041-10-10;06:00;courant;-253.00;prevu;Gaz naturel (chauffage, eau chaude, cuisson) : mensualisation;E004-20411010
 2041-11-11;06:00;courant;-253.00;prevu;Gaz naturel (chauffage, eau chaude, cuisson) : mensualisation;E004-20411111
 2041-12-10;06:00;courant;-253.00;prevu;Gaz naturel (chauffage, eau chaude, cuisson) : mensualisation;E004-20411210
-2041-09-16;06:00;courant;-63.00;prevu;Box internet fibre et forfait mobile;E005-20410916
+2041-09-16;06:00;courant;-63.00;prevu_realise;Box internet fibre et forfait mobile;E005-20410916
 2041-10-15;06:00;courant;-63.00;prevu;Box internet fibre et forfait mobile;E005-20411015
 2041-11-15;06:00;courant;-63.00;prevu;Box internet fibre et forfait mobile;E005-20411115
 2041-12-16;06:00;courant;-63.00;prevu;Box internet fibre et forfait mobile;E005-20411216
-2041-09-20;06:00;courant;-187.50;prevu;Eau et assainissement (Audun-le-Tiche);E006-20410920
+2041-09-20;06:00;courant;-187.50;prevu_realise;Eau et assainissement (Audun-le-Tiche);E006-20410920
 2041-10-07;06:00;courant;-45.00;prevu;Assurance habitation (maison, propriétaire occupant) : mensualisée;E007-20411007
 2041-11-05;06:00;courant;-45.00;prevu;Assurance habitation (maison, propriétaire occupant) : mensualisée;E007-20411105
 2041-12-05;06:00;courant;-45.00;prevu;Assurance habitation (maison, propriétaire occupant) : mensualisée;E007-20411205
@@ -84,7 +84,7 @@ date;heure;compte;montant;type;libelle;reference
 2041-11-04;06:00;courant;-12.83;prevu;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20411104
 2041-12-02;06:00;courant;-12.83;prevu;Package bancaire Zebra Premium (Spuerkeess) : compte, Visa Debit, Visa Premier;E015-20411202
 2041-08-16;12:33;courant;-24.30;prevu_realise;Abonnement à l'agent IA de William (formule Pro, engagement de 12 mois);E016-20410816
-2041-09-16;12:33;courant;-24.30;prevu;Abonnement à l'agent IA de William (formule Pro, engagement de 12 mois);E016-20410916
+2041-09-16;12:33;courant;-24.30;prevu_realise;Abonnement à l'agent IA de William (formule Pro, engagement de 12 mois);E016-20410916
 2041-10-16;12:33;courant;-24.30;prevu;Abonnement à l'agent IA de William (formule Pro, engagement de 12 mois);E016-20411016
 2041-11-18;12:33;courant;-24.30;prevu;Abonnement à l'agent IA de William (formule Pro, engagement de 12 mois);E016-20411118
 2041-12-16;12:33;courant;-24.30;prevu;Abonnement à l'agent IA de William (formule Pro, engagement de 12 mois);E016-20411216
@@ -116,3 +116,4 @@ date;heure;compte;montant;type;libelle;reference
 2041-11-04;08:00;projet;1487.00;prevu;Virement permanent vers le compte épargne (10 % de l'excédent net) (compte crédité);E012-20411104-C
 2041-11-04;08:00;courant;-5000.00;prevu;Virement permanent vers SOLEIL B2B CI (SGCI Plateau) : apport mensuel en compte courant d'associé;E017-20411104
 2041-09-12;18:30;courant;-94.10;mouvement;Visa Debit : Supermarché (Audun-le-Tiche) : courses de la semaine;K033
+2041-09-19;18:45;courant;-97.30;mouvement;Visa Debit : Supermarché (Audun-le-Tiche) : courses de la semaine;K034

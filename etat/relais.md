@@ -1,56 +1,56 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 29/10/2026 21:41 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 29/10/2026 21:49 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : dimanche 15 septembre 2041, 09h00 (luxembourg) ; tour n° 144
+- Horloge : dimanche 22 septembre 2041, 09h00 (luxembourg) ; tour n° 145
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Séance du dimanche : signature des actes, report des niveaux 3-4, prospection ; entraînement du dimanche ; programme de la rentrée
+- En attente de William : Séance du dimanche : assurance et cabinet comptable ; programme de la semaine du 23/09
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 144 ; horloge 08/09/2041 10:21 -> 15/09/2041 09:00 ; enregistré le 29/10/2026 21:41 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 145 ; horloge 15/09/2041 09:00 -> 22/09/2041 09:00 ; enregistré le 29/10/2026 21:49 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Option 2, et je lui confie les six tâches. Programme : entraînement lundi, mercredi, vendredi et dimanche ; pour la rentrée, comme d'habitude (irréprochable, pas de relations personnelles avec les élèves, pas de vie privée au travail, image clean).
+> Je signe, oui au report, Coulibaly finit fin septembre, Go. Programme : semaine de rentrée comme d'habitude (attitude irréprochable), entraînement le samedi seulement, soirées de détente. Go jusqu'au dimanche.
 
 ## Texte envoyé au joueur
 
-**DIMANCHE 15 SEPTEMBRE 2041 — 09h00 — Audun-le-Tiche (Moselle), chez toi**
+**DIMANCHE 22 SEPTEMBRE 2041 — 09h00 — Audun-le-Tiche (Moselle), chez toi**
 
-Dimanche dernier, à 10h30, tu réponds à ton conseiller : option 2, et les six tâches pour Coulibaly. Il confirme trois minutes plus tard : l'offre d'indemnité part le lendemain matin, avant les tâches.
+Dimanche dernier, tu dis à ton conseiller que tu signes, que les entretiens des niveaux 3 et 4 attendent octobre et que Coulibaly finit sa prospection d'ici fin septembre. Les deux actes s'ouvrent dans Fichiers ; tu les signes dans la matinée. Le reste du dimanche, tu ne t'entraînes pas : tu prépares tes affaires pour le lendemain et tu te couches tôt.
 
-La dernière semaine de vacances passe vite. Lundi, mercredi et vendredi, le club ; Lenny te réclame à chaque fois « un round de plus », et tu le lui donnes. Lundi, l'application Banque affiche le débit du relevé de ta Visa Premier : le séjour à Abidjan est soldé. Entre deux entraînements, tu ouvres une dernière fois tes progressions : tout est prêt pour lundi, les listes de classes chargées, le premier cours de chaque niveau imprimé et rangé dans le cartable. Jeudi soir, les courses, 94,10 €. Le reste du temps, la maison, le jardin, des soirées tranquilles. Ton conseiller ne t'écrit pas de la semaine.
+En rangeant ton téléphone, tu retrouves deux échanges de la semaine passée. Mardi 10, un courriel du secrétariat du lycée, signé Emma Gómez, avec ton emploi du temps définitif et l'ordre du jour de la réunion de rentrée. Samedi soir, un message de ta voisine du 14, Aurélie Martin, qui te demandait des cours particuliers pour son fils, en terminale à Thionville ; tu lui as répondu le soir même que tu n'en prenais pas cette année, et elle a écrit : « D'accord, tant pis. Merci quand même. »
 
-Ce dimanche matin, le ciel est clair et froid, onze degrés à peine ; les feuilles du cerisier commencent à jaunir. Demain, c'est la rentrée. À 08h55, ton conseiller :
+Lundi, la rentrée. Réveil à 06h00, quarante minutes de route dans la grisaille jusqu'à Luxembourg-Ville. La réunion plénière se tient dans la salle des fêtes du lycée. Le directeur, Max Rocha, la cinquantaine, un mètre soixante et onze environ, de corpulence moyenne, ouvre l'année au micro. Il a un visage rond et rasé de près, la peau claire marquée de couperose aux joues, des yeux bleu-gris vifs derrière des lunettes sans monture, une bouche mince qui sourit beaucoup en parlant. Ses cheveux sont gris, coupés court, clairsemés sur le dessus. Costume bleu marine, chemise blanche sans cravate ; quand il lève le bras pour montrer l'écran, la manche remonte sur un tatouage noir au poignet. Il passe du luxembourgeois au français puis à l'allemand sans transition, et glisse au passage deux conseils sur le sommeil et la gestion du stress que personne n'a demandés.
 
-« Séance du dimanche 15 septembre 2041, 09h00. Ordre du jour.
+En salle des professeurs, ton collègue de mathématiques Sam Ries, trente-sept ans, un mètre soixante-dix-neuf, mince sous un pull col rond bleu marine, te serre la main. Visage étroit, teint pâle, des lunettes rectangulaires à monture noire, une barbe de quelques jours, des cheveux châtains en bataille. Poli, presque cérémonieux : « Bonnes vacances ? » Tu réponds que oui, sans détail. Il n'insiste pas, mais son regard s'attarde une seconde sur ton bronzage.
 
-BILAN DE LA SEMAINE (9 au 15 septembre)
-- Indemnité de septembre : Coulibaly a accepté mardi sans discuter le million de FCFA et la reconnaissance d'être rempli de ses droits ; il a écrit qu'il « appréciait le geste ». Me Gnamien a rédigé jeudi l'avenant sur les jalons et la décision d'indemnité, pour un supplément de 50 000 FCFA hors taxes. Les deux actes sont dans tes documents, à signer.
-- Les six tâches : il les a prises, mais lentement, et son compte rendu de vendredi parle d'une « charge qui augmente avant ma prise de fonction ». Où il en est :
-  1. Conditions du bailleur : attestation d'assurance de Froid Lagune Services et plan des cloisons remis jeudi. Fait.
-  2. Assureurs : un devis sur deux, 820 000 FCFA par an pour la multirisque et la responsabilité civile.
-  3. Cabinets comptables : un devis sur deux, 180 000 FCFA par mois.
-  4. Prospection : douze entreprises cibles sur trente, aucun rendez-vous.
-  5. Niveaux 3 et 4 : il propose de reporter les entretiens à octobre, une fois Viviane Tanoh et Éric Koffi Yao en poste.
-  6. Moyens de paiement : carte de la société commandée à la SGCI, banque en ligne ouverte, double signature au-delà de 5 millions de FCFA.
-- CIE : toujours pas de visite technique. SODECI : rien.
-- Climatiseurs : livraison toujours annoncée pour mardi 17.
+La semaine se déroule comme tu l'avais décidé. En classe, cadre net dès la première heure, consignes, rythme. Aucun mot sur ta vie privée, aucun échange personnel avec les élèves. Les soirées, tu rentres, tu dînes et tu souffles : une série, un livre, au lit avant onze heures. Jeudi soir, les courses, 97,30 €. Samedi matin, deux heures au club ; Lenny te trouve « rouillé », tu lui prouves le contraire au troisième round. Ton conseiller ne t'écrit pas de la semaine.
+
+Ce dimanche, le ciel est blanc, il fait douze degrés. Tu t'installes avec un café. À 08h55, ton conseiller :
+
+« Séance du dimanche 22 septembre 2041, 09h00. Ordre du jour.
+
+BILAN DE LA SEMAINE (16 au 22 septembre)
+- Actes : tu as signé dimanche dernier ; Coulibaly a contresigné l'avenant et la décision d'indemnité jeudi. L'indemnité d'un million de FCFA sera payée le 30 septembre.
+- Climatiseurs : Froid Lagune Services annonce lundi soir un retard du fournisseur et du dédouanement ; livraison repoussée « vers le 1er octobre ». L'acompte est versé, aucune pénalité prévue au devis.
+- Viviane Tanoh : paludisme, diagnostiqué jeudi, quelques jours de repos. Coulibaly pense que sa prise de fonction du 1er octobre est maintenue.
+- Prospection : vingt entreprises cibles sur trente, un rendez-vous obtenu, une usine d'emballage à Vridi, le jeudi 3 octobre. Coulibaly est arrivé avec deux heures de retard à un rendez-vous d'assureur jeudi, coincé sur le pont.
+- Deuxièmes devis reçus : assurance 760 000 FCFA par an (contre 820 000) ; cabinet comptable 150 000 FCFA par mois (contre 180 000).
+- Comptes rendus de Coulibaly : mardi et vendredi, à l'heure.
 
 DÉCISIONS À PRENDRE
-1. Signer l'avenant et la décision d'indemnité (signature électronique, depuis Fichiers) ? Oui ou non.
-2. Niveaux 3 et 4 : accepter le report des entretiens à octobre ? Oui ou non.
-3. Prospection : douze cibles, aucun rendez-vous. On lui laisse jusqu'à fin septembre pour les trente cibles et trois rendez-vous, ou on attend l'arrivée de Viviane Tanoh ?
+1. Assurance multirisque et responsabilité civile : le devis à 760 000 FCFA par an, ou celui à 820 000, dont la franchise est plus basse ?
+2. Cabinet comptable : celui à 150 000 FCFA par mois, qui ne fait pas la paie, ou celui à 180 000, paie comprise ?
 
 POUR INFORMATION
-- Ton relevé Visa Premier a été débité lundi.
-- Trésorerie de la société : environ 12,8 millions de FCFA ; le versement de 40 000 € arrive le 25.
+- Mercredi 25 septembre : ton versement de 40 000 €. Trésorerie de la société avant ce versement : environ 12,7 millions de FCFA.
 - Veille « faute lourde » : rien à signaler. »
 
 Il est 09h00.
@@ -58,42 +58,35 @@ Il est 09h00.
 ---
 
 **Réponses attendues**
-- **Ton conseiller (séance du dimanche)** : trois décisions :
-  1. signer l'avenant et la décision d'indemnité ? Oui ou non ;
-  2. reporter les entretiens des niveaux 3 et 4 à octobre ? Oui ou non ;
-  3. prospection : laisser Coulibaly finir d'ici fin septembre (trente cibles, trois rendez-vous), ou attendre l'arrivée de Viviane Tanoh.
+- **Ton conseiller (séance du dimanche)** : deux décisions :
+  1. assurance : le devis à 760 000 FCFA par an, ou celui à 820 000, à franchise plus basse ;
+  2. cabinet comptable : 150 000 FCFA par mois sans la paie, ou 180 000 FCFA paie comprise.
 
 **À faire / à fournir avant le tour suivant**
-- Tes décisions pour la séance ; entraînement prévu aujourd'hui (club, le dimanche de 09h00 à 13h00).
-- Ton programme de la semaine du 16 au 22 septembre (rentrée), si tu veux l'avance automatique.
+- Tes décisions pour la séance.
+- Ton programme de la semaine du 23 au 29 septembre, pour l'avance automatique.
 
 **Quêtes secondaires**
-- Demain, lundi 16 septembre : rentrée scolaire.
-- Mardi 17 septembre : livraison des climatiseurs de la villa.
 - Mercredi 25 septembre : versement de 40 000 € (première tranche).
-… (suite dans etat/dernier-tour.md, 63 lignes)
+- Lundi 30 septembre : indemnité d'un million de FCFA à Coulibaly.
+- Mardi 1er octobre : prise de fonction de Mariam Brou, Viviane Tanoh et Éric Koffi Yao ; climatiseurs annoncés vers cette date.
+- Jeudi 3 octobre : rendez-vous de prospection chez une usine d'emballage de Vridi.
+… (suite dans etat/dernier-tour.md, 62 lignes)
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
-- A002 Mon 16/09 08:00 (luxembourg) | Lycée de William : Rentrée scolaire 2041-2042 (reprise des cours, 22 leçons normales + 3 leçons sup) [latent]  — rentrée officielle fixée au lundi 16 septembre 2041 (MENJE)
+- rien
 
 ## Rituels du moteur dus (rituels.py)
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_annonce : T4/T5 du dimanche 25/08 non trouvés -> python outils/savoir.py t5
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_art14 : T4/T5 du dimanche 25/08 non trouvés -> python outils/savoir.py t5
-- [EN RETARD] synthese_semaine : memoire/semaine-2041-W35.md absent (semaine close le 01/09/2041) -> écrire memoire/semaine-2041-W35.md
-- [EN RETARD] t4_t5_dimanche : affaire_projet_ci_annonce : T4/T5 du dimanche 01/09 non trouvés -> python outils/savoir.py t5
-- [EN RETARD] t4_t5_dimanche : affaire_projet_ci_art14 : T4/T5 du dimanche 01/09 non trouvés -> python outils/savoir.py t5
-- [EN RETARD] synthese_semaine : memoire/semaine-2041-W36.md absent (semaine close le 08/09/2041) -> écrire memoire/semaine-2041-W36.md
-- [EN RETARD] t4_t5_dimanche : affaire_projet_ci_annonce : T4/T5 du dimanche 08/09 non trouvés -> python outils/savoir.py t5
-- [EN RETARD] t4_t5_dimanche : affaire_projet_ci_art14 : T4/T5 du dimanche 08/09 non trouvés -> python outils/savoir.py t5
 - [DÛ] synthese_semaine : ce soir : synthèse de la semaine, T4/T5 des affaires ouvertes -> python outils/savoir.py t5
 - [EN RETARD] message_proche : message spontané d'un proche (semaine du 26/08) non tiré -> python outils/rituels.py message-proche --semaine 2041-08-26
 - [EN RETARD] monde_semaine : nouvelles du monde de la semaine du 26/08 absentes de etat/monde.md -> ## Semaine du 26 au 01/09/2041
 - [EN RETARD] revue_lundi : revue du lundi 02/09/2041 absente -> memoire/revue-lundi-2041-09-02.md
-- [EN RETARD] tirage_aleas : aléas de la semaine du 02/09/2041 non tirés -> python outils/tirage_aleas.py 2041-09-02
 - [EN RETARD] message_proche : message spontané d'un proche (semaine du 02/09) non tiré -> python outils/rituels.py message-proche --semaine 2041-09-02
 - [EN RETARD] revue_lundi : revue du lundi 09/09/2041 absente -> memoire/revue-lundi-2041-09-09.md
-- [EN RETARD] tirage_aleas : aléas de la semaine du 09/09/2041 non tirés -> python outils/tirage_aleas.py 2041-09-09
 - [EN RETARD] message_proche : message spontané d'un proche (semaine du 09/09) non tiré -> python outils/rituels.py message-proche --semaine 2041-09-09
+- [EN RETARD] message_proche : message spontané d'un proche (semaine du 16/09) non tiré -> python outils/rituels.py message-proche --semaine 2041-09-16
 
 ## Décisions en attente de William (etat/fils-ouverts.md, A)
 | 1 | **Organisation des vacances d'été 2041** | Premier jour des grandes vacances scolaires (du mardi 16/07/2041 au dimanche 15/09/2041). Choix des projets, voyages, rythme de vie ou déplacements estivaux. Budget vacances disponible : 833 €/mois (10 000 €/an). ; *(26/07 10h30) projet de mission à Abidjan à l'étude (fenêtre idéale : 12 au 25 août 2041, pendant la fermeture estivale du club de combat) pour rencontrer Mohamed Coulibaly, Me Gnamien et valider le QG* ; *(26/07 18h30) déplacement de 14 jours validé par William (du lundi 12 au dimanche 25 août 2041, pendant la fermeture annuelle du Minett Combat Club)* ; *(27/07 08h45) mission Abidjan calée du 12 au 25 août 2041 (14 jours) : vol Air France retenu depuis Luxembourg-Findel (1 285 € A/R), option confirmée sur résidence hôtelière F2 sécurisée à Cocody Deux-Plateaux (1 690 €), carnet international à jour (vaccin fièvre jaune confirmé par William)* ; *(27/07 20h00) vol Air France réglé (1 285 € sur Visa Premier, K002), pré-enrôlement e-visa SNEDAI payé et validé (73 € sur Visa Premier, K003), option résidence sécurisée Cocody active (1 690 €) ; logistique de mission Abidjan bouclée* ; *(31/07 11h20) aléa administratif A09 résolu : anomalie d'inversion des prénoms sur le portail SNEDAI rectifiée en ligne, attestation officielle de pré-enrôlement e-visa biométrique reçue (entrée FHB validée)* ; *(11/08 21h30) (11/08 21h30) Preparatifs acheves la veille du depart : voiture chargee a 100 %, reveil regle a 04h15 pour vol AF1233 Findel-CDG-Abidjan du lundi 12 aout a 06h50 ; bagages et documents physiques prets* ; *(12/08 21h00) (12/08 21h00) Arrivée sans incident à Abidjan par le vol AF702 via Paris CDG ; formalités sanitaires et e-visa biométrique SNEDAI franchies avec succès à FHB ; installation dans l'appartement F2 climatisé de la résidence hôtelière à Cocody Deux-Plateaux ; prise de contact confirmée avec Mohamed Coulibaly pour la signature notariée des statuts et du mandat DG chez Me Gnamien mardi 13 août à 10h00* ; *(13/08 09h50) (13/08 09h50) Trajet matinal avec Mohamed Coulibaly via le pont HKB, arrivée au Cabinet de Me Gnamien au Plateau à 09h50, retrouvailles avec Mariam Brou à l'accueil, attente de l'entrée en salle de signature à 10h00 ; Revue du lundi n° 4 présentée au joueur (P27 à P31)* | Ouvert |
@@ -200,10 +193,10 @@ Il est 09h00.
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : e910d3b ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : a035b82 ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 32 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 40 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

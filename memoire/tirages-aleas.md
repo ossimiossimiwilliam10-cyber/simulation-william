@@ -4615,3 +4615,163 @@ Aucun aléa déclenché cette semaine.
 - Procédure « William : nuits du 08/09 au 15/09 (avance hebdomadaire) » : 08/09 23:24-06:27 ; 09/09 22:58-07:27 ; 10/09 23:14-07:53 ; 11/09 22:35-05:40 ; 12/09 22:51-07:20 ; 13/09 22:42-06:19 ; 14/09 23:02-06:08 [PROCÉDURE : coucher 22h30-23h30, sommeil 7 h à 8 h 40] (enregistré le 29/10/2026 21:41 heure machine)
 
 - Actualités de la semaine du 09/09/2041 : modèles LU01, LU03, FR01 [PROCÉDURE : outils/actualites.py] (enregistré le 29/10/2026 21:41 heure machine)
+
+## Tirage de la semaine du 2041-09-02
+
+| ID | Événement | Probabilité | Jet (0-100) | Résultat |
+|---|---|---|---|---|
+| A01 | Maladie d'un membre de l'équipe (paludisme, gastro, typhoïde) | 10 % |  76.6 | non |
+| A02 | Problème de santé d'un proche d'un personnage (ex. mère d'Aïcha, tension) | 8 % |  10.2 | non |
+| A04 | Délestage / coupure d'électricité prolongée | 25 % |   0.8 | **DÉCLENCHÉ** — jeudi 05/09 (soir) |
+| A05 | Fortes pluies / inondation | 15 % |  90.1 | non |
+| A06 | Retard fournisseur ou douane (NVR, onduleurs, batteries) | 30 % |  16.1 | **DÉCLENCHÉ** — lundi 02/09 (matin) |
+| A07 | Panne réseau (fibre, 4G) ou banque en ligne | 15 % |  94.8 | non |
+| A09 | Erreur administrative (virement mal affecté, pièce perdue, nom mal orthographié) | 10 % |  50.5 | non |
+| A12 | Fuite d'information (salaires, avances, statut de William) | 5 % |  72.8 | non |
+| A13 | Opportunité commerciale inattendue (recommandation, appel d'un prospect) | 10 % |  74.5 | non |
+| A17 | William lui-même malade ou épuisé (fatigue, gastro) | 5 % |  19.9 | non |
+| A18 | Incident de transport (taxi, panne, retard) | 15 % |  41.6 | non |
+| A19 | Rhume, angine ou gastro de William | 5 % |   2.1 | **DÉCLENCHÉ** — samedi 07/09 (matin) |
+| A20 | Perturbation des trajets frontaliers (bus en retard, A4 ou N4 bouchée, travaux) | 20 % |  91.2 | non |
+| A21 | Panne domestique (chauffe-eau, électroménager, fuite) | 4 % |  84.8 | non |
+| A22 | Courrier administratif (impôts français ou luxembourgeois, CNS, mairie, banque) | 10 % |  77.9 | non |
+| A23 | Tentative d'arnaque (SMS de faux colis, faux conseiller bancaire, faux site) | 15 % |  53.2 | non |
+| A24 | Souci de voisinage (bruit, travaux, haie, stationnement) | 5 % |  33.8 | non |
+| A25 | Blessure légère à l'entraînement (entorse, côte, doigt) | 1 % |  26.9 | non |
+| A26 | Imprévu d'argent (amende, réparation, cadeau, cotisation) | 6 % |  91.2 | non |
+| A27 | Signe d'un ancien (collègue, élève devenu adulte, connaissance) | 8 % |  13.3 | non |
+| A28 | Courriel ou appel du lycée pendant les vacances (réunion de rentrée, ajournements, emploi du temps) | 10 % |  18.1 | non |
+| A29 | Contrôle routier ou radar | 3 % |  35.6 | non |
+| A30 | Occasion inattendue (proposition de cours particuliers, invitation, bon plan) | 8 % |  34.9 | non |
+| A31 | Diarrhée du voyageur ou intoxication alimentaire (à l'étranger) | 12 % |  21.9 | non |
+| A35 | Surfacturation ou arnaque visant un touriste (taxi, boutique, bar) | 5 % |  52.5 | non |
+| A36 | Malentendu de langue (adresse mal comprise, commande erronée, document en coréen) | 10 % |  48.5 | non |
+| A37 | Embouteillage, pont saturé ou route coupée à Abidjan (un trajet de William ou de l'équipe prend une à deux heures de plus) | 30 % |   5.8 | **DÉCLENCHÉ** — vendredi 06/09 (matin) ; touché : Yves |
+| A38 | Contrôle routier ou guichet : un agent sollicite un « geste » (2 000 à 10 000 FCFA) | 10 % |  61.2 | non |
+| A39 | Paludisme de William (séjour en zone d'endémie) | 0.5 % |  39.3 | non |
+| A40 | Départ d'un directeur pendant sa période d'essai (préavis court, recrutement à refaire) | 5 % |  78.4 | non |
+| A41 | Retard de paiement d'un client (15 à 90 jours) | 30 % |  87.8 | non |
+
+Effets à jouer : A04 (jeudi 05/09 (soir)) : (avant : « univers 1 » → maintenant : actif à Abidjan, P39 validée le 29/10/2026)  QG sans groupe électrogène (hors service) ; chantiers et visites perturbés ; A06 (lundi 02/09 (matin)) : (avant : « univers 1 » → maintenant : actif à Abidjan, P39 validée le 29/10/2026)  Délai supplémentaire ; l'excuse du fournisseur est plausible mais pas toujours vraie ; A19 (samedi 07/09 (matin)) : Un adulte attrape 2 à 4 rhumes par an ; 1 à 4 jours diminué (corps.py noter --type malade) ; A37 (vendredi 06/09 (matin) ; touché : Yves) : Seulement quand William ou l'équipe circule à Abidjan ; ajouté le 29/10/2026 (P39, validée par l'utilisateur)
+
+## Tirage de la semaine du 2041-09-09
+
+| ID | Événement | Probabilité | Jet (0-100) | Résultat |
+|---|---|---|---|---|
+| A01 | Maladie d'un membre de l'équipe (paludisme, gastro, typhoïde) | 10 % |  18.3 | non |
+| A02 | Problème de santé d'un proche d'un personnage (ex. mère d'Aïcha, tension) | 8 % |  19.8 | non |
+| A04 | Délestage / coupure d'électricité prolongée | 25 % |  78.4 | non |
+| A05 | Fortes pluies / inondation | 15 % |  84.3 | non |
+| A06 | Retard fournisseur ou douane (NVR, onduleurs, batteries) | 30 % |  77.2 | non |
+| A07 | Panne réseau (fibre, 4G) ou banque en ligne | 15 % |  28.2 | non |
+| A09 | Erreur administrative (virement mal affecté, pièce perdue, nom mal orthographié) | 10 % |  79.9 | non |
+| A12 | Fuite d'information (salaires, avances, statut de William) | 5 % |  23.6 | non |
+| A13 | Opportunité commerciale inattendue (recommandation, appel d'un prospect) | 10 % |  81.4 | non |
+| A17 | William lui-même malade ou épuisé (fatigue, gastro) | 5 % |  53.6 | non |
+| A18 | Incident de transport (taxi, panne, retard) | 15 % |  20.8 | non |
+| A19 | Rhume, angine ou gastro de William | 5 % |  87.1 | non |
+| A20 | Perturbation des trajets frontaliers (bus en retard, A4 ou N4 bouchée, travaux) | 20 % |  58.0 | non |
+| A21 | Panne domestique (chauffe-eau, électroménager, fuite) | 4 % |  66.9 | non |
+| A22 | Courrier administratif (impôts français ou luxembourgeois, CNS, mairie, banque) | 10 % |  22.2 | non |
+| A23 | Tentative d'arnaque (SMS de faux colis, faux conseiller bancaire, faux site) | 15 % |  85.0 | non |
+| A24 | Souci de voisinage (bruit, travaux, haie, stationnement) | 5 % |  38.8 | non |
+| A25 | Blessure légère à l'entraînement (entorse, côte, doigt) | 1 % |   6.3 | non |
+| A26 | Imprévu d'argent (amende, réparation, cadeau, cotisation) | 6 % |  91.9 | non |
+| A27 | Signe d'un ancien (collègue, élève devenu adulte, connaissance) | 8 % |  87.4 | non |
+| A28 | Courriel ou appel du lycée pendant les vacances (réunion de rentrée, ajournements, emploi du temps) | 10 % |   3.7 | **DÉCLENCHÉ** — mardi 10/09 (après-midi) |
+| A29 | Contrôle routier ou radar | 3 % |  44.8 | non |
+| A30 | Occasion inattendue (proposition de cours particuliers, invitation, bon plan) | 8 % |   4.3 | **DÉCLENCHÉ** — samedi 14/09 (soir) |
+| A31 | Diarrhée du voyageur ou intoxication alimentaire (à l'étranger) | 12 % |  45.8 | non |
+| A35 | Surfacturation ou arnaque visant un touriste (taxi, boutique, bar) | 5 % |  42.1 | non |
+| A36 | Malentendu de langue (adresse mal comprise, commande erronée, document en coréen) | 10 % |   3.5 | **DÉCLENCHÉ** — dimanche 15/09 (matin) |
+| A37 | Embouteillage, pont saturé ou route coupée à Abidjan (un trajet de William ou de l'équipe prend une à deux heures de plus) | 30 % |  37.1 | non |
+| A38 | Contrôle routier ou guichet : un agent sollicite un « geste » (2 000 à 10 000 FCFA) | 10 % |  44.9 | non |
+| A39 | Paludisme de William (séjour en zone d'endémie) | 0.5 % |  82.5 | non |
+| A40 | Départ d'un directeur pendant sa période d'essai (préavis court, recrutement à refaire) | 5 % |  88.9 | non |
+| A41 | Retard de paiement d'un client (15 à 90 jours) | 30 % |  48.4 | non |
+
+Effets à jouer : A28 (mardi 10/09 (après-midi)) : Le moteur règle le taux selon la période (le tirage lit le premier) ; A30 (samedi 14/09 (soir)) : Nouvelle piste ; rien n'est acquis ; A36 (dimanche 15/09 (matin)) : Validé le 22/10/2026 (R3) ; jamais de refus, un détour ou un retard
+
+## Tirage de la semaine du 2041-09-16
+
+| ID | Événement | Probabilité | Jet (0-100) | Résultat |
+|---|---|---|---|---|
+| A01 | Maladie d'un membre de l'équipe (paludisme, gastro, typhoïde) | 10 % |   3.1 | **DÉCLENCHÉ** — jeudi 19/09 (matin) ; touché : Grace |
+| A02 | Problème de santé d'un proche d'un personnage (ex. mère d'Aïcha, tension) | 8 % |  33.4 | non |
+| A04 | Délestage / coupure d'électricité prolongée | 25 % |  50.0 | non |
+| A05 | Fortes pluies / inondation | 15 % |  41.5 | non |
+| A06 | Retard fournisseur ou douane (NVR, onduleurs, batteries) | 30 % |  11.4 | **DÉCLENCHÉ** — lundi 16/09 (soir) |
+| A07 | Panne réseau (fibre, 4G) ou banque en ligne | 15 % |  46.9 | non |
+| A09 | Erreur administrative (virement mal affecté, pièce perdue, nom mal orthographié) | 10 % |  55.9 | non |
+| A12 | Fuite d'information (salaires, avances, statut de William) | 5 % |  95.0 | non |
+| A13 | Opportunité commerciale inattendue (recommandation, appel d'un prospect) | 10 % |  57.6 | non |
+| A17 | William lui-même malade ou épuisé (fatigue, gastro) | 5 % |  45.5 | non |
+| A18 | Incident de transport (taxi, panne, retard) | 15 % |  45.6 | non |
+| A19 | Rhume, angine ou gastro de William | 5 % |  18.8 | non |
+| A20 | Perturbation des trajets frontaliers (bus en retard, A4 ou N4 bouchée, travaux) | 20 % |  41.9 | non |
+| A21 | Panne domestique (chauffe-eau, électroménager, fuite) | 4 % |  10.9 | non |
+| A22 | Courrier administratif (impôts français ou luxembourgeois, CNS, mairie, banque) | 10 % |  67.9 | non |
+| A23 | Tentative d'arnaque (SMS de faux colis, faux conseiller bancaire, faux site) | 15 % |  37.7 | non |
+| A24 | Souci de voisinage (bruit, travaux, haie, stationnement) | 5 % |  86.6 | non |
+| A25 | Blessure légère à l'entraînement (entorse, côte, doigt) | 1 % |  83.7 | non |
+| A26 | Imprévu d'argent (amende, réparation, cadeau, cotisation) | 6 % |  53.9 | non |
+| A27 | Signe d'un ancien (collègue, élève devenu adulte, connaissance) | 8 % |  73.7 | non |
+| A28 | Courriel ou appel du lycée pendant les vacances (réunion de rentrée, ajournements, emploi du temps) | 10 % |  94.5 | non |
+| A29 | Contrôle routier ou radar | 3 % |  67.2 | non |
+| A30 | Occasion inattendue (proposition de cours particuliers, invitation, bon plan) | 8 % |  31.0 | non |
+| A31 | Diarrhée du voyageur ou intoxication alimentaire (à l'étranger) | 12 % |  39.3 | non |
+| A35 | Surfacturation ou arnaque visant un touriste (taxi, boutique, bar) | 5 % |   2.0 | **DÉCLENCHÉ** — mardi 17/09 (soir) |
+| A36 | Malentendu de langue (adresse mal comprise, commande erronée, document en coréen) | 10 % |  54.1 | non |
+| A37 | Embouteillage, pont saturé ou route coupée à Abidjan (un trajet de William ou de l'équipe prend une à deux heures de plus) | 30 % |   2.2 | **DÉCLENCHÉ** — jeudi 19/09 (après-midi) ; touché : Moussa (gardien) |
+| A38 | Contrôle routier ou guichet : un agent sollicite un « geste » (2 000 à 10 000 FCFA) | 10 % |  30.4 | non |
+| A39 | Paludisme de William (séjour en zone d'endémie) | 0.5 % |  82.5 | non |
+| A40 | Départ d'un directeur pendant sa période d'essai (préavis court, recrutement à refaire) | 5 % |  52.1 | non |
+| A41 | Retard de paiement d'un client (15 à 90 jours) | 30 % |  77.1 | non |
+
+Effets à jouer : A01 (jeudi 19/09 (matin) ; touché : Grace) : (avant : « univers 1 » → maintenant : actif à Abidjan, P39 validée le 29/10/2026)  Absence de 2 à 5 jours ; qui est touché : tirer parmi les salariés ; saison des pluies = plus fréquent ; A06 (lundi 16/09 (soir)) : (avant : « univers 1 » → maintenant : actif à Abidjan, P39 validée le 29/10/2026)  Délai supplémentaire ; l'excuse du fournisseur est plausible mais pas toujours vraie ; A35 (mardi 17/09 (soir)) : Validé le 22/10/2026 (R3) ; montant tiré dans une fourchette réaliste (prix.py) ; le contrôle des taxis de Séoul existe (F093) ; A37 (jeudi 19/09 (après-midi) ; touché : Moussa (gardien)) : Seulement quand William ou l'équipe circule à Abidjan ; ajouté le 29/10/2026 (P39, validée par l'utilisateur)
+
+- Tirage [T4] « affaire_projet_ci_annonce : escalade externe, semaine du 01/09 (tirage tardif pour 01/09 et 08/09) » : aucune 99.7 / frontal_escalade 0.3 ; modificateurs : aucun ; jet   1.5 → **aucune** (enregistré le 29/10/2026 21:47 heure machine)
+
+- Tirage [T5] « affaire_projet_ci_annonce : fuite, semaine du 01/09 (tirage tardif pour 01/09 et 08/09) » : fuite_externe 14 / fuite_interne 40 / aucune 46 ; modificateurs : aucun ; jet  61.3 → **aucune** (enregistré le 29/10/2026 21:47 heure machine)
+
+- Tirage [T4] « affaire_projet_ci_art14 : escalade externe, semaine du 01/09 (tirage tardif pour 01/09 et 08/09) » : aucune 99.7 / frontal_escalade 0.3 ; modificateurs : aucun ; jet  73.3 → **aucune** (enregistré le 29/10/2026 21:47 heure machine)
+
+- Tirage [T5] « affaire_projet_ci_art14 : fuite, semaine du 01/09 (tirage tardif pour 01/09 et 08/09) » : fuite_externe 1 / fuite_interne 3 / aucune 96 ; modificateurs : aucun ; jet  12.2 → **aucune** (enregistré le 29/10/2026 21:47 heure machine)
+
+- Tirage [T4] « affaire_projet_ci_annonce : escalade externe, semaine du 08/09 (tirage tardif pour 01/09 et 08/09) » : aucune 99.7 / frontal_escalade 0.3 ; modificateurs : aucun ; jet  32.9 → **aucune** (enregistré le 29/10/2026 21:47 heure machine)
+
+- Tirage [T5] « affaire_projet_ci_annonce : fuite, semaine du 08/09 (tirage tardif pour 01/09 et 08/09) » : fuite_externe 14 / fuite_interne 40 / aucune 46 ; modificateurs : aucun ; jet  64.6 → **aucune** (enregistré le 29/10/2026 21:47 heure machine)
+
+- Tirage [T4] « affaire_projet_ci_art14 : escalade externe, semaine du 08/09 (tirage tardif pour 01/09 et 08/09) » : aucune 99.7 / frontal_escalade 0.3 ; modificateurs : aucun ; jet  60.4 → **aucune** (enregistré le 29/10/2026 21:47 heure machine)
+
+- Tirage [T5] « affaire_projet_ci_art14 : fuite, semaine du 08/09 (tirage tardif pour 01/09 et 08/09) » : fuite_externe 1 / fuite_interne 3 / aucune 96 ; modificateurs : aucun ; jet  50.8 → **aucune** (enregistré le 29/10/2026 21:47 heure machine)
+
+- Tirage [T4] « affaire_projet_ci_annonce : escalade externe, semaine du 15/09 (tirage tardif pour 01/09 et 08/09) » : aucune 99.7 / frontal_escalade 0.3 ; modificateurs : aucun ; jet  50.8 → **aucune** (enregistré le 29/10/2026 21:47 heure machine)
+
+- Tirage [T5] « affaire_projet_ci_annonce : fuite, semaine du 15/09 (tirage tardif pour 01/09 et 08/09) » : fuite_externe 14 / fuite_interne 40 / aucune 46 ; modificateurs : aucun ; jet  65.8 → **aucune** (enregistré le 29/10/2026 21:47 heure machine)
+
+- Tirage [T4] « affaire_projet_ci_art14 : escalade externe, semaine du 15/09 (tirage tardif pour 01/09 et 08/09) » : aucune 99.7 / frontal_escalade 0.3 ; modificateurs : aucun ; jet  20.0 → **aucune** (enregistré le 29/10/2026 21:47 heure machine)
+
+- Tirage [T5] « affaire_projet_ci_art14 : fuite, semaine du 15/09 (tirage tardif pour 01/09 et 08/09) » : fuite_externe 1 / fuite_interne 3 / aucune 96 ; modificateurs : aucun ; jet   1.3 → **fuite_interne** (enregistré le 29/10/2026 21:47 heure machine)
+
+- Tirage [T22] « Front H002 « Abonnements CIE et SODECI de la villa des Vallons » : semaine du 16/09/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  48.8 → **zero_segment** (enregistré le 29/10/2026 21:47 heure machine)
+
+- Tirage [T22] « Front H004 « Lagune Kilowatt réagit à l'arrivée de SOLEIL B2B CI » : semaine du 16/09/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  44.5 → **zero_segment** (enregistré le 29/10/2026 21:47 heure machine)
+
+- Tirage [T22] « Front H005 « Comoé Solaire Services tente de débaucher l'équipe » : semaine du 16/09/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  73.9 → **un_segment** (enregistré le 29/10/2026 21:47 heure machine)
+
+- Tirage [T22] « Front H006 « Ébène Watt casse les prix chez les petits clients » : semaine du 16/09/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  65.7 → **un_segment** (enregistré le 29/10/2026 21:47 heure machine)
+
+- Procédure « Aléa A01 (jeudi 19/09) : membre de l'équipe touché » : Viviane Tanoh [PROCÉDURE : tirage uniforme parmi les quatre dirigeants (le nom donné par tirage_aleas.py est un nom générique)] (enregistré le 29/10/2026 21:47 heure machine)
+
+- Tirage [T14] « Max Rocha, directeur du lycée, après réception du dossier de la demande d'avis de William (article 14) pendant la semaine de rentrée (16-20/09/2041) » : aucune 63 / message_routine 12 / demande 10 / information 8 / partage_personnel 4 / plainte_ou_tension 3 ; modificateurs : aucun ; jet   9.1 → **aucune** (enregistré le 29/10/2026 21:47 heure machine)
+
+- Jet « Mohamed Coulibaly tient sa promesse : contresigne l'avenant et la décision d'indemnité avant le 20/09 » : probabilité 90 %, jet  89.2 → **OUI** [PROCÉDURE : fiabilité tirée du personnage (lenteur.py)] (enregistré le 29/10/2026 21:48 heure machine)
+
+- Jet « Mohamed Coulibaly tient sa promesse : envoie son compte rendu du mardi 17/09 17h00 » : probabilité 90 %, jet  22.8 → **OUI** [PROCÉDURE : fiabilité tirée du personnage (lenteur.py)] (enregistré le 29/10/2026 21:48 heure machine)
+
+- Jet « Mohamed Coulibaly tient sa promesse : envoie son compte rendu du vendredi 20/09 12h00 » : probabilité 90 %, jet  33.2 → **OUI** [PROCÉDURE : fiabilité tirée du personnage (lenteur.py)] (enregistré le 29/10/2026 21:48 heure machine)
+
+- Procédure « William : nuits du 15/09 au 22/09 (semaine de rentrée, lever 06h00-06h30 en semaine) » : 15/09 22:34-06:26 ; 16/09 22:34-06:28 ; 17/09 22:15-06:18 ; 18/09 23:07-06:19 ; 19/09 23:07-06:14 ; 20/09 22:44-06:18 ; 21/09 22:22-07:10 [PROCÉDURE : coucher 22h15-23h15 ; lever de semaine fixé par les cours] (enregistré le 29/10/2026 21:48 heure machine)
+
+- Actualités de la semaine du 16/09/2041 : modèles LU03, LU04, FR01 [PROCÉDURE : outils/actualites.py] (enregistré le 29/10/2026 21:49 heure machine)

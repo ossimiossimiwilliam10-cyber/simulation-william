@@ -675,3 +675,22 @@ POUR INFORMATION
 - Ton relevé Visa Premier a été débité lundi.
 - Trésorerie de la société : environ 12,8 millions de FCFA ; le versement de 40 000 € arrive le 25.
 - Veille « faute lourde » : rien à signaler.
+**[15/09/2041 - 09:10 (Luxembourg)] William :** Je signe. Oui au report des niveaux 3 et 4 en octobre. Coulibaly finit la prospection d'ici fin septembre.
+**[15/09/2041 - 09:13 (Luxembourg)] Agent central :** Noté. Je t'ouvre les deux actes pour la signature électronique dans Fichiers ; Coulibaly reçoit tes trois décisions demain matin.
+**[22/09/2041 - 08:55 (Luxembourg)] Agent central :** Séance du dimanche 22 septembre 2041, 09h00. Ordre du jour.
+
+BILAN DE LA SEMAINE (16 au 22 septembre)
+- Actes : tu as signé dimanche dernier ; Coulibaly a contresigné l'avenant et la décision d'indemnité jeudi. L'indemnité d'un million de FCFA sera payée le 30 septembre.
+- Climatiseurs : Froid Lagune Services annonce lundi soir un retard du fournisseur et du dédouanement ; livraison repoussée « vers le 1er octobre ». L'acompte est versé, aucune pénalité prévue au devis.
+- Viviane Tanoh : paludisme, diagnostiqué jeudi, quelques jours de repos. Coulibaly pense que sa prise de fonction du 1er octobre est maintenue.
+- Prospection : vingt entreprises cibles sur trente, un rendez-vous obtenu, une usine d'emballage à Vridi, le jeudi 3 octobre. Coulibaly est arrivé avec deux heures de retard à un rendez-vous d'assureur jeudi, coincé sur le pont.
+- Deuxièmes devis reçus : assurance 760 000 FCFA par an (contre 820 000) ; cabinet comptable 150 000 FCFA par mois (contre 180 000).
+- Comptes rendus de Coulibaly : mardi et vendredi, à l'heure.
+
+DÉCISIONS À PRENDRE
+1. Assurance multirisque et responsabilité civile : le devis à 760 000 FCFA par an, ou celui à 820 000, dont la franchise est plus basse ?
+2. Cabinet comptable : celui à 150 000 FCFA par mois, qui ne fait pas la paie, ou celui à 180 000, paie comprise ?
+
+POUR INFORMATION
+- Mercredi 25 septembre : ton versement de 40 000 €. Trésorerie de la société avant ce versement : environ 12,7 millions de FCFA.
+- Veille « faute lourde » : rien à signaler.
