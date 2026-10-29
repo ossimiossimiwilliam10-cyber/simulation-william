@@ -1,7 +1,7 @@
 sens;poste;montant_fcfa;periodicite;debut;fin;statut;source
 apport;Avance en compte courant d'associé de William (8 000 €, SGCI Plateau);5247656;unique;2041-08-16;;fait;grand livre CCA-20410816-01 (5,25 M FCFA)
 apport;Première tranche de l'investissement (60 000 €, sur résultats vérifiés);39357420;unique;;;prevu;annonce et plan d'investissement (tranches 20/45/35 %) : date à fixer par William
-depense;Dépôt de garantie et premier loyer du bail de la villa des Vallons;9000000;unique;2041-08-19;;a_confirmer;compte rendu de signature du 16/08 (Coulibaly) : règlement différé en début de semaine du 19/08, dès compensation du virement d'associé · montant exact non transmis (cadrage du 13/08 : 9 M FCFA pour 3 mois de caution et 2 mois d'avance) · bail signé le 16/08/2041 : 9 M FCFA dus au bailleur (relevé bancaire du propriétaire transmis par Mohamed Coulibaly) · paiement non relevé dans les fichiers
+depense;Dépôt de garantie du bail de la villa des Vallons (3 mois);5250000;unique;2041-08-20;;a_confirmer;Coulibaly (WhatsApp du 20/08 09h55) : dépôt de 3 mois = 5 250 000 FCFA, premier loyer de 1 750 000 FCFA au 1er septembre (ligne du loyer) · copie du bail non reçue · avant : 9 000 000 FCFA (cadrage du 13/08)
 depense;Climatisation et aménagement de la villa (8 climatiseurs, cloisons, câblage);6500000;unique;;;prevu;cadrage budgétaire du 13/08/2041 (estimation, avant devis)
 depense;Mobilier de bureau et cantine;4800000;unique;;;prevu;cadrage budgétaire du 13/08/2041 (estimation)
 depense;Parc informatique et réseau;8500000;unique;;;prevu;cadrage budgétaire du 13/08/2041 (estimation)
