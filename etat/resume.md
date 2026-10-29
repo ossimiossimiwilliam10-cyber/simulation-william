@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 29/10/2026 20:52 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 29/10/2026 21:02 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : dimanche 25/08/2041 16:25 (abidjan, UTC+0)
+## Horloge : dimanche 25/08/2041 16:58 (abidjan, UTC+0)
 - **Lieu de William** : Abidjan, aéroport Félix-Houphouët-Boigny (hall des départs)
-- **Heure dans les autres lieux** : lisbonne 17:25 ; luxembourg 18:25 ; mindelo 15:25 ; casablanca 16:25 ; douala 17:25 ; addis 19:25 ; manille 00:25 ; paris 18:25 ; seoul 01:25 ; bresil 13:25
+- **Heure dans les autres lieux** : lisbonne 17:58 ; luxembourg 18:58 ; mindelo 15:58 ; casablanca 16:58 ; douala 17:58 ; addis 19:58 ; manille 00:58 ; paris 18:58 ; seoul 01:58 ; bresil 13:58
 - **En attente de William** :
-  - Lancer le plan des leviers 1-3 (oui ou non) ; garantie acceptée pour le crédit-bail
+  - Plan rectifié (oui ou non) ; redirection des ordres permanents (date, montant)
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 268,29 €**
@@ -38,9 +38,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-08-25.md, 6 dernières lignes)
-> - Tirages du tour : T24b → annule (98,49) ; procédure : après 4 min.
-> - Tour en cours à 15h00, en attente de William : **Séance du dimanche avec le conseiller : trois décisions (gardiennage, CIE-SODECI, Froid Lagune) ; vol AF703 22h15**.
 > - **15h00-15h47** (tour n° 134) : Séance du dimanche : trois décisions (prolonger le gardiennage du bailleur, prix à obtenir ; CIE-SODECI à la charge de Coulibaly cette semaine, A133 ; Coulibaly confirme seul Froid Lagune, A132) envoyées à 15h10. Analyse de trésorerie (PDF documents_william/2041-08-25_Analyse_Tresorerie_Soleil_B2B_CI.pdf) : charge fixe ≈ 17 200 €/mois (coût employeur ≈ 1,4 × net, 
 > - Tour en cours à 15h47, en attente de William : **Choix des leviers de trésorerie ; enregistrement du vol AF703 en soirée**.
 > - **15h47-16h25** (tour n° 135) : Chiffrage des leviers 1-3 (PDF documents_william/2041-08-25_Chiffrage_Leviers_Tresorerie.pdf) : étalement du mobilier, location du pickup (≈ 700 000 FCFA/mois, estimation), crédit-bail informatique (apport 1,7 M, 272 000 FCFA/mois, garantie probablement exigée), jalons de 25 000 € sur la deuxième tranche. Caisse : mi-décembre (leviers 1-2), mi-février avec deux co
 > - Tour en cours à 16h25, en attente de William : **Lancer le plan des leviers 1-3 (oui ou non) ; garantie acceptée pour le crédit-bail**.
+> - **16h25-16h58** (tour n° 136) : William refuse de toucher à l'ETF et à la caution personnelle ; propose de rediriger ses ordres permanents (732 € épargne + 5 755 € ETF = 6 487 €/mois, échéancier) vers la société. Plan rectifié v2 (PDF) : informatique réduite à ≈ 3,5 M FCFA sans crédit-bail ; caisse jusqu'à mi-janvier sans contrat, mai avec deux contrats ; consommation nette ≈ 11 760 €/mois ; épa
+> - Tour en cours à 16h58, en attente de William : **Plan rectifié (oui ou non) ; redirection des ordres permanents (date, montant)**.
