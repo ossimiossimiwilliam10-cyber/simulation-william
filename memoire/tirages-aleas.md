@@ -4330,3 +4330,7 @@ Effets à jouer : A07 (mercredi 14/08 (soir)) : Retard d'un virement, d'un envoi
 - Tirage [T7c] « Coulibaly recoit le protocole de reporting journalier par pole et le systeme d alerte critique » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  86.5 → **execute_a_contrecoeur** (enregistré le 29/10/2026 11:44 heure machine)
 
 - Tirage [T10] « Heure de reponse de Coulibaly au protocole de reporting » : immediat 19 / rapide 33 / dans_l_heure 15 / dans_la_journee 14 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 4 ; modificateurs : M73 ; jet  43.0 → **rapide** (enregistré le 29/10/2026 11:44 heure machine)
+
+- Tirage [T7c] « Coulibaly recoit la validation de son format de reporting agile par KPIs » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  61.4 → **execute_sans_discuter** (enregistré le 29/10/2026 11:51 heure machine)
+
+- Tirage [T10] « Heure de reponse de Coulibaly a la validation du reporting KPIs » : immediat 19 / rapide 33 / dans_l_heure 15 / dans_la_journee 14 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 4 ; modificateurs : M73 ; jet  96.3 → **plus_tard_ou_jamais** (enregistré le 29/10/2026 11:51 heure machine)

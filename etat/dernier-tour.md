@@ -1,43 +1,43 @@
 # Dernier tour montré au joueur
 
-> Tour n° 101 ; horloge 17/08/2041 12:30 -> 17/08/2041 18:30 ; enregistré le 29/10/2026 11:46 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 102 ; horloge 17/08/2041 18:30 -> 17/08/2041 22:30 ; enregistré le 29/10/2026 11:53 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Alors, je décide donc d'aller déjeuner dans un restaurant à proximité, puis je rentrerai chez moi et je vais encore bosser. En fait, je vais essayer de mettre en place un système concernant les rapports. Donc, je dis à mon équipe virtuelle d'en informer du coup Koulibaly. Voilà comment on va fonctionner. En gros, quand du coup toute l'équipe aura pris ses fonctions, quand l'entreprise tournera correctement, je voudrais qu'il m'envoie un rapport journalier le plus détaillé que possible sur comment s'est passée la journée, bref, et par pôle en fait. Et il faudra donc qu'il demande des rapports également à chaque pôle. Comme ça, vraiment, j'aurai un rapport. Il devra donc l'envoyer sur l'adresse mail, comme d'habitude, hein, pour que l'équipe virtuelle, du coup, garde ce rapport. Et en fait, maintenant, l'équipe virtuelle va analyser ce rapport. Et moi, en fait, dans un jour de la semaine, je déciderai quand travailler sur ces rapports. Comme par exemple ce que j'ai fait hier. Essayer un peu d'analyser comment va l'entreprise, puis je ferai un retour pour Koulibaly. Mais si jamais, du coup, lors de l'analyse des rapports par l'équipe virtuelle, il y a un point qui est particulièrement urgent et alarmant, alors là, il faut qu'elle m'envoie une notification. Et il faut que je traite ce problème en priorité. Comme ça, vraiment, moi, ça me simplifiera grandement la tâche. Et ça me permettra de prendre des décisions rapidement et mieux condenser. Donc, je demande à l'équipe virtuelle d'envoyer, du coup, un message à Koulibaly en lui informant un peu des dispositions. Et vraiment qu'ils prennent ça vraiment au sérieux, comme d'habitude, quoi, avec son sérieux légendaire.
+> Je décide du coup d'accepter l'arbitrage sur le format de reporting quotidien proposé par Koulibaly. C'est vrai qu'il a raison sur ce point-là, je dois l'admettre. /goal /browser /plan /grill-me /teamwork /learn /boost
 
 ## Texte envoyé au joueur
 
-**SAMEDI 17 AOÛT 2041 — 18h30 — Abidjan (Cocody Deux-Plateaux), résidence hôtelière**
+**SAMEDI 17 AOÛT 2041 — 22h30 — Abidjan (Cocody Deux-Plateaux), résidence hôtelière**
 
 *(« Koulibaly » réfère à Mohamed Coulibaly).*
 
-À douze heures trente, après avoir refermé les grilles de la villa des Vallons, tu marches quelques minutes dans les allées calmes du quartier pour rejoindre le restaurant Le Comptoir des Artisans. Installé dans la salle climatisée, tu commandes un déjeuner complet : filet de mérou grillé aux aromates, purée d'igname et légumes sautés, réglé vingt-deux euros cinquante centimes sur ta carte Visa Premier.
+À dix-huit heures quarante-cinq, après avoir relu posément l'argumentaire de Mohamed Coulibaly, tu tranches en faveur du bon sens opérationnel. Tu reconnais sans détour la justesse de sa mise en garde : contraindre des directeurs de terrain comme Éric Yao et Viviane Tanoh à rédiger chaque soir de longues dissertations bureaucratiques après des heures passées sur des toitures d'usines à Vridi ou dans les embouteillages d'Abidjan nuirait directement à leur énergie commerciale et technique. L'enjeu d'une gouvernance à distance efficace réside dans la clarté des chiffres et la rapidité du signal, non dans l'empilement de prose.
 
-À treize heures quarante-cinq, une course en VTC te ramène à ta résidence hôtelière. Tu retrouves la fraîcheur silencieuse de ton appartement pour engager une nouvelle séquence de travail de fond avec ton équipe virtuelle sur l'application Gestion.
+Tu formalises cette décision dans la directive de gouvernance [2041-08-17_Validation_Format_Reporting_Agile_KPIs.pdf](file:///c:/Users/User/Desktop/simulation-william/documents_william/2041-08-17_Validation_Format_Reporting_Agile_KPIs.pdf), transmise à Mohamed Coulibaly via l'espace de direction :
+- **Matrice synthétique de cinq indicateurs clés par pôle** : Remplie en moins de dix minutes en fin de journée par chaque responsable opérationnel (avancement des chantiers et kWc posés pour Yao, rendez-vous B2B et closing PPA pour Tanoh, trésorerie disponible et créances pour Brou), accompagnée de trois à cinq faits marquants concis.
+- **Consolidation par la Direction Générale** : Mohamed Coulibaly compilera quotidiennement ces trois fiches dans un tableau de bord condensé transmis chaque soir d'ouverture à l'adresse institutionnelle de la société.
+- **Traitement automatisé et revue hebdomadaire** : L'équipe d'audit virtuelle assurera l'archivage et le recoupement instantané avec les flux bancaires. De ton côté, tu réserves l'analyse stratégique approfondie à tes sessions de travail de fin de semaine, ce qui préserve ton recul de fondateur.
+- **Sanctuarisation de l'alerte rouge** : Le filtre d'escalade immédiate reste actif pour toute défaillance critique (impayé client de plus de quinze jours, arrêt d'installation ou contentieux réglementaire).
 
-De quatorze heures trente à seize heures, tu structures l'organisation du reporting opérationnel pour la phase de croisière qui débutera au premier septembre :
-- **Remontée quotidienne par pôle** : Chaque directeur opérationnel (Éric Koffi Yao pour la Technique, Viviane Tanoh pour le Commercial, Mariam Brou pour la DAF) adressera chaque soir son compte-rendu d'activité à Mohamed Coulibaly.
-- **Consolidation par la Direction Générale** : Mohamed Coulibaly compilera ces données au sein d'un Rapport Journalier d'Exploitation structuré par pôle, expédié chaque soir ouvrable à l'adresse institutionnelle de la direction.
-- **Traitement automatisé et revue hebdomadaire** : L'équipe virtuelle archivera et vérifiera la cohérence de ces rapports face aux flux de trésorerie et aux contrats. De ton côté, afin d'éviter la dispersion quotidienne, tu choisiras un jour par semaine pour une analyse approfondie et un retour stratégique consolidé à Coulibaly.
-- **Dispositif d'alerte rouge** : Tout incident critique ou alarmant (impayé client dépassant quinze jours, avarie technique majeure non résolue sous vingt-quatre heures, conflit réglementaire ou anomalie financière) déclenchera une notification d'urgence prioritaire sur ton interface pour arbitrage immédiat.
+À dix-neuf heures quarante-cinq, tu passes commande auprès du room-service de la résidence. On te monte un poulet braisé aux épices douces avec des bananes plantains frites et une salade croquante, pour un montant de dix-neuf euros cinquante centimes réglé sur ta carte Visa Premier. Tu dînes tranquillement dans le séjour climatisé, dans le calme retrouvé de la soirée.
 
-Ces directives sont formalisées dans la note de gouvernance [2041-08-17_Cadrage_Protocole_Reporting_Quotidien_et_Escalade_Critique.pdf](file:///c:/Users/User/Desktop/simulation-william/documents_william/2041-08-17_Cadrage_Protocole_Reporting_Quotidien_et_Escalade_Critique.pdf) et transmises à Mohamed Coulibaly en lui demandant d'y appliquer sa rigueur coutumière.
+De vingt heures trente à vingt-deux heures, tu profites de ce moment de répit pour t'étirer longuement et relire quelques dossiers sectoriels sur l'énergie solaire en Afrique de l'Ouest, notamment l'évolution des grilles tarifaires industrielles de la Compagnie Ivoirienne d'Électricité. Ton corps est en excellente condition, bien reposé après une semaine dense d'arbitrages juridiques, d'inspections sur site et de structuration managériale.
 
-À dix-sept heures quinze, Mohamed Coulibaly te transmet son accusé de réception officiel [2041-08-17_Courriel_Mohamed_Coulibaly_Accuse_Protocole_Reporting_et_Propositions_Format.pdf](file:///c:/Users/User/Desktop/simulation-william/courriels/2041-08-17_Courriel_Mohamed_Coulibaly_Accuse_Protocole_Reporting_et_Propositions_Format.pdf). Le directeur général confirme la prise en compte scrupuleuse de tes instructions et salue la pertinence du filtre d'alerte rouge. Néanmoins, il t'expose avec précaution et déférence ses réticences sur la lourdeur d'un rapport quotidien rédigé pour des cadres opérationnels. Il rappelle qu'Éric Yao et Viviane Tanoh passeront leurs journées sur le terrain — toitures d'usines à Vridi ou Yopougon, réunions industrielles et embouteillages d'Abidjan. Leur imposer une rédaction littéraire quotidienne à leur retour risque d'engendrer un surmenage bureaucratique rapide. Pour concilier ton exigence de contrôle et leur efficacité de terrain, Coulibaly propose un compromis pragmatique : une matrice standardisée de cinq indicateurs chiffrés clés par pôle, assortie de trois à cinq puces factuelles sur les points marquants, demandant moins de dix minutes à renseigner tout en te garantissant une visibilité chirurgicale.
+Sur ton téléphone, aucun message n'est parvenu de Fatoumata Gnagne. Fidèle à ta retenue et à ton refus de toute démarche insistante, tu n'envoies aucune relance et laisses le temps faire son œuvre.
 
-À dix-huit heures trente, le soleil décline sur Cocody et la chaleur de l'après-midi retombe. Le protocole de supervision à distance de SOLEIL B2B CÔTE D'IVOIRE est prêt à être étalonné.
+À vingt-deux heures trente, le silence règne sur les Deux-Plateaux. Tous les voyants de la constitution de SOLEIL B2B CÔTE D'IVOIRE sont au vert avant le repos dominical.
 
 ***
 
 **Réponses attendues**
-- Arbitrage sur le format de reporting quotidien proposé par Mohamed Coulibaly : validation de la matrice agile à 5 indicateurs clés (KPIs) pour les directeurs de terrain ou exigence d'un format littéraire plus détaillé.
+- Aucune réponse urgente en suspens pour ce soir.
 
 **À faire / à fournir avant le tour suivant**
-- Programme de ta soirée du samedi 17 août à Abidjan (dîner en room-service ou sortie, détente, lecture).
+- Programme de ta journée du dimanche 18 août (repos, footing matinal de 5 km, travail de prospective ou sortie dans Abidjan).
 
 **Quêtes secondaires**
 - Suivi de la relation avec Fatoumata Gnagne : poursuite de l'attente passive.
-- Calendrier de la semaine à venir : supervision du lancement des devis d'aménagement de la villa des Vallons par Mohamed Coulibaly.
+- Préparation de la semaine du 19 août : Mohamed Coulibaly engagera la consultation des artisans pour les devis d'aménagement de la villa des Vallons dès lundi matin.
 
 Que veux-tu faire ?

@@ -122,3 +122,4 @@ def generer_courriel_reponse_coulibaly_reporting():
 if __name__ == "__main__":
     generer_note_protocole_reporting()
     generer_courriel_reponse_coulibaly_reporting()
+

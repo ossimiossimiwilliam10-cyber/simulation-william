@@ -31,3 +31,4 @@ Ces directives sont formalisées dans la note de gouvernance [2041-08-17_Cadrage
 - Calendrier de la semaine à venir : supervision du lancement des devis d'aménagement de la villa des Vallons par Mohamed Coulibaly.
 
 Que veux-tu faire ?
+

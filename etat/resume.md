@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 29/10/2026 11:46 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 29/10/2026 11:54 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : samedi 17/08/2041 18:30 (abidjan, UTC+0)
-- **Lieu de William** : Abidjan (Cocody Deux-Plateaux), residence hoteliere
-- **Heure dans les autres lieux** : lisbonne 19:30 ; luxembourg 20:30 ; mindelo 17:30 ; casablanca 19:30 ; douala 19:30 ; addis 21:30 ; manille 02:30 ; paris 20:30 ; seoul 03:30 ; bresil 15:30
+## Horloge : samedi 17/08/2041 22:30 (abidjan, UTC+0)
+- **Lieu de William** : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
+- **Heure dans les autres lieux** : lisbonne 23:30 ; luxembourg 00:30 ; mindelo 21:30 ; casablanca 23:30 ; douala 23:30 ; addis 01:30 ; manille 06:30 ; paris 00:30 ; seoul 07:30 ; bresil 19:30
 - **En attente de William** :
-  - Arbitrage sur le format de reporting quotidien (KPIs vs litteraire) et programme de la soiree du samedi
+  - Programme du dimanche 18 août (repos, sport, reprise contact)
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 243,99 €**
@@ -36,8 +36,8 @@
 
 ## Fin du dernier journal (2041-08-17.md, 6 dernières lignes)
 > - **12h30-18h30** (tour n° 101) : voir le texte exact du tour (journal/tours/).
-> - Tirages du tour : T7c → execute_a_contrecoeur (86,5) ; T10 → rapide (43,0).
-> - Tour en cours à 18h30, en attente de William : **Arbitrage sur le format de reporting quotidien (KPIs vs littéraire) et programme de la soirée du samedi**.
-> - **12h30-18h30** (tour n° 101) : voir le texte exact du tour (journal/tours/).
 > - Tirages du tour : T7c → execute_a_contrecoeur (86,52) ; T10 → rapide (43,0).
 > - Tour en cours à 18h30, en attente de William : **Arbitrage sur le format de reporting quotidien (KPIs vs litteraire) et programme de la soiree du samedi**.
+> - **18h30-22h30** (tour n° 102) : Arbitrage format reporting KPIs validé pour Coulibaly ; dîner room-service K011 (19,50 €) ; soirée calme
+> - Tirages du tour : T7c → execute_sans_discuter (61,35) ; T10 → plus_tard_ou_jamais (96,26).
+> - Tour en cours à 22h30, en attente de William : **Programme du dimanche 18 août (repos, sport, reprise contact)**.
