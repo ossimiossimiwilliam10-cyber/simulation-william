@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 29/10/2026 19:58 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 29/10/2026 20:00 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mercredi 21/08/2041 08:57 (abidjan, UTC+0)
+## Horloge : mercredi 21/08/2041 20:00 (abidjan, UTC+0)
 - **Lieu de William** : Abidjan (Cocody Deux-Plateaux), résidence hôtelière
-- **Heure dans les autres lieux** : lisbonne 09:57 ; luxembourg 10:57 ; mindelo 07:57 ; casablanca 09:57 ; douala 09:57 ; addis 11:57 ; manille 16:57 ; paris 10:57 ; seoul 17:57 ; bresil 05:57
+- **Heure dans les autres lieux** : lisbonne 21:00 ; luxembourg 22:00 ; mindelo 19:00 ; casablanca 21:00 ; douala 21:00 ; addis 23:00 ; manille 04:00 ; paris 22:00 ; seoul 05:00 ; bresil 17:00
 - **En attente de William** :
-  - Signature des courriels envoyés depuis direction@ à choisir ; réponse de Coulibaly sur Viviane Tanoh ; dépouillement 16h00 ; rapport 20h00
+  - Deux décisions du rapport de 20h00 (accord écrit du bailleur avant commande ; calendrier de la première tranche)
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 268,29 €**
@@ -15,11 +15,10 @@
 - Patrimoine net de William : **847 707,35 €**
 - Prévu dans les 14 jours : 30/08 Traitement mensuel de William (9 320,00 €) ; 02/09 Minett Combat Club (-85,00 €) ; 02/09 Package bancaire Zebra Premium (-12,83 €) ; 02/09 Virement permanent vers le compte épargne (-732,00 €) ; 02/09 Virement permanent vers le compte épargne (732,00 €) ; 02/09 Virement permanent vers le compte-titres ETF (-5 755,00 €) ; 02/09 Virement permanent vers le compte-titres ETF (5 755,00 €)
 
-## Agenda : dans les 24 heures (2)
-- A117 Wed 21/08 16:00 (abidjan) | Mohamed Coulibaly : Dépouillement des devis d'aménagement de la villa des Vallons (prix, délai de livraison des climatiseurs, références) [prevu]  — annoncé le 19/08 (DCE transmis par Coulibaly, P32) ; front H003 (avance par événement) à faire avancer au dépouillement
-- A126 Wed 21/08 17:10 (abidjan) | Mohamed Coulibaly : Répond au courriel de l'équipe du projet sur la signature du contrat de Viviane Tanoh [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — T7c execute_sans_discuter, T10 immediat calé sur ses horaires (fin de travail 17h10) : signature reportée, Viviane Tanoh retenue par son employeur actuel (préavis) ; nouvelle date proposée vendredi 23/08 à 10h00 à la villa ; le DGV relaie à William
-## Agenda : de J+1 à J+7 (4)
+## Agenda : dans les 24 heures (1)
 - A121 Thu 22/08 17:00 (abidjan) | Mohamed Coulibaly : Réponse de l'agence de gardiennage (via le bailleur) sur la prolongation du gardiennage de la villa en septembre ; copie du bail promise « dès qu'il repasse à la villa » [prevu]  — promesses du 20/08 09h55 ; T18 si manquement
+## Agenda : de J+1 à J+7 (4)
+- A127 Fri 23/08 10:00 (abidjan) | Viviane Tanoh · Mohamed Coulibaly : Signature du contrat de niveau 2 de Viviane Tanoh à la villa des Vallons (reportée du lundi 19/08 : préavis chez son employeur actuel) [prevu]  — annoncé par Coulibaly le 21/08 17h10
 - A125 Fri 23/08 23:59 (abidjan) | SOLEIL B2B CI (Mohamed Coulibaly) : Échéance du dépôt de garantie de 5 250 000 FCFA au bailleur (article 6 du bail) [prevu]  — bail signé le 16/08, copie reçue le 21/08 ; à défaut, suspension possible de la remise des lieux
 - A111 Sun 25/08 12:00 (abidjan) | Résidence hôtelière (Cocody Deux-Plateaux) : Départ de la résidence et règlement du séjour du 12 au 25 août : 1 690 € (empreinte de la Visa Premier prise à l'arrivée) ; bagages gardés à la réception jusqu'au soir [prevu]  — U3-19 : la résidence n'avait jamais été réglée ; le jour dit : python outils/cartes.py payer --carte visa_premier --montant 1690 --marchand "Résidence hôtelière Deux-Plateaux" --quand "2041-08-25 12:00"
 - A112 Sun 25/08 22:15 (abidjan) | Air France : Vol retour AF703 Abidjan (FHB) → Paris-CDG (arrivée le 26/08 vers 05h45), puis correspondance vers Luxembourg-Findel ; billet aller-retour réglé le 27/07 (1 285 €) [prevu]  — U3-19 : le retour n'était pas à l'agenda ; horaire d'après l'AF703 de 2026 (départ vers 22h15, F119) ; quitter la résidence vers 19h00 (trajet et contrôles)
@@ -39,9 +38,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-08-21.md, 6 dernières lignes)
-> - **08h41-08h49** (tour n° 123) : Nouveau courriel du DGV à Coulibaly (08h47) sur la signature de Viviane Tanoh. T7c execute_sans_discuter, T10 immediat calé à 17h10 (fin de travail) : réponse cachée A126.
-> - Tirages du tour : procédure : 08:41 ; T7c Mohamed → execute_sans_discuter (5,93) ; T10 Mohamed → immediat (7,09).
-> - Tour en cours à 08h49, en attente de William : **Réponse de Coulibaly sur la signature de Viviane Tanoh ; dépouillement 16h00 ; rapport 20h00**.
 > - **08h49-08h57** (tour n° 124) : Décision de William : tous les courriels de l'application partent désormais de direction@soleil-b2b.ci ; adresse du projet fermée (redirection 30 jours). Le DGV demande la signature (William Ossimi ou La Direction). CLAUDE.md §14 mis à jour et synchronisé. Note : la réponse de Coulibaly sur Viviane Tanoh (A126, 17h10) arrivera sur direction@.
 > - Tirages du tour : T7c Mohamed → execute_sans_discuter (5,93) ; T10 Mohamed → immediat (7,09).
 > - Tour en cours à 08h57, en attente de William : **Signature des courriels envoyés depuis direction@ à choisir ; réponse de Coulibaly sur Viviane Tanoh ; dépouillement 16h00 ; rapport 20h00**.
+> - **08h57-20h00** (tour n° 125) : Signature « William Ossimi » choisie. Déjeuner room service (19,06 €). Coulibaly (A126, 17h10) : signature de Viviane Tanoh reportée au 23/08 10h00 (préavis), A127. Dépouillement (A117) : compte rendu à 17h23 (D039, PDF courriels) : Froid Lagune Services 6,92 M FCFA proposé, accord écrit du bailleur non demandé (art. 7) ; front H003 palier 1. Rapport de 20h00 : de
+> - Tirages du tour : T10 Mohamed → immediat (3,38).
+> - Tour en cours à 20h00, en attente de William : **Deux décisions du rapport de 20h00 (accord écrit du bailleur avant commande ; calendrier de la première tranche)**.

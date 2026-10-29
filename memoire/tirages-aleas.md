@@ -4465,3 +4465,5 @@ Effets à jouer : A19 (dimanche 25/08 (soir)) : Un adulte attrape 2 à 4 rhumes 
 - Tirage [T7c] « Coulibaly : nouveau courriel de l'équipe du projet (21/08 08h47) demandant où en est la signature du contrat de Viviane Tanoh (il a refusé hier de transmettre des pièces à cette adresse) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet   5.9 → **execute_sans_discuter** (enregistré le 29/10/2026 19:55 heure machine)
 
 - Tirage [T10] « Mohamed Coulibaly : délai (réponse sur la signature de Viviane Tanoh) » : immediat 11 / rapide 26 / dans_l_heure 15 / dans_la_journee 19 / le_soir_ou_lendemain 25 / plus_tard_ou_jamais 4 ; modificateurs : M70, M73 ; jet   7.1 → **immediat** (enregistré le 29/10/2026 19:55 heure machine)
+
+- Tirage [T10] « Mohamed Coulibaly : délai (compte rendu du dépouillement des devis d'aménagement à William (direction@)) » : immediat 11 / rapide 26 / dans_l_heure 15 / dans_la_journee 19 / le_soir_ou_lendemain 25 / plus_tard_ou_jamais 4 ; modificateurs : M70, M73 ; jet   3.4 → **immediat** (enregistré le 29/10/2026 19:59 heure machine)

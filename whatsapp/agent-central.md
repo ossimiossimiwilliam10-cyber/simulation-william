@@ -380,3 +380,29 @@ Prochain rapport : demain à 20h00.
 **[21/08/2041 - 08:49 (Abidjan)] Agent central :** Reçu à 08h46. Courriel envoyé à Mohamed Coulibaly à 08h47 : point précis demandé sur la signature du contrat de Viviane Tanoh, prévue lundi, et la nouvelle date si elle a été reportée. Hier, il a refusé d'envoyer des pièces à cette adresse ; une question d'état devrait passer. Je te transmets sa réponse dès qu'elle arrive.
 **[21/08/2041 - 08:54 (Abidjan)] William :** Désormais, quand l'application envoie un courriel, elle utilise mon adresse professionnelle direction@soleil-b2b.ci, celle que Coulibaly reconnaît. L'adresse du projet ne fonctionne plus. Une seule adresse, c'est plus clair.
 **[21/08/2041 - 08:57 (Abidjan)] Agent central :** Fait à 08h56. L'adresse du projet est fermée à l'envoi ; pendant trente jours, tout courriel qui y arrive est redirigé vers direction@soleil-b2b.ci, puis elle sera supprimée. À partir de maintenant, tout ce que j'envoie part de ton adresse direction. Conséquence directe : chaque destinataire, Coulibaly compris, lira ces courriels comme écrits par toi. Une question avant mon prochain envoi : je signe « William Ossimi » ou « La Direction — SOLEIL B2B CI » ?
+**[21/08/2041 - 08:59 (Abidjan)] William :** Je signe William Ossimi.
+**[21/08/2041 - 09:00 (Abidjan)] Agent central :** Noté : signature « William Ossimi » sur tous les courriels envoyés depuis ton adresse direction.
+**[21/08/2041 - 17:12 (Abidjan)] Agent central :** Réponse de Coulibaly à 17h10, arrivée par la redirection de l'ancienne adresse : « Mme Tanoh n'a pas pu signer lundi : son employeur actuel lui a demandé de ne rien signer ailleurs avant la fin de son préavis. Signature reportée à vendredi 23 août, 10h, à la villa. M. Coulibaly. »
+**[21/08/2041 - 20:00 (Abidjan)] Agent central :** Rapport final de la journée du mercredi 21 août 2041 (20h00). PDF dans tes documents (application Fichiers).
+
+DÉCISIONS
+1. Choix de l'entreprise d'aménagement. Coulibaly propose Froid Lagune Services : 6 920 000 FCFA TTC, climatiseurs sous trois semaines, acompte de 40 % (2 768 000 FCFA, environ 4 220 €), soit 420 000 FCFA au-dessus du cadrage. Les deux autres : Clim Pro Riviera, 5 780 000 FCFA mais six semaines d'importation et une seule référence joignable ; Ivoire Confort Bâtiment, 7 450 000 FCFA, livraison sous dix jours, trois références joignables. Ce montant est dans ses pouvoirs (seuil de 10 millions), mais l'article 7 du bail exige l'accord écrit du bailleur avant les travaux, et il ne l'a pas demandé. Valides-tu que je lui écrive de n'engager aucune commande ni aucun acompte avant cet accord écrit ? Oui ou non ?
+(Analyse : sans cet accord, les climatiseurs posés resteraient au bailleur et le bail pourrait être invoqué contre la société.)
+2. Financement de l'acompte. Après le dépôt de garantie et le premier loyer, le compte de la société gardera environ 7 600 FCFA. L'acompte de 2 768 000 FCFA ne peut pas être payé sans nouvel apport ou sans la première tranche de 60 000 €, toujours non datée. Valides-tu que je prépare pour demain un calendrier de la première tranche, avec un premier versement daté ? Oui ou non ?
+(Analyse : les salaires de l'équipe démarrent le 1er octobre ; sans date de tranche, chaque dépense passera par un apport ponctuel comme aujourd'hui.)
+
+AFFIRMATIONS VÉRIFIÉES
+- Coulibaly (20 août) : « Le gardien dépend de la société de gardiennage du bailleur jusqu'à la fin du mois. » → VÉRIFIÉE : article 8 du bail.
+- Coulibaly (20 août) : « Dépôt de trois mois, 5 250 000 FCFA. » → VÉRIFIÉE : article 6, à verser au plus tard vendredi 23 août.
+- Coulibaly (21 août, devis) : « Références vérifiées. » → NON VÉRIFIÉES par le pôle juridique : aucun contact transmis.
+
+ÉTAT DES PÔLES
+- Direction générale (Coulibaly) : bail transmis à 08h41 sur ton adresse direction ; dépouillement tenu à 16h00 ; compte rendu reçu à 17h23.
+- Commercial (Viviane Tanoh) : signature de son contrat reportée à vendredi 23 août, 10h00 ; son employeur actuel lui demande de ne rien signer avant la fin de son préavis.
+- Administration et finance (Mariam Brou) : rien sur CIE et SODECI.
+- Technique (Éric Koffi Yao) : rien de nouveau.
+- Pôle finance virtuel : dépôt de garantie dû vendredi ; ton complément de 2 683 € n'est pas encore crédité.
+- Messagerie : depuis 08h56, tous les envois partent de direction@soleil-b2b.ci, signés William Ossimi ; aucun envoi depuis.
+- Budget d'API : 42,78 € sur 1 000 € ce mois-ci.
+
+Prochain rapport : demain à 20h00.
