@@ -1,69 +1,56 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 30/10/2026 19:21 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 30/10/2026 19:27 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : dimanche 20 octobre 2041, 10h24 (luxembourg) ; tour n° 154
+- Horloge : dimanche 20 octobre 2041, 10h31 (luxembourg) ; tour n° 155
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Séjour de décembre : période, priorités, date de la décision de financement
+- En attente de William : Rien d'urgent ; réservation des billets le 26/10 ; décision de financement le 05/11
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 154 ; horloge 20/10/2041 09:43 -> 20/10/2041 10:24 ; enregistré le 30/10/2026 19:21 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 155 ; horloge 20/10/2041 10:24 -> 20/10/2041 10:31 ; enregistré le 30/10/2026 19:27 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> On attend la réunion du 5 novembre, je m'assoie avec mon conseiller afin de trouver la meilleure période pour débarquer à Abidjan et quelle doit être ma stratégie durant ce séjour.
+> Je valide la période et les priorités, financement tranché le 5 novembre. je réserverai mes billets dès samedi prochain.
 
 ## Texte envoyé au joueur
 
-**DIMANCHE 20 OCTOBRE 2041 — 10h24 — Audun-le-Tiche (Moselle), chez toi**
+**DIMANCHE 20 OCTOBRE 2041 — 10h31 — Audun-le-Tiche (Moselle), chez toi**
+
+À 10h26, Olivier Schneider : « Merci William, très aimable ! Le paysagiste passe le samedi 2 novembre au matin. Vous me réglerez votre part comme vous voulez, liquide ou virement. »
 
 Tu écris à ton conseiller :
 
-« On attend la réunion du 5 novembre. Et travaillons ensemble : quelle est la meilleure période pour débarquer à Abidjan en décembre, et quelle doit être ma stratégie pendant ce séjour ? »
+« Je valide la période et les priorités. Le financement de janvier, on le tranche le 5 novembre. Je réserverai mes billets samedi prochain. »
 
-Pendant qu'il prépare sa réponse, tu ouvres l'agenda de ton téléphone et tu fais défiler jusqu'à décembre. Dehors, le soleil a fini de faire fondre le givre ; un vélo passe dans la rue en cliquetant. À 10h24, sa réponse arrive, avec un document dans tes fichiers, « Séjour à Abidjan en décembre 2041 » :
+Réponse à 10h31 :
 
-« Noté pour la réunion : je réponds à Coulibaly qu'on garde le 5 novembre. Pour le séjour, document déposé dans tes fichiers : « Séjour à Abidjan en décembre 2041 ». L'essentiel :
+« Noté : séjour du samedi 21 décembre au samedi 3 janvier, priorités dans l'ordre proposé. Pour le 5 novembre, je te prépare trois options de financement de janvier, chiffrées, pour la séance du dimanche 3 novembre. J'informe Coulibaly de tes dates demain matin, pour qu'il bloque les rendez-vous clients des 22 et 23 décembre. »
 
-LA PÉRIODE. Tes congés de Noël vont du samedi 21 décembre au dimanche 5 janvier. À Abidjan, tout ralentit du 24 décembre au 2 janvier. Les rendez-vous utiles, ce sont les lundi 22 et mardi 23, puis du 29 au 31, au ralenti. Je te propose un départ le samedi 21 et un retour le samedi 3 janvier. Les billets de Noël sont les plus chers de l'année sur Paris-Abidjan, entre 1 600 et 2 000 € selon mon estimation : plus tôt tu réserves, mieux c'est.
+Par la fenêtre, Olivier traverse son jardin, un sécateur à la main, et s'arrête devant la haie comme pour la mesurer du regard.
 
-LA STRATÉGIE, dans cet ordre :
-1. Les clients : deux ou trois visites d'industriels avec Mme Tanoh et M. Yao, offres en main.
-2. L'équipe : un entretien avec chaque dirigeant, et la décision sur la période d'essai de Mme Tanoh, qui finit le 31 décembre.
-3. L'argent : la SGCI et le financement de janvier.
-4. Le siège et la toiture de démonstration.
-5. Me Gnamien.
-6. Trois jours sans rendez-vous.
-
-LE POINT QUI PÈSE SUR TOUT : sans contrat d'ici là, la trésorerie passe sous zéro fin décembre, environ − 4 millions de FCFA, puis − 15,8 millions fin janvier. Le financement de janvier doit être tranché avant ton départ, pas sur place.
-
-Trois choses à me dire : la période, l'ordre des priorités, et quand on tranche le financement de janvier. »
-
-Il est 10h24.
+Il est 10h31.
 
 ---
 
 **Réponses attendues**
-- **Ton conseiller** : trois points :
-  1. la période du séjour (proposée : du samedi 21 décembre au samedi 3 janvier) ;
-  2. l'ordre des priorités ;
-  3. quand trancher le financement de janvier.
-- **Olivier Schneider** : pas encore de retour sur la haie.
+- Aucune.
 
 **À faire / à fournir avant le tour suivant**
-- Tes réponses ; pas de billet réservé pour l'instant.
+- Samedi 26 octobre : réserver tes billets Paris-Abidjan (21 décembre au 3 janvier).
 
 **Quêtes secondaires**
 - Jeudi 24 octobre : synthèse des offres de gardiennage de Mariam Brou.
-- Vridi : réponse à l'offre écrite sous quinze jours.
-- Vacances de la Toussaint : du samedi 2 au dimanche 10 novembre.
-- Mardi 5 novembre, 17h30 : réunion d'équipe mensuelle.
+- Samedi 2 novembre, matin : élagage de la haie ; ta part, 143 €, à régler à Olivier.
+- Dimanche 3 novembre : séance avec ton conseiller (options de financement de janvier).
+- Mardi 5 novembre : décision sur le financement de janvier, puis réunion d'équipe à 17h30.
+- Vridi : réponse à l'offre écrite attendue sous quinze jours.
 - Fin octobre : premiers salaires de l'équipe.
 
 Que veux-tu faire ?
@@ -71,7 +58,6 @@ Que veux-tu faire ?
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
 - ⚠ 1 échéance(s) échue(s) non close(s) (règle 14)
 - A142 Tue 08/10 19:00 (luxembourg) | Mohamed Coulibaly : Point écrit sur le rendez-vous manqué de Vridi (demande de William du 06/10) [prevu]  — à lier au compte rendu du mardi ; fiabilité de Coulibaly au moment dit
-- A145 Sun 20/10 10:26 (luxembourg) | Olivier Schneider : Répond à William (haie partagée, 143 € chacun) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — T10 dans_la_journee ; contenu : remerciements et date du paysagiste
 
 ## Rituels du moteur dus (rituels.py)
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_annonce : T4/T5 du dimanche 25/08 non trouvés -> python outils/savoir.py t5
@@ -203,7 +189,7 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : a6f5368 ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : e854a13 ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 12 fichier(s) modifié(s)

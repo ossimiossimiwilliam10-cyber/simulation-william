@@ -825,3 +825,5 @@ LA STRATÉGIE, dans cet ordre :
 LE POINT QUI PÈSE SUR TOUT : sans contrat d'ici là, la trésorerie passe sous zéro fin décembre, environ − 4 millions de FCFA, puis − 15,8 millions fin janvier. Le financement de janvier doit être tranché avant ton départ, pas sur place.
 
 Trois choses à me dire : la période, l'ordre des priorités, et quand on tranche le financement de janvier.
+**[20/10/2041 - 10:28 (Luxembourg)] William :** Je valide la période et les priorités. Le financement de janvier, on le tranche le 5 novembre. Je réserverai mes billets samedi prochain.
+**[20/10/2041 - 10:31 (Luxembourg)] Agent central :** Noté : séjour du samedi 21 décembre au samedi 3 janvier, priorités dans l'ordre proposé. Pour le 5 novembre, je te prépare trois options de financement de janvier, chiffrées, pour la séance du dimanche 3 novembre. J'informe Coulibaly de tes dates demain matin, pour qu'il bloque les rendez-vous clients des 22 et 23 décembre.
