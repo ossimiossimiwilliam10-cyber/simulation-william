@@ -45,3 +45,6 @@
 
 ## Revue n° 10 (07/10/2041) : P54 à P56
 - 30/10/2026 : « je valide les propositions P54 à P56 ».
+
+## Revue n° 11 (14/10/2041) : P57 à P59
+- 30/10/2026 : « Je valide les propositions P57 à P59 » ; et « on arrête les longs sauts pour la semaine » (retour au tour par tour).

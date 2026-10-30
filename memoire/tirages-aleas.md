@@ -5079,3 +5079,7 @@ Effets à jouer : A04 (jeudi 17/10 (soir)) : (avant : « univers 1 » → mainte
 - Procédure « William : nuits du 13/10 au 20/10 » : 13/10 21:58-06:02 ; 14/10 21:45-06:05 ; 15/10 22:10-06:02 ; 16/10 22:03-06:09 ; 17/10 22:03-06:02 ; 18/10 21:48-06:11 ; 19/10 22:12-06:21 [PROCÉDURE : coucher 21h45-22h20] (enregistré le 30/10/2026 19:07 heure machine)
 
 - Actualités de la semaine du 14/10/2041 : modèles LU04, LU03, FR01 [PROCÉDURE : outils/actualites.py] (enregistré le 30/10/2026 19:07 heure machine)
+
+- Tirage [T10] « Mohamed Coulibaly : délai (répond à William : point sur les offres, concurrent, réunion ou non, visite de d) » : immediat 19 / rapide 33 / dans_l_heure 15 / dans_la_journee 14 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 4 ; modificateurs : M73 ; jet  26.8 → **rapide** (enregistré le 30/10/2026 19:15 heure machine)
+
+- Tirage [T10] « Olivier Schneider : délai (remercie pour la haie) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  73.4 → **dans_la_journee** (enregistré le 30/10/2026 19:15 heure machine)

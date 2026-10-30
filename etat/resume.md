@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 30/10/2026 19:07 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 30/10/2026 19:16 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : dimanche 20/10/2041 09:00 (luxembourg, UTC+2)
+## Horloge : dimanche 20/10/2041 09:43 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 07:00 ; lisbonne 08:00 ; mindelo 06:00 ; casablanca 08:00 ; douala 08:00 ; addis 10:00 ; manille 15:00 ; paris 09:00 ; seoul 16:00 ; bresil 04:00
+- **Heure dans les autres lieux** : abidjan 07:43 ; lisbonne 08:43 ; mindelo 06:43 ; casablanca 08:43 ; douala 08:43 ; addis 10:43 ; manille 15:43 ; paris 09:43 ; seoul 16:43 ; bresil 04:43
 - **En attente de William** :
-  - Séance du dimanche : gardiennage de novembre, consultation du régulateur ; haie du voisin ; programme de la semaine du 21 octobre ; P57-P59
+  - Réponse à Coulibaly (réunion maintenant ou le 5 novembre) ; dates de décembre
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **5 613,13 €**
@@ -18,8 +18,8 @@
 ## ÉCHÉANCES ÉCHUES NON CLOSES (jouer, reporter avec raison ou annuler : règle 14)
 - A142 Tue 08/10 19:00 (luxembourg) | Mohamed Coulibaly : Point écrit sur le rendez-vous manqué de Vridi (demande de William du 06/10) [prevu]  — à lier au compte rendu du mardi ; fiabilité de Coulibaly au moment dit
 
-## Agenda : dans les 24 heures (0)
-- rien
+## Agenda : dans les 24 heures (1)
+- A145 Sun 20/10 10:26 (luxembourg) | Olivier Schneider : Répond à William (haie partagée, 143 € chacun) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — T10 dans_la_journee ; contenu : remerciements et date du paysagiste
 ## Agenda : de J+1 à J+7 (1)
 - A143 Thu 24/10 19:00 (luxembourg) | Mariam Brou : Synthèse des trois offres de gardiennage (report du 20/10) [prevu]  — T18 report_excuse ; contrat du bailleur jusqu'au 31/10
 (Les lignes « NON CONNU DE WILLIAM » servent au moteur : ne jamais les montrer au joueur avant le jour dit.)
@@ -41,7 +41,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-10-20.md, 6 dernières lignes)
-> # Dimanche 20 octobre 2041 — univers 3, 97e jour
 > - **00h00-09h00** (tour n° 152) : Consignes du 13/10 : Viviane (T7c à contrecœur) envoie l'offre de Vridi vendredi ; Coulibaly fixe les objectifs (sans discuter) ; rappel (à contrecœur, « Bien noté »), comptes rendus à l'heure. P54-P56 installées (A43, objectifs mensuels A144, bulletin). Rituels du 14/10 : revue n° 11 (P57-P59), aléas A04, A23, A24 (Olivier Schneider, haie 143 €), A26 (cagnotte 20
 > - Tirages du tour : procédure : LU03, LU04, FR01 ; T22 → zero_segment (43,33) ; T22 → zero_segment (42,28) ; T22 → zero_segment (10,12) ; T15 Sam → rien_laisse_passer (22,62) ; T7c Viviane → execute_a_contrecoeur (87,71) ; T7c Mohamed → execute_sans_discuter (8,59) ; T7c Mohamed → execute_a_contrecoeur (86,57) ; jet « Mohamed Coulibaly tient sa promesse : envoie son compte rend » → OUI (56,54) ; j
 > - Tour en cours à 09h00, en attente de William : **Séance du dimanche : gardiennage de novembre, consultation du régulateur ; haie du voisin ; programme de la semaine du 21 octobre ; P57-P59**.
+> - **09h00-09h43** (tour n° 153) : Séance du 20/10 : gardiennage prolongé en novembre (engagement), réponse au régulateur (devis de Me Gnamien demandé), haie acceptée (143 €, A145 caché pour la réponse d'Olivier). Fin des avances hebdomadaires (préférences, CLAUDE). P57-P59 installées (invitation mensuelle, seuil de dépenses 600 €, etat/proximite.csv). Coulibaly (T10 rapide, 09h41) : point des offr
+> - Tirages du tour : procédure : 13/10 21:58-06:02 ; 14/10 21:45-06:05 ; 15/10 22:10-06:02 ; 16/10 22:03-06:09 ; 17/10 22:03-06:02 ; 18/10 21:48-06:11 ; 19/10 22:12-06:21 ; procédure : LU04, LU03, FR01 ; T10 Mohamed → rapide (26,82) ; T10 Olivier → dans_la_journee (73,36).
+> - Tour en cours à 09h43, en attente de William : **Réponse à Coulibaly (réunion maintenant ou le 5 novembre) ; dates de décembre**.
