@@ -72,6 +72,9 @@ def semaine(jusqua, simule=False):
                 res.append(f"{f['id']} « {f['nom'][:50]} » avance de {n} (T22) : {sortie[:120]}")
             else:
                 res.append(f"{f['id']} « {f['nom'][:50]} » : rien ne bouge cette semaine (T22)")
+        if l >= dt.date(2041, 10, 7):  # 30/10/2026 (P51) : les prospects avancent ou non chaque lundi, une fois la direction commerciale en poste
+            import prospects
+            res += [f"prospects : {x}" for x in prospects.semaine(l, simule)]
         if not simule:
             ETAT_LENTEUR.write_text(f"dernier lundi joué : {l.isoformat()}\r\n", encoding="utf-8")
     return res

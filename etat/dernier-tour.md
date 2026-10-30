@@ -1,46 +1,47 @@
 # Dernier tour montré au joueur
 
-> Tour n° 147 ; horloge 29/09/2041 09:00 -> 01/10/2041 17:30 ; enregistré le 29/10/2026 22:04 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 148 ; horloge 01/10/2041 17:30 -> 01/10/2041 17:58 ; enregistré le 30/10/2026 18:45 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Viviane vend autre chose que le prix, ajustement en tout dernier recours ; même programme (après-midi libre, samedi), viser huit heures de sommeil ; P48 à P50 validées.
+> J'ouvre la réunion : situation de l'entreprise avec des filtres moyens, rôles de chacun (cf. maquette), consignes via Coulibaly, priorité au chiffre avec une technique qui suit (logistique, approvisionnement, gestion). Je valide P51 à P53.
 
 ## Texte envoyé au joueur
 
-**MARDI 1er OCTOBRE 2041 — 17h30 — Luxembourg-Ville, parking du lycée, dans ta voiture**
+**MARDI 1er OCTOBRE 2041 — 17h58 — Luxembourg-Ville, parking du lycée, dans ta voiture**
 
-Dimanche, tu écris à ton conseiller :
+Tu ouvres la réunion. Tu poses d'abord la situation de l'entreprise, à grands traits et sans tout dévoiler : le siège installé, les comptes ouverts, l'argent apporté par l'associé, une trésorerie qui tient plusieurs mois, mais pas indéfiniment sans recette. Puis tu reprends les rôles de chacun, comme dans la maquette : la direction générale qui pilote, l'administration et la finance qui tiennent les comptes et les contrats, la technique qui installe, le commercial qui vend. Pour les consignes du quotidien, tu les renvoies à Coulibaly : c'est lui le directeur général, c'est à lui qu'ils rendent compte. Et tu termines par la priorité : faire du chiffre, signer des contrats, vite ; mais la technique doit suivre, la logistique, l'approvisionnement, la gestion des chantiers.
 
-« Pour Lagune Kilowatt : Viviane Tanoh vend autre chose que le prix. En tout dernier recours seulement, un ajustement de prix dans le sens du client. Je valide P48 à P50. »
+La connexion tient. Sur l'écran, personne ne bouge pendant que tu parles. Mariam Brou prend des notes sans lever les yeux. Éric Koffi Yao hoche la tête à chaque phrase, le téléphone posé contre quelque chose qui vacille.
 
-Réponse à 09h14 :
+Coulibaly reprend la parole : « Merci, Monsieur Ossimi. C'est clair pour tout le monde. Madame Tanoh ? »
 
-« Noté à 09h14. Je l'ajoute à tes notes pour mardi, en une phrase : « On vend la garantie de production, la maintenance et le financement ; un geste sur le prix seulement en tout dernier recours, avec l'accord de la direction générale. » J'ai aussi chiffré un devis type de 100 kWc avec le nouvel outil : environ 90 millions de FCFA pour le client, 25 % de marge, retour sur investissement en 5 ans et demi. Le devis de Lagune Kilowatt cité par l'industriel serait sous notre coût d'installation. »
+Viviane Tanoh se redresse un peu. « Bien noté, Monsieur. » Elle hésite, choisit ses mots. « Je me permets juste une chose. Lagune Kilowatt est très agressif sur les prix en ce moment. Si nous ne pouvons rien bouger sur le prix, les premiers contrats vont peut-être prendre un peu plus de temps. Mais nous allons vendre la garantie et la maintenance, comme indiqué. »
 
-Tu tiens ta résolution : dimanche et lundi soir, extinction à vingt-deux heures, réveil à six heures, huit heures pleines. Lundi matin, tu te lèves sans le réveil pour la première fois depuis la rentrée. La journée de cours passe vite. À 16h40, un message de Coulibaly, sur ton téléphone : « Monsieur Ossimi, indemnité bien reçue, merci. Grosse pluie à Abidjan cet après-midi, la rue des Vallons est sous l'eau, mais la villa est au sec. À demain 15h30, le lien de la visioconférence est dans votre agenda. »
+Éric Koffi Yao enchaîne, la voix hachée par le réseau : « De mon côté, oui, la technique suivra. Pour l'approvisionnement, nous n'avons pas encore de fournisseur de panneaux et d'onduleurs référencé. Je peux lancer les consultations dès que la direction me donne une enveloppe. »
 
-Mardi, dernier cours à 16h45. Pas question de faire ça dans le lycée : tu descends au parking, tu t'installes au volant de ta voiture, l'ordinateur calé contre le volant, tes notes sur le siège passager, un écouteur dans l'oreille. La pluie tapote sur le pare-brise. À 17h30 pile, tu ouvres le lien.
+Mariam Brou ne dit rien ; elle tourne une page de son carnet.
 
-Les vignettes apparaissent une à une. Coulibaly d'abord, cravaté, dans ce qui doit être le bureau de la villa, un mur blanc nu, l'emplacement du climatiseur encore vide au-dessus de la fenêtre. Puis Mariam Brou, depuis la même pièce, un carnet ouvert devant elle. Éric Koffi Yao se connecte depuis son téléphone, l'image tremble un peu. Viviane Tanoh arrive la dernière, à 17h32, s'excuse d'un geste, le visage encore un peu tiré.
+Coulibaly se tourne vers sa caméra. « Monsieur Ossimi, deux points avant de clore. Pour la marge de Madame Tanoh sur les prix, en dernier recours : c'est vous qui validez chaque geste, ou vous me déléguez la décision ? Et pour Monsieur Yao : quelle enveloppe pour référencer les fournisseurs et constituer un premier stock ? »
 
-Coulibaly ouvre : « Bonjour à tous, bonjour Monsieur Ossimi. C'est notre premier jour ensemble. Je vous propose de commencer par vous, Monsieur Ossimi. »
+La pluie s'est arrêtée sur le pare-brise ; le parking se vide, une collègue passe derrière ta voiture en ouvrant son parapluie pour rien.
 
-Quatre visages attendent.
-
-Il est 17h30.
+Il est 17h58.
 
 ---
 
 **Réponses attendues**
-- **L'équipe en visioconférence** : Coulibaly te donne la parole pour ouvrir la réunion (situation de l'entreprise, rôles, consignes, priorité commerciale) ; tes notes sont ouvertes à côté.
+- **Mohamed Coulibaly (en réunion)** : deux questions :
+  1. un geste sur le prix en dernier recours : tu valides chaque fois, ou tu lui délègues la décision ;
+  2. l'enveloppe pour qu'Éric Koffi Yao référence des fournisseurs (panneaux, onduleurs) et constitue un premier stock.
 
 **À faire / à fournir avant le tour suivant**
-- Ton intervention.
+- Tes réponses, puis la clôture de la réunion.
 
 **Quêtes secondaires**
-- Mercredi 2 octobre : deuxième apport mensuel de 5 000 €.
+- Demain, mercredi 2 octobre : deuxième apport mensuel de 5 000 € ; climatiseurs attendus à la villa.
 - Jeudi 3 octobre : rendez-vous de prospection à Vridi (Viviane Tanoh et Éric Koffi Yao).
 - Consultation de gardiennage de Mariam Brou : réponse avant le 20 octobre.
+- Réunions d'équipe mensuelles : mardi 5 novembre et mardi 3 décembre, 17h30.
 
 Que veux-tu faire ?

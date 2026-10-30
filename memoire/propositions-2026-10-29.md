@@ -39,3 +39,6 @@
 
 ## Revue n° 8 (23/09/2041) : P48 à P50
 - 29/10/2026 : « je valide les propositions P48 à P50 » : devis_solaire.py (P48), calendrier fiscal et social à l'agenda (P49), etat/moral-equipe.csv (P50).
+
+## Revue n° 9 (30/09/2041) : P51 à P53
+- 30/10/2026 : « Je valide également les propositions P51 à P53 » : prospects.py (P51), aléa A42 (P52), réunion mensuelle (P53).

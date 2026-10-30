@@ -67,4 +67,5 @@
 | A38 | Contrôle routier ou guichet : un agent sollicite un « geste » (2 000 à 10 000 FCFA) | 10 % | actif | Seulement à Abidjan ; William peut refuser (délai, paperasse, ton qui se durcit) ; jamais de mode d'emploi réel |
 | A39 | Paludisme de William (séjour en zone d'endémie) | 0,5 % | actif | Par semaine passée à Abidjan sans traitement préventif (divisé par dix avec) ; incubation de 7 à 30 jours : les premiers symptômes peuvent survenir APRÈS le retour (fièvre, frissons) ; consultation, test, traitement |
 | A40 | Départ d'un directeur pendant sa période d'essai (préavis court, recrutement à refaire) | 5 % par mois et par directeur | actif | À partir du 1er octobre 2041, pour chaque directeur en période d'essai ; validé le 29/10/2026 (P43, revue n° 6) |
+| A42 | Visioconférence ratée (coupure, son, décalage) pendant une réunion à distance avec Abidjan | 10 % par réunion | actif | Validé le 30/10/2026 (P52, revue n° 9) ; tiré à chaque réunion à distance |
 | A41 | Retard de paiement d'un client (15 à 90 jours) | 30 % par facture | actif | Dès la première facture de SOLEIL B2B CI ; validé le 29/10/2026 (P44, revue n° 6) |

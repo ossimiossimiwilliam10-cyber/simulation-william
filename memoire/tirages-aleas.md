@@ -4895,3 +4895,11 @@ Effets à jouer : A05 (lundi 30/09 (après-midi)) : (avant : « univers 1 » →
 - Procédure « William : nuits du 29 et du 30/09 (objectif de huit heures) » : 29/09 22:05-06:06 ; 30/09 21:54-06:07 [PROCÉDURE : coucher 21h50-22h15, lever 06h00-06h10] (enregistré le 29/10/2026 22:04 heure machine)
 
 - Actualités de la semaine du 30/09/2041 : modèles LU03, LU01, FR01 [PROCÉDURE : outils/actualites.py] (enregistré le 29/10/2026 22:04 heure machine)
+
+- Jet « A42 (P52, validé ce jour) : visioconférence ratée pendant la réunion d'équipe du 01/10 » : probabilité 10 %, jet  38.9 → **NON** (enregistré le 30/10/2026 18:43 heure machine)
+
+- Tirage [T7c] « Viviane Tanoh reçoit la priorité de William : faire du chiffre en signant des contrats, consignes via Coulibaly (réunion du 01/10/2041) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  85.0 → **execute_a_contrecoeur** (enregistré le 30/10/2026 18:43 heure machine)
+
+- Tirage [T7c] « Éric Koffi Yao reçoit la consigne de William : la technique suit (logistique, approvisionnement, gestion) (réunion du 01/10/2041) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  90.8 → **execute_partiellement** (enregistré le 30/10/2026 18:43 heure machine)
+
+- Tirage [T14] « Mariam Brou pendant la réunion du 01/10 : prend-elle la parole vers William (question, demande) ? » : aucune 63 / message_routine 12 / demande 10 / information 8 / partage_personnel 4 / plainte_ou_tension 3 ; modificateurs : aucun ; jet   6.7 → **aucune** (enregistré le 30/10/2026 18:43 heure machine)
