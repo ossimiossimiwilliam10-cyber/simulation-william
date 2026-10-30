@@ -4,3 +4,8 @@ ICN;09-01;11-30;1026.0;estimation : 0,80 × été (basse saison);aller-retour le
 ICN;12-01;01-05;1474.88;estimation : 1,15 × été (fêtes);aller-retour le moins cher en classe économique (facteur 1,00), séjour de 7 à 45 jours
 ICN;01-06;03-15;1090.13;estimation : 0,85 × été;aller-retour le moins cher en classe économique (facteur 1,00), séjour de 7 à 45 jours
 ICN;03-16;06-30;1179.9;estimation : 0,92 × été;aller-retour le moins cher en classe économique (facteur 1,00), séjour de 7 à 45 jours
+ABJ;01-06;06-30;760;estimation (ou-et-quand.net, liligo.fr, projection × 1,35);aller-retour le moins cher en classe économique (facteur 1,00)
+ABJ;07-01;08-31;1000;estimation (vacances d'été de la diaspora);aller-retour le moins cher en classe économique (facteur 1,00)
+ABJ;09-01;12-14;760;estimation (basse saison);aller-retour le moins cher en classe économique (facteur 1,00)
+ABJ;12-15;12-31;1110;estimation (Noël, départs de la diaspora) : ≈ 820 € en 2026 × 1,35;aller-retour le moins cher en classe économique (facteur 1,00)
+ABJ;01-01;01-05;1110;estimation (fin des fêtes);aller-retour le moins cher en classe économique (facteur 1,00)

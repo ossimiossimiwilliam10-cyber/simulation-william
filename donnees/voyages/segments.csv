@@ -9,3 +9,15 @@ S3;retour;1;Lufthansa;LH 713;ICN;FRA;11:25;16:10;0;0
 S3;retour;2;Lufthansa;LH 392;FRA;LUX;18:20;19:10;0;0
 S4;aller;1;Korean Air;KE 902;CDG;ICN;13:20;07:50;0;1
 S4;retour;1;Korean Air;KE 901;ICN;CDG;13:35;19:35;0;0
+A1;aller;1;Air France;AF (navette);LUX;CDG;06:00;07:05;0;0
+A1;aller;2;Air France;AF 702;CDG;ABJ;10:35;15:55;0;0
+A1;retour;1;Air France;AF 703;ABJ;CDG;22:15;05:45;0;1
+A1;retour;2;Air France;AF (navette);CDG;LUX;08:55;10:05;1;1
+A2;aller;1;Corsair;SS (Orly);ORY;ABJ;11:15;16:40;0;0
+A2;retour;1;Corsair;SS (Orly);ABJ;ORY;23:30;06:15;0;1
+A3;aller;1;Brussels Airlines;SN (Bruxelles);BRU;ABJ;10:50;16:25;0;0
+A3;retour;1;Brussels Airlines;SN (Bruxelles);ABJ;BRU;22:05;05:30;0;1
+A4;aller;1;Royal Air Maroc;AT (Paris);CDG;CMN;12:30;14:40;0;0
+A4;aller;2;Royal Air Maroc;AT (Casablanca);CMN;ABJ;19:10;22:10;0;0
+A4;retour;1;Royal Air Maroc;AT (Abidjan);ABJ;CMN;03:05;07:00;0;0
+A4;retour;2;Royal Air Maroc;AT (Casablanca);CMN;CDG;09:40;12:40;0;0

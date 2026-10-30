@@ -5083,3 +5083,61 @@ Effets à jouer : A04 (jeudi 17/10 (soir)) : (avant : « univers 1 » → mainte
 - Tirage [T10] « Mohamed Coulibaly : délai (répond à William : point sur les offres, concurrent, réunion ou non, visite de d) » : immediat 19 / rapide 33 / dans_l_heure 15 / dans_la_journee 14 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 4 ; modificateurs : M73 ; jet  26.8 → **rapide** (enregistré le 30/10/2026 19:15 heure machine)
 
 - Tirage [T10] « Olivier Schneider : délai (remercie pour la haie) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  73.4 → **dans_la_journee** (enregistré le 30/10/2026 19:15 heure machine)
+
+## Tirage de la semaine du 2041-10-21
+
+| ID | Événement | Probabilité | Jet (0-100) | Résultat |
+|---|---|---|---|---|
+| A01 | Maladie d'un membre de l'équipe (paludisme, gastro, typhoïde) | 10 % |  70.5 | non |
+| A02 | Problème de santé d'un proche d'un personnage (ex. mère d'Aïcha, tension) | 8 % |  40.9 | non |
+| A04 | Délestage / coupure d'électricité prolongée | 25 % |  56.0 | non |
+| A05 | Fortes pluies / inondation | 15 % |  51.3 | non |
+| A06 | Retard fournisseur ou douane (NVR, onduleurs, batteries) | 30 % |  46.5 | non |
+| A07 | Panne réseau (fibre, 4G) ou banque en ligne | 15 % |  39.1 | non |
+| A09 | Erreur administrative (virement mal affecté, pièce perdue, nom mal orthographié) | 10 % |  76.7 | non |
+| A12 | Fuite d'information (salaires, avances, statut de William) | 5 % |  31.8 | non |
+| A13 | Opportunité commerciale inattendue (recommandation, appel d'un prospect) | 10 % |  50.8 | non |
+| A17 | William lui-même malade ou épuisé (fatigue, gastro) | 5 % |  16.3 | non |
+| A18 | Incident de transport (taxi, panne, retard) | 15 % |  40.6 | non |
+| A19 | Rhume, angine ou gastro de William | 5 % |  22.0 | non |
+| A20 | Perturbation des trajets frontaliers (bus en retard, A4 ou N4 bouchée, travaux) | 20 % |  88.3 | non |
+| A21 | Panne domestique (chauffe-eau, électroménager, fuite) | 4 % |  46.2 | non |
+| A22 | Courrier administratif (impôts français ou luxembourgeois, CNS, mairie, banque) | 10 % |   6.4 | **DÉCLENCHÉ** — vendredi 25/10 (soir) |
+| A23 | Tentative d'arnaque (SMS de faux colis, faux conseiller bancaire, faux site) | 15 % |  17.6 | non |
+| A24 | Souci de voisinage (bruit, travaux, haie, stationnement) | 5 % |   2.4 | **DÉCLENCHÉ** — vendredi 25/10 (soir) |
+| A25 | Blessure légère à l'entraînement (entorse, côte, doigt) | 1 % |  62.3 | non |
+| A26 | Imprévu d'argent (amende, réparation, cadeau, cotisation) | 6 % |  26.9 | non |
+| A27 | Signe d'un ancien (collègue, élève devenu adulte, connaissance) | 8 % |  36.4 | non |
+| A28 | Courriel ou appel du lycée pendant les vacances (réunion de rentrée, ajournements, emploi du temps) | 10 % |  51.3 | non |
+| A29 | Contrôle routier ou radar | 3 % |  57.7 | non |
+| A30 | Occasion inattendue (proposition de cours particuliers, invitation, bon plan) | 8 % |   7.7 | **DÉCLENCHÉ** — vendredi 25/10 (soir) |
+| A31 | Diarrhée du voyageur ou intoxication alimentaire (à l'étranger) | 12 % |  36.2 | non |
+| A35 | Surfacturation ou arnaque visant un touriste (taxi, boutique, bar) | 5 % |  65.8 | non |
+| A36 | Malentendu de langue (adresse mal comprise, commande erronée, document en coréen) | 10 % |  91.1 | non |
+| A37 | Embouteillage, pont saturé ou route coupée à Abidjan (un trajet de William ou de l'équipe prend une à deux heures de plus) | 30 % |  26.1 | **DÉCLENCHÉ** — jeudi 24/10 (soir) ; touché : Abdoul |
+| A38 | Contrôle routier ou guichet : un agent sollicite un « geste » (2 000 à 10 000 FCFA) | 10 % |  93.8 | non |
+| A39 | Paludisme de William (séjour en zone d'endémie) | 0.5 % |  43.6 | non |
+| A40 | Départ d'un directeur pendant sa période d'essai (préavis court, recrutement à refaire) | 5 % |   7.1 | non |
+| A42 | Visioconférence ratée (coupure, son, décalage) pendant une réunion à distance avec Abidjan | 10 % |  64.3 | non |
+| A43 | Panne ou entretien de la voiture de William (garage, contrôle technique, pneus) | 4 % |  56.0 | non |
+| A41 | Retard de paiement d'un client (15 à 90 jours) | 30 % |  74.2 | non |
+
+Effets à jouer : A22 (vendredi 25/10 (soir)) : Frontalier : deux administrations ; boîte aux lettres (lue au retour si absent) ou courriel ; A24 (vendredi 25/10 (soir)) : Maison mitoyenne ; à l'étranger, seulement par un message d'un voisin ; A30 (vendredi 25/10 (soir)) : Nouvelle piste ; rien n'est acquis ; A37 (jeudi 24/10 (soir) ; touché : Abdoul) : Seulement quand William ou l'équipe circule à Abidjan ; ajouté le 29/10/2026 (P39, validée par l'utilisateur)
+
+- Tirage [T22] « Front H004 « Lagune Kilowatt réagit à l'arrivée de SOLEIL B2B CI » : semaine du 21/10/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  34.7 → **zero_segment** (enregistré le 30/10/2026 19:30 heure machine)
+
+- Tirage [T22] « Front H005 « Comoé Solaire Services tente de débaucher l'équipe » : semaine du 21/10/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  68.7 → **un_segment** (enregistré le 30/10/2026 19:30 heure machine)
+
+- Tirage [T22] « Front H006 « Ébène Watt casse les prix chez les petits clients » : semaine du 21/10/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  34.6 → **zero_segment** (enregistré le 30/10/2026 19:30 heure machine)
+
+- Tirage [T15] « P47 : un collègue ou un élève évoque-t-il l'activité de William en Côte d'Ivoire (semaine du 21/10) ? » : rien_laisse_passer 30 / accepte_volontiers 18 / garde_distance 14 / en_parle_a_d_autres 12 / rend_la_pareille 10 / demande_explication 8 / decline 6 / frontal_conflit 2 ; modificateurs : aucun ; jet  69.4 → **en_parle_a_d_autres** (enregistré le 30/10/2026 19:30 heure machine)
+
+- Jet « Mariam Brou tient sa promesse : rend la synthèse des offres de gardiennage le 24/10 » : probabilité 91 %, jet  58.9 → **OUI** [PROCÉDURE : fiabilité tirée du personnage (lenteur.py)] (enregistré le 30/10/2026 19:30 heure machine)
+
+- Jet « Mohamed Coulibaly tient sa promesse : compte rendu du mardi 22/10 » : probabilité 90 %, jet  20.1 → **OUI** [PROCÉDURE : fiabilité tirée du personnage (lenteur.py)] (enregistré le 30/10/2026 19:30 heure machine)
+
+- Jet « Mohamed Coulibaly tient sa promesse : compte rendu du vendredi 25/10 » : probabilité 90 %, jet  31.0 → **OUI** [PROCÉDURE : fiabilité tirée du personnage (lenteur.py)] (enregistré le 30/10/2026 19:30 heure machine)
+
+- Procédure « William : nuits du 20/10 au 26/10 (vendredi : fête bruyante du voisin, aléa A24) » : 20/10 21:50-06:05 ; 21/10 22:10-06:02 ; 22/10 21:54-06:00 ; 23/10 22:04-06:05 ; 24/10 21:53-06:01 ; 26/10 01:32-08:27 [PROCÉDURE : coucher 21h45-22h20 ; vendredi endormi après 1h] (enregistré le 30/10/2026 19:33 heure machine)
+
+- Actualités de la semaine du 21/10/2041 : modèles LU01, LU03, FR01 [PROCÉDURE : outils/actualites.py] (enregistré le 30/10/2026 19:33 heure machine)

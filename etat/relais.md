@@ -1,63 +1,68 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 30/10/2026 19:27 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 30/10/2026 19:33 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : dimanche 20 octobre 2041, 10h31 (luxembourg) ; tour n° 155
+- Horloge : samedi 26 octobre 2041, 10h00 (luxembourg) ; tour n° 156
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Rien d'urgent ; réservation des billets le 26/10 ; décision de financement le 05/11
+- En attente de William : Choix du vol pour Abidjan (21/12-04/01) ; invitation de Thiago Alves (02/11)
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 155 ; horloge 20/10/2041 10:24 -> 20/10/2041 10:31 ; enregistré le 30/10/2026 19:27 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 156 ; horloge 20/10/2041 10:31 -> 26/10/2041 10:00 ; enregistré le 30/10/2026 19:33 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je valide la période et les priorités, financement tranché le 5 novembre. je réserverai mes billets dès samedi prochain.
+> Ah oui n'oublie pas que dans l'application gestion, je suis moi-même évalué. Go
 
 ## Texte envoyé au joueur
 
-**DIMANCHE 20 OCTOBRE 2041 — 10h31 — Audun-le-Tiche (Moselle), chez toi**
+**SAMEDI 26 OCTOBRE 2041 — 10h00 — Audun-le-Tiche (Moselle), chez toi**
 
-À 10h26, Olivier Schneider : « Merci William, très aimable ! Le paysagiste passe le samedi 2 novembre au matin. Vous me réglerez votre part comme vous voulez, liquide ou virement. »
+Lundi, à 07h10, un message de ton conseiller : « Correction de ma part : je t'ai proposé un retour « le samedi 3 janvier », mais le 3 janvier 2042 est un vendredi. Le samedi, c'est le 4 janvier : retour le samedi 4, la veille du dernier jour de tes congés. J'ai corrigé le document du séjour. Coulibaly reçoit tes dates ce matin : du samedi 21 décembre au samedi 4 janvier. Ton évaluation est à jour dans Gestion, rubrique « Évaluation William ». » Dans l'application, ta propre fiche affiche 69 sur 100 : 78 en gouvernance, 64 en finances, 66 en stratégie, et deux lignes sèches sur l'équipe payée avant le premier client.
 
-Tu écris à ton conseiller :
+La semaine se déroule sans heurt. Mardi, en salle des professeurs, une collègue de physique que tu connais à peine s'assoit en face de toi avec son café. Kim Schmitz, la trentaine, petite, un mètre cinquante-huit environ, la silhouette sèche et musclée d'une sportive, épaules dessinées sous un sweat gris, hanches étroites dans un jean noir. Visage triangulaire, peau claire semée de taches de rousseur, yeux noisette vifs, bouche fine, cheveux châtain foncé coupés au carré court ; un petit tatouage d'hirondelle au poignet. « Sam dit que tu as monté une affaire en Afrique ? Moi j'adore voyager là-bas, je pars toujours en low cost. » Tu réponds en souriant que ce sont des projets personnels, rien de bien passionnant, et tu changes de sujet ; elle n'insiste pas.
 
-« Je valide la période et les priorités. Le financement de janvier, on le tranche le 5 novembre. Je réserverai mes billets samedi prochain. »
+Mercredi après-midi, le club. Jeudi soir, les courses, 96,70 €. Vendredi soir, deux choses tombent en même temps : dans la boîte aux lettres, un courrier de la CNS qui te demande de renvoyer ton certificat de résidence de frontalier avant le 30 novembre ; et, à 21h20, un message de Thiago Alves, du club : « Salut William ! Samedi 2 novembre je fais un dîner chez moi pour la Toussaint, quelques gars du club, Lenny sera là. Tu viens ? Rien de chichiteux, je fais une feijoada 😄 » La nuit, ton voisin de droite, Claude Majerus, que tu croises surtout au moment des poubelles, organise une fête : basses à fond et éclats de voix sur sa terrasse jusqu'à une heure du matin. Tu t'endors tard.
 
-Réponse à 10h31 :
+Ce samedi, comme prévu, tu t'assois devant l'ordinateur avec un café, les yeux un peu lourds, pour réserver les billets. L'application Voyages de ton téléphone affiche quatre itinéraires pour un départ le samedi 21 décembre et un retour le samedi 4 janvier :
+- Air France depuis Luxembourg, par Paris-Charles-de-Gaulle : départ à 06h00, arrivée à Abidjan à 15h55 ; retour par le vol de nuit de 22h15, arrivée au Findel le dimanche à 10h05 : 2 123 €.
+- Brussels Airlines, direct depuis Bruxelles (deux heures trente de route) : départ à 10h50, arrivée à 16h25 ; retour à 22h05, arrivée à Bruxelles à 05h30 : 1 813 €.
+- Corsair, direct depuis Paris-Orly : départ à 11h15, arrivée à 16h40 ; retour à 23h30, arrivée à 06h15 : 1 657 €, plus le trajet jusqu'à Orly.
+- Royal Air Maroc depuis Paris-Charles-de-Gaulle, par Casablanca : départ à 12h30, arrivée à 22h10 après quatre heures et demie d'escale ; retour à 03h05, arrivée à Paris à 12h40 : 1 295 €, plus le trajet jusqu'à Paris.
 
-« Noté : séjour du samedi 21 décembre au samedi 3 janvier, priorités dans l'ordre proposé. Pour le 5 novembre, je te prépare trois options de financement de janvier, chiffrées, pour la séance du dimanche 3 novembre. J'informe Coulibaly de tes dates demain matin, pour qu'il bloque les rendez-vous clients des 22 et 23 décembre. »
+Les formalités rappellent l'e-visa ivoirien à demander avant le départ et le certificat de vaccination contre la fièvre jaune.
 
-Par la fenêtre, Olivier traverse son jardin, un sécateur à la main, et s'arrête devant la haie comme pour la mesurer du regard.
-
-Il est 10h31.
+Il est 10h00.
 
 ---
 
 **Réponses attendues**
-- Aucune.
+- **Réservation** : quel vol pour le séjour du 21 décembre au 4 janvier (Air France 2 123 €, Brussels Airlines 1 813 €, Corsair 1 657 €, Royal Air Maroc 1 295 €) ?
+- **Thiago Alves** : dîner chez lui le samedi 2 novembre au soir, avec des gars du club et Lenny.
 
 **À faire / à fournir avant le tour suivant**
-- Samedi 26 octobre : réserver tes billets Paris-Abidjan (21 décembre au 3 janvier).
+- Le choix du vol et le paiement.
+- Courrier de la CNS : certificat de résidence de frontalier à renvoyer avant le 30 novembre.
 
 **Quêtes secondaires**
-- Jeudi 24 octobre : synthèse des offres de gardiennage de Mariam Brou.
-- Samedi 2 novembre, matin : élagage de la haie ; ta part, 143 €, à régler à Olivier.
-- Dimanche 3 novembre : séance avec ton conseiller (options de financement de janvier).
+- Dimanche 27 octobre : séance avec ton conseiller (synthèse du gardiennage de Mariam Brou).
+- Samedi 2 novembre, au matin : élagage de la haie, ta part de 143 € à Olivier.
 - Mardi 5 novembre : décision sur le financement de janvier, puis réunion d'équipe à 17h30.
-- Vridi : réponse à l'offre écrite attendue sous quinze jours.
+- E-visa ivoirien et carnet de vaccination à vérifier avant le départ.
 - Fin octobre : premiers salaires de l'équipe.
 
 Que veux-tu faire ?
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
-- ⚠ 1 échéance(s) échue(s) non close(s) (règle 14)
+- ⚠ 2 échéance(s) échue(s) non close(s) (règle 14)
 - A142 Tue 08/10 19:00 (luxembourg) | Mohamed Coulibaly : Point écrit sur le rendez-vous manqué de Vridi (demande de William du 06/10) [prevu]  — à lier au compte rendu du mardi ; fiabilité de Coulibaly au moment dit
+- A143 Thu 24/10 19:00 (luxembourg) | Mariam Brou : Synthèse des trois offres de gardiennage (report du 20/10) [prevu]  — T18 report_excuse ; contrat du bailleur jusqu'au 31/10
+- A146 Sat 26/10 10:00 (luxembourg) | William : Réserver les billets pour Abidjan, séjour du samedi 21 décembre au samedi 4 janvier (avant : « samedi 3 janvier », erreur du conseiller corrigée le 21/10 : le 3 janvier 2042 est un vendredi) [prevu]  — engagement de William du 20/10 (estimation 1 600 à 2 000 €)
 
 ## Rituels du moteur dus (rituels.py)
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_annonce : T4/T5 du dimanche 25/08 non trouvés -> python outils/savoir.py t5
@@ -70,7 +75,8 @@ Que veux-tu faire ?
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_art14 : T4/T5 du dimanche 06/10 non trouvés -> python outils/savoir.py t5
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_annonce : T4/T5 du dimanche 13/10 non trouvés -> python outils/savoir.py t5
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_art14 : T4/T5 du dimanche 13/10 non trouvés -> python outils/savoir.py t5
-- [DÛ] synthese_semaine : ce soir : synthèse de la semaine, T4/T5 des affaires ouvertes -> python outils/savoir.py t5
+- [EN RETARD] t4_t5_dimanche : affaire_projet_ci_annonce : T4/T5 du dimanche 20/10 non trouvés -> python outils/savoir.py t5
+- [EN RETARD] t4_t5_dimanche : affaire_projet_ci_art14 : T4/T5 du dimanche 20/10 non trouvés -> python outils/savoir.py t5
 - [EN RETARD] message_proche : message spontané d'un proche (semaine du 26/08) non tiré -> python outils/rituels.py message-proche --semaine 2041-08-26
 - [EN RETARD] monde_semaine : nouvelles du monde de la semaine du 26/08 absentes de etat/monde.md -> ## Semaine du 26 au 01/09/2041
 - [EN RETARD] revue_lundi : revue du lundi 02/09/2041 absente -> memoire/revue-lundi-2041-09-02.md
@@ -83,6 +89,7 @@ Que veux-tu faire ?
 - [EN RETARD] monde_semaine : nouvelles du monde de la semaine du 30/09 absentes de etat/monde.md -> ## Semaine du 30 au 06/10/2041
 - [EN RETARD] message_proche : message spontané d'un proche (semaine du 07/10) non tiré -> python outils/rituels.py message-proche --semaine 2041-10-07
 - [EN RETARD] message_proche : message spontané d'un proche (semaine du 14/10) non tiré -> python outils/rituels.py message-proche --semaine 2041-10-14
+- [EN RETARD] message_proche : message spontané d'un proche (semaine du 21/10) non tiré -> python outils/rituels.py message-proche --semaine 2041-10-21
 
 ## Décisions en attente de William (etat/fils-ouverts.md, A)
 | 1 | **Organisation des vacances d'été 2041** | Premier jour des grandes vacances scolaires (du mardi 16/07/2041 au dimanche 15/09/2041). Choix des projets, voyages, rythme de vie ou déplacements estivaux. Budget vacances disponible : 833 €/mois (10 000 €/an). ; *(26/07 10h30) projet de mission à Abidjan à l'étude (fenêtre idéale : 12 au 25 août 2041, pendant la fermeture estivale du club de combat) pour rencontrer Mohamed Coulibaly, Me Gnamien et valider le QG* ; *(26/07 18h30) déplacement de 14 jours validé par William (du lundi 12 au dimanche 25 août 2041, pendant la fermeture annuelle du Minett Combat Club)* ; *(27/07 08h45) mission Abidjan calée du 12 au 25 août 2041 (14 jours) : vol Air France retenu depuis Luxembourg-Findel (1 285 € A/R), option confirmée sur résidence hôtelière F2 sécurisée à Cocody Deux-Plateaux (1 690 €), carnet international à jour (vaccin fièvre jaune confirmé par William)* ; *(27/07 20h00) vol Air France réglé (1 285 € sur Visa Premier, K002), pré-enrôlement e-visa SNEDAI payé et validé (73 € sur Visa Premier, K003), option résidence sécurisée Cocody active (1 690 €) ; logistique de mission Abidjan bouclée* ; *(31/07 11h20) aléa administratif A09 résolu : anomalie d'inversion des prénoms sur le portail SNEDAI rectifiée en ligne, attestation officielle de pré-enrôlement e-visa biométrique reçue (entrée FHB validée)* ; *(11/08 21h30) (11/08 21h30) Preparatifs acheves la veille du depart : voiture chargee a 100 %, reveil regle a 04h15 pour vol AF1233 Findel-CDG-Abidjan du lundi 12 aout a 06h50 ; bagages et documents physiques prets* ; *(12/08 21h00) (12/08 21h00) Arrivée sans incident à Abidjan par le vol AF702 via Paris CDG ; formalités sanitaires et e-visa biométrique SNEDAI franchies avec succès à FHB ; installation dans l'appartement F2 climatisé de la résidence hôtelière à Cocody Deux-Plateaux ; prise de contact confirmée avec Mohamed Coulibaly pour la signature notariée des statuts et du mandat DG chez Me Gnamien mardi 13 août à 10h00* ; *(13/08 09h50) (13/08 09h50) Trajet matinal avec Mohamed Coulibaly via le pont HKB, arrivée au Cabinet de Me Gnamien au Plateau à 09h50, retrouvailles avec Mariam Brou à l'accueil, attente de l'entrée en salle de signature à 10h00 ; Revue du lundi n° 4 présentée au joueur (P27 à P31)* | Ouvert |
@@ -189,10 +196,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : e854a13 ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 81bd1bb ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 12 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 41 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 
