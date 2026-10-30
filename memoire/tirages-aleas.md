@@ -4903,3 +4903,27 @@ Effets à jouer : A05 (lundi 30/09 (après-midi)) : (avant : « univers 1 » →
 - Tirage [T7c] « Éric Koffi Yao reçoit la consigne de William : la technique suit (logistique, approvisionnement, gestion) (réunion du 01/10/2041) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  90.8 → **execute_partiellement** (enregistré le 30/10/2026 18:43 heure machine)
 
 - Tirage [T14] « Mariam Brou pendant la réunion du 01/10 : prend-elle la parole vers William (question, demande) ? » : aucune 63 / message_routine 12 / demande 10 / information 8 / partage_personnel 4 / plainte_ou_tension 3 ; modificateurs : aucun ; jet   6.7 → **aucune** (enregistré le 30/10/2026 18:43 heure machine)
+
+- Tirage [T7c] « Coulibaly : voir l'enveloppe d'approvisionnement avec le pôle technique et faire un retour à William (réunion du 01/10/2041) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  33.4 → **execute_sans_discuter** (enregistré le 30/10/2026 18:49 heure machine)
+
+- Tirage [T15] « P47 : un collègue ou un élève évoque-t-il l'activité de William en Côte d'Ivoire (semaine du 30/09) ? » : rien_laisse_passer 30 / accepte_volontiers 18 / garde_distance 14 / en_parle_a_d_autres 12 / rend_la_pareille 10 / demande_explication 8 / decline 6 / frontal_conflit 2 ; modificateurs : aucun ; jet  94.9 → **decline** (enregistré le 30/10/2026 18:49 heure machine)
+
+- Jet « Mohamed Coulibaly tient sa promesse : envoie son compte rendu du mardi 01/10 17h00 (jour de la réunion) » : probabilité 90 %, jet  16.5 → **OUI** [PROCÉDURE : fiabilité tirée du personnage (lenteur.py)] (enregistré le 30/10/2026 18:49 heure machine)
+
+- Jet « Mohamed Coulibaly tient sa promesse : envoie son compte rendu du vendredi 04/10 12h00 » : probabilité 90 %, jet  98.9 → **NON** [PROCÉDURE : fiabilité tirée du personnage (lenteur.py)] (enregistré le 30/10/2026 18:49 heure machine)
+
+- Jet « Viviane Tanoh tient sa promesse : tient le rendez-vous de Vridi du 03/10 avec Éric Koffi Yao » : probabilité 91 %, jet  91.7 → **NON** [PROCÉDURE : fiabilité tirée du personnage (lenteur.py)] (enregistré le 30/10/2026 18:49 heure machine)
+
+- Tirage [T18] « Forme du manquement : compte rendu du vendredi 04/10 12h00 non envoyé » : retard 50 / report_excuse 30 / oubli_complet 20 ; modificateurs : aucun ; jet  12.4 → **retard** (enregistré le 30/10/2026 18:49 heure machine)
+
+- Tirage [T18] « Forme du manquement : rendez-vous de Vridi du 03/10 non tenu » : retard 50 / report_excuse 30 / oubli_complet 20 ; modificateurs : aucun ; jet  82.5 → **oubli_complet** (enregistré le 30/10/2026 18:49 heure machine)
+
+- Tirage [T4] « affaire_projet_ci_annonce : escalade externe, semaine du 30/09 » : aucune 99.7 / frontal_escalade 0.3 ; modificateurs : aucun ; jet  75.2 → **aucune** (enregistré le 30/10/2026 18:49 heure machine)
+
+- Tirage [T5] « affaire_projet_ci_annonce : fuite, semaine du 30/09 » : fuite_externe 14 / fuite_interne 40 / aucune 46 ; modificateurs : aucun ; jet  59.0 → **aucune** (enregistré le 30/10/2026 18:49 heure machine)
+
+- Tirage [T4] « affaire_projet_ci_art14 : escalade externe, semaine du 30/09 » : aucune 99.7 / frontal_escalade 0.3 ; modificateurs : aucun ; jet  35.4 → **aucune** (enregistré le 30/10/2026 18:49 heure machine)
+
+- Tirage [T5] « affaire_projet_ci_art14 : fuite, semaine du 30/09 » : fuite_externe 2 / fuite_interne 6 / aucune 92 ; modificateurs : aucun ; jet  21.9 → **aucune** (enregistré le 30/10/2026 18:49 heure machine)
+
+- Procédure « William : nuits du 01/10 au 06/10 (objectif de huit heures) » : 01/10 21:56-06:05 ; 02/10 22:07-06:08 ; 03/10 21:53-06:08 ; 04/10 21:46-06:02 ; 05/10 22:03-06:18 [PROCÉDURE : coucher 21h45-22h15] (enregistré le 30/10/2026 18:49 heure machine)

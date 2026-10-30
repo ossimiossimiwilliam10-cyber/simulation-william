@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-10-01 17:58
+horloge: 2041-10-06 09:00
 fuseau: luxembourg
-lieu: Luxembourg-Ville, parking du lycée, dans la voiture de William (visioconférence)
-tour: 148
-attente: Coulibaly demande : délégation du geste sur les prix ; enveloppe d'approvisionnement d'Éric Koffi Yao
+lieu: Audun-le-Tiche (Moselle), chez William
+tour: 149
+attente: Séance du dimanche : enveloppe d'approvisionnement (3,5 M FCFA), suite de Vridi ; programme de la semaine du 7 octobre

@@ -718,3 +718,25 @@ POUR INFORMATION
 - Veille « faute lourde » : rien à signaler.
 **[29/09/2041 - 09:10 (Luxembourg)] William :** Pour Lagune Kilowatt : Viviane Tanoh vend autre chose que le prix. En tout dernier recours seulement, un ajustement de prix dans le sens du client. Je valide P48 à P50.
 **[29/09/2041 - 09:14 (Luxembourg)] Agent central :** Noté à 09h14. Je l'ajoute à tes notes pour mardi, en une phrase : « On vend la garantie de production, la maintenance et le financement ; un geste sur le prix seulement en tout dernier recours, avec l'accord de la direction générale. » J'ai aussi chiffré un devis type de 100 kWc avec le nouvel outil : environ 90 millions de FCFA pour le client, 25 % de marge, retour sur investissement en 5 ans et demi. Le devis de Lagune Kilowatt cité par l'industriel serait sous notre coût d'installation.
+**[01/10/2041 - 18:02 (Luxembourg)] William :** Je délègue le geste sur le prix à Coulibaly. Et Coulibaly voit l'enveloppe avec le pôle technique et me fait un retour.
+**[06/10/2041 - 08:55 (Luxembourg)] Agent central :** Séance du dimanche 6 octobre 2041, 09h00. Ordre du jour.
+
+BILAN DE LA SEMAINE (30 septembre au 6 octobre)
+- Prises de fonction : Mariam Brou, Viviane Tanoh et Éric Koffi Yao sont en poste depuis mardi. Assurance et cabinet comptable signés.
+- Climatiseurs : livrés mercredi, mais pas tous ; il manque un groupe extérieur. Froid Lagune Services promet la pièce « sous dix jours ». Le solde de 60 % a été payé à la livraison.
+- Rendez-vous de Vridi, jeudi : Viviane Tanoh ne s'est pas présentée. Éric Koffi Yao est venu seul, sans offre commerciale ; l'industriel a écourté. Elle a expliqué à Coulibaly s'être trompée de jour. Coulibaly essaie de refixer le rendez-vous.
+- Comptes rendus : celui de mardi à l'heure ; celui de vendredi midi est arrivé samedi matin, sans excuse. C'est dans ce compte rendu qu'il mentionne Vridi, en deux lignes.
+- Enveloppe d'approvisionnement : Coulibaly m'a envoyé jeudi sa proposition, faite avec Éric Koffi Yao. Référencer trois fournisseurs (panneaux, onduleurs, structures) sans stock avant le premier contrat signé ; une enveloppe de 3 500 000 FCFA pour l'outillage de base, les équipements de sécurité des futurs techniciens et des échantillons ; paiement des fournisseurs à la commande d'un client.
+- Ton deuxième apport mensuel de 5 000 € est parti mercredi.
+
+MON ANALYSE
+- Vridi : un premier manquement de Mme Tanoh, sur le seul rendez-vous déjà pris avec un industriel que Lagune Kilowatt démarche aussi. Ce n'est pas une faute lourde ; c'est un signal à suivre pendant sa période d'essai.
+- L'enveloppe est prudente : pas de stock qui dort, de l'argent seulement pour ce qui sert à tout chantier.
+
+DÉCISIONS À PRENDRE
+1. Valider l'enveloppe d'approvisionnement de 3 500 000 FCFA (environ 5 300 €) ? Oui ou non.
+2. Vridi : on laisse Coulibaly gérer avec Mme Tanoh, ou tu veux qu'il te fasse un point écrit sur ce qui s'est passé ?
+
+POUR INFORMATION
+- Trésorerie de la société : environ 23,6 millions de FCFA ; salaires d'octobre à verser fin du mois.
+- Veille « faute lourde » : rien à signaler.

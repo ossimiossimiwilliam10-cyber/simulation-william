@@ -1,67 +1,78 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 30/10/2026 18:45 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 30/10/2026 18:50 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : mardi 1er octobre 2041, 17h58 (luxembourg) ; tour n° 148
-- Lieu de William : Luxembourg-Ville, parking du lycée, dans la voiture de William (visioconférence)
-- En attente de William : Coulibaly demande : délégation du geste sur les prix ; enveloppe d'approvisionnement d'Éric Koffi Yao
+- Horloge : dimanche 6 octobre 2041, 09h00 (luxembourg) ; tour n° 149
+- Lieu de William : Audun-le-Tiche (Moselle), chez William
+- En attente de William : Séance du dimanche : enveloppe d'approvisionnement (3,5 M FCFA), suite de Vridi ; programme de la semaine du 7 octobre
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 148 ; horloge 01/10/2041 17:30 -> 01/10/2041 17:58 ; enregistré le 30/10/2026 18:45 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 149 ; horloge 01/10/2041 17:58 -> 06/10/2041 09:00 ; enregistré le 30/10/2026 18:50 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> J'ouvre la réunion : situation de l'entreprise avec des filtres moyens, rôles de chacun (cf. maquette), consignes via Coulibaly, priorité au chiffre avec une technique qui suit (logistique, approvisionnement, gestion). Je valide P51 à P53.
+> Je délègue le geste à Coulibaly et je demande à Coulibaly de voir ça avec le pôle technique et de me faire un retour pour l'enveloppe ; Go
 
 ## Texte envoyé au joueur
 
-**MARDI 1er OCTOBRE 2041 — 17h58 — Luxembourg-Ville, parking du lycée, dans ta voiture**
+**DIMANCHE 6 OCTOBRE 2041 — 09h00 — Audun-le-Tiche (Moselle), chez toi**
 
-Tu ouvres la réunion. Tu poses d'abord la situation de l'entreprise, à grands traits et sans tout dévoiler : le siège installé, les comptes ouverts, l'argent apporté par l'associé, une trésorerie qui tient plusieurs mois, mais pas indéfiniment sans recette. Puis tu reprends les rôles de chacun, comme dans la maquette : la direction générale qui pilote, l'administration et la finance qui tiennent les comptes et les contrats, la technique qui installe, le commercial qui vend. Pour les consignes du quotidien, tu les renvoies à Coulibaly : c'est lui le directeur général, c'est à lui qu'ils rendent compte. Et tu termines par la priorité : faire du chiffre, signer des contrats, vite ; mais la technique doit suivre, la logistique, l'approvisionnement, la gestion des chantiers.
+Tu réponds à Coulibaly : le geste sur le prix, en dernier recours, c'est lui qui le décide ; l'enveloppe, il la voit avec Éric Koffi Yao et il te fait un retour. Il note, remercie tout le monde, clôt la réunion à 18h04. Les vignettes s'éteignent une à une ; Viviane Tanoh part la première.
 
-La connexion tient. Sur l'écran, personne ne bouge pendant que tu parles. Mariam Brou prend des notes sans lever les yeux. Éric Koffi Yao hoche la tête à chaque phrase, le téléphone posé contre quelque chose qui vacille.
+La semaine suit le même rythme que la précédente. Tu tiens tes huit heures : extinction vers dix heures, réveil à six. Mercredi après-midi, une séance au club ; samedi matin, deux heures, et Lenny te trouve « plus frais qu'à la rentrée ». Au lycée, rien qui sorte de l'ordinaire : des copies, une réunion d'équipe pédagogique, un collègue absent à remplacer une heure. Jeudi soir, les courses, 93,20 €. Ton conseiller ne t'écrit pas de la semaine.
 
-Coulibaly reprend la parole : « Merci, Monsieur Ossimi. C'est clair pour tout le monde. Madame Tanoh ? »
+Ce dimanche, un vent froid secoue le cerisier, et les premières feuilles jonchent la pelouse. À 08h55, ton conseiller :
 
-Viviane Tanoh se redresse un peu. « Bien noté, Monsieur. » Elle hésite, choisit ses mots. « Je me permets juste une chose. Lagune Kilowatt est très agressif sur les prix en ce moment. Si nous ne pouvons rien bouger sur le prix, les premiers contrats vont peut-être prendre un peu plus de temps. Mais nous allons vendre la garantie et la maintenance, comme indiqué. »
+« Séance du dimanche 6 octobre 2041, 09h00. Ordre du jour.
 
-Éric Koffi Yao enchaîne, la voix hachée par le réseau : « De mon côté, oui, la technique suivra. Pour l'approvisionnement, nous n'avons pas encore de fournisseur de panneaux et d'onduleurs référencé. Je peux lancer les consultations dès que la direction me donne une enveloppe. »
+BILAN DE LA SEMAINE (30 septembre au 6 octobre)
+- Prises de fonction : Mariam Brou, Viviane Tanoh et Éric Koffi Yao sont en poste depuis mardi. Assurance et cabinet comptable signés.
+- Climatiseurs : livrés mercredi, mais pas tous ; il manque un groupe extérieur. Froid Lagune Services promet la pièce « sous dix jours ». Le solde de 60 % a été payé à la livraison.
+- Rendez-vous de Vridi, jeudi : Viviane Tanoh ne s'est pas présentée. Éric Koffi Yao est venu seul, sans offre commerciale ; l'industriel a écourté. Elle a expliqué à Coulibaly s'être trompée de jour. Coulibaly essaie de refixer le rendez-vous.
+- Comptes rendus : celui de mardi à l'heure ; celui de vendredi midi est arrivé samedi matin, sans excuse. C'est dans ce compte rendu qu'il mentionne Vridi, en deux lignes.
+- Enveloppe d'approvisionnement : Coulibaly m'a envoyé jeudi sa proposition, faite avec Éric Koffi Yao. Référencer trois fournisseurs (panneaux, onduleurs, structures) sans stock avant le premier contrat signé ; une enveloppe de 3 500 000 FCFA pour l'outillage de base, les équipements de sécurité des futurs techniciens et des échantillons ; paiement des fournisseurs à la commande d'un client.
+- Ton deuxième apport mensuel de 5 000 € est parti mercredi.
 
-Mariam Brou ne dit rien ; elle tourne une page de son carnet.
+MON ANALYSE
+- Vridi : un premier manquement de Mme Tanoh, sur le seul rendez-vous déjà pris avec un industriel que Lagune Kilowatt démarche aussi. Ce n'est pas une faute lourde ; c'est un signal à suivre pendant sa période d'essai.
+- L'enveloppe est prudente : pas de stock qui dort, de l'argent seulement pour ce qui sert à tout chantier.
 
-Coulibaly se tourne vers sa caméra. « Monsieur Ossimi, deux points avant de clore. Pour la marge de Madame Tanoh sur les prix, en dernier recours : c'est vous qui validez chaque geste, ou vous me déléguez la décision ? Et pour Monsieur Yao : quelle enveloppe pour référencer les fournisseurs et constituer un premier stock ? »
+DÉCISIONS À PRENDRE
+1. Valider l'enveloppe d'approvisionnement de 3 500 000 FCFA (environ 5 300 €) ? Oui ou non.
+2. Vridi : on laisse Coulibaly gérer avec Mme Tanoh, ou tu veux qu'il te fasse un point écrit sur ce qui s'est passé ?
 
-La pluie s'est arrêtée sur le pare-brise ; le parking se vide, une collègue passe derrière ta voiture en ouvrant son parapluie pour rien.
+POUR INFORMATION
+- Trésorerie de la société : environ 23,6 millions de FCFA ; salaires d'octobre à verser fin du mois.
+- Veille « faute lourde » : rien à signaler. »
 
-Il est 17h58.
+Il est 09h00.
 
 ---
 
 **Réponses attendues**
-- **Mohamed Coulibaly (en réunion)** : deux questions :
-  1. un geste sur le prix en dernier recours : tu valides chaque fois, ou tu lui délègues la décision ;
-  2. l'enveloppe pour qu'Éric Koffi Yao référence des fournisseurs (panneaux, onduleurs) et constitue un premier stock.
+- **Ton conseiller (séance du dimanche)** : deux décisions :
+  1. valider l'enveloppe d'approvisionnement de 3 500 000 FCFA (environ 5 300 €) ? Oui ou non ;
+  2. Vridi : laisser Coulibaly gérer avec Viviane Tanoh, ou demander un point écrit.
 
 **À faire / à fournir avant le tour suivant**
-- Tes réponses, puis la clôture de la réunion.
+- Tes décisions ; ton programme de la semaine du 7 au 13 octobre.
 
 **Quêtes secondaires**
-- Demain, mercredi 2 octobre : deuxième apport mensuel de 5 000 € ; climatiseurs attendus à la villa.
-- Jeudi 3 octobre : rendez-vous de prospection à Vridi (Viviane Tanoh et Éric Koffi Yao).
+- Pièce manquante des climatiseurs : promise « sous dix jours ».
 - Consultation de gardiennage de Mariam Brou : réponse avant le 20 octobre.
-- Réunions d'équipe mensuelles : mardi 5 novembre et mardi 3 décembre, 17h30.
+- Fin octobre : premiers salaires de l'équipe.
+- Mardi 5 novembre, 17h30 : réunion d'équipe mensuelle.
 
 Que veux-tu faire ?
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
-- ⚠ 1 échéance(s) échue(s) non close(s) (règle 14)
-- A137 Tue 01/10 17:30 (luxembourg) | William · Mohamed Coulibaly · Mariam Brou · Viviane Tanoh · Éric Koffi Yao : Réunion de toute l'équipe en visioconférence (15h30 à Abidjan) : situation de l'entreprise, consignes, priorité à la direction commerciale [prevu]  — demandée par William le 22/09 ; organisée par Coulibaly ; William intervient
+- rien
 
 ## Rituels du moteur dus (rituels.py)
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_annonce : T4/T5 du dimanche 25/08 non trouvés -> python outils/savoir.py t5
@@ -70,6 +81,7 @@ Que veux-tu faire ?
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_art14 : T4/T5 du dimanche 22/09 non trouvés -> python outils/savoir.py t5
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_annonce : T4/T5 du dimanche 29/09 non trouvés -> python outils/savoir.py t5
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_art14 : T4/T5 du dimanche 29/09 non trouvés -> python outils/savoir.py t5
+- [DÛ] synthese_semaine : ce soir : synthèse de la semaine, T4/T5 des affaires ouvertes -> python outils/savoir.py t5
 - [EN RETARD] message_proche : message spontané d'un proche (semaine du 26/08) non tiré -> python outils/rituels.py message-proche --semaine 2041-08-26
 - [EN RETARD] monde_semaine : nouvelles du monde de la semaine du 26/08 absentes de etat/monde.md -> ## Semaine du 26 au 01/09/2041
 - [EN RETARD] revue_lundi : revue du lundi 02/09/2041 absente -> memoire/revue-lundi-2041-09-02.md
@@ -186,10 +198,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 6649dac ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 946ce85 ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 19 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 28 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 
