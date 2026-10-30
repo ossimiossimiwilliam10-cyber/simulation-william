@@ -38,19 +38,19 @@ date;heure;compte;montant;type;libelle;reference
 2041-10-31;20:00;courant;9320.00;prevu;Traitement mensuel de William (net, État luxembourgeois);E001-20411031
 2041-11-29;20:00;courant;9320.00;prevu;Traitement mensuel de William (net, État luxembourgeois);E001-20411129
 2041-12-31;20:00;courant;9320.00;prevu;Traitement mensuel de William (net, État luxembourgeois);E001-20411231
-2041-10-07;06:00;courant;-949.28;prevu;Mensualité du prêt immobilier et assurance emprunteur (maison d'Audun-le-Tiche) (échéance n° 86 : capital 630.50 €, intérêts 295.65 €, assurance 23.13 €);E002-20411007
-2041-10-07;06:00;pret;-630.50;prevu;Prêt immobilier de la maison d'Audun-le-Tiche (taux fixe, amortissable) : capital remboursé (échéance n° 86);E002-20411007-K
-2041-10-07;06:00;maison_part;630.50;prevu;Part nette du bien financé : + capital remboursé (échéance n° 86 du prêt PR1);E002-20411007-M
+2041-10-07;06:00;courant;-949.28;prevu_realise;Mensualité du prêt immobilier et assurance emprunteur (maison d'Audun-le-Tiche) (échéance n° 86 : capital 630.50 €, intérêts 295.65 €, assurance 23.13 €);E002-20411007
+2041-10-07;06:00;pret;-630.50;prevu_realise;Prêt immobilier de la maison d'Audun-le-Tiche (taux fixe, amortissable) : capital remboursé (échéance n° 86);E002-20411007-K
+2041-10-07;06:00;maison_part;630.50;prevu_realise;Part nette du bien financé : + capital remboursé (échéance n° 86 du prêt PR1);E002-20411007-M
 2041-11-05;06:00;courant;-949.28;prevu;Mensualité du prêt immobilier et assurance emprunteur (maison d'Audun-le-Tiche) (échéance n° 87 : capital 632.34 €, intérêts 293.81 €, assurance 23.13 €);E002-20411105
 2041-11-05;06:00;pret;-632.34;prevu;Prêt immobilier de la maison d'Audun-le-Tiche (taux fixe, amortissable) : capital remboursé (échéance n° 87);E002-20411105-K
 2041-11-05;06:00;maison_part;632.34;prevu;Part nette du bien financé : + capital remboursé (échéance n° 87 du prêt PR1);E002-20411105-M
 2041-12-05;06:00;courant;-949.28;prevu;Mensualité du prêt immobilier et assurance emprunteur (maison d'Audun-le-Tiche) (échéance n° 88 : capital 634.18 €, intérêts 291.97 €, assurance 23.13 €);E002-20411205
 2041-12-05;06:00;pret;-634.18;prevu;Prêt immobilier de la maison d'Audun-le-Tiche (taux fixe, amortissable) : capital remboursé (échéance n° 88);E002-20411205-K
 2041-12-05;06:00;maison_part;634.18;prevu;Part nette du bien financé : + capital remboursé (échéance n° 88 du prêt PR1);E002-20411205-M
-2041-10-10;06:00;courant;-132.00;prevu;Électricité (mensualisation · option heures creuses, 9 kVA · recharge de la voiture la nuit);E003-20411010
+2041-10-10;06:00;courant;-132.00;prevu_realise;Électricité (mensualisation · option heures creuses, 9 kVA · recharge de la voiture la nuit);E003-20411010
 2041-11-11;06:00;courant;-132.00;prevu;Électricité (mensualisation · option heures creuses, 9 kVA · recharge de la voiture la nuit);E003-20411111
 2041-12-10;06:00;courant;-132.00;prevu;Électricité (mensualisation · option heures creuses, 9 kVA · recharge de la voiture la nuit);E003-20411210
-2041-10-10;06:00;courant;-253.00;prevu;Gaz naturel (chauffage, eau chaude, cuisson) : mensualisation;E004-20411010
+2041-10-10;06:00;courant;-253.00;prevu_realise;Gaz naturel (chauffage, eau chaude, cuisson) : mensualisation;E004-20411010
 2041-11-11;06:00;courant;-253.00;prevu;Gaz naturel (chauffage, eau chaude, cuisson) : mensualisation;E004-20411111
 2041-12-10;06:00;courant;-253.00;prevu;Gaz naturel (chauffage, eau chaude, cuisson) : mensualisation;E004-20411210
 2041-09-16;06:00;courant;-63.00;prevu_realise;Box internet fibre et forfait mobile;E005-20410916
@@ -58,14 +58,14 @@ date;heure;compte;montant;type;libelle;reference
 2041-11-15;06:00;courant;-63.00;prevu;Box internet fibre et forfait mobile;E005-20411115
 2041-12-16;06:00;courant;-63.00;prevu;Box internet fibre et forfait mobile;E005-20411216
 2041-09-20;06:00;courant;-187.50;prevu_realise;Eau et assainissement (Audun-le-Tiche);E006-20410920
-2041-10-07;06:00;courant;-45.00;prevu;Assurance habitation (maison, propriétaire occupant) : mensualisée;E007-20411007
+2041-10-07;06:00;courant;-45.00;prevu_realise;Assurance habitation (maison, propriétaire occupant) : mensualisée;E007-20411007
 2041-11-05;06:00;courant;-45.00;prevu;Assurance habitation (maison, propriétaire occupant) : mensualisée;E007-20411105
 2041-12-05;06:00;courant;-45.00;prevu;Assurance habitation (maison, propriétaire occupant) : mensualisée;E007-20411205
 2041-10-01;06:00;courant;-85.00;prevu_realise;Minett Combat Club (Esch-sur-Alzette) : accès complet;E008-20411001
 2041-11-04;06:00;courant;-85.00;prevu;Minett Combat Club (Esch-sur-Alzette) : accès complet;E008-20411104
 2041-12-02;06:00;courant;-85.00;prevu;Minett Combat Club (Esch-sur-Alzette) : accès complet;E008-20411202
 2041-10-15;06:00;courant;-1190.00;prevu;Taxe foncière (Audun-le-Tiche);E009-20411015
-2041-10-07;06:00;courant;-107.00;prevu;Voiture électrique : assurance tous risques (mensualisée);E010-20411007
+2041-10-07;06:00;courant;-107.00;prevu_realise;Voiture électrique : assurance tous risques (mensualisée);E010-20411007
 2041-11-05;06:00;courant;-107.00;prevu;Voiture électrique : assurance tous risques (mensualisée);E010-20411105
 2041-12-05;06:00;courant;-107.00;prevu;Voiture électrique : assurance tous risques (mensualisée);E010-20411205
 2041-10-02;08:00;courant;-732.00;prevu_annule;Virement permanent vers le compte épargne (10 % de l'excédent net) [annulé : ordre modifié le 25/08/2041];E012-20411002-x204108251704
@@ -125,3 +125,5 @@ date;heure;compte;montant;type;libelle;reference
 2041-12-02;08:00;courant;-1487.00;prevu;Virement permanent vers le compte épargne (10 % de l'excédent net);E012-20411202
 2041-12-02;08:00;projet;1487.00;prevu;Virement permanent vers le compte épargne (10 % de l'excédent net) (compte crédité);E012-20411202-C
 2041-12-02;08:00;courant;-5000.00;prevu;Virement permanent vers SOLEIL B2B CI (SGCI Plateau) : apport mensuel en compte courant d'associé;E017-20411202
+2041-10-10;18:40;courant;-95.40;mouvement;Visa Debit : Supermarché (Audun-le-Tiche) : courses de la semaine;K037
+2041-10-12;10:20;courant;-219.00;mouvement;Visa Debit : Garage (Esch-sur-Alzette) : pneu crevé remplacé;K038
