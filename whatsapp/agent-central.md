@@ -740,3 +740,18 @@ DÉCISIONS À PRENDRE
 POUR INFORMATION
 - Trésorerie de la société : environ 23,6 millions de FCFA ; salaires d'octobre à verser fin du mois.
 - Veille « faute lourde » : rien à signaler.
+**[06/10/2041 - 09:04 (Luxembourg)] William :** Je valide l'enveloppe. Sur Vridi, je veux un point écrit. Même programme cette semaine. Et avant de continuer, travaillons ensemble : je veux que tu actives en continu, définitivement, le système de notation de mes employés.
+**[06/10/2041 - 09:31 (Luxembourg)] Agent central :** Reçu à 09h06. L'enveloppe de 3 500 000 FCFA est validée ; Coulibaly reçoit demain matin ton accord et ta demande de point écrit sur Vridi, à joindre à son compte rendu de mardi.
+
+Pour la notation, voici ce que je te propose (document dans tes fichiers, « Système de notation continue des dirigeants ») :
+- une note sur 100 par dirigeant, mise à jour chaque dimanche, uniquement à partir de faits datés ;
+- cinq critères : fiabilité (25 points), résultats (30), remontée d'information (20), qualité d'exécution (15), coopération (10) ;
+- la note s'affiche dans Gestion, rubrique « Équipes et notes », avec la variation de la semaine ;
+- je te signale toute note sous 60 deux semaines de suite ; sous 50 pendant la période d'essai, je demande un point écrit à Coulibaly.
+
+Mes premières notes, sur la semaine écoulée : Coulibaly 74, Éric Koffi Yao 71, Mariam Brou 66, Viviane Tanoh 52. Les faits retenus sont dans le document.
+
+Trois choses à me dire :
+1. Tu valides la grille et les pondérations, ou tu les changes ?
+2. Les dirigeants savent-ils qu'ils sont notés, et connaissent-ils leur note, ou la notation reste-t-elle interne ?
+3. Tu corriges une de ces premières notes ?

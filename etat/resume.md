@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 30/10/2026 18:50 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 30/10/2026 18:56 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : dimanche 06/10/2041 09:00 (luxembourg, UTC+2)
+## Horloge : dimanche 06/10/2041 09:31 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 07:00 ; lisbonne 08:00 ; mindelo 06:00 ; casablanca 08:00 ; douala 08:00 ; addis 10:00 ; manille 15:00 ; paris 09:00 ; seoul 16:00 ; bresil 04:00
+- **Heure dans les autres lieux** : abidjan 07:31 ; lisbonne 08:31 ; mindelo 06:31 ; casablanca 08:31 ; douala 08:31 ; addis 10:31 ; manille 15:31 ; paris 09:31 ; seoul 16:31 ; bresil 04:31
 - **En attente de William** :
-  - Séance du dimanche : enveloppe d'approvisionnement (3,5 M FCFA), suite de Vridi ; programme de la semaine du 7 octobre
+  - Notation continue : grille, information des dirigeants, premières notes
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **8 808,21 €**
@@ -17,8 +17,8 @@
 
 ## Agenda : dans les 24 heures (0)
 - rien
-## Agenda : de J+1 à J+7 (0)
-- rien
+## Agenda : de J+1 à J+7 (1)
+- A142 Tue 08/10 19:00 (luxembourg) | Mohamed Coulibaly : Point écrit sur le rendez-vous manqué de Vridi (demande de William du 06/10) [prevu]  — à lier au compte rendu du mardi ; fiabilité de Coulibaly au moment dit
 (Les lignes « NON CONNU DE WILLIAM » servent au moteur : ne jamais les montrer au joueur avant le jour dit.)
 
 ## Affaires ouvertes (T4/T5 chaque dimanche soir)
@@ -41,3 +41,5 @@
 > - **00h00-09h00** (tour n° 149) : Réunion close à 18h04 (A137). Semaine 02-06/10 : apport de 5 000 € ; climatiseurs livrés partiellement (H003 palier 4), solde payé ; Viviane Tanoh oublie Vridi (T18 oubli complet, moral 54) ; Coulibaly (T7c execute_sans_discuter) propose l'enveloppe de 3,5 M FCFA ; compte rendu du vendredi en retard (T18). William : huit heures de sommeil, club mercredi et samedi,
 > - Tirages du tour : T7c Mohamed → execute_sans_discuter (33,42) ; T15 Sam → decline (94,91) ; jet « Mohamed Coulibaly tient sa promesse : envoie son compte rend » → OUI (16,46) ; jet « Mohamed Coulibaly tient sa promesse : envoie son compte rend » → NON (98,9) ; jet « Viviane Tanoh tient sa promesse : tient le rendez-vous de Vr » → NON (91,66) ; T18 Mohamed → retard (12,44) ; T18 Viviane → oubli_c
 > - Tour en cours à 09h00, en attente de William : **Séance du dimanche : enveloppe d'approvisionnement (3,5 M FCFA), suite de Vridi ; programme de la semaine du 7 octobre**.
+> - **09h00-09h31** (tour n° 150) : Enveloppe de 3,5 M FCFA validée (engagements) ; point écrit de Coulibaly sur Vridi demandé (A142, 08/10). Proposition de notation continue des dirigeants (PDF) : cinq critères, notes initiales Coulibaly 74, Yao 71, Brou 66, Tanoh 52 ; trois décisions de William.
+> - Tour en cours à 09h31, en attente de William : **Notation continue : grille, information des dirigeants, premières notes**.

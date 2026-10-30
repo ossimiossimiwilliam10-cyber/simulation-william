@@ -1,59 +1,53 @@
 # Dernier tour montré au joueur
 
-> Tour n° 149 ; horloge 01/10/2041 17:58 -> 06/10/2041 09:00 ; enregistré le 30/10/2026 18:50 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 150 ; horloge 06/10/2041 09:00 -> 06/10/2041 09:31 ; enregistré le 30/10/2026 18:56 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je délègue le geste à Coulibaly et je demande à Coulibaly de voir ça avec le pôle technique et de me faire un retour pour l'enveloppe ; Go
+> Je valide l'enveloppe, point écrit sur Vridi, même programme, avant de continuer la semaine, je travaille avec mon conseiller pour qu'il active en continu définitivement le système de notation de mes employés.
 
 ## Texte envoyé au joueur
 
-**DIMANCHE 6 OCTOBRE 2041 — 09h00 — Audun-le-Tiche (Moselle), chez toi**
+**DIMANCHE 6 OCTOBRE 2041 — 09h31 — Audun-le-Tiche (Moselle), chez toi**
 
-Tu réponds à Coulibaly : le geste sur le prix, en dernier recours, c'est lui qui le décide ; l'enveloppe, il la voit avec Éric Koffi Yao et il te fait un retour. Il note, remercie tout le monde, clôt la réunion à 18h04. Les vignettes s'éteignent une à une ; Viviane Tanoh part la première.
+Tu écris à ton conseiller :
 
-La semaine suit le même rythme que la précédente. Tu tiens tes huit heures : extinction vers dix heures, réveil à six. Mercredi après-midi, une séance au club ; samedi matin, deux heures, et Lenny te trouve « plus frais qu'à la rentrée ». Au lycée, rien qui sorte de l'ordinaire : des copies, une réunion d'équipe pédagogique, un collègue absent à remplacer une heure. Jeudi soir, les courses, 93,20 €. Ton conseiller ne t'écrit pas de la semaine.
+« Je valide l'enveloppe. Sur Vridi, je veux un point écrit. Même programme cette semaine. Et avant de continuer, travaillons ensemble : je veux que tu actives en continu, définitivement, le système de notation de mes employés. »
 
-Ce dimanche, un vent froid secoue le cerisier, et les premières feuilles jonchent la pelouse. À 08h55, ton conseiller :
+Le café refroidit pendant qu'il prépare sa réponse ; dans le jardin, le vent rabat les feuilles contre la porte-fenêtre. À 09h31, il répond, avec un document dans tes fichiers, « Système de notation continue des dirigeants » :
 
-« Séance du dimanche 6 octobre 2041, 09h00. Ordre du jour.
+« Reçu à 09h06. L'enveloppe de 3 500 000 FCFA est validée ; Coulibaly reçoit demain matin ton accord et ta demande de point écrit sur Vridi, à joindre à son compte rendu de mardi.
 
-BILAN DE LA SEMAINE (30 septembre au 6 octobre)
-- Prises de fonction : Mariam Brou, Viviane Tanoh et Éric Koffi Yao sont en poste depuis mardi. Assurance et cabinet comptable signés.
-- Climatiseurs : livrés mercredi, mais pas tous ; il manque un groupe extérieur. Froid Lagune Services promet la pièce « sous dix jours ». Le solde de 60 % a été payé à la livraison.
-- Rendez-vous de Vridi, jeudi : Viviane Tanoh ne s'est pas présentée. Éric Koffi Yao est venu seul, sans offre commerciale ; l'industriel a écourté. Elle a expliqué à Coulibaly s'être trompée de jour. Coulibaly essaie de refixer le rendez-vous.
-- Comptes rendus : celui de mardi à l'heure ; celui de vendredi midi est arrivé samedi matin, sans excuse. C'est dans ce compte rendu qu'il mentionne Vridi, en deux lignes.
-- Enveloppe d'approvisionnement : Coulibaly m'a envoyé jeudi sa proposition, faite avec Éric Koffi Yao. Référencer trois fournisseurs (panneaux, onduleurs, structures) sans stock avant le premier contrat signé ; une enveloppe de 3 500 000 FCFA pour l'outillage de base, les équipements de sécurité des futurs techniciens et des échantillons ; paiement des fournisseurs à la commande d'un client.
-- Ton deuxième apport mensuel de 5 000 € est parti mercredi.
+Pour la notation, voici ce que je te propose (document dans tes fichiers, « Système de notation continue des dirigeants ») :
+- une note sur 100 par dirigeant, mise à jour chaque dimanche, uniquement à partir de faits datés ;
+- cinq critères : fiabilité (25 points), résultats (30), remontée d'information (20), qualité d'exécution (15), coopération (10) ;
+- la note s'affiche dans Gestion, rubrique « Équipes et notes », avec la variation de la semaine ;
+- je te signale toute note sous 60 deux semaines de suite ; sous 50 pendant la période d'essai, je demande un point écrit à Coulibaly.
 
-MON ANALYSE
-- Vridi : un premier manquement de Mme Tanoh, sur le seul rendez-vous déjà pris avec un industriel que Lagune Kilowatt démarche aussi. Ce n'est pas une faute lourde ; c'est un signal à suivre pendant sa période d'essai.
-- L'enveloppe est prudente : pas de stock qui dort, de l'argent seulement pour ce qui sert à tout chantier.
+Mes premières notes, sur la semaine écoulée : Coulibaly 74, Éric Koffi Yao 71, Mariam Brou 66, Viviane Tanoh 52. Les faits retenus sont dans le document.
 
-DÉCISIONS À PRENDRE
-1. Valider l'enveloppe d'approvisionnement de 3 500 000 FCFA (environ 5 300 €) ? Oui ou non.
-2. Vridi : on laisse Coulibaly gérer avec Mme Tanoh, ou tu veux qu'il te fasse un point écrit sur ce qui s'est passé ?
+Trois choses à me dire :
+1. Tu valides la grille et les pondérations, ou tu les changes ?
+2. Les dirigeants savent-ils qu'ils sont notés, et connaissent-ils leur note, ou la notation reste-t-elle interne ?
+3. Tu corriges une de ces premières notes ? »
 
-POUR INFORMATION
-- Trésorerie de la société : environ 23,6 millions de FCFA ; salaires d'octobre à verser fin du mois.
-- Veille « faute lourde » : rien à signaler. »
-
-Il est 09h00.
+Il est 09h31.
 
 ---
 
 **Réponses attendues**
-- **Ton conseiller (séance du dimanche)** : deux décisions :
-  1. valider l'enveloppe d'approvisionnement de 3 500 000 FCFA (environ 5 300 €) ? Oui ou non ;
-  2. Vridi : laisser Coulibaly gérer avec Viviane Tanoh, ou demander un point écrit.
+- **Ton conseiller** : trois questions sur la notation :
+  1. valider la grille et les pondérations, ou les modifier ;
+  2. informer ou non les dirigeants qu'ils sont notés, et de leur note ;
+  3. corriger ou non une des premières notes (Coulibaly 74, Yao 71, Brou 66, Tanoh 52).
 
 **À faire / à fournir avant le tour suivant**
-- Tes décisions ; ton programme de la semaine du 7 au 13 octobre.
+- Tes réponses ; ensuite, la semaine du 7 au 13 octobre (même programme).
 
 **Quêtes secondaires**
+- Mardi 8 octobre : point écrit de Coulibaly sur Vridi, avec son compte rendu.
 - Pièce manquante des climatiseurs : promise « sous dix jours ».
 - Consultation de gardiennage de Mariam Brou : réponse avant le 20 octobre.
 - Fin octobre : premiers salaires de l'équipe.
-- Mardi 5 novembre, 17h30 : réunion d'équipe mensuelle.
 
 Que veux-tu faire ?
