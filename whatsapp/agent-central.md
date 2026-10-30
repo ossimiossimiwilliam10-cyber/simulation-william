@@ -809,3 +809,19 @@ POUR INFORMATION
 **[20/10/2041 - 09:18 (Luxembourg)] William :** Prolonge le gardiennage pour novembre. On répond au régulateur. Et écris à Coulibaly : où en est-on des offres ? Notre concurrent direct m'inquiète : faut-il convoquer une réunion, ou laisser l'équipe poursuivre sur son élan ? Préviens-le aussi que je compte venir à Abidjan en décembre, pendant les congés de Noël ; je préparerai le voyage petit à petit.
 **[20/10/2041 - 09:22 (Luxembourg)] Agent central :** Reçu à 09:20. Courriel à Coulibaly envoyé à 09h25, depuis ton adresse : prolongation du gardiennage pour novembre, réponse à la consultation du régulateur, tes deux questions et ta venue en décembre. Pour la consultation, je demande d'abord à Me Gnamien un devis pour la contribution écrite ; tu l'auras dimanche prochain.
 **[20/10/2041 - 09:43 (Luxembourg)] Agent central :** Réponse de Coulibaly reçue à 09h41 : « Bonjour Monsieur Ossimi. Point des offres : Vridi, l'industriel a accusé réception de notre offre vendredi et promet une réponse sous quinze jours. Les deux rendez-vous de septembre, l'entrepôt frigorifique de Port-Bouët et l'imprimerie de Yopougon, sont à tenir d'ici fin octobre, Mme Tanoh s'en occupe. Pour Lagune Kilowatt, je partage votre inquiétude : ils cassent les prix, mais leurs délais et leur service après-vente ont mauvaise réputation, c'est sur cela que nous jouons. Je me permets de proposer de laisser l'équipe avancer jusqu'à la réunion du 5 novembre : une réunion de plus maintenant prendrait du temps à Mme Tanoh, qui doit tenir ses objectifs. Votre venue en décembre est une très bonne nouvelle ; dites-moi vos dates dès que possible, je bloquerai des rendez-vous clients. Bien cordialement, M. Coulibaly. » Une affirmation à vérifier : la mauvaise réputation de Lagune Kilowatt sur les délais et le service après-vente ; je n'ai aucune source pour l'instant.
+**[20/10/2041 - 09:50 (Luxembourg)] William :** On attend la réunion du 5 novembre. Et travaillons ensemble : quelle est la meilleure période pour débarquer à Abidjan en décembre, et quelle doit être ma stratégie pendant ce séjour ?
+**[20/10/2041 - 10:24 (Luxembourg)] Agent central :** Noté pour la réunion : je réponds à Coulibaly qu'on garde le 5 novembre. Pour le séjour, document déposé dans tes fichiers : « Séjour à Abidjan en décembre 2041 ». L'essentiel :
+
+LA PÉRIODE. Tes congés de Noël vont du samedi 21 décembre au dimanche 5 janvier. À Abidjan, tout ralentit du 24 décembre au 2 janvier. Les rendez-vous utiles, ce sont les lundi 22 et mardi 23, puis du 29 au 31, au ralenti. Je te propose un départ le samedi 21 et un retour le samedi 3 janvier. Les billets de Noël sont les plus chers de l'année sur Paris-Abidjan, entre 1 600 et 2 000 € selon mon estimation : plus tôt tu réserves, mieux c'est.
+
+LA STRATÉGIE, dans cet ordre :
+1. Les clients : deux ou trois visites d'industriels avec Mme Tanoh et M. Yao, offres en main.
+2. L'équipe : un entretien avec chaque dirigeant, et la décision sur la période d'essai de Mme Tanoh, qui finit le 31 décembre.
+3. L'argent : la SGCI et le financement de janvier.
+4. Le siège et la toiture de démonstration.
+5. Me Gnamien.
+6. Trois jours sans rendez-vous.
+
+LE POINT QUI PÈSE SUR TOUT : sans contrat d'ici là, la trésorerie passe sous zéro fin décembre, environ − 4 millions de FCFA, puis − 15,8 millions fin janvier. Le financement de janvier doit être tranché avant ton départ, pas sur place.
+
+Trois choses à me dire : la période, l'ordre des priorités, et quand on tranche le financement de janvier.
