@@ -68,4 +68,5 @@
 | A39 | Paludisme de William (séjour en zone d'endémie) | 0,5 % | actif | Par semaine passée à Abidjan sans traitement préventif (divisé par dix avec) ; incubation de 7 à 30 jours : les premiers symptômes peuvent survenir APRÈS le retour (fièvre, frissons) ; consultation, test, traitement |
 | A40 | Départ d'un directeur pendant sa période d'essai (préavis court, recrutement à refaire) | 5 % par mois et par directeur | actif | À partir du 1er octobre 2041, pour chaque directeur en période d'essai ; validé le 29/10/2026 (P43, revue n° 6) |
 | A42 | Visioconférence ratée (coupure, son, décalage) pendant une réunion à distance avec Abidjan | 10 % par réunion | actif | Validé le 30/10/2026 (P52, revue n° 9) ; tiré à chaque réunion à distance |
+| A43 | Panne ou entretien de la voiture de William (garage, contrôle technique, pneus) | 4 % | actif | Validé le 30/10/2026 (P55, revue n° 10) |
 | A41 | Retard de paiement d'un client (15 à 90 jours) | 30 % par facture | actif | Dès la première facture de SOLEIL B2B CI ; validé le 29/10/2026 (P44, revue n° 6) |

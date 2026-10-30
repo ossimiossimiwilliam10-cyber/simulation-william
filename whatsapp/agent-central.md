@@ -780,3 +780,29 @@ DÉCISIONS À PRENDRE
 POUR INFORMATION
 - Trésorerie : environ 23,6 millions de FCFA ; salaires d'octobre fin du mois.
 - Veille « faute lourde » : rien à signaler.
+**[13/10/2041 - 09:10 (Luxembourg)] William :** Offre écrite pour Vridi : oui. Objectifs écrits pour Viviane Tanoh. Rappel à Coulibaly pour les comptes rendus. Même programme. Je valide P54 à P56.
+**[13/10/2041 - 09:13 (Luxembourg)] Agent central :** Noté. Coulibaly reçoit les trois consignes demain matin, et le rappel des heures de comptes rendus par écrit, depuis ton adresse.
+**[20/10/2041 - 08:55 (Luxembourg)] Agent central :** Séance du dimanche 20 octobre 2041, 09h00. Ordre du jour.
+
+BILAN DE LA SEMAINE (14 au 20 octobre)
+- Rappel à Coulibaly : réponse en deux mots, « Bien noté. » Ses comptes rendus de mardi et de vendredi sont arrivés à l'heure.
+- Objectifs de Mme Tanoh : fixés par écrit mardi par Coulibaly pour fin octobre : trois rendez-vous, une offre écrite, la relance de Vridi.
+- Vridi : offre écrite envoyée vendredi, prévue mercredi ; chiffrée par Éric Koffi Yao. Pas encore de réponse.
+- Gardiennage : Mariam Brou demande quelques jours de plus, un des trois prestataires n'a pas répondu ; synthèse promise pour le jeudi 24. Le contrat actuel s'arrête le 31 octobre.
+- Délestage jeudi soir aux Vallons ; le groupe électrogène a pris le relais.
+
+NOTATION (interne)
+- Coulibaly 71 (+ 3), Éric Koffi Yao 73 (+ 1), Viviane Tanoh 54 (+ 4), Mariam Brou 62 (− 4).
+
+TROIS NOUVELLES D'ABIDJAN
+- La CIE annonce une révision de ses tarifs industriels au 1er janvier, sans chiffre officiel pour l'instant.
+- Le régulateur de l'électricité ouvre une consultation sur l'autoconsommation solaire des entreprises, jusqu'à fin novembre.
+- Lagune Kilowatt fait sa publicité à la radio sur « le solaire industriel au meilleur prix ».
+
+DÉCISIONS À PRENDRE
+1. Gardiennage : on attend la synthèse de Mariam Brou jeudi, au risque de décider dans la dernière semaine d'octobre, ou on prolonge dès maintenant le prestataire du bailleur pour novembre (540 000 FCFA), par précaution ?
+2. Consultation du régulateur sur l'autoconsommation : on y répond (une contribution écrite, Coulibaly et Me Gnamien), ou on la laisse passer ?
+
+POUR INFORMATION
+- Trésorerie : environ 14,3 millions de FCFA après l'informatique, le mobilier et l'enveloppe d'approvisionnement ; salaires d'octobre dans dix jours.
+- Veille « faute lourde » : rien à signaler.

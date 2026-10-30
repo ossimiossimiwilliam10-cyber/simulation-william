@@ -5002,3 +5002,80 @@ Effets à jouer : A19 (samedi 12/10 (soir)) : Un adulte attrape 2 à 4 rhumes pa
 - Procédure « William : nuits du 06/10 au 13/10 (objectif de huit heures) » : 06/10 22:06-06:00 ; 07/10 22:07-06:04 ; 08/10 22:15-06:00 ; 09/10 22:17-06:00 ; 10/10 22:00-06:03 ; 11/10 22:04-05:44 ; 12/10 22:01-05:51 [PROCÉDURE : coucher 21h45-22h20] (enregistré le 30/10/2026 19:01 heure machine)
 
 - Actualités de la semaine du 07/10/2041 : modèles LU03, LU04, FR01 [PROCÉDURE : outils/actualites.py] (enregistré le 30/10/2026 19:02 heure machine)
+
+## Tirage de la semaine du 2041-10-14
+
+| ID | Événement | Probabilité | Jet (0-100) | Résultat |
+|---|---|---|---|---|
+| A01 | Maladie d'un membre de l'équipe (paludisme, gastro, typhoïde) | 10 % |  46.2 | non |
+| A02 | Problème de santé d'un proche d'un personnage (ex. mère d'Aïcha, tension) | 8 % |  38.2 | non |
+| A04 | Délestage / coupure d'électricité prolongée | 25 % |  20.9 | **DÉCLENCHÉ** — jeudi 17/10 (soir) |
+| A05 | Fortes pluies / inondation | 15 % |  59.3 | non |
+| A06 | Retard fournisseur ou douane (NVR, onduleurs, batteries) | 30 % |  80.3 | non |
+| A07 | Panne réseau (fibre, 4G) ou banque en ligne | 15 % |  14.5 | **DÉCLENCHÉ** — dimanche 20/10 (soir) |
+| A09 | Erreur administrative (virement mal affecté, pièce perdue, nom mal orthographié) | 10 % |  87.2 | non |
+| A12 | Fuite d'information (salaires, avances, statut de William) | 5 % |  65.4 | non |
+| A13 | Opportunité commerciale inattendue (recommandation, appel d'un prospect) | 10 % |  45.7 | non |
+| A17 | William lui-même malade ou épuisé (fatigue, gastro) | 5 % |  43.4 | non |
+| A18 | Incident de transport (taxi, panne, retard) | 15 % |  95.7 | non |
+| A19 | Rhume, angine ou gastro de William | 5 % |  20.6 | non |
+| A20 | Perturbation des trajets frontaliers (bus en retard, A4 ou N4 bouchée, travaux) | 20 % |  84.1 | non |
+| A21 | Panne domestique (chauffe-eau, électroménager, fuite) | 4 % |  27.1 | non |
+| A22 | Courrier administratif (impôts français ou luxembourgeois, CNS, mairie, banque) | 10 % |  69.7 | non |
+| A23 | Tentative d'arnaque (SMS de faux colis, faux conseiller bancaire, faux site) | 15 % |   6.3 | **DÉCLENCHÉ** — lundi 14/10 (matin) |
+| A24 | Souci de voisinage (bruit, travaux, haie, stationnement) | 5 % |   3.9 | **DÉCLENCHÉ** — mercredi 16/10 (matin) |
+| A25 | Blessure légère à l'entraînement (entorse, côte, doigt) | 1 % |  69.9 | non |
+| A26 | Imprévu d'argent (amende, réparation, cadeau, cotisation) | 6 % |   1.3 | **DÉCLENCHÉ** — lundi 14/10 (matin) |
+| A27 | Signe d'un ancien (collègue, élève devenu adulte, connaissance) | 8 % |  67.0 | non |
+| A28 | Courriel ou appel du lycée pendant les vacances (réunion de rentrée, ajournements, emploi du temps) | 10 % |  45.5 | non |
+| A29 | Contrôle routier ou radar | 3 % |   1.7 | **DÉCLENCHÉ** — dimanche 20/10 (après-midi) |
+| A30 | Occasion inattendue (proposition de cours particuliers, invitation, bon plan) | 8 % |  34.1 | non |
+| A31 | Diarrhée du voyageur ou intoxication alimentaire (à l'étranger) | 12 % |  24.3 | non |
+| A35 | Surfacturation ou arnaque visant un touriste (taxi, boutique, bar) | 5 % |  89.3 | non |
+| A36 | Malentendu de langue (adresse mal comprise, commande erronée, document en coréen) | 10 % |  28.8 | non |
+| A37 | Embouteillage, pont saturé ou route coupée à Abidjan (un trajet de William ou de l'équipe prend une à deux heures de plus) | 30 % |  84.0 | non |
+| A38 | Contrôle routier ou guichet : un agent sollicite un « geste » (2 000 à 10 000 FCFA) | 10 % |  77.8 | non |
+| A39 | Paludisme de William (séjour en zone d'endémie) | 0.5 % |  41.1 | non |
+| A40 | Départ d'un directeur pendant sa période d'essai (préavis court, recrutement à refaire) | 5 % |  31.0 | non |
+| A42 | Visioconférence ratée (coupure, son, décalage) pendant une réunion à distance avec Abidjan | 10 % |  69.7 | non |
+| A41 | Retard de paiement d'un client (15 à 90 jours) | 30 % |  88.6 | non |
+
+Effets à jouer : A04 (jeudi 17/10 (soir)) : (avant : « univers 1 » → maintenant : actif à Abidjan, P39 validée le 29/10/2026)  QG sans groupe électrogène (hors service) ; chantiers et visites perturbés ; A07 (dimanche 20/10 (soir)) : Retard d'un virement, d'un envoi, d'un rapport ; A23 (lundi 14/10 (matin)) : Très courant ; William voit le message et décide ; A24 (mercredi 16/10 (matin)) : Maison mitoyenne ; à l'étranger, seulement par un message d'un voisin ; A26 (lundi 14/10 (matin)) : Montant tiré dans une fourchette réaliste (prix.py) ; A29 (dimanche 20/10 (après-midi)) : Seulement un jour où William conduit
+
+- Tirage [T22] « Front H004 « Lagune Kilowatt réagit à l'arrivée de SOLEIL B2B CI » : semaine du 14/10/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  43.3 → **zero_segment** (enregistré le 30/10/2026 19:06 heure machine)
+
+- Tirage [T22] « Front H005 « Comoé Solaire Services tente de débaucher l'équipe » : semaine du 14/10/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  42.3 → **zero_segment** (enregistré le 30/10/2026 19:06 heure machine)
+
+- Tirage [T22] « Front H006 « Ébène Watt casse les prix chez les petits clients » : semaine du 14/10/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  10.1 → **zero_segment** (enregistré le 30/10/2026 19:06 heure machine)
+
+- Tirage [T15] « P47 : un collègue ou un élève évoque-t-il l'activité de William en Côte d'Ivoire (semaine du 14/10) ? » : rien_laisse_passer 30 / accepte_volontiers 18 / garde_distance 14 / en_parle_a_d_autres 12 / rend_la_pareille 10 / demande_explication 8 / decline 6 / frontal_conflit 2 ; modificateurs : aucun ; jet  22.6 → **rien_laisse_passer** (enregistré le 30/10/2026 19:06 heure machine)
+
+- Tirage [T7c] « Viviane Tanoh : préparer l'offre écrite pour Vridi, chiffrée avec Éric Koffi Yao (consigne du 13/10) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  87.7 → **execute_a_contrecoeur** (enregistré le 30/10/2026 19:06 heure machine)
+
+- Tirage [T7c] « Coulibaly : fixer des objectifs écrits d'octobre à Viviane Tanoh (consigne du 13/10) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet   8.6 → **execute_sans_discuter** (enregistré le 30/10/2026 19:06 heure machine)
+
+- Tirage [T7c] « Coulibaly reçoit un rappel écrit de William sur l'heure des comptes rendus (mardi 17h00, vendredi 12h00) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  86.6 → **execute_a_contrecoeur** (enregistré le 30/10/2026 19:06 heure machine)
+
+- Jet « Mohamed Coulibaly tient sa promesse : envoie son compte rendu du mardi 15/10 17h00 (après le rappel) » : probabilité 90 %, jet  56.5 → **OUI** [PROCÉDURE : fiabilité tirée du personnage (lenteur.py)] (enregistré le 30/10/2026 19:06 heure machine)
+
+- Jet « Mohamed Coulibaly tient sa promesse : envoie son compte rendu du vendredi 18/10 12h00 (après le rappel) » : probabilité 90 %, jet  20.0 → **OUI** [PROCÉDURE : fiabilité tirée du personnage (lenteur.py)] (enregistré le 30/10/2026 19:06 heure machine)
+
+- Jet « Mariam Brou tient sa promesse : rend la synthèse des trois offres de gardiennage avant le 20/10 » : probabilité 91 %, jet  98.9 → **NON** [PROCÉDURE : fiabilité tirée du personnage (lenteur.py)] (enregistré le 30/10/2026 19:06 heure machine)
+
+- Tirage [T18] « Forme du manquement : synthèse des offres de gardiennage attendue avant le 20/10 » : retard 50 / report_excuse 30 / oubli_complet 20 ; modificateurs : aucun ; jet  72.4 → **report_excuse** (enregistré le 30/10/2026 19:06 heure machine)
+
+- Procédure « Aléa A24 (mercredi 16/10) : le voisin Olivier Schneider propose de partager l'élagage de la haie mitoyenne, part demandée à William » : 143 € [PROCÉDURE : montant tiré entre 110 et 160 € (devis d'un paysagiste)] (enregistré le 30/10/2026 19:06 heure machine)
+
+- Procédure « Aléa A26 (lundi 14/10 matin) : imprévu d'argent » : cagnotte pour le départ à la retraite d'une collègue du lycée, 20 € [PROCÉDURE : forme tirée parmi amende, réparation, cadeau, cotisation (montant fixe de la cagnotte)] (enregistré le 30/10/2026 19:06 heure machine)
+
+- Tirage [T4] « affaire_projet_ci_annonce : escalade externe, semaine du 14/10 » : aucune 99.7 / frontal_escalade 0.3 ; modificateurs : aucun ; jet  87.2 → **aucune** (enregistré le 30/10/2026 19:06 heure machine)
+
+- Tirage [T5] « affaire_projet_ci_annonce : fuite, semaine du 14/10 » : fuite_externe 15 / fuite_interne 40 / aucune 45 ; modificateurs : aucun ; jet  75.0 → **aucune** (enregistré le 30/10/2026 19:06 heure machine)
+
+- Tirage [T4] « affaire_projet_ci_art14 : escalade externe, semaine du 14/10 » : aucune 99.7 / frontal_escalade 0.3 ; modificateurs : aucun ; jet  41.2 → **aucune** (enregistré le 30/10/2026 19:06 heure machine)
+
+- Tirage [T5] « affaire_projet_ci_art14 : fuite, semaine du 14/10 » : fuite_externe 2 / fuite_interne 6 / aucune 92 ; modificateurs : aucun ; jet  11.3 → **aucune** (enregistré le 30/10/2026 19:06 heure machine)
+
+- Procédure « William : nuits du 13/10 au 20/10 » : 13/10 21:58-06:02 ; 14/10 21:45-06:05 ; 15/10 22:10-06:02 ; 16/10 22:03-06:09 ; 17/10 22:03-06:02 ; 18/10 21:48-06:11 ; 19/10 22:12-06:21 [PROCÉDURE : coucher 21h45-22h20] (enregistré le 30/10/2026 19:07 heure machine)
+
+- Actualités de la semaine du 14/10/2041 : modèles LU04, LU03, FR01 [PROCÉDURE : outils/actualites.py] (enregistré le 30/10/2026 19:07 heure machine)

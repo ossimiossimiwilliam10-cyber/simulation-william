@@ -93,3 +93,10 @@ date;type;tmin;tmax;pluie_mm;orage;soleil_h;brouillard;description;anomalie;tire
 2041-10-15;nuageux;9.5;19.1;0.0;non;4.2;oui;"Ciel partagé ; brouillard au lever du jour ; 19 °C au plus chaud, 10 °C au petit matin";2.21;2026-10-30T19:02
 2041-10-16;averses;8.4;13.2;1.7;non;1.9;non;"Averses ; 13 °C au plus chaud, 8 °C au petit matin ; 1,7 mm de pluie";0.42;2026-10-30T19:02
 2041-10-17;averses;8.2;13.4;5.2;non;2.2;non;"Averses ; 13 °C au plus chaud, 8 °C au petit matin ; 5,2 mm de pluie";0.77;2026-10-30T19:02
+2041-10-18;orage;8.1;11.2;2.0;oui;2.3;non;"Orage en fin d'après-midi ; 11 °C au plus chaud, 8 °C au petit matin ; 2 mm de pluie";-1.21;2026-10-30T19:07
+2041-10-19;orage;7.3;12.4;1.2;oui;1.1;non;"Orage en fin d'après-midi ; 12 °C au plus chaud, 7 °C au petit matin ; 1,2 mm de pluie";0.14;2026-10-30T19:07
+2041-10-20;pluie;11.3;15.8;15.1;non;1.3;non;"Pluie ; 16 °C au plus chaud, 11 °C au petit matin ; 15,1 mm de pluie";3.78;2026-10-30T19:07
+2041-10-21;orage;12.6;17.1;2.8;oui;0.8;non;"Orage en début d'après-midi ; 17 °C au plus chaud, 13 °C au petit matin ; 2,8 mm de pluie";5.25;2026-10-30T19:07
+2041-10-22;nuageux;8.2;19.5;0.0;non;4.3;oui;"Ciel partagé ; brouillard au lever du jour ; 20 °C au plus chaud, 8 °C au petit matin";3.76;2026-10-30T19:07
+2041-10-23;nuageux;5.9;16.4;0.0;non;4.6;oui;"Ciel partagé ; brouillard au lever du jour ; 16 °C au plus chaud, 6 °C au petit matin";0.75;2026-10-30T19:07
+2041-10-24;nuageux;7.0;15.7;0.0;non;3.6;non;"Ciel partagé ; 16 °C au plus chaud, 7 °C au petit matin";0.28;2026-10-30T19:07
