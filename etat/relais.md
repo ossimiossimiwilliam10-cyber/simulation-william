@@ -1,58 +1,42 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 01/11/2026 00:09 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 01/11/2026 00:20 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : mercredi 23 octobre 2041, 20h43 (luxembourg) ; tour n° 160
+- Horloge : mercredi 23 octobre 2041, 20h49 (luxembourg) ; tour n° 161
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Conseiller : accord sur le brouillon pour Coulibaly (annulation de décembre) et sur la visio du 9/12
+- En attente de William : Coulibaly : entretien de Mme Tanoh le mardi 10/12 17h30 ? la prévenir dès demain ?
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 160 ; horloge 23/10/2041 18:42 -> 23/10/2041 20:43 ; enregistré le 01/11/2026 00:09 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 161 ; horloge 23/10/2041 20:43 -> 23/10/2041 20:49 ; enregistré le 01/11/2026 00:20 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je réponds au check de Lenny et je lui propose 7 rounds plus tôt. Je lui dis que moi aussi, à ces derniers temps, la vie est dure avec moi, que je vais me venger sur lui aujourd'hui. Plus tard dans la soirée, quand je rentrerai, j'annulerai mon voyage prévu en décembre. Je demanderai à mon conseiller de fournir une raison à Koulibaly comme quoi, en fait, c'est à cause de soucis administratifs que j'aurais dû m'y prendre bien plus tôt. [...] Pourquoi pas en avril pour les congés de Pâques cette fois-ci.
+> Alors du coup, concernant du coup le message pour Koulibaly, je suis avec un signe de mon conseiller. Et concernant mon avis sur mon recrutement en visioconférence de la semaine du 9, je suis d'accord. Bah, du coup, il n'y a pas grand chose d'autre.
 
 ## Texte envoyé au joueur
 
-**MERCREDI 23 OCTOBRE 2041 — 20h43 — Audun-le-Tiche (Moselle), chez toi**
+**MERCREDI 23 OCTOBRE 2041 — 20h49 — Audun-le-Tiche (Moselle), chez toi**
 
-Tu tapes dans son poing. Six rounds, c'est pour les petits : tu lui en proposes sept. Toi aussi, la vie est dure avec toi ces derniers temps, et ce soir, c'est sur lui que tu vas te venger.
+Tu réponds à ton conseiller que tu suis son avis pour le message à Coulibaly, et que tu es d'accord pour la visioconférence de la semaine du 9 décembre.
 
-Lenny éclate de rire. « Sept ? Vas-y, sept ! Tu vas regretter, frère. » Il file au vestiaire et revient trois minutes plus tard en short et rashguard, les bandes déjà enroulées, en sautillant sur place pour se réchauffer.
+Une minute plus tard : « Envoyé à Coulibaly à l'instant, depuis direction@, tel quel, avec une ligne en plus : « Prévoyez aussi, la semaine du 9 décembre, un entretien en visioconférence avec Mme Tanoh et vous-même pour la fin de sa période d'essai. » Bonne soirée. »
 
-Sept rounds de trois minutes, une minute de repos entre chaque. Il est venu avec sa rage de chantier et il la met dans les deux premiers : des crochets lourds, des épaules qui poussent au corps à corps, des tentatives d'amenée qui te font reculer jusqu'au bord du tapis. À partir du quatrième, il souffle plus fort que toi ; tu prends le centre, tu le fais tourner, tu places tes directs et tu le ramènes deux fois au sol. Au sixième, il réussit un renversement propre et le célèbre trop fort, ce qui fait rire le coach depuis le bord. Au septième, vous n'êtes plus que deux types qui s'appuient l'un sur l'autre en échangeant des coups sans conviction, trempés, les avant-bras qui brûlent. Au gong, il s'effondre sur le dos, les bras en croix.
+Tu poses le téléphone sur l'accoudoir. Dans la cuisine, le lave-vaisselle entame son cycle avec un gargouillis ; tes cuisses commencent à se raidir après les sept rounds, et une ecchymose se dessine sur ton avant-bras gauche, là où un genou de Lenny est passé. Tu as à peine eu le temps de chercher la télécommande que le téléphone vibre. WhatsApp, Mohamed Coulibaly :
 
-« T'es malade… » Il cherche son air. « La prochaine fois, c'est moi qui choisis le nombre. » Il te tend la main pour que tu le relèves, puis part vers les douches en boitant exprès.
+« Bonsoir Monsieur Ossimi, bien reçu votre courriel. Pas de souci pour décembre, on avance de notre côté, et Pâques nous laisse le temps d'avoir des clients à vous montrer. Pour l'entretien de Mme Tanoh, je propose le mardi 10 décembre à 17h30 heure de Luxembourg (16h30 ici). Je la préviens dès demain ? M. Coulibaly. »
 
-Un quart d'heure de gainage pour finir, et tu reprends la route dans la nuit, les jambes lourdes, vitres entrouvertes pour sécher ta nuque. À la maison, douche brûlante, une assiette de riz et de poulet, et, assis dans le canapé, tu ouvres la conversation avec ton conseiller. Tu lui écris que tu annules ton voyage de décembre ; qu'il trouve une raison à donner à Coulibaly, des soucis administratifs, des démarches que tu aurais dû lancer bien plus tôt, quelque chose de cohérent. La vraie raison, entre vous : tu es venu il y a quelques semaines, ce serait trop tôt ; mieux vaut laisser l'équipe se développer avant de revenir, peut-être en avril, pendant les congés de Pâques.
-
-La réponse arrive trois minutes plus tard :
-
-« Noté. Décembre est annulé ; rien n'était payé (ni billets ni e-visa), donc aucun frais.
-
-Pour Coulibaly, un point : évite le visa comme motif. Il sait qu'un e-visa ivoirien se fait en deux ou trois jours, ça ne tiendrait pas. Un motif administratif de ton côté, au Luxembourg, et vague, tient mieux. Brouillon :
-
-« Bonsoir Mohamed, je dois décaler mon séjour de décembre : des démarches administratives de mon côté, que j'aurais dû lancer plus tôt, me retiennent au Luxembourg sur cette période. Je viendrai plutôt pendant les vacances de Pâques, entre le 29 mars et le 13 avril ; je vous confirmerai les dates. D'ici là, on garde le rythme des comptes rendus et la réunion du 5 novembre. William Ossimi »
-
-Deux conséquences de mon côté :
-1. La période d'essai de Mme Tanoh finit le 31 décembre. La décision se prendra à distance : je te propose un entretien en visioconférence avec elle et Coulibaly la semaine du 9 décembre.
-2. Les visites d'industriels prévues en décembre se feront sans toi, avec Mme Tanoh et M. Yao.
-
-Je l'envoie tel quel à Coulibaly, ce soir ou demain matin ? »
-
-Il est 20h43.
+Il est 20h49.
 
 ---
 
 **Réponses attendues**
-- **Ton conseiller** : il attend ton accord sur le brouillon pour Coulibaly (tel quel ou modifié ; ce soir ou demain matin), et ton avis sur l'entretien en visioconférence de la semaine du 9 décembre pour la fin de la période d'essai de Mme Tanoh.
+- **Mohamed Coulibaly** : il propose le mardi 10 décembre à 17h30 (heure de Luxembourg) pour l'entretien de fin de période d'essai de Mme Tanoh, et demande s'il doit la prévenir dès demain.
 
 **À faire / à fournir avant le tour suivant**
 - Rien d'autre.
@@ -61,6 +45,7 @@ Il est 20h43.
 - Dimanche 27 octobre : séance de travail avec ton conseiller.
 - Samedi 2 novembre : taille de la haie partagée avec ton voisin.
 - Mardi 5 novembre : décision de financement, puis réunion d'équipe à 17h30.
+- Séjour à Abidjan envisagé pendant les vacances de Pâques (du 29 mars au 13 avril 2042) : dates à confirmer à Coulibaly.
 
 Que veux-tu faire ?
 
@@ -105,7 +90,7 @@ Que veux-tu faire ?
 | 6 | ~~**Statuts de la SASU : William « Associé Unique / Président » (audit du 29/10/2026)** (19/08 09h00)~~ **CLOS le 19/08 09h00** : SANS OBJET (vérifié le 29/10/2026) : les actes signés le 13/08/2041 chez Me Gnamien nomment Mohamed Coulibaly Président-Directeur Général ; William est seulement associé unique fondateur. L'alerte de l'audit reposait sur le projet de statuts du 29/07 (piège 101). | Les statuts préparés par Me Gnamien (29/07/2041) font de William l'associé unique ET le Président de la SASU. Or F084 : un fonctionnaire luxembourgeois peut détenir des parts sans demande préalable tant qu'il n'exerce AUCUN mandat exécutif ; la présidence d'une SAS en est un. À jouer au prochain tour : le pôle juridique virtuel le signale dans la rubrique « affirmations vérifiées » du rapport (contredit F084 et le principe d'associé non-gérant, dossier article 14 en cours au MENJE) et pose une question fermée à William (garder la présidence et la déclarer au MENJE, ou confier la présidence à un tiers, par exemple Mohamed Coulibaly, par modification des statuts : coût et délai chez Me Gnamien). William décide ; rien n'est changé à sa place | prochain rapport de 20h00 |
 | 7 | **Revue du lundi n° 5 : P32 à P36 sont des décisions d'affaires, pas des mécanismes du simulateur** (19/08 09h00) | Audit du 29/10/2026 : la revue doit proposer des améliorations du SIMULATEUR (aléas, règles, outils, immersion) que l'utilisateur valide ; P32 à P36 décrivent des actions de l'entreprise (devis, abonnements CIE et SODECI, recrutements, rumeurs, cellule d'étude). Les présenter à William comme décisions d'affaires ; à la prochaine revue, 3 à 5 vraies propositions de mécanismes | revue du lundi 26/08 |
 | 8 | ~~**Note de la résidence d'Abidjan (extras à régler au départ)** (19/08 09h00)~~ **CLOS le 25/08 07h18** : réglé le 25/08 à 12h05 avec le séjour : 19 716 FCFA d'extras Yango (dont la course vers l'aéroport), 1 720,06 € au total sur la Visa Premier | Course Yango du 19/08/2041 (résidence → villa des Vallons, 1 600 FCFA ≈ 2,44 €) commandée par la réception et portée sur la note ; à ajouter au règlement du 25/08 à 12h00 (A111), avec cartes.py payer ; *(19/08 10h17) (19/08 10h17) deuxième course Yango (villa des Vallons → résidence, 1 279 FCFA ≈ 1,95 €) commandée par la réception et portée sur la note ; total des extras Yango du jour : 2 879 FCFA* ; *(19/08 18h07) (19/08 13h41) courses Yango résidence → Sofitel (3 028 FCFA) et Sofitel → résidence (2 825 FCFA) portées sur la note ; total des extras Yango du jour : 8 732 FCFA (≈ 13,31 €)* ; *(20/08 10h47) (20/08 10h40) course Yango résidence → Playce Palmeraie, 2 405 FCFA, portée sur la note* ; *(20/08 11h11) (20/08 11h11) course Yango Playce Palmeraie → résidence, 2 207 FCFA, portée sur la note* | 25/08/2041 12h00 |
-| 9 | **Séjour à Abidjan de décembre annulé, Pâques 2042 envisagé** (23/10 18h42) | William renonce le 23/10 à 20h40 au séjour du 21/12 au 04/01 (vrai motif, connu du seul conseiller : trop tôt après août, laisser l'équipe se développer) ; demande au conseiller un motif administratif plausible pour Coulibaly ; brouillon soumis à William ; Pâques : 29/03-13/04/2042 ; *(23/10 20h43) brouillon pour Coulibaly soumis à William à 20h43* | réponse de William sur l'envoi |
+| 9 | **Séjour à Abidjan de décembre annulé, Pâques 2042 envisagé** (23/10 18h42) | William renonce le 23/10 à 20h40 au séjour du 21/12 au 04/01 (vrai motif, connu du seul conseiller : trop tôt après août, laisser l'équipe se développer) ; demande au conseiller un motif administratif plausible pour Coulibaly ; brouillon soumis à William ; Pâques : 29/03-13/04/2042 ; *(23/10 20h43) brouillon pour Coulibaly soumis à William à 20h43* ; *(23/10 20h43) brouillon validé par William à 20h45 ; envoyé à 20h46 depuis direction@ avec la ligne sur l'entretien de Mme Tanoh ; Coulibaly répond à 20h49 (T7b succes_net, T10 immediat) : propose le mardi 10/12 à 17h30 (Luxembourg) et demande s'il prévient Mme Tanoh* | réponse de William sur l'envoi |
 
 ## Notes de passation (etat/relais-notes.md)
 - ~~(11/10/2026 22:30, Claude Opus 5.5) Redémarrage de l'univers 2 redaté au samedi 14/07/2040, 08h37 (premier vrai jour de vacances,
@@ -202,10 +187,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 2f951df ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 7afefaf ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche claude/vigorous-jang-66b9e5 ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 20 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 16 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

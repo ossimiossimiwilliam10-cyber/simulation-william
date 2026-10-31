@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 01/11/2026 00:09 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 01/11/2026 00:20 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mercredi 23/10/2041 20:43 (luxembourg, UTC+2)
+## Horloge : mercredi 23/10/2041 20:49 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 18:43 ; lisbonne 19:43 ; mindelo 17:43 ; casablanca 19:43 ; douala 19:43 ; addis 21:43 ; manille 02:43 ; paris 20:43 ; seoul 03:43 ; bresil 15:43
+- **Heure dans les autres lieux** : abidjan 18:49 ; lisbonne 19:49 ; mindelo 17:49 ; casablanca 19:49 ; douala 19:49 ; addis 21:49 ; manille 02:49 ; paris 20:49 ; seoul 03:49 ; bresil 15:49
 - **En attente de William** :
-  - Conseiller : accord sur le brouillon pour Coulibaly (annulation de décembre) et sur la visio du 9/12
+  - Coulibaly : entretien de Mme Tanoh le mardi 10/12 17h30 ? la prévenir dès demain ?
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **5 613,13 €**
@@ -40,9 +40,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-10-23.md, 6 dernières lignes)
-> - **00h00-18h42** (tour n° 159) : 18h42 — Avance courte : mardi après-midi (préparation des cours), compte rendu de Coulibaly de 17h00 reçu par le conseiller ; mercredi : Kim Schmitz salue de loin (T15 garde_distance) ; au club, Lenny Nguyen (présence tirée OUI) propose six rounds ; arrêt. U3-28 : prospects restaurés.
-> - Tirages du tour : jet « Lenny Nguyen vient au club le mercredi 23/10 vers 18h40 » → OUI (20,78).
-> - Tour en cours à 18h42, en attente de William : **Lenny Nguyen propose six rounds de sparring**.
 > - **18h42-20h43** (tour n° 160) : 20h43 — Sept rounds avec Lenny (T15 accepte_volontiers) ; William annule le séjour de décembre (A146 annulée, e-visa DV001 annulé), demande au conseiller un motif administratif pour Coulibaly (vrai motif : trop tôt après août) ; brouillon soumis, Pâques 29/03-13/04/2042 envisagé.
 > - Tirages du tour : T15 Lenny → accepte_volontiers (39,31).
 > - Tour en cours à 20h43, en attente de William : **Conseiller : accord sur le brouillon pour Coulibaly (annulation de décembre) et sur la visio du 9/12**.
+> - **20h43-20h49** (tour n° 161) : 20h49 — William suit l'avis du conseiller ; message envoyé à Coulibaly à 20h46 (motif administratif, Pâques, entretien de Mme Tanoh semaine du 9/12) ; Coulibaly répond à 20h49 (T7b succes_net, T7c execute_sans_discuter, T10 immediat) : propose le 10/12 17h30 et demande s'il prévient Mme Tanoh.
+> - Tirages du tour : T7b Mohamed → succes_net (15,98) ; T7c Mohamed → execute_sans_discuter (52,92) ; T10 Mohamed → immediat (3,4).
+> - Tour en cours à 20h49, en attente de William : **Coulibaly : entretien de Mme Tanoh le mardi 10/12 17h30 ? la prévenir dès demain ?**.

@@ -164,7 +164,7 @@
 - **Derniers événements** : 23/09 petit_evenement (dépense imprévue (frais de scolarité)); 01/10 sans_histoire; 09/10 coup_dur (malade (dengue légère)); 19/10 petit_evenement (service rendu ou reçu); 26/10 petit_evenement (bus en retard)
 
 ### Mohamed Coulibaly (répondant à l'annonce)
-- **Lien avec William** : aucun (whatsapp)
+- **Lien avec William** : contact_recent (whatsapp)
 - **Objectif** : acheter un logement (ou un plus grand) ; **souci** : contrat de travail qui se termine bientôt ; **foyer** : en couple, avec enfants
 - **Secret (moteur seulement)** : —
 - **Horaires** : règle « bureau_abidjan », fuseau abidjan, décalage -21 min ; travail 07:39-17:09 (lun, mar, mer, jeu, ven), trajet 50 min ; sommeil 23:09-05:39

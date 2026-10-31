@@ -5147,3 +5147,9 @@ Effets à jouer : A22 (vendredi 25/10 (soir)) : Frontalier : deux administration
 - Jet « Lenny Nguyen vient au club le mercredi 23/10 vers 18h40 » : probabilité 85 %, jet  20.8 → **OUI** [PROCÉDURE : habitude du club (sparring du mercredi, routines.py)] (enregistré le 01/11/2026 00:03 heure machine)
 
 - Tirage [T15] « Club, 23/10 18h42 : William rend le check, propose sept rounds au lieu de six et lance qu'il va se venger sur lui ce soir (la vie est dure en ce moment) » : rien_laisse_passer 30 / accepte_volontiers 18 / garde_distance 14 / en_parle_a_d_autres 12 / rend_la_pareille 10 / demande_explication 8 / decline 6 / frontal_conflit 2 ; modificateurs : aucun ; jet  39.3 → **accepte_volontiers** (enregistré le 01/11/2026 00:07 heure machine)
+
+- Tirage [T7b] « 23/10 20h46 (Luxembourg) : message de William (rédigé par le conseiller) qui décale le séjour de décembre à Pâques pour des « démarches administratives » au Luxembourg, motif inventé » : succes_net 35 / succes_cout 30 / doute_visible 20 / incredule_silencieux 12 / frontal_dement 3 ; modificateurs : aucun ; jet  16.0 → **succes_net** (enregistré le 01/11/2026 00:19 heure machine)
+
+- Tirage [T7c] « Organiser un entretien en visioconférence de fin de période d'essai de Mme Tanoh, semaine du 9/12 (demande transmise par le conseiller) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  52.9 → **execute_sans_discuter** (enregistré le 01/11/2026 00:19 heure machine)
+
+- Tirage [T10] « Réponse de Coulibaly au message du 23/10 20h46 sur le report du séjour » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet   3.4 → **immediat** (enregistré le 01/11/2026 00:19 heure machine)

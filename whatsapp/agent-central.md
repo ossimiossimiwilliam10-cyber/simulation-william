@@ -840,3 +840,5 @@ Deux conséquences de mon côté :
 2. Les visites d'industriels prévues en décembre se feront sans toi, avec Mme Tanoh et M. Yao.
 
 Je l'envoie tel quel à Coulibaly, ce soir ou demain matin ?
+**[23/10/2041 - 20:45 (Luxembourg)] William :** Je suis l'avis de mon conseiller pour le message à Coulibaly. Et d'accord pour la visioconférence de la semaine du 9 décembre.
+**[23/10/2041 - 20:46 (Luxembourg)] Agent central :** Envoyé à Coulibaly à l'instant, depuis direction@, tel quel, avec une ligne en plus : « Prévoyez aussi, la semaine du 9 décembre, un entretien en visioconférence avec Mme Tanoh et vous-même pour la fin de sa période d'essai. » Bonne soirée.

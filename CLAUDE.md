@@ -217,6 +217,7 @@ Langue : **français**.
 > (Min-ji, Hye-won, Soo-jin, Thiago Rocha, Lucas Mendes, voyage à Séoul) dans `archives/univers-3-partie-1/` et sous le tag git
 > `univers-3-partie-1` ; leurs lignes du §9 : `memoire/archive-point-de-reprise-univers-3-partie-1.md`. Tirages neufs : aucun résultat de la
 > première partie n'est rejoué. Les essais du moteur utilisent l'archive comme état d'essai (`outils/tests_moteur.py`).
+**Mercredi 23 octobre 2041, 20h49 — Audun-le-Tiche (Moselle), chez William : tour n° 161 joué (Message envoyé à Coulibaly ; il propose le 10 décembre pour l'entretien de Mme Tanoh) ; en attente : **Coulibaly : entretien de Mme Tanoh le mardi 10/12 17h30 ? la prévenir dès demain ?**.**
 **Mercredi 23 octobre 2041, 20h43 — Audun-le-Tiche (Moselle), chez William : tour n° 160 joué (Séjour de décembre annulé ; le conseiller soumet un motif pour Coulibaly) ; en attente : **Conseiller : accord sur le brouillon pour Coulibaly (annulation de décembre) et sur la visio du 9/12**.**
 **Mercredi 23 octobre 2041, 18h42 — Esch-sur-Alzette, Minett Combat Club : tour n° 159 joué (Avance courte jusqu'au club : Lenny propose six rounds de sparring) ; en attente : **Lenny Nguyen propose six rounds de sparring**.**
 **Mardi 22 octobre 2041, 10h06 — Luxembourg-Ville, lycée, salle des professeurs : tour n° 158 joué (Kim Schmitz esquive poliment l'invitation à investir ; revue mensuelle et P60-P62 validées) ; en attente : **rien d'urgent ; compte rendu de Coulibaly à 17h00**.**
