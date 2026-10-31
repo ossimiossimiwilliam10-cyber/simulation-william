@@ -5153,3 +5153,5 @@ Effets à jouer : A22 (vendredi 25/10 (soir)) : Frontalier : deux administration
 - Tirage [T7c] « Organiser un entretien en visioconférence de fin de période d'essai de Mme Tanoh, semaine du 9/12 (demande transmise par le conseiller) » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  52.9 → **execute_sans_discuter** (enregistré le 01/11/2026 00:19 heure machine)
 
 - Tirage [T10] « Réponse de Coulibaly au message du 23/10 20h46 sur le report du séjour » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet   3.4 → **immediat** (enregistré le 01/11/2026 00:19 heure machine)
+
+- Tirage [T10] « Accusé de réception de Coulibaly : entretien du 10/12 confirmé, prévenir Mme Tanoh » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  78.3 → **le_soir_ou_lendemain** (enregistré le 01/11/2026 00:23 heure machine)

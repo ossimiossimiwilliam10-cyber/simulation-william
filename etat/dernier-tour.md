@@ -1,37 +1,54 @@
 # Dernier tour montré au joueur
 
-> Tour n° 161 ; horloge 23/10/2041 20:43 -> 23/10/2041 20:49 ; enregistré le 01/11/2026 00:20 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 162 ; horloge 23/10/2041 20:49 -> 23/10/2041 20:56 ; enregistré le 01/11/2026 00:25 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Alors du coup, concernant du coup le message pour Koulibaly, je suis avec un signe de mon conseiller. Et concernant mon avis sur mon recrutement en visioconférence de la semaine du 9, je suis d'accord. Bah, du coup, il n'y a pas grand chose d'autre.
+> Oui, je lui demande donc, je lui dis que ça me va le 10 septembre à 17h30 et qu'il doit prévenir Madame Tano. Je me tourne ensuite vers mon conseiller et je lui demande c'est comment en termes de clients actuellement. Et qu'est-ce que ça peut nous rapporter potentiellement? Est-ce qu'on a déjà des données à ce sujet?
 
 ## Texte envoyé au joueur
 
-**MERCREDI 23 OCTOBRE 2041 — 20h49 — Audun-le-Tiche (Moselle), chez toi**
+**MERCREDI 23 OCTOBRE 2041 — 20h56 — Audun-le-Tiche (Moselle), chez toi**
 
-Tu réponds à ton conseiller que tu suis son avis pour le message à Coulibaly, et que tu es d'accord pour la visioconférence de la semaine du 9 décembre.
+Tu réponds à Coulibaly : « Ça me va, mardi 10 décembre à 17h30. Prévenez Mme Tanoh. » Le message part ; une seule coche, puis deux, grises. Il ne le lit pas tout de suite.
 
-Une minute plus tard : « Envoyé à Coulibaly à l'instant, depuis direction@, tel quel, avec une ligne en plus : « Prévoyez aussi, la semaine du 9 décembre, un entretien en visioconférence avec Mme Tanoh et vous-même pour la fin de sa période d'essai. » Bonne soirée. »
+Puis tu rouvres la conversation avec ton conseiller et tu lui demandes où on en est côté clients, ce que ça peut rapporter, et s'il a déjà des données là-dessus.
 
-Tu poses le téléphone sur l'accoudoir. Dans la cuisine, le lave-vaisselle entame son cycle avec un gargouillis ; tes cuisses commencent à se raidir après les sept rounds, et une ecchymose se dessine sur ton avant-bras gauche, là où un genou de Lenny est passé. Tu as à peine eu le temps de chercher la télécommande que le téléphone vibre. WhatsApp, Mohamed Coulibaly :
+La réponse tombe trois minutes plus tard, longue :
 
-« Bonsoir Monsieur Ossimi, bien reçu votre courriel. Pas de souci pour décembre, on avance de notre côté, et Pâques nous laisse le temps d'avoir des clients à vous montrer. Pour l'entretien de Mme Tanoh, je propose le mardi 10 décembre à 17h30 heure de Luxembourg (16h30 ici). Je la préviens dès demain ? M. Coulibaly. »
+« Point clients au 23 octobre, d'après le compte rendu de Coulibaly d'hier soir. Aucun contrat signé.
 
-Il est 20h49.
+- Vridi (usine d'emballage) : offre écrite remise le 18 octobre, 100 kWc, 90 millions de FCFA HT. Réponse promise sous quinze jours, donc vers le 1er novembre. En face, Lagune Kilowatt, nettement moins cher.
+- Port-Bouët (entrepôt frigorifique) : rendez-vous tenu hier par Mme Tanoh et M. Yao ; le client demande un devis. Ordre de grandeur : environ 160 kWc, 144 millions de FCFA HT, à confirmer après la visite technique.
+- Quatre nouveaux rendez-vous obtenus pour novembre : une pharmacie à Yopougon, une usine d'emballage à Treichville, une métallurgie à Port-Bouët, un atelier textile à Treichville.
+- Perdus : l'imprimerie de Yopougon (projet gelé, rendez-vous annulé) et trois cibles qui ont dit non.
+- Sur la liste de trente cibles, une vingtaine n'a encore rien donné.
+
+Ce que ça peut rapporter, avec notre marge de 25 % :
+- Vridi signé : 22,5 millions de FCFA de marge (environ 34 300 €).
+- Port-Bouët signé : 36 millions de FCFA de marge (environ 54 900 €).
+- Les deux : 58,5 millions de FCFA (environ 89 200 €), un peu plus de six mois de charges à 9,4 millions par mois.
+
+À lire froidement : ce sont deux offres, pas deux contrats. Je compte qu'une offre sur quatre ou cinq se signe ; c'est mon estimation, pas une donnée. Pondéré, le portefeuille vaut aujourd'hui 12 à 15 millions de FCFA de marge, soit un mois et demi de charges.
+Point mort : il faut signer l'équivalent de 100 kWc tous les deux mois et demi pour couvrir les charges actuelles. Et entre la signature et l'encaissement, il y a le chantier : en général un acompte à la commande et le solde à la mise en service, deux à quatre mois plus tard. Un contrat signé en novembre ne rentre qu'en partie en trésorerie avant fin janvier.
+
+Ce que je n'ai pas encore : le taux de conversion réel de l'équipe (trop tôt pour le mesurer) et les prix exacts de Lagune Kilowatt. Je mets ce tableau à l'ordre du jour de dimanche. »
+
+Il est 20h56.
 
 ---
 
 **Réponses attendues**
-- **Mohamed Coulibaly** : il propose le mardi 10 décembre à 17h30 (heure de Luxembourg) pour l'entretien de fin de période d'essai de Mme Tanoh, et demande s'il doit la prévenir dès demain.
+- Personne ne t'attend pour l'instant ; Coulibaly n'a pas encore lu ton message.
 
 **À faire / à fournir avant le tour suivant**
-- Rien d'autre.
+- Rien d'urgent.
 
 **Quêtes secondaires**
-- Dimanche 27 octobre : séance de travail avec ton conseiller.
+- Vers le 1er novembre : réponse de l'industriel de Vridi à l'offre de 90 millions de FCFA.
+- Dimanche 27 octobre : séance de travail avec ton conseiller (point clients à l'ordre du jour).
 - Samedi 2 novembre : taille de la haie partagée avec ton voisin.
 - Mardi 5 novembre : décision de financement, puis réunion d'équipe à 17h30.
-- Séjour à Abidjan envisagé pendant les vacances de Pâques (du 29 mars au 13 avril 2042) : dates à confirmer à Coulibaly.
+- Mardi 10 décembre, 17h30 : entretien en visioconférence de fin de période d'essai de Mme Tanoh.
 
 Que veux-tu faire ?

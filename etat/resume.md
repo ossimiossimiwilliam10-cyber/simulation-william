@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 01/11/2026 00:20 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 01/11/2026 00:25 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mercredi 23/10/2041 20:49 (luxembourg, UTC+2)
+## Horloge : mercredi 23/10/2041 20:56 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 18:49 ; lisbonne 19:49 ; mindelo 17:49 ; casablanca 19:49 ; douala 19:49 ; addis 21:49 ; manille 02:49 ; paris 20:49 ; seoul 03:49 ; bresil 15:49
+- **Heure dans les autres lieux** : abidjan 18:56 ; lisbonne 19:56 ; mindelo 17:56 ; casablanca 19:56 ; douala 19:56 ; addis 21:56 ; manille 02:56 ; paris 20:56 ; seoul 03:56 ; bresil 15:56
 - **En attente de William** :
-  - Coulibaly : entretien de Mme Tanoh le mardi 10/12 17h30 ? la prévenir dès demain ?
+  - rien d'urgent
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **5 613,13 €**
@@ -18,7 +18,8 @@
 ## ÉCHÉANCES ÉCHUES NON CLOSES (jouer, reporter avec raison ou annuler : règle 14)
 - A142 Tue 08/10 19:00 (luxembourg) | Mohamed Coulibaly : Point écrit sur le rendez-vous manqué de Vridi (demande de William du 06/10) [prevu]  — à lier au compte rendu du mardi ; fiabilité de Coulibaly au moment dit
 
-## Agenda : dans les 24 heures (1)
+## Agenda : dans les 24 heures (2)
+- A150 Thu 24/10 07:42 (luxembourg) | Mohamed Coulibaly : Accusé de réception : entretien du 10/12 confirmé, Mme Tanoh prévenue [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — T10 le_soir_ou_lendemain (tiré le 23/10)
 - A143 Thu 24/10 19:00 (luxembourg) | Mariam Brou : Synthèse des trois offres de gardiennage (report du 20/10) [prevu]  — T18 report_excuse ; contrat du bailleur jusqu'au 31/10
 ## Agenda : de J+1 à J+7 (0)
 - rien
@@ -40,9 +41,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-10-23.md, 6 dernières lignes)
-> - **18h42-20h43** (tour n° 160) : 20h43 — Sept rounds avec Lenny (T15 accepte_volontiers) ; William annule le séjour de décembre (A146 annulée, e-visa DV001 annulé), demande au conseiller un motif administratif pour Coulibaly (vrai motif : trop tôt après août) ; brouillon soumis, Pâques 29/03-13/04/2042 envisagé.
-> - Tirages du tour : T15 Lenny → accepte_volontiers (39,31).
-> - Tour en cours à 20h43, en attente de William : **Conseiller : accord sur le brouillon pour Coulibaly (annulation de décembre) et sur la visio du 9/12**.
 > - **20h43-20h49** (tour n° 161) : 20h49 — William suit l'avis du conseiller ; message envoyé à Coulibaly à 20h46 (motif administratif, Pâques, entretien de Mme Tanoh semaine du 9/12) ; Coulibaly répond à 20h49 (T7b succes_net, T7c execute_sans_discuter, T10 immediat) : propose le 10/12 17h30 et demande s'il prévient Mme Tanoh.
 > - Tirages du tour : T7b Mohamed → succes_net (15,98) ; T7c Mohamed → execute_sans_discuter (52,92) ; T10 Mohamed → immediat (3,4).
 > - Tour en cours à 20h49, en attente de William : **Coulibaly : entretien de Mme Tanoh le mardi 10/12 17h30 ? la prévenir dès demain ?**.
+> - **20h49-20h56** (tour n° 162) : 20h56 — Entretien de Mme Tanoh fixé au 10/12 17h30 (A149) ; accusé de Coulibaly demain (T10). Point clients du conseiller : Vridi offre 100 kWc 90 M FCFA, Port-Bouët devis ~160 kWc 144 M FCFA, quatre rendez-vous de novembre, imprimerie perdue ; marge potentielle 58,5 M FCFA, pondérée 12-15 M ; point mort 100 kWc tous les 2,5 mois.
+> - Tirages du tour : T10 Mohamed → le_soir_ou_lendemain (78,34).
+> - Tour en cours à 20h56, en attente de William : **rien d'urgent**.

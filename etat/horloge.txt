@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-10-23 20:49
+horloge: 2041-10-23 20:56
 fuseau: luxembourg
 lieu: Audun-le-Tiche (Moselle), chez William
-tour: 161
-attente: Coulibaly : entretien de Mme Tanoh le mardi 10/12 17h30 ? la prévenir dès demain ?
+tour: 162
+attente: rien d'urgent

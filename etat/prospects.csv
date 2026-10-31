@@ -1,7 +1,7 @@
 id;nom;secteur;etape;concurrent;maj;note
-PR001;Usine d'emballage de Vridi;emballage;devis;Lagune Kilowatt;2041-10-07;rendez-vous du 03/10 manqué par Viviane Tanoh (Éric Koffi Yao venu seul, sans offre commerciale), à refixer · avance tirée le 07/10 (rendez-vous refixé) · offre écrite envoyée le 18/10 (décision de William du 13/10), réponse attendue sous quinze jours
-PR002;Entrepôt frigorifique de Port-Bouët;logistique du froid;negociation;;2041-10-21;rendez-vous obtenu par Coulibaly
-PR003;Imprimerie industrielle de Yopougon;imprimerie;perdu;;2041-10-07;rendez-vous obtenu par Coulibaly
+PR001;Usine d'emballage de Vridi;emballage;devis;Lagune Kilowatt;2041-10-07;rendez-vous du 03/10 manqué par Viviane Tanoh (Éric Koffi Yao venu seul, sans offre commerciale), à refixer · avance tirée le 07/10 (rendez-vous refixé) · offre écrite envoyée le 18/10 (décision de William du 13/10), réponse attendue sous quinze jours · offre de 100 kWc, 90 000 000 FCFA HT (puissance tirée le 23/10/2041, valeur de devis_solaire.py)
+PR002;Entrepôt frigorifique de Port-Bouët;logistique du froid;devis;;2041-10-22;rendez-vous obtenu par Coulibaly · rendez-vous tenu le 22/10 par Mme Tanoh et M. Yao (avance tirée le 14/10, appliquée au rendez-vous déjà prévu, cf. point de Coulibaly du 20/10) ; devis demandé, environ 160 kWc (tiré le 23/10) ; avance du 21/10 vers « négociation » sans objet (devis pas encore remis), U3-28
+PR003;Imprimerie industrielle de Yopougon;imprimerie;perdu;;2041-10-07;rendez-vous obtenu par Coulibaly · perte du 07/10 connue le 22/10 : l'imprimerie annule le rendez-vous (projet gelé)
 PR004;Société cible n° 4 (pharmacie, Yopougon);pharmacie;rendez_vous;;2041-10-14;liste de Coulibaly (fichier de 30 cibles, septembre 2041)
 PR005;Société cible n° 5 (métallurgie, Port-Bouët);métallurgie;rendez_vous;;2041-10-21;liste de Coulibaly (fichier de 30 cibles, septembre 2041)
 PR006;Société cible n° 6 (emballage, Vridi);emballage;cible;;2041-09-27;liste de Coulibaly (fichier de 30 cibles, septembre 2041)
