@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 01/11/2026 00:28 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 01/11/2026 00:31 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : jeudi 24/10/2041 07:51 (luxembourg, UTC+2)
-- **Lieu de William** : Luxembourg-Ville, parking du lycée
-- **Heure dans les autres lieux** : abidjan 05:51 ; lisbonne 06:51 ; mindelo 04:51 ; casablanca 06:51 ; douala 06:51 ; addis 08:51 ; manille 13:51 ; paris 07:51 ; seoul 14:51 ; bresil 02:51
+## Horloge : jeudi 24/10/2041 10:04 (luxembourg, UTC+2)
+- **Lieu de William** : Luxembourg-Ville, lycée, salle des professeurs
+- **Heure dans les autres lieux** : abidjan 08:04 ; lisbonne 09:04 ; mindelo 07:04 ; casablanca 09:04 ; douala 09:04 ; addis 11:04 ; manille 16:04 ; paris 10:04 ; seoul 17:04 ; bresil 05:04
 - **En attente de William** :
-  - rien d'urgent (accusé de Coulibaly reçu)
+  - rien d'urgent
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **5 613,13 €**
@@ -40,3 +40,6 @@
 > # Jeudi 24 octobre 2041 — univers 3, 101e jour
 > - **00h00-07h51** (tour n° 163) : 07h51 — Nuit 22h35-06h05, courbatures ; brouillard sur l'A4 ; accusé de Coulibaly à 07h42 (entretien du 10/12 confirmé, Mme Tanoh prévenue) ; A142 close (retard d'écriture).
 > - Tour en cours à 07h51, en attente de William : **rien d'urgent (accusé de Coulibaly reçu)**.
+> - **07h51-10h04** (tour n° 164) : 10h04 — William salue Kim Schmitz en salle des professeurs (présence tirée OUI) et lui demande comment elle va ; T15 garde_distance : réponse polie et brève, retour à ses copies.
+> - Tirages du tour : jet « Kim Schmitz passe en salle des professeurs à la pause de 10h » → OUI (39,49) ; T15 Kim → garde_distance (60,07).
+> - Tour en cours à 10h04, en attente de William : **rien d'urgent**.

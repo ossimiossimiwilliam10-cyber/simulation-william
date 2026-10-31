@@ -28,3 +28,4 @@
 - 22/10/2041, 10h00 : s'assoit en face de William en salle des professeurs ; a entendu de Sam Ries que William a « monté une affaire en Afrique » (tirage P47 de la semaine : « en parle à d'autres ») ; lui pose la question.
 - 22/10/2041, 10h02-10h05 : William confirme, dit chercher des investisseurs et lance en riant « on se fait un petit voyage là-bas » ; elle esquive (« mon capital, c'est une carte d'embarquement easyJet et une colocation à Bonnevoie »), lui souhaite bon courage et part préparer son TP avant la sonnerie (T15 : garde ses distances les jours suivants).
 - Vit en colocation à Bonnevoie (Luxembourg-Ville), précisé le 22/10/2041.
+- 24/10/2041, 10h02 : William vient lui dire bonjour et lui demander comment elle va ; réponse polie et brève (« Fatiguée… plus qu'une semaine avant les vacances »), retour à ses copies (T15 garde_distance, deuxième fois).

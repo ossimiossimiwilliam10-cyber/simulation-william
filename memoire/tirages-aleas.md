@@ -5155,3 +5155,7 @@ Effets à jouer : A22 (vendredi 25/10 (soir)) : Frontalier : deux administration
 - Tirage [T10] « Réponse de Coulibaly au message du 23/10 20h46 sur le report du séjour » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet   3.4 → **immediat** (enregistré le 01/11/2026 00:19 heure machine)
 
 - Tirage [T10] « Accusé de réception de Coulibaly : entretien du 10/12 confirmé, prévenir Mme Tanoh » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  78.3 → **le_soir_ou_lendemain** (enregistré le 01/11/2026 00:23 heure machine)
+
+- Jet « Kim Schmitz passe en salle des professeurs à la pause de 10h le jeudi 24/10 » : probabilité 65 %, jet  39.5 → **OUI** [PROCÉDURE : emploi du temps (pause de 10h)] (enregistré le 01/11/2026 00:30 heure machine)
+
+- Tirage [T15] « Salle des profs, 24/10 10h02 : William vient lui dire bonjour et lui demande comment elle va (deux jours après l'invitation à investir qu'elle a esquivée) » : rien_laisse_passer 30 / accepte_volontiers 18 / garde_distance 14 / en_parle_a_d_autres 12 / rend_la_pareille 10 / demande_explication 8 / decline 6 / frontal_conflit 2 ; modificateurs : aucun ; jet  60.1 → **garde_distance** (enregistré le 01/11/2026 00:30 heure machine)

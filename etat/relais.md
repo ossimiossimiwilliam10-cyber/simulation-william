@@ -1,42 +1,44 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 01/11/2026 00:28 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 01/11/2026 00:31 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : jeudi 24 octobre 2041, 07h51 (luxembourg) ; tour n° 163
-- Lieu de William : Luxembourg-Ville, parking du lycée
-- En attente de William : rien d'urgent (accusé de Coulibaly reçu)
+- Horloge : jeudi 24 octobre 2041, 10h04 (luxembourg) ; tour n° 164
+- Lieu de William : Luxembourg-Ville, lycée, salle des professeurs
+- En attente de William : rien d'urgent
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 163 ; horloge 23/10/2041 20:56 -> 24/10/2041 07:51 ; enregistré le 01/11/2026 00:28 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 164 ; horloge 24/10/2041 07:51 -> 24/10/2041 10:04 ; enregistré le 01/11/2026 00:31 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Go
+> Je prends note du message de Koulibaly et on donne pour mission aujourd'hui de dire bonjour à Madame Kim et lui demander comment elle va.
 
 ## Texte envoyé au joueur
 
-**JEUDI 24 OCTOBRE 2041 — 07h51 — Luxembourg-Ville, parking du lycée**
+**JEUDI 24 OCTOBRE 2041 — 10h04 — Luxembourg-Ville, lycée, salle des professeurs**
 
-Tu t'endors vite, et le réveil de 06h05 te trouve raide de partout : les cuisses dures, les épaules qui tirent quand tu enfiles ta chemise, l'ecchymose de l'avant-bras passée au violet pendant la nuit. Café debout dans la cuisine, deux tartines, et tu prends la route dans un brouillard épais qui avale les lampadaires d'Esch ; sur l'A4, tout le monde roule en codes, les feux arrière rouges qui flottent devant toi sans voiture autour.
+Tu notes le message de Coulibaly et tu ranges le téléphone. Les deux premières heures passent avec une classe somnolente, que le brouillard collé aux fenêtres n'aide pas à réveiller ; au tableau, chaque fois que tu lèves le bras pour écrire en haut, ton épaule te rappelle le sixième round.
 
-À 07h42, le téléphone vibre dans le porte-gobelet. Tu ne le regardes qu'une fois garé, moteur coupé, le brouillard collé au pare-brise et les premiers élèves qui traversent le parking capuche sur la tête. WhatsApp, Mohamed Coulibaly :
+À la sonnerie de la pause, tu descends en salle des professeurs. Il y a moins de monde que mardi : un collègue d'allemand qui se bat avec la photocopieuse en jurant à mi-voix, trois personnes autour de la bouilloire, une odeur de thé à la menthe et de radiateur trop chaud. Kim est là, assise seule au bout d'une table, une pile de comptes rendus de TP devant elle, un stylo rouge entre les dents. Même sweat gris, la capuche rabattue sur les épaules, les cheveux tirés derrière les oreilles.
 
-« Bonjour Monsieur Ossimi, bien noté pour le mardi 10 décembre à 17h30. J'ai prévenu Mme Tanoh ce matin, l'invitation est dans votre agenda. Bonne journée. M. Coulibaly. »
+Tu passes la saluer et tu lui demandes comment elle va.
 
-Ta première heure commence à 08h00.
+Elle retire le stylo de sa bouche et lève les yeux, avec un petit sourire poli qui ne monte pas jusqu'aux yeux. « Salut. Ça va, merci. Fatiguée, comme tout le monde. Plus qu'une semaine avant les vacances. » Elle tapote la pile de copies du bout du stylo. « Et j'ai encore tout ça à finir avant midi. »
 
-Il est 07h51.
+Elle baisse de nouveau la tête sur la copie du dessus et barre une ligne d'un trait rouge. La conversation s'arrête là.
+
+Il est 10h04.
 
 ---
 
 **Réponses attendues**
-- **Mohamed Coulibaly** : il confirme l'entretien du mardi 10 décembre à 17h30 et dit avoir prévenu Mme Tanoh.
+- Personne ne t'attend.
 
 **À faire / à fournir avant le tour suivant**
 - Rien d'urgent.
@@ -44,7 +46,7 @@ Il est 07h51.
 **Quêtes secondaires**
 - Vers le 1er novembre : réponse de l'industriel de Vridi à l'offre de 90 millions de FCFA.
 - Dimanche 27 octobre : séance de travail avec ton conseiller (point clients à l'ordre du jour).
-- Samedi 2 novembre : taille de la haie partagée avec ton voisin.
+- Samedi 2 novembre : taille de la haie partagée avec ton voisin ; début des vacances de la Toussaint (jusqu'au dimanche 10 novembre).
 - Mardi 5 novembre : décision de financement, puis réunion d'équipe à 17h30.
 
 Que veux-tu faire ?
@@ -185,10 +187,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : e0f2cb6 ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : cdee68a ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche claude/vigorous-jang-66b9e5 ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 14 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 12 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 
