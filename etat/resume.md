@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 01/11/2026 00:31 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 01/11/2026 00:34 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : jeudi 24/10/2041 10:04 (luxembourg, UTC+2)
-- **Lieu de William** : Luxembourg-Ville, lycée, salle des professeurs
-- **Heure dans les autres lieux** : abidjan 08:04 ; lisbonne 09:04 ; mindelo 07:04 ; casablanca 09:04 ; douala 09:04 ; addis 11:04 ; manille 16:04 ; paris 10:04 ; seoul 17:04 ; bresil 05:04
+## Horloge : vendredi 25/10/2041 16:41 (luxembourg, UTC+2)
+- **Lieu de William** : Audun-le-Tiche (Moselle), devant chez William
+- **Heure dans les autres lieux** : abidjan 14:41 ; lisbonne 15:41 ; mindelo 13:41 ; casablanca 15:41 ; douala 15:41 ; addis 17:41 ; manille 22:41 ; paris 16:41 ; seoul 23:41 ; bresil 11:41
 - **En attente de William** :
-  - rien d'urgent
+  - rien d'urgent ; courrier CPAM à renvoyer avant le 30/11
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **5 613,13 €**
@@ -15,8 +15,11 @@
 - Patrimoine net de William : **789 285,35 €**
 - Prévu dans les 14 jours : 31/10 Traitement mensuel de William (9 320,00 €) ; 04/11 Minett Combat Club (-85,00 €) ; 04/11 Package bancaire Zebra Premium (-12,83 €) ; 04/11 Virement permanent vers le compte épargne (-1 487,00 €) ; 04/11 Virement permanent vers le compte épargne (1 487,00 €) ; 04/11 Virement permanent vers SOLEIL B2B CI (-5 000,00 €) ; 05/11 Mensualité du prêt immobilier et assurance emprunteu (-949,28 €) ; 05/11 Prêt immobilier de la maison d'Audun-le-Tiche (-632,34 €) ; 05/11 Part nette du bien financé : + capital remboursé (632,34 €) ; 05/11 Assurance habitation (-45,00 €) ; 05/11 Voiture électrique : assurance tous risques (-107,00 €)
 
-## Agenda : dans les 24 heures (1)
+## ÉCHÉANCES ÉCHUES NON CLOSES (jouer, reporter avec raison ou annuler : règle 14)
 - A143 Thu 24/10 19:00 (luxembourg) | Mariam Brou : Synthèse des trois offres de gardiennage (report du 20/10) [prevu]  — T18 report_excuse ; contrat du bailleur jusqu'au 31/10
+
+## Agenda : dans les 24 heures (0)
+- rien
 ## Agenda : de J+1 à J+7 (0)
 - rien
 (Les lignes « NON CONNU DE WILLIAM » servent au moteur : ne jamais les montrer au joueur avant le jour dit.)
@@ -36,10 +39,7 @@
 - Pendant : réactions et négociations par `jet.py --table Tn` (T1 à T14 ; `--pour` pour un personnage) ; personnages nouveaux par `personnage.py nouveau` ; faits et prix par `faits.py` et `prix.py` ; lieux par `lieux.py voir` ; révélations dans `savoir.py ajouter` ; argent dans `grand_livre.py ajouter`.
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
-## Fin du dernier journal (2041-10-24.md, 6 dernières lignes)
-> # Jeudi 24 octobre 2041 — univers 3, 101e jour
-> - **00h00-07h51** (tour n° 163) : 07h51 — Nuit 22h35-06h05, courbatures ; brouillard sur l'A4 ; accusé de Coulibaly à 07h42 (entretien du 10/12 confirmé, Mme Tanoh prévenue) ; A142 close (retard d'écriture).
-> - Tour en cours à 07h51, en attente de William : **rien d'urgent (accusé de Coulibaly reçu)**.
-> - **07h51-10h04** (tour n° 164) : 10h04 — William salue Kim Schmitz en salle des professeurs (présence tirée OUI) et lui demande comment elle va ; T15 garde_distance : réponse polie et brève, retour à ses copies.
-> - Tirages du tour : jet « Kim Schmitz passe en salle des professeurs à la pause de 10h » → OUI (39,49) ; T15 Kim → garde_distance (60,07).
-> - Tour en cours à 10h04, en attente de William : **rien d'urgent**.
+## Fin du dernier journal (2041-10-25.md, 6 dernières lignes)
+> # Vendredi 25 octobre 2041 — univers 3, 102e jour
+> - **00h00-16h41** (tour n° 165) : 16h41 — Pensée de William (24/10, non dite) : regrette que Kim soit peu bavarde, aurait voulu une relation sexuelle sans engagement avec elle ; note qu'il n'a pas eu de rapport depuis longtemps. Avance courte : jeudi (cours, préparation, nuit 22h30-06h05), vendredi (cours) ; aléa A22 joué : courrier de la CPAM de la Moselle (contrôle de résidence S1, avant le 30/1
+> - Tour en cours à 16h41, en attente de William : **rien d'urgent ; courrier CPAM à renvoyer avant le 30/11**.

@@ -1,26 +1,22 @@
 # Dernier tour montré au joueur
 
-> Tour n° 164 ; horloge 24/10/2041 07:51 -> 24/10/2041 10:04 ; enregistré le 01/11/2026 00:31 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 165 ; horloge 24/10/2041 10:04 -> 25/10/2041 16:41 ; enregistré le 01/11/2026 00:34 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je prends note du message de Koulibaly et on donne pour mission aujourd'hui de dire bonjour à Madame Kim et lui demander comment elle va.
+> Je me note que Kim n'est pas très bavarde. C'est dommage. J'aurais aimé en faire une sex friend ou pouvoir la baiser. Je me note d'ailleurs que ça fait longtemps que j'ai pas baisé une femme. Et puis bref Go
 
 ## Texte envoyé au joueur
 
-**JEUDI 24 OCTOBRE 2041 — 10h04 — Luxembourg-Ville, lycée, salle des professeurs**
+**VENDREDI 25 OCTOBRE 2041 — 16h41 — Audun-le-Tiche (Moselle), devant chez toi**
 
-Tu notes le message de Coulibaly et tu ranges le téléphone. Les deux premières heures passent avec une classe somnolente, que le brouillard collé aux fenêtres n'aide pas à réveiller ; au tableau, chaque fois que tu lèves le bras pour écrire en haut, ton épaule te rappelle le sixième round.
+Le jeudi s'étire sans surprise. Deux heures de cours encore après la pause, puis l'après-midi à la maison, à la table de la cuisine, à préparer la dernière semaine avant les vacances : un contrôle sur les suites pour la classe de mardi, un corrigé à taper. Le brouillard ne se lève qu'en début d'après-midi, et le soir il redescend sur la rue, épais, jaune sous les lampadaires. Tu dînes tôt, tu te couches vers 22h30.
 
-À la sonnerie de la pause, tu descends en salle des professeurs. Il y a moins de monde que mardi : un collègue d'allemand qui se bat avec la photocopieuse en jurant à mi-voix, trois personnes autour de la bouilloire, une odeur de thé à la menthe et de radiateur trop chaud. Kim est là, assise seule au bout d'une table, une pile de comptes rendus de TP devant elle, un stylo rouge entre les dents. Même sweat gris, la capuche rabattue sur les épaules, les cheveux tirés derrière les oreilles.
+Vendredi, le ciel s'est dégagé dans la nuit : la route du matin se fait sous un soleil bas qui t'aveugle à la sortie d'Esch, et les courbatures du mercredi ont presque disparu. Au lycée, la journée passe vite, l'air de fin de période dans les couloirs, les élèves déjà à moitié en vacances. Tu ne croises pas Kim.
 
-Tu passes la saluer et tu lui demandes comment elle va.
+Tu es de retour à Audun peu après 16h30. En passant devant la boîte aux lettres, tu en tires une publicité de supermarché, le bulletin de la commune et une enveloppe à fenêtre au logo bleu de l'Assurance maladie : la CPAM de la Moselle. À l'intérieur, une lettre type et un formulaire de deux pages. En tant que travailleur frontalier affilié au Luxembourg et inscrit chez eux par formulaire S1, tu fais l'objet d'un contrôle de résidence : il te faut retourner le formulaire joint, daté et signé, accompagné d'un justificatif de domicile de moins de trois mois, avant le 30 novembre 2041. Faute de réponse, précise le dernier paragraphe, tes droits en France pourront être suspendus.
 
-Elle retire le stylo de sa bouche et lève les yeux, avec un petit sourire poli qui ne monte pas jusqu'aux yeux. « Salut. Ça va, merci. Fatiguée, comme tout le monde. Plus qu'une semaine avant les vacances. » Elle tapote la pile de copies du bout du stylo. « Et j'ai encore tout ça à finir avant midi. »
-
-Elle baisse de nouveau la tête sur la copie du dessus et barre une ligne d'un trait rouge. La conversation s'arrête là.
-
-Il est 10h04.
+Il est 16h41.
 
 ---
 
@@ -28,9 +24,10 @@ Il est 10h04.
 - Personne ne t'attend.
 
 **À faire / à fournir avant le tour suivant**
-- Rien d'urgent.
+- Courrier de la CPAM de la Moselle : formulaire daté et signé et justificatif de domicile de moins de trois mois, à renvoyer avant le 30 novembre.
 
 **Quêtes secondaires**
+- Ce soir : club (lundi, mercredi, vendredi).
 - Vers le 1er novembre : réponse de l'industriel de Vridi à l'offre de 90 millions de FCFA.
 - Dimanche 27 octobre : séance de travail avec ton conseiller (point clients à l'ordre du jour).
 - Samedi 2 novembre : taille de la haie partagée avec ton voisin ; début des vacances de la Toussaint (jusqu'au dimanche 10 novembre).

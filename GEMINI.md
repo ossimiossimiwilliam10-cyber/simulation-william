@@ -217,6 +217,7 @@ Langue : **français**.
 > (Min-ji, Hye-won, Soo-jin, Thiago Rocha, Lucas Mendes, voyage à Séoul) dans `archives/univers-3-partie-1/` et sous le tag git
 > `univers-3-partie-1` ; leurs lignes du §9 : `memoire/archive-point-de-reprise-univers-3-partie-1.md`. Tirages neufs : aucun résultat de la
 > première partie n'est rejoué. Les essais du moteur utilisent l'archive comme état d'essai (`outils/tests_moteur.py`).
+**Vendredi 25 octobre 2041, 16h41 — Audun-le-Tiche (Moselle), devant chez William : tour n° 165 joué (Courrier de la CPAM : contrôle de résidence à renvoyer avant le 30 novembre) ; en attente : **rien d'urgent ; courrier CPAM à renvoyer avant le 30/11**.**
 **Jeudi 24 octobre 2041, 10h04 — Luxembourg-Ville, lycée, salle des professeurs : tour n° 164 joué (William salue Kim ; elle répond poliment et garde ses distances) ; en attente : **rien d'urgent**.**
 **Jeudi 24 octobre 2041, 07h51 — Luxembourg-Ville, parking du lycée : tour n° 163 joué (Coulibaly confirme l'entretien du 10 décembre) ; en attente : **rien d'urgent (accusé de Coulibaly reçu)**.**
 **Mercredi 23 octobre 2041, 20h56 — Audun-le-Tiche (Moselle), chez William : tour n° 162 joué (Entretien de Mme Tanoh fixé au 10 décembre ; point clients et potentiel chiffrés par le conseiller) ; en attente : **rien d'urgent**.**
