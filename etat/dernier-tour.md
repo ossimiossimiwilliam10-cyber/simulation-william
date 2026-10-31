@@ -1,38 +1,37 @@
 # Dernier tour montré au joueur
 
-> Tour n° 158 ; horloge 22/10/2041 10:01 -> 22/10/2041 10:06 ; enregistré le 31/10/2026 23:56 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 159 ; horloge 22/10/2041 10:06 -> 23/10/2041 18:42 ; enregistré le 01/11/2026 00:04 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Alors je valide du coup le P60 à 62, mais en fait à partir de maintenant on va changer le rythme, ce sera plus tous les lundis mais ce sera plutôt chaque premier lundi du mois. [...] Je réponds à Kim avec un petit sourire également. Je lui dis que oui, en effet, c'est vrai. Je cherche justement des investisseurs. Tu es intéressé? On se fait un petit voyage là-bas. Je le dis en rigolant un peu avec un sourire.
+> Go
 
 ## Texte envoyé au joueur
 
-**MARDI 22 OCTOBRE 2041 — 10h06 — Luxembourg-Ville, lycée, salle des professeurs**
+**MERCREDI 23 OCTOBRE 2041 — 18h42 — Esch-sur-Alzette, Minett Combat Club**
 
-Tu lui rends son sourire : oui, c'est vrai. Tu cherches justement des investisseurs. « Tu es intéressée ? On se fait un petit voyage là-bas », et tu le dis en riant à moitié.
+Le reste du mardi passe comme prévu. Tes deux dernières heures de la matinée, puis la route du retour sous un soleil presque doux pour la saison, et l'après-midi à la table de la cuisine, à préparer tes cours de la semaine suivante : deux fiches d'exercices sur les suites, un devoir à corriger, le café qui refroidit à côté de la pile de copies. Le soir, rien de particulier.
 
-Kim rit aussi, brièvement, un rire du nez, et ses yeux noisette font un aller-retour rapide vers la table d'à côté, où deux collègues de langues corrigent des copies sans avoir l'air d'écouter.
+Ce mercredi, le brouillard traîne sur la vallée de l'Alzette au lever du jour et ne se lève qu'au milieu de la matinée. Au lycée, en croisant Kim Schmitz dans le couloir des sciences, tu as droit à un « salut » rapide et à un hochement de tête, sans qu'elle ralentisse ; elle a déjà disparu dans sa salle de TP.
 
-« Des investisseurs, rien que ça. » Elle tourne son gobelet entre ses doigts. « Moi, mon capital, c'est une carte d'embarquement easyJet et une colocation à Bonnevoie. Tu frappes à la mauvaise porte. » Le pli moqueur au coin de sa bouche revient, puis s'efface. « Mais c'est bien, hein. Bon courage avec ça. »
+À 18h30, tu pousses la porte du club. Odeur de tapis désinfecté et de bandes de boxe qui sèchent sur un radiateur, musique trop forte dans l'enceinte du coin, le claquement régulier d'un sac frappé à l'autre bout de la salle. Tu as fini de t'échauffer, corde à sauter et mobilité des hanches, quand Lenny débarque, sac sur l'épaule, encore en tenue de chantier, des traces de plâtre sur les avant-bras. Il lâche son sac au bord du tapis et vient droit vers toi, le poing tendu pour le check.
 
-Elle boit une gorgée, regarde l'horloge au-dessus du casier à courrier, et se lève avant la sonnerie en ramassant sa gourde. « Il faut que j'aille préparer mon TP, les oscilloscopes de la salle 2 ne marchent jamais du premier coup. » Un petit signe de la main, et elle repart vers le couloir des sciences, son carré court qui rebondit à chaque pas. Elle ne s'est pas retournée.
+« Frère ! Bien ou quoi ? » Il fait rouler ses épaules, sourire en coin. « Bon, je me change et on fait les six rounds ? J'ai la rage aujourd'hui, mon chef m'a cassé la tête toute la journée. »
 
-Une des deux collègues de langues lève les yeux de sa copie, te regarde une seconde au-dessus de ses lunettes, puis replonge dans sa correction. La sonnerie retentit ; la salle se vide dans un raclement de chaises.
+Il reste là, le poing toujours tendu, à attendre.
 
-Il est 10h06.
+Il est 18h42.
 
 ---
 
 **Réponses attendues**
-- Personne ne t'attend pour l'instant.
+- **Lenny Nguyen** : il attend ton check et te propose six rounds de sparring ce soir.
 
 **À faire / à fournir avant le tour suivant**
 - Rien d'urgent.
 
 **Quêtes secondaires**
-- Séjour à Abidjan du samedi 21 décembre au samedi 4 janvier : billets à réserver (prévu samedi 26 octobre) ; l'e-visa ivoirien de ce séjour est à demander, celui d'août ne valait que pour un séjour ; le traitement contre le paludisme demande une ordonnance avant le départ.
-- Ce soir, 17h00 : compte rendu du mardi de Mohamed Coulibaly.
+- Séjour à Abidjan du samedi 21 décembre au samedi 4 janvier : billets à réserver (prévu samedi 26 octobre) ; e-visa à demander ; ordonnance pour le traitement contre le paludisme.
 - Dimanche 27 octobre : séance de travail avec ton conseiller.
 - Samedi 2 novembre : taille de la haie partagée avec ton voisin.
 - Mardi 5 novembre : décision de financement, puis réunion d'équipe à 17h30.

@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-10-22 10:06
+horloge: 2041-10-23 18:42
 fuseau: luxembourg
-lieu: Luxembourg-Ville, lycée, salle des professeurs
-tour: 158
-attente: rien d'urgent ; compte rendu de Coulibaly à 17h00
+lieu: Esch-sur-Alzette, Minett Combat Club
+tour: 159
+attente: Lenny Nguyen propose six rounds de sparring

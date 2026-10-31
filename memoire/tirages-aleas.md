@@ -5143,3 +5143,5 @@ Effets à jouer : A22 (vendredi 25/10 (soir)) : Frontalier : deux administration
 - Actualités de la semaine du 21/10/2041 : modèles LU01, LU03, FR01 [PROCÉDURE : outils/actualites.py] (enregistré le 30/10/2026 19:33 heure machine)
 
 - Tirage [T15] « Salle des profs, 22/10 10h01 : William confirme en souriant, dit qu'il cherche des investisseurs, lui demande si elle est intéressée et lance en riant « on se fait un petit voyage là-bas » » : rien_laisse_passer 30 / accepte_volontiers 18 / garde_distance 14 / en_parle_a_d_autres 12 / rend_la_pareille 10 / demande_explication 8 / decline 6 / frontal_conflit 2 ; modificateurs : aucun ; jet  56.6 → **garde_distance** (enregistré le 31/10/2026 23:55 heure machine)
+
+- Jet « Lenny Nguyen vient au club le mercredi 23/10 vers 18h40 » : probabilité 85 %, jet  20.8 → **OUI** [PROCÉDURE : habitude du club (sparring du mercredi, routines.py)] (enregistré le 01/11/2026 00:03 heure machine)

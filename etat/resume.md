@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 31/10/2026 23:56 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 01/11/2026 00:04 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mardi 22/10/2041 10:06 (luxembourg, UTC+2)
-- **Lieu de William** : Luxembourg-Ville, lycée, salle des professeurs
-- **Heure dans les autres lieux** : abidjan 08:06 ; lisbonne 09:06 ; mindelo 07:06 ; casablanca 09:06 ; douala 09:06 ; addis 11:06 ; manille 16:06 ; paris 10:06 ; seoul 17:06 ; bresil 05:06
+## Horloge : mercredi 23/10/2041 18:42 (luxembourg, UTC+2)
+- **Lieu de William** : Esch-sur-Alzette, Minett Combat Club
+- **Heure dans les autres lieux** : abidjan 16:42 ; lisbonne 17:42 ; mindelo 15:42 ; casablanca 17:42 ; douala 17:42 ; addis 19:42 ; manille 00:42 ; paris 18:42 ; seoul 01:42 ; bresil 13:42
 - **En attente de William** :
-  - rien d'urgent ; compte rendu de Coulibaly à 17h00
+  - Lenny Nguyen propose six rounds de sparring
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **5 613,13 €**
@@ -40,10 +40,8 @@
 - Pendant : réactions et négociations par `jet.py --table Tn` (T1 à T14 ; `--pour` pour un personnage) ; personnages nouveaux par `personnage.py nouveau` ; faits et prix par `faits.py` et `prix.py` ; lieux par `lieux.py voir` ; révélations dans `savoir.py ajouter` ; argent dans `grand_livre.py ajouter`.
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
-## Fin du dernier journal (2041-10-22.md, 6 dernières lignes)
-> - **00h00-10h01** (tour n° 157) : 10h01 — Tour 156 annulé (U3-27) ; reprise : lundi 21 (message correctif du conseiller 07h10, orage, club 18h30), mardi 22 : Kim Schmitz (physique) apparaît en salle des professeurs et demande à William s'il a monté une affaire en Afrique (Sam Ries en a parlé, P47 : en parle à d'autres) ; arrêt sur sa question.
-> - Tirages du tour : procédure : 20/10 21:50-06:05 ; 21/10 22:10-06:02 ; 22/10 21:54-06:00 ; 23/10 22:04-06:05 ; 24/10 21:53-06:01 ; 26/10 01:32-08:27 ; procédure : LU01, LU03, FR01.
-> - Tour en cours à 10h01, en attente de William : **Kim Schmitz attend la réponse de William (affaire en Afrique)**.
-> - **10h01-10h06** (tour n° 158) : 10h06 — P60 à P62 validées et installées ; revue désormais mensuelle (premier lundi du mois). William confirme à Kim Schmitz son affaire, dit chercher des investisseurs et propose en riant un voyage ; T15 garde_distance : elle esquive poliment et part préparer son TP.
-> - Tirages du tour : T15 Kim → garde_distance (56,65).
-> - Tour en cours à 10h06, en attente de William : **rien d'urgent ; compte rendu de Coulibaly à 17h00**.
+## Fin du dernier journal (2041-10-23.md, 6 dernières lignes)
+> # Mercredi 23 octobre 2041 — univers 3, 100e jour
+> - **00h00-18h42** (tour n° 159) : 18h42 — Avance courte : mardi après-midi (préparation des cours), compte rendu de Coulibaly de 17h00 reçu par le conseiller ; mercredi : Kim Schmitz salue de loin (T15 garde_distance) ; au club, Lenny Nguyen (présence tirée OUI) propose six rounds ; arrêt. U3-28 : prospects restaurés.
+> - Tirages du tour : jet « Lenny Nguyen vient au club le mercredi 23/10 vers 18h40 » → OUI (20,78).
+> - Tour en cours à 18h42, en attente de William : **Lenny Nguyen propose six rounds de sparring**.

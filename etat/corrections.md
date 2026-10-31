@@ -73,3 +73,5 @@
 
 ## Tour 69 � 28/10/2026
 - **Faux positifs controle_coherence.py (jours de la semaine)** : 4 alertes sur les dates 05/08, 07/08, 08/08 et 12/08 dans etat/relais.md et etat/relais-notes.md. Le verificateur interprete les dates JJ/MM sans annee et les compare a 2040 (annee par defaut). En 2041 : 05/08 = lundi, 07/08 = mercredi, 08/08 = jeudi, 12/08 = lundi � tous corrects. Faux positifs non bloquants, a ignorer. Meme comportement connu sur les journaux (20 avertissements recurrents depuis tours precedents).
+
+- **U3-28 (01/11/2026 réel, 22/10/2041 simulé)** : `etat/prospects.csv` vidé depuis le tour n° 151 (plantage de prospects.py sur un « ; » dans un champ, réécriture limitée à l'en-tête) : restauré depuis le commit 3d6ff7b, champ corrigé, issues déjà tirées le 07/10 réappliquées sans nouveau tirage (Vridi → devis, Imprimerie de Yopougon, cibles 7 et 11 perdues, cible 21 → rendez-vous) ; semaines du 14/10 et du 21/10, jamais tirées, tirées maintenant (Port-Bouët → devis puis négociation ; cibles 4, 26, 5, 28 → rendez-vous ; cible 21 perdue). À remonter par les comptes rendus de Coulibaly et la séance du 27/10. Avant : 1 ligne → maintenant : 31.
