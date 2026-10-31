@@ -1,5 +1,5 @@
 cle;valeur_2026;unite;source;note
-prix_kwc_installe;500000;FCFA par kWc;estimation du moteur (centrales au sol ivoiriennes ≈ 740 000 à 790 000 FCFA/kWc d'après Ferké Solar et Kong, energynews.pro, capmad.com ; une toiture commerciale coûte en général moins par kWc) · à confirmer par des devis;hors stockage, pose comprise
+prix_kwc_installe;500000;FCFA par kWc;estimation du moteur (centrales au sol ivoiriennes ≈ 740 000 à 790 000 FCFA/kWc d'après Ferké Solar et Kong, energynews.pro, capmad.com ;une toiture commerciale coûte en général moins par kWc) · à confirmer par des devis, hors stockage, pose comprise
 production_kwh_par_kwc;1300;kWh par kWc et par an;estimation du moteur (ensoleillement d'Abidjan) · à confirmer;
 tarif_cie_industriel;95;FCFA par kWh;estimation du moteur (grille CIE moyenne tension non trouvée en ligne) · à confirmer;
 marge_cible;0.25;part du prix de vente;hypothèse de gestion de SOLEIL B2B CI;
