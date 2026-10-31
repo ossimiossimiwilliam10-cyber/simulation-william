@@ -1,46 +1,43 @@
 # Dernier tour montré au joueur
 
-> Tour n° 156 ; horloge 20/10/2041 10:31 -> 26/10/2041 10:00 ; enregistré le 30/10/2026 19:33 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 157 ; horloge 20/10/2041 10:31 -> 22/10/2041 10:01 ; enregistré le 31/10/2026 23:47 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Ah oui n'oublie pas que dans l'application gestion, je suis moi-même évalué. Go
+> Reprenons stp (après : « Par contre arrête vraiment d'avancer aussi tu as niqué mon interaction avec kim, on revient au rythme de bien avant. »)
 
 ## Texte envoyé au joueur
 
-**SAMEDI 26 OCTOBRE 2041 — 10h00 — Audun-le-Tiche (Moselle), chez toi**
+**MARDI 22 OCTOBRE 2041 — 10h01 — Luxembourg-Ville, lycée, salle des professeurs**
 
-Lundi, à 07h10, un message de ton conseiller : « Correction de ma part : je t'ai proposé un retour « le samedi 3 janvier », mais le 3 janvier 2042 est un vendredi. Le samedi, c'est le 4 janvier : retour le samedi 4, la veille du dernier jour de tes congés. J'ai corrigé le document du séjour. Coulibaly reçoit tes dates ce matin : du samedi 21 décembre au samedi 4 janvier. Ton évaluation est à jour dans Gestion, rubrique « Évaluation William ». » Dans l'application, ta propre fiche affiche 69 sur 100 : 78 en gouvernance, 64 en finances, 66 en stratégie, et deux lignes sèches sur l'équipe payée avant le premier client.
+Lundi, à 07h10, pendant que tu finis ton café, un message de ton conseiller : « Correction de ma part : je t'ai proposé un retour « le samedi 3 janvier », mais le 3 janvier 2042 est un vendredi. Le samedi, c'est le 4 janvier : retour le samedi 4, la veille du dernier jour de tes congés. J'ai corrigé le document du séjour. Coulibaly reçoit tes dates ce matin : du samedi 21 décembre au samedi 4 janvier. Ton évaluation est à jour dans Gestion, rubrique « Évaluation William ». » Dans l'application, ta propre fiche affiche 69 sur 100 : 78 en gouvernance, 64 en finances, 66 en stratégie, et deux lignes sèches sur l'équipe payée avant le premier client.
 
-La semaine se déroule sans heurt. Mardi, en salle des professeurs, une collègue de physique que tu connais à peine s'assoit en face de toi avec son café. Kim Schmitz, la trentaine, petite, un mètre cinquante-huit environ, la silhouette sèche et musclée d'une sportive, épaules dessinées sous un sweat gris, hanches étroites dans un jean noir. Visage triangulaire, peau claire semée de taches de rousseur, yeux noisette vifs, bouche fine, cheveux châtain foncé coupés au carré court ; un petit tatouage d'hirondelle au poignet. « Sam dit que tu as monté une affaire en Afrique ? Moi j'adore voyager là-bas, je pars toujours en low cost. » Tu réponds en souriant que ce sont des projets personnels, rien de bien passionnant, et tu changes de sujet ; elle n'insiste pas.
+La journée de cours passe sans histoire. En fin d'après-midi, l'orage annoncé crève sur la frontière : sur l'A4, les essuie-glaces ne suffisent plus et tout le monde roule à soixante, feux de détresse allumés. Le soir, au Minett Combat Club, une heure et demie de lutte et de musculation dans une salle qui sent le caoutchouc mouillé et la sueur ; tu rentres lessivé, tu dors d'une traite.
 
-Mercredi après-midi, le club. Jeudi soir, les courses, 96,70 €. Vendredi soir, deux choses tombent en même temps : dans la boîte aux lettres, un courrier de la CNS qui te demande de renvoyer ton certificat de résidence de frontalier avant le 30 novembre ; et, à 21h20, un message de Thiago Alves, du club : « Salut William ! Samedi 2 novembre je fais un dîner chez moi pour la Toussaint, quelques gars du club, Lenny sera là. Tu viens ? Rien de chichiteux, je fais une feijoada 😄 » La nuit, ton voisin de droite, Claude Majerus, que tu croises surtout au moment des poubelles, organise une fête : basses à fond et éclats de voix sur sa terrasse jusqu'à une heure du matin. Tu t'endors tard.
+Ce mardi, le ciel est lavé. Il fait onze degrés quand tu quittes Audun, un soleil bas et franc sur les toits encore humides. Tes deux premières heures se déroulent normalement. À la sonnerie de la pause, la salle des professeurs se remplit d'un coup : file devant la machine à café, odeur de croissants tièdes et de papier chaud de la photocopieuse, une conversation en luxembourgeois sur un conseil de classe, deux collègues qui se plaignent en allemand du nouvel emploi du temps des salles de sciences.
 
-Ce samedi, comme prévu, tu t'assois devant l'ordinateur avec un café, les yeux un peu lourds, pour réserver les billets. L'application Voyages de ton téléphone affiche quatre itinéraires pour un départ le samedi 21 décembre et un retour le samedi 4 janvier :
-- Air France depuis Luxembourg, par Paris-Charles-de-Gaulle : départ à 06h00, arrivée à Abidjan à 15h55 ; retour par le vol de nuit de 22h15, arrivée au Findel le dimanche à 10h05 : 2 123 €.
-- Brussels Airlines, direct depuis Bruxelles (deux heures trente de route) : départ à 10h50, arrivée à 16h25 ; retour à 22h05, arrivée à Bruxelles à 05h30 : 1 813 €.
-- Corsair, direct depuis Paris-Orly : départ à 11h15, arrivée à 16h40 ; retour à 23h30, arrivée à 06h15 : 1 657 €, plus le trajet jusqu'à Orly.
-- Royal Air Maroc depuis Paris-Charles-de-Gaulle, par Casablanca : départ à 12h30, arrivée à 22h10 après quatre heures et demie d'escale ; retour à 03h05, arrivée à Paris à 12h40 : 1 295 €, plus le trajet jusqu'à Paris.
+Tu t'es posé au bout d'une grande table avec ton café quand une collègue tire la chaise en face de toi et s'assoit sans demander. Tu la connais de vue : Kim Schmitz, qui enseigne la physique. Une petite femme de la fin de la trentaine, un mètre cinquante-huit environ, la silhouette sèche et musclée d'une sportive qui court ou grimpe : épaules dessinées sous un sweat gris à capuche, poitrine menue, taille fine, hanches étroites dans un jean noir, des baskets de course usées aux pieds. Le visage est triangulaire, pommettes hautes et menton pointu, la peau claire semée de taches de rousseur sur le nez et les joues ; des yeux noisette, vifs, qui accrochent les tiens puis décrochent vite ; une bouche fine avec un pli moqueur au coin gauche. Ses cheveux châtain foncé sont coupés en carré court qui s'arrête à la mâchoire, une mèche coincée derrière l'oreille. Quand elle pose son gobelet de café à côté d'une gourde isotherme cabossée, couverte d'autocollants de compagnies aériennes à bas prix, tu vois une petite hirondelle tatouée à l'intérieur de son poignet gauche.
 
-Les formalités rappellent l'e-visa ivoirien à demander avant le départ et le certificat de vaccination contre la fièvre jaune.
+Elle souffle sur son café, te regarde par-dessus le gobelet.
 
-Il est 10h00.
+« Sam dit que tu as monté une affaire en Afrique ? » Elle sourit, un peu curieuse, un peu taquine. « Moi j'adore voyager là-bas, je pars toujours en low cost. »
+
+Elle attend ta réponse, les deux mains autour du gobelet.
+
+Il est 10h01.
 
 ---
 
 **Réponses attendues**
-- **Réservation** : quel vol pour le séjour du 21 décembre au 4 janvier (Air France 2 123 €, Brussels Airlines 1 813 €, Corsair 1 657 €, Royal Air Maroc 1 295 €) ?
-- **Thiago Alves** : dîner chez lui le samedi 2 novembre au soir, avec des gars du club et Lenny.
+- **Kim Schmitz** : elle te demande, en salle des professeurs, si c'est vrai que tu as monté une affaire en Afrique ; c'est Sam qui lui en a parlé.
 
 **À faire / à fournir avant le tour suivant**
-- Le choix du vol et le paiement.
-- Courrier de la CNS : certificat de résidence de frontalier à renvoyer avant le 30 novembre.
+- Rien d'urgent.
 
 **Quêtes secondaires**
-- Dimanche 27 octobre : séance avec ton conseiller (synthèse du gardiennage de Mariam Brou).
-- Samedi 2 novembre, au matin : élagage de la haie, ta part de 143 € à Olivier.
-- Mardi 5 novembre : décision sur le financement de janvier, puis réunion d'équipe à 17h30.
-- E-visa ivoirien et carnet de vaccination à vérifier avant le départ.
-- Fin octobre : premiers salaires de l'équipe.
+- Réservation des billets pour Abidjan (du samedi 21 décembre au samedi 4 janvier) : prévue samedi 26 octobre.
+- Dimanche 27 octobre : séance de travail avec ton conseiller.
+- Mardi 5 novembre : décision de financement, puis réunion d'équipe à 17h30.
+- Samedi 2 novembre : taille de la haie partagée avec ton voisin.
 
 Que veux-tu faire ?

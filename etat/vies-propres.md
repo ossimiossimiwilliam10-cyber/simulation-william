@@ -52,7 +52,7 @@
 - **Derniers événements** : 25/09 petit_evenement (croisement, visite ou conversation de voisinage); 01/10 avancee_objectif (somme reçue, économisée ou investie pour son objectif : changer de métier); 12/10 avancee_objectif (démarche pour son objectif : changer de métier); 18/10 petit_evenement (croisement, visite ou conversation de voisinage); 21/10 sans_histoire
 
 ### Thiago Alves (coach de musculation du club)
-- **Lien avec William** : contact_recent (whatsapp)
+- **Lien avec William** : aucun (whatsapp)
 - **Objectif** : voyager loin une fois dans sa vie ; **souci** : mal de dos chronique ; **foyer** : parent isolé
 - **Secret (moteur seulement)** : consulte un psychologue (gravité 1)
 - **Horaires** : règle « bureau », fuseau luxembourg, décalage +3 min ; travail 09:03-17:33 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:33-07:03
@@ -92,13 +92,6 @@
 - **Secret (moteur seulement)** : a perdu beaucoup d'argent au jeu ou en bourse (gravité 2)
 - **Horaires** : règle « sans_travail », fuseau luxembourg, décalage +0 min ; pas d'horaires de travail ; sommeil 23:00-07:00
 - **Derniers événements** : 26/09 petit_evenement (bus en retard); 03/10 avancee_objectif (rendez-vous obtenu ou tenu pour son objectif : finir de rénover sa maison); 12/10 sans_histoire; 15/10 sans_histoire; 26/10 tournant (déménagement, bail ou proche hébergé)
-
-### Claude Majerus (voisin mitoyen (côté droit))
-- **Lien avec William** : aucun (whatsapp)
-- **Objectif** : obtenir une promotion ou un poste plus stable ; **souci** : procédure de divorce ; **foyer** : vit seul(e)
-- **Secret (moteur seulement)** : a une condamnation ancienne (conduite en état d'ivresse) (gravité 2)
-- **Horaires** : règle « bureau », fuseau luxembourg, décalage -29 min ; travail 08:31-17:01 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:01-06:31
-- **Derniers événements** : 24/09 petit_evenement (rumeur entendue ou colportée); 02/10 coup_dur (rupture, trahison d'un ami ou conflit de voisinage); 08/10 avancee_objectif (rendez-vous obtenu ou tenu pour son objectif : obtenir une promotion ou un poste plus stable); 20/10 petit_evenement (croisement, visite ou conversation de voisinage); 22/10 petit_evenement (dépense imprévue (réparation de la moto))
 
 ### Aurélie Martin (voisine de la rue)
 - **Lien avec William** : aucun (whatsapp)

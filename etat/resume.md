@@ -1,28 +1,28 @@
-# Résumé d'état (généré le 30/10/2026 19:33 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 31/10/2026 23:47 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : samedi 26/10/2041 10:00 (luxembourg, UTC+2)
-- **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 08:00 ; lisbonne 09:00 ; mindelo 07:00 ; casablanca 09:00 ; douala 09:00 ; addis 11:00 ; manille 16:00 ; paris 10:00 ; seoul 17:00 ; bresil 05:00
+## Horloge : mardi 22/10/2041 10:01 (luxembourg, UTC+2)
+- **Lieu de William** : Luxembourg-Ville, lycée, salle des professeurs
+- **Heure dans les autres lieux** : abidjan 08:01 ; lisbonne 09:01 ; mindelo 07:01 ; casablanca 09:01 ; douala 09:01 ; addis 11:01 ; manille 16:01 ; paris 10:01 ; seoul 17:01 ; bresil 05:01
 - **En attente de William** :
-  - Choix du vol pour Abidjan (21/12-04/01) ; invitation de Thiago Alves (02/11)
+  - Kim Schmitz attend la réponse de William (affaire en Afrique)
 
 ## Argent (grand livre, calculé)
-- Compte courant (Spuerkeess) : **5 516,43 €**
+- Compte courant (Spuerkeess) : **5 613,13 €**
 - Compte épargne (Spuerkeess) : **8 273,00 €**
 - ETF (valeur de marché : calages seulement) : **676 135,00 €**
 - Prêt logement : solde restant dû (passif, déjà déduit de la part de maison) : **100 735,78 €**
 - Part nette de la maison d'Audun-le-Tiche : **99 264,22 €**
-- Patrimoine net de William : **789 188,65 €**
+- Patrimoine net de William : **789 285,35 €**
 - Prévu dans les 14 jours : 31/10 Traitement mensuel de William (9 320,00 €) ; 04/11 Minett Combat Club (-85,00 €) ; 04/11 Package bancaire Zebra Premium (-12,83 €) ; 04/11 Virement permanent vers le compte épargne (-1 487,00 €) ; 04/11 Virement permanent vers le compte épargne (1 487,00 €) ; 04/11 Virement permanent vers SOLEIL B2B CI (-5 000,00 €) ; 05/11 Mensualité du prêt immobilier et assurance emprunteu (-949,28 €) ; 05/11 Prêt immobilier de la maison d'Audun-le-Tiche (-632,34 €) ; 05/11 Part nette du bien financé : + capital remboursé (632,34 €) ; 05/11 Assurance habitation (-45,00 €) ; 05/11 Voiture électrique : assurance tous risques (-107,00 €)
 
 ## ÉCHÉANCES ÉCHUES NON CLOSES (jouer, reporter avec raison ou annuler : règle 14)
 - A142 Tue 08/10 19:00 (luxembourg) | Mohamed Coulibaly : Point écrit sur le rendez-vous manqué de Vridi (demande de William du 06/10) [prevu]  — à lier au compte rendu du mardi ; fiabilité de Coulibaly au moment dit
-- A143 Thu 24/10 19:00 (luxembourg) | Mariam Brou : Synthèse des trois offres de gardiennage (report du 20/10) [prevu]  — T18 report_excuse ; contrat du bailleur jusqu'au 31/10
 
-## Agenda : dans les 24 heures (1)
+## Agenda : dans les 24 heures (0)
+- rien
+## Agenda : de J+1 à J+7 (2)
+- A143 Thu 24/10 19:00 (luxembourg) | Mariam Brou : Synthèse des trois offres de gardiennage (report du 20/10) [prevu]  — T18 report_excuse ; contrat du bailleur jusqu'au 31/10
 - A146 Sat 26/10 10:00 (luxembourg) | William : Réserver les billets pour Abidjan, séjour du samedi 21 décembre au samedi 4 janvier (avant : « samedi 3 janvier », erreur du conseiller corrigée le 21/10 : le 3 janvier 2042 est un vendredi) [prevu]  — engagement de William du 20/10 (estimation 1 600 à 2 000 €)
-## Agenda : de J+1 à J+7 (1)
-- A148 Sat 02/11 09:00 (luxembourg) | Olivier Schneider : Élagage de la haie mitoyenne par le paysagiste ; part de William : 143 € [prevu]  — accord du 20/10
 (Les lignes « NON CONNU DE WILLIAM » servent au moteur : ne jamais les montrer au joueur avant le jour dit.)
 
 ## Affaires ouvertes (T4/T5 chaque dimanche soir)
@@ -40,8 +40,9 @@
 - Pendant : réactions et négociations par `jet.py --table Tn` (T1 à T14 ; `--pour` pour un personnage) ; personnages nouveaux par `personnage.py nouveau` ; faits et prix par `faits.py` et `prix.py` ; lieux par `lieux.py voir` ; révélations dans `savoir.py ajouter` ; argent dans `grand_livre.py ajouter`.
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
-## Fin du dernier journal (2041-10-26.md, 6 dernières lignes)
-> # Samedi 26 octobre 2041 — univers 3, 103e jour
-> - **00h00-10h00** (tour n° 156) : Évaluation de William mise à jour dans Gestion (EVAL002 : 69, gouvernance 78, finances 64, stratégie 66 ; règle dans CLAUDE). Abidjan ajouté à l'application Voyages (aéroports ABJ, ORY, CMN ; vols A1-A4 ; saisons ; formalités). Correction U3-26 : retour le samedi 04/01 (et non le 03). Avance 21-26/10 : revue n° 12 (P60-P62), aléas A22 (CNS), A24 (fête de Claude Ma
-> - Tirages du tour : T22 → zero_segment (34,69) ; T22 → un_segment (68,74) ; T22 → zero_segment (34,63) ; T15 Sam → en_parle_a_d_autres (69,42) ; jet « Mariam Brou tient sa promesse : rend la synthèse des offres  » → OUI (58,86) ; jet « Mohamed Coulibaly tient sa promesse : compte rendu du mardi  » → OUI (20,06) ; jet « Mohamed Coulibaly tient sa promesse : compte rendu du vendre » → OUI (30,98) ; 
-> - Tour en cours à 10h00, en attente de William : **Choix du vol pour Abidjan (21/12-04/01) ; invitation de Thiago Alves (02/11)**.
+## Fin du dernier journal (2041-10-22.md, 6 dernières lignes)
+> # Mardi 22 octobre 2041 — univers 3, 99e jour
+> **Fiche courte du mardi 22 octobre 2041** (générée par tour.py d'après les données) : messages envoyés 0, reçus 0 ; échéances jouées 0 ; argent : courant 5 613,13 € (+0,00 €) ; nuit suivante : 7,8 h.
+> - **00h00-10h01** (tour n° 157) : 10h01 — Tour 156 annulé (U3-27) ; reprise : lundi 21 (message correctif du conseiller 07h10, orage, club 18h30), mardi 22 : Kim Schmitz (physique) apparaît en salle des professeurs et demande à William s'il a monté une affaire en Afrique (Sam Ries en a parlé, P47 : en parle à d'autres) ; arrêt sur sa question.
+> - Tirages du tour : procédure : 20/10 21:50-06:05 ; 21/10 22:10-06:02 ; 22/10 21:54-06:00 ; 23/10 22:04-06:05 ; 24/10 21:53-06:01 ; 26/10 01:32-08:27 ; procédure : LU01, LU03, FR01.
+> - Tour en cours à 10h01, en attente de William : **Kim Schmitz attend la réponse de William (affaire en Afrique)**.
