@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 01/11/2026 00:25 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 01/11/2026 00:28 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mercredi 23/10/2041 20:56 (luxembourg, UTC+2)
-- **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 18:56 ; lisbonne 19:56 ; mindelo 17:56 ; casablanca 19:56 ; douala 19:56 ; addis 21:56 ; manille 02:56 ; paris 20:56 ; seoul 03:56 ; bresil 15:56
+## Horloge : jeudi 24/10/2041 07:51 (luxembourg, UTC+2)
+- **Lieu de William** : Luxembourg-Ville, parking du lycée
+- **Heure dans les autres lieux** : abidjan 05:51 ; lisbonne 06:51 ; mindelo 04:51 ; casablanca 06:51 ; douala 06:51 ; addis 08:51 ; manille 13:51 ; paris 07:51 ; seoul 14:51 ; bresil 02:51
 - **En attente de William** :
-  - rien d'urgent
+  - rien d'urgent (accusé de Coulibaly reçu)
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **5 613,13 €**
@@ -15,11 +15,7 @@
 - Patrimoine net de William : **789 285,35 €**
 - Prévu dans les 14 jours : 31/10 Traitement mensuel de William (9 320,00 €) ; 04/11 Minett Combat Club (-85,00 €) ; 04/11 Package bancaire Zebra Premium (-12,83 €) ; 04/11 Virement permanent vers le compte épargne (-1 487,00 €) ; 04/11 Virement permanent vers le compte épargne (1 487,00 €) ; 04/11 Virement permanent vers SOLEIL B2B CI (-5 000,00 €) ; 05/11 Mensualité du prêt immobilier et assurance emprunteu (-949,28 €) ; 05/11 Prêt immobilier de la maison d'Audun-le-Tiche (-632,34 €) ; 05/11 Part nette du bien financé : + capital remboursé (632,34 €) ; 05/11 Assurance habitation (-45,00 €) ; 05/11 Voiture électrique : assurance tous risques (-107,00 €)
 
-## ÉCHÉANCES ÉCHUES NON CLOSES (jouer, reporter avec raison ou annuler : règle 14)
-- A142 Tue 08/10 19:00 (luxembourg) | Mohamed Coulibaly : Point écrit sur le rendez-vous manqué de Vridi (demande de William du 06/10) [prevu]  — à lier au compte rendu du mardi ; fiabilité de Coulibaly au moment dit
-
-## Agenda : dans les 24 heures (2)
-- A150 Thu 24/10 07:42 (luxembourg) | Mohamed Coulibaly : Accusé de réception : entretien du 10/12 confirmé, Mme Tanoh prévenue [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — T10 le_soir_ou_lendemain (tiré le 23/10)
+## Agenda : dans les 24 heures (1)
 - A143 Thu 24/10 19:00 (luxembourg) | Mariam Brou : Synthèse des trois offres de gardiennage (report du 20/10) [prevu]  — T18 report_excuse ; contrat du bailleur jusqu'au 31/10
 ## Agenda : de J+1 à J+7 (0)
 - rien
@@ -40,10 +36,7 @@
 - Pendant : réactions et négociations par `jet.py --table Tn` (T1 à T14 ; `--pour` pour un personnage) ; personnages nouveaux par `personnage.py nouveau` ; faits et prix par `faits.py` et `prix.py` ; lieux par `lieux.py voir` ; révélations dans `savoir.py ajouter` ; argent dans `grand_livre.py ajouter`.
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
-## Fin du dernier journal (2041-10-23.md, 6 dernières lignes)
-> - **20h43-20h49** (tour n° 161) : 20h49 — William suit l'avis du conseiller ; message envoyé à Coulibaly à 20h46 (motif administratif, Pâques, entretien de Mme Tanoh semaine du 9/12) ; Coulibaly répond à 20h49 (T7b succes_net, T7c execute_sans_discuter, T10 immediat) : propose le 10/12 17h30 et demande s'il prévient Mme Tanoh.
-> - Tirages du tour : T7b Mohamed → succes_net (15,98) ; T7c Mohamed → execute_sans_discuter (52,92) ; T10 Mohamed → immediat (3,4).
-> - Tour en cours à 20h49, en attente de William : **Coulibaly : entretien de Mme Tanoh le mardi 10/12 17h30 ? la prévenir dès demain ?**.
-> - **20h49-20h56** (tour n° 162) : 20h56 — Entretien de Mme Tanoh fixé au 10/12 17h30 (A149) ; accusé de Coulibaly demain (T10). Point clients du conseiller : Vridi offre 100 kWc 90 M FCFA, Port-Bouët devis ~160 kWc 144 M FCFA, quatre rendez-vous de novembre, imprimerie perdue ; marge potentielle 58,5 M FCFA, pondérée 12-15 M ; point mort 100 kWc tous les 2,5 mois.
-> - Tirages du tour : T10 Mohamed → le_soir_ou_lendemain (78,34).
-> - Tour en cours à 20h56, en attente de William : **rien d'urgent**.
+## Fin du dernier journal (2041-10-24.md, 6 dernières lignes)
+> # Jeudi 24 octobre 2041 — univers 3, 101e jour
+> - **00h00-07h51** (tour n° 163) : 07h51 — Nuit 22h35-06h05, courbatures ; brouillard sur l'A4 ; accusé de Coulibaly à 07h42 (entretien du 10/12 confirmé, Mme Tanoh prévenue) ; A142 close (retard d'écriture).
+> - Tour en cours à 07h51, en attente de William : **rien d'urgent (accusé de Coulibaly reçu)**.
