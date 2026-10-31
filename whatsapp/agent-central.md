@@ -828,3 +828,15 @@ Trois choses à me dire : la période, l'ordre des priorités, et quand on tranc
 **[20/10/2041 - 10:28 (Luxembourg)] William :** Je valide la période et les priorités. Le financement de janvier, on le tranche le 5 novembre. Je réserverai mes billets samedi prochain.
 **[20/10/2041 - 10:31 (Luxembourg)] Agent central :** Noté : séjour du samedi 21 décembre au samedi 3 janvier, priorités dans l'ordre proposé. Pour le 5 novembre, je te prépare trois options de financement de janvier, chiffrées, pour la séance du dimanche 3 novembre. J'informe Coulibaly de tes dates demain matin, pour qu'il bloque les rendez-vous clients des 22 et 23 décembre.
 **[21/10/2041 - 07:10 (Luxembourg)] Agent central :** Correction de ma part : je t'ai proposé un retour « le samedi 3 janvier », mais le 3 janvier 2042 est un vendredi. Le samedi, c'est le 4 janvier : retour le samedi 4, la veille du dernier jour de tes congés. J'ai corrigé le document du séjour. Coulibaly reçoit tes dates ce matin : du samedi 21 décembre au samedi 4 janvier. Ton évaluation est à jour dans Gestion, rubrique « Évaluation William ».
+**[23/10/2041 - 20:40 (Luxembourg)] William :** J'annule mon voyage de décembre. Trouve une raison à donner à Coulibaly : des soucis administratifs, des démarches que j'aurais dû lancer bien plus tôt, bref une raison valable et cohérente. La vraie raison, entre nous : je suis venu il y a quelques semaines, ce serait trop tôt. Il vaut mieux laisser l'équipe se développer avant de revenir. Pourquoi pas en avril, pendant les congés de Pâques.
+**[23/10/2041 - 20:43 (Luxembourg)] Agent central :** Noté. Décembre est annulé ; rien n'était payé (ni billets ni e-visa), donc aucun frais.
+
+Pour Coulibaly, un point : évite le visa comme motif. Il sait qu'un e-visa ivoirien se fait en deux ou trois jours, ça ne tiendrait pas. Un motif administratif de ton côté, au Luxembourg, et vague, tient mieux. Brouillon :
+
+« Bonsoir Mohamed, je dois décaler mon séjour de décembre : des démarches administratives de mon côté, que j'aurais dû lancer plus tôt, me retiennent au Luxembourg sur cette période. Je viendrai plutôt pendant les vacances de Pâques, entre le 29 mars et le 13 avril ; je vous confirmerai les dates. D'ici là, on garde le rythme des comptes rendus et la réunion du 5 novembre. William Ossimi »
+
+Deux conséquences de mon côté :
+1. La période d'essai de Mme Tanoh finit le 31 décembre. La décision se prendra à distance : je te propose un entretien en visioconférence avec elle et Coulibaly la semaine du 9 décembre.
+2. Les visites d'industriels prévues en décembre se feront sans toi, avec Mme Tanoh et M. Yao.
+
+Je l'envoie tel quel à Coulibaly, ce soir ou demain matin ?

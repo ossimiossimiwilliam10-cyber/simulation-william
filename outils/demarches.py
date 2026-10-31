@@ -1,6 +1,6 @@
 """DÉMARCHES DE VOYAGE (P61, validée par l'utilisateur le 31/10/2026) : e-visa et autres formalités suivies de bout en bout.
 
-Données : `etat/demarches.csv` (id ; destination ; demarche ; statut a_deposer|deposee|second_passage|acceptee|refusee ; depose_le ;
+Données : `etat/demarches.csv` (id ; destination ; demarche ; statut a_deposer|deposee|second_passage|acceptee|refusee|annulee ; depose_le ;
 reponse_le ; connu ; note). La date de réponse est tirée au dépôt et reste CACHÉE (colonne `connu` = non) jusqu'au jour dit : l'application
 Voyages ne montre que ce que William voit (« déposée le …, en cours d'examen »). Friction administrative de `etat/economie.md` : 30 % de
 « deuxième passage demandé » (pièce à reprendre), tirée au dépôt comme procédure (jet.py --procedure).
@@ -25,7 +25,7 @@ COLONNES = ["id", "destination", "demarche", "statut", "depose_le", "reponse_le"
 DELAI_JOURS = (2, 5)  # e-visa SNEDAI : traitement annoncé en 48 à 72 h ouvrées, parfois plus en haute saison
 FRICTION = 30
 VISIBLE = {"a_deposer": "à déposer", "deposee": "déposée le {d}, en cours d'examen", "second_passage": "pièce à reprendre (demande du {r})",
-           "acceptee": "acceptée le {r}", "refusee": "refusée le {r}"}
+           "acceptee": "acceptée le {r}", "refusee": "refusée le {r}", "annulee": "annulée (séjour annulé)"}
 
 
 def lire():
