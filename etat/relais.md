@@ -1,35 +1,37 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 01/11/2026 00:34 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 01/11/2026 00:38 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : vendredi 25 octobre 2041, 16h41 (luxembourg) ; tour n° 165
-- Lieu de William : Audun-le-Tiche (Moselle), devant chez William
-- En attente de William : rien d'urgent ; courrier CPAM à renvoyer avant le 30/11
+- Horloge : vendredi 25 octobre 2041, 17h14 (luxembourg) ; tour n° 166
+- Lieu de William : Audun-le-Tiche (Moselle), chez William
+- En attente de William : rien d'urgent ; club ce soir
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 165 ; horloge 24/10/2041 10:04 -> 25/10/2041 16:41 ; enregistré le 01/11/2026 00:34 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 166 ; horloge 25/10/2041 16:41 -> 25/10/2041 17:14 ; enregistré le 01/11/2026 00:37 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je me note que Kim n'est pas très bavarde. C'est dommage. J'aurais aimé en faire une sex friend ou pouvoir la baiser. Je me note d'ailleurs que ça fait longtemps que j'ai pas baisé une femme. Et puis bref Go
+> Bon, je fais le truc de courrier de la CPAM. Après, je prends un moment pour me regarder dans un miroir et me demander si véritablement, est-ce que je suis pas un bel homme, quand même, en toute objectivité.
 
 ## Texte envoyé au joueur
 
-**VENDREDI 25 OCTOBRE 2041 — 16h41 — Audun-le-Tiche (Moselle), devant chez toi**
+**VENDREDI 25 OCTOBRE 2041 — 17h14 — Audun-le-Tiche (Moselle), chez toi, salle de bains**
 
-Le jeudi s'étire sans surprise. Deux heures de cours encore après la pause, puis l'après-midi à la maison, à la table de la cuisine, à préparer la dernière semaine avant les vacances : un contrôle sur les suites pour la classe de mardi, un corrigé à taper. Le brouillard ne se lève qu'en début d'après-midi, et le soir il redescend sur la rue, épais, jaune sous les lampadaires. Tu dînes tôt, tu te couches vers 22h30.
+Tu t'occupes du courrier tout de suite, sur la table de la cuisine. Le formulaire demande ton adresse, ton employeur, ton numéro d'assuré luxembourgeois et une croix : « Je réside en France de façon stable et effective ». Tu le remplis, tu le dates, tu le signes. Pour le justificatif, tu télécharges depuis ton espace client la dernière facture de gaz, celle de septembre, et tu l'imprimes. Le tout dans l'enveloppe retour de la CPAM, et, cinq minutes plus tard, dans la boîte jaune de La Poste au coin de la rue ; l'étiquette indique que la dernière levée est passée, elle partira lundi.
 
-Vendredi, le ciel s'est dégagé dans la nuit : la route du matin se fait sous un soleil bas qui t'aveugle à la sortie d'Esch, et les courbatures du mercredi ont presque disparu. Au lycée, la journée passe vite, l'air de fin de période dans les couloirs, les élèves déjà à moitié en vacances. Tu ne croises pas Kim.
+De retour à la maison, tu montes te changer pour le club, et tu t'arrêtes devant le grand miroir de la salle de bains, plus longtemps que d'habitude.
 
-Tu es de retour à Audun peu après 16h30. En passant devant la boîte aux lettres, tu en tires une publicité de supermarché, le bulletin de la commune et une enveloppe à fenêtre au logo bleu de l'Assurance maladie : la CPAM de la Moselle. À l'intérieur, une lettre type et un formulaire de deux pages. En tant que travailleur frontalier affilié au Luxembourg et inscrit chez eux par formulaire S1, tu fais l'objet d'un contrôle de résidence : il te faut retourner le formulaire joint, daté et signé, accompagné d'un justificatif de domicile de moins de trois mois, avant le 30 novembre 2041. Faute de réponse, précise le dernier paragraphe, tes droits en France pourront être suspendus.
+Ce que le miroir te renvoie : un homme d'un mètre quatre-vingt-seize qui en occupe toute la hauteur, épaules larges qui débordent presque du cadre, cou épais, pectoraux et bras dessinés par douze ans de lutte et de fonte, la taille encore marquée malgré les cent kilos. Pas un corps de vitrine, sec et veiné : un corps lourd et dense de combattant, une ecchymose violette sur l'avant-bras gauche. La peau noire, mate sous la lumière froide du plafonnier. Le visage, lui, est plus ordinaire que le reste : traits réguliers, mâchoire carrée sous la barbe qui aurait besoin d'un passage chez le barbier, un front qui se plisse quand tu fronces les sourcils, des lunettes que tu portes à la maison et qui adoucissent le regard. Rien de frappant, rien de disgracieux. Tu te tiens droit sans y penser. Quand tu te racles la gorge, la voix grave résonne contre le carrelage.
 
-Il est 16h41.
+La chaudière se relance avec un déclic dans le placard. Le sac de sport attend sur le palier ; la séance du vendredi commence dans un peu plus d'une heure.
+
+Il est 17h14.
 
 ---
 
@@ -37,7 +39,7 @@ Il est 16h41.
 - Personne ne t'attend.
 
 **À faire / à fournir avant le tour suivant**
-- Courrier de la CPAM de la Moselle : formulaire daté et signé et justificatif de domicile de moins de trois mois, à renvoyer avant le 30 novembre.
+- Rien d'urgent.
 
 **Quêtes secondaires**
 - Ce soir : club (lundi, mercredi, vendredi).
@@ -89,7 +91,7 @@ Que veux-tu faire ?
 | 7 | **Revue du lundi n° 5 : P32 à P36 sont des décisions d'affaires, pas des mécanismes du simulateur** (19/08 09h00) | Audit du 29/10/2026 : la revue doit proposer des améliorations du SIMULATEUR (aléas, règles, outils, immersion) que l'utilisateur valide ; P32 à P36 décrivent des actions de l'entreprise (devis, abonnements CIE et SODECI, recrutements, rumeurs, cellule d'étude). Les présenter à William comme décisions d'affaires ; à la prochaine revue, 3 à 5 vraies propositions de mécanismes | revue du lundi 26/08 |
 | 8 | ~~**Note de la résidence d'Abidjan (extras à régler au départ)** (19/08 09h00)~~ **CLOS le 25/08 07h18** : réglé le 25/08 à 12h05 avec le séjour : 19 716 FCFA d'extras Yango (dont la course vers l'aéroport), 1 720,06 € au total sur la Visa Premier | Course Yango du 19/08/2041 (résidence → villa des Vallons, 1 600 FCFA ≈ 2,44 €) commandée par la réception et portée sur la note ; à ajouter au règlement du 25/08 à 12h00 (A111), avec cartes.py payer ; *(19/08 10h17) (19/08 10h17) deuxième course Yango (villa des Vallons → résidence, 1 279 FCFA ≈ 1,95 €) commandée par la réception et portée sur la note ; total des extras Yango du jour : 2 879 FCFA* ; *(19/08 18h07) (19/08 13h41) courses Yango résidence → Sofitel (3 028 FCFA) et Sofitel → résidence (2 825 FCFA) portées sur la note ; total des extras Yango du jour : 8 732 FCFA (≈ 13,31 €)* ; *(20/08 10h47) (20/08 10h40) course Yango résidence → Playce Palmeraie, 2 405 FCFA, portée sur la note* ; *(20/08 11h11) (20/08 11h11) course Yango Playce Palmeraie → résidence, 2 207 FCFA, portée sur la note* | 25/08/2041 12h00 |
 | 9 | **Séjour à Abidjan de décembre annulé, Pâques 2042 envisagé** (23/10 18h42) | William renonce le 23/10 à 20h40 au séjour du 21/12 au 04/01 (vrai motif, connu du seul conseiller : trop tôt après août, laisser l'équipe se développer) ; demande au conseiller un motif administratif plausible pour Coulibaly ; brouillon soumis à William ; Pâques : 29/03-13/04/2042 ; *(23/10 20h43) brouillon pour Coulibaly soumis à William à 20h43* ; *(23/10 20h43) brouillon validé par William à 20h45 ; envoyé à 20h46 depuis direction@ avec la ligne sur l'entretien de Mme Tanoh ; Coulibaly répond à 20h49 (T7b succes_net, T10 immediat) : propose le mardi 10/12 à 17h30 (Luxembourg) et demande s'il prévient Mme Tanoh* | réponse de William sur l'envoi |
-| 10 | **Courrier de la CPAM de la Moselle (contrôle de résidence, frontalier)** (24/10 10h04) | reçu le vendredi 25/10 : formulaire daté et signé + justificatif de domicile de moins de trois mois à renvoyer avant le 30/11/2041 | 30/11/2041 |
+| 10 | ~~**Courrier de la CPAM de la Moselle (contrôle de résidence, frontalier)** (24/10 10h04)~~ **CLOS le 25/10 16h41** : envoyé le 25/10 vers 17h00 (boîte de La Poste, rue principale) ; aucune relance tirée | reçu le vendredi 25/10 : formulaire daté et signé + justificatif de domicile de moins de trois mois à renvoyer avant le 30/11/2041 | 30/11/2041 |
 
 ## Notes de passation (etat/relais-notes.md)
 - ~~(11/10/2026 22:30, Claude Opus 5.5) Redémarrage de l'univers 2 redaté au samedi 14/07/2040, 08h37 (premier vrai jour de vacances,
@@ -186,10 +188,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : a7c31d7 ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 453ebdb ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche claude/vigorous-jang-66b9e5 ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 12 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 13 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

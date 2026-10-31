@@ -85,3 +85,4 @@
 | 2041-10-23 20:46 | Courriel signé William Ossimi à Coulibaly : séjour de décembre décalé pour des « démarches administratives » au Luxembourg (motif inventé), venue à Pâques, entretien de fin d'essai de Mme Tanoh la semaine du 9/12 | courriel depuis direction@soleil-b2b.ci | Mohamed Coulibaly | moyenne |
 | 23/10/2041 20h51 | Message WhatsApp à Mohamed Coulibaly : « Ça me va, mardi 10 décembre à 17h30. Prévenez Mme Tanoh. » | conversation WhatsApp | Mohamed Coulibaly (captures possibles) | faible |
 | 23/10/2041 20h53 | Message WhatsApp à Agent central : « Où en est-on côté clients en ce moment ? Qu'est-ce que ça peut nous rapporter, potentiellement ? Est-ce qu'on a déjà des données là-dessus ? » | conversation WhatsApp | Agent central (captures possibles) | faible |
+| 2041-10-25 17:00 | Formulaire de contrôle de résidence de la CPAM de la Moselle signé par William, avec sa facture de gaz | courrier postal | CPAM de la Moselle | faible |

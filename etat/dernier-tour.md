@@ -1,22 +1,24 @@
 # Dernier tour montré au joueur
 
-> Tour n° 165 ; horloge 24/10/2041 10:04 -> 25/10/2041 16:41 ; enregistré le 01/11/2026 00:34 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 166 ; horloge 25/10/2041 16:41 -> 25/10/2041 17:14 ; enregistré le 01/11/2026 00:37 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je me note que Kim n'est pas très bavarde. C'est dommage. J'aurais aimé en faire une sex friend ou pouvoir la baiser. Je me note d'ailleurs que ça fait longtemps que j'ai pas baisé une femme. Et puis bref Go
+> Bon, je fais le truc de courrier de la CPAM. Après, je prends un moment pour me regarder dans un miroir et me demander si véritablement, est-ce que je suis pas un bel homme, quand même, en toute objectivité.
 
 ## Texte envoyé au joueur
 
-**VENDREDI 25 OCTOBRE 2041 — 16h41 — Audun-le-Tiche (Moselle), devant chez toi**
+**VENDREDI 25 OCTOBRE 2041 — 17h14 — Audun-le-Tiche (Moselle), chez toi, salle de bains**
 
-Le jeudi s'étire sans surprise. Deux heures de cours encore après la pause, puis l'après-midi à la maison, à la table de la cuisine, à préparer la dernière semaine avant les vacances : un contrôle sur les suites pour la classe de mardi, un corrigé à taper. Le brouillard ne se lève qu'en début d'après-midi, et le soir il redescend sur la rue, épais, jaune sous les lampadaires. Tu dînes tôt, tu te couches vers 22h30.
+Tu t'occupes du courrier tout de suite, sur la table de la cuisine. Le formulaire demande ton adresse, ton employeur, ton numéro d'assuré luxembourgeois et une croix : « Je réside en France de façon stable et effective ». Tu le remplis, tu le dates, tu le signes. Pour le justificatif, tu télécharges depuis ton espace client la dernière facture de gaz, celle de septembre, et tu l'imprimes. Le tout dans l'enveloppe retour de la CPAM, et, cinq minutes plus tard, dans la boîte jaune de La Poste au coin de la rue ; l'étiquette indique que la dernière levée est passée, elle partira lundi.
 
-Vendredi, le ciel s'est dégagé dans la nuit : la route du matin se fait sous un soleil bas qui t'aveugle à la sortie d'Esch, et les courbatures du mercredi ont presque disparu. Au lycée, la journée passe vite, l'air de fin de période dans les couloirs, les élèves déjà à moitié en vacances. Tu ne croises pas Kim.
+De retour à la maison, tu montes te changer pour le club, et tu t'arrêtes devant le grand miroir de la salle de bains, plus longtemps que d'habitude.
 
-Tu es de retour à Audun peu après 16h30. En passant devant la boîte aux lettres, tu en tires une publicité de supermarché, le bulletin de la commune et une enveloppe à fenêtre au logo bleu de l'Assurance maladie : la CPAM de la Moselle. À l'intérieur, une lettre type et un formulaire de deux pages. En tant que travailleur frontalier affilié au Luxembourg et inscrit chez eux par formulaire S1, tu fais l'objet d'un contrôle de résidence : il te faut retourner le formulaire joint, daté et signé, accompagné d'un justificatif de domicile de moins de trois mois, avant le 30 novembre 2041. Faute de réponse, précise le dernier paragraphe, tes droits en France pourront être suspendus.
+Ce que le miroir te renvoie : un homme d'un mètre quatre-vingt-seize qui en occupe toute la hauteur, épaules larges qui débordent presque du cadre, cou épais, pectoraux et bras dessinés par douze ans de lutte et de fonte, la taille encore marquée malgré les cent kilos. Pas un corps de vitrine, sec et veiné : un corps lourd et dense de combattant, une ecchymose violette sur l'avant-bras gauche. La peau noire, mate sous la lumière froide du plafonnier. Le visage, lui, est plus ordinaire que le reste : traits réguliers, mâchoire carrée sous la barbe qui aurait besoin d'un passage chez le barbier, un front qui se plisse quand tu fronces les sourcils, des lunettes que tu portes à la maison et qui adoucissent le regard. Rien de frappant, rien de disgracieux. Tu te tiens droit sans y penser. Quand tu te racles la gorge, la voix grave résonne contre le carrelage.
 
-Il est 16h41.
+La chaudière se relance avec un déclic dans le placard. Le sac de sport attend sur le palier ; la séance du vendredi commence dans un peu plus d'une heure.
+
+Il est 17h14.
 
 ---
 
@@ -24,7 +26,7 @@ Il est 16h41.
 - Personne ne t'attend.
 
 **À faire / à fournir avant le tour suivant**
-- Courrier de la CPAM de la Moselle : formulaire daté et signé et justificatif de domicile de moins de trois mois, à renvoyer avant le 30 novembre.
+- Rien d'urgent.
 
 **Quêtes secondaires**
 - Ce soir : club (lundi, mercredi, vendredi).
