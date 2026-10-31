@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-10-22 10:01
+horloge: 2041-10-22 10:06
 fuseau: luxembourg
 lieu: Luxembourg-Ville, lycée, salle des professeurs
-tour: 157
-attente: Kim Schmitz attend la réponse de William (affaire en Afrique)
+tour: 158
+attente: rien d'urgent ; compte rendu de Coulibaly à 17h00

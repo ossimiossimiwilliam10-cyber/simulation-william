@@ -5141,3 +5141,5 @@ Effets à jouer : A22 (vendredi 25/10 (soir)) : Frontalier : deux administration
 - Procédure « William : nuits du 20/10 au 26/10 (vendredi : fête bruyante du voisin, aléa A24) » : 20/10 21:50-06:05 ; 21/10 22:10-06:02 ; 22/10 21:54-06:00 ; 23/10 22:04-06:05 ; 24/10 21:53-06:01 ; 26/10 01:32-08:27 [PROCÉDURE : coucher 21h45-22h20 ; vendredi endormi après 1h] (enregistré le 30/10/2026 19:33 heure machine)
 
 - Actualités de la semaine du 21/10/2041 : modèles LU01, LU03, FR01 [PROCÉDURE : outils/actualites.py] (enregistré le 30/10/2026 19:33 heure machine)
+
+- Tirage [T15] « Salle des profs, 22/10 10h01 : William confirme en souriant, dit qu'il cherche des investisseurs, lui demande si elle est intéressée et lance en riant « on se fait un petit voyage là-bas » » : rien_laisse_passer 30 / accepte_volontiers 18 / garde_distance 14 / en_parle_a_d_autres 12 / rend_la_pareille 10 / demande_explication 8 / decline 6 / frontal_conflit 2 ; modificateurs : aucun ; jet  56.6 → **garde_distance** (enregistré le 31/10/2026 23:55 heure machine)

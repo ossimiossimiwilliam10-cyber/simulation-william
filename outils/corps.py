@@ -120,7 +120,8 @@ def donnees_telephone(t=None):
     seances = [{"date": l["date"], "minutes": int(float(l["valeur"] or 0)), "note": (l.get("note") or "")[:60]}
                for l in lignes if l["type"] == "entrainement"][-14:]
     return {"nuits": nuits, "seances": seances, "dette_7j": b["dette_7j"], "seances_7j": b["seances_7j"], "minutes_7j": b["minutes_7j"],
-            "poids": b["poids"], "besoin": BESOIN_SOMMEIL}
+            "poids": b["poids"], "besoin": BESOIN_SOMMEIL,
+            "carnet": [{k: l[k] for k in ("intitule", "date", "validite", "statut")} for l in lire_csv(ETAT / "sante-carnet.csv")]}  # P60 (31/10/2026)
 
 
 def ligne_etat(b):

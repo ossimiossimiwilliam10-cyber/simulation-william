@@ -18,6 +18,12 @@ appli({
         b.title = dateFr(n.date) + " : " + n.heures.toLocaleString("fr-FR") + " h"; g.append(b); a.append(el("span", "", n.date.slice(8))); });
       main.append(g, a, el("p", "note", "En orange : moins de " + S.besoin.toLocaleString("fr-FR") + " h."));
     }
+    if (S.carnet && S.carnet.length) {
+      main.append(el("h2", "sec", "Carnet de santé"));
+      const c = el("div", "liste");
+      S.carnet.forEach(x => { const g = el("div", "ligne"); g.append(el("span", "titre", x.intitule), el("span", "quand", x.statut), el("span", "sous", [x.date, x.validite].filter(Boolean).join(" · "))); c.append(g); });
+      main.append(c);
+    }
     main.append(el("h2", "sec", "Entraînements récents"));
     if (!S.seances.length) return main.append(el("p", "note", "Aucun entraînement enregistré."));
     const l = el("div", "liste");

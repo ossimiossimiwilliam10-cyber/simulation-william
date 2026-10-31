@@ -1,57 +1,54 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 31/10/2026 23:47 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 31/10/2026 23:56 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : mardi 22 octobre 2041, 10h01 (luxembourg) ; tour n° 157
+- Horloge : mardi 22 octobre 2041, 10h06 (luxembourg) ; tour n° 158
 - Lieu de William : Luxembourg-Ville, lycée, salle des professeurs
-- En attente de William : Kim Schmitz attend la réponse de William (affaire en Afrique)
+- En attente de William : rien d'urgent ; compte rendu de Coulibaly à 17h00
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 157 ; horloge 20/10/2041 10:31 -> 22/10/2041 10:01 ; enregistré le 31/10/2026 23:47 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 158 ; horloge 22/10/2041 10:01 -> 22/10/2041 10:06 ; enregistré le 31/10/2026 23:56 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Reprenons stp (après : « Par contre arrête vraiment d'avancer aussi tu as niqué mon interaction avec kim, on revient au rythme de bien avant. »)
+> Alors je valide du coup le P60 à 62, mais en fait à partir de maintenant on va changer le rythme, ce sera plus tous les lundis mais ce sera plutôt chaque premier lundi du mois. [...] Je réponds à Kim avec un petit sourire également. Je lui dis que oui, en effet, c'est vrai. Je cherche justement des investisseurs. Tu es intéressé? On se fait un petit voyage là-bas. Je le dis en rigolant un peu avec un sourire.
 
 ## Texte envoyé au joueur
 
-**MARDI 22 OCTOBRE 2041 — 10h01 — Luxembourg-Ville, lycée, salle des professeurs**
+**MARDI 22 OCTOBRE 2041 — 10h06 — Luxembourg-Ville, lycée, salle des professeurs**
 
-Lundi, à 07h10, pendant que tu finis ton café, un message de ton conseiller : « Correction de ma part : je t'ai proposé un retour « le samedi 3 janvier », mais le 3 janvier 2042 est un vendredi. Le samedi, c'est le 4 janvier : retour le samedi 4, la veille du dernier jour de tes congés. J'ai corrigé le document du séjour. Coulibaly reçoit tes dates ce matin : du samedi 21 décembre au samedi 4 janvier. Ton évaluation est à jour dans Gestion, rubrique « Évaluation William ». » Dans l'application, ta propre fiche affiche 69 sur 100 : 78 en gouvernance, 64 en finances, 66 en stratégie, et deux lignes sèches sur l'équipe payée avant le premier client.
+Tu lui rends son sourire : oui, c'est vrai. Tu cherches justement des investisseurs. « Tu es intéressée ? On se fait un petit voyage là-bas », et tu le dis en riant à moitié.
 
-La journée de cours passe sans histoire. En fin d'après-midi, l'orage annoncé crève sur la frontière : sur l'A4, les essuie-glaces ne suffisent plus et tout le monde roule à soixante, feux de détresse allumés. Le soir, au Minett Combat Club, une heure et demie de lutte et de musculation dans une salle qui sent le caoutchouc mouillé et la sueur ; tu rentres lessivé, tu dors d'une traite.
+Kim rit aussi, brièvement, un rire du nez, et ses yeux noisette font un aller-retour rapide vers la table d'à côté, où deux collègues de langues corrigent des copies sans avoir l'air d'écouter.
 
-Ce mardi, le ciel est lavé. Il fait onze degrés quand tu quittes Audun, un soleil bas et franc sur les toits encore humides. Tes deux premières heures se déroulent normalement. À la sonnerie de la pause, la salle des professeurs se remplit d'un coup : file devant la machine à café, odeur de croissants tièdes et de papier chaud de la photocopieuse, une conversation en luxembourgeois sur un conseil de classe, deux collègues qui se plaignent en allemand du nouvel emploi du temps des salles de sciences.
+« Des investisseurs, rien que ça. » Elle tourne son gobelet entre ses doigts. « Moi, mon capital, c'est une carte d'embarquement easyJet et une colocation à Bonnevoie. Tu frappes à la mauvaise porte. » Le pli moqueur au coin de sa bouche revient, puis s'efface. « Mais c'est bien, hein. Bon courage avec ça. »
 
-Tu t'es posé au bout d'une grande table avec ton café quand une collègue tire la chaise en face de toi et s'assoit sans demander. Tu la connais de vue : Kim Schmitz, qui enseigne la physique. Une petite femme de la fin de la trentaine, un mètre cinquante-huit environ, la silhouette sèche et musclée d'une sportive qui court ou grimpe : épaules dessinées sous un sweat gris à capuche, poitrine menue, taille fine, hanches étroites dans un jean noir, des baskets de course usées aux pieds. Le visage est triangulaire, pommettes hautes et menton pointu, la peau claire semée de taches de rousseur sur le nez et les joues ; des yeux noisette, vifs, qui accrochent les tiens puis décrochent vite ; une bouche fine avec un pli moqueur au coin gauche. Ses cheveux châtain foncé sont coupés en carré court qui s'arrête à la mâchoire, une mèche coincée derrière l'oreille. Quand elle pose son gobelet de café à côté d'une gourde isotherme cabossée, couverte d'autocollants de compagnies aériennes à bas prix, tu vois une petite hirondelle tatouée à l'intérieur de son poignet gauche.
+Elle boit une gorgée, regarde l'horloge au-dessus du casier à courrier, et se lève avant la sonnerie en ramassant sa gourde. « Il faut que j'aille préparer mon TP, les oscilloscopes de la salle 2 ne marchent jamais du premier coup. » Un petit signe de la main, et elle repart vers le couloir des sciences, son carré court qui rebondit à chaque pas. Elle ne s'est pas retournée.
 
-Elle souffle sur son café, te regarde par-dessus le gobelet.
+Une des deux collègues de langues lève les yeux de sa copie, te regarde une seconde au-dessus de ses lunettes, puis replonge dans sa correction. La sonnerie retentit ; la salle se vide dans un raclement de chaises.
 
-« Sam dit que tu as monté une affaire en Afrique ? » Elle sourit, un peu curieuse, un peu taquine. « Moi j'adore voyager là-bas, je pars toujours en low cost. »
-
-Elle attend ta réponse, les deux mains autour du gobelet.
-
-Il est 10h01.
+Il est 10h06.
 
 ---
 
 **Réponses attendues**
-- **Kim Schmitz** : elle te demande, en salle des professeurs, si c'est vrai que tu as monté une affaire en Afrique ; c'est Sam qui lui en a parlé.
+- Personne ne t'attend pour l'instant.
 
 **À faire / à fournir avant le tour suivant**
 - Rien d'urgent.
 
 **Quêtes secondaires**
-- Réservation des billets pour Abidjan (du samedi 21 décembre au samedi 4 janvier) : prévue samedi 26 octobre.
+- Séjour à Abidjan du samedi 21 décembre au samedi 4 janvier : billets à réserver (prévu samedi 26 octobre) ; l'e-visa ivoirien de ce séjour est à demander, celui d'août ne valait que pour un séjour ; le traitement contre le paludisme demande une ordonnance avant le départ.
+- Ce soir, 17h00 : compte rendu du mardi de Mohamed Coulibaly.
 - Dimanche 27 octobre : séance de travail avec ton conseiller.
-- Mardi 5 novembre : décision de financement, puis réunion d'équipe à 17h30.
 - Samedi 2 novembre : taille de la haie partagée avec ton voisin.
+- Mardi 5 novembre : décision de financement, puis réunion d'équipe à 17h30.
 
 Que veux-tu faire ?
 
@@ -191,10 +188,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 0aa4126 ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 7dc983d ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche claude/vigorous-jang-66b9e5 ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 26 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 23 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

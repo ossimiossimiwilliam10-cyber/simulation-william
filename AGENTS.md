@@ -119,7 +119,7 @@ et parfois peu morale exprès : ne l'en empêche pas, joue les conséquences.
 - Quand l'utilisateur annonce une période de froid avec quelqu'un, **demande
   à chaque message reçu de cette personne s'il répond ou non**.
 - **Changement de moteur** (aucun mot-clé requis) : applique le §10.
-- **Chaque lundi simulé** (aucun mot-clé requis) : « 🔄 Revue du lundi » en début de journée (§12).
+- **Chaque premier lundi du mois simulé** (aucun mot-clé requis) : « 🔄 Revue du lundi » en début de journée (§12) *(avant : chaque lundi → maintenant : mensuelle, décision de l'utilisateur du 31/10/2026)*.
 
 ## 5. FORMAT DE CHAQUE TOUR (nouveau format, demande de l'utilisateur du 26/07/2040)
 1. Recherches web nécessaires (invisibles pour le joueur : ni sources, ni explications).
@@ -217,6 +217,7 @@ Langue : **français**.
 > (Min-ji, Hye-won, Soo-jin, Thiago Rocha, Lucas Mendes, voyage à Séoul) dans `archives/univers-3-partie-1/` et sous le tag git
 > `univers-3-partie-1` ; leurs lignes du §9 : `memoire/archive-point-de-reprise-univers-3-partie-1.md`. Tirages neufs : aucun résultat de la
 > première partie n'est rejoué. Les essais du moteur utilisent l'archive comme état d'essai (`outils/tests_moteur.py`).
+**Mardi 22 octobre 2041, 10h06 — Luxembourg-Ville, lycée, salle des professeurs : tour n° 158 joué (Kim Schmitz esquive poliment l'invitation à investir ; revue mensuelle et P60-P62 validées) ; en attente : **rien d'urgent ; compte rendu de Coulibaly à 17h00**.**
 **Mardi 22 octobre 2041, 10h01 — Luxembourg-Ville, lycée, salle des professeurs : tour n° 157 joué (Reprise après annulation du tour 156 : Kim Schmitz interroge William sur son affaire en Afrique) ; en attente : **Kim Schmitz attend la réponse de William (affaire en Afrique)**.**
 **Samedi 26 octobre 2041, 10h00 — Audun-le-Tiche (Moselle), chez William : tour n° 156 ANNULÉ à la demande du joueur le 30/10/2026 réel (archives/annule-tour-156/ ; reprise au mardi 22/10, tour n° 157) ; avant : joué (Avance jusqu'au samedi 26 octobre : choix du vol pour Abidjan ; invitation de Thiago Alves) ; en attente : **Choix du vol pour Abidjan (21/12-04/01) ; invitation de Thiago Alves (02/11)**.**
 **Dimanche 20 octobre 2041, 10h31 — Audun-le-Tiche (Moselle), chez William : tour n° 155 joué (Séjour de décembre validé ; financement tranché le 5 novembre ; billets à réserver samedi 26) ; en attente : **Rien d'urgent ; réservation des billets le 26/10 ; décision de financement le 05/11**.**
@@ -296,11 +297,11 @@ conséquences réalistes**, sans sermon et sans complaisance :
   proposer la version jouable (conséquences, réactions). Ne pas moraliser le reste du tour.
 
 ## 12. REVUE DU LUNDI (règle de l'utilisateur, 22/07/2040)
-Chaque **lundi simulé**, au début du premier tour du jour (après la synthèse de semaine écrite le dimanche), le moteur
+Chaque **premier lundi du mois simulé** (décision de l'utilisateur, 31/10/2026 : « ça me donnera davantage de matière pour améliorer » ; avant : chaque lundi ; les aléas, le message d'un proche, les nouvelles du monde, la population locale et les tirages hebdomadaires restent CHAQUE lundi), au début du premier tour du jour (après la synthèse de semaine écrite le dimanche), le moteur
 présente une **« 🔄 Revue du lundi »** pour améliorer la simulation et éviter qu'elle stagne ou régresse :
 1. **Bilan de la semaine écoulée** : ce qui était réaliste ou non, incohérences trouvées et corrigées, fils perdus, qualité
    des livrables, répétitions et tics d'écriture.
-2. **Nouvelles idées de réalisme et d'immersion** (3 à 5, **chaque semaine**, demande du 26/07/2040) : aléas (maladies, pannes, retards fournisseurs, erreurs administratives,
+2. **Nouvelles idées de réalisme et d'immersion** (3 à 5, **à chaque revue** ; avant : chaque semaine, demande du 26/07/2040) : aléas (maladies, pannes, retards fournisseurs, erreurs administratives,
    événements familiaux, météo, prix, rumeurs), vie propre des personnages, saisonnalité, évolution des relations…
    Piocher d'abord dans `etat/aleas.md` (statut « proposé »).
 3. **Décision de l'utilisateur** : il valide ; les éléments adoptés passent au statut « actif » dans `etat/aleas.md`.
@@ -328,6 +329,7 @@ présente une **« 🔄 Revue du lundi »** pour améliorer la simulation et év
 - **Commercial et réunions (P51 à P53, validées le 30/10/2026)** : `outils/prospects.py` (`etat/prospects.csv` : chaque prospect avance ou non chaque lundi selon des probabilités tirées, appelé par `lenteur.py` dès le 07/10/2041 ; un contrat ne se signe jamais par décision du moteur) ; aléa A42 (visioconférence ratée, 10 % par réunion à distance) ; réunion d'équipe mensuelle en visioconférence le premier mardi du mois à 17h30, à l'agenda.
 - **Pilotage (P54 à P56, validées le 30/10/2026)** : objectifs mensuels écrits par dirigeant, fixés par Coulibaly le premier lundi du mois et repris par la notation ; aléa A43 (voiture de William) ; trois nouvelles d'Abidjan (énergie, CIE, concurrence, économie) dans chaque séance du dimanche.
 - **Vie personnelle (P57 à P59, validées le 30/10/2026)** : une invitation tirée par mois dans l'entourage de William (collègue, club, voisin ; le premier lundi du mois, jour et expéditeur tirés) ; suivi des dépenses personnelles variables du mois avec un seuil d'alerte de 600 € (courses, sorties, imprévus ; `echeancier.py budget` et cartes) ; jauge de proximité de 0 à 100 avec chaque personne de l'entourage (`etat/proximite.csv`), mise à jour au fil des échanges. **Rythme (décision de l'utilisateur, 20/10/2041) : fin des avances hebdomadaires, retour au tour par tour.**
+- **Santé, formalités, vie sociale (P60 à P62, validées le 31/10/2026)** : carnet de santé de William (`etat/sante-carnet.csv`, rubrique « Carnet de santé » de l'application Santé : vaccins, traitement antipaludéen avant chaque séjour, médecin traitant) ; démarches de voyage suivies (`outils/demarches.py`, `etat/demarches.csv` : e-visa déposé par William, délai et « deuxième passage » tirés au dépôt, réponse cachée jusqu'au jour dit, statut visible dans l'onglet Formalités de Voyages) ; calendrier social du lycée et du club (pots, anniversaires, fêtes) tiré le premier lundi du mois avec l'invitation P57 (rituels `calendrier_social` et `invitation_mois`).
 - **Friction administrative** : jet « deuxième passage demandé » à 30 % pour toute démarche à enjeu (`etat/economie.md`).
 - **Économie moins complaisante** : `etat/economie.md` (concurrence, remises, délais de paiement, signatures lentes).
 - **Dossier des traces** : `etat/traces.md` ; y ajouter chaque écrit, signature, message ou comportement de William qui peut

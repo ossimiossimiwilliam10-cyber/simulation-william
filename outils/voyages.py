@@ -462,7 +462,7 @@ def donnees_telephone(t=None):
         m = plancher_min(d["code"])
         dests.append({"code": d["code"], "ville": d["ville"], "pays": d["pays"], "vols": vs, "hotels": hs, "retours": retours,
                       "seuils": [round(P["seuil_vert"] * m, 2), round(P["seuil_orange"] * m, 2)],
-                      "formalites": formalites(d["code"])})
+                      "formalites": formalites(d["code"]) + __import__("demarches").visibles(d["code"], t)})  # P61 (31/10/2026)
     departs = sorted({v["de"] for v in table("vols.csv")}, key=lambda c: ["LUX", "BRU", "CDG"].index(c) if c in ("LUX", "BRU", "CDG") else 9)
     return {"jour": jour.isoformat(), "horizon": P["horizon"], "sejour_max": P["sejour_max"], "duree_defaut": P["duree_defaut"],
             "duree": [[a, b, f] for a, b, f in P["duree"]], "remise": P["remise"], "aeroports": aeroports, "departs": departs,

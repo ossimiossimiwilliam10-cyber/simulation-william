@@ -28,7 +28,9 @@ RITUELS = [
     ("fiche_complete", "tous les 3 jours simulés", "Fiche complète (« Fiche complète » dans le journal) + mise à jour de tous les fichiers d'état"),
     ("synthese_semaine", "chaque dimanche soir", "memoire/semaine-AAAA-WNN.md (semaine ISO)"),
     ("t4_t5_dimanche", "chaque dimanche soir, pour chaque affaire ouverte", "python outils/savoir.py t5 (commandes T4 et T5 prêtes)"),
-    ("revue_lundi", "chaque lundi, avant le reste", "memoire/revue-lundi-AAAA-MM-JJ.md (CLAUDE.md §12)"),
+    ("revue_lundi", "le premier lundi du mois, avant le reste (chaque lundi jusqu'au 21/10/2041)", "memoire/revue-lundi-AAAA-MM-JJ.md (CLAUDE.md §12)"),
+    ("invitation_mois", "le premier lundi du mois (P57)", "jour et expéditeur d'une invitation de l'entourage, libellé « Invitation du mois AAAA-MM : … »"),
+    ("calendrier_social", "le premier lundi du mois (P62)", "pots, anniversaires, fêtes du lycée et du club, libellé « Calendrier social du mois AAAA-MM : … »"),
     ("tirage_aleas", "chaque lundi", "python outils/tirage_aleas.py AAAA-MM-JJ"),
     ("message_proche", "chaque lundi", "tirer l'expéditeur et le jour d'un message spontané d'un proche (CLAUDE.md §12), "
                                        "libellé « Message spontané d'un proche, semaine du AAAA-MM-JJ »"),
@@ -125,8 +127,14 @@ def bilan(instant=None):
     lundis = [d for d in jours_clos + [aujourd_hui] if d.weekday() == 0]
     for m in lundis:
         statut = "DÛ" if m == aujourd_hui else "EN RETARD"
-        if not (MEMOIRE / f"revue-lundi-{m:%Y-%m-%d}.md").exists():
+        mensuel = m >= dt.date(2041, 10, 28)  # 31/10/2026 (demande de l'utilisateur) : revue le premier lundi du mois seulement ; avant : chaque lundi
+        if (not mensuel or m.day <= 7) and not (MEMOIRE / f"revue-lundi-{m:%Y-%m-%d}.md").exists():
             res.append(("revue_lundi", statut, f"revue du lundi {m:%d/%m/%Y} absente", f"memoire/revue-lundi-{m:%Y-%m-%d}.md"))
+        if m >= dt.date(2041, 11, 1) and m.day <= 7:  # P57 et P62 (validées les 30 et 31/10/2026) : premier lundi du mois
+            for cle, motif in (("invitation_mois", "Invitation du mois"), ("calendrier_social", "Calendrier social du mois")):
+                if not re.search(rf"{motif}[^\n]*{m:%Y-%m}", tirages):
+                    res.append((cle, statut, f"{motif.lower()} ({m:%m/%Y}) non tiré",
+                                f'python outils/jet.py --procedure "rituel mensuel" "{motif} {m:%Y-%m} : ..." <proba>'))
         if f"Tirage de la semaine du {m:%Y-%m-%d}" not in tirages:
             res.append(("tirage_aleas", statut, f"aléas de la semaine du {m:%d/%m/%Y} non tirés",
                         f"python outils/tirage_aleas.py {m:%Y-%m-%d}"))
