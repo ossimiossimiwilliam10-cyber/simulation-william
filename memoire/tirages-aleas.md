@@ -5267,3 +5267,7 @@ Effets à jouer : A09 (dimanche 03/11 (matin)) : Correction longue, agacement ; 
 - Tirage [T15] « Club, 30/10 18h47 : William va voir Thiago au bureau, lui dit qu'il n'y a aucun souci, que si lundi il a paru sec c'est sa façon de parler, et qu'il espère se régaler samedi » : rien_laisse_passer 30 / accepte_volontiers 18 / garde_distance 14 / en_parle_a_d_autres 12 / rend_la_pareille 10 / demande_explication 8 / decline 6 / frontal_conflit 2 ; modificateurs : aucun ; jet  69.8 → **en_parle_a_d_autres** (enregistré le 01/11/2026 12:45 heure machine)
 
 - Tirage [T15] « Club, 30/10 18h46 : William, abasourdi, explique que « omnivore » voulait dire qu'il n'est pas difficile, qu'il mange de tout, de toutes les cultures (porc, poulet, végétarien), sans aucune moquerie » : rien_laisse_passer 30 / accepte_volontiers 18 / garde_distance 14 / en_parle_a_d_autres 12 / rend_la_pareille 10 / demande_explication 8 / decline 6 / frontal_conflit 2 ; modificateurs : aucun ; jet  37.6 → **accepte_volontiers** (enregistré le 01/11/2026 12:47 heure machine)
+
+- Jet « Lenny Nguyen prend le dessus sur William au sparring du 30/10 » : probabilité 45 %, jet  91.9 → **NON** [PROCÉDURE : issue du sparring (Lenny revanchard)] (enregistré le 01/11/2026 12:54 heure machine)
+
+- Tirage [T26] « Contenu du message spontané de Ruben Gomes (entraîneur de grappling) à William le 31/10 vers 09h30 » : favorable 35 / neutre 40 / defavorable 25 ; modificateurs : aucun ; jet  82.7 → **defavorable** (enregistré le 01/11/2026 12:54 heure machine)

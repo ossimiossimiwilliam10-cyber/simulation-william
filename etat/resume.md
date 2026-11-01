@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 01/11/2026 12:48 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 01/11/2026 12:54 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mercredi 30/10/2041 18:46 (luxembourg, UTC+1)
-- **Lieu de William** : Esch-sur-Alzette, Minett Combat Club
-- **Heure dans les autres lieux** : abidjan 17:46 ; lisbonne 17:46 ; mindelo 16:46 ; casablanca 18:46 ; douala 18:46 ; addis 20:46 ; manille 01:46 ; paris 18:46 ; seoul 02:46 ; bresil 14:46
+## Horloge : jeudi 31/10/2041 10:02 (luxembourg, UTC+1)
+- **Lieu de William** : Luxembourg-Ville, lycée, salle des professeurs
+- **Heure dans les autres lieux** : abidjan 09:02 ; lisbonne 09:02 ; mindelo 08:02 ; casablanca 10:02 ; douala 10:02 ; addis 12:02 ; manille 17:02 ; paris 10:02 ; seoul 18:02 ; bresil 06:02
 - **En attente de William** :
-  - Aller voir Thiago au bureau (malentendu « omnivore »)
+  - Ruben Gomes : sponsoring de 1 500 € pour l'équipe de compétition
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **5 613,13 €**
@@ -19,10 +19,9 @@
 - A168 Mon 28/10 19:00 (luxembourg) | Mariam Brou : Confirmation écrite du prix TTC de l'offre B de gardiennage [prevu]  — consigne du 27/10 transmise le 28/10 07h00
 
 ## Agenda : dans les 24 heures (2)
-- A172 Thu 31/10 08:00 (luxembourg) | conseiller → Mohamed Coulibaly : Courriel : retour de Vridi à demander, contact à garder, économies de M. Yao avant lundi, argumentaire commercial joint [prevu]  — décisions de William du 30/10 17h45
 - A170 Thu 31/10 16:00 (luxembourg) | Mohamed Coulibaly · Mariam Brou : Passation écrite de Mariam Brou (dossiers, tableau de trésorerie, originaux, lettre de résiliation du gardiennage) puis retrait de ses accès le soir [prevu]  — décision de William du 28/10
-## Agenda : de J+1 à J+7 (8)
 - A164 Thu 31/10 20:00 (luxembourg) | Viviane Tanoh · Éric Koffi Yao : Visite technique de l'entrepôt frigorifique de Port-Bouët [prevu]  — consigne du 27/10 transmise le 28/10 07h00 | reporté de 2041-10-30 18:00 : le responsable maintenance du client est en congé jusqu'au mercredi 30 (Coulibaly, 28/10 07h04 ; T7c execute_a_contrecoeur)
+## Agenda : de J+1 à J+7 (8)
 - A148 Sat 02/11 09:00 (luxembourg) | Olivier Schneider : Élagage de la haie mitoyenne par le paysagiste ; part de William : 143 € [prevu]  — accord du 20/10
 - A152 Sat 02/11 19:30 (luxembourg) | Thiago Alves : Dîner chez Thiago Alves (feijoada, gars du club, Lenny) : accepté par William le 25/10 à 21h23 [prevu]  — aléa A30 du 25/10 (invitation reçue à 21h20) ; heure indicative
 - A144 Mon 04/11 10:00 (luxembourg) | Mohamed Coulibaly : Objectifs écrits de novembre pour chaque dirigeant (P54) [prevu]  — premier lundi du mois
@@ -30,6 +29,7 @@
 - A140 Tue 05/11 17:30 (luxembourg) | William · équipe de SOLEIL B2B CI : Réunion d'équipe mensuelle en visioconférence (15h30 à Abidjan) [prevu]  — P53 (premier mardi du mois)
 - A169 Tue 05/11 17:30 (luxembourg) | William · conseiller · Coulibaly : Réunion d'équipe : réponse à la demande d'assistante (pas d'embauche avant le premier contrat, administratif repris par les pôles virtuels) [prevu]  — décision de William du 28/10 10h06
 - A167 Tue 05/11 20:00 (luxembourg) | Viviane Tanoh · Éric Koffi Yao : Devis de Port-Bouët remis au client (provisoire si les factures manquent) [prevu]  — consigne du 27/10 transmise le 28/10 07h00 | reporté de 2041-11-04 18:00 : visite technique décalée au jeudi 31 et vendredi 1er férié (Coulibaly, 28/10)
+- A158 Wed 06/11 19:00 (luxembourg) | Directeurs d'Abidjan : Premier point du soir dans Gestion (avant 18h00 heure d'Abidjan) [prevu]  — plan d'action du 26/10/2041
 (Les lignes « NON CONNU DE WILLIAM » servent au moteur : ne jamais les montrer au joueur avant le jour dit.)
 
 ## Affaires ouvertes (T4/T5 chaque dimanche soir)
@@ -47,10 +47,8 @@
 - Pendant : réactions et négociations par `jet.py --table Tn` (T1 à T14 ; `--pour` pour un personnage) ; personnages nouveaux par `personnage.py nouveau` ; faits et prix par `faits.py` et `prix.py` ; lieux par `lieux.py voir` ; révélations dans `savoir.py ajouter` ; argent dans `grand_livre.py ajouter`.
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
-## Fin du dernier journal (2041-10-30.md, 6 dernières lignes)
-> - **18h44-18h45** (tour n° 185) : 18h45 — William rassure Lenny ; T15 Lenny demande_explication : il demande le sens de « un vrai omnivore » ; arrêt avant la démarche vers Thiago (T15 de Thiago déjà tiré pour cette démarche : en_parle_a_d_autres, à appliquer quand William ira le voir).
-> - Tirages du tour : T15 Lenny → demande_explication (86,15) ; T15 Thiago → en_parle_a_d_autres (69,78).
-> - Tour en cours à 18h45, en attente de William : **Lenny : ce que William voulait dire par « un vrai omnivore »**.
-> - **18h45-18h46** (tour n° 186) : 18h46 — William explique « omnivore » à Lenny ; T15 accepte_volontiers : Lenny rassuré, lui conseille de le dire tel quel à Thiago.
-> - Tirages du tour : T15 Lenny → demande_explication (86,15) ; T15 Thiago → en_parle_a_d_autres (69,78) ; T15 Lenny → accepte_volontiers (37,61).
-> - Tour en cours à 18h46, en attente de William : **Aller voir Thiago au bureau (malentendu « omnivore »)**.
+## Fin du dernier journal (2041-10-31.md, 6 dernières lignes)
+> # Jeudi 31 octobre 2041 — univers 3, 108e jour
+> - **00h00-10h02** (tour n° 187) : 10h02 — Thiago : malentendu réglé (T15 en_parle_a_d_autres : il raconte l'histoire au coach de boxe). Sparring avec Lenny (issue tirée : William garde l'avantage). Nuit 22h30-06h10. Courriel du conseiller à Coulibaly (A172). Message spontané du proche de la semaine : Ruben Gomes entre en scène (figurant), T26 défavorable : demande de sponsoring de 1 500 €.
+> - Tirages du tour : jet « Lenny Nguyen prend le dessus sur William au sparring du 30/1 » → NON (91,89) ; T26 → defavorable (82,74).
+> - Tour en cours à 10h02, en attente de William : **Ruben Gomes : sponsoring de 1 500 € pour l'équipe de compétition**.

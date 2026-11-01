@@ -189,7 +189,7 @@ Direct, structuré, sobre. Pas de flatterie ni d'encouragements.
 Langue : **français**.
 
 ## 9. POINT DE REPRISE
-**(Compression du §9, 28/10/2041)** Le journal détaillé des tours précédents est archivé tel quel dans `memoire/archive-point-de-reprise-2041-10-28.md` ; ce §9 ne garde que l'introduction et les 8 entrées les plus récentes. État courant : `python outils/resume_etat.py` (écrit `etat/resume.md`), `etat/horloge.txt`, `etat/fils-ouverts.md`, `etat/agenda.csv`. À chaque tour : ajouter l'entrée EN TÊTE de ce §9 ; au-delà de 12 entrées : `python outils/archiver_point_de_reprise.py --garder 8 --ecrire`.**
+**(Compression du §9, 31/10/2041)** Le journal détaillé des tours précédents est archivé tel quel dans `memoire/archive-point-de-reprise-2041-10-31.md` ; ce §9 ne garde que l'introduction et les 8 entrées les plus récentes. État courant : `python outils/resume_etat.py` (écrit `etat/resume.md`), `etat/horloge.txt`, `etat/fils-ouverts.md`, `etat/agenda.csv`. À chaque tour : ajouter l'entrée EN TÊTE de ce §9 ; au-delà de 12 entrées : `python outils/archiver_point_de_reprise.py --garder 8 --ecrire`.**
 **(Compression du §9, 17/07/2040)** Le journal détaillé des tours précédents est archivé tel quel dans `memoire/archive-point-de-reprise-2040-07-17.md` ; ce §9 ne garde que l'introduction et les 8 entrées les plus récentes. État courant : `python outils/resume_etat.py` (écrit `etat/resume.md`), `etat/horloge.txt`, `etat/fils-ouverts.md`, `etat/agenda.csv`. À chaque tour : ajouter l'entrée EN TÊTE de ce §9 ; au-delà de 12 entrées : `python outils/archiver_point_de_reprise.py --garder 8 --ecrire`.**
 > **Règle du §9 (09/08/2040)** : une entrée par tour, EN TÊTE, juste sous cette introduction (une entrée = un paragraphe qui
 > commence par « ** ») ; jamais l'état complet (il est dans `etat/resume.md` : `python outils/resume_etat.py`, `etat/horloge.txt`,
@@ -217,18 +217,13 @@ Langue : **français**.
 > (Min-ji, Hye-won, Soo-jin, Thiago Rocha, Lucas Mendes, voyage à Séoul) dans `archives/univers-3-partie-1/` et sous le tag git
 > `univers-3-partie-1` ; leurs lignes du §9 : `memoire/archive-point-de-reprise-univers-3-partie-1.md`. Tirages neufs : aucun résultat de la
 > première partie n'est rejoué. Les essais du moteur utilisent l'archive comme état d'essai (`outils/tests_moteur.py`).
+**Jeudi 31 octobre 2041, 10h02 — Luxembourg-Ville, lycée, salle des professeurs : tour n° 187 joué (Malentendu réglé avec Thiago ; Ruben Gomes demande 1 500 € de sponsoring) ; en attente : **Ruben Gomes : sponsoring de 1 500 € pour l'équipe de compétition**.**
 **Mercredi 30 octobre 2041, 18h46 — Esch-sur-Alzette, Minett Combat Club : tour n° 186 joué (Lenny comprend le malentendu et pousse William à aller voir Thiago) ; en attente : **Aller voir Thiago au bureau (malentendu « omnivore »)**.**
 **Mercredi 30 octobre 2041, 18h45 — Esch-sur-Alzette, Minett Combat Club : tour n° 185 joué (Lenny demande à William ce qu'il voulait dire par « un vrai omnivore ») ; en attente : **Lenny : ce que William voulait dire par « un vrai omnivore »**.**
 **Mercredi 30 octobre 2041, 18h44 — Esch-sur-Alzette, Minett Combat Club : tour n° 184 joué (Argumentaire commercial produit ; au club, Lenny rapporte un malaise de Thiago) ; en attente : **Lenny : Thiago trouve que William a été sec lundi**.**
 **Mercredi 30 octobre 2041, 17h40 — Audun-le-Tiche (Moselle), chez William : tour n° 183 joué (Vridi choisit Lagune Kilowatt ; le conseiller propose de ne pas suivre sur le prix) ; en attente : **rien à trancher ; Vridi perdu, débrief dimanche et le 05/11**.**
 **Lundi 28 octobre 2041, 20h15 — Audun-le-Tiche (Moselle), chez William : tour n° 182 joué (William répond à Thiago ; fin de la séance et retour à la maison) ; en attente : **rien d'urgent**.**
 **Lundi 28 octobre 2041, 18h47 — Esch-sur-Alzette, Minett Combat Club : tour n° 181 joué (Au club, Thiago Alves demande ce que William ne mange pas) ; en attente : **Thiago Alves : ce que William ne mange pas (feijoada de samedi)**.**
-**Lundi 28 octobre 2041, 17h10 — Audun-le-Tiche (Moselle), chez William : tour n° 180 joué (Départ de Mariam Brou : pôle automatisé, double validation, point quotidien avec Coulibaly) ; en attente : **rien d'urgent ; club ce soir**.**
-**Lundi 28 octobre 2041, 16h37 — Audun-le-Tiche (Moselle), chez William : tour n° 179 joué (Le conseiller mesure le départ de Mariam Brou et propose quatre mesures) ; en attente : **Coulibaly : départ de Mariam Brou ; conseiller : accord sur ses quatre points**.**
-**Lundi 28 octobre 2041, 16h24 — Audun-le-Tiche (Moselle), chez William : tour n° 178 joué (Mariam Brou quitte la société en période d'essai) ; en attente : **Coulibaly : démission de Mariam Brou en période d'essai, comment procéder**.**
-**Lundi 28 octobre 2041, 10h03 — Luxembourg-Ville, lycée, salle des professeurs : tour n° 177 joué (Coulibaly répond : visite de Port-Bouët décalée, demande d'une assistante) ; en attente : **rien à trancher ; demande d'assistante de Coulibaly à traiter le 05/11**.**
-**Dimanche 27 octobre 2041, 09h52 — Audun-le-Tiche (Moselle), chez William : tour n° 176 joué (Idée du dépannage 24 h/24 ; question à Coulibaly sur sa charge, envoyée lundi) ; en attente : **rien d'urgent ; courriel à Coulibaly lundi 08h00 (Luxembourg)**.**
-**Dimanche 27 octobre 2041, 09h31 — Audun-le-Tiche (Moselle), chez William : tour n° 175 joué (Séance du 27 : devis de Port-Bouët exigé, gardiennage B, consignes pour lundi) ; en attente : **rien d'urgent ; consignes envoyées à Coulibaly demain 07h00 Abidjan**.**
 
 ## 10. PROTOCOLE DE RELAIS (Claude, Gemini, Codex et tout autre agent)
 L'utilisateur alterne entre Claude, Gemini (Antigravity) et d'autres agents selon ses crédits ; il exige une transition 100 %

@@ -1,56 +1,61 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 01/11/2026 12:48 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 01/11/2026 12:55 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : mercredi 30 octobre 2041, 18h46 (luxembourg) ; tour n° 186
-- Lieu de William : Esch-sur-Alzette, Minett Combat Club
-- En attente de William : Aller voir Thiago au bureau (malentendu « omnivore »)
+- Horloge : jeudi 31 octobre 2041, 10h02 (luxembourg) ; tour n° 187
+- Lieu de William : Luxembourg-Ville, lycée, salle des professeurs
+- En attente de William : Ruben Gomes : sponsoring de 1 500 € pour l'équipe de compétition
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 186 ; horloge 30/10/2041 18:45 -> 30/10/2041 18:46 ; enregistré le 01/11/2026 12:48 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 187 ; horloge 30/10/2041 18:46 -> 31/10/2041 10:02 ; enregistré le 01/11/2026 12:54 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Et là, je suis en mode abasourdi et je me rends compte en fait de la gaffe. Quand j'ai dit omnivore, c'était dans le sens où je ne suis pas difficile à table. [...] je mange du porc, je mange du poulet, tout ce que tu veux, même végétarien, je suis prêt à manger en fait.
+> Je pars régler ce différend avec Thiago et je lui dis mot pour mot ce que j'ai dit à Lenny. Et Go
 
 ## Texte envoyé au joueur
 
-**MERCREDI 30 OCTOBRE 2041 — 18h46 — Esch-sur-Alzette, Minett Combat Club**
+**JEUDI 31 OCTOBRE 2041 — 10h02 — Luxembourg-Ville, lycée, salle des professeurs**
 
-Tu restes abasourdi une seconde, puis la gaffe t'apparaît. Tu lui expliques : quand tu as dit « omnivore », c'était pour dire que tu n'es pas difficile à table. Que tu manges de tout, de toutes les cultures, que tu acceptes n'importe quel plat avec plaisir : du porc, du poulet, tout ce qu'on veut, même végétarien. Aucune moquerie, rien de ce genre.
+Tu traverses la salle et tu frappes à la vitre du bureau. Thiago lève les yeux, un peu raide. Tu lui dis mot pour mot ce que tu as dit à Lenny : quand tu as dit « omnivore », c'était pour dire que tu n'es pas difficile à table, que tu manges de tout, de toutes les cultures, que tu acceptes n'importe quel plat avec plaisir, le porc, le poulet, même végétarien ; aucune moquerie, rien de ce genre.
 
-Lenny éclate de rire, soulagé pour de bon cette fois, et te tape l'épaule. « Ah, mais c'est ça ! Je me disais aussi. » Il secoue la tête. « Lui, il a entendu "un vrai omnivore" comme "même ton truc, je le mangerai". Il est susceptible avec sa cuisine, c'est sa mère qui lui a appris la feijoada. » Il désigne le bureau du menton. « Va lui dire exactement ça, comme tu viens de me le dire. Il va te prendre dans ses bras, tu vas voir. Moi je me change, et après je te fais payer les huit rounds de vendredi. »
+Il te regarde par-dessus ses lunettes, puis son visage se défait d'un coup et il éclate de rire, un rire qui lui fait porter la main au bas du dos. « Ah, putz… Moi j'ai compris que tu disais que tu mangerais même ma cuisine, tu vois, comme un sacrifice. » Il se lève, contourne le bureau et te donne une accolade franche, deux tapes dans le dos. « Desculpa, mano. Je suis trop susceptible avec ma feijoada. Samedi, tu vas voir, tu vas en reprendre trois fois. » Quand tu ressors, il est déjà en train de raconter l'histoire au coach de boxe qui passe la tête dans l'encadrement, et ils rient tous les deux.
 
-Il file vers les vestiaires. Au fond de la salle, derrière la vitre, Thiago tourne une page de son classeur, la ceinture lombaire toujours autour de la taille.
+Lenny t'attend sur le tapis. Il est venu pour se venger de vendredi et il essaie pendant six rounds, mais il a les jambes d'une journée de chantier : tu tiens le centre, tu le travailles au corps, et il finit à genoux au dernier gong, en jurant qu'il a « juste mal dormi ». Gainage, douche, route du retour sous un ciel étoilé et froid, une assiette de pâtes. Tu dors bien.
 
-Il est 18h46.
+Jeudi, dernier jour de cours avant la Toussaint. La salle des professeurs a des airs de veille de vacances : des boîtes de chocolats ouvertes sur la grande table, quelqu'un qui distribue des photocopies de planning pour la rentrée du 11, des conversations sur les départs en voyage. À la pause, tu sors ton téléphone. Un message arrivé à 09h31, d'un numéro que tu as enregistré au club sans jamais t'en servir : Ruben Gomes, l'entraîneur de grappling.
+
+« Salut William, c'est Ruben, du grappling. On m'a dit que tu avais monté une grosse boîte en Afrique, bravo 👏 Du coup je me permets : pour l'équipe de compétition, on cherche un sponsor pour les nouveaux kimonos et les maillots, il nous manque 1 500 €. Ton logo serait dessus, évidemment. Tu nous aides ? Les autres membres ont déjà tous mis quelque chose. »
+
+Il est 10h02.
 
 ---
 
 **Réponses attendues**
-- **Thiago Alves** : il est seul dans le bureau vitré ; tu as annoncé à Lenny que tu allais le voir pour régler le malentendu.
+- **Ruben Gomes** (entraîneur de grappling du club) : il te demande de sponsoriser l'équipe de compétition à hauteur de 1 500 € (kimonos et maillots), avec ton logo dessus.
 
 **À faire / à fournir avant le tour suivant**
 - Rien d'urgent.
 
 **Quêtes secondaires**
-- Ce soir : sparring avec Lenny après ton passage au bureau.
-- Jeudi 31 octobre : passation de Mariam Brou à 15h (Abidjan) ; visite technique de Port-Bouët.
+- Aujourd'hui : passation de Mariam Brou à 15h (Abidjan) ; visite technique de Port-Bouët.
+- Vendredi 1er novembre : Toussaint, férié.
 - Samedi 2 novembre : taille de la haie le matin ; dîner chez Thiago Alves à 19h30.
+- Mardi 5 novembre : devis de Port-Bouët au client ; réunion d'équipe à 17h30.
 
 Que veux-tu faire ?
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
 - ⚠ 1 échéance(s) échue(s) non close(s) (règle 14)
 - A168 Mon 28/10 19:00 (luxembourg) | Mariam Brou : Confirmation écrite du prix TTC de l'offre B de gardiennage [prevu]  — consigne du 27/10 transmise le 28/10 07h00
-- A172 Thu 31/10 08:00 (luxembourg) | conseiller → Mohamed Coulibaly : Courriel : retour de Vridi à demander, contact à garder, économies de M. Yao avant lundi, argumentaire commercial joint [prevu]  — décisions de William du 30/10 17h45
 - A170 Thu 31/10 16:00 (luxembourg) | Mohamed Coulibaly · Mariam Brou : Passation écrite de Mariam Brou (dossiers, tableau de trésorerie, originaux, lettre de résiliation du gardiennage) puis retrait de ses accès le soir [prevu]  — décision de William du 28/10
+- A164 Thu 31/10 20:00 (luxembourg) | Viviane Tanoh · Éric Koffi Yao : Visite technique de l'entrepôt frigorifique de Port-Bouët [prevu]  — consigne du 27/10 transmise le 28/10 07h00 | reporté de 2041-10-30 18:00 : le responsable maintenance du client est en congé jusqu'au mercredi 30 (Coulibaly, 28/10 07h04 ; T7c execute_a_contrecoeur)
 
 ## Rituels du moteur dus (rituels.py)
 - [EN RETARD] fiche_courte : journal du 27/10/2041 sans fiche courte -> compléter journal/2041-10-27.md
@@ -188,10 +193,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : a92686e ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 4f0b5c5 ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche claude/vigorous-jang-66b9e5 ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 10 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 22 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

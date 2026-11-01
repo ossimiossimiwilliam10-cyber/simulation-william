@@ -51,6 +51,13 @@
 - **Horaires** : règle « enseignant », fuseau luxembourg, décalage +24 min ; travail 08:24-16:24 (lun, mar, mer, jeu, ven), trajet 45 min ; sommeil 23:24-06:54
 - **Derniers événements** : 01/10 avancee_objectif (somme reçue, économisée ou investie pour son objectif : changer de métier); 12/10 avancee_objectif (démarche pour son objectif : changer de métier); 18/10 petit_evenement (croisement, visite ou conversation de voisinage); 21/10 sans_histoire; 01/11 petit_evenement (bus en retard)
 
+### Ruben Gomes (entraîneur de grappling)
+- **Lien avec William** : contact_recent (whatsapp)
+- **Objectif** : obtenir une promotion ou un poste plus stable ; **souci** : mal de dos chronique ; **foyer** : en couple, avec enfants
+- **Secret (moteur seulement)** : prend des antidépresseurs (gravité 1)
+- **Horaires** : règle « bureau », fuseau luxembourg, décalage -15 min ; travail 08:45-17:15 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:15-06:45
+- **Derniers événements** : 30/09 petit_evenement (dépense imprévue (frais de scolarité)); 13/10 sans_histoire; 20/10 petit_evenement (service rendu ou reçu); 22/10 sans_histoire; 30/10 sans_histoire
+
 ### Thiago Alves (coach de musculation du club)
 - **Lien avec William** : contact_recent (whatsapp)
 - **Objectif** : voyager loin une fois dans sa vie ; **souci** : mal de dos chronique ; **foyer** : parent isolé
