@@ -1,61 +1,80 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 01/11/2026 11:05 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 01/11/2026 11:15 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : samedi 26 octobre 2041, 08h35 (luxembourg) ; tour n° 171
+- Horloge : samedi 26 octobre 2041, 09h16 (luxembourg) ; tour n° 172
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Conseiller : William doit exposer son nouveau système
+- En attente de William : Conseiller : dispositif de suivi, qui l'annonce, demande écrite à Éric Koffi Yao
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 171 ; horloge 25/10/2041 21:54 -> 26/10/2041 08:35 ; enregistré le 01/11/2026 11:05 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 172 ; horloge 26/10/2041 08:35 -> 26/10/2041 09:16 ; enregistré le 01/11/2026 11:15 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je décide de suivre les directives de mon conseiller. Et du coup, je me couche pour me réveiller dès demain matin et me mettre de nouveau au boulot avec lui. Parce que j'ai envie de mettre en place un tout nouveau système.
+> Durant du coup toute la journée de samedi [...] je vais passer la journée à améliorer davantage le moteur [...] souscrire pour des agents IA dernier cri [...] comment faire pour améliorer ma note de dirigeant [...] un système qui va vraiment suivre ce que font les équipes en Côte d'Ivoire au jour le jour [...] le directeur technique. On avait demandé une équipe, aujourd'hui toujours rien.
 
 ## Texte envoyé au joueur
 
-**SAMEDI 26 OCTOBRE 2041 — 08h35 — Audun-le-Tiche (Moselle), chez toi, cuisine**
+**SAMEDI 26 OCTOBRE 2041 — 09h16 — Audun-le-Tiche (Moselle), chez toi, cuisine**
 
-Tu écris à ton conseiller que tu suis ses directives : plafond de 165 000 € nets, et oui au premier versement de survie début décembre ; vous vous y remettez demain matin, tu veux mettre en place un tout nouveau système.
+Tu commences par l'outil. Dans les réglages de Gestion, tu passes la clé d'API sur l'abonnement professionnel de l'éditeur, celui qui donne accès aux modèles de dernière génération : 150 € par mois, payés sur ta Visa Premier, renouvelés le 26 de chaque mois. La consommation reste plafonnée à 1 000 € par mois ; ce mois-ci, elle n'en a pas atteint 60. L'écran de l'application se recharge, les six pôles se reconnectent un par un.
 
-La réponse arrive deux minutes plus tard : « Noté. La règle est écrite : plafond 165 000 € nets, survie au fil du besoin (premier versement début décembre, environ 25 000 €), argent du contrat seulement avec contrat signé, acompte encaissé et demande déposée à la SGCI, date butoir le 31 mars. Je l'inscris dans Gestion et je préviens Coulibaly lundi que le financement jusqu'à Pâques est assuré, sans chiffres. Ton évaluation est mise à jour. À demain. »
+À 09h05, tu écris à ton conseiller : tu viens de passer sur les nouveaux modèles, et tu as trois choses. Comment améliorer ta note de dirigeant, quelles directives suivre, surtout en finance et en stratégie, là où tu pèches. Un système qui suive vraiment, au jour le jour, ce que font les équipes en Côte d'Ivoire, pas seulement à travers Coulibaly, parce que tu as l'impression qu'ils se prélassent pas mal. Et le directeur technique : on lui avait demandé une équipe, et à ce jour toujours rien, rien à proposer.
 
-Dans Gestion, ta fiche est passée à 71 sur 100 : 79 en gouvernance, 69 en finances, 66 en stratégie. Deux lignes en dessous : le motif inventé donné à Coulibaly pour décembre, « une version à tenir dans la durée », et le rappel qu'aucun client n'est signé.
+À 09h12, le téléphone vibre : Thiago. « Top 🙌 Samedi 19h30 alors, je t'envoie l'adresse dans la semaine. Ramène juste ton appétit 😄 »
 
-Tu te couches vers 22h15. Le sommeil ne vient pas : chez le voisin de droite, la musique monte d'un cran, des voix et des rires éclatent sur sa terrasse, des bouteilles qui s'entrechoquent, quelqu'un qui chante faux en luxembourgeois. Les basses traversent le mur mitoyen jusque dans ton oreiller. Vers une heure, d'un coup, plus rien : des portières, une voiture qui démarre, puis le silence. Tu t'endors enfin.
+À 09h16, la réponse du conseiller, la plus longue qu'il t'ait écrite depuis des semaines :
 
-Le réveil, tu l'as laissé éteint. Tu ouvres les yeux à 07h50, la tête un peu lourde. Dehors, une pluie fine et grise colle aux vitres, le genre de ciel bas qui ne se lèvera pas de la journée. Douche, un grand café, trois œufs brouillés. À 08h35, tu es installé à la table de la cuisine, l'ordinateur ouvert à côté du téléphone, le carnet à spirale où tu notes tes idées posé à droite, et la conversation avec ton conseiller ouverte à l'écran, le curseur qui clignote.
+« Abonnement bien activé, je tourne désormais sur les nouveaux modèles. Je reprends tes trois points.
 
-Il est 08h35.
+1. Ta note de dirigeant
+Ce qui pèse le plus, et de loin : le premier contrat signé. Aucune règle ne remplace ça. Pour le reste :
+En finance (69) :
+- Respecter la règle de financement à la lettre : aucune vente d'ETF hors des déclencheurs écrits hier.
+- Un tableau de trésorerie sur treize semaines, mis à jour chaque dimanche avec Mariam Brou.
+- Aucune dépense nouvelle sans lien avec un client avant le premier contrat.
+- Demander l'avance sur marché à la SGCI avant de toucher à l'ETF pour un chantier.
+En stratégie (66) :
+- Une seule priorité jusqu'au 31 mars : signer. Vridi, Port-Bouët et les quatre rendez-vous de novembre passent avant tout le reste, toi compris.
+- Trancher le modèle de l'équipe technique (voir le point 3) : c'est la décision de stratégie que tu repousses.
+- Un plan B écrit pour le 31 mars : ce qu'on coupe, dans quel ordre, si rien n'est signé.
+Une remarque : le motif inventé donné à Coulibaly pour décembre est noté. Ce n'est pas grave tant qu'il tient ; ça le devient s'il se découvre.
 
----
+2. Suivre les équipes au jour le jour
+Avant le dispositif, les faits, pour ne pas partir sur une impression :
+- Commercial : en trois semaines, quatre rendez-vous obtenus, un rendez-vous tenu à Port-Bouët et une offre remise à Vridi. Ce n'est pas une équipe qui se prélasse.
+- Finance : la synthèse du gardiennage de Mariam Brou est arrivée jeudi, à l'heure cette fois. Je te la présente demain.
+- Coulibaly : ses deux comptes rendus de la semaine sont arrivés à l'heure.
+- Technique : c'est là que ça bloque (point 3).
+Ce que je propose :
+- Un point du soir de chaque directeur, cinq lignes dans Gestion avant 18h00 (heure d'Abidjan) : ce que j'ai fait, qui j'ai vu, ce qui est prévu demain, ce qui bloque. Je les lis, je te fais une synthèse seulement s'il y a un écart.
+- Le tableau des prospects mis à jour par Mme Tanoh à chaque contact, contrôlé par le pôle commercial.
+- Un agenda partagé de tous les rendez-vous clients.
+- Une visioconférence de vingt minutes toutes les deux semaines avec chaque directeur, toi et moi. Coulibaly est prévenu et invité s'il le veut : on ne passe pas dans son dos.
+Ce que je déconseille : la géolocalisation des téléphones ou un contrôle biométrique. En Côte d'Ivoire, tout système de surveillance des salariés doit être déclaré à l'ARTCI ou autorisé par elle, et l'ARTCI a déjà mis en demeure des entreprises pour des contrôles jugés abusifs. Et pour une équipe de quatre cadres, dont trois en période d'essai, l'effet sur le moral coûterait plus cher que ce qu'on apprendrait.
+Le dispositif doit être annoncé comme la règle de la maison pour tous, Coulibaly compris, pas comme une sanction.
 
-**Réponses attendues**
-- **Ton conseiller** : prêt à travailler avec toi ce matin ; il attend que tu lui exposes le nouveau système que tu veux mettre en place.
+3. Le directeur technique
+Les faits : les entretiens pour les niveaux 3 et 4 (chefs d'équipe et techniciens) ont été reportés à octobre, à l'arrivée de M. Yao. Depuis le 1er octobre, aucune proposition d'équipe. Et l'enveloppe d'approvisionnement validée le 6 octobre n'a encore donné aucun fournisseur de panneaux référencé. À son crédit : le chiffrage de Vridi, la pose des climatiseurs, la visite de Port-Bouët.
+Embaucher une équipe de pose maintenant, sans contrat, serait une erreur : six salaires de plus pour attendre. Ce qu'il faut exiger de lui, par écrit, avec une date :
+- un vivier prêt à mobiliser : deux chefs d'équipe et six techniciens identifiés, avec leurs tarifs à la journée, sans embauche ;
+- l'option de la sous-traitance de la pose, chiffrée, pour comparer ;
+- trois fournisseurs référencés (panneaux, onduleurs, structures), avec un devis chacun.
+Je propose le vendredi 8 novembre comme date limite.
 
-**À faire / à fournir avant le tour suivant**
-- Rien d'urgent.
-
-**Quêtes secondaires**
-- Thiago Alves : il n'a pas encore répondu à ton oui pour le dîner du samedi 2 novembre.
-- Vers le 1er novembre : réponse de l'industriel de Vridi à l'offre de 90 millions de FCFA.
-- Demain, dimanche 27 octobre : séance de travail avec ton conseiller.
-- Samedi 2 novembre, 09h00 : taille de la haie partagée avec ton voisin de gauche ; début des vacances de la Toussaint (jusqu'au dimanche 10 novembre).
-- Lundi 2 décembre : premier versement de survie à la société (environ 25 000 € nets tirés de l'ETF).
-
-Que veux-tu faire ?
+À toi de trancher :
+a) Le dispositif de suivi : oui, non, ou modifié ?
+b) Qui l'annonce : Coulibaly dès lundi, ou toi à la réunion du 5 novembre ?
+… (suite dans etat/dernier-tour.md, 82 lignes)
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
-- ⚠ 1 échéance(s) échue(s) non close(s) (règle 14)
-- A143 Thu 24/10 19:00 (luxembourg) | Mariam Brou : Synthèse des trois offres de gardiennage (report du 20/10) [prevu]  — T18 report_excuse ; contrat du bailleur jusqu'au 31/10
-- A153 Sat 26/10 09:12 (luxembourg) | Thiago Alves : Répond au oui de William (adresse et heure du dîner du 2/11) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — T10 dans_la_journee (tiré le 25/10), décalé au réveil (routines)
+- rien
 
 ## Rituels du moteur dus (rituels.py)
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_annonce : T4/T5 du dimanche 25/08 non trouvés -> python outils/savoir.py t5
@@ -191,10 +210,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 005b952 ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 14b3171 ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche claude/vigorous-jang-66b9e5 ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 16 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 18 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

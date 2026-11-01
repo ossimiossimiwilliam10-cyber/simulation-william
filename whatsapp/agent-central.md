@@ -908,3 +908,45 @@ Pas de contrat, pas de versement.
 Ce que je te demande de trancher, dimanche ou au plus tard le 5 novembre : le plafond (165 000 €, ou moins), et le premier versement de survie début décembre, oui ou non.
 **[25/10/2041 - 22:00 (Luxembourg)] William :** Je suis tes directives : plafond 165 000 € nets, et oui au premier versement de survie début décembre. On s'y remet demain matin : je veux mettre en place un tout nouveau système.
 **[25/10/2041 - 22:02 (Luxembourg)] Agent central :** Noté. La règle est écrite : plafond 165 000 € nets, survie au fil du besoin (premier versement début décembre, environ 25 000 €), argent du contrat seulement avec contrat signé, acompte encaissé et demande déposée à la SGCI, date butoir le 31 mars. Je l'inscris dans Gestion et je préviens Coulibaly lundi que le financement jusqu'à Pâques est assuré, sans chiffres. Ton évaluation est mise à jour. À demain.
+**[26/10/2041 - 09:05 (Luxembourg)] William :** Je viens de passer l'application sur l'abonnement professionnel aux modèles de dernière génération. Trois choses. 1) Comment j'améliore ma note de dirigeant ? Quelles directives je dois suivre, surtout en finance et en stratégie, là où je pèche ? 2) Il faut un système qui suive vraiment, au jour le jour, ce que font les équipes en Côte d'Ivoire, pas seulement à travers Coulibaly. J'ai l'impression qu'ils se prélassent pas mal. 3) Le directeur technique : on lui avait demandé une équipe, à ce jour toujours rien, et il n'a rien à proposer.
+**[26/10/2041 - 09:16 (Luxembourg)] Agent central :** Abonnement bien activé, je tourne désormais sur les nouveaux modèles. Je reprends tes trois points.
+
+1. Ta note de dirigeant
+Ce qui pèse le plus, et de loin : le premier contrat signé. Aucune règle ne remplace ça. Pour le reste :
+En finance (69) :
+- Respecter la règle de financement à la lettre : aucune vente d'ETF hors des déclencheurs écrits hier.
+- Un tableau de trésorerie sur treize semaines, mis à jour chaque dimanche avec Mariam Brou.
+- Aucune dépense nouvelle sans lien avec un client avant le premier contrat.
+- Demander l'avance sur marché à la SGCI avant de toucher à l'ETF pour un chantier.
+En stratégie (66) :
+- Une seule priorité jusqu'au 31 mars : signer. Vridi, Port-Bouët et les quatre rendez-vous de novembre passent avant tout le reste, toi compris.
+- Trancher le modèle de l'équipe technique (voir le point 3) : c'est la décision de stratégie que tu repousses.
+- Un plan B écrit pour le 31 mars : ce qu'on coupe, dans quel ordre, si rien n'est signé.
+Une remarque : le motif inventé donné à Coulibaly pour décembre est noté. Ce n'est pas grave tant qu'il tient ; ça le devient s'il se découvre.
+
+2. Suivre les équipes au jour le jour
+Avant le dispositif, les faits, pour ne pas partir sur une impression :
+- Commercial : en trois semaines, quatre rendez-vous obtenus, un rendez-vous tenu à Port-Bouët et une offre remise à Vridi. Ce n'est pas une équipe qui se prélasse.
+- Finance : la synthèse du gardiennage de Mariam Brou est arrivée jeudi, à l'heure cette fois. Je te la présente demain.
+- Coulibaly : ses deux comptes rendus de la semaine sont arrivés à l'heure.
+- Technique : c'est là que ça bloque (point 3).
+Ce que je propose :
+- Un point du soir de chaque directeur, cinq lignes dans Gestion avant 18h00 (heure d'Abidjan) : ce que j'ai fait, qui j'ai vu, ce qui est prévu demain, ce qui bloque. Je les lis, je te fais une synthèse seulement s'il y a un écart.
+- Le tableau des prospects mis à jour par Mme Tanoh à chaque contact, contrôlé par le pôle commercial.
+- Un agenda partagé de tous les rendez-vous clients.
+- Une visioconférence de vingt minutes toutes les deux semaines avec chaque directeur, toi et moi. Coulibaly est prévenu et invité s'il le veut : on ne passe pas dans son dos.
+Ce que je déconseille : la géolocalisation des téléphones ou un contrôle biométrique. En Côte d'Ivoire, tout système de surveillance des salariés doit être déclaré à l'ARTCI ou autorisé par elle, et l'ARTCI a déjà mis en demeure des entreprises pour des contrôles jugés abusifs. Et pour une équipe de quatre cadres, dont trois en période d'essai, l'effet sur le moral coûterait plus cher que ce qu'on apprendrait.
+Le dispositif doit être annoncé comme la règle de la maison pour tous, Coulibaly compris, pas comme une sanction.
+
+3. Le directeur technique
+Les faits : les entretiens pour les niveaux 3 et 4 (chefs d'équipe et techniciens) ont été reportés à octobre, à l'arrivée de M. Yao. Depuis le 1er octobre, aucune proposition d'équipe. Et l'enveloppe d'approvisionnement validée le 6 octobre n'a encore donné aucun fournisseur de panneaux référencé. À son crédit : le chiffrage de Vridi, la pose des climatiseurs, la visite de Port-Bouët.
+Embaucher une équipe de pose maintenant, sans contrat, serait une erreur : six salaires de plus pour attendre. Ce qu'il faut exiger de lui, par écrit, avec une date :
+- un vivier prêt à mobiliser : deux chefs d'équipe et six techniciens identifiés, avec leurs tarifs à la journée, sans embauche ;
+- l'option de la sous-traitance de la pose, chiffrée, pour comparer ;
+- trois fournisseurs référencés (panneaux, onduleurs, structures), avec un devis chacun.
+Je propose le vendredi 8 novembre comme date limite.
+
+À toi de trancher :
+a) Le dispositif de suivi : oui, non, ou modifié ?
+b) Qui l'annonce : Coulibaly dès lundi, ou toi à la réunion du 5 novembre ?
+c) La demande écrite à M. Yao, avec la date du 8 novembre : je l'envoie lundi par Coulibaly, ou directement ?
