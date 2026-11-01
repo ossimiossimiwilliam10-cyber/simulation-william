@@ -86,3 +86,5 @@
 | 23/10/2041 20h51 | Message WhatsApp à Mohamed Coulibaly : « Ça me va, mardi 10 décembre à 17h30. Prévenez Mme Tanoh. » | conversation WhatsApp | Mohamed Coulibaly (captures possibles) | faible |
 | 23/10/2041 20h53 | Message WhatsApp à Agent central : « Où en est-on côté clients en ce moment ? Qu'est-ce que ça peut nous rapporter, potentiellement ? Est-ce qu'on a déjà des données là-dessus ? » | conversation WhatsApp | Agent central (captures possibles) | faible |
 | 2041-10-25 17:00 | Formulaire de contrôle de résidence de la CPAM de la Moselle signé par William, avec sa facture de gaz | courrier postal | CPAM de la Moselle | faible |
+| 25/10/2041 21h23 | Message WhatsApp à Thiago Alves : « J'y serai avec grand plaisir ! » | conversation WhatsApp | Thiago Alves (captures possibles) | faible |
+| 25/10/2041 21h30 | Message WhatsApp à Agent central : « Ce week-end, samedi et dimanche, je bosse sur la mini-crise : pas encore de clients, des dépenses qui tombent. Je réfléchis de plus en plus à toucher à mon ETF, » | conversation WhatsApp | Agent central (captures possibles) | faible |

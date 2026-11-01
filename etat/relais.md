@@ -1,59 +1,82 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 01/11/2026 10:20 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 01/11/2026 10:27 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : vendredi 25 octobre 2041, 21h20 (luxembourg) ; tour n° 168
+- Horloge : vendredi 25 octobre 2041, 21h36 (luxembourg) ; tour n° 169
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Thiago Alves : dîner du samedi 2 novembre
+- En attente de William : Conseiller : prix de revient de l'ETF ; tableau pour dimanche
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 168 ; horloge 25/10/2041 18:41 -> 25/10/2041 21:20 ; enregistré le 01/11/2026 10:20 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 169 ; horloge 25/10/2041 21:20 -> 25/10/2041 21:36 ; enregistré le 01/11/2026 10:27 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> J'accepte les huit rounds, je lui dis qu'il va souffrir
+> Je réponds à Thiago Alves que j'y serai avec grand plaisir. Je me note ça dans mon agenda. Je décide maintenant en fait de regarder un peu les opportunités. [...] Et je demande à mon conseiller du coup un retour sur, sur cette idée. Est-ce que c'est une idée de merde? Est-ce que ça peut fonctionner? Niveau risque, on est comment? Voilà quoi.
 
 ## Texte envoyé au joueur
 
-**VENDREDI 25 OCTOBRE 2041 — 21h20 — Audun-le-Tiche (Moselle), chez toi**
+**VENDREDI 25 OCTOBRE 2041 — 21h36 — Audun-le-Tiche (Moselle), chez toi**
 
-Tu acceptes les huit rounds et tu lui promets qu'il va souffrir. Lenny rit, tape ses gants l'un contre l'autre. « On verra qui souffre. »
+Tu réponds à Thiago : « J'y serai avec grand plaisir ! » et tu inscris le dîner dans ton agenda, samedi 2 novembre au soir. Il ne répond pas tout de suite.
 
-Il est venu reposé et il le montre : les trois premiers rounds sont les siens. Il coupe les angles, te fait reculer à coups de crochets au corps, et au deuxième il te surprend d'un balayage qui t'envoie sur le dos devant les débutants, qui applaudissent. Tu encaisses, tu respires, tu attends. À partir du quatrième, sa garde descend d'un cran ; tu reprends le centre, tu le travailles au jab, tu le colles contre les cordes et tu le fatigues au corps à corps. Les cinquième et sixième rounds sont pour toi, nets. Au septième, il tente encore un coup de rein désespéré qui finit en mêlée sans vainqueur. Au huitième, vous tenez debout surtout par fierté, les bras lourds, en vous envoyant des directs mous, et au gong vous vous asseyez tous les deux sur le tapis, dos contre les cordes, sans rien dire pendant une bonne minute.
+Puis tu restes un moment dans le canapé, le téléphone à la main, à tourner le problème. Le week-end entier, samedi et dimanche, sera pour la société. Tu ouvres la conversation avec ton conseiller et tu lui écris tout : la mini-crise, pas de client, des dépenses qui tombent ; ton ETF, auquel tu penses de plus en plus, mais seulement si le risque est mesuré ; l'idée d'y puiser une grosse somme pour donner à la société de quoi démarrer, une fois qu'un des deux contrats en cours sera signé ; la question de savoir si l'activité peut vraiment porter. Est-ce une idée de merde, est-ce que ça peut marcher, et où en est-on niveau risque ?
 
-« Bon. » Il souffle. « Égalité. » Il lève un doigt, se ravise. « Bon, presque égalité. » Il te tape l'épaule du gant et part aux douches.
+Six minutes plus tard, la réponse, longue :
 
-Tu rentres vers 20h45, les côtes sensibles du côté droit, là où ses crochets sont passés. Douche, pâtes au thon, et tu t'étales dans le canapé, le téléphone sur le ventre. À 21h20, il vibre. WhatsApp, Thiago Alves, le coach de musculation du club :
+« Pas une idée de merde. Mais elle mélange deux besoins qui ne tombent pas au même moment, et c'est là qu'est le risque.
 
-« Salut William ! Samedi 2 novembre je fais un dîner chez moi pour fêter le début des vacances, quelques gars du club, Lenny sera là. Tu viens ? Rien de chichiteux, je fais une feijoada 😄 »
+1. L'argent pour tenir, qui ne dépend d'aucun contrat.
+Sans recette, la trésorerie de la société passe sous zéro fin décembre : − 4 millions de FCFA (− 6 100 €), puis − 15,8 millions fin janvier (− 24 000 €) et − 33,5 millions fin mars (− 51 000 €), apport mensuel de 5 000 € compris. Pour arriver à Pâques avec un mois de marge, il faut environ 65 000 €. Attendre un contrat pour verser cet argent ne marche pas : on peut ne rien signer avant février et être à découvert en janvier. C'est la décision du 5 novembre.
 
-Il est 21h20.
+2. L'argent pour exécuter un contrat. C'est là que ton idée tient debout.
+Un contrat signé coûte de l'argent avant d'en rapporter : il faut acheter les panneaux, les onduleurs et payer la pose avant le solde du client.
+- Vridi (100 kWc) : 67,5 millions de FCFA de coût. Avec un acompte de 30 % du client, il reste environ 40,5 millions à avancer (62 000 €).
+- Port-Bouët (160 kWc) : 108 millions de coût, environ 64,8 millions à avancer (99 000 €).
+Injecter « après un premier contrat » est donc logique pour ce besoin-là, à condition que l'acompte soit encaissé, pas seulement promis.
+
+Ton exposition, chiffrée :
+- Tenir jusqu'à Pâques plus exécuter Vridi : environ 127 000 €, 19 % de ton ETF (676 000 €).
+- Avec Port-Bouët en plus : environ 226 000 €, 33 %.
+- Impôt : en vendant de l'ETF, tu paies 31,4 % sur la plus-value, pas sur le total. Je n'ai pas ton prix de revient. Si un tiers à la moitié de la valeur est de la plus-value, compte 16 000 à 24 000 € d'impôt pour 150 000 € vendus.
+
+Niveau risque :
+- Le marché existe : Lagune Kilowatt se bat déjà sur les toitures industrielles d'Abidjan, et sur trente cibles, l'équipe a obtenu huit rendez-vous et remis deux offres en un mois. Mais la bataille se fait sur les prix, et nous n'avons encore aucune signature. Notre vrai taux de conversion, personne ne le connaît, moi compris.
+- L'argent versé en compte courant d'associé est perdu si la société tombe : tu passes après les salariés, les impôts et les fournisseurs.
+- Une fois un contrat signé, une banque peut financer une partie du matériel sur ce contrat (avance sur marché). La SGCI ne prête pas à une société sans chiffre d'affaires, mais avec un bon de commande signé, la question devient sérieuse. Chaque franc prêté par la banque est un franc de ton ETF que tu ne vends pas.
+
+Pour que le risque reste mesuré, il faut trois règles écrites avant de vendre quoi que ce soit : un plafond total (combien tu acceptes de perdre au pire) ; un déclencheur pour chaque versement (date pour l'argent de survie, acompte encaissé pour l'argent du contrat) ; une date butoir (si rien n'est signé à telle date, on réduit les coûts au lieu de remettre de l'argent).
+
+Je te prépare le tableau complet pour dimanche : les deux besoins, trois plafonds possibles, l'impôt selon ton prix de revient, et la question à poser à la SGCI. Il me faut ton prix de revient sur l'ETF, il est sur ton relevé du courtier. »
+
+Il est 21h36.
 
 ---
 
 **Réponses attendues**
-- **Thiago Alves** : il t'invite à dîner chez lui le samedi 2 novembre au soir, avec quelques gars du club et Lenny.
+- **Ton conseiller** : il attend ton prix de revient sur l'ETF (sur ton relevé du courtier) pour chiffrer l'impôt ; tableau complet prévu pour la séance de dimanche.
 
 **À faire / à fournir avant le tour suivant**
-- Rien d'urgent.
+- Prix de revient de ton ETF.
+- D'ici le mardi 5 novembre : décision sur l'argent nécessaire pour tenir sans contrat (environ 65 000 € pour arriver à Pâques avec un mois de marge, selon le conseiller).
 
 **Quêtes secondaires**
+- Thiago Alves : il n'a pas encore répondu à ton oui pour le dîner du samedi 2 novembre.
 - Vers le 1er novembre : réponse de l'industriel de Vridi à l'offre de 90 millions de FCFA.
-- Dimanche 27 octobre : séance de travail avec ton conseiller (point clients à l'ordre du jour).
+- Dimanche 27 octobre : séance de travail avec ton conseiller.
 - Samedi 2 novembre, 09h00 : taille de la haie partagée avec ton voisin ; début des vacances de la Toussaint (jusqu'au dimanche 10 novembre).
-- Mardi 5 novembre : décision de financement, puis réunion d'équipe à 17h30.
 
-Que veux-tu faire ?
+… (suite dans etat/dernier-tour.md, 61 lignes)
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
 - ⚠ 1 échéance(s) échue(s) non close(s) (règle 14)
 - A143 Thu 24/10 19:00 (luxembourg) | Mariam Brou : Synthèse des trois offres de gardiennage (report du 20/10) [prevu]  — T18 report_excuse ; contrat du bailleur jusqu'au 31/10
+- A153 Sat 26/10 09:12 (luxembourg) | Thiago Alves : Répond au oui de William (adresse et heure du dîner du 2/11) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — T10 dans_la_journee (tiré le 25/10), décalé au réveil (routines)
 
 ## Rituels du moteur dus (rituels.py)
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_annonce : T4/T5 du dimanche 25/08 non trouvés -> python outils/savoir.py t5
@@ -189,10 +212,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 5b1e06b ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 42d7297 ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche claude/vigorous-jang-66b9e5 ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 14 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 16 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

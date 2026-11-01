@@ -189,7 +189,7 @@ Direct, structuré, sobre. Pas de flatterie ni d'encouragements.
 Langue : **français**.
 
 ## 9. POINT DE REPRISE
-**(Compression du §9, 24/10/2041)** Le journal détaillé des tours précédents est archivé tel quel dans `memoire/archive-point-de-reprise-2041-10-24.md` ; ce §9 ne garde que l'introduction et les 8 entrées les plus récentes. État courant : `python outils/resume_etat.py` (écrit `etat/resume.md`), `etat/horloge.txt`, `etat/fils-ouverts.md`, `etat/agenda.csv`. À chaque tour : ajouter l'entrée EN TÊTE de ce §9 ; au-delà de 12 entrées : `python outils/archiver_point_de_reprise.py --garder 8 --ecrire`.**
+**(Compression du §9, 25/10/2041)** Le journal détaillé des tours précédents est archivé tel quel dans `memoire/archive-point-de-reprise-2041-10-25.md` ; ce §9 ne garde que l'introduction et les 8 entrées les plus récentes. État courant : `python outils/resume_etat.py` (écrit `etat/resume.md`), `etat/horloge.txt`, `etat/fils-ouverts.md`, `etat/agenda.csv`. À chaque tour : ajouter l'entrée EN TÊTE de ce §9 ; au-delà de 12 entrées : `python outils/archiver_point_de_reprise.py --garder 8 --ecrire`.**
 **(Compression du §9, 17/07/2040)** Le journal détaillé des tours précédents est archivé tel quel dans `memoire/archive-point-de-reprise-2040-07-17.md` ; ce §9 ne garde que l'introduction et les 8 entrées les plus récentes. État courant : `python outils/resume_etat.py` (écrit `etat/resume.md`), `etat/horloge.txt`, `etat/fils-ouverts.md`, `etat/agenda.csv`. À chaque tour : ajouter l'entrée EN TÊTE de ce §9 ; au-delà de 12 entrées : `python outils/archiver_point_de_reprise.py --garder 8 --ecrire`.**
 > **Règle du §9 (09/08/2040)** : une entrée par tour, EN TÊTE, juste sous cette introduction (une entrée = un paragraphe qui
 > commence par « ** ») ; jamais l'état complet (il est dans `etat/resume.md` : `python outils/resume_etat.py`, `etat/horloge.txt`,
@@ -217,18 +217,13 @@ Langue : **français**.
 > (Min-ji, Hye-won, Soo-jin, Thiago Rocha, Lucas Mendes, voyage à Séoul) dans `archives/univers-3-partie-1/` et sous le tag git
 > `univers-3-partie-1` ; leurs lignes du §9 : `memoire/archive-point-de-reprise-univers-3-partie-1.md`. Tirages neufs : aucun résultat de la
 > première partie n'est rejoué. Les essais du moteur utilisent l'archive comme état d'essai (`outils/tests_moteur.py`).
+**Vendredi 25 octobre 2041, 21h36 — Audun-le-Tiche (Moselle), chez William : tour n° 169 joué (William soumet l'idée d'injecter l'ETF ; le conseiller distingue survie et exécution d'un contrat) ; en attente : **Conseiller : prix de revient de l'ETF ; tableau pour dimanche**.**
 **Vendredi 25 octobre 2041, 21h20 — Audun-le-Tiche (Moselle), chez William : tour n° 168 joué (Huit rounds avec Lenny ; Thiago Alves invite William à dîner le 2 novembre) ; en attente : **Thiago Alves : dîner du samedi 2 novembre**.**
 **Vendredi 25 octobre 2041, 18h41 — Esch-sur-Alzette, Minett Combat Club : tour n° 167 joué (Au club, Lenny réclame sa revanche : huit rounds) ; en attente : **Lenny Nguyen réclame sa revanche : huit rounds**.**
 **Vendredi 25 octobre 2041, 17h14 — Audun-le-Tiche (Moselle), chez William : tour n° 166 joué (Courrier de la CPAM posté ; William se regarde dans le miroir) ; en attente : **rien d'urgent ; club ce soir**.**
 **Vendredi 25 octobre 2041, 16h41 — Audun-le-Tiche (Moselle), devant chez William : tour n° 165 joué (Courrier de la CPAM : contrôle de résidence à renvoyer avant le 30 novembre) ; en attente : **rien d'urgent ; courrier CPAM à renvoyer avant le 30/11**.**
 **Jeudi 24 octobre 2041, 10h04 — Luxembourg-Ville, lycée, salle des professeurs : tour n° 164 joué (William salue Kim ; elle répond poliment et garde ses distances) ; en attente : **rien d'urgent**.**
 **Jeudi 24 octobre 2041, 07h51 — Luxembourg-Ville, parking du lycée : tour n° 163 joué (Coulibaly confirme l'entretien du 10 décembre) ; en attente : **rien d'urgent (accusé de Coulibaly reçu)**.**
-**Mercredi 23 octobre 2041, 20h56 — Audun-le-Tiche (Moselle), chez William : tour n° 162 joué (Entretien de Mme Tanoh fixé au 10 décembre ; point clients et potentiel chiffrés par le conseiller) ; en attente : **rien d'urgent**.**
-**Mercredi 23 octobre 2041, 20h49 — Audun-le-Tiche (Moselle), chez William : tour n° 161 joué (Message envoyé à Coulibaly ; il propose le 10 décembre pour l'entretien de Mme Tanoh) ; en attente : **Coulibaly : entretien de Mme Tanoh le mardi 10/12 17h30 ? la prévenir dès demain ?**.**
-**Mercredi 23 octobre 2041, 20h43 — Audun-le-Tiche (Moselle), chez William : tour n° 160 joué (Séjour de décembre annulé ; le conseiller soumet un motif pour Coulibaly) ; en attente : **Conseiller : accord sur le brouillon pour Coulibaly (annulation de décembre) et sur la visio du 9/12**.**
-**Mercredi 23 octobre 2041, 18h42 — Esch-sur-Alzette, Minett Combat Club : tour n° 159 joué (Avance courte jusqu'au club : Lenny propose six rounds de sparring) ; en attente : **Lenny Nguyen propose six rounds de sparring**.**
-**Mardi 22 octobre 2041, 10h06 — Luxembourg-Ville, lycée, salle des professeurs : tour n° 158 joué (Kim Schmitz esquive poliment l'invitation à investir ; revue mensuelle et P60-P62 validées) ; en attente : **rien d'urgent ; compte rendu de Coulibaly à 17h00**.**
-**Mardi 22 octobre 2041, 10h01 — Luxembourg-Ville, lycée, salle des professeurs : tour n° 157 joué (Reprise après annulation du tour 156 : Kim Schmitz interroge William sur son affaire en Afrique) ; en attente : **Kim Schmitz attend la réponse de William (affaire en Afrique)**.**
 
 ## 10. PROTOCOLE DE RELAIS (Claude, Gemini, Codex et tout autre agent)
 L'utilisateur alterne entre Claude, Gemini (Antigravity) et d'autres agents selon ses crédits ; il exige une transition 100 %

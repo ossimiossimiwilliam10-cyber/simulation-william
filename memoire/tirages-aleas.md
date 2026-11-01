@@ -5165,3 +5165,5 @@ Effets à jouer : A22 (vendredi 25/10 (soir)) : Frontalier : deux administration
 - Jet « Lenny Nguyen vient au club le vendredi 25/10 vers 18h40 » : probabilité 85 %, jet  72.6 → **OUI** [PROCÉDURE : habitude du club (vendredi, routines.py)] (enregistré le 01/11/2026 10:15 heure machine)
 
 - Jet « Lenny Nguyen prend le dessus sur William sur l'ensemble des huit rounds du 25/10 » : probabilité 45 %, jet  60.4 → **NON** [PROCÉDURE : issue du sparring (niveaux proches, Lenny reposé et revanchard)] (enregistré le 01/11/2026 10:19 heure machine)
+
+- Tirage [T10] « Réponse de Thiago au oui de William (dîner du 2/11) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  57.6 → **dans_la_journee** (enregistré le 01/11/2026 10:25 heure machine)
