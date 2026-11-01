@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 01/11/2026 12:20 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 01/11/2026 12:25 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : lundi 28/10/2041 20:15 (luxembourg, UTC+1)
+## Horloge : mercredi 30/10/2041 17:40 (luxembourg, UTC+1)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 19:15 ; lisbonne 19:15 ; mindelo 18:15 ; casablanca 20:15 ; douala 20:15 ; addis 22:15 ; manille 03:15 ; paris 20:15 ; seoul 04:15 ; bresil 16:15
+- **Heure dans les autres lieux** : abidjan 16:40 ; lisbonne 16:40 ; mindelo 15:40 ; casablanca 17:40 ; douala 17:40 ; addis 19:40 ; manille 00:40 ; paris 17:40 ; seoul 01:40 ; bresil 13:40
 - **En attente de William** :
-  - rien d'urgent
+  - rien à trancher ; Vridi perdu, débrief dimanche et le 05/11
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **5 613,13 €**
@@ -18,16 +18,17 @@
 ## ÉCHÉANCES ÉCHUES NON CLOSES (jouer, reporter avec raison ou annuler : règle 14)
 - A168 Mon 28/10 19:00 (luxembourg) | Mariam Brou : Confirmation écrite du prix TTC de l'offre B de gardiennage [prevu]  — consigne du 27/10 transmise le 28/10 07h00
 
-## Agenda : dans les 24 heures (0)
-- rien
-## Agenda : de J+1 à J+7 (7)
-- A165 Wed 30/10 19:00 (luxembourg) | Mohamed Coulibaly · Mariam Brou : Résiliation du prestataire de gardiennage du bailleur (fin au 30/11), lettre remise contre décharge [prevu]  — consigne du 27/10 transmise le 28/10 07h00
+## Agenda : dans les 24 heures (1)
 - A170 Thu 31/10 16:00 (luxembourg) | Mohamed Coulibaly · Mariam Brou : Passation écrite de Mariam Brou (dossiers, tableau de trésorerie, originaux, lettre de résiliation du gardiennage) puis retrait de ses accès le soir [prevu]  — décision de William du 28/10
-- A166 Thu 31/10 19:00 (luxembourg) | Viviane Tanoh : Relance de l'usine d'emballage de Vridi (garanties, maintenance, délais) [prevu]  — consigne du 27/10 transmise le 28/10 07h00
+## Agenda : de J+1 à J+7 (8)
 - A164 Thu 31/10 20:00 (luxembourg) | Viviane Tanoh · Éric Koffi Yao : Visite technique de l'entrepôt frigorifique de Port-Bouët [prevu]  — consigne du 27/10 transmise le 28/10 07h00 | reporté de 2041-10-30 18:00 : le responsable maintenance du client est en congé jusqu'au mercredi 30 (Coulibaly, 28/10 07h04 ; T7c execute_a_contrecoeur)
 - A148 Sat 02/11 09:00 (luxembourg) | Olivier Schneider : Élagage de la haie mitoyenne par le paysagiste ; part de William : 143 € [prevu]  — accord du 20/10
 - A152 Sat 02/11 19:30 (luxembourg) | Thiago Alves : Dîner chez Thiago Alves (feijoada, gars du club, Lenny) : accepté par William le 25/10 à 21h23 [prevu]  — aléa A30 du 25/10 (invitation reçue à 21h20) ; heure indicative
 - A144 Mon 04/11 10:00 (luxembourg) | Mohamed Coulibaly : Objectifs écrits de novembre pour chaque dirigeant (P54) [prevu]  — premier lundi du mois
+- A171 Tue 05/11 13:00 (luxembourg) | Mohamed Coulibaly : Devis du cabinet comptable pour la paie et les déclarations [prevu]  — demandé le 29/10
+- A140 Tue 05/11 17:30 (luxembourg) | William · équipe de SOLEIL B2B CI : Réunion d'équipe mensuelle en visioconférence (15h30 à Abidjan) [prevu]  — P53 (premier mardi du mois)
+- A169 Tue 05/11 17:30 (luxembourg) | William · conseiller · Coulibaly : Réunion d'équipe : réponse à la demande d'assistante (pas d'embauche avant le premier contrat, administratif repris par les pôles virtuels) [prevu]  — décision de William du 28/10 10h06
+- A167 Tue 05/11 20:00 (luxembourg) | Viviane Tanoh · Éric Koffi Yao : Devis de Port-Bouët remis au client (provisoire si les factures manquent) [prevu]  — consigne du 27/10 transmise le 28/10 07h00 | reporté de 2041-11-04 18:00 : visite technique décalée au jeudi 31 et vendredi 1er férié (Coulibaly, 28/10)
 (Les lignes « NON CONNU DE WILLIAM » servent au moteur : ne jamais les montrer au joueur avant le jour dit.)
 
 ## Affaires ouvertes (T4/T5 chaque dimanche soir)
@@ -40,16 +41,13 @@
 - lun 11/11/2041 FR Armistice 1918
 
 ## Routine du tour
-- AUJOURD'HUI lundi : revue du lundi (audit_jets.py, tirage_aleas.py, vie hors de la scène principale, monde, idées)
 - Session : `python outils/relais.py entree --agent "<nom>"` au début ; `python outils/relais.py sortie --note … --commit … --fusionner` à la fin.
 - Début de tour : `python outils/tour.py debut` (résumé, échéances, météo, soleil, argent, corps, lieu, rituels), lecture des fichiers d'état concernés.
 - Pendant : réactions et négociations par `jet.py --table Tn` (T1 à T14 ; `--pour` pour un personnage) ; personnages nouveaux par `personnage.py nouveau` ; faits et prix par `faits.py` et `prix.py` ; lieux par `lieux.py voir` ; révélations dans `savoir.py ajouter` ; argent dans `grand_livre.py ajouter`.
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
-## Fin du dernier journal (2041-10-28.md, 6 dernières lignes)
-> - **17h10-18h47** (tour n° 181) : 18h47 — Club du lundi : Lenny absent (tiré NON) ; Thiago Alves en salle (tiré OUI, fiche créée, description complète) demande ce que William ne mange pas pour la feijoada.
-> - Tirages du tour : jet « Lenny Nguyen vient au club le lundi 28/10 vers 18h40 » → NON (89,14) ; jet « Thiago Alves est en salle le lundi 28/10 entre 18h30 et 20h  » → OUI (47,79).
-> - Tour en cours à 18h47, en attente de William : **Thiago Alves : ce que William ne mange pas (feijoada de samedi)**.
-> - **18h47-20h15** (tour n° 182) : 20h15 — Réponse à Thiago (T15 garde_distance : bref, retour au bureau) ; fin de séance, retour, dîner.
-> - Tirages du tour : T15 Thiago → garde_distance (55,19).
-> - Tour en cours à 20h15, en attente de William : **rien d'urgent**.
+## Fin du dernier journal (2041-10-30.md, 6 dernières lignes)
+> # Mercredi 30 octobre 2041 — univers 3, 107e jour
+> - **00h00-17h40** (tour n° 183) : 17h40 — Mardi et mercredi sans interaction (nuits 22h30-06h10) ; promesses tenues (compte rendu du mardi, résiliation du gardiennage remise le 30/10, relance de Vridi le 30/10) ; Vridi : client retient Lagune Kilowatt (≈ 18 % moins cher ; issue tirée le 28/10, révélée par la relance, T10 immédiat) ; Coulibaly le remonte dans son point de 16h30 (tiré OUI) ; message
+> - Tirages du tour : T15 Thiago → garde_distance (55,19) ; jet « Viviane Tanoh tient sa promesse : relance l'usine de Vridi a » → OUI (51,36) ; jet « Mohamed Coulibaly tient sa promesse : compte rendu du mardi  » → OUI (79,64) ; jet « Mohamed Coulibaly tient sa promesse : résiliation du gardien » → OUI (77,8) ; jet « Lenny Nguyen vient au club le mercredi 30/10 vers 18h40 » → OUI (63,46) ; jet « Mm
+> - Tour en cours à 17h40, en attente de William : **rien à trancher ; Vridi perdu, débrief dimanche et le 05/11**.

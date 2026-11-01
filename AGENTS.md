@@ -217,6 +217,7 @@ Langue : **français**.
 > (Min-ji, Hye-won, Soo-jin, Thiago Rocha, Lucas Mendes, voyage à Séoul) dans `archives/univers-3-partie-1/` et sous le tag git
 > `univers-3-partie-1` ; leurs lignes du §9 : `memoire/archive-point-de-reprise-univers-3-partie-1.md`. Tirages neufs : aucun résultat de la
 > première partie n'est rejoué. Les essais du moteur utilisent l'archive comme état d'essai (`outils/tests_moteur.py`).
+**Mercredi 30 octobre 2041, 17h40 — Audun-le-Tiche (Moselle), chez William : tour n° 183 joué (Vridi choisit Lagune Kilowatt ; le conseiller propose de ne pas suivre sur le prix) ; en attente : **rien à trancher ; Vridi perdu, débrief dimanche et le 05/11**.**
 **Lundi 28 octobre 2041, 20h15 — Audun-le-Tiche (Moselle), chez William : tour n° 182 joué (William répond à Thiago ; fin de la séance et retour à la maison) ; en attente : **rien d'urgent**.**
 **Lundi 28 octobre 2041, 18h47 — Esch-sur-Alzette, Minett Combat Club : tour n° 181 joué (Au club, Thiago Alves demande ce que William ne mange pas) ; en attente : **Thiago Alves : ce que William ne mange pas (feijoada de samedi)**.**
 **Lundi 28 octobre 2041, 17h10 — Audun-le-Tiche (Moselle), chez William : tour n° 180 joué (Départ de Mariam Brou : pôle automatisé, double validation, point quotidien avec Coulibaly) ; en attente : **rien d'urgent ; club ce soir**.**

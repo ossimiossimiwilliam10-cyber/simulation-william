@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-10-28 20:15
+horloge: 2041-10-30 17:40
 fuseau: luxembourg
 lieu: Audun-le-Tiche (Moselle), chez William
-tour: 182
-attente: rien d'urgent
+tour: 183
+attente: rien à trancher ; Vridi perdu, débrief dimanche et le 05/11

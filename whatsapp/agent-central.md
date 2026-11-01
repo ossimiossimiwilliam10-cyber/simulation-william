@@ -1079,3 +1079,18 @@ Un détail sur le point quotidien : Coulibaly ne sait pas qu'il y a une IA derri
 Sur ta dernière phrase : en partie. Le poste a été recruté trop tôt et pour trop de choses à la fois, c'est vrai, et l'essentiel s'automatise. Mais une fonction ne s'automatise pas : le contre-pouvoir humain sur l'argent, sur place, quand il y aura des chantiers, des fournisseurs et des acomptes. La double validation la remplace tant que les montants sont petits. Au premier gros chantier, la question reviendra, sous une autre forme : un comptable ou un contrôleur, pas une directrice.
 
 Pour son solde : salaire d'octobre, 1 600 000 FCFA nets, et environ 2,2 jours de congés acquis pour un mois de service, soit environ 120 000 FCFA. Pas d'indemnité.
+**[30/10/2041 - 17:40 (Luxembourg)] Agent central :** Une mauvaise nouvelle, que tu attendais : Vridi a dit non.
+
+Mme Tanoh a relancé l'usine ce matin, comme prévu. Le directeur lui a répondu au téléphone qu'ils avaient retenu l'offre de Lagune Kilowatt la semaine dernière, environ 18 % moins chère que la nôtre. Il a apprécié la garantie de production et la maintenance, mais, selon ses mots rapportés par Coulibaly dans son point de 16h30, « le budget a tranché ». Coulibaly me l'a signalé le jour même, sans attendre vendredi : c'est à mettre à son crédit.
+
+Ce que ça change :
+- Il nous reste une offre à remettre, Port-Bouët (devis le 5 novembre), et une deuxième demande de devis, l'usine d'emballage de Treichville.
+- Les rendez-vous de novembre passent à six : trois nouveaux obtenus lundi (une usine d'emballage et un atelier textile à Vridi, une menuiserie industrielle à Abobo).
+- La règle de financement ne bouge pas : c'est précisément le cas qu'elle prévoit.
+
+Ce que je te propose, rien à trancher ce soir :
+1. Ne pas courir après Lagune sur le prix. 18 % de moins, c'est presque toute notre marge : signer à ce prix, c'est travailler pour rien.
+2. Demander au directeur de Vridi un vrai retour, par Mme Tanoh : le prix exact de Lagune s'il veut bien le dire, et ce qui aurait fait pencher la balance. C'est la seule donnée de marché solide qu'on peut tirer de cet échec.
+3. Garder le contact : une toiture posée vite et au rabais a souvent besoin de maintenance un an plus tard.
+4. Pour Port-Bouët, M. Yao vérifie avant le 5 où on peut baisser nos coûts (matériel, pose) sans toucher aux garanties, pour savoir jusqu'où on peut aller si le client cite un concurrent.
+On en reparle dimanche, et le 5 en réunion.

@@ -1,47 +1,62 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 01/11/2026 12:20 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 01/11/2026 12:25 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : lundi 28 octobre 2041, 20h15 (luxembourg) ; tour n° 182
+- Horloge : mercredi 30 octobre 2041, 17h40 (luxembourg) ; tour n° 183
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : rien d'urgent
+- En attente de William : rien à trancher ; Vridi perdu, débrief dimanche et le 05/11
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 182 ; horloge 28/10/2041 18:47 -> 28/10/2041 20:15 ; enregistré le 01/11/2026 12:20 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 183 ; horloge 28/10/2041 20:15 -> 30/10/2041 17:40 ; enregistré le 01/11/2026 12:25 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je réponds à Thiago Alves qu'il n'y a pas de souci à ce niveau-là, que moi je suis un omnivore, un vrai.
+> Ok, c'est vrai. Allez, on reste dans l'univers, on reste dans le réalisme. On peut continuer le tour, s'il te plaît. Go.
 
 ## Texte envoyé au joueur
 
-**LUNDI 28 OCTOBRE 2041 — 20h15 — Audun-le-Tiche (Moselle), chez toi**
+**MERCREDI 30 OCTOBRE 2041 — 17h40 — Audun-le-Tiche (Moselle), chez toi**
 
-Tu lui réponds qu'il n'y a aucun souci de ce côté-là : tu es omnivore, un vrai.
+Le mardi passe sous des averses froides. Au lycée, l'air sent déjà la fin de période : les élèves comptent les jours avant les vacances, les collègues aussi. Tu croises Kim deux fois dans le couloir des sciences ; un signe de tête, rien de plus. L'après-midi, à la maison, tu boucles le contrôle de la semaine prochaine et tu corriges une pile de copies. Le téléphone reste muet ; dans Gestion, rien de nouveau qui te soit adressé.
 
-« Perfeito. » Il tapote deux fois la barre, hoche la tête. « Alors à samedi, 19h30. » Il ne s'attarde pas : il retourne vers le petit bureau vitré au fond de la salle, où l'attend un classeur de fiches d'inscription, et s'y assoit en grimaçant, une main dans le creux des reins. Il ne relève plus la tête vers toi du reste de la séance.
+Mercredi, le ciel se dégage enfin. Un vrai soleil d'automne, bas et franc, presque quatorze degrés à midi. Tu rentres du lycée en début d'après-midi, tu prépares ton sac pour le club. À 17h40, au moment où tu enfiles ta veste, le téléphone vibre. Ton conseiller :
 
-Tu finis tes séries, vingt minutes de sac en enchaînements, quelques étirements sur le tapis désormais vide. À la sortie, la pluie a cessé ; le parking luit sous les lampadaires et l'air sent la terre mouillée. Vingt minutes de route, une douche, une omelette au fromage et du pain. À 20h15, tu es dans le canapé, les épaules chaudes, le téléphone silencieux sur la table basse.
+« Une mauvaise nouvelle, que tu attendais : Vridi a dit non.
 
-Il est 20h15.
+Mme Tanoh a relancé l'usine ce matin, comme prévu. Le directeur lui a répondu au téléphone qu'ils avaient retenu l'offre de Lagune Kilowatt la semaine dernière, environ 18 % moins chère que la nôtre. Il a apprécié la garantie de production et la maintenance, mais, selon ses mots rapportés par Coulibaly dans son point de 16h30, « le budget a tranché ». Coulibaly me l'a signalé le jour même, sans attendre vendredi : c'est à mettre à son crédit.
+
+Ce que ça change :
+- Il nous reste une offre à remettre, Port-Bouët (devis le 5 novembre), et une deuxième demande de devis, l'usine d'emballage de Treichville.
+- Les rendez-vous de novembre passent à six : trois nouveaux obtenus lundi (une usine d'emballage et un atelier textile à Vridi, une menuiserie industrielle à Abobo).
+- La règle de financement ne bouge pas : c'est précisément le cas qu'elle prévoit.
+
+Ce que je te propose, rien à trancher ce soir :
+1. Ne pas courir après Lagune sur le prix. 18 % de moins, c'est presque toute notre marge : signer à ce prix, c'est travailler pour rien.
+2. Demander au directeur de Vridi un vrai retour, par Mme Tanoh : le prix exact de Lagune s'il veut bien le dire, et ce qui aurait fait pencher la balance. C'est la seule donnée de marché solide qu'on peut tirer de cet échec.
+3. Garder le contact : une toiture posée vite et au rabais a souvent besoin de maintenance un an plus tard.
+4. Pour Port-Bouët, M. Yao vérifie avant le 5 où on peut baisser nos coûts (matériel, pose) sans toucher aux garanties, pour savoir jusqu'où on peut aller si le client cite un concurrent.
+On en reparle dimanche, et le 5 en réunion. »
+
+Il est 17h40.
 
 ---
 
 **Réponses attendues**
-- Personne ne t'attend.
+- **Ton conseiller** : rien à trancher ce soir ; il propose de ne pas suivre Lagune Kilowatt sur le prix, de demander au directeur de Vridi un vrai retour, de garder le contact, et de faire chercher à M. Yao des économies de coût avant le devis de Port-Bouët. On en reparle dimanche et le 5.
 
 **À faire / à fournir avant le tour suivant**
 - Rien d'urgent.
 
 **Quêtes secondaires**
+- Ce soir : club.
 - Jeudi 31 octobre : passation de Mariam Brou à 15h (Abidjan) ; visite technique de Port-Bouët.
-- Mardi 5 novembre : devis du cabinet comptable ; réunion d'équipe à 17h30.
+- Mardi 5 novembre : devis de Port-Bouët au client ; devis du cabinet comptable ; réunion d'équipe à 17h30.
 - Samedi 2 novembre : taille de la haie le matin ; dîner chez Thiago Alves à 19h30.
 
 Que veux-tu faire ?
@@ -49,10 +64,10 @@ Que veux-tu faire ?
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
 - ⚠ 1 échéance(s) échue(s) non close(s) (règle 14)
 - A168 Mon 28/10 19:00 (luxembourg) | Mariam Brou : Confirmation écrite du prix TTC de l'offre B de gardiennage [prevu]  — consigne du 27/10 transmise le 28/10 07h00
+- A170 Thu 31/10 16:00 (luxembourg) | Mohamed Coulibaly · Mariam Brou : Passation écrite de Mariam Brou (dossiers, tableau de trésorerie, originaux, lettre de résiliation du gardiennage) puis retrait de ses accès le soir [prevu]  — décision de William du 28/10
 
 ## Rituels du moteur dus (rituels.py)
 - [EN RETARD] fiche_courte : journal du 27/10/2041 sans fiche courte -> compléter journal/2041-10-27.md
-- [DÛ] fiche_complete : dernière fiche complète : 25/10/2041 (3 jours) -> fiche complète + tous les fichiers d'état
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_annonce : T4/T5 du dimanche 25/08 non trouvés -> python outils/savoir.py t5
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_art14 : T4/T5 du dimanche 25/08 non trouvés -> python outils/savoir.py t5
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_annonce : T4/T5 du dimanche 22/09 non trouvés -> python outils/savoir.py t5
@@ -78,7 +93,7 @@ Que veux-tu faire ?
 - [EN RETARD] message_proche : message spontané d'un proche (semaine du 07/10) non tiré -> python outils/rituels.py message-proche --semaine 2041-10-07
 - [EN RETARD] message_proche : message spontané d'un proche (semaine du 14/10) non tiré -> python outils/rituels.py message-proche --semaine 2041-10-14
 - [EN RETARD] message_proche : message spontané d'un proche (semaine du 21/10) non tiré -> python outils/rituels.py message-proche --semaine 2041-10-21
-- [DÛ] monde_semaine : nouvelles du monde de la semaine du 28/10 absentes de etat/monde.md -> ## Semaine du 28 au 03/11/2041
+- [EN RETARD] monde_semaine : nouvelles du monde de la semaine du 28/10 absentes de etat/monde.md -> ## Semaine du 28 au 03/11/2041
 
 ## Décisions en attente de William (etat/fils-ouverts.md, A)
 | 1 | **Organisation des vacances d'été 2041** | Premier jour des grandes vacances scolaires (du mardi 16/07/2041 au dimanche 15/09/2041). Choix des projets, voyages, rythme de vie ou déplacements estivaux. Budget vacances disponible : 833 €/mois (10 000 €/an). ; *(26/07 10h30) projet de mission à Abidjan à l'étude (fenêtre idéale : 12 au 25 août 2041, pendant la fermeture estivale du club de combat) pour rencontrer Mohamed Coulibaly, Me Gnamien et valider le QG* ; *(26/07 18h30) déplacement de 14 jours validé par William (du lundi 12 au dimanche 25 août 2041, pendant la fermeture annuelle du Minett Combat Club)* ; *(27/07 08h45) mission Abidjan calée du 12 au 25 août 2041 (14 jours) : vol Air France retenu depuis Luxembourg-Findel (1 285 € A/R), option confirmée sur résidence hôtelière F2 sécurisée à Cocody Deux-Plateaux (1 690 €), carnet international à jour (vaccin fièvre jaune confirmé par William)* ; *(27/07 20h00) vol Air France réglé (1 285 € sur Visa Premier, K002), pré-enrôlement e-visa SNEDAI payé et validé (73 € sur Visa Premier, K003), option résidence sécurisée Cocody active (1 690 €) ; logistique de mission Abidjan bouclée* ; *(31/07 11h20) aléa administratif A09 résolu : anomalie d'inversion des prénoms sur le portail SNEDAI rectifiée en ligne, attestation officielle de pré-enrôlement e-visa biométrique reçue (entrée FHB validée)* ; *(11/08 21h30) (11/08 21h30) Preparatifs acheves la veille du depart : voiture chargee a 100 %, reveil regle a 04h15 pour vol AF1233 Findel-CDG-Abidjan du lundi 12 aout a 06h50 ; bagages et documents physiques prets* ; *(12/08 21h00) (12/08 21h00) Arrivée sans incident à Abidjan par le vol AF702 via Paris CDG ; formalités sanitaires et e-visa biométrique SNEDAI franchies avec succès à FHB ; installation dans l'appartement F2 climatisé de la résidence hôtelière à Cocody Deux-Plateaux ; prise de contact confirmée avec Mohamed Coulibaly pour la signature notariée des statuts et du mandat DG chez Me Gnamien mardi 13 août à 10h00* ; *(13/08 09h50) (13/08 09h50) Trajet matinal avec Mohamed Coulibaly via le pont HKB, arrivée au Cabinet de Me Gnamien au Plateau à 09h50, retrouvailles avec Mariam Brou à l'accueil, attente de l'entrée en salle de signature à 10h00 ; Revue du lundi n° 4 présentée au joueur (P27 à P31)* | Ouvert |
@@ -187,10 +202,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 30f37dc ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 0246098 ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche claude/vigorous-jang-66b9e5 ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 11 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 20 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

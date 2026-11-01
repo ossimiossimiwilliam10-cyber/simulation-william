@@ -5245,3 +5245,17 @@ Effets à jouer : A09 (dimanche 03/11 (matin)) : Correction longue, agacement ; 
 - Jet « Thiago Alves est en salle le lundi 28/10 entre 18h30 et 20h et parle à William » : probabilité 60 %, jet  47.8 → **OUI** [PROCÉDURE : planning du club (coach de musculation en salle le lundi soir)] (enregistré le 01/11/2026 12:17 heure machine)
 
 - Tirage [T15] « Club, 28/10 18h48 : William répond qu'il n'y a aucun souci, qu'il est omnivore, un vrai » : rien_laisse_passer 30 / accepte_volontiers 18 / garde_distance 14 / en_parle_a_d_autres 12 / rend_la_pareille 10 / demande_explication 8 / decline 6 / frontal_conflit 2 ; modificateurs : aucun ; jet  55.2 → **garde_distance** (enregistré le 01/11/2026 12:20 heure machine)
+
+- Jet « Viviane Tanoh tient sa promesse : relance l'usine de Vridi avant le jeudi 31/10 (A166) » : probabilité 91 %, jet  51.4 → **OUI** [PROCÉDURE : fiabilité tirée du personnage (lenteur.py)] (enregistré le 01/11/2026 12:23 heure machine)
+
+- Jet « Mohamed Coulibaly tient sa promesse : compte rendu du mardi 29/10 à 17h00 » : probabilité 90 %, jet  79.6 → **OUI** [PROCÉDURE : fiabilité tirée du personnage (lenteur.py)] (enregistré le 01/11/2026 12:23 heure machine)
+
+- Jet « Mohamed Coulibaly tient sa promesse : résiliation du gardiennage du bailleur remise au plus tard le 30/10 (A165) » : probabilité 90 %, jet  77.8 → **OUI** [PROCÉDURE : fiabilité tirée du personnage (lenteur.py)] (enregistré le 01/11/2026 12:23 heure machine)
+
+- Jet « Lenny Nguyen vient au club le mercredi 30/10 vers 18h40 » : probabilité 85 %, jet  63.5 → **OUI** [PROCÉDURE : habitude du club (mercredi)] (enregistré le 01/11/2026 12:23 heure machine)
+
+- Jet « Mme Tanoh relance l'usine de Vridi dès le mardi 29/10 (sinon mercredi 30) » : probabilité 55 %, jet  59.2 → **NON** [PROCÉDURE : jour de la relance (objectif de fin octobre de Mme Tanoh)] (enregistré le 01/11/2026 12:24 heure machine)
+
+- Tirage [T10] « Réponse de l'usine de Vridi à la relance de Mme Tanoh (offre de 90 M FCFA ; issue déjà tirée le 28/10 : perdu) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet   8.2 → **immediat** (enregistré le 01/11/2026 12:24 heure machine)
+
+- Jet « Coulibaly mentionne la perte de Vridi dans son point quotidien du mercredi 30/10 à 16h30 (sinon dans le compte rendu du vendredi) » : probabilité 75 %, jet  26.4 → **OUI** [PROCÉDURE : remontée d'une mauvaise nouvelle (point quotidien institué le 29/10, notation remontée d'information)] (enregistré le 01/11/2026 12:24 heure machine)
