@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-10-28 17:10
+horloge: 2041-10-28 18:47
 fuseau: luxembourg
-lieu: Audun-le-Tiche (Moselle), chez William
-tour: 180
-attente: rien d'urgent ; club ce soir
+lieu: Esch-sur-Alzette, Minett Combat Club
+tour: 181
+attente: Thiago Alves : ce que William ne mange pas (feijoada de samedi)

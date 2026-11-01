@@ -5239,3 +5239,7 @@ Effets à jouer : A09 (dimanche 03/11 (matin)) : Correction longue, agacement ; 
 - Tirage [T7c] « Courriel du 28/10 soir : départ de Mariam (conversation courtoise, passation écrite et retrait des accès avant jeudi, solde de tout compte), cabinet comptable étendu, double validation des paiements au-dessus de 500 000 FCFA, point quotidien finance et administration avec le conseiller » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  23.7 → **execute_sans_discuter** (enregistré le 01/11/2026 12:11 heure machine)
 
 - Tirage [T10] « Réponse de Coulibaly au courriel du 28/10 soir sur le départ de Mariam » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  22.0 → **rapide** (enregistré le 01/11/2026 12:11 heure machine)
+
+- Jet « Lenny Nguyen vient au club le lundi 28/10 vers 18h40 » : probabilité 85 %, jet  89.1 → **NON** [PROCÉDURE : habitude du club (lundi, routines.py)] (enregistré le 01/11/2026 12:16 heure machine)
+
+- Jet « Thiago Alves est en salle le lundi 28/10 entre 18h30 et 20h et parle à William » : probabilité 60 %, jet  47.8 → **OUI** [PROCÉDURE : planning du club (coach de musculation en salle le lundi soir)] (enregistré le 01/11/2026 12:17 heure machine)

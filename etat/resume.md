@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 01/11/2026 12:13 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 01/11/2026 12:18 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : lundi 28/10/2041 17:10 (luxembourg, UTC+1)
-- **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 16:10 ; lisbonne 16:10 ; mindelo 15:10 ; casablanca 17:10 ; douala 17:10 ; addis 19:10 ; manille 00:10 ; paris 17:10 ; seoul 01:10 ; bresil 13:10
+## Horloge : lundi 28/10/2041 18:47 (luxembourg, UTC+1)
+- **Lieu de William** : Esch-sur-Alzette, Minett Combat Club
+- **Heure dans les autres lieux** : abidjan 17:47 ; lisbonne 17:47 ; mindelo 16:47 ; casablanca 18:47 ; douala 18:47 ; addis 20:47 ; manille 01:47 ; paris 18:47 ; seoul 02:47 ; bresil 14:47
 - **En attente de William** :
-  - rien d'urgent ; club ce soir
+  - Thiago Alves : ce que William ne mange pas (feijoada de samedi)
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **5 613,13 €**
@@ -44,9 +44,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-10-28.md, 6 dernières lignes)
-> - Tour en cours à 16h24, en attente de William : **Coulibaly : démission de Mariam Brou en période d'essai, comment procéder**.
-> - **16h24-16h37** (tour n° 179) : 16h37 — William demande au conseiller l'étendue des tâches de Mariam Brou ; réponse : peu de volume, beaucoup de contrôle (paiements), économie d'environ 2,2 M FCFA/mois ; quatre recommandations (pas de rétention à tout prix, passation et retrait des accès, solde de tout compte, pas de remplacement avant le premier contrat avec double validation des paiements au-d
-> - Tour en cours à 16h37, en attente de William : **Coulibaly : départ de Mariam Brou ; conseiller : accord sur ses quatre points**.
 > - **16h37-17h10** (tour n° 180) : 17h10 — William valide les quatre points dès maintenant (pôle de la DAF automatisé, pas de remplacement avant le premier contrat, cabinet étendu, double validation au-dessus de 500 000 FCFA, point quotidien de 16h30) ; Coulibaly exécute sans discuter (T7c, T10 rapide) : passation jeudi 15h (A170), devis du cabinet (A171).
 > - Tirages du tour : T7c Mohamed → execute_sans_discuter (23,67) ; T10 Mohamed → rapide (22,03).
 > - Tour en cours à 17h10, en attente de William : **rien d'urgent ; club ce soir**.
+> - **17h10-18h47** (tour n° 181) : 18h47 — Club du lundi : Lenny absent (tiré NON) ; Thiago Alves en salle (tiré OUI, fiche créée, description complète) demande ce que William ne mange pas pour la feijoada.
+> - Tirages du tour : jet « Lenny Nguyen vient au club le lundi 28/10 vers 18h40 » → NON (89,14) ; jet « Thiago Alves est en salle le lundi 28/10 entre 18h30 et 20h  » → OUI (47,79).
+> - Tour en cours à 18h47, en attente de William : **Thiago Alves : ce que William ne mange pas (feijoada de samedi)**.

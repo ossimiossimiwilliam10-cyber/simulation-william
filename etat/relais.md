@@ -1,58 +1,51 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 01/11/2026 12:13 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 01/11/2026 12:18 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : lundi 28 octobre 2041, 17h10 (luxembourg) ; tour n° 180
-- Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : rien d'urgent ; club ce soir
+- Horloge : lundi 28 octobre 2041, 18h47 (luxembourg) ; tour n° 181
+- Lieu de William : Esch-sur-Alzette, Minett Combat Club
+- En attente de William : Thiago Alves : ce que William ne mange pas (feijoada de samedi)
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 180 ; horloge 28/10/2041 16:37 -> 28/10/2041 17:10 ; enregistré le 01/11/2026 12:13 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 181 ; horloge 28/10/2041 17:10 -> 28/10/2041 18:47 ; enregistré le 01/11/2026 12:18 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Ok, donc déjà il faut pas que Koulibaly nous cherche à la retenir à tout prix. [...] On va automatiser son poll. [...] Donc pas de remplacement avant le premier contrat. [...] chaque paiement au-dessus de 500 000 francs passe par une double validation. [...] il faudra t'entretenir quotidiennement avec Koulibaly concernant les aspects finance et administratifs. [...] Et oui, globalement, je suis d'accord, alors on fait ça.
+> Go
 
 ## Texte envoyé au joueur
 
-**LUNDI 28 OCTOBRE 2041 — 17h10 — Audun-le-Tiche (Moselle), chez toi, cuisine**
+**LUNDI 28 OCTOBRE 2041 — 18h47 — Esch-sur-Alzette, Minett Combat Club**
 
-Tu réponds à ton conseiller que tu es d'accord sur tout. Coulibaly ne cherche pas à la retenir à tout prix : une conversation courtoise pour connaître sa vraie raison, c'est tout. La passation écrite avant jeudi, oui. Le solde de tout compte, salaire d'octobre et congés acquis, d'accord. Et le point 4 tout de suite : pas de remplacement avant le premier contrat, le cabinet reprend les déclarations et la paie, le pôle finance virtuel fait le tableau de trésorerie, double validation au-dessus de 500 000 FCFA. Vous automatisez son pôle : avec du recul, il était assez superficiel. Et tu lui demandes de s'entretenir chaque jour avec Coulibaly sur la finance et l'administratif, pour ne pas être dépassés. Franchement, avec du recul, engager une directrice administrative et financière n'était pas vraiment nécessaire.
+Tu manges une banane debout dans la cuisine, tu prends ton sac et tu repars sous la pluie vers Esch. Le lundi soir, la salle est à moitié vide : pas de Lenny sur le tapis, deux lutteurs qui travaillent des entrées de jambe dans un coin, un groupe de femmes en cours de cardio-boxe qui crie les répétitions en luxembourgeois. Tu attaques la musculation, puis le sac, seul, la tête encore pleine d'Abidjan.
 
-Trois minutes plus tard :
+Tu en es à ta troisième série de développé couché quand Thiago Alves, le coach de musculation, s'approche du banc. Un homme d'un mètre soixante-dix-huit, carré, environ quatre-vingt-cinq kilos : des épaules et des bras épais de culturiste qui vieillit, la poitrine large, un ventre qui s'est arrondi sous le tee-shirt noir du club. La peau mate, cuivrée, un visage carré au nez large, des rides de rire au coin des yeux ; des yeux marron foncé derrière des lunettes rectangulaires à monture noire qu'il remonte d'un doigt ; une barbe courte poivre et sel taillée net, les cheveux noirs ras, dégarnis sur le front. Il porte un jogging gris et une ceinture lombaire serrée lâche autour de la taille, un sifflet autour du cou dont personne ne l'a jamais vu se servir.
 
-« Noté, tout est validé, point 4 compris dès aujourd'hui. Le courriel part à Coulibaly dans cinq minutes.
+Il attend que tu reposes la barre sur les crochets, se penche un peu en se tenant le bas du dos.
 
-Un détail sur le point quotidien : Coulibaly ne sait pas qu'il y a une IA derrière ton adresse. Il m'enverra donc chaque jour ouvré, à 16h30 heure d'Abidjan, cinq lignes à direction@ (paiements du jour, factures reçues, échéances de la semaine, ce qui bloque), et c'est moi qui lui répondrai en ton nom, comme pour les courriels. Tu n'en verras que les écarts.
+« E aí, William ! Samedi, ça tient toujours ? » Il sourit. « Dis-moi : il y a un truc que tu manges pas ? Porc, piment, n'importe quoi ? La feijoada, chez moi, c'est avec tout le cochon dedans. Je préfère savoir avant. »
 
-Sur ta dernière phrase : en partie. Le poste a été recruté trop tôt et pour trop de choses à la fois, c'est vrai, et l'essentiel s'automatise. Mais une fonction ne s'automatise pas : le contre-pouvoir humain sur l'argent, sur place, quand il y aura des chantiers, des fournisseurs et des acomptes. La double validation la remplace tant que les montants sont petits. Au premier gros chantier, la question reviendra, sous une autre forme : un comptable ou un contrôleur, pas une directrice.
+Il reste là, une main sur la barre, à attendre ta réponse.
 
-Pour son solde : salaire d'octobre, 1 600 000 FCFA nets, et environ 2,2 jours de congés acquis pour un mois de service, soit environ 120 000 FCFA. Pas d'indemnité. »
-
-Tu vides le thé froid dans l'évier. À 17h10, le téléphone vibre de nouveau. Coulibaly, sur WhatsApp :
-
-« Bien reçu, Monsieur Ossimi. Je vois Mme Brou demain matin, calmement. La passation sera faite jeudi à 15h, par écrit, et je fais couper ses accès le soir même. Je demande dès demain au cabinet comptable un devis pour la paie et les déclarations. Pour la double validation, je vous soumettrai chaque paiement concerné dans Gestion. Le point de 16h30 me convient, je commence demain. M. Coulibaly »
-
-Il est 17h10.
+Il est 18h47.
 
 ---
 
 **Réponses attendues**
-- Personne ne t'attend.
+- **Thiago Alves** : il te demande s'il y a quelque chose que tu ne manges pas (porc, piment…) pour la feijoada de samedi.
 
 **À faire / à fournir avant le tour suivant**
 - Rien d'urgent.
 
 **Quêtes secondaires**
-- Ce soir : club (lundi, mercredi, vendredi).
 - Jeudi 31 octobre : passation de Mariam Brou à 15h (Abidjan) ; visite technique de Port-Bouët.
-- Mardi 5 novembre : devis du cabinet comptable ; réunion d'équipe à 17h30 (suivi, assistante).
+- Mardi 5 novembre : devis du cabinet comptable ; réunion d'équipe à 17h30.
 - Samedi 2 novembre : taille de la haie le matin ; dîner chez Thiago Alves à 19h30.
 
 Que veux-tu faire ?
@@ -197,10 +190,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 65bb020 ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 9a67cba ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche claude/vigorous-jang-66b9e5 ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 18 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 14 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 
