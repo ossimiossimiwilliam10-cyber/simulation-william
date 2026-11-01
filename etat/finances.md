@@ -10,7 +10,7 @@
 |---|---|---|
 | Compte courant (Spuerkeess) | 10 000,00 € | Dépenses courantes et vie quotidienne |
 | Compte épargne sécurité (Spuerkeess) | 75 250,00 € | Poche de sécurité liquide (matelas de précaution) |
-| ETF Monde | 670 380,00 € | Portefeuille d'actifs financiers capitalisant |
+| ETF Monde | 670 380,00 € | Portefeuille d'actifs financiers capitalisant (prix de revient : voir plus bas) |
 | Part nette de la maison | 97 378,22 € | Audun-le-Tiche ; valeur estimée 200 000 € − capital restant dû 102 621,78 € (prêt PR1) |
 | **Patrimoine net total** | **853 008,22 €** | Comptes + ETF + Part nette immobilière |
 
@@ -52,3 +52,5 @@ Validation du 21/10/2026 :
 - Remboursement anticipé de 40 000 € en juin 2037 avec réduction de durée.
 - Au 16/07/2041 : 83 échéances payées, **capital restant dû : 102 621,78 €**. Prochaine échéance le 05/08/2041 (n° 84 : amortissement 627,10 €, intérêts 299,05 €, assurance 23,13 €).
 - Échéance finale : 05/10/2052.
+
+- **Prix de revient de l'ETF Monde (fixé le 01/11/2026 réel, 25/10/2041 simulé, d'après `etat/carriere.md`, maquette du 21/10/2026)** : versements cumulés de 26 à 36 ans = 24 × (2 893 + 4 189 + 4 621 + 5 035 + 5 449) = **532 488 €**, plus le versement du 02/08/2041 (5 755 €) = **538 243 €**. Valeur au 25/10/2041 : 676 135 € ; plus-value latente : **137 892 €** (20,4 % de la valeur). Contrôle : ces versements capitalisés à 5 % par an donnent 669 547 €, cohérent avec la valeur de départ de 670 380 €. Fiscalité : résident français, PFU 31,4 % (F016) sur la part de plus-value de chaque vente (environ 6,4 % du montant vendu).

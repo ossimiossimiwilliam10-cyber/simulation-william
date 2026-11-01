@@ -76,3 +76,5 @@ Voir `etat/finances.md` et `etat/echeancier.csv`.
 
 ## Historique
 - **21/10/2026 (date réelle)** : validation du lancement de l'Univers 3 à 36 ans au premier jour des vacances scolaires d'été (16/07/2041). Intégration du modèle financier de carrière luxembourgeoise avec 3 leçons supplémentaires (Gr. 14, 540 pts, 9 320 € net) et règle 90/10.
+
+- **Prix de revient de l'ETF Monde (fixé le 01/11/2026 réel, 25/10/2041 simulé, d'après `etat/carriere.md`, maquette du 21/10/2026)** : versements cumulés de 26 à 36 ans = 24 × (2 893 + 4 189 + 4 621 + 5 035 + 5 449) = **532 488 €**, plus le versement du 02/08/2041 (5 755 €) = **538 243 €**. Valeur au 25/10/2041 : 676 135 € ; plus-value latente : **137 892 €** (20,4 % de la valeur). Contrôle : ces versements capitalisés à 5 % par an donnent 669 547 €, cohérent avec la valeur de départ de 670 380 €. Fiscalité : résident français, PFU 31,4 % (F016) sur la part de plus-value de chaque vente (environ 6,4 % du montant vendu).
