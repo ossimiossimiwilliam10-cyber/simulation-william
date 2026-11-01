@@ -189,7 +189,7 @@ Direct, structuré, sobre. Pas de flatterie ni d'encouragements.
 Langue : **français**.
 
 ## 9. POINT DE REPRISE
-**(Compression du §9, 25/10/2041)** Le journal détaillé des tours précédents est archivé tel quel dans `memoire/archive-point-de-reprise-2041-10-25.md` ; ce §9 ne garde que l'introduction et les 8 entrées les plus récentes. État courant : `python outils/resume_etat.py` (écrit `etat/resume.md`), `etat/horloge.txt`, `etat/fils-ouverts.md`, `etat/agenda.csv`. À chaque tour : ajouter l'entrée EN TÊTE de ce §9 ; au-delà de 12 entrées : `python outils/archiver_point_de_reprise.py --garder 8 --ecrire`.**
+**(Compression du §9, 27/10/2041)** Le journal détaillé des tours précédents est archivé tel quel dans `memoire/archive-point-de-reprise-2041-10-27.md` ; ce §9 ne garde que l'introduction et les 8 entrées les plus récentes. État courant : `python outils/resume_etat.py` (écrit `etat/resume.md`), `etat/horloge.txt`, `etat/fils-ouverts.md`, `etat/agenda.csv`. À chaque tour : ajouter l'entrée EN TÊTE de ce §9 ; au-delà de 12 entrées : `python outils/archiver_point_de_reprise.py --garder 8 --ecrire`.**
 **(Compression du §9, 17/07/2040)** Le journal détaillé des tours précédents est archivé tel quel dans `memoire/archive-point-de-reprise-2040-07-17.md` ; ce §9 ne garde que l'introduction et les 8 entrées les plus récentes. État courant : `python outils/resume_etat.py` (écrit `etat/resume.md`), `etat/horloge.txt`, `etat/fils-ouverts.md`, `etat/agenda.csv`. À chaque tour : ajouter l'entrée EN TÊTE de ce §9 ; au-delà de 12 entrées : `python outils/archiver_point_de_reprise.py --garder 8 --ecrire`.**
 > **Règle du §9 (09/08/2040)** : une entrée par tour, EN TÊTE, juste sous cette introduction (une entrée = un paragraphe qui
 > commence par « ** ») ; jamais l'état complet (il est dans `etat/resume.md` : `python outils/resume_etat.py`, `etat/horloge.txt`,
@@ -217,18 +217,13 @@ Langue : **français**.
 > (Min-ji, Hye-won, Soo-jin, Thiago Rocha, Lucas Mendes, voyage à Séoul) dans `archives/univers-3-partie-1/` et sous le tag git
 > `univers-3-partie-1` ; leurs lignes du §9 : `memoire/archive-point-de-reprise-univers-3-partie-1.md`. Tirages neufs : aucun résultat de la
 > première partie n'est rejoué. Les essais du moteur utilisent l'archive comme état d'essai (`outils/tests_moteur.py`).
+**Dimanche 27 octobre 2041, 09h31 — Audun-le-Tiche (Moselle), chez William : tour n° 175 joué (Séance du 27 : devis de Port-Bouët exigé, gardiennage B, consignes pour lundi) ; en attente : **rien d'urgent ; consignes envoyées à Coulibaly demain 07h00 Abidjan**.**
 **Dimanche 27 octobre 2041, 09h00 — Audun-le-Tiche (Moselle), chez William : tour n° 174 joué (Séance du 27 octobre : décision sur le gardiennage de décembre) ; en attente : **Conseiller : offre B de gardiennage, oui ou non**.**
 **Samedi 26 octobre 2041, 09h40 — Audun-le-Tiche (Moselle), chez William : tour n° 173 joué (Plan d'action jusqu'au 31 mars ; tout virement passe désormais par l'avis du conseiller) ; en attente : **rien d'urgent ; séance demain**.**
 **Samedi 26 octobre 2041, 09h16 — Audun-le-Tiche (Moselle), chez William : tour n° 172 joué (Abonnement IA professionnel ; le conseiller propose un suivi quotidien des équipes et une demande écrite à Yao) ; en attente : **Conseiller : dispositif de suivi, qui l'annonce, demande écrite à Éric Koffi Yao**.**
 **Samedi 26 octobre 2041, 08h35 — Audun-le-Tiche (Moselle), chez William : tour n° 171 joué (Règle de financement adoptée ; samedi matin, William s'installe pour bâtir un nouveau système) ; en attente : **Conseiller : William doit exposer son nouveau système**.**
 **Vendredi 25 octobre 2041, 21h54 — Audun-le-Tiche (Moselle), chez William : tour n° 170 joué (Le conseiller recommande un plafond de 165 000 € et des versements au fil du besoin) ; en attente : **Conseiller : plafond (165 000 € nets ou moins) et premier versement de survie début décembre**.**
 **Vendredi 25 octobre 2041, 21h36 — Audun-le-Tiche (Moselle), chez William : tour n° 169 joué (William soumet l'idée d'injecter l'ETF ; le conseiller distingue survie et exécution d'un contrat) ; en attente : **Conseiller : prix de revient de l'ETF ; tableau pour dimanche**.**
-**Vendredi 25 octobre 2041, 21h20 — Audun-le-Tiche (Moselle), chez William : tour n° 168 joué (Huit rounds avec Lenny ; Thiago Alves invite William à dîner le 2 novembre) ; en attente : **Thiago Alves : dîner du samedi 2 novembre**.**
-**Vendredi 25 octobre 2041, 18h41 — Esch-sur-Alzette, Minett Combat Club : tour n° 167 joué (Au club, Lenny réclame sa revanche : huit rounds) ; en attente : **Lenny Nguyen réclame sa revanche : huit rounds**.**
-**Vendredi 25 octobre 2041, 17h14 — Audun-le-Tiche (Moselle), chez William : tour n° 166 joué (Courrier de la CPAM posté ; William se regarde dans le miroir) ; en attente : **rien d'urgent ; club ce soir**.**
-**Vendredi 25 octobre 2041, 16h41 — Audun-le-Tiche (Moselle), devant chez William : tour n° 165 joué (Courrier de la CPAM : contrôle de résidence à renvoyer avant le 30 novembre) ; en attente : **rien d'urgent ; courrier CPAM à renvoyer avant le 30/11**.**
-**Jeudi 24 octobre 2041, 10h04 — Luxembourg-Ville, lycée, salle des professeurs : tour n° 164 joué (William salue Kim ; elle répond poliment et garde ses distances) ; en attente : **rien d'urgent**.**
-**Jeudi 24 octobre 2041, 07h51 — Luxembourg-Ville, parking du lycée : tour n° 163 joué (Coulibaly confirme l'entretien du 10 décembre) ; en attente : **rien d'urgent (accusé de Coulibaly reçu)**.**
 
 ## 10. PROTOCOLE DE RELAIS (Claude, Gemini, Codex et tout autre agent)
 L'utilisateur alterne entre Claude, Gemini (Antigravity) et d'autres agents selon ses crédits ; il exige une transition 100 %

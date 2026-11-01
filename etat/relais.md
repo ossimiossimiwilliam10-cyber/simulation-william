@@ -1,68 +1,63 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 01/11/2026 11:28 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 01/11/2026 11:37 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : dimanche 27 octobre 2041, 09h00 (luxembourg) ; tour n° 174
+- Horloge : dimanche 27 octobre 2041, 09h31 (luxembourg) ; tour n° 175
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Conseiller : offre B de gardiennage, oui ou non
+- En attente de William : rien d'urgent ; consignes envoyées à Coulibaly demain 07h00 Abidjan
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 174 ; horloge 26/10/2041 09:40 -> 27/10/2041 09:00 ; enregistré le 01/11/2026 11:28 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 175 ; horloge 27/10/2041 09:00 -> 27/10/2041 09:31 ; enregistré le 01/11/2026 11:37 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Go
+> Ok, alors déjà concernant le devis [...] Port-Bouët attend son devis. Bah il faut le faire un devis, putain de merde. [...] Est-ce que la publication de Lagune veut dire qu'ils ont officiellement commencé à bosser avec eux? [...] On part sur l'offre B à partir du 1er décembre. Et concernant les conditions ensuite et directives, tes conseils.
 
 ## Texte envoyé au joueur
 
-**DIMANCHE 27 OCTOBRE 2041 — 09h00 — Audun-le-Tiche (Moselle), chez toi, salon**
+**DIMANCHE 27 OCTOBRE 2041 — 09h31 — Audun-le-Tiche (Moselle), chez toi, salon**
 
-Le reste du samedi, tu le passes sur le plan. Tu imprimes le PDF, tu le relis le stylo à la main, tu recopies les dates dans ton carnet à spirale et tu entoures en rouge le 31 mars. À midi, une soupe et du pain ; l'après-midi, la pluie ne s'arrête pas, et tu reprends un à un les messages de Coulibaly depuis septembre, pour te refaire le fil de l'offre de Vridi et des rendez-vous de Mme Tanoh. Le soir, un film que tu regardes à moitié, le téléphone posé sur l'accoudoir, qui ne sonne pas. Tu te couches vers 22h40 et tu dors d'une traite, cette fois, dans une rue silencieuse.
+Tu réponds d'un trait, en tapant fort sur l'écran. Port-Bouët attend son devis ? Il faut le faire, ce devis, putain : pourquoi ça prend autant de temps ? Les notes : Coulibaly + 1, pas mal ; Yao − 2, logique ; Tanoh + 6, belle remontée, et tu penses que la pression de sa fin de période d'essai la motive ; Mariam + 3, correct. Les tarifs du ministère : que l'équipe surveille et en fasse un argument de vente au plus vite, qu'il prévienne Coulibaly. Les coupures de Yopougon : pareil. Et Lagune Kilowatt : ça veut dire qu'ils bossent avec eux ? Qu'on a perdu le marché ? Pour le gardiennage, c'est l'offre B au 1er décembre, avec ses conditions et ses directives.
 
-Dimanche, il fait gris et froid, à peine huit degrés, une pluie fine qui ne mouille presque pas. À 09h00 pile, comme chaque dimanche, le message de ton conseiller ouvre la séance :
+Six minutes plus tard :
 
-« Séance du dimanche 27 octobre.
+« Reçu. Point par point.
 
-La semaine en bref :
-- Décembre annulé, Pâques envisagé ; Coulibaly a pris le report sans question.
-- Règle de financement adoptée, plan d'action écrit.
-- Clients : pas encore de réponse de Vridi, attendue vers le 1er novembre ; Port-Bouët attend son devis ; quatre rendez-vous en novembre.
-- Notes de la semaine : Coulibaly 72 (+ 1), Éric Koffi Yao 71 (− 2), Viviane Tanoh 60 (+ 6), Mariam Brou 65 (+ 3).
+1. Port-Bouët. Le rendez-vous date de mardi. Pour un devis de 160 kWc, il faut une visite technique de la toiture (charpente, orientation, ombres), les factures d'électricité des douze derniers mois et le schéma du tableau électrique : c'est ce que Mme Tanoh attend du client. Cinq jours, ce n'est pas anormal, mais ce n'est pas rapide non plus, et rien n'oblige à attendre. Je demande à Coulibaly, dès demain matin : visite technique au plus tard mercredi 30, devis remis au client au plus tard lundi 4 novembre (vendredi 1er, c'est la Toussaint, férié en Côte d'Ivoire). Si les factures du client tardent, on remet un devis provisoire calculé sur la surface de toiture, à confirmer ensuite.
 
-Trois nouvelles d'Abidjan :
-- Le ministère de l'Énergie annonce une révision des tarifs de la moyenne tension au 1er janvier ; les industriels de Yopougon parlent d'une hausse. C'est un argument pour nos offres, à vérifier quand le barème sera publié.
-- Des coupures de plusieurs heures à la zone industrielle de Yopougon cette semaine, pendant des travaux sur un poste électrique.
-- Lagune Kilowatt publie sur LinkedIn la mise en service d'une toiture d'un logisticien de Vridi. Ils occupent le terrain, et ils le font savoir.
+2. Les tarifs de la moyenne tension. Veille confiée à Mme Tanoh ; dès que le barème est publié, une page d'argumentaire chiffrée par M. Yao pour chaque prospect. D'ici là, aucun chiffre non publié dans nos offres : un client qui découvre une hausse inventée ne nous croit plus.
 
-La décision du jour : le gardiennage à partir du 1er décembre.
-La note de Mariam Brou est dans Gestion. Elle compare trois offres et recommande l'offre B, une société agréée de Cocody, à 430 000 FCFA par mois, contre 540 000 pour le prestataire actuel du bailleur. Elle annonce une économie de 110 000 FCFA par mois.
-Le pôle finance a relevé une erreur : 430 000 est un prix hors taxes, 540 000 un prix toutes taxes comprises. Avec la TVA à 18 %, l'offre B revient à environ 507 000 FCFA TTC : l'économie réelle est d'environ 33 000 FCFA par mois (50 €), pas 110 000.
-Malgré cela, je recommande l'offre B : elle est agréée, assurée en responsabilité civile, et le préavis n'est que d'un mois. L'offre C reste écartée sans agrément.
-Deux conditions : Mariam Brou confirme lundi le prix TTC par écrit ; et la résiliation du prestataire actuel part avant le jeudi 31 octobre, sinon il faudra payer décembre en plus.
-Je n'en fais pas un reproche à Mariam devant l'équipe : je le lui signale en privé, avec la façon de présenter un comparatif.
+3. Les coupures de Yopougon. La pharmacie de Yopougon, l'un de nos rendez-vous de novembre, est en plein dedans. M. Yao ajoute à chaque offre une option avec batteries, chiffrée face au coût d'un groupe électrogène.
 
-Ta décision : offre B à partir du 1er décembre, aux deux conditions, oui ou non ? »
+4. Lagune Kilowatt. Non, on n'a rien perdu. Leur client est un logisticien de Vridi, pas notre usine d'emballage, dont l'offre court toujours. Mais ils ont maintenant une installation visible à quelques centaines de mètres de notre prospect, et ils vont la lui montrer. Mme Tanoh relance l'usine avant jeudi, avec ce qu'eux ne mettent pas en avant : garantie de production, maintenance, délais tenus.
 
-Il est 09h00.
+5. Gardiennage. Noté : offre B au 1er décembre. Mariam Brou confirme le prix TTC par écrit lundi ; la résiliation du prestataire du bailleur part au plus tard mercredi 30, par lettre remise contre décharge.
+
+J'envoie tout cela à Coulibaly demain à 07h00, heure d'Abidjan, en un seul courriel depuis direction@, avec ce qui était déjà prévu (financement jusqu'à Pâques, dispositif de suivi, demande à M. Yao). Tu verras les résultats dans ses comptes rendus ; je t'écris avant seulement si quelque chose coince. »
+
+Sur la table basse, ton café est encore chaud, pour une fois.
+
+Il est 09h31.
 
 ---
 
 **Réponses attendues**
-- **Ton conseiller** : offre B pour le gardiennage à partir du 1er décembre (environ 507 000 FCFA TTC par mois), sous réserve de la confirmation écrite du prix TTC lundi et d'une résiliation du prestataire actuel avant le jeudi 31 octobre : oui ou non ?
+- Personne ne t'attend : le conseiller envoie ses consignes à Coulibaly demain à 07h00 (heure d'Abidjan).
 
 **À faire / à fournir avant le tour suivant**
-- Rien d'autre.
+- Rien d'urgent.
 
 **Quêtes secondaires**
+- Lundi 4 novembre : devis de Port-Bouët remis au client (visite technique au plus tard mercredi 30).
+- Vers le 1er novembre : réponse de l'usine de Vridi (relance de Mme Tanoh avant jeudi).
 - Mardi 5 novembre, 17h30 : réunion d'équipe, tu y présentes le dispositif de suivi.
-- Samedi 2 novembre : taille de la haie partagée le matin ; dîner chez Thiago Alves à 19h30 (adresse à venir).
-- Vers le 1er novembre : réponse de l'industriel de Vridi.
+- Samedi 2 novembre : taille de la haie partagée le matin ; dîner chez Thiago Alves à 19h30 (adresse à venir) ; début des vacances de la Toussaint.
 
 Que veux-tu faire ?
 
@@ -204,10 +199,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : e68aab9 ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 387930b ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche claude/vigorous-jang-66b9e5 ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 22 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 13 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

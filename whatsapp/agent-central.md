@@ -991,3 +991,17 @@ Deux conditions : Mariam Brou confirme lundi le prix TTC par écrit ; et la rés
 Je n'en fais pas un reproche à Mariam devant l'équipe : je le lui signale en privé, avec la façon de présenter un comparatif.
 
 Ta décision : offre B à partir du 1er décembre, aux deux conditions, oui ou non ?
+**[27/10/2041 - 09:25 (Luxembourg)] William :** Port-Bouët attend son devis ? Il faut le faire, ce devis, putain. Pourquoi ça prend autant de temps ? Notes : Coulibaly +1, pas mal ; Yao −2, logique ; Tanoh +6, belle remontée, je pense que la pression de la fin de période d'essai la motive ; Mariam +3, ok. Les tarifs du ministère de l'Énergie : que l'équipe surveille et en fasse un argument de vente au plus vite, préviens Coulibaly. Les coupures de Yopougon : pareil, il faut s'y intéresser. Lagune Kilowatt : je n'ai pas compris, ça veut dire qu'ils ont commencé à bosser avec eux ? On a perdu le marché ? Gardiennage : on part sur l'offre B au 1er décembre, avec tes conditions et tes directives.
+**[27/10/2041 - 09:31 (Luxembourg)] Agent central :** Reçu. Point par point.
+
+1. Port-Bouët. Le rendez-vous date de mardi. Pour un devis de 160 kWc, il faut une visite technique de la toiture (charpente, orientation, ombres), les factures d'électricité des douze derniers mois et le schéma du tableau électrique : c'est ce que Mme Tanoh attend du client. Cinq jours, ce n'est pas anormal, mais ce n'est pas rapide non plus, et rien n'oblige à attendre. Je demande à Coulibaly, dès demain matin : visite technique au plus tard mercredi 30, devis remis au client au plus tard lundi 4 novembre (vendredi 1er, c'est la Toussaint, férié en Côte d'Ivoire). Si les factures du client tardent, on remet un devis provisoire calculé sur la surface de toiture, à confirmer ensuite.
+
+2. Les tarifs de la moyenne tension. Veille confiée à Mme Tanoh ; dès que le barème est publié, une page d'argumentaire chiffrée par M. Yao pour chaque prospect. D'ici là, aucun chiffre non publié dans nos offres : un client qui découvre une hausse inventée ne nous croit plus.
+
+3. Les coupures de Yopougon. La pharmacie de Yopougon, l'un de nos rendez-vous de novembre, est en plein dedans. M. Yao ajoute à chaque offre une option avec batteries, chiffrée face au coût d'un groupe électrogène.
+
+4. Lagune Kilowatt. Non, on n'a rien perdu. Leur client est un logisticien de Vridi, pas notre usine d'emballage, dont l'offre court toujours. Mais ils ont maintenant une installation visible à quelques centaines de mètres de notre prospect, et ils vont la lui montrer. Mme Tanoh relance l'usine avant jeudi, avec ce qu'eux ne mettent pas en avant : garantie de production, maintenance, délais tenus.
+
+5. Gardiennage. Noté : offre B au 1er décembre. Mariam Brou confirme le prix TTC par écrit lundi ; la résiliation du prestataire du bailleur part au plus tard mercredi 30, par lettre remise contre décharge.
+
+J'envoie tout cela à Coulibaly demain à 07h00, heure d'Abidjan, en un seul courriel depuis direction@, avec ce qui était déjà prévu (financement jusqu'à Pâques, dispositif de suivi, demande à M. Yao). Tu verras les résultats dans ses comptes rendus ; je t'écris avant seulement si quelque chose coince.
