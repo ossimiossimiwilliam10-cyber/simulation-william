@@ -5235,3 +5235,7 @@ Effets à jouer : A09 (dimanche 03/11 (matin)) : Correction longue, agacement ; 
 - Tirage [T22] « Front H006 « Ébène Watt casse les prix chez les petits clients » : semaine du 28/10/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  66.9 → **un_segment** (enregistré le 01/11/2026 11:52 heure machine)
 
 - Actualités de la semaine du 28/10/2041 : modèles LU01, LU04, FR01 [PROCÉDURE : outils/actualites.py] (enregistré le 01/11/2026 11:53 heure machine)
+
+- Tirage [T7c] « Courriel du 28/10 soir : départ de Mariam (conversation courtoise, passation écrite et retrait des accès avant jeudi, solde de tout compte), cabinet comptable étendu, double validation des paiements au-dessus de 500 000 FCFA, point quotidien finance et administration avec le conseiller » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  23.7 → **execute_sans_discuter** (enregistré le 01/11/2026 12:11 heure machine)
+
+- Tirage [T10] « Réponse de Coulibaly au courriel du 28/10 soir sur le départ de Mariam » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  22.0 → **rapide** (enregistré le 01/11/2026 12:11 heure machine)

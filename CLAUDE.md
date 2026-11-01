@@ -217,6 +217,7 @@ Langue : **français**.
 > (Min-ji, Hye-won, Soo-jin, Thiago Rocha, Lucas Mendes, voyage à Séoul) dans `archives/univers-3-partie-1/` et sous le tag git
 > `univers-3-partie-1` ; leurs lignes du §9 : `memoire/archive-point-de-reprise-univers-3-partie-1.md`. Tirages neufs : aucun résultat de la
 > première partie n'est rejoué. Les essais du moteur utilisent l'archive comme état d'essai (`outils/tests_moteur.py`).
+**Lundi 28 octobre 2041, 17h10 — Audun-le-Tiche (Moselle), chez William : tour n° 180 joué (Départ de Mariam Brou : pôle automatisé, double validation, point quotidien avec Coulibaly) ; en attente : **rien d'urgent ; club ce soir**.**
 **Lundi 28 octobre 2041, 16h37 — Audun-le-Tiche (Moselle), chez William : tour n° 179 joué (Le conseiller mesure le départ de Mariam Brou et propose quatre mesures) ; en attente : **Coulibaly : départ de Mariam Brou ; conseiller : accord sur ses quatre points**.**
 **Lundi 28 octobre 2041, 16h24 — Audun-le-Tiche (Moselle), chez William : tour n° 178 joué (Mariam Brou quitte la société en période d'essai) ; en attente : **Coulibaly : démission de Mariam Brou en période d'essai, comment procéder**.**
 **Lundi 28 octobre 2041, 10h03 — Luxembourg-Ville, lycée, salle des professeurs : tour n° 177 joué (Coulibaly répond : visite de Port-Bouët décalée, demande d'une assistante) ; en attente : **rien à trancher ; demande d'assistante de Coulibaly à traiter le 05/11**.**

@@ -1071,3 +1071,11 @@ Ce que je te recommande de répondre à Coulibaly :
 Le point 4 se tranche le 5 novembre ; les points 1 à 3, aujourd'hui.
 
 Si tu es d'accord, je l'écris à Coulibaly ce soir.
+**[28/10/2041 - 16:44 (Luxembourg)] William :** D'accord sur tout. Coulibaly ne cherche pas à la retenir à tout prix : une conversation courtoise pour connaître sa vraie raison, c'est tout. Passation écrite avant jeudi, oui. Solde de tout compte, salaire d'octobre et congés acquis, ok. Point 4 aussi, dès maintenant : pas de remplacement avant le premier contrat, le cabinet reprend les déclarations et la paie, le pôle finance virtuel fait le tableau de trésorerie, double validation au-dessus de 500 000 FCFA. On automatise son pôle : avec du recul, il était assez superficiel. Et tu t'entretiens chaque jour avec Coulibaly sur la finance et l'administratif, qu'on ne soit pas dépassés. Franchement, avec du recul, engager une DAF n'était pas vraiment nécessaire.
+**[28/10/2041 - 16:47 (Luxembourg)] Agent central :** Noté, tout est validé, point 4 compris dès aujourd'hui. Le courriel part à Coulibaly dans cinq minutes.
+
+Un détail sur le point quotidien : Coulibaly ne sait pas qu'il y a une IA derrière ton adresse. Il m'enverra donc chaque jour ouvré, à 16h30 heure d'Abidjan, cinq lignes à direction@ (paiements du jour, factures reçues, échéances de la semaine, ce qui bloque), et c'est moi qui lui répondrai en ton nom, comme pour les courriels. Tu n'en verras que les écarts.
+
+Sur ta dernière phrase : en partie. Le poste a été recruté trop tôt et pour trop de choses à la fois, c'est vrai, et l'essentiel s'automatise. Mais une fonction ne s'automatise pas : le contre-pouvoir humain sur l'argent, sur place, quand il y aura des chantiers, des fournisseurs et des acomptes. La double validation la remplace tant que les montants sont petits. Au premier gros chantier, la question reviendra, sous une autre forme : un comptable ou un contrôleur, pas une directrice.
+
+Pour son solde : salaire d'octobre, 1 600 000 FCFA nets, et environ 2,2 jours de congés acquis pour un mois de service, soit environ 120 000 FCFA. Pas d'indemnité.

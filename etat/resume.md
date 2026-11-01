@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 01/11/2026 12:05 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 01/11/2026 12:13 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : lundi 28/10/2041 16:37 (luxembourg, UTC+1)
+## Horloge : lundi 28/10/2041 17:10 (luxembourg, UTC+1)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 15:37 ; lisbonne 15:37 ; mindelo 14:37 ; casablanca 16:37 ; douala 16:37 ; addis 18:37 ; manille 23:37 ; paris 16:37 ; seoul 00:37 ; bresil 12:37
+- **Heure dans les autres lieux** : abidjan 16:10 ; lisbonne 16:10 ; mindelo 15:10 ; casablanca 17:10 ; douala 17:10 ; addis 19:10 ; manille 00:10 ; paris 17:10 ; seoul 01:10 ; bresil 13:10
 - **En attente de William** :
-  - Coulibaly : départ de Mariam Brou ; conseiller : accord sur ses quatre points
+  - rien d'urgent ; club ce soir
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **5 613,13 €**
@@ -18,8 +18,8 @@
 ## Agenda : dans les 24 heures (1)
 - A168 Mon 28/10 19:00 (luxembourg) | Mariam Brou : Confirmation écrite du prix TTC de l'offre B de gardiennage [prevu]  — consigne du 27/10 transmise le 28/10 07h00
 ## Agenda : de J+1 à J+7 (7)
-- A157 Tue 29/10 18:00 (luxembourg) | Mariam Brou : Premier tableau de trésorerie sur treize semaines [prevu]  — plan d'action du 26/10/2041
 - A165 Wed 30/10 19:00 (luxembourg) | Mohamed Coulibaly · Mariam Brou : Résiliation du prestataire de gardiennage du bailleur (fin au 30/11), lettre remise contre décharge [prevu]  — consigne du 27/10 transmise le 28/10 07h00
+- A170 Thu 31/10 16:00 (luxembourg) | Mohamed Coulibaly · Mariam Brou : Passation écrite de Mariam Brou (dossiers, tableau de trésorerie, originaux, lettre de résiliation du gardiennage) puis retrait de ses accès le soir [prevu]  — décision de William du 28/10
 - A166 Thu 31/10 19:00 (luxembourg) | Viviane Tanoh : Relance de l'usine d'emballage de Vridi (garanties, maintenance, délais) [prevu]  — consigne du 27/10 transmise le 28/10 07h00
 - A164 Thu 31/10 20:00 (luxembourg) | Viviane Tanoh · Éric Koffi Yao : Visite technique de l'entrepôt frigorifique de Port-Bouët [prevu]  — consigne du 27/10 transmise le 28/10 07h00 | reporté de 2041-10-30 18:00 : le responsable maintenance du client est en congé jusqu'au mercredi 30 (Coulibaly, 28/10 07h04 ; T7c execute_a_contrecoeur)
 - A148 Sat 02/11 09:00 (luxembourg) | Olivier Schneider : Élagage de la haie mitoyenne par le paysagiste ; part de William : 143 € [prevu]  — accord du 20/10
@@ -44,9 +44,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-10-28.md, 6 dernières lignes)
-> - Tour en cours à 10h03, en attente de William : **rien à trancher ; demande d'assistante de Coulibaly à traiter le 05/11**.
-> - **10h03-16h24** (tour n° 178) : 16h24 — Assistante : réponse au 05/11 (A169). Aléa A40 joué : Mariam Brou met fin à sa période d'essai (poste de formatrice au Plateau, dernier jour le 31/10) ; Coulibaly prévient William à 16h24 ; salaire de Mariam arrêté au 31/10 et gardiennage B inscrit dans les engagements.
-> - Tirages du tour : procédure : LU01, LU04, FR01.
 > - Tour en cours à 16h24, en attente de William : **Coulibaly : démission de Mariam Brou en période d'essai, comment procéder**.
 > - **16h24-16h37** (tour n° 179) : 16h37 — William demande au conseiller l'étendue des tâches de Mariam Brou ; réponse : peu de volume, beaucoup de contrôle (paiements), économie d'environ 2,2 M FCFA/mois ; quatre recommandations (pas de rétention à tout prix, passation et retrait des accès, solde de tout compte, pas de remplacement avant le premier contrat avec double validation des paiements au-d
 > - Tour en cours à 16h37, en attente de William : **Coulibaly : départ de Mariam Brou ; conseiller : accord sur ses quatre points**.
+> - **16h37-17h10** (tour n° 180) : 17h10 — William valide les quatre points dès maintenant (pôle de la DAF automatisé, pas de remplacement avant le premier contrat, cabinet étendu, double validation au-dessus de 500 000 FCFA, point quotidien de 16h30) ; Coulibaly exécute sans discuter (T7c, T10 rapide) : passation jeudi 15h (A170), devis du cabinet (A171).
+> - Tirages du tour : T7c Mohamed → execute_sans_discuter (23,67) ; T10 Mohamed → rapide (22,03).
+> - Tour en cours à 17h10, en attente de William : **rien d'urgent ; club ce soir**.
