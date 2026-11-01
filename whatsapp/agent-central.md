@@ -885,3 +885,24 @@ Niveau risque :
 Pour que le risque reste mesuré, il faut trois règles écrites avant de vendre quoi que ce soit : un plafond total (combien tu acceptes de perdre au pire) ; un déclencheur pour chaque versement (date pour l'argent de survie, acompte encaissé pour l'argent du contrat) ; une date butoir (si rien n'est signé à telle date, on réduit les coûts au lieu de remettre de l'argent).
 
 Je te prépare le tableau complet pour dimanche : les deux besoins, trois plafonds possibles, l'impôt selon ton prix de revient, et la question à poser à la SGCI. Il me faut ton prix de revient sur l'ETF, il est sur ton relevé du courtier.
+**[25/10/2041 - 21:48 (Luxembourg)] William :** Voilà mes chiffres, d'après mon relevé. Prix de revient de l'ETF : 538 243 € (532 488 € versés de 26 à 36 ans, plus 5 755 € en août). Valeur actuelle : 676 135 €. Plus-value latente : 137 892 €, environ 20 % de la valeur. Donne-moi une directive.
+**[25/10/2041 - 21:54 (Luxembourg)] Agent central :** Merci, ça change le calcul de l'impôt. Avec 20 % de plus-value dans chaque euro vendu, l'impôt tombe à environ 6,4 % du montant vendu : pour avoir 100 000 € nets, tu vends environ 106 800 € et tu paies environ 6 800 €. Bien moins que ce que je t'avais annoncé.
+
+La décision reste la tienne. Ma recommandation, en quatre points :
+
+1. Survie : 65 000 € nets au plus, vendus au fil du besoin, pas d'un coup.
+- Début décembre : environ 25 000 €, de quoi passer janvier.
+- Fin janvier : le reste, seulement si la trésorerie le demande à ce moment-là.
+Vendre au fil du besoin laisse le reste investi et te garde la main si un contrat arrive entre-temps. Coût d'impôt sur le tout : environ 4 400 €.
+
+2. Contrat : 100 000 € nets au plus, et seulement à trois conditions, toutes les trois :
+- un contrat signé ;
+- l'acompte du client encaissé sur le compte de la société ;
+- une demande d'avance sur marché déposée à la SGCI : ce que la banque finance, tu ne le vends pas.
+Pas de contrat, pas de versement.
+
+3. Plafond total : 165 000 € nets, soit environ 176 000 € vendus et 11 300 € d'impôt. Ton ETF ne descend jamais sous 500 000 €. C'est ta perte maximale si tout tourne mal.
+
+4. Date butoir : 31 mars 2042, avant ta venue à Pâques. Si rien n'est signé à cette date, aucun euro de plus. On réduit les coûts à la place : la fin de période d'essai de Mme Tanoh, le 31 décembre, est le premier levier ; la taille de l'équipe, le second.
+
+Ce que je te demande de trancher, dimanche ou au plus tard le 5 novembre : le plafond (165 000 €, ou moins), et le premier versement de survie début décembre, oui ou non.

@@ -88,3 +88,4 @@
 | 2041-10-25 17:00 | Formulaire de contrôle de résidence de la CPAM de la Moselle signé par William, avec sa facture de gaz | courrier postal | CPAM de la Moselle | faible |
 | 25/10/2041 21h23 | Message WhatsApp à Thiago Alves : « J'y serai avec grand plaisir ! » | conversation WhatsApp | Thiago Alves (captures possibles) | faible |
 | 25/10/2041 21h30 | Message WhatsApp à Agent central : « Ce week-end, samedi et dimanche, je bosse sur la mini-crise : pas encore de clients, des dépenses qui tombent. Je réfléchis de plus en plus à toucher à mon ETF, » | conversation WhatsApp | Agent central (captures possibles) | faible |
+| 25/10/2041 21h48 | Message WhatsApp à Agent central : « Voilà mes chiffres, d'après mon relevé. Prix de revient de l'ETF : 538 243 € (532 488 € versés de 26 à 36 ans, plus 5 755 € en août). Valeur actuelle : 676 135  » | conversation WhatsApp | Agent central (captures possibles) | faible |
