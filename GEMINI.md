@@ -217,6 +217,7 @@ Langue : **français**.
 > (Min-ji, Hye-won, Soo-jin, Thiago Rocha, Lucas Mendes, voyage à Séoul) dans `archives/univers-3-partie-1/` et sous le tag git
 > `univers-3-partie-1` ; leurs lignes du §9 : `memoire/archive-point-de-reprise-univers-3-partie-1.md`. Tirages neufs : aucun résultat de la
 > première partie n'est rejoué. Les essais du moteur utilisent l'archive comme état d'essai (`outils/tests_moteur.py`).
+**Vendredi 25 octobre 2041, 21h20 — Audun-le-Tiche (Moselle), chez William : tour n° 168 joué (Huit rounds avec Lenny ; Thiago Alves invite William à dîner le 2 novembre) ; en attente : **Thiago Alves : dîner du samedi 2 novembre**.**
 **Vendredi 25 octobre 2041, 18h41 — Esch-sur-Alzette, Minett Combat Club : tour n° 167 joué (Au club, Lenny réclame sa revanche : huit rounds) ; en attente : **Lenny Nguyen réclame sa revanche : huit rounds**.**
 **Vendredi 25 octobre 2041, 17h14 — Audun-le-Tiche (Moselle), chez William : tour n° 166 joué (Courrier de la CPAM posté ; William se regarde dans le miroir) ; en attente : **rien d'urgent ; club ce soir**.**
 **Vendredi 25 octobre 2041, 16h41 — Audun-le-Tiche (Moselle), devant chez William : tour n° 165 joué (Courrier de la CPAM : contrôle de résidence à renvoyer avant le 30 novembre) ; en attente : **rien d'urgent ; courrier CPAM à renvoyer avant le 30/11**.**

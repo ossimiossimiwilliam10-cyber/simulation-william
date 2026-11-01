@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 01/11/2026 10:16 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 01/11/2026 10:20 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : vendredi 25/10/2041 18:41 (luxembourg, UTC+2)
-- **Lieu de William** : Esch-sur-Alzette, Minett Combat Club
-- **Heure dans les autres lieux** : abidjan 16:41 ; lisbonne 17:41 ; mindelo 15:41 ; casablanca 17:41 ; douala 17:41 ; addis 19:41 ; manille 00:41 ; paris 18:41 ; seoul 01:41 ; bresil 13:41
+## Horloge : vendredi 25/10/2041 21:20 (luxembourg, UTC+2)
+- **Lieu de William** : Audun-le-Tiche (Moselle), chez William
+- **Heure dans les autres lieux** : abidjan 19:20 ; lisbonne 20:20 ; mindelo 18:20 ; casablanca 20:20 ; douala 20:20 ; addis 22:20 ; manille 03:20 ; paris 21:20 ; seoul 04:20 ; bresil 16:20
 - **En attente de William** :
-  - Lenny Nguyen réclame sa revanche : huit rounds
+  - Thiago Alves : dîner du samedi 2 novembre
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **5 613,13 €**
@@ -40,9 +40,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-10-25.md, 6 dernières lignes)
-> - **16h41-17h14** (tour n° 166) : 17h14 — Formulaire CPAM rempli et posté (facture de gaz en justificatif ; friction tirée NON) ; A151 close, fil 10 clos. William se regarde dans le miroir (description d'après etat/william.md).
-> - Tirages du tour : jet « CPAM de la Moselle, contrôle de résidence renvoyé le 25/10 : » → NON (70,87).
-> - Tour en cours à 17h14, en attente de William : **rien d'urgent ; club ce soir**.
 > - **17h14-18h41** (tour n° 167) : 18h41 — Club du vendredi ; Lenny (présence tirée OUI) réclame sa revanche : huit rounds ; arrêt.
 > - Tirages du tour : jet « CPAM de la Moselle, contrôle de résidence renvoyé le 25/10 : » → NON (70,87) ; jet « Lenny Nguyen vient au club le vendredi 25/10 vers 18h40 » → OUI (72,57).
 > - Tour en cours à 18h41, en attente de William : **Lenny Nguyen réclame sa revanche : huit rounds**.
+> - **18h41-21h20** (tour n° 168) : 21h20 — Huit rounds avec Lenny (issue tirée : Lenny ne prend pas le dessus ; quasi-égalité, avantage William) ; retour 20h45 ; aléa A30 joué : invitation de Thiago Alves à dîner le samedi 2/11.
+> - Tirages du tour : jet « Lenny Nguyen prend le dessus sur William sur l'ensemble des  » → NON (60,36).
+> - Tour en cours à 21h20, en attente de William : **Thiago Alves : dîner du samedi 2 novembre**.

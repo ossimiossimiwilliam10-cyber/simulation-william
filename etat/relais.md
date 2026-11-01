@@ -1,42 +1,44 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 01/11/2026 10:16 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 01/11/2026 10:20 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : vendredi 25 octobre 2041, 18h41 (luxembourg) ; tour n° 167
-- Lieu de William : Esch-sur-Alzette, Minett Combat Club
-- En attente de William : Lenny Nguyen réclame sa revanche : huit rounds
+- Horloge : vendredi 25 octobre 2041, 21h20 (luxembourg) ; tour n° 168
+- Lieu de William : Audun-le-Tiche (Moselle), chez William
+- En attente de William : Thiago Alves : dîner du samedi 2 novembre
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 167 ; horloge 25/10/2041 17:14 -> 25/10/2041 18:41 ; enregistré le 01/11/2026 10:16 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 168 ; horloge 25/10/2041 18:41 -> 25/10/2041 21:20 ; enregistré le 01/11/2026 10:20 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Go
+> J'accepte les huit rounds, je lui dis qu'il va souffrir
 
 ## Texte envoyé au joueur
 
-**VENDREDI 25 OCTOBRE 2041 — 18h41 — Esch-sur-Alzette, Minett Combat Club**
+**VENDREDI 25 OCTOBRE 2041 — 21h20 — Audun-le-Tiche (Moselle), chez toi**
 
-Le soleil est déjà couché quand tu reprends la route ; l'air s'est refroidi d'un coup sous le ciel dégagé, et tu roules jusqu'à Lallange avec le chauffage au minimum, le sac de sport sur le siège passager. Le vendredi soir, le club est plus rempli qu'en semaine : un cours de boxe thaïe pour débutants occupe la moitié du tapis, une dizaine de jeunes en gants neufs qui frappent les paos avec plus d'enthousiasme que de technique, et le coach qui compte les séries d'une voix enrouée. Ça sent le liniment camphré et le caoutchouc chaud.
+Tu acceptes les huit rounds et tu lui promets qu'il va souffrir. Lenny rit, tape ses gants l'un contre l'autre. « On verra qui souffre. »
 
-Tu as eu le temps de faire tes tours de corde et une série de mobilité quand Lenny arrive, cette fois déjà en tenue sous sa veste, une banane énergétique à moitié mangée à la main. Il te repère, contourne le groupe de débutants et vient se planter devant toi en finissant sa banane.
+Il est venu reposé et il le montre : les trois premiers rounds sont les siens. Il coupe les angles, te fait reculer à coups de crochets au corps, et au deuxième il te surprend d'un balayage qui t'envoie sur le dos devant les débutants, qui applaudissent. Tu encaisses, tu respires, tu attends. À partir du quatrième, sa garde descend d'un cran ; tu reprends le centre, tu le travailles au jab, tu le colles contre les cordes et tu le fatigues au corps à corps. Les cinquième et sixième rounds sont pour toi, nets. Au septième, il tente encore un coup de rein désespéré qui finit en mêlée sans vainqueur. Au huitième, vous tenez debout surtout par fierté, les bras lourds, en vous envoyant des directs mous, et au gong vous vous asseyez tous les deux sur le tapis, dos contre les cordes, sans rien dire pendant une bonne minute.
 
-« Ce soir, c'est moi qui choisis. » Il jette la peau dans la poubelle à côté du ring, rate, va la ramasser, revient. « Huit rounds. Et cette fois, pas de pitié pour les vieux. »
+« Bon. » Il souffle. « Égalité. » Il lève un doigt, se ravise. « Bon, presque égalité. » Il te tape l'épaule du gant et part aux douches.
 
-Il lève les sourcils, attend.
+Tu rentres vers 20h45, les côtes sensibles du côté droit, là où ses crochets sont passés. Douche, pâtes au thon, et tu t'étales dans le canapé, le téléphone sur le ventre. À 21h20, il vibre. WhatsApp, Thiago Alves, le coach de musculation du club :
 
-Il est 18h41.
+« Salut William ! Samedi 2 novembre je fais un dîner chez moi pour fêter le début des vacances, quelques gars du club, Lenny sera là. Tu viens ? Rien de chichiteux, je fais une feijoada 😄 »
+
+Il est 21h20.
 
 ---
 
 **Réponses attendues**
-- **Lenny Nguyen** : il réclame sa revanche et choisit le nombre : huit rounds ce soir.
+- **Thiago Alves** : il t'invite à dîner chez lui le samedi 2 novembre au soir, avec quelques gars du club et Lenny.
 
 **À faire / à fournir avant le tour suivant**
 - Rien d'urgent.
@@ -44,7 +46,7 @@ Il est 18h41.
 **Quêtes secondaires**
 - Vers le 1er novembre : réponse de l'industriel de Vridi à l'offre de 90 millions de FCFA.
 - Dimanche 27 octobre : séance de travail avec ton conseiller (point clients à l'ordre du jour).
-- Samedi 2 novembre : taille de la haie partagée avec ton voisin ; début des vacances de la Toussaint (jusqu'au dimanche 10 novembre).
+- Samedi 2 novembre, 09h00 : taille de la haie partagée avec ton voisin ; début des vacances de la Toussaint (jusqu'au dimanche 10 novembre).
 - Mardi 5 novembre : décision de financement, puis réunion d'équipe à 17h30.
 
 Que veux-tu faire ?
@@ -187,10 +189,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 1d857ea ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 5b1e06b ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche claude/vigorous-jang-66b9e5 ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 10 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 14 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

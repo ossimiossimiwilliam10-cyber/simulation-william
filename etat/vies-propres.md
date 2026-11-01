@@ -52,7 +52,7 @@
 - **Derniers événements** : 25/09 petit_evenement (croisement, visite ou conversation de voisinage); 01/10 avancee_objectif (somme reçue, économisée ou investie pour son objectif : changer de métier); 12/10 avancee_objectif (démarche pour son objectif : changer de métier); 18/10 petit_evenement (croisement, visite ou conversation de voisinage); 21/10 sans_histoire
 
 ### Thiago Alves (coach de musculation du club)
-- **Lien avec William** : aucun (whatsapp)
+- **Lien avec William** : contact_recent (whatsapp)
 - **Objectif** : voyager loin une fois dans sa vie ; **souci** : mal de dos chronique ; **foyer** : parent isolé
 - **Secret (moteur seulement)** : consulte un psychologue (gravité 1)
 - **Horaires** : règle « bureau », fuseau luxembourg, décalage +3 min ; travail 09:03-17:33 (lun, mar, mer, jeu, ven), trajet 40 min ; sommeil 23:33-07:03

@@ -5163,3 +5163,5 @@ Effets à jouer : A22 (vendredi 25/10 (soir)) : Frontalier : deux administration
 - Jet « CPAM de la Moselle, contrôle de résidence renvoyé le 25/10 : deuxième passage demandé (pièce refusée ou manquante) » : probabilité 30 %, jet  70.9 → **NON** [PROCÉDURE : friction administrative 30 % (etat/economie.md)] (enregistré le 01/11/2026 00:37 heure machine)
 
 - Jet « Lenny Nguyen vient au club le vendredi 25/10 vers 18h40 » : probabilité 85 %, jet  72.6 → **OUI** [PROCÉDURE : habitude du club (vendredi, routines.py)] (enregistré le 01/11/2026 10:15 heure machine)
+
+- Jet « Lenny Nguyen prend le dessus sur William sur l'ensemble des huit rounds du 25/10 » : probabilité 45 %, jet  60.4 → **NON** [PROCÉDURE : issue du sparring (niveaux proches, Lenny reposé et revanchard)] (enregistré le 01/11/2026 10:19 heure machine)
