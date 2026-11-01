@@ -125,3 +125,11 @@
 - **Luxembourg** : Logement : les prix des appartements anciens reculent de 1,5 % sur un an selon l'Observatoire de l'habitat.
 - **Lorraine (Audun-le-Tiche, Moselle)** : Moselle : travaux de nuit sur l'A31 entre Thionville et la frontière · bouchons le matin au passage de Zoufftgen.
 - *(écrit par outils/actualites.py le 30/10/2026 heure machine ; modèles tirés : LU01, LU03, FR01 ; une nouvelle datée n'est connue qu'à sa date)*
+
+## Semaine du 28/10 au 3/11/2041
+- **Luxembourg** : 01/11, Toussaint (jour férié).
+- **Luxembourg** : Carburants : nouveaux prix maximums au Luxembourg à partir de mercredi · hausse d'environ 3 centimes le litre.
+- **Luxembourg** : Frontaliers : nouveau record du nombre de travailleurs frontaliers selon les chiffres trimestriels · la France fournit toujours plus de la moitié des entrants.
+- **Lorraine (Audun-le-Tiche, Moselle)** : 01/11, Toussaint (jour férié).
+- **Lorraine (Audun-le-Tiche, Moselle)** : Moselle : travaux de nuit sur l'A31 entre Thionville et la frontière · bouchons le matin au passage de Zoufftgen.
+- *(écrit par outils/actualites.py le 01/11/2026 heure machine ; modèles tirés : LU01, LU04, FR01 ; une nouvelle datée n'est connue qu'à sa date)*

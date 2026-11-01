@@ -1,80 +1,71 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 01/11/2026 11:45 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 01/11/2026 11:53 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : dimanche 27 octobre 2041, 09h52 (luxembourg) ; tour n° 176
-- Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : rien d'urgent ; courriel à Coulibaly lundi 08h00 (Luxembourg)
+- Horloge : lundi 28 octobre 2041, 10h03 (luxembourg) ; tour n° 177
+- Lieu de William : Luxembourg-Ville, lycée, salle des professeurs
+- En attente de William : rien à trancher ; demande d'assistante de Coulibaly à traiter le 05/11
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 176 ; horloge 27/10/2041 09:31 -> 27/10/2041 09:52 ; enregistré le 01/11/2026 11:45 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 177 ; horloge 28/10/2041 10:03 -> 28/10/2041 10:03 ; enregistré le 01/11/2026 11:53 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je viens également d'avoir une nouvelle idée. [...] service 24 heures sur 24, à la moindre panne, on a au moins un agent technique qui peut se déplacer [...] Vois ça avec Koulibaly. Et demande également à Koulibaly s'il est dépassé [...] Qu'est-ce qu'ils font à Abidjan en semaine là?
+> Je m'assois là et je me rends compte du formidable outil que j'ai à ma disposition. Je remercie mon conseiller [...] j'adore ses décisions. Bon, on peut faire un go.
 
 ## Texte envoyé au joueur
 
-**DIMANCHE 27 OCTOBRE 2041 — 09h52 — Audun-le-Tiche (Moselle), chez toi, salon**
+**LUNDI 28 OCTOBRE 2041 — 10h03 — Luxembourg-Ville, lycée, salle des professeurs**
 
-L'idée te vient en relisant les offres : un service de dépannage 24 heures sur 24, au moins un agent technique qui se déplace à la moindre panne, à mettre en avant dans les offres et à mettre en place pour de vrai. Tu l'écris aussitôt à ton conseiller, pour qu'il voie ça avec Coulibaly. Et tu ajoutes ce qui te reste en travers : qu'il demande à Coulibaly s'il est dépassé, parce que ça ne va pas, trop de manquements ; il ne relance pas assez Yao sur son équipe, le devis n'avance pas. Qu'est-ce qui se passe ? Qu'est-ce qu'ils font, à Abidjan, en semaine ?
+Tu remercies ton conseiller : tu te rends compte de l'outil formidable que tu as entre les mains. Qu'il fasse parvenir tous les messages et toutes les directives consignés. Vous êtes tellement en phase que ce qu'il dit te semble beaucoup plus intelligent que ce que tu mets en avant ; tu sais qu'il faut que tu restes éveillé, en tant qu'humain, mais globalement, tu adores ses décisions.
 
-La réponse arrive sept minutes plus tard :
+Sa réponse tient en trois lignes : « Merci. Tout part demain à 07h00, heure d'Abidjan, en un seul courriel. Garde ce réflexe d'éveil : mes propositions valent ce que valent les faits qu'on me donne, et tu en vois que je ne vois pas, comme le devis de Port-Bouët ce matin. Bon dimanche. »
 
-« Deux sujets.
+Le reste du dimanche se traîne sous la pluie : une heure de course lente sous la capuche autour du stade, des courses pour la semaine, une soirée sans écran à corriger les copies du contrôle sur les suites. Les pendules ont reculé d'une heure la nuit précédente ; à 18h00 il fait déjà nuit noire.
 
-1. Le service de dépannage 24 heures sur 24
-Bonne idée commerciale : c'est exactement ce que les clients reprochent aux installateurs qui cassent les prix, et ce que Lagune Kilowatt ne met pas en avant. Mais une promesse écrite dans une offre devient une obligation dans le contrat, avec des pénalités si on ne la tient pas. Je propose de la formuler ainsi :
-« Assistance téléphonique 7 jours sur 7, 24 heures sur 24 ; intervention d'un technicien sur site sous 24 heures en cas de panne bloquante. »
-Pourquoi 24 heures et pas « immédiatement » : aujourd'hui, nous n'avons ni technicien ni véhicule. Une équipe d'astreinte coûte de l'argent (prime d'astreinte, téléphone, déplacements) pour zéro installation à dépanner.
-La mise en place, dans l'ordre :
-- dans les offres dès maintenant, comme partie du contrat de maintenance payant (environ 1,35 million de FCFA par an pour 100 kWc), pas comme un service gratuit ;
-- l'astreinte réelle démarre à la mise en service de notre première installation ;
-- elle repose sur le vivier technique que M. Yao doit livrer le 8 novembre : je lui demande d'y ajouter le chiffrage d'une astreinte (un technicien joignable la nuit et le week-end, par roulement).
-Je l'ajoute au courriel de demain à Coulibaly.
+Lundi, le réveil de 06h10 sonne dans le noir complet. La route se fait sous une pluie froide, quatre degrés au tableau de bord, les essuie-glaces au maximum à la frontière. Tes deux premières heures passent ; à la pause, tu te poses en salle des professeurs avec un thé et tu ouvres Gestion. Un message de ton conseiller, arrivé à 08h20 :
 
-2. Ce qu'ils ont fait cette semaine, et la question à Coulibaly
-Les faits d'abord, pour que ta question tombe juste :
-- Mme Tanoh : deux nouveaux rendez-vous obtenus cette semaine, le rendez-vous de Port-Bouët tenu mardi.
-- M. Yao : la visite de Port-Bouët mardi ; la villa des Vallons (cloisons et câblage, une livraison partielle) ; toujours aucun fournisseur, toujours aucune proposition d'équipe.
-- Mariam Brou : la synthèse du gardiennage, le tableau de trésorerie pour mardi.
-- Coulibaly : ses deux comptes rendus à l'heure, la prolongation du gardiennage, le suivi des travaux. Mais il n'a pas relancé M. Yao par écrit sur l'équipe depuis le 1er octobre : rien dans ses comptes rendus.
-Tu as raison sur le fond : la technique traîne et Coulibaly ne tient pas assez son directeur technique. Le commercial, lui, avance.
+« Réponse de Coulibaly à 07h04 (heure d'Abidjan), en entier :
+« Bonjour Monsieur Ossimi. Bien reçu, merci. Je me permets quelques précisions. Pour Port-Bouët, le client ne peut recevoir la visite technique que jeudi 31 : son responsable de la maintenance est en congé jusqu'à mercredi. Avec la Toussaint vendredi, le devis sera remis mardi 5 au plus tôt. Pour M. Yao, je l'ai relancé de vive voix à plusieurs reprises ; je lui transmets votre demande écrite ce matin, avec la date du 8. Pour la charge, je ne vous cache pas que depuis le 1er octobre je fais la direction, une bonne partie de la prospection, la logistique de la villa et le suivi des travaux. Je tiens. Mais une assistante administrative à mi-temps me libérerait pour le terrain. Si vous le permettez, nous pourrions en parler à la réunion du 5. Pour le reste, c'est noté et transmis. M. Coulibaly »
 
-Je lui pose ta question, mais pas sous la forme « êtes-vous dépassé ? » : en Côte d'Ivoire, un directeur général à qui son patron demande ça par écrit entend « je doute de vous », et la réponse sera « tout va bien, Monsieur », quoi qu'il en soit. Voici ce que j'écris :
-« Mohamed, plusieurs sujets n'avancent pas au rythme voulu : l'équipe technique, les fournisseurs, le devis de Port-Bouët. Je compte sur vous pour tenir M. Yao sur ses délais. Dites-moi franchement si la charge est trop lourde aujourd'hui, et ce qu'il vous faudrait pour tenir les dates du plan. »
-Ça lui laisse une porte pour demander de l'aide, sans perdre la face.
+Mon analyse :
+- Port-Bouët : le motif du report est plausible et vérifiable ; le devis glisse d'un jour, au mardi 5. Je demande à Mme Tanoh de confirmer au client, par écrit, la date de la visite.
+- M. Yao : « relancé de vive voix », mais rien d'écrit depuis le 1er octobre. La demande écrite part aujourd'hui : à partir de maintenant, il y a une trace.
+- L'assistante : c'est une vraie demande, et c'est la réponse à ta question sur la charge. Une assistante à mi-temps coûterait, de mon estimation, environ 250 000 à 350 000 FCFA par mois, charges comprises. C'est une dépense nouvelle sans lien avec un client, donc contraire à la règle d'hier tant qu'aucun contrat n'est signé. Ce que je te propose de lui répondre le 5 : pas d'embauche avant le premier contrat ; en attendant, les pôles virtuels de Gestion prennent une partie de l'administratif (courriers, relances, tableaux), et on regarde avec lui ce qu'il peut déléguer à Mariam Brou.
+Rien à trancher ce matin. »
 
-Tout part demain à 07h00, heure d'Abidjan, dans le même courriel. »
+Autour de toi, la salle se remplit et se vide au rythme des sonneries ; personne ne vient s'asseoir à ta table.
 
-Il est 09h52.
+Il est 10h03.
 
 ---
 
 **Réponses attendues**
-- Personne ne t'attend : le courriel à Coulibaly part demain à 07h00, heure d'Abidjan (08h00 chez toi : la France et le Luxembourg sont passés à l'heure d'hiver cette nuit).
+- **Ton conseiller** : rien à trancher ce matin ; il propose de répondre à la demande d'assistante de Coulibaly à la réunion du 5 novembre (pas d'embauche avant le premier contrat, l'administratif repris en partie par les pôles virtuels et par Mariam Brou).
 
 **À faire / à fournir avant le tour suivant**
 - Rien d'urgent.
 
 **Quêtes secondaires**
-- Lundi 4 novembre : devis de Port-Bouët remis au client (visite technique au plus tard mercredi 30).
-- Vendredi 8 novembre : date limite de M. Yao (vivier technique, sous-traitance, trois fournisseurs, chiffrage de l'astreinte).
-- Mardi 5 novembre, 17h30 : réunion d'équipe, tu y présentes le dispositif de suivi.
-- Samedi 2 novembre : taille de la haie le matin ; dîner chez Thiago Alves à 19h30.
+- Jeudi 31 octobre : visite technique de Port-Bouët ; devis au client le mardi 5 novembre au plus tôt.
+- Vendredi 8 novembre : date limite de M. Yao.
+- Mardi 5 novembre, 17h30 : réunion d'équipe (dispositif de suivi, demande d'assistante).
+- Samedi 2 novembre : taille de la haie le matin ; dîner chez Thiago Alves à 19h30 ; début des vacances de la Toussaint.
 
 Que veux-tu faire ?
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
-- A156 Mon 28/10 09:00 (luxembourg) | conseiller → Mohamed Coulibaly : Informer Coulibaly que le financement jusqu'à Pâques est assuré (sans chiffres) [prevu]  — annoncé par le conseiller le 25/10 à 22h02
+- A168 Mon 28/10 19:00 (luxembourg) | Mariam Brou : Confirmation écrite du prix TTC de l'offre B de gardiennage [prevu]  — consigne du 27/10 transmise le 28/10 07h00
 
 ## Rituels du moteur dus (rituels.py)
+- [EN RETARD] fiche_courte : journal du 27/10/2041 sans fiche courte -> compléter journal/2041-10-27.md
+- [DÛ] fiche_complete : dernière fiche complète : 25/10/2041 (3 jours) -> fiche complète + tous les fichiers d'état
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_annonce : T4/T5 du dimanche 25/08 non trouvés -> python outils/savoir.py t5
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_art14 : T4/T5 du dimanche 25/08 non trouvés -> python outils/savoir.py t5
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_annonce : T4/T5 du dimanche 22/09 non trouvés -> python outils/savoir.py t5
@@ -87,7 +78,6 @@ Que veux-tu faire ?
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_art14 : T4/T5 du dimanche 13/10 non trouvés -> python outils/savoir.py t5
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_annonce : T4/T5 du dimanche 20/10 non trouvés -> python outils/savoir.py t5
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_art14 : T4/T5 du dimanche 20/10 non trouvés -> python outils/savoir.py t5
-- [DÛ] synthese_semaine : ce soir : synthèse de la semaine, T4/T5 des affaires ouvertes -> python outils/savoir.py t5
 - [EN RETARD] message_proche : message spontané d'un proche (semaine du 26/08) non tiré -> python outils/rituels.py message-proche --semaine 2041-08-26
 - [EN RETARD] monde_semaine : nouvelles du monde de la semaine du 26/08 absentes de etat/monde.md -> ## Semaine du 26 au 01/09/2041
 - [EN RETARD] revue_lundi : revue du lundi 02/09/2041 absente -> memoire/revue-lundi-2041-09-02.md
@@ -101,6 +91,7 @@ Que veux-tu faire ?
 - [EN RETARD] message_proche : message spontané d'un proche (semaine du 07/10) non tiré -> python outils/rituels.py message-proche --semaine 2041-10-07
 - [EN RETARD] message_proche : message spontané d'un proche (semaine du 14/10) non tiré -> python outils/rituels.py message-proche --semaine 2041-10-14
 - [EN RETARD] message_proche : message spontané d'un proche (semaine du 21/10) non tiré -> python outils/rituels.py message-proche --semaine 2041-10-21
+- [DÛ] monde_semaine : nouvelles du monde de la semaine du 28/10 absentes de etat/monde.md -> ## Semaine du 28 au 03/11/2041
 
 ## Décisions en attente de William (etat/fils-ouverts.md, A)
 | 1 | **Organisation des vacances d'été 2041** | Premier jour des grandes vacances scolaires (du mardi 16/07/2041 au dimanche 15/09/2041). Choix des projets, voyages, rythme de vie ou déplacements estivaux. Budget vacances disponible : 833 €/mois (10 000 €/an). ; *(26/07 10h30) projet de mission à Abidjan à l'étude (fenêtre idéale : 12 au 25 août 2041, pendant la fermeture estivale du club de combat) pour rencontrer Mohamed Coulibaly, Me Gnamien et valider le QG* ; *(26/07 18h30) déplacement de 14 jours validé par William (du lundi 12 au dimanche 25 août 2041, pendant la fermeture annuelle du Minett Combat Club)* ; *(27/07 08h45) mission Abidjan calée du 12 au 25 août 2041 (14 jours) : vol Air France retenu depuis Luxembourg-Findel (1 285 € A/R), option confirmée sur résidence hôtelière F2 sécurisée à Cocody Deux-Plateaux (1 690 €), carnet international à jour (vaccin fièvre jaune confirmé par William)* ; *(27/07 20h00) vol Air France réglé (1 285 € sur Visa Premier, K002), pré-enrôlement e-visa SNEDAI payé et validé (73 € sur Visa Premier, K003), option résidence sécurisée Cocody active (1 690 €) ; logistique de mission Abidjan bouclée* ; *(31/07 11h20) aléa administratif A09 résolu : anomalie d'inversion des prénoms sur le portail SNEDAI rectifiée en ligne, attestation officielle de pré-enrôlement e-visa biométrique reçue (entrée FHB validée)* ; *(11/08 21h30) (11/08 21h30) Preparatifs acheves la veille du depart : voiture chargee a 100 %, reveil regle a 04h15 pour vol AF1233 Findel-CDG-Abidjan du lundi 12 aout a 06h50 ; bagages et documents physiques prets* ; *(12/08 21h00) (12/08 21h00) Arrivée sans incident à Abidjan par le vol AF702 via Paris CDG ; formalités sanitaires et e-visa biométrique SNEDAI franchies avec succès à FHB ; installation dans l'appartement F2 climatisé de la résidence hôtelière à Cocody Deux-Plateaux ; prise de contact confirmée avec Mohamed Coulibaly pour la signature notariée des statuts et du mandat DG chez Me Gnamien mardi 13 août à 10h00* ; *(13/08 09h50) (13/08 09h50) Trajet matinal avec Mohamed Coulibaly via le pont HKB, arrivée au Cabinet de Me Gnamien au Plateau à 09h50, retrouvailles avec Mariam Brou à l'accueil, attente de l'entrée en salle de signature à 10h00 ; Revue du lundi n° 4 présentée au joueur (P27 à P31)* | Ouvert |
@@ -209,10 +200,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : ecf0f00 ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 88fee94 ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche claude/vigorous-jang-66b9e5 ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 11 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 30 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

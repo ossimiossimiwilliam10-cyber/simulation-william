@@ -5169,3 +5169,69 @@ Effets à jouer : A22 (vendredi 25/10 (soir)) : Frontalier : deux administration
 - Tirage [T10] « Réponse de Thiago au oui de William (dîner du 2/11) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  57.6 → **dans_la_journee** (enregistré le 01/11/2026 10:25 heure machine)
 
 - Jet « Un habitué du club (Lenny Nguyen) est là le samedi 26/10 vers 15h et engage la conversation avec William » : probabilité 35 %, jet  29.9 → **OUI** [PROCÉDURE : habitude du club (samedi, présence irrégulière)] (enregistré le 01/11/2026 11:25 heure machine)
+
+- Tirage [T4] « affaire_projet_ci_annonce : escalade externe, semaine du 27/10 » : aucune 99.7 / frontal_escalade 0.3 ; modificateurs : aucun ; jet  36.4 → **aucune** (enregistré le 01/11/2026 11:48 heure machine)
+
+- Tirage [T5] « affaire_projet_ci_annonce : fuite, semaine du 27/10 » : fuite_externe 15 / fuite_interne 40 / aucune 45 ; modificateurs : aucun ; jet  62.0 → **aucune** (enregistré le 01/11/2026 11:48 heure machine)
+
+- Tirage [T4] « affaire_projet_ci_art14 : escalade externe, semaine du 27/10 » : aucune 99.7 / frontal_escalade 0.3 ; modificateurs : aucun ; jet  49.7 → **aucune** (enregistré le 01/11/2026 11:48 heure machine)
+
+- Tirage [T5] « affaire_projet_ci_art14 : fuite, semaine du 27/10 » : fuite_externe 2 / fuite_interne 6 / aucune 92 ; modificateurs : aucun ; jet  69.7 → **aucune** (enregistré le 01/11/2026 11:48 heure machine)
+
+## Tirage de la semaine du 2041-10-28
+
+| ID | Événement | Probabilité | Jet (0-100) | Résultat |
+|---|---|---|---|---|
+| A01 | Maladie d'un membre de l'équipe (paludisme, gastro, typhoïde) | 10 % |  28.1 | non |
+| A02 | Problème de santé d'un proche d'un personnage (ex. mère d'Aïcha, tension) | 8 % |  54.9 | non |
+| A04 | Délestage / coupure d'électricité prolongée | 25 % |  52.2 | non |
+| A05 | Fortes pluies / inondation | 15 % |  72.7 | non |
+| A06 | Retard fournisseur ou douane (NVR, onduleurs, batteries) | 30 % |  76.4 | non |
+| A07 | Panne réseau (fibre, 4G) ou banque en ligne | 15 % |  51.2 | non |
+| A09 | Erreur administrative (virement mal affecté, pièce perdue, nom mal orthographié) | 10 % |   3.4 | **DÉCLENCHÉ** — dimanche 03/11 (matin) |
+| A12 | Fuite d'information (salaires, avances, statut de William) | 5 % |   4.4 | **DÉCLENCHÉ** — dimanche 03/11 (matin) |
+| A13 | Opportunité commerciale inattendue (recommandation, appel d'un prospect) | 10 % |  95.6 | non |
+| A17 | William lui-même malade ou épuisé (fatigue, gastro) | 5 % |  16.1 | non |
+| A18 | Incident de transport (taxi, panne, retard) | 15 % |  81.6 | non |
+| A19 | Rhume, angine ou gastro de William | 5 % |  78.2 | non |
+| A20 | Perturbation des trajets frontaliers (bus en retard, A4 ou N4 bouchée, travaux) | 20 % |  19.1 | **DÉCLENCHÉ** — vendredi 01/11 (après-midi) |
+| A21 | Panne domestique (chauffe-eau, électroménager, fuite) | 4 % |   7.0 | non |
+| A22 | Courrier administratif (impôts français ou luxembourgeois, CNS, mairie, banque) | 10 % |  71.0 | non |
+| A23 | Tentative d'arnaque (SMS de faux colis, faux conseiller bancaire, faux site) | 15 % |  30.1 | non |
+| A24 | Souci de voisinage (bruit, travaux, haie, stationnement) | 5 % |   5.5 | non |
+| A25 | Blessure légère à l'entraînement (entorse, côte, doigt) | 1 % |  54.1 | non |
+| A26 | Imprévu d'argent (amende, réparation, cadeau, cotisation) | 6 % |  23.2 | non |
+| A27 | Signe d'un ancien (collègue, élève devenu adulte, connaissance) | 8 % |  74.8 | non |
+| A28 | Courriel ou appel du lycée pendant les vacances (réunion de rentrée, ajournements, emploi du temps) | 10 % |  91.6 | non |
+| A29 | Contrôle routier ou radar | 3 % |   0.3 | **DÉCLENCHÉ** — samedi 02/11 (après-midi) |
+| A30 | Occasion inattendue (proposition de cours particuliers, invitation, bon plan) | 8 % |  49.9 | non |
+| A31 | Diarrhée du voyageur ou intoxication alimentaire (à l'étranger) | 12 % |  56.3 | non |
+| A35 | Surfacturation ou arnaque visant un touriste (taxi, boutique, bar) | 5 % |  68.5 | non |
+| A36 | Malentendu de langue (adresse mal comprise, commande erronée, document en coréen) | 10 % |  83.2 | non |
+| A37 | Embouteillage, pont saturé ou route coupée à Abidjan (un trajet de William ou de l'équipe prend une à deux heures de plus) | 30 % |  13.0 | **DÉCLENCHÉ** — vendredi 01/11 (soir) ; touché : Abdoul |
+| A38 | Contrôle routier ou guichet : un agent sollicite un « geste » (2 000 à 10 000 FCFA) | 10 % |  95.2 | non |
+| A39 | Paludisme de William (séjour en zone d'endémie) | 0.5 % |  19.7 | non |
+| A40 | Départ d'un directeur pendant sa période d'essai (préavis court, recrutement à refaire) | 5 % |   3.5 | **DÉCLENCHÉ** — lundi 28/10 (après-midi) |
+| A42 | Visioconférence ratée (coupure, son, décalage) pendant une réunion à distance avec Abidjan | 10 % |  19.2 | non |
+| A43 | Panne ou entretien de la voiture de William (garage, contrôle technique, pneus) | 4 % |   6.7 | non |
+| A41 | Retard de paiement d'un client (15 à 90 jours) | 30 % |  71.1 | non |
+
+Effets à jouer : A09 (dimanche 03/11 (matin)) : Correction longue, agacement ; A12 (dimanche 03/11 (matin)) : Rumeur, tension d'équipe, risque pour William ; A20 (vendredi 01/11 (après-midi)) : Semaines de travail (F029) ; sans objet pendant les vacances ou à l'étranger ; A29 (samedi 02/11 (après-midi)) : Seulement un jour où William conduit ; A37 (vendredi 01/11 (soir) ; touché : Abdoul) : Seulement quand William ou l'équipe circule à Abidjan ; ajouté le 29/10/2026 (P39, validée par l'utilisateur) ; A40 (lundi 28/10 (après-midi)) : À partir du 1er octobre 2041, pour chaque directeur en période d'essai ; validé le 29/10/2026 (P43, revue n° 6)
+
+- Message spontané d'un proche, semaine du 2041-10-28 : Ruben Gomes (entraîneur de grappling) écrira le 31/10/2041 vers 09:30 (heure de l'expéditeur) · tiré parmi 38 personnes de l'entourage, pondérées par proximité (enregistré le 01/11/2026 11:49 heure machine)
+
+- Tirage [PROCÉDURE] A40 du 28/10/2041 : directeur touché, pondéré (Mariam Brou 1, Viviane Tanoh 1,5, Éric Koffi Yao 1,5, front H005 au palier 3) : voir memoire/tirages.jsonl
+
+- Tirage [T15] « P47 : un collègue ou un élève évoque-t-il l'activité de William en Côte d'Ivoire (semaine du 28/10) ? » : rien_laisse_passer 30 / accepte_volontiers 18 / garde_distance 14 / en_parle_a_d_autres 12 / rend_la_pareille 10 / demande_explication 8 / decline 6 / frontal_conflit 2 ; modificateurs : aucun ; jet  23.3 → **rien_laisse_passer** (enregistré le 01/11/2026 11:50 heure machine)
+
+- Tirage [T7c] « Courriel du 28/10 07h00 : financement jusqu'à Pâques, dispositif de suivi, demande écrite à Yao (08/11), devis de Port-Bouët (visite 30/10, devis 04/11), veille tarifs, option batteries, relance Vridi, gardiennage B, dépannage 24 h » : execute_sans_discuter 70 / execute_a_contrecoeur 20 / execute_partiellement 7 / frontal_refus 3 ; modificateurs : aucun ; jet  77.1 → **execute_a_contrecoeur** (enregistré le 01/11/2026 11:50 heure machine)
+
+- Tirage [T10] « Réponse de Coulibaly au courriel du 28/10 07h00 (dont la question sur sa charge) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet  12.2 → **immediat** (enregistré le 01/11/2026 11:50 heure machine)
+
+- Tirage [T22] « Front H004 « Lagune Kilowatt réagit à l'arrivée de SOLEIL B2B CI » : semaine du 28/10/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  26.3 → **zero_segment** (enregistré le 01/11/2026 11:52 heure machine)
+
+- Tirage [T22] « Front H005 « Comoé Solaire Services tente de débaucher l'équipe » : semaine du 28/10/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  26.5 → **zero_segment** (enregistré le 01/11/2026 11:52 heure machine)
+
+- Tirage [T22] « Front H006 « Ébène Watt casse les prix chez les petits clients » : semaine du 28/10/2041 » : zero_segment 55 / un_segment 35 / deux_segments 10 ; modificateurs : aucun ; jet  66.9 → **un_segment** (enregistré le 01/11/2026 11:52 heure machine)
+
+- Actualités de la semaine du 28/10/2041 : modèles LU01, LU04, FR01 [PROCÉDURE : outils/actualites.py] (enregistré le 01/11/2026 11:53 heure machine)

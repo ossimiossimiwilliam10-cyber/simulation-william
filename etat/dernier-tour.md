@@ -1,59 +1,48 @@
 # Dernier tour montré au joueur
 
-> Tour n° 176 ; horloge 27/10/2041 09:31 -> 27/10/2041 09:52 ; enregistré le 01/11/2026 11:45 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 177 ; horloge 28/10/2041 10:03 -> 28/10/2041 10:03 ; enregistré le 01/11/2026 11:53 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je viens également d'avoir une nouvelle idée. [...] service 24 heures sur 24, à la moindre panne, on a au moins un agent technique qui peut se déplacer [...] Vois ça avec Koulibaly. Et demande également à Koulibaly s'il est dépassé [...] Qu'est-ce qu'ils font à Abidjan en semaine là?
+> Je m'assois là et je me rends compte du formidable outil que j'ai à ma disposition. Je remercie mon conseiller [...] j'adore ses décisions. Bon, on peut faire un go.
 
 ## Texte envoyé au joueur
 
-**DIMANCHE 27 OCTOBRE 2041 — 09h52 — Audun-le-Tiche (Moselle), chez toi, salon**
+**LUNDI 28 OCTOBRE 2041 — 10h03 — Luxembourg-Ville, lycée, salle des professeurs**
 
-L'idée te vient en relisant les offres : un service de dépannage 24 heures sur 24, au moins un agent technique qui se déplace à la moindre panne, à mettre en avant dans les offres et à mettre en place pour de vrai. Tu l'écris aussitôt à ton conseiller, pour qu'il voie ça avec Coulibaly. Et tu ajoutes ce qui te reste en travers : qu'il demande à Coulibaly s'il est dépassé, parce que ça ne va pas, trop de manquements ; il ne relance pas assez Yao sur son équipe, le devis n'avance pas. Qu'est-ce qui se passe ? Qu'est-ce qu'ils font, à Abidjan, en semaine ?
+Tu remercies ton conseiller : tu te rends compte de l'outil formidable que tu as entre les mains. Qu'il fasse parvenir tous les messages et toutes les directives consignés. Vous êtes tellement en phase que ce qu'il dit te semble beaucoup plus intelligent que ce que tu mets en avant ; tu sais qu'il faut que tu restes éveillé, en tant qu'humain, mais globalement, tu adores ses décisions.
 
-La réponse arrive sept minutes plus tard :
+Sa réponse tient en trois lignes : « Merci. Tout part demain à 07h00, heure d'Abidjan, en un seul courriel. Garde ce réflexe d'éveil : mes propositions valent ce que valent les faits qu'on me donne, et tu en vois que je ne vois pas, comme le devis de Port-Bouët ce matin. Bon dimanche. »
 
-« Deux sujets.
+Le reste du dimanche se traîne sous la pluie : une heure de course lente sous la capuche autour du stade, des courses pour la semaine, une soirée sans écran à corriger les copies du contrôle sur les suites. Les pendules ont reculé d'une heure la nuit précédente ; à 18h00 il fait déjà nuit noire.
 
-1. Le service de dépannage 24 heures sur 24
-Bonne idée commerciale : c'est exactement ce que les clients reprochent aux installateurs qui cassent les prix, et ce que Lagune Kilowatt ne met pas en avant. Mais une promesse écrite dans une offre devient une obligation dans le contrat, avec des pénalités si on ne la tient pas. Je propose de la formuler ainsi :
-« Assistance téléphonique 7 jours sur 7, 24 heures sur 24 ; intervention d'un technicien sur site sous 24 heures en cas de panne bloquante. »
-Pourquoi 24 heures et pas « immédiatement » : aujourd'hui, nous n'avons ni technicien ni véhicule. Une équipe d'astreinte coûte de l'argent (prime d'astreinte, téléphone, déplacements) pour zéro installation à dépanner.
-La mise en place, dans l'ordre :
-- dans les offres dès maintenant, comme partie du contrat de maintenance payant (environ 1,35 million de FCFA par an pour 100 kWc), pas comme un service gratuit ;
-- l'astreinte réelle démarre à la mise en service de notre première installation ;
-- elle repose sur le vivier technique que M. Yao doit livrer le 8 novembre : je lui demande d'y ajouter le chiffrage d'une astreinte (un technicien joignable la nuit et le week-end, par roulement).
-Je l'ajoute au courriel de demain à Coulibaly.
+Lundi, le réveil de 06h10 sonne dans le noir complet. La route se fait sous une pluie froide, quatre degrés au tableau de bord, les essuie-glaces au maximum à la frontière. Tes deux premières heures passent ; à la pause, tu te poses en salle des professeurs avec un thé et tu ouvres Gestion. Un message de ton conseiller, arrivé à 08h20 :
 
-2. Ce qu'ils ont fait cette semaine, et la question à Coulibaly
-Les faits d'abord, pour que ta question tombe juste :
-- Mme Tanoh : deux nouveaux rendez-vous obtenus cette semaine, le rendez-vous de Port-Bouët tenu mardi.
-- M. Yao : la visite de Port-Bouët mardi ; la villa des Vallons (cloisons et câblage, une livraison partielle) ; toujours aucun fournisseur, toujours aucune proposition d'équipe.
-- Mariam Brou : la synthèse du gardiennage, le tableau de trésorerie pour mardi.
-- Coulibaly : ses deux comptes rendus à l'heure, la prolongation du gardiennage, le suivi des travaux. Mais il n'a pas relancé M. Yao par écrit sur l'équipe depuis le 1er octobre : rien dans ses comptes rendus.
-Tu as raison sur le fond : la technique traîne et Coulibaly ne tient pas assez son directeur technique. Le commercial, lui, avance.
+« Réponse de Coulibaly à 07h04 (heure d'Abidjan), en entier :
+« Bonjour Monsieur Ossimi. Bien reçu, merci. Je me permets quelques précisions. Pour Port-Bouët, le client ne peut recevoir la visite technique que jeudi 31 : son responsable de la maintenance est en congé jusqu'à mercredi. Avec la Toussaint vendredi, le devis sera remis mardi 5 au plus tôt. Pour M. Yao, je l'ai relancé de vive voix à plusieurs reprises ; je lui transmets votre demande écrite ce matin, avec la date du 8. Pour la charge, je ne vous cache pas que depuis le 1er octobre je fais la direction, une bonne partie de la prospection, la logistique de la villa et le suivi des travaux. Je tiens. Mais une assistante administrative à mi-temps me libérerait pour le terrain. Si vous le permettez, nous pourrions en parler à la réunion du 5. Pour le reste, c'est noté et transmis. M. Coulibaly »
 
-Je lui pose ta question, mais pas sous la forme « êtes-vous dépassé ? » : en Côte d'Ivoire, un directeur général à qui son patron demande ça par écrit entend « je doute de vous », et la réponse sera « tout va bien, Monsieur », quoi qu'il en soit. Voici ce que j'écris :
-« Mohamed, plusieurs sujets n'avancent pas au rythme voulu : l'équipe technique, les fournisseurs, le devis de Port-Bouët. Je compte sur vous pour tenir M. Yao sur ses délais. Dites-moi franchement si la charge est trop lourde aujourd'hui, et ce qu'il vous faudrait pour tenir les dates du plan. »
-Ça lui laisse une porte pour demander de l'aide, sans perdre la face.
+Mon analyse :
+- Port-Bouët : le motif du report est plausible et vérifiable ; le devis glisse d'un jour, au mardi 5. Je demande à Mme Tanoh de confirmer au client, par écrit, la date de la visite.
+- M. Yao : « relancé de vive voix », mais rien d'écrit depuis le 1er octobre. La demande écrite part aujourd'hui : à partir de maintenant, il y a une trace.
+- L'assistante : c'est une vraie demande, et c'est la réponse à ta question sur la charge. Une assistante à mi-temps coûterait, de mon estimation, environ 250 000 à 350 000 FCFA par mois, charges comprises. C'est une dépense nouvelle sans lien avec un client, donc contraire à la règle d'hier tant qu'aucun contrat n'est signé. Ce que je te propose de lui répondre le 5 : pas d'embauche avant le premier contrat ; en attendant, les pôles virtuels de Gestion prennent une partie de l'administratif (courriers, relances, tableaux), et on regarde avec lui ce qu'il peut déléguer à Mariam Brou.
+Rien à trancher ce matin. »
 
-Tout part demain à 07h00, heure d'Abidjan, dans le même courriel. »
+Autour de toi, la salle se remplit et se vide au rythme des sonneries ; personne ne vient s'asseoir à ta table.
 
-Il est 09h52.
+Il est 10h03.
 
 ---
 
 **Réponses attendues**
-- Personne ne t'attend : le courriel à Coulibaly part demain à 07h00, heure d'Abidjan (08h00 chez toi : la France et le Luxembourg sont passés à l'heure d'hiver cette nuit).
+- **Ton conseiller** : rien à trancher ce matin ; il propose de répondre à la demande d'assistante de Coulibaly à la réunion du 5 novembre (pas d'embauche avant le premier contrat, l'administratif repris en partie par les pôles virtuels et par Mariam Brou).
 
 **À faire / à fournir avant le tour suivant**
 - Rien d'urgent.
 
 **Quêtes secondaires**
-- Lundi 4 novembre : devis de Port-Bouët remis au client (visite technique au plus tard mercredi 30).
-- Vendredi 8 novembre : date limite de M. Yao (vivier technique, sous-traitance, trois fournisseurs, chiffrage de l'astreinte).
-- Mardi 5 novembre, 17h30 : réunion d'équipe, tu y présentes le dispositif de suivi.
-- Samedi 2 novembre : taille de la haie le matin ; dîner chez Thiago Alves à 19h30.
+- Jeudi 31 octobre : visite technique de Port-Bouët ; devis au client le mardi 5 novembre au plus tôt.
+- Vendredi 8 novembre : date limite de M. Yao.
+- Mardi 5 novembre, 17h30 : réunion d'équipe (dispositif de suivi, demande d'assistante).
+- Samedi 2 novembre : taille de la haie le matin ; dîner chez Thiago Alves à 19h30 ; début des vacances de la Toussaint.
 
 Que veux-tu faire ?

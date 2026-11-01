@@ -30,10 +30,20 @@ def lire():
 
 
 def ecrire(l):
-    with open(FICHIER, "w", encoding="utf-8", newline="") as f:
+    # 01/11/2026 (U3-28) : un « ; » dans une note avait deux fois vidé le fichier (champ en trop, écriture interrompue) ;
+    # les champs en trop rejoignent la note, les « ; » deviennent des virgules, et l'écriture passe par un fichier temporaire
+    propres = []
+    for p in l:
+        extra = p.pop(None, None)
+        if extra:
+            p["note"] = ", ".join([p.get("note") or ""] + [x for x in extra if x])
+        propres.append({k: (p.get(k) or "").replace(";", ",") for k in COLS})
+    tmp = FICHIER.with_suffix(".tmp")
+    with open(tmp, "w", encoding="utf-8", newline="") as f:
         w = csv.DictWriter(f, fieldnames=COLS, delimiter=";", lineterminator="\r\n")
         w.writeheader()
-        w.writerows(l)
+        w.writerows(propres)
+    tmp.replace(FICHIER)
 
 
 def semaine(lundi, simule=False):
