@@ -217,6 +217,7 @@ Langue : **français**.
 > (Min-ji, Hye-won, Soo-jin, Thiago Rocha, Lucas Mendes, voyage à Séoul) dans `archives/univers-3-partie-1/` et sous le tag git
 > `univers-3-partie-1` ; leurs lignes du §9 : `memoire/archive-point-de-reprise-univers-3-partie-1.md`. Tirages neufs : aucun résultat de la
 > première partie n'est rejoué. Les essais du moteur utilisent l'archive comme état d'essai (`outils/tests_moteur.py`).
+**Dimanche 27 octobre 2041, 09h52 — Audun-le-Tiche (Moselle), chez William : tour n° 176 joué (Idée du dépannage 24 h/24 ; question à Coulibaly sur sa charge, envoyée lundi) ; en attente : **rien d'urgent ; courriel à Coulibaly lundi 08h00 (Luxembourg)**.**
 **Dimanche 27 octobre 2041, 09h31 — Audun-le-Tiche (Moselle), chez William : tour n° 175 joué (Séance du 27 : devis de Port-Bouët exigé, gardiennage B, consignes pour lundi) ; en attente : **rien d'urgent ; consignes envoyées à Coulibaly demain 07h00 Abidjan**.**
 **Dimanche 27 octobre 2041, 09h00 — Audun-le-Tiche (Moselle), chez William : tour n° 174 joué (Séance du 27 octobre : décision sur le gardiennage de décembre) ; en attente : **Conseiller : offre B de gardiennage, oui ou non**.**
 **Samedi 26 octobre 2041, 09h40 — Audun-le-Tiche (Moselle), chez William : tour n° 173 joué (Plan d'action jusqu'au 31 mars ; tout virement passe désormais par l'avis du conseiller) ; en attente : **rien d'urgent ; séance demain**.**

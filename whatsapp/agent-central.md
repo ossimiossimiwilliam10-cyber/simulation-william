@@ -1005,3 +1005,29 @@ Ta décision : offre B à partir du 1er décembre, aux deux conditions, oui ou n
 5. Gardiennage. Noté : offre B au 1er décembre. Mariam Brou confirme le prix TTC par écrit lundi ; la résiliation du prestataire du bailleur part au plus tard mercredi 30, par lettre remise contre décharge.
 
 J'envoie tout cela à Coulibaly demain à 07h00, heure d'Abidjan, en un seul courriel depuis direction@, avec ce qui était déjà prévu (financement jusqu'à Pâques, dispositif de suivi, demande à M. Yao). Tu verras les résultats dans ses comptes rendus ; je t'écris avant seulement si quelque chose coince.
+**[27/10/2041 - 09:45 (Luxembourg)] William :** Nouvelle idée : un argument marketing de plus. On assure un service 24 heures sur 24 : à la moindre panne, au moins un agent technique peut se déplacer. On le met en avant, et il faut prévoir la mise en place de ce service. Vois ça avec Coulibaly. Et demande-lui s'il est dépassé, parce que là, ça ne va pas : beaucoup de manquements. Il ne relance pas assez Yao sur son équipe, le devis n'avance pas. Qu'est-ce qui se passe ? Qu'est-ce qu'ils font à Abidjan en semaine ?
+**[27/10/2041 - 09:52 (Luxembourg)] Agent central :** Deux sujets.
+
+1. Le service de dépannage 24 heures sur 24
+Bonne idée commerciale : c'est exactement ce que les clients reprochent aux installateurs qui cassent les prix, et ce que Lagune Kilowatt ne met pas en avant. Mais une promesse écrite dans une offre devient une obligation dans le contrat, avec des pénalités si on ne la tient pas. Je propose de la formuler ainsi :
+« Assistance téléphonique 7 jours sur 7, 24 heures sur 24 ; intervention d'un technicien sur site sous 24 heures en cas de panne bloquante. »
+Pourquoi 24 heures et pas « immédiatement » : aujourd'hui, nous n'avons ni technicien ni véhicule. Une équipe d'astreinte coûte de l'argent (prime d'astreinte, téléphone, déplacements) pour zéro installation à dépanner.
+La mise en place, dans l'ordre :
+- dans les offres dès maintenant, comme partie du contrat de maintenance payant (environ 1,35 million de FCFA par an pour 100 kWc), pas comme un service gratuit ;
+- l'astreinte réelle démarre à la mise en service de notre première installation ;
+- elle repose sur le vivier technique que M. Yao doit livrer le 8 novembre : je lui demande d'y ajouter le chiffrage d'une astreinte (un technicien joignable la nuit et le week-end, par roulement).
+Je l'ajoute au courriel de demain à Coulibaly.
+
+2. Ce qu'ils ont fait cette semaine, et la question à Coulibaly
+Les faits d'abord, pour que ta question tombe juste :
+- Mme Tanoh : deux nouveaux rendez-vous obtenus cette semaine, le rendez-vous de Port-Bouët tenu mardi.
+- M. Yao : la visite de Port-Bouët mardi ; la villa des Vallons (cloisons et câblage, une livraison partielle) ; toujours aucun fournisseur, toujours aucune proposition d'équipe.
+- Mariam Brou : la synthèse du gardiennage, le tableau de trésorerie pour mardi.
+- Coulibaly : ses deux comptes rendus à l'heure, la prolongation du gardiennage, le suivi des travaux. Mais il n'a pas relancé M. Yao par écrit sur l'équipe depuis le 1er octobre : rien dans ses comptes rendus.
+Tu as raison sur le fond : la technique traîne et Coulibaly ne tient pas assez son directeur technique. Le commercial, lui, avance.
+
+Je lui pose ta question, mais pas sous la forme « êtes-vous dépassé ? » : en Côte d'Ivoire, un directeur général à qui son patron demande ça par écrit entend « je doute de vous », et la réponse sera « tout va bien, Monsieur », quoi qu'il en soit. Voici ce que j'écris :
+« Mohamed, plusieurs sujets n'avancent pas au rythme voulu : l'équipe technique, les fournisseurs, le devis de Port-Bouët. Je compte sur vous pour tenir M. Yao sur ses délais. Dites-moi franchement si la charge est trop lourde aujourd'hui, et ce qu'il vous faudrait pour tenir les dates du plan. »
+Ça lui laisse une porte pour demander de l'aide, sans perdre la face.
+
+Tout part demain à 07h00, heure d'Abidjan, dans le même courriel.

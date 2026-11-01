@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 01/11/2026 11:37 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 01/11/2026 11:45 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : dimanche 27/10/2041 09:31 (luxembourg, UTC+1)
+## Horloge : dimanche 27/10/2041 09:52 (luxembourg, UTC+1)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 08:31 ; lisbonne 08:31 ; mindelo 07:31 ; casablanca 09:31 ; douala 09:31 ; addis 11:31 ; manille 16:31 ; paris 09:31 ; seoul 17:31 ; bresil 05:31
+- **Heure dans les autres lieux** : abidjan 08:52 ; lisbonne 08:52 ; mindelo 07:52 ; casablanca 09:52 ; douala 09:52 ; addis 11:52 ; manille 16:52 ; paris 09:52 ; seoul 17:52 ; bresil 05:52
 - **En attente de William** :
-  - rien d'urgent ; consignes envoyées à Coulibaly demain 07h00 Abidjan
+  - rien d'urgent ; courriel à Coulibaly lundi 08h00 (Luxembourg)
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **5 613,13 €**
@@ -44,9 +44,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-10-27.md, 6 dernières lignes)
-> # Dimanche 27 octobre 2041 — univers 3, 104e jour
-> - **00h00-09h00** (tour n° 174) : 09h00 — Samedi consacré au plan (le tirage « habitué au club samedi » est sans objet : William ne va pas au club, week-end de travail annoncé) ; nuit 22h40-06h50. Séance du 27/10 : bilan, notes (72, 71, 60, 65), trois nouvelles d'Abidjan, note de gardiennage de Mariam (D043, erreur HT/TTC relevée), décision demandée.
 > - Tirages du tour : jet « Un habitué du club (Lenny Nguyen) est là le samedi 26/10 ver » → OUI (29,86).
 > - Tour en cours à 09h00, en attente de William : **Conseiller : offre B de gardiennage, oui ou non**.
 > - **09h00-09h31** (tour n° 175) : 09h31 — Séance : William exige le devis de Port-Bouët ; consignes du conseiller (visite technique au plus tard le 30/10, devis au plus tard le 04/11, veille tarifs MT, option batteries, relance Vridi avant jeudi) ; Lagune : client différent (logisticien) ; gardiennage : offre B au 01/12 (A164-A168).
 > - Tour en cours à 09h31, en attente de William : **rien d'urgent ; consignes envoyées à Coulibaly demain 07h00 Abidjan**.
+> - **09h31-09h52** (tour n° 176) : 09h52 — Idée de William : dépannage 24 h/24 ; le conseiller propose « assistance 7j/7, technicien sous 24 h », dans le contrat de maintenance, astreinte à la première mise en service, chiffrage demandé à Yao ; faits de la semaine par directeur ; question à Coulibaly sur sa charge, reformulée ; envoi lundi 07h00 Abidjan (08h00 Luxembourg, heure d'hiver depuis la nu
+> - Tour en cours à 09h52, en attente de William : **rien d'urgent ; courriel à Coulibaly lundi 08h00 (Luxembourg)**.

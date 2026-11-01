@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-10-27 09:31
+horloge: 2041-10-27 09:52
 fuseau: luxembourg
 lieu: Audun-le-Tiche (Moselle), chez William
-tour: 175
-attente: rien d'urgent ; consignes envoyées à Coulibaly demain 07h00 Abidjan
+tour: 176
+attente: rien d'urgent ; courriel à Coulibaly lundi 08h00 (Luxembourg)
