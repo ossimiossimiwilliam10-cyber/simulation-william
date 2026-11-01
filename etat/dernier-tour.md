@@ -1,48 +1,45 @@
 # Dernier tour montré au joueur
 
-> Tour n° 183 ; horloge 28/10/2041 20:15 -> 30/10/2041 17:40 ; enregistré le 01/11/2026 12:25 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 184 ; horloge 30/10/2041 17:40 -> 30/10/2041 18:44 ; enregistré le 01/11/2026 12:38 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Ok, c'est vrai. Allez, on reste dans l'univers, on reste dans le réalisme. On peut continuer le tour, s'il te plaît. Go.
+> Ok, alors on ne va pas suivre Lagune sur le prix, mais on va direct demander au directeur de Vrigri pourquoi il a choisi Lagune. On garde le contact avec l'usine [...] on fait chercher à Monsieur Yahoo des économies de coûts avant le devis de Port-Bouet. Il faut également mettre en avant tout ce que j'ai dit précédemment comme argument marketing. C'est très important, hyper important même.
 
 ## Texte envoyé au joueur
 
-**MERCREDI 30 OCTOBRE 2041 — 17h40 — Audun-le-Tiche (Moselle), chez toi**
+**MERCREDI 30 OCTOBRE 2041 — 18h44 — Esch-sur-Alzette, Minett Combat Club**
 
-Le mardi passe sous des averses froides. Au lycée, l'air sent déjà la fin de période : les élèves comptent les jours avant les vacances, les collègues aussi. Tu croises Kim deux fois dans le couloir des sciences ; un signe de tête, rien de plus. L'après-midi, à la maison, tu boucles le contrôle de la semaine prochaine et tu corriges une pile de copies. Le téléphone reste muet ; dans Gestion, rien de nouveau qui te soit adressé.
+Tu réponds à ton conseiller, debout dans l'entrée, la veste encore à moitié enfilée. On ne suit pas Lagune sur le prix. On demande tout de suite au directeur de Vridi pourquoi il a choisi Lagune. On garde le contact avec l'usine : vu la réputation de Lagune, il y aura des manquements, et vous en profiterez pour revenir et reprendre le marché. M. Yao cherche des économies de coûts avant le devis de Port-Bouët. Et tous les arguments marketing que tu as donnés doivent être mis en avant : c'est hyper important.
 
-Mercredi, le ciel se dégage enfin. Un vrai soleil d'automne, bas et franc, presque quatorze degrés à midi. Tu rentres du lycée en début d'après-midi, tu prépares ton sac pour le club. À 17h40, au moment où tu enfiles ta veste, le téléphone vibre. Ton conseiller :
+Onze minutes plus tard, dans la voiture, au feu de la sortie d'Audun :
 
-« Une mauvaise nouvelle, que tu attendais : Vridi a dit non.
+« Noté, les quatre points. Coulibaly les reçoit demain à 07h00, heure d'Abidjan : Mme Tanoh appelle le directeur de Vridi dans la journée pour son retour, et elle le recontacte dans trois mois pour un point sur son installation ; M. Yao rend ses pistes d'économies sur Port-Bouët avant lundi.
 
-Mme Tanoh a relancé l'usine ce matin, comme prévu. Le directeur lui a répondu au téléphone qu'ils avaient retenu l'offre de Lagune Kilowatt la semaine dernière, environ 18 % moins chère que la nôtre. Il a apprécié la garantie de production et la maintenance, mais, selon ses mots rapportés par Coulibaly dans son point de 16h30, « le budget a tranché ». Coulibaly me l'a signalé le jour même, sans attendre vendredi : c'est à mettre à son crédit.
+Pour les arguments, j'ai fait mieux qu'un rappel : un argumentaire d'une page, dans Gestion, rubrique Documents. Il reprend tes idées (garantie de production, maintenance, assistance 24 heures sur 24 avec technicien sous 24 heures, délais écrits, option batteries face au groupe électrogène), la conduite à tenir face à un concurrent moins cher, et ce qu'on ajoutera dès que le barème de la moyenne tension sera publié. Il part avec le courriel ; Mme Tanoh l'utilise dès le devis de Port-Bouët et à chaque rendez-vous de novembre.
 
-Ce que ça change :
-- Il nous reste une offre à remettre, Port-Bouët (devis le 5 novembre), et une deuxième demande de devis, l'usine d'emballage de Treichville.
-- Les rendez-vous de novembre passent à six : trois nouveaux obtenus lundi (une usine d'emballage et un atelier textile à Vridi, une menuiserie industrielle à Abobo).
-- La règle de financement ne bouge pas : c'est précisément le cas qu'elle prévoit.
+Bonne séance au club. »
 
-Ce que je te propose, rien à trancher ce soir :
-1. Ne pas courir après Lagune sur le prix. 18 % de moins, c'est presque toute notre marge : signer à ce prix, c'est travailler pour rien.
-2. Demander au directeur de Vridi un vrai retour, par Mme Tanoh : le prix exact de Lagune s'il veut bien le dire, et ce qui aurait fait pencher la balance. C'est la seule donnée de marché solide qu'on peut tirer de cet échec.
-3. Garder le contact : une toiture posée vite et au rabais a souvent besoin de maintenance un an plus tard.
-4. Pour Port-Bouët, M. Yao vérifie avant le 5 où on peut baisser nos coûts (matériel, pose) sans toucher aux garanties, pour savoir jusqu'où on peut aller si le client cite un concurrent.
-On en reparle dimanche, et le 5 en réunion. »
+Dans Gestion, le document est là, en tête de liste : « Argumentaire commercial de SOLEIL B2B CI », une page, tes cinq arguments en gras.
 
-Il est 17h40.
+Au club, le soleil de l'après-midi a laissé une salle tiède et lumineuse ; par les vitres hautes, le ciel vire au rose au-dessus des toits de Lallange. Tu as à peine posé ton sac que Lenny arrive, déjà en tenue, les bandes autour des poings. Il te tend son poing pour le check, mais il ne sourit pas tout à fait.
+
+« Salut frère. » Il baisse un peu la voix, jette un coup d'œil vers le bureau vitré du fond, où Thiago remplit un classeur. « Dis, Thiago m'a dit que t'étais un peu sec avec lui lundi. Je sais pas ce qui s'est passé, hein. Il est comme ça, il prend tout de travers. Mais bon, comme on va chez lui samedi… »
+
+Il attend, le poing toujours tendu.
+
+Il est 18h44.
 
 ---
 
 **Réponses attendues**
-- **Ton conseiller** : rien à trancher ce soir ; il propose de ne pas suivre Lagune Kilowatt sur le prix, de demander au directeur de Vridi un vrai retour, de garder le contact, et de faire chercher à M. Yao des économies de coût avant le devis de Port-Bouët. On en reparle dimanche et le 5.
+- **Lenny Nguyen** : Thiago lui a dit que tu avais été « un peu sec » avec lui lundi ; il te le rapporte, à trois jours du dîner chez Thiago.
 
 **À faire / à fournir avant le tour suivant**
 - Rien d'urgent.
 
 **Quêtes secondaires**
-- Ce soir : club.
-- Jeudi 31 octobre : passation de Mariam Brou à 15h (Abidjan) ; visite technique de Port-Bouët.
+- Jeudi 31 octobre : passation de Mariam Brou à 15h (Abidjan) ; visite technique de Port-Bouët ; courriel du conseiller à Coulibaly à 08h00.
 - Mardi 5 novembre : devis de Port-Bouët au client ; devis du cabinet comptable ; réunion d'équipe à 17h30.
 - Samedi 2 novembre : taille de la haie le matin ; dîner chez Thiago Alves à 19h30.
 

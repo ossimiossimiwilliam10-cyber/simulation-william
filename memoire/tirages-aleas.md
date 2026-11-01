@@ -5259,3 +5259,5 @@ Effets à jouer : A09 (dimanche 03/11 (matin)) : Correction longue, agacement ; 
 - Tirage [T10] « Réponse de l'usine de Vridi à la relance de Mme Tanoh (offre de 90 M FCFA ; issue déjà tirée le 28/10 : perdu) » : immediat 15 / rapide 25 / dans_l_heure 15 / dans_la_journee 20 / le_soir_ou_lendemain 15 / plus_tard_ou_jamais 10 ; modificateurs : aucun ; jet   8.2 → **immediat** (enregistré le 01/11/2026 12:24 heure machine)
 
 - Jet « Coulibaly mentionne la perte de Vridi dans son point quotidien du mercredi 30/10 à 16h30 (sinon dans le compte rendu du vendredi) » : probabilité 75 %, jet  26.4 → **OUI** [PROCÉDURE : remontée d'une mauvaise nouvelle (point quotidien institué le 29/10, notation remontée d'information)] (enregistré le 01/11/2026 12:24 heure machine)
+
+- Tirage [T26] « Contenu de ce que Lenny dit à William au club le mercredi 30/10 (dîner de samedi chez Thiago) » : favorable 35 / neutre 40 / defavorable 25 ; modificateurs : aucun ; jet  91.5 → **defavorable** (enregistré le 01/11/2026 12:36 heure machine)

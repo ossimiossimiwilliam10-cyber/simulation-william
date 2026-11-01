@@ -1094,3 +1094,9 @@ Ce que je te propose, rien à trancher ce soir :
 3. Garder le contact : une toiture posée vite et au rabais a souvent besoin de maintenance un an plus tard.
 4. Pour Port-Bouët, M. Yao vérifie avant le 5 où on peut baisser nos coûts (matériel, pose) sans toucher aux garanties, pour savoir jusqu'où on peut aller si le client cite un concurrent.
 On en reparle dimanche, et le 5 en réunion.
+**[30/10/2041 - 17:45 (Luxembourg)] William :** On ne suit pas Lagune sur le prix. On demande tout de suite au directeur de Vridi pourquoi il a choisi Lagune. On garde le contact avec l'usine : vu la réputation de Lagune, il y aura des manquements, et on en profitera pour revenir et reprendre le marché. On fait chercher à M. Yao des économies de coûts avant le devis de Port-Bouët. Et il faut mettre en avant tous les arguments marketing que j'ai donnés : c'est hyper important.
+**[30/10/2041 - 17:56 (Luxembourg)] Agent central :** Noté, les quatre points. Coulibaly les reçoit demain à 07h00, heure d'Abidjan : Mme Tanoh appelle le directeur de Vridi dans la journée pour son retour, et elle le recontacte dans trois mois pour un point sur son installation ; M. Yao rend ses pistes d'économies sur Port-Bouët avant lundi.
+
+Pour les arguments, j'ai fait mieux qu'un rappel : un argumentaire d'une page, dans Gestion, rubrique Documents. Il reprend tes idées (garantie de production, maintenance, assistance 24 heures sur 24 avec technicien sous 24 heures, délais écrits, option batteries face au groupe électrogène), la conduite à tenir face à un concurrent moins cher, et ce qu'on ajoutera dès que le barème de la moyenne tension sera publié. Il part avec le courriel ; Mme Tanoh l'utilise dès le devis de Port-Bouët et à chaque rendez-vous de novembre.
+
+Bonne séance au club.

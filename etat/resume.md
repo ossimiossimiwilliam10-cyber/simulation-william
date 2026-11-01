@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 01/11/2026 12:25 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 01/11/2026 12:38 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mercredi 30/10/2041 17:40 (luxembourg, UTC+1)
-- **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 16:40 ; lisbonne 16:40 ; mindelo 15:40 ; casablanca 17:40 ; douala 17:40 ; addis 19:40 ; manille 00:40 ; paris 17:40 ; seoul 01:40 ; bresil 13:40
+## Horloge : mercredi 30/10/2041 18:44 (luxembourg, UTC+1)
+- **Lieu de William** : Esch-sur-Alzette, Minett Combat Club
+- **Heure dans les autres lieux** : abidjan 17:44 ; lisbonne 17:44 ; mindelo 16:44 ; casablanca 18:44 ; douala 18:44 ; addis 20:44 ; manille 01:44 ; paris 18:44 ; seoul 02:44 ; bresil 14:44
 - **En attente de William** :
-  - rien à trancher ; Vridi perdu, débrief dimanche et le 05/11
+  - Lenny : Thiago trouve que William a été sec lundi
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **5 613,13 €**
@@ -18,7 +18,8 @@
 ## ÉCHÉANCES ÉCHUES NON CLOSES (jouer, reporter avec raison ou annuler : règle 14)
 - A168 Mon 28/10 19:00 (luxembourg) | Mariam Brou : Confirmation écrite du prix TTC de l'offre B de gardiennage [prevu]  — consigne du 27/10 transmise le 28/10 07h00
 
-## Agenda : dans les 24 heures (1)
+## Agenda : dans les 24 heures (2)
+- A172 Thu 31/10 08:00 (luxembourg) | conseiller → Mohamed Coulibaly : Courriel : retour de Vridi à demander, contact à garder, économies de M. Yao avant lundi, argumentaire commercial joint [prevu]  — décisions de William du 30/10 17h45
 - A170 Thu 31/10 16:00 (luxembourg) | Mohamed Coulibaly · Mariam Brou : Passation écrite de Mariam Brou (dossiers, tableau de trésorerie, originaux, lettre de résiliation du gardiennage) puis retrait de ses accès le soir [prevu]  — décision de William du 28/10
 ## Agenda : de J+1 à J+7 (8)
 - A164 Thu 31/10 20:00 (luxembourg) | Viviane Tanoh · Éric Koffi Yao : Visite technique de l'entrepôt frigorifique de Port-Bouët [prevu]  — consigne du 27/10 transmise le 28/10 07h00 | reporté de 2041-10-30 18:00 : le responsable maintenance du client est en congé jusqu'au mercredi 30 (Coulibaly, 28/10 07h04 ; T7c execute_a_contrecoeur)
@@ -47,7 +48,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-10-30.md, 6 dernières lignes)
-> # Mercredi 30 octobre 2041 — univers 3, 107e jour
 > - **00h00-17h40** (tour n° 183) : 17h40 — Mardi et mercredi sans interaction (nuits 22h30-06h10) ; promesses tenues (compte rendu du mardi, résiliation du gardiennage remise le 30/10, relance de Vridi le 30/10) ; Vridi : client retient Lagune Kilowatt (≈ 18 % moins cher ; issue tirée le 28/10, révélée par la relance, T10 immédiat) ; Coulibaly le remonte dans son point de 16h30 (tiré OUI) ; message
 > - Tirages du tour : T15 Thiago → garde_distance (55,19) ; jet « Viviane Tanoh tient sa promesse : relance l'usine de Vridi a » → OUI (51,36) ; jet « Mohamed Coulibaly tient sa promesse : compte rendu du mardi  » → OUI (79,64) ; jet « Mohamed Coulibaly tient sa promesse : résiliation du gardien » → OUI (77,8) ; jet « Lenny Nguyen vient au club le mercredi 30/10 vers 18h40 » → OUI (63,46) ; jet « Mm
 > - Tour en cours à 17h40, en attente de William : **rien à trancher ; Vridi perdu, débrief dimanche et le 05/11**.
+> - **17h40-18h44** (tour n° 184) : 18h44 — Décisions sur Vridi (retour demandé, contact gardé, recontact le 30/01 A173), économies de Yao, argumentaire commercial PDF (D045), courriel à Coulibaly demain (A172). Club : Lenny présent (tiré OUI) ; T26 défavorable : il rapporte que Thiago a trouvé William sec lundi (cohérent avec T15 garde_distance de Thiago).
+> - Tirages du tour : T26 → defavorable (91,47).
+> - Tour en cours à 18h44, en attente de William : **Lenny : Thiago trouve que William a été sec lundi**.
