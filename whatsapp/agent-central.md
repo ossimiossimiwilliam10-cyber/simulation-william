@@ -1041,3 +1041,5 @@ Mon analyse :
 - M. Yao : « relancé de vive voix », mais rien d'écrit depuis le 1er octobre. La demande écrite part aujourd'hui : à partir de maintenant, il y a une trace.
 - L'assistante : c'est une vraie demande, et c'est la réponse à ta question sur la charge. Une assistante à mi-temps coûterait, de mon estimation, environ 250 000 à 350 000 FCFA par mois, charges comprises. C'est une dépense nouvelle sans lien avec un client, donc contraire à la règle d'hier tant qu'aucun contrat n'est signé. Ce que je te propose de lui répondre le 5 : pas d'embauche avant le premier contrat ; en attendant, les pôles virtuels de Gestion prennent une partie de l'administratif (courriers, relances, tableaux), et on regarde avec lui ce qu'il peut déléguer à Mariam Brou.
 Rien à trancher ce matin.
+**[28/10/2041 - 10:06 (Luxembourg)] William :** J'accepte totalement ta directive pour la demande d'assistante de Coulibaly : on la présente à la réunion du 5 novembre.
+**[28/10/2041 - 10:07 (Luxembourg)] Agent central :** Noté, c'est à l'ordre du jour du 5.

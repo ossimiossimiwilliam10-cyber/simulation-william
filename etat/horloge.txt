@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-10-28 10:03
+horloge: 2041-10-28 16:24
 fuseau: luxembourg
-lieu: Luxembourg-Ville, lycée, salle des professeurs
-tour: 177
-attente: rien à trancher ; demande d'assistante de Coulibaly à traiter le 05/11
+lieu: Audun-le-Tiche (Moselle), chez William
+tour: 178
+attente: Coulibaly : démission de Mariam Brou en période d'essai, comment procéder

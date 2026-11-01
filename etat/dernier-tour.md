@@ -1,48 +1,40 @@
 # Dernier tour montré au joueur
 
-> Tour n° 177 ; horloge 28/10/2041 10:03 -> 28/10/2041 10:03 ; enregistré le 01/11/2026 11:53 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 178 ; horloge 28/10/2041 10:03 -> 28/10/2041 16:24 ; enregistré le 01/11/2026 11:57 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je m'assois là et je me rends compte du formidable outil que j'ai à ma disposition. Je remercie mon conseiller [...] j'adore ses décisions. Bon, on peut faire un go.
+> Alors du coup, j'accepte totalement sa directive concernant la demande d'assistante de Colibali. Donc on présentera ça à la réunion du 5 novembre. Ouais, et à part ça, bah, go, hein.
 
 ## Texte envoyé au joueur
 
-**LUNDI 28 OCTOBRE 2041 — 10h03 — Luxembourg-Ville, lycée, salle des professeurs**
+**LUNDI 28 OCTOBRE 2041 — 16h24 — Audun-le-Tiche (Moselle), chez toi**
 
-Tu remercies ton conseiller : tu te rends compte de l'outil formidable que tu as entre les mains. Qu'il fasse parvenir tous les messages et toutes les directives consignés. Vous êtes tellement en phase que ce qu'il dit te semble beaucoup plus intelligent que ce que tu mets en avant ; tu sais qu'il faut que tu restes éveillé, en tant qu'humain, mais globalement, tu adores ses décisions.
+Tu réponds à ton conseiller que tu acceptes totalement sa directive sur la demande d'assistante : on la présentera à la réunion du 5 novembre. Sa réponse tombe dans la minute : « Noté, c'est à l'ordre du jour du 5. »
 
-Sa réponse tient en trois lignes : « Merci. Tout part demain à 07h00, heure d'Abidjan, en un seul courriel. Garde ce réflexe d'éveil : mes propositions valent ce que valent les faits qu'on me donne, et tu en vois que je ne vois pas, comme le devis de Port-Bouët ce matin. Bon dimanche. »
+La journée de cours reprend. Une heure de terminale où personne n'a révisé les suites, un sandwich avalé debout à la cantine, deux heures l'après-midi dans une salle surchauffée qui sent la laine mouillée des manteaux. À 15h45, tu reprends la route sous une pluie qui ne s'est pas arrêtée depuis le matin ; il fait déjà gris sombre quand tu passes la frontière, les phares allumés à 16h00.
 
-Le reste du dimanche se traîne sous la pluie : une heure de course lente sous la capuche autour du stade, des courses pour la semaine, une soirée sans écran à corriger les copies du contrôle sur les suites. Les pendules ont reculé d'une heure la nuit précédente ; à 18h00 il fait déjà nuit noire.
+Tu viens de poser ton sac dans l'entrée, de mettre l'eau à chauffer, quand le téléphone vibre sur le plan de travail. WhatsApp, Mohamed Coulibaly :
 
-Lundi, le réveil de 06h10 sonne dans le noir complet. La route se fait sous une pluie froide, quatre degrés au tableau de bord, les essuie-glaces au maximum à la frontière. Tes deux premières heures passent ; à la pause, tu te poses en salle des professeurs avec un thé et tu ouvres Gestion. Un message de ton conseiller, arrivé à 08h20 :
+« Monsieur Ossimi, excusez-moi de vous déranger. Mme Brou vient de me remettre une lettre : elle met fin à sa période d'essai. Elle a accepté un poste de formatrice en comptabilité dans un centre de formation du Plateau, à vingt minutes de chez elle. Son dernier jour serait jeudi 31. Elle s'engage à remettre ses dossiers et le tableau de trésorerie avant de partir. Je n'ai rien vu venir, je vous le dis franchement. Comment souhaitez-vous que je procède ? Je peux essayer de la retenir, mais je ne crois pas qu'elle changera d'avis. M. Coulibaly »
 
-« Réponse de Coulibaly à 07h04 (heure d'Abidjan), en entier :
-« Bonjour Monsieur Ossimi. Bien reçu, merci. Je me permets quelques précisions. Pour Port-Bouët, le client ne peut recevoir la visite technique que jeudi 31 : son responsable de la maintenance est en congé jusqu'à mercredi. Avec la Toussaint vendredi, le devis sera remis mardi 5 au plus tôt. Pour M. Yao, je l'ai relancé de vive voix à plusieurs reprises ; je lui transmets votre demande écrite ce matin, avec la date du 8. Pour la charge, je ne vous cache pas que depuis le 1er octobre je fais la direction, une bonne partie de la prospection, la logistique de la villa et le suivi des travaux. Je tiens. Mais une assistante administrative à mi-temps me libérerait pour le terrain. Si vous le permettez, nous pourrions en parler à la réunion du 5. Pour le reste, c'est noté et transmis. M. Coulibaly »
+La bouilloire siffle derrière toi.
 
-Mon analyse :
-- Port-Bouët : le motif du report est plausible et vérifiable ; le devis glisse d'un jour, au mardi 5. Je demande à Mme Tanoh de confirmer au client, par écrit, la date de la visite.
-- M. Yao : « relancé de vive voix », mais rien d'écrit depuis le 1er octobre. La demande écrite part aujourd'hui : à partir de maintenant, il y a une trace.
-- L'assistante : c'est une vraie demande, et c'est la réponse à ta question sur la charge. Une assistante à mi-temps coûterait, de mon estimation, environ 250 000 à 350 000 FCFA par mois, charges comprises. C'est une dépense nouvelle sans lien avec un client, donc contraire à la règle d'hier tant qu'aucun contrat n'est signé. Ce que je te propose de lui répondre le 5 : pas d'embauche avant le premier contrat ; en attendant, les pôles virtuels de Gestion prennent une partie de l'administratif (courriers, relances, tableaux), et on regarde avec lui ce qu'il peut déléguer à Mariam Brou.
-Rien à trancher ce matin. »
-
-Autour de toi, la salle se remplit et se vide au rythme des sonneries ; personne ne vient s'asseoir à ta table.
-
-Il est 10h03.
+Il est 16h24.
 
 ---
 
 **Réponses attendues**
-- **Ton conseiller** : rien à trancher ce matin ; il propose de répondre à la demande d'assistante de Coulibaly à la réunion du 5 novembre (pas d'embauche avant le premier contrat, l'administratif repris en partie par les pôles virtuels et par Mariam Brou).
+- **Mohamed Coulibaly** : Mariam Brou, ta directrice administrative et financière, quitte la société en période d'essai (dernier jour annoncé : jeudi 31 octobre) ; il demande comment procéder et propose d'essayer de la retenir, sans y croire.
 
 **À faire / à fournir avant le tour suivant**
-- Rien d'urgent.
+- Rien d'autre.
 
 **Quêtes secondaires**
+- Ce soir : club (lundi, mercredi, vendredi).
 - Jeudi 31 octobre : visite technique de Port-Bouët ; devis au client le mardi 5 novembre au plus tôt.
 - Vendredi 8 novembre : date limite de M. Yao.
 - Mardi 5 novembre, 17h30 : réunion d'équipe (dispositif de suivi, demande d'assistante).
-- Samedi 2 novembre : taille de la haie le matin ; dîner chez Thiago Alves à 19h30 ; début des vacances de la Toussaint.
+- Samedi 2 novembre : taille de la haie le matin ; dîner chez Thiago Alves à 19h30.
 
 Que veux-tu faire ?

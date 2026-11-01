@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 01/11/2026 11:53 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 01/11/2026 11:57 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : lundi 28/10/2041 10:03 (luxembourg, UTC+1)
-- **Lieu de William** : Luxembourg-Ville, lycée, salle des professeurs
-- **Heure dans les autres lieux** : abidjan 09:03 ; lisbonne 09:03 ; mindelo 08:03 ; casablanca 10:03 ; douala 10:03 ; addis 12:03 ; manille 17:03 ; paris 10:03 ; seoul 18:03 ; bresil 06:03
+## Horloge : lundi 28/10/2041 16:24 (luxembourg, UTC+1)
+- **Lieu de William** : Audun-le-Tiche (Moselle), chez William
+- **Heure dans les autres lieux** : abidjan 15:24 ; lisbonne 15:24 ; mindelo 14:24 ; casablanca 16:24 ; douala 16:24 ; addis 18:24 ; manille 23:24 ; paris 16:24 ; seoul 00:24 ; bresil 12:24
 - **En attente de William** :
-  - rien à trancher ; demande d'assistante de Coulibaly à traiter le 05/11
+  - Coulibaly : démission de Mariam Brou en période d'essai, comment procéder
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **5 613,13 €**
@@ -44,7 +44,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-10-28.md, 6 dernières lignes)
-> # Lundi 28 octobre 2041 — univers 3, 105e jour
 > - **10h03-10h03** (tour n° 177) : 10h03 — Dimanche : remerciements, synthèse W43, T4/T5 (rien). Lundi : aléas de la semaine (A09, A12 dim. 03/11 ; A20 ven. 01/11 ; A29 sam. 02/11 ; A37 ven. 01/11 ; A40 lun. 28/10 après-midi, touche Mariam Brou, tirage pondéré) ; message d'un proche : Ruben Gomes le 31/10 ; P47 : rien ; population d'Abidjan +25 ; prospects du 28/10 (Vridi perdu, révélé plus tard). 
 > - Tirages du tour : T4 → aucune (36,35) ; T5 → aucune (61,99) ; T4 → aucune (49,69) ; T5 → aucune (69,67) ; procédure :  ; T15 → rien_laisse_passer (23,3) ; T7c Mohamed → execute_a_contrecoeur (77,07) ; T10 Mohamed → immediat (12,19) ; T22 → zero_segment (26,26) ; T22 → zero_segment (26,53) ; T22 → un_segment (66,95) ; procédure : LU01, LU04, FR01.
 > - Tour en cours à 10h03, en attente de William : **rien à trancher ; demande d'assistante de Coulibaly à traiter le 05/11**.
+> - **10h03-16h24** (tour n° 178) : 16h24 — Assistante : réponse au 05/11 (A169). Aléa A40 joué : Mariam Brou met fin à sa période d'essai (poste de formatrice au Plateau, dernier jour le 31/10) ; Coulibaly prévient William à 16h24 ; salaire de Mariam arrêté au 31/10 et gardiennage B inscrit dans les engagements.
+> - Tirages du tour : procédure : LU01, LU04, FR01.
+> - Tour en cours à 16h24, en attente de William : **Coulibaly : démission de Mariam Brou en période d'essai, comment procéder**.
