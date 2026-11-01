@@ -1,74 +1,73 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 01/11/2026 11:22 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 01/11/2026 11:28 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : samedi 26 octobre 2041, 09h40 (luxembourg) ; tour n° 173
+- Horloge : dimanche 27 octobre 2041, 09h00 (luxembourg) ; tour n° 174
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : rien d'urgent ; séance demain
+- En attente de William : Conseiller : offre B de gardiennage, oui ou non
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 173 ; horloge 26/10/2041 09:16 -> 26/10/2041 09:40 ; enregistré le 01/11/2026 11:22 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 174 ; horloge 26/10/2041 09:40 -> 27/10/2041 09:00 ; enregistré le 01/11/2026 11:28 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je décide de suivre les conseils de mon conseiller, de suivre ses directives. Toutes. Même sur les décisions, je décide de suivre ce qu'il me conseille. Donc je lui demande de planifier du coup tout ce que l'on doit mettre en place, lui et moi. Et à partir de maintenant, avant de confirmer un virement, je passerai toujours par lui pour vous lui demander si la pertinence est validée, avant que je valide.
+> Go
 
 ## Texte envoyé au joueur
 
-**SAMEDI 26 OCTOBRE 2041 — 09h40 — Audun-le-Tiche (Moselle), chez toi, cuisine**
+**DIMANCHE 27 OCTOBRE 2041 — 09h00 — Audun-le-Tiche (Moselle), chez toi, salon**
 
-Tu réponds à ton conseiller que tu suis toutes ses directives, y compris sur les trois décisions : tu fais ce qu'il te conseille. Qu'il planifie tout ce que vous devez mettre en place, lui et toi. Et que, désormais, avant de confirmer un virement, tu passeras toujours par lui pour qu'il en valide la pertinence, avant de valider toi-même.
+Le reste du samedi, tu le passes sur le plan. Tu imprimes le PDF, tu le relis le stylo à la main, tu recopies les dates dans ton carnet à spirale et tu entoures en rouge le 31 mars. À midi, une soupe et du pain ; l'après-midi, la pluie ne s'arrête pas, et tu reprends un à un les messages de Coulibaly depuis septembre, pour te refaire le fil de l'offre de Vridi et des rendez-vous de Mme Tanoh. Le soir, un film que tu regardes à moitié, le téléphone posé sur l'accoudoir, qui ne sonne pas. Tu te couches vers 22h40 et tu dors d'une traite, cette fois, dans une rue silencieuse.
 
-Pendant que tu attends, tu te refais un café. La machine crachote, la pluie fait un bruit de friture sur le velux de l'entrée. À 09h40, la réponse :
+Dimanche, il fait gris et froid, à peine huit degrés, une pluie fine qui ne mouille presque pas. À 09h00 pile, comme chaque dimanche, le message de ton conseiller ouvre la séance :
 
-« Entendu. Pour les trois décisions, voici ce que je retiens, puisque tu me laisses le choix :
-a) Le dispositif de suivi : oui, tel que proposé.
-b) L'annonce : Coulibaly l'apprend de moi en privé lundi, pour qu'il ne le découvre pas devant son équipe ; c'est toi qui le présentes à tous à la réunion du 5 novembre, comme la règle de la maison. Début le mercredi 6.
-c) La demande à M. Yao passe par Coulibaly, lundi, avec la date du vendredi 8 novembre. Passer par-dessus lui dès la première demande lui coûterait son autorité.
+« Séance du dimanche 27 octobre.
 
-Le plan complet est dans Gestion, rubrique Documents : « Plan d'action jusqu'au 31 mars 2042 ». Les grandes dates :
-- Demain : séance (gardiennage, point clients).
-- Lundi 28 : Coulibaly informé (financement jusqu'à Pâques, suivi, demande à M. Yao).
-- Mardi 29 : premier tableau de trésorerie sur treize semaines de Mariam Brou.
-- Mardi 5 novembre, 17h30 : tu annonces le suivi à la réunion.
-- Vendredi 8 : date limite de M. Yao ; la question de l'avance sur marché posée à la SGCI.
-- Mardi 12 et jeudi 14 novembre, 17h30 : premières visioconférences de vingt minutes avec chaque directeur.
-- Lundi 2 décembre : premier versement de survie, si la trésorerie le confirme.
-- Dimanche 15 décembre : le plan B écrit.
-- Lundi 31 mars : date butoir.
+La semaine en bref :
+- Décembre annulé, Pâques envisagé ; Coulibaly a pris le report sans question.
+- Règle de financement adoptée, plan d'action écrit.
+- Clients : pas encore de réponse de Vridi, attendue vers le 1er novembre ; Port-Bouët attend son devis ; quatre rendez-vous en novembre.
+- Notes de la semaine : Coulibaly 72 (+ 1), Éric Koffi Yao 71 (− 2), Viviane Tanoh 60 (+ 6), Mariam Brou 65 (+ 3).
 
-Pour les virements, c'est noté comme règle permanente : tu m'envoies le montant, le bénéficiaire et le motif, je te réponds pertinent ou non, avec la raison, et c'est toi qui confirmes. Je garderai une trace de chaque avis.
+Trois nouvelles d'Abidjan :
+- Le ministère de l'Énergie annonce une révision des tarifs de la moyenne tension au 1er janvier ; les industriels de Yopougon parlent d'une hausse. C'est un argument pour nos offres, à vérifier quand le barème sera publié.
+- Des coupures de plusieurs heures à la zone industrielle de Yopougon cette semaine, pendant des travaux sur un poste électrique.
+- Lagune Kilowatt publie sur LinkedIn la mise en service d'une toiture d'un logisticien de Vridi. Ils occupent le terrain, et ils le font savoir.
 
-Une seule limite à cette délégation : je te conseille, je ne signe rien. Si un jour je me trompe sur un chiffre, comme sur la date du 3 janvier, c'est ta signature qui engage. Relis toujours le montant avant de confirmer. »
+La décision du jour : le gardiennage à partir du 1er décembre.
+La note de Mariam Brou est dans Gestion. Elle compare trois offres et recommande l'offre B, une société agréée de Cocody, à 430 000 FCFA par mois, contre 540 000 pour le prestataire actuel du bailleur. Elle annonce une économie de 110 000 FCFA par mois.
+Le pôle finance a relevé une erreur : 430 000 est un prix hors taxes, 540 000 un prix toutes taxes comprises. Avec la TVA à 18 %, l'offre B revient à environ 507 000 FCFA TTC : l'économie réelle est d'environ 33 000 FCFA par mois (50 €), pas 110 000.
+Malgré cela, je recommande l'offre B : elle est agréée, assurée en responsabilité civile, et le préavis n'est que d'un mois. L'offre C reste écartée sans agrément.
+Deux conditions : Mariam Brou confirme lundi le prix TTC par écrit ; et la résiliation du prestataire actuel part avant le jeudi 31 octobre, sinon il faudra payer décembre en plus.
+Je n'en fais pas un reproche à Mariam devant l'équipe : je le lui signale en privé, avec la façon de présenter un comparatif.
 
-Dans Gestion, rubrique Documents, un nouveau fichier est apparu en tête de liste : le plan d'action, avec son tableau de dates jusqu'au 31 mars.
+Ta décision : offre B à partir du 1er décembre, aux deux conditions, oui ou non ? »
 
-Il est 09h40.
+Il est 09h00.
 
 ---
 
 **Réponses attendues**
-- Personne ne t'attend pour l'instant.
+- **Ton conseiller** : offre B pour le gardiennage à partir du 1er décembre (environ 507 000 FCFA TTC par mois), sous réserve de la confirmation écrite du prix TTC lundi et d'une résiliation du prestataire actuel avant le jeudi 31 octobre : oui ou non ?
 
 **À faire / à fournir avant le tour suivant**
-- Rien d'urgent.
+- Rien d'autre.
 
 **Quêtes secondaires**
-- Demain, dimanche 27 octobre : séance de travail avec ton conseiller (synthèse du gardiennage de Mariam Brou, point clients).
 - Mardi 5 novembre, 17h30 : réunion d'équipe, tu y présentes le dispositif de suivi.
-- Dîner chez Thiago Alves le samedi 2 novembre à 19h30 (adresse à venir) ; le matin, taille de la haie partagée avec ton voisin de gauche.
+- Samedi 2 novembre : taille de la haie partagée le matin ; dîner chez Thiago Alves à 19h30 (adresse à venir).
 - Vers le 1er novembre : réponse de l'industriel de Vridi.
 
 Que veux-tu faire ?
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
-- rien
+- A156 Mon 28/10 09:00 (luxembourg) | conseiller → Mohamed Coulibaly : Informer Coulibaly que le financement jusqu'à Pâques est assuré (sans chiffres) [prevu]  — annoncé par le conseiller le 25/10 à 22h02
 
 ## Rituels du moteur dus (rituels.py)
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_annonce : T4/T5 du dimanche 25/08 non trouvés -> python outils/savoir.py t5
@@ -83,6 +82,7 @@ Que veux-tu faire ?
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_art14 : T4/T5 du dimanche 13/10 non trouvés -> python outils/savoir.py t5
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_annonce : T4/T5 du dimanche 20/10 non trouvés -> python outils/savoir.py t5
 - [EN RETARD] t4_t5_dimanche : affaire_projet_ci_art14 : T4/T5 du dimanche 20/10 non trouvés -> python outils/savoir.py t5
+- [DÛ] synthese_semaine : ce soir : synthèse de la semaine, T4/T5 des affaires ouvertes -> python outils/savoir.py t5
 - [EN RETARD] message_proche : message spontané d'un proche (semaine du 26/08) non tiré -> python outils/rituels.py message-proche --semaine 2041-08-26
 - [EN RETARD] monde_semaine : nouvelles du monde de la semaine du 26/08 absentes de etat/monde.md -> ## Semaine du 26 au 01/09/2041
 - [EN RETARD] revue_lundi : revue du lundi 02/09/2041 absente -> memoire/revue-lundi-2041-09-02.md
@@ -204,10 +204,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 055b351 ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : e68aab9 ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche claude/vigorous-jang-66b9e5 ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 15 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 22 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

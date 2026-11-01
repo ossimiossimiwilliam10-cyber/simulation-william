@@ -970,3 +970,24 @@ Le plan complet est dans Gestion, rubrique Documents : « Plan d'action jusqu'au
 Pour les virements, c'est noté comme règle permanente : tu m'envoies le montant, le bénéficiaire et le motif, je te réponds pertinent ou non, avec la raison, et c'est toi qui confirmes. Je garderai une trace de chaque avis.
 
 Une seule limite à cette délégation : je te conseille, je ne signe rien. Si un jour je me trompe sur un chiffre, comme sur la date du 3 janvier, c'est ta signature qui engage. Relis toujours le montant avant de confirmer.
+**[27/10/2041 - 09:00 (Luxembourg)] Agent central :** Séance du dimanche 27 octobre.
+
+La semaine en bref :
+- Décembre annulé, Pâques envisagé ; Coulibaly a pris le report sans question.
+- Règle de financement adoptée, plan d'action écrit.
+- Clients : pas encore de réponse de Vridi, attendue vers le 1er novembre ; Port-Bouët attend son devis ; quatre rendez-vous en novembre.
+- Notes de la semaine : Coulibaly 72 (+ 1), Éric Koffi Yao 71 (− 2), Viviane Tanoh 60 (+ 6), Mariam Brou 65 (+ 3).
+
+Trois nouvelles d'Abidjan :
+- Le ministère de l'Énergie annonce une révision des tarifs de la moyenne tension au 1er janvier ; les industriels de Yopougon parlent d'une hausse. C'est un argument pour nos offres, à vérifier quand le barème sera publié.
+- Des coupures de plusieurs heures à la zone industrielle de Yopougon cette semaine, pendant des travaux sur un poste électrique.
+- Lagune Kilowatt publie sur LinkedIn la mise en service d'une toiture d'un logisticien de Vridi. Ils occupent le terrain, et ils le font savoir.
+
+La décision du jour : le gardiennage à partir du 1er décembre.
+La note de Mariam Brou est dans Gestion. Elle compare trois offres et recommande l'offre B, une société agréée de Cocody, à 430 000 FCFA par mois, contre 540 000 pour le prestataire actuel du bailleur. Elle annonce une économie de 110 000 FCFA par mois.
+Le pôle finance a relevé une erreur : 430 000 est un prix hors taxes, 540 000 un prix toutes taxes comprises. Avec la TVA à 18 %, l'offre B revient à environ 507 000 FCFA TTC : l'économie réelle est d'environ 33 000 FCFA par mois (50 €), pas 110 000.
+Malgré cela, je recommande l'offre B : elle est agréée, assurée en responsabilité civile, et le préavis n'est que d'un mois. L'offre C reste écartée sans agrément.
+Deux conditions : Mariam Brou confirme lundi le prix TTC par écrit ; et la résiliation du prestataire actuel part avant le jeudi 31 octobre, sinon il faudra payer décembre en plus.
+Je n'en fais pas un reproche à Mariam devant l'équipe : je le lui signale en privé, avec la façon de présenter un comparatif.
+
+Ta décision : offre B à partir du 1er décembre, aux deux conditions, oui ou non ?
