@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 01/11/2026 10:39 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 01/11/2026 11:05 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : vendredi 25/10/2041 21:54 (luxembourg, UTC+2)
+## Horloge : samedi 26/10/2041 08:35 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 19:54 ; lisbonne 20:54 ; mindelo 18:54 ; casablanca 20:54 ; douala 20:54 ; addis 22:54 ; manille 03:54 ; paris 21:54 ; seoul 04:54 ; bresil 16:54
+- **Heure dans les autres lieux** : abidjan 06:35 ; lisbonne 07:35 ; mindelo 05:35 ; casablanca 07:35 ; douala 07:35 ; addis 09:35 ; manille 14:35 ; paris 08:35 ; seoul 15:35 ; bresil 03:35
 - **En attente de William** :
-  - Conseiller : plafond (165 000 € nets ou moins) et premier versement de survie début décembre
+  - Conseiller : William doit exposer son nouveau système
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **5 613,13 €**
@@ -20,8 +20,8 @@
 
 ## Agenda : dans les 24 heures (1)
 - A153 Sat 26/10 09:12 (luxembourg) | Thiago Alves : Répond au oui de William (adresse et heure du dîner du 2/11) [prevu]  [NON CONNU DE WILLIAM : ne pas montrer]  — T10 dans_la_journee (tiré le 25/10), décalé au réveil (routines)
-## Agenda : de J+1 à J+7 (0)
-- rien
+## Agenda : de J+1 à J+7 (1)
+- A156 Mon 28/10 09:00 (luxembourg) | conseiller → Mohamed Coulibaly : Informer Coulibaly que le financement jusqu'à Pâques est assuré (sans chiffres) [prevu]  — annoncé par le conseiller le 25/10 à 22h02
 (Les lignes « NON CONNU DE WILLIAM » servent au moteur : ne jamais les montrer au joueur avant le jour dit.)
 
 ## Affaires ouvertes (T4/T5 chaque dimanche soir)
@@ -39,10 +39,7 @@
 - Pendant : réactions et négociations par `jet.py --table Tn` (T1 à T14 ; `--pour` pour un personnage) ; personnages nouveaux par `personnage.py nouveau` ; faits et prix par `faits.py` et `prix.py` ; lieux par `lieux.py voir` ; révélations dans `savoir.py ajouter` ; argent dans `grand_livre.py ajouter`.
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
-## Fin du dernier journal (2041-10-25.md, 6 dernières lignes)
-> - Tour en cours à 21h20, en attente de William : **Thiago Alves : dîner du samedi 2 novembre**.
-> - **21h20-21h36** (tour n° 169) : 21h36 — Oui à Thiago (dîner du 2/11, A152 ; sa réponse tirée pour demain 09h12, A153). William soumet au conseiller l'idée d'injecter une partie de l'ETF après un premier contrat ; analyse chiffrée (survie ~65 k€ jusqu'à Pâques, BFR Vridi ~62 k€, Port-Bouët ~99 k€, PFU 31,4 %, avance sur marché SGCI, trois règles).
-> - Tirages du tour : T10 Thiago → dans_la_journee (57,57).
-> - Tour en cours à 21h36, en attente de William : **Conseiller : prix de revient de l'ETF ; tableau pour dimanche**.
-> - **21h36-21h54** (tour n° 170) : 21h54 — William envoie son prix de revient (538 243 €) ; recommandation du conseiller (survie 65 k€ au fil du besoin, contrat 100 k€ sous trois conditions, plafond 165 k€ nets, butoir 31/03/2042). Aléa A24 commencé : musique chez le voisin de droite.
-> - Tour en cours à 21h54, en attente de William : **Conseiller : plafond (165 000 € nets ou moins) et premier versement de survie début décembre**.
+## Fin du dernier journal (2041-10-26.md, 6 dernières lignes)
+> # Samedi 26 octobre 2041 — univers 3, 103e jour
+> - **00h00-08h35** (tour n° 171) : 08h35 — Règle de financement adoptée (A147 close, A154, A155, A156 ; EVAL003 71/100) ; nuit perturbée par la fête du voisin de droite jusqu'à 01h00 (aléa A24) ; samedi 26, William s'installe pour travailler avec le conseiller.
+> - Tour en cours à 08h35, en attente de William : **Conseiller : William doit exposer son nouveau système**.

@@ -1,68 +1,54 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 01/11/2026 10:39 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 01/11/2026 11:05 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : vendredi 25 octobre 2041, 21h54 (luxembourg) ; tour n° 170
+- Horloge : samedi 26 octobre 2041, 08h35 (luxembourg) ; tour n° 171
 - Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : Conseiller : plafond (165 000 € nets ou moins) et premier versement de survie début décembre
+- En attente de William : Conseiller : William doit exposer son nouveau système
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 170 ; horloge 25/10/2041 21:36 -> 25/10/2041 21:54 ; enregistré le 01/11/2026 10:39 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 171 ; horloge 25/10/2041 21:54 -> 26/10/2041 08:35 ; enregistré le 01/11/2026 11:05 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Je décide donc d'envoyer toutes ces données-là à mon conseiller pour qu'il puisse me donner une directive.
+> Je décide de suivre les directives de mon conseiller. Et du coup, je me couche pour me réveiller dès demain matin et me mettre de nouveau au boulot avec lui. Parce que j'ai envie de mettre en place un tout nouveau système.
 
 ## Texte envoyé au joueur
 
-**VENDREDI 25 OCTOBRE 2041 — 21h54 — Audun-le-Tiche (Moselle), chez toi**
+**SAMEDI 26 OCTOBRE 2041 — 08h35 — Audun-le-Tiche (Moselle), chez toi, cuisine**
 
-Tu ouvres l'application de ton courtier, tu fais défiler le relevé jusqu'au détail du portefeuille, et tu envoies tout à ton conseiller : prix de revient de l'ETF, 538 243 € (532 488 € versés de 26 à 36 ans, plus les 5 755 € d'août) ; valeur actuelle, 676 135 € ; plus-value latente, 137 892 €, environ 20 % de la valeur. Et tu lui demandes une directive.
+Tu écris à ton conseiller que tu suis ses directives : plafond de 165 000 € nets, et oui au premier versement de survie début décembre ; vous vous y remettez demain matin, tu veux mettre en place un tout nouveau système.
 
-De l'autre côté du mur mitoyen, une musique se met à cogner chez ton voisin de droite, des basses sourdes qui font vibrer le verre de la fenêtre du salon. Six minutes plus tard, la réponse :
+La réponse arrive deux minutes plus tard : « Noté. La règle est écrite : plafond 165 000 € nets, survie au fil du besoin (premier versement début décembre, environ 25 000 €), argent du contrat seulement avec contrat signé, acompte encaissé et demande déposée à la SGCI, date butoir le 31 mars. Je l'inscris dans Gestion et je préviens Coulibaly lundi que le financement jusqu'à Pâques est assuré, sans chiffres. Ton évaluation est mise à jour. À demain. »
 
-« Merci, ça change le calcul de l'impôt. Avec 20 % de plus-value dans chaque euro vendu, l'impôt tombe à environ 6,4 % du montant vendu : pour avoir 100 000 € nets, tu vends environ 106 800 € et tu paies environ 6 800 €. Bien moins que ce que je t'avais annoncé.
+Dans Gestion, ta fiche est passée à 71 sur 100 : 79 en gouvernance, 69 en finances, 66 en stratégie. Deux lignes en dessous : le motif inventé donné à Coulibaly pour décembre, « une version à tenir dans la durée », et le rappel qu'aucun client n'est signé.
 
-La décision reste la tienne. Ma recommandation, en quatre points :
+Tu te couches vers 22h15. Le sommeil ne vient pas : chez le voisin de droite, la musique monte d'un cran, des voix et des rires éclatent sur sa terrasse, des bouteilles qui s'entrechoquent, quelqu'un qui chante faux en luxembourgeois. Les basses traversent le mur mitoyen jusque dans ton oreiller. Vers une heure, d'un coup, plus rien : des portières, une voiture qui démarre, puis le silence. Tu t'endors enfin.
 
-1. Survie : 65 000 € nets au plus, vendus au fil du besoin, pas d'un coup.
-- Début décembre : environ 25 000 €, de quoi passer janvier.
-- Fin janvier : le reste, seulement si la trésorerie le demande à ce moment-là.
-Vendre au fil du besoin laisse le reste investi et te garde la main si un contrat arrive entre-temps. Coût d'impôt sur le tout : environ 4 400 €.
+Le réveil, tu l'as laissé éteint. Tu ouvres les yeux à 07h50, la tête un peu lourde. Dehors, une pluie fine et grise colle aux vitres, le genre de ciel bas qui ne se lèvera pas de la journée. Douche, un grand café, trois œufs brouillés. À 08h35, tu es installé à la table de la cuisine, l'ordinateur ouvert à côté du téléphone, le carnet à spirale où tu notes tes idées posé à droite, et la conversation avec ton conseiller ouverte à l'écran, le curseur qui clignote.
 
-2. Contrat : 100 000 € nets au plus, et seulement à trois conditions, toutes les trois :
-- un contrat signé ;
-- l'acompte du client encaissé sur le compte de la société ;
-- une demande d'avance sur marché déposée à la SGCI : ce que la banque finance, tu ne le vends pas.
-Pas de contrat, pas de versement.
-
-3. Plafond total : 165 000 € nets, soit environ 176 000 € vendus et 11 300 € d'impôt. Ton ETF ne descend jamais sous 500 000 €. C'est ta perte maximale si tout tourne mal.
-
-4. Date butoir : 31 mars 2042, avant ta venue à Pâques. Si rien n'est signé à cette date, aucun euro de plus. On réduit les coûts à la place : la fin de période d'essai de Mme Tanoh, le 31 décembre, est le premier levier ; la taille de l'équipe, le second.
-
-Ce que je te demande de trancher, dimanche ou au plus tard le 5 novembre : le plafond (165 000 €, ou moins), et le premier versement de survie début décembre, oui ou non. »
-
-Il est 21h54.
+Il est 08h35.
 
 ---
 
 **Réponses attendues**
-- **Ton conseiller** : il te demande de trancher le plafond (165 000 € nets, ou moins) et le premier versement de survie de début décembre (environ 25 000 €, oui ou non), dimanche ou au plus tard le 5 novembre.
+- **Ton conseiller** : prêt à travailler avec toi ce matin ; il attend que tu lui exposes le nouveau système que tu veux mettre en place.
 
 **À faire / à fournir avant le tour suivant**
-- Rien d'autre ce soir.
+- Rien d'urgent.
 
 **Quêtes secondaires**
 - Thiago Alves : il n'a pas encore répondu à ton oui pour le dîner du samedi 2 novembre.
 - Vers le 1er novembre : réponse de l'industriel de Vridi à l'offre de 90 millions de FCFA.
-- Dimanche 27 octobre : séance de travail avec ton conseiller.
+- Demain, dimanche 27 octobre : séance de travail avec ton conseiller.
 - Samedi 2 novembre, 09h00 : taille de la haie partagée avec ton voisin de gauche ; début des vacances de la Toussaint (jusqu'au dimanche 10 novembre).
+- Lundi 2 décembre : premier versement de survie à la société (environ 25 000 € nets tirés de l'ETF).
 
 Que veux-tu faire ?
 
@@ -205,10 +191,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : ded558a ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 005b952 ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche claude/vigorous-jang-66b9e5 ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 11 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 16 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

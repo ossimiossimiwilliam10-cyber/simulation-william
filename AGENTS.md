@@ -217,6 +217,7 @@ Langue : **français**.
 > (Min-ji, Hye-won, Soo-jin, Thiago Rocha, Lucas Mendes, voyage à Séoul) dans `archives/univers-3-partie-1/` et sous le tag git
 > `univers-3-partie-1` ; leurs lignes du §9 : `memoire/archive-point-de-reprise-univers-3-partie-1.md`. Tirages neufs : aucun résultat de la
 > première partie n'est rejoué. Les essais du moteur utilisent l'archive comme état d'essai (`outils/tests_moteur.py`).
+**Samedi 26 octobre 2041, 08h35 — Audun-le-Tiche (Moselle), chez William : tour n° 171 joué (Règle de financement adoptée ; samedi matin, William s'installe pour bâtir un nouveau système) ; en attente : **Conseiller : William doit exposer son nouveau système**.**
 **Vendredi 25 octobre 2041, 21h54 — Audun-le-Tiche (Moselle), chez William : tour n° 170 joué (Le conseiller recommande un plafond de 165 000 € et des versements au fil du besoin) ; en attente : **Conseiller : plafond (165 000 € nets ou moins) et premier versement de survie début décembre**.**
 **Vendredi 25 octobre 2041, 21h36 — Audun-le-Tiche (Moselle), chez William : tour n° 169 joué (William soumet l'idée d'injecter l'ETF ; le conseiller distingue survie et exécution d'un contrat) ; en attente : **Conseiller : prix de revient de l'ETF ; tableau pour dimanche**.**
 **Vendredi 25 octobre 2041, 21h20 — Audun-le-Tiche (Moselle), chez William : tour n° 168 joué (Huit rounds avec Lenny ; Thiago Alves invite William à dîner le 2 novembre) ; en attente : **Thiago Alves : dîner du samedi 2 novembre**.**

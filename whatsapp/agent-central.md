@@ -906,3 +906,5 @@ Pas de contrat, pas de versement.
 4. Date butoir : 31 mars 2042, avant ta venue à Pâques. Si rien n'est signé à cette date, aucun euro de plus. On réduit les coûts à la place : la fin de période d'essai de Mme Tanoh, le 31 décembre, est le premier levier ; la taille de l'équipe, le second.
 
 Ce que je te demande de trancher, dimanche ou au plus tard le 5 novembre : le plafond (165 000 €, ou moins), et le premier versement de survie début décembre, oui ou non.
+**[25/10/2041 - 22:00 (Luxembourg)] William :** Je suis tes directives : plafond 165 000 € nets, et oui au premier versement de survie début décembre. On s'y remet demain matin : je veux mettre en place un tout nouveau système.
+**[25/10/2041 - 22:02 (Luxembourg)] Agent central :** Noté. La règle est écrite : plafond 165 000 € nets, survie au fil du besoin (premier versement début décembre, environ 25 000 €), argent du contrat seulement avec contrat signé, acompte encaissé et demande déposée à la SGCI, date butoir le 31 mars. Je l'inscris dans Gestion et je préviens Coulibaly lundi que le financement jusqu'à Pâques est assuré, sans chiffres. Ton évaluation est mise à jour. À demain.
