@@ -23,3 +23,4 @@
 ## Historique
 - 25/10/2041 : invite William à dîner le samedi 2/11 (feijoada, gars du club, Lenny) ; accepté.
 - 28/10/2041 : en salle le lundi soir, vient parler à William du dîner.
+- 28/10/2041, 18h48 : William répond qu'il est « omnivore, un vrai » ; réponse polie et brève, retour à son bureau (T15 garde_distance).

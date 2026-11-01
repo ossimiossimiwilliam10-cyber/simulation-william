@@ -1,44 +1,40 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 01/11/2026 12:18 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 01/11/2026 12:20 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : lundi 28 octobre 2041, 18h47 (luxembourg) ; tour n° 181
-- Lieu de William : Esch-sur-Alzette, Minett Combat Club
-- En attente de William : Thiago Alves : ce que William ne mange pas (feijoada de samedi)
+- Horloge : lundi 28 octobre 2041, 20h15 (luxembourg) ; tour n° 182
+- Lieu de William : Audun-le-Tiche (Moselle), chez William
+- En attente de William : rien d'urgent
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 181 ; horloge 28/10/2041 17:10 -> 28/10/2041 18:47 ; enregistré le 01/11/2026 12:18 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 182 ; horloge 28/10/2041 18:47 -> 28/10/2041 20:15 ; enregistré le 01/11/2026 12:20 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Go
+> Je réponds à Thiago Alves qu'il n'y a pas de souci à ce niveau-là, que moi je suis un omnivore, un vrai.
 
 ## Texte envoyé au joueur
 
-**LUNDI 28 OCTOBRE 2041 — 18h47 — Esch-sur-Alzette, Minett Combat Club**
+**LUNDI 28 OCTOBRE 2041 — 20h15 — Audun-le-Tiche (Moselle), chez toi**
 
-Tu manges une banane debout dans la cuisine, tu prends ton sac et tu repars sous la pluie vers Esch. Le lundi soir, la salle est à moitié vide : pas de Lenny sur le tapis, deux lutteurs qui travaillent des entrées de jambe dans un coin, un groupe de femmes en cours de cardio-boxe qui crie les répétitions en luxembourgeois. Tu attaques la musculation, puis le sac, seul, la tête encore pleine d'Abidjan.
+Tu lui réponds qu'il n'y a aucun souci de ce côté-là : tu es omnivore, un vrai.
 
-Tu en es à ta troisième série de développé couché quand Thiago Alves, le coach de musculation, s'approche du banc. Un homme d'un mètre soixante-dix-huit, carré, environ quatre-vingt-cinq kilos : des épaules et des bras épais de culturiste qui vieillit, la poitrine large, un ventre qui s'est arrondi sous le tee-shirt noir du club. La peau mate, cuivrée, un visage carré au nez large, des rides de rire au coin des yeux ; des yeux marron foncé derrière des lunettes rectangulaires à monture noire qu'il remonte d'un doigt ; une barbe courte poivre et sel taillée net, les cheveux noirs ras, dégarnis sur le front. Il porte un jogging gris et une ceinture lombaire serrée lâche autour de la taille, un sifflet autour du cou dont personne ne l'a jamais vu se servir.
+« Perfeito. » Il tapote deux fois la barre, hoche la tête. « Alors à samedi, 19h30. » Il ne s'attarde pas : il retourne vers le petit bureau vitré au fond de la salle, où l'attend un classeur de fiches d'inscription, et s'y assoit en grimaçant, une main dans le creux des reins. Il ne relève plus la tête vers toi du reste de la séance.
 
-Il attend que tu reposes la barre sur les crochets, se penche un peu en se tenant le bas du dos.
+Tu finis tes séries, vingt minutes de sac en enchaînements, quelques étirements sur le tapis désormais vide. À la sortie, la pluie a cessé ; le parking luit sous les lampadaires et l'air sent la terre mouillée. Vingt minutes de route, une douche, une omelette au fromage et du pain. À 20h15, tu es dans le canapé, les épaules chaudes, le téléphone silencieux sur la table basse.
 
-« E aí, William ! Samedi, ça tient toujours ? » Il sourit. « Dis-moi : il y a un truc que tu manges pas ? Porc, piment, n'importe quoi ? La feijoada, chez moi, c'est avec tout le cochon dedans. Je préfère savoir avant. »
-
-Il reste là, une main sur la barre, à attendre ta réponse.
-
-Il est 18h47.
+Il est 20h15.
 
 ---
 
 **Réponses attendues**
-- **Thiago Alves** : il te demande s'il y a quelque chose que tu ne manges pas (porc, piment…) pour la feijoada de samedi.
+- Personne ne t'attend.
 
 **À faire / à fournir avant le tour suivant**
 - Rien d'urgent.
@@ -51,6 +47,7 @@ Il est 18h47.
 Que veux-tu faire ?
 
 ## Échéances : retards et prochaines 24 h (les lignes NON CONNU sont pour le moteur seul)
+- ⚠ 1 échéance(s) échue(s) non close(s) (règle 14)
 - A168 Mon 28/10 19:00 (luxembourg) | Mariam Brou : Confirmation écrite du prix TTC de l'offre B de gardiennage [prevu]  — consigne du 27/10 transmise le 28/10 07h00
 
 ## Rituels du moteur dus (rituels.py)
@@ -190,10 +187,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 9a67cba ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 30f37dc ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche claude/vigorous-jang-66b9e5 ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 14 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 11 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 

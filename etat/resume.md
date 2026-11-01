@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 01/11/2026 12:18 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 01/11/2026 12:20 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : lundi 28/10/2041 18:47 (luxembourg, UTC+1)
-- **Lieu de William** : Esch-sur-Alzette, Minett Combat Club
-- **Heure dans les autres lieux** : abidjan 17:47 ; lisbonne 17:47 ; mindelo 16:47 ; casablanca 18:47 ; douala 18:47 ; addis 20:47 ; manille 01:47 ; paris 18:47 ; seoul 02:47 ; bresil 14:47
+## Horloge : lundi 28/10/2041 20:15 (luxembourg, UTC+1)
+- **Lieu de William** : Audun-le-Tiche (Moselle), chez William
+- **Heure dans les autres lieux** : abidjan 19:15 ; lisbonne 19:15 ; mindelo 18:15 ; casablanca 20:15 ; douala 20:15 ; addis 22:15 ; manille 03:15 ; paris 20:15 ; seoul 04:15 ; bresil 16:15
 - **En attente de William** :
-  - Thiago Alves : ce que William ne mange pas (feijoada de samedi)
+  - rien d'urgent
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **5 613,13 €**
@@ -15,8 +15,11 @@
 - Patrimoine net de William : **789 285,35 €**
 - Prévu dans les 14 jours : 31/10 Traitement mensuel de William (9 320,00 €) ; 04/11 Minett Combat Club (-85,00 €) ; 04/11 Package bancaire Zebra Premium (-12,83 €) ; 04/11 Virement permanent vers le compte épargne (-1 487,00 €) ; 04/11 Virement permanent vers le compte épargne (1 487,00 €) ; 04/11 Virement permanent vers SOLEIL B2B CI (-5 000,00 €) ; 05/11 Mensualité du prêt immobilier et assurance emprunteu (-949,28 €) ; 05/11 Prêt immobilier de la maison d'Audun-le-Tiche (-632,34 €) ; 05/11 Part nette du bien financé : + capital remboursé (632,34 €) ; 05/11 Assurance habitation (-45,00 €) ; 05/11 Voiture électrique : assurance tous risques (-107,00 €) ; 07/11 Visa Premier : relevé clos le 30/10/2041, débit du s (-150,00 €) ; 11/11 Électricité (-132,00 €) ; 11/11 Gaz naturel (-253,00 €)
 
-## Agenda : dans les 24 heures (1)
+## ÉCHÉANCES ÉCHUES NON CLOSES (jouer, reporter avec raison ou annuler : règle 14)
 - A168 Mon 28/10 19:00 (luxembourg) | Mariam Brou : Confirmation écrite du prix TTC de l'offre B de gardiennage [prevu]  — consigne du 27/10 transmise le 28/10 07h00
+
+## Agenda : dans les 24 heures (0)
+- rien
 ## Agenda : de J+1 à J+7 (7)
 - A165 Wed 30/10 19:00 (luxembourg) | Mohamed Coulibaly · Mariam Brou : Résiliation du prestataire de gardiennage du bailleur (fin au 30/11), lettre remise contre décharge [prevu]  — consigne du 27/10 transmise le 28/10 07h00
 - A170 Thu 31/10 16:00 (luxembourg) | Mohamed Coulibaly · Mariam Brou : Passation écrite de Mariam Brou (dossiers, tableau de trésorerie, originaux, lettre de résiliation du gardiennage) puis retrait de ses accès le soir [prevu]  — décision de William du 28/10
@@ -44,9 +47,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-10-28.md, 6 dernières lignes)
-> - **16h37-17h10** (tour n° 180) : 17h10 — William valide les quatre points dès maintenant (pôle de la DAF automatisé, pas de remplacement avant le premier contrat, cabinet étendu, double validation au-dessus de 500 000 FCFA, point quotidien de 16h30) ; Coulibaly exécute sans discuter (T7c, T10 rapide) : passation jeudi 15h (A170), devis du cabinet (A171).
-> - Tirages du tour : T7c Mohamed → execute_sans_discuter (23,67) ; T10 Mohamed → rapide (22,03).
-> - Tour en cours à 17h10, en attente de William : **rien d'urgent ; club ce soir**.
 > - **17h10-18h47** (tour n° 181) : 18h47 — Club du lundi : Lenny absent (tiré NON) ; Thiago Alves en salle (tiré OUI, fiche créée, description complète) demande ce que William ne mange pas pour la feijoada.
 > - Tirages du tour : jet « Lenny Nguyen vient au club le lundi 28/10 vers 18h40 » → NON (89,14) ; jet « Thiago Alves est en salle le lundi 28/10 entre 18h30 et 20h  » → OUI (47,79).
 > - Tour en cours à 18h47, en attente de William : **Thiago Alves : ce que William ne mange pas (feijoada de samedi)**.
+> - **18h47-20h15** (tour n° 182) : 20h15 — Réponse à Thiago (T15 garde_distance : bref, retour au bureau) ; fin de séance, retour, dîner.
+> - Tirages du tour : T15 Thiago → garde_distance (55,19).
+> - Tour en cours à 20h15, en attente de William : **rien d'urgent**.

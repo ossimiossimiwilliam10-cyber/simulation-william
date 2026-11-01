@@ -5243,3 +5243,5 @@ Effets à jouer : A09 (dimanche 03/11 (matin)) : Correction longue, agacement ; 
 - Jet « Lenny Nguyen vient au club le lundi 28/10 vers 18h40 » : probabilité 85 %, jet  89.1 → **NON** [PROCÉDURE : habitude du club (lundi, routines.py)] (enregistré le 01/11/2026 12:16 heure machine)
 
 - Jet « Thiago Alves est en salle le lundi 28/10 entre 18h30 et 20h et parle à William » : probabilité 60 %, jet  47.8 → **OUI** [PROCÉDURE : planning du club (coach de musculation en salle le lundi soir)] (enregistré le 01/11/2026 12:17 heure machine)
+
+- Tirage [T15] « Club, 28/10 18h48 : William répond qu'il n'y a aucun souci, qu'il est omnivore, un vrai » : rien_laisse_passer 30 / accepte_volontiers 18 / garde_distance 14 / en_parle_a_d_autres 12 / rend_la_pareille 10 / demande_explication 8 / decline 6 / frontal_conflit 2 ; modificateurs : aucun ; jet  55.2 → **garde_distance** (enregistré le 01/11/2026 12:20 heure machine)
