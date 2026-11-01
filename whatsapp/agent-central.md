@@ -1043,3 +1043,31 @@ Mon analyse :
 Rien à trancher ce matin.
 **[28/10/2041 - 10:06 (Luxembourg)] William :** J'accepte totalement ta directive pour la demande d'assistante de Coulibaly : on la présente à la réunion du 5 novembre.
 **[28/10/2041 - 10:07 (Luxembourg)] Agent central :** Noté, c'est à l'ordre du jour du 5.
+**[28/10/2041 - 16:30 (Luxembourg)] William :** Mariam Brou s'en va en période d'essai, dernier jour jeudi. Avant que je réponde à Coulibaly : liste-moi l'ensemble des tâches qu'elle faisait réellement, que je mesure à quel point son départ va nous faire mal.
+**[28/10/2041 - 16:37 (Luxembourg)] Agent central :** Voici ce qu'elle faisait vraiment, depuis sa prise de fonction le 1er octobre, et ce qui reposait sur elle.
+
+Ce qu'elle a fait :
+- La consultation du gardiennage (trois prestataires) et la synthèse du 24 octobre, avec l'erreur sur les taxes.
+- Le lien avec le cabinet comptable : saisie des pièces, préparation de la paie d'octobre.
+- Le tableau de trésorerie sur treize semaines, attendu demain : commencé, pas rendu.
+
+Ce qui reposait sur elle dans les semaines à venir :
+- La confirmation écrite du prix TTC du gardiennage (aujourd'hui) et la lettre de résiliation du prestataire actuel (au plus tard mercredi).
+- La question de l'avance sur marché à la SGCI (8 novembre).
+- Les déclarations CNPS et l'impôt sur les salaires d'octobre, à déposer le 15 novembre avec le cabinet.
+- La paie de novembre et de chaque mois.
+- Et surtout le contrôle des paiements : c'est elle, et pas Coulibaly, qui devait vérifier chaque facture avant paiement. C'est la pièce du dispositif contre les détournements qui saute.
+
+Ce que ça coûte vraiment :
+- En volume de travail : peu, aujourd'hui. Elle a peu produit en quatre semaines, et le cabinet comptable fait déjà la saisie et la paie.
+- En contrôle : beaucoup. Sans elle, Coulibaly décide et paie seul. Avec la vigilance que nous gardons sur lui, ce n'est pas acceptable longtemps.
+- En argent : son départ allège les charges d'environ 2,2 millions de FCFA par mois (coût employeur). Fin décembre, la trésorerie de la société revient à peu près à zéro au lieu de − 4 millions.
+
+Ce que je te recommande de répondre à Coulibaly :
+1. Ne pas chercher à la retenir à tout prix : elle part pour son trajet et pour changer de métier, pas pour de l'argent. Une conversation courtoise pour connaître sa vraie raison, et c'est tout.
+2. Une passation écrite avant jeudi soir : la liste de ses dossiers, le tableau de trésorerie en l'état, les originaux, la lettre de résiliation du gardiennage signée, et le retrait de tous ses accès (banque, messagerie, Gestion) le 31 au soir.
+3. Son solde de tout compte : salaire d'octobre et congés acquis, sans indemnité, puisque c'est une fin de période d'essai.
+4. Pas de remplacement avant le premier contrat : le cabinet comptable reprend les déclarations et la paie (avec un supplément à négocier), le pôle finance virtuel fait le tableau de trésorerie, et chaque paiement au-dessus de 500 000 FCFA passe par une double validation, Coulibaly puis toi dans Gestion, avec mon avis.
+Le point 4 se tranche le 5 novembre ; les points 1 à 3, aujourd'hui.
+
+Si tu es d'accord, je l'écris à Coulibaly ce soir.
