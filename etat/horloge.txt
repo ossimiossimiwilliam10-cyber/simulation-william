@@ -1,6 +1,6 @@
 # Horloge de la simulation (mise à jour à la fin de chaque tour ; lue par agenda.py, grand_livre.py, resume_etat.py)
-horloge: 2041-10-30 18:44
+horloge: 2041-10-30 18:45
 fuseau: luxembourg
 lieu: Esch-sur-Alzette, Minett Combat Club
-tour: 184
-attente: Lenny : Thiago trouve que William a été sec lundi
+tour: 185
+attente: Lenny : ce que William voulait dire par « un vrai omnivore »
