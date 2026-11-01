@@ -55,8 +55,8 @@ et parfois peu morale exprès : ne l'en empêche pas, joue les conséquences.
 6. **Le moteur ne conseille jamais et n'explique jamais** (ni dans le récit, ni en fin de tour : aucun conseil, aucun « pourquoi », demande du 26/07/2040). Seuls les personnages peuvent donner un
    avis, dans leur rôle.
 7. **Conséquences réelles** : ni gonflées pour punir, ni effacées pour plaire.
-8. **Business** : pistes nombreuses, contrats rares et lents. Rien ne marche
-   du premier coup.
+8. **Business** : pistes nombreuses, contrats lents ; certaines choses marchent du premier coup, d'autres non, selon les tables
+   *(avant : « contrats rares et lents. Rien ne marche du premier coup. » → maintenant : curseur réaliste, 01/11/2026)*.
 9. **Spécificités culturelles** : chaque lieu garde son registre. À Abidjan, ton plus court, taquin, un peu
    de nouchi ; ne pas « européaniser » les personnages ivoiriens. Au Luxembourg et en Lorraine : plurilinguisme
    (luxembourgeois, français, allemand, portugais), codes de frontaliers ; ne pas tout ramener à la France.
@@ -284,9 +284,14 @@ conséquences réalistes**, sans sermon et sans complaisance :
   ses suites, pas le contenu) ; (d) pas de mode d'emploi opérationnel utilisable dans la vraie vie (dissimulation,
   contournement de la police, armes, etc.) : le moteur raconte « le collègue refuse » ou « le technicien installe » sans tutoriel ;
   (e) pas de violence sexuelle détaillée ; (f) pas de contenu réel diffamatoire visant une vraie personne.
-- **Curseur de dureté (demande de l'utilisateur, 22/07/2040)** : l'utilisateur est « totalement partant » pour que le moteur
-  appuie davantage sur la dureté **dans les limites ci-dessus** : conflits plus rudes, personnages plus cyniques, rancunes
-  et mauvaise foi, conséquences plus amères, humour noir, pertes réelles (argent, personnes, réputation). Toujours sans sermon. **La dureté passe par les actes et les conséquences (froideur,
+- **Curseur de dureté : RÉALISTE (décision de l'utilisateur, 01/11/2026 réel, 30/10/2041 simulé : « baisse le niveau de difficulté parce que là, c'est pas réaliste »)** :
+  le monde n'est ni hostile ni complaisant ; les issues viennent des tables, et tout détail inventé qui pèse sur le récit se tire en T26
+  (favorable 35, neutre 40, défavorable 25) ; plus de frictions ajoutées « pour le principe », plus de contretemps inventés en série ; les bonnes
+  nouvelles tirées se jouent pleinement, comme les mauvaises. Le conseiller signale un risque quand il existe, pas à chaque idée.
+  *(Avant : curseur au maximum, demande du 22/07/2040 : l'utilisateur était « totalement partant » pour que le moteur appuie davantage sur la
+  dureté dans les limites ci-dessus : conflits plus rudes, personnages plus cyniques, rancunes et mauvaise foi, conséquences plus amères, humour noir,
+  pertes réelles. Audit du 01/11/2026 : ordres exécutés sans discuter 12 sur 24 pour 70 % attendus, réactions froides des pairs 5 sur 12 pour 20 %
+  attendus, et surtout des détails inventés presque tous défavorables.)* Toujours sans sermon. **La dureté passe par les actes et les conséquences (froideur,
   distance, trahisons discrètes, procédures), pas par des subordonnés qui parlent au patron comme à un égal (règle 15).**
 - **Calibrage des réactions (rappel réalisme du 23/07/2040)** : l'argent, le statut, le physique et l'attirance de William augmentent
   réellement les chances d'un intérêt, sincère ou calculé ; la hiérarchie peut aussi faire céder sans désir ; rien n'est automatique
@@ -331,6 +336,7 @@ présente une **« 🔄 Revue du lundi »** pour améliorer la simulation et év
 - **Pilotage (P54 à P56, validées le 30/10/2026)** : objectifs mensuels écrits par dirigeant, fixés par Coulibaly le premier lundi du mois et repris par la notation ; aléa A43 (voiture de William) ; trois nouvelles d'Abidjan (énergie, CIE, concurrence, économie) dans chaque séance du dimanche.
 - **Vie personnelle (P57 à P59, validées le 30/10/2026)** : une invitation tirée par mois dans l'entourage de William (collègue, club, voisin ; le premier lundi du mois, jour et expéditeur tirés) ; suivi des dépenses personnelles variables du mois avec un seuil d'alerte de 600 € (courses, sorties, imprévus ; `echeancier.py budget` et cartes) ; jauge de proximité de 0 à 100 avec chaque personne de l'entourage (`etat/proximite.csv`), mise à jour au fil des échanges. **Rythme (décision de l'utilisateur, 20/10/2041) : fin des avances hebdomadaires, retour au tour par tour.**
 - **Santé, formalités, vie sociale (P60 à P62, validées le 31/10/2026)** : carnet de santé de William (`etat/sante-carnet.csv`, rubrique « Carnet de santé » de l'application Santé : vaccins, traitement antipaludéen avant chaque séjour, médecin traitant) ; démarches de voyage suivies (`outils/demarches.py`, `etat/demarches.csv` : e-visa déposé par William, délai et « deuxième passage » tirés au dépôt, réponse cachée jusqu'au jour dit, statut visible dans l'onglet Formalités de Voyages) ; calendrier social du lycée et du club (pots, anniversaires, fêtes) tiré le premier lundi du mois avec l'invitation P57 (rituels `calendrier_social` et `invitation_mois`).
+- **Équilibre du monde (P63 à P65, validées le 01/11/2026)** : table T26 pour tout détail inventé qui pèse sur le récit ; curseur de dureté réaliste (§11) ; à chaque revue mensuelle, bilan chiffré des tirages favorables, neutres et défavorables à William (`python outils/bilan_tirages.py --depuis AAAA-MM-JJ`), avec les écarts aux probabilités attendues.
 - **Friction administrative** : jet « deuxième passage demandé » à 30 % pour toute démarche à enjeu (`etat/economie.md`).
 - **Économie moins complaisante** : `etat/economie.md` (concurrence, remises, délais de paiement, signatures lentes).
 - **Dossier des traces** : `etat/traces.md` ; y ajouter chaque écrit, signature, message ou comportement de William qui peut

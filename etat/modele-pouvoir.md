@@ -429,6 +429,15 @@ Règles de rôle, sans tirage ; l'argent et le statut de William ne les achèten
 | arrive | 90 | Le chauffeur arrive. |
 | annule | 10 | Il annule avant d'arriver : nouvelle attente, prix recalculé. |
 
+### T26 — Couleur d'un détail que le moteur invente sans tirage (cause d'un retard, contenu d'une nouvelle, attitude, circonstance) (validée par l'utilisateur le 01/11/2026, P63)
+| Issue | % | En scène |
+|---|---|---|
+| favorable | 35 | Le détail sert William ou ne lui coûte rien (cause bénigne, bonne nouvelle, coup de pouce du hasard). |
+| neutre | 40 | Le détail est banal, sans effet dans un sens ou dans l'autre. |
+| defavorable | 25 | Le détail gêne William (friction, mauvaise nouvelle, contretemps). |
+
+Règle : tout détail inventé qui pèse sur le récit et qu'aucune table n'a fixé se tire ici (`jet.py --table T26 "…"`), puis s'écrit dans la couleur tirée, sans la durcir ni l'adoucir. Une issue déjà tirée ailleurs (« perdu », « à contrecœur ») n'est jamais retirée ici : seule la manière de la jouer l'est, quand elle laisse le choix.
+
 ### Modificateurs (liste fermée ; 3 au maximum par tirage ; chacun déplace des points d'une issue vers une autre)
 | Code | Tables | Effet | Quand l'appliquer |
 |---|---|---|---|
