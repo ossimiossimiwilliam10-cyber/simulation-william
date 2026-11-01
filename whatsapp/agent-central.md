@@ -950,3 +950,23 @@ Je propose le vendredi 8 novembre comme date limite.
 a) Le dispositif de suivi : oui, non, ou modifié ?
 b) Qui l'annonce : Coulibaly dès lundi, ou toi à la réunion du 5 novembre ?
 c) La demande écrite à M. Yao, avec la date du 8 novembre : je l'envoie lundi par Coulibaly, ou directement ?
+**[26/10/2041 - 09:30 (Luxembourg)] William :** Je suis toutes tes directives, y compris sur les trois décisions : je fais ce que tu me conseilles. Planifie tout ce qu'on doit mettre en place, toi et moi. Et à partir de maintenant, avant de confirmer un virement, je passe toujours par toi pour que tu valides sa pertinence, puis je valide.
+**[26/10/2041 - 09:40 (Luxembourg)] Agent central :** Entendu. Pour les trois décisions, voici ce que je retiens, puisque tu me laisses le choix :
+a) Le dispositif de suivi : oui, tel que proposé.
+b) L'annonce : Coulibaly l'apprend de moi en privé lundi, pour qu'il ne le découvre pas devant son équipe ; c'est toi qui le présentes à tous à la réunion du 5 novembre, comme la règle de la maison. Début le mercredi 6.
+c) La demande à M. Yao passe par Coulibaly, lundi, avec la date du vendredi 8 novembre. Passer par-dessus lui dès la première demande lui coûterait son autorité.
+
+Le plan complet est dans Gestion, rubrique Documents : « Plan d'action jusqu'au 31 mars 2042 ». Les grandes dates :
+- Demain : séance (gardiennage, point clients).
+- Lundi 28 : Coulibaly informé (financement jusqu'à Pâques, suivi, demande à M. Yao).
+- Mardi 29 : premier tableau de trésorerie sur treize semaines de Mariam Brou.
+- Mardi 5 novembre, 17h30 : tu annonces le suivi à la réunion.
+- Vendredi 8 : date limite de M. Yao ; la question de l'avance sur marché posée à la SGCI.
+- Mardi 12 et jeudi 14 novembre, 17h30 : premières visioconférences de vingt minutes avec chaque directeur.
+- Lundi 2 décembre : premier versement de survie, si la trésorerie le confirme.
+- Dimanche 15 décembre : le plan B écrit.
+- Lundi 31 mars : date butoir.
+
+Pour les virements, c'est noté comme règle permanente : tu m'envoies le montant, le bénéficiaire et le motif, je te réponds pertinent ou non, avec la raison, et c'est toi qui confirmes. Je garderai une trace de chaque avis.
+
+Une seule limite à cette délégation : je te conseille, je ne signe rien. Si un jour je me trompe sur un chiffre, comme sur la date du 3 janvier, c'est ta signature qui engage. Relis toujours le montant avant de confirmer.

@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 01/11/2026 11:15 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 01/11/2026 11:22 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : samedi 26/10/2041 09:16 (luxembourg, UTC+2)
+## Horloge : samedi 26/10/2041 09:40 (luxembourg, UTC+2)
 - **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 07:16 ; lisbonne 08:16 ; mindelo 06:16 ; casablanca 08:16 ; douala 08:16 ; addis 10:16 ; manille 15:16 ; paris 09:16 ; seoul 16:16 ; bresil 04:16
+- **Heure dans les autres lieux** : abidjan 07:40 ; lisbonne 08:40 ; mindelo 06:40 ; casablanca 08:40 ; douala 08:40 ; addis 10:40 ; manille 15:40 ; paris 09:40 ; seoul 16:40 ; bresil 04:40
 - **En attente de William** :
-  - Conseiller : dispositif de suivi, qui l'annonce, demande écrite à Éric Koffi Yao
+  - rien d'urgent ; séance demain
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **5 613,13 €**
@@ -17,8 +17,9 @@
 
 ## Agenda : dans les 24 heures (0)
 - rien
-## Agenda : de J+1 à J+7 (2)
+## Agenda : de J+1 à J+7 (3)
 - A156 Mon 28/10 09:00 (luxembourg) | conseiller → Mohamed Coulibaly : Informer Coulibaly que le financement jusqu'à Pâques est assuré (sans chiffres) [prevu]  — annoncé par le conseiller le 25/10 à 22h02
+- A157 Tue 29/10 18:00 (luxembourg) | Mariam Brou : Premier tableau de trésorerie sur treize semaines [prevu]  — plan d'action du 26/10/2041
 - A148 Sat 02/11 09:00 (luxembourg) | Olivier Schneider : Élagage de la haie mitoyenne par le paysagiste ; part de William : 143 € [prevu]  — accord du 20/10
 (Les lignes « NON CONNU DE WILLIAM » servent au moteur : ne jamais les montrer au joueur avant le jour dit.)
 
@@ -38,8 +39,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-10-26.md, 6 dernières lignes)
-> # Samedi 26 octobre 2041 — univers 3, 103e jour
 > - **00h00-08h35** (tour n° 171) : 08h35 — Règle de financement adoptée (A147 close, A154, A155, A156 ; EVAL003 71/100) ; nuit perturbée par la fête du voisin de droite jusqu'à 01h00 (aléa A24) ; samedi 26, William s'installe pour travailler avec le conseiller.
 > - Tour en cours à 08h35, en attente de William : **Conseiller : William doit exposer son nouveau système**.
 > - **08h35-09h16** (tour n° 172) : 09h16 — Abonnement professionnel aux modèles de dernière génération (150 €/mois, Visa Premier, K041, E018). Réponse de Thiago (19h30, A153). Le conseiller : directives pour la note (finance, stratégie), dispositif de suivi quotidien (sans géolocalisation, ARTCI), demande écrite à Éric Koffi Yao pour le 8/11 ; synthèse de Mariam reçue le 24/10 (A143 close).
 > - Tour en cours à 09h16, en attente de William : **Conseiller : dispositif de suivi, qui l'annonce, demande écrite à Éric Koffi Yao**.
+> - **09h16-09h40** (tour n° 173) : 09h40 — William suit toutes les directives ; le conseiller tranche (suivi oui ; Coulibaly informé lundi ; annonce par William le 05/11 ; demande à Yao par Coulibaly, limite 08/11) ; plan d'action PDF (D042, A157-A163) ; nouvelle règle : tout virement validé par le conseiller avant confirmation.
+> - Tour en cours à 09h40, en attente de William : **rien d'urgent ; séance demain**.
