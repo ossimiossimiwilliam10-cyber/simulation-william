@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 01/11/2026 00:37 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 01/11/2026 10:16 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : vendredi 25/10/2041 17:14 (luxembourg, UTC+2)
-- **Lieu de William** : Audun-le-Tiche (Moselle), chez William
-- **Heure dans les autres lieux** : abidjan 15:14 ; lisbonne 16:14 ; mindelo 14:14 ; casablanca 16:14 ; douala 16:14 ; addis 18:14 ; manille 23:14 ; paris 17:14 ; seoul 00:14 ; bresil 12:14
+## Horloge : vendredi 25/10/2041 18:41 (luxembourg, UTC+2)
+- **Lieu de William** : Esch-sur-Alzette, Minett Combat Club
+- **Heure dans les autres lieux** : abidjan 16:41 ; lisbonne 17:41 ; mindelo 15:41 ; casablanca 17:41 ; douala 17:41 ; addis 19:41 ; manille 00:41 ; paris 18:41 ; seoul 01:41 ; bresil 13:41
 - **En attente de William** :
-  - rien d'urgent ; club ce soir
+  - Lenny Nguyen réclame sa revanche : huit rounds
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **5 613,13 €**
@@ -40,9 +40,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-10-25.md, 6 dernières lignes)
-> # Vendredi 25 octobre 2041 — univers 3, 102e jour
-> - **00h00-16h41** (tour n° 165) : 16h41 — Pensée de William (24/10, non dite) : regrette que Kim soit peu bavarde, aurait voulu une relation sexuelle sans engagement avec elle ; note qu'il n'a pas eu de rapport depuis longtemps. Avance courte : jeudi (cours, préparation, nuit 22h30-06h05), vendredi (cours) ; aléa A22 joué : courrier de la CPAM de la Moselle (contrôle de résidence S1, avant le 30/1
-> - Tour en cours à 16h41, en attente de William : **rien d'urgent ; courrier CPAM à renvoyer avant le 30/11**.
 > - **16h41-17h14** (tour n° 166) : 17h14 — Formulaire CPAM rempli et posté (facture de gaz en justificatif ; friction tirée NON) ; A151 close, fil 10 clos. William se regarde dans le miroir (description d'après etat/william.md).
 > - Tirages du tour : jet « CPAM de la Moselle, contrôle de résidence renvoyé le 25/10 : » → NON (70,87).
 > - Tour en cours à 17h14, en attente de William : **rien d'urgent ; club ce soir**.
+> - **17h14-18h41** (tour n° 167) : 18h41 — Club du vendredi ; Lenny (présence tirée OUI) réclame sa revanche : huit rounds ; arrêt.
+> - Tirages du tour : jet « CPAM de la Moselle, contrôle de résidence renvoyé le 25/10 : » → NON (70,87) ; jet « Lenny Nguyen vient au club le vendredi 25/10 vers 18h40 » → OUI (72,57).
+> - Tour en cours à 18h41, en attente de William : **Lenny Nguyen réclame sa revanche : huit rounds**.

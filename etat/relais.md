@@ -1,48 +1,47 @@
 > Note de relais GÉNÉRÉE par `python outils/relais.py sortie` (ou `tour.py fin`) : ne pas éditer à la main. Les notes libres vont dans `etat/relais-notes.md`.
 
-# Relais de la simulation — briefing généré le 01/11/2026 00:38 (heure machine) pour Claude Opus 5.5
+# Relais de la simulation — briefing généré le 01/11/2026 10:16 (heure machine) pour Claude Opus 5.5
 
 ## Alertes
 - aucune
 
 ## Où en est la partie
-- Horloge : vendredi 25 octobre 2041, 17h14 (luxembourg) ; tour n° 166
-- Lieu de William : Audun-le-Tiche (Moselle), chez William
-- En attente de William : rien d'urgent ; club ce soir
+- Horloge : vendredi 25 octobre 2041, 18h41 (luxembourg) ; tour n° 167
+- Lieu de William : Esch-sur-Alzette, Minett Combat Club
+- En attente de William : Lenny Nguyen réclame sa revanche : huit rounds
 
 ## Dernier tour montré au joueur (etat/dernier-tour.md)
 # Dernier tour montré au joueur
 
-> Tour n° 166 ; horloge 25/10/2041 16:41 -> 25/10/2041 17:14 ; enregistré le 01/11/2026 00:37 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
+> Tour n° 167 ; horloge 25/10/2041 17:14 -> 25/10/2041 18:41 ; enregistré le 01/11/2026 10:16 (heure machine) par tour.py fin. Ce fichier est remplacé à chaque tour ; l'historique complet est dans journal/tours/.
 
 ## Message du joueur
 
-> Bon, je fais le truc de courrier de la CPAM. Après, je prends un moment pour me regarder dans un miroir et me demander si véritablement, est-ce que je suis pas un bel homme, quand même, en toute objectivité.
+> Go
 
 ## Texte envoyé au joueur
 
-**VENDREDI 25 OCTOBRE 2041 — 17h14 — Audun-le-Tiche (Moselle), chez toi, salle de bains**
+**VENDREDI 25 OCTOBRE 2041 — 18h41 — Esch-sur-Alzette, Minett Combat Club**
 
-Tu t'occupes du courrier tout de suite, sur la table de la cuisine. Le formulaire demande ton adresse, ton employeur, ton numéro d'assuré luxembourgeois et une croix : « Je réside en France de façon stable et effective ». Tu le remplis, tu le dates, tu le signes. Pour le justificatif, tu télécharges depuis ton espace client la dernière facture de gaz, celle de septembre, et tu l'imprimes. Le tout dans l'enveloppe retour de la CPAM, et, cinq minutes plus tard, dans la boîte jaune de La Poste au coin de la rue ; l'étiquette indique que la dernière levée est passée, elle partira lundi.
+Le soleil est déjà couché quand tu reprends la route ; l'air s'est refroidi d'un coup sous le ciel dégagé, et tu roules jusqu'à Lallange avec le chauffage au minimum, le sac de sport sur le siège passager. Le vendredi soir, le club est plus rempli qu'en semaine : un cours de boxe thaïe pour débutants occupe la moitié du tapis, une dizaine de jeunes en gants neufs qui frappent les paos avec plus d'enthousiasme que de technique, et le coach qui compte les séries d'une voix enrouée. Ça sent le liniment camphré et le caoutchouc chaud.
 
-De retour à la maison, tu montes te changer pour le club, et tu t'arrêtes devant le grand miroir de la salle de bains, plus longtemps que d'habitude.
+Tu as eu le temps de faire tes tours de corde et une série de mobilité quand Lenny arrive, cette fois déjà en tenue sous sa veste, une banane énergétique à moitié mangée à la main. Il te repère, contourne le groupe de débutants et vient se planter devant toi en finissant sa banane.
 
-Ce que le miroir te renvoie : un homme d'un mètre quatre-vingt-seize qui en occupe toute la hauteur, épaules larges qui débordent presque du cadre, cou épais, pectoraux et bras dessinés par douze ans de lutte et de fonte, la taille encore marquée malgré les cent kilos. Pas un corps de vitrine, sec et veiné : un corps lourd et dense de combattant, une ecchymose violette sur l'avant-bras gauche. La peau noire, mate sous la lumière froide du plafonnier. Le visage, lui, est plus ordinaire que le reste : traits réguliers, mâchoire carrée sous la barbe qui aurait besoin d'un passage chez le barbier, un front qui se plisse quand tu fronces les sourcils, des lunettes que tu portes à la maison et qui adoucissent le regard. Rien de frappant, rien de disgracieux. Tu te tiens droit sans y penser. Quand tu te racles la gorge, la voix grave résonne contre le carrelage.
+« Ce soir, c'est moi qui choisis. » Il jette la peau dans la poubelle à côté du ring, rate, va la ramasser, revient. « Huit rounds. Et cette fois, pas de pitié pour les vieux. »
 
-La chaudière se relance avec un déclic dans le placard. Le sac de sport attend sur le palier ; la séance du vendredi commence dans un peu plus d'une heure.
+Il lève les sourcils, attend.
 
-Il est 17h14.
+Il est 18h41.
 
 ---
 
 **Réponses attendues**
-- Personne ne t'attend.
+- **Lenny Nguyen** : il réclame sa revanche et choisit le nombre : huit rounds ce soir.
 
 **À faire / à fournir avant le tour suivant**
 - Rien d'urgent.
 
 **Quêtes secondaires**
-- Ce soir : club (lundi, mercredi, vendredi).
 - Vers le 1er novembre : réponse de l'industriel de Vridi à l'offre de 90 millions de FCFA.
 - Dimanche 27 octobre : séance de travail avec ton conseiller (point clients à l'ordre du jour).
 - Samedi 2 novembre : taille de la haie partagée avec ton voisin ; début des vacances de la Toussaint (jusqu'au dimanche 10 novembre).
@@ -188,10 +187,10 @@ Que veux-tu faire ?
 - Avant de passer la main : `python outils/relais.py sortie --note "…" --commit "…" --fusionner`.
 
 ## État git détaillé
-- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 453ebdb ; avance 0, retard 0
+- branche courante : claude/eloquent-mirzakhani-73acb9 ; master : 1d857ea ; avance 0, retard 0
 - worktree simulation-william : branche master ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree continuation-9f6d32 : branche claude/vigorous-jang-66b9e5 ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
-- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 13 fichier(s) modifié(s)
+- worktree eloquent-mirzakhani-73acb9 (ICI) : branche claude/eloquent-mirzakhani-73acb9 ; 0 commit(s) absents de master ; 10 fichier(s) modifié(s)
 - worktree life-simulation-resume-892e7a : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 - worktree luxembourg-teacher-salary-2031-101e49 : branche (HEAD détachée) ; 0 commit(s) absents de master ; 0 fichier(s) modifié(s)
 
