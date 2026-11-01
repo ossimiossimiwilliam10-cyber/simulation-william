@@ -1,10 +1,10 @@
-# Résumé d'état (généré le 01/11/2026 12:45 heure machine par outils/resume_etat.py : ne pas éditer à la main)
+# Résumé d'état (généré le 01/11/2026 12:48 heure machine par outils/resume_etat.py : ne pas éditer à la main)
 
-## Horloge : mercredi 30/10/2041 18:45 (luxembourg, UTC+1)
+## Horloge : mercredi 30/10/2041 18:46 (luxembourg, UTC+1)
 - **Lieu de William** : Esch-sur-Alzette, Minett Combat Club
-- **Heure dans les autres lieux** : abidjan 17:45 ; lisbonne 17:45 ; mindelo 16:45 ; casablanca 18:45 ; douala 18:45 ; addis 20:45 ; manille 01:45 ; paris 18:45 ; seoul 02:45 ; bresil 14:45
+- **Heure dans les autres lieux** : abidjan 17:46 ; lisbonne 17:46 ; mindelo 16:46 ; casablanca 18:46 ; douala 18:46 ; addis 20:46 ; manille 01:46 ; paris 18:46 ; seoul 02:46 ; bresil 14:46
 - **En attente de William** :
-  - Lenny : ce que William voulait dire par « un vrai omnivore »
+  - Aller voir Thiago au bureau (malentendu « omnivore »)
 
 ## Argent (grand livre, calculé)
 - Compte courant (Spuerkeess) : **5 613,13 €**
@@ -48,9 +48,9 @@
 - Fin de tour : journal, fils ouverts, WhatsApp, fiches ; puis `python outils/tour.py fin --jusqua … --lieu … --attente … --texte <brouillon> --message …` (horloge, argent échu, météo, texte du tour, tics, résumé, base, note de relais, contrôle).
 
 ## Fin du dernier journal (2041-10-30.md, 6 dernières lignes)
-> - **17h40-18h44** (tour n° 184) : 18h44 — Décisions sur Vridi (retour demandé, contact gardé, recontact le 30/01 A173), économies de Yao, argumentaire commercial PDF (D045), courriel à Coulibaly demain (A172). Club : Lenny présent (tiré OUI) ; T26 défavorable : il rapporte que Thiago a trouvé William sec lundi (cohérent avec T15 garde_distance de Thiago).
-> - Tirages du tour : T26 → defavorable (91,47).
-> - Tour en cours à 18h44, en attente de William : **Lenny : Thiago trouve que William a été sec lundi**.
 > - **18h44-18h45** (tour n° 185) : 18h45 — William rassure Lenny ; T15 Lenny demande_explication : il demande le sens de « un vrai omnivore » ; arrêt avant la démarche vers Thiago (T15 de Thiago déjà tiré pour cette démarche : en_parle_a_d_autres, à appliquer quand William ira le voir).
 > - Tirages du tour : T15 Lenny → demande_explication (86,15) ; T15 Thiago → en_parle_a_d_autres (69,78).
 > - Tour en cours à 18h45, en attente de William : **Lenny : ce que William voulait dire par « un vrai omnivore »**.
+> - **18h45-18h46** (tour n° 186) : 18h46 — William explique « omnivore » à Lenny ; T15 accepte_volontiers : Lenny rassuré, lui conseille de le dire tel quel à Thiago.
+> - Tirages du tour : T15 Lenny → demande_explication (86,15) ; T15 Thiago → en_parle_a_d_autres (69,78) ; T15 Lenny → accepte_volontiers (37,61).
+> - Tour en cours à 18h46, en attente de William : **Aller voir Thiago au bureau (malentendu « omnivore »)**.

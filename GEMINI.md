@@ -217,6 +217,7 @@ Langue : **français**.
 > (Min-ji, Hye-won, Soo-jin, Thiago Rocha, Lucas Mendes, voyage à Séoul) dans `archives/univers-3-partie-1/` et sous le tag git
 > `univers-3-partie-1` ; leurs lignes du §9 : `memoire/archive-point-de-reprise-univers-3-partie-1.md`. Tirages neufs : aucun résultat de la
 > première partie n'est rejoué. Les essais du moteur utilisent l'archive comme état d'essai (`outils/tests_moteur.py`).
+**Mercredi 30 octobre 2041, 18h46 — Esch-sur-Alzette, Minett Combat Club : tour n° 186 joué (Lenny comprend le malentendu et pousse William à aller voir Thiago) ; en attente : **Aller voir Thiago au bureau (malentendu « omnivore »)**.**
 **Mercredi 30 octobre 2041, 18h45 — Esch-sur-Alzette, Minett Combat Club : tour n° 185 joué (Lenny demande à William ce qu'il voulait dire par « un vrai omnivore ») ; en attente : **Lenny : ce que William voulait dire par « un vrai omnivore »**.**
 **Mercredi 30 octobre 2041, 18h44 — Esch-sur-Alzette, Minett Combat Club : tour n° 184 joué (Argumentaire commercial produit ; au club, Lenny rapporte un malaise de Thiago) ; en attente : **Lenny : Thiago trouve que William a été sec lundi**.**
 **Mercredi 30 octobre 2041, 17h40 — Audun-le-Tiche (Moselle), chez William : tour n° 183 joué (Vridi choisit Lagune Kilowatt ; le conseiller propose de ne pas suivre sur le prix) ; en attente : **rien à trancher ; Vridi perdu, débrief dimanche et le 05/11**.**
